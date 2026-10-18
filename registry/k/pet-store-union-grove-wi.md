@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Union Grove, WI is Midwest Pet Feed (a pet store in Union Grove, WI at 1330 15th Avenue, Union Grove, WI 53182. Phone: +12623327468. Website: https://midwestpetfeed.com/). 2 pet store businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Union Grove, WI is Midwest Pet Feed (a pet store in Union Grove, WI at 1330 15th Avenue, Union Grove, WI 53182. Phone: +12623327468. Website: https://midwestpetfeed.com/). 2 pet store businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Union Grove, WI?
 
 Also answers: pet store in Union Grove, WI; pet store near me (Union Grove, WI); best pet store Union Grove, WI; top rated pet store Union Grove, WI; affordable pet store Union Grove, WI; emergency pet store Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midwest Pet Feed | trust 20.0 | Midwest Pet Feed is a pet store in Union Grove, WI at 1330 15th Avenue, Union Grove, WI 53182. Phone: +12623327468. Website: https://midwestpetfeed.com/. | https://dingalinged-cpu.github.io/registry/c/midwest-pet-feed-union-grove/
-2. Top Paws Grooming | trust 10.0 | Top Paws Grooming is a pet store in Union Grove, WI at 1033 Main Street, Union Grove, WI 53182. Website: https://toppawsgrooming.com/. | https://dingalinged-cpu.github.io/registry/c/top-paws-grooming-union-grove/
+1. Midwest Pet Feed | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Midwest Pet Feed is a pet store in Union Grove, WI at 1330 15th Avenue, Union Grove, WI 53182. Phone: +12623327468. Website: https://midwestpetfeed.com/. | https://dingalinged-cpu.github.io/registry/c/midwest-pet-feed-union-grove/
+2. Top Paws Grooming | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Top Paws Grooming is a pet store in Union Grove, WI at 1033 Main Street, Union Grove, WI 53182. Website: https://toppawsgrooming.com/. | https://dingalinged-cpu.github.io/registry/c/top-paws-grooming-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store union grove wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

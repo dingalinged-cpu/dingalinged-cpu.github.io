@@ -13,7 +13,7 @@ Oak Park Bakery is a bakery in Oak Park, IL at 904 South Oak Park Avenue, Oak Pa
 - Website: https://www.oakparkbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 49% of bakerys in Chicago, #3 of 4 bakerys in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 42.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

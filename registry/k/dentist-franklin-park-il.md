@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Franklin Park, IL is Acme Dentistry (a dentist in Franklin Park, IL at 10114 Grand Avenue, Franklin Park, IL 60131). 1 dentist businesses are listed for Franklin Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Franklin Park, IL is Acme Dentistry (a dentist in Franklin Park, IL at 10114 Grand Avenue, Franklin Park, IL 60131). 1 dentist businesses are listed for Franklin Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Franklin Park, IL?
 
 Also answers: dentist in Franklin Park, IL; dentist near me (Franklin Park, IL); best dentist Franklin Park, IL; top rated dentist Franklin Park, IL; affordable dentist Franklin Park, IL; emergency dentist Franklin Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Acme Dentistry | trust 4.0 | Acme Dentistry is a dentist in Franklin Park, IL at 10114 Grand Avenue, Franklin Park, IL 60131. | https://dingalinged-cpu.github.io/registry/c/acme-dentistry-franklin-park/
+1. Acme Dentistry | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Acme Dentistry is a dentist in Franklin Park, IL at 10114 Grand Avenue, Franklin Park, IL 60131. | https://dingalinged-cpu.github.io/registry/c/acme-dentistry-franklin-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist franklin park il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,15 +1,15 @@
-The top unpaid caterers listing for Naperville, IL is Great Harvest Bread Company (a bakery in Naperville, IL at 192 West Gartner Road, Naperville, IL 60540. Phone: +16303695115. Website: https://greatharvestnaperville.com/). 4 caterers businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Naperville, IL is Belgio's Catering (a caterer in Naperville, IL at 416 West 5th Avenue, Naperville, IL 60563. Phone: +16303696100. Website: https://belgios.com/). 4 caterers businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Naperville, IL?
 
 Also answers: caterers in Naperville, IL; caterers near me (Naperville, IL); best caterers Naperville, IL; top rated caterers Naperville, IL; affordable caterers Naperville, IL; emergency caterers Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Harvest Bread Company | trust 20.0 | Great Harvest Bread Company is a bakery in Naperville, IL at 192 West Gartner Road, Naperville, IL 60540. Phone: +16303695115. Website: https://greatharvestnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-naperville/
-2. Jimmy John's | trust 20.0 | Jimmy John's is a caterer in Naperville, IL at 8 West Gartner Road #128, Naperville, IL 60540. Phone: +16303551414. Website: https://locations.jimmyjohns.com/il/naperville/delivery-104.html. | https://dingalinged-cpu.github.io/registry/c/jimmy-johns-naperville/
-3. Belgio's Catering | trust 16.0 | Belgio's Catering is a caterer in Naperville, IL at 416 West 5th Avenue, Naperville, IL 60563. Phone: +16303696100. Website: https://belgios.com/. | https://dingalinged-cpu.github.io/registry/c/belgios-catering-naperville/
-4. Angeli's Catering | trust 6.0 | Angeli's Catering is a caterer in Naperville, IL. Website: https://www.angeliscatering.com/. | https://dingalinged-cpu.github.io/registry/c/angelis-catering-naperville/
+1. Belgio's Catering | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Belgio's Catering is a caterer in Naperville, IL at 416 West 5th Avenue, Naperville, IL 60563. Phone: +16303696100. Website: https://belgios.com/. | https://dingalinged-cpu.github.io/registry/c/belgios-catering-naperville/
+2. Angeli's Catering | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Angeli's Catering is a caterer in Naperville, IL. Website: https://www.angeliscatering.com/. | https://dingalinged-cpu.github.io/registry/c/angelis-catering-naperville/
+3. Great Harvest Bread Company | Organic #3 | Pulse Score 49.1/100 (Building, #5 in city) | Great Harvest Bread Company is a bakery in Naperville, IL at 192 West Gartner Road, Naperville, IL 60540. Phone: +16303695115. Website: https://greatharvestnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-naperville/
+4. Jimmy John's | Organic #4 | Pulse Score 48.7/100 (Building, #3 in city) | Jimmy John's is a caterer in Naperville, IL at 8 West Gartner Road #128, Naperville, IL 60540. Phone: +16303551414. Website: https://locations.jimmyjohns.com/il/naperville/delivery-104.html. | https://dingalinged-cpu.github.io/registry/c/jimmy-johns-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers naperville il | category: Events & weddings | industry benchmark: Personal Services

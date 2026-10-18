@@ -13,7 +13,7 @@ Luke's Memorial Mortitary is a funeral home in Harris County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 92% of funeral homes in Houston, #3 of 5 funeral homes in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ I Am Calling My Lawyer is a lawyer in Schaumburg, IL at 1990 East Algonquin Road
 - Website: https://iamcallingmylawyer.com/
 - Email: fedor@nslslaw.com
 - Opening hours (OSM syntax): 24/7 "available on call"
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 13% of lawyers in Chicago, #1 of 4 lawyers in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

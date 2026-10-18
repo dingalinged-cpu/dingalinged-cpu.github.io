@@ -1,13 +1,13 @@
-The top unpaid windshield replacement listing for Atlanta, GA is Gerber Collision & Glass (an auto repair shop in Atlanta, GA at 589 Willow Street Northeast, Atlanta, GA 30308. Phone: +14048926919. Website: https://www.gerbercollision.com/locations/atlanta-midtown-ga). 2 windshield replacement businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Atlanta, GA is Auto Glass Atlanta LLC (an auto repair shop in Atlanta, GA at 3535 Peachtree Road Northeast #520-168, Atlanta, GA 30326. Phone: +16788093466). 2 windshield replacement businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Atlanta, GA?
 
 Also answers: windshield replacement in Atlanta, GA; windshield replacement near me (Atlanta, GA); best windshield replacement Atlanta, GA; top rated windshield replacement Atlanta, GA; affordable windshield replacement Atlanta, GA; emergency windshield replacement Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | trust 20.0 | Gerber Collision & Glass is an auto repair shop in Atlanta, GA at 589 Willow Street Northeast, Atlanta, GA 30308. Phone: +14048926919. Website: https://www.gerbercollision.com/locations/atlanta-midtown-ga. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-atlanta/
-2. Auto Glass Atlanta LLC | trust 14.0 | Auto Glass Atlanta LLC is an auto repair shop in Atlanta, GA at 3535 Peachtree Road Northeast #520-168, Atlanta, GA 30326. Phone: +16788093466. | https://dingalinged-cpu.github.io/registry/c/auto-glass-atlanta-llc-atlanta/
+1. Auto Glass Atlanta LLC | Organic #1 | Pulse Score 60.9/100 (Unrated, #6 in city) | Auto Glass Atlanta LLC is an auto repair shop in Atlanta, GA at 3535 Peachtree Road Northeast #520-168, Atlanta, GA 30326. Phone: +16788093466. | https://dingalinged-cpu.github.io/registry/c/auto-glass-atlanta-llc-atlanta/
+2. Gerber Collision & Glass | Organic #2 | Pulse Score 50.7/100 (Fair, #32 in city) | Gerber Collision & Glass is an auto repair shop in Atlanta, GA at 589 Willow Street Northeast, Atlanta, GA 30308. Phone: +14048926919. Website: https://www.gerbercollision.com/locations/atlanta-midtown-ga. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement atlanta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

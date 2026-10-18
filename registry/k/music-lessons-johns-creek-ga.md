@@ -1,14 +1,14 @@
-The top unpaid music lessons listing for Johns Creek, GA is muzik21 (a music school in Johns Creek, GA at 10700 State Bridge Road #12, Johns Creek, GA 30022. Phone: +14042456133. Website: https://musik21.com/). 3 music lessons businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Johns Creek, GA is muzik21 (a music school in Johns Creek, GA at 10700 State Bridge Road #12, Johns Creek, GA 30022. Phone: +14042456133. Website: https://musik21.com/). 3 music lessons businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Johns Creek, GA?
 
 Also answers: music lessons in Johns Creek, GA; music lessons near me (Johns Creek, GA); best music lessons Johns Creek, GA; top rated music lessons Johns Creek, GA; affordable music lessons Johns Creek, GA; emergency music lessons Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. muzik21 | trust 16.0 | muzik21 is a music school in Johns Creek, GA at 10700 State Bridge Road #12, Johns Creek, GA 30022. Phone: +14042456133. Website: https://musik21.com/. | https://dingalinged-cpu.github.io/registry/c/muzik21-johns-creek/
-2. The Music Class | trust 6.0 | The Music Class is a music school in Johns Creek, GA. Website: https://themusicclass.com/. | https://dingalinged-cpu.github.io/registry/c/the-music-class-johns-creek/
-3. Thunder Road Music School | trust 0.0 | Thunder Road Music School is a music school in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/thunder-road-music-school-johns-creek/
+1. muzik21 | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | muzik21 is a music school in Johns Creek, GA at 10700 State Bridge Road #12, Johns Creek, GA 30022. Phone: +14042456133. Website: https://musik21.com/. | https://dingalinged-cpu.github.io/registry/c/muzik21-johns-creek/
+2. The Music Class | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | The Music Class is a music school in Johns Creek, GA. Website: https://themusicclass.com/. | https://dingalinged-cpu.github.io/registry/c/the-music-class-johns-creek/
+3. Thunder Road Music School | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Thunder Road Music School is a music school in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/thunder-road-music-school-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons johns creek ga | category: Education & childcare | industry benchmark: Education & Instruction

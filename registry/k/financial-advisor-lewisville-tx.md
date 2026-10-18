@@ -1,15 +1,15 @@
-The top unpaid financial advisor listing for Lewisville, TX is Lake Dallas Financial (a financial advisor in Lewisville, TX. Phone: +19402029838). 4 financial advisor businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Lewisville, TX is Lake Dallas Financial (a financial advisor in Lewisville, TX. Phone: +19402029838). 4 financial advisor businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Lewisville, TX?
 
 Also answers: financial advisor in Lewisville, TX; financial advisor near me (Lewisville, TX); best financial advisor Lewisville, TX; top rated financial advisor Lewisville, TX; affordable financial advisor Lewisville, TX; emergency financial advisor Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Dallas Financial | trust 10.0 | Lake Dallas Financial is a financial advisor in Lewisville, TX. Phone: +19402029838. | https://dingalinged-cpu.github.io/registry/c/lake-dallas-financial-lewisville/
-2. Edward Jones | trust 6.0 | Edward Jones is a financial advisor in Lewisville, TX. Phone: +19722216163. | https://dingalinged-cpu.github.io/registry/c/edward-jones-lewisville/
-3. Clark & Associates | trust 0.0 | Clark & Associates is a financial advisor in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/clark-and-associates-lewisville/
-4. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-lewisville-n13954410450/
+1. Lake Dallas Financial | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Lake Dallas Financial is a financial advisor in Lewisville, TX. Phone: +19402029838. | https://dingalinged-cpu.github.io/registry/c/lake-dallas-financial-lewisville/
+2. Clark & Associates | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Clark & Associates is a financial advisor in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/clark-and-associates-lewisville/
+3. Edward Jones | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Edward Jones is a financial advisor in Lewisville, TX. Phone: +19722216163. | https://dingalinged-cpu.github.io/registry/c/edward-jones-lewisville/
+4. Edward Jones | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Edward Jones is a financial advisor in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-lewisville-n13954410450/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

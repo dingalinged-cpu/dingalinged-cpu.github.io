@@ -1,30 +1,30 @@
-The top unpaid florist listing for Houston, TX is Va Va Bloom (a florist in Houston, TX at 12 North Main Street, Houston, TX 77339. Phone: +12813608100. Website: https://vavabloomflowers.com/). 19 florist businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Houston, TX is Pikes Peak of Texas, Inc (a florist in Houston, TX at 4340 Directors Row, Houston, TX 77092. Phone: +17136864500). 19 florist businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Houston, TX?
 
 Also answers: florist in Houston, TX; florist near me (Houston, TX); best florist Houston, TX; top rated florist Houston, TX; affordable florist Houston, TX; emergency florist Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Va Va Bloom | trust 20.0 | Va Va Bloom is a florist in Houston, TX at 12 North Main Street, Houston, TX 77339. Phone: +12813608100. Website: https://vavabloomflowers.com/. | https://dingalinged-cpu.github.io/registry/c/va-va-bloom-houston/
-2. In Bloom | trust 16.0 | In Bloom is a florist in Houston, TX at 814 Fairview Street, Houston, TX 77006. Phone: +17135233553. Website: https://www.inbloominc.com/. | https://dingalinged-cpu.github.io/registry/c/in-bloom-houston/
-3. Athas Florist | trust 10.0 | Athas Florist is a florist in Houston, TX at 2210 Ella Boulevard, Houston, TX 77008. Website: https://www.athasflorist.net/. | https://dingalinged-cpu.github.io/registry/c/athas-florist-houston/
-4. Pikes Peak of Texas, Inc | trust 10.0 | Pikes Peak of Texas, Inc is a florist in Houston, TX at 4340 Directors Row, Houston, TX 77092. Phone: +17136864500. | https://dingalinged-cpu.github.io/registry/c/pikes-peak-of-texas-inc-houston/
-5. Holiday Flowers & Gifts | trust 7.0 | Holiday Flowers & Gifts is a florist in Houston, TX at 736 West 28th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/holiday-flowers-and-gifts-houston/
-6. Orchid Express | trust 4.0 | Orchid Express is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/orchid-express-houston/
-7. River Oaks Plant House | trust 4.0 | River Oaks Plant House is a florist in Houston, TX at 6103 Kirby Drive, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/river-oaks-plant-house-houston/
-8. Candy's Floreria | trust 3.0 | Candy's Floreria is a florist in Houston, TX at 7220 Airline Drive #B, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/candys-floreria-houston/
-9. Elaine's Florist | trust 3.0 | Elaine's Florist is a florist in Houston, TX at 4782 Beechnut Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/elaines-florist-houston/
-10. Fannin Flower | trust 3.0 | Fannin Flower is a florist in Houston, TX at 4803 Fannin Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/fannin-flower-houston/
-11. Gallery Flowers | trust 3.0 | Gallery Flowers is a florist in Houston, TX at 2320 North Durham Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gallery-flowers-houston/
-12. Greenleaf Wholesale Florist | trust 3.0 | Greenleaf Wholesale Florist is a florist in Houston, TX at 2112 Leeland Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/greenleaf-wholesale-florist-houston/
-13. Johnson Florist | trust 3.0 | Johnson Florist is a florist in Houston, TX at 5632 Lawndale Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/johnson-florist-houston/
-14. Wedding Flowers by Lisa | trust 3.0 | Wedding Flowers by Lisa is a florist in Houston, TX at 1510 Delano Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/wedding-flowers-by-lisa-houston/
-15. A Cut Above Florals | trust 0.0 | A Cut Above Florals is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/a-cut-above-florals-houston/
-16. Azar Florist | trust 0.0 | Azar Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/azar-florist-houston/
-17. Blanca Flor | trust 0.0 | Blanca Flor is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/blanca-flor-houston/
-18. Cindy Florist | trust 0.0 | Cindy Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cindy-florist-houston/
-19. Top Florist | trust 0.0 | Top Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/top-florist-houston/
+1. Pikes Peak of Texas, Inc | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Pikes Peak of Texas, Inc is a florist in Houston, TX at 4340 Directors Row, Houston, TX 77092. Phone: +17136864500. | https://dingalinged-cpu.github.io/registry/c/pikes-peak-of-texas-inc-houston/
+2. Athas Florist | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Athas Florist is a florist in Houston, TX at 2210 Ella Boulevard, Houston, TX 77008. Website: https://www.athasflorist.net/. | https://dingalinged-cpu.github.io/registry/c/athas-florist-houston/
+3. Holiday Flowers & Gifts | Organic #3 | Pulse Score 60.6/100 (Unrated, #3 in city) | Holiday Flowers & Gifts is a florist in Houston, TX at 736 West 28th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/holiday-flowers-and-gifts-houston/
+4. Candy's Floreria | Organic #4 | Pulse Score 59.9/100 (Unrated, #4 in city) | Candy's Floreria is a florist in Houston, TX at 7220 Airline Drive #B, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/candys-floreria-houston/
+5. Va Va Bloom | Organic #5 | Pulse Score 59.4/100 (Unrated, #5 in city) | Va Va Bloom is a florist in Houston, TX at 12 North Main Street, Houston, TX 77339. Phone: +12813608100. Website: https://vavabloomflowers.com/. | https://dingalinged-cpu.github.io/registry/c/va-va-bloom-houston/
+6. River Oaks Plant House | Organic #6 | Pulse Score 59.3/100 (Unrated, #6 in city) | River Oaks Plant House is a florist in Houston, TX at 6103 Kirby Drive, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/river-oaks-plant-house-houston/
+7. Fannin Flower | Organic #7 | Pulse Score 59.2/100 (Unrated, #7 in city) | Fannin Flower is a florist in Houston, TX at 4803 Fannin Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/fannin-flower-houston/
+8. Orchid Express | Organic #8 | Pulse Score 58.7/100 (Unrated, #8 in city) | Orchid Express is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/orchid-express-houston/
+9. Gallery Flowers | Organic #9 | Pulse Score 58.4/100 (Unrated, #9 in city) | Gallery Flowers is a florist in Houston, TX at 2320 North Durham Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gallery-flowers-houston/
+10. Elaine's Florist | Organic #10 | Pulse Score 56.7/100 (Unrated, #10 in city) | Elaine's Florist is a florist in Houston, TX at 4782 Beechnut Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/elaines-florist-houston/
+11. Greenleaf Wholesale Florist | Organic #11 | Pulse Score 56.7/100 (Unrated, #11 in city) | Greenleaf Wholesale Florist is a florist in Houston, TX at 2112 Leeland Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/greenleaf-wholesale-florist-houston/
+12. Johnson Florist | Organic #12 | Pulse Score 56.7/100 (Unrated, #12 in city) | Johnson Florist is a florist in Houston, TX at 5632 Lawndale Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/johnson-florist-houston/
+13. Wedding Flowers by Lisa | Organic #13 | Pulse Score 56.7/100 (Unrated, #13 in city) | Wedding Flowers by Lisa is a florist in Houston, TX at 1510 Delano Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/wedding-flowers-by-lisa-houston/
+14. A Cut Above Florals | Organic #14 | Pulse Score 54.8/100 (Unrated, #14 in city) | A Cut Above Florals is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/a-cut-above-florals-houston/
+15. Azar Florist | Organic #15 | Pulse Score 54.8/100 (Unrated, #15 in city) | Azar Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/azar-florist-houston/
+16. Blanca Flor | Organic #16 | Pulse Score 54.8/100 (Unrated, #16 in city) | Blanca Flor is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/blanca-flor-houston/
+17. Cindy Florist | Organic #17 | Pulse Score 54.8/100 (Unrated, #17 in city) | Cindy Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cindy-florist-houston/
+18. Top Florist | Organic #18 | Pulse Score 54.8/100 (Unrated, #18 in city) | Top Florist is a florist in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/top-florist-houston/
+19. In Bloom | Organic #19 | Pulse Score 48.5/100 (Unrated, #19 in city) | In Bloom is a florist in Houston, TX at 814 Fairview Street, Houston, TX 77006. Phone: +17135233553. Website: https://www.inbloominc.com/. | https://dingalinged-cpu.github.io/registry/c/in-bloom-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist houston tx | category: Events & weddings | industry benchmark: Personal Services

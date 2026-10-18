@@ -1,18 +1,18 @@
-The top unpaid car wash listing for Homer Glen, IL is Classic Express (a car wash in Homer Glen, IL at 12738 West 159th Street, Homer Glen, IL 60491). 7 car wash businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Homer Glen, IL is Classic Express (a car wash in Homer Glen, IL at 12738 West 159th Street, Homer Glen, IL 60491). 7 car wash businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Homer Glen, IL?
 
 Also answers: car wash in Homer Glen, IL; car wash near me (Homer Glen, IL); best car wash Homer Glen, IL; top rated car wash Homer Glen, IL; affordable car wash Homer Glen, IL; emergency car wash Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Classic Express | trust 4.0 | Classic Express is a car wash in Homer Glen, IL at 12738 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/classic-express-homer-glen/
-2. Shell | trust 4.0 | Shell is a car wash in Homer Glen, IL at 15861 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/shell-homer-glen/
-3. Softway Car Wash | trust 4.0 | Softway Car Wash is a car wash in Homer Glen, IL at 12911 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/softway-car-wash-homer-glen/
-4. Circle K | trust 0.0 | Circle K is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/circle-k-homer-glen/
-5. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen/
-6. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen-w517809226/
-7. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen-w518591414/
+1. Classic Express | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Classic Express is a car wash in Homer Glen, IL at 12738 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/classic-express-homer-glen/
+2. Softway Car Wash | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Softway Car Wash is a car wash in Homer Glen, IL at 12911 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/softway-car-wash-homer-glen/
+3. Shell | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Shell is a car wash in Homer Glen, IL at 15861 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/shell-homer-glen/
+4. Circle K | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Circle K is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/circle-k-homer-glen/
+5. Speedy Wash | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen/
+6. Speedy Wash | Organic #6 | Pulse Score 42/100 (Building, #6 in city) | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen-w517809226/
+7. Speedy Wash | Organic #7 | Pulse Score 42/100 (Building, #7 in city) | Speedy Wash is a car wash in Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-homer-glen-w518591414/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash homer glen il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

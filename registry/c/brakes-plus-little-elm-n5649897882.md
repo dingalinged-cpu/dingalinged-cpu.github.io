@@ -13,7 +13,7 @@ Brakes Plus is an auto repair shop in Little Elm, TX at 2201 Fm 423, Little Elm,
 - Website: https://www.brakesplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 62% of auto repair shops in Dallas–Fort Worth, #2 of 8 auto repair shops in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Lisle, IL is Caring Smile Dental (a dentist in Lisle, IL at 5603 Lincoln Ave, Lisle, IL 60532. Phone: +16302974002. Website: https://www.caringsmiledental.com/). 3 dentist businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lisle, IL is Caring Smile Dental (a dentist in Lisle, IL at 5603 Lincoln Ave, Lisle, IL 60532. Phone: +16302974002. Website: https://www.caringsmiledental.com/). 3 dentist businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lisle, IL?
 
 Also answers: dentist in Lisle, IL; dentist near me (Lisle, IL); best dentist Lisle, IL; top rated dentist Lisle, IL; affordable dentist Lisle, IL; emergency dentist Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caring Smile Dental | trust 20.0 | Caring Smile Dental is a dentist in Lisle, IL at 5603 Lincoln Ave, Lisle, IL 60532. Phone: +16302974002. Website: https://www.caringsmiledental.com/. | https://dingalinged-cpu.github.io/registry/c/caring-smile-dental-lisle/
-2. Brammeier Family Dental | trust 4.0 | Brammeier Family Dental is a dentist in Lisle, IL at 6448 College Road, Lisle, IL 60532. | https://dingalinged-cpu.github.io/registry/c/brammeier-family-dental-lisle/
-3. Lisle Dental Center | trust 0.0 | Lisle Dental Center is a dentist in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/lisle-dental-center-lisle/
+1. Caring Smile Dental | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Caring Smile Dental is a dentist in Lisle, IL at 5603 Lincoln Ave, Lisle, IL 60532. Phone: +16302974002. Website: https://www.caringsmiledental.com/. | https://dingalinged-cpu.github.io/registry/c/caring-smile-dental-lisle/
+2. Brammeier Family Dental | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Brammeier Family Dental is a dentist in Lisle, IL at 6448 College Road, Lisle, IL 60532. | https://dingalinged-cpu.github.io/registry/c/brammeier-family-dental-lisle/
+3. Lisle Dental Center | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Lisle Dental Center is a dentist in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/lisle-dental-center-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lisle il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

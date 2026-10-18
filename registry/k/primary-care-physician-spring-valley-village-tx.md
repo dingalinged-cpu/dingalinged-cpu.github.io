@@ -1,12 +1,12 @@
-The top unpaid primary care physician listing for Spring Valley Village, TX is First Primary Care (a family medicine practice in Houston, TX at 8584 Katy Freeway Frontage Road #210, Houston, TX 77024. Phone: +17132807991. Website: https://www.firstprimarycare.com/). 1 primary care physician businesses are listed for Spring Valley Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Spring Valley Village, TX is First Primary Care (a family medicine practice in Houston, TX at 8584 Katy Freeway Frontage Road #210, Houston, TX 77024. Phone: +17132807991. Website: https://www.firstprimarycare.com/). 1 primary care physician businesses are listed for Spring Valley Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Spring Valley Village, TX?
 
 Also answers: primary care physician in Spring Valley Village, TX; primary care physician near me (Spring Valley Village, TX); best primary care physician Spring Valley Village, TX; top rated primary care physician Spring Valley Village, TX; affordable primary care physician Spring Valley Village, TX; emergency primary care physician Spring Valley Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Primary Care | trust 20.0 | First Primary Care is a family medicine practice in Houston, TX at 8584 Katy Freeway Frontage Road #210, Houston, TX 77024. Phone: +17132807991. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-houston/
+1. First Primary Care | Organic #1 | Pulse Score 48.8/100 (Building, #9 in city) | First Primary Care is a family medicine practice in Houston, TX at 8584 Katy Freeway Frontage Road #210, Houston, TX 77024. Phone: +17132807991. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician spring valley village tx | category: Health & medical | industry benchmark: Physicians & Surgeons

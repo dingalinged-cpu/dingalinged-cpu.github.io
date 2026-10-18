@@ -1,17 +1,17 @@
-The top unpaid facial listing for Plano, TX is Minaya Beauty Spa (a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/). 6 facial businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Plano, TX is Minaya Beauty Spa (a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/). 6 facial businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Plano, TX?
 
 Also answers: facial in Plano, TX; facial near me (Plano, TX); best facial Plano, TX; top rated facial Plano, TX; affordable facial Plano, TX; emergency facial Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minaya Beauty Spa | trust 20.0 | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
-2. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Plano, TX at 2400 Preston Road #300, Plano, TX 75093. Phone: +19725962839. Website: https://www.ulta.com/stores/plano-tx-586. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-plano/
-3. BC's Salon Suites | trust 4.0 | BC's Salon Suites is a skin care studio in Plano, TX at 208 Coit Road #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/bcs-salon-suites-plano/
-4. Skin Spirit | trust 4.0 | Skin Spirit is a skin care studio in Plano, TX at 2401 Preston Road #F, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/skin-spirit-plano/
-5. Family Club Massage & Facial | trust 3.0 | Family Club Massage & Facial is a skin care studio in Plano, TX at 109 Legacy Drive #130, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/family-club-massage-and-facial-plano/
-6. Skin Laundry | trust 0.0 | Skin Laundry is a skin care studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/skin-laundry-plano/
+1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
+2. Skin Spirit | Organic #2 | Pulse Score 55.8/100 (Unrated, #1 in city) | Skin Spirit is a skin care studio in Plano, TX at 2401 Preston Road #F, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/skin-spirit-plano/
+3. Family Club Massage & Facial | Organic #3 | Pulse Score 55.6/100 (Unrated, #2 in city) | Family Club Massage & Facial is a skin care studio in Plano, TX at 109 Legacy Drive #130, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/family-club-massage-and-facial-plano/
+4. BC's Salon Suites | Organic #4 | Pulse Score 55/100 (Unrated, #3 in city) | BC's Salon Suites is a skin care studio in Plano, TX at 208 Coit Road #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/bcs-salon-suites-plano/
+5. Ulta Beauty | Organic #5 | Pulse Score 46.6/100 (Building, #4 in city) | Ulta Beauty is a skin care studio in Plano, TX at 2400 Preston Road #300, Plano, TX 75093. Phone: +19725962839. Website: https://www.ulta.com/stores/plano-tx-586. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-plano/
+6. Skin Laundry | Organic #6 | Pulse Score 41.5/100 (Building, #5 in city) | Skin Laundry is a skin care studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/skin-laundry-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

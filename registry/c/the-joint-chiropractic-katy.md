@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Katy, TX at 27120 Fulshear Bend Driv
 - Website: https://www.thejoint.com/texas/katy/cross-creek-28105
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa-Su 10:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 68% of chiropractors in Houston, #1 of 1 chiropractors in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

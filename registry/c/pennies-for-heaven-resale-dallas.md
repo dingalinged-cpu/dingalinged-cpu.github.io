@@ -13,7 +13,7 @@ Pennies for Heaven Resale is a thrift store in Dallas, TX at 17471 Preston Road,
 - Website: https://pfhresale.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 09:00-17:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 7% of thrift stores in Dallas–Fort Worth, #2 of 33 thrift stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

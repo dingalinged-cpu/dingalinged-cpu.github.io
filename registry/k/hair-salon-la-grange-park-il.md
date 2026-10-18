@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for La Grange Park, IL is Andy's Hair Design (a hair salon in La Grange Park, IL). 4 hair salon businesses are listed for La Grange Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for La Grange Park, IL is Symmetry Hair Salon (a hair salon in La Grange Park, IL). 4 hair salon businesses are listed for La Grange Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in La Grange Park, IL?
 
 Also answers: hair salon in La Grange Park, IL; hair salon near me (La Grange Park, IL); best hair salon La Grange Park, IL; top rated hair salon La Grange Park, IL; affordable hair salon La Grange Park, IL; emergency hair salon La Grange Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Andy's Hair Design | trust 0.0 | Andy's Hair Design is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/andys-hair-design-la-grange-park/
-2. D'Dami Salon | trust 0.0 | D'Dami Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/ddami-salon-la-grange-park/
-3. Dina's Great Cuts | trust 0.0 | Dina's Great Cuts is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/dinas-great-cuts-la-grange-park/
-4. Symmetry Hair Salon | trust 0.0 | Symmetry Hair Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/symmetry-hair-salon-la-grange-park/
+1. Symmetry Hair Salon | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Symmetry Hair Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/symmetry-hair-salon-la-grange-park/
+2. Andy's Hair Design | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Andy's Hair Design is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/andys-hair-design-la-grange-park/
+3. D'Dami Salon | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | D'Dami Salon is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/ddami-salon-la-grange-park/
+4. Dina's Great Cuts | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Dina's Great Cuts is a hair salon in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/dinas-great-cuts-la-grange-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon la grange park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

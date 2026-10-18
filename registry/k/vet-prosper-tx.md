@@ -1,13 +1,13 @@
-The top unpaid vet listing for Prosper, TX is UrgentVet - Prosper (a veterinarian in Prosper, TX at 900 South Preston Road #80, Prosper, TX 75078. Phone: +14698428200. Website: https://urgentvet.com/location/prosper/). 2 vet businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Prosper, TX is UrgentVet - Prosper (a veterinarian in Prosper, TX at 900 South Preston Road #80, Prosper, TX 75078. Phone: +14698428200. Website: https://urgentvet.com/location/prosper/). 2 vet businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Prosper, TX?
 
 Also answers: vet in Prosper, TX; vet near me (Prosper, TX); best vet Prosper, TX; top rated vet Prosper, TX; affordable vet Prosper, TX; emergency vet Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UrgentVet - Prosper | trust 20.0 | UrgentVet - Prosper is a veterinarian in Prosper, TX at 900 South Preston Road #80, Prosper, TX 75078. Phone: +14698428200. Website: https://urgentvet.com/location/prosper/. | https://dingalinged-cpu.github.io/registry/c/urgentvet-prosper-prosper/
-2. CityVet | trust 3.0 | CityVet is a veterinarian in Prosper, TX at 4780 West University Drive #40, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/cityvet-prosper/
+1. UrgentVet - Prosper | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | UrgentVet - Prosper is a veterinarian in Prosper, TX at 900 South Preston Road #80, Prosper, TX 75078. Phone: +14698428200. Website: https://urgentvet.com/location/prosper/. | https://dingalinged-cpu.github.io/registry/c/urgentvet-prosper-prosper/
+2. CityVet | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | CityVet is a veterinarian in Prosper, TX at 4780 West University Drive #40, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/cityvet-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet prosper tx | category: Pets | industry benchmark: Animals & Pets

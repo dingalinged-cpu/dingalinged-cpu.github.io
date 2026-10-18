@@ -13,7 +13,7 @@ Nationwide is an insurance agent in Flower Mound, TX at 2624 Long Prairie Road #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 59% of insurance agents in Dallas–Fort Worth, #4 of 8 insurance agents in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

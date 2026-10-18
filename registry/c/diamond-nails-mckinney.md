@@ -13,7 +13,7 @@ Diamond Nails is a nail salon in McKinney, TX at 8931 Virginia Parkway, McKinney
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Dallas–Fort Worth, #1 of 12 nail salons in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

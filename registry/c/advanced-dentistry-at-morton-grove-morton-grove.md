@@ -13,7 +13,7 @@ Advanced Dentistry at Morton Grove is a dentist in Morton Grove, IL at 5821 West
 - Website: https://www.myadvanceddentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 10:00-19:00; Tu, Th 09:00-18:00; Sa 08:00-15:00
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of dentists in Chicago, #1 of 3 dentists in Morton Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

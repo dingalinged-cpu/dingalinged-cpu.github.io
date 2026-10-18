@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Montgomery County, TX is Cantera Doors (a furniture store in Montgomery County, TX). 4 furniture store businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Montgomery County, TX is Cantera Doors (a furniture store in Montgomery County, TX). 4 furniture store businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Montgomery County, TX?
 
 Also answers: furniture store in Montgomery County, TX; furniture store near me (Montgomery County, TX); best furniture store Montgomery County, TX; top rated furniture store Montgomery County, TX; affordable furniture store Montgomery County, TX; emergency furniture store Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cantera Doors | trust 0.0 | Cantera Doors is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/cantera-doors-montgomery-county/
-2. igs | trust 0.0 | igs is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/igs-montgomery-county/
-3. Madeval | trust 0.0 | Madeval is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/madeval-montgomery-county/
-4. Tipler | trust 0.0 | Tipler is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/tipler-montgomery-county/
+1. Cantera Doors | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Cantera Doors is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/cantera-doors-montgomery-county/
+2. igs | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | igs is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/igs-montgomery-county/
+3. Madeval | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Madeval is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/madeval-montgomery-county/
+4. Tipler | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tipler is a furniture store in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/tipler-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store montgomery county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

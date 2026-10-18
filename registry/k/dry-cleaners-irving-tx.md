@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Irving, TX is Custom Cleaners (a dry cleaner in Irving, TX). 4 dry cleaners businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Irving, TX is ZOOM Dry Cleaning (a dry cleaner in Irving, TX). 4 dry cleaners businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Irving, TX?
 
 Also answers: dry cleaners in Irving, TX; dry cleaners near me (Irving, TX); best dry cleaners Irving, TX; top rated dry cleaners Irving, TX; affordable dry cleaners Irving, TX; emergency dry cleaners Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Cleaners | trust 0.0 | Custom Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/custom-cleaners-irving/
-2. Friendly Cleaners | trust 0.0 | Friendly Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/friendly-cleaners-irving/
-3. K Cleaners & Tailor | trust 0.0 | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/k-cleaners-and-tailor-irving/
-4. ZOOM Dry Cleaning | trust 0.0 | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/zoom-dry-cleaning-irving/
+1. ZOOM Dry Cleaning | Organic #1 | Pulse Score 59.3/100 (Fair, #1 in city) | ZOOM Dry Cleaning is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/zoom-dry-cleaning-irving/
+2. Custom Cleaners | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Custom Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/custom-cleaners-irving/
+3. Friendly Cleaners | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Friendly Cleaners is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/friendly-cleaners-irving/
+4. K Cleaners & Tailor | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | K Cleaners & Tailor is a dry cleaner in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/k-cleaners-and-tailor-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance

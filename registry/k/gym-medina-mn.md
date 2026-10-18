@@ -1,12 +1,12 @@
-The top unpaid gym listing for Medina, MN is Anytime Fitness (a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/). 1 gym businesses are listed for Medina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Medina, MN is Anytime Fitness (a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/). 1 gym businesses are listed for Medina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Medina, MN?
 
 Also answers: gym in Medina, MN; gym near me (Medina, MN); best gym Medina, MN; top rated gym Medina, MN; affordable gym Medina, MN; emergency gym Medina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-medina/
+1. Anytime Fitness | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Anytime Fitness is a gym in Medina, MN at 5145 County Road 101 #1010, Medina, MN 55340. Phone: +17634788881. Website: https://www.anytimefitness.com/gyms/795/medina-mn-55340/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-medina/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym medina mn | category: Fitness | industry benchmark: Health & Fitness

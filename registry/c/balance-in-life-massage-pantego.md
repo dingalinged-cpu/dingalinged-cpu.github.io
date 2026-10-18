@@ -13,7 +13,7 @@ Balance In Life Massage is a massage studio in Pantego, TX at 3630 West Pioneer 
 - Website: n/a
 - Email: burrisjasmin@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-16:00
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 2% of massage studios in Dallas–Fort Worth, #1 of 1 massage studios in Pantego (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

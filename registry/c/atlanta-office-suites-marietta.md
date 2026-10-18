@@ -13,7 +13,7 @@ Atlanta Office Suites is a coworking space in Marietta, GA at 119 Powers Ferry R
 - Website: https://www.atlantaofficesuites.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-21:00; Sa 10:00-16:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 19% of coworking spaces in Atlanta, #1 of 1 coworking spaces in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid phone repair listing for Dallas, TX is uBreakiFix (a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison). 3 phone repair businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Dallas, TX is Onsite Cellular Repair (a phone repair shop in Dallas, TX. Phone: +12142659171. Website: https://onsitecellularrepair.com/). 3 phone repair businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Dallas, TX?
 
 Also answers: phone repair in Dallas, TX; phone repair near me (Dallas, TX); best phone repair Dallas, TX; top rated phone repair Dallas, TX; affordable phone repair Dallas, TX; emergency phone repair Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 14.0 | uBreakiFix is a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-dallas/
-2. Onsite Cellular Repair | trust 12.0 | Onsite Cellular Repair is a phone repair shop in Dallas, TX. Phone: +12142659171. Website: https://onsitecellularrepair.com/. | https://dingalinged-cpu.github.io/registry/c/onsite-cellular-repair-dallas/
-3. Cell Phone Repair | trust 7.0 | Cell Phone Repair is a phone repair shop in Dallas, TX at 8347 Park Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-dallas/
+1. Onsite Cellular Repair | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Onsite Cellular Repair is a phone repair shop in Dallas, TX. Phone: +12142659171. Website: https://onsitecellularrepair.com/. | https://dingalinged-cpu.github.io/registry/c/onsite-cellular-repair-dallas/
+2. uBreakiFix | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | uBreakiFix is a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-dallas/
+3. Cell Phone Repair | Organic #3 | Pulse Score 46/100 (Building, #3 in city) | Cell Phone Repair is a phone repair shop in Dallas, TX at 8347 Park Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair dallas tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

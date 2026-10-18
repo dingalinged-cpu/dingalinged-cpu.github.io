@@ -1,12 +1,12 @@
-The top unpaid audiologist listing for New Berlin, WI is Hart Hearing Care Center (an audiologist in New Berlin, WI at 15425 West National Avenue, New Berlin, WI 53151). 1 audiologist businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for New Berlin, WI is Hart Hearing Care Center (an audiologist in New Berlin, WI at 15425 West National Avenue, New Berlin, WI 53151). 1 audiologist businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in New Berlin, WI?
 
 Also answers: audiologist in New Berlin, WI; audiologist near me (New Berlin, WI); best audiologist New Berlin, WI; top rated audiologist New Berlin, WI; affordable audiologist New Berlin, WI; emergency audiologist New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hart Hearing Care Center | trust 4.0 | Hart Hearing Care Center is an audiologist in New Berlin, WI at 15425 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/hart-hearing-care-center-new-berlin/
+1. Hart Hearing Care Center | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Hart Hearing Care Center is an audiologist in New Berlin, WI at 15425 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/hart-hearing-care-center-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist new berlin wi | category: Health & medical | industry benchmark: Physicians & Surgeons

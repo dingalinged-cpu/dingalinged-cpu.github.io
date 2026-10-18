@@ -13,7 +13,7 @@ Precision Pilates is a pilates studio in Wauwatosa, WI at 11702 West North Avenu
 - Website: https://www.ppmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 50% of pilates studios in Milwaukee, #1 of 2 pilates studios in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

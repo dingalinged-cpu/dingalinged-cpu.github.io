@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Lemont Township, IL is Belle De Jour Salon (a hair salon in Lemont Township, IL). 3 haircut businesses are listed for Lemont Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Lemont Township, IL is Belle De Jour Salon (a hair salon in Lemont Township, IL). 3 haircut businesses are listed for Lemont Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Lemont Township, IL?
 
 Also answers: haircut in Lemont Township, IL; haircut near me (Lemont Township, IL); best haircut Lemont Township, IL; top rated haircut Lemont Township, IL; affordable haircut Lemont Township, IL; emergency haircut Lemont Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Belle De Jour Salon | trust 0.0 | Belle De Jour Salon is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/belle-de-jour-salon-lemont-township/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-lemont-township/
-3. Salon 312 | trust 0.0 | Salon 312 is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/salon-312-lemont-township/
+1. Belle De Jour Salon | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Belle De Jour Salon is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/belle-de-jour-salon-lemont-township/
+2. Salon 312 | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Salon 312 is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/salon-312-lemont-township/
+3. Great Clips | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Great Clips is a hair salon in Lemont Township, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-lemont-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut lemont township il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

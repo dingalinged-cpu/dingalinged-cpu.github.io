@@ -13,7 +13,7 @@ Granado's Tire Shop is a tire shop in Houston, TX at 6030 Airline Drive, Houston
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 8% of tire shops in Houston, #9 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 46.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,20 +1,20 @@
-The top unpaid florist listing for Madison, WI is Lily Forest Designs (a florist in Madison, WI at 1252 Williamson Street, Madison, WI 53703. Phone: +16085568400). 9 florist businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Madison, WI is Lily Forest Designs (a florist in Madison, WI at 1252 Williamson Street, Madison, WI 53703. Phone: +16085568400). 9 florist businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Madison, WI?
 
 Also answers: florist in Madison, WI; florist near me (Madison, WI); best florist Madison, WI; top rated florist Madison, WI; affordable florist Madison, WI; emergency florist Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lily Forest Designs | trust 14.0 | Lily Forest Designs is a florist in Madison, WI at 1252 Williamson Street, Madison, WI 53703. Phone: +16085568400. | https://dingalinged-cpu.github.io/registry/c/lily-forest-designs-madison/
-2. Felly's Flowers | trust 10.0 | Felly's Flowers is a florist in Madison, WI at 205 East Broadway, Madison, WI 53716. Website: https://www.fellys.net/. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison-w105564884/
-3. Red Square Flowers | trust 8.0 | Red Square Flowers is a florist in Madison, WI at 119 State Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/red-square-flowers-madison-n12926924226/
-4. MSN Plant Collective | trust 7.0 | MSN Plant Collective is a florist in Madison, WI at 1817 Monroe Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/msn-plant-collective-madison/
-5. Red Square Flowers | trust 7.0 | Red Square Flowers is a florist in Madison, WI at 337 West Mifflin Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/red-square-flowers-madison/
-6. Daffodil Parker | trust 4.0 | Daffodil Parker is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/daffodil-parker-madison/
-7. Choles Floral | trust 0.0 | Choles Floral is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/choles-floral-madison/
-8. Felly's Flowers | trust 0.0 | Felly's Flowers is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison/
-9. Felly's Flowers | trust 0.0 | Felly's Flowers is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison-w383560251/
+1. Lily Forest Designs | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Lily Forest Designs is a florist in Madison, WI at 1252 Williamson Street, Madison, WI 53703. Phone: +16085568400. | https://dingalinged-cpu.github.io/registry/c/lily-forest-designs-madison/
+2. Red Square Flowers | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Red Square Flowers is a florist in Madison, WI at 119 State Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/red-square-flowers-madison-n12926924226/
+3. Red Square Flowers | Organic #3 | Pulse Score 60.6/100 (Unrated, #3 in city) | Red Square Flowers is a florist in Madison, WI at 337 West Mifflin Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/red-square-flowers-madison/
+4. Daffodil Parker | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Daffodil Parker is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/daffodil-parker-madison/
+5. MSN Plant Collective | Organic #5 | Pulse Score 58.8/100 (Unrated, #5 in city) | MSN Plant Collective is a florist in Madison, WI at 1817 Monroe Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/msn-plant-collective-madison/
+6. Choles Floral | Organic #6 | Pulse Score 57/100 (Unrated, #6 in city) | Choles Floral is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/choles-floral-madison/
+7. Felly's Flowers | Organic #7 | Pulse Score 47.6/100 (Unrated, #7 in city) | Felly's Flowers is a florist in Madison, WI at 205 East Broadway, Madison, WI 53716. Website: https://www.fellys.net/. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison-w105564884/
+8. Felly's Flowers | Organic #8 | Pulse Score 45.9/100 (Unrated, #8 in city) | Felly's Flowers is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison-w383560251/
+9. Felly's Flowers | Organic #9 | Pulse Score 43.3/100 (Unrated, #9 in city) | Felly's Flowers is a florist in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/fellys-flowers-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist madison wi | category: Events & weddings | industry benchmark: Personal Services

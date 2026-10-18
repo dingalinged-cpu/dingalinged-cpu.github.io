@@ -13,7 +13,7 @@ JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenf
 - Website: https://jrsbuygold.com/
 - Email: Jrsjewelryshop@Jrsbuygold.Com
 - Opening hours (OSM syntax): Mo-Th 13:00-19:00; Fr 14:00-19:00; Sa 14:00-18:00; Su off
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of jewelry stores in Milwaukee, #1 of 3 jewelry stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

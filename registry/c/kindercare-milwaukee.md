@@ -13,7 +13,7 @@ KinderCare is a preschool in Milwaukee, WI at 6835,6845 North 76th Street, Milwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 85% of preschools in Milwaukee, #18 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

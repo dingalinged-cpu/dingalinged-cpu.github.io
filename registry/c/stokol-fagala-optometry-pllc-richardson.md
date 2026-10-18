@@ -13,7 +13,7 @@ Stokol + Fagala Optometry PLLC is an eye care practice in Richardson, TX at 1301
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 60% of eye care practices in Dallas–Fort Worth, #1 of 3 eye care practices in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

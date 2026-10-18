@@ -13,7 +13,7 @@ Law Office Of Timothy J. Johns is a lawyer in Park Ridge, IL at 444 North Northw
 - Website: https://www.lawofficeoftimothyjjohns.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 33% of lawyers in Chicago, #1 of 1 lawyers in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

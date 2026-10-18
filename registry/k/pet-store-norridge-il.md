@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Norridge, IL is Petco (a pet store in Norridge, IL at 4161 North Harlem Avenue, Norridge, IL 60706. Phone: +17084578603. Website: https://stores.petco.com/il/norridge/pet-supplies-norridge-il-1980.html). 2 pet store businesses are listed for Norridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Norridge, IL is Coral Reef Pet Center (a pet store in Norridge, IL at 7723 West Lawrence Avenue, Norridge, IL 60706). 2 pet store businesses are listed for Norridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Norridge, IL?
 
 Also answers: pet store in Norridge, IL; pet store near me (Norridge, IL); best pet store Norridge, IL; top rated pet store Norridge, IL; affordable pet store Norridge, IL; emergency pet store Norridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Norridge, IL at 4161 North Harlem Avenue, Norridge, IL 60706. Phone: +17084578603. Website: https://stores.petco.com/il/norridge/pet-supplies-norridge-il-1980.html. | https://dingalinged-cpu.github.io/registry/c/petco-norridge/
-2. Coral Reef Pet Center | trust 4.0 | Coral Reef Pet Center is a pet store in Norridge, IL at 7723 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/coral-reef-pet-center-norridge/
+1. Coral Reef Pet Center | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Coral Reef Pet Center is a pet store in Norridge, IL at 7723 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/coral-reef-pet-center-norridge/
+2. Petco | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Petco is a pet store in Norridge, IL at 4161 North Harlem Avenue, Norridge, IL 60706. Phone: +17084578603. Website: https://stores.petco.com/il/norridge/pet-supplies-norridge-il-1980.html. | https://dingalinged-cpu.github.io/registry/c/petco-norridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store norridge il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Childrens Health Urgent Care is a pediatrician in Flower Mound, TX. Phone: +1972
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-21:00
-- Registry Score: 60.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 12% of pediatricians in Dallas–Fort Worth, #1 of 4 pediatricians in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

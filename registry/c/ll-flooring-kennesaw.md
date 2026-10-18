@@ -13,7 +13,7 @@ LL Flooring is a flooring company in Kennesaw, GA at 2500 Cobb Parkway, Kennesaw
 - Website: https://www.llflooring.com/stores/ga/kennesaw/2500-north-cobb-parkway
 - Email: Store080@llflooring.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su 11:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 76% of flooring companys in Atlanta, #3 of 3 flooring companys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

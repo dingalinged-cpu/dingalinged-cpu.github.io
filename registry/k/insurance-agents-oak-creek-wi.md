@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Oak Creek, WI is BWO Insurance (an insurance agent in Oak Creek, WI at 7472 South 6th Street, Oak Creek, WI 53154. Phone: +14147688100. Website: https://www.bwoinsurance.com/). 2 insurance agents businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Oak Creek, WI is BWO Insurance (an insurance agent in Oak Creek, WI at 7472 South 6th Street, Oak Creek, WI 53154. Phone: +14147688100. Website: https://www.bwoinsurance.com/). 2 insurance agents businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Oak Creek, WI?
 
 Also answers: insurance agents in Oak Creek, WI; insurance agents near me (Oak Creek, WI); best insurance agents Oak Creek, WI; top rated insurance agents Oak Creek, WI; affordable insurance agents Oak Creek, WI; emergency insurance agents Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BWO Insurance | trust 20.0 | BWO Insurance is an insurance agent in Oak Creek, WI at 7472 South 6th Street, Oak Creek, WI 53154. Phone: +14147688100. Website: https://www.bwoinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/bwo-insurance-oak-creek/
-2. Bronson Insurance Services | trust 4.0 | Bronson Insurance Services is an insurance agent in Oak Creek, WI at 2345 West Ryan Road #H, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/bronson-insurance-services-oak-creek/
+1. BWO Insurance | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | BWO Insurance is an insurance agent in Oak Creek, WI at 7472 South 6th Street, Oak Creek, WI 53154. Phone: +14147688100. Website: https://www.bwoinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/bwo-insurance-oak-creek/
+2. Bronson Insurance Services | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Bronson Insurance Services is an insurance agent in Oak Creek, WI at 2345 West Ryan Road #H, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/bronson-insurance-services-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents oak creek wi | category: insurance | industry benchmark: Finance & Insurance

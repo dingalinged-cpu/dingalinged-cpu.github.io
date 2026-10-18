@@ -13,7 +13,7 @@ mHUB is a coworking space in Chicago, IL at 1623 West Fulton Street, Chicago, IL
 - Website: https://www.mhubchicago.com/
 - Email: team@mhubchicago.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 5% of coworking spaces in Chicago, #1 of 17 coworking spaces in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 68.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

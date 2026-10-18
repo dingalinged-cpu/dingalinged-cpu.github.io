@@ -13,7 +13,7 @@ Goosehead Insurance - Bicknell Agency is an insurance agent in Plano, TX at 7950
 - Website: https://www.goosehead.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 47% of insurance agents in Dallas–Fort Worth, #9 of 17 insurance agents in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

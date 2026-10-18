@@ -13,7 +13,7 @@ DFW Diagnostics and Consulting is a therapy practice in Dallas, TX at 509 North 
 - Website: https://dfwdiag.com/
 - Email: drjenrawley@dfwdiag.com
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00 "By appointment"
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 2% of therapy practices in Dallas–Fort Worth, #1 of 10 therapy practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

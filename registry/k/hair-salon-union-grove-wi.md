@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Union Grove, WI is Bronco Barber Shop (a hair salon in Union Grove, WI at 1108 Main Street, Union Grove, WI 53182). 4 hair salon businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Union Grove, WI is Bronco Barber Shop (a hair salon in Union Grove, WI at 1108 Main Street, Union Grove, WI 53182). 4 hair salon businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Union Grove, WI?
 
 Also answers: hair salon in Union Grove, WI; hair salon near me (Union Grove, WI); best hair salon Union Grove, WI; top rated hair salon Union Grove, WI; affordable hair salon Union Grove, WI; emergency hair salon Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bronco Barber Shop | trust 4.0 | Bronco Barber Shop is a hair salon in Union Grove, WI at 1108 Main Street, Union Grove, WI 53182. | https://dingalinged-cpu.github.io/registry/c/bronco-barber-shop-union-grove/
-2. The Hair Company | trust 4.0 | The Hair Company is a hair salon in Union Grove, WI at 1104 Main Street, Union Grove, WI 53182. | https://dingalinged-cpu.github.io/registry/c/the-hair-company-union-grove/
-3. Dimensions Hair Salon | trust 0.0 | Dimensions Hair Salon is a hair salon in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/dimensions-hair-salon-union-grove/
-4. Studio 67 | trust 0.0 | Studio 67 is a hair salon in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/studio-67-union-grove/
+1. Bronco Barber Shop | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Bronco Barber Shop is a hair salon in Union Grove, WI at 1108 Main Street, Union Grove, WI 53182. | https://dingalinged-cpu.github.io/registry/c/bronco-barber-shop-union-grove/
+2. The Hair Company | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | The Hair Company is a hair salon in Union Grove, WI at 1104 Main Street, Union Grove, WI 53182. | https://dingalinged-cpu.github.io/registry/c/the-hair-company-union-grove/
+3. Dimensions Hair Salon | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Dimensions Hair Salon is a hair salon in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/dimensions-hair-salon-union-grove/
+4. Studio 67 | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Studio 67 is a hair salon in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/studio-67-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon union grove wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

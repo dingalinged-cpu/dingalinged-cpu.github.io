@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Atlanta, GA at 4920 Roswell Road Northeast, Atlanta,
 - Website: https://www.anytimefitness.com/gyms/3848/atlanta-ga-30342/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 64% of gyms in Atlanta, #30 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

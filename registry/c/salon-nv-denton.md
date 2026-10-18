@@ -13,7 +13,7 @@ Salon NV is a hair salon in Denton, TX at 315 South Locust Street #Suite 101, De
 - Website: https://www.salonnvdenton.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Dallas–Fort Worth, #9 of 28 hair salons in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

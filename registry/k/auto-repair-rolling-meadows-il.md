@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Rolling Meadows, IL is Jiffy Lube (an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008). 3 auto repair businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Rolling Meadows, IL is Express Automotive (an auto repair shop in Rolling Meadows, IL). 3 auto repair businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Rolling Meadows, IL?
 
 Also answers: auto repair in Rolling Meadows, IL; auto repair near me (Rolling Meadows, IL); best auto repair Rolling Meadows, IL; top rated auto repair Rolling Meadows, IL; affordable auto repair Rolling Meadows, IL; emergency auto repair Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-rolling-meadows/
-2. Express Automotive | trust 0.0 | Express Automotive is an auto repair shop in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/express-automotive-rolling-meadows/
-3. Midas | trust 0.0 | Midas is an auto repair shop in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/midas-rolling-meadows/
+1. Express Automotive | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Express Automotive is an auto repair shop in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/express-automotive-rolling-meadows/
+2. Jiffy Lube | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-rolling-meadows/
+3. Midas | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Midas is an auto repair shop in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/midas-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair rolling meadows il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Kookaburra Bird Shop is a pet store in Carrollton, TX at 1845 East Frankford Roa
 - Website: https://www.kookshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 9% of pet stores in Dallas–Fort Worth, #2 of 8 pet stores in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ The Hive is a hair salon in Dallas, TX at 6458 East Mockingbird Lane, Dallas, TX
 - Website: https://thehivesalondallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 08:00-17:00
-- Registry Score: 51.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Unrated (not enough evidence yet) — top 77% of hair salons in Dallas–Fort Worth, #77 of 90 hair salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

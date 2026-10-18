@@ -1,13 +1,13 @@
-The top unpaid spa listing for Kennesaw, GA is Passion Nails & Spa (a nail salon in Kennesaw, GA at 3920 Cherokee Street Northwest #104, Kennesaw, GA 30144. Phone: +17706274090). 2 spa businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Kennesaw, GA is Passion Nails & Spa (a nail salon in Kennesaw, GA at 3920 Cherokee Street Northwest #104, Kennesaw, GA 30144. Phone: +17706274090). 2 spa businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Kennesaw, GA?
 
 Also answers: spa in Kennesaw, GA; spa near me (Kennesaw, GA); best spa Kennesaw, GA; top rated spa Kennesaw, GA; affordable spa Kennesaw, GA; emergency spa Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Passion Nails & Spa | trust 14.0 | Passion Nails & Spa is a nail salon in Kennesaw, GA at 3920 Cherokee Street Northwest #104, Kennesaw, GA 30144. Phone: +17706274090. | https://dingalinged-cpu.github.io/registry/c/passion-nails-and-spa-kennesaw/
-2. Viva Medspa Lounge | trust 6.0 | Viva Medspa Lounge is a skin care studio in Kennesaw, GA. Website: https://viva-atlanta.com/. | https://dingalinged-cpu.github.io/registry/c/viva-medspa-lounge-kennesaw/
+1. Passion Nails & Spa | Organic #1 | Pulse Score 60.3/100 (Good, #6 in city) | Passion Nails & Spa is a nail salon in Kennesaw, GA at 3920 Cherokee Street Northwest #104, Kennesaw, GA 30144. Phone: +17706274090. | https://dingalinged-cpu.github.io/registry/c/passion-nails-and-spa-kennesaw/
+2. Viva Medspa Lounge | Organic #2 | Pulse Score 53.8/100 (Unrated, #1 in city) | Viva Medspa Lounge is a skin care studio in Kennesaw, GA. Website: https://viva-atlanta.com/. | https://dingalinged-cpu.github.io/registry/c/viva-medspa-lounge-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa kennesaw ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

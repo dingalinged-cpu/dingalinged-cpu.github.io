@@ -1,13 +1,13 @@
-The top unpaid marketing agency listing for Woodstock, GA is Ascend SEO Marketing (a marketing agency in Woodstock, GA at 135 Miramont Lake Drive, Woodstock, GA 30189. Phone: +17704215730. Website: https://ascendseomarketing.com/). 2 marketing agency businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Woodstock, GA is Ascend SEO Marketing (a marketing agency in Woodstock, GA at 135 Miramont Lake Drive, Woodstock, GA 30189. Phone: +17704215730. Website: https://ascendseomarketing.com/). 2 marketing agency businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Woodstock, GA?
 
 Also answers: marketing agency in Woodstock, GA; marketing agency near me (Woodstock, GA); best marketing agency Woodstock, GA; top rated marketing agency Woodstock, GA; affordable marketing agency Woodstock, GA; emergency marketing agency Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ascend SEO Marketing | trust 20.0 | Ascend SEO Marketing is a marketing agency in Woodstock, GA at 135 Miramont Lake Drive, Woodstock, GA 30189. Phone: +17704215730. Website: https://ascendseomarketing.com/. | https://dingalinged-cpu.github.io/registry/c/ascend-seo-marketing-woodstock/
-2. Creative Award and Promotions | trust 3.0 | Creative Award and Promotions is a marketing agency in Woodstock, GA at 11299 Alabama Road, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/creative-award-and-promotions-woodstock/
+1. Ascend SEO Marketing | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Ascend SEO Marketing is a marketing agency in Woodstock, GA at 135 Miramont Lake Drive, Woodstock, GA 30189. Phone: +17704215730. Website: https://ascendseomarketing.com/. | https://dingalinged-cpu.github.io/registry/c/ascend-seo-marketing-woodstock/
+2. Creative Award and Promotions | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | Creative Award and Promotions is a marketing agency in Woodstock, GA at 11299 Alabama Road, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/creative-award-and-promotions-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

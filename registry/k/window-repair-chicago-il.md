@@ -1,14 +1,14 @@
-The top unpaid window repair listing for Chicago, IL is Lakeview Glass Inc. (a window repair service in Chicago, IL at 1143 West Belmont Avenue, Chicago, IL 60657. Phone: +17738717170. Website: https://customshowers.com/). 3 window repair businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window repair listing for Chicago, IL is Lakeview Glass Inc. (a window repair service in Chicago, IL at 1143 West Belmont Avenue, Chicago, IL 60657. Phone: +17738717170. Website: https://customshowers.com/). 3 window repair businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window repair providers in Chicago, IL?
 
 Also answers: window repair in Chicago, IL; window repair near me (Chicago, IL); best window repair Chicago, IL; top rated window repair Chicago, IL; affordable window repair Chicago, IL; emergency window repair Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakeview Glass Inc. | trust 20.0 | Lakeview Glass Inc. is a window repair service in Chicago, IL at 1143 West Belmont Avenue, Chicago, IL 60657. Phone: +17738717170. Website: https://customshowers.com/. | https://dingalinged-cpu.github.io/registry/c/lakeview-glass-inc-chicago/
-2. Chicago Glass & Mirror | trust 10.0 | Chicago Glass & Mirror is a window repair service in Chicago, IL at 3956 North Elston Avenue, Chicago, IL 60618. Website: https://chicagoglassandmirror.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-glass-and-mirror-chicago/
-3. Arlington Glass & Mirrors | trust 4.0 | Arlington Glass & Mirrors is a window repair service in Chicago, IL at 4547 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/arlington-glass-and-mirrors-chicago/
+1. Lakeview Glass Inc. | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Lakeview Glass Inc. is a window repair service in Chicago, IL at 1143 West Belmont Avenue, Chicago, IL 60657. Phone: +17738717170. Website: https://customshowers.com/. | https://dingalinged-cpu.github.io/registry/c/lakeview-glass-inc-chicago/
+2. Chicago Glass & Mirror | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Chicago Glass & Mirror is a window repair service in Chicago, IL at 3956 North Elston Avenue, Chicago, IL 60618. Website: https://chicagoglassandmirror.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-glass-and-mirror-chicago/
+3. Arlington Glass & Mirrors | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Arlington Glass & Mirrors is a window repair service in Chicago, IL at 4547 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/arlington-glass-and-mirrors-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair chicago il | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

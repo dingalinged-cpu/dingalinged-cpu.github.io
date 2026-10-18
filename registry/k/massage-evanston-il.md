@@ -1,13 +1,13 @@
-The top unpaid massage listing for Evanston, IL is Lovey Nail (a massage studio in Evanston, IL at 953 Howard Street, Evanston, IL 60202. Phone: +18474919557). 2 massage businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Evanston, IL is Lovey Nail (a massage studio in Evanston, IL at 953 Howard Street, Evanston, IL 60202. Phone: +18474919557). 2 massage businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Evanston, IL?
 
 Also answers: massage in Evanston, IL; massage near me (Evanston, IL); best massage Evanston, IL; top rated massage Evanston, IL; affordable massage Evanston, IL; emergency massage Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lovey Nail | trust 14.0 | Lovey Nail is a massage studio in Evanston, IL at 953 Howard Street, Evanston, IL 60202. Phone: +18474919557. | https://dingalinged-cpu.github.io/registry/c/lovey-nail-evanston/
-2. Mama Patricia Hair Inc | trust 4.0 | Mama Patricia Hair Inc is a massage studio in Evanston, IL at 743 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/mama-patricia-hair-inc-evanston/
+1. Lovey Nail | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Lovey Nail is a massage studio in Evanston, IL at 953 Howard Street, Evanston, IL 60202. Phone: +18474919557. | https://dingalinged-cpu.github.io/registry/c/lovey-nail-evanston/
+2. Mama Patricia Hair Inc | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Mama Patricia Hair Inc is a massage studio in Evanston, IL at 743 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/mama-patricia-hair-inc-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage evanston il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

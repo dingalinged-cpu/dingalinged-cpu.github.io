@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for North Richland Hills, TX is Sparrow Eyecare (an eye care practice in North Richland Hills, TX at 8701 North Tarrant Parkway #400, North Richland Hills, TX. Phone: +16823483218). 1 eye doctor businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for North Richland Hills, TX is Sparrow Eyecare (an eye care practice in North Richland Hills, TX at 8701 North Tarrant Parkway #400, North Richland Hills, TX. Phone: +16823483218). 1 eye doctor businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in North Richland Hills, TX?
 
 Also answers: eye doctor in North Richland Hills, TX; eye doctor near me (North Richland Hills, TX); best eye doctor North Richland Hills, TX; top rated eye doctor North Richland Hills, TX; affordable eye doctor North Richland Hills, TX; emergency eye doctor North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sparrow Eyecare | trust 9.0 | Sparrow Eyecare is an eye care practice in North Richland Hills, TX at 8701 North Tarrant Parkway #400, North Richland Hills, TX. Phone: +16823483218. | https://dingalinged-cpu.github.io/registry/c/sparrow-eyecare-north-richland-hills/
+1. Sparrow Eyecare | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Sparrow Eyecare is an eye care practice in North Richland Hills, TX at 8701 North Tarrant Parkway #400, North Richland Hills, TX. Phone: +16823483218. | https://dingalinged-cpu.github.io/registry/c/sparrow-eyecare-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor north richland hills tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid plumbers listing for Lilburn, GA is Wesley Spier Septic Tanks (a plumber in Lilburn, GA). 1 plumbers businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Lilburn, GA is Wesley Spier Septic Tanks (a plumber in Lilburn, GA). 1 plumbers businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Lilburn, GA?
 
 Also answers: plumbers in Lilburn, GA; plumbers near me (Lilburn, GA); best plumbers Lilburn, GA; top rated plumbers Lilburn, GA; affordable plumbers Lilburn, GA; emergency plumbers Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wesley Spier Septic Tanks | trust 0.0 | Wesley Spier Septic Tanks is a plumber in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/wesley-spier-septic-tanks-lilburn/
+1. Wesley Spier Septic Tanks | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Wesley Spier Septic Tanks is a plumber in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/wesley-spier-septic-tanks-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers lilburn ga | category: Home Services | industry benchmark: Home & Home Improvement

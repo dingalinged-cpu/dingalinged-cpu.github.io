@@ -1,14 +1,14 @@
-The top unpaid roofer listing for Frisco, TX is American Pride Roofing (a roofer in Frisco, TX at 2591 Dallas Parkway #300, Frisco, TX 75034. Phone: +19725447660. Website: https://americanprideroofing.com/frisco-tx-roofing-company/). 3 roofer businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Frisco, TX is Elevated Roofing, LLC (a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/). 3 roofer businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Frisco, TX?
 
 Also answers: roofer in Frisco, TX; roofer near me (Frisco, TX); best roofer Frisco, TX; top rated roofer Frisco, TX; affordable roofer Frisco, TX; emergency roofer Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Pride Roofing | trust 20.0 | American Pride Roofing is a roofer in Frisco, TX at 2591 Dallas Parkway #300, Frisco, TX 75034. Phone: +19725447660. Website: https://americanprideroofing.com/frisco-tx-roofing-company/. | https://dingalinged-cpu.github.io/registry/c/american-pride-roofing-frisco/
-2. Carsa Construction & Roofing LLC | trust 20.0 | Carsa Construction & Roofing LLC is a roofer in Frisco, TX at 6136 Frisco Square Blvd #400, Frisco, TX 75034. Phone: +14699040673. Website: https://carsaconstruction.com/frisco-roofing/. | https://dingalinged-cpu.github.io/registry/c/carsa-construction-and-roofing-llc-frisco/
-3. Elevated Roofing, LLC | trust 20.0 | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://dingalinged-cpu.github.io/registry/c/elevated-roofing-llc-frisco/
+1. Elevated Roofing, LLC | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://dingalinged-cpu.github.io/registry/c/elevated-roofing-llc-frisco/
+2. Carsa Construction & Roofing LLC | Organic #2 | Pulse Score 61.1/100 (Good, #2 in city) | Carsa Construction & Roofing LLC is a roofer in Frisco, TX at 6136 Frisco Square Blvd #400, Frisco, TX 75034. Phone: +14699040673. Website: https://carsaconstruction.com/frisco-roofing/. | https://dingalinged-cpu.github.io/registry/c/carsa-construction-and-roofing-llc-frisco/
+3. American Pride Roofing | Organic #3 | Pulse Score 51.7/100 (Fair, #3 in city) | American Pride Roofing is a roofer in Frisco, TX at 2591 Dallas Parkway #300, Frisco, TX 75034. Phone: +19725447660. Website: https://americanprideroofing.com/frisco-tx-roofing-company/. | https://dingalinged-cpu.github.io/registry/c/american-pride-roofing-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer frisco tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

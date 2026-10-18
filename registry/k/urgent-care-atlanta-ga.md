@@ -1,14 +1,14 @@
-The top unpaid urgent care listing for Atlanta, GA is Atlanta Urgent Care (an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/). 3 urgent care businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Atlanta, GA is Atlanta Urgent Care (an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/). 3 urgent care businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Atlanta, GA?
 
 Also answers: urgent care in Atlanta, GA; urgent care near me (Atlanta, GA); best urgent care Atlanta, GA; top rated urgent care Atlanta, GA; affordable urgent care Atlanta, GA; emergency urgent care Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Urgent Care | trust 20.0 | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-urgent-care-atlanta/
-2. Atlanta Urgent Care | trust 8.0 | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2140 Peachtree Road Northeast #232, Atlanta, GA 30309. | https://dingalinged-cpu.github.io/registry/c/atlanta-urgent-care-atlanta-w269196175/
-3. Peachtree Immediate Care | trust 4.0 | Peachtree Immediate Care is an urgent care clinic in Atlanta, GA at 1220 Caroline Street Northeast #A-230, Atlanta, GA 30307. | https://dingalinged-cpu.github.io/registry/c/peachtree-immediate-care-atlanta/
+1. Atlanta Urgent Care | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2738 Clairmont Road Northeast, Atlanta, GA 30329. Phone: +16788057981. Website: https://www.atlantaurgentcare.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-urgent-care-atlanta/
+2. Atlanta Urgent Care | Organic #2 | Pulse Score 59.9/100 (Fair, #2 in city) | Atlanta Urgent Care is an urgent care clinic in Atlanta, GA at 2140 Peachtree Road Northeast #232, Atlanta, GA 30309. | https://dingalinged-cpu.github.io/registry/c/atlanta-urgent-care-atlanta-w269196175/
+3. Peachtree Immediate Care | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Peachtree Immediate Care is an urgent care clinic in Atlanta, GA at 1220 Caroline Street Northeast #A-230, Atlanta, GA 30307. | https://dingalinged-cpu.github.io/registry/c/peachtree-immediate-care-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

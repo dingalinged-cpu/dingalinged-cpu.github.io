@@ -13,7 +13,7 @@ Carriage Cleaners is a dry cleaner in Milwaukee, WI. Phone: +14142771037. Websit
 - Website: https://carriagecleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-16:00
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 69% of dry cleaners in Milwaukee, #14 of 16 dry cleaners in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Carrollton, TX is KinderCare (a preschool in Carrollton, TX). 2 preschool businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Carrollton, TX is Primrose School of West Carrollton (a preschool in Carrollton, TX). 2 preschool businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Carrollton, TX?
 
 Also answers: preschool in Carrollton, TX; preschool near me (Carrollton, TX); best preschool Carrollton, TX; top rated preschool Carrollton, TX; affordable preschool Carrollton, TX; emergency preschool Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | trust 0.0 | KinderCare is a preschool in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/kindercare-carrollton/
-2. Primrose School of West Carrollton | trust 0.0 | Primrose School of West Carrollton is a preschool in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-west-carrollton-carrollton/
+1. Primrose School of West Carrollton | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Primrose School of West Carrollton is a preschool in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-west-carrollton-carrollton/
+2. KinderCare | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | KinderCare is a preschool in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/kindercare-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool carrollton tx | category: Education & childcare | industry benchmark: Education & Instruction

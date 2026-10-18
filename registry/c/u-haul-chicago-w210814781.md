@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Chicago, IL at 251 East 95th Street, Chicag
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 45% of self-storage facilitys in Chicago, #70 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

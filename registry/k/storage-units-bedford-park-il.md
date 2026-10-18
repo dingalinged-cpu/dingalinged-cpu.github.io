@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Bedford Park, IL is Extra Space Storage (a self-storage facility in Bedford Park, IL at 4821 West 67th Street, Bedford Park, IL 60638). 3 storage units businesses are listed for Bedford Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Bedford Park, IL is Extra Space Storage (a self-storage facility in Bedford Park, IL at 4821 West 67th Street, Bedford Park, IL 60638). 3 storage units businesses are listed for Bedford Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Bedford Park, IL?
 
 Also answers: storage units in Bedford Park, IL; storage units near me (Bedford Park, IL); best storage units Bedford Park, IL; top rated storage units Bedford Park, IL; affordable storage units Bedford Park, IL; emergency storage units Bedford Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 4.0 | Extra Space Storage is a self-storage facility in Bedford Park, IL at 4821 West 67th Street, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bedford-park/
-2. Public Storage | trust 4.0 | Public Storage is a self-storage facility in Bedford Park, IL at 7000 South Cicero Avenue, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/public-storage-bedford-park/
-3. Public Storage | trust 4.0 | Public Storage is a self-storage facility in Burbank, IL at 6990 79th Street, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/public-storage-burbank-n9063292322/
+1. Extra Space Storage | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Bedford Park, IL at 4821 West 67th Street, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bedford-park/
+2. Public Storage | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in Bedford Park, IL at 7000 South Cicero Avenue, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/public-storage-bedford-park/
+3. Public Storage | Organic #3 | Pulse Score 43.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in Burbank, IL at 6990 79th Street, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/public-storage-burbank-n9063292322/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units bedford park il | category: Home services - Moving | industry benchmark: Home & Home Improvement

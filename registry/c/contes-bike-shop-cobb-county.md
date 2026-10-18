@@ -13,7 +13,7 @@ Conte's Bike Shop is a bike shop in Cobb County, GA at 50 Ernest W. Barrett Park
 - Website: https://www.contebikes.com/about/marietta-ga-now-open-pg469.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 20% of bike shops in Atlanta, #3 of 4 bike shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

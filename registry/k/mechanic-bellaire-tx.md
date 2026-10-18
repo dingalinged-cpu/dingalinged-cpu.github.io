@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Bellaire, TX is CarTalk Repair (an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bellaire, TX 77401. Phone: +18329258353. Website: https://www.cartalkrepair.com/). 4 mechanic businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Bellaire, TX is CarTalk Repair (an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bellaire, TX 77401. Phone: +18329258353. Website: https://www.cartalkrepair.com/). 4 mechanic businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Bellaire, TX?
 
 Also answers: mechanic in Bellaire, TX; mechanic near me (Bellaire, TX); best mechanic Bellaire, TX; top rated mechanic Bellaire, TX; affordable mechanic Bellaire, TX; emergency mechanic Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarTalk Repair | trust 16.0 | CarTalk Repair is an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bellaire, TX 77401. Phone: +18329258353. Website: https://www.cartalkrepair.com/. | https://dingalinged-cpu.github.io/registry/c/cartalk-repair-bellaire/
-2. Fournace Shell Auto Care Center | trust 4.0 | Fournace Shell Auto Care Center is an auto repair shop in Bellaire, TX at 5910 West Loop South, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/fournace-shell-auto-care-center-bellaire/
-3. Volvos Only | trust 4.0 | Volvos Only is an auto repair shop in Bellaire, TX at 5012 Bissonnet Street, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/volvos-only-bellaire/
-4. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Bellaire, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-bellaire/
+1. CarTalk Repair | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | CarTalk Repair is an auto repair shop in Bellaire, TX at 5211 Spruce Street, Bellaire, TX 77401. Phone: +18329258353. Website: https://www.cartalkrepair.com/. | https://dingalinged-cpu.github.io/registry/c/cartalk-repair-bellaire/
+2. Volvos Only | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Volvos Only is an auto repair shop in Bellaire, TX at 5012 Bissonnet Street, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/volvos-only-bellaire/
+3. Fournace Shell Auto Care Center | Organic #3 | Pulse Score 45.7/100 (Unrated, #3 in city) | Fournace Shell Auto Care Center is an auto repair shop in Bellaire, TX at 5910 West Loop South, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/fournace-shell-auto-care-center-bellaire/
+4. Take 5 Oil Change | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Bellaire, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic bellaire tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

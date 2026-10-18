@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Shakopee, MN is Bittner's Bakery (a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, MN 55379). 2 bakery businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Shakopee, MN is Bittner's Bakery (a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, MN 55379). 2 bakery businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Shakopee, MN?
 
 Also answers: bakery in Shakopee, MN; bakery near me (Shakopee, MN); best bakery Shakopee, MN; top rated bakery Shakopee, MN; affordable bakery Shakopee, MN; emergency bakery Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bittner's Bakery | trust 8.0 | Bittner's Bakery is a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/bittners-bakery-shakopee/
-2. Panadería y Paseleria oralia's Bakery | trust 0.0 | Panadería y Paseleria oralia's Bakery is a bakery in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-paseleria-oralias-bakery-shakopee/
+1. Bittner's Bakery | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Bittner's Bakery is a bakery in Shakopee, MN at 114 1st Avenue East, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/bittners-bakery-shakopee/
+2. Panadería y Paseleria oralia's Bakery | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Panadería y Paseleria oralia's Bakery is a bakery in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-paseleria-oralias-bakery-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery shakopee mn | category: Events & weddings | industry benchmark: Personal Services

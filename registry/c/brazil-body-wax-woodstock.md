@@ -13,7 +13,7 @@ Brazil Body Wax is a waxing salon in Woodstock, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 44% of waxing salons in Atlanta, #1 of 1 waxing salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 39.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

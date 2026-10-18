@@ -13,7 +13,7 @@ Thrive Dental and Orthodontics is a dentist in Sachse, TX at 7900 Woodbridge Par
 - Website: https://thrivedentist.com/locations/sachse/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa-Su off
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of dentists in Dallas–Fort Worth, #2 of 5 dentists in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

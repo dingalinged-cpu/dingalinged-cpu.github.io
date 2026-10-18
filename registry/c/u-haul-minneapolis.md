@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Minneapolis, MN at 1717 West River Road Nor
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 54% of self-storage facilitys in Minneapolis–St. Paul, #7 of 11 self-storage facilitys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

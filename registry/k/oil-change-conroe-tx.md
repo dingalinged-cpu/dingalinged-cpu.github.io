@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Conroe, TX is All Star Muffler & Brake (an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/). 1 oil change businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Conroe, TX is All Star Muffler & Brake (an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/). 1 oil change businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Conroe, TX?
 
 Also answers: oil change in Conroe, TX; oil change near me (Conroe, TX); best oil change Conroe, TX; top rated oil change Conroe, TX; affordable oil change Conroe, TX; emergency oil change Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Star Muffler & Brake | trust 20.0 | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
+1. All Star Muffler & Brake | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | All Star Muffler & Brake is an auto repair shop in Conroe, TX at 3900 FM 1488, Conroe, TX 77384. Phone: +19363215617. Website: https://www.allstarmufflerbrake.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-muffler-and-brake-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change conroe tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

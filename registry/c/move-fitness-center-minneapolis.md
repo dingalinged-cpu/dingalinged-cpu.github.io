@@ -13,7 +13,7 @@ Move Fitness Center is a gym in Minneapolis, MN at 2508 Nicollet Avenue, Minneap
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa 08:00-17:00; Su 09:00-15:00
-- Registry Score: 57.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 6% of gyms in Minneapolis–St. Paul, #5 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid windshield replacement listing for Highland Park, IL is Gerber Collision & Glass (an auto repair shop in Highland Park, IL at 1325 Park Avenue West, Highland Park, IL 60035). 1 windshield replacement businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Highland Park, IL is Gerber Collision & Glass (an auto repair shop in Highland Park, IL at 1325 Park Avenue West, Highland Park, IL 60035). 1 windshield replacement businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Highland Park, IL?
 
 Also answers: windshield replacement in Highland Park, IL; windshield replacement near me (Highland Park, IL); best windshield replacement Highland Park, IL; top rated windshield replacement Highland Park, IL; affordable windshield replacement Highland Park, IL; emergency windshield replacement Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Highland Park, IL at 1325 Park Avenue West, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-highland-park/
+1. Gerber Collision & Glass | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Gerber Collision & Glass is an auto repair shop in Highland Park, IL at 1325 Park Avenue West, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement highland park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

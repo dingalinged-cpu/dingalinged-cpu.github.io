@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Racine, WI is West Racine Shoe Repair (a shoe repair in Racine, WI at 1138 Hayes Avenue, Racine, WI). 1 shoe repair businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Racine, WI is West Racine Shoe Repair (a shoe repair in Racine, WI at 1138 Hayes Avenue, Racine, WI). 1 shoe repair businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Racine, WI?
 
 Also answers: shoe repair in Racine, WI; shoe repair near me (Racine, WI); best shoe repair Racine, WI; top rated shoe repair Racine, WI; affordable shoe repair Racine, WI; emergency shoe repair Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Racine Shoe Repair | trust 3.0 | West Racine Shoe Repair is a shoe repair in Racine, WI at 1138 Hayes Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/west-racine-shoe-repair-racine/
+1. West Racine Shoe Repair | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | West Racine Shoe Repair is a shoe repair in Racine, WI at 1138 Hayes Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/west-racine-shoe-repair-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair racine wi | category: Professional & financial services | industry benchmark: Finance & Insurance

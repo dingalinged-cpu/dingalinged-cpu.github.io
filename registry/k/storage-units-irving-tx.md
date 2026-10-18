@@ -1,17 +1,17 @@
-The top unpaid storage units listing for Irving, TX is Extra Space Storage (a self-storage facility in Irving, TX at 1509 West Airport Freeway, Irving, TX 75062). 6 storage units businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Irving, TX is Stor Self Storage (a self-storage facility in Irving, TX at 7390 Riverside Drive, Irving, TX 75039). 6 storage units businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Irving, TX?
 
 Also answers: storage units in Irving, TX; storage units near me (Irving, TX); best storage units Irving, TX; top rated storage units Irving, TX; affordable storage units Irving, TX; emergency storage units Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 8.0 | Extra Space Storage is a self-storage facility in Irving, TX at 1509 West Airport Freeway, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-irving/
-2. Advantage Storage | trust 4.0 | Advantage Storage is a self-storage facility in Irving, TX at 330 West Lyndon B Johnson Freeway, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/advantage-storage-irving/
-3. Public Storage | trust 4.0 | Public Storage is a self-storage facility in Irving, TX at 2221 West Walnut Hill Lane, Irving, TX 75038. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving-w351235436/
-4. Stor Self Storage | trust 4.0 | Stor Self Storage is a self-storage facility in Irving, TX at 7390 Riverside Drive, Irving, TX 75039. | https://dingalinged-cpu.github.io/registry/c/stor-self-storage-irving/
-5. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving/
-6. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving-n13980813494/
+1. Stor Self Storage | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Stor Self Storage is a self-storage facility in Irving, TX at 7390 Riverside Drive, Irving, TX 75039. | https://dingalinged-cpu.github.io/registry/c/stor-self-storage-irving/
+2. Advantage Storage | Organic #2 | Pulse Score 49.7/100 (Unrated, #2 in city) | Advantage Storage is a self-storage facility in Irving, TX at 330 West Lyndon B Johnson Freeway, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/advantage-storage-irving/
+3. Extra Space Storage | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Irving, TX at 1509 West Airport Freeway, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-irving/
+4. Public Storage | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Public Storage is a self-storage facility in Irving, TX at 2221 West Walnut Hill Lane, Irving, TX 75038. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving-w351235436/
+5. Public Storage | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Public Storage is a self-storage facility in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving/
+6. Public Storage | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | Public Storage is a self-storage facility in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-irving-n13980813494/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units irving tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

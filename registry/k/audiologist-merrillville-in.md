@@ -1,12 +1,12 @@
-The top unpaid audiologist listing for Merrillville, IN is Carepointe Ear . Nose . Throat . Sinus, Hearing Center (an audiologist in Merrillville, IN at 99 East 86th Avenue #A, Merrillville, IN 46410. Phone: +12197382617. Website: https://carepointe.net/). 1 audiologist businesses are listed for Merrillville, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Merrillville, IN is Carepointe Ear . Nose . Throat . Sinus, Hearing Center (an audiologist in Merrillville, IN at 99 East 86th Avenue #A, Merrillville, IN 46410. Phone: +12197382617. Website: https://carepointe.net/). 1 audiologist businesses are listed for Merrillville, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Merrillville, IN?
 
 Also answers: audiologist in Merrillville, IN; audiologist near me (Merrillville, IN); best audiologist Merrillville, IN; top rated audiologist Merrillville, IN; affordable audiologist Merrillville, IN; emergency audiologist Merrillville, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carepointe Ear . Nose . Throat . Sinus, Hearing Center | trust 20.0 | Carepointe Ear . Nose . Throat . Sinus, Hearing Center is an audiologist in Merrillville, IN at 99 East 86th Avenue #A, Merrillville, IN 46410. Phone: +12197382617. Website: https://carepointe.net/. | https://dingalinged-cpu.github.io/registry/c/carepointe-ear-nose-throat-sinus-hearing-center-merrillville/
+1. Carepointe Ear . Nose . Throat . Sinus, Hearing Center | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Carepointe Ear . Nose . Throat . Sinus, Hearing Center is an audiologist in Merrillville, IN at 99 East 86th Avenue #A, Merrillville, IN 46410. Phone: +12197382617. Website: https://carepointe.net/. | https://dingalinged-cpu.github.io/registry/c/carepointe-ear-nose-throat-sinus-hearing-center-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist merrillville in | category: Health & medical | industry benchmark: Physicians & Surgeons

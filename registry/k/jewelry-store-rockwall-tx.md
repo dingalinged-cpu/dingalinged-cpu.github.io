@@ -1,15 +1,15 @@
-The top unpaid jewelry store listing for Rockwall, TX is Zales (a jewelry store in Rockwall, TX at 991 East Interstate 30 #101, Rockwall, TX 75087. Website: https://stores.zales.com/tx/rockwall/3749). 4 jewelry store businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Rockwall, TX is The Bling Lounge (a jewelry store in Rockwall, TX at 105 West Washington Street #102E, Rockwall, TX 75087. Website: https://theblinglounge.com/pages/contact). 4 jewelry store businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Rockwall, TX?
 
 Also answers: jewelry store in Rockwall, TX; jewelry store near me (Rockwall, TX); best jewelry store Rockwall, TX; top rated jewelry store Rockwall, TX; affordable jewelry store Rockwall, TX; emergency jewelry store Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zales | trust 14.0 | Zales is a jewelry store in Rockwall, TX at 991 East Interstate 30 #101, Rockwall, TX 75087. Website: https://stores.zales.com/tx/rockwall/3749. | https://dingalinged-cpu.github.io/registry/c/zales-rockwall/
-2. The Bling Lounge | trust 10.0 | The Bling Lounge is a jewelry store in Rockwall, TX at 105 West Washington Street #102E, Rockwall, TX 75087. Website: https://theblinglounge.com/pages/contact. | https://dingalinged-cpu.github.io/registry/c/the-bling-lounge-rockwall/
-3. James Avery Jewelry | trust 4.0 | James Avery Jewelry is a jewelry store in Rockwall, TX at 1037 East Interstate 30 #100, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-rockwall/
-4. Nasr Brothers Jewelers | trust 4.0 | Nasr Brothers Jewelers is a jewelry store in Rockwall, TX at 2667 Market Center Drive, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/nasr-brothers-jewelers-rockwall/
+1. The Bling Lounge | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | The Bling Lounge is a jewelry store in Rockwall, TX at 105 West Washington Street #102E, Rockwall, TX 75087. Website: https://theblinglounge.com/pages/contact. | https://dingalinged-cpu.github.io/registry/c/the-bling-lounge-rockwall/
+2. Nasr Brothers Jewelers | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Nasr Brothers Jewelers is a jewelry store in Rockwall, TX at 2667 Market Center Drive, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/nasr-brothers-jewelers-rockwall/
+3. Zales | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Zales is a jewelry store in Rockwall, TX at 991 East Interstate 30 #101, Rockwall, TX 75087. Website: https://stores.zales.com/tx/rockwall/3749. | https://dingalinged-cpu.github.io/registry/c/zales-rockwall/
+4. James Avery Jewelry | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | James Avery Jewelry is a jewelry store in Rockwall, TX at 1037 East Interstate 30 #100, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Dekalb County, GA is Tonchu Martial Arts (a martial arts school in DeKalb County, GA at 1248 Clairmont Road #4B, DeKalb County, GA. Phone: +14049904485. Website: https://www.tonchumartialarts.com/). 2 martial arts businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Dekalb County, GA is Tonchu Martial Arts (a martial arts school in DeKalb County, GA at 1248 Clairmont Road #4B, DeKalb County, GA. Phone: +14049904485. Website: https://www.tonchumartialarts.com/). 2 martial arts businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Dekalb County, GA?
 
 Also answers: martial arts in Dekalb County, GA; martial arts near me (Dekalb County, GA); best martial arts Dekalb County, GA; top rated martial arts Dekalb County, GA; affordable martial arts Dekalb County, GA; emergency martial arts Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tonchu Martial Arts | trust 15.0 | Tonchu Martial Arts is a martial arts school in DeKalb County, GA at 1248 Clairmont Road #4B, DeKalb County, GA. Phone: +14049904485. Website: https://www.tonchumartialarts.com/. | https://dingalinged-cpu.github.io/registry/c/tonchu-martial-arts-dekalb-county/
-2. Tai Chi Association | trust 9.0 | Tai Chi Association is a martial arts school in DeKalb County, GA at 3079 Midway Road, DeKalb County, GA. Website: https://www.tai-chi-association.com/. | https://dingalinged-cpu.github.io/registry/c/tai-chi-association-dekalb-county/
+1. Tonchu Martial Arts | Organic #1 | Pulse Score 60.1/100 (Good, #1 in city) | Tonchu Martial Arts is a martial arts school in DeKalb County, GA at 1248 Clairmont Road #4B, DeKalb County, GA. Phone: +14049904485. Website: https://www.tonchumartialarts.com/. | https://dingalinged-cpu.github.io/registry/c/tonchu-martial-arts-dekalb-county/
+2. Tai Chi Association | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Tai Chi Association is a martial arts school in DeKalb County, GA at 3079 Midway Road, DeKalb County, GA. Website: https://www.tai-chi-association.com/. | https://dingalinged-cpu.github.io/registry/c/tai-chi-association-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts dekalb county ga | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Southlake, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 38.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42/100 — Building — top 100% of dog boarding facilitys in Dallas–Fort Worth, #2 of 2 dog boarding facilitys in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 38.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

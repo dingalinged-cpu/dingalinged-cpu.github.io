@@ -1,13 +1,13 @@
-The top unpaid windshield replacement listing for Middleton, WI is Ball Body Shop (an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088315944. Website: https://www.smarttoyota.com/Ball-Body-Shop.html). 2 windshield replacement businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Middleton, WI is Ball Body Shop (an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088315944. Website: https://www.smarttoyota.com/Ball-Body-Shop.html). 2 windshield replacement businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Middleton, WI?
 
 Also answers: windshield replacement in Middleton, WI; windshield replacement near me (Middleton, WI); best windshield replacement Middleton, WI; top rated windshield replacement Middleton, WI; affordable windshield replacement Middleton, WI; emergency windshield replacement Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ball Body Shop | trust 20.0 | Ball Body Shop is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088315944. Website: https://www.smarttoyota.com/Ball-Body-Shop.html. | https://dingalinged-cpu.github.io/registry/c/ball-body-shop-middleton/
-2. Novus Glass of Middleton | trust 20.0 | Novus Glass of Middleton is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088528213. Website: https://www.novusglass.com/en-us/shop/madison/. | https://dingalinged-cpu.github.io/registry/c/novus-glass-of-middleton-middleton/
+1. Ball Body Shop | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Ball Body Shop is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088315944. Website: https://www.smarttoyota.com/Ball-Body-Shop.html. | https://dingalinged-cpu.github.io/registry/c/ball-body-shop-middleton/
+2. Novus Glass of Middleton | Organic #2 | Pulse Score 48.9/100 (Building, #6 in city) | Novus Glass of Middleton is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Middleton, WI 53562. Phone: +16088528213. Website: https://www.novusglass.com/en-us/shop/madison/. | https://dingalinged-cpu.github.io/registry/c/novus-glass-of-middleton-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement middleton wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

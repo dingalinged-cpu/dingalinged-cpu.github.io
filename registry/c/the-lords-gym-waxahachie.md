@@ -13,7 +13,7 @@ The Lord's Gym is a gym in Waxahachie, TX at 1312 West Main Street, Waxahachie, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 27% of gyms in Dallas–Fort Worth, #1 of 2 gyms in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

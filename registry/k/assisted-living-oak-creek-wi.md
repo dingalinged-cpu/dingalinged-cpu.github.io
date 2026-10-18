@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Oak Creek, WI is Booth Manor (an assisted living facility in Oak Creek, WI at 150-180 West Centennial Drive, Oak Creek, WI 53154). 1 assisted living businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Oak Creek, WI is Booth Manor (an assisted living facility in Oak Creek, WI at 150-180 West Centennial Drive, Oak Creek, WI 53154). 1 assisted living businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Oak Creek, WI?
 
 Also answers: assisted living in Oak Creek, WI; assisted living near me (Oak Creek, WI); best assisted living Oak Creek, WI; top rated assisted living Oak Creek, WI; affordable assisted living Oak Creek, WI; emergency assisted living Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Booth Manor | trust 4.0 | Booth Manor is an assisted living facility in Oak Creek, WI at 150-180 West Centennial Drive, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/booth-manor-oak-creek/
+1. Booth Manor | Organic #1 | Pulse Score 44.8/100 (Unrated, #1 in city) | Booth Manor is an assisted living facility in Oak Creek, WI at 150-180 West Centennial Drive, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/booth-manor-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living oak creek wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

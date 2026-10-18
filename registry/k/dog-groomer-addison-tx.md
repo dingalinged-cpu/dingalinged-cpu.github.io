@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for Addison, TX is Poochville (a dog groomer in Addison, TX). 2 dog groomer businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Addison, TX is Poochville (a dog groomer in Addison, TX). 2 dog groomer businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Addison, TX?
 
 Also answers: dog groomer in Addison, TX; dog groomer near me (Addison, TX); best dog groomer Addison, TX; top rated dog groomer Addison, TX; affordable dog groomer Addison, TX; emergency dog groomer Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Poochville | trust 0.0 | Poochville is a dog groomer in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/poochville-addison/
-2. The Club Pet Salon | trust 0.0 | The Club Pet Salon is a dog groomer in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/the-club-pet-salon-addison/
+1. Poochville | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Poochville is a dog groomer in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/poochville-addison/
+2. The Club Pet Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | The Club Pet Salon is a dog groomer in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/the-club-pet-salon-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer addison tx | category: Pets | industry benchmark: Animals & Pets

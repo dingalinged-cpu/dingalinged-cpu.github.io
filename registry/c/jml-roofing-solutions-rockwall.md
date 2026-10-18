@@ -13,7 +13,7 @@ JML Roofing Solutions is a roofer in Rockwall, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.5/100 — Unrated (not enough evidence yet) — top 81% of roofers in Dallas–Fort Worth, #2 of 3 roofers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 37.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

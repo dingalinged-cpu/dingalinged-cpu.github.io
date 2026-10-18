@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Richfield, MN is Great Clips (a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423). 3 haircut businesses are listed for Richfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Richfield, MN is Great Clips (a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423). 3 haircut businesses are listed for Richfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Richfield, MN?
 
 Also answers: haircut in Richfield, MN; haircut near me (Richfield, MN); best haircut Richfield, MN; top rated haircut Richfield, MN; affordable haircut Richfield, MN; emergency haircut Richfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 4.0 | Great Clips is a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield/
-2. Great Clips | trust 4.0 | Great Clips is a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield-n11688651089/
-3. Salon Lofts | trust 4.0 | Salon Lofts is a hair salon in Richfield, MN at 6521 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-richfield/
+1. Great Clips | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Great Clips is a hair salon in Richfield, MN at 6549 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield-n11688651089/
+2. Great Clips | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Great Clips is a hair salon in Richfield, MN at 1714 East 66th Street, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/great-clips-richfield/
+3. Salon Lofts | Organic #3 | Pulse Score 43.7/100 (Unrated, #3 in city) | Salon Lofts is a hair salon in Richfield, MN at 6521 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-richfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut richfield mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

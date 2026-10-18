@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Katy, TX is 1st Solution Certification USA, Inc. (a business consultant in Katy, TX at 22015 Westland Creek Drive, Katy, TX 77449. Website: https://www.1scusa.com/). 1 business consultant businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Katy, TX is 1st Solution Certification USA, Inc. (a business consultant in Katy, TX at 22015 Westland Creek Drive, Katy, TX 77449. Website: https://www.1scusa.com/). 1 business consultant businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Katy, TX?
 
 Also answers: business consultant in Katy, TX; business consultant near me (Katy, TX); best business consultant Katy, TX; top rated business consultant Katy, TX; affordable business consultant Katy, TX; emergency business consultant Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1st Solution Certification USA, Inc. | trust 10.0 | 1st Solution Certification USA, Inc. is a business consultant in Katy, TX at 22015 Westland Creek Drive, Katy, TX 77449. Website: https://www.1scusa.com/. | https://dingalinged-cpu.github.io/registry/c/1st-solution-certification-usa-inc-katy/
+1. 1st Solution Certification USA, Inc. | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | 1st Solution Certification USA, Inc. is a business consultant in Katy, TX at 22015 Westland Creek Drive, Katy, TX 77449. Website: https://www.1scusa.com/. | https://dingalinged-cpu.github.io/registry/c/1st-solution-certification-usa-inc-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant katy tx | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Scrub-A-Dub Car Wash is a car wash in Racine, WI at 5120 Washington Avenue, Raci
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 07:00-19:00
-- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Unrated (not enough evidence yet) — top 68% of car washes in Milwaukee, #4 of 6 car washes in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

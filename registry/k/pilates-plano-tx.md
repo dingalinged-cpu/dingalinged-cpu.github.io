@@ -1,12 +1,12 @@
-The top unpaid pilates listing for Plano, TX is Studio Pilates International North Plano (a pilates studio in Plano, TX at 9613 Coit Road #111, Plano, TX 75024. Phone: +19452932562). 1 pilates businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Plano, TX is Studio Pilates International North Plano (a pilates studio in Plano, TX at 9613 Coit Road #111, Plano, TX 75024. Phone: +19452932562). 1 pilates businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Plano, TX?
 
 Also answers: pilates in Plano, TX; pilates near me (Plano, TX); best pilates Plano, TX; top rated pilates Plano, TX; affordable pilates Plano, TX; emergency pilates Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio Pilates International North Plano | trust 10.0 | Studio Pilates International North Plano is a pilates studio in Plano, TX at 9613 Coit Road #111, Plano, TX 75024. Phone: +19452932562. | https://dingalinged-cpu.github.io/registry/c/studio-pilates-international-north-plano-plano/
+1. Studio Pilates International North Plano | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Studio Pilates International North Plano is a pilates studio in Plano, TX at 9613 Coit Road #111, Plano, TX 75024. Phone: +19452932562. | https://dingalinged-cpu.github.io/registry/c/studio-pilates-international-north-plano-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates plano tx | category: Fitness | industry benchmark: Health & Fitness

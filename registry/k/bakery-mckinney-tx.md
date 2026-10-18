@@ -1,17 +1,17 @@
-The top unpaid bakery listing for Mckinney, TX is Paris Baguette (a bakery in McKinney, TX at 4660 West University Drive #310, McKinney, TX. Phone: +12143104040. Website: https://parisbaguette.com/). 6 bakery businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Mckinney, TX is Phi's European Bakery & Deli (a bakery in McKinney, TX at 1651 Eldorado Parkway #108, McKinney, TX). 6 bakery businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Mckinney, TX?
 
 Also answers: bakery in Mckinney, TX; bakery near me (Mckinney, TX); best bakery Mckinney, TX; top rated bakery Mckinney, TX; affordable bakery Mckinney, TX; emergency bakery Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paris Baguette | trust 19.0 | Paris Baguette is a bakery in McKinney, TX at 4660 West University Drive #310, McKinney, TX. Phone: +12143104040. Website: https://parisbaguette.com/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-mckinney/
-2. Tous les Jours | trust 7.0 | Tous les Jours is a bakery in McKinney, TX at 7645 Custer Road #444, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-mckinney/
-3. Emporium Pies | trust 4.0 | Emporium Pies is a bakery in McKinney, TX at 107 South Tennessee Street, McKinney, TX 75069. | https://dingalinged-cpu.github.io/registry/c/emporium-pies-mckinney/
-4. Donut Bliss | trust 3.0 | Donut Bliss is a bakery in McKinney, TX at 6405 Eldorado Parkway #250, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/donut-bliss-mckinney/
-5. Phi's European Bakery & Deli | trust 3.0 | Phi's European Bakery & Deli is a bakery in McKinney, TX at 1651 Eldorado Parkway #108, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/phis-european-bakery-and-deli-mckinney/
-6. Fresh Donuts | trust 0.0 | Fresh Donuts is a bakery in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/fresh-donuts-mckinney/
+1. Phi's European Bakery & Deli | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Phi's European Bakery & Deli is a bakery in McKinney, TX at 1651 Eldorado Parkway #108, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/phis-european-bakery-and-deli-mckinney/
+2. Donut Bliss | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Donut Bliss is a bakery in McKinney, TX at 6405 Eldorado Parkway #250, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/donut-bliss-mckinney/
+3. Emporium Pies | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Emporium Pies is a bakery in McKinney, TX at 107 South Tennessee Street, McKinney, TX 75069. | https://dingalinged-cpu.github.io/registry/c/emporium-pies-mckinney/
+4. Fresh Donuts | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Fresh Donuts is a bakery in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/fresh-donuts-mckinney/
+5. Paris Baguette | Organic #5 | Pulse Score 49.5/100 (Building, #5 in city) | Paris Baguette is a bakery in McKinney, TX at 4660 West University Drive #310, McKinney, TX. Phone: +12143104040. Website: https://parisbaguette.com/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-mckinney/
+6. Tous les Jours | Organic #6 | Pulse Score 47.9/100 (Building, #6 in city) | Tous les Jours is a bakery in McKinney, TX at 7645 Custer Road #444, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mckinney tx | category: Events & weddings | industry benchmark: Personal Services

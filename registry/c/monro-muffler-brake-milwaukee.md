@@ -13,7 +13,7 @@ Monro Muffler Brake is an auto repair shop in Milwaukee, WI at 6112 South 27th S
 - Website: https://locations.monro.com/wi/milwaukee/6112-s-27th-street
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 79% of auto repair shops in Milwaukee, #93 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

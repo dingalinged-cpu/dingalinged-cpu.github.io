@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Fitchburg, WI is Klinke Cleaners (a dry cleaner in Fitchburg, WI). 1 dry cleaners businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Fitchburg, WI is Klinke Cleaners (a dry cleaner in Fitchburg, WI). 1 dry cleaners businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Fitchburg, WI?
 
 Also answers: dry cleaners in Fitchburg, WI; dry cleaners near me (Fitchburg, WI); best dry cleaners Fitchburg, WI; top rated dry cleaners Fitchburg, WI; affordable dry cleaners Fitchburg, WI; emergency dry cleaners Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Klinke Cleaners | trust 0.0 | Klinke Cleaners is a dry cleaner in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-fitchburg/
+1. Klinke Cleaners | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Klinke Cleaners is a dry cleaner in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners fitchburg wi | category: Professional & financial services | industry benchmark: Finance & Insurance

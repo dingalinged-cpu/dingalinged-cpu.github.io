@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Woodstock, GA is Ice Box Cryotherapy (a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/). 2 physical therapy businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Woodstock, GA is Ice Box Cryotherapy (a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/). 2 physical therapy businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Woodstock, GA?
 
 Also answers: physical therapy in Woodstock, GA; physical therapy near me (Woodstock, GA); best physical therapy Woodstock, GA; top rated physical therapy Woodstock, GA; affordable physical therapy Woodstock, GA; emergency physical therapy Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ice Box Cryotherapy | trust 19.0 | Ice Box Cryotherapy is a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/. | https://dingalinged-cpu.github.io/registry/c/ice-box-cryotherapy-woodstock/
-2. Benchmark Physical Therapy | trust 0.0 | Benchmark Physical Therapy is a physical therapy clinic in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-woodstock/
+1. Ice Box Cryotherapy | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Ice Box Cryotherapy is a physical therapy clinic in Woodstock, GA at 1428 Towne Lake Parkway #97, Woodstock, GA. Phone: +17705752432. Website: https://iceboxtherapy.com/woodstock-ga/. | https://dingalinged-cpu.github.io/registry/c/ice-box-cryotherapy-woodstock/
+2. Benchmark Physical Therapy | Organic #2 | Pulse Score 42.4/100 (Unrated, #2 in city) | Benchmark Physical Therapy is a physical therapy clinic in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/benchmark-physical-therapy-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy woodstock ga | category: Health & medical | industry benchmark: Physicians & Surgeons

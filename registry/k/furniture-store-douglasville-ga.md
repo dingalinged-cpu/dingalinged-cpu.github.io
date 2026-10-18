@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Douglasville, GA is Ashley HomeStore (a furniture store in Douglasville, GA at 6875 Douglas Boulevard, Douglasville, GA 30135. Phone: +14707959500. Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/). 5 furniture store businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Douglasville, GA is Ben's Furniture (a furniture store in Douglasville, GA). 5 furniture store businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Douglasville, GA?
 
 Also answers: furniture store in Douglasville, GA; furniture store near me (Douglasville, GA); best furniture store Douglasville, GA; top rated furniture store Douglasville, GA; affordable furniture store Douglasville, GA; emergency furniture store Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Douglasville, GA at 6875 Douglas Boulevard, Douglasville, GA 30135. Phone: +14707959500. Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-douglasville/
-2. Aaron's | trust 0.0 | Aaron's is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/aarons-douglasville/
-3. Ben's Furniture | trust 0.0 | Ben's Furniture is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/bens-furniture-douglasville/
-4. Rent-A-Center | trust 0.0 | Rent-A-Center is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-douglasville/
-5. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-douglasville/
+1. Ben's Furniture | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Ben's Furniture is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/bens-furniture-douglasville/
+2. Ashley HomeStore | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Douglasville, GA at 6875 Douglas Boulevard, Douglasville, GA 30135. Phone: +14707959500. Website: https://stores.ashleyfurniture.com/store/us/georgia/douglasville/9000339289/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-douglasville/
+3. Rooms To Go | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Rooms To Go is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-douglasville/
+4. Aaron's | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Aaron's is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/aarons-douglasville/
+5. Rent-A-Center | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Rent-A-Center is a furniture store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store douglasville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

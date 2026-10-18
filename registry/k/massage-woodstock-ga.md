@@ -1,13 +1,13 @@
-The top unpaid massage listing for Woodstock, GA is Jojo's Massage (a massage studio in Woodstock, GA at 9550 Main Street #110, Woodstock, GA. Phone: +16783888650). 2 massage businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Woodstock, GA is Jojo's Massage (a massage studio in Woodstock, GA at 9550 Main Street #110, Woodstock, GA. Phone: +16783888650). 2 massage businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Woodstock, GA?
 
 Also answers: massage in Woodstock, GA; massage near me (Woodstock, GA); best massage Woodstock, GA; top rated massage Woodstock, GA; affordable massage Woodstock, GA; emergency massage Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jojo's Massage | trust 13.0 | Jojo's Massage is a massage studio in Woodstock, GA at 9550 Main Street #110, Woodstock, GA. Phone: +16783888650. | https://dingalinged-cpu.github.io/registry/c/jojos-massage-woodstock/
-2. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/massage-envy-woodstock/
+1. Jojo's Massage | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Jojo's Massage is a massage studio in Woodstock, GA at 9550 Main Street #110, Woodstock, GA. Phone: +16783888650. | https://dingalinged-cpu.github.io/registry/c/jojos-massage-woodstock/
+2. Massage Envy | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Massage Envy is a massage studio in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/massage-envy-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage woodstock ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 1309 Will
 - Website: https://svdpmadison.wordpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 57% of thrift stores in Madison, #8 of 14 thrift stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

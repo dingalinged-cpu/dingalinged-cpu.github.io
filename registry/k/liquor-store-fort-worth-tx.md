@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Fort Worth, TX is Nancy's Liquour (a liquor store in Fort Worth, TX at 1302 West Kennedale Parkway, Fort Worth, TX 76140. Phone: +18174785370). 4 liquor store businesses are listed for Fort Worth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Fort Worth, TX is Nancy's Liquour (a liquor store in Fort Worth, TX at 1302 West Kennedale Parkway, Fort Worth, TX 76140. Phone: +18174785370). 4 liquor store businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Fort Worth, TX?
 
 Also answers: liquor store in Fort Worth, TX; liquor store near me (Fort Worth, TX); best liquor store Fort Worth, TX; top rated liquor store Fort Worth, TX; affordable liquor store Fort Worth, TX; emergency liquor store Fort Worth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nancy's Liquour | trust 14.0 | Nancy's Liquour is a liquor store in Fort Worth, TX at 1302 West Kennedale Parkway, Fort Worth, TX 76140. Phone: +18174785370. | https://dingalinged-cpu.github.io/registry/c/nancys-liquour-fort-worth/
-2. Amigo Liquor Beer & Wine | trust 4.0 | Amigo Liquor Beer & Wine is a liquor store in Fort Worth, TX at 1247 Woodhaven Boulevard, Fort Worth, TX 76112. | https://dingalinged-cpu.github.io/registry/c/amigo-liquor-beer-and-wine-fort-worth/
-3. Bru City | trust 4.0 | Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/bru-city-euless/
-4. Spec's | trust 3.0 | Spec's is a liquor store in Fort Worth, TX at 8550 East Freeway, Fort Worth, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-worth/
+1. Nancy's Liquour | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Nancy's Liquour is a liquor store in Fort Worth, TX at 1302 West Kennedale Parkway, Fort Worth, TX 76140. Phone: +18174785370. | https://dingalinged-cpu.github.io/registry/c/nancys-liquour-fort-worth/
+2. Amigo Liquor Beer & Wine | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Amigo Liquor Beer & Wine is a liquor store in Fort Worth, TX at 1247 Woodhaven Boulevard, Fort Worth, TX 76112. | https://dingalinged-cpu.github.io/registry/c/amigo-liquor-beer-and-wine-fort-worth/
+3. Bru City | Organic #3 | Pulse Score 56.9/100 (Unrated, #1 in city) | Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/bru-city-euless/
+4. Spec's | Organic #4 | Pulse Score 43.4/100 (Building, #3 in city) | Spec's is a liquor store in Fort Worth, TX at 8550 East Freeway, Fort Worth, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store fort worth tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

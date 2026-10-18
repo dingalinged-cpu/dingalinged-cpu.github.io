@@ -13,7 +13,7 @@ North Roswell Veterinary Clinic is a veterinarian in Roswell, GA at 11490 Alphar
 - Website: https://northroswellvetclinic.com/
 - Email: northroswellveterinaryclinic@gmail.com
 - Opening hours (OSM syntax): Mo 07:30-18:30; Tu,We,Fr 07:30-18:00; Th,Sa 07:00-18:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of veterinarians in Atlanta, #2 of 4 veterinarians in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

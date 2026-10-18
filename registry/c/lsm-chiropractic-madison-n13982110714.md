@@ -13,7 +13,7 @@ LSM Chiropractic is a chiropractor in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 88% of chiropractors in Madison, #9 of 11 chiropractors in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

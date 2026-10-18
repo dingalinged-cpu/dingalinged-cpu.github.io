@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Shorewood Hills, WI is Ancora Cafe + Bakery (a bakery in Shorewood Hills, WI). 2 bakery businesses are listed for Shorewood Hills, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Shorewood Hills, WI is La Brioche (a bakery in Shorewood Hills, WI). 2 bakery businesses are listed for Shorewood Hills, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Shorewood Hills, WI?
 
 Also answers: bakery in Shorewood Hills, WI; bakery near me (Shorewood Hills, WI); best bakery Shorewood Hills, WI; top rated bakery Shorewood Hills, WI; affordable bakery Shorewood Hills, WI; emergency bakery Shorewood Hills, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ancora Cafe + Bakery | trust 0.0 | Ancora Cafe + Bakery is a bakery in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/ancora-cafe-bakery-shorewood-hills/
-2. La Brioche | trust 0.0 | La Brioche is a bakery in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/la-brioche-shorewood-hills/
+1. La Brioche | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | La Brioche is a bakery in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/la-brioche-shorewood-hills/
+2. Ancora Cafe + Bakery | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Ancora Cafe + Bakery is a bakery in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/ancora-cafe-bakery-shorewood-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery shorewood hills wi | category: Events & weddings | industry benchmark: Personal Services

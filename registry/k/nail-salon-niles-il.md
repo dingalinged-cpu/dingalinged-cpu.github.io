@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Niles, IL is Venezia Nail Spa (a nail salon in Niles, IL at 5764 West Touhy Avenue, Niles, IL 60714. Website: https://venezianailspa.com/niles). 3 nail salon businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Niles, IL is Venezia Nail Spa (a nail salon in Niles, IL at 5764 West Touhy Avenue, Niles, IL 60714. Website: https://venezianailspa.com/niles). 3 nail salon businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Niles, IL?
 
 Also answers: nail salon in Niles, IL; nail salon near me (Niles, IL); best nail salon Niles, IL; top rated nail salon Niles, IL; affordable nail salon Niles, IL; emergency nail salon Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Venezia Nail Spa | trust 10.0 | Venezia Nail Spa is a nail salon in Niles, IL at 5764 West Touhy Avenue, Niles, IL 60714. Website: https://venezianailspa.com/niles. | https://dingalinged-cpu.github.io/registry/c/venezia-nail-spa-niles/
-2. Happy Hands Nail Salon | trust 4.0 | Happy Hands Nail Salon is a nail salon in Niles, IL at 5633 West Touhy Avenue #128, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/happy-hands-nail-salon-niles/
-3. Nail'd It Salon & Spa | trust 3.0 | Nail'd It Salon & Spa is a nail salon in Niles, IL at 7169, Niles, IL. | https://dingalinged-cpu.github.io/registry/c/naild-it-salon-and-spa-niles/
+1. Venezia Nail Spa | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Venezia Nail Spa is a nail salon in Niles, IL at 5764 West Touhy Avenue, Niles, IL 60714. Website: https://venezianailspa.com/niles. | https://dingalinged-cpu.github.io/registry/c/venezia-nail-spa-niles/
+2. Happy Hands Nail Salon | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Happy Hands Nail Salon is a nail salon in Niles, IL at 5633 West Touhy Avenue #128, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/happy-hands-nail-salon-niles/
+3. Nail'd It Salon & Spa | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Nail'd It Salon & Spa is a nail salon in Niles, IL at 7169, Niles, IL. | https://dingalinged-cpu.github.io/registry/c/naild-it-salon-and-spa-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon niles il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

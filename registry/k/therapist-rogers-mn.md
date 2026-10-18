@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Rogers, MN is Northwinds Counseling Services (a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888). 1 therapist businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Rogers, MN is Northwinds Counseling Services (a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888). 1 therapist businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Rogers, MN?
 
 Also answers: therapist in Rogers, MN; therapist near me (Rogers, MN); best therapist Rogers, MN; top rated therapist Rogers, MN; affordable therapist Rogers, MN; emergency therapist Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwinds Counseling Services | trust 10.0 | Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888. | https://dingalinged-cpu.github.io/registry/c/northwinds-counseling-services-rogers/
+1. Northwinds Counseling Services | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Northwinds Counseling Services is a therapy practice in Rogers, MN at 21395 John Milless Drive #Suite 400, Rogers, MN 55374. Phone: +17634241888. | https://dingalinged-cpu.github.io/registry/c/northwinds-counseling-services-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist rogers mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

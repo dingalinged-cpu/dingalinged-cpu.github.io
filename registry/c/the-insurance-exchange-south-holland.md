@@ -13,7 +13,7 @@ The Insurance Exchange is an insurance agent in South Holland, IL at 15459 South
 - Website: https://www.insxchg.com/
 - Email: tcrosby@insxchg.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 2% of insurance agents in Chicago, #1 of 3 insurance agents in South Holland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

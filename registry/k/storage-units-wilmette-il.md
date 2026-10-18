@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Wilmette, IL is Pro Self Storage (a self-storage facility in Wilmette, IL at 3626 Lake Avenue, Wilmette, IL 60091. Phone: +18472500565. Website: https://proself-storage.com/self-storage/wilmette-il-60091). 1 storage units businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Wilmette, IL is Pro Self Storage (a self-storage facility in Wilmette, IL at 3626 Lake Avenue, Wilmette, IL 60091. Phone: +18472500565. Website: https://proself-storage.com/self-storage/wilmette-il-60091). 1 storage units businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Wilmette, IL?
 
 Also answers: storage units in Wilmette, IL; storage units near me (Wilmette, IL); best storage units Wilmette, IL; top rated storage units Wilmette, IL; affordable storage units Wilmette, IL; emergency storage units Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pro Self Storage | trust 20.0 | Pro Self Storage is a self-storage facility in Wilmette, IL at 3626 Lake Avenue, Wilmette, IL 60091. Phone: +18472500565. Website: https://proself-storage.com/self-storage/wilmette-il-60091. | https://dingalinged-cpu.github.io/registry/c/pro-self-storage-wilmette/
+1. Pro Self Storage | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Pro Self Storage is a self-storage facility in Wilmette, IL at 3626 Lake Avenue, Wilmette, IL 60091. Phone: +18472500565. Website: https://proself-storage.com/self-storage/wilmette-il-60091. | https://dingalinged-cpu.github.io/registry/c/pro-self-storage-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units wilmette il | category: Home services - Moving | industry benchmark: Home & Home Improvement

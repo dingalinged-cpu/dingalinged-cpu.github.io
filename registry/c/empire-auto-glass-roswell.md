@@ -13,7 +13,7 @@ Empire Auto Glass is an auto repair shop in Roswell, GA at 11235 Alpharetta High
 - Website: https://www.empireautoglassatlanta.com/
 - Email: service@repairyourautoglass.com
 - Opening hours (OSM syntax): Mo-Su 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 2% of auto repair shops in Atlanta, #2 of 17 auto repair shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

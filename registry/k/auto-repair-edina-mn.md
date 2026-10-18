@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Edina, MN is Grandview Tire & Auto - Vernon (an auto repair shop in Edina, MN at 5100 Vernon Avenue, Edina, MN 55436. Phone: +19529293115. Website: https://vernon.grandviewtireandauto.com/). 3 auto repair businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Edina, MN is Grandview Tire & Auto - Vernon (an auto repair shop in Edina, MN at 5100 Vernon Avenue, Edina, MN 55436. Phone: +19529293115. Website: https://vernon.grandviewtireandauto.com/). 3 auto repair businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Edina, MN?
 
 Also answers: auto repair in Edina, MN; auto repair near me (Edina, MN); best auto repair Edina, MN; top rated auto repair Edina, MN; affordable auto repair Edina, MN; emergency auto repair Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grandview Tire & Auto - Vernon | trust 20.0 | Grandview Tire & Auto - Vernon is an auto repair shop in Edina, MN at 5100 Vernon Avenue, Edina, MN 55436. Phone: +19529293115. Website: https://vernon.grandviewtireandauto.com/. | https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-vernon-edina/
-2. Firestone | trust 0.0 | Firestone is an auto repair shop in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/firestone-edina/
-3. Grandview Tire and Auto | trust 0.0 | Grandview Tire and Auto is an auto repair shop in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-edina/
+1. Grandview Tire & Auto - Vernon | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Grandview Tire & Auto - Vernon is an auto repair shop in Edina, MN at 5100 Vernon Avenue, Edina, MN 55436. Phone: +19529293115. Website: https://vernon.grandviewtireandauto.com/. | https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-vernon-edina/
+2. Grandview Tire and Auto | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Grandview Tire and Auto is an auto repair shop in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/grandview-tire-and-auto-edina/
+3. Firestone | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Firestone is an auto repair shop in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/firestone-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair edina mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

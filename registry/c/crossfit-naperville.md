@@ -13,7 +13,7 @@ CrossFit is a gym in Naperville, IL at 670 West 5th Avenue #108, Naperville, IL 
 - Website: https://www.crossfit630.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 53% of gyms in Chicago, #11 of 14 gyms in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

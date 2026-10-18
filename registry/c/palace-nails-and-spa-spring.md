@@ -13,7 +13,7 @@ Palace Nails & Spa is a nail salon in Spring, TX at 6633 Spring Stuebner Road #3
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 6% of nail salons in Houston, #2 of 11 nail salons in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

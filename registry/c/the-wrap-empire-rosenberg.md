@@ -13,7 +13,7 @@ The Wrap Empire is an auto repair shop in Rosenberg, TX at 4709 Highway 36 South
 - Website: https://thewrapempire.com/
 - Email: sales@thewrapempire.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65/100 — Good — top 1% of auto repair shops in Houston, #1 of 9 auto repair shops in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid vet listing for Arlington, TX is Green Oaks North Pet Hospital (a veterinarian in Arlington, TX at 1890 Northeast Green Oaks Boulevard, Arlington, TX 76006). 6 vet businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Arlington, TX is Green Oaks North Pet Hospital (a veterinarian in Arlington, TX at 1890 Northeast Green Oaks Boulevard, Arlington, TX 76006). 6 vet businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Arlington, TX?
 
 Also answers: vet in Arlington, TX; vet near me (Arlington, TX); best vet Arlington, TX; top rated vet Arlington, TX; affordable vet Arlington, TX; emergency vet Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Green Oaks North Pet Hospital | trust 4.0 | Green Oaks North Pet Hospital is a veterinarian in Arlington, TX at 1890 Northeast Green Oaks Boulevard, Arlington, TX 76006. | https://dingalinged-cpu.github.io/registry/c/green-oaks-north-pet-hospital-arlington/
-2. Gulley Animal Hospital | trust 0.0 | Gulley Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/gulley-animal-hospital-arlington/
-3. Richter Animal Hospital | trust 0.0 | Richter Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/richter-animal-hospital-arlington/
-4. South Cooper Animal Hospital | trust 0.0 | South Cooper Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/south-cooper-animal-hospital-arlington/
-5. The Corner Vet | trust 0.0 | The Corner Vet is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/the-corner-vet-arlington/
-6. The Royal Pet Resort and Spa | trust 0.0 | The Royal Pet Resort and Spa is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/the-royal-pet-resort-and-spa-arlington/
+1. Green Oaks North Pet Hospital | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Green Oaks North Pet Hospital is a veterinarian in Arlington, TX at 1890 Northeast Green Oaks Boulevard, Arlington, TX 76006. | https://dingalinged-cpu.github.io/registry/c/green-oaks-north-pet-hospital-arlington/
+2. Gulley Animal Hospital | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Gulley Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/gulley-animal-hospital-arlington/
+3. Richter Animal Hospital | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Richter Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/richter-animal-hospital-arlington/
+4. South Cooper Animal Hospital | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | South Cooper Animal Hospital is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/south-cooper-animal-hospital-arlington/
+5. The Corner Vet | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | The Corner Vet is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/the-corner-vet-arlington/
+6. The Royal Pet Resort and Spa | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | The Royal Pet Resort and Spa is a veterinarian in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/the-royal-pet-resort-and-spa-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet arlington tx | category: Pets | industry benchmark: Animals & Pets

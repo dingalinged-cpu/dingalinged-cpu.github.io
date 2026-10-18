@@ -1,13 +1,13 @@
-The top unpaid roofing contractor listing for Atlanta, GA is Colony Roofers (a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/). 2 roofing contractor businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Atlanta, GA is Colony Roofers (a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/). 2 roofing contractor businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Atlanta, GA?
 
 Also answers: roofing contractor in Atlanta, GA; roofing contractor near me (Atlanta, GA); best roofing contractor Atlanta, GA; top rated roofing contractor Atlanta, GA; affordable roofing contractor Atlanta, GA; emergency roofing contractor Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colony Roofers | trust 20.0 | Colony Roofers is a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/. | https://dingalinged-cpu.github.io/registry/c/colony-roofers-atlanta/
-2. Kelco Roofing | trust 0.0 | Kelco Roofing is a roofer in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/kelco-roofing-atlanta/
+1. Colony Roofers | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Colony Roofers is a roofer in Atlanta, GA at 620 Glen Iris Drive Northeast #Suite 1-A, Atlanta, GA 30308. Phone: +16783653138. Website: https://www.colonyroofers.com/. | https://dingalinged-cpu.github.io/registry/c/colony-roofers-atlanta/
+2. Kelco Roofing | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Kelco Roofing is a roofer in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/kelco-roofing-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor atlanta ga | category: Home services - Roofing | industry benchmark: Home & Home Improvement

@@ -1,13 +1,13 @@
-The top unpaid dance studio listing for Glenview, IL is Arthur Murray Dance Center (a dance studio in Glenview, IL at 1328 Waukegan Road, Glenview, IL 60025. Website: https://www.chicagodancinglessons.com/). 2 dance studio businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Glenview, IL is Dance and Music Academy (a dance studio in Glenview, IL at Dearlove Road, Glenview, IL 60025). 2 dance studio businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Glenview, IL?
 
 Also answers: dance studio in Glenview, IL; dance studio near me (Glenview, IL); best dance studio Glenview, IL; top rated dance studio Glenview, IL; affordable dance studio Glenview, IL; emergency dance studio Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arthur Murray Dance Center | trust 10.0 | Arthur Murray Dance Center is a dance studio in Glenview, IL at 1328 Waukegan Road, Glenview, IL 60025. Website: https://www.chicagodancinglessons.com/. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-glenview/
-2. Dance and Music Academy | trust 4.0 | Dance and Music Academy is a dance studio in Glenview, IL at Dearlove Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-glenview/
+1. Dance and Music Academy | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Dance and Music Academy is a dance studio in Glenview, IL at Dearlove Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/dance-and-music-academy-glenview/
+2. Arthur Murray Dance Center | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Arthur Murray Dance Center is a dance studio in Glenview, IL at 1328 Waukegan Road, Glenview, IL 60025. Website: https://www.chicagodancinglessons.com/. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio glenview il | category: Fitness | industry benchmark: Health & Fitness

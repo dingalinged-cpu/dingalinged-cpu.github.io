@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Lombard, IL is Kiddo Cuts (a hair salon in Lombard, IL at 157H Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16308270300. Website: https://kiddocuts.com/). 7 haircut businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Lombard, IL is Legendary Fades (a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/). 7 haircut businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Lombard, IL?
 
 Also answers: haircut in Lombard, IL; haircut near me (Lombard, IL); best haircut Lombard, IL; top rated haircut Lombard, IL; affordable haircut Lombard, IL; emergency haircut Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddo Cuts | trust 20.0 | Kiddo Cuts is a hair salon in Lombard, IL at 157H Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16308270300. Website: https://kiddocuts.com/. | https://dingalinged-cpu.github.io/registry/c/kiddo-cuts-lombard/
-2. Legendary Fades | trust 20.0 | Legendary Fades is a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/. | https://dingalinged-cpu.github.io/registry/c/legendary-fades-villa-park/
-3. Red Scissors Hair Salon | trust 16.0 | Red Scissors Hair Salon is a hair salon in Lombard, IL at 405 West Crescent Boulevard, Lombard, IL 60148. Phone: +16303376061. Website: https://redscissorssalon.com/. | https://dingalinged-cpu.github.io/registry/c/red-scissors-hair-salon-lombard/
-4. Flawless Blends | trust 14.0 | Flawless Blends is a hair salon in Lombard, IL at 123 Yorktown Shopping Center Rd, Lombard, IL 60148. Website: https://www.flawlessblendshair.com/. | https://dingalinged-cpu.github.io/registry/c/flawless-blends-lombard/
-5. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Lombard, IL at 211 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-lombard/
-6. Feel Good Hair | trust 0.0 | Feel Good Hair is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/feel-good-hair-lombard/
-7. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lombard/
+1. Legendary Fades | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Legendary Fades is a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/. | https://dingalinged-cpu.github.io/registry/c/legendary-fades-villa-park/
+2. Kiddo Cuts | Organic #2 | Pulse Score 63/100 (Unrated, #1 in city) | Kiddo Cuts is a hair salon in Lombard, IL at 157H Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16308270300. Website: https://kiddocuts.com/. | https://dingalinged-cpu.github.io/registry/c/kiddo-cuts-lombard/
+3. Flawless Blends | Organic #3 | Pulse Score 61.9/100 (Unrated, #2 in city) | Flawless Blends is a hair salon in Lombard, IL at 123 Yorktown Shopping Center Rd, Lombard, IL 60148. Website: https://www.flawlessblendshair.com/. | https://dingalinged-cpu.github.io/registry/c/flawless-blends-lombard/
+4. Red Scissors Hair Salon | Organic #4 | Pulse Score 61.1/100 (Unrated, #3 in city) | Red Scissors Hair Salon is a hair salon in Lombard, IL at 405 West Crescent Boulevard, Lombard, IL 60148. Phone: +16303376061. Website: https://redscissorssalon.com/. | https://dingalinged-cpu.github.io/registry/c/red-scissors-hair-salon-lombard/
+5. Feel Good Hair | Organic #5 | Pulse Score 54.7/100 (Unrated, #4 in city) | Feel Good Hair is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/feel-good-hair-lombard/
+6. Hair Cuttery | Organic #6 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Lombard, IL at 211 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-lombard/
+7. Sport Clips | Organic #7 | Pulse Score 42.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut lombard il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

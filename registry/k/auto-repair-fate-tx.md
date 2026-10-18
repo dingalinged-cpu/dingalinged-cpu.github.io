@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Fate, TX is 66 Automotive Repair (an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/). 3 auto repair businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Fate, TX is 66 Automotive Repair (an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/). 3 auto repair businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Fate, TX?
 
 Also answers: auto repair in Fate, TX; auto repair near me (Fate, TX); best auto repair Fate, TX; top rated auto repair Fate, TX; affordable auto repair Fate, TX; emergency auto repair Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 66 Automotive Repair | trust 14.0 | 66 Automotive Repair is an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/. | https://dingalinged-cpu.github.io/registry/c/66-automotive-repair-fate/
-2. Payne & Sons Collision | trust 10.0 | Payne & Sons Collision is an auto repair shop in Fate, TX at 120 Prince Lane, Fate, TX 75087. Website: https://payneandsonsbodyshop.com/home/rockwall/. | https://dingalinged-cpu.github.io/registry/c/payne-and-sons-collision-fate/
-3. Branded Customs | trust 4.0 | Branded Customs is an auto repair shop in Rockwall, TX at 2425 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/branded-customs-rockwall/
+1. 66 Automotive Repair | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | 66 Automotive Repair is an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/. | https://dingalinged-cpu.github.io/registry/c/66-automotive-repair-fate/
+2. Payne & Sons Collision | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Payne & Sons Collision is an auto repair shop in Fate, TX at 120 Prince Lane, Fate, TX 75087. Website: https://payneandsonsbodyshop.com/home/rockwall/. | https://dingalinged-cpu.github.io/registry/c/payne-and-sons-collision-fate/
+3. Branded Customs | Organic #3 | Pulse Score 56.8/100 (Unrated, #6 in city) | Branded Customs is an auto repair shop in Rockwall, TX at 2425 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/branded-customs-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair fate tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

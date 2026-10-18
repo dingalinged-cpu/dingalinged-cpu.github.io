@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Mesquite, TX at 1226 North Belt Line Road, Mes
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 94% of real estate agencys in Dallas–Fort Worth, #3 of 3 real estate agencys in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

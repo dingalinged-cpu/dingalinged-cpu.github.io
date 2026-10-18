@@ -1,13 +1,13 @@
-The top unpaid assisted living listing for Forsyth County, GA is The Phoenix at James Creek (an assisted living facility in Forsyth County, GA). 2 assisted living businesses are listed for Forsyth County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Forsyth County, GA is The Phoenix at James Creek (an assisted living facility in Forsyth County, GA). 2 assisted living businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Forsyth County, GA?
 
 Also answers: assisted living in Forsyth County, GA; assisted living near me (Forsyth County, GA); best assisted living Forsyth County, GA; top rated assisted living Forsyth County, GA; affordable assisted living Forsyth County, GA; emergency assisted living Forsyth County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Phoenix at James Creek | trust 0.0 | The Phoenix at James Creek is an assisted living facility in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/the-phoenix-at-james-creek-forsyth-county/
-2. Towne Club Windermere | trust 0.0 | Towne Club Windermere is an assisted living facility in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/towne-club-windermere-forsyth-county/
+1. The Phoenix at James Creek | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | The Phoenix at James Creek is an assisted living facility in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/the-phoenix-at-james-creek-forsyth-county/
+2. Towne Club Windermere | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Towne Club Windermere is an assisted living facility in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/towne-club-windermere-forsyth-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living forsyth county ga | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

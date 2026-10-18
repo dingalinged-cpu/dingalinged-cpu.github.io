@@ -13,7 +13,7 @@ Ritual Moon is a tattoo shop in Madison, WI. Phone: +16087209961.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): PH,Mo-Su 10:00-22:00+
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of tattoo shops in Madison, #2 of 17 tattoo shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

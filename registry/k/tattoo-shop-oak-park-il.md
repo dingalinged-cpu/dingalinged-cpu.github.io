@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for Oak Park, IL is Ageless Arts Tattoo (a tattoo shop in Oak Park, IL at 6743 West North Avenue, Oak Park, IL 60302). 2 tattoo shop businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Oak Park, IL is Ageless Arts Tattoo (a tattoo shop in Oak Park, IL at 6743 West North Avenue, Oak Park, IL 60302). 2 tattoo shop businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Oak Park, IL?
 
 Also answers: tattoo shop in Oak Park, IL; tattoo shop near me (Oak Park, IL); best tattoo shop Oak Park, IL; top rated tattoo shop Oak Park, IL; affordable tattoo shop Oak Park, IL; emergency tattoo shop Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ageless Arts Tattoo | trust 8.0 | Ageless Arts Tattoo is a tattoo shop in Oak Park, IL at 6743 West North Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/ageless-arts-tattoo-oak-park/
-2. Median Line Tattoo Studio | trust 4.0 | Median Line Tattoo Studio is a tattoo shop in Oak Park, IL at 6906 West Roosevelt Road, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/median-line-tattoo-studio-oak-park/
+1. Ageless Arts Tattoo | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Ageless Arts Tattoo is a tattoo shop in Oak Park, IL at 6743 West North Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/ageless-arts-tattoo-oak-park/
+2. Median Line Tattoo Studio | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Median Line Tattoo Studio is a tattoo shop in Oak Park, IL at 6906 West Roosevelt Road, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/median-line-tattoo-studio-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop oak park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

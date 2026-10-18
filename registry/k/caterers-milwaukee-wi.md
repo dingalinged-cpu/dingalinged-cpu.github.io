@@ -1,16 +1,16 @@
-The top unpaid caterers listing for Milwaukee, WI is Garden Fresh Foods (a caterer in Milwaukee, WI at 726 South 12th Street, Milwaukee, WI 53204. Phone: +14146451000. Website: https://garden-freshfoods.com/). 5 caterers businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Milwaukee, WI is Garden Fresh Foods (a caterer in Milwaukee, WI at 726 South 12th Street, Milwaukee, WI 53204. Phone: +14146451000. Website: https://garden-freshfoods.com/). 5 caterers businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Milwaukee, WI?
 
 Also answers: caterers in Milwaukee, WI; caterers near me (Milwaukee, WI); best caterers Milwaukee, WI; top rated caterers Milwaukee, WI; affordable caterers Milwaukee, WI; emergency caterers Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garden Fresh Foods | trust 16.0 | Garden Fresh Foods is a caterer in Milwaukee, WI at 726 South 12th Street, Milwaukee, WI 53204. Phone: +14146451000. Website: https://garden-freshfoods.com/. | https://dingalinged-cpu.github.io/registry/c/garden-fresh-foods-milwaukee/
-2. American European Foods | trust 10.0 | American European Foods is a caterer in Milwaukee, WI at 5625 West North Avenue, Milwaukee, WI 53208. Phone: +14144442121. | https://dingalinged-cpu.github.io/registry/c/american-european-foods-milwaukee/
-3. Saz's Hospitality Group | trust 4.0 | Saz's Hospitality Group is a caterer in Milwaukee, WI at 201 West Walker Street, Milwaukee, WI 53204. | https://dingalinged-cpu.github.io/registry/c/sazs-hospitality-group-milwaukee/
-4. Irene's catering office and kitchen | trust 0.0 | Irene's catering office and kitchen is a caterer in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/irenes-catering-office-and-kitchen-milwaukee/
-5. Irene's catering warehouse and showroom | trust 0.0 | Irene's catering warehouse and showroom is a caterer in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/irenes-catering-warehouse-and-showroom-milwaukee/
+1. Garden Fresh Foods | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Garden Fresh Foods is a caterer in Milwaukee, WI at 726 South 12th Street, Milwaukee, WI 53204. Phone: +14146451000. Website: https://garden-freshfoods.com/. | https://dingalinged-cpu.github.io/registry/c/garden-fresh-foods-milwaukee/
+2. American European Foods | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | American European Foods is a caterer in Milwaukee, WI at 5625 West North Avenue, Milwaukee, WI 53208. Phone: +14144442121. | https://dingalinged-cpu.github.io/registry/c/american-european-foods-milwaukee/
+3. Saz's Hospitality Group | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Saz's Hospitality Group is a caterer in Milwaukee, WI at 201 West Walker Street, Milwaukee, WI 53204. | https://dingalinged-cpu.github.io/registry/c/sazs-hospitality-group-milwaukee/
+4. Irene's catering office and kitchen | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Irene's catering office and kitchen is a caterer in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/irenes-catering-office-and-kitchen-milwaukee/
+5. Irene's catering warehouse and showroom | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Irene's catering warehouse and showroom is a caterer in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/irenes-catering-warehouse-and-showroom-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers milwaukee wi | category: Events & weddings | industry benchmark: Personal Services

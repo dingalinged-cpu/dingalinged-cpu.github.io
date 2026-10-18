@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Prosper, TX is Pet Supplies Plus (a pet store in Prosper, TX at 4580 West University Drive #10, Prosper, TX). 3 pet store businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Prosper, TX is Pet Supplies Plus (a pet store in Prosper, TX at 4580 West University Drive #10, Prosper, TX). 3 pet store businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Prosper, TX?
 
 Also answers: pet store in Prosper, TX; pet store near me (Prosper, TX); best pet store Prosper, TX; top rated pet store Prosper, TX; affordable pet store Prosper, TX; emergency pet store Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | trust 3.0 | Pet Supplies Plus is a pet store in Prosper, TX at 4580 West University Drive #10, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-prosper/
-2. Hollywood Feed | trust 0.0 | Hollywood Feed is a pet store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-prosper/
-3. PetSmart | trust 0.0 | PetSmart is a pet store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-prosper/
+1. Pet Supplies Plus | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | Pet Supplies Plus is a pet store in Prosper, TX at 4580 West University Drive #10, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-prosper/
+2. PetSmart | Organic #2 | Pulse Score 41.1/100 (Building, #2 in city) | PetSmart is a pet store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-prosper/
+3. Hollywood Feed | Organic #3 | Pulse Score 41.1/100 (Unrated, #3 in city) | Hollywood Feed is a pet store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store prosper tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Automatic Transmission Design, Inc. is an auto repair shop in Village of Germant
 - Website: https://www.autotransdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Milwaukee, #1 of 1 auto repair shops in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

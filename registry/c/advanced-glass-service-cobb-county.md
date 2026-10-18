@@ -13,7 +13,7 @@ Advanced Glass Service is a window repair service in Cobb County, GA at 2949 Can
 - Website: https://advancedglassservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 43% of window repair services in Atlanta, #1 of 1 window repair services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

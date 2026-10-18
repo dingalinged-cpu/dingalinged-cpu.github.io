@@ -1,13 +1,13 @@
-The top unpaid florist listing for Schaumburg, IL is Tiare Flowers (a florist in Schaumburg, IL at 17 West Weathersfield Way, Schaumburg, IL 60193. Phone: +16303450423. Website: https://tiare-flowers.com/). 2 florist businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Schaumburg, IL is Tiare Flowers (a florist in Schaumburg, IL at 17 West Weathersfield Way, Schaumburg, IL 60193. Phone: +16303450423. Website: https://tiare-flowers.com/). 2 florist businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Schaumburg, IL?
 
 Also answers: florist in Schaumburg, IL; florist near me (Schaumburg, IL); best florist Schaumburg, IL; top rated florist Schaumburg, IL; affordable florist Schaumburg, IL; emergency florist Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiare Flowers | trust 20.0 | Tiare Flowers is a florist in Schaumburg, IL at 17 West Weathersfield Way, Schaumburg, IL 60193. Phone: +16303450423. Website: https://tiare-flowers.com/. | https://dingalinged-cpu.github.io/registry/c/tiare-flowers-schaumburg/
-2. Vivek Flowers | trust 0.0 | Vivek Flowers is a florist in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/vivek-flowers-schaumburg/
+1. Tiare Flowers | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Tiare Flowers is a florist in Schaumburg, IL at 17 West Weathersfield Way, Schaumburg, IL 60193. Phone: +16303450423. Website: https://tiare-flowers.com/. | https://dingalinged-cpu.github.io/registry/c/tiare-flowers-schaumburg/
+2. Vivek Flowers | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Vivek Flowers is a florist in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/vivek-flowers-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist schaumburg il | category: Events & weddings | industry benchmark: Personal Services

@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Joliet, IL is Azteca de Oro (an event venue in Joliet, IL at 1013 Collins Street, Joliet, IL 60432). 4 event venues businesses are listed for Joliet, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Joliet, IL is Joliet Union Station (an event venue in Joliet, IL at 50 East Jefferson Street, Joliet, IL 60432). 4 event venues businesses are listed for Joliet, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Joliet, IL?
 
 Also answers: event venues in Joliet, IL; event venues near me (Joliet, IL); best event venues Joliet, IL; top rated event venues Joliet, IL; affordable event venues Joliet, IL; emergency event venues Joliet, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Azteca de Oro | trust 4.0 | Azteca de Oro is an event venue in Joliet, IL at 1013 Collins Street, Joliet, IL 60432. | https://dingalinged-cpu.github.io/registry/c/azteca-de-oro-joliet/
-2. Joliet Union Station | trust 4.0 | Joliet Union Station is an event venue in Joliet, IL at 50 East Jefferson Street, Joliet, IL 60432. | https://dingalinged-cpu.github.io/registry/c/joliet-union-station-joliet/
-3. Jacob Henry Mansion Ballroom | trust 0.0 | Jacob Henry Mansion Ballroom is an event venue in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/jacob-henry-mansion-ballroom-joliet/
-4. The Forge | trust 0.0 | The Forge is an event venue in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/the-forge-joliet/
+1. Joliet Union Station | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Joliet Union Station is an event venue in Joliet, IL at 50 East Jefferson Street, Joliet, IL 60432. | https://dingalinged-cpu.github.io/registry/c/joliet-union-station-joliet/
+2. Azteca de Oro | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Azteca de Oro is an event venue in Joliet, IL at 1013 Collins Street, Joliet, IL 60432. | https://dingalinged-cpu.github.io/registry/c/azteca-de-oro-joliet/
+3. Jacob Henry Mansion Ballroom | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Jacob Henry Mansion Ballroom is an event venue in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/jacob-henry-mansion-ballroom-joliet/
+4. The Forge | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | The Forge is an event venue in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/the-forge-joliet/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues joliet il | category: Events & weddings | industry benchmark: Personal Services

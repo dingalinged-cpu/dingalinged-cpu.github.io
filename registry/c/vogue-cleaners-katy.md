@@ -13,7 +13,7 @@ Vogue Cleaners is a dry cleaner in Katy, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.2/100 — Unrated (not enough evidence yet) — top 100% of dry cleaners in Houston, #1 of 1 dry cleaners in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid dry cleaners listing for Mckinney, TX is Dapper Cleaners & Alterations (a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/). 6 dry cleaners businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Mckinney, TX is Dapper Cleaners & Alterations (a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/). 6 dry cleaners businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Mckinney, TX?
 
 Also answers: dry cleaners in Mckinney, TX; dry cleaners near me (Mckinney, TX); best dry cleaners Mckinney, TX; top rated dry cleaners Mckinney, TX; affordable dry cleaners Mckinney, TX; emergency dry cleaners Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dapper Cleaners & Alterations | trust 19.0 | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://dingalinged-cpu.github.io/registry/c/dapper-cleaners-and-alterations-mckinney/
-2. Comet Cleaners | trust 4.0 | Comet Cleaners is a dry cleaner in McKinney, TX at 7650 Stacy Road #270, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-mckinney/
-3. Eco Green Dry Clean Tailor | trust 3.0 | Eco Green Dry Clean Tailor is a dry cleaner in McKinney, TX at 5101 McKinney Ranch Parkway #150, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/eco-green-dry-clean-tailor-mckinney/
-4. Q Cleaners | trust 3.0 | Q Cleaners is a dry cleaner in McKinney, TX at 4610 Eldorado Parkway #900, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/q-cleaners-mckinney/
-5. SB Cleaners | trust 3.0 | SB Cleaners is a dry cleaner in McKinney, TX at 3549 Lakota Trail, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/sb-cleaners-mckinney/
-6. Comet Cleaners | trust 0.0 | Comet Cleaners is a dry cleaner in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-mckinney-n10247364560/
+1. Dapper Cleaners & Alterations | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Dapper Cleaners & Alterations is a dry cleaner in McKinney, TX at 9245 Virginia Parkway #600, McKinney, TX. Phone: +12148428147. Website: https://www.dappercleaner.com/. | https://dingalinged-cpu.github.io/registry/c/dapper-cleaners-and-alterations-mckinney/
+2. Eco Green Dry Clean Tailor | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Eco Green Dry Clean Tailor is a dry cleaner in McKinney, TX at 5101 McKinney Ranch Parkway #150, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/eco-green-dry-clean-tailor-mckinney/
+3. Q Cleaners | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Q Cleaners is a dry cleaner in McKinney, TX at 4610 Eldorado Parkway #900, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/q-cleaners-mckinney/
+4. SB Cleaners | Organic #4 | Pulse Score 60.3/100 (Unrated, #4 in city) | SB Cleaners is a dry cleaner in McKinney, TX at 3549 Lakota Trail, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/sb-cleaners-mckinney/
+5. Comet Cleaners | Organic #5 | Pulse Score 44.8/100 (Unrated, #5 in city) | Comet Cleaners is a dry cleaner in McKinney, TX at 7650 Stacy Road #270, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-mckinney/
+6. Comet Cleaners | Organic #6 | Pulse Score 41.9/100 (Unrated, #6 in city) | Comet Cleaners is a dry cleaner in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-mckinney-n10247364560/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners mckinney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid vet listing for Duncanville, TX is The Animal Care Center (a veterinarian in Duncanville, TX at 511 South Main Street, Duncanville, TX 75116. Phone: +19722982898. Website: https://theanimalcarecenter.net/). 2 vet businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Duncanville, TX is The Animal Care Center (a veterinarian in Duncanville, TX at 511 South Main Street, Duncanville, TX 75116. Phone: +19722982898. Website: https://theanimalcarecenter.net/). 2 vet businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Duncanville, TX?
 
 Also answers: vet in Duncanville, TX; vet near me (Duncanville, TX); best vet Duncanville, TX; top rated vet Duncanville, TX; affordable vet Duncanville, TX; emergency vet Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Animal Care Center | trust 16.0 | The Animal Care Center is a veterinarian in Duncanville, TX at 511 South Main Street, Duncanville, TX 75116. Phone: +19722982898. Website: https://theanimalcarecenter.net/. | https://dingalinged-cpu.github.io/registry/c/the-animal-care-center-duncanville/
-2. Pet Medical Center of Duncanville | trust 6.0 | Pet Medical Center of Duncanville is a veterinarian in Duncanville, TX. Website: https://www.pmcod.net/. | https://dingalinged-cpu.github.io/registry/c/pet-medical-center-of-duncanville-duncanville/
+1. The Animal Care Center | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | The Animal Care Center is a veterinarian in Duncanville, TX at 511 South Main Street, Duncanville, TX 75116. Phone: +19722982898. Website: https://theanimalcarecenter.net/. | https://dingalinged-cpu.github.io/registry/c/the-animal-care-center-duncanville/
+2. Pet Medical Center of Duncanville | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Pet Medical Center of Duncanville is a veterinarian in Duncanville, TX. Website: https://www.pmcod.net/. | https://dingalinged-cpu.github.io/registry/c/pet-medical-center-of-duncanville-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet duncanville tx | category: Pets | industry benchmark: Animals & Pets

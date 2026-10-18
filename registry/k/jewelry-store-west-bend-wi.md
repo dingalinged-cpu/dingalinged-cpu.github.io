@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for West Bend, WI is Maus Jewelers (a jewelry store in West Bend, WI at 950 South Main Street, West Bend, WI 53095. Website: https://wp.mausjewelers.com/). 1 jewelry store businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for West Bend, WI is Maus Jewelers (a jewelry store in West Bend, WI at 950 South Main Street, West Bend, WI 53095. Website: https://wp.mausjewelers.com/). 1 jewelry store businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in West Bend, WI?
 
 Also answers: jewelry store in West Bend, WI; jewelry store near me (West Bend, WI); best jewelry store West Bend, WI; top rated jewelry store West Bend, WI; affordable jewelry store West Bend, WI; emergency jewelry store West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maus Jewelers | trust 10.0 | Maus Jewelers is a jewelry store in West Bend, WI at 950 South Main Street, West Bend, WI 53095. Website: https://wp.mausjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/maus-jewelers-west-bend/
+1. Maus Jewelers | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Maus Jewelers is a jewelry store in West Bend, WI at 950 South Main Street, West Bend, WI 53095. Website: https://wp.mausjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/maus-jewelers-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store west bend wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

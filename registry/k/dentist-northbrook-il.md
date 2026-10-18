@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Northbrook, IL is Northbrook Dentist Office (a dentist in Northbrook, IL at 1535 Lake Cook Road #107, Northbrook, IL 60062. Phone: +18474570400. Website: https://northbrookdentistoffice.com/). 2 dentist businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Northbrook, IL is Northbrook Dentist Office (a dentist in Northbrook, IL at 1535 Lake Cook Road #107, Northbrook, IL 60062. Phone: +18474570400. Website: https://northbrookdentistoffice.com/). 2 dentist businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Northbrook, IL?
 
 Also answers: dentist in Northbrook, IL; dentist near me (Northbrook, IL); best dentist Northbrook, IL; top rated dentist Northbrook, IL; affordable dentist Northbrook, IL; emergency dentist Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northbrook Dentist Office | trust 20.0 | Northbrook Dentist Office is a dentist in Northbrook, IL at 1535 Lake Cook Road #107, Northbrook, IL 60062. Phone: +18474570400. Website: https://northbrookdentistoffice.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-dentist-office-northbrook/
-2. Skale Dental Professionals | trust 14.0 | Skale Dental Professionals is a dentist in Northbrook, IL at 1300 Meadow Rd, Suite 200, Northbrook, IL 60062. Website: https://www.drskale.com/. | https://dingalinged-cpu.github.io/registry/c/skale-dental-professionals-northbrook/
+1. Northbrook Dentist Office | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Northbrook Dentist Office is a dentist in Northbrook, IL at 1535 Lake Cook Road #107, Northbrook, IL 60062. Phone: +18474570400. Website: https://northbrookdentistoffice.com/. | https://dingalinged-cpu.github.io/registry/c/northbrook-dentist-office-northbrook/
+2. Skale Dental Professionals | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Skale Dental Professionals is a dentist in Northbrook, IL at 1300 Meadow Rd, Suite 200, Northbrook, IL 60062. Website: https://www.drskale.com/. | https://dingalinged-cpu.github.io/registry/c/skale-dental-professionals-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist northbrook il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

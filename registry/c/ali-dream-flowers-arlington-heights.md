@@ -13,7 +13,7 @@ Ali Dream Flowers is a florist in Arlington Heights, IL at 614 East Golf Road, A
 - Website: https://alidreamflowers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 9% of florists in Chicago, #1 of 1 florists in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

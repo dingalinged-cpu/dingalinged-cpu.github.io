@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for League City, TX is Royal Nails League City (a nail salon in League City, TX at 2047 W Main St, League City, TX 77573). 3 nail salon businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for League City, TX is Royal Nails League City (a nail salon in League City, TX at 2047 W Main St, League City, TX 77573). 3 nail salon businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in League City, TX?
 
 Also answers: nail salon in League City, TX; nail salon near me (League City, TX); best nail salon League City, TX; top rated nail salon League City, TX; affordable nail salon League City, TX; emergency nail salon League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Nails League City | trust 4.0 | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://dingalinged-cpu.github.io/registry/c/royal-nails-league-city-league-city/
-2. Nail Bar Of Texas | trust 0.0 | Nail Bar Of Texas is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/nail-bar-of-texas-league-city/
-3. The Polished Nail Spa | trust 0.0 | The Polished Nail Spa is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/the-polished-nail-spa-league-city/
+1. Royal Nails League City | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Royal Nails League City is a nail salon in League City, TX at 2047 W Main St, League City, TX 77573. | https://dingalinged-cpu.github.io/registry/c/royal-nails-league-city-league-city/
+2. Nail Bar Of Texas | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Nail Bar Of Texas is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/nail-bar-of-texas-league-city/
+3. The Polished Nail Spa | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | The Polished Nail Spa is a nail salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/the-polished-nail-spa-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon league city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

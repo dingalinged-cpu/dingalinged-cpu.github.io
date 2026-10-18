@@ -1,16 +1,16 @@
-The top unpaid dry cleaners listing for Des Plaines, IL is CD One Price Cleaners (a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018). 5 dry cleaners businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Des Plaines, IL is Master Craft Cleaners (a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016). 5 dry cleaners businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Des Plaines, IL?
 
 Also answers: dry cleaners in Des Plaines, IL; dry cleaners near me (Des Plaines, IL); best dry cleaners Des Plaines, IL; top rated dry cleaners Des Plaines, IL; affordable dry cleaners Des Plaines, IL; emergency dry cleaners Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CD One Price Cleaners | trust 4.0 | CD One Price Cleaners is a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-des-plaines/
-2. Master Craft Cleaners | trust 4.0 | Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/master-craft-cleaners-des-plaines/
-3. Teresa Tailor & Cleaners | trust 4.0 | Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/teresa-tailor-and-cleaners-des-plaines/
-4. The Cleanery Cleaners | trust 4.0 | The Cleanery Cleaners is a dry cleaner in Des Plaines, IL at 1526 Lee Street, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/the-cleanery-cleaners-des-plaines/
-5. Downtown Cleaners | trust 0.0 | Downtown Cleaners is a dry cleaner in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/downtown-cleaners-des-plaines/
+1. Master Craft Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/master-craft-cleaners-des-plaines/
+2. Teresa Tailor & Cleaners | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Teresa Tailor & Cleaners is a dry cleaner in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/teresa-tailor-and-cleaners-des-plaines/
+3. The Cleanery Cleaners | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | The Cleanery Cleaners is a dry cleaner in Des Plaines, IL at 1526 Lee Street, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/the-cleanery-cleaners-des-plaines/
+4. Downtown Cleaners | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Downtown Cleaners is a dry cleaner in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/downtown-cleaners-des-plaines/
+5. CD One Price Cleaners | Organic #5 | Pulse Score 45.4/100 (Building, #5 in city) | CD One Price Cleaners is a dry cleaner in Des Plaines, IL at 1387 Lee Street #100, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners des plaines il | category: Professional & financial services | industry benchmark: Finance & Insurance

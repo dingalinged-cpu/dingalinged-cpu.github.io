@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Carrollton, TX is Goodwill (a thrift store in Carrollton, TX at 2116 East Belt Line Road, Carrollton, TX 75006. Phone: +19724166051. Website: https://goodwilldallas.org/). 3 thrift store businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Carrollton, TX is Metrocrest Resale (a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/). 3 thrift store businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Carrollton, TX?
 
 Also answers: thrift store in Carrollton, TX; thrift store near me (Carrollton, TX); best thrift store Carrollton, TX; top rated thrift store Carrollton, TX; affordable thrift store Carrollton, TX; emergency thrift store Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 20.0 | Goodwill is a thrift store in Carrollton, TX at 2116 East Belt Line Road, Carrollton, TX 75006. Phone: +19724166051. Website: https://goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-carrollton/
-2. Metrocrest Resale | trust 20.0 | Metrocrest Resale is a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/. | https://dingalinged-cpu.github.io/registry/c/metrocrest-resale-carrollton/
-3. North Dallas ReSale | trust 7.0 | North Dallas ReSale is a thrift store in Carrollton, TX at 1927 East Belt Line Road, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/north-dallas-resale-carrollton/
+1. Metrocrest Resale | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Metrocrest Resale is a thrift store in Carrollton, TX at 2661 Midway Road #207, Carrollton, TX 75006. Phone: +19722501900. Website: https://metrocrestservices.org/metrocrest-resale/. | https://dingalinged-cpu.github.io/registry/c/metrocrest-resale-carrollton/
+2. North Dallas ReSale | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | North Dallas ReSale is a thrift store in Carrollton, TX at 1927 East Belt Line Road, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/north-dallas-resale-carrollton/
+3. Goodwill | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | Goodwill is a thrift store in Carrollton, TX at 2116 East Belt Line Road, Carrollton, TX 75006. Phone: +19724166051. Website: https://goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store carrollton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,22 +1,22 @@
-The top unpaid nail salon listing for Smyrna, GA is T and T Nails (a nail salon in Smyrna, GA at 2552 South Cobb Drive #H, Smyrna, GA 30080. Phone: +17703338234. Website: https://tandtnails-smyrna.com/). 11 nail salon businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Smyrna, GA is T and T Nails (a nail salon in Smyrna, GA at 2552 South Cobb Drive #H, Smyrna, GA 30080. Phone: +17703338234. Website: https://tandtnails-smyrna.com/). 11 nail salon businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Smyrna, GA?
 
 Also answers: nail salon in Smyrna, GA; nail salon near me (Smyrna, GA); best nail salon Smyrna, GA; top rated nail salon Smyrna, GA; affordable nail salon Smyrna, GA; emergency nail salon Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. T and T Nails | trust 20.0 | T and T Nails is a nail salon in Smyrna, GA at 2552 South Cobb Drive #H, Smyrna, GA 30080. Phone: +17703338234. Website: https://tandtnails-smyrna.com/. | https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-smyrna/
-2. Luxor Nail & Spa | trust 19.0 | Luxor Nail & Spa is a nail salon in Smyrna, GA at 2620 Cobb Parkway South #C, Smyrna, GA. Phone: +17706909740. Website: https://luxornailsspa.business.site/. | https://dingalinged-cpu.github.io/registry/c/luxor-nail-and-spa-smyrna/
-3. Conceit Nail & Beauty Studios | trust 13.0 | Conceit Nail & Beauty Studios is a nail salon in Smyrna, GA at 1265 West Spring Street, Smyrna, GA. Phone: +17703190449. | https://dingalinged-cpu.github.io/registry/c/conceit-nail-and-beauty-studios-smyrna/
-4. Super Nails | trust 13.0 | Super Nails is a nail salon in Smyrna, GA at 2520 Cobb Parkway South, Smyrna, GA. Phone: +17706120738. | https://dingalinged-cpu.github.io/registry/c/super-nails-smyrna/
-5. Clawd By Cuban Salon | trust 8.0 | Clawd By Cuban Salon is a nail salon in Smyrna, GA at 3240 South Cobb Drive #215, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/clawd-by-cuban-salon-smyrna/
-6. K Nails | trust 7.0 | K Nails is a nail salon in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/k-nails-smyrna/
-7. Nail Ten & Spa | trust 4.0 | Nail Ten & Spa is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-ten-and-spa-smyrna/
-8. Nails 1st | trust 4.0 | Nails 1st is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nails-1st-smyrna/
-9. Nail Style | trust 3.0 | Nail Style is a nail salon in Smyrna, GA at 1600 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-style-smyrna/
-10. Nail Care Spa | trust 0.0 | Nail Care Spa is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-care-spa-smyrna/
-11. Top Nails | trust 0.0 | Top Nails is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/top-nails-smyrna/
+1. T and T Nails | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | T and T Nails is a nail salon in Smyrna, GA at 2552 South Cobb Drive #H, Smyrna, GA 30080. Phone: +17703338234. Website: https://tandtnails-smyrna.com/. | https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-smyrna/
+2. Luxor Nail & Spa | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Luxor Nail & Spa is a nail salon in Smyrna, GA at 2620 Cobb Parkway South #C, Smyrna, GA. Phone: +17706909740. Website: https://luxornailsspa.business.site/. | https://dingalinged-cpu.github.io/registry/c/luxor-nail-and-spa-smyrna/
+3. Conceit Nail & Beauty Studios | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | Conceit Nail & Beauty Studios is a nail salon in Smyrna, GA at 1265 West Spring Street, Smyrna, GA. Phone: +17703190449. | https://dingalinged-cpu.github.io/registry/c/conceit-nail-and-beauty-studios-smyrna/
+4. Clawd By Cuban Salon | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Clawd By Cuban Salon is a nail salon in Smyrna, GA at 3240 South Cobb Drive #215, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/clawd-by-cuban-salon-smyrna/
+5. Nail Ten & Spa | Organic #5 | Pulse Score 58/100 (Unrated, #5 in city) | Nail Ten & Spa is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-ten-and-spa-smyrna/
+6. Nail Style | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Nail Style is a nail salon in Smyrna, GA at 1600 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-style-smyrna/
+7. Super Nails | Organic #7 | Pulse Score 46.4/100 (Unrated, #7 in city) | Super Nails is a nail salon in Smyrna, GA at 2520 Cobb Parkway South, Smyrna, GA. Phone: +17706120738. | https://dingalinged-cpu.github.io/registry/c/super-nails-smyrna/
+8. K Nails | Organic #8 | Pulse Score 46.2/100 (Building, #8 in city) | K Nails is a nail salon in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/k-nails-smyrna/
+9. Nails 1st | Organic #9 | Pulse Score 44.5/100 (Building, #9 in city) | Nails 1st is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nails-1st-smyrna/
+10. Nail Care Spa | Organic #10 | Pulse Score 43.8/100 (Unrated, #10 in city) | Nail Care Spa is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/nail-care-spa-smyrna/
+11. Top Nails | Organic #11 | Pulse Score 42.7/100 (Unrated, #11 in city) | Top Nails is a nail salon in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/top-nails-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon smyrna ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

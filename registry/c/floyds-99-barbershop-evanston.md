@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Evanston, IL at 1741 Sherman Avenue, Ev
 - Website: https://www.floydsbarbershop.com/evanston/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 80% of hair salons in Chicago, #19 of 20 hair salons in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

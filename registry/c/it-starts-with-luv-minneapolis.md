@@ -13,7 +13,7 @@ It Starts With Luv is a daycare in Minneapolis, MN at 2606 North 42nd Avenue, Mi
 - Website: https://www.iswl.org/
 - Email: iswllearning@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 10% of daycares in Minneapolis–St. Paul, #3 of 24 daycares in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

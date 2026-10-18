@@ -13,7 +13,7 @@ Sir Speedy is a printing service in Naperville, IL at 526 West 5th Avenue, Naper
 - Website: https://www.sirspeedy.com/napervilleil060/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 22% of printing services in Chicago, #4 of 6 printing services in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

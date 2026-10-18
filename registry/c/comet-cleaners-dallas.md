@@ -13,7 +13,7 @@ Comet Cleaners is a dry cleaner in Dallas, TX at 13536 Preston Road #106, Dallas
 - Website: https://cometcleaners.com/comet-cleaners-dallas-tx-75240/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 87% of dry cleaners in Dallas–Fort Worth, #40 of 43 dry cleaners in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Chicago, IL at 1289 North Milwaukee Avenue, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 39.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 91% of pet stores in Chicago, #53 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid insurance agents listing for Hickory Hills, IL is State Farm (an insurance agent in Hickory Hills, IL at 8623 West 95th Street, Hickory Hills, IL 60457). 1 insurance agents businesses are listed for Hickory Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Hickory Hills, IL is State Farm (an insurance agent in Hickory Hills, IL at 8623 West 95th Street, Hickory Hills, IL 60457). 1 insurance agents businesses are listed for Hickory Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Hickory Hills, IL?
 
 Also answers: insurance agents in Hickory Hills, IL; insurance agents near me (Hickory Hills, IL); best insurance agents Hickory Hills, IL; top rated insurance agents Hickory Hills, IL; affordable insurance agents Hickory Hills, IL; emergency insurance agents Hickory Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 4.0 | State Farm is an insurance agent in Hickory Hills, IL at 8623 West 95th Street, Hickory Hills, IL 60457. | https://dingalinged-cpu.github.io/registry/c/state-farm-hickory-hills/
+1. State Farm | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | State Farm is an insurance agent in Hickory Hills, IL at 8623 West 95th Street, Hickory Hills, IL 60457. | https://dingalinged-cpu.github.io/registry/c/state-farm-hickory-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents hickory hills il | category: insurance | industry benchmark: Finance & Insurance

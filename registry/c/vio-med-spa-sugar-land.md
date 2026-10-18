@@ -13,7 +13,7 @@ VIO Med Spa is a skin care studio in Sugar Land, TX at 15850 Southwest Freeway #
 - Website: https://www.viomedspa.com/locations/sugar-land
 - Email: sugarland@viomedspa.com
 - Opening hours (OSM syntax): Mo,We,Fr 10:00-18:00; Tu,Th 09:00-19:00; Sa 10:00-16:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 43% of skin care studios in Houston, #1 of 1 skin care studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Electric Ink Tattoo is a tattoo shop in Cherokee County, GA at 6845 Highway 92, 
 - Website: n/a
 - Email: tdtink@outlook.com
 - Opening hours (OSM syntax): Mo-Th 12:00-21:00; Fr-Sa 12:00-22:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 16% of tattoo shops in Atlanta, #1 of 1 tattoo shops in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.4, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

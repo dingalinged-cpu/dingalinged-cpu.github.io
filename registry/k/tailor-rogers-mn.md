@@ -1,12 +1,12 @@
-The top unpaid tailor listing for Rogers, MN is Universal Alteration (a tailor in Rogers, MN). 1 tailor businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Rogers, MN is Universal Alteration (a tailor in Rogers, MN). 1 tailor businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Rogers, MN?
 
 Also answers: tailor in Rogers, MN; tailor near me (Rogers, MN); best tailor Rogers, MN; top rated tailor Rogers, MN; affordable tailor Rogers, MN; emergency tailor Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Universal Alteration | trust 0.0 | Universal Alteration is a tailor in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/universal-alteration-rogers/
+1. Universal Alteration | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Universal Alteration is a tailor in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/universal-alteration-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor rogers mn | category: Professional & financial services | industry benchmark: Finance & Insurance

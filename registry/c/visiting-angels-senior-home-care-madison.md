@@ -13,7 +13,7 @@ Visiting Angels Senior Home Care is an assisted living facility in Madison, WI a
 - Website: https://www.visitingangels.com/madisonwi/home
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 100% of assisted living facilitys in Madison, #1 of 1 assisted living facilitys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

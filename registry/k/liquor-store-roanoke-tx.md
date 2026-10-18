@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Roanoke, TX is Simply Liquor (a liquor store in Roanoke, TX at 1224 North US Highway 377 #Suite 217, Roanoke, TX 76262. Phone: +16822377440). 3 liquor store businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Roanoke, TX is Simply Liquor (a liquor store in Roanoke, TX at 1224 North US Highway 377 #Suite 217, Roanoke, TX 76262. Phone: +16822377440). 3 liquor store businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Roanoke, TX?
 
 Also answers: liquor store in Roanoke, TX; liquor store near me (Roanoke, TX); best liquor store Roanoke, TX; top rated liquor store Roanoke, TX; affordable liquor store Roanoke, TX; emergency liquor store Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simply Liquor | trust 14.0 | Simply Liquor is a liquor store in Roanoke, TX at 1224 North US Highway 377 #Suite 217, Roanoke, TX 76262. Phone: +16822377440. | https://dingalinged-cpu.github.io/registry/c/simply-liquor-roanoke/
-2. Liquor Stop Roanoke | trust 4.0 | Liquor Stop Roanoke is a liquor store in Roanoke, TX at 1104 North US Highway 377 #104, Roanoke, TX 76262. | https://dingalinged-cpu.github.io/registry/c/liquor-stop-roanoke-roanoke/
-3. Shotz Liquor Store | trust 0.0 | Shotz Liquor Store is a liquor store in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-store-roanoke/
+1. Simply Liquor | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Simply Liquor is a liquor store in Roanoke, TX at 1224 North US Highway 377 #Suite 217, Roanoke, TX 76262. Phone: +16822377440. | https://dingalinged-cpu.github.io/registry/c/simply-liquor-roanoke/
+2. Liquor Stop Roanoke | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Liquor Stop Roanoke is a liquor store in Roanoke, TX at 1104 North US Highway 377 #104, Roanoke, TX 76262. | https://dingalinged-cpu.github.io/registry/c/liquor-stop-roanoke-roanoke/
+3. Shotz Liquor Store | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Shotz Liquor Store is a liquor store in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-store-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store roanoke tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

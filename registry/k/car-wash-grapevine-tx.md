@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Grapevine, TX is Wash Your Stuff (a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460). 5 car wash businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Grapevine, TX is Wash Your Stuff (a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460). 5 car wash businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Grapevine, TX?
 
 Also answers: car wash in Grapevine, TX; car wash near me (Grapevine, TX); best car wash Grapevine, TX; top rated car wash Grapevine, TX; affordable car wash Grapevine, TX; emergency car wash Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wash Your Stuff | trust 14.0 | Wash Your Stuff is a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460. | https://dingalinged-cpu.github.io/registry/c/wash-your-stuff-grapevine/
-2. Wash Masters | trust 4.0 | Wash Masters is a car wash in Grapevine, TX at 1001 East Northwest Highway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/wash-masters-grapevine/
-3. Caliber Car Wash | trust 0.0 | Caliber Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-car-wash-grapevine/
-4. Sam’s Club Car Wash | trust 0.0 | Sam’s Club Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/sam-s-club-car-wash-grapevine/
-5. Speedway Express Car Wash | trust 0.0 | Speedway Express Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/speedway-express-car-wash-grapevine/
+1. Wash Your Stuff | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Wash Your Stuff is a car wash in Grapevine, TX at 2201 Ira E Woods Avenue, Grapevine, TX 76051. Phone: +18173808460. | https://dingalinged-cpu.github.io/registry/c/wash-your-stuff-grapevine/
+2. Sam’s Club Car Wash | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Sam’s Club Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/sam-s-club-car-wash-grapevine/
+3. Speedway Express Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Speedway Express Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/speedway-express-car-wash-grapevine/
+4. Wash Masters | Organic #4 | Pulse Score 46.3/100 (Unrated, #4 in city) | Wash Masters is a car wash in Grapevine, TX at 1001 East Northwest Highway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/wash-masters-grapevine/
+5. Caliber Car Wash | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | Caliber Car Wash is a car wash in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-car-wash-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash grapevine tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ VS Dental Group is a dentist in Frisco, TX. Phone: +12143965950. Website: https:
 - Website: https://www.vsdentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 29% of dentists in Dallas–Fort Worth, #14 of 48 dentists in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

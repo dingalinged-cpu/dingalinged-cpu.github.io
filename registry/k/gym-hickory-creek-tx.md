@@ -1,12 +1,12 @@
-The top unpaid gym listing for Hickory Creek, TX is Outlaw Fit Camp (a gym in Hickory Creek, TX at 1039 Hickory Creek Boulevard, Hickory Creek, TX 75065). 1 gym businesses are listed for Hickory Creek, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Hickory Creek, TX is Outlaw Fit Camp (a gym in Hickory Creek, TX at 1039 Hickory Creek Boulevard, Hickory Creek, TX 75065). 1 gym businesses are listed for Hickory Creek, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Hickory Creek, TX?
 
 Also answers: gym in Hickory Creek, TX; gym near me (Hickory Creek, TX); best gym Hickory Creek, TX; top rated gym Hickory Creek, TX; affordable gym Hickory Creek, TX; emergency gym Hickory Creek, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Outlaw Fit Camp | trust 4.0 | Outlaw Fit Camp is a gym in Hickory Creek, TX at 1039 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/outlaw-fit-camp-hickory-creek/
+1. Outlaw Fit Camp | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Outlaw Fit Camp is a gym in Hickory Creek, TX at 1039 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/outlaw-fit-camp-hickory-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym hickory creek tx | category: Fitness | industry benchmark: Health & Fitness

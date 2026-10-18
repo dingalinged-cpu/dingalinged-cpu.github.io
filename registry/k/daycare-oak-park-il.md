@@ -1,16 +1,16 @@
-The top unpaid daycare listing for Oak Park, IL is Back 2 Basics Day Care (a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304). 5 daycare businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Oak Park, IL is Back 2 Basics Day Care (a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304). 5 daycare businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Oak Park, IL?
 
 Also answers: daycare in Oak Park, IL; daycare near me (Oak Park, IL); best daycare Oak Park, IL; top rated daycare Oak Park, IL; affordable daycare Oak Park, IL; emergency daycare Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Back 2 Basics Day Care | trust 4.0 | Back 2 Basics Day Care is a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/back-2-basics-day-care-oak-park/
-2. Blocks 24 hr Child Care Center | trust 4.0 | Blocks 24 hr Child Care Center is a daycare in Oak Park, IL at 815 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/blocks-24-hr-child-care-center-oak-park/
-3. The Day Nursery | trust 4.0 | The Day Nursery is a daycare in Oak Park, IL at 1139 Randolph Street, Oak Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/the-day-nursery-oak-park/
-4. ABC Toon Town Day Care | trust 0.0 | ABC Toon Town Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/abc-toon-town-day-care-oak-park/
-5. Little Beginnings Day Care | trust 0.0 | Little Beginnings Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/little-beginnings-day-care-oak-park/
+1. Back 2 Basics Day Care | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Back 2 Basics Day Care is a daycare in Oak Park, IL at 1009 Garfield Street, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/back-2-basics-day-care-oak-park/
+2. Blocks 24 hr Child Care Center | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Blocks 24 hr Child Care Center is a daycare in Oak Park, IL at 815 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/blocks-24-hr-child-care-center-oak-park/
+3. The Day Nursery | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | The Day Nursery is a daycare in Oak Park, IL at 1139 Randolph Street, Oak Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/the-day-nursery-oak-park/
+4. Little Beginnings Day Care | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Little Beginnings Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/little-beginnings-day-care-oak-park/
+5. ABC Toon Town Day Care | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | ABC Toon Town Day Care is a daycare in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/abc-toon-town-day-care-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare oak park il | category: Education & childcare | industry benchmark: Education & Instruction

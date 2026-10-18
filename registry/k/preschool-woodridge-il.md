@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Woodridge, IL is KinderCare (a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881). 2 preschool businesses are listed for Woodridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Woodridge, IL is KinderCare (a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881). 2 preschool businesses are listed for Woodridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Woodridge, IL?
 
 Also answers: preschool in Woodridge, IL; preschool near me (Woodridge, IL); best preschool Woodridge, IL; top rated preschool Woodridge, IL; affordable preschool Woodridge, IL; emergency preschool Woodridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | trust 19.0 | KinderCare is a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge-w565563655/
-2. KinderCare | trust 16.0 | KinderCare is a preschool in Woodridge, IL at 7450 Woodward Avenue, Woodridge, IL 60517. Phone: +16308524485. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge/
+1. KinderCare | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | KinderCare is a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, IL. Phone: +16308522611. Website: https://www.kindercare.com/our-centers/woodridge/il/000881. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge-w565563655/
+2. KinderCare | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | KinderCare is a preschool in Woodridge, IL at 7450 Woodward Avenue, Woodridge, IL 60517. Phone: +16308524485. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool woodridge il | category: Education & childcare | industry benchmark: Education & Instruction

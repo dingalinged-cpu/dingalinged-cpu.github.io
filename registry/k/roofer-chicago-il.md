@@ -1,14 +1,14 @@
-The top unpaid roofer listing for Chicago, IL is Heritage Contractors (a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/). 3 roofer businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Chicago, IL is Heritage Contractors (a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/). 3 roofer businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Chicago, IL?
 
 Also answers: roofer in Chicago, IL; roofer near me (Chicago, IL); best roofer Chicago, IL; top rated roofer Chicago, IL; affordable roofer Chicago, IL; emergency roofer Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heritage Contractors | trust 20.0 | Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/. | https://dingalinged-cpu.github.io/registry/c/heritage-contractors-chicago/
-2. Stewart Roofing | trust 4.0 | Stewart Roofing is a roofer in Chicago, IL at 361 East 115th Street, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/stewart-roofing-chicago/
-3. Becker Roofing Company | trust 0.0 | Becker Roofing Company is a roofer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/becker-roofing-company-chicago/
+1. Heritage Contractors | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Heritage Contractors is a roofer in Chicago, IL at 10800 South Campbell Avenue, Chicago, IL 60655. Phone: +17738870268. Website: https://www.heritagecontractors.net/. | https://dingalinged-cpu.github.io/registry/c/heritage-contractors-chicago/
+2. Stewart Roofing | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Stewart Roofing is a roofer in Chicago, IL at 361 East 115th Street, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/stewart-roofing-chicago/
+3. Becker Roofing Company | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Becker Roofing Company is a roofer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/becker-roofing-company-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer chicago il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

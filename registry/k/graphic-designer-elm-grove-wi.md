@@ -1,12 +1,12 @@
-The top unpaid graphic designer listing for Elm Grove, WI is Champagne Creative (a graphic designer in Elm Grove, WI at 925 Elm Grove Rd, #304, Elm Grove, WI 53122. Phone: +12627870644. Website: https://champagnecreativedesign.com/). 1 graphic designer businesses are listed for Elm Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for Elm Grove, WI is Champagne Creative (a graphic designer in Elm Grove, WI at 925 Elm Grove Rd, #304, Elm Grove, WI 53122. Phone: +12627870644. Website: https://champagnecreativedesign.com/). 1 graphic designer businesses are listed for Elm Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in Elm Grove, WI?
 
 Also answers: graphic designer in Elm Grove, WI; graphic designer near me (Elm Grove, WI); best graphic designer Elm Grove, WI; top rated graphic designer Elm Grove, WI; affordable graphic designer Elm Grove, WI; emergency graphic designer Elm Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Champagne Creative | trust 20.0 | Champagne Creative is a graphic designer in Elm Grove, WI at 925 Elm Grove Rd, #304, Elm Grove, WI 53122. Phone: +12627870644. Website: https://champagnecreativedesign.com/. | https://dingalinged-cpu.github.io/registry/c/champagne-creative-elm-grove/
+1. Champagne Creative | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Champagne Creative is a graphic designer in Elm Grove, WI at 925 Elm Grove Rd, #304, Elm Grove, WI 53122. Phone: +12627870644. Website: https://champagnecreativedesign.com/. | https://dingalinged-cpu.github.io/registry/c/champagne-creative-elm-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer elm grove wi | category: professional_marketing | industry benchmark: Business Services

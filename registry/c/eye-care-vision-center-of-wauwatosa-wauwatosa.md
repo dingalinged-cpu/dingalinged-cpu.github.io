@@ -13,7 +13,7 @@ Eye Care Vision Center of Wauwatosa is an eye care practice in Wauwatosa, WI at 
 - Website: https://www.eyecarevisioncenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:30; Tu 08:30-17:00; We 09:00-17:00; Th 08:30-17:00; Fr 08:30-15:00; Sa-Su off
-- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 16% of eye care practices in Milwaukee, #1 of 2 eye care practices in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 68.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

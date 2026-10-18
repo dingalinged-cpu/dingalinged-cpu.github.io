@@ -13,7 +13,7 @@ Ball Body Shop is an auto repair shop in Middleton, WI at 2225 Eagle Drive, Midd
 - Website: https://www.smarttoyota.com/Ball-Body-Shop.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Madison, #1 of 6 auto repair shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

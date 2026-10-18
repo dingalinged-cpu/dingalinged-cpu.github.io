@@ -13,7 +13,7 @@ Elara Orthodontics is a dentist in Fort Bend County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 51% of dentists in Houston, #2 of 15 dentists in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

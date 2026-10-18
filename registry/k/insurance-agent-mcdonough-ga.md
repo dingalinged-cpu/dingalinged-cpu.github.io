@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Mcdonough, GA is Mischel Pendleton: Allstate Insurance (an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html). 1 insurance agent businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Mcdonough, GA is Mischel Pendleton: Allstate Insurance (an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html). 1 insurance agent businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Mcdonough, GA?
 
 Also answers: insurance agent in Mcdonough, GA; insurance agent near me (Mcdonough, GA); best insurance agent Mcdonough, GA; top rated insurance agent Mcdonough, GA; affordable insurance agent Mcdonough, GA; emergency insurance agent Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mischel Pendleton: Allstate Insurance | trust 20.0 | Mischel Pendleton: Allstate Insurance is an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html. | https://dingalinged-cpu.github.io/registry/c/mischel-pendleton-allstate-insurance-mcdonough/
+1. Mischel Pendleton: Allstate Insurance | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Mischel Pendleton: Allstate Insurance is an insurance agent in McDonough, GA at 393 Keys Ferry St, McDonough, GA 30253. Phone: +17709543360. Website: https://agents.allstate.com/mischel-pendleton-mcdonough-ga.html. | https://dingalinged-cpu.github.io/registry/c/mischel-pendleton-allstate-insurance-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent mcdonough ga | category: Professional & financial services | industry benchmark: Finance & Insurance

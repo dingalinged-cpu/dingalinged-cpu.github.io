@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Verona, WI is La Petite Academy (a preschool in Verona, WI at 220 Cross Country Road, Verona, WI 53593. Phone: +16088484769). 2 preschool businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Verona, WI is The Goddard School (a preschool in Verona, WI at 102 Prairie Oaks Drive, Verona, WI 53593. Phone: +16085715980). 2 preschool businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Verona, WI?
 
 Also answers: preschool in Verona, WI; preschool near me (Verona, WI); best preschool Verona, WI; top rated preschool Verona, WI; affordable preschool Verona, WI; emergency preschool Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Petite Academy | trust 10.0 | La Petite Academy is a preschool in Verona, WI at 220 Cross Country Road, Verona, WI 53593. Phone: +16088484769. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-verona/
-2. The Goddard School | trust 10.0 | The Goddard School is a preschool in Verona, WI at 102 Prairie Oaks Drive, Verona, WI 53593. Phone: +16085715980. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-verona/
+1. The Goddard School | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | The Goddard School is a preschool in Verona, WI at 102 Prairie Oaks Drive, Verona, WI 53593. Phone: +16085715980. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-verona/
+2. La Petite Academy | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | La Petite Academy is a preschool in Verona, WI at 220 Cross Country Road, Verona, WI 53593. Phone: +16088484769. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool verona wi | category: Education & childcare | industry benchmark: Education & Instruction

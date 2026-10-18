@@ -1,14 +1,14 @@
-The top unpaid property management company listing for Smyrna, GA is Ashford 75 Leasing Office (a property management company in Smyrna, GA at 5000 South Lincoln Trace Avenue, Smyrna, GA 30080). 3 property management company businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Smyrna, GA is Ashford 75 Leasing Office (a property management company in Smyrna, GA at 5000 South Lincoln Trace Avenue, Smyrna, GA 30080). 3 property management company businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Smyrna, GA?
 
 Also answers: property management company in Smyrna, GA; property management company near me (Smyrna, GA); best property management company Smyrna, GA; top rated property management company Smyrna, GA; affordable property management company Smyrna, GA; emergency property management company Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashford 75 Leasing Office | trust 4.0 | Ashford 75 Leasing Office is a property management company in Smyrna, GA at 5000 South Lincoln Trace Avenue, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/ashford-75-leasing-office-smyrna/
-2. Village at Lake Park Clubhouse | trust 0.0 | Village at Lake Park Clubhouse is a property management company in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-at-lake-park-clubhouse-smyrna/
-3. Village at Lake Park Resident Services | trust 0.0 | Village at Lake Park Resident Services is a property management company in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-at-lake-park-resident-services-smyrna/
+1. Ashford 75 Leasing Office | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Ashford 75 Leasing Office is a property management company in Smyrna, GA at 5000 South Lincoln Trace Avenue, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/ashford-75-leasing-office-smyrna/
+2. Village at Lake Park Clubhouse | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Village at Lake Park Clubhouse is a property management company in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-at-lake-park-clubhouse-smyrna/
+3. Village at Lake Park Resident Services | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Village at Lake Park Resident Services is a property management company in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-at-lake-park-resident-services-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company smyrna ga | category: Professional & financial services | industry benchmark: Finance & Insurance

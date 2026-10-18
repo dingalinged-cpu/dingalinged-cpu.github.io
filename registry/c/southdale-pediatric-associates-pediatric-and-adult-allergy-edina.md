@@ -13,7 +13,7 @@ Southdale Pediatric Associates Pediatric & Adult Allergy is an allergist in Edin
 - Website: https://www.southdalepeds.com/locations/edina/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Fair — top 67% of allergists in Minneapolis–St. Paul, #2 of 2 allergists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

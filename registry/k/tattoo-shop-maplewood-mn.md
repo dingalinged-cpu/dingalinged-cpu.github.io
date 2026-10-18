@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Maplewood, MN is Fearless Tattoo Removal (a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/). 1 tattoo shop businesses are listed for Maplewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Maplewood, MN is Fearless Tattoo Removal (a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/). 1 tattoo shop businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Maplewood, MN?
 
 Also answers: tattoo shop in Maplewood, MN; tattoo shop near me (Maplewood, MN); best tattoo shop Maplewood, MN; top rated tattoo shop Maplewood, MN; affordable tattoo shop Maplewood, MN; emergency tattoo shop Maplewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fearless Tattoo Removal | trust 20.0 | Fearless Tattoo Removal is a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/. | https://dingalinged-cpu.github.io/registry/c/fearless-tattoo-removal-maplewood/
+1. Fearless Tattoo Removal | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Fearless Tattoo Removal is a tattoo shop in Maplewood, MN at 1973 Sloan Pl Ste 70, Maplewood, MN 55117. Phone: +16123878022. Website: https://www.fearlesstattooremoval.com/. | https://dingalinged-cpu.github.io/registry/c/fearless-tattoo-removal-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop maplewood mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

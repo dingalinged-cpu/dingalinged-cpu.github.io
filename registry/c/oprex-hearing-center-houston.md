@@ -13,7 +13,7 @@ Oprex Hearing Center is an audiologist in Houston, TX at 2615 Southwest Freeway 
 - Website: https://oprexhearingcenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Monday-Thursday: 8 am - 5 pm, Friday: 8 am - 12 pm, Saturday-Sunday: Closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 50% of audiologists in Houston, #1 of 2 audiologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

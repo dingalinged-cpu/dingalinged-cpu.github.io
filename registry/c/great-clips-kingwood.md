@@ -13,7 +13,7 @@ Great Clips is a hair salon in Kingwood, TX at 25653 Eastex Freeway #205, Kingwo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 76% of hair salons in Houston, #2 of 2 hair salons in Kingwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.4, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

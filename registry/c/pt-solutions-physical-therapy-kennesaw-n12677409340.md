@@ -13,7 +13,7 @@ PT Solutions Physical Therapy is a physical therapy clinic in Kennesaw, GA at 44
 - Website: https://ptsolutions.com/clinics/ga/wade-green-village/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 57% of physical therapy clinics in Atlanta, #3 of 4 physical therapy clinics in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

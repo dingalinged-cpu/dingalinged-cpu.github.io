@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Housto
 - Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-bellaire-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 75% of therapy practices in Houston, #15 of 21 therapy practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

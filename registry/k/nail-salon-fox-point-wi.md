@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Fox Point, WI is The Nail Bar (a nail salon in Fox Point, WI at 8667A North Port Washington Road, Fox Point, WI 53217. Phone: +14145401003). 1 nail salon businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Fox Point, WI is The Nail Bar (a nail salon in Fox Point, WI at 8667A North Port Washington Road, Fox Point, WI 53217. Phone: +14145401003). 1 nail salon businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Fox Point, WI?
 
 Also answers: nail salon in Fox Point, WI; nail salon near me (Fox Point, WI); best nail salon Fox Point, WI; top rated nail salon Fox Point, WI; affordable nail salon Fox Point, WI; emergency nail salon Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Nail Bar | trust 10.0 | The Nail Bar is a nail salon in Fox Point, WI at 8667A North Port Washington Road, Fox Point, WI 53217. Phone: +14145401003. | https://dingalinged-cpu.github.io/registry/c/the-nail-bar-fox-point/
+1. The Nail Bar | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | The Nail Bar is a nail salon in Fox Point, WI at 8667A North Port Washington Road, Fox Point, WI 53217. Phone: +14145401003. | https://dingalinged-cpu.github.io/registry/c/the-nail-bar-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon fox point wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

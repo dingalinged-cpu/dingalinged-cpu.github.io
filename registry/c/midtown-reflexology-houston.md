@@ -13,7 +13,7 @@ Midtown Reflexology is a massage studio in Houston, TX at 542 Waugh Drive, Houst
 - Website: https://www.midtownreflexology.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:45; Sa-Su 10:00-20:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of massage studios in Houston, #3 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

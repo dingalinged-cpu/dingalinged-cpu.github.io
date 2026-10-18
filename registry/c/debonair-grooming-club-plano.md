@@ -13,7 +13,7 @@ Debonair Grooming Club is a barber shop in Plano, TX at 3131 Custer Road #193, P
 - Website: https://debonairgroomingclub.square.site/
 - Email: debonairgroominglounge@gmail.com
 - Opening hours (OSM syntax): Tu 11:00-15:00; We-Th 11:00-18:00; Su 12:00-14:00
-- Registry Score: 66.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 4% of barber shops in Dallas–Fort Worth, #1 of 5 barber shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

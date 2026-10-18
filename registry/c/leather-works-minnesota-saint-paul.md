@@ -13,7 +13,7 @@ Leather Works Minnesota is a boutique in Saint Paul, MN at 736 Oakdale Avenue, S
 - Website: https://leatherworksminnesota.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 50% of boutiques in Minneapolis–St. Paul, #1 of 1 boutiques in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

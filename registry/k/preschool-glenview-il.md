@@ -1,16 +1,16 @@
-The top unpaid preschool listing for Glenview, IL is Knowledge Beginnings (a preschool in Glenview, IL at 2401 Compass Road, Glenview, IL 60026. Phone: +18477290204). 5 preschool businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Glenview, IL is Kiddie Academy of Glenview (a preschool in Glenview, IL at 662 Waukegan Road, Glenview, IL 60025. Website: https://kiddieacademy.com/academies/glenview/). 5 preschool businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Glenview, IL?
 
 Also answers: preschool in Glenview, IL; preschool near me (Glenview, IL); best preschool Glenview, IL; top rated preschool Glenview, IL; affordable preschool Glenview, IL; emergency preschool Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Knowledge Beginnings | trust 14.0 | Knowledge Beginnings is a preschool in Glenview, IL at 2401 Compass Road, Glenview, IL 60026. Phone: +18477290204. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-glenview/
-2. Kiddie Academy of Glenview | trust 10.0 | Kiddie Academy of Glenview is a preschool in Glenview, IL at 662 Waukegan Road, Glenview, IL 60025. Website: https://kiddieacademy.com/academies/glenview/. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-glenview-glenview/
-3. Children's Land Learning Center | trust 4.0 | Children's Land Learning Center is a preschool in Glenview, IL at 222 Greenwood Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/childrens-land-learning-center-glenview/
-4. Crème de la Crème | trust 4.0 | Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
-5. Kensington School of Glenview | trust 4.0 | Kensington School of Glenview is a preschool in Glenview, IL at 2160 Chestnut Avenue, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/kensington-school-of-glenview-glenview/
+1. Kiddie Academy of Glenview | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Kiddie Academy of Glenview is a preschool in Glenview, IL at 662 Waukegan Road, Glenview, IL 60025. Website: https://kiddieacademy.com/academies/glenview/. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-glenview-glenview/
+2. Kensington School of Glenview | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Kensington School of Glenview is a preschool in Glenview, IL at 2160 Chestnut Avenue, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/kensington-school-of-glenview-glenview/
+3. Children's Land Learning Center | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Children's Land Learning Center is a preschool in Glenview, IL at 222 Greenwood Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/childrens-land-learning-center-glenview/
+4. Knowledge Beginnings | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | Knowledge Beginnings is a preschool in Glenview, IL at 2401 Compass Road, Glenview, IL 60026. Phone: +18477290204. | https://dingalinged-cpu.github.io/registry/c/knowledge-beginnings-glenview/
+5. Crème de la Crème | Organic #5 | Pulse Score 45.9/100 (Unrated, #5 in city) | Crème de la Crème is a preschool in Glenview, IL at 2401 Patriot Boulevard, Glenview, IL 60026. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool glenview il | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Healthy4Life is a therapy practice in Naperville, IL at 1755 Park Street #300, N
 - Website: https://www.healthy4life.org/
 - Email: info@healthy4life.org
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 27% of therapy practices in Chicago, #2 of 10 therapy practices in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

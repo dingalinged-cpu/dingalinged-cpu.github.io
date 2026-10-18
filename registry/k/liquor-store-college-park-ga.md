@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for College Park, GA is Beverage City Liquor Store (a liquor store in Atlanta, GA at 1451 Virginia Avenue, Atlanta, GA 30337). 2 liquor store businesses are listed for College Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for College Park, GA is Beverage City Liquor Store (a liquor store in Atlanta, GA at 1451 Virginia Avenue, Atlanta, GA 30337). 2 liquor store businesses are listed for College Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in College Park, GA?
 
 Also answers: liquor store in College Park, GA; liquor store near me (College Park, GA); best liquor store College Park, GA; top rated liquor store College Park, GA; affordable liquor store College Park, GA; emergency liquor store College Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beverage City Liquor Store | trust 8.0 | Beverage City Liquor Store is a liquor store in Atlanta, GA at 1451 Virginia Avenue, Atlanta, GA 30337. | https://dingalinged-cpu.github.io/registry/c/beverage-city-liquor-store-atlanta/
-2. Old National Liquor | trust 4.0 | Old National Liquor is a liquor store in Atlanta, GA at 5075 Old National Highway, Atlanta, GA 30349. | https://dingalinged-cpu.github.io/registry/c/old-national-liquor-atlanta/
+1. Beverage City Liquor Store | Organic #1 | Pulse Score 58.5/100 (Unrated, #19 in city) | Beverage City Liquor Store is a liquor store in Atlanta, GA at 1451 Virginia Avenue, Atlanta, GA 30337. | https://dingalinged-cpu.github.io/registry/c/beverage-city-liquor-store-atlanta/
+2. Old National Liquor | Organic #2 | Pulse Score 56.7/100 (Unrated, #26 in city) | Old National Liquor is a liquor store in Atlanta, GA at 5075 Old National Highway, Atlanta, GA 30349. | https://dingalinged-cpu.github.io/registry/c/old-national-liquor-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store college park ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

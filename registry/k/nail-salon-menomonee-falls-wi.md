@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Menomonee Falls, WI is Cassia Nail Spa (a nail salon in Menomonee Falls, WI at N89W16853 Appleton Avenue, Menomonee Falls, WI 53051). 1 nail salon businesses are listed for Menomonee Falls, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Menomonee Falls, WI is Cassia Nail Spa (a nail salon in Menomonee Falls, WI at N89W16853 Appleton Avenue, Menomonee Falls, WI 53051). 1 nail salon businesses are listed for Menomonee Falls, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Menomonee Falls, WI?
 
 Also answers: nail salon in Menomonee Falls, WI; nail salon near me (Menomonee Falls, WI); best nail salon Menomonee Falls, WI; top rated nail salon Menomonee Falls, WI; affordable nail salon Menomonee Falls, WI; emergency nail salon Menomonee Falls, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cassia Nail Spa | trust 4.0 | Cassia Nail Spa is a nail salon in Menomonee Falls, WI at N89W16853 Appleton Avenue, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/cassia-nail-spa-menomonee-falls/
+1. Cassia Nail Spa | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Cassia Nail Spa is a nail salon in Menomonee Falls, WI at N89W16853 Appleton Avenue, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/cassia-nail-spa-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon menomonee falls wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

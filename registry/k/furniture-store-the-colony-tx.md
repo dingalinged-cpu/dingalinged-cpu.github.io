@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for The Colony, TX is Nebraska Furniture Mart (a furniture store in The Colony, TX at 5600 Nebraska Furniture Mart Drive, The Colony, TX 75056. Phone: +19726683000. Website: https://www.nfm.com/dallas-ft-worth-store). 3 furniture store businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for The Colony, TX is Nebraska Furniture Mart (a furniture store in The Colony, TX at 5600 Nebraska Furniture Mart Drive, The Colony, TX 75056. Phone: +19726683000. Website: https://www.nfm.com/dallas-ft-worth-store). 3 furniture store businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in The Colony, TX?
 
 Also answers: furniture store in The Colony, TX; furniture store near me (The Colony, TX); best furniture store The Colony, TX; top rated furniture store The Colony, TX; affordable furniture store The Colony, TX; emergency furniture store The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nebraska Furniture Mart | trust 20.0 | Nebraska Furniture Mart is a furniture store in The Colony, TX at 5600 Nebraska Furniture Mart Drive, The Colony, TX 75056. Phone: +19726683000. Website: https://www.nfm.com/dallas-ft-worth-store. | https://dingalinged-cpu.github.io/registry/c/nebraska-furniture-mart-the-colony/
-2. Chair King Backyard Store | trust 0.0 | Chair King Backyard Store is a furniture store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-backyard-store-the-colony/
-3. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-the-colony/
+1. Nebraska Furniture Mart | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Nebraska Furniture Mart is a furniture store in The Colony, TX at 5600 Nebraska Furniture Mart Drive, The Colony, TX 75056. Phone: +19726683000. Website: https://www.nfm.com/dallas-ft-worth-store. | https://dingalinged-cpu.github.io/registry/c/nebraska-furniture-mart-the-colony/
+2. Rooms To Go | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Rooms To Go is a furniture store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-the-colony/
+3. Chair King Backyard Store | Organic #3 | Pulse Score 41.9/100 (Unrated, #3 in city) | Chair King Backyard Store is a furniture store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-backyard-store-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store the colony tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

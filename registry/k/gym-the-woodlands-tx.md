@@ -1,18 +1,18 @@
-The top unpaid gym listing for The Woodlands, TX is Anytime Fitness (a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090). 7 gym businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for The Woodlands, TX is F.I.T. Human Performance (a gym in The Woodlands, TX at 27240 Glen Loch Drive, The Woodlands, TX). 7 gym businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in The Woodlands, TX?
 
 Also answers: gym in The Woodlands, TX; gym near me (The Woodlands, TX); best gym The Woodlands, TX; top rated gym The Woodlands, TX; affordable gym The Woodlands, TX; emergency gym The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 14.0 | Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/
-2. 24 Hour Fitness | trust 3.0 | 24 Hour Fitness is a gym in The Woodlands, TX at 1800 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-the-woodlands/
-3. F.I.T. Human Performance | trust 3.0 | F.I.T. Human Performance is a gym in The Woodlands, TX at 27240 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/f-i-t-human-performance-the-woodlands/
-4. Athletic Center | trust 0.0 | Athletic Center is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/athletic-center-the-woodlands/
-5. Koko Fit Club | trust 0.0 | Koko Fit Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/koko-fit-club-the-woodlands/
-6. Mastros Ocean Club | trust 0.0 | Mastros Ocean Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/mastros-ocean-club-the-woodlands/
-7. The Zoo Health Club | trust 0.0 | The Zoo Health Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-zoo-health-club-the-woodlands/
+1. F.I.T. Human Performance | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | F.I.T. Human Performance is a gym in The Woodlands, TX at 27240 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/f-i-t-human-performance-the-woodlands/
+2. Mastros Ocean Club | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Mastros Ocean Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/mastros-ocean-club-the-woodlands/
+3. Athletic Center | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Athletic Center is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/athletic-center-the-woodlands/
+4. Koko Fit Club | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Koko Fit Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/koko-fit-club-the-woodlands/
+5. The Zoo Health Club | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | The Zoo Health Club is a gym in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-zoo-health-club-the-woodlands/
+6. Anytime Fitness | Organic #6 | Pulse Score 48.4/100 (Building, #5 in city) | Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/
+7. 24 Hour Fitness | Organic #7 | Pulse Score 44.2/100 (Building, #6 in city) | 24 Hour Fitness is a gym in The Woodlands, TX at 1800 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym the woodlands tx | category: Fitness | industry benchmark: Health & Fitness

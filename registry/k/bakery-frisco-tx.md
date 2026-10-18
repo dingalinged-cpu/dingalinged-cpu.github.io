@@ -1,16 +1,16 @@
-The top unpaid bakery listing for Frisco, TX is Croix Bakehouse (a bakery in Frisco, TX at 5355 Dallas Parkway #610, Frisco, TX). 5 bakery businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Frisco, TX is Croix Bakehouse (a bakery in Frisco, TX at 5355 Dallas Parkway #610, Frisco, TX). 5 bakery businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Frisco, TX?
 
 Also answers: bakery in Frisco, TX; bakery near me (Frisco, TX); best bakery Frisco, TX; top rated bakery Frisco, TX; affordable bakery Frisco, TX; emergency bakery Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Croix Bakehouse | trust 7.0 | Croix Bakehouse is a bakery in Frisco, TX at 5355 Dallas Parkway #610, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/croix-bakehouse-frisco/
-2. La Finca Coffee & Bakery | trust 6.0 | La Finca Coffee & Bakery is a bakery in Frisco, TX. Website: https://lafincacoffeebakery.com/. | https://dingalinged-cpu.github.io/registry/c/la-finca-coffee-and-bakery-frisco/
-3. Unrefined Bakery | trust 3.0 | Unrefined Bakery is a bakery in Frisco, TX at 3411 Preston Road #5, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/unrefined-bakery-frisco/
-4. Mochinut | trust 0.0 | Mochinut is a bakery in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/mochinut-frisco/
-5. Paris Baguette | trust 0.0 | Paris Baguette is a bakery in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-frisco/
+1. Croix Bakehouse | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Croix Bakehouse is a bakery in Frisco, TX at 5355 Dallas Parkway #610, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/croix-bakehouse-frisco/
+2. La Finca Coffee & Bakery | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | La Finca Coffee & Bakery is a bakery in Frisco, TX. Website: https://lafincacoffeebakery.com/. | https://dingalinged-cpu.github.io/registry/c/la-finca-coffee-and-bakery-frisco/
+3. Unrefined Bakery | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Unrefined Bakery is a bakery in Frisco, TX at 3411 Preston Road #5, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/unrefined-bakery-frisco/
+4. Mochinut | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | Mochinut is a bakery in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/mochinut-frisco/
+5. Paris Baguette | Organic #5 | Pulse Score 41.7/100 (Unrated, #5 in city) | Paris Baguette is a bakery in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery frisco tx | category: Events & weddings | industry benchmark: Personal Services

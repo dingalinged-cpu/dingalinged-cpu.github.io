@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for North Richland Hills, TX is Leukemia Texas Donation Center (a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/). 2 thrift store businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for North Richland Hills, TX is Second Glance (a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909). 2 thrift store businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in North Richland Hills, TX?
 
 Also answers: thrift store in North Richland Hills, TX; thrift store near me (North Richland Hills, TX); best thrift store North Richland Hills, TX; top rated thrift store North Richland Hills, TX; affordable thrift store North Richland Hills, TX; emergency thrift store North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leukemia Texas Donation Center | trust 14.0 | Leukemia Texas Donation Center is a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/. | https://dingalinged-cpu.github.io/registry/c/leukemia-texas-donation-center-north-richland-hills/
-2. Second Glance | trust 14.0 | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
+1. Second Glance | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Second Glance is a thrift store in North Richland Hills, TX at 6308 Rufe Snow Drive, North Richland Hills, TX 76148. Phone: +18175811909. | https://dingalinged-cpu.github.io/registry/c/second-glance-north-richland-hills/
+2. Leukemia Texas Donation Center | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Leukemia Texas Donation Center is a thrift store in North Richland Hills, TX at 6702 Davis Boulevard, North Richland Hills, TX 76182. Website: https://leukemiatexas.org/haltom-thrift/. | https://dingalinged-cpu.github.io/registry/c/leukemia-texas-donation-center-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store north richland hills tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

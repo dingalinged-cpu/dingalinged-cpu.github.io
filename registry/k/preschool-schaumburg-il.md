@@ -1,18 +1,18 @@
-The top unpaid preschool listing for Schaumburg, IL is Bright Horizons (a preschool in Schaumburg, IL at 1410 North Roosevelt Boulevard, Schaumburg, IL 60173). 7 preschool businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Schaumburg, IL is Learning Experience Childcare (a preschool in Schaumburg, IL). 7 preschool businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Schaumburg, IL?
 
 Also answers: preschool in Schaumburg, IL; preschool near me (Schaumburg, IL); best preschool Schaumburg, IL; top rated preschool Schaumburg, IL; affordable preschool Schaumburg, IL; emergency preschool Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bright Horizons | trust 8.0 | Bright Horizons is a preschool in Schaumburg, IL at 1410 North Roosevelt Boulevard, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-schaumburg/
-2. Kinder Care | trust 4.0 | Kinder Care is a preschool in Schaumburg, IL at 650 West Wise Road, Schaumburg, IL 60193. | https://dingalinged-cpu.github.io/registry/c/kinder-care-schaumburg/
-3. Early Childhood Center | trust 0.0 | Early Childhood Center is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-schaumburg/
-4. KinderCare | trust 0.0 | KinderCare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg/
-5. Kindercare | trust 0.0 | Kindercare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg-w650458919/
-6. Learning Experience Childcare | trust 0.0 | Learning Experience Childcare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/learning-experience-childcare-schaumburg/
-7. Tutor Time | trust 0.0 | Tutor Time is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/tutor-time-schaumburg/
+1. Learning Experience Childcare | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Learning Experience Childcare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/learning-experience-childcare-schaumburg/
+2. Bright Horizons | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Bright Horizons is a preschool in Schaumburg, IL at 1410 North Roosevelt Boulevard, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-schaumburg/
+3. Kinder Care | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Kinder Care is a preschool in Schaumburg, IL at 650 West Wise Road, Schaumburg, IL 60193. | https://dingalinged-cpu.github.io/registry/c/kinder-care-schaumburg/
+4. KinderCare | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | KinderCare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg/
+5. Kindercare | Organic #5 | Pulse Score 43.1/100 (Building, #5 in city) | Kindercare is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-schaumburg-w650458919/
+6. Early Childhood Center | Organic #6 | Pulse Score 43/100 (Unrated, #6 in city) | Early Childhood Center is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-schaumburg/
+7. Tutor Time | Organic #7 | Pulse Score 42.6/100 (Building, #7 in city) | Tutor Time is a preschool in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/tutor-time-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool schaumburg il | category: Education & childcare | industry benchmark: Education & Instruction

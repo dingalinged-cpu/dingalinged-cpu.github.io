@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Mesquite, TX is Christian Care Center of Mesquite (an assisted living facility in Mesquite, TX at 5130 Northwest Drive, Mesquite, TX 75150. Website: https://christiancaremesquite.org/). 1 assisted living businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Mesquite, TX is Christian Care Center of Mesquite (an assisted living facility in Mesquite, TX at 5130 Northwest Drive, Mesquite, TX 75150. Website: https://christiancaremesquite.org/). 1 assisted living businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Mesquite, TX?
 
 Also answers: assisted living in Mesquite, TX; assisted living near me (Mesquite, TX); best assisted living Mesquite, TX; top rated assisted living Mesquite, TX; affordable assisted living Mesquite, TX; emergency assisted living Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Care Center of Mesquite | trust 10.0 | Christian Care Center of Mesquite is an assisted living facility in Mesquite, TX at 5130 Northwest Drive, Mesquite, TX 75150. Website: https://christiancaremesquite.org/. | https://dingalinged-cpu.github.io/registry/c/christian-care-center-of-mesquite-mesquite/
+1. Christian Care Center of Mesquite | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Christian Care Center of Mesquite is an assisted living facility in Mesquite, TX at 5130 Northwest Drive, Mesquite, TX 75150. Website: https://christiancaremesquite.org/. | https://dingalinged-cpu.github.io/registry/c/christian-care-center-of-mesquite-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living mesquite tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

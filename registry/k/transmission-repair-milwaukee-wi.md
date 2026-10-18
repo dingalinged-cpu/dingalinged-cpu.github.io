@@ -1,12 +1,12 @@
-The top unpaid transmission repair listing for Milwaukee, WI is DJ's Transmissions (an auto repair shop in Milwaukee, WI at 7325 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144660108. Website: https://djstransmissions.com/). 1 transmission repair businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Milwaukee, WI is DJ's Transmissions (an auto repair shop in Milwaukee, WI at 7325 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144660108. Website: https://djstransmissions.com/). 1 transmission repair businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Milwaukee, WI?
 
 Also answers: transmission repair in Milwaukee, WI; transmission repair near me (Milwaukee, WI); best transmission repair Milwaukee, WI; top rated transmission repair Milwaukee, WI; affordable transmission repair Milwaukee, WI; emergency transmission repair Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DJ's Transmissions | trust 16.0 | DJ's Transmissions is an auto repair shop in Milwaukee, WI at 7325 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144660108. Website: https://djstransmissions.com/. | https://dingalinged-cpu.github.io/registry/c/djs-transmissions-milwaukee/
+1. DJ's Transmissions | Organic #1 | Pulse Score 62.8/100 (Unrated, #4 in city) | DJ's Transmissions is an auto repair shop in Milwaukee, WI at 7325 West Fond du Lac Avenue, Milwaukee, WI 53218. Phone: +14144660108. Website: https://djstransmissions.com/. | https://dingalinged-cpu.github.io/registry/c/djs-transmissions-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair milwaukee wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

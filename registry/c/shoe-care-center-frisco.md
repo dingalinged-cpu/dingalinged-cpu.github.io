@@ -13,7 +13,7 @@ Shoe Care Center is a shoe repair in Frisco, TX at 4760 Preston Road #248, Frisc
 - Website: https://shoecarecenters.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Good — top 38% of shoe repairs in Dallas–Fort Worth, #1 of 1 shoe repairs in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

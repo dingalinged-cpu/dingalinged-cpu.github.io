@@ -13,7 +13,7 @@ ZOOM Dry Cleaning is a dry cleaner in Irving, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 35% of dry cleaners in Dallas–Fort Worth, #1 of 4 dry cleaners in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

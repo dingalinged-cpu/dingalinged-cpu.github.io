@@ -1,16 +1,16 @@
-The top unpaid pet store listing for Smyrna, GA is Pet Supplies Plus (a pet store in Smyrna, GA at 3240 South Cobb Drive #750, Smyrna, GA 30080. Phone: +17704310029. Website: https://www.petsuppliesplus.com/store/ga/smyrna/4020-smyrna/4020). 5 pet store businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Smyrna, GA is Lickers & Whines (a pet store in Smyrna, GA at 1265 West Spring Street, Smyrna, GA). 5 pet store businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Smyrna, GA?
 
 Also answers: pet store in Smyrna, GA; pet store near me (Smyrna, GA); best pet store Smyrna, GA; top rated pet store Smyrna, GA; affordable pet store Smyrna, GA; emergency pet store Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Smyrna, GA at 3240 South Cobb Drive #750, Smyrna, GA 30080. Phone: +17704310029. Website: https://www.petsuppliesplus.com/store/ga/smyrna/4020-smyrna/4020. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-smyrna/
-2. Petco | trust 20.0 | Petco is a pet store in Smyrna, GA at 4480 South Cobb Drive #B, Smyrna, GA 30080. Phone: +17708039481. Website: https://stores.petco.com/ga/smyrna/pet-supplies-smyrna-ga-5508.html. | https://dingalinged-cpu.github.io/registry/c/petco-smyrna/
-3. PetSmart | trust 20.0 | PetSmart is a pet store in Smyrna, GA at 2540 Cumberland Boulevard, Smyrna, GA 30080. Phone: +17704328250. Website: https://stores.petsmart.com/Store/Details/291. | https://dingalinged-cpu.github.io/registry/c/petsmart-smyrna/
-4. Lickers & Whines | trust 7.0 | Lickers & Whines is a pet store in Smyrna, GA at 1265 West Spring Street, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/lickers-and-whines-smyrna/
-5. Pet Supermarket | trust 0.0 | Pet Supermarket is a pet store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-smyrna/
+1. Lickers & Whines | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Lickers & Whines is a pet store in Smyrna, GA at 1265 West Spring Street, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/lickers-and-whines-smyrna/
+2. Pet Supplies Plus | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Pet Supplies Plus is a pet store in Smyrna, GA at 3240 South Cobb Drive #750, Smyrna, GA 30080. Phone: +17704310029. Website: https://www.petsuppliesplus.com/store/ga/smyrna/4020-smyrna/4020. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-smyrna/
+3. Petco | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Petco is a pet store in Smyrna, GA at 4480 South Cobb Drive #B, Smyrna, GA 30080. Phone: +17708039481. Website: https://stores.petco.com/ga/smyrna/pet-supplies-smyrna-ga-5508.html. | https://dingalinged-cpu.github.io/registry/c/petco-smyrna/
+4. PetSmart | Organic #4 | Pulse Score 46.6/100 (Building, #4 in city) | PetSmart is a pet store in Smyrna, GA at 2540 Cumberland Boulevard, Smyrna, GA 30080. Phone: +17704328250. Website: https://stores.petsmart.com/Store/Details/291. | https://dingalinged-cpu.github.io/registry/c/petsmart-smyrna/
+5. Pet Supermarket | Organic #5 | Pulse Score 40.9/100 (Building, #5 in city) | Pet Supermarket is a pet store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store smyrna ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

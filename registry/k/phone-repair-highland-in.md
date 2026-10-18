@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Highland, IN is uBreakiFix (a phone repair shop in Highland, IN). 1 phone repair businesses are listed for Highland, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Highland, IN is uBreakiFix (a phone repair shop in Highland, IN). 1 phone repair businesses are listed for Highland, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Highland, IN?
 
 Also answers: phone repair in Highland, IN; phone repair near me (Highland, IN); best phone repair Highland, IN; top rated phone repair Highland, IN; affordable phone repair Highland, IN; emergency phone repair Highland, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 0.0 | uBreakiFix is a phone repair shop in Highland, IN. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-highland/
+1. uBreakiFix | Organic #1 | Pulse Score 41.5/100 (Building, #1 in city) | uBreakiFix is a phone repair shop in Highland, IN. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-highland/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair highland in | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Chicago, IL at 3328 North Western Avenue, Chica
 - Website: https://www.orangetheory.com/en-us/locations/illinois/chicago/3328-n-western-ave/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-19:45, Sa-Su 07:15-12:00
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 49% of gyms in Chicago, #88 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Old Town Oil is a bakery in Evanston, IL at 1924 Central Street, Evanston, IL 60
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 73% of bakerys in Chicago, #6 of 6 bakerys in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

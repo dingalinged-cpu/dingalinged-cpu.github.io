@@ -1,18 +1,18 @@
-The top unpaid thrift store listing for Smyrna, GA is Revive Consignment (a thrift store in Smyrna, GA at 2514 Cobb Parkway South, Smyrna, GA. Phone: +17704854553. Website: https://reviveconsignment.com/smyrna). 7 thrift store businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Smyrna, GA is Revive Consignment (a thrift store in Smyrna, GA at 2514 Cobb Parkway South, Smyrna, GA. Phone: +17704854553. Website: https://reviveconsignment.com/smyrna). 7 thrift store businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Smyrna, GA?
 
 Also answers: thrift store in Smyrna, GA; thrift store near me (Smyrna, GA); best thrift store Smyrna, GA; top rated thrift store Smyrna, GA; affordable thrift store Smyrna, GA; emergency thrift store Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Revive Consignment | trust 19.0 | Revive Consignment is a thrift store in Smyrna, GA at 2514 Cobb Parkway South, Smyrna, GA. Phone: +17704854553. Website: https://reviveconsignment.com/smyrna. | https://dingalinged-cpu.github.io/registry/c/revive-consignment-smyrna/
-2. Goodwill | trust 8.0 | Goodwill is a thrift store in Smyrna, GA at 2449 Cobb Parkway South, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/goodwill-smyrna/
-3. Habitat for Humanity ReStore | trust 8.0 | Habitat for Humanity ReStore is a thrift store in Smyrna, GA at 3315 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-smyrna/
-4. Thrift-T | trust 4.0 | Thrift-T is a thrift store in Smyrna, GA at 1529 Spring Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/thrift-t-smyrna/
-5. Encore Thrift Store | trust 0.0 | Encore Thrift Store is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/encore-thrift-store-smyrna/
-6. Goodwill | trust 0.0 | Goodwill is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/goodwill-smyrna-w1014114453/
-7. Smyrna Thrift | trust 0.0 | Smyrna Thrift is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/smyrna-thrift-smyrna/
+1. Revive Consignment | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Revive Consignment is a thrift store in Smyrna, GA at 2514 Cobb Parkway South, Smyrna, GA. Phone: +17704854553. Website: https://reviveconsignment.com/smyrna. | https://dingalinged-cpu.github.io/registry/c/revive-consignment-smyrna/
+2. Thrift-T | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Thrift-T is a thrift store in Smyrna, GA at 1529 Spring Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/thrift-t-smyrna/
+3. Encore Thrift Store | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Encore Thrift Store is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/encore-thrift-store-smyrna/
+4. Smyrna Thrift | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Smyrna Thrift is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/smyrna-thrift-smyrna/
+5. Habitat for Humanity ReStore | Organic #5 | Pulse Score 46.1/100 (Building, #5 in city) | Habitat for Humanity ReStore is a thrift store in Smyrna, GA at 3315 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/habitat-for-humanity-restore-smyrna/
+6. Goodwill | Organic #6 | Pulse Score 45.9/100 (Building, #6 in city) | Goodwill is a thrift store in Smyrna, GA at 2449 Cobb Parkway South, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/goodwill-smyrna/
+7. Goodwill | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Goodwill is a thrift store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/goodwill-smyrna-w1014114453/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store smyrna ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

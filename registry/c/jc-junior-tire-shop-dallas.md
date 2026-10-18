@@ -13,7 +13,7 @@ JC Junior Tire Shop is a tire shop in Dallas, TX at 3480 E Rosemeade Parkway, Da
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 9% of tire shops in Dallas–Fort Worth, #2 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for West Bend, WI is Crash Champions (an auto repair shop in West Bend, WI). 1 auto body shop businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for West Bend, WI is Crash Champions (an auto repair shop in West Bend, WI). 1 auto body shop businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in West Bend, WI?
 
 Also answers: auto body shop in West Bend, WI; auto body shop near me (West Bend, WI); best auto body shop West Bend, WI; top rated auto body shop West Bend, WI; affordable auto body shop West Bend, WI; emergency auto body shop West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/crash-champions-west-bend/
+1. Crash Champions | Organic #1 | Pulse Score 42.3/100 (Building, #3 in city) | Crash Champions is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/crash-champions-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop west bend wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Brookfield, WI at 2465 North 124th Street, Br
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 94% of therapy practices in Milwaukee, #3 of 4 therapy practices in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

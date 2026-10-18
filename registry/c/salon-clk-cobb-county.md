@@ -13,7 +13,7 @@ Salon CLK is a hair salon in Cobb County, GA at 4401 Shallowford Road Northeast 
 - Website: https://salonclk.com/
 - Email: hello@salonclk.com
 - Opening hours (OSM syntax): Mo,Su off; Tu,Fr 09:00-18:00; We-Th 09:00-20:00; Sa 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 10% of hair salons in Atlanta, #13 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

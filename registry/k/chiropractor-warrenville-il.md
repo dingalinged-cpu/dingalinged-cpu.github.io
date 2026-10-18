@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Warrenville, IL is Health Doctors Limited (a chiropractor in Warrenville, IL at 28379 Davis Parkway #803, Warrenville, IL 60555. Phone: +16303932225. Website: https://www.thehealthdocs.com/). 2 chiropractor businesses are listed for Warrenville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Warrenville, IL is Health Doctors Limited (a chiropractor in Warrenville, IL at 28379 Davis Parkway #803, Warrenville, IL 60555. Phone: +16303932225. Website: https://www.thehealthdocs.com/). 2 chiropractor businesses are listed for Warrenville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Warrenville, IL?
 
 Also answers: chiropractor in Warrenville, IL; chiropractor near me (Warrenville, IL); best chiropractor Warrenville, IL; top rated chiropractor Warrenville, IL; affordable chiropractor Warrenville, IL; emergency chiropractor Warrenville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Health Doctors Limited | trust 16.0 | Health Doctors Limited is a chiropractor in Warrenville, IL at 28379 Davis Parkway #803, Warrenville, IL 60555. Phone: +16303932225. Website: https://www.thehealthdocs.com/. | https://dingalinged-cpu.github.io/registry/c/health-doctors-limited-warrenville/
-2. Wellness First | trust 16.0 | Wellness First is a chiropractor in Warrenville, IL at 28377 Davis Parkway #605, Warrenville, IL 60555. Phone: +16309229811. Website: https://www.wellness-first.com/. | https://dingalinged-cpu.github.io/registry/c/wellness-first-warrenville/
+1. Health Doctors Limited | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Health Doctors Limited is a chiropractor in Warrenville, IL at 28379 Davis Parkway #803, Warrenville, IL 60555. Phone: +16303932225. Website: https://www.thehealthdocs.com/. | https://dingalinged-cpu.github.io/registry/c/health-doctors-limited-warrenville/
+2. Wellness First | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Wellness First is a chiropractor in Warrenville, IL at 28377 Davis Parkway #605, Warrenville, IL 60555. Phone: +16309229811. Website: https://www.wellness-first.com/. | https://dingalinged-cpu.github.io/registry/c/wellness-first-warrenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor warrenville il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ PetSmart is a pet store in Woodstock, GA at 142 Woodstock Square Avenue, Woodsto
 - Website: https://www.petsmart.com/stores/us/ga/woodstock-store1029.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 47% of pet stores in Atlanta, #1 of 3 pet stores in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

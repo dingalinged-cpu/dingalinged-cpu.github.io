@@ -13,7 +13,7 @@ Bloom Salon is a hair salon in Cobb County, GA at 4648 Woodstock Road, Cobb Coun
 - Website: https://www.bloomsalonroswell.com/
 - Email: bloomsalonroswell@gmail.com
 - Opening hours (OSM syntax): Tu-Th 10:00-19:00; Fr-Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 11% of hair salons in Atlanta, #14 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

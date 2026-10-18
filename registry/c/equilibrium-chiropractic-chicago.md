@@ -13,7 +13,7 @@ Equilibrium Chiropractic is a chiropractor in Chicago, IL at 1509 South State St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 75% of chiropractors in Chicago, #12 of 18 chiropractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 40.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

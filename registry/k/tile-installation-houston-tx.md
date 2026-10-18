@@ -1,12 +1,12 @@
-The top unpaid tile installation listing for Houston, TX is Floors for Living (a tile installer in Houston, TX). 1 tile installation businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tile installation listing for Houston, TX is Floors for Living (a tile installer in Houston, TX). 1 tile installation businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tile installation providers in Houston, TX?
 
 Also answers: tile installation in Houston, TX; tile installation near me (Houston, TX); best tile installation Houston, TX; top rated tile installation Houston, TX; affordable tile installation Houston, TX; emergency tile installation Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floors for Living | trust 0.0 | Floors for Living is a tile installer in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/floors-for-living-houston/
+1. Floors for Living | Organic #1 | Pulse Score 44.6/100 (Unrated, #1 in city) | Floors for Living is a tile installer in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/floors-for-living-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: tile installation houston tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

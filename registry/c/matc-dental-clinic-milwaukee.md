@@ -13,7 +13,7 @@ MATC Dental Clinic is a dentist in Milwaukee, WI. Phone: +14142976573. Website: 
 - Website: https://www.matc.edu/communityresources/dental.cfm
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-12:30; Tu 13:00-17:00; We-Th 08:00-12:00,13:00-17:00; Fr 10:00-14:00 "Open Fall and Spring Semesters"
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of dentists in Milwaukee, #11 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

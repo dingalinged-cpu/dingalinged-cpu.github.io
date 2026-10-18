@@ -13,7 +13,7 @@ Barber Engineering is an architect in Milwaukee, WI at 325 West Vine Street, Mil
 - Website: https://barberengineer.com/
 - Email: info@barberengineer.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 5% of architects in Milwaukee, #1 of 15 architects in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 68.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

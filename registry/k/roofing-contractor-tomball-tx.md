@@ -1,13 +1,13 @@
-The top unpaid roofing contractor listing for Tomball, TX is Roof Top Innovations (a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/). 2 roofing contractor businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Tomball, TX is Roof Top Innovations (a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/). 2 roofing contractor businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Tomball, TX?
 
 Also answers: roofing contractor in Tomball, TX; roofing contractor near me (Tomball, TX); best roofing contractor Tomball, TX; top rated roofing contractor Tomball, TX; affordable roofing contractor Tomball, TX; emergency roofing contractor Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roof Top Innovations | trust 20.0 | Roof Top Innovations is a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/. | https://dingalinged-cpu.github.io/registry/c/roof-top-innovations-tomball/
-2. BlackHorse Roofing & Construction LLC | trust 16.0 | BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tomball Parkway #100, Tomball, TX 77375. Phone: +18328007404. Website: https://blackhorseroofingandconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/blackhorse-roofing-and-construction-llc-tomball/
+1. Roof Top Innovations | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Roof Top Innovations is a roofer in Tomball, TX at 311 North Sycamore Street, Tomball, TX 77375. Phone: +12813517663. Website: https://rooftopinnovations.com/. | https://dingalinged-cpu.github.io/registry/c/roof-top-innovations-tomball/
+2. BlackHorse Roofing & Construction LLC | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | BlackHorse Roofing & Construction LLC is a roofer in Tomball, TX at 24445 Tomball Parkway #100, Tomball, TX 77375. Phone: +18328007404. Website: https://blackhorseroofingandconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/blackhorse-roofing-and-construction-llc-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor tomball tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ FedEx Office is a printing service in Vadnais Heights, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 38.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.6/100 — Building — top 97% of printing services in Minneapolis–St. Paul, #1 of 1 printing services in Vadnais Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.1, Trust 41.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

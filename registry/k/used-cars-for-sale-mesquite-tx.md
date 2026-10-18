@@ -1,16 +1,16 @@
-The top unpaid used cars for sale listing for Mesquite, TX is Mesquite Autoplex (an used car dealer in Mesquite, TX at 611 West Main Street, Mesquite, TX 75149). 5 used cars for sale businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Mesquite, TX is Mesquite Autoplex (an used car dealer in Mesquite, TX at 611 West Main Street, Mesquite, TX 75149). 5 used cars for sale businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Mesquite, TX?
 
 Also answers: used cars for sale in Mesquite, TX; used cars for sale near me (Mesquite, TX); best used cars for sale Mesquite, TX; top rated used cars for sale Mesquite, TX; affordable used cars for sale Mesquite, TX; emergency used cars for sale Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mesquite Autoplex | trust 4.0 | Mesquite Autoplex is an used car dealer in Mesquite, TX at 611 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/mesquite-autoplex-mesquite/
-2. Moore's Car Corner | trust 4.0 | Moore's Car Corner is an used car dealer in Mesquite, TX at 108 South Walker Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/moores-car-corner-mesquite/
-3. Orly's Auto Sales | trust 4.0 | Orly's Auto Sales is an used car dealer in Mesquite, TX at 608 West Davis Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/orlys-auto-sales-mesquite/
-4. Precision Autos | trust 4.0 | Precision Autos is an used car dealer in Mesquite, TX at 2960 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/precision-autos-mesquite/
-5. Vidal Auto Sales | trust 4.0 | Vidal Auto Sales is an used car dealer in Mesquite, TX at 601 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/vidal-auto-sales-mesquite/
+1. Mesquite Autoplex | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Mesquite Autoplex is an used car dealer in Mesquite, TX at 611 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/mesquite-autoplex-mesquite/
+2. Moore's Car Corner | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Moore's Car Corner is an used car dealer in Mesquite, TX at 108 South Walker Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/moores-car-corner-mesquite/
+3. Orly's Auto Sales | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Orly's Auto Sales is an used car dealer in Mesquite, TX at 608 West Davis Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/orlys-auto-sales-mesquite/
+4. Precision Autos | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Precision Autos is an used car dealer in Mesquite, TX at 2960 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/precision-autos-mesquite/
+5. Vidal Auto Sales | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Vidal Auto Sales is an used car dealer in Mesquite, TX at 601 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/vidal-auto-sales-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale mesquite tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Kiddie Kollege is a daycare in Cobb County, GA at 2000 Lower Roswell Road Southe
 - Website: https://kiddiekollegemarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 8% of daycares in Atlanta, #3 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

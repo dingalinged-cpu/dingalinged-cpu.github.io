@@ -13,7 +13,7 @@ Spec's Liquor is a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabr
 - Website: https://www.specsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 2% of liquor stores in Houston, #1 of 1 liquor stores in Seabrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

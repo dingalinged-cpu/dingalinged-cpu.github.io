@@ -13,7 +13,7 @@ Pet Central Animal Hospital is a veterinarian in Minneapolis, MN at 2700 Northea
 - Website: https://www.petcentralanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 19% of veterinarians in Minneapolis–St. Paul, #5 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

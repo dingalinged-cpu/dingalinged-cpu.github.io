@@ -13,7 +13,7 @@ Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlak
 - Website: https://epc16.com/
 - Email: Eaglepc16@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 10:00-15:00
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 3% of printing services in Dallas–Fort Worth, #1 of 3 printing services in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

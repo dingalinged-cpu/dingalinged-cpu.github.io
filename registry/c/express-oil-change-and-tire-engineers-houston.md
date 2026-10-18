@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Houston, TX at 12807 FM 19
 - Website: https://www.expressoil.com/stores/houston/tx/0082/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 45% of tire shops in Houston, #35 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

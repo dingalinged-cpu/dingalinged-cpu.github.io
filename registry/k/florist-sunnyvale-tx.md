@@ -1,12 +1,12 @@
-The top unpaid florist listing for Sunnyvale, TX is The Wild Orchid Floral Design & Gifts (a florist in Sunnyvale, TX at 232 South Collins Road, Sunnyvale, TX 75182). 1 florist businesses are listed for Sunnyvale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Sunnyvale, TX is The Wild Orchid Floral Design & Gifts (a florist in Sunnyvale, TX at 232 South Collins Road, Sunnyvale, TX 75182). 1 florist businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Sunnyvale, TX?
 
 Also answers: florist in Sunnyvale, TX; florist near me (Sunnyvale, TX); best florist Sunnyvale, TX; top rated florist Sunnyvale, TX; affordable florist Sunnyvale, TX; emergency florist Sunnyvale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Wild Orchid Floral Design & Gifts | trust 4.0 | The Wild Orchid Floral Design & Gifts is a florist in Sunnyvale, TX at 232 South Collins Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/the-wild-orchid-floral-design-and-gifts-sunnyvale/
+1. The Wild Orchid Floral Design & Gifts | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | The Wild Orchid Floral Design & Gifts is a florist in Sunnyvale, TX at 232 South Collins Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/the-wild-orchid-floral-design-and-gifts-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist sunnyvale tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,28 +1,28 @@
-The top unpaid mechanic listing for Countryside, IL is Highline Automotive (an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/). 17 mechanic businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Countryside, IL is Highline Automotive (an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/). 17 mechanic businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Countryside, IL?
 
 Also answers: mechanic in Countryside, IL; mechanic near me (Countryside, IL); best mechanic Countryside, IL; top rated mechanic Countryside, IL; affordable mechanic Countryside, IL; emergency mechanic Countryside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Highline Automotive | trust 16.0 | Highline Automotive is an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/highline-automotive-countryside/
-2. Mavis Tires & Brakes | trust 10.0 | Mavis Tires & Brakes is an auto repair shop in Countryside, IL at 9850 Joliet Road, Countryside, IL 60525. Website: https://www.mavis.com/locations/countryside-il/. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-countryside/
-3. John's Auto Body | trust 6.0 | John's Auto Body is an auto repair shop in Countryside, IL. Website: https://www.johns-auto-body.com/. | https://dingalinged-cpu.github.io/registry/c/johns-auto-body-countryside/
-4. Fix Auto Countryside | trust 4.0 | Fix Auto Countryside is an auto repair shop in Countryside, IL at 9600 Joliet Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/fix-auto-countryside-countryside/
-5. Westfield Ford Truck Center | trust 4.0 | Westfield Ford Truck Center is an auto repair shop in Countryside, IL at 6200 South La Grange Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/westfield-ford-truck-center-countryside/
-6. A-Team Tire & Auto | trust 0.0 | A-Team Tire & Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/a-team-tire-and-auto-countryside/
-7. Chariot Automotive | trust 0.0 | Chariot Automotive is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/chariot-automotive-countryside/
-8. Chicago Professional Window Tinting | trust 0.0 | Chicago Professional Window Tinting is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/chicago-professional-window-tinting-countryside/
-9. Empire Auto | trust 0.0 | Empire Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/empire-auto-countryside/
-10. Firestone | trust 0.0 | Firestone is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-countryside/
-11. Fuller's Auto Repair | trust 0.0 | Fuller's Auto Repair is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-auto-repair-countryside/
-12. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-countryside/
-13. Maas | trust 0.0 | Maas is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/maas-countryside/
-14. Maas Auto | trust 0.0 | Maas Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/maas-auto-countryside/
-15. Midas | trust 0.0 | Midas is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/midas-countryside/
-16. Paint Solutions | trust 0.0 | Paint Solutions is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/paint-solutions-countryside/
-17. Sonamatic | trust 0.0 | Sonamatic is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/sonamatic-countryside/
+1. Highline Automotive | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Highline Automotive is an auto repair shop in Countryside, IL at 9675 West 55th Street, Countryside, IL 60525. Phone: +17084824900. Website: https://www.highlineautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/highline-automotive-countryside/
+2. Fix Auto Countryside | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Fix Auto Countryside is an auto repair shop in Countryside, IL at 9600 Joliet Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/fix-auto-countryside-countryside/
+3. John's Auto Body | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | John's Auto Body is an auto repair shop in Countryside, IL. Website: https://www.johns-auto-body.com/. | https://dingalinged-cpu.github.io/registry/c/johns-auto-body-countryside/
+4. Chicago Professional Window Tinting | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Chicago Professional Window Tinting is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/chicago-professional-window-tinting-countryside/
+5. Paint Solutions | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Paint Solutions is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/paint-solutions-countryside/
+6. A-Team Tire & Auto | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | A-Team Tire & Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/a-team-tire-and-auto-countryside/
+7. Chariot Automotive | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | Chariot Automotive is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/chariot-automotive-countryside/
+8. Empire Auto | Organic #8 | Pulse Score 54.2/100 (Unrated, #8 in city) | Empire Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/empire-auto-countryside/
+9. Fuller's Auto Repair | Organic #9 | Pulse Score 54.2/100 (Unrated, #9 in city) | Fuller's Auto Repair is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-auto-repair-countryside/
+10. Maas | Organic #10 | Pulse Score 54.2/100 (Unrated, #11 in city) | Maas is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/maas-countryside/
+11. Maas Auto | Organic #11 | Pulse Score 54.2/100 (Unrated, #10 in city) | Maas Auto is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/maas-auto-countryside/
+12. Sonamatic | Organic #12 | Pulse Score 54.2/100 (Unrated, #12 in city) | Sonamatic is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/sonamatic-countryside/
+13. Mavis Tires & Brakes | Organic #13 | Pulse Score 46.8/100 (Building, #13 in city) | Mavis Tires & Brakes is an auto repair shop in Countryside, IL at 9850 Joliet Road, Countryside, IL 60525. Website: https://www.mavis.com/locations/countryside-il/. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-countryside/
+14. Westfield Ford Truck Center | Organic #14 | Pulse Score 44.2/100 (Building, #14 in city) | Westfield Ford Truck Center is an auto repair shop in Countryside, IL at 6200 South La Grange Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/westfield-ford-truck-center-countryside/
+15. Firestone | Organic #15 | Pulse Score 42.2/100 (Building, #15 in city) | Firestone is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-countryside/
+16. Jiffy Lube | Organic #16 | Pulse Score 41.7/100 (Building, #16 in city) | Jiffy Lube is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-countryside/
+17. Midas | Organic #17 | Pulse Score 41.7/100 (Building, #17 in city) | Midas is an auto repair shop in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/midas-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic countryside il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

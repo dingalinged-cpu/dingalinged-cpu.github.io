@@ -1,12 +1,12 @@
-The top unpaid plumber listing for Newport, MN is Jim Murr Plumbing (a plumber in Newport, MN at 780 19th Street, Newport, MN 55055. Website: https://www.jimmurrplumbing.com/). 1 plumber businesses are listed for Newport, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Newport, MN is Jim Murr Plumbing (a plumber in Newport, MN at 780 19th Street, Newport, MN 55055. Website: https://www.jimmurrplumbing.com/). 1 plumber businesses are listed for Newport, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Newport, MN?
 
 Also answers: plumber in Newport, MN; plumber near me (Newport, MN); best plumber Newport, MN; top rated plumber Newport, MN; affordable plumber Newport, MN; emergency plumber Newport, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jim Murr Plumbing | trust 10.0 | Jim Murr Plumbing is a plumber in Newport, MN at 780 19th Street, Newport, MN 55055. Website: https://www.jimmurrplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/jim-murr-plumbing-newport/
+1. Jim Murr Plumbing | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Jim Murr Plumbing is a plumber in Newport, MN at 780 19th Street, Newport, MN 55055. Website: https://www.jimmurrplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/jim-murr-plumbing-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber newport mn | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Fitchburg, WI is Ecco Salon (a hair salon in Fitchburg, WI at 5500 East Cheryl Parkway #120, Fitchburg, WI 53711. Website: https://eccosalon.com/). 4 haircut businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Fitchburg, WI is Ecco Salon (a hair salon in Fitchburg, WI at 5500 East Cheryl Parkway #120, Fitchburg, WI 53711. Website: https://eccosalon.com/). 4 haircut businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Fitchburg, WI?
 
 Also answers: haircut in Fitchburg, WI; haircut near me (Fitchburg, WI); best haircut Fitchburg, WI; top rated haircut Fitchburg, WI; affordable haircut Fitchburg, WI; emergency haircut Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ecco Salon | trust 10.0 | Ecco Salon is a hair salon in Fitchburg, WI at 5500 East Cheryl Parkway #120, Fitchburg, WI 53711. Website: https://eccosalon.com/. | https://dingalinged-cpu.github.io/registry/c/ecco-salon-fitchburg/
-2. Great Clips | trust 4.0 | Great Clips is a hair salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-fitchburg/
-3. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-fitchburg/
-4. Lenis Barbershop | trust 0.0 | Lenis Barbershop is a barber shop in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/lenis-barbershop-fitchburg/
+1. Ecco Salon | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Ecco Salon is a hair salon in Fitchburg, WI at 5500 East Cheryl Parkway #120, Fitchburg, WI 53711. Website: https://eccosalon.com/. | https://dingalinged-cpu.github.io/registry/c/ecco-salon-fitchburg/
+2. Lenis Barbershop | Organic #2 | Pulse Score 58.4/100 (Unrated, #1 in city) | Lenis Barbershop is a barber shop in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/lenis-barbershop-fitchburg/
+3. Great Clips | Organic #3 | Pulse Score 46.3/100 (Building, #2 in city) | Great Clips is a hair salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-fitchburg/
+4. Cost Cutters | Organic #4 | Pulse Score 42.8/100 (Building, #3 in city) | Cost Cutters is a hair salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut fitchburg wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

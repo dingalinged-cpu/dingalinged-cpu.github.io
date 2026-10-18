@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Southlake, TX is Reveal Martial Arts (a martial arts school in Southlake, TX at 2120 East Southlake Boulevard #Suite B, Southlake, TX 76092. Phone: +14694440246. Website: https://www.idokarate.com/southlake). 3 martial arts businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Southlake, TX is Reveal Martial Arts (a martial arts school in Southlake, TX at 2120 East Southlake Boulevard #Suite B, Southlake, TX 76092. Phone: +14694440246. Website: https://www.idokarate.com/southlake). 3 martial arts businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Southlake, TX?
 
 Also answers: martial arts in Southlake, TX; martial arts near me (Southlake, TX); best martial arts Southlake, TX; top rated martial arts Southlake, TX; affordable martial arts Southlake, TX; emergency martial arts Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reveal Martial Arts | trust 20.0 | Reveal Martial Arts is a martial arts school in Southlake, TX at 2120 East Southlake Boulevard #Suite B, Southlake, TX 76092. Phone: +14694440246. Website: https://www.idokarate.com/southlake. | https://dingalinged-cpu.github.io/registry/c/reveal-martial-arts-southlake/
-2. ATA Martial Arts | trust 0.0 | ATA Martial Arts is a martial arts school in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/ata-martial-arts-southlake/
-3. Brazilian Jiu Jitsu | trust 0.0 | Brazilian Jiu Jitsu is a martial arts school in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/brazilian-jiu-jitsu-southlake/
+1. Reveal Martial Arts | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Reveal Martial Arts is a martial arts school in Southlake, TX at 2120 East Southlake Boulevard #Suite B, Southlake, TX 76092. Phone: +14694440246. Website: https://www.idokarate.com/southlake. | https://dingalinged-cpu.github.io/registry/c/reveal-martial-arts-southlake/
+2. ATA Martial Arts | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | ATA Martial Arts is a martial arts school in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/ata-martial-arts-southlake/
+3. Brazilian Jiu Jitsu | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Brazilian Jiu Jitsu is a martial arts school in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/brazilian-jiu-jitsu-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts southlake tx | category: Fitness | industry benchmark: Health & Fitness

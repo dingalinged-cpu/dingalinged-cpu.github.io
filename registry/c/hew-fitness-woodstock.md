@@ -13,7 +13,7 @@ HEW Fitness is a gym in Woodstock, GA at 1428 Towne Lake Parkway #106, Woodstock
 - Website: https://hewfitness.com/woodstock
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 15% of gyms in Atlanta, #2 of 11 gyms in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Renaissance Child Development Center is a preschool in Milwaukee, WI at 1306 Nor
 - Website: https://www.renaissancecdc.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of preschools in Milwaukee, #2 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

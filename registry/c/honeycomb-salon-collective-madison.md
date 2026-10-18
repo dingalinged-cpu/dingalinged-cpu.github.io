@@ -13,7 +13,7 @@ Honeycomb Salon Collective is a hair salon in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu 10:00-20:00; We 12:00-20:00; Th,Fr 09:00-17:00; Sa 09:00-15:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 30% of hair salons in Madison, #20 of 59 hair salons in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

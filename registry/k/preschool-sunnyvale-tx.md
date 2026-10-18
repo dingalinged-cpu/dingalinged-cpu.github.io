@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Sunnyvale, TX is Childcare Network (a preschool in Sunnyvale, TX at 240 South Collins Road, Sunnyvale, TX 75182). 1 preschool businesses are listed for Sunnyvale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Sunnyvale, TX is Childcare Network (a preschool in Sunnyvale, TX at 240 South Collins Road, Sunnyvale, TX 75182). 1 preschool businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Sunnyvale, TX?
 
 Also answers: preschool in Sunnyvale, TX; preschool near me (Sunnyvale, TX); best preschool Sunnyvale, TX; top rated preschool Sunnyvale, TX; affordable preschool Sunnyvale, TX; emergency preschool Sunnyvale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Childcare Network | trust 4.0 | Childcare Network is a preschool in Sunnyvale, TX at 240 South Collins Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/childcare-network-sunnyvale/
+1. Childcare Network | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Childcare Network is a preschool in Sunnyvale, TX at 240 South Collins Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/childcare-network-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool sunnyvale tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Balance Atlanta Family Chiropractic is a chiropractor in Atlanta, GA at 360 Phar
 - Website: https://balanceatlanta.com/
 - Email: team@balanceatlanta.com
 - Opening hours (OSM syntax): Mo,We-Th 09:00-18:00; Tu 09:00-17:00; Fr off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.5/100 — Good — top 2% of chiropractors in Atlanta, #1 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 67.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

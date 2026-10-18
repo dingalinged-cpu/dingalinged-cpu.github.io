@@ -1,14 +1,14 @@
-The top unpaid vet listing for Grand Prairie, TX is Carrier Animal Hospital (a veterinarian in Grand Prairie, TX at 2405 South Carrier Parkway, Grand Prairie, TX 75051). 3 vet businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Grand Prairie, TX is Carrier Animal Hospital (a veterinarian in Grand Prairie, TX at 2405 South Carrier Parkway, Grand Prairie, TX 75051). 3 vet businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Grand Prairie, TX?
 
 Also answers: vet in Grand Prairie, TX; vet near me (Grand Prairie, TX); best vet Grand Prairie, TX; top rated vet Grand Prairie, TX; affordable vet Grand Prairie, TX; emergency vet Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carrier Animal Hospital | trust 8.0 | Carrier Animal Hospital is a veterinarian in Grand Prairie, TX at 2405 South Carrier Parkway, Grand Prairie, TX 75051. | https://dingalinged-cpu.github.io/registry/c/carrier-animal-hospital-grand-prairie/
-2. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-grand-prairie/
-3. VEG - Veterinary Emergency Group | trust 0.0 | VEG - Veterinary Emergency Group is a veterinarian in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/veg-veterinary-emergency-group-grand-prairie/
+1. Carrier Animal Hospital | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Carrier Animal Hospital is a veterinarian in Grand Prairie, TX at 2405 South Carrier Parkway, Grand Prairie, TX 75051. | https://dingalinged-cpu.github.io/registry/c/carrier-animal-hospital-grand-prairie/
+2. VEG - Veterinary Emergency Group | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | VEG - Veterinary Emergency Group is a veterinarian in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/veg-veterinary-emergency-group-grand-prairie/
+3. Banfield Pet Hospital | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Banfield Pet Hospital is a veterinarian in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet grand prairie tx | category: Pets | industry benchmark: Animals & Pets

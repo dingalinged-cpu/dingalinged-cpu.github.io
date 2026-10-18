@@ -1,15 +1,15 @@
-The top unpaid facial listing for Flower Mound, TX is Ulta Beauty (a skin care studio in Flower Mound, TX at 5801 Long Prairie Road #120, Flower Mound, TX 75028. Phone: +19725393762. Website: https://www.ulta.com/stores/flower-mound-tx-275). 4 facial businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Flower Mound, TX is Sutera Spa (a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/). 4 facial businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Flower Mound, TX?
 
 Also answers: facial in Flower Mound, TX; facial near me (Flower Mound, TX); best facial Flower Mound, TX; top rated facial Flower Mound, TX; affordable facial Flower Mound, TX; emergency facial Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Flower Mound, TX at 5801 Long Prairie Road #120, Flower Mound, TX 75028. Phone: +19725393762. Website: https://www.ulta.com/stores/flower-mound-tx-275. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-flower-mound/
-2. Arch Brow Threading & Spa | trust 16.0 | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://dingalinged-cpu.github.io/registry/c/arch-brow-threading-and-spa-flower-mound/
-3. Essenz | trust 16.0 | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://dingalinged-cpu.github.io/registry/c/essenz-flower-mound/
-4. Sutera Spa | trust 16.0 | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://dingalinged-cpu.github.io/registry/c/sutera-spa-flower-mound/
+1. Sutera Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://dingalinged-cpu.github.io/registry/c/sutera-spa-flower-mound/
+2. Essenz | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Essenz is a waxing salon in Flower Mound, TX. Phone: +19722909786. Website: https://www.essenzbeauty.com/. | https://dingalinged-cpu.github.io/registry/c/essenz-flower-mound/
+3. Arch Brow Threading & Spa | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://dingalinged-cpu.github.io/registry/c/arch-brow-threading-and-spa-flower-mound/
+4. Ulta Beauty | Organic #4 | Pulse Score 46.6/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Flower Mound, TX at 5801 Long Prairie Road #120, Flower Mound, TX 75028. Phone: +19725393762. Website: https://www.ulta.com/stores/flower-mound-tx-275. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

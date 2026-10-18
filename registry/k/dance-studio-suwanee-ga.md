@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Suwanee, GA is Dance Arts Centre (a dance studio in Suwanee, GA at 1600 Peachtree Industrial Boulevard, Suwanee, GA). 1 dance studio businesses are listed for Suwanee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Suwanee, GA is Dance Arts Centre (a dance studio in Suwanee, GA at 1600 Peachtree Industrial Boulevard, Suwanee, GA). 1 dance studio businesses are listed for Suwanee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Suwanee, GA?
 
 Also answers: dance studio in Suwanee, GA; dance studio near me (Suwanee, GA); best dance studio Suwanee, GA; top rated dance studio Suwanee, GA; affordable dance studio Suwanee, GA; emergency dance studio Suwanee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dance Arts Centre | trust 3.0 | Dance Arts Centre is a dance studio in Suwanee, GA at 1600 Peachtree Industrial Boulevard, Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/dance-arts-centre-suwanee/
+1. Dance Arts Centre | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Dance Arts Centre is a dance studio in Suwanee, GA at 1600 Peachtree Industrial Boulevard, Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/dance-arts-centre-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio suwanee ga | category: Fitness | industry benchmark: Health & Fitness

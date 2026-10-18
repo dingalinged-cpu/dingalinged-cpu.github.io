@@ -1,14 +1,14 @@
-The top unpaid staffing agency listing for Mount Pleasant, WI is Express Employment Professionals (a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406). 3 staffing agency businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Mount Pleasant, WI is Aerotek (a staffing agency in Mount Pleasant, WI at 6211 Durand Avenue #201, Mount Pleasant, WI). 3 staffing agency businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Mount Pleasant, WI?
 
 Also answers: staffing agency in Mount Pleasant, WI; staffing agency near me (Mount Pleasant, WI); best staffing agency Mount Pleasant, WI; top rated staffing agency Mount Pleasant, WI; affordable staffing agency Mount Pleasant, WI; emergency staffing agency Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Employment Professionals | trust 4.0 | Express Employment Professionals is a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-racine/
-2. Adecco | trust 3.0 | Adecco is a staffing agency in Mount Pleasant, WI at 6021 Durand Avenue #200, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/adecco-mount-pleasant/
-3. Aerotek | trust 3.0 | Aerotek is a staffing agency in Mount Pleasant, WI at 6211 Durand Avenue #201, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/aerotek-mount-pleasant/
+1. Aerotek | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Aerotek is a staffing agency in Mount Pleasant, WI at 6211 Durand Avenue #201, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/aerotek-mount-pleasant/
+2. Express Employment Professionals | Organic #2 | Pulse Score 44.4/100 (Building, #3 in city) | Express Employment Professionals is a staffing agency in Racine, WI at 1300 South Green Bay Road #200, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/express-employment-professionals-racine/
+3. Adecco | Organic #3 | Pulse Score 43.4/100 (Building, #2 in city) | Adecco is a staffing agency in Mount Pleasant, WI at 6021 Durand Avenue #200, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/adecco-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency mount pleasant wi | category: b2b_services | industry benchmark: Business Services

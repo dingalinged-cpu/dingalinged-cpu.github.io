@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Shoreview, MN is Lee's Championship Tae Kwon Do Academy (a martial arts school in Shoreview, MN). 1 martial arts businesses are listed for Shoreview, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Shoreview, MN is Lee's Championship Tae Kwon Do Academy (a martial arts school in Shoreview, MN). 1 martial arts businesses are listed for Shoreview, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Shoreview, MN?
 
 Also answers: martial arts in Shoreview, MN; martial arts near me (Shoreview, MN); best martial arts Shoreview, MN; top rated martial arts Shoreview, MN; affordable martial arts Shoreview, MN; emergency martial arts Shoreview, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee's Championship Tae Kwon Do Academy | trust 0.0 | Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/lees-championship-tae-kwon-do-academy-shoreview/
+1. Lee's Championship Tae Kwon Do Academy | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Lee's Championship Tae Kwon Do Academy is a martial arts school in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/lees-championship-tae-kwon-do-academy-shoreview/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts shoreview mn | category: Fitness | industry benchmark: Health & Fitness

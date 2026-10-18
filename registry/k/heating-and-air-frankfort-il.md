@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Frankfort, IL is HAS Services (a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/). 2 heating and air businesses are listed for Frankfort, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Frankfort, IL is HAS Services (a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/). 2 heating and air businesses are listed for Frankfort, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Frankfort, IL?
 
 Also answers: heating and air in Frankfort, IL; heating and air near me (Frankfort, IL); best heating and air Frankfort, IL; top rated heating and air Frankfort, IL; affordable heating and air Frankfort, IL; emergency heating and air Frankfort, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HAS Services | trust 20.0 | HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/. | https://dingalinged-cpu.github.io/registry/c/has-services-frankfort/
-2. Air Source 1 Heating & Air Conditioning | trust 16.0 | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://dingalinged-cpu.github.io/registry/c/air-source-1-heating-and-air-conditioning-frankfort/
+1. HAS Services | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | HAS Services is a HVAC contractor in Frankfort, IL at 9306 West Dralle Road, Frankfort, IL 60423. Phone: +17084658040. Website: https://www.hasservs.com/. | https://dingalinged-cpu.github.io/registry/c/has-services-frankfort/
+2. Air Source 1 Heating & Air Conditioning | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Air Source 1 Heating & Air Conditioning is a HVAC contractor in Frankfort, IL at 7649 Jamison Drive, Frankfort, IL 60423. Phone: +17089908965. Website: https://as1air.com/. | https://dingalinged-cpu.github.io/registry/c/air-source-1-heating-and-air-conditioning-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air frankfort il | category: Home Services | industry benchmark: Home & Home Improvement

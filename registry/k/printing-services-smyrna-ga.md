@@ -1,16 +1,16 @@
-The top unpaid printing services listing for Smyrna, GA is The UPS Store (a printing service in Smyrna, GA at 3316 South Cobb Drive, Smyrna, GA 30080). 5 printing services businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Smyrna, GA is Minuteman Press (a printing service in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA). 5 printing services businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Smyrna, GA?
 
 Also answers: printing services in Smyrna, GA; printing services near me (Smyrna, GA); best printing services Smyrna, GA; top rated printing services Smyrna, GA; affordable printing services Smyrna, GA; emergency printing services Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 8.0 | The UPS Store is a printing service in Smyrna, GA at 3316 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-smyrna-w1014114472/
-2. Minuteman Press | trust 3.0 | Minuteman Press is a printing service in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-smyrna/
-3. Mail Boxes Etc. | trust 0.0 | Mail Boxes Etc. is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/mail-boxes-etc-smyrna/
-4. Mail Boxes Etc. | trust 0.0 | Mail Boxes Etc. is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/mail-boxes-etc-smyrna-w1221839205/
-5. The UPS Store | trust 0.0 | The UPS Store is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-smyrna/
+1. Minuteman Press | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Minuteman Press is a printing service in Smyrna, GA at 821 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-smyrna/
+2. The UPS Store | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | The UPS Store is a printing service in Smyrna, GA at 3316 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-smyrna-w1014114472/
+3. The UPS Store | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | The UPS Store is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-smyrna/
+4. Mail Boxes Etc. | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | Mail Boxes Etc. is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/mail-boxes-etc-smyrna/
+5. Mail Boxes Etc. | Organic #5 | Pulse Score 41.6/100 (Building, #5 in city) | Mail Boxes Etc. is a printing service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/mail-boxes-etc-smyrna-w1221839205/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services smyrna ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,16 +1,16 @@
-The top unpaid gym listing for Cedar Hill, TX is Fit Camp (a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/). 5 gym businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Cedar Hill, TX is Fit Camp (a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/). 5 gym businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Cedar Hill, TX?
 
 Also answers: gym in Cedar Hill, TX; gym near me (Cedar Hill, TX); best gym Cedar Hill, TX; top rated gym Cedar Hill, TX; affordable gym Cedar Hill, TX; emergency gym Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fit Camp | trust 16.0 | Fit Camp is a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/. | https://dingalinged-cpu.github.io/registry/c/fit-camp-cedar-hill/
-2. Hotworx | trust 14.0 | Hotworx is a gym in Cedar Hill, TX at 374 East FM 1382 #A, Cedar Hill, TX 75104. Phone: +19726373279. | https://dingalinged-cpu.github.io/registry/c/hotworx-cedar-hill/
-3. Planet Fitness | trust 14.0 | Planet Fitness is a gym in Cedar Hill, TX at 432 North Highway 67, Cedar Hill, TX 75104. Phone: +16823480417. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cedar-hill/
-4. Anytime Fitness | trust 4.0 | Anytime Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cedar-hill/
-5. Ment Fitness | trust 4.0 | Ment Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/ment-fitness-cedar-hill/
+1. Fit Camp | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Fit Camp is a gym in Cedar Hill, TX at 105 East Belt Line Road #600, Cedar Hill, TX 75104. Phone: +12145328395. Website: https://jjfitcamp.com/. | https://dingalinged-cpu.github.io/registry/c/fit-camp-cedar-hill/
+2. Ment Fitness | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Ment Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/ment-fitness-cedar-hill/
+3. Hotworx | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Hotworx is a gym in Cedar Hill, TX at 374 East FM 1382 #A, Cedar Hill, TX 75104. Phone: +19726373279. | https://dingalinged-cpu.github.io/registry/c/hotworx-cedar-hill/
+4. Planet Fitness | Organic #4 | Pulse Score 47.5/100 (Building, #4 in city) | Planet Fitness is a gym in Cedar Hill, TX at 432 North Highway 67, Cedar Hill, TX 75104. Phone: +16823480417. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cedar-hill/
+5. Anytime Fitness | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Anytime Fitness is a gym in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym cedar hill tx | category: Fitness | industry benchmark: Health & Fitness

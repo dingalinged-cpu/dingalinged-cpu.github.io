@@ -13,7 +13,7 @@ Old Town Cycles is a bike shop in Madison, WI at 920 East Johnson Street, Madiso
 - Website: https://www.oldtowncycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Apr-Sep: Mo-Th 11:00-19:00; Fr 11:00-17:00; Sa 12:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 43% of bike shops in Madison, #12 of 24 bike shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

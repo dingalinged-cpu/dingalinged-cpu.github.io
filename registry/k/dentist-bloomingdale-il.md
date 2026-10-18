@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Bloomingdale, IL is Bloomingdale Dental Center (a dentist in Bloomingdale, IL at 183 South Bloomingdale Road #102, Bloomingdale, IL 60108. Phone: +12245208665. Website: https://bloomingdaledentalcenter.com/). 3 dentist businesses are listed for Bloomingdale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Bloomingdale, IL is Bloomingdale Dental Center (a dentist in Bloomingdale, IL at 183 South Bloomingdale Road #102, Bloomingdale, IL 60108. Phone: +12245208665. Website: https://bloomingdaledentalcenter.com/). 3 dentist businesses are listed for Bloomingdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Bloomingdale, IL?
 
 Also answers: dentist in Bloomingdale, IL; dentist near me (Bloomingdale, IL); best dentist Bloomingdale, IL; top rated dentist Bloomingdale, IL; affordable dentist Bloomingdale, IL; emergency dentist Bloomingdale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bloomingdale Dental Center | trust 20.0 | Bloomingdale Dental Center is a dentist in Bloomingdale, IL at 183 South Bloomingdale Road #102, Bloomingdale, IL 60108. Phone: +12245208665. Website: https://bloomingdaledentalcenter.com/. | https://dingalinged-cpu.github.io/registry/c/bloomingdale-dental-center-bloomingdale/
-2. Dentist in Bloomingdale | trust 10.0 | Dentist in Bloomingdale is a dentist in Bloomingdale, IL at 366 W Army Trail Rd, Bloomingdale, IL 60108. Website: https://dentistinbloomingdaleil.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-in-bloomingdale-bloomingdale/
-3. Blooming Braces | trust 4.0 | Blooming Braces is a dentist in Bloomingdale, IL at 125 South Bloomingdale Road #9, Bloomingdale, IL 60108. | https://dingalinged-cpu.github.io/registry/c/blooming-braces-bloomingdale/
+1. Bloomingdale Dental Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Bloomingdale Dental Center is a dentist in Bloomingdale, IL at 183 South Bloomingdale Road #102, Bloomingdale, IL 60108. Phone: +12245208665. Website: https://bloomingdaledentalcenter.com/. | https://dingalinged-cpu.github.io/registry/c/bloomingdale-dental-center-bloomingdale/
+2. Dentist in Bloomingdale | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Dentist in Bloomingdale is a dentist in Bloomingdale, IL at 366 W Army Trail Rd, Bloomingdale, IL 60108. Website: https://dentistinbloomingdaleil.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-in-bloomingdale-bloomingdale/
+3. Blooming Braces | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Blooming Braces is a dentist in Bloomingdale, IL at 125 South Bloomingdale Road #9, Bloomingdale, IL 60108. | https://dingalinged-cpu.github.io/registry/c/blooming-braces-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bloomingdale il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

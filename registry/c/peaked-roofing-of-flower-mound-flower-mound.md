@@ -13,7 +13,7 @@ Peaked Roofing of Flower Mound is a roofer in Flower Mound, TX at 1943 Shoreline
 - Website: https://peakedroofing.com/flower-mound-roofing-services-by-peaked-roofing/
 - Email: info@peakedroofing.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su closed
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 24% of roofers in Dallas–Fort Worth, #1 of 2 roofers in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

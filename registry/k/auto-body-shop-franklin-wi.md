@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Franklin, WI is Caliber Collision (an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132). 1 auto body shop businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Franklin, WI is Caliber Collision (an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132). 1 auto body shop businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Franklin, WI?
 
 Also answers: auto body shop in Franklin, WI; auto body shop near me (Franklin, WI); best auto body shop Franklin, WI; top rated auto body shop Franklin, WI; affordable auto body shop Franklin, WI; emergency auto body shop Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | trust 4.0 | Caliber Collision is an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-franklin/
+1. Caliber Collision | Organic #1 | Pulse Score 44.7/100 (Building, #4 in city) | Caliber Collision is an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop franklin wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

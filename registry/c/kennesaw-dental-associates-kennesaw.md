@@ -13,7 +13,7 @@ Kennesaw Dental Associates is a dentist in Kennesaw, GA at 3600 Cherokee Street 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 08:00-14:00; We 08:00-16:30; Th 08:00-15:30; Fr off; Sa off; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 33% of dentists in Atlanta, #7 of 11 dentists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

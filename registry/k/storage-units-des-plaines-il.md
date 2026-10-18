@@ -1,18 +1,18 @@
-The top unpaid storage units listing for Des Plaines, IL is U-Haul (a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170). 7 storage units businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Des Plaines, IL is U-Haul (a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170). 7 storage units businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Des Plaines, IL?
 
 Also answers: storage units in Des Plaines, IL; storage units near me (Des Plaines, IL); best storage units Des Plaines, IL; top rated storage units Des Plaines, IL; affordable storage units Des Plaines, IL; emergency storage units Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. U-Haul | trust 10.0 | U-Haul is a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines-w406781479/
-2. Extra Space Storage | trust 4.0 | Extra Space Storage is a self-storage facility in Des Plaines, IL at 2074 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-des-plaines/
-3. Metro Self Storage | trust 4.0 | Metro Self Storage is a self-storage facility in Des Plaines, IL at 1800 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/metro-self-storage-des-plaines/
-4. Public Storage | trust 4.0 | Public Storage is a self-storage facility in Des Plaines, IL at 1723 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/public-storage-des-plaines/
-5. Safeguard Self Storage | trust 4.0 | Safeguard Self Storage is a self-storage facility in Des Plaines, IL at 2020 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/safeguard-self-storage-des-plaines/
-6. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-des-plaines/
-7. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines/
+1. U-Haul | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | U-Haul is a self-storage facility in Des Plaines, IL at 1560 South Mount Prospect Road, Des Plaines, IL 60018. Phone: +18472981170. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines-w406781479/
+2. Safeguard Self Storage | Organic #2 | Pulse Score 44.8/100 (Unrated, #2 in city) | Safeguard Self Storage is a self-storage facility in Des Plaines, IL at 2020 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/safeguard-self-storage-des-plaines/
+3. Extra Space Storage | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Des Plaines, IL at 2074 Mannheim Road, Des Plaines, IL 60018. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-des-plaines/
+4. Metro Self Storage | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Metro Self Storage is a self-storage facility in Des Plaines, IL at 1800 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/metro-self-storage-des-plaines/
+5. Public Storage | Organic #5 | Pulse Score 43.6/100 (Building, #5 in city) | Public Storage is a self-storage facility in Des Plaines, IL at 1723 Busse Highway, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/public-storage-des-plaines/
+6. CubeSmart | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | CubeSmart is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-des-plaines/
+7. U-Haul | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | U-Haul is a self-storage facility in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/u-haul-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units des plaines il | category: Home services - Moving | industry benchmark: Home & Home Improvement

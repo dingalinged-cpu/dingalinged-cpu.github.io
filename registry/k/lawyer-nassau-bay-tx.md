@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Nassau Bay, TX is Elaine S. Michael Attorney at Law (a lawyer in Houston, TX at 1322 Space Park Drive ##C201-C, Houston, TX 77058. Phone: +12819930700. Website: https://www.elainemichaelatty.com/). 1 lawyer businesses are listed for Nassau Bay, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Nassau Bay, TX is Elaine S. Michael Attorney at Law (a lawyer in Houston, TX at 1322 Space Park Drive ##C201-C, Houston, TX 77058. Phone: +12819930700. Website: https://www.elainemichaelatty.com/). 1 lawyer businesses are listed for Nassau Bay, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Nassau Bay, TX?
 
 Also answers: lawyer in Nassau Bay, TX; lawyer near me (Nassau Bay, TX); best lawyer Nassau Bay, TX; top rated lawyer Nassau Bay, TX; affordable lawyer Nassau Bay, TX; emergency lawyer Nassau Bay, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elaine S. Michael Attorney at Law | trust 16.0 | Elaine S. Michael Attorney at Law is a lawyer in Houston, TX at 1322 Space Park Drive ##C201-C, Houston, TX 77058. Phone: +12819930700. Website: https://www.elainemichaelatty.com/. | https://dingalinged-cpu.github.io/registry/c/elaine-s-michael-attorney-at-law-houston/
+1. Elaine S. Michael Attorney at Law | Organic #1 | Pulse Score 57.1/100 (Unrated, #47 in city) | Elaine S. Michael Attorney at Law is a lawyer in Houston, TX at 1322 Space Park Drive ##C201-C, Houston, TX 77058. Phone: +12819930700. Website: https://www.elainemichaelatty.com/. | https://dingalinged-cpu.github.io/registry/c/elaine-s-michael-attorney-at-law-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer nassau bay tx | category: Legal | industry benchmark: Attorneys & Legal Services

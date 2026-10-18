@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Palos Heights, IL is Breadsmith (a bakery in Palos Heights, IL at 7152 West 127th Street, Palos Heights, IL 60463. Phone: +17089230755. Website: https://www.breadsmith.com/palos-heights/). 1 bakery businesses are listed for Palos Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Palos Heights, IL is Breadsmith (a bakery in Palos Heights, IL at 7152 West 127th Street, Palos Heights, IL 60463. Phone: +17089230755. Website: https://www.breadsmith.com/palos-heights/). 1 bakery businesses are listed for Palos Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Palos Heights, IL?
 
 Also answers: bakery in Palos Heights, IL; bakery near me (Palos Heights, IL); best bakery Palos Heights, IL; top rated bakery Palos Heights, IL; affordable bakery Palos Heights, IL; emergency bakery Palos Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Breadsmith | trust 16.0 | Breadsmith is a bakery in Palos Heights, IL at 7152 West 127th Street, Palos Heights, IL 60463. Phone: +17089230755. Website: https://www.breadsmith.com/palos-heights/. | https://dingalinged-cpu.github.io/registry/c/breadsmith-palos-heights/
+1. Breadsmith | Organic #1 | Pulse Score 47/100 (Unrated, #1 in city) | Breadsmith is a bakery in Palos Heights, IL at 7152 West 127th Street, Palos Heights, IL 60463. Phone: +17089230755. Website: https://www.breadsmith.com/palos-heights/. | https://dingalinged-cpu.github.io/registry/c/breadsmith-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery palos heights il | category: Events & weddings | industry benchmark: Personal Services

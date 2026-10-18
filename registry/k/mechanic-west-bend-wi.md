@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for West Bend, WI is Auto Safety Center (an auto repair shop in West Bend, WI). 6 mechanic businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for West Bend, WI is Auto Safety Center (an auto repair shop in West Bend, WI). 6 mechanic businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in West Bend, WI?
 
 Also answers: mechanic in West Bend, WI; mechanic near me (West Bend, WI); best mechanic West Bend, WI; top rated mechanic West Bend, WI; affordable mechanic West Bend, WI; emergency mechanic West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Safety Center | trust 0.0 | Auto Safety Center is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/auto-safety-center-west-bend/
-2. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/crash-champions-west-bend/
-3. Midas | trust 0.0 | Midas is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/midas-west-bend/
-4. NTB | trust 0.0 | NTB is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/ntb-west-bend/
-5. Safelite Auto Glass | trust 0.0 | Safelite Auto Glass is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/safelite-auto-glass-west-bend/
-6. Valvoline | trust 0.0 | Valvoline is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-west-bend/
+1. Auto Safety Center | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Auto Safety Center is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/auto-safety-center-west-bend/
+2. Valvoline | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Valvoline is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-west-bend/
+3. Crash Champions | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Crash Champions is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/crash-champions-west-bend/
+4. NTB | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | NTB is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/ntb-west-bend/
+5. Safelite Auto Glass | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Safelite Auto Glass is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/safelite-auto-glass-west-bend/
+6. Midas | Organic #6 | Pulse Score 42/100 (Building, #6 in city) | Midas is an auto repair shop in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/midas-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic west bend wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

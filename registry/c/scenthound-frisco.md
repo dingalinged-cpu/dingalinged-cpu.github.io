@@ -13,7 +13,7 @@ Scenthound is a dog groomer in Frisco, TX at 5570 FM 423 #600, Frisco, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 97% of dog groomers in Dallas–Fort Worth, #5 of 5 dog groomers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

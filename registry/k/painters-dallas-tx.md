@@ -1,14 +1,14 @@
-The top unpaid painters listing for Dallas, TX is EC Maintenance (a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/). 3 painters businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Dallas, TX is EC Maintenance (a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/). 3 painters businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Dallas, TX?
 
 Also answers: painters in Dallas, TX; painters near me (Dallas, TX); best painters Dallas, TX; top rated painters Dallas, TX; affordable painters Dallas, TX; emergency painters Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EC Maintenance | trust 16.0 | EC Maintenance is a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/. | https://dingalinged-cpu.github.io/registry/c/ec-maintenance-dallas/
-2. Rodriguez Painting, LLC | trust 10.0 | Rodriguez Painting, LLC is a painting contractor in Dallas, TX. Phone: +12149003944. | https://dingalinged-cpu.github.io/registry/c/rodriguez-painting-llc-dallas/
-3. Sundance Painting | trust 3.0 | Sundance Painting is a painting contractor in Dallas, TX at 3702 North Buckner Boulevard, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sundance-painting-dallas/
+1. EC Maintenance | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | EC Maintenance is a painting contractor in Dallas, TX. Phone: +19724395151. Website: https://www.ecmaintenancee.com/. | https://dingalinged-cpu.github.io/registry/c/ec-maintenance-dallas/
+2. Rodriguez Painting, LLC | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Rodriguez Painting, LLC is a painting contractor in Dallas, TX. Phone: +12149003944. | https://dingalinged-cpu.github.io/registry/c/rodriguez-painting-llc-dallas/
+3. Sundance Painting | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Sundance Painting is a painting contractor in Dallas, TX at 3702 North Buckner Boulevard, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sundance-painting-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters dallas tx | category: Home services - Painting | industry benchmark: Home & Home Improvement

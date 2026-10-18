@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Hedwig Village, TX is Berkeley Eye Center - Memorial Villages (an eye care practice in Houston, TX at 8731 Katy Freeway #300, Houston, TX 77024. Phone: +17138278311. Website: https://www.berkeleyeye.com/locations/memorial). 1 eye doctor businesses are listed for Hedwig Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Hedwig Village, TX is Berkeley Eye Center - Memorial Villages (an eye care practice in Houston, TX at 8731 Katy Freeway #300, Houston, TX 77024. Phone: +17138278311. Website: https://www.berkeleyeye.com/locations/memorial). 1 eye doctor businesses are listed for Hedwig Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Hedwig Village, TX?
 
 Also answers: eye doctor in Hedwig Village, TX; eye doctor near me (Hedwig Village, TX); best eye doctor Hedwig Village, TX; top rated eye doctor Hedwig Village, TX; affordable eye doctor Hedwig Village, TX; emergency eye doctor Hedwig Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Berkeley Eye Center - Memorial Villages | trust 16.0 | Berkeley Eye Center - Memorial Villages is an eye care practice in Houston, TX at 8731 Katy Freeway #300, Houston, TX 77024. Phone: +17138278311. Website: https://www.berkeleyeye.com/locations/memorial. | https://dingalinged-cpu.github.io/registry/c/berkeley-eye-center-memorial-villages-houston/
+1. Berkeley Eye Center - Memorial Villages | Organic #1 | Pulse Score 60.5/100 (Unrated, #9 in city) | Berkeley Eye Center - Memorial Villages is an eye care practice in Houston, TX at 8731 Katy Freeway #300, Houston, TX 77024. Phone: +17138278311. Website: https://www.berkeleyeye.com/locations/memorial. | https://dingalinged-cpu.github.io/registry/c/berkeley-eye-center-memorial-villages-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor hedwig village tx | category: Health & medical | industry benchmark: Physicians & Surgeons

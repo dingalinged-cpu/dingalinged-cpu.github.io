@@ -13,7 +13,7 @@ Pure Barre is a gym in Saint Louis Park, MN at 5620 36th Street West, Saint Loui
 - Website: https://www.purebarre.com/location/minneapolis-st-louis-park-mn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 66% of gyms in Minneapolis–St. Paul, #10 of 13 gyms in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

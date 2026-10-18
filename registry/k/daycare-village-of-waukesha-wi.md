@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Village Of Waukesha, WI is Giggly Hugs Child Care Inc (a daycare in Village of Waukesha, WI). 1 daycare businesses are listed for Village Of Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Village Of Waukesha, WI is Giggly Hugs Child Care Inc (a daycare in Village of Waukesha, WI). 1 daycare businesses are listed for Village Of Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Village Of Waukesha, WI?
 
 Also answers: daycare in Village Of Waukesha, WI; daycare near me (Village Of Waukesha, WI); best daycare Village Of Waukesha, WI; top rated daycare Village Of Waukesha, WI; affordable daycare Village Of Waukesha, WI; emergency daycare Village Of Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Giggly Hugs Child Care Inc | trust 0.0 | Giggly Hugs Child Care Inc is a daycare in Village of Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/giggly-hugs-child-care-inc-village-of-waukesha/
+1. Giggly Hugs Child Care Inc | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Giggly Hugs Child Care Inc is a daycare in Village of Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/giggly-hugs-child-care-inc-village-of-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare village of waukesha wi | category: Education & childcare | industry benchmark: Education & Instruction

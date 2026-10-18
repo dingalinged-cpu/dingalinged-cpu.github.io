@@ -13,7 +13,7 @@ Haven The Dog Spot is a dog groomer in Cobb County, GA at 4719 Lower Roswell Roa
 - Website: https://www.havendog.com/
 - Email: concierge@havendog.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 09:00-17:00; Su 12:00-16:00; PH off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 25% of dog groomers in Atlanta, #2 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

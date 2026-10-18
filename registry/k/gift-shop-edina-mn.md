@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Edina, MN is SHOP in the CITY (a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/). 3 gift shop businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Edina, MN is SHOP in the CITY (a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/). 3 gift shop businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Edina, MN?
 
 Also answers: gift shop in Edina, MN; gift shop near me (Edina, MN); best gift shop Edina, MN; top rated gift shop Edina, MN; affordable gift shop Edina, MN; emergency gift shop Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SHOP in the CITY | trust 16.0 | SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/. | https://dingalinged-cpu.github.io/registry/c/shop-in-the-city-edina/
-2. Coccinella | trust 10.0 | Coccinella is a gift shop in Edina, MN at 4946 France Avenue South, Edina, MN 55410. Website: https://www.coccinellastore.com/. | https://dingalinged-cpu.github.io/registry/c/coccinella-edina/
-3. SENTi | trust 10.0 | SENTi is a gift shop in Edina, MN. Website: https://shopsenti.com/. | https://dingalinged-cpu.github.io/registry/c/senti-edina/
+1. SHOP in the CITY | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: https://www.shopinthecity.com/. | https://dingalinged-cpu.github.io/registry/c/shop-in-the-city-edina/
+2. Coccinella | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Coccinella is a gift shop in Edina, MN at 4946 France Avenue South, Edina, MN 55410. Website: https://www.coccinellastore.com/. | https://dingalinged-cpu.github.io/registry/c/coccinella-edina/
+3. SENTi | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | SENTi is a gift shop in Edina, MN. Website: https://shopsenti.com/. | https://dingalinged-cpu.github.io/registry/c/senti-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop edina mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

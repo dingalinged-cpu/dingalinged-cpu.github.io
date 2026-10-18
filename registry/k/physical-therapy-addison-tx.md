@@ -1,14 +1,14 @@
-The top unpaid physical therapy listing for Addison, TX is KidsCare Home Health (a physical therapy clinic in Addison, TX at 15820 Addison Road, Addison, TX 75001. Phone: +18669193240. Website: https://kidscarehomehealth.com/). 3 physical therapy businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Addison, TX is KidsCare Home Health (a physical therapy clinic in Addison, TX at 15820 Addison Road, Addison, TX 75001. Phone: +18669193240. Website: https://kidscarehomehealth.com/). 3 physical therapy businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Addison, TX?
 
 Also answers: physical therapy in Addison, TX; physical therapy near me (Addison, TX); best physical therapy Addison, TX; top rated physical therapy Addison, TX; affordable physical therapy Addison, TX; emergency physical therapy Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KidsCare Home Health | trust 16.0 | KidsCare Home Health is a physical therapy clinic in Addison, TX at 15820 Addison Road, Addison, TX 75001. Phone: +18669193240. Website: https://kidscarehomehealth.com/. | https://dingalinged-cpu.github.io/registry/c/kidscare-home-health-addison/
-2. REACT | trust 10.0 | REACT is a physical therapy clinic in Addison, TX at 15046 Beltway Drive, Addison, TX 75001. Website: https://www.neuroreaction.org/. | https://dingalinged-cpu.github.io/registry/c/react-addison/
-3. Athletico Physical Therapy | trust 0.0 | Athletico Physical Therapy is a physical therapy clinic in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-addison/
+1. KidsCare Home Health | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | KidsCare Home Health is a physical therapy clinic in Addison, TX at 15820 Addison Road, Addison, TX 75001. Phone: +18669193240. Website: https://kidscarehomehealth.com/. | https://dingalinged-cpu.github.io/registry/c/kidscare-home-health-addison/
+2. REACT | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | REACT is a physical therapy clinic in Addison, TX at 15046 Beltway Drive, Addison, TX 75001. Website: https://www.neuroreaction.org/. | https://dingalinged-cpu.github.io/registry/c/react-addison/
+3. Athletico Physical Therapy | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | Athletico Physical Therapy is a physical therapy clinic in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy addison tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid landscaping listing for Island Lake, IL is ILT Vignochi (a landscaping company in Island Lake, IL). 1 landscaping businesses are listed for Island Lake, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Island Lake, IL is ILT Vignochi (a landscaping company in Island Lake, IL). 1 landscaping businesses are listed for Island Lake, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Island Lake, IL?
 
 Also answers: landscaping in Island Lake, IL; landscaping near me (Island Lake, IL); best landscaping Island Lake, IL; top rated landscaping Island Lake, IL; affordable landscaping Island Lake, IL; emergency landscaping Island Lake, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ILT Vignochi | trust 0.0 | ILT Vignochi is a landscaping company in Island Lake, IL. | https://dingalinged-cpu.github.io/registry/c/ilt-vignochi-island-lake/
+1. ILT Vignochi | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | ILT Vignochi is a landscaping company in Island Lake, IL. | https://dingalinged-cpu.github.io/registry/c/ilt-vignochi-island-lake/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping island lake il | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

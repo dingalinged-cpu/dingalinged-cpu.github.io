@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Hodgkins, IL is Pep Boys (an auto repair shop in Hodgkins, IL at 6247 South La Grange Road, Hodgkins, IL 60525). 1 mechanic businesses are listed for Hodgkins, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hodgkins, IL is Pep Boys (an auto repair shop in Hodgkins, IL at 6247 South La Grange Road, Hodgkins, IL 60525). 1 mechanic businesses are listed for Hodgkins, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hodgkins, IL?
 
 Also answers: mechanic in Hodgkins, IL; mechanic near me (Hodgkins, IL); best mechanic Hodgkins, IL; top rated mechanic Hodgkins, IL; affordable mechanic Hodgkins, IL; emergency mechanic Hodgkins, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys | trust 8.0 | Pep Boys is an auto repair shop in Hodgkins, IL at 6247 South La Grange Road, Hodgkins, IL 60525. | https://dingalinged-cpu.github.io/registry/c/pep-boys-hodgkins/
+1. Pep Boys | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Pep Boys is an auto repair shop in Hodgkins, IL at 6247 South La Grange Road, Hodgkins, IL 60525. | https://dingalinged-cpu.github.io/registry/c/pep-boys-hodgkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hodgkins il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Garland, TX at 3106 North Shiloh Road, Garland, TX
 - Website: https://www.goodwilldallas.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 63% of thrift stores in Dallas–Fort Worth, #2 of 5 thrift stores in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

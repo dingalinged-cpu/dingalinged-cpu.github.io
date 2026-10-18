@@ -13,7 +13,7 @@ La Familia is an insurance agent in Lancaster, TX at 3250 West Pleasant Run Road
 - Website: https://locations.lafamiliainsurance.com/la-familia-auto-insurance-aa1df04f40e3
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00
-- Registry Score: 54/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Unrated (not enough evidence yet) — top 40% of insurance agents in Dallas–Fort Worth, #2 of 4 insurance agents in Lancaster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 41.9, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ European Wax Center is a waxing salon in Minneapolis, MN at 3232 Lake Street Wes
 - Website: https://locations.waxcenter.com/mn/minneapolis/minneapolis-uptown-0123.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-20:00; Sa 08:30-17:00; Su 10:30-18:00; PH closed
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 50% of waxing salons in Minneapolis–St. Paul, #2 of 2 waxing salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 66.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

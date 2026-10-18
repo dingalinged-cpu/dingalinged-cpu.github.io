@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Fulshear, TX is 359 Dental & Orthodontics (a dentist in Fulshear, TX at 8411 FM 359, Fulshear, TX. Phone: +12815281179. Website: https://359dental.com/). 5 dentist businesses are listed for Fulshear, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fulshear, TX is 359 Dental & Orthodontics (a dentist in Fulshear, TX at 8411 FM 359, Fulshear, TX. Phone: +12815281179. Website: https://359dental.com/). 5 dentist businesses are listed for Fulshear, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fulshear, TX?
 
 Also answers: dentist in Fulshear, TX; dentist near me (Fulshear, TX); best dentist Fulshear, TX; top rated dentist Fulshear, TX; affordable dentist Fulshear, TX; emergency dentist Fulshear, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 359 Dental & Orthodontics | trust 19.0 | 359 Dental & Orthodontics is a dentist in Fulshear, TX at 8411 FM 359, Fulshear, TX. Phone: +12815281179. Website: https://359dental.com/. | https://dingalinged-cpu.github.io/registry/c/359-dental-and-orthodontics-fulshear/
-2. FM Dentistry & Orthodontics | trust 4.0 | FM Dentistry & Orthodontics is a dentist in Fulshear, TX at 6420 FM 1463 #200, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/fm-dentistry-and-orthodontics-fulshear/
-3. Rightway Dental | trust 4.0 | Rightway Dental is a dentist in Fulshear, TX at 6630 FM 1463 #600, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/rightway-dental-fulshear/
-4. Smile Bright Dental Studio | trust 4.0 | Smile Bright Dental Studio is a dentist in Fulshear, TX at 6300 FM 1463 #150, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/smile-bright-dental-studio-fulshear/
-5. Smiles of Fulshear | trust 4.0 | Smiles of Fulshear is a dentist in Fulshear, TX at 6520 FM 359, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/smiles-of-fulshear-fulshear/
+1. 359 Dental & Orthodontics | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | 359 Dental & Orthodontics is a dentist in Fulshear, TX at 8411 FM 359, Fulshear, TX. Phone: +12815281179. Website: https://359dental.com/. | https://dingalinged-cpu.github.io/registry/c/359-dental-and-orthodontics-fulshear/
+2. FM Dentistry & Orthodontics | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | FM Dentistry & Orthodontics is a dentist in Fulshear, TX at 6420 FM 1463 #200, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/fm-dentistry-and-orthodontics-fulshear/
+3. Rightway Dental | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Rightway Dental is a dentist in Fulshear, TX at 6630 FM 1463 #600, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/rightway-dental-fulshear/
+4. Smile Bright Dental Studio | Organic #4 | Pulse Score 57.7/100 (Unrated, #4 in city) | Smile Bright Dental Studio is a dentist in Fulshear, TX at 6300 FM 1463 #150, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/smile-bright-dental-studio-fulshear/
+5. Smiles of Fulshear | Organic #5 | Pulse Score 57.7/100 (Unrated, #5 in city) | Smiles of Fulshear is a dentist in Fulshear, TX at 6520 FM 359, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/smiles-of-fulshear-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fulshear tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

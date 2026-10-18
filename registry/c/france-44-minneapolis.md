@@ -13,7 +13,7 @@ France 44 is a liquor store in Minneapolis, MN at 4351 France Avenue South, Minn
 - Website: https://www.france44.com/
 - Email: hello@france44.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 1% of liquor stores in Minneapolis–St. Paul, #1 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

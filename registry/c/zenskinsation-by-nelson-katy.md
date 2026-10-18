@@ -13,7 +13,7 @@ ZenSkinsation by Nelson is a skin care studio in Katy, TX at 26077 Nelson Way #4
 - Website: https://zenskinsation.square.site/
 - Email: zenskinsation@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 17:00-19:00; Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 4% of skin care studios in Houston, #1 of 2 skin care studios in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Oh! My Nappy Hair Salon is a hair salon in Atlanta, GA at 237 Mitchell Street So
 - Website: https://www.ohmynappyhair.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Atlanta, #25 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

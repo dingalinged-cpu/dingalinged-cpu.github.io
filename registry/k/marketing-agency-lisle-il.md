@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Lisle, IL is americameagle.com (a marketing agency in Lisle, IL. Website: https://americaneagle.com/). 1 marketing agency businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Lisle, IL is americameagle.com (a marketing agency in Lisle, IL. Website: https://americaneagle.com/). 1 marketing agency businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Lisle, IL?
 
 Also answers: marketing agency in Lisle, IL; marketing agency near me (Lisle, IL); best marketing agency Lisle, IL; top rated marketing agency Lisle, IL; affordable marketing agency Lisle, IL; emergency marketing agency Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. americameagle.com | trust 6.0 | americameagle.com is a marketing agency in Lisle, IL. Website: https://americaneagle.com/. | https://dingalinged-cpu.github.io/registry/c/americameagle-com-lisle/
+1. americameagle.com | Organic #1 | Pulse Score 53.3/100 (Unrated, #1 in city) | americameagle.com is a marketing agency in Lisle, IL. Website: https://americaneagle.com/. | https://dingalinged-cpu.github.io/registry/c/americameagle-com-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency lisle il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid mattress store listing for Dunwoody, GA is Mattress Firm (a mattress store in Dunwoody, GA at 1161 Hammond Drive Northeast #110, Dunwoody, GA 30346. Phone: +17706980246. Website: https://www.mattressfirm.com/en-us/stores/ga/dunwoody/007056/). 2 mattress store businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Dunwoody, GA is Original Mattress Factory (a mattress store in Atlanta, GA at 600 Ashwood Parkway, Atlanta, GA 30338. Phone: +14709223500). 2 mattress store businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Dunwoody, GA?
 
 Also answers: mattress store in Dunwoody, GA; mattress store near me (Dunwoody, GA); best mattress store Dunwoody, GA; top rated mattress store Dunwoody, GA; affordable mattress store Dunwoody, GA; emergency mattress store Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Dunwoody, GA at 1161 Hammond Drive Northeast #110, Dunwoody, GA 30346. Phone: +17706980246. Website: https://www.mattressfirm.com/en-us/stores/ga/dunwoody/007056/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-dunwoody/
-2. Original Mattress Factory | trust 14.0 | Original Mattress Factory is a mattress store in Atlanta, GA at 600 Ashwood Parkway, Atlanta, GA 30338. Phone: +14709223500. | https://dingalinged-cpu.github.io/registry/c/original-mattress-factory-atlanta/
+1. Original Mattress Factory | Organic #1 | Pulse Score 46.4/100 (Building, #3 in city) | Original Mattress Factory is a mattress store in Atlanta, GA at 600 Ashwood Parkway, Atlanta, GA 30338. Phone: +14709223500. | https://dingalinged-cpu.github.io/registry/c/original-mattress-factory-atlanta/
+2. Mattress Firm | Organic #2 | Pulse Score 45.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Dunwoody, GA at 1161 Hammond Drive Northeast #110, Dunwoody, GA 30346. Phone: +17706980246. Website: https://www.mattressfirm.com/en-us/stores/ga/dunwoody/007056/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store dunwoody ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

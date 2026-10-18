@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Sugar Hill, GA is Great Clips (a hair salon in Sugar Hill, GA. Phone: +17706147764. Website: https://salons.greatclips.com/us/ga/buford/5885-cumming-hwy). 2 haircut businesses are listed for Sugar Hill, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Sugar Hill, GA is Great Clips (a hair salon in Sugar Hill, GA. Phone: +17706147764. Website: https://salons.greatclips.com/us/ga/buford/5885-cumming-hwy). 2 haircut businesses are listed for Sugar Hill, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Sugar Hill, GA?
 
 Also answers: haircut in Sugar Hill, GA; haircut near me (Sugar Hill, GA); best haircut Sugar Hill, GA; top rated haircut Sugar Hill, GA; affordable haircut Sugar Hill, GA; emergency haircut Sugar Hill, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 12.0 | Great Clips is a hair salon in Sugar Hill, GA. Phone: +17706147764. Website: https://salons.greatclips.com/us/ga/buford/5885-cumming-hwy. | https://dingalinged-cpu.github.io/registry/c/great-clips-sugar-hill/
-2. Supercuts | trust 4.0 | Supercuts is a hair salon in Sugar Hill, GA at 5965 Cumming Highway North East, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/supercuts-sugar-hill/
+1. Great Clips | Organic #1 | Pulse Score 46/100 (Building, #1 in city) | Great Clips is a hair salon in Sugar Hill, GA. Phone: +17706147764. Website: https://salons.greatclips.com/us/ga/buford/5885-cumming-hwy. | https://dingalinged-cpu.github.io/registry/c/great-clips-sugar-hill/
+2. Supercuts | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | Supercuts is a hair salon in Sugar Hill, GA at 5965 Cumming Highway North East, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/supercuts-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut sugar hill ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

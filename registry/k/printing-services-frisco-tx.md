@@ -1,19 +1,19 @@
-The top unpaid printing services listing for Frisco, TX is The UPS Store (a printing service in Frisco, TX at 5999 Custer Road #110, Frisco, TX 75035. Phone: +19726685123. Website: https://locations.theupsstore.com/tx/frisco/5999-custer-rd). 8 printing services businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Frisco, TX is The UPS Store (a printing service in Frisco, TX at 5999 Custer Road #110, Frisco, TX 75035. Phone: +19726685123. Website: https://locations.theupsstore.com/tx/frisco/5999-custer-rd). 8 printing services businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Frisco, TX?
 
 Also answers: printing services in Frisco, TX; printing services near me (Frisco, TX); best printing services Frisco, TX; top rated printing services Frisco, TX; affordable printing services Frisco, TX; emergency printing services Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 20.0 | The UPS Store is a printing service in Frisco, TX at 5999 Custer Road #110, Frisco, TX 75035. Phone: +19726685123. Website: https://locations.theupsstore.com/tx/frisco/5999-custer-rd. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco/
-2. FedEx Office | trust 3.0 | FedEx Office is a printing service in Frisco, TX at 1555 US Hwy 380 #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-frisco-n13248534600/
-3. The UPS Store | trust 3.0 | The UPS Store is a printing service in Frisco, TX at 1525 West University Drive #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13260420730/
-4. The UPS Store | trust 3.0 | The UPS Store is a printing service in Frisco, TX at 11411 Coit Road #110, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13568407732/
-5. The UPS Store | trust 3.0 | The UPS Store is a printing service in Frisco, TX at 11625 Custer Road #110, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13615740452/
-6. FedEx Office | trust 0.0 | FedEx Office is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-frisco/
-7. The UPS Store | trust 0.0 | The UPS Store is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n11710159889/
-8. The UPS Store | trust 0.0 | The UPS Store is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13479533777/
+1. The UPS Store | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | The UPS Store is a printing service in Frisco, TX at 5999 Custer Road #110, Frisco, TX 75035. Phone: +19726685123. Website: https://locations.theupsstore.com/tx/frisco/5999-custer-rd. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco/
+2. The UPS Store | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | The UPS Store is a printing service in Frisco, TX at 11625 Custer Road #110, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13615740452/
+3. The UPS Store | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | The UPS Store is a printing service in Frisco, TX at 11411 Coit Road #110, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13568407732/
+4. FedEx Office | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | FedEx Office is a printing service in Frisco, TX at 1555 US Hwy 380 #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-frisco-n13248534600/
+5. The UPS Store | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | The UPS Store is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13479533777/
+6. The UPS Store | Organic #6 | Pulse Score 43.1/100 (Building, #6 in city) | The UPS Store is a printing service in Frisco, TX at 1525 West University Drive #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n13260420730/
+7. The UPS Store | Organic #7 | Pulse Score 42.8/100 (Building, #7 in city) | The UPS Store is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-frisco-n11710159889/
+8. FedEx Office | Organic #8 | Pulse Score 41.3/100 (Building, #8 in city) | FedEx Office is a printing service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services frisco tx | category: Professional & financial services | industry benchmark: Finance & Insurance

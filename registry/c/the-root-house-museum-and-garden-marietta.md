@@ -13,7 +13,7 @@ The Root House Museum and Garden is a gift shop in Marietta, GA at 80 North Mari
 - Website: https://www.cobblandmarks.com/root-house.php
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 11:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 9% of gift shops in Atlanta, #2 of 5 gift shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

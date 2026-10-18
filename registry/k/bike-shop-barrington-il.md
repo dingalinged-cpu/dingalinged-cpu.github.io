@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Barrington, IL is Village CycleSport (a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/). 1 bike shop businesses are listed for Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Barrington, IL is Village CycleSport (a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/). 1 bike shop businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Barrington, IL?
 
 Also answers: bike shop in Barrington, IL; bike shop near me (Barrington, IL); best bike shop Barrington, IL; top rated bike shop Barrington, IL; affordable bike shop Barrington, IL; emergency bike shop Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village CycleSport | trust 14.0 | Village CycleSport is a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-barrington/
+1. Village CycleSport | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Village CycleSport is a bike shop in Barrington, IL at 203 West Northwest Highway, Barrington, IL 60010. Website: https://www.villagecyclesport.com/. | https://dingalinged-cpu.github.io/registry/c/village-cyclesport-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop barrington il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

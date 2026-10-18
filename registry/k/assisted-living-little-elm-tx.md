@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Little Elm, TX is Ladera at Little Elm (an assisted living facility in Little Elm, TX at 2002 Oak Grove Parkway, Little Elm, TX 75068. Phone: +14694725392. Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/). 1 assisted living businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Little Elm, TX is Ladera at Little Elm (an assisted living facility in Little Elm, TX at 2002 Oak Grove Parkway, Little Elm, TX 75068. Phone: +14694725392. Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/). 1 assisted living businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Little Elm, TX?
 
 Also answers: assisted living in Little Elm, TX; assisted living near me (Little Elm, TX); best assisted living Little Elm, TX; top rated assisted living Little Elm, TX; affordable assisted living Little Elm, TX; emergency assisted living Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ladera at Little Elm | trust 20.0 | Ladera at Little Elm is an assisted living facility in Little Elm, TX at 2002 Oak Grove Parkway, Little Elm, TX 75068. Phone: +14694725392. Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/. | https://dingalinged-cpu.github.io/registry/c/ladera-at-little-elm-little-elm/
+1. Ladera at Little Elm | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Ladera at Little Elm is an assisted living facility in Little Elm, TX at 2002 Oak Grove Parkway, Little Elm, TX 75068. Phone: +14694725392. Website: https://laderaliving.com/55-plus-communities/ladera-little-elm/. | https://dingalinged-cpu.github.io/registry/c/ladera-at-little-elm-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living little elm tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

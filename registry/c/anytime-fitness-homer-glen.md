@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Homer Glen, IL at 12513 West 159th Street, Homer Gle
 - Website: https://www.anytimefitness.com/gyms/3934/homer-glen-il-60491/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 43% of gyms in Chicago, #2 of 3 gyms in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 68.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

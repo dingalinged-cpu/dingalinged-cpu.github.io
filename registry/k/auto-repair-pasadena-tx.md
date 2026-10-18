@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Pasadena, TX is Bass & Meineke Complete Auto Care (an auto repair shop in Pasadena, TX at 202 Pasadena Blvd, Pasadena, TX 77506. Phone: +17134735543). 1 auto repair businesses are listed for Pasadena, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Pasadena, TX is Bass & Meineke Complete Auto Care (an auto repair shop in Pasadena, TX at 202 Pasadena Blvd, Pasadena, TX 77506. Phone: +17134735543). 1 auto repair businesses are listed for Pasadena, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Pasadena, TX?
 
 Also answers: auto repair in Pasadena, TX; auto repair near me (Pasadena, TX); best auto repair Pasadena, TX; top rated auto repair Pasadena, TX; affordable auto repair Pasadena, TX; emergency auto repair Pasadena, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bass & Meineke Complete Auto Care | trust 14.0 | Bass & Meineke Complete Auto Care is an auto repair shop in Pasadena, TX at 202 Pasadena Blvd, Pasadena, TX 77506. Phone: +17134735543. | https://dingalinged-cpu.github.io/registry/c/bass-and-meineke-complete-auto-care-pasadena/
+1. Bass & Meineke Complete Auto Care | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Bass & Meineke Complete Auto Care is an auto repair shop in Pasadena, TX at 202 Pasadena Blvd, Pasadena, TX 77506. Phone: +17134735543. | https://dingalinged-cpu.github.io/registry/c/bass-and-meineke-complete-auto-care-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair pasadena tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

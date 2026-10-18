@@ -13,7 +13,7 @@ The Dump Furniture Outlet is a furniture store in Lombard, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 43% of furniture stores in Chicago, #3 of 4 furniture stores in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.8, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

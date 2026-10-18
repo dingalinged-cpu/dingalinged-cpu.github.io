@@ -1,14 +1,14 @@
-The top unpaid event venues listing for Missouri City, TX is Akadia Event Center (an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/). 3 event venues businesses are listed for Missouri City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Missouri City, TX is Akadia Event Center (an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/). 3 event venues businesses are listed for Missouri City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Missouri City, TX?
 
 Also answers: event venues in Missouri City, TX; event venues near me (Missouri City, TX); best event venues Missouri City, TX; top rated event venues Missouri City, TX; affordable event venues Missouri City, TX; emergency event venues Missouri City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Akadia Event Center | trust 16.0 | Akadia Event Center is an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/. | https://dingalinged-cpu.github.io/registry/c/akadia-event-center-missouri-city/
-2. The Makenzie House | trust 10.0 | The Makenzie House is an event venue in Missouri City, TX at 1430 Texas Parkway, Missouri City, TX 77489. Website: https://themakenziehouse.com/. | https://dingalinged-cpu.github.io/registry/c/the-makenzie-house-missouri-city/
-3. St. Joseph Hall | trust 0.0 | St. Joseph Hall is an event venue in Missouri City, TX. | https://dingalinged-cpu.github.io/registry/c/st-joseph-hall-missouri-city/
+1. Akadia Event Center | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Akadia Event Center is an event venue in Missouri City, TX at 14808 Hillcroft Avenue, Missouri City, TX 77489. Phone: +17137847777. Website: https://www.theakadia.com/. | https://dingalinged-cpu.github.io/registry/c/akadia-event-center-missouri-city/
+2. The Makenzie House | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Makenzie House is an event venue in Missouri City, TX at 1430 Texas Parkway, Missouri City, TX 77489. Website: https://themakenziehouse.com/. | https://dingalinged-cpu.github.io/registry/c/the-makenzie-house-missouri-city/
+3. St. Joseph Hall | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | St. Joseph Hall is an event venue in Missouri City, TX. | https://dingalinged-cpu.github.io/registry/c/st-joseph-hall-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues missouri city tx | category: Events & weddings | industry benchmark: Personal Services

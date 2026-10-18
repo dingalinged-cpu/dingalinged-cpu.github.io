@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for Conroe, TX is Woof Gang Bakery & Grooming Conroe (a dog groomer in Conroe, TX at 525 Woodlands Square Blvd #150, Conroe, TX 77384. Phone: +19365069663). 2 dog groomer businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Conroe, TX is Woof Gang Bakery & Grooming Conroe (a dog groomer in Conroe, TX at 525 Woodlands Square Blvd #150, Conroe, TX 77384. Phone: +19365069663). 2 dog groomer businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Conroe, TX?
 
 Also answers: dog groomer in Conroe, TX; dog groomer near me (Conroe, TX); best dog groomer Conroe, TX; top rated dog groomer Conroe, TX; affordable dog groomer Conroe, TX; emergency dog groomer Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woof Gang Bakery & Grooming Conroe | trust 10.0 | Woof Gang Bakery & Grooming Conroe is a dog groomer in Conroe, TX at 525 Woodlands Square Blvd #150, Conroe, TX 77384. Phone: +19365069663. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-conroe-conroe/
-2. petbar | trust 0.0 | petbar is a dog groomer in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-conroe/
+1. Woof Gang Bakery & Grooming Conroe | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Woof Gang Bakery & Grooming Conroe is a dog groomer in Conroe, TX at 525 Woodlands Square Blvd #150, Conroe, TX 77384. Phone: +19365069663. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-conroe-conroe/
+2. petbar | Organic #2 | Pulse Score 42/100 (Unrated, #2 in city) | petbar is a dog groomer in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer conroe tx | category: Pets | industry benchmark: Animals & Pets

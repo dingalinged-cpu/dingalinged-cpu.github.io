@@ -1,12 +1,12 @@
-The top unpaid landscaping listing for Northbrook, IL is New Leaf Landscaping, Inc (a landscaping company in Northbrook, IL at 876 Bittersweet Drive, Northbrook, IL 60062. Phone: +18477537900. Website: https://www.newleaflandscapinginc.com/). 1 landscaping businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Northbrook, IL is New Leaf Landscaping, Inc (a landscaping company in Northbrook, IL at 876 Bittersweet Drive, Northbrook, IL 60062. Phone: +18477537900. Website: https://www.newleaflandscapinginc.com/). 1 landscaping businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Northbrook, IL?
 
 Also answers: landscaping in Northbrook, IL; landscaping near me (Northbrook, IL); best landscaping Northbrook, IL; top rated landscaping Northbrook, IL; affordable landscaping Northbrook, IL; emergency landscaping Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Leaf Landscaping, Inc | trust 16.0 | New Leaf Landscaping, Inc is a landscaping company in Northbrook, IL at 876 Bittersweet Drive, Northbrook, IL 60062. Phone: +18477537900. Website: https://www.newleaflandscapinginc.com/. | https://dingalinged-cpu.github.io/registry/c/new-leaf-landscaping-inc-northbrook/
+1. New Leaf Landscaping, Inc | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | New Leaf Landscaping, Inc is a landscaping company in Northbrook, IL at 876 Bittersweet Drive, Northbrook, IL 60062. Phone: +18477537900. Website: https://www.newleaflandscapinginc.com/. | https://dingalinged-cpu.github.io/registry/c/new-leaf-landscaping-inc-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping northbrook il | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

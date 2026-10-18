@@ -13,7 +13,7 @@ Dove Creek Animal Hospital is a veterinarian in Denton, TX at 1200 Bent Oaks Cou
 - Website: https://www.dovecreekanimalhospital.com/
 - Email: info@dovecreekanimalhospital.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 29% of veterinarians in Dallas–Fort Worth, #3 of 8 veterinarians in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

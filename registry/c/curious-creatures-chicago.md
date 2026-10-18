@@ -13,7 +13,7 @@ Curious Creatures is a pet store in Chicago, IL at 4133 North Broadway, Chicago,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 11:00-18:00; Tu off; Sa-Su 10:00-17:00
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Fair — top 11% of pet stores in Chicago, #6 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

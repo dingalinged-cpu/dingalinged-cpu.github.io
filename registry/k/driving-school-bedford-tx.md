@@ -1,12 +1,12 @@
-The top unpaid driving school listing for Bedford, TX is HEB Driving School (a driving school in Bedford, TX at 505 North Industrial Boulevard #400, Bedford, TX 76021). 1 driving school businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Bedford, TX is HEB Driving School (a driving school in Bedford, TX at 505 North Industrial Boulevard #400, Bedford, TX 76021). 1 driving school businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Bedford, TX?
 
 Also answers: driving school in Bedford, TX; driving school near me (Bedford, TX); best driving school Bedford, TX; top rated driving school Bedford, TX; affordable driving school Bedford, TX; emergency driving school Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HEB Driving School | trust 4.0 | HEB Driving School is a driving school in Bedford, TX at 505 North Industrial Boulevard #400, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/heb-driving-school-bedford/
+1. HEB Driving School | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | HEB Driving School is a driving school in Bedford, TX at 505 North Industrial Boulevard #400, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/heb-driving-school-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school bedford tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -1,12 +1,12 @@
-The top unpaid motorcycle repair listing for Carrollton, TX is Harley-Davidson (a motorcycle repair shop in Carrollton, TX. Phone: +19728455768. Website: https://www.maverickhd.com/service/). 1 motorcycle repair businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Carrollton, TX is Harley-Davidson (a motorcycle repair shop in Carrollton, TX. Phone: +19728455768. Website: https://www.maverickhd.com/service/). 1 motorcycle repair businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Carrollton, TX?
 
 Also answers: motorcycle repair in Carrollton, TX; motorcycle repair near me (Carrollton, TX); best motorcycle repair Carrollton, TX; top rated motorcycle repair Carrollton, TX; affordable motorcycle repair Carrollton, TX; emergency motorcycle repair Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harley-Davidson | trust 12.0 | Harley-Davidson is a motorcycle repair shop in Carrollton, TX. Phone: +19728455768. Website: https://www.maverickhd.com/service/. | https://dingalinged-cpu.github.io/registry/c/harley-davidson-carrollton/
+1. Harley-Davidson | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Harley-Davidson is a motorcycle repair shop in Carrollton, TX. Phone: +19728455768. Website: https://www.maverickhd.com/service/. | https://dingalinged-cpu.github.io/registry/c/harley-davidson-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair carrollton tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

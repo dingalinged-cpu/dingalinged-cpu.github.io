@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Wheeling, IL is The Learning Experience (a daycare in Wheeling, IL). 1 daycare businesses are listed for Wheeling, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Wheeling, IL is The Learning Experience (a daycare in Wheeling, IL). 1 daycare businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Wheeling, IL?
 
 Also answers: daycare in Wheeling, IL; daycare near me (Wheeling, IL); best daycare Wheeling, IL; top rated daycare Wheeling, IL; affordable daycare Wheeling, IL; emergency daycare Wheeling, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Learning Experience | trust 0.0 | The Learning Experience is a daycare in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/the-learning-experience-wheeling/
+1. The Learning Experience | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | The Learning Experience is a daycare in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/the-learning-experience-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare wheeling il | category: Education & childcare | industry benchmark: Education & Instruction

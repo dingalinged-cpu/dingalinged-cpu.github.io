@@ -1,13 +1,13 @@
-The top unpaid insurance agency listing for Homer Glen, IL is State Farm (an insurance agent in Homer Glen, IL at 14051 South Bell Road, Homer Glen, IL 60491. Phone: +17083011800. Website: https://www.insurewithmichelle.com/). 2 insurance agency businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Homer Glen, IL is State Farm (an insurance agent in Homer Glen, IL at 14051 South Bell Road, Homer Glen, IL 60491. Phone: +17083011800. Website: https://www.insurewithmichelle.com/). 2 insurance agency businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Homer Glen, IL?
 
 Also answers: insurance agency in Homer Glen, IL; insurance agency near me (Homer Glen, IL); best insurance agency Homer Glen, IL; top rated insurance agency Homer Glen, IL; affordable insurance agency Homer Glen, IL; emergency insurance agency Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 16.0 | State Farm is an insurance agent in Homer Glen, IL at 14051 South Bell Road, Homer Glen, IL 60491. Phone: +17083011800. Website: https://www.insurewithmichelle.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-homer-glen/
-2. Allstate | trust 4.0 | Allstate is an insurance agent in Homer Glen, IL at 13205 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/allstate-homer-glen/
+1. State Farm | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | State Farm is an insurance agent in Homer Glen, IL at 14051 South Bell Road, Homer Glen, IL 60491. Phone: +17083011800. Website: https://www.insurewithmichelle.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-homer-glen/
+2. Allstate | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Allstate is an insurance agent in Homer Glen, IL at 13205 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/allstate-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency homer glen il | category: insurance | industry benchmark: Finance & Insurance

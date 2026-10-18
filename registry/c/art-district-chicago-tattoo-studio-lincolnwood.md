@@ -13,7 +13,7 @@ Art District Chicago Tattoo Studio is a tattoo shop in Lincolnwood, IL at 3944 W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 11:00-22:00; Su 12:00-17:00
-- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 29% of tattoo shops in Chicago, #1 of 1 tattoo shops in Lincolnwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

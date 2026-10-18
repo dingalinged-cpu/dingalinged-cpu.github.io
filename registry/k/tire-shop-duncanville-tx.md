@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Duncanville, TX is Costco Tire Center (a tire shop in Duncanville, TX at 250 West Highway 67, Duncanville, TX 75137. Phone: +14692218113. Website: https://www.costco.com/warehouse-locations/duncanville-tx-636.html). 2 tire shop businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Duncanville, TX is Speedy's Auto Repair (a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/). 2 tire shop businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Duncanville, TX?
 
 Also answers: tire shop in Duncanville, TX; tire shop near me (Duncanville, TX); best tire shop Duncanville, TX; top rated tire shop Duncanville, TX; affordable tire shop Duncanville, TX; emergency tire shop Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 20.0 | Costco Tire Center is a tire shop in Duncanville, TX at 250 West Highway 67, Duncanville, TX 75137. Phone: +14692218113. Website: https://www.costco.com/warehouse-locations/duncanville-tx-636.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-duncanville/
-2. Speedy's Auto Repair | trust 20.0 | Speedy's Auto Repair is a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/speedys-auto-repair-duncanville/
+1. Speedy's Auto Repair | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Speedy's Auto Repair is a tire shop in Duncanville, TX at 1506 South Clark Road, Duncanville, TX 75137. Phone: +19722984422. Website: https://speedysautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/speedys-auto-repair-duncanville/
+2. Costco Tire Center | Organic #2 | Pulse Score 50.1/100 (Fair, #2 in city) | Costco Tire Center is a tire shop in Duncanville, TX at 250 West Highway 67, Duncanville, TX 75137. Phone: +14692218113. Website: https://www.costco.com/warehouse-locations/duncanville-tx-636.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop duncanville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

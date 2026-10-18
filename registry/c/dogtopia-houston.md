@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Houston, TX at 6240 Westheimer Road, Hous
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43/100 — Building — top 90% of dog boarding facilitys in Houston, #10 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 44.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

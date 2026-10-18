@@ -1,15 +1,15 @@
-The top unpaid insurance agent listing for Frisco, TX is John Betty Insurance Inc. (an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/). 4 insurance agent businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Frisco, TX is John Betty Insurance Inc. (an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/). 4 insurance agent businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Frisco, TX?
 
 Also answers: insurance agent in Frisco, TX; insurance agent near me (Frisco, TX); best insurance agent Frisco, TX; top rated insurance agent Frisco, TX; affordable insurance agent Frisco, TX; emergency insurance agent Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Betty Insurance Inc. | trust 20.0 | John Betty Insurance Inc. is an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/. | https://dingalinged-cpu.github.io/registry/c/john-betty-insurance-inc-frisco/
-2. AAA | trust 16.0 | AAA is an insurance agent in Frisco, TX at 4760 Preston Road #208, Frisco, TX 75034. Phone: +19727120569. Website: https://www.ace.aaa.com/locations.html?branch=Frisco-75034-96. | https://dingalinged-cpu.github.io/registry/c/aaa-frisco/
-3. Allstate | trust 0.0 | Allstate is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-frisco/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-frisco/
+1. John Betty Insurance Inc. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | John Betty Insurance Inc. is an insurance agent in Frisco, TX at 9555 Lebanon Rd ##202, Frisco, TX 75035. Phone: +12146191700. Website: https://johnbettyinsurance.net/. | https://dingalinged-cpu.github.io/registry/c/john-betty-insurance-inc-frisco/
+2. AAA | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | AAA is an insurance agent in Frisco, TX at 4760 Preston Road #208, Frisco, TX 75034. Phone: +19727120569. Website: https://www.ace.aaa.com/locations.html?branch=Frisco-75034-96. | https://dingalinged-cpu.github.io/registry/c/aaa-frisco/
+3. Allstate | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Allstate is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-frisco/
+4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent frisco tx | category: Professional & financial services | industry benchmark: Finance & Insurance

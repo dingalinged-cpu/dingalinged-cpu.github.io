@@ -13,7 +13,7 @@ Bow Low Liquor is a liquor store in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00; Fr-Sa 10:00-21:00; Su off
-- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 6% of liquor stores in Dallas–Fort Worth, #3 of 14 liquor stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

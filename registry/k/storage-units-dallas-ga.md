@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Dallas, GA is A-Highway 92 Storage (a self-storage facility in Dallas, GA at 3874 Hiram Acworth Highway, Dallas, GA 30157. Phone: +17704437410. Website: https://www.dallasselfstoragefacility.com/). 2 storage units businesses are listed for Dallas, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Dallas, GA is A-Highway 92 Storage (a self-storage facility in Dallas, GA at 3874 Hiram Acworth Highway, Dallas, GA 30157. Phone: +17704437410. Website: https://www.dallasselfstoragefacility.com/). 2 storage units businesses are listed for Dallas, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Dallas, GA?
 
 Also answers: storage units in Dallas, GA; storage units near me (Dallas, GA); best storage units Dallas, GA; top rated storage units Dallas, GA; affordable storage units Dallas, GA; emergency storage units Dallas, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A-Highway 92 Storage | trust 16.0 | A-Highway 92 Storage is a self-storage facility in Dallas, GA at 3874 Hiram Acworth Highway, Dallas, GA 30157. Phone: +17704437410. Website: https://www.dallasselfstoragefacility.com/. | https://dingalinged-cpu.github.io/registry/c/a-highway-92-storage-dallas/
-2. SecurCare Self Storage | trust 16.0 | SecurCare Self Storage is a self-storage facility in Dallas, GA at 3587 East Paulding Drive, Dallas, GA 30157. Phone: +17704453230. Website: https://www.securcareselfstorage.com/storage/georgia/storage-units-dallas/3587-E-Paulding-Dr-733. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-dallas/
+1. A-Highway 92 Storage | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | A-Highway 92 Storage is a self-storage facility in Dallas, GA at 3874 Hiram Acworth Highway, Dallas, GA 30157. Phone: +17704437410. Website: https://www.dallasselfstoragefacility.com/. | https://dingalinged-cpu.github.io/registry/c/a-highway-92-storage-dallas/
+2. SecurCare Self Storage | Organic #2 | Pulse Score 47.9/100 (Building, #2 in city) | SecurCare Self Storage is a self-storage facility in Dallas, GA at 3587 East Paulding Drive, Dallas, GA 30157. Phone: +17704453230. Website: https://www.securcareselfstorage.com/storage/georgia/storage-units-dallas/3587-E-Paulding-Dr-733. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units dallas ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

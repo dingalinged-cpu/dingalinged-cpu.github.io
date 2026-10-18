@@ -13,7 +13,7 @@ Gem City Wine & Spirits is a liquor store in Marietta, GA at 350 South Fairgroun
 - Website: https://gemcityws.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-20:30; Fr-Sa 10:00-21:00; Su 12:30-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 17% of liquor stores in Atlanta, #6 of 13 liquor stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

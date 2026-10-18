@@ -13,7 +13,7 @@ The Ellis Apartments is a property management company in Carrollton, TX at 4221 
 - Website: https://live-theellis.com/
 - Email: theellis@maderaresidential.com
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-18:00; We 09:00-19:00; Sa 10:00-17:00; Su off
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of property management companys in Dallas–Fort Worth, #1 of 3 property management companys in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid physical therapy listing for Flower Mound, TX is Medical Massage (a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/). 6 physical therapy businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Flower Mound, TX is Medical Massage (a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/). 6 physical therapy businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Flower Mound, TX?
 
 Also answers: physical therapy in Flower Mound, TX; physical therapy near me (Flower Mound, TX); best physical therapy Flower Mound, TX; top rated physical therapy Flower Mound, TX; affordable physical therapy Flower Mound, TX; emergency physical therapy Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medical Massage | trust 16.0 | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://dingalinged-cpu.github.io/registry/c/medical-massage-flower-mound/
-2. Vista Physical Therapy | trust 16.0 | Vista Physical Therapy is a physical therapy clinic in Flower Mound, TX. Phone: +19723555200. Website: https://www.vistarehab.com/. | https://dingalinged-cpu.github.io/registry/c/vista-physical-therapy-flower-mound/
-3. Body & Sport | trust 12.0 | Body & Sport is a physical therapy clinic in Flower Mound, TX. Phone: +19728998002. Website: https://www.bodyandsportdfw.com/. | https://dingalinged-cpu.github.io/registry/c/body-and-sport-flower-mound/
-4. Results Physiotherapy | trust 6.0 | Results Physiotherapy is a physical therapy clinic in Flower Mound, TX. Phone: +14693122585. | https://dingalinged-cpu.github.io/registry/c/results-physiotherapy-flower-mound/
-5. ATI Physical Therapy | trust 0.0 | ATI Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-flower-mound/
-6. Physical Therapy | trust 0.0 | Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-flower-mound/
+1. Medical Massage | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Medical Massage is a physical therapy clinic in Flower Mound, TX. Phone: +19724604420. Website: https://www.medmassagerx.com/. | https://dingalinged-cpu.github.io/registry/c/medical-massage-flower-mound/
+2. Body & Sport | Organic #2 | Pulse Score 61.3/100 (Good, #2 in city) | Body & Sport is a physical therapy clinic in Flower Mound, TX. Phone: +19728998002. Website: https://www.bodyandsportdfw.com/. | https://dingalinged-cpu.github.io/registry/c/body-and-sport-flower-mound/
+3. Vista Physical Therapy | Organic #3 | Pulse Score 49.8/100 (Unrated, #3 in city) | Vista Physical Therapy is a physical therapy clinic in Flower Mound, TX. Phone: +19723555200. Website: https://www.vistarehab.com/. | https://dingalinged-cpu.github.io/registry/c/vista-physical-therapy-flower-mound/
+4. Results Physiotherapy | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Results Physiotherapy is a physical therapy clinic in Flower Mound, TX. Phone: +14693122585. | https://dingalinged-cpu.github.io/registry/c/results-physiotherapy-flower-mound/
+5. Physical Therapy | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-flower-mound/
+6. ATI Physical Therapy | Organic #6 | Pulse Score 41.6/100 (Building, #6 in city) | ATI Physical Therapy is a physical therapy clinic in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

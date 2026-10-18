@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Chicago, IL. Website: https://palmbeachtan.
 - Website: https://palmbeachtan.com/locations/IL/Chicago-North-Clark-Street
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 62% of tanning salons in Chicago, #4 of 7 tanning salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

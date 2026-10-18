@@ -13,7 +13,7 @@ Nails by Yen is a nail salon in Sugar Land, TX at 3133 State Highway 6 South, Su
 - Website: https://www.nailsbyyentx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 1% of nail salons in Houston, #1 of 10 nail salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

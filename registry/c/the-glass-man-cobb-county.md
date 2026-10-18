@@ -13,7 +13,7 @@ The Glass Man is a window installer in Cobb County, GA at 4456 Bells Ferry Road 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Fair — top 84% of window installers in Atlanta, #1 of 1 window installers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

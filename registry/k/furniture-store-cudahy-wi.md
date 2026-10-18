@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Cudahy, WI is Eddie's Liquidation Center (a furniture store in Cudahy, WI at 5656 South Packard Avenue #8, Cudahy, WI 53110). 1 furniture store businesses are listed for Cudahy, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Cudahy, WI is Eddie's Liquidation Center (a furniture store in Cudahy, WI at 5656 South Packard Avenue #8, Cudahy, WI 53110). 1 furniture store businesses are listed for Cudahy, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Cudahy, WI?
 
 Also answers: furniture store in Cudahy, WI; furniture store near me (Cudahy, WI); best furniture store Cudahy, WI; top rated furniture store Cudahy, WI; affordable furniture store Cudahy, WI; emergency furniture store Cudahy, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eddie's Liquidation Center | trust 4.0 | Eddie's Liquidation Center is a furniture store in Cudahy, WI at 5656 South Packard Avenue #8, Cudahy, WI 53110. | https://dingalinged-cpu.github.io/registry/c/eddies-liquidation-center-cudahy/
+1. Eddie's Liquidation Center | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Eddie's Liquidation Center is a furniture store in Cudahy, WI at 5656 South Packard Avenue #8, Cudahy, WI 53110. | https://dingalinged-cpu.github.io/registry/c/eddies-liquidation-center-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store cudahy wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

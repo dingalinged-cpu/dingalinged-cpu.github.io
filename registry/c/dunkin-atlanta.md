@@ -13,7 +13,7 @@ Dunkin' is a bakery in Atlanta, GA at 2022 Powers Ferry Road, Atlanta, GA 30339.
 - Website: https://locations.dunkindonuts.com/en/ga/atlanta/2022-powers-ferry-rd/347022
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 05:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 91% of bakerys in Atlanta, #27 of 28 bakerys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

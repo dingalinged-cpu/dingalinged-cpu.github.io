@@ -13,7 +13,7 @@ Topek and Topek is a lawyer in Houston, TX at 304 Dallas Street, Houston, TX 770
 - Website: https://www.topekandtopek.com/
 - Email: sethtopek@topekandtopek.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 2% of lawyers in Houston, #2 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

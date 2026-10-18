@@ -1,12 +1,12 @@
-The top unpaid facial listing for Mcdonough, GA is Ulta Beauty (a skin care studio in McDonough, GA at 1560 Hampton Road, McDonough, GA 30253. Phone: +17708989947. Website: https://www.ulta.com/stores/mcdonough-ga-587). 1 facial businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Mcdonough, GA is Ulta Beauty (a skin care studio in McDonough, GA at 1560 Hampton Road, McDonough, GA 30253. Phone: +17708989947. Website: https://www.ulta.com/stores/mcdonough-ga-587). 1 facial businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Mcdonough, GA?
 
 Also answers: facial in Mcdonough, GA; facial near me (Mcdonough, GA); best facial Mcdonough, GA; top rated facial Mcdonough, GA; affordable facial Mcdonough, GA; emergency facial Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in McDonough, GA at 1560 Hampton Road, McDonough, GA 30253. Phone: +17708989947. Website: https://www.ulta.com/stores/mcdonough-ga-587. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-mcdonough/
+1. Ulta Beauty | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in McDonough, GA at 1560 Hampton Road, McDonough, GA 30253. Phone: +17708989947. Website: https://www.ulta.com/stores/mcdonough-ga-587. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial mcdonough ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

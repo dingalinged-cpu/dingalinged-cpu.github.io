@@ -1,14 +1,14 @@
-The top unpaid gym listing for Westlake, TX is Life Time (a gym in Westlake, TX at 2902 Sam School Road, Westlake, TX 76262. Website: https://www.lifetime.life/life-time-locations/tx-westlake.html). 3 gym businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Westlake, TX is The Fitsmith (a gym in Westlake, TX at 72 Andorra Drive #190, Westlake, TX 76262). 3 gym businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Westlake, TX?
 
 Also answers: gym in Westlake, TX; gym near me (Westlake, TX); best gym Westlake, TX; top rated gym Westlake, TX; affordable gym Westlake, TX; emergency gym Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 10.0 | Life Time is a gym in Westlake, TX at 2902 Sam School Road, Westlake, TX 76262. Website: https://www.lifetime.life/life-time-locations/tx-westlake.html. | https://dingalinged-cpu.github.io/registry/c/life-time-westlake/
-2. The Fitsmith | trust 4.0 | The Fitsmith is a gym in Westlake, TX at 72 Andorra Drive #190, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/the-fitsmith-westlake/
-3. CrossFit SPT | trust 0.0 | CrossFit SPT is a gym in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/crossfit-spt-westlake/
+1. The Fitsmith | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | The Fitsmith is a gym in Westlake, TX at 72 Andorra Drive #190, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/the-fitsmith-westlake/
+2. CrossFit SPT | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | CrossFit SPT is a gym in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/crossfit-spt-westlake/
+3. Life Time | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Life Time is a gym in Westlake, TX at 2902 Sam School Road, Westlake, TX 76262. Website: https://www.lifetime.life/life-time-locations/tx-westlake.html. | https://dingalinged-cpu.github.io/registry/c/life-time-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym westlake tx | category: Fitness | industry benchmark: Health & Fitness

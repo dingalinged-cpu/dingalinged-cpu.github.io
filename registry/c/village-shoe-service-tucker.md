@@ -13,7 +13,7 @@ Village Shoe Service is a shoe repair in Tucker, GA at 4286 Railroad Avenue, Tuc
 - Website: https://www.villageshoeservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 25% of shoe repairs in Atlanta, #1 of 2 shoe repairs in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

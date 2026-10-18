@@ -13,7 +13,7 @@ Southwest Data Solutions is an IT support company in Waxahachie, TX at 217 South
 - Website: https://iswdatacorp.azurewebsites.net/index.aspx
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 54% of IT support companys in Dallas–Fort Worth, #1 of 1 IT support companys in Waxahachie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

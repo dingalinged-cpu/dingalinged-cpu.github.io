@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Riverside, IL is Gilbert J LaFemina, DDS (a dentist in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. Phone: +17084476670. Website: https://www.drlafemina.com/). 2 dentist businesses are listed for Riverside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Riverside, IL is Orland Family Dental (a dentist in Riverside, IL at 21 North Delaplaine Road, Riverside, IL 60546. Phone: +17084472100. Website: https://www.orlandfamilydental.com/). 2 dentist businesses are listed for Riverside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Riverside, IL?
 
 Also answers: dentist in Riverside, IL; dentist near me (Riverside, IL); best dentist Riverside, IL; top rated dentist Riverside, IL; affordable dentist Riverside, IL; emergency dentist Riverside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gilbert J LaFemina, DDS | trust 16.0 | Gilbert J LaFemina, DDS is a dentist in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. Phone: +17084476670. Website: https://www.drlafemina.com/. | https://dingalinged-cpu.github.io/registry/c/gilbert-j-lafemina-dds-riverside/
-2. Orland Family Dental | trust 16.0 | Orland Family Dental is a dentist in Riverside, IL at 21 North Delaplaine Road, Riverside, IL 60546. Phone: +17084472100. Website: https://www.orlandfamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/orland-family-dental-riverside/
+1. Orland Family Dental | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Orland Family Dental is a dentist in Riverside, IL at 21 North Delaplaine Road, Riverside, IL 60546. Phone: +17084472100. Website: https://www.orlandfamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/orland-family-dental-riverside/
+2. Gilbert J LaFemina, DDS | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Gilbert J LaFemina, DDS is a dentist in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. Phone: +17084476670. Website: https://www.drlafemina.com/. | https://dingalinged-cpu.github.io/registry/c/gilbert-j-lafemina-dds-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist riverside il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

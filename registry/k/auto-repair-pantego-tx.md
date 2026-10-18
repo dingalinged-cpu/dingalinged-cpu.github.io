@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for Pantego, TX is KTC TUNE AND LUBE (an auto repair shop in Pantego, TX at 2321 West Pioneer Parkway, Pantego, TX 76013. Phone: +18172740500. Website: https://www.ktcautocare.com/). 2 auto repair businesses are listed for Pantego, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Pantego, TX is Stress-Free Auto Care (an auto repair shop in Pantego, TX at 3201 West Pioneer Parkway, Pantego, TX 76013. Phone: +18177640202. Website: https://www.stressfree.com/). 2 auto repair businesses are listed for Pantego, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Pantego, TX?
 
 Also answers: auto repair in Pantego, TX; auto repair near me (Pantego, TX); best auto repair Pantego, TX; top rated auto repair Pantego, TX; affordable auto repair Pantego, TX; emergency auto repair Pantego, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KTC TUNE AND LUBE | trust 20.0 | KTC TUNE AND LUBE is an auto repair shop in Pantego, TX at 2321 West Pioneer Parkway, Pantego, TX 76013. Phone: +18172740500. Website: https://www.ktcautocare.com/. | https://dingalinged-cpu.github.io/registry/c/ktc-tune-and-lube-pantego/
-2. Stress-Free Auto Care | trust 20.0 | Stress-Free Auto Care is an auto repair shop in Pantego, TX at 3201 West Pioneer Parkway, Pantego, TX 76013. Phone: +18177640202. Website: https://www.stressfree.com/. | https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-pantego/
+1. Stress-Free Auto Care | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Stress-Free Auto Care is an auto repair shop in Pantego, TX at 3201 West Pioneer Parkway, Pantego, TX 76013. Phone: +18177640202. Website: https://www.stressfree.com/. | https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-pantego/
+2. KTC TUNE AND LUBE | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | KTC TUNE AND LUBE is an auto repair shop in Pantego, TX at 2321 West Pioneer Parkway, Pantego, TX 76013. Phone: +18172740500. Website: https://www.ktcautocare.com/. | https://dingalinged-cpu.github.io/registry/c/ktc-tune-and-lube-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair pantego tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Richmond, TX is Petco (a pet store in Richmond, TX at 24944 FM 1093, Richmond, TX 77406. Phone: +12813474400. Website: https://stores.petco.com/tx/richmond/pet-supplies-richmond-tx-2441.html). 2 pet store businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Richmond, TX is Petco (a pet store in Richmond, TX at 24944 FM 1093, Richmond, TX 77406. Phone: +12813474400. Website: https://stores.petco.com/tx/richmond/pet-supplies-richmond-tx-2441.html). 2 pet store businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Richmond, TX?
 
 Also answers: pet store in Richmond, TX; pet store near me (Richmond, TX); best pet store Richmond, TX; top rated pet store Richmond, TX; affordable pet store Richmond, TX; emergency pet store Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Richmond, TX at 24944 FM 1093, Richmond, TX 77406. Phone: +12813474400. Website: https://stores.petco.com/tx/richmond/pet-supplies-richmond-tx-2441.html. | https://dingalinged-cpu.github.io/registry/c/petco-richmond/
-2. PetSmart | trust 4.0 | PetSmart is a pet store in Richmond, TX at 10181 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/petsmart-richmond/
+1. Petco | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | Petco is a pet store in Richmond, TX at 24944 FM 1093, Richmond, TX 77406. Phone: +12813474400. Website: https://stores.petco.com/tx/richmond/pet-supplies-richmond-tx-2441.html. | https://dingalinged-cpu.github.io/registry/c/petco-richmond/
+2. PetSmart | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | PetSmart is a pet store in Richmond, TX at 10181 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/petsmart-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store richmond tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

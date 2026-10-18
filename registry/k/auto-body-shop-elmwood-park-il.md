@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Elmwood Park, IL is Arrow Body and Fender (an auto repair shop in Elmwood Park, IL at 7536 West Grand Avenue, Elmwood Park, IL 60707. Phone: +17084569424). 1 auto body shop businesses are listed for Elmwood Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Elmwood Park, IL is Arrow Body and Fender (an auto repair shop in Elmwood Park, IL at 7536 West Grand Avenue, Elmwood Park, IL 60707. Phone: +17084569424). 1 auto body shop businesses are listed for Elmwood Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Elmwood Park, IL?
 
 Also answers: auto body shop in Elmwood Park, IL; auto body shop near me (Elmwood Park, IL); best auto body shop Elmwood Park, IL; top rated auto body shop Elmwood Park, IL; affordable auto body shop Elmwood Park, IL; emergency auto body shop Elmwood Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arrow Body and Fender | trust 14.0 | Arrow Body and Fender is an auto repair shop in Elmwood Park, IL at 7536 West Grand Avenue, Elmwood Park, IL 60707. Phone: +17084569424. | https://dingalinged-cpu.github.io/registry/c/arrow-body-and-fender-elmwood-park/
+1. Arrow Body and Fender | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Arrow Body and Fender is an auto repair shop in Elmwood Park, IL at 7536 West Grand Avenue, Elmwood Park, IL 60707. Phone: +17084569424. | https://dingalinged-cpu.github.io/registry/c/arrow-body-and-fender-elmwood-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop elmwood park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

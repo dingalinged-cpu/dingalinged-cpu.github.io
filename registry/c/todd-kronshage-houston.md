@@ -13,7 +13,7 @@ Todd Kronshage is an insurance agent in Houston, TX at 15127 Draper Road, Housto
 - Website: https://agents.allstate.com/todd-kronshage-houston-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 52% of insurance agents in Houston, #57 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

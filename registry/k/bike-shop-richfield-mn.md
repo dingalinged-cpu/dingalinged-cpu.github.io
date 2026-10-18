@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Richfield, MN is Freewheel Bike (a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfield, MN 55423. Phone: +16128667540. Website: https://www.freewheelbike.com/). 1 bike shop businesses are listed for Richfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Richfield, MN is Freewheel Bike (a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfield, MN 55423. Phone: +16128667540. Website: https://www.freewheelbike.com/). 1 bike shop businesses are listed for Richfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Richfield, MN?
 
 Also answers: bike shop in Richfield, MN; bike shop near me (Richfield, MN); best bike shop Richfield, MN; top rated bike shop Richfield, MN; affordable bike shop Richfield, MN; emergency bike shop Richfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Freewheel Bike | trust 16.0 | Freewheel Bike is a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfield, MN 55423. Phone: +16128667540. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-richfield/
+1. Freewheel Bike | Organic #1 | Pulse Score 45/100 (Unrated, #1 in city) | Freewheel Bike is a bike shop in Richfield, MN at 6824 Penn Avenue South, Richfield, MN 55423. Phone: +16128667540. Website: https://www.freewheelbike.com/. | https://dingalinged-cpu.github.io/registry/c/freewheel-bike-richfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop richfield mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

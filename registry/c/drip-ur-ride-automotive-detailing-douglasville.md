@@ -13,7 +13,7 @@ Drip Ur Ride Automotive Detailing is an auto repair shop in Douglasville, GA at 
 - Website: https://dripurrideautodetailing.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 3% of auto repair shops in Atlanta, #1 of 28 auto repair shops in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 65. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

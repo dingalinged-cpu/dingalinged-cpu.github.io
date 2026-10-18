@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Spring Lake Park, MN is TATTOOS (a tattoo shop in Spring Lake Park, MN at 8488 Central Avenue Northeast, Spring Lake Park, MN 55432. Phone: +17637104329). 1 tattoo shop businesses are listed for Spring Lake Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Spring Lake Park, MN is TATTOOS (a tattoo shop in Spring Lake Park, MN at 8488 Central Avenue Northeast, Spring Lake Park, MN 55432. Phone: +17637104329). 1 tattoo shop businesses are listed for Spring Lake Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Spring Lake Park, MN?
 
 Also answers: tattoo shop in Spring Lake Park, MN; tattoo shop near me (Spring Lake Park, MN); best tattoo shop Spring Lake Park, MN; top rated tattoo shop Spring Lake Park, MN; affordable tattoo shop Spring Lake Park, MN; emergency tattoo shop Spring Lake Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TATTOOS | trust 10.0 | TATTOOS is a tattoo shop in Spring Lake Park, MN at 8488 Central Avenue Northeast, Spring Lake Park, MN 55432. Phone: +17637104329. | https://dingalinged-cpu.github.io/registry/c/tattoos-spring-lake-park/
+1. TATTOOS | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | TATTOOS is a tattoo shop in Spring Lake Park, MN at 8488 Central Avenue Northeast, Spring Lake Park, MN 55432. Phone: +17637104329. | https://dingalinged-cpu.github.io/registry/c/tattoos-spring-lake-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop spring lake park mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,17 +1,17 @@
-The top unpaid insurance agent listing for La Grange, IL is American Family Insurance (an insurance agent in La Grange, IL). 6 insurance agent businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for La Grange, IL is Frank J. Cannistra, II: Allstate Insurance (an insurance agent in La Grange, IL). 6 insurance agent businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in La Grange, IL?
 
 Also answers: insurance agent in La Grange, IL; insurance agent near me (La Grange, IL); best insurance agent La Grange, IL; top rated insurance agent La Grange, IL; affordable insurance agent La Grange, IL; emergency insurance agent La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | trust 0.0 | American Family Insurance is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-la-grange/
-2. Frank J. Cannistra, II: Allstate Insurance | trust 0.0 | Frank J. Cannistra, II: Allstate Insurance is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/frank-j-cannistra-ii-allstate-insurance-la-grange/
-3. Metropolitan Transport Services | trust 0.0 | Metropolitan Transport Services is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/metropolitan-transport-services-la-grange/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-la-grange/
-5. State Farm | trust 0.0 | State Farm is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-la-grange-n10725347221/
-6. Willow Insurance Services Inc | trust 0.0 | Willow Insurance Services Inc is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/willow-insurance-services-inc-la-grange/
+1. Frank J. Cannistra, II: Allstate Insurance | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Frank J. Cannistra, II: Allstate Insurance is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/frank-j-cannistra-ii-allstate-insurance-la-grange/
+2. Metropolitan Transport Services | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Metropolitan Transport Services is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/metropolitan-transport-services-la-grange/
+3. Willow Insurance Services Inc | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Willow Insurance Services Inc is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/willow-insurance-services-inc-la-grange/
+4. American Family Insurance | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | American Family Insurance is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-la-grange/
+5. State Farm | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | State Farm is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-la-grange/
+6. State Farm | Organic #6 | Pulse Score 41.5/100 (Building, #6 in city) | State Farm is an insurance agent in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-la-grange-n10725347221/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent la grange il | category: Professional & financial services | industry benchmark: Finance & Insurance

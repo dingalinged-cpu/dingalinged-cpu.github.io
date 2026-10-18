@@ -1,13 +1,13 @@
-The top unpaid florist listing for Addison, TX is Floral Concepts (a florist in Addison, TX. Phone: +19726613774). 2 florist businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Addison, TX is Floral Concepts (a florist in Addison, TX. Phone: +19726613774). 2 florist businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Addison, TX?
 
 Also answers: florist in Addison, TX; florist near me (Addison, TX); best florist Addison, TX; top rated florist Addison, TX; affordable florist Addison, TX; emergency florist Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floral Concepts | trust 6.0 | Floral Concepts is a florist in Addison, TX. Phone: +19726613774. | https://dingalinged-cpu.github.io/registry/c/floral-concepts-addison/
-2. JS Flowers | trust 4.0 | JS Flowers is a florist in Addison, TX at 4151 Belt Line Road #109, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/js-flowers-addison/
+1. Floral Concepts | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Floral Concepts is a florist in Addison, TX. Phone: +19726613774. | https://dingalinged-cpu.github.io/registry/c/floral-concepts-addison/
+2. JS Flowers | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | JS Flowers is a florist in Addison, TX at 4151 Belt Line Road #109, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/js-flowers-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist addison tx | category: Events & weddings | industry benchmark: Personal Services

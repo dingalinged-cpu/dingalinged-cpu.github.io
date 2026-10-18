@@ -13,7 +13,7 @@ Crunch Fitness is a gym in McKinney, TX at 8551 Eldorado Parkway, McKinney, TX 7
 - Website: https://www.crunch.com/locations/mckinney
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 66% of gyms in Dallas–Fort Worth, #13 of 19 gyms in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

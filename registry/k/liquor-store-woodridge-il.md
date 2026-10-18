@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Woodridge, IL is Extra Value Liquors (a liquor store in Woodridge, IL at 8286 Janes Avenue, Woodridge, IL 60517). 2 liquor store businesses are listed for Woodridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Woodridge, IL is Extra Value Liquors (a liquor store in Woodridge, IL at 8286 Janes Avenue, Woodridge, IL 60517). 2 liquor store businesses are listed for Woodridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Woodridge, IL?
 
 Also answers: liquor store in Woodridge, IL; liquor store near me (Woodridge, IL); best liquor store Woodridge, IL; top rated liquor store Woodridge, IL; affordable liquor store Woodridge, IL; emergency liquor store Woodridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Value Liquors | trust 4.0 | Extra Value Liquors is a liquor store in Woodridge, IL at 8286 Janes Avenue, Woodridge, IL 60517. | https://dingalinged-cpu.github.io/registry/c/extra-value-liquors-woodridge/
-2. Lila Wine & Spirits | trust 1.0 | Lila Wine & Spirits is a liquor store in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/lila-wine-and-spirits-woodridge/
+1. Extra Value Liquors | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Extra Value Liquors is a liquor store in Woodridge, IL at 8286 Janes Avenue, Woodridge, IL 60517. | https://dingalinged-cpu.github.io/registry/c/extra-value-liquors-woodridge/
+2. Lila Wine & Spirits | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Lila Wine & Spirits is a liquor store in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/lila-wine-and-spirits-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store woodridge il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

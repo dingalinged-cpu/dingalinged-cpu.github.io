@@ -13,7 +13,7 @@ Safeguard Self Storage is a self-storage facility in Chicago, IL at 4534 West No
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Unrated (not enough evidence yet) — top 34% of self-storage facilitys in Chicago, #38 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for Duncanville, TX is Firestone Complete Auto Care (an auto repair shop in Duncanville, TX at 210 East Camp Wisdom Road, Duncanville, TX 75116. Phone: +19728929206). 6 mechanic businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Duncanville, TX is Petriks #3 Auto Clinic (an auto repair shop in Duncanville, TX at 730 North Main Street, Duncanville, TX). 6 mechanic businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Duncanville, TX?
 
 Also answers: mechanic in Duncanville, TX; mechanic near me (Duncanville, TX); best mechanic Duncanville, TX; top rated mechanic Duncanville, TX; affordable mechanic Duncanville, TX; emergency mechanic Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone Complete Auto Care | trust 14.0 | Firestone Complete Auto Care is an auto repair shop in Duncanville, TX at 210 East Camp Wisdom Road, Duncanville, TX 75116. Phone: +19728929206. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-duncanville/
-2. Petriks #3 Auto Clinic | trust 3.0 | Petriks #3 Auto Clinic is an auto repair shop in Duncanville, TX at 730 North Main Street, Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/petriks-3-auto-clinic-duncanville/
-3. 10 Minute Oil Change | trust 0.0 | 10 Minute Oil Change is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/10-minute-oil-change-duncanville/
-4. Duncanville Automotive Services | trust 0.0 | Duncanville Automotive Services is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/duncanville-automotive-services-duncanville/
-5. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-duncanville/
-6. Top Choice - Wheels, Tires, & Autocare | trust 0.0 | Top Choice - Wheels, Tires, & Autocare is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/top-choice-wheels-tires-and-autocare-duncanville/
+1. Petriks #3 Auto Clinic | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Petriks #3 Auto Clinic is an auto repair shop in Duncanville, TX at 730 North Main Street, Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/petriks-3-auto-clinic-duncanville/
+2. Duncanville Automotive Services | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Duncanville Automotive Services is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/duncanville-automotive-services-duncanville/
+3. 10 Minute Oil Change | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | 10 Minute Oil Change is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/10-minute-oil-change-duncanville/
+4. Top Choice - Wheels, Tires, & Autocare | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Top Choice - Wheels, Tires, & Autocare is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/top-choice-wheels-tires-and-autocare-duncanville/
+5. Firestone Complete Auto Care | Organic #5 | Pulse Score 48/100 (Building, #5 in city) | Firestone Complete Auto Care is an auto repair shop in Duncanville, TX at 210 East Camp Wisdom Road, Duncanville, TX 75116. Phone: +19728929206. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-duncanville/
+6. Take 5 Oil Change | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Take 5 Oil Change is an auto repair shop in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic duncanville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

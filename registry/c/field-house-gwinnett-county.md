@@ -13,7 +13,7 @@ Field House is a gym in Gwinnett County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "Open by permission"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 25% of gyms in Atlanta, #1 of 8 gyms in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

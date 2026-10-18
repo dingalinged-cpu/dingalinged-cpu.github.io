@@ -1,14 +1,14 @@
-The top unpaid insurance agent listing for Lincolnwood, IL is State Farm (an insurance agent in Lincolnwood, IL. Website: https://www.statefarm.com/agent/us/il/lincolnwood/frank-scholz-zx0v41ys000). 3 insurance agent businesses are listed for Lincolnwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Lincolnwood, IL is Eden’s Tax (an insurance agent in Lincolnwood, IL at 3943 West Touhy Avenue, Lincolnwood, IL 60712). 3 insurance agent businesses are listed for Lincolnwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Lincolnwood, IL?
 
 Also answers: insurance agent in Lincolnwood, IL; insurance agent near me (Lincolnwood, IL); best insurance agent Lincolnwood, IL; top rated insurance agent Lincolnwood, IL; affordable insurance agent Lincolnwood, IL; emergency insurance agent Lincolnwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 6.0 | State Farm is an insurance agent in Lincolnwood, IL. Website: https://www.statefarm.com/agent/us/il/lincolnwood/frank-scholz-zx0v41ys000. | https://dingalinged-cpu.github.io/registry/c/state-farm-lincolnwood/
-2. Allstate | trust 4.0 | Allstate is an insurance agent in Lincolnwood, IL at 3937 West Touhy Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/allstate-lincolnwood/
-3. Eden’s Tax | trust 4.0 | Eden’s Tax is an insurance agent in Lincolnwood, IL at 3943 West Touhy Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/eden-s-tax-lincolnwood/
+1. Eden’s Tax | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Eden’s Tax is an insurance agent in Lincolnwood, IL at 3943 West Touhy Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/eden-s-tax-lincolnwood/
+2. Allstate | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Allstate is an insurance agent in Lincolnwood, IL at 3937 West Touhy Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/allstate-lincolnwood/
+3. State Farm | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | State Farm is an insurance agent in Lincolnwood, IL. Website: https://www.statefarm.com/agent/us/il/lincolnwood/frank-scholz-zx0v41ys000. | https://dingalinged-cpu.github.io/registry/c/state-farm-lincolnwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent lincolnwood il | category: Professional & financial services | industry benchmark: Finance & Insurance

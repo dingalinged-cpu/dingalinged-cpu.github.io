@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Homer Glen, IL at 12845 West 143rd Street, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Registry Score: 42.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 83% of pet stores in Chicago, #1 of 1 pet stores in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid staffing agency listing for Conroe, TX is Workforce Solutions (a staffing agency in Conroe, TX at 2218 Interstate 45 North, Conroe, TX 77301). 1 staffing agency businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Conroe, TX is Workforce Solutions (a staffing agency in Conroe, TX at 2218 Interstate 45 North, Conroe, TX 77301). 1 staffing agency businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Conroe, TX?
 
 Also answers: staffing agency in Conroe, TX; staffing agency near me (Conroe, TX); best staffing agency Conroe, TX; top rated staffing agency Conroe, TX; affordable staffing agency Conroe, TX; emergency staffing agency Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Workforce Solutions | trust 4.0 | Workforce Solutions is a staffing agency in Conroe, TX at 2218 Interstate 45 North, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/workforce-solutions-conroe/
+1. Workforce Solutions | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Workforce Solutions is a staffing agency in Conroe, TX at 2218 Interstate 45 North, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/workforce-solutions-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency conroe tx | category: b2b_services | industry benchmark: Business Services

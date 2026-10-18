@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Oak Lawn, IL is Walsh Insurance Services, Inc. (an insurance agent in Oak Lawn, IL at 10730 South Cicero Avenue #201, Oak Lawn, IL 60453. Website: https://www.walsh-ins.com/). 2 insurance agents businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Oak Lawn, IL is Walsh Insurance Services, Inc. (an insurance agent in Oak Lawn, IL at 10730 South Cicero Avenue #201, Oak Lawn, IL 60453. Website: https://www.walsh-ins.com/). 2 insurance agents businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Oak Lawn, IL?
 
 Also answers: insurance agents in Oak Lawn, IL; insurance agents near me (Oak Lawn, IL); best insurance agents Oak Lawn, IL; top rated insurance agents Oak Lawn, IL; affordable insurance agents Oak Lawn, IL; emergency insurance agents Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Walsh Insurance Services, Inc. | trust 10.0 | Walsh Insurance Services, Inc. is an insurance agent in Oak Lawn, IL at 10730 South Cicero Avenue #201, Oak Lawn, IL 60453. Website: https://www.walsh-ins.com/. | https://dingalinged-cpu.github.io/registry/c/walsh-insurance-services-inc-oak-lawn/
-2. State Farm | trust 0.0 | State Farm is an insurance agent in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-oak-lawn/
+1. Walsh Insurance Services, Inc. | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Walsh Insurance Services, Inc. is an insurance agent in Oak Lawn, IL at 10730 South Cicero Avenue #201, Oak Lawn, IL 60453. Website: https://www.walsh-ins.com/. | https://dingalinged-cpu.github.io/registry/c/walsh-insurance-services-inc-oak-lawn/
+2. State Farm | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | State Farm is an insurance agent in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents oak lawn il | category: insurance | industry benchmark: Finance & Insurance

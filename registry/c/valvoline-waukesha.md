@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Waukesha, WI at 1951 East Main Street, Wauke
 - Website: https://store.vioc.com/wi/waukesha/oil-change-gr0065.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 84% of auto repair shops in Milwaukee, #5 of 7 auto repair shops in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

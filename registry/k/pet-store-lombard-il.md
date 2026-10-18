@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Lombard, IL is It's So Fluffy Pet Backery (a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/). 4 pet store businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Lombard, IL is It's So Fluffy Pet Backery (a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/). 4 pet store businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Lombard, IL?
 
 Also answers: pet store in Lombard, IL; pet store near me (Lombard, IL); best pet store Lombard, IL; top rated pet store Lombard, IL; affordable pet store Lombard, IL; emergency pet store Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. It's So Fluffy Pet Backery | trust 20.0 | It's So Fluffy Pet Backery is a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-backery-lombard/
-2. Furry Babies | trust 16.0 | Furry Babies is a pet store in Lombard, IL at 170 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853064. Website: https://furrybabiespuppies.com/. | https://dingalinged-cpu.github.io/registry/c/furry-babies-lombard/
-3. It's So Fluffy Pet Bakery | trust 10.0 | It's So Fluffy Pet Bakery is a pet store in Lombard, IL at 203 Yorktown Shopping Center #205, Lombard, IL 60148. Phone: +16307853400. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-lombard/
-4. American Tails Pet Supply | trust 0.0 | American Tails Pet Supply is a pet store in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/american-tails-pet-supply-lombard/
+1. It's So Fluffy Pet Backery | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | It's So Fluffy Pet Backery is a pet store in Lombard, IL at 225 Yorktown Shopping Center, Lombard, IL 60148. Phone: +16307853400. Website: https://www.itssofluffybakery.com/. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-backery-lombard/
+2. Furry Babies | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Furry Babies is a pet store in Lombard, IL at 170 Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16307853064. Website: https://furrybabiespuppies.com/. | https://dingalinged-cpu.github.io/registry/c/furry-babies-lombard/
+3. It's So Fluffy Pet Bakery | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | It's So Fluffy Pet Bakery is a pet store in Lombard, IL at 203 Yorktown Shopping Center #205, Lombard, IL 60148. Phone: +16307853400. | https://dingalinged-cpu.github.io/registry/c/its-so-fluffy-pet-bakery-lombard/
+4. American Tails Pet Supply | Organic #4 | Pulse Score 53.7/100 (Unrated, #4 in city) | American Tails Pet Supply is a pet store in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/american-tails-pet-supply-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store lombard il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid roofing contractor listing for Elmhurst, IL is Feze Roofing (a roofer in Elmhurst, IL). 1 roofing contractor businesses are listed for Elmhurst, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Elmhurst, IL is Feze Roofing (a roofer in Elmhurst, IL). 1 roofing contractor businesses are listed for Elmhurst, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Elmhurst, IL?
 
 Also answers: roofing contractor in Elmhurst, IL; roofing contractor near me (Elmhurst, IL); best roofing contractor Elmhurst, IL; top rated roofing contractor Elmhurst, IL; affordable roofing contractor Elmhurst, IL; emergency roofing contractor Elmhurst, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Feze Roofing | trust 0.0 | Feze Roofing is a roofer in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/feze-roofing-elmhurst/
+1. Feze Roofing | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Feze Roofing is a roofer in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/feze-roofing-elmhurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor elmhurst il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

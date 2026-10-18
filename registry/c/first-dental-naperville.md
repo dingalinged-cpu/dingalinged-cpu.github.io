@@ -13,7 +13,7 @@ First Dental is a dentist in Naperville, IL at 8 West Gartner Road #124, Napervi
 - Website: https://napervillesmilesdental.com/
 - Email: info@napervillesmilesdental.com
 - Opening hours (OSM syntax): Mo,Th 09:00-19:00; Tu,Fr 09:00-17:00; We 09:00-18:00; Sa 09:00-13:00
-- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of dentists in Chicago, #2 of 30 dentists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

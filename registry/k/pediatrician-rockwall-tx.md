@@ -1,13 +1,13 @@
-The top unpaid pediatrician listing for Rockwall, TX is Excel Pediatric Therapy (a pediatrician in Rockwall, TX at 789 Justin Road, Rockwall, TX 75087). 2 pediatrician businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Rockwall, TX is Excel Pediatric Therapy (a pediatrician in Rockwall, TX at 789 Justin Road, Rockwall, TX 75087). 2 pediatrician businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Rockwall, TX?
 
 Also answers: pediatrician in Rockwall, TX; pediatrician near me (Rockwall, TX); best pediatrician Rockwall, TX; top rated pediatrician Rockwall, TX; affordable pediatrician Rockwall, TX; emergency pediatrician Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Excel Pediatric Therapy | trust 4.0 | Excel Pediatric Therapy is a pediatrician in Rockwall, TX at 789 Justin Road, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/excel-pediatric-therapy-rockwall/
-2. Lake Ray Hubbard Pediatrics | trust 4.0 | Lake Ray Hubbard Pediatrics is a pediatrician in Rockwall, TX at 862 West Rusk Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/lake-ray-hubbard-pediatrics-rockwall/
+1. Excel Pediatric Therapy | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Excel Pediatric Therapy is a pediatrician in Rockwall, TX at 789 Justin Road, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/excel-pediatric-therapy-rockwall/
+2. Lake Ray Hubbard Pediatrics | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Lake Ray Hubbard Pediatrics is a pediatrician in Rockwall, TX at 862 West Rusk Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/lake-ray-hubbard-pediatrics-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician rockwall tx | category: Health & medical | industry benchmark: Physicians & Surgeons

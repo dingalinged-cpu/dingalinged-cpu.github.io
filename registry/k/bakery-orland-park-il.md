@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Orland Park, IL is Grapevine Foods (a bakery in Orland Park, IL at 14402 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084037100. Website: https://www.grapevineorlandpark.com/). 2 bakery businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Orland Park, IL is Grapevine Foods (a bakery in Orland Park, IL at 14402 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084037100. Website: https://www.grapevineorlandpark.com/). 2 bakery businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Orland Park, IL?
 
 Also answers: bakery in Orland Park, IL; bakery near me (Orland Park, IL); best bakery Orland Park, IL; top rated bakery Orland Park, IL; affordable bakery Orland Park, IL; emergency bakery Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grapevine Foods | trust 20.0 | Grapevine Foods is a bakery in Orland Park, IL at 14402 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084037100. Website: https://www.grapevineorlandpark.com/. | https://dingalinged-cpu.github.io/registry/c/grapevine-foods-orland-park/
-2. The Great American Bagel | trust 0.0 | The Great American Bagel is a bakery in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-great-american-bagel-orland-park/
+1. Grapevine Foods | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Grapevine Foods is a bakery in Orland Park, IL at 14402 John Humphrey Drive, Orland Park, IL 60462. Phone: +17084037100. Website: https://www.grapevineorlandpark.com/. | https://dingalinged-cpu.github.io/registry/c/grapevine-foods-orland-park/
+2. The Great American Bagel | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | The Great American Bagel is a bakery in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-great-american-bagel-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery orland park il | category: Events & weddings | industry benchmark: Personal Services

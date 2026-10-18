@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Warrenville, IL is Crème de la Crème (a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/). 1 daycare businesses are listed for Warrenville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Warrenville, IL is Crème de la Crème (a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/). 1 daycare businesses are listed for Warrenville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Warrenville, IL?
 
 Also answers: daycare in Warrenville, IL; daycare near me (Warrenville, IL); best daycare Warrenville, IL; top rated daycare Warrenville, IL; affordable daycare Warrenville, IL; emergency daycare Warrenville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crème de la Crème | trust 16.0 | Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-warrenville/
+1. Crème de la Crème | Organic #1 | Pulse Score 49.9/100 (Unrated, #1 in city) | Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warrenville, IL 60555. Phone: +16303134956. Website: https://cremedelacreme.com/locations/warrenville-naperville-il/. | https://dingalinged-cpu.github.io/registry/c/cr-me-de-la-cr-me-warrenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare warrenville il | category: Education & childcare | industry benchmark: Education & Instruction

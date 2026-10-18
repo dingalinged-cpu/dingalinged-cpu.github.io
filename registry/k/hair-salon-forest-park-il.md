@@ -1,19 +1,19 @@
-The top unpaid hair salon listing for Forest Park, IL is Hair'z My Forte (a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680). 8 hair salon businesses are listed for Forest Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Forest Park, IL is Hair'z My Forte (a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680). 8 hair salon businesses are listed for Forest Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Forest Park, IL?
 
 Also answers: hair salon in Forest Park, IL; hair salon near me (Forest Park, IL); best hair salon Forest Park, IL; top rated hair salon Forest Park, IL; affordable hair salon Forest Park, IL; emergency hair salon Forest Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair'z My Forte | trust 10.0 | Hair'z My Forte is a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680. | https://dingalinged-cpu.github.io/registry/c/hairz-my-forte-forest-park/
-2. Ramiro's Hair Studio | trust 10.0 | Ramiro's Hair Studio is a hair salon in Forest Park, IL at 7522 Harrison Street, Forest Park, IL 60130. Phone: +17087717175. | https://dingalinged-cpu.github.io/registry/c/ramiros-hair-studio-forest-park/
-3. Fade City | trust 4.0 | Fade City is a hair salon in Forest Park, IL at 7233 Roosevelt Road, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fade-city-forest-park/
-4. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Forest Park, IL at 7226 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-forest-park/
-5. Prosity Salon | trust 4.0 | Prosity Salon is a hair salon in Forest Park, IL at 7208 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/prosity-salon-forest-park/
-6. Supercuts | trust 4.0 | Supercuts is a hair salon in Forest Park, IL at 319 South Harlem Avenue #D, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/supercuts-forest-park/
-7. Jeff's Millionaires | trust 3.0 | Jeff's Millionaires is a hair salon in Forest Park, IL at Beloit Avenue, Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/jeffs-millionaires-forest-park/
-8. Macdaddy on Madison | trust 0.0 | Macdaddy on Madison is a hair salon in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/macdaddy-on-madison-forest-park/
+1. Hair'z My Forte | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Hair'z My Forte is a hair salon in Forest Park, IL at 7440 Harrison Street #A, Forest Park, IL 60130. Phone: +17083666680. | https://dingalinged-cpu.github.io/registry/c/hairz-my-forte-forest-park/
+2. Ramiro's Hair Studio | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Ramiro's Hair Studio is a hair salon in Forest Park, IL at 7522 Harrison Street, Forest Park, IL 60130. Phone: +17087717175. | https://dingalinged-cpu.github.io/registry/c/ramiros-hair-studio-forest-park/
+3. Prosity Salon | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Prosity Salon is a hair salon in Forest Park, IL at 7208 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/prosity-salon-forest-park/
+4. Fade City | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Fade City is a hair salon in Forest Park, IL at 7233 Roosevelt Road, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fade-city-forest-park/
+5. Jeff's Millionaires | Organic #5 | Pulse Score 56.1/100 (Unrated, #5 in city) | Jeff's Millionaires is a hair salon in Forest Park, IL at Beloit Avenue, Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/jeffs-millionaires-forest-park/
+6. Macdaddy on Madison | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Macdaddy on Madison is a hair salon in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/macdaddy-on-madison-forest-park/
+7. Fantastic Sams | Organic #7 | Pulse Score 45.8/100 (Building, #7 in city) | Fantastic Sams is a hair salon in Forest Park, IL at 7226 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-forest-park/
+8. Supercuts | Organic #8 | Pulse Score 45.1/100 (Building, #8 in city) | Supercuts is a hair salon in Forest Park, IL at 319 South Harlem Avenue #D, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/supercuts-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon forest park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

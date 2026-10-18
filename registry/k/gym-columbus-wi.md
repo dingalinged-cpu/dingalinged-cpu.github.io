@@ -1,12 +1,12 @@
-The top unpaid gym listing for Columbus, WI is Anytime Fitness (a gym in Columbus, WI at 201 Industrial Drive, Columbus, WI 53925. Phone: +19206265005. Website: https://www.anytimefitness.com/gyms/3507/columbus-wi-53925/). 1 gym businesses are listed for Columbus, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Columbus, WI is Anytime Fitness (a gym in Columbus, WI at 201 Industrial Drive, Columbus, WI 53925. Phone: +19206265005. Website: https://www.anytimefitness.com/gyms/3507/columbus-wi-53925/). 1 gym businesses are listed for Columbus, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Columbus, WI?
 
 Also answers: gym in Columbus, WI; gym near me (Columbus, WI); best gym Columbus, WI; top rated gym Columbus, WI; affordable gym Columbus, WI; emergency gym Columbus, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Columbus, WI at 201 Industrial Drive, Columbus, WI 53925. Phone: +19206265005. Website: https://www.anytimefitness.com/gyms/3507/columbus-wi-53925/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-columbus/
+1. Anytime Fitness | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Anytime Fitness is a gym in Columbus, WI at 201 Industrial Drive, Columbus, WI 53925. Phone: +19206265005. Website: https://www.anytimefitness.com/gyms/3507/columbus-wi-53925/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-columbus/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym columbus wi | category: Fitness | industry benchmark: Health & Fitness

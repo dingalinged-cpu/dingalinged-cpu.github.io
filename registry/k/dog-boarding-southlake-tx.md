@@ -1,13 +1,13 @@
-The top unpaid dog boarding listing for Southlake, TX is Southlake Classic Pet Retreat (a dog boarding facility in Southlake, TX at 1211 Brumlow Avenue, Southlake, TX 76092. Phone: +18174814426. Website: https://southlakeclassicpetretreat.com/). 2 dog boarding businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Southlake, TX is Southlake Classic Pet Retreat (a dog boarding facility in Southlake, TX at 1211 Brumlow Avenue, Southlake, TX 76092. Phone: +18174814426. Website: https://southlakeclassicpetretreat.com/). 2 dog boarding businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Southlake, TX?
 
 Also answers: dog boarding in Southlake, TX; dog boarding near me (Southlake, TX); best dog boarding Southlake, TX; top rated dog boarding Southlake, TX; affordable dog boarding Southlake, TX; emergency dog boarding Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southlake Classic Pet Retreat | trust 20.0 | Southlake Classic Pet Retreat is a dog boarding facility in Southlake, TX at 1211 Brumlow Avenue, Southlake, TX 76092. Phone: +18174814426. Website: https://southlakeclassicpetretreat.com/. | https://dingalinged-cpu.github.io/registry/c/southlake-classic-pet-retreat-southlake/
-2. Dogtopia | trust 0.0 | Dogtopia is a dog boarding facility in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/dogtopia-southlake/
+1. Southlake Classic Pet Retreat | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Southlake Classic Pet Retreat is a dog boarding facility in Southlake, TX at 1211 Brumlow Avenue, Southlake, TX 76092. Phone: +18174814426. Website: https://southlakeclassicpetretreat.com/. | https://dingalinged-cpu.github.io/registry/c/southlake-classic-pet-retreat-southlake/
+2. Dogtopia | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Dogtopia is a dog boarding facility in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/dogtopia-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding southlake tx | category: Pets | industry benchmark: Animals & Pets

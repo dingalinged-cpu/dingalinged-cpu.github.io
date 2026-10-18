@@ -13,7 +13,7 @@ Charter Fitness is a gym in Homer Glen, IL at 14825 South Bell Road, Homer Glen,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 77% of gyms in Chicago, #3 of 3 gyms in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

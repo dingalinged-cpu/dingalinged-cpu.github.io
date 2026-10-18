@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Alpharetta, GA at 2840 Holcomb Bridge Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 50% of self-storage facilitys in Atlanta, #2 of 4 self-storage facilitys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

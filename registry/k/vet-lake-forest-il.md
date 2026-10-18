@@ -1,13 +1,13 @@
-The top unpaid vet listing for Lake Forest, IL is Animal Hospital of West Lake Forest (a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/). 2 vet businesses are listed for Lake Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Lake Forest, IL is Animal Hospital of West Lake Forest (a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/). 2 vet businesses are listed for Lake Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Lake Forest, IL?
 
 Also answers: vet in Lake Forest, IL; vet near me (Lake Forest, IL); best vet Lake Forest, IL; top rated vet Lake Forest, IL; affordable vet Lake Forest, IL; emergency vet Lake Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Hospital of West Lake Forest | trust 20.0 | Animal Hospital of West Lake Forest is a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-west-lake-forest-lake-forest/
-2. Lake Forest Animal Clinic | trust 20.0 | Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Western Avenue, Lake Forest, IL 60045. Phone: +18472344011. Website: https://www.lfanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/
+1. Animal Hospital of West Lake Forest | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Animal Hospital of West Lake Forest is a veterinarian in Lake Forest, IL at 1089 Conway Road, Lake Forest, IL 60045. Phone: +18472342110. Website: https://lakeforestvets.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-of-west-lake-forest-lake-forest/
+2. Lake Forest Animal Clinic | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Lake Forest Animal Clinic is a veterinarian in Lake Forest, IL at 1391 North Western Avenue, Lake Forest, IL 60045. Phone: +18472344011. Website: https://www.lfanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-animal-clinic-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet lake forest il | category: Pets | industry benchmark: Animals & Pets

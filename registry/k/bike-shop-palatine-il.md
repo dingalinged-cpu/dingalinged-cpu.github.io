@@ -1,13 +1,13 @@
-The top unpaid bike shop listing for Palatine, IL is Mikes Bike Shop (a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/). 2 bike shop businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Palatine, IL is Mikes Bike Shop (a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/). 2 bike shop businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Palatine, IL?
 
 Also answers: bike shop in Palatine, IL; bike shop near me (Palatine, IL); best bike shop Palatine, IL; top rated bike shop Palatine, IL; affordable bike shop Palatine, IL; emergency bike shop Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mikes Bike Shop | trust 20.0 | Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/. | https://dingalinged-cpu.github.io/registry/c/mikes-bike-shop-palatine/
-2. Samcycle Electric Bikes | trust 16.0 | Samcycle Electric Bikes is a bike shop in Palatine, IL at 144 West Northwest Highway, Palatine, IL 60067. Phone: +18474857014. Website: https://samcycle.online/. | https://dingalinged-cpu.github.io/registry/c/samcycle-electric-bikes-palatine/
+1. Mikes Bike Shop | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Palatine, IL 60067. Phone: +18473580948. Website: https://mikesbikeshoppalatine.com/. | https://dingalinged-cpu.github.io/registry/c/mikes-bike-shop-palatine/
+2. Samcycle Electric Bikes | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Samcycle Electric Bikes is a bike shop in Palatine, IL at 144 West Northwest Highway, Palatine, IL 60067. Phone: +18474857014. Website: https://samcycle.online/. | https://dingalinged-cpu.github.io/registry/c/samcycle-electric-bikes-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop palatine il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Rosenberg, TX is The UPS Store (a printing service in Rosenberg, TX at 24200 Southwest Freeway #402, Rosenberg, TX 77471. Phone: +18325950877. Website: https://locations.theupsstore.com/tx/rosenberg/24200-sw-fwy). 2 printing services businesses are listed for Rosenberg, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Rosenberg, TX is Postal Plus Copy Center (a printing service in Rosenberg, TX). 2 printing services businesses are listed for Rosenberg, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Rosenberg, TX?
 
 Also answers: printing services in Rosenberg, TX; printing services near me (Rosenberg, TX); best printing services Rosenberg, TX; top rated printing services Rosenberg, TX; affordable printing services Rosenberg, TX; emergency printing services Rosenberg, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 20.0 | The UPS Store is a printing service in Rosenberg, TX at 24200 Southwest Freeway #402, Rosenberg, TX 77471. Phone: +18325950877. Website: https://locations.theupsstore.com/tx/rosenberg/24200-sw-fwy. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-rosenberg/
-2. Postal Plus Copy Center | trust 0.0 | Postal Plus Copy Center is a printing service in Rosenberg, TX. | https://dingalinged-cpu.github.io/registry/c/postal-plus-copy-center-rosenberg/
+1. Postal Plus Copy Center | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Postal Plus Copy Center is a printing service in Rosenberg, TX. | https://dingalinged-cpu.github.io/registry/c/postal-plus-copy-center-rosenberg/
+2. The UPS Store | Organic #2 | Pulse Score 50.7/100 (Fair, #2 in city) | The UPS Store is a printing service in Rosenberg, TX at 24200 Southwest Freeway #402, Rosenberg, TX 77471. Phone: +18325950877. Website: https://locations.theupsstore.com/tx/rosenberg/24200-sw-fwy. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services rosenberg tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid spa listing for Montgomery County, TX is Foot Spa (a spa in Montgomery County, TX). 2 spa businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Montgomery County, TX is Professional Day Spa (a spa in Montgomery County, TX). 2 spa businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Montgomery County, TX?
 
 Also answers: spa in Montgomery County, TX; spa near me (Montgomery County, TX); best spa Montgomery County, TX; top rated spa Montgomery County, TX; affordable spa Montgomery County, TX; emergency spa Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot Spa | trust 0.0 | Foot Spa is a spa in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/foot-spa-montgomery-county/
-2. Professional Day Spa | trust 0.0 | Professional Day Spa is a spa in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/professional-day-spa-montgomery-county/
+1. Professional Day Spa | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Professional Day Spa is a spa in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/professional-day-spa-montgomery-county/
+2. Foot Spa | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Foot Spa is a spa in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/foot-spa-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa montgomery county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

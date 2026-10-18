@@ -1,16 +1,16 @@
-The top unpaid gym listing for Lewisville, TX is Fitness Connection (a gym in Lewisville, TX. Phone: +12142227300). 5 gym businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lewisville, TX is Steadfast (a gym in Lewisville, TX). 5 gym businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lewisville, TX?
 
 Also answers: gym in Lewisville, TX; gym near me (Lewisville, TX); best gym Lewisville, TX; top rated gym Lewisville, TX; affordable gym Lewisville, TX; emergency gym Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fitness Connection | trust 10.0 | Fitness Connection is a gym in Lewisville, TX. Phone: +12142227300. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-lewisville/
-2. LA Fitness | trust 8.0 | LA Fitness is a gym in Lewisville, TX at 798 East Vista Ridge Mall Drive, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lewisville/
-3. Steadfast | trust 4.0 | Steadfast is a gym in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/steadfast-lewisville/
-4. Planet Fitness | trust 3.0 | Planet Fitness is a gym in Lewisville, TX at 500 MacArthur Boulevard #201, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-lewisville/
-5. 24 Hour Fitness | trust 0.0 | 24 Hour Fitness is a gym in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-lewisville/
+1. Steadfast | Organic #1 | Pulse Score 60.6/100 (Good, #1 in city) | Steadfast is a gym in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/steadfast-lewisville/
+2. Fitness Connection | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Fitness Connection is a gym in Lewisville, TX. Phone: +12142227300. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-lewisville/
+3. Planet Fitness | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Planet Fitness is a gym in Lewisville, TX at 500 MacArthur Boulevard #201, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-lewisville/
+4. LA Fitness | Organic #4 | Pulse Score 46.9/100 (Building, #4 in city) | LA Fitness is a gym in Lewisville, TX at 798 East Vista Ridge Mall Drive, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lewisville/
+5. 24 Hour Fitness | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | 24 Hour Fitness is a gym in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lewisville tx | category: Fitness | industry benchmark: Health & Fitness

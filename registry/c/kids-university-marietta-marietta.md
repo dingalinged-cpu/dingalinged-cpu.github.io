@@ -13,7 +13,7 @@ Kids University, Marietta is a daycare in Marietta, GA at 20 Fairground St NE, M
 - Website: https://kidsu.care/locations/marietta/
 - Email: marietta@kidsu.care
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 6% of daycares in Atlanta, #1 of 2 daycares in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

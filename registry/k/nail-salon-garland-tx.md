@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Garland, TX is Lee Nails (a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX). 3 nail salon businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Garland, TX is Allure Nails (a nail salon in Garland, TX). 3 nail salon businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Garland, TX?
 
 Also answers: nail salon in Garland, TX; nail salon near me (Garland, TX); best nail salon Garland, TX; top rated nail salon Garland, TX; affordable nail salon Garland, TX; emergency nail salon Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee Nails | trust 3.0 | Lee Nails is a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/lee-nails-garland/
-2. Allure Nails | trust 0.0 | Allure Nails is a nail salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/allure-nails-garland/
-3. My Nail Spa | trust 0.0 | My Nail Spa is a nail salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/my-nail-spa-garland/
+1. Allure Nails | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Allure Nails is a nail salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/allure-nails-garland/
+2. My Nail Spa | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | My Nail Spa is a nail salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/my-nail-spa-garland/
+3. Lee Nails | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Lee Nails is a nail salon in Garland, TX at 5018 North Jupiter Road, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/lee-nails-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

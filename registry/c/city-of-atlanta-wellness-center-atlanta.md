@@ -13,7 +13,7 @@ City of Atlanta Wellness Center is a gym in Atlanta, GA at 235 Central Avenue So
 - Website: https://wellnesscenter.atlantaga.gov/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 22% of gyms in Atlanta, #11 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

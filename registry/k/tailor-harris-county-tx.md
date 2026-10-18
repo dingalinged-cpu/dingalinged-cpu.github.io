@@ -1,17 +1,17 @@
-The top unpaid tailor listing for Harris County, TX is Kathy's Tailor & Cleaners (a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX). 6 tailor businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Harris County, TX is Kathy's Tailor & Cleaners (a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX). 6 tailor businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Harris County, TX?
 
 Also answers: tailor in Harris County, TX; tailor near me (Harris County, TX); best tailor Harris County, TX; top rated tailor Harris County, TX; affordable tailor Harris County, TX; emergency tailor Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kathy's Tailor & Cleaners | trust 3.0 | Kathy's Tailor & Cleaners is a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kathys-tailor-and-cleaners-harris-county/
-2. Alterations | trust 0.0 | Alterations is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alterations-harris-county/
-3. Ann's Tailors | trust 0.0 | Ann's Tailors is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/anns-tailors-harris-county/
-4. Fly Quince Exclusive Designs | trust 0.0 | Fly Quince Exclusive Designs is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fly-quince-exclusive-designs-harris-county/
-5. Susie's Tailor & Alterations | trust 0.0 | Susie's Tailor & Alterations is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/susies-tailor-and-alterations-harris-county/
-6. Trans Tailor | trust 0.0 | Trans Tailor is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/trans-tailor-harris-county/
+1. Kathy's Tailor & Cleaners | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Kathy's Tailor & Cleaners is a tailor in Harris County, TX at 21020 Highland Knolls Drive #1, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kathys-tailor-and-cleaners-harris-county/
+2. Ann's Tailors | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Ann's Tailors is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/anns-tailors-harris-county/
+3. Fly Quince Exclusive Designs | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Fly Quince Exclusive Designs is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fly-quince-exclusive-designs-harris-county/
+4. Susie's Tailor & Alterations | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Susie's Tailor & Alterations is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/susies-tailor-and-alterations-harris-county/
+5. Trans Tailor | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Trans Tailor is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/trans-tailor-harris-county/
+6. Alterations | Organic #6 | Pulse Score 42.5/100 (Unrated, #6 in city) | Alterations is a tailor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alterations-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor harris county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

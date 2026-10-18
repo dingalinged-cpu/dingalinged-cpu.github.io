@@ -1,12 +1,12 @@
-The top unpaid pet store listing for Deerfield, IL is Pet Supplies Plus (a pet store in Deerfield, IL at 9 North Waukegan Road, Deerfield, IL 60015. Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237). 1 pet store businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Deerfield, IL is Pet Supplies Plus (a pet store in Deerfield, IL at 9 North Waukegan Road, Deerfield, IL 60015. Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237). 1 pet store businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Deerfield, IL?
 
 Also answers: pet store in Deerfield, IL; pet store near me (Deerfield, IL); best pet store Deerfield, IL; top rated pet store Deerfield, IL; affordable pet store Deerfield, IL; emergency pet store Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Deerfield, IL at 9 North Waukegan Road, Deerfield, IL 60015. Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-deerfield/
+1. Pet Supplies Plus | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | Pet Supplies Plus is a pet store in Deerfield, IL at 9 North Waukegan Road, Deerfield, IL 60015. Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store deerfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

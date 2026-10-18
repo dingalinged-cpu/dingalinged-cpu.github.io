@@ -13,7 +13,7 @@ Simply Liquor Sachse is a liquor store in Sachse, TX at 5120 State Highway 78 #5
 - Website: https://holiq.store/simplyliquorsachse
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su off
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 5% of liquor stores in Dallas–Fort Worth, #1 of 3 liquor stores in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

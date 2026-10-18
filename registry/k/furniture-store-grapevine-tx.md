@@ -1,17 +1,17 @@
-The top unpaid furniture store listing for Grapevine, TX is Ashley HomeStore (a furniture store in Grapevine, TX at 3400 Grapevine Mills Parkway, Grapevine, TX 76051. Phone: +19725392117. Website: https://stores.ashleyfurniture.com/store/us/texas/grapevine/7710000414/). 6 furniture store businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Grapevine, TX is Stacy Furniture & Design - Outlet (a furniture store in Grapevine, TX at 709 Enterprise Drive, Grapevine, TX). 6 furniture store businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Grapevine, TX?
 
 Also answers: furniture store in Grapevine, TX; furniture store near me (Grapevine, TX); best furniture store Grapevine, TX; top rated furniture store Grapevine, TX; affordable furniture store Grapevine, TX; emergency furniture store Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Grapevine, TX at 3400 Grapevine Mills Parkway, Grapevine, TX 76051. Phone: +19725392117. Website: https://stores.ashleyfurniture.com/store/us/texas/grapevine/7710000414/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-grapevine/
-2. Arhaus | trust 4.0 | Arhaus is a furniture store in Grapevine, TX at 3000 Grapevine Mills Parkway #247, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/arhaus-grapevine/
-3. La-Z-Boy | trust 4.0 | La-Z-Boy is a furniture store in Grapevine, TX at 3450 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-grapevine/
-4. Rooms To Go | trust 4.0 | Rooms To Go is a furniture store in Grapevine, TX at 2905 East Grapevine Mills Circle, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-grapevine/
-5. Stacy Furniture & Design - Outlet | trust 3.0 | Stacy Furniture & Design - Outlet is a furniture store in Grapevine, TX at 709 Enterprise Drive, Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/stacy-furniture-and-design-outlet-grapevine/
-6. Leather Sofa Co. | trust 0.0 | Leather Sofa Co. is a furniture store in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/leather-sofa-co-grapevine/
+1. Stacy Furniture & Design - Outlet | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Stacy Furniture & Design - Outlet is a furniture store in Grapevine, TX at 709 Enterprise Drive, Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/stacy-furniture-and-design-outlet-grapevine/
+2. Leather Sofa Co. | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Leather Sofa Co. is a furniture store in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/leather-sofa-co-grapevine/
+3. Ashley HomeStore | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Ashley HomeStore is a furniture store in Grapevine, TX at 3400 Grapevine Mills Parkway, Grapevine, TX 76051. Phone: +19725392117. Website: https://stores.ashleyfurniture.com/store/us/texas/grapevine/7710000414/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-grapevine/
+4. Arhaus | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Arhaus is a furniture store in Grapevine, TX at 3000 Grapevine Mills Parkway #247, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/arhaus-grapevine/
+5. La-Z-Boy | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Grapevine, TX at 3450 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-grapevine/
+6. Rooms To Go | Organic #6 | Pulse Score 45/100 (Building, #6 in city) | Rooms To Go is a furniture store in Grapevine, TX at 2905 East Grapevine Mills Circle, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store grapevine tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

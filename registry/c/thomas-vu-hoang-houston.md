@@ -13,7 +13,7 @@ Thomas vu Hoang is an accountant in Houston, TX at 2421 Milam Street, Houston, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 84% of accountants in Houston, #10 of 12 accountants in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

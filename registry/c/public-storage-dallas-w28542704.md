@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Dallas, TX at 4740 Harry Hines Boul
 - Website: https://www.publicstorage.com/self-storage-tx-dallas/2599.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 43% of self-storage facilitys in Dallas–Fort Worth, #17 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

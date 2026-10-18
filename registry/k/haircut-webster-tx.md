@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Webster, TX is Off The Top (a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/). 3 haircut businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Webster, TX is Off The Top (a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/). 3 haircut businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Webster, TX?
 
 Also answers: haircut in Webster, TX; haircut near me (Webster, TX); best haircut Webster, TX; top rated haircut Webster, TX; affordable haircut Webster, TX; emergency haircut Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Off The Top | trust 20.0 | Off The Top is a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/off-the-top-webster/
-2. Great Clips | trust 10.0 | Great Clips is a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080. | https://dingalinged-cpu.github.io/registry/c/great-clips-webster/
-3. Tune Up | trust 0.0 | Tune Up is a hair salon in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-webster/
+1. Off The Top | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Off The Top is a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster, TX 77598. Phone: +12819546101. Website: https://www.off-the-top-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/off-the-top-webster/
+2. Great Clips | Organic #2 | Pulse Score 48.4/100 (Building, #1 in city) | Great Clips is a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080. | https://dingalinged-cpu.github.io/registry/c/great-clips-webster/
+3. Tune Up | Organic #3 | Pulse Score 43.1/100 (Unrated, #2 in city) | Tune Up is a hair salon in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut webster tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

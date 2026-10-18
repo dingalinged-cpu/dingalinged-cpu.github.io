@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Harris County, TX is Salon de Fiestas (a caterer in Harris County, TX). 1 caterers businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Harris County, TX is Salon de Fiestas (a caterer in Harris County, TX). 1 caterers businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Harris County, TX?
 
 Also answers: caterers in Harris County, TX; caterers near me (Harris County, TX); best caterers Harris County, TX; top rated caterers Harris County, TX; affordable caterers Harris County, TX; emergency caterers Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon de Fiestas | trust 0.0 | Salon de Fiestas is a caterer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/salon-de-fiestas-harris-county/
+1. Salon de Fiestas | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Salon de Fiestas is a caterer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/salon-de-fiestas-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers harris county tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Lincolnwood, IL is New York Bagel & Bialy Corporation (a bakery in Lincolnwood, IL at 4714 West Touhy Avenue, Lincolnwood, IL 60712. Website: https://www.newyorkbagelandbialy.net/). 1 bakery businesses are listed for Lincolnwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Lincolnwood, IL is New York Bagel & Bialy Corporation (a bakery in Lincolnwood, IL at 4714 West Touhy Avenue, Lincolnwood, IL 60712. Website: https://www.newyorkbagelandbialy.net/). 1 bakery businesses are listed for Lincolnwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Lincolnwood, IL?
 
 Also answers: bakery in Lincolnwood, IL; bakery near me (Lincolnwood, IL); best bakery Lincolnwood, IL; top rated bakery Lincolnwood, IL; affordable bakery Lincolnwood, IL; emergency bakery Lincolnwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New York Bagel & Bialy Corporation | trust 14.0 | New York Bagel & Bialy Corporation is a bakery in Lincolnwood, IL at 4714 West Touhy Avenue, Lincolnwood, IL 60712. Website: https://www.newyorkbagelandbialy.net/. | https://dingalinged-cpu.github.io/registry/c/new-york-bagel-and-bialy-corporation-lincolnwood/
+1. New York Bagel & Bialy Corporation | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | New York Bagel & Bialy Corporation is a bakery in Lincolnwood, IL at 4714 West Touhy Avenue, Lincolnwood, IL 60712. Website: https://www.newyorkbagelandbialy.net/. | https://dingalinged-cpu.github.io/registry/c/new-york-bagel-and-bialy-corporation-lincolnwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery lincolnwood il | category: Events & weddings | industry benchmark: Personal Services

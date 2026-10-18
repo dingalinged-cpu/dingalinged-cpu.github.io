@@ -1,12 +1,12 @@
-The top unpaid massage listing for Fitchburg, WI is Kneaded Relief (a massage studio in Fitchburg, WI). 1 massage businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Fitchburg, WI is Kneaded Relief (a massage studio in Fitchburg, WI). 1 massage businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Fitchburg, WI?
 
 Also answers: massage in Fitchburg, WI; massage near me (Fitchburg, WI); best massage Fitchburg, WI; top rated massage Fitchburg, WI; affordable massage Fitchburg, WI; emergency massage Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kneaded Relief | trust 0.0 | Kneaded Relief is a massage studio in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/kneaded-relief-fitchburg/
+1. Kneaded Relief | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Kneaded Relief is a massage studio in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/kneaded-relief-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage fitchburg wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

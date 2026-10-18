@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for New Glarus, WI is Zentner-Beal Funeral Home (a funeral home in New Glarus, WI at 29 6th Avenue, New Glarus, WI 53574. Phone: +16085272211. Website: https://www.bealfuneralhomes.com/). 1 funeral home businesses are listed for New Glarus, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for New Glarus, WI is Zentner-Beal Funeral Home (a funeral home in New Glarus, WI at 29 6th Avenue, New Glarus, WI 53574. Phone: +16085272211. Website: https://www.bealfuneralhomes.com/). 1 funeral home businesses are listed for New Glarus, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in New Glarus, WI?
 
 Also answers: funeral home in New Glarus, WI; funeral home near me (New Glarus, WI); best funeral home New Glarus, WI; top rated funeral home New Glarus, WI; affordable funeral home New Glarus, WI; emergency funeral home New Glarus, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zentner-Beal Funeral Home | trust 16.0 | Zentner-Beal Funeral Home is a funeral home in New Glarus, WI at 29 6th Avenue, New Glarus, WI 53574. Phone: +16085272211. Website: https://www.bealfuneralhomes.com/. | https://dingalinged-cpu.github.io/registry/c/zentner-beal-funeral-home-new-glarus/
+1. Zentner-Beal Funeral Home | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Zentner-Beal Funeral Home is a funeral home in New Glarus, WI at 29 6th Avenue, New Glarus, WI 53574. Phone: +16085272211. Website: https://www.bealfuneralhomes.com/. | https://dingalinged-cpu.github.io/registry/c/zentner-beal-funeral-home-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home new glarus wi | category: Professional & financial services | industry benchmark: Finance & Insurance

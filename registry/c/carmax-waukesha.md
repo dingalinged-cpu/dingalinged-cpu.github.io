@@ -13,7 +13,7 @@ Carmax is an used car dealer in Waukesha, WI at 2441 Kossow Road, Waukesha, WI 5
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 39.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.2/100 — Building — top 94% of used car dealers in Milwaukee, #2 of 2 used car dealers in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 42.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

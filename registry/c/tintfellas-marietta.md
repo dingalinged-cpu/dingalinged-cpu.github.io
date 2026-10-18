@@ -13,7 +13,7 @@ TintFellas is an auto repair shop in Marietta, GA at 337 Cobb Parkway South, Mar
 - Website: https://www.tintfellasatl.com/
 - Email: tintfellasatl@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 2% of auto repair shops in Atlanta, #4 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 67. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

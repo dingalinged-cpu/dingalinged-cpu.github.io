@@ -13,7 +13,7 @@ Bronzeville Salon Suites is a hair salon in Chicago, IL at 80 East Pershing Road
 - Website: https://www.bronzevillesalonsuites.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Chicago, #65 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

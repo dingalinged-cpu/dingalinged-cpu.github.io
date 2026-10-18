@@ -13,7 +13,7 @@ Smith Beer & Liquor Mart is a liquor store in Milwaukee, WI at 1413 East Brady S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:30-21:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of liquor stores in Milwaukee, #2 of 37 liquor stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

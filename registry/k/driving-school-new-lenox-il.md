@@ -1,12 +1,12 @@
-The top unpaid driving school listing for New Lenox, IL is Top Driver (a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/). 1 driving school businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for New Lenox, IL is Top Driver (a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/). 1 driving school businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in New Lenox, IL?
 
 Also answers: driving school in New Lenox, IL; driving school near me (New Lenox, IL); best driving school New Lenox, IL; top rated driving school New Lenox, IL; affordable driving school New Lenox, IL; emergency driving school New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Top Driver | trust 20.0 | Top Driver is a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/. | https://dingalinged-cpu.github.io/registry/c/top-driver-new-lenox/
+1. Top Driver | Organic #1 | Pulse Score 50/100 (Unrated, #1 in city) | Top Driver is a driving school in New Lenox, IL at 1800 East Lincoln Highway, New Lenox, IL 60451. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/new-lenox/. | https://dingalinged-cpu.github.io/registry/c/top-driver-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school new lenox il | category: Education & childcare | industry benchmark: Education & Instruction

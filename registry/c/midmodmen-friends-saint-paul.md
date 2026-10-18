@@ -13,7 +13,7 @@ MidModMen+friends is a furniture store in Saint Paul, MN at 2401 University Aven
 - Website: https://midmodmen.com/
 - Email: MidModMen@gmail.com
 - Opening hours (OSM syntax): Fr,Sa 11:00-16:00; Su 11:00-15:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 3% of furniture stores in Minneapolis–St. Paul, #1 of 17 furniture stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

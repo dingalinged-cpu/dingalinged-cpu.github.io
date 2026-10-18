@@ -13,7 +13,7 @@ The UPS Store is a printing service in Marietta, GA at 1205 Johnson Ferry Road N
 - Website: https://locations.theupsstore.com/ga/marietta/1205-johnson-ferry-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 32% of printing services in Atlanta, #4 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

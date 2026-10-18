@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Homer Glen, IL is Cigarettes & Cigars (a liquor store in Homer Glen, IL at 14321 South Golden Oak Drive, Homer Glen, IL 60491). 3 liquor store businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Homer Glen, IL is Cigarettes & Cigars (a liquor store in Homer Glen, IL at 14321 South Golden Oak Drive, Homer Glen, IL 60491). 3 liquor store businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Homer Glen, IL?
 
 Also answers: liquor store in Homer Glen, IL; liquor store near me (Homer Glen, IL); best liquor store Homer Glen, IL; top rated liquor store Homer Glen, IL; affordable liquor store Homer Glen, IL; emergency liquor store Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cigarettes & Cigars | trust 4.0 | Cigarettes & Cigars is a liquor store in Homer Glen, IL at 14321 South Golden Oak Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/cigarettes-and-cigars-homer-glen/
-2. Homer Wine & Liquor | trust 4.0 | Homer Wine & Liquor is a liquor store in Homer Glen, IL at 13007 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/homer-wine-and-liquor-homer-glen/
-3. Kenwood Liquors | trust 4.0 | Kenwood Liquors is a liquor store in Homer Glen, IL at 12037 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/kenwood-liquors-homer-glen/
+1. Cigarettes & Cigars | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Cigarettes & Cigars is a liquor store in Homer Glen, IL at 14321 South Golden Oak Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/cigarettes-and-cigars-homer-glen/
+2. Homer Wine & Liquor | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Homer Wine & Liquor is a liquor store in Homer Glen, IL at 13007 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/homer-wine-and-liquor-homer-glen/
+3. Kenwood Liquors | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Kenwood Liquors is a liquor store in Homer Glen, IL at 12037 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/kenwood-liquors-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store homer glen il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

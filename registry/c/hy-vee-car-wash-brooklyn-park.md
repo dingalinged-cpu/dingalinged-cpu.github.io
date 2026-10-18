@@ -13,7 +13,7 @@ Hy-Vee Car Wash is a car wash in Brooklyn Park, MN at 9409 Zane Avenue North, Br
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 60% of car washes in Minneapolis–St. Paul, #4 of 4 car washes in Brooklyn Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.8, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Spec's is a liquor store in Terrell, TX at 535 American Way, Terrell, TX 75160. 
 - Website: https://specsonline.com/liquor-stores/dallas/terrell-187/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 55.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52/100 — Fair — top 66% of liquor stores in Dallas–Fort Worth, #4 of 4 liquor stores in Terrell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

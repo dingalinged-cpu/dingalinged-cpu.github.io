@@ -1,13 +1,13 @@
-The top unpaid computer repair listing for Dallas, TX is uBreakiFix (a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison). 2 computer repair businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid computer repair listing for Dallas, TX is uBreakiFix (a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison). 2 computer repair businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best computer repair providers in Dallas, TX?
 
 Also answers: computer repair in Dallas, TX; computer repair near me (Dallas, TX); best computer repair Dallas, TX; top rated computer repair Dallas, TX; affordable computer repair Dallas, TX; emergency computer repair Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 14.0 | uBreakiFix is a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-dallas/
-2. Geek Squad | trust 12.0 | Geek Squad is a computer repair shop in Dallas, TX. Phone: +12146962089. Website: https://stores.bestbuy.com/tx/dallas/9378-n-central-expy-58/geeksquad.html. | https://dingalinged-cpu.github.io/registry/c/geek-squad-dallas/
+1. uBreakiFix | Organic #1 | Pulse Score 49.2/100 (Building, #2 in city) | uBreakiFix is a phone repair shop in Dallas, TX at 5920 Belt Line Road #315, Dallas, TX 75254. Website: https://www.ubreakifix.com/locations/addison. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-dallas/
+2. Geek Squad | Organic #2 | Pulse Score 47.5/100 (Building, #1 in city) | Geek Squad is a computer repair shop in Dallas, TX. Phone: +12146962089. Website: https://stores.bestbuy.com/tx/dallas/9378-n-central-expy-58/geeksquad.html. | https://dingalinged-cpu.github.io/registry/c/geek-squad-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: computer repair dallas tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

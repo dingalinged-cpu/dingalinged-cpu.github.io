@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Romeoville, IL is Emerald's Car Wash (a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446). 4 car wash businesses are listed for Romeoville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Romeoville, IL is Emerald's Car Wash (a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446). 4 car wash businesses are listed for Romeoville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Romeoville, IL?
 
 Also answers: car wash in Romeoville, IL; car wash near me (Romeoville, IL); best car wash Romeoville, IL; top rated car wash Romeoville, IL; affordable car wash Romeoville, IL; emergency car wash Romeoville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Emerald's Car Wash | trust 4.0 | Emerald's Car Wash is a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446. | https://dingalinged-cpu.github.io/registry/c/emeralds-car-wash-romeoville/
-2. $3 Car Wash | trust 0.0 | $3 Car Wash is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/3-car-wash-romeoville/
-3. Circle K | trust 0.0 | Circle K is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/circle-k-romeoville/
-4. NASCAR Car Wash | trust 0.0 | NASCAR Car Wash is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/nascar-car-wash-romeoville/
+1. Emerald's Car Wash | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Emerald's Car Wash is a car wash in Romeoville, IL at 715 Independence Boulevard, Romeoville, IL 60446. | https://dingalinged-cpu.github.io/registry/c/emeralds-car-wash-romeoville/
+2. $3 Car Wash | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | $3 Car Wash is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/3-car-wash-romeoville/
+3. NASCAR Car Wash | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | NASCAR Car Wash is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/nascar-car-wash-romeoville/
+4. Circle K | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Circle K is a car wash in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/circle-k-romeoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash romeoville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for New Berlin, WI is Hallmark (a gift shop in New Berlin, WI at 15405 West National Avenue, New Berlin, WI 53151). 1 gift shop businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for New Berlin, WI is Hallmark (a gift shop in New Berlin, WI at 15405 West National Avenue, New Berlin, WI 53151). 1 gift shop businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in New Berlin, WI?
 
 Also answers: gift shop in New Berlin, WI; gift shop near me (New Berlin, WI); best gift shop New Berlin, WI; top rated gift shop New Berlin, WI; affordable gift shop New Berlin, WI; emergency gift shop New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | trust 4.0 | Hallmark is a gift shop in New Berlin, WI at 15405 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/hallmark-new-berlin/
+1. Hallmark | Organic #1 | Pulse Score 44.9/100 (Building, #1 in city) | Hallmark is a gift shop in New Berlin, WI at 15405 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/hallmark-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop new berlin wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ James D. Rouse Agency, Inc. is an insurance agent in Milwaukee, WI at 8201 West 
 - Website: https://www.amfam.com/agents/wisconsin/milwaukee/james-rouse
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of insurance agents in Milwaukee, #13 of 23 insurance agents in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

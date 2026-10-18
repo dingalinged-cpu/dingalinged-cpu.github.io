@@ -13,7 +13,7 @@ Home Zone is a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, 
 - Website: https://homezonefurniture.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-20:00
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 6% of furniture stores in Dallas–Fort Worth, #1 of 6 furniture stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

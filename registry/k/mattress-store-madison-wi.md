@@ -1,19 +1,19 @@
-The top unpaid mattress store listing for Madison, WI is Mattress Firm (a mattress store in Madison, WI at 2200 West Beltline Highway, Madison, WI 53713. Phone: +16082770103. Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/). 8 mattress store businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Madison, WI is Steinhafels Mattress and Bedding Store (a mattress store in Madison, WI at 7333 Mineral Point Road, Madison, WI 53717. Website: https://www.steinhafels.com/locations/west-towne-mattress). 8 mattress store businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Madison, WI?
 
 Also answers: mattress store in Madison, WI; mattress store near me (Madison, WI); best mattress store Madison, WI; top rated mattress store Madison, WI; affordable mattress store Madison, WI; emergency mattress store Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Madison, WI at 2200 West Beltline Highway, Madison, WI 53713. Phone: +16082770103. Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-madison/
-2. Steinhafels Mattress and Bedding Store | trust 10.0 | Steinhafels Mattress and Bedding Store is a mattress store in Madison, WI at 7333 Mineral Point Road, Madison, WI 53717. Website: https://www.steinhafels.com/locations/west-towne-mattress. | https://dingalinged-cpu.github.io/registry/c/steinhafels-mattress-and-bedding-store-madison/
-3. Denver Mattress | trust 4.0 | Denver Mattress is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/denver-mattress-madison/
-4. Rest & Recline | trust 4.0 | Rest & Recline is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rest-and-recline-madison/
-5. Sleep Number | trust 0.0 | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison/
-6. Sleep Number | trust 0.0 | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison-n13959226191/
-7. Sleep Number | trust 0.0 | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison-n8888959903/
-8. Verlo Mattress | trust 0.0 | Verlo Mattress is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-madison/
+1. Steinhafels Mattress and Bedding Store | Organic #1 | Pulse Score 58.8/100 (Fair, #1 in city) | Steinhafels Mattress and Bedding Store is a mattress store in Madison, WI at 7333 Mineral Point Road, Madison, WI 53717. Website: https://www.steinhafels.com/locations/west-towne-mattress. | https://dingalinged-cpu.github.io/registry/c/steinhafels-mattress-and-bedding-store-madison/
+2. Denver Mattress | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Denver Mattress is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/denver-mattress-madison/
+3. Rest & Recline | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Rest & Recline is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rest-and-recline-madison/
+4. Mattress Firm | Organic #4 | Pulse Score 49.8/100 (Building, #4 in city) | Mattress Firm is a mattress store in Madison, WI at 2200 West Beltline Highway, Madison, WI 53713. Phone: +16082770103. Website: https://www.mattressfirm.com/en-us/stores/wi/madison/111009/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-madison/
+5. Sleep Number | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison/
+6. Sleep Number | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison-n13959226191/
+7. Sleep Number | Organic #7 | Pulse Score 42.4/100 (Building, #7 in city) | Sleep Number is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sleep-number-madison-n8888959903/
+8. Verlo Mattress | Organic #8 | Pulse Score 41.8/100 (Unrated, #8 in city) | Verlo Mattress is a mattress store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

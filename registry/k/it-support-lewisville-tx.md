@@ -1,13 +1,13 @@
-The top unpaid it support listing for Lewisville, TX is Pilvi Systems (an IT support company in Lewisville, TX. Phone: +19254055844. Website: https://www.pilvisystems.com/). 2 it support businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Lewisville, TX is Pilvi Systems (an IT support company in Lewisville, TX. Phone: +19254055844. Website: https://www.pilvisystems.com/). 2 it support businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Lewisville, TX?
 
 Also answers: it support in Lewisville, TX; it support near me (Lewisville, TX); best it support Lewisville, TX; top rated it support Lewisville, TX; affordable it support Lewisville, TX; emergency it support Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pilvi Systems | trust 12.0 | Pilvi Systems is an IT support company in Lewisville, TX. Phone: +19254055844. Website: https://www.pilvisystems.com/. | https://dingalinged-cpu.github.io/registry/c/pilvi-systems-lewisville/
-2. Neni Techsystems Inc | trust 3.0 | Neni Techsystems Inc is an IT support company in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #603, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/neni-techsystems-inc-lewisville/
+1. Pilvi Systems | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Pilvi Systems is an IT support company in Lewisville, TX. Phone: +19254055844. Website: https://www.pilvisystems.com/. | https://dingalinged-cpu.github.io/registry/c/pilvi-systems-lewisville/
+2. Neni Techsystems Inc | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Neni Techsystems Inc is an IT support company in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #603, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/neni-techsystems-inc-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support lewisville tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for East Chicago, IN is ARCE Automotive (an auto repair shop in East Chicago, IN at 5539 Indianapolis Boulevard, East Chicago, IN 46312). 2 mechanic businesses are listed for East Chicago, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for East Chicago, IN is ARCE Automotive (an auto repair shop in East Chicago, IN at 5539 Indianapolis Boulevard, East Chicago, IN 46312). 2 mechanic businesses are listed for East Chicago, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in East Chicago, IN?
 
 Also answers: mechanic in East Chicago, IN; mechanic near me (East Chicago, IN); best mechanic East Chicago, IN; top rated mechanic East Chicago, IN; affordable mechanic East Chicago, IN; emergency mechanic East Chicago, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ARCE Automotive | trust 4.0 | ARCE Automotive is an auto repair shop in East Chicago, IN at 5539 Indianapolis Boulevard, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/arce-automotive-east-chicago/
-2. EC Auto Repair | trust 0.0 | EC Auto Repair is an auto repair shop in East Chicago, IN. | https://dingalinged-cpu.github.io/registry/c/ec-auto-repair-east-chicago/
+1. ARCE Automotive | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | ARCE Automotive is an auto repair shop in East Chicago, IN at 5539 Indianapolis Boulevard, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/arce-automotive-east-chicago/
+2. EC Auto Repair | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | EC Auto Repair is an auto repair shop in East Chicago, IN. | https://dingalinged-cpu.github.io/registry/c/ec-auto-repair-east-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic east chicago in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

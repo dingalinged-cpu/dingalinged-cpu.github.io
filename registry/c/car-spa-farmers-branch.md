@@ -13,7 +13,7 @@ Car Spa is a car wash in Farmers Branch, TX at 3690 East Belt Line Road, Farmers
 - Website: https://carspa.net/
 - Email: info@carspa.net
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52/100 — Fair — top 63% of car washes in Dallas–Fort Worth, #1 of 1 car washes in Farmers Branch (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 69.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

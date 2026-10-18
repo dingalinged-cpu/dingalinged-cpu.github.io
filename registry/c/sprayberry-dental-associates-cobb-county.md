@@ -13,7 +13,7 @@ Sprayberry Dental Associates is a dentist in Cobb County, GA at 2663 Sandy Plain
 - Website: https://www.sprayberrydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-17:30; Tu-Th 07:30-18:00; Fr 08:00-16:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 11% of dentists in Atlanta, #3 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Keller Williams Realty is a real estate agency in The Woodlands, TX at 2201 Lake
 - Website: https://kwwoodlands.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:30-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 90% of real estate agencys in Houston, #1 of 2 real estate agencys in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

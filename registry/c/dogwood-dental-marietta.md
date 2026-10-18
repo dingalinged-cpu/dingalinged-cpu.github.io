@@ -13,7 +13,7 @@ Dogwood Dental is a dentist in Marietta, GA at 2421 Shallowford Road Northeast #
 - Website: https://dogwooddentalmarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-16:30; Tu-Th 08:00-15:00; Fr off; Sa off; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 17% of dentists in Atlanta, #13 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

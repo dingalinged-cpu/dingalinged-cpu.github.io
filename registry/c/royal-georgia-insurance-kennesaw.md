@@ -13,7 +13,7 @@ Royal Georgia Insurance is an insurance agent in Kennesaw, GA at 3055 North Main
 - Website: https://royalgeorgiainsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 15% of insurance agents in Atlanta, #3 of 6 insurance agents in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

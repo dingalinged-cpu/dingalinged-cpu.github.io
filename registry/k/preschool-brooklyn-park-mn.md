@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Brooklyn Park, MN is New Horizon Academy (a preschool in Brooklyn Park, MN). 2 preschool businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Brooklyn Park, MN is The Goddard School (a preschool in Brooklyn Park, MN). 2 preschool businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Brooklyn Park, MN?
 
 Also answers: preschool in Brooklyn Park, MN; preschool near me (Brooklyn Park, MN); best preschool Brooklyn Park, MN; top rated preschool Brooklyn Park, MN; affordable preschool Brooklyn Park, MN; emergency preschool Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Horizon Academy | trust 0.0 | New Horizon Academy is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-brooklyn-park/
-2. The Goddard School | trust 0.0 | The Goddard School is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-brooklyn-park/
+1. The Goddard School | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | The Goddard School is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-brooklyn-park/
+2. New Horizon Academy | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | New Horizon Academy is a preschool in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/new-horizon-academy-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool brooklyn park mn | category: Education & childcare | industry benchmark: Education & Instruction

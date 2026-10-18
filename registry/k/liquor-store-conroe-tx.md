@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Conroe, TX is H&S Liquor (a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033). 5 liquor store businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Conroe, TX is H&S Liquor (a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033). 5 liquor store businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Conroe, TX?
 
 Also answers: liquor store in Conroe, TX; liquor store near me (Conroe, TX); best liquor store Conroe, TX; top rated liquor store Conroe, TX; affordable liquor store Conroe, TX; emergency liquor store Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&S Liquor | trust 14.0 | H&S Liquor is a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033. | https://dingalinged-cpu.github.io/registry/c/h-and-s-liquor-conroe/
-2. South Loop Spirits | trust 4.0 | South Loop Spirits is a liquor store in Conroe, TX at 224 South Loop 336 West #E, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/south-loop-spirits-conroe/
-3. Spec's | trust 4.0 | Spec's is a liquor store in Conroe, TX at 1420 North Loop 336 West #100, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/specs-conroe/
-4. Zipps Liquor | trust 4.0 | Zipps Liquor is a liquor store in Conroe, TX at 11343 State Highway 105 East #B, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-conroe/
-5. Spec's | trust 3.0 | Spec's is a liquor store in Conroe, TX at 1304 West Davis Street #F, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/specs-conroe-n12055131339/
+1. H&S Liquor | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | H&S Liquor is a liquor store in Conroe, TX at 1900 North Frazier Street #A, Conroe, TX 77301. Phone: +19367567033. | https://dingalinged-cpu.github.io/registry/c/h-and-s-liquor-conroe/
+2. South Loop Spirits | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | South Loop Spirits is a liquor store in Conroe, TX at 224 South Loop 336 West #E, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/south-loop-spirits-conroe/
+3. Spec's | Organic #3 | Pulse Score 47.8/100 (Building, #3 in city) | Spec's is a liquor store in Conroe, TX at 1304 West Davis Street #F, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/specs-conroe-n12055131339/
+4. Zipps Liquor | Organic #4 | Pulse Score 47/100 (Unrated, #4 in city) | Zipps Liquor is a liquor store in Conroe, TX at 11343 State Highway 105 East #B, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-conroe/
+5. Spec's | Organic #5 | Pulse Score 46.7/100 (Building, #5 in city) | Spec's is a liquor store in Conroe, TX at 1420 North Loop 336 West #100, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/specs-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

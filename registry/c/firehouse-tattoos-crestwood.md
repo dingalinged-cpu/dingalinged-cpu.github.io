@@ -13,7 +13,7 @@ Firehouse Tattoos is a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, 
 - Website: https://www.firehousetattoos.com/
 - Email: firetat2@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Sa 12:00-19:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65/100 — Good — top 3% of tattoo shops in Chicago, #1 of 2 tattoo shops in Crestwood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

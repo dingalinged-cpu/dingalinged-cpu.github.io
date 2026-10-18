@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Stoughton, WI is Lindsay Gallagher and Associates Real Estate (a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/). 2 real estate agent businesses are listed for Stoughton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Stoughton, WI is Lindsay Gallagher and Associates Real Estate (a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/). 2 real estate agent businesses are listed for Stoughton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Stoughton, WI?
 
 Also answers: real estate agent in Stoughton, WI; real estate agent near me (Stoughton, WI); best real estate agent Stoughton, WI; top rated real estate agent Stoughton, WI; affordable real estate agent Stoughton, WI; emergency real estate agent Stoughton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lindsay Gallagher and Associates Real Estate | trust 16.0 | Lindsay Gallagher and Associates Real Estate is a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/. | https://dingalinged-cpu.github.io/registry/c/lindsay-gallagher-and-associates-real-estate-stoughton/
-2. Our House Realty | trust 4.0 | Our House Realty is a real estate agency in Stoughton, WI at 343 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/our-house-realty-stoughton/
+1. Lindsay Gallagher and Associates Real Estate | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Lindsay Gallagher and Associates Real Estate is a real estate agency in Stoughton, WI at 2420 US Highway 51, Stoughton, WI 53589. Phone: +16088739239. Website: https://www.lindsaygallagher.com/. | https://dingalinged-cpu.github.io/registry/c/lindsay-gallagher-and-associates-real-estate-stoughton/
+2. Our House Realty | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Our House Realty is a real estate agency in Stoughton, WI at 343 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/our-house-realty-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent stoughton wi | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Frisco, TX is Henry & Peters (an accountant in Frisco, TX). 1 accountant businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Frisco, TX is Henry & Peters (an accountant in Frisco, TX). 1 accountant businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Frisco, TX?
 
 Also answers: accountant in Frisco, TX; accountant near me (Frisco, TX); best accountant Frisco, TX; top rated accountant Frisco, TX; affordable accountant Frisco, TX; emergency accountant Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Henry & Peters | trust 0.0 | Henry & Peters is an accountant in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/henry-and-peters-frisco/
+1. Henry & Peters | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Henry & Peters is an accountant in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/henry-and-peters-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant frisco tx | category: professional_accounting | industry benchmark: Business Services

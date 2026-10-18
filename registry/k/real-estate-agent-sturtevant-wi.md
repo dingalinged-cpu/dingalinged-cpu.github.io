@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Sturtevant, WI is First Weber (a real estate agency in Sturtevant, WI). 1 real estate agent businesses are listed for Sturtevant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Sturtevant, WI is First Weber (a real estate agency in Sturtevant, WI). 1 real estate agent businesses are listed for Sturtevant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Sturtevant, WI?
 
 Also answers: real estate agent in Sturtevant, WI; real estate agent near me (Sturtevant, WI); best real estate agent Sturtevant, WI; top rated real estate agent Sturtevant, WI; affordable real estate agent Sturtevant, WI; emergency real estate agent Sturtevant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Weber | trust 0.0 | First Weber is a real estate agency in Sturtevant, WI. | https://dingalinged-cpu.github.io/registry/c/first-weber-sturtevant/
+1. First Weber | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | First Weber is a real estate agency in Sturtevant, WI. | https://dingalinged-cpu.github.io/registry/c/first-weber-sturtevant/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent sturtevant wi | category: Professional & financial services | industry benchmark: Finance & Insurance

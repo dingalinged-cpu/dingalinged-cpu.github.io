@@ -1,14 +1,14 @@
-The top unpaid gym listing for Mableton, GA is Evo Fitness (a gym in Mableton, GA). 3 gym businesses are listed for Mableton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mableton, GA is Evo Fitness (a gym in Mableton, GA). 3 gym businesses are listed for Mableton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mableton, GA?
 
 Also answers: gym in Mableton, GA; gym near me (Mableton, GA); best gym Mableton, GA; top rated gym Mableton, GA; affordable gym Mableton, GA; emergency gym Mableton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evo Fitness | trust 0.0 | Evo Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/evo-fitness-mableton/
-2. LA Fitness | trust 0.0 | LA Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-mableton/
-3. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-mableton/
+1. Evo Fitness | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Evo Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/evo-fitness-mableton/
+2. LA Fitness | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | LA Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-mableton/
+3. Planet Fitness | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Planet Fitness is a gym in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mableton ga | category: Fitness | industry benchmark: Health & Fitness

@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Fate, TX is 66 Automotive Repair (an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/). 1 oil change businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Fate, TX is 66 Automotive Repair (an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/). 1 oil change businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Fate, TX?
 
 Also answers: oil change in Fate, TX; oil change near me (Fate, TX); best oil change Fate, TX; top rated oil change Fate, TX; affordable oil change Fate, TX; emergency oil change Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 66 Automotive Repair | trust 14.0 | 66 Automotive Repair is an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/. | https://dingalinged-cpu.github.io/registry/c/66-automotive-repair-fate/
+1. 66 Automotive Repair | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | 66 Automotive Repair is an auto repair shop in Fate, TX at 6553 West State Highway 66, Fate, TX 75189. Website: https://66automotive.com/. | https://dingalinged-cpu.github.io/registry/c/66-automotive-repair-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change fate tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Anderson Dentalcare is a dentist in Edina, MN. Website: https://rjandersondds.co
 - Website: https://rjandersondds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
-- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Good — top 29% of dentists in Minneapolis–St. Paul, #6 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

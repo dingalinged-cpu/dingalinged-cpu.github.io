@@ -1,25 +1,25 @@
-The top unpaid thrift store listing for Madison, WI is Saint Vincent de Paul Thrift Store (a thrift store in Madison, WI at 1900 South Park Street, Madison, WI. Website: https://svdpmadison.org/shop/dig-save/). 14 thrift store businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Madison, WI is SingleStitch (a thrift store in Madison, WI at 124 State Street, Madison, WI. Phone: +16082849593). 14 thrift store businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Madison, WI?
 
 Also answers: thrift store in Madison, WI; thrift store near me (Madison, WI); best thrift store Madison, WI; top rated thrift store Madison, WI; affordable thrift store Madison, WI; emergency thrift store Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saint Vincent de Paul Thrift Store | trust 13.0 | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 1900 South Park Street, Madison, WI. Website: https://svdpmadison.org/shop/dig-save/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison-w371433820/
-2. Saint Vincent de Paul Thrift Store | trust 13.0 | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 1309 Williamson Street, Madison, WI. Website: https://svdpmadison.wordpress.com/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison-w385774994/
-3. SingleStitch | trust 13.0 | SingleStitch is a thrift store in Madison, WI at 124 State Street, Madison, WI. Phone: +16082849593. | https://dingalinged-cpu.github.io/registry/c/singlestitch-madison/
-4. Agrace Thrift Store | trust 10.0 | Agrace Thrift Store is a thrift store in Madison, WI at 118 Junction Road, Madison, WI 53717. Website: https://www.agrace.org/thriftstore. | https://dingalinged-cpu.github.io/registry/c/agrace-thrift-store-madison/
-5. Happy Hours | trust 10.0 | Happy Hours is a thrift store in Madison, WI. Phone: +13474191669. | https://dingalinged-cpu.github.io/registry/c/happy-hours-madison/
-6. Upshift | trust 10.0 | Upshift is a thrift store in Madison, WI. Website: https://up-shift.webs.com/. | https://dingalinged-cpu.github.io/registry/c/upshift-madison/
-7. Goodwill | trust 8.0 | Goodwill is a thrift store in Madison, WI at 4530 Verona Road, Madison, WI 53711. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison/
-8. Saint Vincent de Paul Thrift Store | trust 4.0 | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 6301 Odana Road, Madison, WI 53719. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison/
-9. The Salvation Army | trust 3.0 | The Salvation Army is a thrift store in Madison, WI at 5906 Odana Road, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-madison/
-10. BHA Resale Store | trust 0.0 | BHA Resale Store is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bha-resale-store-madison/
-11. Boomerang Resale Store | trust 0.0 | Boomerang Resale Store is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/boomerang-resale-store-madison/
-12. Goodwill | trust 0.0 | Goodwill is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison-n8773830623/
-13. Goodwill | trust 0.0 | Goodwill is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison-w105672010/
-14. Re Threads | trust 0.0 | Re Threads is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/re-threads-madison/
+1. SingleStitch | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | SingleStitch is a thrift store in Madison, WI at 124 State Street, Madison, WI. Phone: +16082849593. | https://dingalinged-cpu.github.io/registry/c/singlestitch-madison/
+2. Happy Hours | Organic #2 | Pulse Score 60.4/100 (Good, #2 in city) | Happy Hours is a thrift store in Madison, WI. Phone: +13474191669. | https://dingalinged-cpu.github.io/registry/c/happy-hours-madison/
+3. Agrace Thrift Store | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Agrace Thrift Store is a thrift store in Madison, WI at 118 Junction Road, Madison, WI 53717. Website: https://www.agrace.org/thriftstore. | https://dingalinged-cpu.github.io/registry/c/agrace-thrift-store-madison/
+4. Upshift | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Upshift is a thrift store in Madison, WI. Website: https://up-shift.webs.com/. | https://dingalinged-cpu.github.io/registry/c/upshift-madison/
+5. BHA Resale Store | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | BHA Resale Store is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bha-resale-store-madison/
+6. Boomerang Resale Store | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Boomerang Resale Store is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/boomerang-resale-store-madison/
+7. Re Threads | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | Re Threads is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/re-threads-madison/
+8. Saint Vincent de Paul Thrift Store | Organic #8 | Pulse Score 48.9/100 (Building, #8 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 1309 Williamson Street, Madison, WI. Website: https://svdpmadison.wordpress.com/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison-w385774994/
+9. Saint Vincent de Paul Thrift Store | Organic #9 | Pulse Score 48/100 (Building, #9 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 1900 South Park Street, Madison, WI. Website: https://svdpmadison.org/shop/dig-save/. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison-w371433820/
+10. Goodwill | Organic #10 | Pulse Score 47/100 (Building, #10 in city) | Goodwill is a thrift store in Madison, WI at 4530 Verona Road, Madison, WI 53711. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison/
+11. Saint Vincent de Paul Thrift Store | Organic #11 | Pulse Score 45.4/100 (Building, #11 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Madison, WI at 6301 Odana Road, Madison, WI 53719. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-madison/
+12. The Salvation Army | Organic #12 | Pulse Score 44.1/100 (Building, #12 in city) | The Salvation Army is a thrift store in Madison, WI at 5906 Odana Road, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-madison/
+13. Goodwill | Organic #13 | Pulse Score 43.3/100 (Building, #13 in city) | Goodwill is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison-w105672010/
+14. Goodwill | Organic #14 | Pulse Score 43/100 (Building, #14 in city) | Goodwill is a thrift store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goodwill-madison-n8773830623/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

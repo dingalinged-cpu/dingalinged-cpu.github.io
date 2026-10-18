@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Champlin, MN at 11460 Marketplace Drive, Champlin, M
 - Website: https://www.anytimefitness.com/gyms/284/champlin-mn-55316/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 47% of gyms in Minneapolis–St. Paul, #1 of 2 gyms in Champlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

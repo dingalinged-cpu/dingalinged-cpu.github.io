@@ -1,17 +1,17 @@
-The top unpaid haircut listing for Vernon Hills, IL is Salon G (a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/). 6 haircut businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Vernon Hills, IL is Salon G (a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/). 6 haircut businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Vernon Hills, IL?
 
 Also answers: haircut in Vernon Hills, IL; haircut near me (Vernon Hills, IL); best haircut Vernon Hills, IL; top rated haircut Vernon Hills, IL; affordable haircut Vernon Hills, IL; emergency haircut Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon G | trust 16.0 | Salon G is a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/. | https://dingalinged-cpu.github.io/registry/c/salon-g-vernon-hills/
-2. Sam Martirano Salon & Spa | trust 12.0 | Sam Martirano Salon & Spa is a hair salon in Vernon Hills, IL. Phone: +18474786100. Website: https://www.smsalonandspa.com/. | https://dingalinged-cpu.github.io/registry/c/sam-martirano-salon-and-spa-vernon-hills/
-3. ANDREAS HOGUE SALON | trust 10.0 | ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee Avenue #650, Vernon Hills, IL 60061. Website: https://andreashogue.com/. | https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/
-4. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Vernon Hills, IL at 701 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18476800525. | https://dingalinged-cpu.github.io/registry/c/sport-clips-vernon-hills/
-5. Blo Blow Dry Bar | trust 0.0 | Blo Blow Dry Bar is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-vernon-hills/
-6. Floyd's 99 Barbershop | trust 0.0 | Floyd's 99 Barbershop is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-vernon-hills/
+1. Salon G | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Salon G is a hair salon in Vernon Hills, IL at 275 Evergreen Drive, Vernon Hills, IL 60061. Phone: +18475491940. Website: https://www.salonghair.net/. | https://dingalinged-cpu.github.io/registry/c/salon-g-vernon-hills/
+2. Sam Martirano Salon & Spa | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Sam Martirano Salon & Spa is a hair salon in Vernon Hills, IL. Phone: +18474786100. Website: https://www.smsalonandspa.com/. | https://dingalinged-cpu.github.io/registry/c/sam-martirano-salon-and-spa-vernon-hills/
+3. ANDREAS HOGUE SALON | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | ANDREAS HOGUE SALON is a hair salon in Vernon Hills, IL at 901 North Milwaukee Avenue #650, Vernon Hills, IL 60061. Website: https://andreashogue.com/. | https://dingalinged-cpu.github.io/registry/c/andreas-hogue-salon-vernon-hills/
+4. Sport Clips | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | Sport Clips is a hair salon in Vernon Hills, IL at 701 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18476800525. | https://dingalinged-cpu.github.io/registry/c/sport-clips-vernon-hills/
+5. Floyd's 99 Barbershop | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Floyd's 99 Barbershop is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-vernon-hills/
+6. Blo Blow Dry Bar | Organic #6 | Pulse Score 41.9/100 (Unrated, #6 in city) | Blo Blow Dry Bar is a hair salon in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut vernon hills il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

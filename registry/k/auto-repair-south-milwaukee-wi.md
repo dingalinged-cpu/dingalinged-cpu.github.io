@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for South Milwaukee, WI is Tony G's Grand Park Garage (an auto repair shop in South Milwaukee, WI at 1523 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147629120. Website: https://www.tonygsgrantparkgarage.com/). 1 auto repair businesses are listed for South Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for South Milwaukee, WI is Tony G's Grand Park Garage (an auto repair shop in South Milwaukee, WI at 1523 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147629120. Website: https://www.tonygsgrantparkgarage.com/). 1 auto repair businesses are listed for South Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in South Milwaukee, WI?
 
 Also answers: auto repair in South Milwaukee, WI; auto repair near me (South Milwaukee, WI); best auto repair South Milwaukee, WI; top rated auto repair South Milwaukee, WI; affordable auto repair South Milwaukee, WI; emergency auto repair South Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tony G's Grand Park Garage | trust 20.0 | Tony G's Grand Park Garage is an auto repair shop in South Milwaukee, WI at 1523 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147629120. Website: https://www.tonygsgrantparkgarage.com/. | https://dingalinged-cpu.github.io/registry/c/tony-gs-grand-park-garage-south-milwaukee/
+1. Tony G's Grand Park Garage | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Tony G's Grand Park Garage is an auto repair shop in South Milwaukee, WI at 1523 North Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147629120. Website: https://www.tonygsgrantparkgarage.com/. | https://dingalinged-cpu.github.io/registry/c/tony-gs-grand-park-garage-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair south milwaukee wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

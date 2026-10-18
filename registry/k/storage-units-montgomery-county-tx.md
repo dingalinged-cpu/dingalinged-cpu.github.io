@@ -1,17 +1,17 @@
-The top unpaid storage units listing for Montgomery County, TX is Bear Branch Boat & RV Storage (a self-storage facility in Montgomery County, TX). 6 storage units businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Montgomery County, TX is Bear Branch Boat & RV Storage (a self-storage facility in Montgomery County, TX). 6 storage units businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Montgomery County, TX?
 
 Also answers: storage units in Montgomery County, TX; storage units near me (Montgomery County, TX); best storage units Montgomery County, TX; top rated storage units Montgomery County, TX; affordable storage units Montgomery County, TX; emergency storage units Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bear Branch Boat & RV Storage | trust 0.0 | Bear Branch Boat & RV Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/bear-branch-boat-and-rv-storage-montgomery-county/
-2. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-montgomery-county/
-3. Fish Creek Storage | trust 0.0 | Fish Creek Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/fish-creek-storage-montgomery-county/
-4. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-montgomery-county/
-5. Stallion Storage | trust 0.0 | Stallion Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/stallion-storage-montgomery-county/
-6. Vision Private Storage | trust 0.0 | Vision Private Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-private-storage-montgomery-county/
+1. Bear Branch Boat & RV Storage | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Bear Branch Boat & RV Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/bear-branch-boat-and-rv-storage-montgomery-county/
+2. Fish Creek Storage | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Fish Creek Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/fish-creek-storage-montgomery-county/
+3. Stallion Storage | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Stallion Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/stallion-storage-montgomery-county/
+4. Vision Private Storage | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Vision Private Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-private-storage-montgomery-county/
+5. Extra Space Storage | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Extra Space Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-montgomery-county/
+6. Public Storage | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | Public Storage is a self-storage facility in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units montgomery county tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

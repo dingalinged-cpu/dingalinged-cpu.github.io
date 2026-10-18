@@ -13,7 +13,7 @@ The UPS Store is a printing service in DeKalb County, GA at 2566 Shallowford Roa
 - Website: https://locations.theupsstore.com/ga/atlanta/2566-shallowford-rd
 - Email: store4261@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 10:00-15:30; Su 11:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 30% of printing services in Atlanta, #1 of 4 printing services in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

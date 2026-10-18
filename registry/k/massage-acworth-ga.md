@@ -1,13 +1,13 @@
-The top unpaid massage listing for Acworth, GA is Pearl's Spa (a massage studio in Acworth, GA at 4827 South Main Street, Acworth, GA 30101. Website: https://www.pearlsspa.org/). 2 massage businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Acworth, GA is Pearl's Spa (a massage studio in Acworth, GA at 4827 South Main Street, Acworth, GA 30101. Website: https://www.pearlsspa.org/). 2 massage businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Acworth, GA?
 
 Also answers: massage in Acworth, GA; massage near me (Acworth, GA); best massage Acworth, GA; top rated massage Acworth, GA; affordable massage Acworth, GA; emergency massage Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pearl's Spa | trust 10.0 | Pearl's Spa is a massage studio in Acworth, GA at 4827 South Main Street, Acworth, GA 30101. Website: https://www.pearlsspa.org/. | https://dingalinged-cpu.github.io/registry/c/pearls-spa-acworth/
-2. Asian Massage | trust 0.0 | Asian Massage is a massage studio in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/asian-massage-acworth/
+1. Pearl's Spa | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Pearl's Spa is a massage studio in Acworth, GA at 4827 South Main Street, Acworth, GA 30101. Website: https://www.pearlsspa.org/. | https://dingalinged-cpu.github.io/registry/c/pearls-spa-acworth/
+2. Asian Massage | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Asian Massage is a massage studio in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/asian-massage-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage acworth ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

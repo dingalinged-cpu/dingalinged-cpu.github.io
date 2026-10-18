@@ -1,13 +1,13 @@
-The top unpaid vet listing for Farmersville, TX is Farmersville Veterinary Clinic (a veterinarian in Farmersville, TX at 610 North State Highway 78, Farmersville, TX 75442. Website: https://farmersvilleveterinaryclinic.com/). 2 vet businesses are listed for Farmersville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Farmersville, TX is All Heart Veterinary Center (a veterinarian in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442). 2 vet businesses are listed for Farmersville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Farmersville, TX?
 
 Also answers: vet in Farmersville, TX; vet near me (Farmersville, TX); best vet Farmersville, TX; top rated vet Farmersville, TX; affordable vet Farmersville, TX; emergency vet Farmersville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmersville Veterinary Clinic | trust 10.0 | Farmersville Veterinary Clinic is a veterinarian in Farmersville, TX at 610 North State Highway 78, Farmersville, TX 75442. Website: https://farmersvilleveterinaryclinic.com/. | https://dingalinged-cpu.github.io/registry/c/farmersville-veterinary-clinic-farmersville/
-2. All Heart Veterinary Center | trust 4.0 | All Heart Veterinary Center is a veterinarian in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. | https://dingalinged-cpu.github.io/registry/c/all-heart-veterinary-center-farmersville/
+1. All Heart Veterinary Center | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | All Heart Veterinary Center is a veterinarian in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. | https://dingalinged-cpu.github.io/registry/c/all-heart-veterinary-center-farmersville/
+2. Farmersville Veterinary Clinic | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Farmersville Veterinary Clinic is a veterinarian in Farmersville, TX at 610 North State Highway 78, Farmersville, TX 75442. Website: https://farmersvilleveterinaryclinic.com/. | https://dingalinged-cpu.github.io/registry/c/farmersville-veterinary-clinic-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet farmersville tx | category: Pets | industry benchmark: Animals & Pets

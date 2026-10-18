@@ -13,7 +13,7 @@ ITBS is a tax preparation service in Chicago, IL at 1627 North Western Avenue, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-14:30
-- Registry Score: 58.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 8% of tax preparation services in Chicago, #7 of 87 tax preparation services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

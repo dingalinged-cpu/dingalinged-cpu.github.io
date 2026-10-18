@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Deerfield, IL is Law Offices of Michael Freeman LTD (a lawyer in Deerfield, IL at 1020 North Milwaukee Avenue #305, Deerfield, IL 60015. Phone: +18474593894. Website: https://michaelfreemanlawfirm.com/). 1 attorney businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Deerfield, IL is Law Offices of Michael Freeman LTD (a lawyer in Deerfield, IL at 1020 North Milwaukee Avenue #305, Deerfield, IL 60015. Phone: +18474593894. Website: https://michaelfreemanlawfirm.com/). 1 attorney businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Deerfield, IL?
 
 Also answers: attorney in Deerfield, IL; attorney near me (Deerfield, IL); best attorney Deerfield, IL; top rated attorney Deerfield, IL; affordable attorney Deerfield, IL; emergency attorney Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Offices of Michael Freeman LTD | trust 20.0 | Law Offices of Michael Freeman LTD is a lawyer in Deerfield, IL at 1020 North Milwaukee Avenue #305, Deerfield, IL 60015. Phone: +18474593894. Website: https://michaelfreemanlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-michael-freeman-ltd-deerfield/
+1. Law Offices of Michael Freeman LTD | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Law Offices of Michael Freeman LTD is a lawyer in Deerfield, IL at 1020 North Milwaukee Avenue #305, Deerfield, IL 60015. Phone: +18474593894. Website: https://michaelfreemanlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-michael-freeman-ltd-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney deerfield il | category: professional_legal | industry benchmark: Attorneys & Legal Services

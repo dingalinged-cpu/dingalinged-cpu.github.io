@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Chicago, IL at 3627 North Western Avenue, Ch
 - Website: https://www.myeyedr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 94% of eye care practices in Chicago, #25 of 29 eye care practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

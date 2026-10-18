@@ -13,7 +13,7 @@ Movement Design District is a yoga studio in Dallas, TX at 141 Glass Street, Dal
 - Website: https://movementgyms.com/design-district/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-23:00; Sa 08:00-20:00; Su 08:00-18:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of yoga studios in Dallas–Fort Worth, #1 of 11 yoga studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

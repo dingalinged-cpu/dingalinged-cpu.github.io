@@ -1,18 +1,18 @@
-The top unpaid mechanic listing for Fort Bend County, TX is Brake Check (an auto repair shop in Fort Bend County, TX at 10209 Highway 6 South, Fort Bend County, TX 77498). 7 mechanic businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Fort Bend County, TX is Texan Auto (an auto repair shop in Fort Bend County, TX at 10011 S Texas 6, Fort Bend County, TX 77498). 7 mechanic businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Fort Bend County, TX?
 
 Also answers: mechanic in Fort Bend County, TX; mechanic near me (Fort Bend County, TX); best mechanic Fort Bend County, TX; top rated mechanic Fort Bend County, TX; affordable mechanic Fort Bend County, TX; emergency mechanic Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brake Check | trust 8.0 | Brake Check is an auto repair shop in Fort Bend County, TX at 10209 Highway 6 South, Fort Bend County, TX 77498. | https://dingalinged-cpu.github.io/registry/c/brake-check-fort-bend-county/
-2. Texan Auto | trust 4.0 | Texan Auto is an auto repair shop in Fort Bend County, TX at 10011 S Texas 6, Fort Bend County, TX 77498. | https://dingalinged-cpu.github.io/registry/c/texan-auto-fort-bend-county/
-3. Auto Solutions | trust 0.0 | Auto Solutions is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/auto-solutions-fort-bend-county/
-4. Driver's Auto Repair | trust 0.0 | Driver's Auto Repair is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/drivers-auto-repair-fort-bend-county/
-5. Louetta Automotive | trust 0.0 | Louetta Automotive is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/louetta-automotive-fort-bend-county/
-6. MAACO | trust 0.0 | MAACO is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/maaco-fort-bend-county/
-7. Xpress Lube & Auto Repair | trust 0.0 | Xpress Lube & Auto Repair is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/xpress-lube-and-auto-repair-fort-bend-county/
+1. Texan Auto | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Texan Auto is an auto repair shop in Fort Bend County, TX at 10011 S Texas 6, Fort Bend County, TX 77498. | https://dingalinged-cpu.github.io/registry/c/texan-auto-fort-bend-county/
+2. Auto Solutions | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Auto Solutions is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/auto-solutions-fort-bend-county/
+3. Driver's Auto Repair | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Driver's Auto Repair is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/drivers-auto-repair-fort-bend-county/
+4. Louetta Automotive | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Louetta Automotive is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/louetta-automotive-fort-bend-county/
+5. Xpress Lube & Auto Repair | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Xpress Lube & Auto Repair is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/xpress-lube-and-auto-repair-fort-bend-county/
+6. Brake Check | Organic #6 | Pulse Score 47.8/100 (Unrated, #6 in city) | Brake Check is an auto repair shop in Fort Bend County, TX at 10209 Highway 6 South, Fort Bend County, TX 77498. | https://dingalinged-cpu.github.io/registry/c/brake-check-fort-bend-county/
+7. MAACO | Organic #7 | Pulse Score 43/100 (Building, #7 in city) | MAACO is an auto repair shop in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/maaco-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic fort bend county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

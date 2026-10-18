@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Fayetteville, GA is Express Oil Change & Tire Engineers (a tire shop in Fayetteville, GA at 122 Ramah Road, Fayetteville, GA 30214. Phone: +16788176390. Website: https://www.expressoil.com/stores/fayetteville/ga/1548/). 2 tire shop businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Fayetteville, GA is Express Oil Change & Tire Engineers (a tire shop in Fayetteville, GA at 122 Ramah Road, Fayetteville, GA 30214. Phone: +16788176390. Website: https://www.expressoil.com/stores/fayetteville/ga/1548/). 2 tire shop businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Fayetteville, GA?
 
 Also answers: tire shop in Fayetteville, GA; tire shop near me (Fayetteville, GA); best tire shop Fayetteville, GA; top rated tire shop Fayetteville, GA; affordable tire shop Fayetteville, GA; emergency tire shop Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Fayetteville, GA at 122 Ramah Road, Fayetteville, GA 30214. Phone: +16788176390. Website: https://www.expressoil.com/stores/fayetteville/ga/1548/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-fayetteville/
-2. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/discount-tire-fayetteville/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Fayetteville, GA at 122 Ramah Road, Fayetteville, GA 30214. Phone: +16788176390. Website: https://www.expressoil.com/stores/fayetteville/ga/1548/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-fayetteville/
+2. Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/discount-tire-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop fayetteville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

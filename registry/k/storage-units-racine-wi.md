@@ -1,16 +1,16 @@
-The top unpaid storage units listing for Racine, WI is Melvin Avenue Storage (a self-storage facility in Racine, WI at 1616 Melvin Avenue, Racine, WI). 5 storage units businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Racine, WI is North Beach Storage (a self-storage facility in Racine, WI at 212 Hamilton Street, Racine, WI). 5 storage units businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Racine, WI?
 
 Also answers: storage units in Racine, WI; storage units near me (Racine, WI); best storage units Racine, WI; top rated storage units Racine, WI; affordable storage units Racine, WI; emergency storage units Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Melvin Avenue Storage | trust 3.0 | Melvin Avenue Storage is a self-storage facility in Racine, WI at 1616 Melvin Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/melvin-avenue-storage-racine/
-2. North Beach Storage | trust 3.0 | North Beach Storage is a self-storage facility in Racine, WI at 212 Hamilton Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/north-beach-storage-racine/
-3. Stor-All | trust 3.0 | Stor-All is a self-storage facility in Racine, WI at 1720 Melvin Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/stor-all-racine/
-4. Team Storage | trust 3.0 | Team Storage is a self-storage facility in Racine, WI at 1740 Flett Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/team-storage-racine/
-5. The Stow-Away | trust 3.0 | The Stow-Away is a self-storage facility in Racine, WI at 1744 Grange Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-stow-away-racine/
+1. North Beach Storage | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | North Beach Storage is a self-storage facility in Racine, WI at 212 Hamilton Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/north-beach-storage-racine/
+2. Melvin Avenue Storage | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Melvin Avenue Storage is a self-storage facility in Racine, WI at 1616 Melvin Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/melvin-avenue-storage-racine/
+3. Stor-All | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Stor-All is a self-storage facility in Racine, WI at 1720 Melvin Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/stor-all-racine/
+4. Team Storage | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Team Storage is a self-storage facility in Racine, WI at 1740 Flett Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/team-storage-racine/
+5. The Stow-Away | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | The Stow-Away is a self-storage facility in Racine, WI at 1744 Grange Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-stow-away-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units racine wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

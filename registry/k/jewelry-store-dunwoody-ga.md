@@ -1,21 +1,21 @@
-The top unpaid jewelry store listing for Dunwoody, GA is James Avery Jewelry (a jewelry store in Atlanta, GA at 4500 Ashford Dunwoody Road Northeast, Atlanta, GA 30346. Phone: +16783209140. Website: https://www.jamesavery.com/custserv/store_details.jsp). 10 jewelry store businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Dunwoody, GA is Crescent Jewelers (a jewelry store in Dunwoody, GA). 10 jewelry store businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Dunwoody, GA?
 
 Also answers: jewelry store in Dunwoody, GA; jewelry store near me (Dunwoody, GA); best jewelry store Dunwoody, GA; top rated jewelry store Dunwoody, GA; affordable jewelry store Dunwoody, GA; emergency jewelry store Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Atlanta, GA at 4500 Ashford Dunwoody Road Northeast, Atlanta, GA 30346. Phone: +16783209140. Website: https://www.jamesavery.com/custserv/store_details.jsp. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-atlanta/
-2. Crescent Jewelers | trust 0.0 | Crescent Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/crescent-jewelers-dunwoody/
-3. Fast-Fix | trust 0.0 | Fast-Fix is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/fast-fix-dunwoody/
-4. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-dunwoody/
-5. Kendra Scott | trust 0.0 | Kendra Scott is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-dunwoody/
-6. Lovisa | trust 0.0 | Lovisa is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/lovisa-dunwoody/
-7. Pandora | trust 0.0 | Pandora is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/pandora-dunwoody/
-8. Paramount Jewelers | trust 0.0 | Paramount Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/paramount-jewelers-dunwoody/
-9. Swarovski | trust 0.0 | Swarovski is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/swarovski-dunwoody/
-10. Zales Jewelers | trust 0.0 | Zales Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/zales-jewelers-dunwoody/
+1. Crescent Jewelers | Organic #1 | Pulse Score 58.9/100 (Fair, #1 in city) | Crescent Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/crescent-jewelers-dunwoody/
+2. Zales Jewelers | Organic #2 | Pulse Score 58.9/100 (Fair, #2 in city) | Zales Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/zales-jewelers-dunwoody/
+3. James Avery Jewelry | Organic #3 | Pulse Score 48.6/100 (Building, #5 in city) | James Avery Jewelry is a jewelry store in Atlanta, GA at 4500 Ashford Dunwoody Road Northeast, Atlanta, GA 30346. Phone: +16783209140. Website: https://www.jamesavery.com/custserv/store_details.jsp. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-atlanta/
+4. Kay Jewelers | Organic #4 | Pulse Score 46.6/100 (Building, #3 in city) | Kay Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-dunwoody/
+5. Fast-Fix | Organic #5 | Pulse Score 46.4/100 (Building, #4 in city) | Fast-Fix is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/fast-fix-dunwoody/
+6. Kendra Scott | Organic #6 | Pulse Score 46.1/100 (Building, #5 in city) | Kendra Scott is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-dunwoody/
+7. Pandora | Organic #7 | Pulse Score 46.1/100 (Building, #6 in city) | Pandora is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/pandora-dunwoody/
+8. Paramount Jewelers | Organic #8 | Pulse Score 46.1/100 (Building, #7 in city) | Paramount Jewelers is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/paramount-jewelers-dunwoody/
+9. Swarovski | Organic #9 | Pulse Score 46.1/100 (Building, #8 in city) | Swarovski is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/swarovski-dunwoody/
+10. Lovisa | Organic #10 | Pulse Score 46.1/100 (Building, #9 in city) | Lovisa is a jewelry store in Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/lovisa-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store dunwoody ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

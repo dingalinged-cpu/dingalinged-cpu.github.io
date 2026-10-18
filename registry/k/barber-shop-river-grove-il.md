@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for River Grove, IL is Mario Novelli's Barber Salon (a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171). 1 barber shop businesses are listed for River Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for River Grove, IL is Mario Novelli's Barber Salon (a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171). 1 barber shop businesses are listed for River Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in River Grove, IL?
 
 Also answers: barber shop in River Grove, IL; barber shop near me (River Grove, IL); best barber shop River Grove, IL; top rated barber shop River Grove, IL; affordable barber shop River Grove, IL; emergency barber shop River Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mario Novelli's Barber Salon | trust 4.0 | Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
+1. Mario Novelli's Barber Salon | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop river grove il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,16 +1,16 @@
-The top unpaid it support listing for Plano, TX is Harmonic Consulting (an IT support company in Plano, TX at 101 East Park Boulevard #Suite 600, Plano, TX 75074. Phone: +18777842664. Website: https://harmonicconsulting.com/). 5 it support businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Plano, TX is Harmonic Consulting (an IT support company in Plano, TX at 101 East Park Boulevard #Suite 600, Plano, TX 75074. Phone: +18777842664. Website: https://harmonicconsulting.com/). 5 it support businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Plano, TX?
 
 Also answers: it support in Plano, TX; it support near me (Plano, TX); best it support Plano, TX; top rated it support Plano, TX; affordable it support Plano, TX; emergency it support Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harmonic Consulting | trust 20.0 | Harmonic Consulting is an IT support company in Plano, TX at 101 East Park Boulevard #Suite 600, Plano, TX 75074. Phone: +18777842664. Website: https://harmonicconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/harmonic-consulting-plano/
-2. Mindmajix Technologies INC | trust 20.0 | Mindmajix Technologies INC is an IT support company in Plano, TX at 4608 spalding, Plano, TX 75024. Phone: +19724273027. Website: https://mindmajix.com/. | https://dingalinged-cpu.github.io/registry/c/mindmajix-technologies-inc-plano/
-3. WCI Corporate Headquarters | trust 20.0 | WCI Corporate Headquarters is an IT support company in Plano, TX at 8105 Rasor Boulevard #Suite 243, Plano, TX 75024. Phone: +12142204712. Website: https://wciconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/wci-corporate-headquarters-plano/
-4. CarOffer LLC | trust 0.0 | CarOffer LLC is an IT support company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/caroffer-llc-plano/
-5. Tech Mahindra | trust 0.0 | Tech Mahindra is an IT support company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tech-mahindra-plano/
+1. Harmonic Consulting | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Harmonic Consulting is an IT support company in Plano, TX at 101 East Park Boulevard #Suite 600, Plano, TX 75074. Phone: +18777842664. Website: https://harmonicconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/harmonic-consulting-plano/
+2. Mindmajix Technologies INC | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Mindmajix Technologies INC is an IT support company in Plano, TX at 4608 spalding, Plano, TX 75024. Phone: +19724273027. Website: https://mindmajix.com/. | https://dingalinged-cpu.github.io/registry/c/mindmajix-technologies-inc-plano/
+3. WCI Corporate Headquarters | Organic #3 | Pulse Score 61.9/100 (Unrated, #3 in city) | WCI Corporate Headquarters is an IT support company in Plano, TX at 8105 Rasor Boulevard #Suite 243, Plano, TX 75024. Phone: +12142204712. Website: https://wciconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/wci-corporate-headquarters-plano/
+4. CarOffer LLC | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | CarOffer LLC is an IT support company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/caroffer-llc-plano/
+5. Tech Mahindra | Organic #5 | Pulse Score 41.5/100 (Building, #5 in city) | Tech Mahindra is an IT support company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tech-mahindra-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support plano tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

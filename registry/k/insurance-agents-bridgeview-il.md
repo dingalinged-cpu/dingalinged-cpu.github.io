@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Bridgeview, IL is Auto Dealers Insurance Group (an insurance agent in Bridgeview, IL at 7213 West 84th Street, Bridgeview, IL 60455. Phone: +18007703314. Website: https://autodealershipinsurance.com/). 2 insurance agents businesses are listed for Bridgeview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Bridgeview, IL is Auto Dealers Insurance Group (an insurance agent in Bridgeview, IL at 7213 West 84th Street, Bridgeview, IL 60455. Phone: +18007703314. Website: https://autodealershipinsurance.com/). 2 insurance agents businesses are listed for Bridgeview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Bridgeview, IL?
 
 Also answers: insurance agents in Bridgeview, IL; insurance agents near me (Bridgeview, IL); best insurance agents Bridgeview, IL; top rated insurance agents Bridgeview, IL; affordable insurance agents Bridgeview, IL; emergency insurance agents Bridgeview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Dealers Insurance Group | trust 20.0 | Auto Dealers Insurance Group is an insurance agent in Bridgeview, IL at 7213 West 84th Street, Bridgeview, IL 60455. Phone: +18007703314. Website: https://autodealershipinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/auto-dealers-insurance-group-bridgeview/
-2. Insurance Navy Brokers | trust 20.0 | Insurance Navy Brokers is an insurance agent in Bridgeview, IL at 8258 Harlem Avenue, Bridgeview, IL 60455. Phone: +17083381111. Website: https://www.insurancenavy.com/locations/il/bridgeview/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-bridgeview/
+1. Auto Dealers Insurance Group | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Auto Dealers Insurance Group is an insurance agent in Bridgeview, IL at 7213 West 84th Street, Bridgeview, IL 60455. Phone: +18007703314. Website: https://autodealershipinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/auto-dealers-insurance-group-bridgeview/
+2. Insurance Navy Brokers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Insurance Navy Brokers is an insurance agent in Bridgeview, IL at 8258 Harlem Avenue, Bridgeview, IL 60455. Phone: +17083381111. Website: https://www.insurancenavy.com/locations/il/bridgeview/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-bridgeview/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents bridgeview il | category: insurance | industry benchmark: Finance & Insurance

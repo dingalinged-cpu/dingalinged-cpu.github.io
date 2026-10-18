@@ -13,7 +13,7 @@ Sunshine House is a daycare in Lilburn, GA at 970 Oak Road, Lilburn, GA 30047. P
 - Website: https://sunshinehouse.com/center/sunshine-house-lilburn/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of daycares in Atlanta, #1 of 3 daycares in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

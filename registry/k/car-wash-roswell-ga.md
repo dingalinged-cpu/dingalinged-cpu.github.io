@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Roswell, GA is Car Spa (a car wash in Roswell, GA at 10440 Alpharetta Street, Roswell, GA 30075). 5 car wash businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Roswell, GA is Mr Clean's Car Wash (a car wash in Alpharetta, GA at 2925 Holcomb Bridge Road, Alpharetta, GA 30022). 5 car wash businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Roswell, GA?
 
 Also answers: car wash in Roswell, GA; car wash near me (Roswell, GA); best car wash Roswell, GA; top rated car wash Roswell, GA; affordable car wash Roswell, GA; emergency car wash Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Car Spa | trust 4.0 | Car Spa is a car wash in Roswell, GA at 10440 Alpharetta Street, Roswell, GA 30075. | https://dingalinged-cpu.github.io/registry/c/car-spa-roswell/
-2. Mr Clean's Car Wash | trust 4.0 | Mr Clean's Car Wash is a car wash in Alpharetta, GA at 2925 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/mr-cleans-car-wash-alpharetta/
-3. Tidal Wave Auto Spa | trust 4.0 | Tidal Wave Auto Spa is a car wash in Roswell, GA at 1564 Holcomb Bridge Road, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-roswell/
-4. Shell | trust 0.0 | Shell is a car wash in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/shell-roswell/
-5. Shell | trust 0.0 | Shell is a car wash in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/shell-roswell-w1041567680/
+1. Mr Clean's Car Wash | Organic #1 | Pulse Score 46.1/100 (Building, #2 in city) | Mr Clean's Car Wash is a car wash in Alpharetta, GA at 2925 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/mr-cleans-car-wash-alpharetta/
+2. Car Spa | Organic #2 | Pulse Score 45.1/100 (Unrated, #1 in city) | Car Spa is a car wash in Roswell, GA at 10440 Alpharetta Street, Roswell, GA 30075. | https://dingalinged-cpu.github.io/registry/c/car-spa-roswell/
+3. Tidal Wave Auto Spa | Organic #3 | Pulse Score 45.1/100 (Unrated, #2 in city) | Tidal Wave Auto Spa is a car wash in Roswell, GA at 1564 Holcomb Bridge Road, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-roswell/
+4. Shell | Organic #4 | Pulse Score 42.5/100 (Building, #3 in city) | Shell is a car wash in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/shell-roswell/
+5. Shell | Organic #5 | Pulse Score 42.5/100 (Building, #4 in city) | Shell is a car wash in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/shell-roswell-w1041567680/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash roswell ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

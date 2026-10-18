@@ -13,7 +13,7 @@ Master Craft Cleaners is a dry cleaner in Des Plaines, IL at 1175 South Elmhurst
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 40% of dry cleaners in Chicago, #1 of 5 dry cleaners in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.2, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

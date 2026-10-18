@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Union Grove, WI is Sheltons Heating & AC (a HVAC contractor in Union Grove, WI). 2 heating and air businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Union Grove, WI is Sheltons Heating & AC (a HVAC contractor in Union Grove, WI). 2 heating and air businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Union Grove, WI?
 
 Also answers: heating and air in Union Grove, WI; heating and air near me (Union Grove, WI); best heating and air Union Grove, WI; top rated heating and air Union Grove, WI; affordable heating and air Union Grove, WI; emergency heating and air Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sheltons Heating & AC | trust 0.0 | Sheltons Heating & AC is a HVAC contractor in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/sheltons-heating-and-ac-union-grove/
-2. Square One Heating & Cooling | trust 0.0 | Square One Heating & Cooling is a HVAC contractor in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/square-one-heating-and-cooling-union-grove/
+1. Sheltons Heating & AC | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Sheltons Heating & AC is a HVAC contractor in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/sheltons-heating-and-ac-union-grove/
+2. Square One Heating & Cooling | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Square One Heating & Cooling is a HVAC contractor in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/square-one-heating-and-cooling-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air union grove wi | category: Home Services | industry benchmark: Home & Home Improvement

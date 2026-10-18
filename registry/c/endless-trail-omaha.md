@@ -1,0 +1,24 @@
+Endless Trail is a bike shop in Omaha, NE. Phone: +14024016462. Website: https://www.endlesstrailbikeshop.com/.
+
+# Endless Trail
+
+- Category: bike shop
+- Services: bike shop
+- Address: Omaha, NE
+- City: Omaha
+- State: NE
+- ZIP: n/a
+- Coordinates: 41.2459202, -95.9556524
+- Phone: +14024016462
+- Website: https://www.endlesstrailbikeshop.com/
+- Email: n/a
+- Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 48% of bike shops in Omaha, NE, #7 of 12 bike shops in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/endless-trail-omaha/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/endless-trail-omaha.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/7253157178 (license ODbL-1.0); source data as of 2026-07-15
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

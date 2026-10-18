@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for League City, TX is Pride Liquor & Wine (a liquor store in League City, TX at 2945 South Gulf Freeway #A, League City, TX). 2 liquor store businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for League City, TX is Pride Liquor & Wine (a liquor store in League City, TX at 2945 South Gulf Freeway #A, League City, TX). 2 liquor store businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in League City, TX?
 
 Also answers: liquor store in League City, TX; liquor store near me (League City, TX); best liquor store League City, TX; top rated liquor store League City, TX; affordable liquor store League City, TX; emergency liquor store League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pride Liquor & Wine | trust 3.0 | Pride Liquor & Wine is a liquor store in League City, TX at 2945 South Gulf Freeway #A, League City, TX. | https://dingalinged-cpu.github.io/registry/c/pride-liquor-and-wine-league-city/
-2. Reserve Wine & Spirits | trust 0.0 | Reserve Wine & Spirits is a liquor store in League City, TX. | https://dingalinged-cpu.github.io/registry/c/reserve-wine-and-spirits-league-city/
+1. Pride Liquor & Wine | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Pride Liquor & Wine is a liquor store in League City, TX at 2945 South Gulf Freeway #A, League City, TX. | https://dingalinged-cpu.github.io/registry/c/pride-liquor-and-wine-league-city/
+2. Reserve Wine & Spirits | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Reserve Wine & Spirits is a liquor store in League City, TX. | https://dingalinged-cpu.github.io/registry/c/reserve-wine-and-spirits-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store league city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

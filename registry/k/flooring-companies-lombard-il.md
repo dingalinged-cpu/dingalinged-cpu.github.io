@@ -1,13 +1,13 @@
-The top unpaid flooring companies listing for Lombard, IL is Lumber Liquidators (a flooring company in Lombard, IL at 543 East Roosevelt Road, Lombard, IL 60148). 2 flooring companies businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Lombard, IL is Century Tile (a flooring company in Lombard, IL). 2 flooring companies businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Lombard, IL?
 
 Also answers: flooring companies in Lombard, IL; flooring companies near me (Lombard, IL); best flooring companies Lombard, IL; top rated flooring companies Lombard, IL; affordable flooring companies Lombard, IL; emergency flooring companies Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lumber Liquidators | trust 4.0 | Lumber Liquidators is a flooring company in Lombard, IL at 543 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-lombard/
-2. Century Tile | trust 0.0 | Century Tile is a flooring company in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/century-tile-lombard/
+1. Century Tile | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Century Tile is a flooring company in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/century-tile-lombard/
+2. Lumber Liquidators | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Lumber Liquidators is a flooring company in Lombard, IL at 543 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lombard il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

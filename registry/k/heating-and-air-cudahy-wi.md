@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Cudahy, WI is Affordable Heating & Air Conditioning (a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/). 1 heating and air businesses are listed for Cudahy, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Cudahy, WI is Affordable Heating & Air Conditioning (a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/). 1 heating and air businesses are listed for Cudahy, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Cudahy, WI?
 
 Also answers: heating and air in Cudahy, WI; heating and air near me (Cudahy, WI); best heating and air Cudahy, WI; top rated heating and air Cudahy, WI; affordable heating and air Cudahy, WI; emergency heating and air Cudahy, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Heating & Air Conditioning | trust 20.0 | Affordable Heating & Air Conditioning is a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/. | https://dingalinged-cpu.github.io/registry/c/affordable-heating-and-air-conditioning-cudahy/
+1. Affordable Heating & Air Conditioning | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Affordable Heating & Air Conditioning is a HVAC contractor in Cudahy, WI at 4630 South Kinnickinnic Avenue, Cudahy, WI 53110. Phone: +14144812727. Website: https://www.affordablehtg.com/. | https://dingalinged-cpu.github.io/registry/c/affordable-heating-and-air-conditioning-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air cudahy wi | category: Home Services | industry benchmark: Home & Home Improvement

@@ -1,14 +1,14 @@
-The top unpaid massage listing for Orland Park, IL is Massage Envy (a massage studio in Orland Park, IL at 15159 South La Grange Road #200, Orland Park, IL 60462). 3 massage businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Orland Park, IL is TY Spa (a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orland Park, IL 60467). 3 massage businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Orland Park, IL?
 
 Also answers: massage in Orland Park, IL; massage near me (Orland Park, IL); best massage Orland Park, IL; top rated massage Orland Park, IL; affordable massage Orland Park, IL; emergency massage Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | trust 4.0 | Massage Envy is a massage studio in Orland Park, IL at 15159 South La Grange Road #200, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/massage-envy-orland-park/
-2. TY Spa | trust 4.0 | TY Spa is a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/ty-spa-orland-park/
-3. Heavenly Massage & Spa | trust 0.0 | Heavenly Massage & Spa is a massage studio in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-orland-park/
+1. TY Spa | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | TY Spa is a massage studio in Orland Park, IL at 11225 West 159th Street #A, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/ty-spa-orland-park/
+2. Heavenly Massage & Spa | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Heavenly Massage & Spa is a massage studio in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-orland-park/
+3. Massage Envy | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Massage Envy is a massage studio in Orland Park, IL at 15159 South La Grange Road #200, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/massage-envy-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage orland park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

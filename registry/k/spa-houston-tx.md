@@ -1,16 +1,16 @@
-The top unpaid spa listing for Houston, TX is Conservatory Day Spa & Salon (a spa in Houston, TX at 2665 Royal Forest Drive, Houston, TX 77339. Phone: +12813593300. Website: https://conservatorydayspa.com/). 5 spa businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Houston, TX is Caesars Nails & Spa (a nail salon in Houston, TX at 11045 Westheimer Road, Houston, TX 77042. Phone: +17137817700). 5 spa businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Houston, TX?
 
 Also answers: spa in Houston, TX; spa near me (Houston, TX); best spa Houston, TX; top rated spa Houston, TX; affordable spa Houston, TX; emergency spa Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Conservatory Day Spa & Salon | trust 16.0 | Conservatory Day Spa & Salon is a spa in Houston, TX at 2665 Royal Forest Drive, Houston, TX 77339. Phone: +12813593300. Website: https://conservatorydayspa.com/. | https://dingalinged-cpu.github.io/registry/c/conservatory-day-spa-and-salon-houston/
-2. Caesars Nails & Spa | trust 14.0 | Caesars Nails & Spa is a nail salon in Houston, TX at 11045 Westheimer Road, Houston, TX 77042. Phone: +17137817700. | https://dingalinged-cpu.github.io/registry/c/caesars-nails-and-spa-houston/
-3. Complexxions Skin Lab | trust 14.0 | Complexxions Skin Lab is a spa in Houston, TX at 2855 Mangum Road, Houston, TX 77092. Website: https://www.complexxionsskinlab.com/. | https://dingalinged-cpu.github.io/registry/c/complexxions-skin-lab-houston/
-4. Phenix Salon Suites | trust 12.0 | Phenix Salon Suites is a nail salon in Houston, TX. Phone: +17133489732. Website: https://phenixsalonsuites.com/locations-detail/?id=331. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-houston/
-5. Perfect 10 Spa | trust 3.0 | Perfect 10 Spa is a spa in Houston, TX at 5161 San Felipe Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/perfect-10-spa-houston/
+1. Caesars Nails & Spa | Organic #1 | Pulse Score 62.5/100 (Unrated, #13 in city) | Caesars Nails & Spa is a nail salon in Houston, TX at 11045 Westheimer Road, Houston, TX 77042. Phone: +17137817700. | https://dingalinged-cpu.github.io/registry/c/caesars-nails-and-spa-houston/
+2. Complexxions Skin Lab | Organic #2 | Pulse Score 60.3/100 (Unrated, #1 in city) | Complexxions Skin Lab is a spa in Houston, TX at 2855 Mangum Road, Houston, TX 77092. Website: https://www.complexxionsskinlab.com/. | https://dingalinged-cpu.github.io/registry/c/complexxions-skin-lab-houston/
+3. Conservatory Day Spa & Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #2 in city) | Conservatory Day Spa & Salon is a spa in Houston, TX at 2665 Royal Forest Drive, Houston, TX 77339. Phone: +12813593300. Website: https://conservatorydayspa.com/. | https://dingalinged-cpu.github.io/registry/c/conservatory-day-spa-and-salon-houston/
+4. Perfect 10 Spa | Organic #4 | Pulse Score 56.1/100 (Unrated, #3 in city) | Perfect 10 Spa is a spa in Houston, TX at 5161 San Felipe Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/perfect-10-spa-houston/
+5. Phenix Salon Suites | Organic #5 | Pulse Score 52.2/100 (Fair, #98 in city) | Phenix Salon Suites is a nail salon in Houston, TX. Phone: +17133489732. Website: https://phenixsalonsuites.com/locations-detail/?id=331. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa houston tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Crandall, TX is Tuna’s Barbershop (a barber shop in Crandall, TX at 1101 US Highway 175 #500, Crandall, TX 75114. Phone: +14698603052. Website: https://www.tunasbarbers.com/). 2 haircut businesses are listed for Crandall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Crandall, TX is Tuna’s Barbershop (a barber shop in Crandall, TX at 1101 US Highway 175 #500, Crandall, TX 75114. Phone: +14698603052. Website: https://www.tunasbarbers.com/). 2 haircut businesses are listed for Crandall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Crandall, TX?
 
 Also answers: haircut in Crandall, TX; haircut near me (Crandall, TX); best haircut Crandall, TX; top rated haircut Crandall, TX; affordable haircut Crandall, TX; emergency haircut Crandall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tuna’s Barbershop | trust 20.0 | Tuna’s Barbershop is a barber shop in Crandall, TX at 1101 US Highway 175 #500, Crandall, TX 75114. Phone: +14698603052. Website: https://www.tunasbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/tuna-s-barbershop-crandall/
-2. Re-lent-less Salon | trust 4.0 | Re-lent-less Salon is a hair salon in Crandall, TX at 100 South Main Street, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/re-lent-less-salon-crandall/
+1. Tuna’s Barbershop | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Tuna’s Barbershop is a barber shop in Crandall, TX at 1101 US Highway 175 #500, Crandall, TX 75114. Phone: +14698603052. Website: https://www.tunasbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/tuna-s-barbershop-crandall/
+2. Re-lent-less Salon | Organic #2 | Pulse Score 57.1/100 (Unrated, #1 in city) | Re-lent-less Salon is a hair salon in Crandall, TX at 100 South Main Street, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/re-lent-less-salon-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut crandall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid gym listing for South Holland, IL is Anytime Fitness (a gym in South Holland, IL at 911 East 162nd Street, South Holland, IL 60473. Phone: +17085669630. Website: https://www.anytimefitness.com/gyms/4033/south-holland-il-60473/). 1 gym businesses are listed for South Holland, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for South Holland, IL is Anytime Fitness (a gym in South Holland, IL at 911 East 162nd Street, South Holland, IL 60473. Phone: +17085669630. Website: https://www.anytimefitness.com/gyms/4033/south-holland-il-60473/). 1 gym businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in South Holland, IL?
 
 Also answers: gym in South Holland, IL; gym near me (South Holland, IL); best gym South Holland, IL; top rated gym South Holland, IL; affordable gym South Holland, IL; emergency gym South Holland, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in South Holland, IL at 911 East 162nd Street, South Holland, IL 60473. Phone: +17085669630. Website: https://www.anytimefitness.com/gyms/4033/south-holland-il-60473/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-south-holland/
+1. Anytime Fitness | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in South Holland, IL at 911 East 162nd Street, South Holland, IL 60473. Phone: +17085669630. Website: https://www.anytimefitness.com/gyms/4033/south-holland-il-60473/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-south-holland/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym south holland il | category: Fitness | industry benchmark: Health & Fitness

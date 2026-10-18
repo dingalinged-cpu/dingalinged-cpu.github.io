@@ -13,7 +13,7 @@ WW Studio is a therapy practice in Greenfield, WI at 5479 South 76th Street, Gre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 38.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 98% of therapy practices in Milwaukee, #7 of 7 therapy practices in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 38.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

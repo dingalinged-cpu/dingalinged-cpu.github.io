@@ -13,7 +13,7 @@ KinderCare is a preschool in Woodridge, IL at 7040 Woodward Avenue, Woodridge, I
 - Website: https://www.kindercare.com/our-centers/woodridge/il/000881
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:15-18:15; Sa, Su off
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 61% of preschools in Chicago, #1 of 2 preschools in Woodridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

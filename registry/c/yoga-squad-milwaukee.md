@@ -13,7 +13,7 @@ Yoga Squad is a yoga studio in Milwaukee, WI at 2227 North Prospect Avenue, Milw
 - Website: https://yogasix.com/studio/milwaukee/
 - Email: milwaukee@yogasix.com
 - Opening hours (OSM syntax): Mo-Fr 06:00-21:00; Sa-Su 07:00-17:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 12% of yoga studios in Milwaukee, #2 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

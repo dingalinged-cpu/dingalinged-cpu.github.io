@@ -13,7 +13,7 @@ Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive,
 - Website: https://calumetcitycarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo - Th 08:00-18:00, Fr - Sa 08:00-19:00, Su 08:00-16:00
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 2% of car washes in Chicago, #1 of 4 car washes in Calumet City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

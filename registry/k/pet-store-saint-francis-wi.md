@@ -1,12 +1,12 @@
-The top unpaid pet store listing for Saint Francis, WI is Petco (a pet store in Saint Francis, WI at 4698 South Whitnall Avenue #2, Saint Francis, WI 53235. Phone: +14144813178. Website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html). 1 pet store businesses are listed for Saint Francis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Saint Francis, WI is Petco (a pet store in Saint Francis, WI at 4698 South Whitnall Avenue #2, Saint Francis, WI 53235. Phone: +14144813178. Website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html). 1 pet store businesses are listed for Saint Francis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Saint Francis, WI?
 
 Also answers: pet store in Saint Francis, WI; pet store near me (Saint Francis, WI); best pet store Saint Francis, WI; top rated pet store Saint Francis, WI; affordable pet store Saint Francis, WI; emergency pet store Saint Francis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Saint Francis, WI at 4698 South Whitnall Avenue #2, Saint Francis, WI 53235. Phone: +14144813178. Website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html. | https://dingalinged-cpu.github.io/registry/c/petco-saint-francis/
+1. Petco | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Petco is a pet store in Saint Francis, WI at 4698 South Whitnall Avenue #2, Saint Francis, WI 53235. Phone: +14144813178. Website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html. | https://dingalinged-cpu.github.io/registry/c/petco-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store saint francis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

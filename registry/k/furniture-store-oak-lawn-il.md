@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Oak Lawn, IL is M&M Furniture (a furniture store in Oak Lawn, IL at 5901 West 95th Street, Oak Lawn, IL 60453). 2 furniture store businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Oak Lawn, IL is M&M Furniture (a furniture store in Oak Lawn, IL at 5901 West 95th Street, Oak Lawn, IL 60453). 2 furniture store businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Oak Lawn, IL?
 
 Also answers: furniture store in Oak Lawn, IL; furniture store near me (Oak Lawn, IL); best furniture store Oak Lawn, IL; top rated furniture store Oak Lawn, IL; affordable furniture store Oak Lawn, IL; emergency furniture store Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M&M Furniture | trust 4.0 | M&M Furniture is a furniture store in Oak Lawn, IL at 5901 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/m-and-m-furniture-oak-lawn/
-2. Pulaski Furniture | trust 4.0 | Pulaski Furniture is a furniture store in Oak Lawn, IL at 9659 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/pulaski-furniture-oak-lawn/
+1. M&M Furniture | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | M&M Furniture is a furniture store in Oak Lawn, IL at 5901 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/m-and-m-furniture-oak-lawn/
+2. Pulaski Furniture | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Pulaski Furniture is a furniture store in Oak Lawn, IL at 9659 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/pulaski-furniture-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store oak lawn il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

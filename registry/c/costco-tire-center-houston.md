@@ -13,7 +13,7 @@ Costco Tire Center is a tire shop in Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 93% of tire shops in Houston, #61 of 62 tire shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

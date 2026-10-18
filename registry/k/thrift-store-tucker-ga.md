@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Tucker, GA is Goodwill (a thrift store in Tucker, GA at 4400 Hugh Howell Rd, Tucker, GA 30084. Phone: +17707710471. Website: https://goodwillng.org/gw-locations/tucker-store-donation-center-30084/). 3 thrift store businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Tucker, GA is Goodwill (a thrift store in Tucker, GA at 3983 Lavista Rd #Ste 136, Tucker, GA 30084. Phone: +17707231112. Website: https://goodwillng.org/gw-locations/northlake-store-donation-center-30084/). 3 thrift store businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Tucker, GA?
 
 Also answers: thrift store in Tucker, GA; thrift store near me (Tucker, GA); best thrift store Tucker, GA; top rated thrift store Tucker, GA; affordable thrift store Tucker, GA; emergency thrift store Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 16.0 | Goodwill is a thrift store in Tucker, GA at 4400 Hugh Howell Rd, Tucker, GA 30084. Phone: +17707710471. Website: https://goodwillng.org/gw-locations/tucker-store-donation-center-30084/. | https://dingalinged-cpu.github.io/registry/c/goodwill-tucker/
-2. Goodwill | trust 16.0 | Goodwill is a thrift store in Tucker, GA at 3983 Lavista Rd #Ste 136, Tucker, GA 30084. Phone: +17707231112. Website: https://goodwillng.org/gw-locations/northlake-store-donation-center-30084/. | https://dingalinged-cpu.github.io/registry/c/goodwill-tucker-n11336225569/
-3. Value Village | trust 0.0 | Value Village is a thrift store in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/value-village-tucker/
+1. Goodwill | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | Goodwill is a thrift store in Tucker, GA at 3983 Lavista Rd #Ste 136, Tucker, GA 30084. Phone: +17707231112. Website: https://goodwillng.org/gw-locations/northlake-store-donation-center-30084/. | https://dingalinged-cpu.github.io/registry/c/goodwill-tucker-n11336225569/
+2. Goodwill | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Goodwill is a thrift store in Tucker, GA at 4400 Hugh Howell Rd, Tucker, GA 30084. Phone: +17707710471. Website: https://goodwillng.org/gw-locations/tucker-store-donation-center-30084/. | https://dingalinged-cpu.github.io/registry/c/goodwill-tucker/
+3. Value Village | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | Value Village is a thrift store in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/value-village-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store tucker ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

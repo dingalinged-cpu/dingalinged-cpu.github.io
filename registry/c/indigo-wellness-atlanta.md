@@ -13,7 +13,7 @@ Indigo Wellness is a nail salon in Atlanta, GA at 1963 Hosea L Williams Drive So
 - Website: https://indigowellnessatl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:30; Su 11:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 21% of nail salons in Atlanta, #11 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Belle Tire is a tire shop in Merrillville, IN at 8200 Louisiana Street, Merrillv
 - Website: https://www.belletire.com/stores/detail/154/belle-tire-merrillville-in
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 56% of tire shops in Chicago, #1 of 2 tire shops in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

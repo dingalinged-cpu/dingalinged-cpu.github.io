@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Mccook, IL is Damage Control Auto Body (an auto repair shop in McCook, IL at 8809 Joliet Road, McCook, IL). 1 mechanic businesses are listed for Mccook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Mccook, IL is Damage Control Auto Body (an auto repair shop in McCook, IL at 8809 Joliet Road, McCook, IL). 1 mechanic businesses are listed for Mccook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Mccook, IL?
 
 Also answers: mechanic in Mccook, IL; mechanic near me (Mccook, IL); best mechanic Mccook, IL; top rated mechanic Mccook, IL; affordable mechanic Mccook, IL; emergency mechanic Mccook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Damage Control Auto Body | trust 3.0 | Damage Control Auto Body is an auto repair shop in McCook, IL at 8809 Joliet Road, McCook, IL. | https://dingalinged-cpu.github.io/registry/c/damage-control-auto-body-mccook/
+1. Damage Control Auto Body | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Damage Control Auto Body is an auto repair shop in McCook, IL at 8809 Joliet Road, McCook, IL. | https://dingalinged-cpu.github.io/registry/c/damage-control-auto-body-mccook/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic mccook il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

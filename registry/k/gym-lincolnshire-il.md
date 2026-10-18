@@ -1,13 +1,13 @@
-The top unpaid gym listing for Lincolnshire, IL is CPAC (a gym in Lincolnshire, IL). 2 gym businesses are listed for Lincolnshire, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lincolnshire, IL is CPAC (a gym in Lincolnshire, IL). 2 gym businesses are listed for Lincolnshire, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lincolnshire, IL?
 
 Also answers: gym in Lincolnshire, IL; gym near me (Lincolnshire, IL); best gym Lincolnshire, IL; top rated gym Lincolnshire, IL; affordable gym Lincolnshire, IL; emergency gym Lincolnshire, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CPAC | trust 0.0 | CPAC is a gym in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/cpac-lincolnshire/
-2. Pilates*Spin | trust 0.0 | Pilates*Spin is a gym in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/pilates-spin-lincolnshire/
+1. CPAC | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | CPAC is a gym in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/cpac-lincolnshire/
+2. Pilates*Spin | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Pilates*Spin is a gym in Lincolnshire, IL. | https://dingalinged-cpu.github.io/registry/c/pilates-spin-lincolnshire/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lincolnshire il | category: Fitness | industry benchmark: Health & Fitness

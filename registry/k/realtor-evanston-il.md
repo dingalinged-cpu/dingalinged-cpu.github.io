@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Evanston, IL is Baird & Warner (a real estate agency in Evanston, IL at 2926 Central Street, Evanston, IL 60201). 2 realtor businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Evanston, IL is The Apartment People (a real estate agency in Evanston, IL). 2 realtor businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Evanston, IL?
 
 Also answers: realtor in Evanston, IL; realtor near me (Evanston, IL); best realtor Evanston, IL; top rated realtor Evanston, IL; affordable realtor Evanston, IL; emergency realtor Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baird & Warner | trust 4.0 | Baird & Warner is a real estate agency in Evanston, IL at 2926 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/baird-and-warner-evanston/
-2. The Apartment People | trust 0.0 | The Apartment People is a real estate agency in Evanston, IL. | https://dingalinged-cpu.github.io/registry/c/the-apartment-people-evanston/
+1. The Apartment People | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | The Apartment People is a real estate agency in Evanston, IL. | https://dingalinged-cpu.github.io/registry/c/the-apartment-people-evanston/
+2. Baird & Warner | Organic #2 | Pulse Score 46.2/100 (Unrated, #2 in city) | Baird & Warner is a real estate agency in Evanston, IL at 2926 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/baird-and-warner-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor evanston il | category: real_estate | industry benchmark: Real Estate

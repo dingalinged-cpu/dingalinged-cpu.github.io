@@ -13,7 +13,7 @@ My Local Plumber is a plumber in Plano, TX at 820 West Spring Creek Parkway, Pla
 - Website: https://mylocalplumber.net/plumber-plano-tx/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 19% of plumbers in Dallas–Fort Worth, #2 of 3 plumbers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

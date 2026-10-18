@@ -13,7 +13,7 @@ Goodwill Of North Georgia is a thrift store in Atlanta, GA at 1589 Monroe Drive 
 - Website: https://goodwillng.org/gw-locations/ansley-donation-center-30324/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 45% of thrift stores in Atlanta, #4 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

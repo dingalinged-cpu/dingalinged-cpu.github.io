@@ -13,7 +13,7 @@ Onsite Cellular Repair is a phone repair shop in Dallas, TX. Phone: +12142659171
 - Website: https://onsitecellularrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 15% of phone repair shops in Dallas–Fort Worth, #1 of 3 phone repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.9, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Spaces Peachtree is a coworking space in Atlanta, GA at 1372 Peachtree Street No
 - Website: https://www.spacesworks.com/atlanta/peachtree/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 69% of coworking spaces in Atlanta, #8 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

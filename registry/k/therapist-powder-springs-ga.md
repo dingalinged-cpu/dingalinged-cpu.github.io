@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Powder Springs, GA is Bar Talk with Jay (a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/). 1 therapist businesses are listed for Powder Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Powder Springs, GA is Bar Talk with Jay (a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/). 1 therapist businesses are listed for Powder Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Powder Springs, GA?
 
 Also answers: therapist in Powder Springs, GA; therapist near me (Powder Springs, GA); best therapist Powder Springs, GA; top rated therapist Powder Springs, GA; affordable therapist Powder Springs, GA; emergency therapist Powder Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bar Talk with Jay | trust 20.0 | Bar Talk with Jay is a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/. | https://dingalinged-cpu.github.io/registry/c/bar-talk-with-jay-powder-springs/
+1. Bar Talk with Jay | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Bar Talk with Jay is a therapy practice in Powder Springs, GA at Brittany Drive, Powder Springs, GA 30127. Phone: +17702867526. Website: https://bartalkwithjay.com/. | https://dingalinged-cpu.github.io/registry/c/bar-talk-with-jay-powder-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist powder springs ga | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

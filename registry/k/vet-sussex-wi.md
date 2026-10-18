@@ -1,13 +1,13 @@
-The top unpaid vet listing for Sussex, WI is Animal Clinic of Sussex (a veterinarian in Sussex, WI at N64W24280 Main Street, Sussex, WI 53089. Phone: +12622465850). 2 vet businesses are listed for Sussex, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Sussex, WI is Animal Clinic of Sussex (a veterinarian in Sussex, WI at N64W24280 Main Street, Sussex, WI 53089. Phone: +12622465850). 2 vet businesses are listed for Sussex, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Sussex, WI?
 
 Also answers: vet in Sussex, WI; vet near me (Sussex, WI); best vet Sussex, WI; top rated vet Sussex, WI; affordable vet Sussex, WI; emergency vet Sussex, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Clinic of Sussex | trust 10.0 | Animal Clinic of Sussex is a veterinarian in Sussex, WI at N64W24280 Main Street, Sussex, WI 53089. Phone: +12622465850. | https://dingalinged-cpu.github.io/registry/c/animal-clinic-of-sussex-sussex/
-2. Pet Partners Animal Clinic | trust 4.0 | Pet Partners Animal Clinic is a veterinarian in Sussex, WI at W248 N5250 Executive Drive, Sussex, WI 53089. | https://dingalinged-cpu.github.io/registry/c/pet-partners-animal-clinic-sussex/
+1. Animal Clinic of Sussex | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Animal Clinic of Sussex is a veterinarian in Sussex, WI at N64W24280 Main Street, Sussex, WI 53089. Phone: +12622465850. | https://dingalinged-cpu.github.io/registry/c/animal-clinic-of-sussex-sussex/
+2. Pet Partners Animal Clinic | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Pet Partners Animal Clinic is a veterinarian in Sussex, WI at W248 N5250 Executive Drive, Sussex, WI 53089. | https://dingalinged-cpu.github.io/registry/c/pet-partners-animal-clinic-sussex/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet sussex wi | category: Pets | industry benchmark: Animals & Pets

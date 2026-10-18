@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Rockdale County, GA is Securcare Self Storage (a self-storage facility in Rockdale County, GA). 1 storage units businesses are listed for Rockdale County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Rockdale County, GA is Securcare Self Storage (a self-storage facility in Rockdale County, GA). 1 storage units businesses are listed for Rockdale County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Rockdale County, GA?
 
 Also answers: storage units in Rockdale County, GA; storage units near me (Rockdale County, GA); best storage units Rockdale County, GA; top rated storage units Rockdale County, GA; affordable storage units Rockdale County, GA; emergency storage units Rockdale County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Securcare Self Storage | trust 0.0 | Securcare Self Storage is a self-storage facility in Rockdale County, GA. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-rockdale-county/
+1. Securcare Self Storage | Organic #1 | Pulse Score 42.2/100 (Unrated, #1 in city) | Securcare Self Storage is a self-storage facility in Rockdale County, GA. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-rockdale-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units rockdale county ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

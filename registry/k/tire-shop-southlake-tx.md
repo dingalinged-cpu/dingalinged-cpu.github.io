@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Southlake, TX is Costco Tire Center (a tire shop in Southlake, TX at 2601 East State Highway 114, Southlake, TX 76092. Phone: +18177492809. Website: https://www.costco.com/w/-/tx/southlake/669). 1 tire shop businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Southlake, TX is Costco Tire Center (a tire shop in Southlake, TX at 2601 East State Highway 114, Southlake, TX 76092. Phone: +18177492809. Website: https://www.costco.com/w/-/tx/southlake/669). 1 tire shop businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Southlake, TX?
 
 Also answers: tire shop in Southlake, TX; tire shop near me (Southlake, TX); best tire shop Southlake, TX; top rated tire shop Southlake, TX; affordable tire shop Southlake, TX; emergency tire shop Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 20.0 | Costco Tire Center is a tire shop in Southlake, TX at 2601 East State Highway 114, Southlake, TX 76092. Phone: +18177492809. Website: https://www.costco.com/w/-/tx/southlake/669. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-southlake/
+1. Costco Tire Center | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Costco Tire Center is a tire shop in Southlake, TX at 2601 East State Highway 114, Southlake, TX 76092. Phone: +18177492809. Website: https://www.costco.com/w/-/tx/southlake/669. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop southlake tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

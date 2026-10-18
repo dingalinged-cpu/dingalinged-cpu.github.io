@@ -1,14 +1,14 @@
-The top unpaid spa listing for Madison, WI is Rejuvenation Spa (a spa in Madison, WI. Phone: +16088317546. Website: https://rejuvenationspa.net/). 3 spa businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Madison, WI is Rejuvenation Spa (a spa in Madison, WI. Phone: +16088317546. Website: https://rejuvenationspa.net/). 3 spa businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Madison, WI?
 
 Also answers: spa in Madison, WI; spa near me (Madison, WI); best spa Madison, WI; top rated spa Madison, WI; affordable spa Madison, WI; emergency spa Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rejuvenation Spa | trust 16.0 | Rejuvenation Spa is a spa in Madison, WI. Phone: +16088317546. Website: https://rejuvenationspa.net/. | https://dingalinged-cpu.github.io/registry/c/rejuvenation-spa-madison/
-2. Cherry Spa | trust 0.0 | Cherry Spa is a spa in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cherry-spa-madison/
-3. Wonderful Spa | trust 0.0 | Wonderful Spa is a spa in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wonderful-spa-madison/
+1. Rejuvenation Spa | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Rejuvenation Spa is a spa in Madison, WI. Phone: +16088317546. Website: https://rejuvenationspa.net/. | https://dingalinged-cpu.github.io/registry/c/rejuvenation-spa-madison/
+2. Cherry Spa | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Cherry Spa is a spa in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cherry-spa-madison/
+3. Wonderful Spa | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Wonderful Spa is a spa in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wonderful-spa-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa madison wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

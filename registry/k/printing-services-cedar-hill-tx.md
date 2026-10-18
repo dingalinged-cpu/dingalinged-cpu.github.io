@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Cedar Hill, TX is The UPS Store (a printing service in Cedar Hill, TX at 445 East FM 1382 #Ste 3, Cedar Hill, TX 75104. Phone: +14692729600). 2 printing services businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Cedar Hill, TX is The UPS Store (a printing service in Cedar Hill, TX at 445 East FM 1382 #Ste 3, Cedar Hill, TX 75104. Phone: +14692729600). 2 printing services businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Cedar Hill, TX?
 
 Also answers: printing services in Cedar Hill, TX; printing services near me (Cedar Hill, TX); best printing services Cedar Hill, TX; top rated printing services Cedar Hill, TX; affordable printing services Cedar Hill, TX; emergency printing services Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 14.0 | The UPS Store is a printing service in Cedar Hill, TX at 445 East FM 1382 #Ste 3, Cedar Hill, TX 75104. Phone: +14692729600. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-cedar-hill/
-2. FedEx Office | trust 0.0 | FedEx Office is a printing service in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-cedar-hill/
+1. The UPS Store | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | The UPS Store is a printing service in Cedar Hill, TX at 445 East FM 1382 #Ste 3, Cedar Hill, TX 75104. Phone: +14692729600. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-cedar-hill/
+2. FedEx Office | Organic #2 | Pulse Score 41.3/100 (Building, #2 in city) | FedEx Office is a printing service in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services cedar hill tx | category: Professional & financial services | industry benchmark: Finance & Insurance

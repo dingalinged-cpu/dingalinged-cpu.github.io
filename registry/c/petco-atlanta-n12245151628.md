@@ -13,7 +13,7 @@ Petco is a pet store in Atlanta, GA at 2020 Howell Mill Road #3, Atlanta, GA 303
 - Website: https://stores.petco.com/ga/atlanta/pet-supplies-atlanta-ga-5504.html
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 54% of pet stores in Atlanta, #14 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.3, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

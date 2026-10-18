@@ -13,7 +13,7 @@ Peebles Bluemound Car Wash is a car wash in Milwaukee, WI at 6606 West Bluemound
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 9% of car washes in Milwaukee, #3 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

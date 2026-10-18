@@ -1,25 +1,25 @@
-The top unpaid liquor store listing for Lewisville, TX is Cheers Liquor (a liquor store in Lewisville, TX. Website: https://www.cheersliquortx.com/). 14 liquor store businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Lewisville, TX is Shotz Liquor (a liquor store in Lewisville, TX at 1310 West Main Street, Lewisville, TX 75067). 14 liquor store businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Lewisville, TX?
 
 Also answers: liquor store in Lewisville, TX; liquor store near me (Lewisville, TX); best liquor store Lewisville, TX; top rated liquor store Lewisville, TX; affordable liquor store Lewisville, TX; emergency liquor store Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cheers Liquor | trust 10.0 | Cheers Liquor is a liquor store in Lewisville, TX. Website: https://www.cheersliquortx.com/. | https://dingalinged-cpu.github.io/registry/c/cheers-liquor-lewisville/
-2. Shotz Liquor | trust 8.0 | Shotz Liquor is a liquor store in Lewisville, TX at 1310 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-lewisville/
-3. Durbar Liquor | trust 7.0 | Durbar Liquor is a liquor store in Lewisville, TX at 2680 Denton Tap Road #111, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/durbar-liquor-lewisville/
-4. Beer Liquor Stop Wine | trust 4.0 | Beer Liquor Stop Wine is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/beer-liquor-stop-wine-lewisville/
-5. Bonnie Liquor | trust 4.0 | Bonnie Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bonnie-liquor-lewisville/
-6. Bow Low Liquor | trust 4.0 | Bow Low Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bow-low-liquor-lewisville/
-7. Lewisville Liquor | trust 4.0 | Lewisville Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lewisville-liquor-lewisville/
-8. Liquor King | trust 4.0 | Liquor King is a liquor store in Lewisville, TX at 2801 MacArthur Boulevard, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/liquor-king-lewisville/
-9. Liquor Land | trust 4.0 | Liquor Land is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-land-lewisville/
-10. The Liqour Outpost | trust 4.0 | The Liqour Outpost is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-liqour-outpost-lewisville/
-11. Barrel Craft | trust 0.0 | Barrel Craft is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/barrel-craft-lewisville/
-12. Castle Spirits | trust 0.0 | Castle Spirits is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/castle-spirits-lewisville/
-13. Hebron Spirit | trust 0.0 | Hebron Spirit is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hebron-spirit-lewisville/
-14. Valley Ridge Liquor1 | trust 0.0 | Valley Ridge Liquor1 is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/valley-ridge-liquor1-lewisville/
+1. Shotz Liquor | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Shotz Liquor is a liquor store in Lewisville, TX at 1310 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/shotz-liquor-lewisville/
+2. Cheers Liquor | Organic #2 | Pulse Score 62.1/100 (Good, #2 in city) | Cheers Liquor is a liquor store in Lewisville, TX. Website: https://www.cheersliquortx.com/. | https://dingalinged-cpu.github.io/registry/c/cheers-liquor-lewisville/
+3. Bow Low Liquor | Organic #3 | Pulse Score 61.6/100 (Good, #3 in city) | Bow Low Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bow-low-liquor-lewisville/
+4. Bonnie Liquor | Organic #4 | Pulse Score 61.4/100 (Good, #4 in city) | Bonnie Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bonnie-liquor-lewisville/
+5. Durbar Liquor | Organic #5 | Pulse Score 61.2/100 (Unrated, #5 in city) | Durbar Liquor is a liquor store in Lewisville, TX at 2680 Denton Tap Road #111, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/durbar-liquor-lewisville/
+6. The Liqour Outpost | Organic #6 | Pulse Score 60.7/100 (Good, #6 in city) | The Liqour Outpost is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-liqour-outpost-lewisville/
+7. Beer Liquor Stop Wine | Organic #7 | Pulse Score 58.3/100 (Unrated, #7 in city) | Beer Liquor Stop Wine is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/beer-liquor-stop-wine-lewisville/
+8. Barrel Craft | Organic #8 | Pulse Score 57.6/100 (Fair, #8 in city) | Barrel Craft is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/barrel-craft-lewisville/
+9. Lewisville Liquor | Organic #9 | Pulse Score 57/100 (Unrated, #9 in city) | Lewisville Liquor is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lewisville-liquor-lewisville/
+10. Liquor Land | Organic #10 | Pulse Score 57/100 (Unrated, #10 in city) | Liquor Land is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-land-lewisville/
+11. Hebron Spirit | Organic #11 | Pulse Score 56.9/100 (Fair, #11 in city) | Hebron Spirit is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hebron-spirit-lewisville/
+12. Valley Ridge Liquor1 | Organic #12 | Pulse Score 56.9/100 (Fair, #12 in city) | Valley Ridge Liquor1 is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/valley-ridge-liquor1-lewisville/
+13. Liquor King | Organic #13 | Pulse Score 56.9/100 (Unrated, #13 in city) | Liquor King is a liquor store in Lewisville, TX at 2801 MacArthur Boulevard, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/liquor-king-lewisville/
+14. Castle Spirits | Organic #14 | Pulse Score 54.3/100 (Unrated, #14 in city) | Castle Spirits is a liquor store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/castle-spirits-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

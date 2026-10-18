@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Conroe, TX is Goodwill (a thrift store in Conroe, TX at 1102 West Dallas Street, Conroe, TX 77301. Phone: +19366471989). 2 thrift store businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Conroe, TX is 2nd & Charles (a thrift store in Conroe, TX). 2 thrift store businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Conroe, TX?
 
 Also answers: thrift store in Conroe, TX; thrift store near me (Conroe, TX); best thrift store Conroe, TX; top rated thrift store Conroe, TX; affordable thrift store Conroe, TX; emergency thrift store Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 14.0 | Goodwill is a thrift store in Conroe, TX at 1102 West Dallas Street, Conroe, TX 77301. Phone: +19366471989. | https://dingalinged-cpu.github.io/registry/c/goodwill-conroe/
-2. 2nd & Charles | trust 0.0 | 2nd & Charles is a thrift store in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/2nd-and-charles-conroe/
+1. 2nd & Charles | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | 2nd & Charles is a thrift store in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/2nd-and-charles-conroe/
+2. Goodwill | Organic #2 | Pulse Score 48/100 (Unrated, #2 in city) | Goodwill is a thrift store in Conroe, TX at 1102 West Dallas Street, Conroe, TX 77301. Phone: +19366471989. | https://dingalinged-cpu.github.io/registry/c/goodwill-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

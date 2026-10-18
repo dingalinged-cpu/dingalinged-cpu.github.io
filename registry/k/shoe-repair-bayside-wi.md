@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Bayside, WI is Tommy's Shoe & Luggage Repair (a shoe repair in Bayside, WI at 8828 North Port Washington Road ##6, Bayside, WI 53217. Phone: +14142288181). 1 shoe repair businesses are listed for Bayside, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Bayside, WI is Tommy's Shoe & Luggage Repair (a shoe repair in Bayside, WI at 8828 North Port Washington Road ##6, Bayside, WI 53217. Phone: +14142288181). 1 shoe repair businesses are listed for Bayside, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Bayside, WI?
 
 Also answers: shoe repair in Bayside, WI; shoe repair near me (Bayside, WI); best shoe repair Bayside, WI; top rated shoe repair Bayside, WI; affordable shoe repair Bayside, WI; emergency shoe repair Bayside, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tommy's Shoe & Luggage Repair | trust 14.0 | Tommy's Shoe & Luggage Repair is a shoe repair in Bayside, WI at 8828 North Port Washington Road ##6, Bayside, WI 53217. Phone: +14142288181. | https://dingalinged-cpu.github.io/registry/c/tommys-shoe-and-luggage-repair-bayside/
+1. Tommy's Shoe & Luggage Repair | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Tommy's Shoe & Luggage Repair is a shoe repair in Bayside, WI at 8828 North Port Washington Road ##6, Bayside, WI 53217. Phone: +14142288181. | https://dingalinged-cpu.github.io/registry/c/tommys-shoe-and-luggage-repair-bayside/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair bayside wi | category: Professional & financial services | industry benchmark: Finance & Insurance

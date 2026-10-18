@@ -13,7 +13,7 @@ Arandas Auto Sales is an used car dealer in Milwaukee, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.6/100 — Unrated (not enough evidence yet) — top 71% of used car dealers in Milwaukee, #24 of 28 used car dealers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 37.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

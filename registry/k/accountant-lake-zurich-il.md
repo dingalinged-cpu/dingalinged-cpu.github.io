@@ -1,14 +1,14 @@
-The top unpaid accountant listing for Lake Zurich, IL is Kaizen CPAs + Advisors (an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/). 3 accountant businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Lake Zurich, IL is Barrett Accounting & Tax LLC (an accountant in Lake Zurich, IL. Phone: +18475500788. Website: https://barrettaccountingandtax.com/). 3 accountant businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Lake Zurich, IL?
 
 Also answers: accountant in Lake Zurich, IL; accountant near me (Lake Zurich, IL); best accountant Lake Zurich, IL; top rated accountant Lake Zurich, IL; affordable accountant Lake Zurich, IL; emergency accountant Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kaizen CPAs + Advisors | trust 20.0 | Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/. | https://dingalinged-cpu.github.io/registry/c/kaizen-cpas-advisors-lake-zurich/
-2. Barrett Accounting & Tax LLC | trust 12.0 | Barrett Accounting & Tax LLC is an accountant in Lake Zurich, IL. Phone: +18475500788. Website: https://barrettaccountingandtax.com/. | https://dingalinged-cpu.github.io/registry/c/barrett-accounting-and-tax-llc-lake-zurich/
-3. Farmer, Poklop, Hoppa & Co | trust 0.0 | Farmer, Poklop, Hoppa & Co is an accountant in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/farmer-poklop-hoppa-and-co-lake-zurich/
+1. Barrett Accounting & Tax LLC | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Barrett Accounting & Tax LLC is an accountant in Lake Zurich, IL. Phone: +18475500788. Website: https://barrettaccountingandtax.com/. | https://dingalinged-cpu.github.io/registry/c/barrett-accounting-and-tax-llc-lake-zurich/
+2. Farmer, Poklop, Hoppa & Co | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Farmer, Poklop, Hoppa & Co is an accountant in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/farmer-poklop-hoppa-and-co-lake-zurich/
+3. Kaizen CPAs + Advisors | Organic #3 | Pulse Score 49.9/100 (Unrated, #3 in city) | Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, Lake Zurich, IL 60047. Phone: +18473956000. Website: https://www.kaizencpas.com/. | https://dingalinged-cpu.github.io/registry/c/kaizen-cpas-advisors-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant lake zurich il | category: professional_accounting | industry benchmark: Business Services

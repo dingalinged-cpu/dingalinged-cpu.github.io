@@ -13,7 +13,7 @@ Winnie's Playroom is an event venue in Brookfield, IL at 9039 Monroe Avenue, Bro
 - Website: https://winniesplayroom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 47% of event venues in Chicago, #2 of 3 event venues in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

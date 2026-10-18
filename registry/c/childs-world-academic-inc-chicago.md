@@ -13,7 +13,7 @@ Child's World Academic Inc. is a daycare in Chicago, IL at 6730 South Indiana Av
 - Website: https://childsworldacademic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of daycares in Chicago, #7 of 73 daycares in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

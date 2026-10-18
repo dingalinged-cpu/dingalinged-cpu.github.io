@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Garland, TX is Clopton & Company, LLC (a tax preparation service in Garland, TX at 610 Main Street, Garland, TX 75040. Phone: +19722726478). 1 tax preparer businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Garland, TX is Clopton & Company, LLC (a tax preparation service in Garland, TX at 610 Main Street, Garland, TX 75040. Phone: +19722726478). 1 tax preparer businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Garland, TX?
 
 Also answers: tax preparer in Garland, TX; tax preparer near me (Garland, TX); best tax preparer Garland, TX; top rated tax preparer Garland, TX; affordable tax preparer Garland, TX; emergency tax preparer Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clopton & Company, LLC | trust 10.0 | Clopton & Company, LLC is a tax preparation service in Garland, TX at 610 Main Street, Garland, TX 75040. Phone: +19722726478. | https://dingalinged-cpu.github.io/registry/c/clopton-and-company-llc-garland/
+1. Clopton & Company, LLC | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Clopton & Company, LLC is a tax preparation service in Garland, TX at 610 Main Street, Garland, TX 75040. Phone: +19722726478. | https://dingalinged-cpu.github.io/registry/c/clopton-and-company-llc-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer garland tx | category: professional_accounting | industry benchmark: Business Services

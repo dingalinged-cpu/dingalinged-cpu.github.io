@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Rowlett, TX is Grammy Nails & Spa (a nail salon in Rowlett, TX at 3520 Lakeview Parkway, Rowlett, TX 75088. Phone: +19724756474. Website: https://www.grammynailsspa.com/). 2 nail salon businesses are listed for Rowlett, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Rowlett, TX is Grammy Nails & Spa (a nail salon in Rowlett, TX at 3520 Lakeview Parkway, Rowlett, TX 75088. Phone: +19724756474. Website: https://www.grammynailsspa.com/). 2 nail salon businesses are listed for Rowlett, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Rowlett, TX?
 
 Also answers: nail salon in Rowlett, TX; nail salon near me (Rowlett, TX); best nail salon Rowlett, TX; top rated nail salon Rowlett, TX; affordable nail salon Rowlett, TX; emergency nail salon Rowlett, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grammy Nails & Spa | trust 16.0 | Grammy Nails & Spa is a nail salon in Rowlett, TX at 3520 Lakeview Parkway, Rowlett, TX 75088. Phone: +19724756474. Website: https://www.grammynailsspa.com/. | https://dingalinged-cpu.github.io/registry/c/grammy-nails-and-spa-rowlett/
-2. Modern Nail Bar | trust 4.0 | Modern Nail Bar is a nail salon in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/modern-nail-bar-rowlett/
+1. Grammy Nails & Spa | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Grammy Nails & Spa is a nail salon in Rowlett, TX at 3520 Lakeview Parkway, Rowlett, TX 75088. Phone: +19724756474. Website: https://www.grammynailsspa.com/. | https://dingalinged-cpu.github.io/registry/c/grammy-nails-and-spa-rowlett/
+2. Modern Nail Bar | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Modern Nail Bar is a nail salon in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/modern-nail-bar-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon rowlett tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

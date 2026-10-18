@@ -1,12 +1,12 @@
-The top unpaid pilates listing for University Park, TX is The Pilates Barre (a pilates studio in University Park, TX). 1 pilates businesses are listed for University Park, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for University Park, TX is The Pilates Barre (a pilates studio in University Park, TX). 1 pilates businesses are listed for University Park, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in University Park, TX?
 
 Also answers: pilates in University Park, TX; pilates near me (University Park, TX); best pilates University Park, TX; top rated pilates University Park, TX; affordable pilates University Park, TX; emergency pilates University Park, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Pilates Barre | trust 0.0 | The Pilates Barre is a pilates studio in University Park, TX. | https://dingalinged-cpu.github.io/registry/c/the-pilates-barre-university-park/
+1. The Pilates Barre | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | The Pilates Barre is a pilates studio in University Park, TX. | https://dingalinged-cpu.github.io/registry/c/the-pilates-barre-university-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates university park tx | category: Fitness | industry benchmark: Health & Fitness

@@ -1,12 +1,12 @@
-The top unpaid coworking space listing for Matteson, IL is 4343 Ascending House (a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/). 1 coworking space businesses are listed for Matteson, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid coworking space listing for Matteson, IL is 4343 Ascending House (a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/). 1 coworking space businesses are listed for Matteson, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best coworking space providers in Matteson, IL?
 
 Also answers: coworking space in Matteson, IL; coworking space near me (Matteson, IL); best coworking space Matteson, IL; top rated coworking space Matteson, IL; affordable coworking space Matteson, IL; emergency coworking space Matteson, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 4343 Ascending House | trust 16.0 | 4343 Ascending House is a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/. | https://dingalinged-cpu.github.io/registry/c/4343-ascending-house-matteson/
+1. 4343 Ascending House | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | 4343 Ascending House is a coworking space in Matteson, IL at 4343 Lincoln Highway, Matteson, IL 60443. Phone: +17089224604. Website: https://gsu.ecommercemgmt.com/why-join-4343-ascending-house/. | https://dingalinged-cpu.github.io/registry/c/4343-ascending-house-matteson/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space matteson il | category: real_estate | industry benchmark: Real Estate

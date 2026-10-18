@@ -13,7 +13,7 @@ Purity Nails 21 is a nail salon in Atlanta, GA at 985 Monroe Drive Northeast #A,
 - Website: https://puritynails21.us/
 - Email: info@puritynails21.us
 - Opening hours (OSM syntax): Mo off; Tu-Sa 10:00-19:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 8% of nail salons in Atlanta, #5 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

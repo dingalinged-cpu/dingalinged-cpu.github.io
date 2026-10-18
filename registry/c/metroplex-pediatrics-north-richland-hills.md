@@ -13,7 +13,7 @@ Metroplex Pediatrics is a pediatrician in North Richland Hills, TX at 6905 Davis
 - Website: https://www.metroplexpediatrics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 15% of pediatricians in Dallas–Fort Worth, #1 of 1 pediatricians in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

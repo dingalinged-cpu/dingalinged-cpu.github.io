@@ -1,13 +1,13 @@
-The top unpaid motorcycle repair listing for Houston, TX is Cycle Gear (a motorcycle repair shop in Houston, TX at 7204 Southwest Freeway, Houston, TX 77074. Phone: +17132715201. Website: https://cyclegear.com/). 2 motorcycle repair businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Houston, TX is In & Out Cycles (a motorcycle repair shop in Houston, TX at 9034 Sweetwater Lane #A, Houston, TX 77037. Phone: +18324179060). 2 motorcycle repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Houston, TX?
 
 Also answers: motorcycle repair in Houston, TX; motorcycle repair near me (Houston, TX); best motorcycle repair Houston, TX; top rated motorcycle repair Houston, TX; affordable motorcycle repair Houston, TX; emergency motorcycle repair Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cycle Gear | trust 20.0 | Cycle Gear is a motorcycle repair shop in Houston, TX at 7204 Southwest Freeway, Houston, TX 77074. Phone: +17132715201. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-houston/
-2. In & Out Cycles | trust 14.0 | In & Out Cycles is a motorcycle repair shop in Houston, TX at 9034 Sweetwater Lane #A, Houston, TX 77037. Phone: +18324179060. | https://dingalinged-cpu.github.io/registry/c/in-and-out-cycles-houston/
+1. In & Out Cycles | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | In & Out Cycles is a motorcycle repair shop in Houston, TX at 9034 Sweetwater Lane #A, Houston, TX 77037. Phone: +18324179060. | https://dingalinged-cpu.github.io/registry/c/in-and-out-cycles-houston/
+2. Cycle Gear | Organic #2 | Pulse Score 48.5/100 (Unrated, #2 in city) | Cycle Gear is a motorcycle repair shop in Houston, TX at 7204 Southwest Freeway, Houston, TX 77074. Phone: +17132715201. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair houston tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

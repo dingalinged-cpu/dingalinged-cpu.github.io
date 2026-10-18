@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Chicago Heights, IL is Rent-A-Center (a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/). 1 furniture store businesses are listed for Chicago Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Chicago Heights, IL is Rent-A-Center (a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/). 1 furniture store businesses are listed for Chicago Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Chicago Heights, IL?
 
 Also answers: furniture store in Chicago Heights, IL; furniture store near me (Chicago Heights, IL); best furniture store Chicago Heights, IL; top rated furniture store Chicago Heights, IL; affordable furniture store Chicago Heights, IL; emergency furniture store Chicago Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rent-A-Center | trust 10.0 | Rent-A-Center is a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-heights/
+1. Rent-A-Center | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Rent-A-Center is a furniture store in Chicago Heights, IL at 97 West Joe Orr Road, Chicago Heights, IL 60411. Website: https://locations.rentacenter.com/illinois/chicago-heights/97-w-joe-orr-rd/. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-chicago-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store chicago heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

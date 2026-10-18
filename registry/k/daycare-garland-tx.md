@@ -1,15 +1,15 @@
-The top unpaid daycare listing for Garland, TX is Little Butterflies Learning Center (a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/). 4 daycare businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Garland, TX is Little Butterflies Learning Center (a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/). 4 daycare businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Garland, TX?
 
 Also answers: daycare in Garland, TX; daycare near me (Garland, TX); best daycare Garland, TX; top rated daycare Garland, TX; affordable daycare Garland, TX; emergency daycare Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Butterflies Learning Center | trust 20.0 | Little Butterflies Learning Center is a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/. | https://dingalinged-cpu.github.io/registry/c/little-butterflies-learning-center-garland/
-2. Kids Central | trust 4.0 | Kids Central is a daycare in Garland, TX at 2319 Guthrie Road, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/kids-central-garland/
-3. Handprints Academy | trust 3.0 | Handprints Academy is a daycare in Garland, TX at 2409 College Avenue, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland/
-4. Handprints Academy | trust 3.0 | Handprints Academy is a daycare in Garland, TX at 2422 College Avenue, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland-w651584504/
+1. Little Butterflies Learning Center | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Little Butterflies Learning Center is a daycare in Garland, TX at 2814 Lavon Dr., Garland, TX 75040. Phone: +19729551488. Website: https://littlebutterflieslc.org/. | https://dingalinged-cpu.github.io/registry/c/little-butterflies-learning-center-garland/
+2. Kids Central | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Kids Central is a daycare in Garland, TX at 2319 Guthrie Road, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/kids-central-garland/
+3. Handprints Academy | Organic #3 | Pulse Score 46.5/100 (Unrated, #3 in city) | Handprints Academy is a daycare in Garland, TX at 2409 College Avenue, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland/
+4. Handprints Academy | Organic #4 | Pulse Score 46.5/100 (Unrated, #4 in city) | Handprints Academy is a daycare in Garland, TX at 2422 College Avenue, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-garland-w651584504/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare garland tx | category: Education & childcare | industry benchmark: Education & Instruction

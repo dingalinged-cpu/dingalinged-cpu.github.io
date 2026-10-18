@@ -13,7 +13,7 @@ Cambridge Liquor Store is a liquor store in Cambridge, WI at 109 Jefferson St., 
 - Website: https://www.cambridgecooler.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of liquor stores in Madison, #1 of 1 liquor stores in Cambridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Gotta Dance is a dance studio in Plano, TX at 3131 Custer Road, Plano, TX 75075.
 - Website: https://gottadanceplano.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 29% of dance studios in Dallas–Fort Worth, #2 of 5 dance studios in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

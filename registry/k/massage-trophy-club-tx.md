@@ -1,12 +1,12 @@
-The top unpaid massage listing for Trophy Club, TX is Foot Palace (a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124, Trophy Club, TX 76262. Phone: +18175000558. Website: https://footpalacespa.online/). 1 massage businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Trophy Club, TX is Foot Palace (a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124, Trophy Club, TX 76262. Phone: +18175000558. Website: https://footpalacespa.online/). 1 massage businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Trophy Club, TX?
 
 Also answers: massage in Trophy Club, TX; massage near me (Trophy Club, TX); best massage Trophy Club, TX; top rated massage Trophy Club, TX; affordable massage Trophy Club, TX; emergency massage Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot Palace | trust 20.0 | Foot Palace is a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124, Trophy Club, TX 76262. Phone: +18175000558. Website: https://footpalacespa.online/. | https://dingalinged-cpu.github.io/registry/c/foot-palace-trophy-club/
+1. Foot Palace | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Foot Palace is a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124, Trophy Club, TX 76262. Phone: +18175000558. Website: https://footpalacespa.online/. | https://dingalinged-cpu.github.io/registry/c/foot-palace-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage trophy club tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid accounting services listing for Union Grove, WI is Franz Accountant & Tax Services (an accountant in Union Grove, WI). 2 accounting services businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Union Grove, WI is Franz Accountant & Tax Services (an accountant in Union Grove, WI). 2 accounting services businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Union Grove, WI?
 
 Also answers: accounting services in Union Grove, WI; accounting services near me (Union Grove, WI); best accounting services Union Grove, WI; top rated accounting services Union Grove, WI; affordable accounting services Union Grove, WI; emergency accounting services Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Franz Accountant & Tax Services | trust 0.0 | Franz Accountant & Tax Services is an accountant in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/franz-accountant-and-tax-services-union-grove/
-2. McMahon Veltus S.C. | trust 0.0 | McMahon Veltus S.C. is an accountant in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/mcmahon-veltus-s-c-union-grove/
+1. Franz Accountant & Tax Services | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Franz Accountant & Tax Services is an accountant in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/franz-accountant-and-tax-services-union-grove/
+2. McMahon Veltus S.C. | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | McMahon Veltus S.C. is an accountant in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/mcmahon-veltus-s-c-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services union grove wi | category: professional_accounting | industry benchmark: Business Services

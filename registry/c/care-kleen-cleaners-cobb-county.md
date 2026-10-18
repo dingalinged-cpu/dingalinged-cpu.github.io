@@ -13,7 +13,7 @@ Care Kleen Cleaners is a dry cleaner in Cobb County, GA at 4719 Lower Roswell Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 29% of dry cleaners in Atlanta, #8 of 24 dry cleaners in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

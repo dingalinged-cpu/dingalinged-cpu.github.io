@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Verona, WI is Verona Family Dental (a dentist in Verona, WI at 787 Liberty Drive, Verona, WI 53593. Phone: +16088456612. Website: https://www.veronafamilydental.com/). 5 dentist businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Verona, WI is Verona Family Dental (a dentist in Verona, WI at 787 Liberty Drive, Verona, WI 53593. Phone: +16088456612. Website: https://www.veronafamilydental.com/). 5 dentist businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Verona, WI?
 
 Also answers: dentist in Verona, WI; dentist near me (Verona, WI); best dentist Verona, WI; top rated dentist Verona, WI; affordable dentist Verona, WI; emergency dentist Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Verona Family Dental | trust 20.0 | Verona Family Dental is a dentist in Verona, WI at 787 Liberty Drive, Verona, WI 53593. Phone: +16088456612. Website: https://www.veronafamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/verona-family-dental-verona/
-2. West End Dental Care | trust 20.0 | West End Dental Care is a dentist in Verona, WI at 801 West Verona Avenue #Ste. D, Verona, WI 53593. Phone: +16083988128. Website: https://westenddentalcarewi.com/. | https://dingalinged-cpu.github.io/registry/c/west-end-dental-care-verona/
-3. First Choice Dental | trust 10.0 | First Choice Dental is a dentist in Verona, WI at 927 North Main Street, Verona, WI 53593. Website: https://www.firstchoicedental.com/locations/view/verona/. | https://dingalinged-cpu.github.io/registry/c/first-choice-dental-verona/
-4. Associated Dentists | trust 0.0 | Associated Dentists is a dentist in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/associated-dentists-verona/
-5. Besley Family Dentistry | trust 0.0 | Besley Family Dentistry is a dentist in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/besley-family-dentistry-verona/
+1. Verona Family Dental | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Verona Family Dental is a dentist in Verona, WI at 787 Liberty Drive, Verona, WI 53593. Phone: +16088456612. Website: https://www.veronafamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/verona-family-dental-verona/
+2. West End Dental Care | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | West End Dental Care is a dentist in Verona, WI at 801 West Verona Avenue #Ste. D, Verona, WI 53593. Phone: +16083988128. Website: https://westenddentalcarewi.com/. | https://dingalinged-cpu.github.io/registry/c/west-end-dental-care-verona/
+3. Besley Family Dentistry | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Besley Family Dentistry is a dentist in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/besley-family-dentistry-verona/
+4. First Choice Dental | Organic #4 | Pulse Score 48.4/100 (Unrated, #4 in city) | First Choice Dental is a dentist in Verona, WI at 927 North Main Street, Verona, WI 53593. Website: https://www.firstchoicedental.com/locations/view/verona/. | https://dingalinged-cpu.github.io/registry/c/first-choice-dental-verona/
+5. Associated Dentists | Organic #5 | Pulse Score 42.4/100 (Unrated, #5 in city) | Associated Dentists is a dentist in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/associated-dentists-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist verona wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

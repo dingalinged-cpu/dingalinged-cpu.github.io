@@ -13,7 +13,7 @@ Star Liquor is a liquor store in Madison, WI at 1209 Williamson Street, Madison,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 100% of liquor stores in Madison, #25 of 25 liquor stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

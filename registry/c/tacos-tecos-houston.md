@@ -13,7 +13,7 @@ Tacos Tecos is a caterer in Houston, TX at 17350 State Highway 249 #STE 220 #122
 - Website: https://tacostecoshtx.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 20% of caterers in Houston, #1 of 3 caterers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

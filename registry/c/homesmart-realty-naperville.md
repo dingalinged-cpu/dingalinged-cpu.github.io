@@ -13,7 +13,7 @@ HomeSmart Realty is a real estate agency in Naperville, IL at 651 North Washingt
 - Website: https://homesmart.com/real-estate-office/office/naperville-il/naperville---homesmart-realty-group/hs0032
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 16% of real estate agencys in Chicago, #3 of 9 real estate agencys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

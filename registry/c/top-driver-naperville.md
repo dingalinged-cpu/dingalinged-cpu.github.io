@@ -13,7 +13,7 @@ Top Driver is a driving school in Naperville, IL at 1013 West Ogden Avenue #B, N
 - Website: https://www.topdriver.com/driving-school/naperville/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Unrated (not enough evidence yet) — top 93% of driving schools in Chicago, #2 of 2 driving schools in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Baytown, TX is Petco (a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. Phone: +12814274374. Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html). 2 pet store businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Baytown, TX is Petco (a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. Phone: +12814274374. Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html). 2 pet store businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Baytown, TX?
 
 Also answers: pet store in Baytown, TX; pet store near me (Baytown, TX); best pet store Baytown, TX; top rated pet store Baytown, TX; affordable pet store Baytown, TX; emergency pet store Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. Phone: +12814274374. Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html. | https://dingalinged-cpu.github.io/registry/c/petco-baytown/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Baytown, TX at 6345 Garth Road #140, Baytown, TX 77521. Phone: +13462163983. Website: https://www.petsmart.com/stores/us/tx/baytown-store3011.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-baytown/
+1. Petco | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | Petco is a pet store in Baytown, TX at 4665 Garth Road #400, Baytown, TX 77521. Phone: +12814274374. Website: https://stores.petco.com/tx/baytown/pet-supplies-baytown-tx-1487.html. | https://dingalinged-cpu.github.io/registry/c/petco-baytown/
+2. PetSmart | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | PetSmart is a pet store in Baytown, TX at 6345 Garth Road #140, Baytown, TX 77521. Phone: +13462163983. Website: https://www.petsmart.com/stores/us/tx/baytown-store3011.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store baytown tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

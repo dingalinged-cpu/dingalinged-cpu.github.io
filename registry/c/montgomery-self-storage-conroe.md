@@ -13,7 +13,7 @@ Montgomery Self Storage is a self-storage facility in Conroe, TX at 1418 FM 2854
 - Website: https://www.montgomeryss.com/locations/fm-2854/
 - Email: mssfm2854@montgomeryss.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00, Sa 09:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of self-storage facilitys in Houston, #1 of 3 self-storage facilitys in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

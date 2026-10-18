@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Mckinney, TX is Guidepost Montessori (a preschool in McKinney, TX at 7508 Eldorado Parkway, McKinney, TX 75070). 3 preschool businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Mckinney, TX is Daffodils Montessori Preschool (a preschool in McKinney, TX). 3 preschool businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Mckinney, TX?
 
 Also answers: preschool in Mckinney, TX; preschool near me (Mckinney, TX); best preschool Mckinney, TX; top rated preschool Mckinney, TX; affordable preschool Mckinney, TX; emergency preschool Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Guidepost Montessori | trust 4.0 | Guidepost Montessori is a preschool in McKinney, TX at 7508 Eldorado Parkway, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-mckinney/
-2. KinderCare | trust 3.0 | KinderCare is a preschool in McKinney, TX at 2901 Alma Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/kindercare-mckinney/
-3. Daffodils Montessori Preschool | trust 0.0 | Daffodils Montessori Preschool is a preschool in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/daffodils-montessori-preschool-mckinney/
+1. Daffodils Montessori Preschool | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Daffodils Montessori Preschool is a preschool in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/daffodils-montessori-preschool-mckinney/
+2. KinderCare | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | KinderCare is a preschool in McKinney, TX at 2901 Alma Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/kindercare-mckinney/
+3. Guidepost Montessori | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Guidepost Montessori is a preschool in McKinney, TX at 7508 Eldorado Parkway, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool mckinney tx | category: Education & childcare | industry benchmark: Education & Instruction

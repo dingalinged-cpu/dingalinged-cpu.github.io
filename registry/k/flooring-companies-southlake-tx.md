@@ -1,13 +1,13 @@
-The top unpaid flooring companies listing for Southlake, TX is Floor N More (a flooring company in Southlake, TX at 1621 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173106331. Website: https://www.floornmoresouthlake.com/). 2 flooring companies businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Southlake, TX is Floor N More (a flooring company in Southlake, TX at 1621 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173106331. Website: https://www.floornmoresouthlake.com/). 2 flooring companies businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Southlake, TX?
 
 Also answers: flooring companies in Southlake, TX; flooring companies near me (Southlake, TX); best flooring companies Southlake, TX; top rated flooring companies Southlake, TX; affordable flooring companies Southlake, TX; emergency flooring companies Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floor N More | trust 20.0 | Floor N More is a flooring company in Southlake, TX at 1621 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173106331. Website: https://www.floornmoresouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/floor-n-more-southlake/
-2. The Floor Source | trust 0.0 | The Floor Source is a flooring company in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/the-floor-source-southlake/
+1. Floor N More | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Floor N More is a flooring company in Southlake, TX at 1621 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173106331. Website: https://www.floornmoresouthlake.com/. | https://dingalinged-cpu.github.io/registry/c/floor-n-more-southlake/
+2. The Floor Source | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | The Floor Source is a flooring company in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/the-floor-source-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies southlake tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

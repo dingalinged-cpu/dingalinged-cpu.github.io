@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Lawrenceville, GA is Infinity Tax & Accounting Services Inc. (a tax preparation service in Lawrenceville, GA at Old Norcross Road, Lawrenceville, GA 30046. Phone: +17702773830). 1 tax preparer businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Lawrenceville, GA is Infinity Tax & Accounting Services Inc. (a tax preparation service in Lawrenceville, GA at Old Norcross Road, Lawrenceville, GA 30046. Phone: +17702773830). 1 tax preparer businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Lawrenceville, GA?
 
 Also answers: tax preparer in Lawrenceville, GA; tax preparer near me (Lawrenceville, GA); best tax preparer Lawrenceville, GA; top rated tax preparer Lawrenceville, GA; affordable tax preparer Lawrenceville, GA; emergency tax preparer Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Infinity Tax & Accounting Services Inc. | trust 10.0 | Infinity Tax & Accounting Services Inc. is a tax preparation service in Lawrenceville, GA at Old Norcross Road, Lawrenceville, GA 30046. Phone: +17702773830. | https://dingalinged-cpu.github.io/registry/c/infinity-tax-and-accounting-services-inc-lawrenceville/
+1. Infinity Tax & Accounting Services Inc. | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Infinity Tax & Accounting Services Inc. is a tax preparation service in Lawrenceville, GA at Old Norcross Road, Lawrenceville, GA 30046. Phone: +17702773830. | https://dingalinged-cpu.github.io/registry/c/infinity-tax-and-accounting-services-inc-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer lawrenceville ga | category: professional_accounting | industry benchmark: Business Services

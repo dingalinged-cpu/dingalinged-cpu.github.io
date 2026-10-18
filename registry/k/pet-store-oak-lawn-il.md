@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Oak Lawn, IL is Petco (a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 60453. Phone: +17084304400. Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html). 2 pet store businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Oak Lawn, IL is Petco (a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 60453. Phone: +17084304400. Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html). 2 pet store businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Oak Lawn, IL?
 
 Also answers: pet store in Oak Lawn, IL; pet store near me (Oak Lawn, IL); best pet store Oak Lawn, IL; top rated pet store Oak Lawn, IL; affordable pet store Oak Lawn, IL; emergency pet store Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 60453. Phone: +17084304400. Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html. | https://dingalinged-cpu.github.io/registry/c/petco-oak-lawn/
-2. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a pet store in Oak Lawn, IL at 8717 South Ridgeland Avenue, Oak Lawn, IL 60453. Website: https://www.petsuppliesplus.com/Store/IL/Oak-Lawn/Oak-Lawn/4101. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-oak-lawn/
+1. Petco | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Petco is a pet store in Oak Lawn, IL at 6220 West 95th Street, Oak Lawn, IL 60453. Phone: +17084304400. Website: https://stores.petco.com/il/oaklawn/pet-supplies-oaklawn-il-868.html. | https://dingalinged-cpu.github.io/registry/c/petco-oak-lawn/
+2. Pet Supplies Plus | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | Pet Supplies Plus is a pet store in Oak Lawn, IL at 8717 South Ridgeland Avenue, Oak Lawn, IL 60453. Website: https://www.petsuppliesplus.com/Store/IL/Oak-Lawn/Oak-Lawn/4101. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store oak lawn il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

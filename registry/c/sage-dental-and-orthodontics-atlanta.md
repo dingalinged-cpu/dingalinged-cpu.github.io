@@ -13,7 +13,7 @@ Sage Dental & Orthodontics is a dentist in Atlanta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Fair — top 38% of dentists in Atlanta, #16 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

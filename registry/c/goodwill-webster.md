@@ -13,7 +13,7 @@ Goodwill is a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX.
 - Website: https://www.goodwillhouston.org/locations/nasa/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 45% of thrift stores in Houston, #3 of 3 thrift stores in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

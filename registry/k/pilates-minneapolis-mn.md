@@ -1,14 +1,14 @@
-The top unpaid pilates listing for Minneapolis, MN is Club Pilates (a pilates studio in Minneapolis, MN at 3200B Lake Street West, Minneapolis, MN 55416. Phone: +16125640677. Website: https://www.clubpilates.com/location/minneapolislakes). 3 pilates businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Minneapolis, MN is Sunna (a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/). 3 pilates businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Minneapolis, MN?
 
 Also answers: pilates in Minneapolis, MN; pilates near me (Minneapolis, MN); best pilates Minneapolis, MN; top rated pilates Minneapolis, MN; affordable pilates Minneapolis, MN; emergency pilates Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | trust 20.0 | Club Pilates is a pilates studio in Minneapolis, MN at 3200B Lake Street West, Minneapolis, MN 55416. Phone: +16125640677. Website: https://www.clubpilates.com/location/minneapolislakes. | https://dingalinged-cpu.github.io/registry/c/club-pilates-minneapolis/
-2. Pilates Underground | trust 16.0 | Pilates Underground is a pilates studio in Minneapolis, MN at 3153 Hennepin Avenue South #210, Minneapolis, MN 55408. Phone: +16129862727. Website: https://www.pilates-underground.com/. | https://dingalinged-cpu.github.io/registry/c/pilates-underground-minneapolis/
-3. Sunna | trust 16.0 | Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/. | https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
+1. Sunna | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Sunna is a pilates studio in Minneapolis, MN at 514 Southeast 2nd Street #105, Minneapolis, MN 55414. Phone: +16124171991. Website: https://www.spacesunna.com/. | https://dingalinged-cpu.github.io/registry/c/sunna-minneapolis/
+2. Pilates Underground | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Pilates Underground is a pilates studio in Minneapolis, MN at 3153 Hennepin Avenue South #210, Minneapolis, MN 55408. Phone: +16129862727. Website: https://www.pilates-underground.com/. | https://dingalinged-cpu.github.io/registry/c/pilates-underground-minneapolis/
+3. Club Pilates | Organic #3 | Pulse Score 50.6/100 (Fair, #3 in city) | Club Pilates is a pilates studio in Minneapolis, MN at 3200B Lake Street West, Minneapolis, MN 55416. Phone: +16125640677. Website: https://www.clubpilates.com/location/minneapolislakes. | https://dingalinged-cpu.github.io/registry/c/club-pilates-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates minneapolis mn | category: Fitness | industry benchmark: Health & Fitness

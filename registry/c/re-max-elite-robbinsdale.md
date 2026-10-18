@@ -13,7 +13,7 @@ RE/MAX Elite is a real estate agency in Robbinsdale, MN at 403 West Broadway Ave
 - Website: https://www.mnelitehomes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 84% of real estate agencys in Minneapolis–St. Paul, #2 of 2 real estate agencys in Robbinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405
 - Website: https://thetirepatch.com/
 - Email: bandptire@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-15:30; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 1% of auto repair shops in Atlanta, #1 of 13 auto repair shops in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

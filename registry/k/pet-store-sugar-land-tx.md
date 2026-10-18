@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Sugar Land, TX is Petco (a pet store in Sugar Land, TX at 3326 State Highway 6 South #D, Sugar Land, TX 77478. Phone: +12812650700. Website: https://stores.petco.com/tx/sugarland/pet-supplies-sugarland-tx-462.html). 3 pet store businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Sugar Land, TX is PetSmart (a pet store in Sugar Land, TX at 16758 Southwest Freeway, Sugar Land, TX 77479. Phone: +12814948787. Website: https://www.petsmart.com/stores/us/tx/sugarland-store0631.html). 3 pet store businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Sugar Land, TX?
 
 Also answers: pet store in Sugar Land, TX; pet store near me (Sugar Land, TX); best pet store Sugar Land, TX; top rated pet store Sugar Land, TX; affordable pet store Sugar Land, TX; emergency pet store Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Sugar Land, TX at 3326 State Highway 6 South #D, Sugar Land, TX 77478. Phone: +12812650700. Website: https://stores.petco.com/tx/sugarland/pet-supplies-sugarland-tx-462.html. | https://dingalinged-cpu.github.io/registry/c/petco-sugar-land/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Sugar Land, TX at 16758 Southwest Freeway, Sugar Land, TX 77479. Phone: +12814948787. Website: https://www.petsmart.com/stores/us/tx/sugarland-store0631.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-sugar-land/
-3. Natural Pawz | trust 4.0 | Natural Pawz is a pet store in Sugar Land, TX at 18841 University Boulevard #400, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-sugar-land/
+1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Sugar Land, TX at 16758 Southwest Freeway, Sugar Land, TX 77479. Phone: +12814948787. Website: https://www.petsmart.com/stores/us/tx/sugarland-store0631.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-sugar-land/
+2. Petco | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Petco is a pet store in Sugar Land, TX at 3326 State Highway 6 South #D, Sugar Land, TX 77478. Phone: +12812650700. Website: https://stores.petco.com/tx/sugarland/pet-supplies-sugarland-tx-462.html. | https://dingalinged-cpu.github.io/registry/c/petco-sugar-land/
+3. Natural Pawz | Organic #3 | Pulse Score 43.7/100 (Unrated, #3 in city) | Natural Pawz is a pet store in Sugar Land, TX at 18841 University Boulevard #400, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store sugar land tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

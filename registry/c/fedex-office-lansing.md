@@ -13,7 +13,7 @@ FedEx Office is a printing service in Lansing, IL at 16701 Torrence Avenue, Lans
 - Website: https://local.fedex.com/en-us/il/lansing/office-0649
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 26% of printing services in Chicago, #1 of 1 printing services in Lansing (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Dallas, GA is Mister Car Wash (a car wash in Dallas, GA at 44 Aspen Drive, Dallas, GA 30157). 1 car wash businesses are listed for Dallas, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Dallas, GA is Mister Car Wash (a car wash in Dallas, GA at 44 Aspen Drive, Dallas, GA 30157). 1 car wash businesses are listed for Dallas, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Dallas, GA?
 
 Also answers: car wash in Dallas, GA; car wash near me (Dallas, GA); best car wash Dallas, GA; top rated car wash Dallas, GA; affordable car wash Dallas, GA; emergency car wash Dallas, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | trust 4.0 | Mister Car Wash is a car wash in Dallas, GA at 44 Aspen Drive, Dallas, GA 30157. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-dallas/
+1. Mister Car Wash | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Mister Car Wash is a car wash in Dallas, GA at 44 Aspen Drive, Dallas, GA 30157. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash dallas ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

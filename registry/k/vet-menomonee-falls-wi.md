@@ -1,13 +1,13 @@
-The top unpaid vet listing for Menomonee Falls, WI is Brook-Falls Veterinary Hospital & Exotic Care, Inc. (a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/). 2 vet businesses are listed for Menomonee Falls, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Menomonee Falls, WI is Brook-Falls Veterinary Hospital & Exotic Care, Inc. (a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/). 2 vet businesses are listed for Menomonee Falls, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Menomonee Falls, WI?
 
 Also answers: vet in Menomonee Falls, WI; vet near me (Menomonee Falls, WI); best vet Menomonee Falls, WI; top rated vet Menomonee Falls, WI; affordable vet Menomonee Falls, WI; emergency vet Menomonee Falls, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brook-Falls Veterinary Hospital & Exotic Care, Inc. | trust 20.0 | Brook-Falls Veterinary Hospital & Exotic Care, Inc. is a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/. | https://dingalinged-cpu.github.io/registry/c/brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls/
-2. Family Pet Clinic | trust 4.0 | Family Pet Clinic is a veterinarian in Menomonee Falls, WI at N73W13583 Appleton Avenue, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/family-pet-clinic-menomonee-falls/
+1. Brook-Falls Veterinary Hospital & Exotic Care, Inc. | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Brook-Falls Veterinary Hospital & Exotic Care, Inc. is a veterinarian in Menomonee Falls, WI at N48W14850 Lisbon Road, Menomonee Falls, WI 53051. Phone: +12627815277. Website: https://brookfallsveterinary.com/. | https://dingalinged-cpu.github.io/registry/c/brook-falls-veterinary-hospital-and-exotic-care-inc-menomonee-falls/
+2. Family Pet Clinic | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Family Pet Clinic is a veterinarian in Menomonee Falls, WI at N73W13583 Appleton Avenue, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/family-pet-clinic-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet menomonee falls wi | category: Pets | industry benchmark: Animals & Pets

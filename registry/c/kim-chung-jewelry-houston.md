@@ -13,7 +13,7 @@ Kim Chung Jewelry is a jewelry store in Houston, TX at 9896 Bellaire Boulevard #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 17% of jewelry stores in Houston, #17 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

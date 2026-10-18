@@ -13,7 +13,7 @@ Potter Liquor is a liquor store in Friendswood, TX at 412 North Friendswood Driv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 11% of liquor stores in Houston, #1 of 2 liquor stores in Friendswood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

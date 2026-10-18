@@ -13,7 +13,7 @@ The William B. Hare Company is a real estate agency in Alpharetta, GA at 8525 Dr
 - Website: https://thewilliambharecompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 28% of real estate agencys in Atlanta, #1 of 3 real estate agencys in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

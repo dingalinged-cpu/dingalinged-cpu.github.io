@@ -13,7 +13,7 @@ Incidentals is a gift shop in Downers Grove, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 50% of gift shops in Chicago, #1 of 2 gift shops in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 46.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

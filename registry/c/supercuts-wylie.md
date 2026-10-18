@@ -13,7 +13,7 @@ Supercuts is a hair salon in Wylie, TX at 330 South State Highway 78 #Suite 300,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 88% of hair salons in Dallas–Fort Worth, #5 of 7 hair salons in Wylie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

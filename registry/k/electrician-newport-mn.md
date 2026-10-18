@@ -1,12 +1,12 @@
-The top unpaid electrician listing for Newport, MN is Daley Electric (an electrician in Newport, MN at 222 21st Street, Newport, MN 55055). 1 electrician businesses are listed for Newport, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Newport, MN is Daley Electric (an electrician in Newport, MN at 222 21st Street, Newport, MN 55055). 1 electrician businesses are listed for Newport, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Newport, MN?
 
 Also answers: electrician in Newport, MN; electrician near me (Newport, MN); best electrician Newport, MN; top rated electrician Newport, MN; affordable electrician Newport, MN; emergency electrician Newport, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Daley Electric | trust 4.0 | Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/daley-electric-newport/
+1. Daley Electric | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Daley Electric is an electrician in Newport, MN at 222 21st Street, Newport, MN 55055. | https://dingalinged-cpu.github.io/registry/c/daley-electric-newport/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician newport mn | category: Home services - Electrical | industry benchmark: Home & Home Improvement

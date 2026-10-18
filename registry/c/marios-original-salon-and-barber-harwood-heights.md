@@ -13,7 +13,7 @@ Mario's Original Salon & Barber is a hair salon in Harwood Heights, IL at 4742 N
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:30, Su 10:00-16:00, "Appointments prefered"
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Chicago, #1 of 5 hair salons in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

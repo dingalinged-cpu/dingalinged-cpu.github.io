@@ -1,12 +1,12 @@
-The top unpaid insulation contractor listing for Bloomington, MN is Affordable Insulation (an insulation contractor in Minneapolis, MN at 8200 Humboldt Avenue South #122, Minneapolis, MN 55431. Phone: +16124352780. Website: https://www.affordableinsulationmn.com/). 1 insulation contractor businesses are listed for Bloomington, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insulation contractor listing for Bloomington, MN is Affordable Insulation (an insulation contractor in Minneapolis, MN at 8200 Humboldt Avenue South #122, Minneapolis, MN 55431. Phone: +16124352780. Website: https://www.affordableinsulationmn.com/). 1 insulation contractor businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insulation contractor providers in Bloomington, MN?
 
 Also answers: insulation contractor in Bloomington, MN; insulation contractor near me (Bloomington, MN); best insulation contractor Bloomington, MN; top rated insulation contractor Bloomington, MN; affordable insulation contractor Bloomington, MN; emergency insulation contractor Bloomington, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Insulation | trust 20.0 | Affordable Insulation is an insulation contractor in Minneapolis, MN at 8200 Humboldt Avenue South #122, Minneapolis, MN 55431. Phone: +16124352780. Website: https://www.affordableinsulationmn.com/. | https://dingalinged-cpu.github.io/registry/c/affordable-insulation-minneapolis/
+1. Affordable Insulation | Organic #1 | Pulse Score 61.5/100 (Unrated, #2 in city) | Affordable Insulation is an insulation contractor in Minneapolis, MN at 8200 Humboldt Avenue South #122, Minneapolis, MN 55431. Phone: +16124352780. Website: https://www.affordableinsulationmn.com/. | https://dingalinged-cpu.github.io/registry/c/affordable-insulation-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: insulation contractor bloomington mn | category: Home services - Insulation | industry benchmark: Home & Home Improvement

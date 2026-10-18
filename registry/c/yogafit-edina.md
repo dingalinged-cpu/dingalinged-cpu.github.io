@@ -13,7 +13,7 @@ YogaFit is a yoga studio in Edina, MN at 4507 France Avenue South, Edina, MN 554
 - Website: https://www.yogafitstudios.com/studios/linden-hills
 - Email: lindenhills@yogafitstudios.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 77% of yoga studios in Minneapolis–St. Paul, #2 of 2 yoga studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.5, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

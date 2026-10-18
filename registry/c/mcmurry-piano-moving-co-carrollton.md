@@ -13,7 +13,7 @@ McMurry Piano Moving Co. is a moving company in Carrollton, TX at 1717 East Cros
 - Website: https://pianosonthemove.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 29% of moving companys in Dallas–Fort Worth, #1 of 1 moving companys in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

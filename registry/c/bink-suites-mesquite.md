@@ -13,7 +13,7 @@ Bink Suites is a barber shop in Mesquite, TX at 111 West Main Street, Mesquite, 
 - Website: https://marcus-brandon.square.site/
 - Email: bink777bink@gmail.com
 - Opening hours (OSM syntax): Fr 08:00-12:00; Sa 07:00-12:00
-- Registry Score: 66.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 7% of barber shops in Dallas–Fort Worth, #1 of 1 barber shops in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

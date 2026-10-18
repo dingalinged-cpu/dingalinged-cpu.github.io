@@ -1,31 +1,31 @@
-The top unpaid mechanic listing for Lilburn, GA is Brookwood Tire & Auto (an auto repair shop in Lilburn, GA at 3099 Five Forks Trickum Road Southwest, Lilburn, GA 30047. Phone: +17709856288. Website: https://www.brookwoodtireauto.com/). 20 mechanic businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Lilburn, GA is Brookwood Tire & Auto (an auto repair shop in Lilburn, GA at 3099 Five Forks Trickum Road Southwest, Lilburn, GA 30047. Phone: +17709856288. Website: https://www.brookwoodtireauto.com/). 20 mechanic businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Lilburn, GA?
 
 Also answers: mechanic in Lilburn, GA; mechanic near me (Lilburn, GA); best mechanic Lilburn, GA; top rated mechanic Lilburn, GA; affordable mechanic Lilburn, GA; emergency mechanic Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brookwood Tire & Auto | trust 20.0 | Brookwood Tire & Auto is an auto repair shop in Lilburn, GA at 3099 Five Forks Trickum Road Southwest, Lilburn, GA 30047. Phone: +17709856288. Website: https://www.brookwoodtireauto.com/. | https://dingalinged-cpu.github.io/registry/c/brookwood-tire-and-auto-lilburn/
-2. Sentry Body & Paint | trust 9.0 | Sentry Body & Paint is an auto repair shop in Lilburn, GA at 4284 Lilburn Industrial Way, Lilburn, GA. Phone: +17702792386. | https://dingalinged-cpu.github.io/registry/c/sentry-body-and-paint-lilburn/
-3. Lilburn Automotive Services | trust 6.0 | Lilburn Automotive Services is an auto repair shop in Lilburn, GA. Phone: +16789241515. | https://dingalinged-cpu.github.io/registry/c/lilburn-automotive-services-lilburn/
-4. KMC Body Shop & Auto Repair | trust 3.0 | KMC Body Shop & Auto Repair is an auto repair shop in Lilburn, GA at 4455 Business Park Court, Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/kmc-body-shop-and-auto-repair-lilburn/
-5. Auto Repair | trust 0.0 | Auto Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/auto-repair-lilburn/
-6. Auto Service | trust 0.0 | Auto Service is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/auto-service-lilburn/
-7. Benny's Auto Repair | trust 0.0 | Benny's Auto Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/bennys-auto-repair-lilburn/
-8. D&P Auto Body Collision Repair | trust 0.0 | D&P Auto Body Collision Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/d-and-p-auto-body-collision-repair-lilburn/
-9. El Norte Auto Repairs | trust 0.0 | El Norte Auto Repairs is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/el-norte-auto-repairs-lilburn/
-10. Firestone | trust 0.0 | Firestone is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-lilburn/
-11. JMB Body Shop | trust 0.0 | JMB Body Shop is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/jmb-body-shop-lilburn/
-12. Killian Auto Service | trust 0.0 | Killian Auto Service is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/killian-auto-service-lilburn/
-13. Metro Dynamic Motors, Inc. | trust 0.0 | Metro Dynamic Motors, Inc. is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/metro-dynamic-motors-inc-lilburn/
-14. Mr. Transmission & Clutch | trust 0.0 | Mr. Transmission & Clutch is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/mr-transmission-and-clutch-lilburn/
-15. OTS Installations | trust 0.0 | OTS Installations is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/ots-installations-lilburn/
-16. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lilburn/
-17. Quickslik Onsite Fleet Services | trust 0.0 | Quickslik Onsite Fleet Services is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/quickslik-onsite-fleet-services-lilburn/
-18. Rivera's Automotive LLC | trust 0.0 | Rivera's Automotive LLC is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/riveras-automotive-llc-lilburn/
-19. Solomon Automotive | trust 0.0 | Solomon Automotive is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/solomon-automotive-lilburn/
-20. Votech Automotive | trust 0.0 | Votech Automotive is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/votech-automotive-lilburn/
+1. Brookwood Tire & Auto | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Brookwood Tire & Auto is an auto repair shop in Lilburn, GA at 3099 Five Forks Trickum Road Southwest, Lilburn, GA 30047. Phone: +17709856288. Website: https://www.brookwoodtireauto.com/. | https://dingalinged-cpu.github.io/registry/c/brookwood-tire-and-auto-lilburn/
+2. Sentry Body & Paint | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Sentry Body & Paint is an auto repair shop in Lilburn, GA at 4284 Lilburn Industrial Way, Lilburn, GA. Phone: +17702792386. | https://dingalinged-cpu.github.io/registry/c/sentry-body-and-paint-lilburn/
+3. Lilburn Automotive Services | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Lilburn Automotive Services is an auto repair shop in Lilburn, GA. Phone: +16789241515. | https://dingalinged-cpu.github.io/registry/c/lilburn-automotive-services-lilburn/
+4. KMC Body Shop & Auto Repair | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | KMC Body Shop & Auto Repair is an auto repair shop in Lilburn, GA at 4455 Business Park Court, Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/kmc-body-shop-and-auto-repair-lilburn/
+5. OTS Installations | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | OTS Installations is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/ots-installations-lilburn/
+6. Benny's Auto Repair | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Benny's Auto Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/bennys-auto-repair-lilburn/
+7. D&P Auto Body Collision Repair | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | D&P Auto Body Collision Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/d-and-p-auto-body-collision-repair-lilburn/
+8. El Norte Auto Repairs | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | El Norte Auto Repairs is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/el-norte-auto-repairs-lilburn/
+9. JMB Body Shop | Organic #9 | Pulse Score 54.9/100 (Unrated, #9 in city) | JMB Body Shop is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/jmb-body-shop-lilburn/
+10. Killian Auto Service | Organic #10 | Pulse Score 54.9/100 (Unrated, #10 in city) | Killian Auto Service is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/killian-auto-service-lilburn/
+11. Metro Dynamic Motors, Inc. | Organic #11 | Pulse Score 54.9/100 (Unrated, #11 in city) | Metro Dynamic Motors, Inc. is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/metro-dynamic-motors-inc-lilburn/
+12. Mr. Transmission & Clutch | Organic #12 | Pulse Score 54.9/100 (Unrated, #12 in city) | Mr. Transmission & Clutch is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/mr-transmission-and-clutch-lilburn/
+13. Quickslik Onsite Fleet Services | Organic #13 | Pulse Score 54.9/100 (Unrated, #13 in city) | Quickslik Onsite Fleet Services is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/quickslik-onsite-fleet-services-lilburn/
+14. Rivera's Automotive LLC | Organic #14 | Pulse Score 54.9/100 (Unrated, #14 in city) | Rivera's Automotive LLC is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/riveras-automotive-llc-lilburn/
+15. Solomon Automotive | Organic #15 | Pulse Score 54.9/100 (Unrated, #15 in city) | Solomon Automotive is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/solomon-automotive-lilburn/
+16. Votech Automotive | Organic #16 | Pulse Score 54.9/100 (Unrated, #16 in city) | Votech Automotive is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/votech-automotive-lilburn/
+17. Auto Service | Organic #17 | Pulse Score 42.9/100 (Unrated, #17 in city) | Auto Service is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/auto-service-lilburn/
+18. Firestone | Organic #18 | Pulse Score 42.7/100 (Building, #18 in city) | Firestone is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-lilburn/
+19. Pep Boys | Organic #19 | Pulse Score 42.4/100 (Building, #19 in city) | Pep Boys is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lilburn/
+20. Auto Repair | Organic #20 | Pulse Score 42.1/100 (Unrated, #20 in city) | Auto Repair is an auto repair shop in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/auto-repair-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lilburn ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

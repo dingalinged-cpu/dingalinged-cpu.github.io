@@ -13,7 +13,7 @@ Hearthstone Animal Clinic is a veterinarian in Houston, TX at 14606 Spencer Road
 - Website: https://hearthstonevet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th,Fr 07:00-18:00; We,Sa 08:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 3% of veterinarians in Houston, #1 of 44 veterinarians in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

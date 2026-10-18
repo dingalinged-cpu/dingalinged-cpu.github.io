@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Leyden Township, IL is Gerber Collision & Glass (an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164). 1 auto body shop businesses are listed for Leyden Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Leyden Township, IL is Gerber Collision & Glass (an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164). 1 auto body shop businesses are listed for Leyden Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Leyden Township, IL?
 
 Also answers: auto body shop in Leyden Township, IL; auto body shop near me (Leyden Township, IL); best auto body shop Leyden Township, IL; top rated auto body shop Leyden Township, IL; affordable auto body shop Leyden Township, IL; emergency auto body shop Leyden Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-melrose-park/
+1. Gerber Collision & Glass | Organic #1 | Pulse Score 45/100 (Building, #4 in city) | Gerber Collision & Glass is an auto repair shop in Melrose Park, IL at 2311 North Mannheim Road, Melrose Park, IL 60164. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop leyden township il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

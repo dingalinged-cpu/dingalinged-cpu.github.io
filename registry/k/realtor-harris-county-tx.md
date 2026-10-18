@@ -1,17 +1,17 @@
-The top unpaid realtor listing for Harris County, TX is Hatfield Realty Group of Keller Williams Professionals (a real estate agency in Harris County, TX. Phone: +13463010011). 6 realtor businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Harris County, TX is Hatfield Realty Group of Keller Williams Professionals (a real estate agency in Harris County, TX. Phone: +13463010011). 6 realtor businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Harris County, TX?
 
 Also answers: realtor in Harris County, TX; realtor near me (Harris County, TX); best realtor Harris County, TX; top rated realtor Harris County, TX; affordable realtor Harris County, TX; emergency realtor Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hatfield Realty Group of Keller Williams Professionals | trust 6.0 | Hatfield Realty Group of Keller Williams Professionals is a real estate agency in Harris County, TX. Phone: +13463010011. | https://dingalinged-cpu.github.io/registry/c/hatfield-realty-group-of-keller-williams-professionals-harris-county/
-2. Black Label Commercial Group | trust 0.0 | Black Label Commercial Group is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/black-label-commercial-group-harris-county/
-3. EXP Realty | trust 0.0 | EXP Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exp-realty-harris-county/
-4. Houston Prime Realty | trust 0.0 | Houston Prime Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/houston-prime-realty-harris-county/
-5. JLA Realty | trust 0.0 | JLA Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jla-realty-harris-county/
-6. Newmark Homes Houston | trust 0.0 | Newmark Homes Houston is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/newmark-homes-houston-harris-county/
+1. Hatfield Realty Group of Keller Williams Professionals | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Hatfield Realty Group of Keller Williams Professionals is a real estate agency in Harris County, TX. Phone: +13463010011. | https://dingalinged-cpu.github.io/registry/c/hatfield-realty-group-of-keller-williams-professionals-harris-county/
+2. Black Label Commercial Group | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Black Label Commercial Group is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/black-label-commercial-group-harris-county/
+3. EXP Realty | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | EXP Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exp-realty-harris-county/
+4. Houston Prime Realty | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Houston Prime Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/houston-prime-realty-harris-county/
+5. JLA Realty | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | JLA Realty is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jla-realty-harris-county/
+6. Newmark Homes Houston | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Newmark Homes Houston is a real estate agency in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/newmark-homes-houston-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor harris county tx | category: real_estate | industry benchmark: Real Estate

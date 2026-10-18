@@ -1,12 +1,12 @@
-The top unpaid moving company listing for Flower Mound, TX is Little Guys Movers (a moving company in Flower Mound, TX at 2624 Long Prairie Road #200, Flower Mound, TX. Phone: +14699056900. Website: https://www.littleguys.com/). 1 moving company businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Flower Mound, TX is Little Guys Movers (a moving company in Flower Mound, TX at 2624 Long Prairie Road #200, Flower Mound, TX. Phone: +14699056900. Website: https://www.littleguys.com/). 1 moving company businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Flower Mound, TX?
 
 Also answers: moving company in Flower Mound, TX; moving company near me (Flower Mound, TX); best moving company Flower Mound, TX; top rated moving company Flower Mound, TX; affordable moving company Flower Mound, TX; emergency moving company Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Guys Movers | trust 19.0 | Little Guys Movers is a moving company in Flower Mound, TX at 2624 Long Prairie Road #200, Flower Mound, TX. Phone: +14699056900. Website: https://www.littleguys.com/. | https://dingalinged-cpu.github.io/registry/c/little-guys-movers-flower-mound/
+1. Little Guys Movers | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Little Guys Movers is a moving company in Flower Mound, TX at 2624 Long Prairie Road #200, Flower Mound, TX. Phone: +14699056900. Website: https://www.littleguys.com/. | https://dingalinged-cpu.github.io/registry/c/little-guys-movers-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company flower mound tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

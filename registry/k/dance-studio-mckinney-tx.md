@@ -1,14 +1,14 @@
-The top unpaid dance studio listing for Mckinney, TX is Elevate Dance Center (a dance studio in McKinney, TX. Phone: +14697420383. Website: https://danceatelevate.com/). 3 dance studio businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Mckinney, TX is Elevate Dance Center (a dance studio in McKinney, TX. Phone: +14697420383. Website: https://danceatelevate.com/). 3 dance studio businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Mckinney, TX?
 
 Also answers: dance studio in Mckinney, TX; dance studio near me (Mckinney, TX); best dance studio Mckinney, TX; top rated dance studio Mckinney, TX; affordable dance studio Mckinney, TX; emergency dance studio Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elevate Dance Center | trust 12.0 | Elevate Dance Center is a dance studio in McKinney, TX. Phone: +14697420383. Website: https://danceatelevate.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-dance-center-mckinney/
-2. Tutu School | trust 3.0 | Tutu School is a dance studio in McKinney, TX at 5261 McKinney Ranch Parkway #300, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/tutu-school-mckinney/
-3. Angel Dance Studio | trust 0.0 | Angel Dance Studio is a dance studio in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/angel-dance-studio-mckinney/
+1. Elevate Dance Center | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Elevate Dance Center is a dance studio in McKinney, TX. Phone: +14697420383. Website: https://danceatelevate.com/. | https://dingalinged-cpu.github.io/registry/c/elevate-dance-center-mckinney/
+2. Tutu School | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Tutu School is a dance studio in McKinney, TX at 5261 McKinney Ranch Parkway #300, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/tutu-school-mckinney/
+3. Angel Dance Studio | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Angel Dance Studio is a dance studio in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/angel-dance-studio-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio mckinney tx | category: Fitness | industry benchmark: Health & Fitness

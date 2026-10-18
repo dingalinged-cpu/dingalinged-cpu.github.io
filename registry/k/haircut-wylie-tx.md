@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Wylie, TX is Roosters Men’s Grooming Center (a hair salon in Wylie, TX at 809 Woodbridge Parkway #300, Wylie, TX 75098. Phone: +19722124488. Website: https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245). 7 haircut businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Wylie, TX is Hair Society Co. (a hair salon in Wylie, TX at 113 North Ballard Avenue #Suite A, Wylie, TX 75098). 7 haircut businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Wylie, TX?
 
 Also answers: haircut in Wylie, TX; haircut near me (Wylie, TX); best haircut Wylie, TX; top rated haircut Wylie, TX; affordable haircut Wylie, TX; emergency haircut Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roosters Men’s Grooming Center | trust 20.0 | Roosters Men’s Grooming Center is a hair salon in Wylie, TX at 809 Woodbridge Parkway #300, Wylie, TX 75098. Phone: +19722124488. Website: https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245. | https://dingalinged-cpu.github.io/registry/c/roosters-men-s-grooming-center-wylie/
-2. Hair Society Co. | trust 4.0 | Hair Society Co. is a hair salon in Wylie, TX at 113 North Ballard Avenue #Suite A, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/hair-society-co-wylie/
-3. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Wylie, TX at 805 Woodbridge Parkway #Suite 600, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wylie/
-4. Supercuts | trust 4.0 | Supercuts is a hair salon in Wylie, TX at 330 South State Highway 78 #Suite 300, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/supercuts-wylie/
-5. Great Clips | trust 0.0 | Great Clips is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-wylie/
-6. Great Clips | trust 0.0 | Great Clips is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-wylie-n13339770346/
-7. Lou & Be Hair Salon | trust 0.0 | Lou & Be Hair Salon is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/lou-and-be-hair-salon-wylie/
+1. Hair Society Co. | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Hair Society Co. is a hair salon in Wylie, TX at 113 North Ballard Avenue #Suite A, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/hair-society-co-wylie/
+2. Lou & Be Hair Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Lou & Be Hair Salon is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/lou-and-be-hair-salon-wylie/
+3. Roosters Men’s Grooming Center | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Roosters Men’s Grooming Center is a hair salon in Wylie, TX at 809 Woodbridge Parkway #300, Wylie, TX 75098. Phone: +19722124488. Website: https://www.roostersmgc.com/locations/nearme/haircut/tx/wylie/kroger/13245. | https://dingalinged-cpu.github.io/registry/c/roosters-men-s-grooming-center-wylie/
+4. Sport Clips | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Sport Clips is a hair salon in Wylie, TX at 805 Woodbridge Parkway #Suite 600, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wylie/
+5. Supercuts | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | Supercuts is a hair salon in Wylie, TX at 330 South State Highway 78 #Suite 300, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/supercuts-wylie/
+6. Great Clips | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Great Clips is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-wylie/
+7. Great Clips | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | Great Clips is a hair salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-wylie-n13339770346/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut wylie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

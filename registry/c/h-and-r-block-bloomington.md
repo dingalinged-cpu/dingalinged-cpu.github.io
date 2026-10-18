@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Bloomington, MN at 7971 Southtown Cent
 - Website: https://www.hrblock.com/tax-office-near-me/minnesota/bloomington/22668/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa "by appointment"
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 57% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

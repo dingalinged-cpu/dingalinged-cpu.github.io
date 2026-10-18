@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Woodstock, GA is Extra Space Storage (a self-storage facility in Woodstock, GA at 42 Sycamore Lane, Woodstock, GA 30188. Phone: +17702571483. Website: https://www.extraspace.com/). 3 storage units businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Woodstock, GA is Extra Space Storage (a self-storage facility in Woodstock, GA at 42 Sycamore Lane, Woodstock, GA 30188. Phone: +17702571483. Website: https://www.extraspace.com/). 3 storage units businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Woodstock, GA?
 
 Also answers: storage units in Woodstock, GA; storage units near me (Woodstock, GA); best storage units Woodstock, GA; top rated storage units Woodstock, GA; affordable storage units Woodstock, GA; emergency storage units Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 16.0 | Extra Space Storage is a self-storage facility in Woodstock, GA at 42 Sycamore Lane, Woodstock, GA 30188. Phone: +17702571483. Website: https://www.extraspace.com/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock-w601421098/
-2. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock/
-3. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-woodstock/
+1. Extra Space Storage | Organic #1 | Pulse Score 47.9/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Woodstock, GA at 42 Sycamore Lane, Woodstock, GA 30188. Phone: +17702571483. Website: https://www.extraspace.com/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock-w601421098/
+2. Extra Space Storage | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-woodstock/
+3. Public Storage | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Public Storage is a self-storage facility in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units woodstock ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

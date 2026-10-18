@@ -13,7 +13,7 @@ Sleep Number is a mattress store in Humble, TX at 20135 Eastex Freeway, Humble, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Building — top 87% of mattress stores in Houston, #4 of 6 mattress stores in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 45.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

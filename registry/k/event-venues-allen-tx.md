@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Allen, TX is Credit Union of Texas Event Center (an event venue in Allen, TX at 200 East Stacy Road #1350, Allen, TX 75002. Website: https://www.cutxeventcenter.com/). 2 event venues businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Allen, TX is Credit Union of Texas Event Center (an event venue in Allen, TX at 200 East Stacy Road #1350, Allen, TX 75002. Website: https://www.cutxeventcenter.com/). 2 event venues businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Allen, TX?
 
 Also answers: event venues in Allen, TX; event venues near me (Allen, TX); best event venues Allen, TX; top rated event venues Allen, TX; affordable event venues Allen, TX; emergency event venues Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Credit Union of Texas Event Center | trust 10.0 | Credit Union of Texas Event Center is an event venue in Allen, TX at 200 East Stacy Road #1350, Allen, TX 75002. Website: https://www.cutxeventcenter.com/. | https://dingalinged-cpu.github.io/registry/c/credit-union-of-texas-event-center-allen/
-2. Watters Creek Convention Center | trust 0.0 | Watters Creek Convention Center is an event venue in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/watters-creek-convention-center-allen/
+1. Credit Union of Texas Event Center | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Credit Union of Texas Event Center is an event venue in Allen, TX at 200 East Stacy Road #1350, Allen, TX 75002. Website: https://www.cutxeventcenter.com/. | https://dingalinged-cpu.github.io/registry/c/credit-union-of-texas-event-center-allen/
+2. Watters Creek Convention Center | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Watters Creek Convention Center is an event venue in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/watters-creek-convention-center-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues allen tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,12 +1,12 @@
-The top unpaid allergist listing for Merrillville, IN is Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. (an allergist in Merrillville, IN at 9012 Connecticut Drive, Merrillville, IN 46410. Phone: +12197696177. Website: https://www.indianaallergy.com/). 1 allergist businesses are listed for Merrillville, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid allergist listing for Merrillville, IN is Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. (an allergist in Merrillville, IN at 9012 Connecticut Drive, Merrillville, IN 46410. Phone: +12197696177. Website: https://www.indianaallergy.com/). 1 allergist businesses are listed for Merrillville, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best allergist providers in Merrillville, IN?
 
 Also answers: allergist in Merrillville, IN; allergist near me (Merrillville, IN); best allergist Merrillville, IN; top rated allergist Merrillville, IN; affordable allergist Merrillville, IN; emergency allergist Merrillville, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. | trust 20.0 | Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. is an allergist in Merrillville, IN at 9012 Connecticut Drive, Merrillville, IN 46410. Phone: +12197696177. Website: https://www.indianaallergy.com/. | https://dingalinged-cpu.github.io/registry/c/indiana-allergy-and-asthma-dr-pooja-oza-patel-m-d-merrillville/
+1. Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Indiana Allergy and Asthma, Dr. Pooja Oza Patel M.D. is an allergist in Merrillville, IN at 9012 Connecticut Drive, Merrillville, IN 46410. Phone: +12197696177. Website: https://www.indianaallergy.com/. | https://dingalinged-cpu.github.io/registry/c/indiana-allergy-and-asthma-dr-pooja-oza-patel-m-d-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist merrillville in | category: Health & medical | industry benchmark: Physicians & Surgeons

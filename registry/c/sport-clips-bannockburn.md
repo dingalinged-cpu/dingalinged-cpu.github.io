@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Bannockburn, IL at 2563 Waukegan Road, Bannockbur
 - Website: https://sportclips.com/us-il-bannockburn-il143
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00
-- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 76% of hair salons in Chicago, #1 of 1 hair salons in Bannockburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

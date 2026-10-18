@@ -13,7 +13,7 @@ Brookdale Eden Estates is an assisted living facility in Bedford, TX at 1997 For
 - Website: https://www.brookdale.com/en/communities/brookdale-eden-estates.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 14% of assisted living facilitys in Dallas–Fort Worth, #1 of 1 assisted living facilitys in Bedford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

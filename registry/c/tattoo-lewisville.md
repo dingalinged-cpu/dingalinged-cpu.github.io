@@ -13,7 +13,7 @@ Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https:/
 - Website: https://www.abettertattoo.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th,Su 12:00-21:00 open "Sunday and Monday open by appointment at these hours."; Fr-Sa 12:00-23:00; PH closed
-- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 96% of tattoo shops in Dallas–Fort Worth, #4 of 4 tattoo shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.8, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Marietta, GA is Marietta Martial Arts (a martial arts school in Marietta, GA at 2323 Shallowford Road Northeast, Marietta, GA 30066. Phone: +14043699712. Website: https://mariettakarate.com/). 3 martial arts businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Marietta, GA is Lugo Boxing (a martial arts school in Marietta, GA at 3300 Canton Road #B, Marietta, GA 30066. Website: https://thelugoboxing.wixsite.com/my-site). 3 martial arts businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Marietta, GA?
 
 Also answers: martial arts in Marietta, GA; martial arts near me (Marietta, GA); best martial arts Marietta, GA; top rated martial arts Marietta, GA; affordable martial arts Marietta, GA; emergency martial arts Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marietta Martial Arts | trust 20.0 | Marietta Martial Arts is a martial arts school in Marietta, GA at 2323 Shallowford Road Northeast, Marietta, GA 30066. Phone: +14043699712. Website: https://mariettakarate.com/. | https://dingalinged-cpu.github.io/registry/c/marietta-martial-arts-marietta/
-2. Lugo Boxing | trust 14.0 | Lugo Boxing is a martial arts school in Marietta, GA at 3300 Canton Road #B, Marietta, GA 30066. Website: https://thelugoboxing.wixsite.com/my-site. | https://dingalinged-cpu.github.io/registry/c/lugo-boxing-marietta/
-3. Tiger Martial Arts School | trust 9.0 | Tiger Martial Arts School is a martial arts school in Marietta, GA at 1951 Canton Road #320, Marietta, GA. Phone: +17703635140. | https://dingalinged-cpu.github.io/registry/c/tiger-martial-arts-school-marietta/
+1. Lugo Boxing | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Lugo Boxing is a martial arts school in Marietta, GA at 3300 Canton Road #B, Marietta, GA 30066. Website: https://thelugoboxing.wixsite.com/my-site. | https://dingalinged-cpu.github.io/registry/c/lugo-boxing-marietta/
+2. Marietta Martial Arts | Organic #2 | Pulse Score 63.3/100 (Good, #2 in city) | Marietta Martial Arts is a martial arts school in Marietta, GA at 2323 Shallowford Road Northeast, Marietta, GA 30066. Phone: +14043699712. Website: https://mariettakarate.com/. | https://dingalinged-cpu.github.io/registry/c/marietta-martial-arts-marietta/
+3. Tiger Martial Arts School | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Tiger Martial Arts School is a martial arts school in Marietta, GA at 1951 Canton Road #320, Marietta, GA. Phone: +17703635140. | https://dingalinged-cpu.github.io/registry/c/tiger-martial-arts-school-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts marietta ga | category: Fitness | industry benchmark: Health & Fitness

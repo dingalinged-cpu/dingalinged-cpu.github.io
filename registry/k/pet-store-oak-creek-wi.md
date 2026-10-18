@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Oak Creek, WI is Petco (a pet store in Oak Creek, WI at 8551 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147642743. Website: https://stores.petco.com/wi/oakcreek/pet-supplies-oakcreek-wi-1687.html). 2 pet store businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Oak Creek, WI is PetSmart (a pet store in Oak Creek, WI at 320 West Town Square Way #200, Oak Creek, WI 53154. Phone: +14142160747. Website: https://www.petsmart.com/stores/us/wi/oak-creek-store2472.html). 2 pet store businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Oak Creek, WI?
 
 Also answers: pet store in Oak Creek, WI; pet store near me (Oak Creek, WI); best pet store Oak Creek, WI; top rated pet store Oak Creek, WI; affordable pet store Oak Creek, WI; emergency pet store Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Oak Creek, WI at 8551 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147642743. Website: https://stores.petco.com/wi/oakcreek/pet-supplies-oakcreek-wi-1687.html. | https://dingalinged-cpu.github.io/registry/c/petco-oak-creek/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Oak Creek, WI at 320 West Town Square Way #200, Oak Creek, WI 53154. Phone: +14142160747. Website: https://www.petsmart.com/stores/us/wi/oak-creek-store2472.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-oak-creek/
+1. PetSmart | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | PetSmart is a pet store in Oak Creek, WI at 320 West Town Square Way #200, Oak Creek, WI 53154. Phone: +14142160747. Website: https://www.petsmart.com/stores/us/wi/oak-creek-store2472.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-oak-creek/
+2. Petco | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Petco is a pet store in Oak Creek, WI at 8551 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147642743. Website: https://stores.petco.com/wi/oakcreek/pet-supplies-oakcreek-wi-1687.html. | https://dingalinged-cpu.github.io/registry/c/petco-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

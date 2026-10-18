@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Atlanta, GA at 857 Collier Road Northwest, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 100% of tanning salons in Atlanta, #2 of 2 tanning salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

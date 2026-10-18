@@ -13,7 +13,7 @@ Salon Vive is a hair salon in Houston, TX at 5898 Memorial Drive, Houston, TX. P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-19:00; Fr 09:00-18:00; Sa 10:00-17:00; PH closed; Mo closed "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Houston, #22 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

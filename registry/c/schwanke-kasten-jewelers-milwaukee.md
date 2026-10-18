@@ -13,7 +13,7 @@ Schwanke-Kasten Jewelers is a jewelry store in Milwaukee, WI at 623 North Milwau
 - Website: https://www.schwanke-kasten.com/Milwaukee-Jewelry-Store-53202-s/1910.htm
 - Email: n/a
 - Opening hours (OSM syntax): We 11:00-16:00; Tu,Th 11:00-17:30; Fr 11:00-15:00
-- Registry Score: 61.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 23% of jewelry stores in Milwaukee, #10 of 20 jewelry stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Landshark Car Wash is a car wash in Cobb County, GA at 145 Barrett Parkway, Cobb
 - Website: https://landsharkwash.com/
 - Email: hello@landsharkwash.com
 - Opening hours (OSM syntax): 08:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 7% of car washes in Atlanta, #5 of 21 car washes in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

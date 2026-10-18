@@ -1,13 +1,13 @@
-The top unpaid mattress store listing for Deerfield, IL is Mattress Firm (a mattress store in Deerfield, IL at 210 South Waukegan Road, Deerfield, IL 60015. Phone: +18472724615. Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/). 2 mattress store businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Deerfield, IL is Mattress Firm (a mattress store in Deerfield, IL at 210 South Waukegan Road, Deerfield, IL 60015. Phone: +18472724615. Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/). 2 mattress store businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Deerfield, IL?
 
 Also answers: mattress store in Deerfield, IL; mattress store near me (Deerfield, IL); best mattress store Deerfield, IL; top rated mattress store Deerfield, IL; affordable mattress store Deerfield, IL; emergency mattress store Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Deerfield, IL at 210 South Waukegan Road, Deerfield, IL 60015. Phone: +18472724615. Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-deerfield/
-2. Sleep Number | trust 4.0 | Sleep Number is a mattress store in Deerfield, IL at 60 South Waukegan Road #B, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/sleep-number-deerfield/
+1. Mattress Firm | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Mattress Firm is a mattress store in Deerfield, IL at 210 South Waukegan Road, Deerfield, IL 60015. Phone: +18472724615. Website: https://www.mattressfirm.com/en-us/stores/il/deerfield/119135/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-deerfield/
+2. Sleep Number | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Sleep Number is a mattress store in Deerfield, IL at 60 South Waukegan Road #B, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/sleep-number-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store deerfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

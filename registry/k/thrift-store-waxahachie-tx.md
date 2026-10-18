@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Waxahachie, TX is Baylor Auxiliary Thrift Store (a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165). 3 thrift store businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Waxahachie, TX is Big Thrift (a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165). 3 thrift store businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Waxahachie, TX?
 
 Also answers: thrift store in Waxahachie, TX; thrift store near me (Waxahachie, TX); best thrift store Waxahachie, TX; top rated thrift store Waxahachie, TX; affordable thrift store Waxahachie, TX; emergency thrift store Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baylor Auxiliary Thrift Store | trust 4.0 | Baylor Auxiliary Thrift Store is a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/baylor-auxiliary-thrift-store-waxahachie/
-2. Big Thrift | trust 4.0 | Big Thrift is a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/big-thrift-waxahachie/
-3. Soul's Harbor Thrift Store | trust 4.0 | Soul's Harbor Thrift Store is a thrift store in Waxahachie, TX at 215 East Madison Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/souls-harbor-thrift-store-waxahachie/
+1. Big Thrift | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Big Thrift is a thrift store in Waxahachie, TX at 109 North Elm Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/big-thrift-waxahachie/
+2. Soul's Harbor Thrift Store | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Soul's Harbor Thrift Store is a thrift store in Waxahachie, TX at 215 East Madison Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/souls-harbor-thrift-store-waxahachie/
+3. Baylor Auxiliary Thrift Store | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Baylor Auxiliary Thrift Store is a thrift store in Waxahachie, TX at 431 North College Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/baylor-auxiliary-thrift-store-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

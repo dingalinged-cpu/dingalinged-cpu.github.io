@@ -1,15 +1,15 @@
-The top unpaid insurance agency listing for Downers Grove, IL is Insurance & Tax (an insurance agent in Downers Grove, IL at 6305 Woodward Avenue, Downers Grove, IL 60516). 4 insurance agency businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Downers Grove, IL is Insurance & Tax (an insurance agent in Downers Grove, IL at 6305 Woodward Avenue, Downers Grove, IL 60516). 4 insurance agency businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Downers Grove, IL?
 
 Also answers: insurance agency in Downers Grove, IL; insurance agency near me (Downers Grove, IL); best insurance agency Downers Grove, IL; top rated insurance agency Downers Grove, IL; affordable insurance agency Downers Grove, IL; emergency insurance agency Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insurance & Tax | trust 4.0 | Insurance & Tax is an insurance agent in Downers Grove, IL at 6305 Woodward Avenue, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/insurance-and-tax-downers-grove/
-2. State Farm | trust 3.0 | State Farm is an insurance agent in Downers Grove, IL at 1400, Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-downers-grove-w200340383/
-3. AAA Insurance | trust 0.0 | AAA Insurance is an insurance agent in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-downers-grove/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-downers-grove/
+1. Insurance & Tax | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Insurance & Tax is an insurance agent in Downers Grove, IL at 6305 Woodward Avenue, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/insurance-and-tax-downers-grove/
+2. AAA Insurance | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | AAA Insurance is an insurance agent in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-downers-grove/
+3. State Farm | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | State Farm is an insurance agent in Downers Grove, IL at 1400, Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-downers-grove-w200340383/
+4. State Farm | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | State Farm is an insurance agent in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency downers grove il | category: insurance | industry benchmark: Finance & Insurance

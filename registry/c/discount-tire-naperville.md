@@ -13,7 +13,7 @@ Discount Tire is a tire shop in Naperville, IL at 1117 East Ogden Avenue, Naperv
 - Website: https://www.discounttire.com/store/il/naperville/s/1564
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 39% of tire shops in Chicago, #2 of 3 tire shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 70.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid printing services listing for Highland Park, WI is Promolux (a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/). 1 printing services businesses are listed for Highland Park, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Highland Park, WI is Promolux (a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/). 1 printing services businesses are listed for Highland Park, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Highland Park, WI?
 
 Also answers: printing services in Highland Park, WI; printing services near me (Highland Park, WI); best printing services Highland Park, WI; top rated printing services Highland Park, WI; affordable printing services Highland Park, WI; emergency printing services Highland Park, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Promolux | trust 14.0 | Promolux is a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/. | https://dingalinged-cpu.github.io/registry/c/promolux-wauwatosa/
+1. Promolux | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Promolux is a printing service in Wauwatosa, WI at 6027 West Vliet Street, Wauwatosa, WI 53213. Website: https://epromolux.com/. | https://dingalinged-cpu.github.io/registry/c/promolux-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services highland park wi | category: Professional & financial services | industry benchmark: Finance & Insurance

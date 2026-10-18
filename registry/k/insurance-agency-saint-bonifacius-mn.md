@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Saint Bonifacius, MN is Dressel Agency Inc. (an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/). 1 insurance agency businesses are listed for Saint Bonifacius, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Saint Bonifacius, MN is Dressel Agency Inc. (an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/). 1 insurance agency businesses are listed for Saint Bonifacius, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Saint Bonifacius, MN?
 
 Also answers: insurance agency in Saint Bonifacius, MN; insurance agency near me (Saint Bonifacius, MN); best insurance agency Saint Bonifacius, MN; top rated insurance agency Saint Bonifacius, MN; affordable insurance agency Saint Bonifacius, MN; emergency insurance agency Saint Bonifacius, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dressel Agency Inc. | trust 16.0 | Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/. | https://dingalinged-cpu.github.io/registry/c/dressel-agency-inc-saint-bonifacius/
+1. Dressel Agency Inc. | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Dressel Agency Inc. is an insurance agent in Saint Bonifacius, MN at 4133 Main Street, Saint Bonifacius, MN 55375. Phone: +19524461380. Website: https://www.dresselagency.com/. | https://dingalinged-cpu.github.io/registry/c/dressel-agency-inc-saint-bonifacius/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency saint bonifacius mn | category: insurance | industry benchmark: Finance & Insurance

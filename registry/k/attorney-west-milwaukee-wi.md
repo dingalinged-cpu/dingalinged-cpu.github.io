@@ -1,14 +1,14 @@
-The top unpaid attorney listing for West Milwaukee, WI is Cervera Garcia Law Offices (a lawyer in West Milwaukee, WI at 4522 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14147635030. Website: https://www.cerveragarcialaw.com/). 3 attorney businesses are listed for West Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for West Milwaukee, WI is Cervera Garcia Law Offices (a lawyer in West Milwaukee, WI at 4522 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14147635030. Website: https://www.cerveragarcialaw.com/). 3 attorney businesses are listed for West Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in West Milwaukee, WI?
 
 Also answers: attorney in West Milwaukee, WI; attorney near me (West Milwaukee, WI); best attorney West Milwaukee, WI; top rated attorney West Milwaukee, WI; affordable attorney West Milwaukee, WI; emergency attorney West Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cervera Garcia Law Offices | trust 20.0 | Cervera Garcia Law Offices is a lawyer in West Milwaukee, WI at 4522 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14147635030. Website: https://www.cerveragarcialaw.com/. | https://dingalinged-cpu.github.io/registry/c/cervera-garcia-law-offices-west-milwaukee/
-2. Fernandez Chadwick & Crouse | trust 16.0 | Fernandez Chadwick & Crouse is a lawyer in West Milwaukee, WI at 3920 West National Avenue, West Milwaukee, WI 53215. Phone: +14146435676. Website: https://www.fccimmigrationlaw.com/. | https://dingalinged-cpu.github.io/registry/c/fernandez-chadwick-and-crouse-west-milwaukee/
-3. Tabak Law | trust 4.0 | Tabak Law is a lawyer in West Milwaukee, WI at 4803 West National Avenue, West Milwaukee, WI 53214. | https://dingalinged-cpu.github.io/registry/c/tabak-law-west-milwaukee/
+1. Cervera Garcia Law Offices | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Cervera Garcia Law Offices is a lawyer in West Milwaukee, WI at 4522 West Greenfield Avenue, West Milwaukee, WI 53214. Phone: +14147635030. Website: https://www.cerveragarcialaw.com/. | https://dingalinged-cpu.github.io/registry/c/cervera-garcia-law-offices-west-milwaukee/
+2. Fernandez Chadwick & Crouse | Organic #2 | Pulse Score 61.2/100 (Good, #2 in city) | Fernandez Chadwick & Crouse is a lawyer in West Milwaukee, WI at 3920 West National Avenue, West Milwaukee, WI 53215. Phone: +14146435676. Website: https://www.fccimmigrationlaw.com/. | https://dingalinged-cpu.github.io/registry/c/fernandez-chadwick-and-crouse-west-milwaukee/
+3. Tabak Law | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Tabak Law is a lawyer in West Milwaukee, WI at 4803 West National Avenue, West Milwaukee, WI 53214. | https://dingalinged-cpu.github.io/registry/c/tabak-law-west-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney west milwaukee wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

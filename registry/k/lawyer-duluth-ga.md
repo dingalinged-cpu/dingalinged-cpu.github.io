@@ -1,14 +1,14 @@
-The top unpaid lawyer listing for Duluth, GA is Scholle Law (a lawyer in Duluth, GA at 6340 Sugarloaf Parkway #150, Duluth, GA 30097. Phone: +16786477794. Website: https://www.schollelaw.com/locations/duluth). 3 lawyer businesses are listed for Duluth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Duluth, GA is Zdrilich Injury Law, LLC. (a lawyer in Duluth, GA at 3575 Koger Boulevard #125, Duluth, GA 30096. Phone: +17709319604. Website: https://www.zinjurylaw.com/). 3 lawyer businesses are listed for Duluth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Duluth, GA?
 
 Also answers: lawyer in Duluth, GA; lawyer near me (Duluth, GA); best lawyer Duluth, GA; top rated lawyer Duluth, GA; affordable lawyer Duluth, GA; emergency lawyer Duluth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scholle Law | trust 20.0 | Scholle Law is a lawyer in Duluth, GA at 6340 Sugarloaf Parkway #150, Duluth, GA 30097. Phone: +16786477794. Website: https://www.schollelaw.com/locations/duluth. | https://dingalinged-cpu.github.io/registry/c/scholle-law-duluth/
-2. Virguez Law | trust 20.0 | Virguez Law is a lawyer in Duluth, GA at 3235 Satellite Boulevard #500, Duluth, GA 30096. Phone: +16783000000. Website: https://virguezlaw.com/. | https://dingalinged-cpu.github.io/registry/c/virguez-law-duluth/
-3. Zdrilich Injury Law, LLC. | trust 20.0 | Zdrilich Injury Law, LLC. is a lawyer in Duluth, GA at 3575 Koger Boulevard #125, Duluth, GA 30096. Phone: +17709319604. Website: https://www.zinjurylaw.com/. | https://dingalinged-cpu.github.io/registry/c/zdrilich-injury-law-llc-duluth/
+1. Zdrilich Injury Law, LLC. | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Zdrilich Injury Law, LLC. is a lawyer in Duluth, GA at 3575 Koger Boulevard #125, Duluth, GA 30096. Phone: +17709319604. Website: https://www.zinjurylaw.com/. | https://dingalinged-cpu.github.io/registry/c/zdrilich-injury-law-llc-duluth/
+2. Virguez Law | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Virguez Law is a lawyer in Duluth, GA at 3235 Satellite Boulevard #500, Duluth, GA 30096. Phone: +16783000000. Website: https://virguezlaw.com/. | https://dingalinged-cpu.github.io/registry/c/virguez-law-duluth/
+3. Scholle Law | Organic #3 | Pulse Score 49.5/100 (Unrated, #3 in city) | Scholle Law is a lawyer in Duluth, GA at 6340 Sugarloaf Parkway #150, Duluth, GA 30097. Phone: +16786477794. Website: https://www.schollelaw.com/locations/duluth. | https://dingalinged-cpu.github.io/registry/c/scholle-law-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer duluth ga | category: Legal | industry benchmark: Attorneys & Legal Services

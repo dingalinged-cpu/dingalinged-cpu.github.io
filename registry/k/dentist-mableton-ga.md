@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Mableton, GA is Aspen Dental (a dentist in Mableton, GA). 1 dentist businesses are listed for Mableton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Mableton, GA is Aspen Dental (a dentist in Mableton, GA). 1 dentist businesses are listed for Mableton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Mableton, GA?
 
 Also answers: dentist in Mableton, GA; dentist near me (Mableton, GA); best dentist Mableton, GA; top rated dentist Mableton, GA; affordable dentist Mableton, GA; emergency dentist Mableton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-mableton/
+1. Aspen Dental | Organic #1 | Pulse Score 42/100 (Building, #1 in city) | Aspen Dental is a dentist in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist mableton ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

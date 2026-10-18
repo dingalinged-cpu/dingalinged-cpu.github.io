@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Lisle, IL is TK Gym Four Lakes (a martial arts school in Lisle, IL at 5800 Forest View Road, Lisle, IL 60532. Phone: +16306990631. Website: https://www.tkgymfourlakes.com/home). 1 martial arts businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Lisle, IL is TK Gym Four Lakes (a martial arts school in Lisle, IL at 5800 Forest View Road, Lisle, IL 60532. Phone: +16306990631. Website: https://www.tkgymfourlakes.com/home). 1 martial arts businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Lisle, IL?
 
 Also answers: martial arts in Lisle, IL; martial arts near me (Lisle, IL); best martial arts Lisle, IL; top rated martial arts Lisle, IL; affordable martial arts Lisle, IL; emergency martial arts Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TK Gym Four Lakes | trust 20.0 | TK Gym Four Lakes is a martial arts school in Lisle, IL at 5800 Forest View Road, Lisle, IL 60532. Phone: +16306990631. Website: https://www.tkgymfourlakes.com/home. | https://dingalinged-cpu.github.io/registry/c/tk-gym-four-lakes-lisle/
+1. TK Gym Four Lakes | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | TK Gym Four Lakes is a martial arts school in Lisle, IL at 5800 Forest View Road, Lisle, IL 60532. Phone: +16306990631. Website: https://www.tkgymfourlakes.com/home. | https://dingalinged-cpu.github.io/registry/c/tk-gym-four-lakes-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts lisle il | category: Fitness | industry benchmark: Health & Fitness

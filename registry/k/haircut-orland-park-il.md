@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Orland Park, IL is Isbbar Salon (a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/). 10 haircut businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Orland Park, IL is Isbbar Salon (a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/). 10 haircut businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Orland Park, IL?
 
 Also answers: haircut in Orland Park, IL; haircut near me (Orland Park, IL); best haircut Orland Park, IL; top rated haircut Orland Park, IL; affordable haircut Orland Park, IL; emergency haircut Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Isbbar Salon | trust 20.0 | Isbbar Salon is a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/. | https://dingalinged-cpu.github.io/registry/c/isbbar-salon-orland-park/
-2. Signature Barbershop | trust 10.0 | Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Street, Orland Park, IL 60462. Website: https://signaturebarbershop.org/. | https://dingalinged-cpu.github.io/registry/c/signature-barbershop-orland-park/
-3. Avanzato Salon and Spa | trust 4.0 | Avanzato Salon and Spa is a hair salon in Orland Park, IL at 11317 West 159th Street, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/avanzato-salon-and-spa-orland-park/
-4. Chic Beauty Botique | trust 0.0 | Chic Beauty Botique is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/chic-beauty-botique-orland-park/
-5. Cool Cuts 4 Kids | trust 0.0 | Cool Cuts 4 Kids is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/cool-cuts-4-kids-orland-park/
-6. Jefferey LaMorte Salon & Day Spa | trust 0.0 | Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/jefferey-lamorte-salon-and-day-spa-orland-park/
-7. Sass Studios and Salon Suites | trust 0.0 | Sass Studios and Salon Suites is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/sass-studios-and-salon-suites-orland-park/
-8. Studio 45 | trust 0.0 | Studio 45 is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-45-orland-park/
-9. Supercuts | trust 0.0 | Supercuts is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-orland-park/
-10. Uroda Hair Design | trust 0.0 | Uroda Hair Design is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/uroda-hair-design-orland-park/
+1. Isbbar Salon | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Isbbar Salon is a hair salon in Orland Park, IL at 14724 South La Grange Road #19, Orland Park, IL 60462. Phone: +16302832101. Website: https://www.isbbarsalon.com/. | https://dingalinged-cpu.github.io/registry/c/isbbar-salon-orland-park/
+2. Signature Barbershop | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Signature Barbershop is a hair salon in Orland Park, IL at 7844 West 159th Street, Orland Park, IL 60462. Website: https://signaturebarbershop.org/. | https://dingalinged-cpu.github.io/registry/c/signature-barbershop-orland-park/
+3. Avanzato Salon and Spa | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Avanzato Salon and Spa is a hair salon in Orland Park, IL at 11317 West 159th Street, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/avanzato-salon-and-spa-orland-park/
+4. Chic Beauty Botique | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Chic Beauty Botique is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/chic-beauty-botique-orland-park/
+5. Cool Cuts 4 Kids | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Cool Cuts 4 Kids is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/cool-cuts-4-kids-orland-park/
+6. Jefferey LaMorte Salon & Day Spa | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Jefferey LaMorte Salon & Day Spa is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/jefferey-lamorte-salon-and-day-spa-orland-park/
+7. Sass Studios and Salon Suites | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Sass Studios and Salon Suites is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/sass-studios-and-salon-suites-orland-park/
+8. Studio 45 | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Studio 45 is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-45-orland-park/
+9. Uroda Hair Design | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Uroda Hair Design is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/uroda-hair-design-orland-park/
+10. Supercuts | Organic #10 | Pulse Score 42.5/100 (Building, #10 in city) | Supercuts is a hair salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut orland park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

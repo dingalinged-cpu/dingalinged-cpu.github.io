@@ -13,7 +13,7 @@ Studio 6 Fitness is a gym in Dallas, TX at 7317 Gaston Avenue #150, Dallas, TX 7
 - Website: https://studio6fitness.com/lakewood/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Unrated (not enough evidence yet) — top 56% of gyms in Dallas–Fort Worth, #40 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

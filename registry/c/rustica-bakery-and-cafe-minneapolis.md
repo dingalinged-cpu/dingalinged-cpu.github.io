@@ -13,7 +13,7 @@ Rustica Bakery & Cafe is a bakery in Minneapolis, MN at 3224 Lake Street West, M
 - Website: https://www.rusticabakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-17:00; PH closed
-- Registry Score: 66.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 6% of bakerys in Minneapolis–St. Paul, #4 of 37 bakerys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid it support listing for Chicago, IL is Nectel Technologies (an IT support company in Chicago, IL at 2150 South Canalport Avenue, Chicago, IL 60608. Phone: +13128001260. Website: https://necteltechnologies.com/). 3 it support businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Chicago, IL is UX 4Sight (an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/). 3 it support businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Chicago, IL?
 
 Also answers: it support in Chicago, IL; it support near me (Chicago, IL); best it support Chicago, IL; top rated it support Chicago, IL; affordable it support Chicago, IL; emergency it support Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nectel Technologies | trust 20.0 | Nectel Technologies is an IT support company in Chicago, IL at 2150 South Canalport Avenue, Chicago, IL 60608. Phone: +13128001260. Website: https://necteltechnologies.com/. | https://dingalinged-cpu.github.io/registry/c/nectel-technologies-chicago/
-2. UX 4Sight | trust 20.0 | UX 4Sight is an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/. | https://dingalinged-cpu.github.io/registry/c/ux-4sight-chicago/
-3. Dealroom, Inc. | trust 16.0 | Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue #B, Chicago, IL 60612. Phone: +13123443442. Website: https://dealroom.net/. | https://dingalinged-cpu.github.io/registry/c/dealroom-inc-chicago/
+1. UX 4Sight | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | UX 4Sight is an IT support company in Chicago, IL at 111 West Jackson Boulevard #1700, Chicago, IL 60604. Phone: +13122240095. Website: https://ux4sight.com/. | https://dingalinged-cpu.github.io/registry/c/ux-4sight-chicago/
+2. Nectel Technologies | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Nectel Technologies is an IT support company in Chicago, IL at 2150 South Canalport Avenue, Chicago, IL 60608. Phone: +13128001260. Website: https://necteltechnologies.com/. | https://dingalinged-cpu.github.io/registry/c/nectel-technologies-chicago/
+3. Dealroom, Inc. | Organic #3 | Pulse Score 58.9/100 (Fair, #3 in city) | Dealroom, Inc. is an IT support company in Chicago, IL at 2045 West Grand Avenue #B, Chicago, IL 60612. Phone: +13123443442. Website: https://dealroom.net/. | https://dingalinged-cpu.github.io/registry/c/dealroom-inc-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support chicago il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

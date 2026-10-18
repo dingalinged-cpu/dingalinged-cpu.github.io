@@ -1,17 +1,17 @@
-The top unpaid jewelry store listing for Southlake, TX is Southlake Jewelers (a jewelry store in Southlake, TX at 2140 East Southlake Boulevard #Suite M, Southlake, TX 76092. Phone: +18173299900. Website: https://www.southlakejewelers.org/). 6 jewelry store businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Southlake, TX is Southlake Jewelers (a jewelry store in Southlake, TX at 2140 East Southlake Boulevard #Suite M, Southlake, TX 76092. Phone: +18173299900. Website: https://www.southlakejewelers.org/). 6 jewelry store businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Southlake, TX?
 
 Also answers: jewelry store in Southlake, TX; jewelry store near me (Southlake, TX); best jewelry store Southlake, TX; top rated jewelry store Southlake, TX; affordable jewelry store Southlake, TX; emergency jewelry store Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southlake Jewelers | trust 20.0 | Southlake Jewelers is a jewelry store in Southlake, TX at 2140 East Southlake Boulevard #Suite M, Southlake, TX 76092. Phone: +18173299900. Website: https://www.southlakejewelers.org/. | https://dingalinged-cpu.github.io/registry/c/southlake-jewelers-southlake/
-2. James Avery Jewelry | trust 16.0 | James Avery Jewelry is a jewelry store in Southlake, TX at 1451 Main Street, Southlake, TX 76092. Phone: +18174245720. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=692. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-southlake/
-3. Kendra Scott | trust 8.0 | Kendra Scott is a jewelry store in Southlake, TX at 321 Grand Avenue West, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-southlake/
-4. Jared | trust 7.0 | Jared is a jewelry store in Southlake, TX at 1500 East Southlake Boulevard, Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/jared-southlake/
-5. Pandora | trust 4.0 | Pandora is a jewelry store in Southlake, TX at 319 Grand Avenue East, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/pandora-southlake/
-6. Zales | trust 0.0 | Zales is a jewelry store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/zales-southlake/
+1. Southlake Jewelers | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Southlake Jewelers is a jewelry store in Southlake, TX at 2140 East Southlake Boulevard #Suite M, Southlake, TX 76092. Phone: +18173299900. Website: https://www.southlakejewelers.org/. | https://dingalinged-cpu.github.io/registry/c/southlake-jewelers-southlake/
+2. James Avery Jewelry | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | James Avery Jewelry is a jewelry store in Southlake, TX at 1451 Main Street, Southlake, TX 76092. Phone: +18174245720. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=692. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-southlake/
+3. Jared | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Jared is a jewelry store in Southlake, TX at 1500 East Southlake Boulevard, Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/jared-southlake/
+4. Kendra Scott | Organic #4 | Pulse Score 46.8/100 (Unrated, #4 in city) | Kendra Scott is a jewelry store in Southlake, TX at 321 Grand Avenue West, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-southlake/
+5. Pandora | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Pandora is a jewelry store in Southlake, TX at 319 Grand Avenue East, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/pandora-southlake/
+6. Zales | Organic #6 | Pulse Score 43/100 (Building, #6 in city) | Zales is a jewelry store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/zales-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store southlake tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

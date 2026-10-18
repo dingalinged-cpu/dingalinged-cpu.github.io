@@ -13,7 +13,7 @@ Moore Chiropractic Center is a chiropractor in Denton, TX at 707 Sunset Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56/100 — Unrated (not enough evidence yet) — top 61% of chiropractors in Dallas–Fort Worth, #5 of 6 chiropractors in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

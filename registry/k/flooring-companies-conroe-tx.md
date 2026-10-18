@@ -1,13 +1,13 @@
-The top unpaid flooring companies listing for Conroe, TX is Stylish Interiors (a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303). 2 flooring companies businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Conroe, TX is Stylish Interiors (a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303). 2 flooring companies businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Conroe, TX?
 
 Also answers: flooring companies in Conroe, TX; flooring companies near me (Conroe, TX); best flooring companies Conroe, TX; top rated flooring companies Conroe, TX; affordable flooring companies Conroe, TX; emergency flooring companies Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stylish Interiors | trust 8.0 | Stylish Interiors is a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/stylish-interiors-conroe/
-2. Sam's Flooring Gallery | trust 4.0 | Sam's Flooring Gallery is a flooring company in Conroe, TX at 224 South Loop 336 West #N, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/sams-flooring-gallery-conroe/
+1. Stylish Interiors | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Stylish Interiors is a flooring company in Conroe, TX at 2212 B North Frazier Street, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/stylish-interiors-conroe/
+2. Sam's Flooring Gallery | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Sam's Flooring Gallery is a flooring company in Conroe, TX at 224 South Loop 336 West #N, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/sams-flooring-gallery-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies conroe tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

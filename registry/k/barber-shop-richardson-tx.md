@@ -1,15 +1,15 @@
-The top unpaid barber shop listing for Richardson, TX is Bayou Kutz (a barber shop in Richardson, TX at 1300 Campbell Road #110, Richardson, TX 75080. Phone: +14694121863). 4 barber shop businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Richardson, TX is Bayou Kutz (a barber shop in Richardson, TX at 1300 Campbell Road #110, Richardson, TX 75080. Phone: +14694121863). 4 barber shop businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Richardson, TX?
 
 Also answers: barber shop in Richardson, TX; barber shop near me (Richardson, TX); best barber shop Richardson, TX; top rated barber shop Richardson, TX; affordable barber shop Richardson, TX; emergency barber shop Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bayou Kutz | trust 14.0 | Bayou Kutz is a barber shop in Richardson, TX at 1300 Campbell Road #110, Richardson, TX 75080. Phone: +14694121863. | https://dingalinged-cpu.github.io/registry/c/bayou-kutz-richardson/
-2. Diesel Barbershop | trust 4.0 | Diesel Barbershop is a barber shop in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/diesel-barbershop-richardson/
-3. God Level Barbershop | trust 3.0 | God Level Barbershop is a barber shop in Richardson, TX at 525 West Arapaho Road #101, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/god-level-barbershop-richardson/
-4. Razorz Barbershop | trust 3.0 | Razorz Barbershop is a barber shop in Richardson, TX at 1455 West Buckingham Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/razorz-barbershop-richardson/
+1. Bayou Kutz | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Bayou Kutz is a barber shop in Richardson, TX at 1300 Campbell Road #110, Richardson, TX 75080. Phone: +14694121863. | https://dingalinged-cpu.github.io/registry/c/bayou-kutz-richardson/
+2. God Level Barbershop | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | God Level Barbershop is a barber shop in Richardson, TX at 525 West Arapaho Road #101, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/god-level-barbershop-richardson/
+3. Razorz Barbershop | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Razorz Barbershop is a barber shop in Richardson, TX at 1455 West Buckingham Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/razorz-barbershop-richardson/
+4. Diesel Barbershop | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Diesel Barbershop is a barber shop in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/diesel-barbershop-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop richardson tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

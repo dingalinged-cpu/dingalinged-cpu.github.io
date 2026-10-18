@@ -13,7 +13,7 @@ Mullen & Mullen Law Firm is a lawyer in Frisco, TX at 2770 Main Street #258, Fri
 - Website: https://www.mullenandmullen.com/personal-injury-lawyer/frisco-tx/
 - Email: info@mullenandmullen.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-20:00
-- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.3/100 — Fair — top 96% of lawyers in Dallas–Fort Worth, #10 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 45.1, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

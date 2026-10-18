@@ -13,7 +13,7 @@ Mikes Bike Shop is a bike shop in Palatine, IL at 155 East Northwest Highway, Pa
 - Website: https://mikesbikeshoppalatine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of bike shops in Chicago, #1 of 2 bike shops in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

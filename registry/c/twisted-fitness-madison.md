@@ -13,7 +13,7 @@ Twisted Fitness is a martial arts school in Madison, WI at 711 Rethke Avenue, Ma
 - Website: https://twistedfitnessgym.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-21:30; Sa 07:00-18:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of martial arts schools in Madison, #1 of 8 martial arts schools in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

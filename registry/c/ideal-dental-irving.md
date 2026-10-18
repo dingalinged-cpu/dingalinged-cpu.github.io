@@ -13,7 +13,7 @@ Ideal Dental is a dentist in Irving, TX at 140 North MacArthur Boulevard, Irving
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-17:00; Su 09:00-15:00
-- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 91% of dentists in Dallas–Fort Worth, #30 of 32 dentists in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

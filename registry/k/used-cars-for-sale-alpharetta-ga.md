@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for Alpharetta, GA is Ideal Premier SS Motors (an used car dealer in Alpharetta, GA at 3000 Marconi Drive, Alpharetta, GA 30005. Phone: +14702169109. Website: https://idealpremier-ssmotors.com/). 1 used cars for sale businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Alpharetta, GA is Ideal Premier SS Motors (an used car dealer in Alpharetta, GA at 3000 Marconi Drive, Alpharetta, GA 30005. Phone: +14702169109. Website: https://idealpremier-ssmotors.com/). 1 used cars for sale businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Alpharetta, GA?
 
 Also answers: used cars for sale in Alpharetta, GA; used cars for sale near me (Alpharetta, GA); best used cars for sale Alpharetta, GA; top rated used cars for sale Alpharetta, GA; affordable used cars for sale Alpharetta, GA; emergency used cars for sale Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ideal Premier SS Motors | trust 16.0 | Ideal Premier SS Motors is an used car dealer in Alpharetta, GA at 3000 Marconi Drive, Alpharetta, GA 30005. Phone: +14702169109. Website: https://idealpremier-ssmotors.com/. | https://dingalinged-cpu.github.io/registry/c/ideal-premier-ss-motors-alpharetta/
+1. Ideal Premier SS Motors | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Ideal Premier SS Motors is an used car dealer in Alpharetta, GA at 3000 Marconi Drive, Alpharetta, GA 30005. Phone: +14702169109. Website: https://idealpremier-ssmotors.com/. | https://dingalinged-cpu.github.io/registry/c/ideal-premier-ss-motors-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale alpharetta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

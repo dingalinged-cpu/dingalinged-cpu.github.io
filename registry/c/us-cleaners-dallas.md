@@ -13,7 +13,7 @@ US Cleaners is a dry cleaner in Dallas, TX at 2127 Greenville Ave, Dallas, TX 75
 - Website: https://www.uscleanersdallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 84% of dry cleaners in Dallas–Fort Worth, #38 of 43 dry cleaners in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

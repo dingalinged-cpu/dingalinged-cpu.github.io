@@ -13,7 +13,7 @@ Central Rock Gym Atlanta Bouldering is a gym in DeKalb County, GA at 3176 Marjan
 - Website: https://centralrockgym.com/atlanta-bouldering/
 - Email: n/a
 - Opening hours (OSM syntax): Su 11:00-18:00; Mo 06:00-22:00; Tu 11:00-22:00; We 06:00-22:00; Th-Fr 11:00-22:00; Sa 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 11% of gyms in Atlanta, #1 of 5 gyms in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ SmartStop Self Storage is a self-storage facility in Texas City, TX at 3730 Emme
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 61% of self-storage facilitys in Houston, #2 of 2 self-storage facilitys in Texas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

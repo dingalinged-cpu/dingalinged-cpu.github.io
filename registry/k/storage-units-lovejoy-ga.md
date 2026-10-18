@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Lovejoy, GA is APEX Self Storage (a self-storage facility in Lovejoy, GA). 1 storage units businesses are listed for Lovejoy, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Lovejoy, GA is APEX Self Storage (a self-storage facility in Lovejoy, GA). 1 storage units businesses are listed for Lovejoy, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Lovejoy, GA?
 
 Also answers: storage units in Lovejoy, GA; storage units near me (Lovejoy, GA); best storage units Lovejoy, GA; top rated storage units Lovejoy, GA; affordable storage units Lovejoy, GA; emergency storage units Lovejoy, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. APEX Self Storage | trust 0.0 | APEX Self Storage is a self-storage facility in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/apex-self-storage-lovejoy/
+1. APEX Self Storage | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | APEX Self Storage is a self-storage facility in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/apex-self-storage-lovejoy/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units lovejoy ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

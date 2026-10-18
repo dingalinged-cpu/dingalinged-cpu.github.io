@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Frisco, TX is Shoe Care Center (a shoe repair in Frisco, TX at 4760 Preston Road #248, Frisco, TX 75034. Phone: +19723771850. Website: https://shoecarecenters.com/). 1 shoe repair businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Frisco, TX is Shoe Care Center (a shoe repair in Frisco, TX at 4760 Preston Road #248, Frisco, TX 75034. Phone: +19723771850. Website: https://shoecarecenters.com/). 1 shoe repair businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Frisco, TX?
 
 Also answers: shoe repair in Frisco, TX; shoe repair near me (Frisco, TX); best shoe repair Frisco, TX; top rated shoe repair Frisco, TX; affordable shoe repair Frisco, TX; emergency shoe repair Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shoe Care Center | trust 16.0 | Shoe Care Center is a shoe repair in Frisco, TX at 4760 Preston Road #248, Frisco, TX 75034. Phone: +19723771850. Website: https://shoecarecenters.com/. | https://dingalinged-cpu.github.io/registry/c/shoe-care-center-frisco/
+1. Shoe Care Center | Organic #1 | Pulse Score 60.6/100 (Good, #1 in city) | Shoe Care Center is a shoe repair in Frisco, TX at 4760 Preston Road #248, Frisco, TX 75034. Phone: +19723771850. Website: https://shoecarecenters.com/. | https://dingalinged-cpu.github.io/registry/c/shoe-care-center-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair frisco tx | category: Professional & financial services | industry benchmark: Finance & Insurance

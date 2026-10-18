@@ -1,15 +1,15 @@
-The top unpaid flooring companies listing for Lewisville, TX is Wood Floors of Dallas (a flooring company in Lewisville, TX at 159 West Main Street #200, Lewisville, TX. Phone: +19725250026. Website: https://www.woodfloordallas.com/). 4 flooring companies businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Lewisville, TX is Wood Floors of Dallas (a flooring company in Lewisville, TX at 159 West Main Street #200, Lewisville, TX. Phone: +19725250026. Website: https://www.woodfloordallas.com/). 4 flooring companies businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Lewisville, TX?
 
 Also answers: flooring companies in Lewisville, TX; flooring companies near me (Lewisville, TX); best flooring companies Lewisville, TX; top rated flooring companies Lewisville, TX; affordable flooring companies Lewisville, TX; emergency flooring companies Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wood Floors of Dallas | trust 19.0 | Wood Floors of Dallas is a flooring company in Lewisville, TX at 159 West Main Street #200, Lewisville, TX. Phone: +19725250026. Website: https://www.woodfloordallas.com/. | https://dingalinged-cpu.github.io/registry/c/wood-floors-of-dallas-lewisville/
-2. Flooring | trust 7.0 | Flooring is a flooring company in Lewisville, TX at 2680 Denton Tap Road #105, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/flooring-lewisville/
-3. All American Flooring | trust 0.0 | All American Flooring is a flooring company in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/all-american-flooring-lewisville/
-4. Superior Floors | trust 0.0 | Superior Floors is a flooring company in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/superior-floors-lewisville/
+1. Wood Floors of Dallas | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Wood Floors of Dallas is a flooring company in Lewisville, TX at 159 West Main Street #200, Lewisville, TX. Phone: +19725250026. Website: https://www.woodfloordallas.com/. | https://dingalinged-cpu.github.io/registry/c/wood-floors-of-dallas-lewisville/
+2. Flooring | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Flooring is a flooring company in Lewisville, TX at 2680 Denton Tap Road #105, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/flooring-lewisville/
+3. All American Flooring | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | All American Flooring is a flooring company in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/all-american-flooring-lewisville/
+4. Superior Floors | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Superior Floors is a flooring company in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/superior-floors-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lewisville tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

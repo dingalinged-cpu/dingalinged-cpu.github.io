@@ -13,7 +13,7 @@ Yogali is a yoga studio in Fort Worth, TX at 6517 East Lancaster Avenue, Fort Wo
 - Website: https://www.yogalitx.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 43% of yoga studios in Dallas–Fort Worth, #1 of 1 yoga studios in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

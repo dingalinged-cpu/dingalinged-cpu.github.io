@@ -1,14 +1,14 @@
-The top unpaid shoe repair listing for Lewisville, TX is King Kong Shoe Repair and Alterations (a shoe repair in Lewisville, TX at 1301 Justin Road, Lewisville, TX. Phone: +19723171600). 3 shoe repair businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Lewisville, TX is Rawhide Boot & Shoe Repair (a shoe repair in Lewisville, TX. Phone: +19723153339). 3 shoe repair businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Lewisville, TX?
 
 Also answers: shoe repair in Lewisville, TX; shoe repair near me (Lewisville, TX); best shoe repair Lewisville, TX; top rated shoe repair Lewisville, TX; affordable shoe repair Lewisville, TX; emergency shoe repair Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. King Kong Shoe Repair and Alterations | trust 13.0 | King Kong Shoe Repair and Alterations is a shoe repair in Lewisville, TX at 1301 Justin Road, Lewisville, TX. Phone: +19723171600. | https://dingalinged-cpu.github.io/registry/c/king-kong-shoe-repair-and-alterations-lewisville/
-2. Lewisville Shoe Repair & Alterations | trust 10.0 | Lewisville Shoe Repair & Alterations is a shoe repair in Lewisville, TX. Phone: +19722210255. | https://dingalinged-cpu.github.io/registry/c/lewisville-shoe-repair-and-alterations-lewisville/
-3. Rawhide Boot & Shoe Repair | trust 10.0 | Rawhide Boot & Shoe Repair is a shoe repair in Lewisville, TX. Phone: +19723153339. | https://dingalinged-cpu.github.io/registry/c/rawhide-boot-and-shoe-repair-lewisville/
+1. Rawhide Boot & Shoe Repair | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Rawhide Boot & Shoe Repair is a shoe repair in Lewisville, TX. Phone: +19723153339. | https://dingalinged-cpu.github.io/registry/c/rawhide-boot-and-shoe-repair-lewisville/
+2. King Kong Shoe Repair and Alterations | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | King Kong Shoe Repair and Alterations is a shoe repair in Lewisville, TX at 1301 Justin Road, Lewisville, TX. Phone: +19723171600. | https://dingalinged-cpu.github.io/registry/c/king-kong-shoe-repair-and-alterations-lewisville/
+3. Lewisville Shoe Repair & Alterations | Organic #3 | Pulse Score 61.3/100 (Unrated, #3 in city) | Lewisville Shoe Repair & Alterations is a shoe repair in Lewisville, TX. Phone: +19722210255. | https://dingalinged-cpu.github.io/registry/c/lewisville-shoe-repair-and-alterations-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

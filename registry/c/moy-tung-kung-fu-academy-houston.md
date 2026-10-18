@@ -13,7 +13,7 @@ Moy Tung Kung Fu Academy is a martial arts school in Houston, TX at 3601 South S
 - Website: https://houston.txkungfu.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 19:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of martial arts schools in Houston, #4 of 14 martial arts schools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

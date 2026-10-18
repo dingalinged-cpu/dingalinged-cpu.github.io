@@ -1,14 +1,14 @@
-The top unpaid oil change listing for Woodstock, GA is B & P Tire And Automotive Repair (an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/). 3 oil change businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Woodstock, GA is B & P Tire And Automotive Repair (an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/). 3 oil change businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Woodstock, GA?
 
 Also answers: oil change in Woodstock, GA; oil change near me (Woodstock, GA); best oil change Woodstock, GA; top rated oil change Woodstock, GA; affordable oil change Woodstock, GA; emergency oil change Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B & P Tire And Automotive Repair | trust 19.0 | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://dingalinged-cpu.github.io/registry/c/b-and-p-tire-and-automotive-repair-woodstock/
-2. Chloes Auto Repair and Tire | trust 16.0 | Chloes Auto Repair and Tire is an auto repair shop in Woodstock, GA at 6422 Bells Ferry Road ##100, Woodstock, GA 30189. Phone: +17705758800. Website: https://chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-woodstock/
-3. Grease Monkey | trust 3.0 | Grease Monkey is an auto repair shop in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-woodstock-n12442623548/
+1. B & P Tire And Automotive Repair | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | B & P Tire And Automotive Repair is an auto repair shop in Woodstock, GA at 9405 Main Street, Woodstock, GA. Phone: +17705910190. Website: https://thetirepatch.com/. | https://dingalinged-cpu.github.io/registry/c/b-and-p-tire-and-automotive-repair-woodstock/
+2. Chloes Auto Repair and Tire | Organic #2 | Pulse Score 61.6/100 (Unrated, #4 in city) | Chloes Auto Repair and Tire is an auto repair shop in Woodstock, GA at 6422 Bells Ferry Road ##100, Woodstock, GA 30189. Phone: +17705758800. Website: https://chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-woodstock/
+3. Grease Monkey | Organic #3 | Pulse Score 47.1/100 (Building, #12 in city) | Grease Monkey is an auto repair shop in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-woodstock-n12442623548/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change woodstock ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

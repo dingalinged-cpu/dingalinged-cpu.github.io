@@ -13,7 +13,7 @@ AFC Urgent Care is an urgent care clinic in Katy, TX at 6445 FM 1463 #230, Katy,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 60% of urgent care clinics in Houston, #1 of 1 urgent care clinics in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

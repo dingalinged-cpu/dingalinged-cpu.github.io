@@ -13,7 +13,7 @@ Young's Asian Massage is a massage studio in Cherokee County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 80% of massage studios in Atlanta, #2 of 2 massage studios in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

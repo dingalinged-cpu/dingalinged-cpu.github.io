@@ -13,7 +13,7 @@ FBC Remodel is an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard,
 - Website: https://fbcremodel.com/minnesota
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 48% of architects in Minneapolis–St. Paul, #1 of 1 architects in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

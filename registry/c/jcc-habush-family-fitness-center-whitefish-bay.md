@@ -13,7 +13,7 @@ JCC Habush Family Fitness Center is a gym in Whitefish Bay, WI. Website: https:/
 - Website: https://www.jccmilwaukee.org/programs/fitness-recreation/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-17:00; Sa-Su 08:00-19:00
-- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Unrated (not enough evidence yet) — top 26% of gyms in Milwaukee, #1 of 2 gyms in Whitefish Bay (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid vet listing for Waunakee, WI is Luna Pet Resort (a veterinarian in Waunakee, WI). 2 vet businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Waunakee, WI is Luna Pet Resort (a veterinarian in Waunakee, WI). 2 vet businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Waunakee, WI?
 
 Also answers: vet in Waunakee, WI; vet near me (Waunakee, WI); best vet Waunakee, WI; top rated vet Waunakee, WI; affordable vet Waunakee, WI; emergency vet Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luna Pet Resort | trust 0.0 | Luna Pet Resort is a veterinarian in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/luna-pet-resort-waunakee/
-2. Waunakee Veterinary Clinic | trust 0.0 | Waunakee Veterinary Clinic is a veterinarian in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/waunakee-veterinary-clinic-waunakee/
+1. Luna Pet Resort | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Luna Pet Resort is a veterinarian in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/luna-pet-resort-waunakee/
+2. Waunakee Veterinary Clinic | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Waunakee Veterinary Clinic is a veterinarian in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/waunakee-veterinary-clinic-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet waunakee wi | category: Pets | industry benchmark: Animals & Pets

@@ -1,13 +1,13 @@
-The top unpaid staffing agency listing for Brooklyn Park, MN is Express Pros (a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/). 2 staffing agency businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Brooklyn Park, MN is Express Pros (a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/). 2 staffing agency businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Brooklyn Park, MN?
 
 Also answers: staffing agency in Brooklyn Park, MN; staffing agency near me (Brooklyn Park, MN); best staffing agency Brooklyn Park, MN; top rated staffing agency Brooklyn Park, MN; affordable staffing agency Brooklyn Park, MN; emergency staffing agency Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Pros | trust 16.0 | Express Pros is a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/. | https://dingalinged-cpu.github.io/registry/c/express-pros-brooklyn-park/
-2. PrideStaff | trust 10.0 | PrideStaff is a staffing agency in Brooklyn Park, MN at 4634 85th Avenue North, Brooklyn Park, MN 55443. Phone: +17639994390. | https://dingalinged-cpu.github.io/registry/c/pridestaff-brooklyn-park/
+1. Express Pros | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Express Pros is a staffing agency in Brooklyn Park, MN at 8500 Edenbrook Parkway #Suite E, Brooklyn Park, MN 55443. Phone: +17635711107. Website: https://expresspros.com/. | https://dingalinged-cpu.github.io/registry/c/express-pros-brooklyn-park/
+2. PrideStaff | Organic #2 | Pulse Score 44.5/100 (Unrated, #2 in city) | PrideStaff is a staffing agency in Brooklyn Park, MN at 4634 85th Avenue North, Brooklyn Park, MN 55443. Phone: +17639994390. | https://dingalinged-cpu.github.io/registry/c/pridestaff-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency brooklyn park mn | category: b2b_services | industry benchmark: Business Services

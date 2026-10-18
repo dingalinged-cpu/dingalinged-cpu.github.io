@@ -13,7 +13,7 @@ Natural Pawz is a pet store in Houston, TX at 4015 Washington Avenue #A, Houston
 - Website: https://naturalpawz.com/a/pages/locations/517/washington-ave
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 39% of pet stores in Houston, #19 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

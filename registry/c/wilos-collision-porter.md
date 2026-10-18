@@ -13,7 +13,7 @@ Wilo's collision is an auto repair shop in Porter, TX at 23340 FM 1314, Porter, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 09:00-18:00; Th-Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 4% of auto repair shops in Houston, #1 of 3 auto repair shops in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

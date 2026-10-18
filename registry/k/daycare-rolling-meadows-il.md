@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Rolling Meadows, IL is Homey-Home Day Care (a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008). 1 daycare businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Rolling Meadows, IL is Homey-Home Day Care (a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008). 1 daycare businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Rolling Meadows, IL?
 
 Also answers: daycare in Rolling Meadows, IL; daycare near me (Rolling Meadows, IL); best daycare Rolling Meadows, IL; top rated daycare Rolling Meadows, IL; affordable daycare Rolling Meadows, IL; emergency daycare Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Homey-Home Day Care | trust 8.0 | Homey-Home Day Care is a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/homey-home-day-care-rolling-meadows/
+1. Homey-Home Day Care | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Homey-Home Day Care is a daycare in Rolling Meadows, IL at 105 Alder Court, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/homey-home-day-care-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare rolling meadows il | category: Education & childcare | industry benchmark: Education & Instruction

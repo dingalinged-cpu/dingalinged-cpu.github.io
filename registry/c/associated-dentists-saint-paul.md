@@ -13,7 +13,7 @@ Associated Dentists is a dentist in Saint Paul, MN at 1371 7th Street West, Sain
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 96% of dentists in Minneapolis–St. Paul, #29 of 29 dentists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

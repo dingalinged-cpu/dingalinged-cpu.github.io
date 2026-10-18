@@ -1,15 +1,15 @@
-The top unpaid preschool listing for Roswell, GA is Village Montessori School (a preschool in Roswell, GA at 1610 Woodstock Road, Roswell, GA. Phone: +17705520834. Website: https://www.vmschool.com/). 4 preschool businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Roswell, GA is Village Montessori School (a preschool in Roswell, GA at 1610 Woodstock Road, Roswell, GA. Phone: +17705520834. Website: https://www.vmschool.com/). 4 preschool businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Roswell, GA?
 
 Also answers: preschool in Roswell, GA; preschool near me (Roswell, GA); best preschool Roswell, GA; top rated preschool Roswell, GA; affordable preschool Roswell, GA; emergency preschool Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Montessori School | trust 15.0 | Village Montessori School is a preschool in Roswell, GA at 1610 Woodstock Road, Roswell, GA. Phone: +17705520834. Website: https://www.vmschool.com/. | https://dingalinged-cpu.github.io/registry/c/village-montessori-school-roswell/
-2. Science Akademia, The Atlanta Preschool of Science | trust 10.0 | Science Akademia, The Atlanta Preschool of Science is a preschool in Johns Creek, GA at 9550 Nesbit Ferry Road, Johns Creek, GA 30022. Website: https://satapos.com/. | https://dingalinged-cpu.github.io/registry/c/science-akademia-the-atlanta-preschool-of-science-johns-creek/
-3. The Goddard School | trust 4.0 | The Goddard School is a preschool in Alpharetta, GA at 2710 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-alpharetta/
-4. Discover Point Child Development Center | trust 0.0 | Discover Point Child Development Center is a preschool in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/discover-point-child-development-center-roswell/
+1. Village Montessori School | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Village Montessori School is a preschool in Roswell, GA at 1610 Woodstock Road, Roswell, GA. Phone: +17705520834. Website: https://www.vmschool.com/. | https://dingalinged-cpu.github.io/registry/c/village-montessori-school-roswell/
+2. Science Akademia, The Atlanta Preschool of Science | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Science Akademia, The Atlanta Preschool of Science is a preschool in Johns Creek, GA at 9550 Nesbit Ferry Road, Johns Creek, GA 30022. Website: https://satapos.com/. | https://dingalinged-cpu.github.io/registry/c/science-akademia-the-atlanta-preschool-of-science-johns-creek/
+3. Discover Point Child Development Center | Organic #3 | Pulse Score 54.4/100 (Unrated, #2 in city) | Discover Point Child Development Center is a preschool in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/discover-point-child-development-center-roswell/
+4. The Goddard School | Organic #4 | Pulse Score 44/100 (Building, #2 in city) | The Goddard School is a preschool in Alpharetta, GA at 2710 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool roswell ga | category: Education & childcare | industry benchmark: Education & Instruction

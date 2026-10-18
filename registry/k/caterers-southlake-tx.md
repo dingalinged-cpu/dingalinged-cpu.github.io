@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Southlake, TX is Central Market - Catering (a caterer in Southlake, TX at 1425 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173105610). 1 caterers businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Southlake, TX is Central Market - Catering (a caterer in Southlake, TX at 1425 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173105610). 1 caterers businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Southlake, TX?
 
 Also answers: caterers in Southlake, TX; caterers near me (Southlake, TX); best caterers Southlake, TX; top rated caterers Southlake, TX; affordable caterers Southlake, TX; emergency caterers Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Central Market - Catering | trust 14.0 | Central Market - Catering is a caterer in Southlake, TX at 1425 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173105610. | https://dingalinged-cpu.github.io/registry/c/central-market-catering-southlake/
+1. Central Market - Catering | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Central Market - Catering is a caterer in Southlake, TX at 1425 East Southlake Boulevard, Southlake, TX 76092. Phone: +18173105610. | https://dingalinged-cpu.github.io/registry/c/central-market-catering-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers southlake tx | category: Events & weddings | industry benchmark: Personal Services

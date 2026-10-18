@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Eagan, MN is Bauer Built (a tire shop in Eagan, MN. Phone: +16123513311). 3 tire shop businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Eagan, MN is Bauer Built (a tire shop in Eagan, MN. Phone: +16123513311). 3 tire shop businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Eagan, MN?
 
 Also answers: tire shop in Eagan, MN; tire shop near me (Eagan, MN); best tire shop Eagan, MN; top rated tire shop Eagan, MN; affordable tire shop Eagan, MN; emergency tire shop Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bauer Built | trust 6.0 | Bauer Built is a tire shop in Eagan, MN. Phone: +16123513311. | https://dingalinged-cpu.github.io/registry/c/bauer-built-eagan/
-2. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/discount-tire-eagan/
-3. Tires Plus | trust 0.0 | Tires Plus is a tire shop in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/tires-plus-eagan/
+1. Bauer Built | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Bauer Built is a tire shop in Eagan, MN. Phone: +16123513311. | https://dingalinged-cpu.github.io/registry/c/bauer-built-eagan/
+2. Discount Tire | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/discount-tire-eagan/
+3. Tires Plus | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Tires Plus is a tire shop in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/tires-plus-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop eagan mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

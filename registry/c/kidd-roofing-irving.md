@@ -13,7 +13,7 @@ Kidd Roofing is a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75
 - Website: https://www.kiddroof.com/
 - Email: info@kiddroof.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of roofers in Dallas–Fort Worth, #2 of 3 roofers in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid transmission repair listing for Smyrna, GA is All Pro Transmission Exchange (an auto repair shop in Smyrna, GA at 3470 Lake Drive Southeast, Smyrna, GA 30082. Phone: +17704345579. Website: https://www.allprotransmission.com/). 1 transmission repair businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Smyrna, GA is All Pro Transmission Exchange (an auto repair shop in Smyrna, GA at 3470 Lake Drive Southeast, Smyrna, GA 30082. Phone: +17704345579. Website: https://www.allprotransmission.com/). 1 transmission repair businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Smyrna, GA?
 
 Also answers: transmission repair in Smyrna, GA; transmission repair near me (Smyrna, GA); best transmission repair Smyrna, GA; top rated transmission repair Smyrna, GA; affordable transmission repair Smyrna, GA; emergency transmission repair Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Pro Transmission Exchange | trust 16.0 | All Pro Transmission Exchange is an auto repair shop in Smyrna, GA at 3470 Lake Drive Southeast, Smyrna, GA 30082. Phone: +17704345579. Website: https://www.allprotransmission.com/. | https://dingalinged-cpu.github.io/registry/c/all-pro-transmission-exchange-smyrna/
+1. All Pro Transmission Exchange | Organic #1 | Pulse Score 60.8/100 (Unrated, #5 in city) | All Pro Transmission Exchange is an auto repair shop in Smyrna, GA at 3470 Lake Drive Southeast, Smyrna, GA 30082. Phone: +17704345579. Website: https://www.allprotransmission.com/. | https://dingalinged-cpu.github.io/registry/c/all-pro-transmission-exchange-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair smyrna ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

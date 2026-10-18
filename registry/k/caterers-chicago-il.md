@@ -1,17 +1,17 @@
-The top unpaid caterers listing for Chicago, IL is Soul Veg City (a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/). 6 caterers businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Chicago, IL is Soul Veg City (a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/). 6 caterers businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Chicago, IL?
 
 Also answers: caterers in Chicago, IL; caterers near me (Chicago, IL); best caterers Chicago, IL; top rated caterers Chicago, IL; affordable caterers Chicago, IL; emergency caterers Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Soul Veg City | trust 20.0 | Soul Veg City is a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/. | https://dingalinged-cpu.github.io/registry/c/soul-veg-city-chicago/
-2. May St. Cafe | trust 16.0 | May St. Cafe is an event venue in Chicago, IL at 1146 West Cermak Road, Chicago, IL 60608. Phone: +13124214442. Website: https://maystreetcafe.com/. | https://dingalinged-cpu.github.io/registry/c/may-st-cafe-chicago/
-3. Brix Catering | trust 10.0 | Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, IL 60640. Website: https://www.brixcatering.com/. | https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/
-4. Melon Express Catering | trust 4.0 | Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/
-5. Overcomer African Cuisine | trust 4.0 | Overcomer African Cuisine is a caterer in Chicago, IL at 7542 North Oakley Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/overcomer-african-cuisine-chicago/
-6. Ballyhoo Hospitality | trust 0.0 | Ballyhoo Hospitality is a caterer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ballyhoo-hospitality-chicago/
+1. Soul Veg City | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Soul Veg City is a caterer in Chicago, IL at 203 East 75th Street, Chicago, IL 60619. Phone: +17732240104. Website: https://www.soulvegcity.com/. | https://dingalinged-cpu.github.io/registry/c/soul-veg-city-chicago/
+2. May St. Cafe | Organic #2 | Pulse Score 62.3/100 (Unrated, #7 in city) | May St. Cafe is an event venue in Chicago, IL at 1146 West Cermak Road, Chicago, IL 60608. Phone: +13124214442. Website: https://maystreetcafe.com/. | https://dingalinged-cpu.github.io/registry/c/may-st-cafe-chicago/
+3. Brix Catering | Organic #3 | Pulse Score 57.7/100 (Unrated, #2 in city) | Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, IL 60640. Website: https://www.brixcatering.com/. | https://dingalinged-cpu.github.io/registry/c/brix-catering-chicago/
+4. Melon Express Catering | Organic #4 | Pulse Score 56.6/100 (Unrated, #3 in city) | Melon Express Catering is a caterer in Chicago, IL at 7108 South Oglesby Avenue, Chicago, IL 60649. | https://dingalinged-cpu.github.io/registry/c/melon-express-catering-chicago/
+5. Overcomer African Cuisine | Organic #5 | Pulse Score 55.2/100 (Unrated, #4 in city) | Overcomer African Cuisine is a caterer in Chicago, IL at 7542 North Oakley Avenue, Chicago, IL 60645. | https://dingalinged-cpu.github.io/registry/c/overcomer-african-cuisine-chicago/
+6. Ballyhoo Hospitality | Organic #6 | Pulse Score 53.7/100 (Unrated, #5 in city) | Ballyhoo Hospitality is a caterer in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ballyhoo-hospitality-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers chicago il | category: Events & weddings | industry benchmark: Personal Services

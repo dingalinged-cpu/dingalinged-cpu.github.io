@@ -1,14 +1,14 @@
-The top unpaid gym listing for Fulshear, TX is Cross Creek Ranch Fitness Center (a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center). 3 gym businesses are listed for Fulshear, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Fulshear, TX is Cross Creek Ranch Fitness Center (a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center). 3 gym businesses are listed for Fulshear, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Fulshear, TX?
 
 Also answers: gym in Fulshear, TX; gym near me (Fulshear, TX); best gym Fulshear, TX; top rated gym Fulshear, TX; affordable gym Fulshear, TX; emergency gym Fulshear, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cross Creek Ranch Fitness Center | trust 14.0 | Cross Creek Ranch Fitness Center is a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center. | https://dingalinged-cpu.github.io/registry/c/cross-creek-ranch-fitness-center-fulshear/
-2. Alpha Elite Training | trust 4.0 | Alpha Elite Training is a gym in Fulshear, TX at 6610 FM 359 #900, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/alpha-elite-training-fulshear/
-3. StretchLab | trust 4.0 | StretchLab is a gym in Fulshear, TX at 6300 FM 1463 #200, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/stretchlab-fulshear/
+1. Cross Creek Ranch Fitness Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Cross Creek Ranch Fitness Center is a gym in Fulshear, TX at 6450 Cross Creek Bend Lane, Fulshear, TX 77441. Website: https://www.crosscreektexas.com/fitness-center. | https://dingalinged-cpu.github.io/registry/c/cross-creek-ranch-fitness-center-fulshear/
+2. Alpha Elite Training | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Alpha Elite Training is a gym in Fulshear, TX at 6610 FM 359 #900, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/alpha-elite-training-fulshear/
+3. StretchLab | Organic #3 | Pulse Score 44.9/100 (Unrated, #3 in city) | StretchLab is a gym in Fulshear, TX at 6300 FM 1463 #200, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/stretchlab-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym fulshear tx | category: Fitness | industry benchmark: Health & Fitness

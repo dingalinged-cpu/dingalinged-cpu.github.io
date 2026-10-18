@@ -13,7 +13,7 @@ Styles by Magnolia Station Hair Salon is a hair salon in Kennesaw, GA at 3600 Ch
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu off; We 10:00-20:00; Th 12:00-20:00; Fr-Sa 10:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 30% of hair salons in Atlanta, #16 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

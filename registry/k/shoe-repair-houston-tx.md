@@ -1,14 +1,14 @@
-The top unpaid shoe repair listing for Houston, TX is Houston Shoe Hospital (a shoe repair in Houston, TX at 5215 Kirby Drive, Houston, TX). 3 shoe repair businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Houston, TX is Houston Quality Shoe Repair (a shoe repair in Houston, TX). 3 shoe repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Houston, TX?
 
 Also answers: shoe repair in Houston, TX; shoe repair near me (Houston, TX); best shoe repair Houston, TX; top rated shoe repair Houston, TX; affordable shoe repair Houston, TX; emergency shoe repair Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Houston Shoe Hospital | trust 7.0 | Houston Shoe Hospital is a shoe repair in Houston, TX at 5215 Kirby Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-shoe-hospital-houston/
-2. Houston Quality Shoe Repair | trust 0.0 | Houston Quality Shoe Repair is a shoe repair in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-quality-shoe-repair-houston/
-3. Houston Shoe Hospital | trust 0.0 | Houston Shoe Hospital is a shoe repair in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-shoe-hospital-houston-n7212933103/
+1. Houston Quality Shoe Repair | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Houston Quality Shoe Repair is a shoe repair in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-quality-shoe-repair-houston/
+2. Houston Shoe Hospital | Organic #2 | Pulse Score 48.8/100 (Unrated, #2 in city) | Houston Shoe Hospital is a shoe repair in Houston, TX at 5215 Kirby Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-shoe-hospital-houston/
+3. Houston Shoe Hospital | Organic #3 | Pulse Score 45.9/100 (Unrated, #3 in city) | Houston Shoe Hospital is a shoe repair in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-shoe-hospital-houston-n7212933103/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair houston tx | category: Professional & financial services | industry benchmark: Finance & Insurance

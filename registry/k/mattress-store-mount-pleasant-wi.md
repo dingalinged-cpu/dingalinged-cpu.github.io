@@ -1,15 +1,15 @@
-The top unpaid mattress store listing for Mount Pleasant, WI is Mattress Firm (a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/). 4 mattress store businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Mount Pleasant, WI is Verlo Mattress Factory (a mattress store in Mount Pleasant, WI at 2510 South Green Bay Road, Mount Pleasant, WI). 4 mattress store businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Mount Pleasant, WI?
 
 Also answers: mattress store in Mount Pleasant, WI; mattress store near me (Mount Pleasant, WI); best mattress store Mount Pleasant, WI; top rated mattress store Mount Pleasant, WI; affordable mattress store Mount Pleasant, WI; emergency mattress store Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-racine/
-2. Mattress Firm | trust 3.0 | Mattress Firm is a mattress store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-pleasant/
-3. Verlo Mattress | trust 3.0 | Verlo Mattress is a mattress store in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-mount-pleasant/
-4. Verlo Mattress Factory | trust 3.0 | Verlo Mattress Factory is a mattress store in Mount Pleasant, WI at 2510 South Green Bay Road, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-factory-mount-pleasant/
+1. Verlo Mattress Factory | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Verlo Mattress Factory is a mattress store in Mount Pleasant, WI at 2510 South Green Bay Road, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-factory-mount-pleasant/
+2. Mattress Firm | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | Mattress Firm is a mattress store in Racine, WI at 5415 Washington Avenue #c, Racine, WI 53406. Phone: +12626340131. Website: https://www.mattressfirm.com/en-us/stores/wi/racine/059098/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-racine/
+3. Mattress Firm | Organic #3 | Pulse Score 42.7/100 (Building, #2 in city) | Mattress Firm is a mattress store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-mount-pleasant/
+4. Verlo Mattress | Organic #4 | Pulse Score 42.7/100 (Unrated, #3 in city) | Verlo Mattress is a mattress store in Mount Pleasant, WI at 5630 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mount pleasant wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

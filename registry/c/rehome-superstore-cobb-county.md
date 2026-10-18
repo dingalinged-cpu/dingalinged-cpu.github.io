@@ -13,7 +13,7 @@ ReHome Superstore is a thrift store in Cobb County, GA at 2568 Canton Road, Cobb
 - Website: https://www.opp.ourpalsplace.org/rehome-superstore/
 - Email: mailto:helpanimals@ourpalsplace.org
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 7% of thrift stores in Atlanta, #1 of 9 thrift stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid photographer listing for Greenfield, WI is Lucy's Photos LLC (a photographer in Greenfield, WI at 4386 South 76th Street, Greenfield, WI 53220. Website: https://lucysphotosllc.squarespace.com/). 1 photographer businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Greenfield, WI is Lucy's Photos LLC (a photographer in Greenfield, WI at 4386 South 76th Street, Greenfield, WI 53220. Website: https://lucysphotosllc.squarespace.com/). 1 photographer businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Greenfield, WI?
 
 Also answers: photographer in Greenfield, WI; photographer near me (Greenfield, WI); best photographer Greenfield, WI; top rated photographer Greenfield, WI; affordable photographer Greenfield, WI; emergency photographer Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy's Photos LLC | trust 10.0 | Lucy's Photos LLC is a photographer in Greenfield, WI at 4386 South 76th Street, Greenfield, WI 53220. Website: https://lucysphotosllc.squarespace.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-photos-llc-greenfield/
+1. Lucy's Photos LLC | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Lucy's Photos LLC is a photographer in Greenfield, WI at 4386 South 76th Street, Greenfield, WI 53220. Website: https://lucysphotosllc.squarespace.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-photos-llc-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer greenfield wi | category: Events & weddings | industry benchmark: Personal Services

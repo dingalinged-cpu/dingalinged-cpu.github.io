@@ -13,7 +13,7 @@ The Chair is a hair salon in Minneapolis, MN at 3255 Lyndale Avenue South, Minne
 - Website: https://www.chairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-20:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of hair salons in Minneapolis–St. Paul, #13 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

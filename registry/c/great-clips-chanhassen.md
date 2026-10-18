@@ -13,7 +13,7 @@ Great Clips is a hair salon in Chanhassen, MN at 832 West 78th Street, Chanhasse
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 87% of hair salons in Minneapolis–St. Paul, #2 of 3 hair salons in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid gym listing for Lino Lakes, MN is Hotworx (a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 55038. Phone: +16512946868. Website: https://www.hotworx.net/studio/linolakes). 3 gym businesses are listed for Lino Lakes, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lino Lakes, MN is The Rookery (a gym in Lino Lakes, MN. Website: https://linolakes.us/158/The-Rookery-Activity-Center). 3 gym businesses are listed for Lino Lakes, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lino Lakes, MN?
 
 Also answers: gym in Lino Lakes, MN; gym near me (Lino Lakes, MN); best gym Lino Lakes, MN; top rated gym Lino Lakes, MN; affordable gym Lino Lakes, MN; emergency gym Lino Lakes, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hotworx | trust 20.0 | Hotworx is a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 55038. Phone: +16512946868. Website: https://www.hotworx.net/studio/linolakes. | https://dingalinged-cpu.github.io/registry/c/hotworx-lino-lakes/
-2. F45 Training | trust 14.0 | F45 Training is a gym in Lino Lakes, MN at 7114 Otter Lake Road #130, Lino Lakes, MN 55038. Website: https://f45training.com/. | https://dingalinged-cpu.github.io/registry/c/f45-training-lino-lakes/
-3. The Rookery | trust 11.0 | The Rookery is a gym in Lino Lakes, MN. Website: https://linolakes.us/158/The-Rookery-Activity-Center. | https://dingalinged-cpu.github.io/registry/c/the-rookery-lino-lakes/
+1. The Rookery | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | The Rookery is a gym in Lino Lakes, MN. Website: https://linolakes.us/158/The-Rookery-Activity-Center. | https://dingalinged-cpu.github.io/registry/c/the-rookery-lino-lakes/
+2. Hotworx | Organic #2 | Pulse Score 50.8/100 (Fair, #2 in city) | Hotworx is a gym in Lino Lakes, MN at 7107 Otter Lake Road #100, Lino Lakes, MN 55038. Phone: +16512946868. Website: https://www.hotworx.net/studio/linolakes. | https://dingalinged-cpu.github.io/registry/c/hotworx-lino-lakes/
+3. F45 Training | Organic #3 | Pulse Score 46.4/100 (Building, #3 in city) | F45 Training is a gym in Lino Lakes, MN at 7114 Otter Lake Road #130, Lino Lakes, MN 55038. Website: https://f45training.com/. | https://dingalinged-cpu.github.io/registry/c/f45-training-lino-lakes/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lino lakes mn | category: Fitness | industry benchmark: Health & Fitness

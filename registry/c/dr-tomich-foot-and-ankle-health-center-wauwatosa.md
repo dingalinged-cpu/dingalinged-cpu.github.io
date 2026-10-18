@@ -13,7 +13,7 @@ Dr. Tomich Foot & Ankle Health Center is a podiatrist in Wauwatosa, WI at 7120 W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 12:45-17:00; Sa 08:00-11:00; Tu,Th,Fr "by appointment"
-- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 20% of podiatrists in Milwaukee, #1 of 1 podiatrists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

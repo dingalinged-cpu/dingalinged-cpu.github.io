@@ -1,12 +1,12 @@
-The top unpaid coworking space listing for Cobb County, GA is Regus Coworking (a coworking space in Cobb County, GA at 3330 Cumberland Boulevard Southeast #500, Cobb County, GA. Website: https://www.regus.com/en/us/2394). 1 coworking space businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid coworking space listing for Cobb County, GA is Regus Coworking (a coworking space in Cobb County, GA at 3330 Cumberland Boulevard Southeast #500, Cobb County, GA. Website: https://www.regus.com/en/us/2394). 1 coworking space businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best coworking space providers in Cobb County, GA?
 
 Also answers: coworking space in Cobb County, GA; coworking space near me (Cobb County, GA); best coworking space Cobb County, GA; top rated coworking space Cobb County, GA; affordable coworking space Cobb County, GA; emergency coworking space Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Regus Coworking | trust 9.0 | Regus Coworking is a coworking space in Cobb County, GA at 3330 Cumberland Boulevard Southeast #500, Cobb County, GA. Website: https://www.regus.com/en/us/2394. | https://dingalinged-cpu.github.io/registry/c/regus-coworking-cobb-county/
+1. Regus Coworking | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | Regus Coworking is a coworking space in Cobb County, GA at 3330 Cumberland Boulevard Southeast #500, Cobb County, GA. Website: https://www.regus.com/en/us/2394. | https://dingalinged-cpu.github.io/registry/c/regus-coworking-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space cobb county ga | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ KL Dental Studio is a dentist in Keller, TX at 1675 North Tarrant Parkway #200, 
 - Website: https://kldentalstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 26% of dentists in Dallas–Fort Worth, #3 of 7 dentists in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

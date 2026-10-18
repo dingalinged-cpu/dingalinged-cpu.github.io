@@ -13,7 +13,7 @@ Guidepost Montessori At Marietta is a preschool in Marietta, GA at 2358 Shallowf
 - Website: https://www.guidepostmontessori.com/schools/marietta-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 10% of preschools in Atlanta, #2 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

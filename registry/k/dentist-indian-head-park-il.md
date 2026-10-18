@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Indian Head Park, IL is Skreko Dentistry (a dentist in Indian Head Park, IL. Website: https://www.drskreko.com/). 2 dentist businesses are listed for Indian Head Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Indian Head Park, IL is Skreko Dentistry (a dentist in Indian Head Park, IL. Website: https://www.drskreko.com/). 2 dentist businesses are listed for Indian Head Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Indian Head Park, IL?
 
 Also answers: dentist in Indian Head Park, IL; dentist near me (Indian Head Park, IL); best dentist Indian Head Park, IL; top rated dentist Indian Head Park, IL; affordable dentist Indian Head Park, IL; emergency dentist Indian Head Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Skreko Dentistry | trust 6.0 | Skreko Dentistry is a dentist in Indian Head Park, IL. Website: https://www.drskreko.com/. | https://dingalinged-cpu.github.io/registry/c/skreko-dentistry-indian-head-park/
-2. Novack & Cvetkovic Dentistry | trust 0.0 | Novack & Cvetkovic Dentistry is a dentist in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/novack-and-cvetkovic-dentistry-indian-head-park/
+1. Skreko Dentistry | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Skreko Dentistry is a dentist in Indian Head Park, IL. Website: https://www.drskreko.com/. | https://dingalinged-cpu.github.io/registry/c/skreko-dentistry-indian-head-park/
+2. Novack & Cvetkovic Dentistry | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Novack & Cvetkovic Dentistry is a dentist in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/novack-and-cvetkovic-dentistry-indian-head-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist indian head park il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

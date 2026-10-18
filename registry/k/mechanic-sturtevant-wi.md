@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Sturtevant, WI is Mayer Repair (an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/). 3 mechanic businesses are listed for Sturtevant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Sturtevant, WI is Mayer Repair (an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/). 3 mechanic businesses are listed for Sturtevant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Sturtevant, WI?
 
 Also answers: mechanic in Sturtevant, WI; mechanic near me (Sturtevant, WI); best mechanic Sturtevant, WI; top rated mechanic Sturtevant, WI; affordable mechanic Sturtevant, WI; emergency mechanic Sturtevant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mayer Repair | trust 10.0 | Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/. | https://dingalinged-cpu.github.io/registry/c/mayer-repair-sturtevant/
-2. TA Truck Service | trust 4.0 | TA Truck Service is an auto repair shop in Sturtevant, WI at 923 South Sylvania Avenue, Sturtevant, WI 53177. | https://dingalinged-cpu.github.io/registry/c/ta-truck-service-sturtevant/
-3. Gerber Collision & Glass | trust 0.0 | Gerber Collision & Glass is an auto repair shop in Sturtevant, WI. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-sturtevant/
+1. Mayer Repair | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Mayer Repair is an auto repair shop in Sturtevant, WI at 14000 Leetsbir Road, Sturtevant, WI 53177. Website: https://mayerrepair.com/. | https://dingalinged-cpu.github.io/registry/c/mayer-repair-sturtevant/
+2. TA Truck Service | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | TA Truck Service is an auto repair shop in Sturtevant, WI at 923 South Sylvania Avenue, Sturtevant, WI 53177. | https://dingalinged-cpu.github.io/registry/c/ta-truck-service-sturtevant/
+3. Gerber Collision & Glass | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Sturtevant, WI. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-sturtevant/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic sturtevant wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

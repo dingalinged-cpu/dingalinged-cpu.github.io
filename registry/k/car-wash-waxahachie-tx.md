@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Waxahachie, TX is M&L Kwik Wash (a car wash in Waxahachie, TX at 2701 Dallas Highway, Waxahachie, TX 75165). 5 car wash businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Waxahachie, TX is M&L Kwik Wash (a car wash in Waxahachie, TX at 2701 Dallas Highway, Waxahachie, TX 75165). 5 car wash businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Waxahachie, TX?
 
 Also answers: car wash in Waxahachie, TX; car wash near me (Waxahachie, TX); best car wash Waxahachie, TX; top rated car wash Waxahachie, TX; affordable car wash Waxahachie, TX; emergency car wash Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M&L Kwik Wash | trust 4.0 | M&L Kwik Wash is a car wash in Waxahachie, TX at 2701 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/m-and-l-kwik-wash-waxahachie/
-2. Waxahachie Express Car Wash | trust 4.0 | Waxahachie Express Car Wash is a car wash in Waxahachie, TX at Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-express-car-wash-waxahachie/
-3. Zippy's Car Wash | trust 4.0 | Zippy's Car Wash is a car wash in Waxahachie, TX at 1560 North US Highway 77, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/zippys-car-wash-waxahachie/
-4. Delek | trust 0.0 | Delek is a car wash in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/delek-waxahachie/
-5. Exxon Car Wash (Inc. Short-Visits) | trust 0.0 | Exxon Car Wash (Inc. Short-Visits) is a car wash in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/exxon-car-wash-inc-short-visits-waxahachie/
+1. M&L Kwik Wash | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | M&L Kwik Wash is a car wash in Waxahachie, TX at 2701 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/m-and-l-kwik-wash-waxahachie/
+2. Waxahachie Express Car Wash | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Waxahachie Express Car Wash is a car wash in Waxahachie, TX at Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-express-car-wash-waxahachie/
+3. Zippy's Car Wash | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Zippy's Car Wash is a car wash in Waxahachie, TX at 1560 North US Highway 77, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/zippys-car-wash-waxahachie/
+4. Delek | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Delek is a car wash in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/delek-waxahachie/
+5. Exxon Car Wash (Inc. Short-Visits) | Organic #5 | Pulse Score 55.5/100 (Unrated, #5 in city) | Exxon Car Wash (Inc. Short-Visits) is a car wash in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/exxon-car-wash-inc-short-visits-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash waxahachie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

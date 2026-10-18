@@ -13,7 +13,7 @@ Millington Financial Advisors is a financial advisor in Naperville, IL at 222 So
 - Website: https://www.millingtonfa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 15% of financial advisors in Chicago, #1 of 5 financial advisors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.9, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

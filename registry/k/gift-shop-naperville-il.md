@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Naperville, IL is Nona Jo's (a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/). 3 gift shop businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Naperville, IL is Nona Jo's (a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/). 3 gift shop businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Naperville, IL?
 
 Also answers: gift shop in Naperville, IL; gift shop near me (Naperville, IL); best gift shop Naperville, IL; top rated gift shop Naperville, IL; affordable gift shop Naperville, IL; emergency gift shop Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nona Jo's | trust 20.0 | Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/. | https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/
-2. SaraBoo Creek | trust 20.0 | SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304283671. Website: https://saraboocreek.com/downtown-naperville. | https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/
-3. Little Luxuries | trust 14.0 | Little Luxuries is a gift shop in Naperville, IL at 212 South Main Street, Naperville, IL 60540. Phone: +16303571536. | https://dingalinged-cpu.github.io/registry/c/little-luxuries-naperville/
+1. Nona Jo's | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Nona Jo's is a gift shop in Naperville, IL at 410 West 5th Avenue, Naperville, IL 60563. Phone: +16303554488. Website: https://www.nonajos.com/. | https://dingalinged-cpu.github.io/registry/c/nona-jos-naperville/
+2. Little Luxuries | Organic #2 | Pulse Score 63/100 (Unrated, #2 in city) | Little Luxuries is a gift shop in Naperville, IL at 212 South Main Street, Naperville, IL 60540. Phone: +16303571536. | https://dingalinged-cpu.github.io/registry/c/little-luxuries-naperville/
+3. SaraBoo Creek | Organic #3 | Pulse Score 62.4/100 (Unrated, #3 in city) | SaraBoo Creek is a gift shop in Naperville, IL at 107 West Jefferson Avenue, Naperville, IL 60540. Phone: +16304283671. Website: https://saraboocreek.com/downtown-naperville. | https://dingalinged-cpu.github.io/registry/c/saraboo-creek-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop naperville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

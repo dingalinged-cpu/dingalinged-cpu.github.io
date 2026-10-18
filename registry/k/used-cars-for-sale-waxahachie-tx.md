@@ -1,14 +1,14 @@
-The top unpaid used cars for sale listing for Waxahachie, TX is Brown Motor Company (an used car dealer in Waxahachie, TX at 304 South Elm Street, Waxahachie, TX 75165). 3 used cars for sale businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Waxahachie, TX is Thornhill Finance (an used car dealer in Waxahachie, TX at 314 West Main Street, Waxahachie, TX 75165). 3 used cars for sale businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Waxahachie, TX?
 
 Also answers: used cars for sale in Waxahachie, TX; used cars for sale near me (Waxahachie, TX); best used cars for sale Waxahachie, TX; top rated used cars for sale Waxahachie, TX; affordable used cars for sale Waxahachie, TX; emergency used cars for sale Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brown Motor Company | trust 4.0 | Brown Motor Company is an used car dealer in Waxahachie, TX at 304 South Elm Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/brown-motor-company-waxahachie/
-2. Thornhill Finance | trust 4.0 | Thornhill Finance is an used car dealer in Waxahachie, TX at 314 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/thornhill-finance-waxahachie/
-3. PAACO Automotive Group | trust 3.0 | PAACO Automotive Group is an used car dealer in Waxahachie, TX at 400 West Main Street, Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/paaco-automotive-group-waxahachie/
+1. Thornhill Finance | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Thornhill Finance is an used car dealer in Waxahachie, TX at 314 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/thornhill-finance-waxahachie/
+2. Brown Motor Company | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Brown Motor Company is an used car dealer in Waxahachie, TX at 304 South Elm Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/brown-motor-company-waxahachie/
+3. PAACO Automotive Group | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | PAACO Automotive Group is an used car dealer in Waxahachie, TX at 400 West Main Street, Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/paaco-automotive-group-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

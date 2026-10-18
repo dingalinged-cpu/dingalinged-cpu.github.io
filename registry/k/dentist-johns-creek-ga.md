@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Johns Creek, GA is North Atlanta Family Dentistry (a dentist in Johns Creek, GA at 5805 State Bridge Rd L, Johns Creek, GA 30097. Phone: +16784744917. Website: https://www.smilegeorgia.com/johns-creek-ga/). 5 dentist businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Johns Creek, GA is North Atlanta Family Dentistry (a dentist in Johns Creek, GA at 5805 State Bridge Rd L, Johns Creek, GA 30097. Phone: +16784744917. Website: https://www.smilegeorgia.com/johns-creek-ga/). 5 dentist businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Johns Creek, GA?
 
 Also answers: dentist in Johns Creek, GA; dentist near me (Johns Creek, GA); best dentist Johns Creek, GA; top rated dentist Johns Creek, GA; affordable dentist Johns Creek, GA; emergency dentist Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Atlanta Family Dentistry | trust 20.0 | North Atlanta Family Dentistry is a dentist in Johns Creek, GA at 5805 State Bridge Rd L, Johns Creek, GA 30097. Phone: +16784744917. Website: https://www.smilegeorgia.com/johns-creek-ga/. | https://dingalinged-cpu.github.io/registry/c/north-atlanta-family-dentistry-johns-creek/
-2. Dentist Dr. Charles H. Dodge, D.M.D | trust 16.0 | Dentist Dr. Charles H. Dodge, D.M.D is a dentist in Johns Creek, GA at 9570 Nesbit Ferry Road #103, Johns Creek, GA 30022. Phone: +17709920502. Website: https://www.drdodge.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-dr-charles-h-dodge-d-m-d-johns-creek/
-3. Dental Excellence | trust 0.0 | Dental Excellence is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/dental-excellence-johns-creek/
-4. Mibab Orthodontics | trust 0.0 | Mibab Orthodontics is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/mibab-orthodontics-johns-creek/
-5. Smile Magic | trust 0.0 | Smile Magic is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/smile-magic-johns-creek/
+1. North Atlanta Family Dentistry | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | North Atlanta Family Dentistry is a dentist in Johns Creek, GA at 5805 State Bridge Rd L, Johns Creek, GA 30097. Phone: +16784744917. Website: https://www.smilegeorgia.com/johns-creek-ga/. | https://dingalinged-cpu.github.io/registry/c/north-atlanta-family-dentistry-johns-creek/
+2. Dentist Dr. Charles H. Dodge, D.M.D | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Dentist Dr. Charles H. Dodge, D.M.D is a dentist in Johns Creek, GA at 9570 Nesbit Ferry Road #103, Johns Creek, GA 30022. Phone: +17709920502. Website: https://www.drdodge.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-dr-charles-h-dodge-d-m-d-johns-creek/
+3. Dental Excellence | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Dental Excellence is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/dental-excellence-johns-creek/
+4. Mibab Orthodontics | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Mibab Orthodontics is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/mibab-orthodontics-johns-creek/
+5. Smile Magic | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Smile Magic is a dentist in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/smile-magic-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist johns creek ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

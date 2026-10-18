@@ -13,7 +13,7 @@ El Catrin Barber & Shave Parlor is a hair salon in Carrollton, TX at 1103 South 
 - Website: https://el-catrin-barber-shave-parlor.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 11% of hair salons in Dallas–Fort Worth, #3 of 22 hair salons in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

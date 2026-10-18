@@ -13,7 +13,7 @@ Goodwill is a thrift store in Sandy Springs, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 71% of thrift stores in Atlanta, #1 of 3 thrift stores in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Slinger, WI is Anchor of Life Chiropractic (a chiropractor in Slinger, WI at 415 East Washington Street, Slinger, WI). 2 chiropractor businesses are listed for Slinger, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Slinger, WI is Anchor of Life Chiropractic (a chiropractor in Slinger, WI at 415 East Washington Street, Slinger, WI). 2 chiropractor businesses are listed for Slinger, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Slinger, WI?
 
 Also answers: chiropractor in Slinger, WI; chiropractor near me (Slinger, WI); best chiropractor Slinger, WI; top rated chiropractor Slinger, WI; affordable chiropractor Slinger, WI; emergency chiropractor Slinger, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anchor of Life Chiropractic | trust 3.0 | Anchor of Life Chiropractic is a chiropractor in Slinger, WI at 415 East Washington Street, Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/anchor-of-life-chiropractic-slinger/
-2. Riegleman Chiropractic | trust 0.0 | Riegleman Chiropractic is a chiropractor in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/riegleman-chiropractic-slinger/
+1. Anchor of Life Chiropractic | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Anchor of Life Chiropractic is a chiropractor in Slinger, WI at 415 East Washington Street, Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/anchor-of-life-chiropractic-slinger/
+2. Riegleman Chiropractic | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Riegleman Chiropractic is a chiropractor in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/riegleman-chiropractic-slinger/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor slinger wi | category: Health & medical | industry benchmark: Physicians & Surgeons

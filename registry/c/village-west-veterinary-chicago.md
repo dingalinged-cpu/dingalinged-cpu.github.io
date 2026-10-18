@@ -13,7 +13,7 @@ Village West Veterinary is a veterinarian in Chicago, IL at 840 North Western Av
 - Website: https://www.villagewestvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-19:00; Fr 08:00-18:00; Sa 09:00-14:00
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 11% of veterinarians in Chicago, #6 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

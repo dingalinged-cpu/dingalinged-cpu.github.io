@@ -1,19 +1,19 @@
-The top unpaid massage listing for Addison, TX is Tranquility Thai Spa (a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/). 8 massage businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Addison, TX is Tranquility Thai Spa (a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/). 8 massage businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Addison, TX?
 
 Also answers: massage in Addison, TX; massage near me (Addison, TX); best massage Addison, TX; top rated massage Addison, TX; affordable massage Addison, TX; emergency massage Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tranquility Thai Spa | trust 16.0 | Tranquility Thai Spa is a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/. | https://dingalinged-cpu.github.io/registry/c/tranquility-thai-spa-addison/
-2. Massage Heights | trust 4.0 | Massage Heights is a massage studio in Dallas, TX at 5290 Belt Line Road #122B, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/massage-heights-dallas/
-3. Relax Spa | trust 4.0 | Relax Spa is a massage studio in Addison, TX at 4151 Belt Line Road #108, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/relax-spa-addison/
-4. Hand & Stone Massage and Facial Spa | trust 3.0 | Hand & Stone Massage and Facial Spa is a massage studio in Addison, TX at 5100 Belt Line Road #752, Addison, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-addison/
-5. Foot Spa | trust 0.0 | Foot Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/foot-spa-addison/
-6. Golden Massage | trust 0.0 | Golden Massage is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/golden-massage-addison/
-7. La Vie Est Belle Spa | trust 0.0 | La Vie Est Belle Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/la-vie-est-belle-spa-addison/
-8. Massage Felax & Spa | trust 0.0 | Massage Felax & Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/massage-felax-and-spa-addison/
+1. Tranquility Thai Spa | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Tranquility Thai Spa is a massage studio in Addison, TX at 15506 Quorum Drive, Addison, TX 75001. Phone: +12146132332. Website: https://www.tranquility-thai-spa.com/. | https://dingalinged-cpu.github.io/registry/c/tranquility-thai-spa-addison/
+2. Relax Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Relax Spa is a massage studio in Addison, TX at 4151 Belt Line Road #108, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/relax-spa-addison/
+3. Golden Massage | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Golden Massage is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/golden-massage-addison/
+4. La Vie Est Belle Spa | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | La Vie Est Belle Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/la-vie-est-belle-spa-addison/
+5. Massage Felax & Spa | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Massage Felax & Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/massage-felax-and-spa-addison/
+6. Massage Heights | Organic #6 | Pulse Score 44.8/100 (Building, #29 in city) | Massage Heights is a massage studio in Dallas, TX at 5290 Belt Line Road #122B, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/massage-heights-dallas/
+7. Hand & Stone Massage and Facial Spa | Organic #7 | Pulse Score 43.7/100 (Building, #6 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Addison, TX at 5100 Belt Line Road #752, Addison, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-addison/
+8. Foot Spa | Organic #8 | Pulse Score 41.7/100 (Unrated, #7 in city) | Foot Spa is a massage studio in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/foot-spa-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage addison tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Affordable Patent Agency is a lawyer in Dallas, TX at 4131 North Central Express
 - Website: https://affordablepatentagency.com/
 - Email: contact4affordablepatentagency@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-12:00
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Dallas–Fort Worth, #6 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Park Ridge, IL is Children’s Land Learning Center at Park Ridge (a preschool in Park Ridge, IL at 400 Higgins Road, Park Ridge, IL 60068. Website: https://www.childrensland.com/locations/park-ridge). 1 preschool businesses are listed for Park Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Park Ridge, IL is Children’s Land Learning Center at Park Ridge (a preschool in Park Ridge, IL at 400 Higgins Road, Park Ridge, IL 60068. Website: https://www.childrensland.com/locations/park-ridge). 1 preschool businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Park Ridge, IL?
 
 Also answers: preschool in Park Ridge, IL; preschool near me (Park Ridge, IL); best preschool Park Ridge, IL; top rated preschool Park Ridge, IL; affordable preschool Park Ridge, IL; emergency preschool Park Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children’s Land Learning Center at Park Ridge | trust 10.0 | Children’s Land Learning Center at Park Ridge is a preschool in Park Ridge, IL at 400 Higgins Road, Park Ridge, IL 60068. Website: https://www.childrensland.com/locations/park-ridge. | https://dingalinged-cpu.github.io/registry/c/children-s-land-learning-center-at-park-ridge-park-ridge/
+1. Children’s Land Learning Center at Park Ridge | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Children’s Land Learning Center at Park Ridge is a preschool in Park Ridge, IL at 400 Higgins Road, Park Ridge, IL 60068. Website: https://www.childrensland.com/locations/park-ridge. | https://dingalinged-cpu.github.io/registry/c/children-s-land-learning-center-at-park-ridge-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool park ridge il | category: Education & childcare | industry benchmark: Education & Instruction

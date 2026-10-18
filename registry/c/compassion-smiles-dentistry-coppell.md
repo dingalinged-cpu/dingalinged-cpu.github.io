@@ -13,7 +13,7 @@ Compassion Smiles Dentistry is a dentist in Coppell, TX. Phone: +14699930070. We
 - Website: https://www.compassionsmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 18% of dentists in Dallas–Fort Worth, #5 of 18 dentists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

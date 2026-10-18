@@ -13,7 +13,7 @@ American Pride Roofing is a roofer in Dallas, TX at 4100 Spring Valley Road #600
 - Website: https://americanprideroofing.com/dallas-tx-roofing-company/
 - Email: Dallas@AmericanPrideRoofing.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Unrated (not enough evidence yet) — top 92% of roofers in Dallas–Fort Worth, #4 of 4 roofers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

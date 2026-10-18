@@ -1,17 +1,17 @@
-The top unpaid tire shop listing for Lewisville, TX is Costco Tire Center (a tire shop in Lewisville, TX at 851 East State Highway 121, Lewisville, TX 75067. Phone: +14699481031. Website: https://www.costco.com/warehouse-locations/lewisville-tx-683.html). 6 tire shop businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Lewisville, TX is Mike's Tire (a tire shop in Lewisville, TX. Phone: +19729560433). 6 tire shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Lewisville, TX?
 
 Also answers: tire shop in Lewisville, TX; tire shop near me (Lewisville, TX); best tire shop Lewisville, TX; top rated tire shop Lewisville, TX; affordable tire shop Lewisville, TX; emergency tire shop Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 20.0 | Costco Tire Center is a tire shop in Lewisville, TX at 851 East State Highway 121, Lewisville, TX 75067. Phone: +14699481031. Website: https://www.costco.com/warehouse-locations/lewisville-tx-683.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-lewisville/
-2. Brakes Plus | trust 14.0 | Brakes Plus is an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-lewisville-w1078679039/
-3. Discount Tire | trust 14.0 | Discount Tire is a tire shop in Lewisville, TX at 2385 I-35E Frontage Road, Lewisville, TX 75067. Phone: +19723153899. | https://dingalinged-cpu.github.io/registry/c/discount-tire-lewisville/
-4. Mike's Tire | trust 6.0 | Mike's Tire is a tire shop in Lewisville, TX. Phone: +19729560433. | https://dingalinged-cpu.github.io/registry/c/mikes-tire-lewisville/
-5. Gomez Tire Shop | trust 4.0 | Gomez Tire Shop is a tire shop in Lewisville, TX at 101 Country Ridge Road, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-lewisville/
-6. 7 Day Tire and Wheel | trust 0.0 | 7 Day Tire and Wheel is a tire shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/7-day-tire-and-wheel-lewisville/
+1. Mike's Tire | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | Mike's Tire is a tire shop in Lewisville, TX. Phone: +19729560433. | https://dingalinged-cpu.github.io/registry/c/mikes-tire-lewisville/
+2. 7 Day Tire and Wheel | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | 7 Day Tire and Wheel is a tire shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/7-day-tire-and-wheel-lewisville/
+3. Costco Tire Center | Organic #3 | Pulse Score 50.1/100 (Fair, #3 in city) | Costco Tire Center is a tire shop in Lewisville, TX at 851 East State Highway 121, Lewisville, TX 75067. Phone: +14699481031. Website: https://www.costco.com/warehouse-locations/lewisville-tx-683.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-lewisville/
+4. Discount Tire | Organic #4 | Pulse Score 49.6/100 (Building, #4 in city) | Discount Tire is a tire shop in Lewisville, TX at 2385 I-35E Frontage Road, Lewisville, TX 75067. Phone: +19723153899. | https://dingalinged-cpu.github.io/registry/c/discount-tire-lewisville/
+5. Brakes Plus | Organic #5 | Pulse Score 49.4/100 (Building, #18 in city) | Brakes Plus is an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-lewisville-w1078679039/
+6. Gomez Tire Shop | Organic #6 | Pulse Score 42.6/100 (Unrated, #5 in city) | Gomez Tire Shop is a tire shop in Lewisville, TX at 101 Country Ridge Road, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

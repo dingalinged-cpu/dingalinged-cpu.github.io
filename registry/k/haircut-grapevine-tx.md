@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Grapevine, TX is BG Hair Salon (a hair salon in Grapevine, TX. Phone: +18175276949). 10 haircut businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Grapevine, TX is Princess Threading Salon & Spa (a hair salon in Grapevine, TX at 2030 Glade Road #244, Grapevine, TX 76051). 10 haircut businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Grapevine, TX?
 
 Also answers: haircut in Grapevine, TX; haircut near me (Grapevine, TX); best haircut Grapevine, TX; top rated haircut Grapevine, TX; affordable haircut Grapevine, TX; emergency haircut Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BG Hair Salon | trust 6.0 | BG Hair Salon is a hair salon in Grapevine, TX. Phone: +18175276949. | https://dingalinged-cpu.github.io/registry/c/bg-hair-salon-grapevine/
-2. Estilo Salon | trust 4.0 | Estilo Salon is a hair salon in Grapevine, TX at 2711 Mustang Drive, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/estilo-salon-grapevine/
-3. King Jr’s Barber Shop | trust 4.0 | King Jr’s Barber Shop is a hair salon in Grapevine, TX at 3000 Grapevine Mills Parkway #401, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/king-jr-s-barber-shop-grapevine/
-4. Mouton's Salon | trust 4.0 | Mouton's Salon is a hair salon in Grapevine, TX at 2021 Hall Johnson Road, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/moutons-salon-grapevine/
-5. Princess Threading Salon & Spa | trust 4.0 | Princess Threading Salon & Spa is a hair salon in Grapevine, TX at 2030 Glade Road #244, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/princess-threading-salon-and-spa-grapevine/
-6. Renata Salons | trust 3.0 | Renata Salons is a hair salon in Grapevine, TX at 222 East College Street, Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/renata-salons-grapevine/
-7. Close Knit Barbershop | trust 0.0 | Close Knit Barbershop is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/close-knit-barbershop-grapevine/
-8. Close Knit Barbershop | trust 0.0 | Close Knit Barbershop is a barber shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/close-knit-barbershop-grapevine-n13196440217/
-9. OneSalon | trust 0.0 | OneSalon is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/onesalon-grapevine/
-10. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-grapevine/
+1. Princess Threading Salon & Spa | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Princess Threading Salon & Spa is a hair salon in Grapevine, TX at 2030 Glade Road #244, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/princess-threading-salon-and-spa-grapevine/
+2. BG Hair Salon | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | BG Hair Salon is a hair salon in Grapevine, TX. Phone: +18175276949. | https://dingalinged-cpu.github.io/registry/c/bg-hair-salon-grapevine/
+3. Estilo Salon | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Estilo Salon is a hair salon in Grapevine, TX at 2711 Mustang Drive, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/estilo-salon-grapevine/
+4. King Jr’s Barber Shop | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | King Jr’s Barber Shop is a hair salon in Grapevine, TX at 3000 Grapevine Mills Parkway #401, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/king-jr-s-barber-shop-grapevine/
+5. Mouton's Salon | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Mouton's Salon is a hair salon in Grapevine, TX at 2021 Hall Johnson Road, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/moutons-salon-grapevine/
+6. Renata Salons | Organic #6 | Pulse Score 55.6/100 (Unrated, #6 in city) | Renata Salons is a hair salon in Grapevine, TX at 222 East College Street, Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/renata-salons-grapevine/
+7. Close Knit Barbershop | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Close Knit Barbershop is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/close-knit-barbershop-grapevine/
+8. OneSalon | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | OneSalon is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/onesalon-grapevine/
+9. Close Knit Barbershop | Organic #9 | Pulse Score 54.4/100 (Unrated, #1 in city) | Close Knit Barbershop is a barber shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/close-knit-barbershop-grapevine-n13196440217/
+10. Sport Clips | Organic #10 | Pulse Score 42.2/100 (Building, #9 in city) | Sport Clips is a hair salon in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut grapevine tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

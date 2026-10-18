@@ -1,12 +1,12 @@
-The top unpaid locksmith listing for Prosper, TX is Meyer’s Locksmith (a locksmith in Prosper, TX at 1241 Prosper Commons Boulevard #103, Prosper, TX. Phone: +14694981455). 1 locksmith businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Prosper, TX is Meyer’s Locksmith (a locksmith in Prosper, TX at 1241 Prosper Commons Boulevard #103, Prosper, TX. Phone: +14694981455). 1 locksmith businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Prosper, TX?
 
 Also answers: locksmith in Prosper, TX; locksmith near me (Prosper, TX); best locksmith Prosper, TX; top rated locksmith Prosper, TX; affordable locksmith Prosper, TX; emergency locksmith Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meyer’s Locksmith | trust 9.0 | Meyer’s Locksmith is a locksmith in Prosper, TX at 1241 Prosper Commons Boulevard #103, Prosper, TX. Phone: +14694981455. | https://dingalinged-cpu.github.io/registry/c/meyer-s-locksmith-prosper/
+1. Meyer’s Locksmith | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Meyer’s Locksmith is a locksmith in Prosper, TX at 1241 Prosper Commons Boulevard #103, Prosper, TX. Phone: +14694981455. | https://dingalinged-cpu.github.io/registry/c/meyer-s-locksmith-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith prosper tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

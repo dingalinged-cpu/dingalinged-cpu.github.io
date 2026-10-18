@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Dolton, IL is Amazing Touch Dental (a dentist in Dolton, IL at 1021 East Sibley Boulevard #2, Dolton, IL 60419. Phone: +17088499520. Website: https://amazingtouchdental-il.com/). 1 dentist businesses are listed for Dolton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Dolton, IL is Amazing Touch Dental (a dentist in Dolton, IL at 1021 East Sibley Boulevard #2, Dolton, IL 60419. Phone: +17088499520. Website: https://amazingtouchdental-il.com/). 1 dentist businesses are listed for Dolton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Dolton, IL?
 
 Also answers: dentist in Dolton, IL; dentist near me (Dolton, IL); best dentist Dolton, IL; top rated dentist Dolton, IL; affordable dentist Dolton, IL; emergency dentist Dolton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amazing Touch Dental | trust 20.0 | Amazing Touch Dental is a dentist in Dolton, IL at 1021 East Sibley Boulevard #2, Dolton, IL 60419. Phone: +17088499520. Website: https://amazingtouchdental-il.com/. | https://dingalinged-cpu.github.io/registry/c/amazing-touch-dental-dolton/
+1. Amazing Touch Dental | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Amazing Touch Dental is a dentist in Dolton, IL at 1021 East Sibley Boulevard #2, Dolton, IL 60419. Phone: +17088499520. Website: https://amazingtouchdental-il.com/. | https://dingalinged-cpu.github.io/registry/c/amazing-touch-dental-dolton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dolton il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

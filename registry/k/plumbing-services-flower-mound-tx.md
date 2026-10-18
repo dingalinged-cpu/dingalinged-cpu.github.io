@@ -1,12 +1,12 @@
-The top unpaid plumbing services listing for Flower Mound, TX is Live Oak Plumbing (a plumber in Flower Mound, TX). 1 plumbing services businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbing services listing for Flower Mound, TX is Live Oak Plumbing (a plumber in Flower Mound, TX). 1 plumbing services businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbing services providers in Flower Mound, TX?
 
 Also answers: plumbing services in Flower Mound, TX; plumbing services near me (Flower Mound, TX); best plumbing services Flower Mound, TX; top rated plumbing services Flower Mound, TX; affordable plumbing services Flower Mound, TX; emergency plumbing services Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Live Oak Plumbing | trust 0.0 | Live Oak Plumbing is a plumber in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/live-oak-plumbing-flower-mound/
+1. Live Oak Plumbing | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Live Oak Plumbing is a plumber in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/live-oak-plumbing-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services flower mound tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

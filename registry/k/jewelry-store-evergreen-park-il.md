@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Evergreen Park, IL is Kay Jewelers (a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805). 1 jewelry store businesses are listed for Evergreen Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Evergreen Park, IL is Kay Jewelers (a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805). 1 jewelry store businesses are listed for Evergreen Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Evergreen Park, IL?
 
 Also answers: jewelry store in Evergreen Park, IL; jewelry store near me (Evergreen Park, IL); best jewelry store Evergreen Park, IL; top rated jewelry store Evergreen Park, IL; affordable jewelry store Evergreen Park, IL; emergency jewelry store Evergreen Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kay Jewelers | trust 4.0 | Kay Jewelers is a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-evergreen-park/
+1. Kay Jewelers | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Kay Jewelers is a jewelry store in Evergreen Park, IL at 9656 South Western Avenue, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-evergreen-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store evergreen park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

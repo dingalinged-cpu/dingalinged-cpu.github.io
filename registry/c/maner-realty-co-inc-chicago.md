@@ -13,7 +13,7 @@ Maner Realty Co Inc is a real estate agency in Chicago, IL at 216 East 83rd Stre
 - Website: https://manerrealtyco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of real estate agencys in Chicago, #4 of 69 real estate agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

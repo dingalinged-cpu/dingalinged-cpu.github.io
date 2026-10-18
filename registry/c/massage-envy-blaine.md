@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Blaine, MN at 10450 Baltimore Street Northea
 - Website: https://www.massageenvy.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-22:00
-- Registry Score: 46.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 87% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in Blaine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

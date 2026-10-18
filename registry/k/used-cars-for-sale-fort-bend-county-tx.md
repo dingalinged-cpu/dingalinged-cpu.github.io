@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for Fort Bend County, TX is CarMax (an used car dealer in Fort Bend County, TX. Website: https://www.carmax.com/stores/6081). 1 used cars for sale businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Fort Bend County, TX is CarMax (an used car dealer in Fort Bend County, TX. Website: https://www.carmax.com/stores/6081). 1 used cars for sale businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Fort Bend County, TX?
 
 Also answers: used cars for sale in Fort Bend County, TX; used cars for sale near me (Fort Bend County, TX); best used cars for sale Fort Bend County, TX; top rated used cars for sale Fort Bend County, TX; affordable used cars for sale Fort Bend County, TX; emergency used cars for sale Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarMax | trust 6.0 | CarMax is an used car dealer in Fort Bend County, TX. Website: https://www.carmax.com/stores/6081. | https://dingalinged-cpu.github.io/registry/c/carmax-fort-bend-county/
+1. CarMax | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | CarMax is an used car dealer in Fort Bend County, TX. Website: https://www.carmax.com/stores/6081. | https://dingalinged-cpu.github.io/registry/c/carmax-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale fort bend county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

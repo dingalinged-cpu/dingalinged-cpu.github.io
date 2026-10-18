@@ -1,12 +1,12 @@
-The top unpaid vet listing for Rowlett, TX is Premier Vet Care (a veterinarian in Rowlett, TX at 5100 Lakeview Parkway, Rowlett, TX 75088. Website: https://www.premiervetcareanimalclinic.com/). 1 vet businesses are listed for Rowlett, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Rowlett, TX is Premier Vet Care (a veterinarian in Rowlett, TX at 5100 Lakeview Parkway, Rowlett, TX 75088. Website: https://www.premiervetcareanimalclinic.com/). 1 vet businesses are listed for Rowlett, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Rowlett, TX?
 
 Also answers: vet in Rowlett, TX; vet near me (Rowlett, TX); best vet Rowlett, TX; top rated vet Rowlett, TX; affordable vet Rowlett, TX; emergency vet Rowlett, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premier Vet Care | trust 14.0 | Premier Vet Care is a veterinarian in Rowlett, TX at 5100 Lakeview Parkway, Rowlett, TX 75088. Website: https://www.premiervetcareanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/premier-vet-care-rowlett/
+1. Premier Vet Care | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Premier Vet Care is a veterinarian in Rowlett, TX at 5100 Lakeview Parkway, Rowlett, TX 75088. Website: https://www.premiervetcareanimalclinic.com/. | https://dingalinged-cpu.github.io/registry/c/premier-vet-care-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet rowlett tx | category: Pets | industry benchmark: Animals & Pets

@@ -1,23 +1,23 @@
-The top unpaid nail salon listing for Madison, WI is Family Nails (a nail salon in Madison, WI at 3767 East Washington Avenue, Madison, WI 53704. Phone: +16086308218). 12 nail salon businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Madison, WI is Family Nails (a nail salon in Madison, WI at 3767 East Washington Avenue, Madison, WI 53704. Phone: +16086308218). 12 nail salon businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Madison, WI?
 
 Also answers: nail salon in Madison, WI; nail salon near me (Madison, WI); best nail salon Madison, WI; top rated nail salon Madison, WI; affordable nail salon Madison, WI; emergency nail salon Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Nails | trust 14.0 | Family Nails is a nail salon in Madison, WI at 3767 East Washington Avenue, Madison, WI 53704. Phone: +16086308218. | https://dingalinged-cpu.github.io/registry/c/family-nails-madison/
-2. Shine Nails & Spa | trust 14.0 | Shine Nails & Spa is a nail salon in Madison, WI at 5509 Odana Road, Madison, WI 53719. Phone: +16082049030. | https://dingalinged-cpu.github.io/registry/c/shine-nails-and-spa-madison/
-3. Galaxy Nail Spa | trust 10.0 | Galaxy Nail Spa is a nail salon in Madison, WI. Phone: +16082305747. | https://dingalinged-cpu.github.io/registry/c/galaxy-nail-spa-madison/
-4. Q Nails and Spa | trust 4.0 | Q Nails and Spa is a nail salon in Middleton, WI at 8440 Old Sauk Road, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/q-nails-and-spa-middleton/
-5. Happy Feet Salon | trust 0.0 | Happy Feet Salon is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/happy-feet-salon-madison/
-6. Nails & Spa | trust 0.0 | Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nails-and-spa-madison/
-7. Natural Nails | trust 0.0 | Natural Nails is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/natural-nails-madison/
-8. Nini Nails & Spa | trust 0.0 | Nini Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nini-nails-and-spa-madison/
-9. Paradise Nails | trust 0.0 | Paradise Nails is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/paradise-nails-madison/
-10. PN Nail Salon | trust 0.0 | PN Nail Salon is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pn-nail-salon-madison/
-11. Super Nails and Spa | trust 0.0 | Super Nails and Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/super-nails-and-spa-madison/
-12. VIP Nails & Spa | trust 0.0 | VIP Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/vip-nails-and-spa-madison/
+1. Family Nails | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Family Nails is a nail salon in Madison, WI at 3767 East Washington Avenue, Madison, WI 53704. Phone: +16086308218. | https://dingalinged-cpu.github.io/registry/c/family-nails-madison/
+2. Galaxy Nail Spa | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Galaxy Nail Spa is a nail salon in Madison, WI. Phone: +16082305747. | https://dingalinged-cpu.github.io/registry/c/galaxy-nail-spa-madison/
+3. Shine Nails & Spa | Organic #3 | Pulse Score 61.3/100 (Unrated, #3 in city) | Shine Nails & Spa is a nail salon in Madison, WI at 5509 Odana Road, Madison, WI 53719. Phone: +16082049030. | https://dingalinged-cpu.github.io/registry/c/shine-nails-and-spa-madison/
+4. Paradise Nails | Organic #4 | Pulse Score 58.9/100 (Unrated, #4 in city) | Paradise Nails is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/paradise-nails-madison/
+5. Q Nails and Spa | Organic #5 | Pulse Score 58.7/100 (Unrated, #2 in city) | Q Nails and Spa is a nail salon in Middleton, WI at 8440 Old Sauk Road, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/q-nails-and-spa-middleton/
+6. Happy Feet Salon | Organic #6 | Pulse Score 57.5/100 (Unrated, #5 in city) | Happy Feet Salon is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/happy-feet-salon-madison/
+7. Natural Nails | Organic #7 | Pulse Score 55.7/100 (Unrated, #6 in city) | Natural Nails is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/natural-nails-madison/
+8. Nini Nails & Spa | Organic #8 | Pulse Score 55.7/100 (Unrated, #7 in city) | Nini Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nini-nails-and-spa-madison/
+9. PN Nail Salon | Organic #9 | Pulse Score 55.7/100 (Unrated, #8 in city) | PN Nail Salon is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pn-nail-salon-madison/
+10. Super Nails and Spa | Organic #10 | Pulse Score 55.7/100 (Unrated, #9 in city) | Super Nails and Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/super-nails-and-spa-madison/
+11. VIP Nails & Spa | Organic #11 | Pulse Score 55.7/100 (Unrated, #10 in city) | VIP Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/vip-nails-and-spa-madison/
+12. Nails & Spa | Organic #12 | Pulse Score 44.7/100 (Unrated, #11 in city) | Nails & Spa is a nail salon in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nails-and-spa-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon madison wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ DMG Aesthetics is a plastic surgeon in Warrenville, IL at 28381 Davis Parkway #7
 - Website: https://www.dmgaesthetics.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 08:00-16:00; Sa, Su off
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 13% of plastic surgeons in Chicago, #1 of 1 plastic surgeons in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

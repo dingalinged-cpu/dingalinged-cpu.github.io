@@ -13,7 +13,7 @@ Goodwill - Kennesaw Donation Center is a thrift store in Kennesaw, GA at 4430 Wa
 - Website: https://goodwillng.org/gw-locations/north-kennesaw-donation-center-30144/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 4% of thrift stores in Atlanta, #1 of 3 thrift stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid tailor listing for New Berlin, WI is May Alterations (a tailor in New Berlin, WI at 3554 South Moorland Road, New Berlin, WI 53151. Phone: +12624617564. Website: https://www.facebook.com/mayx38/). 1 tailor businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for New Berlin, WI is May Alterations (a tailor in New Berlin, WI at 3554 South Moorland Road, New Berlin, WI 53151. Phone: +12624617564. Website: https://www.facebook.com/mayx38/). 1 tailor businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in New Berlin, WI?
 
 Also answers: tailor in New Berlin, WI; tailor near me (New Berlin, WI); best tailor New Berlin, WI; top rated tailor New Berlin, WI; affordable tailor New Berlin, WI; emergency tailor New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. May Alterations | trust 20.0 | May Alterations is a tailor in New Berlin, WI at 3554 South Moorland Road, New Berlin, WI 53151. Phone: +12624617564. Website: https://www.facebook.com/mayx38/. | https://dingalinged-cpu.github.io/registry/c/may-alterations-new-berlin/
+1. May Alterations | Organic #1 | Pulse Score 68.9/100 (Good, #1 in city) | May Alterations is a tailor in New Berlin, WI at 3554 South Moorland Road, New Berlin, WI 53151. Phone: +12624617564. Website: https://www.facebook.com/mayx38/. | https://dingalinged-cpu.github.io/registry/c/may-alterations-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor new berlin wi | category: Professional & financial services | industry benchmark: Finance & Insurance

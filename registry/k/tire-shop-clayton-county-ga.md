@@ -1,22 +1,22 @@
-The top unpaid tire shop listing for Clayton County, GA is Amigos Tire (a tire shop in Clayton County, GA). 11 tire shop businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Clayton County, GA is Amigos Tire (a tire shop in Clayton County, GA). 11 tire shop businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Clayton County, GA?
 
 Also answers: tire shop in Clayton County, GA; tire shop near me (Clayton County, GA); best tire shop Clayton County, GA; top rated tire shop Clayton County, GA; affordable tire shop Clayton County, GA; emergency tire shop Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amigos Tire | trust 0.0 | Amigos Tire is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/amigos-tire-clayton-county/
-2. D&B Outlet Tires & Wheels | trust 0.0 | D&B Outlet Tires & Wheels is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/d-and-b-outlet-tires-and-wheels-clayton-county/
-3. Hectors Tires | trust 0.0 | Hectors Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hectors-tires-clayton-county/
-4. Larry's New/Used Tires | trust 0.0 | Larry's New/Used Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/larrys-new-used-tires-clayton-county/
-5. Mavis Tires & Brakes | trust 0.0 | Mavis Tires & Brakes is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county/
-6. Racing Tires | trust 0.0 | Racing Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/racing-tires-clayton-county/
-7. RimTyme | trust 0.0 | RimTyme is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rimtyme-clayton-county/
-8. Somo's Tires | trust 0.0 | Somo's Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/somos-tires-clayton-county/
-9. Southern Tire Mart | trust 0.0 | Southern Tire Mart is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/southern-tire-mart-clayton-county/
-10. Tiremax | trust 0.0 | Tiremax is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/tiremax-clayton-county/
-11. Tiremaxx | trust 0.0 | Tiremaxx is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/tiremaxx-clayton-county/
+1. Amigos Tire | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Amigos Tire is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/amigos-tire-clayton-county/
+2. D&B Outlet Tires & Wheels | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | D&B Outlet Tires & Wheels is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/d-and-b-outlet-tires-and-wheels-clayton-county/
+3. Hectors Tires | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Hectors Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hectors-tires-clayton-county/
+4. Larry's New/Used Tires | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Larry's New/Used Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/larrys-new-used-tires-clayton-county/
+5. Racing Tires | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Racing Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/racing-tires-clayton-county/
+6. RimTyme | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | RimTyme is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rimtyme-clayton-county/
+7. Somo's Tires | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Somo's Tires is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/somos-tires-clayton-county/
+8. Southern Tire Mart | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Southern Tire Mart is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/southern-tire-mart-clayton-county/
+9. Tiremax | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Tiremax is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/tiremax-clayton-county/
+10. Tiremaxx | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | Tiremaxx is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/tiremaxx-clayton-county/
+11. Mavis Tires & Brakes | Organic #11 | Pulse Score 42.1/100 (Unrated, #11 in city) | Mavis Tires & Brakes is a tire shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop clayton county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,19 +1,19 @@
-The top unpaid insurance agent listing for Flower Mound, TX is Allstate (an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130, Flower Mound, TX. Phone: +19035972447). 8 insurance agent businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Flower Mound, TX is Southwest Insurance Management Group (an insurance agent in Flower Mound, TX. Phone: +19723180900). 8 insurance agent businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Flower Mound, TX?
 
 Also answers: insurance agent in Flower Mound, TX; insurance agent near me (Flower Mound, TX); best insurance agent Flower Mound, TX; top rated insurance agent Flower Mound, TX; affordable insurance agent Flower Mound, TX; emergency insurance agent Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 13.0 | Allstate is an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130, Flower Mound, TX. Phone: +19035972447. | https://dingalinged-cpu.github.io/registry/c/allstate-flower-mound/
-2. Southwest Insurance Management Group | trust 10.0 | Southwest Insurance Management Group is an insurance agent in Flower Mound, TX. Phone: +19723180900. | https://dingalinged-cpu.github.io/registry/c/southwest-insurance-management-group-flower-mound/
-3. WFG National Title Insurance Company | trust 4.0 | WFG National Title Insurance Company is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/wfg-national-title-insurance-company-flower-mound/
-4. Geico | trust 3.0 | Geico is an insurance agent in Flower Mound, TX at 4630 Long Prairie Rd, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/geico-flower-mound/
-5. Nationwide | trust 3.0 | Nationwide is an insurance agent in Flower Mound, TX at 2624 Long Prairie Road #100, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-flower-mound-n13836358046/
-6. AAA Insurance | trust 0.0 | AAA Insurance is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-flower-mound/
-7. Nationwide | trust 0.0 | Nationwide is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-flower-mound/
-8. State Farm | trust 0.0 | State Farm is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-flower-mound/
+1. Southwest Insurance Management Group | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Southwest Insurance Management Group is an insurance agent in Flower Mound, TX. Phone: +19723180900. | https://dingalinged-cpu.github.io/registry/c/southwest-insurance-management-group-flower-mound/
+2. Allstate | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Allstate is an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130, Flower Mound, TX. Phone: +19035972447. | https://dingalinged-cpu.github.io/registry/c/allstate-flower-mound/
+3. WFG National Title Insurance Company | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | WFG National Title Insurance Company is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/wfg-national-title-insurance-company-flower-mound/
+4. Nationwide | Organic #4 | Pulse Score 46.1/100 (Building, #4 in city) | Nationwide is an insurance agent in Flower Mound, TX at 2624 Long Prairie Road #100, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-flower-mound-n13836358046/
+5. State Farm | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | State Farm is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-flower-mound/
+6. Geico | Organic #6 | Pulse Score 42.8/100 (Unrated, #6 in city) | Geico is an insurance agent in Flower Mound, TX at 4630 Long Prairie Rd, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/geico-flower-mound/
+7. AAA Insurance | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | AAA Insurance is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-flower-mound/
+8. Nationwide | Organic #8 | Pulse Score 41.9/100 (Building, #8 in city) | Nationwide is an insurance agent in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

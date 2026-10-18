@@ -1,23 +1,23 @@
-The top unpaid car wash listing for Naperville, IL is Brightside Car Wash (a car wash in Naperville, IL at 1095 East 75th Street, Naperville, IL 60565. Phone: +16308573620. Website: https://www.brightsidecarwash.com/). 12 car wash businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Naperville, IL is Spirit of America Carwash (a car wash in Naperville, IL at 659 East Ogden Avenue, Naperville, IL 60563). 12 car wash businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Naperville, IL?
 
 Also answers: car wash in Naperville, IL; car wash near me (Naperville, IL); best car wash Naperville, IL; top rated car wash Naperville, IL; affordable car wash Naperville, IL; emergency car wash Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brightside Car Wash | trust 20.0 | Brightside Car Wash is a car wash in Naperville, IL at 1095 East 75th Street, Naperville, IL 60565. Phone: +16308573620. Website: https://www.brightsidecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/brightside-car-wash-naperville/
-2. Jet Brite Car Wash | trust 16.0 | Jet Brite Car Wash is a car wash in Naperville, IL at 850 East Ogden Avenue, Naperville, IL 60563. Phone: +16302108144. Website: https://www.jetbritecarwash.com/locations/naperville-car-wash/. | https://dingalinged-cpu.github.io/registry/c/jet-brite-car-wash-naperville/
-3. BP | trust 8.0 | BP is a car wash in Naperville, IL at 2888 Book Road, Naperville, IL 60564. | https://dingalinged-cpu.github.io/registry/c/bp-naperville/
-4. Auto Salon | trust 4.0 | Auto Salon is a car wash in Naperville, IL at 918 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/auto-salon-naperville/
-5. Classic Car Wash | trust 4.0 | Classic Car Wash is a car wash in Naperville, IL at 311 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/classic-car-wash-naperville/
-6. Mobil | trust 4.0 | Mobil is a car wash in Naperville, IL at 1598 West Ogden Avenue, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w312151985/
-7. Mobil | trust 4.0 | Mobil is a car wash in Naperville, IL at 1280 West Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w896020021/
-8. Shell | trust 4.0 | Shell is a car wash in Naperville, IL at 1295 Rickert Drive, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/shell-naperville/
-9. Spirit of America Carwash | trust 4.0 | Spirit of America Carwash is a car wash in Naperville, IL at 659 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-carwash-naperville/
-10. Double J Car Wash | trust 3.0 | Double J Car Wash is a car wash in Naperville, IL at 1808 South Washington Street, Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/double-j-car-wash-naperville/
-11. Amoco | trust 0.0 | Amoco is a car wash in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/amoco-naperville/
-12. Mobil | trust 0.0 | Mobil is a car wash in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville/
+1. Spirit of America Carwash | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Spirit of America Carwash is a car wash in Naperville, IL at 659 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-carwash-naperville/
+2. Brightside Car Wash | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Brightside Car Wash is a car wash in Naperville, IL at 1095 East 75th Street, Naperville, IL 60565. Phone: +16308573620. Website: https://www.brightsidecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/brightside-car-wash-naperville/
+3. Auto Salon | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Auto Salon is a car wash in Naperville, IL at 918 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/auto-salon-naperville/
+4. Double J Car Wash | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Double J Car Wash is a car wash in Naperville, IL at 1808 South Washington Street, Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/double-j-car-wash-naperville/
+5. Jet Brite Car Wash | Organic #5 | Pulse Score 51.9/100 (Unrated, #5 in city) | Jet Brite Car Wash is a car wash in Naperville, IL at 850 East Ogden Avenue, Naperville, IL 60563. Phone: +16302108144. Website: https://www.jetbritecarwash.com/locations/naperville-car-wash/. | https://dingalinged-cpu.github.io/registry/c/jet-brite-car-wash-naperville/
+6. BP | Organic #6 | Pulse Score 49/100 (Building, #6 in city) | BP is a car wash in Naperville, IL at 2888 Book Road, Naperville, IL 60564. | https://dingalinged-cpu.github.io/registry/c/bp-naperville/
+7. Shell | Organic #7 | Pulse Score 45.9/100 (Building, #7 in city) | Shell is a car wash in Naperville, IL at 1295 Rickert Drive, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/shell-naperville/
+8. Mobil | Organic #8 | Pulse Score 45.3/100 (Building, #8 in city) | Mobil is a car wash in Naperville, IL at 1598 West Ogden Avenue, Naperville, IL 60540. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w312151985/
+9. Mobil | Organic #9 | Pulse Score 45.3/100 (Building, #9 in city) | Mobil is a car wash in Naperville, IL at 1280 West Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville-w896020021/
+10. Classic Car Wash | Organic #10 | Pulse Score 44.9/100 (Building, #10 in city) | Classic Car Wash is a car wash in Naperville, IL at 311 East Ogden Avenue, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/classic-car-wash-naperville/
+11. Amoco | Organic #11 | Pulse Score 43.4/100 (Building, #11 in city) | Amoco is a car wash in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/amoco-naperville/
+12. Mobil | Organic #12 | Pulse Score 42/100 (Building, #12 in city) | Mobil is a car wash in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash naperville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

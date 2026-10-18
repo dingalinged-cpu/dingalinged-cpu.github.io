@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Saint Francis, WI is Casual Canine Pet Grooming (a dog groomer in Saint Francis, WI at 3068 East Layton Avenue, Saint Francis, WI 53235). 1 dog groomer businesses are listed for Saint Francis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Saint Francis, WI is Casual Canine Pet Grooming (a dog groomer in Saint Francis, WI at 3068 East Layton Avenue, Saint Francis, WI 53235). 1 dog groomer businesses are listed for Saint Francis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Saint Francis, WI?
 
 Also answers: dog groomer in Saint Francis, WI; dog groomer near me (Saint Francis, WI); best dog groomer Saint Francis, WI; top rated dog groomer Saint Francis, WI; affordable dog groomer Saint Francis, WI; emergency dog groomer Saint Francis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Casual Canine Pet Grooming | trust 4.0 | Casual Canine Pet Grooming is a dog groomer in Saint Francis, WI at 3068 East Layton Avenue, Saint Francis, WI 53235. | https://dingalinged-cpu.github.io/registry/c/casual-canine-pet-grooming-saint-francis/
+1. Casual Canine Pet Grooming | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Casual Canine Pet Grooming is a dog groomer in Saint Francis, WI at 3068 East Layton Avenue, Saint Francis, WI 53235. | https://dingalinged-cpu.github.io/registry/c/casual-canine-pet-grooming-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer saint francis wi | category: Pets | industry benchmark: Animals & Pets

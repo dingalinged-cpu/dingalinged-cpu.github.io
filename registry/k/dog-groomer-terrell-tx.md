@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for Terrell, TX is Bones & Bows (a dog groomer in Terrell, TX at 210B South Virginia Street, Terrell, TX 75160). 2 dog groomer businesses are listed for Terrell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Terrell, TX is Bones & Bows (a dog groomer in Terrell, TX at 210B South Virginia Street, Terrell, TX 75160). 2 dog groomer businesses are listed for Terrell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Terrell, TX?
 
 Also answers: dog groomer in Terrell, TX; dog groomer near me (Terrell, TX); best dog groomer Terrell, TX; top rated dog groomer Terrell, TX; affordable dog groomer Terrell, TX; emergency dog groomer Terrell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bones & Bows | trust 8.0 | Bones & Bows is a dog groomer in Terrell, TX at 210B South Virginia Street, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/bones-and-bows-terrell/
-2. Pet Country Spa | trust 4.0 | Pet Country Spa is a dog groomer in Terrell, TX at 6160 West US Highway 80, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/pet-country-spa-terrell/
+1. Bones & Bows | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Bones & Bows is a dog groomer in Terrell, TX at 210B South Virginia Street, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/bones-and-bows-terrell/
+2. Pet Country Spa | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Pet Country Spa is a dog groomer in Terrell, TX at 6160 West US Highway 80, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/pet-country-spa-terrell/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer terrell tx | category: Pets | industry benchmark: Animals & Pets

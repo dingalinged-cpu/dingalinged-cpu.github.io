@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Allen, TX is Nutrition 1st (a therapy practice in Allen, TX at 1105 Central Expressway North ##2300, Allen, TX 75013. Phone: +19723599755. Website: https://nutrition1st.com/). 1 therapist businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Allen, TX is Nutrition 1st (a therapy practice in Allen, TX at 1105 Central Expressway North ##2300, Allen, TX 75013. Phone: +19723599755. Website: https://nutrition1st.com/). 1 therapist businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Allen, TX?
 
 Also answers: therapist in Allen, TX; therapist near me (Allen, TX); best therapist Allen, TX; top rated therapist Allen, TX; affordable therapist Allen, TX; emergency therapist Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nutrition 1st | trust 16.0 | Nutrition 1st is a therapy practice in Allen, TX at 1105 Central Expressway North ##2300, Allen, TX 75013. Phone: +19723599755. Website: https://nutrition1st.com/. | https://dingalinged-cpu.github.io/registry/c/nutrition-1st-allen/
+1. Nutrition 1st | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Nutrition 1st is a therapy practice in Allen, TX at 1105 Central Expressway North ##2300, Allen, TX 75013. Phone: +19723599755. Website: https://nutrition1st.com/. | https://dingalinged-cpu.github.io/registry/c/nutrition-1st-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist allen tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

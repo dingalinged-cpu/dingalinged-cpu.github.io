@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Verona, WI is Ecco Salon Verona (a hair salon in Verona, WI at 801 West Verona Avenue #A, Verona, WI. Phone: +16088075059. Website: https://eccosalon.com/). 3 haircut businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Verona, WI is Ecco Salon Verona (a hair salon in Verona, WI at 801 West Verona Avenue #A, Verona, WI. Phone: +16088075059. Website: https://eccosalon.com/). 3 haircut businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Verona, WI?
 
 Also answers: haircut in Verona, WI; haircut near me (Verona, WI); best haircut Verona, WI; top rated haircut Verona, WI; affordable haircut Verona, WI; emergency haircut Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ecco Salon Verona | trust 15.0 | Ecco Salon Verona is a hair salon in Verona, WI at 801 West Verona Avenue #A, Verona, WI. Phone: +16088075059. Website: https://eccosalon.com/. | https://dingalinged-cpu.github.io/registry/c/ecco-salon-verona-verona/
-2. Annala Salon | trust 0.0 | Annala Salon is a hair salon in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/annala-salon-verona/
-3. Urban Etta Salon | trust 0.0 | Urban Etta Salon is a hair salon in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/urban-etta-salon-verona/
+1. Ecco Salon Verona | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Ecco Salon Verona is a hair salon in Verona, WI at 801 West Verona Avenue #A, Verona, WI. Phone: +16088075059. Website: https://eccosalon.com/. | https://dingalinged-cpu.github.io/registry/c/ecco-salon-verona-verona/
+2. Annala Salon | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Annala Salon is a hair salon in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/annala-salon-verona/
+3. Urban Etta Salon | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Urban Etta Salon is a hair salon in Verona, WI. | https://dingalinged-cpu.github.io/registry/c/urban-etta-salon-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut verona wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

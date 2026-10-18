@@ -13,7 +13,7 @@ Bridgestone is a tire shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Law
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 83% of tire shops in Chicago, #2 of 2 tire shops in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

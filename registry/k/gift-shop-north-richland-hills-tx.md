@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for North Richland Hills, TX is Waterford’s Gift Shop (a gift shop in North Richland Hills, TX). 1 gift shop businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for North Richland Hills, TX is Waterford’s Gift Shop (a gift shop in North Richland Hills, TX). 1 gift shop businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in North Richland Hills, TX?
 
 Also answers: gift shop in North Richland Hills, TX; gift shop near me (North Richland Hills, TX); best gift shop North Richland Hills, TX; top rated gift shop North Richland Hills, TX; affordable gift shop North Richland Hills, TX; emergency gift shop North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waterford’s Gift Shop | trust 1.0 | Waterford’s Gift Shop is a gift shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/waterford-s-gift-shop-north-richland-hills/
+1. Waterford’s Gift Shop | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Waterford’s Gift Shop is a gift shop in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/waterford-s-gift-shop-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop north richland hills tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

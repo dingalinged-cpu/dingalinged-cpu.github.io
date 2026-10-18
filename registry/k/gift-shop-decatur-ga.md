@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Decatur, GA is Swem School (a gift shop in Decatur, GA at 114 East Ponce de Leon Avenue, Decatur, GA. Phone: +16782474599. Website: https://www.swemschool.com/). 3 gift shop businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Decatur, GA is Swem School (a gift shop in Decatur, GA at 114 East Ponce de Leon Avenue, Decatur, GA. Phone: +16782474599. Website: https://www.swemschool.com/). 3 gift shop businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Decatur, GA?
 
 Also answers: gift shop in Decatur, GA; gift shop near me (Decatur, GA); best gift shop Decatur, GA; top rated gift shop Decatur, GA; affordable gift shop Decatur, GA; emergency gift shop Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Swem School | trust 15.0 | Swem School is a gift shop in Decatur, GA at 114 East Ponce de Leon Avenue, Decatur, GA. Phone: +16782474599. Website: https://www.swemschool.com/. | https://dingalinged-cpu.github.io/registry/c/swem-school-decatur/
-2. Vivid Botique | trust 9.0 | Vivid Botique is a gift shop in Decatur, GA at 133, Decatur, GA. Website: https://vividdecatur.com/. | https://dingalinged-cpu.github.io/registry/c/vivid-botique-decatur/
-3. Blue Moon Designs | trust 3.0 | Blue Moon Designs is a gift shop in Decatur, GA at 418, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/blue-moon-designs-decatur/
+1. Swem School | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Swem School is a gift shop in Decatur, GA at 114 East Ponce de Leon Avenue, Decatur, GA. Phone: +16782474599. Website: https://www.swemschool.com/. | https://dingalinged-cpu.github.io/registry/c/swem-school-decatur/
+2. Vivid Botique | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Vivid Botique is a gift shop in Decatur, GA at 133, Decatur, GA. Website: https://vividdecatur.com/. | https://dingalinged-cpu.github.io/registry/c/vivid-botique-decatur/
+3. Blue Moon Designs | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Blue Moon Designs is a gift shop in Decatur, GA at 418, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/blue-moon-designs-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop decatur ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

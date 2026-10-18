@@ -1,15 +1,15 @@
-The top unpaid tax preparation listing for Marietta, GA is H&R Block (a tax preparation service in Marietta, GA at 2858 Delk Road Southeast, Marietta, GA 30067. Phone: +17709809499. Website: https://www.hrblock.com/tax-office-near-me/georgia/marietta/10931/). 4 tax preparation businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Marietta, GA is Casablanca Taxes (a tax preparation service in Marietta, GA at 1450 Roswell Road #c, Marietta, GA). 4 tax preparation businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Marietta, GA?
 
 Also answers: tax preparation in Marietta, GA; tax preparation near me (Marietta, GA); best tax preparation Marietta, GA; top rated tax preparation Marietta, GA; affordable tax preparation Marietta, GA; emergency tax preparation Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 20.0 | H&R Block is a tax preparation service in Marietta, GA at 2858 Delk Road Southeast, Marietta, GA 30067. Phone: +17709809499. Website: https://www.hrblock.com/tax-office-near-me/georgia/marietta/10931/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-marietta/
-2. Casablanca Taxes | trust 3.0 | Casablanca Taxes is a tax preparation service in Marietta, GA at 1450 Roswell Road #c, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/casablanca-taxes-marietta/
-3. ATC Income Tax | trust 0.0 | ATC Income Tax is a tax preparation service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/atc-income-tax-marietta/
-4. Tax Services | trust 0.0 | Tax Services is a tax preparation service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/tax-services-marietta/
+1. Casablanca Taxes | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Casablanca Taxes is a tax preparation service in Marietta, GA at 1450 Roswell Road #c, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/casablanca-taxes-marietta/
+2. H&R Block | Organic #2 | Pulse Score 53.3/100 (Fair, #2 in city) | H&R Block is a tax preparation service in Marietta, GA at 2858 Delk Road Southeast, Marietta, GA 30067. Phone: +17709809499. Website: https://www.hrblock.com/tax-office-near-me/georgia/marietta/10931/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-marietta/
+3. Tax Services | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Tax Services is a tax preparation service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/tax-services-marietta/
+4. ATC Income Tax | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | ATC Income Tax is a tax preparation service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/atc-income-tax-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation marietta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid printing services listing for Sugar Land, TX is FedEx Office (a printing service in Sugar Land, TX at 1865 State Highway 6 #100, Sugar Land, TX 77478. Phone: +12812424973. Website: https://local.fedex.com/en-us/tx/sugar-land/office-1917). 1 printing services businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Sugar Land, TX is FedEx Office (a printing service in Sugar Land, TX at 1865 State Highway 6 #100, Sugar Land, TX 77478. Phone: +12812424973. Website: https://local.fedex.com/en-us/tx/sugar-land/office-1917). 1 printing services businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Sugar Land, TX?
 
 Also answers: printing services in Sugar Land, TX; printing services near me (Sugar Land, TX); best printing services Sugar Land, TX; top rated printing services Sugar Land, TX; affordable printing services Sugar Land, TX; emergency printing services Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | trust 20.0 | FedEx Office is a printing service in Sugar Land, TX at 1865 State Highway 6 #100, Sugar Land, TX 77478. Phone: +12812424973. Website: https://local.fedex.com/en-us/tx/sugar-land/office-1917. | https://dingalinged-cpu.github.io/registry/c/fedex-office-sugar-land/
+1. FedEx Office | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | FedEx Office is a printing service in Sugar Land, TX at 1865 State Highway 6 #100, Sugar Land, TX 77478. Phone: +12812424973. Website: https://local.fedex.com/en-us/tx/sugar-land/office-1917. | https://dingalinged-cpu.github.io/registry/c/fedex-office-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance

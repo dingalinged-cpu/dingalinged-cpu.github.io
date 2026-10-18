@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Burr Ridge, IL is Great American Bagel (a bakery in Burr Ridge, IL). 2 bakery businesses are listed for Burr Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Burr Ridge, IL is Great American Bagel (a bakery in Burr Ridge, IL). 2 bakery businesses are listed for Burr Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Burr Ridge, IL?
 
 Also answers: bakery in Burr Ridge, IL; bakery near me (Burr Ridge, IL); best bakery Burr Ridge, IL; top rated bakery Burr Ridge, IL; affordable bakery Burr Ridge, IL; emergency bakery Burr Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great American Bagel | trust 0.0 | Great American Bagel is a bakery in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/great-american-bagel-burr-ridge/
-2. Kristen's Danish Bakery | trust 0.0 | Kristen's Danish Bakery is a bakery in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/kristens-danish-bakery-burr-ridge/
+1. Great American Bagel | Organic #1 | Pulse Score 53.5/100 (Unrated, #1 in city) | Great American Bagel is a bakery in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/great-american-bagel-burr-ridge/
+2. Kristen's Danish Bakery | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | Kristen's Danish Bakery is a bakery in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/kristens-danish-bakery-burr-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery burr ridge il | category: Events & weddings | industry benchmark: Personal Services

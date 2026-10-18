@@ -13,7 +13,7 @@ Chris Abounader is an insurance agent in Greenfield, WI at 4325 South 60th Stree
 - Website: https://www.statefarm.com/agent/us/wi/greenfield/chris-abounader-8b4zb7b9fge
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 59% of insurance agents in Milwaukee, #5 of 10 insurance agents in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

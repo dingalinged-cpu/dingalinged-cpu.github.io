@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Verona, WI is Azura Memory Care & Assisted Living (an assisted living facility in Verona, WI. Phone: +18008429872. Website: https://azuraliving.com/locations/azura-memory-care-of-verona/). 1 assisted living businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Verona, WI is Azura Memory Care & Assisted Living (an assisted living facility in Verona, WI. Phone: +18008429872. Website: https://azuraliving.com/locations/azura-memory-care-of-verona/). 1 assisted living businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Verona, WI?
 
 Also answers: assisted living in Verona, WI; assisted living near me (Verona, WI); best assisted living Verona, WI; top rated assisted living Verona, WI; affordable assisted living Verona, WI; emergency assisted living Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Azura Memory Care & Assisted Living | trust 12.0 | Azura Memory Care & Assisted Living is an assisted living facility in Verona, WI. Phone: +18008429872. Website: https://azuraliving.com/locations/azura-memory-care-of-verona/. | https://dingalinged-cpu.github.io/registry/c/azura-memory-care-and-assisted-living-verona/
+1. Azura Memory Care & Assisted Living | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Azura Memory Care & Assisted Living is an assisted living facility in Verona, WI. Phone: +18008429872. Website: https://azuraliving.com/locations/azura-memory-care-of-verona/. | https://dingalinged-cpu.github.io/registry/c/azura-memory-care-and-assisted-living-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living verona wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

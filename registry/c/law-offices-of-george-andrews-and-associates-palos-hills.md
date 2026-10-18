@@ -13,7 +13,7 @@ Law Offices of George Andrews & Associates is a lawyer in Palos Hills, IL at 976
 - Website: https://lawofficesofgeorgeandrews.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Chicago, #1 of 1 lawyers in Palos Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

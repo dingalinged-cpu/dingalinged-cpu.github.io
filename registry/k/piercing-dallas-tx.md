@@ -1,13 +1,13 @@
-The top unpaid piercing listing for Dallas, TX is LaLobe (a piercing studio in Dallas, TX at 11661 Preston Road #140, Dallas, TX 75230. Phone: +12146911359. Website: https://www.lalobe.com/). 2 piercing businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid piercing listing for Dallas, TX is LaLobe (a piercing studio in Dallas, TX at 11661 Preston Road #140, Dallas, TX 75230. Phone: +12146911359. Website: https://www.lalobe.com/). 2 piercing businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best piercing providers in Dallas, TX?
 
 Also answers: piercing in Dallas, TX; piercing near me (Dallas, TX); best piercing Dallas, TX; top rated piercing Dallas, TX; affordable piercing Dallas, TX; emergency piercing Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaLobe | trust 20.0 | LaLobe is a piercing studio in Dallas, TX at 11661 Preston Road #140, Dallas, TX 75230. Phone: +12146911359. Website: https://www.lalobe.com/. | https://dingalinged-cpu.github.io/registry/c/lalobe-dallas/
-2. Rowan | trust 0.0 | Rowan is a piercing studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rowan-dallas/
+1. LaLobe | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | LaLobe is a piercing studio in Dallas, TX at 11661 Preston Road #140, Dallas, TX 75230. Phone: +12146911359. Website: https://www.lalobe.com/. | https://dingalinged-cpu.github.io/registry/c/lalobe-dallas/
+2. Rowan | Organic #2 | Pulse Score 41.6/100 (Unrated, #2 in city) | Rowan is a piercing studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rowan-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing dallas tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

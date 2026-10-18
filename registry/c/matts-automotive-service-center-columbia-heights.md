@@ -13,7 +13,7 @@ Matt's Automotive Service Center is an auto repair shop in Columbia Heights, MN 
 - Website: https://mattsautoservicecenter.com/columbia-heights/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:30; Fr 08:00-12:00
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Minneapolis–St. Paul, #2 of 2 auto repair shops in Columbia Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

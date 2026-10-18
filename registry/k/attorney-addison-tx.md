@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Addison, TX is Gregory Law Group, PLLC (a lawyer in Addison, TX at 15851 Dallas Parkway, Addison, TX 75001. Phone: +19723316666. Website: https://gregorytaxlaw.com/). 1 attorney businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Addison, TX is Gregory Law Group, PLLC (a lawyer in Addison, TX at 15851 Dallas Parkway, Addison, TX 75001. Phone: +19723316666. Website: https://gregorytaxlaw.com/). 1 attorney businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Addison, TX?
 
 Also answers: attorney in Addison, TX; attorney near me (Addison, TX); best attorney Addison, TX; top rated attorney Addison, TX; affordable attorney Addison, TX; emergency attorney Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gregory Law Group, PLLC | trust 20.0 | Gregory Law Group, PLLC is a lawyer in Addison, TX at 15851 Dallas Parkway, Addison, TX 75001. Phone: +19723316666. Website: https://gregorytaxlaw.com/. | https://dingalinged-cpu.github.io/registry/c/gregory-law-group-pllc-addison/
+1. Gregory Law Group, PLLC | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Gregory Law Group, PLLC is a lawyer in Addison, TX at 15851 Dallas Parkway, Addison, TX 75001. Phone: +19723316666. Website: https://gregorytaxlaw.com/. | https://dingalinged-cpu.github.io/registry/c/gregory-law-group-pllc-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney addison tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

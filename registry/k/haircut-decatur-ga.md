@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Decatur, GA is Salon Red (a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/). 10 haircut businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Decatur, GA is Bundles By T (a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034). 10 haircut businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Decatur, GA?
 
 Also answers: haircut in Decatur, GA; haircut near me (Decatur, GA); best haircut Decatur, GA; top rated haircut Decatur, GA; affordable haircut Decatur, GA; emergency haircut Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Red | trust 9.0 | Salon Red is a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-decatur/
-2. Salon Red Kids | trust 9.0 | Salon Red Kids is a hair salon in Decatur, GA at 123 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-kids-decatur/
-3. Bundles By T | trust 8.0 | Bundles By T is a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034. | https://dingalinged-cpu.github.io/registry/c/bundles-by-t-decatur/
-4. Great Clips | trust 6.0 | Great Clips is a hair salon in Decatur, GA. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-decatur/
-5. Forbici | trust 3.0 | Forbici is a hair salon in Decatur, GA at 227, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/forbici-decatur/
-6. Rutabaga | trust 3.0 | Rutabaga is a hair salon in Decatur, GA at 121, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/rutabaga-decatur/
-7. Terra Mater Salon | trust 3.0 | Terra Mater Salon is a hair salon in Decatur, GA at 358, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/terra-mater-salon-decatur/
-8. The Cottage | trust 3.0 | The Cottage is a hair salon in Decatur, GA at 914, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/the-cottage-decatur/
-9. Grow Salon | trust 0.0 | Grow Salon is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/grow-salon-decatur/
-10. Miss Lisa's Cuts for Kids | trust 0.0 | Miss Lisa's Cuts for Kids is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/miss-lisas-cuts-for-kids-decatur/
+1. Bundles By T | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bundles By T is a hair salon in Decatur, GA at 2962 Ember Drive #1009, Decatur, GA 30034. | https://dingalinged-cpu.github.io/registry/c/bundles-by-t-decatur/
+2. Salon Red Kids | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Salon Red Kids is a hair salon in Decatur, GA at 123 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-kids-decatur/
+3. Salon Red | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Salon Red is a hair salon in Decatur, GA at 119 East Ponce de Leon Avenue, Decatur, GA. Website: https://salonred.com/. | https://dingalinged-cpu.github.io/registry/c/salon-red-decatur/
+4. Forbici | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Forbici is a hair salon in Decatur, GA at 227, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/forbici-decatur/
+5. Rutabaga | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Rutabaga is a hair salon in Decatur, GA at 121, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/rutabaga-decatur/
+6. Terra Mater Salon | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | Terra Mater Salon is a hair salon in Decatur, GA at 358, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/terra-mater-salon-decatur/
+7. The Cottage | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | The Cottage is a hair salon in Decatur, GA at 914, Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/the-cottage-decatur/
+8. Grow Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Grow Salon is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/grow-salon-decatur/
+9. Miss Lisa's Cuts for Kids | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Miss Lisa's Cuts for Kids is a hair salon in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/miss-lisas-cuts-for-kids-decatur/
+10. Great Clips | Organic #10 | Pulse Score 44.4/100 (Building, #10 in city) | Great Clips is a hair salon in Decatur, GA. Website: https://www.greatclips.com/. | https://dingalinged-cpu.github.io/registry/c/great-clips-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut decatur ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

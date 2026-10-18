@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Madison, WI at 2045 Atwood Avenue, Madison, WI 53704
 - Website: https://www.anytimefitness.com/gyms/4442/madison-wi-53704/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 49% of gyms in Madison, #17 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 68.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

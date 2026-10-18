@@ -13,7 +13,7 @@ GRT Homes | eXp Realty Oak Park & River Forest is a real estate agency in Oak Pa
 - Website: https://grthomes.com/
 - Email: chris@grthomes.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.2/100 — Unrated (not enough evidence yet) — top 71% of real estate agencys in Chicago, #1 of 2 real estate agencys in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Studio on Six is a hair salon in Milwaukee, WI at 1401 South 6th Street, Milwauk
 - Website: https://studioonsixmke.com/studioonsix/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su "by appointment"
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Milwaukee, #44 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

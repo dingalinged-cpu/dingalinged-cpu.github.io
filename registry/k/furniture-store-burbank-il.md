@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Burbank, IL is Ashley HomeStore (a furniture store in Burbank, IL at 7780 South Cicero Avenue, Burbank, IL 60459. Phone: +17089524805. Website: https://stores.ashleyfurniture.com/store/us/illinois/burbank/7710000142/). 3 furniture store businesses are listed for Burbank, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Burbank, IL is Ashley HomeStore (a furniture store in Burbank, IL at 7780 South Cicero Avenue, Burbank, IL 60459. Phone: +17089524805. Website: https://stores.ashleyfurniture.com/store/us/illinois/burbank/7710000142/). 3 furniture store businesses are listed for Burbank, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Burbank, IL?
 
 Also answers: furniture store in Burbank, IL; furniture store near me (Burbank, IL); best furniture store Burbank, IL; top rated furniture store Burbank, IL; affordable furniture store Burbank, IL; emergency furniture store Burbank, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Burbank, IL at 7780 South Cicero Avenue, Burbank, IL 60459. Phone: +17089524805. Website: https://stores.ashleyfurniture.com/store/us/illinois/burbank/7710000142/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-burbank/
-2. Bob's Discount Furniture | trust 4.0 | Bob's Discount Furniture is a furniture store in Burbank, IL at 7760 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-burbank/
-3. Value City Furniture | trust 4.0 | Value City Furniture is a furniture store in Burbank, IL at 8310 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/value-city-furniture-burbank/
+1. Ashley HomeStore | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Ashley HomeStore is a furniture store in Burbank, IL at 7780 South Cicero Avenue, Burbank, IL 60459. Phone: +17089524805. Website: https://stores.ashleyfurniture.com/store/us/illinois/burbank/7710000142/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-burbank/
+2. Bob's Discount Furniture | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | Bob's Discount Furniture is a furniture store in Burbank, IL at 7760 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-burbank/
+3. Value City Furniture | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | Value City Furniture is a furniture store in Burbank, IL at 8310 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/value-city-furniture-burbank/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store burbank il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

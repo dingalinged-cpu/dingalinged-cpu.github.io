@@ -13,7 +13,7 @@ Float Away Spa is a massage studio in Highland Village, TX at 1856 Justin Road, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 11% of massage studios in Dallas–Fort Worth, #1 of 1 massage studios in Highland Village (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

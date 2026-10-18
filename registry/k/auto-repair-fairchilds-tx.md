@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Fairchilds, TX is Stavinoha's Tire Shop (an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/). 1 auto repair businesses are listed for Fairchilds, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Fairchilds, TX is Stavinoha's Tire Shop (an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/). 1 auto repair businesses are listed for Fairchilds, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Fairchilds, TX?
 
 Also answers: auto repair in Fairchilds, TX; auto repair near me (Fairchilds, TX); best auto repair Fairchilds, TX; top rated auto repair Fairchilds, TX; affordable auto repair Fairchilds, TX; emergency auto repair Fairchilds, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stavinoha's Tire Shop | trust 20.0 | Stavinoha's Tire Shop is an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/. | https://dingalinged-cpu.github.io/registry/c/stavinohas-tire-shop-fairchilds/
+1. Stavinoha's Tire Shop | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Stavinoha's Tire Shop is an auto repair shop in Fairchilds, TX at 10015 FM 361, Fairchilds, TX 77469. Phone: +19797936105. Website: https://www.stavinohatireshop.com/. | https://dingalinged-cpu.github.io/registry/c/stavinohas-tire-shop-fairchilds/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair fairchilds tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

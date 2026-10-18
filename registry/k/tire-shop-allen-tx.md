@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Allen, TX is Costco Tire Center (a tire shop in Allen, TX at 1067 State Highway 121, Allen, TX 75013. Phone: +14696564868. Website: https://www.costco.com/w/-/tx/allen/1739). 3 tire shop businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Allen, TX is Costco Tire Center (a tire shop in Allen, TX at 1067 State Highway 121, Allen, TX 75013. Phone: +14696564868. Website: https://www.costco.com/w/-/tx/allen/1739). 3 tire shop businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Allen, TX?
 
 Also answers: tire shop in Allen, TX; tire shop near me (Allen, TX); best tire shop Allen, TX; top rated tire shop Allen, TX; affordable tire shop Allen, TX; emergency tire shop Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 20.0 | Costco Tire Center is a tire shop in Allen, TX at 1067 State Highway 121, Allen, TX 75013. Phone: +14696564868. Website: https://www.costco.com/w/-/tx/allen/1739. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-allen/
-2. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Allen, TX at 180 South Watters Road, Allen, TX 75013. Phone: +14697956000. Website: https://www.expressoil.com/stores/allen/tx/1030/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-allen/
-3. Just Tires | trust 8.0 | Just Tires is a tire shop in Allen, TX at 703 East Main Street, Allen, TX 75002. | https://dingalinged-cpu.github.io/registry/c/just-tires-allen/
+1. Costco Tire Center | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | Costco Tire Center is a tire shop in Allen, TX at 1067 State Highway 121, Allen, TX 75013. Phone: +14696564868. Website: https://www.costco.com/w/-/tx/allen/1739. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-allen/
+2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Allen, TX at 180 South Watters Road, Allen, TX 75013. Phone: +14697956000. Website: https://www.expressoil.com/stores/allen/tx/1030/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-allen/
+3. Just Tires | Organic #3 | Pulse Score 44.5/100 (Unrated, #3 in city) | Just Tires is a tire shop in Allen, TX at 703 East Main Street, Allen, TX 75002. | https://dingalinged-cpu.github.io/registry/c/just-tires-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop allen tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

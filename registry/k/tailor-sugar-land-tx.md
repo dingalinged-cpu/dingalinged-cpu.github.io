@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Sugar Land, TX is Big Frog T's (a tailor in Sugar Land, TX at 16535 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +18325325577. Website: https://www.bigfrog.com/sugarland/). 2 tailor businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Sugar Land, TX is Amy Tailor (a tailor in Sugar Land, TX at 3213 State Highway 6 South, Sugar Land, TX. Phone: +18327900252). 2 tailor businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Sugar Land, TX?
 
 Also answers: tailor in Sugar Land, TX; tailor near me (Sugar Land, TX); best tailor Sugar Land, TX; top rated tailor Sugar Land, TX; affordable tailor Sugar Land, TX; emergency tailor Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Frog T's | trust 20.0 | Big Frog T's is a tailor in Sugar Land, TX at 16535 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +18325325577. Website: https://www.bigfrog.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/big-frog-ts-sugar-land/
-2. Amy Tailor | trust 13.0 | Amy Tailor is a tailor in Sugar Land, TX at 3213 State Highway 6 South, Sugar Land, TX. Phone: +18327900252. | https://dingalinged-cpu.github.io/registry/c/amy-tailor-sugar-land/
+1. Amy Tailor | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Amy Tailor is a tailor in Sugar Land, TX at 3213 State Highway 6 South, Sugar Land, TX. Phone: +18327900252. | https://dingalinged-cpu.github.io/registry/c/amy-tailor-sugar-land/
+2. Big Frog T's | Organic #2 | Pulse Score 62.5/100 (Unrated, #2 in city) | Big Frog T's is a tailor in Sugar Land, TX at 16535 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +18325325577. Website: https://www.bigfrog.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/big-frog-ts-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance

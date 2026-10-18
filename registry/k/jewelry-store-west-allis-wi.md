@@ -1,14 +1,14 @@
-The top unpaid jewelry store listing for West Allis, WI is Dianne's Designs (a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis). 3 jewelry store businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for West Allis, WI is JRS Jewelry Repair Shop (a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/). 3 jewelry store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in West Allis, WI?
 
 Also answers: jewelry store in West Allis, WI; jewelry store near me (West Allis, WI); best jewelry store West Allis, WI; top rated jewelry store West Allis, WI; affordable jewelry store West Allis, WI; emergency jewelry store West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dianne's Designs | trust 20.0 | Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis. | https://dingalinged-cpu.github.io/registry/c/diannes-designs-west-allis/
-2. JRS Jewelry Repair Shop | trust 20.0 | JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/. | https://dingalinged-cpu.github.io/registry/c/jrs-jewelry-repair-shop-west-allis/
-3. JP-Haase Jewelers | trust 0.0 | JP-Haase Jewelers is a jewelry store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/jp-haase-jewelers-west-allis/
+1. JRS Jewelry Repair Shop | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | JRS Jewelry Repair Shop is a jewelry store in West Allis, WI at 7239 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142596050. Website: https://jrsbuygold.com/. | https://dingalinged-cpu.github.io/registry/c/jrs-jewelry-repair-shop-west-allis/
+2. Dianne's Designs | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Dianne's Designs is a jewelry store in West Allis, WI at 7344 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147747500. Website: https://dianesdesignsjewelryandwatchrepairwestalliswisconsn.com/addr:city=West Allis. | https://dingalinged-cpu.github.io/registry/c/diannes-designs-west-allis/
+3. JP-Haase Jewelers | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | JP-Haase Jewelers is a jewelry store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/jp-haase-jewelers-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

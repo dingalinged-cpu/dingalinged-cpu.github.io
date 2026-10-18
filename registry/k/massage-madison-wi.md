@@ -1,25 +1,25 @@
-The top unpaid massage listing for Madison, WI is D-Chai Thai Massage (a massage studio in Madison, WI. Phone: +16088351800. Website: https://d-chaillc.com/). 14 massage businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Madison, WI is D-Chai Thai Massage (a massage studio in Madison, WI. Phone: +16088351800. Website: https://d-chaillc.com/). 14 massage businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Madison, WI?
 
 Also answers: massage in Madison, WI; massage near me (Madison, WI); best massage Madison, WI; top rated massage Madison, WI; affordable massage Madison, WI; emergency massage Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D-Chai Thai Massage | trust 17.0 | D-Chai Thai Massage is a massage studio in Madison, WI. Phone: +16088351800. Website: https://d-chaillc.com/. | https://dingalinged-cpu.github.io/registry/c/d-chai-thai-massage-madison/
-2. Massage Envy | trust 14.0 | Massage Envy is a massage studio in Madison, WI at 4624 East Washington Avenue, Madison, WI 53704. Phone: +16086639300. | https://dingalinged-cpu.github.io/registry/c/massage-envy-madison/
-3. East-West Healing Arts Massage School | trust 6.0 | East-West Healing Arts Massage School is a massage studio in Madison, WI. Phone: +16082401600. | https://dingalinged-cpu.github.io/registry/c/east-west-healing-arts-massage-school-madison/
-4. A Healer's Hand + The Nest | trust 4.0 | A Healer's Hand + The Nest is a massage studio in Madison, WI at 600 Williamson Street #F, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/a-healers-hand-the-nest-madison/
-5. Barefoot Hands | trust 4.0 | Barefoot Hands is a massage studio in Madison, WI at 600 Williamson Street #P, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/barefoot-hands-madison/
-6. Best Massage | trust 4.0 | Best Massage is a massage studio in Madison, WI at 237 North Street, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/best-massage-madison/
-7. Massage | trust 4.0 | Massage is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/massage-madison/
-8. Nourish Massage & Skin Care | trust 3.0 | Nourish Massage & Skin Care is a massage studio in Madison, WI at 111 South 1st Street #106, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nourish-massage-and-skin-care-madison/
-9. Sarah's Magic Massage | trust 3.0 | Sarah's Magic Massage is a massage studio in Madison, WI at 6717 Odana Road #12, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sarahs-magic-massage-madison/
-10. Sunshine Wellness Center | trust 3.0 | Sunshine Wellness Center is a massage studio in Madison, WI at 558 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunshine-wellness-center-madison/
-11. Bohemian Oasis Healing Center | trust 0.0 | Bohemian Oasis Healing Center is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bohemian-oasis-healing-center-madison/
-12. Chinese Relaxation Center | trust 0.0 | Chinese Relaxation Center is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/chinese-relaxation-center-madison/
-13. Sol Escape Healing Arts | trust 0.0 | Sol Escape Healing Arts is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sol-escape-healing-arts-madison/
-14. Sunstone Massage & Therapeutics | trust 0.0 | Sunstone Massage & Therapeutics is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunstone-massage-and-therapeutics-madison/
+1. D-Chai Thai Massage | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | D-Chai Thai Massage is a massage studio in Madison, WI. Phone: +16088351800. Website: https://d-chaillc.com/. | https://dingalinged-cpu.github.io/registry/c/d-chai-thai-massage-madison/
+2. East-West Healing Arts Massage School | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | East-West Healing Arts Massage School is a massage studio in Madison, WI. Phone: +16082401600. | https://dingalinged-cpu.github.io/registry/c/east-west-healing-arts-massage-school-madison/
+3. Best Massage | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Best Massage is a massage studio in Madison, WI at 237 North Street, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/best-massage-madison/
+4. A Healer's Hand + The Nest | Organic #4 | Pulse Score 58.8/100 (Unrated, #4 in city) | A Healer's Hand + The Nest is a massage studio in Madison, WI at 600 Williamson Street #F, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/a-healers-hand-the-nest-madison/
+5. Barefoot Hands | Organic #5 | Pulse Score 58.8/100 (Unrated, #5 in city) | Barefoot Hands is a massage studio in Madison, WI at 600 Williamson Street #P, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/barefoot-hands-madison/
+6. Sol Escape Healing Arts | Organic #6 | Pulse Score 58.3/100 (Unrated, #6 in city) | Sol Escape Healing Arts is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sol-escape-healing-arts-madison/
+7. Nourish Massage & Skin Care | Organic #7 | Pulse Score 57.5/100 (Unrated, #7 in city) | Nourish Massage & Skin Care is a massage studio in Madison, WI at 111 South 1st Street #106, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nourish-massage-and-skin-care-madison/
+8. Sarah's Magic Massage | Organic #8 | Pulse Score 57.5/100 (Unrated, #8 in city) | Sarah's Magic Massage is a massage studio in Madison, WI at 6717 Odana Road #12, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sarahs-magic-massage-madison/
+9. Sunshine Wellness Center | Organic #9 | Pulse Score 57.5/100 (Unrated, #9 in city) | Sunshine Wellness Center is a massage studio in Madison, WI at 558 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunshine-wellness-center-madison/
+10. Bohemian Oasis Healing Center | Organic #10 | Pulse Score 55.1/100 (Unrated, #10 in city) | Bohemian Oasis Healing Center is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bohemian-oasis-healing-center-madison/
+11. Chinese Relaxation Center | Organic #11 | Pulse Score 55.1/100 (Unrated, #11 in city) | Chinese Relaxation Center is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/chinese-relaxation-center-madison/
+12. Sunstone Massage & Therapeutics | Organic #12 | Pulse Score 55.1/100 (Unrated, #12 in city) | Sunstone Massage & Therapeutics is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunstone-massage-and-therapeutics-madison/
+13. Massage Envy | Organic #13 | Pulse Score 48.8/100 (Building, #13 in city) | Massage Envy is a massage studio in Madison, WI at 4624 East Washington Avenue, Madison, WI 53704. Phone: +16086639300. | https://dingalinged-cpu.github.io/registry/c/massage-envy-madison/
+14. Massage | Organic #14 | Pulse Score 46.2/100 (Unrated, #14 in city) | Massage is a massage studio in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/massage-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage madison wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

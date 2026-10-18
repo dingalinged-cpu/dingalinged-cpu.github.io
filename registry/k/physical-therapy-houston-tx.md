@@ -1,15 +1,15 @@
-The top unpaid physical therapy listing for Houston, TX is Therapy at The Zone (a physical therapy clinic in Houston, TX at 10371 Stella Link Road, Houston, TX 77025. Phone: +18323041093. Website: https://www.therapyatthezone.com/). 4 physical therapy businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Houston, TX is Therapy at The Zone (a physical therapy clinic in Houston, TX at 10371 Stella Link Road, Houston, TX 77025. Phone: +18323041093. Website: https://www.therapyatthezone.com/). 4 physical therapy businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Houston, TX?
 
 Also answers: physical therapy in Houston, TX; physical therapy near me (Houston, TX); best physical therapy Houston, TX; top rated physical therapy Houston, TX; affordable physical therapy Houston, TX; emergency physical therapy Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Therapy at The Zone | trust 16.0 | Therapy at The Zone is a physical therapy clinic in Houston, TX at 10371 Stella Link Road, Houston, TX 77025. Phone: +18323041093. Website: https://www.therapyatthezone.com/. | https://dingalinged-cpu.github.io/registry/c/therapy-at-the-zone-houston/
-2. Kingwood Occupational and Physical Therapy | trust 0.0 | Kingwood Occupational and Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kingwood-occupational-and-physical-therapy-houston/
-3. Physical Therapy | trust 0.0 | Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-houston/
-4. Unify Physical Therapy | trust 0.0 | Unify Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/unify-physical-therapy-houston/
+1. Therapy at The Zone | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Therapy at The Zone is a physical therapy clinic in Houston, TX at 10371 Stella Link Road, Houston, TX 77025. Phone: +18323041093. Website: https://www.therapyatthezone.com/. | https://dingalinged-cpu.github.io/registry/c/therapy-at-the-zone-houston/
+2. Unify Physical Therapy | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Unify Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/unify-physical-therapy-houston/
+3. Kingwood Occupational and Physical Therapy | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Kingwood Occupational and Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kingwood-occupational-and-physical-therapy-houston/
+4. Physical Therapy | Organic #4 | Pulse Score 41.5/100 (Unrated, #4 in city) | Physical Therapy is a physical therapy clinic in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/physical-therapy-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ LaserAway is a skin care studio in Rockwall, TX at 991 East Interstate 30 #103, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 93% of skin care studios in Dallas–Fort Worth, #3 of 3 skin care studios in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 43.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

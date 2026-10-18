@@ -13,7 +13,7 @@ West End Bicycles is a bike shop in Houston, TX at 5427 Blossom Street, Houston,
 - Website: https://www.westendbikes.com/
 - Email: info@westendbikes.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 5% of bike shops in Houston, #1 of 16 bike shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.1, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

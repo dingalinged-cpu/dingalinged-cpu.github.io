@@ -13,7 +13,7 @@ All Strength Training is a gym in Chicago, IL at 4117 North Broadway, Chicago, I
 - Website: https://www.allstrengthtraining.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-21:00; Fr 05:00-19:00; Sa 07:00-13:00; Su off
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 3% of gyms in Chicago, #7 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

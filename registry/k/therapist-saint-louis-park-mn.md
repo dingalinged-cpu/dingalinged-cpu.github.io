@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Saint Louis Park, MN is Associated Clinic of Psychology (a therapy practice in Saint Louis Park, MN. Website: https://acp-mn.com/). 2 therapist businesses are listed for Saint Louis Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Saint Louis Park, MN is Associated Clinic of Psychology (a therapy practice in Saint Louis Park, MN. Website: https://acp-mn.com/). 2 therapist businesses are listed for Saint Louis Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Saint Louis Park, MN?
 
 Also answers: therapist in Saint Louis Park, MN; therapist near me (Saint Louis Park, MN); best therapist Saint Louis Park, MN; top rated therapist Saint Louis Park, MN; affordable therapist Saint Louis Park, MN; emergency therapist Saint Louis Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Associated Clinic of Psychology | trust 6.0 | Associated Clinic of Psychology is a therapy practice in Saint Louis Park, MN. Website: https://acp-mn.com/. | https://dingalinged-cpu.github.io/registry/c/associated-clinic-of-psychology-saint-louis-park/
-2. Behavioral Dimensions | trust 4.0 | Behavioral Dimensions is a therapy practice in Saint Louis Park, MN at 7010 Minnesota State Highway 7, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/behavioral-dimensions-saint-louis-park/
+1. Associated Clinic of Psychology | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Associated Clinic of Psychology is a therapy practice in Saint Louis Park, MN. Website: https://acp-mn.com/. | https://dingalinged-cpu.github.io/registry/c/associated-clinic-of-psychology-saint-louis-park/
+2. Behavioral Dimensions | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Behavioral Dimensions is a therapy practice in Saint Louis Park, MN at 7010 Minnesota State Highway 7, Saint Louis Park, MN 55426. | https://dingalinged-cpu.github.io/registry/c/behavioral-dimensions-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist saint louis park mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

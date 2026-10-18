@@ -13,7 +13,7 @@ OLSON Windows, Doors, Siding & Roofing is a window installer in Warrenville, IL 
 - Website: https://olsonwindows.com/warrenville-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 43% of window installers in Chicago, #1 of 1 window installers in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

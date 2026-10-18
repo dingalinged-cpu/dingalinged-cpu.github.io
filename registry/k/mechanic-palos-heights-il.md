@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Palos Heights, IL is Jay's Auto Body (an auto repair shop in Palos Heights, IL at 6355 West College Drive, Palos Heights, IL 60463. Phone: +17088979575. Website: https://jaysautobodypalosheights.com/). 3 mechanic businesses are listed for Palos Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Palos Heights, IL is Jay's Auto Body (an auto repair shop in Palos Heights, IL at 6355 West College Drive, Palos Heights, IL 60463. Phone: +17088979575. Website: https://jaysautobodypalosheights.com/). 3 mechanic businesses are listed for Palos Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Palos Heights, IL?
 
 Also answers: mechanic in Palos Heights, IL; mechanic near me (Palos Heights, IL); best mechanic Palos Heights, IL; top rated mechanic Palos Heights, IL; affordable mechanic Palos Heights, IL; emergency mechanic Palos Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jay's Auto Body | trust 16.0 | Jay's Auto Body is an auto repair shop in Palos Heights, IL at 6355 West College Drive, Palos Heights, IL 60463. Phone: +17088979575. Website: https://jaysautobodypalosheights.com/. | https://dingalinged-cpu.github.io/registry/c/jays-auto-body-palos-heights/
-2. Take 5 Oil Change | trust 10.0 | Take 5 Oil Change is an auto repair shop in Palos Heights, IL at 12861 Harlem Avenue, Palos Heights, IL 60463. Website: https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-palos-heights/
-3. Fuller's Auto Center | trust 0.0 | Fuller's Auto Center is an auto repair shop in Palos Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-auto-center-palos-heights/
+1. Jay's Auto Body | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Jay's Auto Body is an auto repair shop in Palos Heights, IL at 6355 West College Drive, Palos Heights, IL 60463. Phone: +17088979575. Website: https://jaysautobodypalosheights.com/. | https://dingalinged-cpu.github.io/registry/c/jays-auto-body-palos-heights/
+2. Fuller's Auto Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Fuller's Auto Center is an auto repair shop in Palos Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-auto-center-palos-heights/
+3. Take 5 Oil Change | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | Take 5 Oil Change is an auto repair shop in Palos Heights, IL at 12861 Harlem Avenue, Palos Heights, IL 60463. Website: https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic palos heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

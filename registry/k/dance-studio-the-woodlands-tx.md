@@ -1,13 +1,13 @@
-The top unpaid dance studio listing for The Woodlands, TX is Performing Arts Center of the Woodlands (a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX). 2 dance studio businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for The Woodlands, TX is Performing Arts Center of the Woodlands (a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX). 2 dance studio businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in The Woodlands, TX?
 
 Also answers: dance studio in The Woodlands, TX; dance studio near me (The Woodlands, TX); best dance studio The Woodlands, TX; top rated dance studio The Woodlands, TX; affordable dance studio The Woodlands, TX; emergency dance studio The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Performing Arts Center of the Woodlands | trust 3.0 | Performing Arts Center of the Woodlands is a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/performing-arts-center-of-the-woodlands-the-woodlands/
-2. Woodlands Ballet Theater | trust 0.0 | Woodlands Ballet Theater is a dance studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/woodlands-ballet-theater-the-woodlands/
+1. Performing Arts Center of the Woodlands | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Performing Arts Center of the Woodlands is a dance studio in The Woodlands, TX at 27220 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/performing-arts-center-of-the-woodlands-the-woodlands/
+2. Woodlands Ballet Theater | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Woodlands Ballet Theater is a dance studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/woodlands-ballet-theater-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio the woodlands tx | category: Fitness | industry benchmark: Health & Fitness

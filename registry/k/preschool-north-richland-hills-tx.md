@@ -1,13 +1,13 @@
-The top unpaid preschool listing for North Richland Hills, TX is Christian Montessori Academy (a preschool in North Richland Hills, TX at 7601 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18173821099. Website: https://christianmontessoriacademy.com/). 2 preschool businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for North Richland Hills, TX is Christian Montessori Academy (a preschool in North Richland Hills, TX at 7601 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18173821099. Website: https://christianmontessoriacademy.com/). 2 preschool businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in North Richland Hills, TX?
 
 Also answers: preschool in North Richland Hills, TX; preschool near me (North Richland Hills, TX); best preschool North Richland Hills, TX; top rated preschool North Richland Hills, TX; affordable preschool North Richland Hills, TX; emergency preschool North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Montessori Academy | trust 16.0 | Christian Montessori Academy is a preschool in North Richland Hills, TX at 7601 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18173821099. Website: https://christianmontessoriacademy.com/. | https://dingalinged-cpu.github.io/registry/c/christian-montessori-academy-north-richland-hills/
-2. The Childrens Center | trust 4.0 | The Childrens Center is a preschool in North Richland Hills, TX at 7515 Smithfield Road, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/the-childrens-center-north-richland-hills/
+1. Christian Montessori Academy | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Christian Montessori Academy is a preschool in North Richland Hills, TX at 7601 Precinct Line Road, North Richland Hills, TX 76182. Phone: +18173821099. Website: https://christianmontessoriacademy.com/. | https://dingalinged-cpu.github.io/registry/c/christian-montessori-academy-north-richland-hills/
+2. The Childrens Center | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | The Childrens Center is a preschool in North Richland Hills, TX at 7515 Smithfield Road, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/the-childrens-center-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool north richland hills tx | category: Education & childcare | industry benchmark: Education & Instruction

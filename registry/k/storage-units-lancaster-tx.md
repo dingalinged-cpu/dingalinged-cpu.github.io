@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Lancaster, TX is La Soto Storage (a self-storage facility in Lancaster, TX). 1 storage units businesses are listed for Lancaster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Lancaster, TX is La Soto Storage (a self-storage facility in Lancaster, TX). 1 storage units businesses are listed for Lancaster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Lancaster, TX?
 
 Also answers: storage units in Lancaster, TX; storage units near me (Lancaster, TX); best storage units Lancaster, TX; top rated storage units Lancaster, TX; affordable storage units Lancaster, TX; emergency storage units Lancaster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Soto Storage | trust 0.0 | La Soto Storage is a self-storage facility in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/la-soto-storage-lancaster/
+1. La Soto Storage | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | La Soto Storage is a self-storage facility in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/la-soto-storage-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units lancaster tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

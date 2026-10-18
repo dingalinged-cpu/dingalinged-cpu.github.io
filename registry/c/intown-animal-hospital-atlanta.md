@@ -13,7 +13,7 @@ Intown Animal Hospital is a veterinarian in Atlanta, GA at 931 Monroe Drive Nort
 - Website: https://intownanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 36% of veterinarians in Atlanta, #6 of 18 veterinarians in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

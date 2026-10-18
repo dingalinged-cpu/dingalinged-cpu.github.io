@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Rolling Meadows, IL is Leslie's Hair Salon (a hair salon in Rolling Meadows, IL at 2220 West Algonquin Road, Rolling Meadows, IL 60008). 2 haircut businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Rolling Meadows, IL is Leslie's Hair Salon (a hair salon in Rolling Meadows, IL at 2220 West Algonquin Road, Rolling Meadows, IL 60008). 2 haircut businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Rolling Meadows, IL?
 
 Also answers: haircut in Rolling Meadows, IL; haircut near me (Rolling Meadows, IL); best haircut Rolling Meadows, IL; top rated haircut Rolling Meadows, IL; affordable haircut Rolling Meadows, IL; emergency haircut Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leslie's Hair Salon | trust 4.0 | Leslie's Hair Salon is a hair salon in Rolling Meadows, IL at 2220 West Algonquin Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/leslies-hair-salon-rolling-meadows/
-2. Uni-hair | trust 4.0 | Uni-hair is a hair salon in Rolling Meadows, IL at 1452 Golf Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/uni-hair-rolling-meadows/
+1. Leslie's Hair Salon | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Leslie's Hair Salon is a hair salon in Rolling Meadows, IL at 2220 West Algonquin Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/leslies-hair-salon-rolling-meadows/
+2. Uni-hair | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Uni-hair is a hair salon in Rolling Meadows, IL at 1452 Golf Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/uni-hair-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut rolling meadows il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Oracle is an IT support company in Frisco, TX at 7460 Warren Parkway, Frisco, TX
 - Website: https://www.oracle.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 52% of IT support companys in Dallas–Fort Worth, #2 of 3 IT support companys in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

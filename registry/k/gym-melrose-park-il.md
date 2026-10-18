@@ -1,14 +1,14 @@
-The top unpaid gym listing for Melrose Park, IL is Michael Cimbalo Fitness Center (a gym in Melrose Park, IL at 1203 North 24th Avenue, Melrose Park, IL 60160. Website: https://vpdpark.org/msc.html). 3 gym businesses are listed for Melrose Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Melrose Park, IL is Michael Cimbalo Fitness Center (a gym in Melrose Park, IL at 1203 North 24th Avenue, Melrose Park, IL 60160. Website: https://vpdpark.org/msc.html). 3 gym businesses are listed for Melrose Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Melrose Park, IL?
 
 Also answers: gym in Melrose Park, IL; gym near me (Melrose Park, IL); best gym Melrose Park, IL; top rated gym Melrose Park, IL; affordable gym Melrose Park, IL; emergency gym Melrose Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Michael Cimbalo Fitness Center | trust 10.0 | Michael Cimbalo Fitness Center is a gym in Melrose Park, IL at 1203 North 24th Avenue, Melrose Park, IL 60160. Website: https://vpdpark.org/msc.html. | https://dingalinged-cpu.github.io/registry/c/michael-cimbalo-fitness-center-melrose-park/
-2. LA Fitness | trust 4.0 | LA Fitness is a gym in Melrose Park, IL at 1101 North Avenue, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/la-fitness-melrose-park/
-3. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-melrose-park/
+1. Michael Cimbalo Fitness Center | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Michael Cimbalo Fitness Center is a gym in Melrose Park, IL at 1203 North 24th Avenue, Melrose Park, IL 60160. Website: https://vpdpark.org/msc.html. | https://dingalinged-cpu.github.io/registry/c/michael-cimbalo-fitness-center-melrose-park/
+2. LA Fitness | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | LA Fitness is a gym in Melrose Park, IL at 1101 North Avenue, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/la-fitness-melrose-park/
+3. Planet Fitness | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | Planet Fitness is a gym in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym melrose park il | category: Fitness | industry benchmark: Health & Fitness

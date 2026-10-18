@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Brooklyn Park, MN is Valvoline (an auto repair shop in Brooklyn Park, MN at 8565 Aspen Lane North, Brooklyn Park, MN 55445. Website: https://store.vioc.com/mn/brooklynpark/oil-change-010073.html). 3 mechanic businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Brooklyn Park, MN is AutoPro (an auto repair shop in Brooklyn Park, MN). 3 mechanic businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Brooklyn Park, MN?
 
 Also answers: mechanic in Brooklyn Park, MN; mechanic near me (Brooklyn Park, MN); best mechanic Brooklyn Park, MN; top rated mechanic Brooklyn Park, MN; affordable mechanic Brooklyn Park, MN; emergency mechanic Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Brooklyn Park, MN at 8565 Aspen Lane North, Brooklyn Park, MN 55445. Website: https://store.vioc.com/mn/brooklynpark/oil-change-010073.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-brooklyn-park/
-2. Valvoline | trust 6.0 | Valvoline is an auto repair shop in Brooklyn Park, MN. Website: https://store.vioc.com/mn/brooklynpark/oil-change-010085.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-brooklyn-park-w878043647/
-3. AutoPro | trust 0.0 | AutoPro is an auto repair shop in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/autopro-brooklyn-park/
+1. AutoPro | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | AutoPro is an auto repair shop in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/autopro-brooklyn-park/
+2. Valvoline | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Valvoline is an auto repair shop in Brooklyn Park, MN at 8565 Aspen Lane North, Brooklyn Park, MN 55445. Website: https://store.vioc.com/mn/brooklynpark/oil-change-010073.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-brooklyn-park/
+3. Valvoline | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Valvoline is an auto repair shop in Brooklyn Park, MN. Website: https://store.vioc.com/mn/brooklynpark/oil-change-010085.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-brooklyn-park-w878043647/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic brooklyn park mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

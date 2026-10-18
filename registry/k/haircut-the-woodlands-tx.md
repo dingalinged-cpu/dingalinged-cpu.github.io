@@ -1,30 +1,30 @@
-The top unpaid haircut listing for The Woodlands, TX is L'aVantage Salon (a hair salon in The Woodlands, TX at 8000 Research Forest Drive #155, The Woodlands, TX 77382. Phone: +12813628905. Website: https://lavantageonline.com/alden-bridge/). 19 haircut businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for The Woodlands, TX is L'aVantage Salon (a hair salon in The Woodlands, TX at 8000 Research Forest Drive #155, The Woodlands, TX 77382. Phone: +12813628905. Website: https://lavantageonline.com/alden-bridge/). 19 haircut businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in The Woodlands, TX?
 
 Also answers: haircut in The Woodlands, TX; haircut near me (The Woodlands, TX); best haircut The Woodlands, TX; top rated haircut The Woodlands, TX; affordable haircut The Woodlands, TX; emergency haircut The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L'aVantage Salon | trust 16.0 | L'aVantage Salon is a hair salon in The Woodlands, TX at 8000 Research Forest Drive #155, The Woodlands, TX 77382. Phone: +12813628905. Website: https://lavantageonline.com/alden-bridge/. | https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands/
-2. L'aVantage Salon | trust 6.0 | L'aVantage Salon is a hair salon in The Woodlands, TX. Website: https://lavantageonline.com/. | https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands-n13052360072/
-3. Family Hair Design | trust 3.0 | Family Hair Design is a hair salon in The Woodlands, TX at 27150 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/family-hair-design-the-woodlands/
-4. Fieldings Local | trust 3.0 | Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/
-5. Henry's | trust 3.0 | Henry's is a hair salon in The Woodlands, TX at 27210 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/henrys-the-woodlands/
-6. Gold Elements | trust 0.0 | Gold Elements is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/gold-elements-the-woodlands/
-7. Great Clips | trust 0.0 | Great Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands/
-8. Great Clips | trust 0.0 | Great Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands-n13052360071/
-9. J. Thompson Salons | trust 0.0 | J. Thompson Salons is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/j-thompson-salons-the-woodlands/
-10. Mastercuts | trust 0.0 | Mastercuts is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-the-woodlands/
-11. On Stage Hair Salon | trust 0.0 | On Stage Hair Salon is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/on-stage-hair-salon-the-woodlands/
-12. Regis | trust 0.0 | Regis is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/regis-the-woodlands/
-13. Salon Bugatti | trust 0.0 | Salon Bugatti is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/salon-bugatti-the-woodlands/
-14. Snip its | trust 0.0 | Snip its is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/snip-its-the-woodlands/
-15. Sport Clips | trust 0.0 | Sport Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-the-woodlands/
-16. TGF | trust 0.0 | TGF is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tgf-the-woodlands/
-17. TGF City Cuts | trust 0.0 | TGF City Cuts is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tgf-city-cuts-the-woodlands/
-18. The Woodlands Hair Elite | trust 0.0 | The Woodlands Hair Elite is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodlands-hair-elite-the-woodlands/
-19. Visible Changes | trust 0.0 | Visible Changes is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/visible-changes-the-woodlands/
+1. L'aVantage Salon | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | L'aVantage Salon is a hair salon in The Woodlands, TX at 8000 Research Forest Drive #155, The Woodlands, TX 77382. Phone: +12813628905. Website: https://lavantageonline.com/alden-bridge/. | https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands/
+2. L'aVantage Salon | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | L'aVantage Salon is a hair salon in The Woodlands, TX. Website: https://lavantageonline.com/. | https://dingalinged-cpu.github.io/registry/c/lavantage-salon-the-woodlands-n13052360072/
+3. Family Hair Design | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Family Hair Design is a hair salon in The Woodlands, TX at 27150 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/family-hair-design-the-woodlands/
+4. Henry's | Organic #4 | Pulse Score 58.3/100 (Unrated, #4 in city) | Henry's is a hair salon in The Woodlands, TX at 27210 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/henrys-the-woodlands/
+5. Gold Elements | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Gold Elements is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/gold-elements-the-woodlands/
+6. Fieldings Local | Organic #6 | Pulse Score 57/100 (Unrated, #1 in city) | Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/
+7. J. Thompson Salons | Organic #7 | Pulse Score 54.8/100 (Unrated, #6 in city) | J. Thompson Salons is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/j-thompson-salons-the-woodlands/
+8. On Stage Hair Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #7 in city) | On Stage Hair Salon is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/on-stage-hair-salon-the-woodlands/
+9. Salon Bugatti | Organic #9 | Pulse Score 54.8/100 (Unrated, #8 in city) | Salon Bugatti is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/salon-bugatti-the-woodlands/
+10. TGF | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | TGF is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tgf-the-woodlands/
+11. TGF City Cuts | Organic #11 | Pulse Score 54.8/100 (Unrated, #9 in city) | TGF City Cuts is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tgf-city-cuts-the-woodlands/
+12. The Woodlands Hair Elite | Organic #12 | Pulse Score 54.8/100 (Unrated, #11 in city) | The Woodlands Hair Elite is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodlands-hair-elite-the-woodlands/
+13. Visible Changes | Organic #13 | Pulse Score 45.2/100 (Unrated, #12 in city) | Visible Changes is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/visible-changes-the-woodlands/
+14. Regis | Organic #14 | Pulse Score 43.2/100 (Building, #13 in city) | Regis is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/regis-the-woodlands/
+15. Great Clips | Organic #15 | Pulse Score 42.7/100 (Building, #14 in city) | Great Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands/
+16. Great Clips | Organic #16 | Pulse Score 42.7/100 (Building, #15 in city) | Great Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-the-woodlands-n13052360071/
+17. Mastercuts | Organic #17 | Pulse Score 42.7/100 (Building, #16 in city) | Mastercuts is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-the-woodlands/
+18. Sport Clips | Organic #18 | Pulse Score 42.7/100 (Building, #17 in city) | Sport Clips is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-the-woodlands/
+19. Snip its | Organic #19 | Pulse Score 42/100 (Unrated, #18 in city) | Snip its is a hair salon in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/snip-its-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut the woodlands tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

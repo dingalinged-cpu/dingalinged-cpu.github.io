@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Nevada, TX is Major League IID (an auto repair shop in Nevada, TX at 5624 Copeville West Road #1, Nevada, TX 75173. Phone: +14698128582). 1 mechanic businesses are listed for Nevada, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Nevada, TX is Major League IID (an auto repair shop in Nevada, TX at 5624 Copeville West Road #1, Nevada, TX 75173. Phone: +14698128582). 1 mechanic businesses are listed for Nevada, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Nevada, TX?
 
 Also answers: mechanic in Nevada, TX; mechanic near me (Nevada, TX); best mechanic Nevada, TX; top rated mechanic Nevada, TX; affordable mechanic Nevada, TX; emergency mechanic Nevada, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Major League IID | trust 14.0 | Major League IID is an auto repair shop in Nevada, TX at 5624 Copeville West Road #1, Nevada, TX 75173. Phone: +14698128582. | https://dingalinged-cpu.github.io/registry/c/major-league-iid-nevada/
+1. Major League IID | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Major League IID is an auto repair shop in Nevada, TX at 5624 Copeville West Road #1, Nevada, TX 75173. Phone: +14698128582. | https://dingalinged-cpu.github.io/registry/c/major-league-iid-nevada/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic nevada tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Acworth, GA is BenchMark (a physical therapy clinic in Acworth, GA). 1 physical therapy businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Acworth, GA is BenchMark (a physical therapy clinic in Acworth, GA). 1 physical therapy businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Acworth, GA?
 
 Also answers: physical therapy in Acworth, GA; physical therapy near me (Acworth, GA); best physical therapy Acworth, GA; top rated physical therapy Acworth, GA; affordable physical therapy Acworth, GA; emergency physical therapy Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BenchMark | trust 0.0 | BenchMark is a physical therapy clinic in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/benchmark-acworth/
+1. BenchMark | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | BenchMark is a physical therapy clinic in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/benchmark-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy acworth ga | category: Health & medical | industry benchmark: Physicians & Surgeons

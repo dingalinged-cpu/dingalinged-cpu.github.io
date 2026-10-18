@@ -1,14 +1,14 @@
-The top unpaid barber shop listing for Katy, TX is Grayscale Barbershop (a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/). 3 barber shop businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Katy, TX is Grayscale Barbershop (a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/). 3 barber shop businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Katy, TX?
 
 Also answers: barber shop in Katy, TX; barber shop near me (Katy, TX); best barber shop Katy, TX; top rated barber shop Katy, TX; affordable barber shop Katy, TX; emergency barber shop Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grayscale Barbershop | trust 20.0 | Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/grayscale-barbershop-katy/
-2. Hair by Daniel | trust 14.0 | Hair by Daniel is a barber shop in Katy, TX at 1420 South Mason Road #200, Katy, TX 77450. Phone: +12816657207. | https://dingalinged-cpu.github.io/registry/c/hair-by-daniel-katy/
-3. Gratitude Barber Studio | trust 4.0 | Gratitude Barber Studio is a barber shop in Katy, TX at 3810 Mason Road #B, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/gratitude-barber-studio-katy/
+1. Grayscale Barbershop | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Grayscale Barbershop is a barber shop in Katy, TX at 19909 Morton Road #800, Katy, TX 77449. Phone: +18329744986. Website: https://grayscalebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/grayscale-barbershop-katy/
+2. Hair by Daniel | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Hair by Daniel is a barber shop in Katy, TX at 1420 South Mason Road #200, Katy, TX 77450. Phone: +12816657207. | https://dingalinged-cpu.github.io/registry/c/hair-by-daniel-katy/
+3. Gratitude Barber Studio | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Gratitude Barber Studio is a barber shop in Katy, TX at 3810 Mason Road #B, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/gratitude-barber-studio-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

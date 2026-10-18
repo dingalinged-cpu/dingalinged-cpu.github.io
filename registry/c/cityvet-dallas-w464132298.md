@@ -13,7 +13,7 @@ CityVet is a veterinarian in Dallas, TX at 3900 Ross Avenue, Dallas, TX. Website
 - Website: https://www.cityvet.com/location/old-east-dallas/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 90% of veterinarians in Dallas–Fort Worth, #43 of 48 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

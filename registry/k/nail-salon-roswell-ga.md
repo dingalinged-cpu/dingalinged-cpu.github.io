@@ -1,18 +1,18 @@
-The top unpaid nail salon listing for Roswell, GA is Mega Nails & Spa (a nail salon in Alpharetta, GA at 8560 Holcomb Bridge Road #125, Alpharetta, GA 30022. Phone: +14705458888. Website: https://www.meganailsroswell.com/). 7 nail salon businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Roswell, GA is Mega Nails & Spa (a nail salon in Alpharetta, GA at 8560 Holcomb Bridge Road #125, Alpharetta, GA 30022. Phone: +14705458888. Website: https://www.meganailsroswell.com/). 7 nail salon businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Roswell, GA?
 
 Also answers: nail salon in Roswell, GA; nail salon near me (Roswell, GA); best nail salon Roswell, GA; top rated nail salon Roswell, GA; affordable nail salon Roswell, GA; emergency nail salon Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mega Nails & Spa | trust 20.0 | Mega Nails & Spa is a nail salon in Alpharetta, GA at 8560 Holcomb Bridge Road #125, Alpharetta, GA 30022. Phone: +14705458888. Website: https://www.meganailsroswell.com/. | https://dingalinged-cpu.github.io/registry/c/mega-nails-and-spa-alpharetta/
-2. Parisian Spa Nail Bar | trust 16.0 | Parisian Spa Nail Bar is a nail salon in Roswell, GA at 10800 Alpharetta Highway #Suite 162, Roswell, GA 30076. Phone: +17706502999. Website: https://parisianspanailbar.com/. | https://dingalinged-cpu.github.io/registry/c/parisian-spa-nail-bar-roswell/
-3. Queen Nail Spa | trust 10.0 | Queen Nail Spa is a nail salon in Roswell, GA at 2300 Holcomb Bridge Road #104, Roswell, GA 30076. Phone: +17706405333. | https://dingalinged-cpu.github.io/registry/c/queen-nail-spa-roswell/
-4. Happy Feet Nails And Spa | trust 4.0 | Happy Feet Nails And Spa is a nail salon in Alpharetta, GA at 2850 Holcomb Bridge Road #150, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/happy-feet-nails-and-spa-alpharetta/
-5. Signature Nails | trust 4.0 | Signature Nails is a nail salon in Alpharetta, GA at 2610 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/signature-nails-alpharetta/
-6. Nail Turbo | trust 3.0 | Nail Turbo is a nail salon in Roswell, GA at 10715 Alpharetta Highway, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nail-turbo-roswell/
-7. Lush Nail Bar | trust 0.0 | Lush Nail Bar is a nail salon in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/lush-nail-bar-roswell/
+1. Mega Nails & Spa | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Mega Nails & Spa is a nail salon in Alpharetta, GA at 8560 Holcomb Bridge Road #125, Alpharetta, GA 30022. Phone: +14705458888. Website: https://www.meganailsroswell.com/. | https://dingalinged-cpu.github.io/registry/c/mega-nails-and-spa-alpharetta/
+2. Parisian Spa Nail Bar | Organic #2 | Pulse Score 59.9/100 (Unrated, #1 in city) | Parisian Spa Nail Bar is a nail salon in Roswell, GA at 10800 Alpharetta Highway #Suite 162, Roswell, GA 30076. Phone: +17706502999. Website: https://parisianspanailbar.com/. | https://dingalinged-cpu.github.io/registry/c/parisian-spa-nail-bar-roswell/
+3. Nail Turbo | Organic #3 | Pulse Score 58.8/100 (Fair, #2 in city) | Nail Turbo is a nail salon in Roswell, GA at 10715 Alpharetta Highway, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nail-turbo-roswell/
+4. Queen Nail Spa | Organic #4 | Pulse Score 58.3/100 (Unrated, #3 in city) | Queen Nail Spa is a nail salon in Roswell, GA at 2300 Holcomb Bridge Road #104, Roswell, GA 30076. Phone: +17706405333. | https://dingalinged-cpu.github.io/registry/c/queen-nail-spa-roswell/
+5. Happy Feet Nails And Spa | Organic #5 | Pulse Score 56.8/100 (Unrated, #4 in city) | Happy Feet Nails And Spa is a nail salon in Alpharetta, GA at 2850 Holcomb Bridge Road #150, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/happy-feet-nails-and-spa-alpharetta/
+6. Signature Nails | Organic #6 | Pulse Score 56.8/100 (Unrated, #5 in city) | Signature Nails is a nail salon in Alpharetta, GA at 2610 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/signature-nails-alpharetta/
+7. Lush Nail Bar | Organic #7 | Pulse Score 43.1/100 (Unrated, #4 in city) | Lush Nail Bar is a nail salon in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/lush-nail-bar-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon roswell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

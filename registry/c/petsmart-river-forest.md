@@ -13,7 +13,7 @@ PetSmart is a pet store in River Forest, IL at 7265 Lake Street, River Forest, I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 39.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 93% of pet stores in Chicago, #1 of 1 pet stores in River Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

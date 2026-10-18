@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Lake Forest, IL is Lake Forest Auto Repair (an auto repair shop in Lake Forest, IL). 1 auto repair businesses are listed for Lake Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Lake Forest, IL is Lake Forest Auto Repair (an auto repair shop in Lake Forest, IL). 1 auto repair businesses are listed for Lake Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Lake Forest, IL?
 
 Also answers: auto repair in Lake Forest, IL; auto repair near me (Lake Forest, IL); best auto repair Lake Forest, IL; top rated auto repair Lake Forest, IL; affordable auto repair Lake Forest, IL; emergency auto repair Lake Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Forest Auto Repair | trust 0.0 | Lake Forest Auto Repair is an auto repair shop in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/lake-forest-auto-repair-lake-forest/
+1. Lake Forest Auto Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Lake Forest Auto Repair is an auto repair shop in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/lake-forest-auto-repair-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair lake forest il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ JV Law LLC is a lawyer in Chicago, IL at 9420 South Ewing Avenue, Chicago, IL 60
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 63% of lawyers in Chicago, #49 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 43.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

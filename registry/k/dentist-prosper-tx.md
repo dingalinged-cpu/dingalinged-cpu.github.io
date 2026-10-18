@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Prosper, TX is Texas Dental Surgery (a dentist in Prosper, TX at 1180 Coit Road, Prosper, TX 75078. Phone: +14692968680. Website: https://txdentalsurgery.com/). 5 dentist businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Prosper, TX is Texas Dental Surgery (a dentist in Prosper, TX at 1180 Coit Road, Prosper, TX 75078. Phone: +14692968680. Website: https://txdentalsurgery.com/). 5 dentist businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Prosper, TX?
 
 Also answers: dentist in Prosper, TX; dentist near me (Prosper, TX); best dentist Prosper, TX; top rated dentist Prosper, TX; affordable dentist Prosper, TX; emergency dentist Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Dental Surgery | trust 20.0 | Texas Dental Surgery is a dentist in Prosper, TX at 1180 Coit Road, Prosper, TX 75078. Phone: +14692968680. Website: https://txdentalsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/texas-dental-surgery-prosper/
-2. Ross Dental Studio | trust 15.0 | Ross Dental Studio is a dentist in Prosper, TX at 2111 East University Drive #20, Prosper, TX. Phone: +12142252358. Website: https://rossdentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/ross-dental-studio-prosper/
-3. Dreamworks Dental & Orthodontist | trust 3.0 | Dreamworks Dental & Orthodontist is a dentist in Prosper, TX at 4740 West University Drive #180, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-and-orthodontist-prosper/
-4. Ideal Dental | trust 3.0 | Ideal Dental is a dentist in Prosper, TX at 5600 West University Drive #30, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-prosper/
-5. Imprint Dental | trust 3.0 | Imprint Dental is a dentist in Prosper, TX at 4940 West University Drive #40, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/imprint-dental-prosper/
+1. Texas Dental Surgery | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Texas Dental Surgery is a dentist in Prosper, TX at 1180 Coit Road, Prosper, TX 75078. Phone: +14692968680. Website: https://txdentalsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/texas-dental-surgery-prosper/
+2. Ross Dental Studio | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Ross Dental Studio is a dentist in Prosper, TX at 2111 East University Drive #20, Prosper, TX. Phone: +12142252358. Website: https://rossdentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/ross-dental-studio-prosper/
+3. Dreamworks Dental & Orthodontist | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Dreamworks Dental & Orthodontist is a dentist in Prosper, TX at 4740 West University Drive #180, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-and-orthodontist-prosper/
+4. Imprint Dental | Organic #4 | Pulse Score 58.4/100 (Unrated, #4 in city) | Imprint Dental is a dentist in Prosper, TX at 4940 West University Drive #40, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/imprint-dental-prosper/
+5. Ideal Dental | Organic #5 | Pulse Score 46/100 (Building, #5 in city) | Ideal Dental is a dentist in Prosper, TX at 5600 West University Drive #30, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist prosper tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

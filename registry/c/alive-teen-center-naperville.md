@@ -13,7 +13,7 @@ Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Napervi
 - Website: https://www.alivecenter.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 15% of daycares in Chicago, #2 of 4 daycares in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

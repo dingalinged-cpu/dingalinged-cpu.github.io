@@ -13,7 +13,7 @@ OIL/WASH ZONE is an auto repair shop in Naperville, IL at 508 North River Road, 
 - Website: https://www.oilzonewashzone.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 09:00-16:00
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Chicago, #1 of 28 auto repair shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

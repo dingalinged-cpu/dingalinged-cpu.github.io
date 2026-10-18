@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Pasadena, TX is Goodwill (a thrift store in Pasadena, TX at Fairmont Parkway, Pasadena, TX). 3 thrift store businesses are listed for Pasadena, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Pasadena, TX is Goodwill (a thrift store in Pasadena, TX at Fairmont Parkway, Pasadena, TX). 3 thrift store businesses are listed for Pasadena, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Pasadena, TX?
 
 Also answers: thrift store in Pasadena, TX; thrift store near me (Pasadena, TX); best thrift store Pasadena, TX; top rated thrift store Pasadena, TX; affordable thrift store Pasadena, TX; emergency thrift store Pasadena, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 7.0 | Goodwill is a thrift store in Pasadena, TX at Fairmont Parkway, Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-pasadena/
-2. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena/
-3. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena-n5257171400/
+1. Goodwill | Organic #1 | Pulse Score 47/100 (Unrated, #1 in city) | Goodwill is a thrift store in Pasadena, TX at Fairmont Parkway, Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-pasadena/
+2. Family Thrift Center | Organic #2 | Pulse Score 41.8/100 (Unrated, #2 in city) | Family Thrift Center is a thrift store in Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena/
+3. Family Thrift Center | Organic #3 | Pulse Score 41.8/100 (Unrated, #3 in city) | Family Thrift Center is a thrift store in Pasadena, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-pasadena-n5257171400/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store pasadena tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

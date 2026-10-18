@@ -13,7 +13,7 @@ Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, 
 - Website: https://beautyandthebarks.square.site/
 - Email: beautyandthebark20@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 23% of dog groomers in Milwaukee, #1 of 3 dog groomers in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

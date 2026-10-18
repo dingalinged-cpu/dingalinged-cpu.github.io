@@ -13,7 +13,7 @@ Planet Fitness is a gym in Maple Grove, MN at 12059 Elm Creek Boulevard, Maple G
 - Website: https://www.planetfitness.com/gyms/maple-grove-mn
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 68% of gyms in Minneapolis–St. Paul, #3 of 7 gyms in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

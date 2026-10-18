@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Oakbrook Terrace, IL is Howard's Shoe and Luggage Repair (a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181). 1 shoe repair businesses are listed for Oakbrook Terrace, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Oakbrook Terrace, IL is Howard's Shoe and Luggage Repair (a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181). 1 shoe repair businesses are listed for Oakbrook Terrace, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Oakbrook Terrace, IL?
 
 Also answers: shoe repair in Oakbrook Terrace, IL; shoe repair near me (Oakbrook Terrace, IL); best shoe repair Oakbrook Terrace, IL; top rated shoe repair Oakbrook Terrace, IL; affordable shoe repair Oakbrook Terrace, IL; emergency shoe repair Oakbrook Terrace, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Howard's Shoe and Luggage Repair | trust 4.0 | Howard's Shoe and Luggage Repair is a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181. | https://dingalinged-cpu.github.io/registry/c/howards-shoe-and-luggage-repair-oakbrook-terrace/
+1. Howard's Shoe and Luggage Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Howard's Shoe and Luggage Repair is a shoe repair in Oakbrook Terrace, IL at 17W 450 Roosevelt Road, Oakbrook Terrace, IL 60181. | https://dingalinged-cpu.github.io/registry/c/howards-shoe-and-luggage-repair-oakbrook-terrace/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair oakbrook terrace il | category: Professional & financial services | industry benchmark: Finance & Insurance

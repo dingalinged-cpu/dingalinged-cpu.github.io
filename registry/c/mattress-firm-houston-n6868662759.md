@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 3902 Koehler Street #100, Ho
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001138/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 30% of mattress stores in Houston, #9 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 67.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

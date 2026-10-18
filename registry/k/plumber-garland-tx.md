@@ -1,13 +1,13 @@
-The top unpaid plumber listing for Garland, TX is Anytime Plumbing 365, Drain Cleaning & Repair (a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/). 2 plumber businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Garland, TX is Anytime Plumbing 365, Drain Cleaning & Repair (a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/). 2 plumber businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Garland, TX?
 
 Also answers: plumber in Garland, TX; plumber near me (Garland, TX); best plumber Garland, TX; top rated plumber Garland, TX; affordable plumber Garland, TX; emergency plumber Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Plumbing 365, Drain Cleaning & Repair | trust 20.0 | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/. | https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/
-2. Brooks Plumbing | trust 20.0 | Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/. | https://dingalinged-cpu.github.io/registry/c/brooks-plumbing-garland/
+1. Anytime Plumbing 365, Drain Cleaning & Repair | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Anytime Plumbing 365, Drain Cleaning & Repair is a plumber in Garland, TX at 102 North Shiloh Road #Suite 104, Garland, TX 75042. Phone: +12143074264. Website: https://www.anytimeplumbing365.com/. | https://dingalinged-cpu.github.io/registry/c/anytime-plumbing-365-drain-cleaning-and-repair-garland/
+2. Brooks Plumbing | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Brooks Plumbing is a plumber in Garland, TX at 627 East Walnut Circle, Garland, TX 75040. Phone: +12143683838. Website: https://brooksplumbingtexas.com/. | https://dingalinged-cpu.github.io/registry/c/brooks-plumbing-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber garland tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

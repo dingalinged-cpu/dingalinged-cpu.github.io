@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 5051 France Avenue S
 - Website: https://www.floydsbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Registry Score: 50/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 81% of hair salons in Minneapolis–St. Paul, #100 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

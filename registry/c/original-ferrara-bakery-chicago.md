@@ -13,7 +13,7 @@ Original Ferrara Bakery is a bakery in Chicago, IL at 2210 West Taylor Street, C
 - Website: https://www.ferrarabakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 32% of bakerys in Chicago, #117 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ White Rock OBGYN is an OB-GYN practice in Dallas, TX at 1110 North Buckner Boule
 - Website: https://www.whiterockobgyn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.9/100 — Unrated (not enough evidence yet) — top 90% of OB-GYN practices in Dallas–Fort Worth, #3 of 3 OB-GYN practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 44.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

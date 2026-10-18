@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Atlanta, GA at 489 Decatur Str
 - Website: https://www.extraspace.com/storage/facilities/us/georgia/atlanta/3660/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 28% of self-storage facilitys in Atlanta, #4 of 18 self-storage facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.7, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

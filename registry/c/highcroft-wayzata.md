@@ -13,7 +13,7 @@ Highcroft is a furniture store in Wayzata, MN at 770 Lake Street East, Wayzata, 
 - Website: https://www.highcrofthome.com/
 - Email: molly@lussurialini.com
 - Opening hours (OSM syntax): Mo-Fr 10:30-17:30; Sa 11:00-16:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 5% of furniture stores in Minneapolis–St. Paul, #1 of 1 furniture stores in Wayzata (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hot Stone Massage is a massage studio in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:30, Fr-Su 10:00-22:00
-- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 21% of massage studios in Dallas–Fort Worth, #3 of 8 massage studios in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

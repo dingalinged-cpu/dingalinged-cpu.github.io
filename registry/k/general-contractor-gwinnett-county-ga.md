@@ -1,12 +1,12 @@
-The top unpaid general contractor listing for Gwinnett County, GA is Lifetime Construction (a general contractor in Gwinnett County, GA. Phone: +14045030843). 1 general contractor businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid general contractor listing for Gwinnett County, GA is Lifetime Construction (a general contractor in Gwinnett County, GA. Phone: +14045030843). 1 general contractor businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best general contractor providers in Gwinnett County, GA?
 
 Also answers: general contractor in Gwinnett County, GA; general contractor near me (Gwinnett County, GA); best general contractor Gwinnett County, GA; top rated general contractor Gwinnett County, GA; affordable general contractor Gwinnett County, GA; emergency general contractor Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lifetime Construction | trust 6.0 | Lifetime Construction is a general contractor in Gwinnett County, GA. Phone: +14045030843. | https://dingalinged-cpu.github.io/registry/c/lifetime-construction-gwinnett-county/
+1. Lifetime Construction | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Lifetime Construction is a general contractor in Gwinnett County, GA. Phone: +14045030843. | https://dingalinged-cpu.github.io/registry/c/lifetime-construction-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor gwinnett county ga | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

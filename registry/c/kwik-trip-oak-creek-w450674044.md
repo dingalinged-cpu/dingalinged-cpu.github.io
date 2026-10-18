@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Oak Creek, WI at 6300 South 27th Street, Oak Creek, W
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 45.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 77% of car washes in Milwaukee, #7 of 8 car washes in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

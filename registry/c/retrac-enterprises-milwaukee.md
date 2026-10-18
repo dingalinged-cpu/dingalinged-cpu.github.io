@@ -13,7 +13,7 @@ RETRAC Enterprises is a therapy practice in Milwaukee, WI at 4117 North Green Ba
 - Website: https://retracenterprisesinc.com/
 - Email: retracenterprisesinc@gmail.com
 - Opening hours (OSM syntax): Mo-Th 10:00-16:00
-- Registry Score: 67.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 5% of therapy practices in Milwaukee, #2 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

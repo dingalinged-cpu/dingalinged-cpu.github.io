@@ -1,13 +1,13 @@
-The top unpaid it support listing for Flower Mound, TX is The Disruptive Guys (an IT support company in Flower Mound, TX. Phone: +14699531279. Website: https://thedisruptiveguys.com/). 2 it support businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Flower Mound, TX is The Disruptive Guys (an IT support company in Flower Mound, TX. Phone: +14699531279. Website: https://thedisruptiveguys.com/). 2 it support businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Flower Mound, TX?
 
 Also answers: it support in Flower Mound, TX; it support near me (Flower Mound, TX); best it support Flower Mound, TX; top rated it support Flower Mound, TX; affordable it support Flower Mound, TX; emergency it support Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Disruptive Guys | trust 17.0 | The Disruptive Guys is an IT support company in Flower Mound, TX. Phone: +14699531279. Website: https://thedisruptiveguys.com/. | https://dingalinged-cpu.github.io/registry/c/the-disruptive-guys-flower-mound/
-2. Mac Tech PC Services | trust 10.0 | Mac Tech PC Services is an IT support company in Flower Mound, TX. Phone: +14697150789. | https://dingalinged-cpu.github.io/registry/c/mac-tech-pc-services-flower-mound/
+1. The Disruptive Guys | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Disruptive Guys is an IT support company in Flower Mound, TX. Phone: +14699531279. Website: https://thedisruptiveguys.com/. | https://dingalinged-cpu.github.io/registry/c/the-disruptive-guys-flower-mound/
+2. Mac Tech PC Services | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Mac Tech PC Services is an IT support company in Flower Mound, TX. Phone: +14697150789. | https://dingalinged-cpu.github.io/registry/c/mac-tech-pc-services-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support flower mound tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

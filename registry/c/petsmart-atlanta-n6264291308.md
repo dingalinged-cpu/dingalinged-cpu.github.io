@@ -13,7 +13,7 @@ PetSmart is a pet store in Atlanta, GA at 3221 Peachtree Road, Atlanta, GA 30305
 - Website: https://www.petsmart.com/stores/us/ga/atlanta-store0287.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 32% of pet stores in Atlanta, #11 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

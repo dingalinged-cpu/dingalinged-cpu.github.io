@@ -1,17 +1,17 @@
-The top unpaid gym listing for Peachtree Corners, GA is Life Time (a gym in Norcross, GA at 6350 Courtside Drive, Norcross, GA 30092. Phone: +17704496060. Website: https://www.lifetime.life/life-time-locations/ga-peachtree-corners.html). 6 gym businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Peachtree Corners, GA is Atlanta Cricket Zone (a gym in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA). 6 gym businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Peachtree Corners, GA?
 
 Also answers: gym in Peachtree Corners, GA; gym near me (Peachtree Corners, GA); best gym Peachtree Corners, GA; top rated gym Peachtree Corners, GA; affordable gym Peachtree Corners, GA; emergency gym Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 16.0 | Life Time is a gym in Norcross, GA at 6350 Courtside Drive, Norcross, GA 30092. Phone: +17704496060. Website: https://www.lifetime.life/life-time-locations/ga-peachtree-corners.html. | https://dingalinged-cpu.github.io/registry/c/life-time-norcross/
-2. Atlanta Cricket Zone | trust 3.0 | Atlanta Cricket Zone is a gym in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-cricket-zone-peachtree-corners/
-3. Crossfit Z | trust 3.0 | Crossfit Z is a gym in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/crossfit-z-peachtree-corners/
-4. Hoover Gymnasium | trust 0.0 | Hoover Gymnasium is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/hoover-gymnasium-peachtree-corners/
-5. LA Fitness | trust 0.0 | LA Fitness is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-peachtree-corners/
-6. Yancey Gymnasium | trust 0.0 | Yancey Gymnasium is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/yancey-gymnasium-peachtree-corners/
+1. Atlanta Cricket Zone | Organic #1 | Pulse Score 59.3/100 (Fair, #1 in city) | Atlanta Cricket Zone is a gym in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-cricket-zone-peachtree-corners/
+2. Crossfit Z | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Crossfit Z is a gym in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/crossfit-z-peachtree-corners/
+3. Hoover Gymnasium | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Hoover Gymnasium is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/hoover-gymnasium-peachtree-corners/
+4. Yancey Gymnasium | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Yancey Gymnasium is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/yancey-gymnasium-peachtree-corners/
+5. Life Time | Organic #5 | Pulse Score 46.5/100 (Building, #1 in city) | Life Time is a gym in Norcross, GA at 6350 Courtside Drive, Norcross, GA 30092. Phone: +17704496060. Website: https://www.lifetime.life/life-time-locations/ga-peachtree-corners.html. | https://dingalinged-cpu.github.io/registry/c/life-time-norcross/
+6. LA Fitness | Organic #6 | Pulse Score 42/100 (Building, #5 in city) | LA Fitness is a gym in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym peachtree corners ga | category: Fitness | industry benchmark: Health & Fitness

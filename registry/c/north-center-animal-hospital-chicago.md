@@ -13,7 +13,7 @@ North Center Animal Hospital is a veterinarian in Chicago, IL at 1800-1808 West 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 69% of veterinarians in Chicago, #37 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 41.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

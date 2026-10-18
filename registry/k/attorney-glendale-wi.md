@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Glendale, WI is Urban Taylor Reckmeyer Law Building (a lawyer in Glendale, WI at 4701 North Port Washington Road, Glendale, WI 53212). 1 attorney businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Glendale, WI is Urban Taylor Reckmeyer Law Building (a lawyer in Glendale, WI at 4701 North Port Washington Road, Glendale, WI 53212). 1 attorney businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Glendale, WI?
 
 Also answers: attorney in Glendale, WI; attorney near me (Glendale, WI); best attorney Glendale, WI; top rated attorney Glendale, WI; affordable attorney Glendale, WI; emergency attorney Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Urban Taylor Reckmeyer Law Building | trust 4.0 | Urban Taylor Reckmeyer Law Building is a lawyer in Glendale, WI at 4701 North Port Washington Road, Glendale, WI 53212. | https://dingalinged-cpu.github.io/registry/c/urban-taylor-reckmeyer-law-building-glendale/
+1. Urban Taylor Reckmeyer Law Building | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Urban Taylor Reckmeyer Law Building is a lawyer in Glendale, WI at 4701 North Port Washington Road, Glendale, WI 53212. | https://dingalinged-cpu.github.io/registry/c/urban-taylor-reckmeyer-law-building-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney glendale wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

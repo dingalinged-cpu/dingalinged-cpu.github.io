@@ -13,7 +13,7 @@ Sören Salon is a hair salon in Atlanta, GA at 1258 West Paces Ferry Road Northw
 - Website: https://www.sorensalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 16% of hair salons in Atlanta, #20 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

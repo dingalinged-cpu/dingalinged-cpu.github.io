@@ -1,16 +1,16 @@
-The top unpaid massage listing for Sugar Land, TX is Hand & Stone Massage and Facial Spa (a massage studio in Sugar Land, TX at 16525 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +12812650065. Website: https://handandstone.com/locations/sugar-land-first-colony/). 5 massage businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Sugar Land, TX is Hand & Stone (a massage studio in Sugar Land, TX at 18931 University Boulevard #1020, Sugar Land, TX). 5 massage businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Sugar Land, TX?
 
 Also answers: massage in Sugar Land, TX; massage near me (Sugar Land, TX); best massage Sugar Land, TX; top rated massage Sugar Land, TX; affordable massage Sugar Land, TX; emergency massage Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hand & Stone Massage and Facial Spa | trust 20.0 | Hand & Stone Massage and Facial Spa is a massage studio in Sugar Land, TX at 16525 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +12812650065. Website: https://handandstone.com/locations/sugar-land-first-colony/. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-sugar-land/
-2. Massage Heights | trust 20.0 | Massage Heights is a massage studio in Sugar Land, TX at 1875 State Highway 6 #500, Sugar Land, TX 77478. Phone: +12815328702. Website: https://www.massageheights.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/massage-heights-sugar-land/
-3. Hand & Stone | trust 3.0 | Hand & Stone is a massage studio in Sugar Land, TX at 18931 University Boulevard #1020, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-sugar-land/
-4. Tao Spa | trust 0.0 | Tao Spa is a massage studio in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/tao-spa-sugar-land/
-5. Tao Spa Kiosk | trust 0.0 | Tao Spa Kiosk is a massage studio in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/tao-spa-kiosk-sugar-land/
+1. Hand & Stone | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Hand & Stone is a massage studio in Sugar Land, TX at 18931 University Boulevard #1020, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-sugar-land/
+2. Tao Spa Kiosk | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Tao Spa Kiosk is a massage studio in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/tao-spa-kiosk-sugar-land/
+3. Massage Heights | Organic #3 | Pulse Score 51/100 (Fair, #3 in city) | Massage Heights is a massage studio in Sugar Land, TX at 1875 State Highway 6 #500, Sugar Land, TX 77478. Phone: +12815328702. Website: https://www.massageheights.com/sugarland/. | https://dingalinged-cpu.github.io/registry/c/massage-heights-sugar-land/
+4. Hand & Stone Massage and Facial Spa | Organic #4 | Pulse Score 50/100 (Fair, #4 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Sugar Land, TX at 16525 Lexington Boulevard #150, Sugar Land, TX 77479. Phone: +12812650065. Website: https://handandstone.com/locations/sugar-land-first-colony/. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-sugar-land/
+5. Tao Spa | Organic #5 | Pulse Score 42.5/100 (Unrated, #5 in city) | Tao Spa is a massage studio in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/tao-spa-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage sugar land tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

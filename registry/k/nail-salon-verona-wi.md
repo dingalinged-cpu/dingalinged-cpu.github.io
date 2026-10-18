@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Verona, WI is Nail Boutique (a nail salon in Verona, WI at 600 West Verona Avenue #4, Verona, WI 53593. Phone: +16084973317. Website: https://www.facebook.com/Nailsboutique.VeronaArea/). 3 nail salon businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Verona, WI is Nail Boutique (a nail salon in Verona, WI at 600 West Verona Avenue #4, Verona, WI 53593. Phone: +16084973317. Website: https://www.facebook.com/Nailsboutique.VeronaArea/). 3 nail salon businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Verona, WI?
 
 Also answers: nail salon in Verona, WI; nail salon near me (Verona, WI); best nail salon Verona, WI; top rated nail salon Verona, WI; affordable nail salon Verona, WI; emergency nail salon Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Boutique | trust 20.0 | Nail Boutique is a nail salon in Verona, WI at 600 West Verona Avenue #4, Verona, WI 53593. Phone: +16084973317. Website: https://www.facebook.com/Nailsboutique.VeronaArea/. | https://dingalinged-cpu.github.io/registry/c/nail-boutique-verona/
-2. Verona Nails & Spa | trust 20.0 | Verona Nails & Spa is a nail salon in Verona, WI at 631 Hometown Circle #108, Verona, WI 53593. Phone: +16088451825. Website: https://www.veronanailsalon.com/. | https://dingalinged-cpu.github.io/registry/c/verona-nails-and-spa-verona/
-3. Lavish Nail Lounge | trust 15.0 | Lavish Nail Lounge is a nail salon in Verona, WI at 841 West Verona Avenue #D, Verona, WI. Phone: +16084970821. Website: https://lavishnailloungewi.com/. | https://dingalinged-cpu.github.io/registry/c/lavish-nail-lounge-verona/
+1. Nail Boutique | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Nail Boutique is a nail salon in Verona, WI at 600 West Verona Avenue #4, Verona, WI 53593. Phone: +16084973317. Website: https://www.facebook.com/Nailsboutique.VeronaArea/. | https://dingalinged-cpu.github.io/registry/c/nail-boutique-verona/
+2. Verona Nails & Spa | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Verona Nails & Spa is a nail salon in Verona, WI at 631 Hometown Circle #108, Verona, WI 53593. Phone: +16088451825. Website: https://www.veronanailsalon.com/. | https://dingalinged-cpu.github.io/registry/c/verona-nails-and-spa-verona/
+3. Lavish Nail Lounge | Organic #3 | Pulse Score 61/100 (Unrated, #3 in city) | Lavish Nail Lounge is a nail salon in Verona, WI at 841 West Verona Avenue #D, Verona, WI. Phone: +16084970821. Website: https://lavishnailloungewi.com/. | https://dingalinged-cpu.github.io/registry/c/lavish-nail-lounge-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon verona wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

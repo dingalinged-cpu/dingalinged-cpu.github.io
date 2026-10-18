@@ -1,15 +1,15 @@
-The top unpaid gym listing for Forney, TX is Anytime Fitness (a gym in Forney, TX at 1012 East US Highway 80 #C, Forney, TX 75126. Phone: +19725521038. Website: https://www.anytimefitness.com/gyms/1271/forney-tx-75126/). 4 gym businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Forney, TX is Crossfit South Forney (a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126). 4 gym businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Forney, TX?
 
 Also answers: gym in Forney, TX; gym near me (Forney, TX); best gym Forney, TX; top rated gym Forney, TX; affordable gym Forney, TX; emergency gym Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Forney, TX at 1012 East US Highway 80 #C, Forney, TX 75126. Phone: +19725521038. Website: https://www.anytimefitness.com/gyms/1271/forney-tx-75126/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-forney/
-2. Snap Fitness | trust 10.0 | Snap Fitness is a gym in Forney, TX at 1104 Ranch Road #111, Forney, TX 75126. Website: https://www.snapfitness.com/us/gyms/forney-tx-1102-ranch-rd. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-forney/
-3. Crossfit South Forney | trust 4.0 | Crossfit South Forney is a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/crossfit-south-forney-forney/
-4. Tracy's Training | trust 4.0 | Tracy's Training is a gym in Forney, TX at 10478 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/tracys-training-forney/
+1. Crossfit South Forney | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Crossfit South Forney is a gym in Forney, TX at 12019 Lewis Circle, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/crossfit-south-forney-forney/
+2. Tracy's Training | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Tracy's Training is a gym in Forney, TX at 10478 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/tracys-training-forney/
+3. Anytime Fitness | Organic #3 | Pulse Score 49.7/100 (Building, #3 in city) | Anytime Fitness is a gym in Forney, TX at 1012 East US Highway 80 #C, Forney, TX 75126. Phone: +19725521038. Website: https://www.anytimefitness.com/gyms/1271/forney-tx-75126/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-forney/
+4. Snap Fitness | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Snap Fitness is a gym in Forney, TX at 1104 Ranch Road #111, Forney, TX 75126. Website: https://www.snapfitness.com/us/gyms/forney-tx-1102-ranch-rd. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym forney tx | category: Fitness | industry benchmark: Health & Fitness

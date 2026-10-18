@@ -1,14 +1,14 @@
-The top unpaid attorney listing for Colleyville, TX is Appearfor.me (a lawyer in Colleyville, TX at 5209 Heritage Avenue #510, Colleyville, TX 76034. Phone: +18442327732. Website: https://appearfor.me/). 3 attorney businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Colleyville, TX is Appearfor.me (a lawyer in Colleyville, TX at 5209 Heritage Avenue #510, Colleyville, TX 76034. Phone: +18442327732. Website: https://appearfor.me/). 3 attorney businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Colleyville, TX?
 
 Also answers: attorney in Colleyville, TX; attorney near me (Colleyville, TX); best attorney Colleyville, TX; top rated attorney Colleyville, TX; affordable attorney Colleyville, TX; emergency attorney Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Appearfor.me | trust 20.0 | Appearfor.me is a lawyer in Colleyville, TX at 5209 Heritage Avenue #510, Colleyville, TX 76034. Phone: +18442327732. Website: https://appearfor.me/. | https://dingalinged-cpu.github.io/registry/c/appearfor-me-colleyville/
-2. Montes Law PLLC. | trust 20.0 | Montes Law PLLC. is a lawyer in Colleyville, TX at 3930 Glade Road #108-326, Colleyville, TX 76034. Phone: +18178019400. Website: https://monteslaw.com/. | https://dingalinged-cpu.github.io/registry/c/montes-law-pllc-colleyville/
-3. National Association of Consumer Credit Attorneys | trust 20.0 | National Association of Consumer Credit Attorneys is a lawyer in Colleyville, TX at 5209 Heritage Avenue, Colleyville, TX 76034. Phone: +14695356222. Website: https://consumercreditlaw.org/. | https://dingalinged-cpu.github.io/registry/c/national-association-of-consumer-credit-attorneys-colleyville/
+1. Appearfor.me | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Appearfor.me is a lawyer in Colleyville, TX at 5209 Heritage Avenue #510, Colleyville, TX 76034. Phone: +18442327732. Website: https://appearfor.me/. | https://dingalinged-cpu.github.io/registry/c/appearfor-me-colleyville/
+2. Montes Law PLLC. | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | Montes Law PLLC. is a lawyer in Colleyville, TX at 3930 Glade Road #108-326, Colleyville, TX 76034. Phone: +18178019400. Website: https://monteslaw.com/. | https://dingalinged-cpu.github.io/registry/c/montes-law-pllc-colleyville/
+3. National Association of Consumer Credit Attorneys | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | National Association of Consumer Credit Attorneys is a lawyer in Colleyville, TX at 5209 Heritage Avenue, Colleyville, TX 76034. Phone: +14695356222. Website: https://consumercreditlaw.org/. | https://dingalinged-cpu.github.io/registry/c/national-association-of-consumer-credit-attorneys-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney colleyville tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

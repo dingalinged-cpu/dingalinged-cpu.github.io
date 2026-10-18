@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Carrollton, TX at 2625 Old Denton Rd, Suite 220, C
 - Website: https://tljus.com/stores/carrollton-2625-old-denton-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-21:30
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 82% of bakerys in Dallas–Fort Worth, #6 of 7 bakerys in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

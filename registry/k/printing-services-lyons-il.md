@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Lyons, IL is Minuteman Press (a printing service in Lyons, IL). 2 printing services businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Lyons, IL is The Image Store (a printing service in Lyons, IL). 2 printing services businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Lyons, IL?
 
 Also answers: printing services in Lyons, IL; printing services near me (Lyons, IL); best printing services Lyons, IL; top rated printing services Lyons, IL; affordable printing services Lyons, IL; emergency printing services Lyons, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minuteman Press | trust 0.0 | Minuteman Press is a printing service in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-lyons/
-2. The Image Store | trust 0.0 | The Image Store is a printing service in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/the-image-store-lyons/
+1. The Image Store | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | The Image Store is a printing service in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/the-image-store-lyons/
+2. Minuteman Press | Organic #2 | Pulse Score 41/100 (Building, #2 in city) | Minuteman Press is a printing service in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services lyons il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Denton County, TX at 11901 Far
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 52% of self-storage facilitys in Dallas–Fort Worth, #2 of 2 self-storage facilitys in Denton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

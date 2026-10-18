@@ -1,18 +1,18 @@
-The top unpaid dentist listing for Maplewood, MN is Family Dentistry (a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597). 7 dentist businesses are listed for Maplewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Maplewood, MN is MapleTree Pediatric Dentistry (a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109). 7 dentist businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Maplewood, MN?
 
 Also answers: dentist in Maplewood, MN; dentist near me (Maplewood, MN); best dentist Maplewood, MN; top rated dentist Maplewood, MN; affordable dentist Maplewood, MN; emergency dentist Maplewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Dentistry | trust 10.0 | Family Dentistry is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597. | https://dingalinged-cpu.github.io/registry/c/family-dentistry-maplewood/
-2. MapleTree Pediatric Dentistry | trust 8.0 | MapleTree Pediatric Dentistry is a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/mapletree-pediatric-dentistry-maplewood/
-3. Dental Health of Maplewood | trust 4.0 | Dental Health of Maplewood is a dentist in Maplewood, MN at 1270 Cope Avenue East, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/dental-health-of-maplewood-maplewood/
-4. Jensen and Jensen Periodontics - Implants | trust 4.0 | Jensen and Jensen Periodontics - Implants is a dentist in Maplewood, MN at 2480 White Bear Avenue ##201, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/jensen-and-jensen-periodontics-implants-maplewood/
-5. Orthodontics - David C Dueval, DDS, MS | trust 4.0 | Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/orthodontics-david-c-dueval-dds-ms-maplewood/
-6. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-maplewood/
-7. Lakes Orthodontics | trust 0.0 | Lakes Orthodontics is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/lakes-orthodontics-maplewood/
+1. MapleTree Pediatric Dentistry | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | MapleTree Pediatric Dentistry is a dentist in Maplewood, MN at 1915 County Road D, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/mapletree-pediatric-dentistry-maplewood/
+2. Orthodontics - David C Dueval, DDS, MS | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Orthodontics - David C Dueval, DDS, MS is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/orthodontics-david-c-dueval-dds-ms-maplewood/
+3. Dental Health of Maplewood | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Dental Health of Maplewood is a dentist in Maplewood, MN at 1270 Cope Avenue East, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/dental-health-of-maplewood-maplewood/
+4. Jensen and Jensen Periodontics - Implants | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Jensen and Jensen Periodontics - Implants is a dentist in Maplewood, MN at 2480 White Bear Avenue ##201, Maplewood, MN 55109. | https://dingalinged-cpu.github.io/registry/c/jensen-and-jensen-periodontics-implants-maplewood/
+5. Lakes Orthodontics | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Lakes Orthodontics is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/lakes-orthodontics-maplewood/
+6. Family Dentistry | Organic #6 | Pulse Score 48.3/100 (Building, #6 in city) | Family Dentistry is a dentist in Maplewood, MN at 2480 White Bear Avenue, Maplewood, MN 55109. Phone: +16517761597. | https://dingalinged-cpu.github.io/registry/c/family-dentistry-maplewood/
+7. Aspen Dental | Organic #7 | Pulse Score 42.1/100 (Building, #7 in city) | Aspen Dental is a dentist in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist maplewood mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

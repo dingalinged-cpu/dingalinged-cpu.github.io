@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in East Chicago, IN at 4739 Indianapolis Boul
 - Website: https://locations.rentacenter.com/indiana/east-chicago/4739-indianapolis-blvd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 62% of furniture stores in Chicago, #2 of 2 furniture stores in East Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

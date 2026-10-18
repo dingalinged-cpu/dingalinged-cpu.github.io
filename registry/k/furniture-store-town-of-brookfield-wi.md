@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Town Of Brookfield, WI is Arhaus (a furniture store in Town of Brookfield, WI). 2 furniture store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Town Of Brookfield, WI is Arhaus (a furniture store in Town of Brookfield, WI). 2 furniture store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Town Of Brookfield, WI?
 
 Also answers: furniture store in Town Of Brookfield, WI; furniture store near me (Town Of Brookfield, WI); best furniture store Town Of Brookfield, WI; top rated furniture store Town Of Brookfield, WI; affordable furniture store Town Of Brookfield, WI; emergency furniture store Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arhaus | trust 0.0 | Arhaus is a furniture store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/arhaus-town-of-brookfield/
-2. California Closets | trust 0.0 | California Closets is a furniture store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/california-closets-town-of-brookfield/
+1. Arhaus | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | Arhaus is a furniture store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/arhaus-town-of-brookfield/
+2. California Closets | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | California Closets is a furniture store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/california-closets-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store town of brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

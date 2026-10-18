@@ -13,7 +13,7 @@ Image Shots is a photographer in Houston, TX at 4414 North Freeway #700, Houston
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 48% of photographers in Houston, #5 of 12 photographers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

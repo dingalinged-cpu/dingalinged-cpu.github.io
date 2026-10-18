@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Spring Valley Village, TX is Spec's Wine and Spirits (a liquor store in Spring Valley Village, TX at 8416 Katy Freeway, Spring Valley Village, TX). 1 liquor store businesses are listed for Spring Valley Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Spring Valley Village, TX is Spec's Wine and Spirits (a liquor store in Spring Valley Village, TX at 8416 Katy Freeway, Spring Valley Village, TX). 1 liquor store businesses are listed for Spring Valley Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Spring Valley Village, TX?
 
 Also answers: liquor store in Spring Valley Village, TX; liquor store near me (Spring Valley Village, TX); best liquor store Spring Valley Village, TX; top rated liquor store Spring Valley Village, TX; affordable liquor store Spring Valley Village, TX; emergency liquor store Spring Valley Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's Wine and Spirits | trust 3.0 | Spec's Wine and Spirits is a liquor store in Spring Valley Village, TX at 8416 Katy Freeway, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/specs-wine-and-spirits-spring-valley-village/
+1. Spec's Wine and Spirits | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Spec's Wine and Spirits is a liquor store in Spring Valley Village, TX at 8416 Katy Freeway, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/specs-wine-and-spirits-spring-valley-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store spring valley village tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

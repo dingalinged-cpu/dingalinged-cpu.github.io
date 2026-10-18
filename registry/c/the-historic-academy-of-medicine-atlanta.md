@@ -13,7 +13,7 @@ The Historic Academy of Medicine is an event venue in Atlanta, GA at 875 West Pe
 - Website: https://studentcenter.gatech.edu/historic-academy-medicine
 - Email: academyofmedicine@gatech.edu
 - Opening hours (OSM syntax): 07:00-23:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 68.9/100 — Good — top 2% of event venues in Atlanta, #1 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 79.1, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ G & S Auto & Muffler is an auto repair shop in Marietta, GA at 1580 Roswell Road
 - Website: https://gsautomuffler.com/
 - Email: gsautoandmuffler@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.6/100 — Fair — top 65% of auto repair shops in Atlanta, #54 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

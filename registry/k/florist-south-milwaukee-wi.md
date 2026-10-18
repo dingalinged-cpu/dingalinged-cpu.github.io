@@ -1,12 +1,12 @@
-The top unpaid florist listing for South Milwaukee, WI is Mari's Flowers (a florist in South Milwaukee, WI at 905 Milwaukee Avenue, South Milwaukee, WI 53172. Phone: +14144312030. Website: https://marisflowers.com/). 1 florist businesses are listed for South Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for South Milwaukee, WI is Mari's Flowers (a florist in South Milwaukee, WI at 905 Milwaukee Avenue, South Milwaukee, WI 53172. Phone: +14144312030. Website: https://marisflowers.com/). 1 florist businesses are listed for South Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in South Milwaukee, WI?
 
 Also answers: florist in South Milwaukee, WI; florist near me (South Milwaukee, WI); best florist South Milwaukee, WI; top rated florist South Milwaukee, WI; affordable florist South Milwaukee, WI; emergency florist South Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mari's Flowers | trust 20.0 | Mari's Flowers is a florist in South Milwaukee, WI at 905 Milwaukee Avenue, South Milwaukee, WI 53172. Phone: +14144312030. Website: https://marisflowers.com/. | https://dingalinged-cpu.github.io/registry/c/maris-flowers-south-milwaukee/
+1. Mari's Flowers | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Mari's Flowers is a florist in South Milwaukee, WI at 905 Milwaukee Avenue, South Milwaukee, WI 53172. Phone: +14144312030. Website: https://marisflowers.com/. | https://dingalinged-cpu.github.io/registry/c/maris-flowers-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist south milwaukee wi | category: Events & weddings | industry benchmark: Personal Services

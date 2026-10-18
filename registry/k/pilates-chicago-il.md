@@ -1,19 +1,19 @@
-The top unpaid pilates listing for Chicago, IL is Studio 8 Pilates (a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/). 8 pilates businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Chicago, IL is ONYX (a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north). 8 pilates businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Chicago, IL?
 
 Also answers: pilates in Chicago, IL; pilates near me (Chicago, IL); best pilates Chicago, IL; top rated pilates Chicago, IL; affordable pilates Chicago, IL; emergency pilates Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio 8 Pilates | trust 16.0 | Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/. | https://dingalinged-cpu.github.io/registry/c/studio-8-pilates-chicago/
-2. ONYX | trust 14.0 | ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north. | https://dingalinged-cpu.github.io/registry/c/onyx-chicago/
-3. BodyRok | trust 9.0 | BodyRok is a pilates studio in Chicago, IL at 185 North Halsted Street, Chicago, IL. Website: https://bodyrok.com/studio/west_loop/. | https://dingalinged-cpu.github.io/registry/c/bodyrok-chicago/
-4. Bodybar Pilates | trust 6.0 | Bodybar Pilates is a pilates studio in Chicago, IL. Website: https://bodybarpilates.com/studios/wickerpark. | https://dingalinged-cpu.github.io/registry/c/bodybar-pilates-chicago/
-5. Club Pilates | trust 4.0 | Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n11819718927/
-6. Club Pilates | trust 4.0 | Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n12479624266/
-7. LRO Fitness | trust 3.0 | LRO Fitness is a pilates studio in Chicago, IL at 560 West Washington Boulevard #110, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lro-fitness-chicago/
-8. Club Pilates | trust 0.0 | Club Pilates is a pilates studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago/
+1. ONYX | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | ONYX is a pilates studio in Chicago, IL at 102 West Chicago Avenue, Chicago, IL 60654. Website: https://www.myonyxfit.com/river-north. | https://dingalinged-cpu.github.io/registry/c/onyx-chicago/
+2. Studio 8 Pilates | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Studio 8 Pilates is a pilates studio in Chicago, IL at 3656 North Lincoln Avenue, Chicago, IL 60613. Phone: +17738571592. Website: https://studio8chicago.com/. | https://dingalinged-cpu.github.io/registry/c/studio-8-pilates-chicago/
+3. LRO Fitness | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | LRO Fitness is a pilates studio in Chicago, IL at 560 West Washington Boulevard #110, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lro-fitness-chicago/
+4. BodyRok | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | BodyRok is a pilates studio in Chicago, IL at 185 North Halsted Street, Chicago, IL. Website: https://bodyrok.com/studio/west_loop/. | https://dingalinged-cpu.github.io/registry/c/bodyrok-chicago/
+5. Club Pilates | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Club Pilates is a pilates studio in Chicago, IL at 907 West Madison Street, Chicago, IL 60607. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n12479624266/
+6. Club Pilates | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | Club Pilates is a pilates studio in Chicago, IL at 2047 North Clybourn Avenue, Chicago, IL 60614. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago-n11819718927/
+7. Bodybar Pilates | Organic #7 | Pulse Score 42.4/100 (Unrated, #7 in city) | Bodybar Pilates is a pilates studio in Chicago, IL. Website: https://bodybarpilates.com/studios/wickerpark. | https://dingalinged-cpu.github.io/registry/c/bodybar-pilates-chicago/
+8. Club Pilates | Organic #8 | Pulse Score 41.5/100 (Building, #8 in city) | Club Pilates is a pilates studio in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/club-pilates-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates chicago il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid photographer listing for The Woodlands, TX is Quik Pics Portrait Studio (a photographer in The Woodlands, TX at 25329 Budde Rd, #604, The Woodlands, TX 77380. Phone: +12812962100. Website: https://qpstudios.com/). 2 photographer businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for The Woodlands, TX is Quik Pics Portrait Studio (a photographer in The Woodlands, TX at 25329 Budde Rd, #604, The Woodlands, TX 77380. Phone: +12812962100. Website: https://qpstudios.com/). 2 photographer businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in The Woodlands, TX?
 
 Also answers: photographer in The Woodlands, TX; photographer near me (The Woodlands, TX); best photographer The Woodlands, TX; top rated photographer The Woodlands, TX; affordable photographer The Woodlands, TX; emergency photographer The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quik Pics Portrait Studio | trust 16.0 | Quik Pics Portrait Studio is a photographer in The Woodlands, TX at 25329 Budde Rd, #604, The Woodlands, TX 77380. Phone: +12812962100. Website: https://qpstudios.com/. | https://dingalinged-cpu.github.io/registry/c/quik-pics-portrait-studio-the-woodlands/
-2. Folk Portraits | trust 0.0 | Folk Portraits is a photographer in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/folk-portraits-the-woodlands/
+1. Quik Pics Portrait Studio | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Quik Pics Portrait Studio is a photographer in The Woodlands, TX at 25329 Budde Rd, #604, The Woodlands, TX 77380. Phone: +12812962100. Website: https://qpstudios.com/. | https://dingalinged-cpu.github.io/registry/c/quik-pics-portrait-studio-the-woodlands/
+2. Folk Portraits | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Folk Portraits is a photographer in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/folk-portraits-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer the woodlands tx | category: Events & weddings | industry benchmark: Personal Services

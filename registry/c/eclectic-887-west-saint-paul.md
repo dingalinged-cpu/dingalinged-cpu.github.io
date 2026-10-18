@@ -13,7 +13,7 @@ Eclectic 887 is a furniture store in West Saint Paul, MN at 897 Smith Avenue Sou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 38% of furniture stores in Minneapolis–St. Paul, #1 of 1 furniture stores in West Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

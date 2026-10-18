@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Schaumburg, IL is Christopher Anthony Salon (a hair salon in Schaumburg, IL at 601 North Martingale Road #Suite 100, Schaumburg, IL 60173. Phone: +18476195739. Website: https://christopheranthonysalon.com/). 4 hair salon businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Schaumburg, IL is Christopher Anthony Salon (a hair salon in Schaumburg, IL at 601 North Martingale Road #Suite 100, Schaumburg, IL 60173. Phone: +18476195739. Website: https://christopheranthonysalon.com/). 4 hair salon businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Schaumburg, IL?
 
 Also answers: hair salon in Schaumburg, IL; hair salon near me (Schaumburg, IL); best hair salon Schaumburg, IL; top rated hair salon Schaumburg, IL; affordable hair salon Schaumburg, IL; emergency hair salon Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christopher Anthony Salon | trust 16.0 | Christopher Anthony Salon is a hair salon in Schaumburg, IL at 601 North Martingale Road #Suite 100, Schaumburg, IL 60173. Phone: +18476195739. Website: https://christopheranthonysalon.com/. | https://dingalinged-cpu.github.io/registry/c/christopher-anthony-salon-schaumburg/
-2. Great Clips | trust 8.0 | Great Clips is a hair salon in Schaumburg, IL at 1328 North Roselle Road, Schaumburg, IL 60195. | https://dingalinged-cpu.github.io/registry/c/great-clips-schaumburg/
-3. Focus Hair | trust 0.0 | Focus Hair is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/focus-hair-schaumburg/
-4. Phenix Salon Suites | trust 0.0 | Phenix Salon Suites is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-schaumburg/
+1. Christopher Anthony Salon | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Christopher Anthony Salon is a hair salon in Schaumburg, IL at 601 North Martingale Road #Suite 100, Schaumburg, IL 60173. Phone: +18476195739. Website: https://christopheranthonysalon.com/. | https://dingalinged-cpu.github.io/registry/c/christopher-anthony-salon-schaumburg/
+2. Focus Hair | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Focus Hair is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/focus-hair-schaumburg/
+3. Great Clips | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Great Clips is a hair salon in Schaumburg, IL at 1328 North Roselle Road, Schaumburg, IL 60195. | https://dingalinged-cpu.github.io/registry/c/great-clips-schaumburg/
+4. Phenix Salon Suites | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Phenix Salon Suites is a hair salon in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon schaumburg il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

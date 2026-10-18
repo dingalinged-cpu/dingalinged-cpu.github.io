@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Wylie, TX is Posh Nail Salon (a nail salon in Wylie, TX at 2810 FM 544 #200, Wylie, TX 75098. Phone: +19724422722. Website: https://poshnailsalonwylie.com/). 4 nail salon businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Wylie, TX is Posh Nail Salon (a nail salon in Wylie, TX at 2810 FM 544 #200, Wylie, TX 75098. Phone: +19724422722. Website: https://poshnailsalonwylie.com/). 4 nail salon businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Wylie, TX?
 
 Also answers: nail salon in Wylie, TX; nail salon near me (Wylie, TX); best nail salon Wylie, TX; top rated nail salon Wylie, TX; affordable nail salon Wylie, TX; emergency nail salon Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Posh Nail Salon | trust 20.0 | Posh Nail Salon is a nail salon in Wylie, TX at 2810 FM 544 #200, Wylie, TX 75098. Phone: +19724422722. Website: https://poshnailsalonwylie.com/. | https://dingalinged-cpu.github.io/registry/c/posh-nail-salon-wylie/
-2. Dazzle Nail Spa | trust 4.0 | Dazzle Nail Spa is a nail salon in Wylie, TX at 805 Woodbridge Parkway #Suite 800, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/dazzle-nail-spa-wylie/
-3. Nexgen Nail Bar | trust 4.0 | Nexgen Nail Bar is a nail salon in Wylie, TX at 3420 FM544 #750, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/nexgen-nail-bar-wylie/
-4. NT Nails | trust 0.0 | NT Nails is a nail salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/nt-nails-wylie/
+1. Posh Nail Salon | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Posh Nail Salon is a nail salon in Wylie, TX at 2810 FM 544 #200, Wylie, TX 75098. Phone: +19724422722. Website: https://poshnailsalonwylie.com/. | https://dingalinged-cpu.github.io/registry/c/posh-nail-salon-wylie/
+2. Dazzle Nail Spa | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Dazzle Nail Spa is a nail salon in Wylie, TX at 805 Woodbridge Parkway #Suite 800, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/dazzle-nail-spa-wylie/
+3. Nexgen Nail Bar | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nexgen Nail Bar is a nail salon in Wylie, TX at 3420 FM544 #750, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/nexgen-nail-bar-wylie/
+4. NT Nails | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | NT Nails is a nail salon in Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/nt-nails-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon wylie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

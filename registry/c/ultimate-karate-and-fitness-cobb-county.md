@@ -13,7 +13,7 @@ Ultimate Karate & Fitness is a martial arts school in Cobb County, GA at 2745 Sa
 - Website: https://www.karatemarietta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 15:30-20:30; Sa 09:00-13:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 20% of martial arts schools in Atlanta, #3 of 11 martial arts schools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

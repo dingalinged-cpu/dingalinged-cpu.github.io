@@ -13,7 +13,7 @@ Customeyes Family Eye Care & Optical is an eye care practice in Houston, TX at 8
 - Website: https://yourcustomeyes.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 09:00-18:00; Th 10:00-19:00; Sa 09:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 3% of eye care practices in Houston, #1 of 19 eye care practices in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

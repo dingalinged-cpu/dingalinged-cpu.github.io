@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Princeton, TX is Princeton Storage Boat/RV (a self-storage facility in Princeton, TX at 3954 FM 546, Princeton, TX 75407. Phone: +19723724159. Website: https://www.princetonmultistorage.com/). 1 storage units businesses are listed for Princeton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Princeton, TX is Princeton Storage Boat/RV (a self-storage facility in Princeton, TX at 3954 FM 546, Princeton, TX 75407. Phone: +19723724159. Website: https://www.princetonmultistorage.com/). 1 storage units businesses are listed for Princeton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Princeton, TX?
 
 Also answers: storage units in Princeton, TX; storage units near me (Princeton, TX); best storage units Princeton, TX; top rated storage units Princeton, TX; affordable storage units Princeton, TX; emergency storage units Princeton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Princeton Storage Boat/RV | trust 20.0 | Princeton Storage Boat/RV is a self-storage facility in Princeton, TX at 3954 FM 546, Princeton, TX 75407. Phone: +19723724159. Website: https://www.princetonmultistorage.com/. | https://dingalinged-cpu.github.io/registry/c/princeton-storage-boat-rv-princeton/
+1. Princeton Storage Boat/RV | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Princeton Storage Boat/RV is a self-storage facility in Princeton, TX at 3954 FM 546, Princeton, TX 75407. Phone: +19723724159. Website: https://www.princetonmultistorage.com/. | https://dingalinged-cpu.github.io/registry/c/princeton-storage-boat-rv-princeton/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units princeton tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

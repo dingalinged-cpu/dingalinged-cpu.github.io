@@ -13,7 +13,7 @@ Life Time is a gym in Sandy Springs, GA at 5600 Roswell Road #I, Sandy Springs, 
 - Website: https://www.lifetime.life/life-time-locations/ga-sandy-springs.html
 - Email: n/a
 - Opening hours (OSM syntax): 04:00-24:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 63% of gyms in Atlanta, #1 of 3 gyms in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

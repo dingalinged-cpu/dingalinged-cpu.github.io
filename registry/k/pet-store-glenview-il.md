@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Glenview, IL is Petco (a pet store in Glenview, IL at 2727 Pfingsten Road #8, Glenview, IL 60026. Phone: +18475628653. Website: https://stores.petco.com/il/glenview/pet-supplies-glenview-il-5605.html). 2 pet store businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Glenview, IL is PetSmart (a pet store in Glenview, IL at 1523 Waukegan Road, Glenview, IL 60025. Phone: +18479041556. Website: https://www.petsmart.com/stores/us/il/glenview-store2579.html). 2 pet store businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Glenview, IL?
 
 Also answers: pet store in Glenview, IL; pet store near me (Glenview, IL); best pet store Glenview, IL; top rated pet store Glenview, IL; affordable pet store Glenview, IL; emergency pet store Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Glenview, IL at 2727 Pfingsten Road #8, Glenview, IL 60026. Phone: +18475628653. Website: https://stores.petco.com/il/glenview/pet-supplies-glenview-il-5605.html. | https://dingalinged-cpu.github.io/registry/c/petco-glenview/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Glenview, IL at 1523 Waukegan Road, Glenview, IL 60025. Phone: +18479041556. Website: https://www.petsmart.com/stores/us/il/glenview-store2579.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-glenview/
+1. PetSmart | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | PetSmart is a pet store in Glenview, IL at 1523 Waukegan Road, Glenview, IL 60025. Phone: +18479041556. Website: https://www.petsmart.com/stores/us/il/glenview-store2579.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-glenview/
+2. Petco | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Petco is a pet store in Glenview, IL at 2727 Pfingsten Road #8, Glenview, IL 60026. Phone: +18475628653. Website: https://stores.petco.com/il/glenview/pet-supplies-glenview-il-5605.html. | https://dingalinged-cpu.github.io/registry/c/petco-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store glenview il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

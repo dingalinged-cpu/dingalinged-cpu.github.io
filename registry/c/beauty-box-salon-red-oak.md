@@ -13,7 +13,7 @@ Beauty Box Salon is a hair salon in Red Oak, TX at 515 Butterfly Lane, Red Oak, 
 - Website: https://www.beautyboxredoak.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Dallas–Fort Worth, #1 of 1 hair salons in Red Oak (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

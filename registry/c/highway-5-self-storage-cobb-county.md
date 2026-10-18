@@ -13,7 +13,7 @@ Highway 5 Self Storage is a self-storage facility in Cobb County, GA at 4945 Can
 - Website: https://hwy5selfstorage.com/
 - Email: info@hwy5selfstorage.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 1% of self-storage facilitys in Atlanta, #1 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

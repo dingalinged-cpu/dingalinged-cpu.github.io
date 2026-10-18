@@ -13,7 +13,7 @@ Dent1St Dental Care is a dentist in Cobb County, GA at 440 Ernest W. Barrett Par
 - Website: https://www.dentfirst.com/locations/kennesaw/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 23% of dentists in Atlanta, #9 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

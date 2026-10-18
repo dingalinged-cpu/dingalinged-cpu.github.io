@@ -13,7 +13,7 @@ Melanated Beauty Spa is a skin care studio in Atlanta, GA at 249 Peters Street S
 - Website: https://www.melanatedbeautyspa.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa,Su 10:00-17:00; Mo off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 62% of skin care studios in Atlanta, #6 of 8 skin care studios in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

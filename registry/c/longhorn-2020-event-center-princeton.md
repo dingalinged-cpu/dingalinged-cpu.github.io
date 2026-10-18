@@ -13,7 +13,7 @@ Longhorn 2020 Event Center is an event venue in Princeton, TX at 3670 FM-982, Pr
 - Website: https://longhorn2020eventcenter.com/
 - Email: Longhorn2020ptx@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 23% of event venues in Dallas–Fort Worth, #2 of 2 event venues in Princeton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

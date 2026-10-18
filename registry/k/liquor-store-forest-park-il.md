@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Forest Park, IL is Cardinal Wine & Spirits (a liquor store in Forest Park, IL at 7533 Roosevelt Road, Forest Park, IL 60130). 3 liquor store businesses are listed for Forest Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Forest Park, IL is USA Beverage Company (a liquor store in Forest Park, IL at 7200 Madison Street, Forest Park, IL 60130). 3 liquor store businesses are listed for Forest Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Forest Park, IL?
 
 Also answers: liquor store in Forest Park, IL; liquor store near me (Forest Park, IL); best liquor store Forest Park, IL; top rated liquor store Forest Park, IL; affordable liquor store Forest Park, IL; emergency liquor store Forest Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cardinal Wine & Spirits | trust 4.0 | Cardinal Wine & Spirits is a liquor store in Forest Park, IL at 7533 Roosevelt Road, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/cardinal-wine-and-spirits-forest-park/
-2. USA Beverage Company | trust 4.0 | USA Beverage Company is a liquor store in Forest Park, IL at 7200 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/usa-beverage-company-forest-park/
-3. Famous Liquors | trust 0.0 | Famous Liquors is a liquor store in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/famous-liquors-forest-park/
+1. USA Beverage Company | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | USA Beverage Company is a liquor store in Forest Park, IL at 7200 Madison Street, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/usa-beverage-company-forest-park/
+2. Cardinal Wine & Spirits | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Cardinal Wine & Spirits is a liquor store in Forest Park, IL at 7533 Roosevelt Road, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/cardinal-wine-and-spirits-forest-park/
+3. Famous Liquors | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Famous Liquors is a liquor store in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/famous-liquors-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store forest park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

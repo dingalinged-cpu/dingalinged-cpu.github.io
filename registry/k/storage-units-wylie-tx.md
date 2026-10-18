@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Wylie, TX is Country Club Storage (a self-storage facility in Wylie, TX at 2744 Southview Dr, Wylie, TX 75098. Phone: +19724619600. Website: https://www.countryclubstorage.net/). 3 storage units businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Wylie, TX is Country Club Storage (a self-storage facility in Wylie, TX at 2744 Southview Dr, Wylie, TX 75098. Phone: +19724619600. Website: https://www.countryclubstorage.net/). 3 storage units businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Wylie, TX?
 
 Also answers: storage units in Wylie, TX; storage units near me (Wylie, TX); best storage units Wylie, TX; top rated storage units Wylie, TX; affordable storage units Wylie, TX; emergency storage units Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Country Club Storage | trust 20.0 | Country Club Storage is a self-storage facility in Wylie, TX at 2744 Southview Dr, Wylie, TX 75098. Phone: +19724619600. Website: https://www.countryclubstorage.net/. | https://dingalinged-cpu.github.io/registry/c/country-club-storage-wylie/
-2. Central Self Storage | trust 10.0 | Central Self Storage is a self-storage facility in Wylie, TX at 2802 FM 544, Wylie, TX 75098. Phone: +19724425210. | https://dingalinged-cpu.github.io/registry/c/central-self-storage-wylie/
-3. Storage King USA | trust 4.0 | Storage King USA is a self-storage facility in Wylie, TX at 774 Park Boulevard, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/storage-king-usa-wylie/
+1. Country Club Storage | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Country Club Storage is a self-storage facility in Wylie, TX at 2744 Southview Dr, Wylie, TX 75098. Phone: +19724619600. Website: https://www.countryclubstorage.net/. | https://dingalinged-cpu.github.io/registry/c/country-club-storage-wylie/
+2. Central Self Storage | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Central Self Storage is a self-storage facility in Wylie, TX at 2802 FM 544, Wylie, TX 75098. Phone: +19724425210. | https://dingalinged-cpu.github.io/registry/c/central-self-storage-wylie/
+3. Storage King USA | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Storage King USA is a self-storage facility in Wylie, TX at 774 Park Boulevard, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/storage-king-usa-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units wylie tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

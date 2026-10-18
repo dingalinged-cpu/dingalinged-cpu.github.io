@@ -1,26 +1,26 @@
-The top unpaid tire shop listing for Harris County, TX is Super Tires (a tire shop in Harris County, TX. Phone: +18322833744). 15 tire shop businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Harris County, TX is Super Tires (a tire shop in Harris County, TX. Phone: +18322833744). 15 tire shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Harris County, TX?
 
 Also answers: tire shop in Harris County, TX; tire shop near me (Harris County, TX); best tire shop Harris County, TX; top rated tire shop Harris County, TX; affordable tire shop Harris County, TX; emergency tire shop Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super Tires | trust 6.0 | Super Tires is a tire shop in Harris County, TX. Phone: +18322833744. | https://dingalinged-cpu.github.io/registry/c/super-tires-harris-county/
-2. 2 Carnales Tire Shop | trust 0.0 | 2 Carnales Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/2-carnales-tire-shop-harris-county/
-3. America's Best Tires & Wheels | trust 0.0 | America's Best Tires & Wheels is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/americas-best-tires-and-wheels-harris-county/
-4. Customs 10 Wheels and Tires | trust 0.0 | Customs 10 Wheels and Tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/customs-10-wheels-and-tires-harris-county/
-5. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/discount-tire-harris-county/
-6. Express wheels & tires | trust 0.0 | Express wheels & tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/express-wheels-and-tires-harris-county/
-7. Fairbanks Tire Shop | trust 0.0 | Fairbanks Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-tire-shop-harris-county/
-8. Gomez Tire | trust 0.0 | Gomez Tire is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-harris-county/
-9. Gomez Tire Shop | trust 0.0 | Gomez Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-harris-county/
-10. Katy Tires | trust 0.0 | Katy Tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-tires-harris-county/
-11. Loski Tire Shop | trust 0.0 | Loski Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/loski-tire-shop-harris-county/
-12. Mateo Tire Service | trust 0.0 | Mateo Tire Service is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mateo-tire-service-harris-county/
-13. Tire & Wheel Master | trust 0.0 | Tire & Wheel Master is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tire-and-wheel-master-harris-county/
-14. Tire Link | trust 0.0 | Tire Link is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tire-link-harris-county/
-15. Tumakin | trust 0.0 | Tumakin is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tumakin-harris-county/
+1. Super Tires | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Super Tires is a tire shop in Harris County, TX. Phone: +18322833744. | https://dingalinged-cpu.github.io/registry/c/super-tires-harris-county/
+2. Loski Tire Shop | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Loski Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/loski-tire-shop-harris-county/
+3. America's Best Tires & Wheels | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | America's Best Tires & Wheels is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/americas-best-tires-and-wheels-harris-county/
+4. 2 Carnales Tire Shop | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | 2 Carnales Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/2-carnales-tire-shop-harris-county/
+5. Customs 10 Wheels and Tires | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Customs 10 Wheels and Tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/customs-10-wheels-and-tires-harris-county/
+6. Express wheels & tires | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Express wheels & tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/express-wheels-and-tires-harris-county/
+7. Fairbanks Tire Shop | Organic #7 | Pulse Score 54.1/100 (Unrated, #7 in city) | Fairbanks Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-tire-shop-harris-county/
+8. Gomez Tire | Organic #8 | Pulse Score 54.1/100 (Unrated, #8 in city) | Gomez Tire is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-harris-county/
+9. Katy Tires | Organic #9 | Pulse Score 54.1/100 (Unrated, #9 in city) | Katy Tires is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-tires-harris-county/
+10. Mateo Tire Service | Organic #10 | Pulse Score 54.1/100 (Unrated, #10 in city) | Mateo Tire Service is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mateo-tire-service-harris-county/
+11. Tire & Wheel Master | Organic #11 | Pulse Score 54.1/100 (Unrated, #11 in city) | Tire & Wheel Master is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tire-and-wheel-master-harris-county/
+12. Tire Link | Organic #12 | Pulse Score 54.1/100 (Unrated, #12 in city) | Tire Link is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tire-link-harris-county/
+13. Tumakin | Organic #13 | Pulse Score 54.1/100 (Unrated, #13 in city) | Tumakin is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tumakin-harris-county/
+14. Discount Tire | Organic #14 | Pulse Score 41.4/100 (Building, #14 in city) | Discount Tire is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/discount-tire-harris-county/
+15. Gomez Tire Shop | Organic #15 | Pulse Score 41.3/100 (Unrated, #15 in city) | Gomez Tire Shop is a tire shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gomez-tire-shop-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop harris county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

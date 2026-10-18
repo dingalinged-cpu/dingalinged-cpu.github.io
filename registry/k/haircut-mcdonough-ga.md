@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Mcdonough, GA is Unique Creations Wellness Spa & Salon (a hair salon in McDonough, GA at 303 Jonesboro Rd, McDonough, GA 30253. Phone: +17702725213. Website: https://uniquecreationswellnessspaandsalon.com/). 1 haircut businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Mcdonough, GA is Unique Creations Wellness Spa & Salon (a hair salon in McDonough, GA at 303 Jonesboro Rd, McDonough, GA 30253. Phone: +17702725213. Website: https://uniquecreationswellnessspaandsalon.com/). 1 haircut businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Mcdonough, GA?
 
 Also answers: haircut in Mcdonough, GA; haircut near me (Mcdonough, GA); best haircut Mcdonough, GA; top rated haircut Mcdonough, GA; affordable haircut Mcdonough, GA; emergency haircut Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Unique Creations Wellness Spa & Salon | trust 20.0 | Unique Creations Wellness Spa & Salon is a hair salon in McDonough, GA at 303 Jonesboro Rd, McDonough, GA 30253. Phone: +17702725213. Website: https://uniquecreationswellnessspaandsalon.com/. | https://dingalinged-cpu.github.io/registry/c/unique-creations-wellness-spa-and-salon-mcdonough/
+1. Unique Creations Wellness Spa & Salon | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Unique Creations Wellness Spa & Salon is a hair salon in McDonough, GA at 303 Jonesboro Rd, McDonough, GA 30253. Phone: +17702725213. Website: https://uniquecreationswellnessspaandsalon.com/. | https://dingalinged-cpu.github.io/registry/c/unique-creations-wellness-spa-and-salon-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut mcdonough ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

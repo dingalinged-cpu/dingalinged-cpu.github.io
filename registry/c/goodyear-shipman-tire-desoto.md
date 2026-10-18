@@ -13,7 +13,7 @@ Goodyear Shipman Tire is an auto repair shop in DeSoto, TX at 1601 North Hampton
 - Website: https://www.goodyear.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #1 of 2 auto repair shops in DeSoto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Euless, TX is Laxmi Jewelers (a jewelry store in Euless, TX at 1060 North Main Street #111, Euless, TX 76039). 2 jewelry store businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Euless, TX is Laxmi Jewelers (a jewelry store in Euless, TX at 1060 North Main Street #111, Euless, TX 76039). 2 jewelry store businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Euless, TX?
 
 Also answers: jewelry store in Euless, TX; jewelry store near me (Euless, TX); best jewelry store Euless, TX; top rated jewelry store Euless, TX; affordable jewelry store Euless, TX; emergency jewelry store Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Laxmi Jewelers | trust 4.0 | Laxmi Jewelers is a jewelry store in Euless, TX at 1060 North Main Street #111, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/laxmi-jewelers-euless/
-2. Dallas Gold And Silver | trust 0.0 | Dallas Gold And Silver is a jewelry store in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-gold-and-silver-euless/
+1. Laxmi Jewelers | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Laxmi Jewelers is a jewelry store in Euless, TX at 1060 North Main Street #111, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/laxmi-jewelers-euless/
+2. Dallas Gold And Silver | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Dallas Gold And Silver is a jewelry store in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-gold-and-silver-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store euless tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

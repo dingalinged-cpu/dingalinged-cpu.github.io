@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Coon Rapids, MN is Ben Nails & Spa (a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903). 1 nail salon businesses are listed for Coon Rapids, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Coon Rapids, MN is Ben Nails & Spa (a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903). 1 nail salon businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Coon Rapids, MN?
 
 Also answers: nail salon in Coon Rapids, MN; nail salon near me (Coon Rapids, MN); best nail salon Coon Rapids, MN; top rated nail salon Coon Rapids, MN; affordable nail salon Coon Rapids, MN; emergency nail salon Coon Rapids, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ben Nails & Spa | trust 14.0 | Ben Nails & Spa is a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903. | https://dingalinged-cpu.github.io/registry/c/ben-nails-and-spa-coon-rapids/
+1. Ben Nails & Spa | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Ben Nails & Spa is a nail salon in Coon Rapids, MN at 2026 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637550903. | https://dingalinged-cpu.github.io/registry/c/ben-nails-and-spa-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon coon rapids mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Integrated Physical Medicine of New Lenox is a chiropractor in New Lenox, IL at 
 - Website: https://www.ipmhealthcare.com/new-lenox.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 45% of chiropractors in Chicago, #1 of 1 chiropractors in New Lenox (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

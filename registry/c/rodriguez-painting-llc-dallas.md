@@ -13,7 +13,7 @@ Rodriguez Painting, LLC is a painting contractor in Dallas, TX. Phone: +12149003
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00
-- Registry Score: 55.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Unrated (not enough evidence yet) — top 67% of painting contractors in Dallas–Fort Worth, #2 of 3 painting contractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

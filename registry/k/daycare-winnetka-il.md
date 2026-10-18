@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Winnetka, IL is Harkness House (a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home). 2 daycare businesses are listed for Winnetka, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Winnetka, IL is Winnetka Community Nursery School (a daycare in Winnetka, IL at 600 Pine Street, Winnetka, IL 60093. Phone: +18474464432. Website: https://www.winnetkacommunitynurseryschool.org/). 2 daycare businesses are listed for Winnetka, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Winnetka, IL?
 
 Also answers: daycare in Winnetka, IL; daycare near me (Winnetka, IL); best daycare Winnetka, IL; top rated daycare Winnetka, IL; affordable daycare Winnetka, IL; emergency daycare Winnetka, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harkness House | trust 16.0 | Harkness House is a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home. | https://dingalinged-cpu.github.io/registry/c/harkness-house-winnetka/
-2. Winnetka Community Nursery School | trust 16.0 | Winnetka Community Nursery School is a daycare in Winnetka, IL at 600 Pine Street, Winnetka, IL 60093. Phone: +18474464432. Website: https://www.winnetkacommunitynurseryschool.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-community-nursery-school-winnetka/
+1. Winnetka Community Nursery School | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Winnetka Community Nursery School is a daycare in Winnetka, IL at 600 Pine Street, Winnetka, IL 60093. Phone: +18474464432. Website: https://www.winnetkacommunitynurseryschool.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-community-nursery-school-winnetka/
+2. Harkness House | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Harkness House is a daycare in Winnetka, IL at 630 Lincoln Avenue, Winnetka, IL 60093. Phone: +18475012549. Website: https://www.harknesshouse.org/home. | https://dingalinged-cpu.github.io/registry/c/harkness-house-winnetka/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare winnetka il | category: Education & childcare | industry benchmark: Education & Instruction

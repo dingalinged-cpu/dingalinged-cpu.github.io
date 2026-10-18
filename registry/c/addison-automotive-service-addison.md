@@ -13,7 +13,7 @@ Addison Automotive Service is an auto repair shop in Addison, TX at 14375 Inwood
 - Website: https://addisonautorepairdfw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Dallas–Fort Worth, #3 of 8 auto repair shops in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

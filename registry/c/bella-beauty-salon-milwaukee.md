@@ -13,7 +13,7 @@ Bella Beauty Salon is a hair salon in Milwaukee, WI at 1222 West Historic Mitche
 - Website: n/a
 - Email: bellabeautysalon22@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Milwaukee, #56 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

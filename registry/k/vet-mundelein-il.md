@@ -1,12 +1,12 @@
-The top unpaid vet listing for Mundelein, IL is Vernon Hills Animal Hospital (a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070). 1 vet businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Mundelein, IL is Vernon Hills Animal Hospital (a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070). 1 vet businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Mundelein, IL?
 
 Also answers: vet in Mundelein, IL; vet near me (Mundelein, IL); best vet Mundelein, IL; top rated vet Mundelein, IL; affordable vet Mundelein, IL; emergency vet Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vernon Hills Animal Hospital | trust 10.0 | Vernon Hills Animal Hospital is a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070. | https://dingalinged-cpu.github.io/registry/c/vernon-hills-animal-hospital-mundelein/
+1. Vernon Hills Animal Hospital | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Vernon Hills Animal Hospital is a veterinarian in Mundelein, IL at 1260 South Butterfield Road, Mundelein, IL 60060. Phone: +18473674070. | https://dingalinged-cpu.github.io/registry/c/vernon-hills-animal-hospital-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet mundelein il | category: Pets | industry benchmark: Animals & Pets

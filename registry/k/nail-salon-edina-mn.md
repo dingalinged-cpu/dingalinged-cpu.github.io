@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Edina, MN is Nail Images (a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/). 4 nail salon businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Edina, MN is Jenny's Nails (a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/). 4 nail salon businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Edina, MN?
 
 Also answers: nail salon in Edina, MN; nail salon near me (Edina, MN); best nail salon Edina, MN; top rated nail salon Edina, MN; affordable nail salon Edina, MN; emergency nail salon Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Images | trust 20.0 | Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/nail-images-edina/
-2. Jenny's Nails | trust 16.0 | Jenny's Nails is a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/. | https://dingalinged-cpu.github.io/registry/c/jennys-nails-edina/
-3. Sola Salons | trust 4.0 | Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/sola-salons-edina/
-4. Envy Nails | trust 0.0 | Envy Nails is a nail salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/envy-nails-edina/
+1. Jenny's Nails | Organic #1 | Pulse Score 66/100 (Good, #1 in city) | Jenny's Nails is a nail salon in Edina, MN. Phone: +19529201700. Website: https://jennysnailsmn.com/. | https://dingalinged-cpu.github.io/registry/c/jennys-nails-edina/
+2. Nail Images | Organic #2 | Pulse Score 64/100 (Unrated, #2 in city) | Nail Images is a nail salon in Edina, MN at 4509 France Avenue South, Edina, MN 55410. Phone: +16129295101. Website: https://nailsimageminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/nail-images-edina/
+3. Envy Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Envy Nails is a nail salon in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/envy-nails-edina/
+4. Sola Salons | Organic #4 | Pulse Score 45.4/100 (Building, #4 in city) | Sola Salons is a nail salon in Edina, MN at 3519 West 70th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/sola-salons-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon edina mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

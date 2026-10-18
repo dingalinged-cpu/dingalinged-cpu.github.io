@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Bedford, TX is United Cutz (a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595). 1 barber shop businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Bedford, TX is United Cutz (a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595). 1 barber shop businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Bedford, TX?
 
 Also answers: barber shop in Bedford, TX; barber shop near me (Bedford, TX); best barber shop Bedford, TX; top rated barber shop Bedford, TX; affordable barber shop Bedford, TX; emergency barber shop Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. United Cutz | trust 10.0 | United Cutz is a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595. | https://dingalinged-cpu.github.io/registry/c/united-cutz-bedford/
+1. United Cutz | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | United Cutz is a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595. | https://dingalinged-cpu.github.io/registry/c/united-cutz-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop bedford tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

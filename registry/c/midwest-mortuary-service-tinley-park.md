@@ -13,7 +13,7 @@ Midwest Mortuary Service is a funeral home in Tinley Park, IL at 7030 Centennial
 - Website: https://www.midwestmortuary.com/
 - Email: info@midwestmortuary.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 4% of funeral homes in Chicago, #1 of 2 funeral homes in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid vet listing for Maple Grove, MN is Paws & Claws Pet Hospital (a veterinarian in Maple Grove, MN at 13640 Grove Drive North, Maple Grove, MN 55311. Phone: +17634209711. Website: https://pawsandclawspethospital.com/). 2 vet businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Maple Grove, MN is Paws & Claws Pet Hospital (a veterinarian in Maple Grove, MN at 13640 Grove Drive North, Maple Grove, MN 55311. Phone: +17634209711. Website: https://pawsandclawspethospital.com/). 2 vet businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Maple Grove, MN?
 
 Also answers: vet in Maple Grove, MN; vet near me (Maple Grove, MN); best vet Maple Grove, MN; top rated vet Maple Grove, MN; affordable vet Maple Grove, MN; emergency vet Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paws & Claws Pet Hospital | trust 20.0 | Paws & Claws Pet Hospital is a veterinarian in Maple Grove, MN at 13640 Grove Drive North, Maple Grove, MN 55311. Phone: +17634209711. Website: https://pawsandclawspethospital.com/. | https://dingalinged-cpu.github.io/registry/c/paws-and-claws-pet-hospital-maple-grove/
-2. WellHaven Pet Health | trust 0.0 | WellHaven Pet Health is a veterinarian in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/wellhaven-pet-health-maple-grove/
+1. Paws & Claws Pet Hospital | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Paws & Claws Pet Hospital is a veterinarian in Maple Grove, MN at 13640 Grove Drive North, Maple Grove, MN 55311. Phone: +17634209711. Website: https://pawsandclawspethospital.com/. | https://dingalinged-cpu.github.io/registry/c/paws-and-claws-pet-hospital-maple-grove/
+2. WellHaven Pet Health | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | WellHaven Pet Health is a veterinarian in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/wellhaven-pet-health-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet maple grove mn | category: Pets | industry benchmark: Animals & Pets

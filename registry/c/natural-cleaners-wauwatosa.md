@@ -13,7 +13,7 @@ Natural Cleaners is a dry cleaner in Wauwatosa, WI. Website: https://naturalclea
 - Website: https://naturalcleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 74% of dry cleaners in Milwaukee, #4 of 5 dry cleaners in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

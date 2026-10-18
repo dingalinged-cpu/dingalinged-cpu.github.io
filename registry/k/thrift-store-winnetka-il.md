@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Winnetka, IL is Winnetka Thrift Shop (a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/). 1 thrift store businesses are listed for Winnetka, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Winnetka, IL is Winnetka Thrift Shop (a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/). 1 thrift store businesses are listed for Winnetka, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Winnetka, IL?
 
 Also answers: thrift store in Winnetka, IL; thrift store near me (Winnetka, IL); best thrift store Winnetka, IL; top rated thrift store Winnetka, IL; affordable thrift store Winnetka, IL; emergency thrift store Winnetka, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Winnetka Thrift Shop | trust 20.0 | Winnetka Thrift Shop is a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-thrift-shop-winnetka/
+1. Winnetka Thrift Shop | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Winnetka Thrift Shop is a thrift store in Winnetka, IL at 992 Green Bay Road, Winnetka, IL 60093. Phone: +18474467787. Website: https://www.winnetkathriftshop.org/. | https://dingalinged-cpu.github.io/registry/c/winnetka-thrift-shop-winnetka/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store winnetka il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

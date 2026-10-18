@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Highland Village, TX is Salon 407 (a hair salon in Highland Village, TX at 1920 Sellmeyer Lane, Highland Village, TX). 2 haircut businesses are listed for Highland Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Highland Village, TX is Salon 407 (a hair salon in Highland Village, TX at 1920 Sellmeyer Lane, Highland Village, TX). 2 haircut businesses are listed for Highland Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Highland Village, TX?
 
 Also answers: haircut in Highland Village, TX; haircut near me (Highland Village, TX); best haircut Highland Village, TX; top rated haircut Highland Village, TX; affordable haircut Highland Village, TX; emergency haircut Highland Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon 407 | trust 3.0 | Salon 407 is a hair salon in Highland Village, TX at 1920 Sellmeyer Lane, Highland Village, TX. | https://dingalinged-cpu.github.io/registry/c/salon-407-highland-village/
-2. Troy Cuts | trust 0.0 | Troy Cuts is a hair salon in Highland Village, TX. | https://dingalinged-cpu.github.io/registry/c/troy-cuts-highland-village/
+1. Salon 407 | Organic #1 | Pulse Score 61/100 (Good, #1 in city) | Salon 407 is a hair salon in Highland Village, TX at 1920 Sellmeyer Lane, Highland Village, TX. | https://dingalinged-cpu.github.io/registry/c/salon-407-highland-village/
+2. Troy Cuts | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Troy Cuts is a hair salon in Highland Village, TX. | https://dingalinged-cpu.github.io/registry/c/troy-cuts-highland-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut highland village tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Decatur, GA is Pastries A Go Go (a bakery in Decatur, GA. Website: https://www.pastriesagogo.com/). 2 bakery businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Decatur, GA is Pastries A Go Go (a bakery in Decatur, GA. Website: https://www.pastriesagogo.com/). 2 bakery businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Decatur, GA?
 
 Also answers: bakery in Decatur, GA; bakery near me (Decatur, GA); best bakery Decatur, GA; top rated bakery Decatur, GA; affordable bakery Decatur, GA; emergency bakery Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pastries A Go Go | trust 6.0 | Pastries A Go Go is a bakery in Decatur, GA. Website: https://www.pastriesagogo.com/. | https://dingalinged-cpu.github.io/registry/c/pastries-a-go-go-decatur/
-2. Bakery at Cakes & Ale | trust 0.0 | Bakery at Cakes & Ale is a bakery in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/bakery-at-cakes-and-ale-decatur/
+1. Pastries A Go Go | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Pastries A Go Go is a bakery in Decatur, GA. Website: https://www.pastriesagogo.com/. | https://dingalinged-cpu.github.io/registry/c/pastries-a-go-go-decatur/
+2. Bakery at Cakes & Ale | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Bakery at Cakes & Ale is a bakery in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/bakery-at-cakes-and-ale-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery decatur ga | category: Events & weddings | industry benchmark: Personal Services

@@ -1,13 +1,13 @@
-The top unpaid business consultant listing for Lancaster, TX is XL Pro Staffing & Consulting (a business consultant in Lancaster, TX at 906 North Interstate 35E, Lancaster, TX 75146). 2 business consultant businesses are listed for Lancaster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Lancaster, TX is XL Pro Staffing & Consulting (a business consultant in Lancaster, TX at 906 North Interstate 35E, Lancaster, TX 75146). 2 business consultant businesses are listed for Lancaster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Lancaster, TX?
 
 Also answers: business consultant in Lancaster, TX; business consultant near me (Lancaster, TX); best business consultant Lancaster, TX; top rated business consultant Lancaster, TX; affordable business consultant Lancaster, TX; emergency business consultant Lancaster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. XL Pro Staffing & Consulting | trust 4.0 | XL Pro Staffing & Consulting is a business consultant in Lancaster, TX at 906 North Interstate 35E, Lancaster, TX 75146. | https://dingalinged-cpu.github.io/registry/c/xl-pro-staffing-and-consulting-lancaster/
-2. Employee Solutions | trust 0.0 | Employee Solutions is a business consultant in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/employee-solutions-lancaster/
+1. XL Pro Staffing & Consulting | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | XL Pro Staffing & Consulting is a business consultant in Lancaster, TX at 906 North Interstate 35E, Lancaster, TX 75146. | https://dingalinged-cpu.github.io/registry/c/xl-pro-staffing-and-consulting-lancaster/
+2. Employee Solutions | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | Employee Solutions is a business consultant in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/employee-solutions-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant lancaster tx | category: b2b_services | industry benchmark: Business Services

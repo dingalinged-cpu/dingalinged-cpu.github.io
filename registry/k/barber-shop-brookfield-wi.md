@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Brookfield, WI is Brew City Barber (a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/). 1 barber shop businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Brookfield, WI is Brew City Barber (a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/). 1 barber shop businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Brookfield, WI?
 
 Also answers: barber shop in Brookfield, WI; barber shop near me (Brookfield, WI); best barber shop Brookfield, WI; top rated barber shop Brookfield, WI; affordable barber shop Brookfield, WI; emergency barber shop Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brew City Barber | trust 20.0 | Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/. | https://dingalinged-cpu.github.io/registry/c/brew-city-barber-brookfield/
+1. Brew City Barber | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/. | https://dingalinged-cpu.github.io/registry/c/brew-city-barber-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop brookfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

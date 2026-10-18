@@ -1,18 +1,18 @@
-The top unpaid mechanic listing for Waukesha, WI is Utility Truck Equipment & Parts (an auto repair shop in Waukesha, WI at 576 Elizabeth Street, Waukesha, WI 53186. Phone: +12625423801. Website: https://www.buckettruckrepair.com/). 7 mechanic businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Waukesha, WI is Utility Truck Equipment & Parts (an auto repair shop in Waukesha, WI at 576 Elizabeth Street, Waukesha, WI 53186. Phone: +12625423801. Website: https://www.buckettruckrepair.com/). 7 mechanic businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Waukesha, WI?
 
 Also answers: mechanic in Waukesha, WI; mechanic near me (Waukesha, WI); best mechanic Waukesha, WI; top rated mechanic Waukesha, WI; affordable mechanic Waukesha, WI; emergency mechanic Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Utility Truck Equipment & Parts | trust 16.0 | Utility Truck Equipment & Parts is an auto repair shop in Waukesha, WI at 576 Elizabeth Street, Waukesha, WI 53186. Phone: +12625423801. Website: https://www.buckettruckrepair.com/. | https://dingalinged-cpu.github.io/registry/c/utility-truck-equipment-and-parts-waukesha/
-2. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Waukesha, WI at 1951 East Main Street, Waukesha, WI 53186. Website: https://store.vioc.com/wi/waukesha/oil-change-gr0065.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-waukesha/
-3. Griffin Collision | trust 4.0 | Griffin Collision is an auto repair shop in Waukesha, WI at 1706 Pearl Street, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/griffin-collision-waukesha/
-4. Midas | trust 4.0 | Midas is an auto repair shop in Waukesha, WI at 2009 East Moreland Boulevard, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/midas-waukesha/
-5. B.I.C. Automotive | trust 0.0 | B.I.C. Automotive is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/b-i-c-automotive-waukesha/
-6. Harlfinger’s Service | trust 0.0 | Harlfinger’s Service is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/harlfinger-s-service-waukesha/
-7. Maaco Collision Repair & Auto Painting | trust 0.0 | Maaco Collision Repair & Auto Painting is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/maaco-collision-repair-and-auto-painting-waukesha/
+1. Utility Truck Equipment & Parts | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Utility Truck Equipment & Parts is an auto repair shop in Waukesha, WI at 576 Elizabeth Street, Waukesha, WI 53186. Phone: +12625423801. Website: https://www.buckettruckrepair.com/. | https://dingalinged-cpu.github.io/registry/c/utility-truck-equipment-and-parts-waukesha/
+2. Griffin Collision | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Griffin Collision is an auto repair shop in Waukesha, WI at 1706 Pearl Street, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/griffin-collision-waukesha/
+3. B.I.C. Automotive | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | B.I.C. Automotive is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/b-i-c-automotive-waukesha/
+4. Harlfinger’s Service | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Harlfinger’s Service is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/harlfinger-s-service-waukesha/
+5. Valvoline | Organic #5 | Pulse Score 46.5/100 (Building, #5 in city) | Valvoline is an auto repair shop in Waukesha, WI at 1951 East Main Street, Waukesha, WI 53186. Website: https://store.vioc.com/wi/waukesha/oil-change-gr0065.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-waukesha/
+6. Midas | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Midas is an auto repair shop in Waukesha, WI at 2009 East Moreland Boulevard, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/midas-waukesha/
+7. Maaco Collision Repair & Auto Painting | Organic #7 | Pulse Score 42.6/100 (Building, #7 in city) | Maaco Collision Repair & Auto Painting is an auto repair shop in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/maaco-collision-repair-and-auto-painting-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic waukesha wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

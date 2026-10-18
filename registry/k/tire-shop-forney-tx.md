@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Forney, TX is Costco Tire Center (a tire shop in Forney, TX at 150 FM 460, Forney, TX 75126. Phone: +14697280051. Website: https://www.costco.com/w/-/tx/forney/1771). 3 tire shop businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Forney, TX is Forney Tire & Service (a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126). 3 tire shop businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Forney, TX?
 
 Also answers: tire shop in Forney, TX; tire shop near me (Forney, TX); best tire shop Forney, TX; top rated tire shop Forney, TX; affordable tire shop Forney, TX; emergency tire shop Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 20.0 | Costco Tire Center is a tire shop in Forney, TX at 150 FM 460, Forney, TX 75126. Phone: +14697280051. Website: https://www.costco.com/w/-/tx/forney/1771. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-forney/
-2. Forney Tire & Service | trust 4.0 | Forney Tire & Service is a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/forney-tire-and-service-forney/
-3. USA Tires | trust 4.0 | USA Tires is a tire shop in Forney, TX at 203 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/usa-tires-forney/
+1. Forney Tire & Service | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Forney Tire & Service is a tire shop in Forney, TX at 200 West Broad Street, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/forney-tire-and-service-forney/
+2. USA Tires | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | USA Tires is a tire shop in Forney, TX at 203 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/usa-tires-forney/
+3. Costco Tire Center | Organic #3 | Pulse Score 50.2/100 (Fair, #3 in city) | Costco Tire Center is a tire shop in Forney, TX at 150 FM 460, Forney, TX 75126. Phone: +14697280051. Website: https://www.costco.com/w/-/tx/forney/1771. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop forney tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,18 +1,18 @@
-The top unpaid dry cleaners listing for Gwinnett County, GA is Siam Cleaners (a dry cleaner in Gwinnett County, GA). 7 dry cleaners businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Gwinnett County, GA is Siam Cleaners (a dry cleaner in Gwinnett County, GA). 7 dry cleaners businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Gwinnett County, GA?
 
 Also answers: dry cleaners in Gwinnett County, GA; dry cleaners near me (Gwinnett County, GA); best dry cleaners Gwinnett County, GA; top rated dry cleaners Gwinnett County, GA; affordable dry cleaners Gwinnett County, GA; emergency dry cleaners Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Siam Cleaners | trust 4.0 | Siam Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/siam-cleaners-gwinnett-county/
-2. American Cleaners | trust 0.0 | American Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/american-cleaners-gwinnett-county/
-3. Kay Cleaners | trust 0.0 | Kay Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-gwinnett-county/
-4. Lilburn Cleaners | trust 0.0 | Lilburn Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/lilburn-cleaners-gwinnett-county/
-5. One Stop Cleaner | trust 0.0 | One Stop Cleaner is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/one-stop-cleaner-gwinnett-county/
-6. Professional Cleaners | trust 0.0 | Professional Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/professional-cleaners-gwinnett-county/
-7. Young's Cleaners | trust 0.0 | Young's Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/youngs-cleaners-gwinnett-county/
+1. Siam Cleaners | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Siam Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/siam-cleaners-gwinnett-county/
+2. American Cleaners | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | American Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/american-cleaners-gwinnett-county/
+3. Lilburn Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Lilburn Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/lilburn-cleaners-gwinnett-county/
+4. One Stop Cleaner | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | One Stop Cleaner is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/one-stop-cleaner-gwinnett-county/
+5. Young's Cleaners | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Young's Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/youngs-cleaners-gwinnett-county/
+6. Kay Cleaners | Organic #6 | Pulse Score 43.1/100 (Unrated, #6 in city) | Kay Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-gwinnett-county/
+7. Professional Cleaners | Organic #7 | Pulse Score 42/100 (Unrated, #7 in city) | Professional Cleaners is a dry cleaner in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/professional-cleaners-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners gwinnett county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

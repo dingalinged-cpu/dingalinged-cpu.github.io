@@ -1,12 +1,12 @@
-The top unpaid roofing contractor listing for Glendale, WI is Horizon Exteriors (a roofer in Glendale, WI at 500 West Silver Spring Drive #K20, Glendale, WI 53217. Phone: +14143690555. Website: https://horizonexteriorswi.com/). 1 roofing contractor businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Glendale, WI is Horizon Exteriors (a roofer in Glendale, WI at 500 West Silver Spring Drive #K20, Glendale, WI 53217. Phone: +14143690555. Website: https://horizonexteriorswi.com/). 1 roofing contractor businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Glendale, WI?
 
 Also answers: roofing contractor in Glendale, WI; roofing contractor near me (Glendale, WI); best roofing contractor Glendale, WI; top rated roofing contractor Glendale, WI; affordable roofing contractor Glendale, WI; emergency roofing contractor Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Horizon Exteriors | trust 20.0 | Horizon Exteriors is a roofer in Glendale, WI at 500 West Silver Spring Drive #K20, Glendale, WI 53217. Phone: +14143690555. Website: https://horizonexteriorswi.com/. | https://dingalinged-cpu.github.io/registry/c/horizon-exteriors-glendale/
+1. Horizon Exteriors | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Horizon Exteriors is a roofer in Glendale, WI at 500 West Silver Spring Drive #K20, Glendale, WI 53217. Phone: +14143690555. Website: https://horizonexteriorswi.com/. | https://dingalinged-cpu.github.io/registry/c/horizon-exteriors-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor glendale wi | category: Home services - Roofing | industry benchmark: Home & Home Improvement

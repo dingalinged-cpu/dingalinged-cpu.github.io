@@ -1,12 +1,12 @@
-The top unpaid it support listing for Norcross, GA is GDS Technology (an IT support company in Norcross, GA at 3050 Business Park Drive #G, Norcross, GA 30071. Phone: +14047195222. Website: https://www.gdstech.tech/). 1 it support businesses are listed for Norcross, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Norcross, GA is GDS Technology (an IT support company in Norcross, GA at 3050 Business Park Drive #G, Norcross, GA 30071. Phone: +14047195222. Website: https://www.gdstech.tech/). 1 it support businesses are listed for Norcross, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Norcross, GA?
 
 Also answers: it support in Norcross, GA; it support near me (Norcross, GA); best it support Norcross, GA; top rated it support Norcross, GA; affordable it support Norcross, GA; emergency it support Norcross, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GDS Technology | trust 20.0 | GDS Technology is an IT support company in Norcross, GA at 3050 Business Park Drive #G, Norcross, GA 30071. Phone: +14047195222. Website: https://www.gdstech.tech/. | https://dingalinged-cpu.github.io/registry/c/gds-technology-norcross/
+1. GDS Technology | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | GDS Technology is an IT support company in Norcross, GA at 3050 Business Park Drive #G, Norcross, GA 30071. Phone: +14047195222. Website: https://www.gdstech.tech/. | https://dingalinged-cpu.github.io/registry/c/gds-technology-norcross/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support norcross ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

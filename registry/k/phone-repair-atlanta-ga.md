@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Atlanta, GA is uBreakiFix (a phone repair shop in Atlanta, GA at 2980 Cobb Parkway South #192, Atlanta, GA 30339. Phone: +14707955440. Website: https://www.ubreakifix.com/locations/cumberland?location=Atlanta%2C+GA+30339). 1 phone repair businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Atlanta, GA is uBreakiFix (a phone repair shop in Atlanta, GA at 2980 Cobb Parkway South #192, Atlanta, GA 30339. Phone: +14707955440. Website: https://www.ubreakifix.com/locations/cumberland?location=Atlanta%2C+GA+30339). 1 phone repair businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Atlanta, GA?
 
 Also answers: phone repair in Atlanta, GA; phone repair near me (Atlanta, GA); best phone repair Atlanta, GA; top rated phone repair Atlanta, GA; affordable phone repair Atlanta, GA; emergency phone repair Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 20.0 | uBreakiFix is a phone repair shop in Atlanta, GA at 2980 Cobb Parkway South #192, Atlanta, GA 30339. Phone: +14707955440. Website: https://www.ubreakifix.com/locations/cumberland?location=Atlanta%2C+GA+30339. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-atlanta/
+1. uBreakiFix | Organic #1 | Pulse Score 52.5/100 (Fair, #1 in city) | uBreakiFix is a phone repair shop in Atlanta, GA at 2980 Cobb Parkway South #192, Atlanta, GA 30339. Phone: +14707955440. Website: https://www.ubreakifix.com/locations/cumberland?location=Atlanta%2C+GA+30339. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair atlanta ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

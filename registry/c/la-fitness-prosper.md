@@ -13,7 +13,7 @@ LA Fitness is a gym in Prosper, TX at 4900 West University Drive, Prosper, TX 75
 - Website: https://www.lafitness.com/Pages/clubhome.aspx?clubid=1359
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 60% of gyms in Dallas–Fort Worth, #1 of 1 gyms in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

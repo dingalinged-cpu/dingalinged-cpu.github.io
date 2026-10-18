@@ -1,13 +1,13 @@
-The top unpaid plastic surgeon listing for Minneapolis, MN is Ace Beauty & Wellness (a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/). 2 plastic surgeon businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plastic surgeon listing for Minneapolis, MN is Ace Beauty & Wellness (a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/). 2 plastic surgeon businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plastic surgeon providers in Minneapolis, MN?
 
 Also answers: plastic surgeon in Minneapolis, MN; plastic surgeon near me (Minneapolis, MN); best plastic surgeon Minneapolis, MN; top rated plastic surgeon Minneapolis, MN; affordable plastic surgeon Minneapolis, MN; emergency plastic surgeon Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ace Beauty & Wellness | trust 19.0 | Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/. | https://dingalinged-cpu.github.io/registry/c/ace-beauty-and-wellness-minneapolis/
-2. Facial Plastic Surgery: Edward Szachowicz, MD | trust 6.0 | Facial Plastic Surgery: Edward Szachowicz, MD is a plastic surgeon in Minneapolis, MN. Website: https://www.facialplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/facial-plastic-surgery-edward-szachowicz-md-minneapolis/
+1. Ace Beauty & Wellness | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Ace Beauty & Wellness is a plastic surgeon in Minneapolis, MN at 1620 West Lake Street, Minneapolis, MN. Phone: +16125402745. Website: https://acebeautyandwellness.com/. | https://dingalinged-cpu.github.io/registry/c/ace-beauty-and-wellness-minneapolis/
+2. Facial Plastic Surgery: Edward Szachowicz, MD | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Facial Plastic Surgery: Edward Szachowicz, MD is a plastic surgeon in Minneapolis, MN. Website: https://www.facialplasticsurgery.com/. | https://dingalinged-cpu.github.io/registry/c/facial-plastic-surgery-edward-szachowicz-md-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon minneapolis mn | category: Health & medical | industry benchmark: Physicians & Surgeons

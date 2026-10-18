@@ -1,13 +1,13 @@
-The top unpaid pediatrician listing for Irving, TX is Texas Primary and Pediatric Care (a family medicine practice in Irving, TX at 7429 suite 101 Las Colinas Boulevard, Irving, TX 75063. Phone: +14694420202. Website: https://tppcare.com/). 2 pediatrician businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Irving, TX is Texas Primary and Pediatric Care (a family medicine practice in Irving, TX at 7429 suite 101 Las Colinas Boulevard, Irving, TX 75063. Phone: +14694420202. Website: https://tppcare.com/). 2 pediatrician businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Irving, TX?
 
 Also answers: pediatrician in Irving, TX; pediatrician near me (Irving, TX); best pediatrician Irving, TX; top rated pediatrician Irving, TX; affordable pediatrician Irving, TX; emergency pediatrician Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Primary and Pediatric Care | trust 20.0 | Texas Primary and Pediatric Care is a family medicine practice in Irving, TX at 7429 suite 101 Las Colinas Boulevard, Irving, TX 75063. Phone: +14694420202. Website: https://tppcare.com/. | https://dingalinged-cpu.github.io/registry/c/texas-primary-and-pediatric-care-irving/
-2. Pediatric Center of Las Colinas | trust 16.0 | Pediatric Center of Las Colinas is a pediatrician in Irving, TX at 7200 State Highway 161 #350, Irving, TX 75039. Phone: +19724010700. Website: https://www.pclc.us/. | https://dingalinged-cpu.github.io/registry/c/pediatric-center-of-las-colinas-irving/
+1. Texas Primary and Pediatric Care | Organic #1 | Pulse Score 60.6/100 (Unrated, #2 in city) | Texas Primary and Pediatric Care is a family medicine practice in Irving, TX at 7429 suite 101 Las Colinas Boulevard, Irving, TX 75063. Phone: +14694420202. Website: https://tppcare.com/. | https://dingalinged-cpu.github.io/registry/c/texas-primary-and-pediatric-care-irving/
+2. Pediatric Center of Las Colinas | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | Pediatric Center of Las Colinas is a pediatrician in Irving, TX at 7200 State Highway 161 #350, Irving, TX 75039. Phone: +19724010700. Website: https://www.pclc.us/. | https://dingalinged-cpu.github.io/registry/c/pediatric-center-of-las-colinas-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician irving tx | category: Health & medical | industry benchmark: Physicians & Surgeons

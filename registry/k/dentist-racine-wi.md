@@ -1,20 +1,20 @@
-The top unpaid dentist listing for Racine, WI is Racine Dental Group, S.C. (a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/). 9 dentist businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Racine, WI is Racine Dental Group, S.C. (a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/). 9 dentist businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Racine, WI?
 
 Also answers: dentist in Racine, WI; dentist near me (Racine, WI); best dentist Racine, WI; top rated dentist Racine, WI; affordable dentist Racine, WI; emergency dentist Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Racine Dental Group, S.C. | trust 16.0 | Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/racine-dental-group-s-c-racine/
-2. A.J. Budzinski, DDS | trust 3.0 | A.J. Budzinski, DDS is a dentist in Racine, WI at 2510 Erie Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/a-j-budzinski-dds-racine/
-3. Knoell Family Dentistry | trust 3.0 | Knoell Family Dentistry is a dentist in Racine, WI at 5707 Byrd Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/knoell-family-dentistry-racine/
-4. Lake Dental Group | trust 3.0 | Lake Dental Group is a dentist in Racine, WI at 400 Lake Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lake-dental-group-racine/
-5. Neumann Dental Clinic | trust 3.0 | Neumann Dental Clinic is a dentist in Racine, WI at 2705 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/neumann-dental-clinic-racine/
-6. R.L. Anderson, D.D.S. | trust 3.0 | R.L. Anderson, D.D.S. is a dentist in Racine, WI at 3019 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/r-l-anderson-d-d-s-racine/
-7. R.T.E. Case, DDS | trust 3.0 | R.T.E. Case, DDS is a dentist in Racine, WI at 500 Goold Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/r-t-e-case-dds-racine/
-8. Vista Dental | trust 3.0 | Vista Dental is a dentist in Racine, WI at 2200 South Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/vista-dental-racine/
-9. familia Dental | trust 0.0 | familia Dental is a dentist in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/familia-dental-racine/
+1. Racine Dental Group, S.C. | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/racine-dental-group-s-c-racine/
+2. A.J. Budzinski, DDS | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | A.J. Budzinski, DDS is a dentist in Racine, WI at 2510 Erie Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/a-j-budzinski-dds-racine/
+3. Knoell Family Dentistry | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Knoell Family Dentistry is a dentist in Racine, WI at 5707 Byrd Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/knoell-family-dentistry-racine/
+4. Lake Dental Group | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Lake Dental Group is a dentist in Racine, WI at 400 Lake Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lake-dental-group-racine/
+5. Neumann Dental Clinic | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Neumann Dental Clinic is a dentist in Racine, WI at 2705 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/neumann-dental-clinic-racine/
+6. R.L. Anderson, D.D.S. | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | R.L. Anderson, D.D.S. is a dentist in Racine, WI at 3019 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/r-l-anderson-d-d-s-racine/
+7. R.T.E. Case, DDS | Organic #7 | Pulse Score 55.3/100 (Unrated, #7 in city) | R.T.E. Case, DDS is a dentist in Racine, WI at 500 Goold Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/r-t-e-case-dds-racine/
+8. Vista Dental | Organic #8 | Pulse Score 55.3/100 (Unrated, #8 in city) | Vista Dental is a dentist in Racine, WI at 2200 South Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/vista-dental-racine/
+9. familia Dental | Organic #9 | Pulse Score 41.3/100 (Unrated, #9 in city) | familia Dental is a dentist in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/familia-dental-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist racine wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

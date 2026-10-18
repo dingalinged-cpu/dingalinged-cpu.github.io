@@ -13,7 +13,7 @@ Cell Phone Repair is a phone repair shop in Shenandoah, TX at 19073 Interstate 4
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 50% of phone repair shops in Houston, #1 of 1 phone repair shops in Shenandoah (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

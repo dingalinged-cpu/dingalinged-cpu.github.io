@@ -13,7 +13,7 @@ American Mattress is a mattress store in Northbrook, IL at 51 Skokie Boulevard, 
 - Website: https://www.americanmattress.com/pages/american-mattress-northbrook-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Unrated (not enough evidence yet) — top 64% of mattress stores in Chicago, #3 of 3 mattress stores in Northbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.9, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

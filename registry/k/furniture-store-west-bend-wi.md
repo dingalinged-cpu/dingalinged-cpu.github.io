@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for West Bend, WI is Cash and Carry (a furniture store in West Bend, WI). 4 furniture store businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for West Bend, WI is Cash and Carry (a furniture store in West Bend, WI). 4 furniture store businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in West Bend, WI?
 
 Also answers: furniture store in West Bend, WI; furniture store near me (West Bend, WI); best furniture store West Bend, WI; top rated furniture store West Bend, WI; affordable furniture store West Bend, WI; emergency furniture store West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cash and Carry | trust 0.0 | Cash and Carry is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cash-and-carry-west-bend/
-2. Cherry Pickin's | trust 0.0 | Cherry Pickin's is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cherry-pickins-west-bend/
-3. Get It Now | trust 0.0 | Get It Now is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/get-it-now-west-bend/
-4. West Bend Furniture | trust 0.0 | West Bend Furniture is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/west-bend-furniture-west-bend/
+1. Cash and Carry | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Cash and Carry is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cash-and-carry-west-bend/
+2. Cherry Pickin's | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Cherry Pickin's is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cherry-pickins-west-bend/
+3. West Bend Furniture | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | West Bend Furniture is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/west-bend-furniture-west-bend/
+4. Get It Now | Organic #4 | Pulse Score 42.4/100 (Unrated, #4 in city) | Get It Now is a furniture store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/get-it-now-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store west bend wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

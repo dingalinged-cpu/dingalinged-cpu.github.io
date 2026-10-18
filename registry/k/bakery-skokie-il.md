@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Skokie, IL is New York Bagles and Bialy (a bakery in Skokie, IL at 3556 Dempster Street, Skokie, IL 60076. Phone: +18476739388. Website: https://newyorkbagelandbialy.net/). 2 bakery businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Skokie, IL is New York Bagles and Bialy (a bakery in Skokie, IL at 3556 Dempster Street, Skokie, IL 60076. Phone: +18476739388. Website: https://newyorkbagelandbialy.net/). 2 bakery businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Skokie, IL?
 
 Also answers: bakery in Skokie, IL; bakery near me (Skokie, IL); best bakery Skokie, IL; top rated bakery Skokie, IL; affordable bakery Skokie, IL; emergency bakery Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New York Bagles and Bialy | trust 20.0 | New York Bagles and Bialy is a bakery in Skokie, IL at 3556 Dempster Street, Skokie, IL 60076. Phone: +18476739388. Website: https://newyorkbagelandbialy.net/. | https://dingalinged-cpu.github.io/registry/c/new-york-bagles-and-bialy-skokie/
-2. Breadsmith | trust 4.0 | Breadsmith is a bakery in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/breadsmith-skokie/
+1. New York Bagles and Bialy | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | New York Bagles and Bialy is a bakery in Skokie, IL at 3556 Dempster Street, Skokie, IL 60076. Phone: +18476739388. Website: https://newyorkbagelandbialy.net/. | https://dingalinged-cpu.github.io/registry/c/new-york-bagles-and-bialy-skokie/
+2. Breadsmith | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | Breadsmith is a bakery in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/breadsmith-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery skokie il | category: Events & weddings | industry benchmark: Personal Services

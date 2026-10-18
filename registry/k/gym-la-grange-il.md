@@ -1,16 +1,16 @@
-The top unpaid gym listing for La Grange, IL is Get In Shape For Women (a gym in La Grange, IL at 79 South La Grange Road, La Grange, IL 60525. Website: https://www.getinshapeforwomen.com/index.php/locations/studio-lagrange/). 5 gym businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for La Grange, IL is Get In Shape For Women (a gym in La Grange, IL at 79 South La Grange Road, La Grange, IL 60525. Website: https://www.getinshapeforwomen.com/index.php/locations/studio-lagrange/). 5 gym businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in La Grange, IL?
 
 Also answers: gym in La Grange, IL; gym near me (La Grange, IL); best gym La Grange, IL; top rated gym La Grange, IL; affordable gym La Grange, IL; emergency gym La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Get In Shape For Women | trust 10.0 | Get In Shape For Women is a gym in La Grange, IL at 79 South La Grange Road, La Grange, IL 60525. Website: https://www.getinshapeforwomen.com/index.php/locations/studio-lagrange/. | https://dingalinged-cpu.github.io/registry/c/get-in-shape-for-women-la-grange/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in La Grange, IL at 10 North Ashland Avenue, La Grange, IL 60525. Phone: +17087937003. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-la-grange/
-3. Base Fit | trust 6.0 | Base Fit is a gym in La Grange, IL. Website: https://basefitperformance.com/. | https://dingalinged-cpu.github.io/registry/c/base-fit-la-grange/
-4. Dailey Method | trust 0.0 | Dailey Method is a gym in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/dailey-method-la-grange/
-5. The Local Workout | trust 0.0 | The Local Workout is a gym in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/the-local-workout-la-grange/
+1. Get In Shape For Women | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Get In Shape For Women is a gym in La Grange, IL at 79 South La Grange Road, La Grange, IL 60525. Website: https://www.getinshapeforwomen.com/index.php/locations/studio-lagrange/. | https://dingalinged-cpu.github.io/registry/c/get-in-shape-for-women-la-grange/
+2. Base Fit | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Base Fit is a gym in La Grange, IL. Website: https://basefitperformance.com/. | https://dingalinged-cpu.github.io/registry/c/base-fit-la-grange/
+3. Dailey Method | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Dailey Method is a gym in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/dailey-method-la-grange/
+4. The Local Workout | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | The Local Workout is a gym in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/the-local-workout-la-grange/
+5. Orangetheory Fitness | Organic #5 | Pulse Score 47/100 (Building, #5 in city) | Orangetheory Fitness is a gym in La Grange, IL at 10 North Ashland Avenue, La Grange, IL 60525. Phone: +17087937003. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym la grange il | category: Fitness | industry benchmark: Health & Fitness

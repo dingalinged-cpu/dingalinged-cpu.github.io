@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Eagan, MN is Holiday Car Wash (a car wash in Eagan, MN at 4595 Nicols Road, Eagan, MN 55122). 5 car wash businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Eagan, MN is Paradise (a car wash in Eagan, MN). 5 car wash businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Eagan, MN?
 
 Also answers: car wash in Eagan, MN; car wash near me (Eagan, MN); best car wash Eagan, MN; top rated car wash Eagan, MN; affordable car wash Eagan, MN; emergency car wash Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Holiday Car Wash | trust 4.0 | Holiday Car Wash is a car wash in Eagan, MN at 4595 Nicols Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan/
-2. Holiday Car Wash | trust 0.0 | Holiday Car Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan-w527752172/
-3. Paradise | trust 0.0 | Paradise is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/paradise-eagan/
-4. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-eagan/
-5. Town Centre Car Wash | trust 0.0 | Town Centre Car Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/town-centre-car-wash-eagan/
+1. Paradise | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Paradise is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/paradise-eagan/
+2. Town Centre Car Wash | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Town Centre Car Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/town-centre-car-wash-eagan/
+3. Holiday Car Wash | Organic #3 | Pulse Score 47/100 (Unrated, #3 in city) | Holiday Car Wash is a car wash in Eagan, MN at 4595 Nicols Road, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan/
+4. Holiday Car Wash | Organic #4 | Pulse Score 43.7/100 (Unrated, #4 in city) | Holiday Car Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/holiday-car-wash-eagan-w527752172/
+5. Speedy Wash | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Speedy Wash is a car wash in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash eagan mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

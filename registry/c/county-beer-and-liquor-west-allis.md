@@ -13,7 +13,7 @@ County Beer & Liquor is a liquor store in West Allis, WI at 979 South 60th Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 56% of liquor stores in Milwaukee, #4 of 6 liquor stores in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Oak Lawn, IL at 5807 West 95th Street, Oak 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 86% of auto repair shops in Chicago, #8 of 9 auto repair shops in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Spec's Wines, Spirits & Finer Foods is a liquor store in Harris County, TX at 14
 - Website: https://specsonline.com/liquor-stores/houston/woodforest-020/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53/100 — Fair — top 75% of liquor stores in Houston, #29 of 37 liquor stores in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 69. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

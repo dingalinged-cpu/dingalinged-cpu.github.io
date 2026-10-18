@@ -13,7 +13,7 @@ Yasini Jewelers of Orland Park is a jewelry store in Orland Park, IL at 31 Orlan
 - Website: https://yasini.com/
 - Email: info@yasini.com
 - Opening hours (OSM syntax): Mo-Su 10:00-20:00
-- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Chicago, #1 of 5 jewelry stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

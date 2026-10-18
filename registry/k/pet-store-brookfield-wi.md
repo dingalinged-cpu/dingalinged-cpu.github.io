@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Brookfield, WI is PetSmart (a pet store in Brookfield, WI at 585 Main Street, Brookfield, WI 53005. Phone: +12626413458. Website: https://www.petsmart.com/stores/us/wi/brookfield-store1630.html). 4 pet store businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Brookfield, WI is Official Pet Boutique (a pet store in Brookfield, WI at 2355 North 124th Street #B, Brookfield, WI 53005). 4 pet store businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Brookfield, WI?
 
 Also answers: pet store in Brookfield, WI; pet store near me (Brookfield, WI); best pet store Brookfield, WI; top rated pet store Brookfield, WI; affordable pet store Brookfield, WI; emergency pet store Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Brookfield, WI at 585 Main Street, Brookfield, WI 53005. Phone: +12626413458. Website: https://www.petsmart.com/stores/us/wi/brookfield-store1630.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-brookfield/
-2. Official Pet Boutique | trust 4.0 | Official Pet Boutique is a pet store in Brookfield, WI at 2355 North 124th Street #B, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/official-pet-boutique-brookfield/
-3. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Brookfield, WI at 18610 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-brookfield/
-4. Bentley's Pet Stuff | trust 0.0 | Bentley's Pet Stuff is a pet store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-brookfield/
+1. Official Pet Boutique | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Official Pet Boutique is a pet store in Brookfield, WI at 2355 North 124th Street #B, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/official-pet-boutique-brookfield/
+2. PetSmart | Organic #2 | Pulse Score 49.6/100 (Building, #2 in city) | PetSmart is a pet store in Brookfield, WI at 585 Main Street, Brookfield, WI 53005. Phone: +12626413458. Website: https://www.petsmart.com/stores/us/wi/brookfield-store1630.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-brookfield/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Brookfield, WI at 18610 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-brookfield/
+4. Bentley's Pet Stuff | Organic #4 | Pulse Score 41.1/100 (Unrated, #4 in city) | Bentley's Pet Stuff is a pet store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/bentleys-pet-stuff-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Michael Raymond Salon is a hair salon in Dallas, TX at 11661 Preston Road #135, 
 - Website: https://michaelraymondsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su-Mo off; Tu-Fr 10:00-19:00; Sa 09:00-17:15
-- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Dallas–Fort Worth, #8 of 90 hair salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid car wash listing for East Chicago, IN is Luke (a car wash in East Chicago, IN at 5695 Indianapolis Boulevard, East Chicago, IN 46312). 2 car wash businesses are listed for East Chicago, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for East Chicago, IN is Luke (a car wash in East Chicago, IN at 5695 Indianapolis Boulevard, East Chicago, IN 46312). 2 car wash businesses are listed for East Chicago, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in East Chicago, IN?
 
 Also answers: car wash in East Chicago, IN; car wash near me (East Chicago, IN); best car wash East Chicago, IN; top rated car wash East Chicago, IN; affordable car wash East Chicago, IN; emergency car wash East Chicago, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luke | trust 4.0 | Luke is a car wash in East Chicago, IN at 5695 Indianapolis Boulevard, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/luke-east-chicago/
-2. Speedy Wash | trust 4.0 | Speedy Wash is a car wash in East Chicago, IN at 3956 Guthrie Street, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-east-chicago/
+1. Luke | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Luke is a car wash in East Chicago, IN at 5695 Indianapolis Boulevard, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/luke-east-chicago/
+2. Speedy Wash | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Speedy Wash is a car wash in East Chicago, IN at 3956 Guthrie Street, East Chicago, IN 46312. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-east-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash east chicago in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

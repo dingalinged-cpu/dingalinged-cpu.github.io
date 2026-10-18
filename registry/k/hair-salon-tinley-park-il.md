@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Tinley Park, IL is Lisa Thomas Salon (a hair salon in Tinley Park, IL at 15930 84th Avenue, Tinley Park, IL 60477. Phone: +17085324553. Website: https://lisathomassalon.com/). 3 hair salon businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Tinley Park, IL is Lisa Thomas Salon (a hair salon in Tinley Park, IL at 15930 84th Avenue, Tinley Park, IL 60477. Phone: +17085324553. Website: https://lisathomassalon.com/). 3 hair salon businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Tinley Park, IL?
 
 Also answers: hair salon in Tinley Park, IL; hair salon near me (Tinley Park, IL); best hair salon Tinley Park, IL; top rated hair salon Tinley Park, IL; affordable hair salon Tinley Park, IL; emergency hair salon Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lisa Thomas Salon | trust 16.0 | Lisa Thomas Salon is a hair salon in Tinley Park, IL at 15930 84th Avenue, Tinley Park, IL 60477. Phone: +17085324553. Website: https://lisathomassalon.com/. | https://dingalinged-cpu.github.io/registry/c/lisa-thomas-salon-tinley-park/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-tinley-park/
-3. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-tinley-park/
+1. Lisa Thomas Salon | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Lisa Thomas Salon is a hair salon in Tinley Park, IL at 15930 84th Avenue, Tinley Park, IL 60477. Phone: +17085324553. Website: https://lisathomassalon.com/. | https://dingalinged-cpu.github.io/registry/c/lisa-thomas-salon-tinley-park/
+2. Great Clips | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Great Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-tinley-park/
+3. Sport Clips | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Sport Clips is a hair salon in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon tinley park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

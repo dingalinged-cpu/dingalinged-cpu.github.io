@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Stoughton, WI is Conant Automotive, Inc. (an auto repair shop in Stoughton, WI at 1324 Hwy 151-138, Stoughton, WI 53589). 4 mechanic businesses are listed for Stoughton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Stoughton, WI is Conant Automotive, Inc. (an auto repair shop in Stoughton, WI at 1324 Hwy 151-138, Stoughton, WI 53589). 4 mechanic businesses are listed for Stoughton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Stoughton, WI?
 
 Also answers: mechanic in Stoughton, WI; mechanic near me (Stoughton, WI); best mechanic Stoughton, WI; top rated mechanic Stoughton, WI; affordable mechanic Stoughton, WI; emergency mechanic Stoughton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Conant Automotive, Inc. | trust 4.0 | Conant Automotive, Inc. is an auto repair shop in Stoughton, WI at 1324 Hwy 151-138, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/conant-automotive-inc-stoughton/
-2. Melton Service | trust 4.0 | Melton Service is an auto repair shop in Stoughton, WI at 435 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/melton-service-stoughton/
-3. Cenex | trust 0.0 | Cenex is an auto repair shop in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/cenex-stoughton/
-4. Stoughton Tire | trust 0.0 | Stoughton Tire is an auto repair shop in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/stoughton-tire-stoughton/
+1. Conant Automotive, Inc. | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Conant Automotive, Inc. is an auto repair shop in Stoughton, WI at 1324 Hwy 151-138, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/conant-automotive-inc-stoughton/
+2. Melton Service | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Melton Service is an auto repair shop in Stoughton, WI at 435 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/melton-service-stoughton/
+3. Cenex | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Cenex is an auto repair shop in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/cenex-stoughton/
+4. Stoughton Tire | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Stoughton Tire is an auto repair shop in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/stoughton-tire-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic stoughton wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

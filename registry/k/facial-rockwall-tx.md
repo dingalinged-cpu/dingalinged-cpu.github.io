@@ -1,14 +1,14 @@
-The top unpaid facial listing for Rockwall, TX is Bashful Beauty (a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/). 3 facial businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Rockwall, TX is Bashful Beauty (a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/). 3 facial businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Rockwall, TX?
 
 Also answers: facial in Rockwall, TX; facial near me (Rockwall, TX); best facial Rockwall, TX; top rated facial Rockwall, TX; affordable facial Rockwall, TX; emergency facial Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bashful Beauty | trust 16.0 | Bashful Beauty is a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/. | https://dingalinged-cpu.github.io/registry/c/bashful-beauty-rockwall/
-2. Mélange The Med Spa | trust 10.0 | Mélange The Med Spa is a skin care studio in Rockwall, TX at 955 Ralph Hall Parkway #107, Rockwall, TX 75032. Website: https://www.melangebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/m-lange-the-med-spa-rockwall/
-3. LaserAway | trust 4.0 | LaserAway is a skin care studio in Rockwall, TX at 991 East Interstate 30 #103, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/laseraway-rockwall/
+1. Bashful Beauty | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bashful Beauty is a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/. | https://dingalinged-cpu.github.io/registry/c/bashful-beauty-rockwall/
+2. Mélange The Med Spa | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Mélange The Med Spa is a skin care studio in Rockwall, TX at 955 Ralph Hall Parkway #107, Rockwall, TX 75032. Website: https://www.melangebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/m-lange-the-med-spa-rockwall/
+3. LaserAway | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | LaserAway is a skin care studio in Rockwall, TX at 991 East Interstate 30 #103, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/laseraway-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

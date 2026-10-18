@@ -13,7 +13,7 @@ Massey Automotove is an auto repair shop in Cobb County, GA at 2250 Lower Roswel
 - Website: https://masseyautomotive.com/
 - Email: hello@masseyautomotive.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 3% of auto repair shops in Atlanta, #2 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

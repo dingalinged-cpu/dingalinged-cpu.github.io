@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Irving, TX is Patten Title Company - DFW Metroplex (a real estate agency in Irving, TX at 106 Decker Drive #330, Irving, TX 75062. Phone: +14692028800. Website: https://patten.com/dfw-metroplex). 2 realtor businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Irving, TX is Patten Title Company - DFW Metroplex (a real estate agency in Irving, TX at 106 Decker Drive #330, Irving, TX 75062. Phone: +14692028800. Website: https://patten.com/dfw-metroplex). 2 realtor businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Irving, TX?
 
 Also answers: realtor in Irving, TX; realtor near me (Irving, TX); best realtor Irving, TX; top rated realtor Irving, TX; affordable realtor Irving, TX; emergency realtor Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Patten Title Company - DFW Metroplex | trust 20.0 | Patten Title Company - DFW Metroplex is a real estate agency in Irving, TX at 106 Decker Drive #330, Irving, TX 75062. Phone: +14692028800. Website: https://patten.com/dfw-metroplex. | https://dingalinged-cpu.github.io/registry/c/patten-title-company-dfw-metroplex-irving/
-2. Century 21 | trust 4.0 | Century 21 is a real estate agency in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/century-21-irving/
+1. Patten Title Company - DFW Metroplex | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Patten Title Company - DFW Metroplex is a real estate agency in Irving, TX at 106 Decker Drive #330, Irving, TX 75062. Phone: +14692028800. Website: https://patten.com/dfw-metroplex. | https://dingalinged-cpu.github.io/registry/c/patten-title-company-dfw-metroplex-irving/
+2. Century 21 | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | Century 21 is a real estate agency in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/century-21-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor irving tx | category: real_estate | industry benchmark: Real Estate

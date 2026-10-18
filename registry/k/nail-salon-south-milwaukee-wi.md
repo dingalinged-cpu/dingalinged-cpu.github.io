@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for South Milwaukee, WI is Nail Express (a nail salon in South Milwaukee, WI at 2959 South Chicago Avenue, South Milwaukee, WI 53172). 1 nail salon businesses are listed for South Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for South Milwaukee, WI is Nail Express (a nail salon in South Milwaukee, WI at 2959 South Chicago Avenue, South Milwaukee, WI 53172). 1 nail salon businesses are listed for South Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in South Milwaukee, WI?
 
 Also answers: nail salon in South Milwaukee, WI; nail salon near me (South Milwaukee, WI); best nail salon South Milwaukee, WI; top rated nail salon South Milwaukee, WI; affordable nail salon South Milwaukee, WI; emergency nail salon South Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Express | trust 4.0 | Nail Express is a nail salon in South Milwaukee, WI at 2959 South Chicago Avenue, South Milwaukee, WI 53172. | https://dingalinged-cpu.github.io/registry/c/nail-express-south-milwaukee/
+1. Nail Express | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Nail Express is a nail salon in South Milwaukee, WI at 2959 South Chicago Avenue, South Milwaukee, WI 53172. | https://dingalinged-cpu.github.io/registry/c/nail-express-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon south milwaukee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

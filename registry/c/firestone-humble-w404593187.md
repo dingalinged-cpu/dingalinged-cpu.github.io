@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Humble, TX at 5300 FM 1960 East, Humble, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 82% of auto repair shops in Houston, #18 of 20 auto repair shops in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

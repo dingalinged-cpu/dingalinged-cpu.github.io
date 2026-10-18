@@ -13,7 +13,7 @@ PetPeople is a pet store in Lake Forest, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 37.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.1/100 — Building — top 98% of pet stores in Chicago, #1 of 1 pet stores in Lake Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 38.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

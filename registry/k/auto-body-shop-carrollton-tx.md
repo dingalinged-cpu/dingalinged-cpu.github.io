@@ -1,13 +1,13 @@
-The top unpaid auto body shop listing for Carrollton, TX is Crash Champions (an auto repair shop in Carrollton, TX at 2309 Midway Rd, Carrollton, TX. Phone: +19724070275. Website: https://crashchampions.com/locations/crash-champions-carrollton). 2 auto body shop businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Carrollton, TX is Joe Hudson’s Collision Center (an auto repair shop in Carrollton, TX at 2253 Old Denton Road, Carrollton, TX. Website: https://jhcc.com/). 2 auto body shop businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Carrollton, TX?
 
 Also answers: auto body shop in Carrollton, TX; auto body shop near me (Carrollton, TX); best auto body shop Carrollton, TX; top rated auto body shop Carrollton, TX; affordable auto body shop Carrollton, TX; emergency auto body shop Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | trust 15.0 | Crash Champions is an auto repair shop in Carrollton, TX at 2309 Midway Rd, Carrollton, TX. Phone: +19724070275. Website: https://crashchampions.com/locations/crash-champions-carrollton. | https://dingalinged-cpu.github.io/registry/c/crash-champions-carrollton/
-2. Joe Hudson’s Collision Center | trust 9.0 | Joe Hudson’s Collision Center is an auto repair shop in Carrollton, TX at 2253 Old Denton Road, Carrollton, TX. Website: https://jhcc.com/. | https://dingalinged-cpu.github.io/registry/c/joe-hudson-s-collision-center-carrollton/
+1. Joe Hudson’s Collision Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #6 in city) | Joe Hudson’s Collision Center is an auto repair shop in Carrollton, TX at 2253 Old Denton Road, Carrollton, TX. Website: https://jhcc.com/. | https://dingalinged-cpu.github.io/registry/c/joe-hudson-s-collision-center-carrollton/
+2. Crash Champions | Organic #2 | Pulse Score 48.2/100 (Building, #14 in city) | Crash Champions is an auto repair shop in Carrollton, TX at 2309 Midway Rd, Carrollton, TX. Phone: +19724070275. Website: https://crashchampions.com/locations/crash-champions-carrollton. | https://dingalinged-cpu.github.io/registry/c/crash-champions-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop carrollton tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

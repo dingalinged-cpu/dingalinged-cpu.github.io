@@ -1,13 +1,13 @@
-The top unpaid roofer listing for Mckinney, TX is American Pride Roofing (a roofer in McKinney, TX at 5900 S. Lake Forest Drive ##300, McKinney, TX 75070. Phone: +19724356848. Website: https://americanprideroofing.com/plano-tx-roofing-company/). 2 roofer businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Mckinney, TX is Carsa Construction & Roofing LLC (a roofer in McKinney, TX at 1575 Heritage Drive ##100, McKinney, TX 75069. Phone: +14693064087. Website: https://carsaconstruction.com/mckinney-roofing/). 2 roofer businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Mckinney, TX?
 
 Also answers: roofer in Mckinney, TX; roofer near me (Mckinney, TX); best roofer Mckinney, TX; top rated roofer Mckinney, TX; affordable roofer Mckinney, TX; emergency roofer Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Pride Roofing | trust 20.0 | American Pride Roofing is a roofer in McKinney, TX at 5900 S. Lake Forest Drive ##300, McKinney, TX 75070. Phone: +19724356848. Website: https://americanprideroofing.com/plano-tx-roofing-company/. | https://dingalinged-cpu.github.io/registry/c/american-pride-roofing-mckinney/
-2. Carsa Construction & Roofing LLC | trust 20.0 | Carsa Construction & Roofing LLC is a roofer in McKinney, TX at 1575 Heritage Drive ##100, McKinney, TX 75069. Phone: +14693064087. Website: https://carsaconstruction.com/mckinney-roofing/. | https://dingalinged-cpu.github.io/registry/c/carsa-construction-and-roofing-llc-mckinney/
+1. Carsa Construction & Roofing LLC | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Carsa Construction & Roofing LLC is a roofer in McKinney, TX at 1575 Heritage Drive ##100, McKinney, TX 75069. Phone: +14693064087. Website: https://carsaconstruction.com/mckinney-roofing/. | https://dingalinged-cpu.github.io/registry/c/carsa-construction-and-roofing-llc-mckinney/
+2. American Pride Roofing | Organic #2 | Pulse Score 51/100 (Unrated, #2 in city) | American Pride Roofing is a roofer in McKinney, TX at 5900 S. Lake Forest Drive ##300, McKinney, TX 75070. Phone: +19724356848. Website: https://americanprideroofing.com/plano-tx-roofing-company/. | https://dingalinged-cpu.github.io/registry/c/american-pride-roofing-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer mckinney tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

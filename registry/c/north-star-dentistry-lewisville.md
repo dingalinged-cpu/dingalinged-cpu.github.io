@@ -13,7 +13,7 @@ North Star Dentistry is a dentist in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-19:00; Tu,Fr 08:30-17:30; We-Th 08:30-16:30; Sa 08:00-15:00
-- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 29% of dentists in Dallas–Fort Worth, #18 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 51.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

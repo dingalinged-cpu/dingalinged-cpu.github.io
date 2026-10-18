@@ -1,12 +1,12 @@
-The top unpaid tax preparation listing for Hedwig Village, TX is S Kathryn Kucera, CPA (a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/). 1 tax preparation businesses are listed for Hedwig Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Hedwig Village, TX is S Kathryn Kucera, CPA (a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/). 1 tax preparation businesses are listed for Hedwig Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Hedwig Village, TX?
 
 Also answers: tax preparation in Hedwig Village, TX; tax preparation near me (Hedwig Village, TX); best tax preparation Hedwig Village, TX; top rated tax preparation Hedwig Village, TX; affordable tax preparation Hedwig Village, TX; emergency tax preparation Hedwig Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. S Kathryn Kucera, CPA | trust 16.0 | S Kathryn Kucera, CPA is a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/. | https://dingalinged-cpu.github.io/registry/c/s-kathryn-kucera-cpa-houston/
+1. S Kathryn Kucera, CPA | Organic #1 | Pulse Score 63.1/100 (Unrated, #5 in city) | S Kathryn Kucera, CPA is a tax preparation service in Houston, TX at 9601 Katy Freeway, Houston, TX 77024. Phone: +17133055048. Website: https://kucera-cpa.com/. | https://dingalinged-cpu.github.io/registry/c/s-kathryn-kucera-cpa-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation hedwig village tx | category: Professional & financial services | industry benchmark: Finance & Insurance

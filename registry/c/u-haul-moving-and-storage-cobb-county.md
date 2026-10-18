@@ -13,7 +13,7 @@ U-Haul Moving & Storage is a moving company in Cobb County, GA at 2800 Canton Ro
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Marietta-GA-30066/777030/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 43% of moving companys in Atlanta, #1 of 3 moving companys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Arlington, TX is Potenxial by Sofy (a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/). 2 physical therapy businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Arlington, TX is Potenxial by Sofy (a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/). 2 physical therapy businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Arlington, TX?
 
 Also answers: physical therapy in Arlington, TX; physical therapy near me (Arlington, TX); best physical therapy Arlington, TX; top rated physical therapy Arlington, TX; affordable physical therapy Arlington, TX; emergency physical therapy Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Potenxial by Sofy | trust 20.0 | Potenxial by Sofy is a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/. | https://dingalinged-cpu.github.io/registry/c/potenxial-by-sofy-arlington/
-2. Athletico Physical Therapy | trust 16.0 | Athletico Physical Therapy is a physical therapy clinic in Arlington, TX at 2131 North Collins Street #411, Arlington, TX 76011. Phone: +16822824685. Website: https://www.athletico.com/locations/arlington-north/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-arlington/
+1. Potenxial by Sofy | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Potenxial by Sofy is a physical therapy clinic in Arlington, TX at 1402 Janann Avenue, Arlington, TX 76014. Phone: +18178993490. Website: https://potenxialbysofy.com/. | https://dingalinged-cpu.github.io/registry/c/potenxial-by-sofy-arlington/
+2. Athletico Physical Therapy | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Athletico Physical Therapy is a physical therapy clinic in Arlington, TX at 2131 North Collins Street #411, Arlington, TX 76011. Phone: +16822824685. Website: https://www.athletico.com/locations/arlington-north/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy arlington tx | category: Health & medical | industry benchmark: Physicians & Surgeons

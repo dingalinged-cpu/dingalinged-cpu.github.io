@@ -13,7 +13,7 @@ Element Gym is a yoga studio in Saint Paul, MN at 655 Fairview Avenue North, Sai
 - Website: https://www.elementgym.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 10:00-14:00
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 17% of yoga studios in Minneapolis–St. Paul, #3 of 7 yoga studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

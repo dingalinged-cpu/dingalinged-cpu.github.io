@@ -1,0 +1,24 @@
+St. Andrew's Center for Kids is a preschool in Omaha, NE.
+
+# St. Andrew's Center for Kids
+
+- Category: preschool
+- Services: preschool
+- Address: Omaha, NE
+- City: Omaha
+- State: NE
+- ZIP: n/a
+- Coordinates: 41.293808, -96.1492839
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 54.2/100 — Unrated (not enough evidence yet) — top 81% of preschools in Omaha, NE, #14 of 19 preschools in Omaha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 39.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/st-andrews-center-for-kids-omaha/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/st-andrews-center-for-kids-omaha.json
+- Source: OpenStreetMap https://www.openstreetmap.org/node/12434767213 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

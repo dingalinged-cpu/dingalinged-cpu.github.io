@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Elk Grove Village, IL is Doctors of Physical Therapy (a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007). 2 physical therapy businesses are listed for Elk Grove Village, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Elk Grove Village, IL is Doctors of Physical Therapy (a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007). 2 physical therapy businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Elk Grove Village, IL?
 
 Also answers: physical therapy in Elk Grove Village, IL; physical therapy near me (Elk Grove Village, IL); best physical therapy Elk Grove Village, IL; top rated physical therapy Elk Grove Village, IL; affordable physical therapy Elk Grove Village, IL; emergency physical therapy Elk Grove Village, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doctors of Physical Therapy | trust 4.0 | Doctors of Physical Therapy is a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-elk-grove-village/
-2. ATI Physical Therapy | trust 0.0 | ATI Physical Therapy is a physical therapy clinic in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-elk-grove-village/
+1. Doctors of Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | Doctors of Physical Therapy is a physical therapy clinic in Elk Grove Village, IL at 80 Biesterfield Road, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-elk-grove-village/
+2. ATI Physical Therapy | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | ATI Physical Therapy is a physical therapy clinic in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy elk grove village il | category: Health & medical | industry benchmark: Physicians & Surgeons

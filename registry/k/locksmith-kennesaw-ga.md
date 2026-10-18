@@ -1,12 +1,12 @@
-The top unpaid locksmith listing for Kennesaw, GA is Locksmith Kennesaw (a locksmith in Kennesaw, GA at 2651 Cobb Parkway, Kennesaw, GA 30152. Phone: +17707832202. Website: https://www.locksmithkennesaw.com/). 1 locksmith businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Kennesaw, GA is Locksmith Kennesaw (a locksmith in Kennesaw, GA at 2651 Cobb Parkway, Kennesaw, GA 30152. Phone: +17707832202. Website: https://www.locksmithkennesaw.com/). 1 locksmith businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Kennesaw, GA?
 
 Also answers: locksmith in Kennesaw, GA; locksmith near me (Kennesaw, GA); best locksmith Kennesaw, GA; top rated locksmith Kennesaw, GA; affordable locksmith Kennesaw, GA; emergency locksmith Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Locksmith Kennesaw | trust 20.0 | Locksmith Kennesaw is a locksmith in Kennesaw, GA at 2651 Cobb Parkway, Kennesaw, GA 30152. Phone: +17707832202. Website: https://www.locksmithkennesaw.com/. | https://dingalinged-cpu.github.io/registry/c/locksmith-kennesaw-kennesaw/
+1. Locksmith Kennesaw | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Locksmith Kennesaw is a locksmith in Kennesaw, GA at 2651 Cobb Parkway, Kennesaw, GA 30152. Phone: +17707832202. Website: https://www.locksmithkennesaw.com/. | https://dingalinged-cpu.github.io/registry/c/locksmith-kennesaw-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith kennesaw ga | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

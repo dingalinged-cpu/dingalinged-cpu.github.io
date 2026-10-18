@@ -13,7 +13,7 @@ Studio D Day Spa is a nail salon in Milwaukee, WI. Phone: +14142981529. Website:
 - Website: https://www.studiodspa.com/
 - Email: dglennstudiod@gmail.com
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa 09:00-18:00; Su 10:00-16:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 6% of nail salons in Milwaukee, #4 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

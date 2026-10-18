@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Brooklyn Park, MN is True Foundation Counseling Services (a therapy practice in Brooklyn Park, MN). 1 therapist businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Brooklyn Park, MN is True Foundation Counseling Services (a therapy practice in Brooklyn Park, MN). 1 therapist businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Brooklyn Park, MN?
 
 Also answers: therapist in Brooklyn Park, MN; therapist near me (Brooklyn Park, MN); best therapist Brooklyn Park, MN; top rated therapist Brooklyn Park, MN; affordable therapist Brooklyn Park, MN; emergency therapist Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. True Foundation Counseling Services | trust 0.0 | True Foundation Counseling Services is a therapy practice in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/true-foundation-counseling-services-brooklyn-park/
+1. True Foundation Counseling Services | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | True Foundation Counseling Services is a therapy practice in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/true-foundation-counseling-services-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist brooklyn park mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Waukesha, WI at 1400 Nike Drive, Waukesha, WI 5318
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.4/100 — Building — top 82% of thrift stores in Milwaukee, #2 of 3 thrift stores in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

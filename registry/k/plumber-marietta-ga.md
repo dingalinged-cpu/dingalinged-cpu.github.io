@@ -1,14 +1,14 @@
-The top unpaid plumber listing for Marietta, GA is Plumbers 4 Real LLC (a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/). 3 plumber businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Marietta, GA is Plumbers 4 Real LLC (a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/). 3 plumber businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Marietta, GA?
 
 Also answers: plumber in Marietta, GA; plumber near me (Marietta, GA); best plumber Marietta, GA; top rated plumber Marietta, GA; affordable plumber Marietta, GA; emergency plumber Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plumbers 4 Real LLC | trust 20.0 | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://dingalinged-cpu.github.io/registry/c/plumbers-4-real-llc-marietta/
-2. Pro Plumbing Services | trust 20.0 | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/pro-plumbing-services-marietta/
-3. Dixie Plumbing Specialties | trust 15.0 | Dixie Plumbing Specialties is a plumber in Marietta, GA at 1810 Lower Roswell Road Southeast, Marietta, GA. Phone: +17709738017. Website: https://dixieplumbingspecialties.com/. | https://dingalinged-cpu.github.io/registry/c/dixie-plumbing-specialties-marietta/
+1. Plumbers 4 Real LLC | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Plumbers 4 Real LLC is a plumber in Marietta, GA at 1540 Rosewood Circle Southeast, Marietta, GA 30067. Phone: +14048192137. Website: https://www.plumbers4real.com/. | https://dingalinged-cpu.github.io/registry/c/plumbers-4-real-llc-marietta/
+2. Pro Plumbing Services | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Pro Plumbing Services is a plumber in Marietta, GA at 4901 Olde Towne Pkwy Suite 100, Marietta, GA 30068. Phone: +16782344900. Website: https://proplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/pro-plumbing-services-marietta/
+3. Dixie Plumbing Specialties | Organic #3 | Pulse Score 59.2/100 (Fair, #3 in city) | Dixie Plumbing Specialties is a plumber in Marietta, GA at 1810 Lower Roswell Road Southeast, Marietta, GA. Phone: +17709738017. Website: https://dixieplumbingspecialties.com/. | https://dingalinged-cpu.github.io/registry/c/dixie-plumbing-specialties-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber marietta ga | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

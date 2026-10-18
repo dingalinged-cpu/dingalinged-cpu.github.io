@@ -13,7 +13,7 @@ Retaining Walls Chicago is a concrete contractor in Chicago, IL at 950 North Cal
 - Website: https://chicagoretainingwalls.com/
 - Email: hillaryrain283@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 13% of concrete contractors in Chicago, #1 of 4 concrete contractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

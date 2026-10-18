@@ -1,13 +1,13 @@
-The top unpaid funeral home listing for West Bend, WI is Phillip Funeral Home (a funeral home in West Bend, WI at 1420 West Paradise Drive, West Bend, WI 53095. Phone: +12623382050. Website: https://www.phillipfuneralhome.com/). 2 funeral home businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for West Bend, WI is Schmidt Funeral Home (a funeral home in West Bend, WI at 629 Cedar Street, West Bend, WI 53095. Phone: +12623342301. Website: https://schmidtfuneralhome.com/). 2 funeral home businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in West Bend, WI?
 
 Also answers: funeral home in West Bend, WI; funeral home near me (West Bend, WI); best funeral home West Bend, WI; top rated funeral home West Bend, WI; affordable funeral home West Bend, WI; emergency funeral home West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Phillip Funeral Home | trust 16.0 | Phillip Funeral Home is a funeral home in West Bend, WI at 1420 West Paradise Drive, West Bend, WI 53095. Phone: +12623382050. Website: https://www.phillipfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/phillip-funeral-home-west-bend/
-2. Schmidt Funeral Home | trust 16.0 | Schmidt Funeral Home is a funeral home in West Bend, WI at 629 Cedar Street, West Bend, WI 53095. Phone: +12623342301. Website: https://schmidtfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-home-west-bend/
+1. Schmidt Funeral Home | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Schmidt Funeral Home is a funeral home in West Bend, WI at 629 Cedar Street, West Bend, WI 53095. Phone: +12623342301. Website: https://schmidtfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-home-west-bend/
+2. Phillip Funeral Home | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Phillip Funeral Home is a funeral home in West Bend, WI at 1420 West Paradise Drive, West Bend, WI 53095. Phone: +12623382050. Website: https://www.phillipfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/phillip-funeral-home-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home west bend wi | category: Professional & financial services | industry benchmark: Finance & Insurance

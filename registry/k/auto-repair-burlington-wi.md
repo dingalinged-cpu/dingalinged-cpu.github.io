@@ -1,17 +1,17 @@
-The top unpaid auto repair listing for Burlington, WI is Lois Tire Shop & Auto Service (an auto repair shop in Burlington, WI at 916 Milwaukee Avenue, Burlington, WI 53105). 6 auto repair businesses are listed for Burlington, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Burlington, WI is Lois Tire Shop & Auto Service (an auto repair shop in Burlington, WI at 916 Milwaukee Avenue, Burlington, WI 53105). 6 auto repair businesses are listed for Burlington, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Burlington, WI?
 
 Also answers: auto repair in Burlington, WI; auto repair near me (Burlington, WI); best auto repair Burlington, WI; top rated auto repair Burlington, WI; affordable auto repair Burlington, WI; emergency auto repair Burlington, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lois Tire Shop & Auto Service | trust 4.0 | Lois Tire Shop & Auto Service is an auto repair shop in Burlington, WI at 916 Milwaukee Avenue, Burlington, WI 53105. | https://dingalinged-cpu.github.io/registry/c/lois-tire-shop-and-auto-service-burlington/
-2. B Towne Auto Service | trust 0.0 | B Towne Auto Service is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/b-towne-auto-service-burlington/
-3. Dan-Tone Garage | trust 0.0 | Dan-Tone Garage is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/dan-tone-garage-burlington/
-4. Firestone | trust 0.0 | Firestone is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/firestone-burlington/
-5. Lynch Chevy Quick Lube | trust 0.0 | Lynch Chevy Quick Lube is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/lynch-chevy-quick-lube-burlington/
-6. Merten's Service Center | trust 0.0 | Merten's Service Center is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/mertens-service-center-burlington/
+1. Lois Tire Shop & Auto Service | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Lois Tire Shop & Auto Service is an auto repair shop in Burlington, WI at 916 Milwaukee Avenue, Burlington, WI 53105. | https://dingalinged-cpu.github.io/registry/c/lois-tire-shop-and-auto-service-burlington/
+2. B Towne Auto Service | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | B Towne Auto Service is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/b-towne-auto-service-burlington/
+3. Dan-Tone Garage | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Dan-Tone Garage is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/dan-tone-garage-burlington/
+4. Lynch Chevy Quick Lube | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Lynch Chevy Quick Lube is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/lynch-chevy-quick-lube-burlington/
+5. Merten's Service Center | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | Merten's Service Center is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/mertens-service-center-burlington/
+6. Firestone | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Firestone is an auto repair shop in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/firestone-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair burlington wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

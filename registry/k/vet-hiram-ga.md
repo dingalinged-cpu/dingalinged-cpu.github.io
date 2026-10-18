@@ -1,13 +1,13 @@
-The top unpaid vet listing for Hiram, GA is Hiram Animal Hospital (a veterinarian in Hiram, GA). 2 vet businesses are listed for Hiram, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Hiram, GA is Hiram Animal Hospital (a veterinarian in Hiram, GA). 2 vet businesses are listed for Hiram, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Hiram, GA?
 
 Also answers: vet in Hiram, GA; vet near me (Hiram, GA); best vet Hiram, GA; top rated vet Hiram, GA; affordable vet Hiram, GA; emergency vet Hiram, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hiram Animal Hospital | trust 0.0 | Hiram Animal Hospital is a veterinarian in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/hiram-animal-hospital-hiram/
-2. The Ark Animal Hospital | trust 0.0 | The Ark Animal Hospital is a veterinarian in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/the-ark-animal-hospital-hiram/
+1. Hiram Animal Hospital | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Hiram Animal Hospital is a veterinarian in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/hiram-animal-hospital-hiram/
+2. The Ark Animal Hospital | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | The Ark Animal Hospital is a veterinarian in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/the-ark-animal-hospital-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet hiram ga | category: Pets | industry benchmark: Animals & Pets

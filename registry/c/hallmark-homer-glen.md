@@ -13,7 +13,7 @@ Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, 
 - Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00, Sa 10:00-18:00, Su 11:00-17:30
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 72% of gift shops in Chicago, #1 of 1 gift shops in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid facial listing for Southlake, TX is Esthetician Skin - Southlake (a skin care studio in Southlake, TX at 305 Miron Drive, Southlake, TX 76092. Phone: +18327955032. Website: https://estheticianskin.com/services/). 1 facial businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Southlake, TX is Esthetician Skin - Southlake (a skin care studio in Southlake, TX at 305 Miron Drive, Southlake, TX 76092. Phone: +18327955032. Website: https://estheticianskin.com/services/). 1 facial businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Southlake, TX?
 
 Also answers: facial in Southlake, TX; facial near me (Southlake, TX); best facial Southlake, TX; top rated facial Southlake, TX; affordable facial Southlake, TX; emergency facial Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Esthetician Skin - Southlake | trust 16.0 | Esthetician Skin - Southlake is a skin care studio in Southlake, TX at 305 Miron Drive, Southlake, TX 76092. Phone: +18327955032. Website: https://estheticianskin.com/services/. | https://dingalinged-cpu.github.io/registry/c/esthetician-skin-southlake-southlake/
+1. Esthetician Skin - Southlake | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Esthetician Skin - Southlake is a skin care studio in Southlake, TX at 305 Miron Drive, Southlake, TX 76092. Phone: +18327955032. Website: https://estheticianskin.com/services/. | https://dingalinged-cpu.github.io/registry/c/esthetician-skin-southlake-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial southlake tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

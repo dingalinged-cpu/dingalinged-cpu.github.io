@@ -13,7 +13,7 @@ Nella Consulting Inc is a tax preparation service in Glenview, IL at 755 Milwauk
 - Website: https://nellatax.com/
 - Email: nellaconsulting@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 3% of tax preparation services in Chicago, #1 of 2 tax preparation services in Glenview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

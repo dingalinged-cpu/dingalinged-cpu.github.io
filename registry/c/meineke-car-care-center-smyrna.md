@@ -13,7 +13,7 @@ Meineke Car Care Center is an auto repair shop in Smyrna, GA at 3218 South Cobb 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 38% of auto repair shops in Atlanta, #8 of 13 auto repair shops in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

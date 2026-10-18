@@ -13,7 +13,7 @@ Spec's is a liquor store in Sachse, TX at 8110 South State Highway 78, Sachse, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 92% of liquor stores in Dallas–Fort Worth, #3 of 3 liquor stores in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

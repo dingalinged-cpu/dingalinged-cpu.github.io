@@ -13,7 +13,7 @@ Advanced Chiropractic Relief is a chiropractor in Houston, TX at 363 North Sam H
 - Website: https://advancedhoustonchiropractor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00, Fr-Sa 09:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Houston, #2 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,15 +1,15 @@
-The top unpaid tire shop listing for Conroe, TX is Discount Tire (a tire shop in Conroe, TX at 1001 West Cartwright Road, Conroe, TX 77301. Phone: +19367563432). 4 tire shop businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Conroe, TX is Express Tire (a tire shop in Conroe, TX at 11375 State Highway 105 East, Conroe, TX 77301). 4 tire shop businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Conroe, TX?
 
 Also answers: tire shop in Conroe, TX; tire shop near me (Conroe, TX); best tire shop Conroe, TX; top rated tire shop Conroe, TX; affordable tire shop Conroe, TX; emergency tire shop Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Conroe, TX at 1001 West Cartwright Road, Conroe, TX 77301. Phone: +19367563432. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe/
-2. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Conroe, TX at 1538 Interstate 45 South, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767740597/
-3. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Conroe, TX at 2245 Stoneside Road, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767809021/
-4. Express Tire | trust 4.0 | Express Tire is a tire shop in Conroe, TX at 11375 State Highway 105 East, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/express-tire-conroe/
+1. Express Tire | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Express Tire is a tire shop in Conroe, TX at 11375 State Highway 105 East, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/express-tire-conroe/
+2. Discount Tire | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Discount Tire is a tire shop in Conroe, TX at 1001 West Cartwright Road, Conroe, TX 77301. Phone: +19367563432. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe/
+3. Discount Tire | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Discount Tire is a tire shop in Conroe, TX at 1538 Interstate 45 South, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767740597/
+4. Discount Tire | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Discount Tire is a tire shop in Conroe, TX at 2245 Stoneside Road, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/discount-tire-conroe-w767809021/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop conroe tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

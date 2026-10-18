@@ -13,7 +13,7 @@ Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfie
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 62% of lawyers in Milwaukee, #1 of 4 lawyers in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 43.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

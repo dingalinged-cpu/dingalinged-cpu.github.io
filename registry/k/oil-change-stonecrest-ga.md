@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Stonecrest, GA is A&R Auto and Emission LLC (an auto repair shop in Stonecrest, GA at 3207 Garden Glade Lane, Stonecrest, GA 30038. Phone: +16785981082. Website: https://anrautoandemissions.com/services). 1 oil change businesses are listed for Stonecrest, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Stonecrest, GA is A&R Auto and Emission LLC (an auto repair shop in Stonecrest, GA at 3207 Garden Glade Lane, Stonecrest, GA 30038. Phone: +16785981082. Website: https://anrautoandemissions.com/services). 1 oil change businesses are listed for Stonecrest, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Stonecrest, GA?
 
 Also answers: oil change in Stonecrest, GA; oil change near me (Stonecrest, GA); best oil change Stonecrest, GA; top rated oil change Stonecrest, GA; affordable oil change Stonecrest, GA; emergency oil change Stonecrest, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A&R Auto and Emission LLC | trust 20.0 | A&R Auto and Emission LLC is an auto repair shop in Stonecrest, GA at 3207 Garden Glade Lane, Stonecrest, GA 30038. Phone: +16785981082. Website: https://anrautoandemissions.com/services. | https://dingalinged-cpu.github.io/registry/c/a-and-r-auto-and-emission-llc-stonecrest/
+1. A&R Auto and Emission LLC | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | A&R Auto and Emission LLC is an auto repair shop in Stonecrest, GA at 3207 Garden Glade Lane, Stonecrest, GA 30038. Phone: +16785981082. Website: https://anrautoandemissions.com/services. | https://dingalinged-cpu.github.io/registry/c/a-and-r-auto-and-emission-llc-stonecrest/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change stonecrest ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

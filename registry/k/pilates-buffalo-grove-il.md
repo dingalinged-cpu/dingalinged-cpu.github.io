@@ -1,12 +1,12 @@
-The top unpaid pilates listing for Buffalo Grove, IL is Solidcore (a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Buffalo Grove, IL 60089. Phone: +13125740975. Website: https://solidcore.co/). 1 pilates businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Buffalo Grove, IL is Solidcore (a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Buffalo Grove, IL 60089. Phone: +13125740975. Website: https://solidcore.co/). 1 pilates businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Buffalo Grove, IL?
 
 Also answers: pilates in Buffalo Grove, IL; pilates near me (Buffalo Grove, IL); best pilates Buffalo Grove, IL; top rated pilates Buffalo Grove, IL; affordable pilates Buffalo Grove, IL; emergency pilates Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Solidcore | trust 16.0 | Solidcore is a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Buffalo Grove, IL 60089. Phone: +13125740975. Website: https://solidcore.co/. | https://dingalinged-cpu.github.io/registry/c/solidcore-buffalo-grove/
+1. Solidcore | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Solidcore is a pilates studio in Buffalo Grove, IL at 1561 Deerfield Parkway, Buffalo Grove, IL 60089. Phone: +13125740975. Website: https://solidcore.co/. | https://dingalinged-cpu.github.io/registry/c/solidcore-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates buffalo grove il | category: Fitness | industry benchmark: Health & Fitness

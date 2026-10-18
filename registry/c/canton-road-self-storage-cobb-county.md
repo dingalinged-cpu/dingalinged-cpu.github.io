@@ -13,7 +13,7 @@ Canton Road Self Storage is a self-storage facility in Cobb County, GA at 4755 C
 - Website: https://cantonrdss.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 2% of self-storage facilitys in Atlanta, #2 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

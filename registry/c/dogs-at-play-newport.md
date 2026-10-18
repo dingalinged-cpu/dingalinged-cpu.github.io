@@ -13,7 +13,7 @@ Dogs at Play! is a dog boarding facility in Newport, MN at 1716 Hastings Avenue,
 - Website: https://www.dogsatplay.biz/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 44% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 1 dog boarding facilitys in Newport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

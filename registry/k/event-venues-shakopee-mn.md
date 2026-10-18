@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Shakopee, MN is Turtle's 1890 Social Centre (an event venue in Shakopee, MN at 112 Lewis Street South, Shakopee, MN 55379. Website: https://www.tsc1890.com/). 2 event venues businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Shakopee, MN is Turtle's 1890 Social Centre (an event venue in Shakopee, MN at 112 Lewis Street South, Shakopee, MN 55379. Website: https://www.tsc1890.com/). 2 event venues businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Shakopee, MN?
 
 Also answers: event venues in Shakopee, MN; event venues near me (Shakopee, MN); best event venues Shakopee, MN; top rated event venues Shakopee, MN; affordable event venues Shakopee, MN; emergency event venues Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Turtle's 1890 Social Centre | trust 10.0 | Turtle's 1890 Social Centre is an event venue in Shakopee, MN at 112 Lewis Street South, Shakopee, MN 55379. Website: https://www.tsc1890.com/. | https://dingalinged-cpu.github.io/registry/c/turtles-1890-social-centre-shakopee/
-2. Youth Building at Lions Park | trust 10.0 | Youth Building at Lions Park is an event venue in Shakopee, MN at 1099 Adams Street South, Shakopee, MN 55379. Website: https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building. | https://dingalinged-cpu.github.io/registry/c/youth-building-at-lions-park-shakopee/
+1. Turtle's 1890 Social Centre | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Turtle's 1890 Social Centre is an event venue in Shakopee, MN at 112 Lewis Street South, Shakopee, MN 55379. Website: https://www.tsc1890.com/. | https://dingalinged-cpu.github.io/registry/c/turtles-1890-social-centre-shakopee/
+2. Youth Building at Lions Park | Organic #2 | Pulse Score 56.8/100 (Fair, #2 in city) | Youth Building at Lions Park is an event venue in Shakopee, MN at 1099 Adams Street South, Shakopee, MN 55379. Website: https://www.shakopeemn.gov/recreation/recreation-facilities/youth-building. | https://dingalinged-cpu.github.io/registry/c/youth-building-at-lions-park-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues shakopee mn | category: Events & weddings | industry benchmark: Personal Services

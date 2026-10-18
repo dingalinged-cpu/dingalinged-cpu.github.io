@@ -1,14 +1,14 @@
-The top unpaid brake repair listing for Dallas, TX is Bengal Automotive (an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/). 3 brake repair businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Dallas, TX is Bengal Automotive (an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/). 3 brake repair businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Dallas, TX?
 
 Also answers: brake repair in Dallas, TX; brake repair near me (Dallas, TX); best brake repair Dallas, TX; top rated brake repair Dallas, TX; affordable brake repair Dallas, TX; emergency brake repair Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bengal Automotive | trust 20.0 | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
-2. Brakes Plus | trust 14.0 | Brakes Plus is an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, TX 75254. Website: https://www.brakesplus.com/stores/dallas/tx/0341/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-dallas/
-3. Sabina's Auto Repair | trust 6.0 | Sabina's Auto Repair is an auto repair shop in Dallas, TX. Phone: +12146348112. | https://dingalinged-cpu.github.io/registry/c/sabinas-auto-repair-dallas/
+1. Bengal Automotive | Organic #1 | Pulse Score 62.6/100 (Unrated, #6 in city) | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
+2. Sabina's Auto Repair | Organic #2 | Pulse Score 59.5/100 (Unrated, #21 in city) | Sabina's Auto Repair is an auto repair shop in Dallas, TX. Phone: +12146348112. | https://dingalinged-cpu.github.io/registry/c/sabinas-auto-repair-dallas/
+3. Brakes Plus | Organic #3 | Pulse Score 47.9/100 (Building, #89 in city) | Brakes Plus is an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, TX 75254. Website: https://www.brakesplus.com/stores/dallas/tx/0341/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

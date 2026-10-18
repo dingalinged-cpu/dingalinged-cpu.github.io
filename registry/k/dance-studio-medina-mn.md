@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Medina, MN is Medina Entertainment Center (a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/). 1 dance studio businesses are listed for Medina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Medina, MN is Medina Entertainment Center (a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/). 1 dance studio businesses are listed for Medina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Medina, MN?
 
 Also answers: dance studio in Medina, MN; dance studio near me (Medina, MN); best dance studio Medina, MN; top rated dance studio Medina, MN; affordable dance studio Medina, MN; emergency dance studio Medina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medina Entertainment Center | trust 6.0 | Medina Entertainment Center is a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/. | https://dingalinged-cpu.github.io/registry/c/medina-entertainment-center-medina/
+1. Medina Entertainment Center | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Medina Entertainment Center is a dance studio in Medina, MN. Website: https://www.medinaentertainment.com/. | https://dingalinged-cpu.github.io/registry/c/medina-entertainment-center-medina/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio medina mn | category: Fitness | industry benchmark: Health & Fitness

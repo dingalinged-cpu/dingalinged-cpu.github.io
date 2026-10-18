@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Wilmette, IL is Heart Certified Auto Care (an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/). 4 mechanic businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Wilmette, IL is Heart Certified Auto Care (an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/). 4 mechanic businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Wilmette, IL?
 
 Also answers: mechanic in Wilmette, IL; mechanic near me (Wilmette, IL); best mechanic Wilmette, IL; top rated mechanic Wilmette, IL; affordable mechanic Wilmette, IL; emergency mechanic Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heart Certified Auto Care | trust 10.0 | Heart Certified Auto Care is an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/. | https://dingalinged-cpu.github.io/registry/c/heart-certified-auto-care-wilmette/
-2. Hong King Auto Service | trust 10.0 | Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenue, Wilmette, IL 60091. Website: https://www.hongkongautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/hong-king-auto-service-wilmette/
-3. Shawnee Service Center | trust 10.0 | Shawnee Service Center is an auto repair shop in Wilmette, IL at 332 Linden Avenue, Wilmette, IL 60091. Website: https://www.shawneeservicectr.com/. | https://dingalinged-cpu.github.io/registry/c/shawnee-service-center-wilmette/
-4. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Wilmette, IL at 1115 Green Bay Road, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wilmette/
+1. Heart Certified Auto Care | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Heart Certified Auto Care is an auto repair shop in Wilmette, IL at 1201 Green Bay Road, Wilmette, IL 60091. Website: https://heartautocare.com/locations/wilmette/. | https://dingalinged-cpu.github.io/registry/c/heart-certified-auto-care-wilmette/
+2. Hong King Auto Service | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Hong King Auto Service is an auto repair shop in Wilmette, IL at 3500 Lake Avenue, Wilmette, IL 60091. Website: https://www.hongkongautoservice.com/. | https://dingalinged-cpu.github.io/registry/c/hong-king-auto-service-wilmette/
+3. Shawnee Service Center | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Shawnee Service Center is an auto repair shop in Wilmette, IL at 332 Linden Avenue, Wilmette, IL 60091. Website: https://www.shawneeservicectr.com/. | https://dingalinged-cpu.github.io/registry/c/shawnee-service-center-wilmette/
+4. Jiffy Lube | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Wilmette, IL at 1115 Green Bay Road, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic wilmette il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

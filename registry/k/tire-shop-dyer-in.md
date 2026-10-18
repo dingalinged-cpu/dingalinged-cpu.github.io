@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Dyer, IN is Express Oil Change & Tire Engineers (a tire shop in Dyer, IN at 1339 Joliet Street, Dyer, IN 46311. Phone: +12194407283. Website: https://www.expressoil.com/stores/dyer/in/1700/). 1 tire shop businesses are listed for Dyer, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Dyer, IN is Express Oil Change & Tire Engineers (a tire shop in Dyer, IN at 1339 Joliet Street, Dyer, IN 46311. Phone: +12194407283. Website: https://www.expressoil.com/stores/dyer/in/1700/). 1 tire shop businesses are listed for Dyer, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Dyer, IN?
 
 Also answers: tire shop in Dyer, IN; tire shop near me (Dyer, IN); best tire shop Dyer, IN; top rated tire shop Dyer, IN; affordable tire shop Dyer, IN; emergency tire shop Dyer, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Dyer, IN at 1339 Joliet Street, Dyer, IN 46311. Phone: +12194407283. Website: https://www.expressoil.com/stores/dyer/in/1700/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-dyer/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Dyer, IN at 1339 Joliet Street, Dyer, IN 46311. Phone: +12194407283. Website: https://www.expressoil.com/stores/dyer/in/1700/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-dyer/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop dyer in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

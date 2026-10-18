@@ -13,7 +13,7 @@ Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 
 - Website: https://www.danadadental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We 11:00-18:00; Tu 08:00-18:00; Th 09:00-18:00; Sa 08:00-13:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of dentists in Chicago, #1 of 6 dentists in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

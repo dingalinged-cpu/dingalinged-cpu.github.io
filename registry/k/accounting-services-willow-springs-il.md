@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Willow Springs, IL is Tax Stitch (an accountant in Willow Springs, IL at 8381 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.taxstitch.com/). 1 accounting services businesses are listed for Willow Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Willow Springs, IL is Tax Stitch (an accountant in Willow Springs, IL at 8381 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.taxstitch.com/). 1 accounting services businesses are listed for Willow Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Willow Springs, IL?
 
 Also answers: accounting services in Willow Springs, IL; accounting services near me (Willow Springs, IL); best accounting services Willow Springs, IL; top rated accounting services Willow Springs, IL; affordable accounting services Willow Springs, IL; emergency accounting services Willow Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tax Stitch | trust 10.0 | Tax Stitch is an accountant in Willow Springs, IL at 8381 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.taxstitch.com/. | https://dingalinged-cpu.github.io/registry/c/tax-stitch-willow-springs/
+1. Tax Stitch | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Tax Stitch is an accountant in Willow Springs, IL at 8381 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.taxstitch.com/. | https://dingalinged-cpu.github.io/registry/c/tax-stitch-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services willow springs il | category: professional_accounting | industry benchmark: Business Services

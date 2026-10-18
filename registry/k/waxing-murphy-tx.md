@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Murphy, TX is Thread Salon (a waxing salon in Murphy, TX. Phone: +19724421248). 2 waxing businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Murphy, TX is Thread Salon (a waxing salon in Murphy, TX. Phone: +19724421248). 2 waxing businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Murphy, TX?
 
 Also answers: waxing in Murphy, TX; waxing near me (Murphy, TX); best waxing Murphy, TX; top rated waxing Murphy, TX; affordable waxing Murphy, TX; emergency waxing Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thread Salon | trust 10.0 | Thread Salon is a waxing salon in Murphy, TX. Phone: +19724421248. | https://dingalinged-cpu.github.io/registry/c/thread-salon-murphy/
-2. Nail Spa by heather | trust 4.0 | Nail Spa by heather is a waxing salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/nail-spa-by-heather-murphy/
+1. Thread Salon | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Thread Salon is a waxing salon in Murphy, TX. Phone: +19724421248. | https://dingalinged-cpu.github.io/registry/c/thread-salon-murphy/
+2. Nail Spa by heather | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Nail Spa by heather is a waxing salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/nail-spa-by-heather-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing murphy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

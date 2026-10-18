@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Haltom City, TX is Cubicle Gurus (a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/). 1 furniture store businesses are listed for Haltom City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Haltom City, TX is Cubicle Gurus (a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/). 1 furniture store businesses are listed for Haltom City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Haltom City, TX?
 
 Also answers: furniture store in Haltom City, TX; furniture store near me (Haltom City, TX); best furniture store Haltom City, TX; top rated furniture store Haltom City, TX; affordable furniture store Haltom City, TX; emergency furniture store Haltom City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cubicle Gurus | trust 20.0 | Cubicle Gurus is a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/. | https://dingalinged-cpu.github.io/registry/c/cubicle-gurus-haltom-city/
+1. Cubicle Gurus | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Cubicle Gurus is a furniture store in Haltom City, TX at 6400 Midway Road, Haltom City, TX 76117. Phone: +18178795851. Website: https://cubiclegurus.com/. | https://dingalinged-cpu.github.io/registry/c/cubicle-gurus-haltom-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store haltom city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

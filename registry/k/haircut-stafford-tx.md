@@ -1,16 +1,16 @@
-The top unpaid haircut listing for Stafford, TX is A1 Braids and Beauty Products (a hair salon in Stafford, TX at 504 Murphy Road #M, Stafford, TX 77477. Phone: +12812082724). 5 haircut businesses are listed for Stafford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Stafford, TX is A1 Braids and Beauty Products (a hair salon in Stafford, TX at 504 Murphy Road #M, Stafford, TX 77477. Phone: +12812082724). 5 haircut businesses are listed for Stafford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Stafford, TX?
 
 Also answers: haircut in Stafford, TX; haircut near me (Stafford, TX); best haircut Stafford, TX; top rated haircut Stafford, TX; affordable haircut Stafford, TX; emergency haircut Stafford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A1 Braids and Beauty Products | trust 14.0 | A1 Braids and Beauty Products is a hair salon in Stafford, TX at 504 Murphy Road #M, Stafford, TX 77477. Phone: +12812082724. | https://dingalinged-cpu.github.io/registry/c/a1-braids-and-beauty-products-stafford/
-2. Pdabarber | trust 8.0 | Pdabarber is a barber shop in Stafford, TX at 2339 South Main Street, Stafford, TX 77477. | https://dingalinged-cpu.github.io/registry/c/pdabarber-stafford/
-3. Adriana's Beauty Salon | trust 0.0 | Adriana's Beauty Salon is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/adrianas-beauty-salon-stafford/
-4. Hair Repair Shop | trust 0.0 | Hair Repair Shop is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/hair-repair-shop-stafford/
-5. Supercuts | trust 0.0 | Supercuts is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-stafford/
+1. A1 Braids and Beauty Products | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | A1 Braids and Beauty Products is a hair salon in Stafford, TX at 504 Murphy Road #M, Stafford, TX 77477. Phone: +12812082724. | https://dingalinged-cpu.github.io/registry/c/a1-braids-and-beauty-products-stafford/
+2. Pdabarber | Organic #2 | Pulse Score 59.6/100 (Unrated, #1 in city) | Pdabarber is a barber shop in Stafford, TX at 2339 South Main Street, Stafford, TX 77477. | https://dingalinged-cpu.github.io/registry/c/pdabarber-stafford/
+3. Adriana's Beauty Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | Adriana's Beauty Salon is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/adrianas-beauty-salon-stafford/
+4. Hair Repair Shop | Organic #4 | Pulse Score 54.8/100 (Unrated, #3 in city) | Hair Repair Shop is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/hair-repair-shop-stafford/
+5. Supercuts | Organic #5 | Pulse Score 42.7/100 (Building, #4 in city) | Supercuts is a hair salon in Stafford, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut stafford tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

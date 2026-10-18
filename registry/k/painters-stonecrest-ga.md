@@ -1,12 +1,12 @@
-The top unpaid painters listing for Stonecrest, GA is A Plus Painting & Remodeling (a painting contractor in Stonecrest, GA at 6108 Walden Brook Drive, Stonecrest, GA 30038. Phone: +14709291076. Website: https://a-plus-painting-and-remodeling-llc.com/). 1 painters businesses are listed for Stonecrest, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Stonecrest, GA is A Plus Painting & Remodeling (a painting contractor in Stonecrest, GA at 6108 Walden Brook Drive, Stonecrest, GA 30038. Phone: +14709291076. Website: https://a-plus-painting-and-remodeling-llc.com/). 1 painters businesses are listed for Stonecrest, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Stonecrest, GA?
 
 Also answers: painters in Stonecrest, GA; painters near me (Stonecrest, GA); best painters Stonecrest, GA; top rated painters Stonecrest, GA; affordable painters Stonecrest, GA; emergency painters Stonecrest, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Plus Painting & Remodeling | trust 20.0 | A Plus Painting & Remodeling is a painting contractor in Stonecrest, GA at 6108 Walden Brook Drive, Stonecrest, GA 30038. Phone: +14709291076. Website: https://a-plus-painting-and-remodeling-llc.com/. | https://dingalinged-cpu.github.io/registry/c/a-plus-painting-and-remodeling-stonecrest/
+1. A Plus Painting & Remodeling | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | A Plus Painting & Remodeling is a painting contractor in Stonecrest, GA at 6108 Walden Brook Drive, Stonecrest, GA 30038. Phone: +14709291076. Website: https://a-plus-painting-and-remodeling-llc.com/. | https://dingalinged-cpu.github.io/registry/c/a-plus-painting-and-remodeling-stonecrest/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters stonecrest ga | category: Home services - Painting | industry benchmark: Home & Home Improvement

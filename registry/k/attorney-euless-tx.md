@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Euless, TX is 1-800 The Wolf Accident Attorneys (a lawyer in Euless, TX at 1601 West Airport Freeway #3rd floor, Euless, TX. Phone: +19727151701. Website: https://1800thewolf.com/). 1 attorney businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Euless, TX is 1-800 The Wolf Accident Attorneys (a lawyer in Euless, TX at 1601 West Airport Freeway #3rd floor, Euless, TX. Phone: +19727151701. Website: https://1800thewolf.com/). 1 attorney businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Euless, TX?
 
 Also answers: attorney in Euless, TX; attorney near me (Euless, TX); best attorney Euless, TX; top rated attorney Euless, TX; affordable attorney Euless, TX; emergency attorney Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1-800 The Wolf Accident Attorneys | trust 19.0 | 1-800 The Wolf Accident Attorneys is a lawyer in Euless, TX at 1601 West Airport Freeway #3rd floor, Euless, TX. Phone: +19727151701. Website: https://1800thewolf.com/. | https://dingalinged-cpu.github.io/registry/c/1-800-the-wolf-accident-attorneys-euless/
+1. 1-800 The Wolf Accident Attorneys | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | 1-800 The Wolf Accident Attorneys is a lawyer in Euless, TX at 1601 West Airport Freeway #3rd floor, Euless, TX. Phone: +19727151701. Website: https://1800thewolf.com/. | https://dingalinged-cpu.github.io/registry/c/1-800-the-wolf-accident-attorneys-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney euless tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

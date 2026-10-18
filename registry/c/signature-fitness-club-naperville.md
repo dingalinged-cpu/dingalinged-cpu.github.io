@@ -13,7 +13,7 @@ Signature Fitness Club is a gym in Naperville, IL at 1531 North Aurora Road, Nap
 - Website: https://signaturefitnessclub.fitnessbydesign.online/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-24:00, Sa-Su 06:00-21:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 3% of gyms in Chicago, #1 of 14 gyms in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

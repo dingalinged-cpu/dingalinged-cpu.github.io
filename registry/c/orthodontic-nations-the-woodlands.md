@@ -13,7 +13,7 @@ Orthodontic Nations is a dentist in The Woodlands, TX at 3091 College Park Dr #S
 - Website: https://www.orthodonticnations.com/
 - Email: woodlandssmile@orthodonticnations.com
 - Opening hours (OSM syntax): Tu 09:30-13:30; We,Fr 08:00-17:00; Sa 08:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 6% of dentists in Houston, #1 of 13 dentists in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

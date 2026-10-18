@@ -1,20 +1,20 @@
-The top unpaid nail salon listing for Katy, TX is Enchanted Escape Nail Spa (a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/). 9 nail salon businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Katy, TX is Enchanted Escape Nail Spa (a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/). 9 nail salon businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Katy, TX?
 
 Also answers: nail salon in Katy, TX; nail salon near me (Katy, TX); best nail salon Katy, TX; top rated nail salon Katy, TX; affordable nail salon Katy, TX; emergency nail salon Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Enchanted Escape Nail Spa | trust 20.0 | Enchanted Escape Nail Spa is a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/. | https://dingalinged-cpu.github.io/registry/c/enchanted-escape-nail-spa-katy/
-2. Beauty Nail Bar | trust 8.0 | Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, TX 77084. | https://dingalinged-cpu.github.io/registry/c/beauty-nail-bar-katy/
-3. Majestic Nail Bar | trust 4.0 | Majestic Nail Bar is a nail salon in Katy, TX at 26750 FM 1093 #100, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/majestic-nail-bar-katy/
-4. Sola Salons | trust 4.0 | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sola-salons-katy/
-5. Sunterra Nails & Spa | trust 4.0 | Sunterra Nails & Spa is a nail salon in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/sunterra-nails-and-spa-katy/
-6. Tracy Nails & Spa | trust 3.0 | Tracy Nails & Spa is a nail salon in Katy, TX at 829 South Mason Road #236, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/tracy-nails-and-spa-katy/
-7. Azora Nails & Spa | trust 0.0 | Azora Nails & Spa is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/azora-nails-and-spa-katy/
-8. SH Salon | trust 0.0 | SH Salon is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sh-salon-katy/
-9. Z Nails | trust 0.0 | Z Nails is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/z-nails-katy/
+1. Enchanted Escape Nail Spa | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Enchanted Escape Nail Spa is a nail salon in Katy, TX at 9615 Spring Green Blvd #400, Katy, TX 77494. Phone: +12816653389. Website: https://enchantedescapenailspa.com/. | https://dingalinged-cpu.github.io/registry/c/enchanted-escape-nail-spa-katy/
+2. Beauty Nail Bar | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Beauty Nail Bar is a nail salon in Katy, TX at 1330 North Fry Road #1330, Katy, TX 77084. | https://dingalinged-cpu.github.io/registry/c/beauty-nail-bar-katy/
+3. Tracy Nails & Spa | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Tracy Nails & Spa is a nail salon in Katy, TX at 829 South Mason Road #236, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/tracy-nails-and-spa-katy/
+4. Majestic Nail Bar | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Majestic Nail Bar is a nail salon in Katy, TX at 26750 FM 1093 #100, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/majestic-nail-bar-katy/
+5. Sunterra Nails & Spa | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Sunterra Nails & Spa is a nail salon in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/sunterra-nails-and-spa-katy/
+6. Azora Nails & Spa | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Azora Nails & Spa is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/azora-nails-and-spa-katy/
+7. Z Nails | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Z Nails is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/z-nails-katy/
+8. Sola Salons | Organic #8 | Pulse Score 47.1/100 (Building, #8 in city) | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sola-salons-katy/
+9. SH Salon | Organic #9 | Pulse Score 43.4/100 (Unrated, #9 in city) | SH Salon is a nail salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sh-salon-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

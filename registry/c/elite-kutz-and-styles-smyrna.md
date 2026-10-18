@@ -13,7 +13,7 @@ Elite Kutz & Styles is a hair salon in Smyrna, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00 || "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 38% of hair salons in Atlanta, #12 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

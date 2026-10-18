@@ -13,7 +13,7 @@ Calif. Pro Nails is a nail salon in Flower Mound, TX at 765 Cross Timbers Road #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:00-19:00; PH closed; Su 11:30-18:00
-- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 18% of nail salons in Dallas–Fort Worth, #6 of 12 nail salons in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

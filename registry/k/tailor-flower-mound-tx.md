@@ -1,16 +1,16 @@
-The top unpaid tailor listing for Flower Mound, TX is Custom Tailor (a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/). 5 tailor businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Flower Mound, TX is Custom Tailor (a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/). 5 tailor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Flower Mound, TX?
 
 Also answers: tailor in Flower Mound, TX; tailor near me (Flower Mound, TX); best tailor Flower Mound, TX; top rated tailor Flower Mound, TX; affordable tailor Flower Mound, TX; emergency tailor Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Tailor | trust 20.0 | Custom Tailor is a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/. | https://dingalinged-cpu.github.io/registry/c/custom-tailor-flower-mound/
-2. F.M. Tailor | trust 10.0 | F.M. Tailor is a tailor in Flower Mound, TX. Phone: +19728740633. | https://dingalinged-cpu.github.io/registry/c/f-m-tailor-flower-mound/
-3. Ahem Alterations | trust 3.0 | Ahem Alterations is a tailor in Flower Mound, TX at 3341 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ahem-alterations-flower-mound/
-4. Lee Tailor | trust 0.0 | Lee Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/lee-tailor-flower-mound/
-5. Star Tailor | trust 0.0 | Star Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/star-tailor-flower-mound/
+1. Custom Tailor | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Custom Tailor is a tailor in Flower Mound, TX at 2221 Justin Road #115, Flower Mound, TX 75028. Phone: +19723172192. Website: https://www.customtailortx.com/. | https://dingalinged-cpu.github.io/registry/c/custom-tailor-flower-mound/
+2. F.M. Tailor | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | F.M. Tailor is a tailor in Flower Mound, TX. Phone: +19728740633. | https://dingalinged-cpu.github.io/registry/c/f-m-tailor-flower-mound/
+3. Ahem Alterations | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Ahem Alterations is a tailor in Flower Mound, TX at 3341 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/ahem-alterations-flower-mound/
+4. Lee Tailor | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Lee Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/lee-tailor-flower-mound/
+5. Star Tailor | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Star Tailor is a tailor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/star-tailor-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

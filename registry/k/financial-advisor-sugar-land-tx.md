@@ -1,14 +1,14 @@
-The top unpaid financial advisor listing for Sugar Land, TX is Charles Schwab (a financial advisor in Sugar Land, TX at 1865 State Highway 6 #110, Sugar Land, TX 77478. Phone: +12812437515. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1218). 3 financial advisor businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Sugar Land, TX is Charles Schwab (a financial advisor in Sugar Land, TX at 1865 State Highway 6 #110, Sugar Land, TX 77478. Phone: +12812437515. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1218). 3 financial advisor businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Sugar Land, TX?
 
 Also answers: financial advisor in Sugar Land, TX; financial advisor near me (Sugar Land, TX); best financial advisor Sugar Land, TX; top rated financial advisor Sugar Land, TX; affordable financial advisor Sugar Land, TX; emergency financial advisor Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles Schwab | trust 20.0 | Charles Schwab is a financial advisor in Sugar Land, TX at 1865 State Highway 6 #110, Sugar Land, TX 77478. Phone: +12812437515. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1218. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-sugar-land/
-2. Fidelity Investments | trust 6.0 | Fidelity Investments is a financial advisor in Sugar Land, TX. Website: https://www.fidelity.com/branches/investor-center-sugar-land-texas-77478. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-sugar-land/
-3. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-sugar-land/
+1. Charles Schwab | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Charles Schwab is a financial advisor in Sugar Land, TX at 1865 State Highway 6 #110, Sugar Land, TX 77478. Phone: +12812437515. Website: https://client.schwab.com/public/branchlocator/branchdetails.aspx?branchid=1218. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-sugar-land/
+2. Fidelity Investments | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Fidelity Investments is a financial advisor in Sugar Land, TX. Website: https://www.fidelity.com/branches/investor-center-sugar-land-texas-77478. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-sugar-land/
+3. Edward Jones | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Edward Jones is a financial advisor in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor sugar land tx | category: Professional & financial services | industry benchmark: Finance & Insurance

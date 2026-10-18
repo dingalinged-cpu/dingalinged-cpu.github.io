@@ -1,22 +1,22 @@
-The top unpaid storage units listing for Mckinney, TX is Public Storage (a self-storage facility in McKinney, TX at 4700 Stacy Road, McKinney, TX 75070. Phone: +12146130664). 11 storage units businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Mckinney, TX is Storage Center at Craig Ranch (a self-storage facility in McKinney, TX). 11 storage units businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Mckinney, TX?
 
 Also answers: storage units in Mckinney, TX; storage units near me (Mckinney, TX); best storage units Mckinney, TX; top rated storage units Mckinney, TX; affordable storage units Mckinney, TX; emergency storage units Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | trust 10.0 | Public Storage is a self-storage facility in McKinney, TX at 4700 Stacy Road, McKinney, TX 75070. Phone: +12146130664. | https://dingalinged-cpu.github.io/registry/c/public-storage-mckinney-w460833246/
-2. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in McKinney, TX at 1560 North Hardin Boulevard, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney/
-3. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in McKinney, TX at 10900 Virginia Parkway, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n13722001626/
-4. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in McKinney, TX at 3080 Alma Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n13724373652/
-5. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in McKinney, TX at 550 North Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n14003695421/
-6. Public Storage | trust 3.0 | Public Storage is a self-storage facility in McKinney, TX at 1415 North Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-mckinney/
-7. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-mckinney/
-8. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-mckinney-w1422940857/
-9. SecureSpace Self Storage | trust 0.0 | SecureSpace Self Storage is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/securespace-self-storage-mckinney/
-10. Storage Center at Craig Ranch | trust 0.0 | Storage Center at Craig Ranch is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/storage-center-at-craig-ranch-mckinney/
-11. Storage Center at Craig Ranch | trust 0.0 | Storage Center at Craig Ranch is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/storage-center-at-craig-ranch-mckinney-w1133616535/
+1. Storage Center at Craig Ranch | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Storage Center at Craig Ranch is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/storage-center-at-craig-ranch-mckinney/
+2. Storage Center at Craig Ranch | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Storage Center at Craig Ranch is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/storage-center-at-craig-ranch-mckinney-w1133616535/
+3. Public Storage | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Public Storage is a self-storage facility in McKinney, TX at 4700 Stacy Road, McKinney, TX 75070. Phone: +12146130664. | https://dingalinged-cpu.github.io/registry/c/public-storage-mckinney-w460833246/
+4. Extra Space Storage | Organic #4 | Pulse Score 47.2/100 (Building, #4 in city) | Extra Space Storage is a self-storage facility in McKinney, TX at 550 North Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n14003695421/
+5. Extra Space Storage | Organic #5 | Pulse Score 47.1/100 (Building, #5 in city) | Extra Space Storage is a self-storage facility in McKinney, TX at 3080 Alma Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n13724373652/
+6. Extra Space Storage | Organic #6 | Pulse Score 47/100 (Building, #6 in city) | Extra Space Storage is a self-storage facility in McKinney, TX at 10900 Virginia Parkway, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney-n13722001626/
+7. Public Storage | Organic #7 | Pulse Score 46.9/100 (Building, #7 in city) | Public Storage is a self-storage facility in McKinney, TX at 1415 North Custer Road, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-mckinney/
+8. Extra Space Storage | Organic #8 | Pulse Score 46.7/100 (Building, #8 in city) | Extra Space Storage is a self-storage facility in McKinney, TX at 1560 North Hardin Boulevard, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-mckinney/
+9. CubeSmart | Organic #9 | Pulse Score 43.1/100 (Building, #9 in city) | CubeSmart is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-mckinney/
+10. CubeSmart | Organic #10 | Pulse Score 41.8/100 (Building, #10 in city) | CubeSmart is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-mckinney-w1422940857/
+11. SecureSpace Self Storage | Organic #11 | Pulse Score 41.8/100 (Building, #11 in city) | SecureSpace Self Storage is a self-storage facility in McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/securespace-self-storage-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units mckinney tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

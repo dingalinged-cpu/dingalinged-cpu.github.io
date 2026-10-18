@@ -1,12 +1,12 @@
-The top unpaid concrete contractor listing for Wheaton, IL is Aslan Stoneworks (a concrete contractor in Wheaton, IL at 318 West Liberty Drive, Wheaton, IL 60187. Phone: +16306652010). 1 concrete contractor businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid concrete contractor listing for Wheaton, IL is Aslan Stoneworks (a concrete contractor in Wheaton, IL at 318 West Liberty Drive, Wheaton, IL 60187. Phone: +16306652010). 1 concrete contractor businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best concrete contractor providers in Wheaton, IL?
 
 Also answers: concrete contractor in Wheaton, IL; concrete contractor near me (Wheaton, IL); best concrete contractor Wheaton, IL; top rated concrete contractor Wheaton, IL; affordable concrete contractor Wheaton, IL; emergency concrete contractor Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aslan Stoneworks | trust 10.0 | Aslan Stoneworks is a concrete contractor in Wheaton, IL at 318 West Liberty Drive, Wheaton, IL 60187. Phone: +16306652010. | https://dingalinged-cpu.github.io/registry/c/aslan-stoneworks-wheaton/
+1. Aslan Stoneworks | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Aslan Stoneworks is a concrete contractor in Wheaton, IL at 318 West Liberty Drive, Wheaton, IL 60187. Phone: +16306652010. | https://dingalinged-cpu.github.io/registry/c/aslan-stoneworks-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor wheaton il | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

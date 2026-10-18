@@ -13,7 +13,7 @@ Atlanta Painting Company is a painting contractor in Roswell, GA at 210 West Cro
 - Website: https://www.atlantapaintingcompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Good — top 30% of painting contractors in Atlanta, #2 of 3 painting contractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

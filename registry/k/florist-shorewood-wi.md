@@ -1,12 +1,12 @@
-The top unpaid florist listing for Shorewood, WI is Grande Flowers (a florist in Shorewood, WI at 1433 East Capitol Drive, Shorewood, WI 53211. Phone: +14143323070. Website: https://www.grandeflowersshorewoodwi.com/). 1 florist businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Shorewood, WI is Grande Flowers (a florist in Shorewood, WI at 1433 East Capitol Drive, Shorewood, WI 53211. Phone: +14143323070. Website: https://www.grandeflowersshorewoodwi.com/). 1 florist businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Shorewood, WI?
 
 Also answers: florist in Shorewood, WI; florist near me (Shorewood, WI); best florist Shorewood, WI; top rated florist Shorewood, WI; affordable florist Shorewood, WI; emergency florist Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grande Flowers | trust 16.0 | Grande Flowers is a florist in Shorewood, WI at 1433 East Capitol Drive, Shorewood, WI 53211. Phone: +14143323070. Website: https://www.grandeflowersshorewoodwi.com/. | https://dingalinged-cpu.github.io/registry/c/grande-flowers-shorewood/
+1. Grande Flowers | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Grande Flowers is a florist in Shorewood, WI at 1433 East Capitol Drive, Shorewood, WI 53211. Phone: +14143323070. Website: https://www.grandeflowersshorewoodwi.com/. | https://dingalinged-cpu.github.io/registry/c/grande-flowers-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist shorewood wi | category: Events & weddings | industry benchmark: Personal Services

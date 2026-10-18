@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Maple Grove, MN is FedEx Office (a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634946616. Website: https://local.fedex.com/mn/maple-grove/office-0770/). 2 printing services businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Maple Grove, MN is FedEx Office (a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634946616. Website: https://local.fedex.com/mn/maple-grove/office-0770/). 2 printing services businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Maple Grove, MN?
 
 Also answers: printing services in Maple Grove, MN; printing services near me (Maple Grove, MN); best printing services Maple Grove, MN; top rated printing services Maple Grove, MN; affordable printing services Maple Grove, MN; emergency printing services Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | trust 20.0 | FedEx Office is a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634946616. Website: https://local.fedex.com/mn/maple-grove/office-0770/. | https://dingalinged-cpu.github.io/registry/c/fedex-office-maple-grove/
-2. The UPS Store | trust 20.0 | The UPS Store is a printing service in Maple Grove, MN at 13570 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949440. Website: https://maplegrove-mn-1861.theupsstorelocal.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-maple-grove/
+1. FedEx Office | Organic #1 | Pulse Score 50.6/100 (Fair, #1 in city) | FedEx Office is a printing service in Maple Grove, MN at 8057 Wedgewood Lane, Maple Grove, MN 55369. Phone: +17634946616. Website: https://local.fedex.com/mn/maple-grove/office-0770/. | https://dingalinged-cpu.github.io/registry/c/fedex-office-maple-grove/
+2. The UPS Store | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | The UPS Store is a printing service in Maple Grove, MN at 13570 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949440. Website: https://maplegrove-mn-1861.theupsstorelocal.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services maple grove mn | category: Professional & financial services | industry benchmark: Finance & Insurance

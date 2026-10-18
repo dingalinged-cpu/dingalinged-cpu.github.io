@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Humble, TX is Shipley Do-Nuts (a bakery in Humble, TX. Website: https://shipleydonuts.com/). 2 bakery businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Humble, TX is Cynthia's Kitchen (a bakery in Humble, TX). 2 bakery businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Humble, TX?
 
 Also answers: bakery in Humble, TX; bakery near me (Humble, TX); best bakery Humble, TX; top rated bakery Humble, TX; affordable bakery Humble, TX; emergency bakery Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shipley Do-Nuts | trust 6.0 | Shipley Do-Nuts is a bakery in Humble, TX. Website: https://shipleydonuts.com/. | https://dingalinged-cpu.github.io/registry/c/shipley-do-nuts-humble/
-2. Cynthia's Kitchen | trust 0.0 | Cynthia's Kitchen is a bakery in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/cynthias-kitchen-humble/
+1. Cynthia's Kitchen | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Cynthia's Kitchen is a bakery in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/cynthias-kitchen-humble/
+2. Shipley Do-Nuts | Organic #2 | Pulse Score 45.6/100 (Building, #2 in city) | Shipley Do-Nuts is a bakery in Humble, TX. Website: https://shipleydonuts.com/. | https://dingalinged-cpu.github.io/registry/c/shipley-do-nuts-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery humble tx | category: Events & weddings | industry benchmark: Personal Services

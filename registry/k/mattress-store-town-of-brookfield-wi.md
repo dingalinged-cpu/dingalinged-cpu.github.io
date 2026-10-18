@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Town Of Brookfield, WI is HassleLess Mattress (a mattress store in Town of Brookfield, WI). 1 mattress store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Town Of Brookfield, WI is HassleLess Mattress (a mattress store in Town of Brookfield, WI). 1 mattress store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Town Of Brookfield, WI?
 
 Also answers: mattress store in Town Of Brookfield, WI; mattress store near me (Town Of Brookfield, WI); best mattress store Town Of Brookfield, WI; top rated mattress store Town Of Brookfield, WI; affordable mattress store Town Of Brookfield, WI; emergency mattress store Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HassleLess Mattress | trust 0.0 | HassleLess Mattress is a mattress store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-town-of-brookfield/
+1. HassleLess Mattress | Organic #1 | Pulse Score 41.1/100 (Unrated, #1 in city) | HassleLess Mattress is a mattress store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store town of brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

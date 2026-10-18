@@ -13,7 +13,7 @@ Georgia House Rabbit Society is a pet store in Kennesaw, GA at 3114 Cherokee Str
 - Website: https://www.houserabbitga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-18:00; Tu 11:00-17:00; We 11:00-18:00; Th-Fr 11:00-17:00; Sa 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 4% of pet stores in Atlanta, #1 of 5 pet stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

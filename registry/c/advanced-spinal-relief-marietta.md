@@ -13,7 +13,7 @@ Advanced Spinal Relief is a chiropractor in Marietta, GA at 700 Sandy Plains Roa
 - Website: https://drtumbarello.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 12:00-19:00; Tu,Th,Su off; Sa 12:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 12% of chiropractors in Atlanta, #6 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

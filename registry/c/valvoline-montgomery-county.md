@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Montgomery County, TX. Website: https://stor
 - Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 76% of auto repair shops in Houston, #6 of 7 auto repair shops in Montgomery County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

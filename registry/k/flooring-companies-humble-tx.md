@@ -1,15 +1,15 @@
-The top unpaid flooring companies listing for Humble, TX is Marshburn's Flooring America (a flooring company in Humble, TX. Phone: +12813194454). 4 flooring companies businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Humble, TX is Marshburn's Flooring America (a flooring company in Humble, TX. Phone: +12813194454). 4 flooring companies businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Humble, TX?
 
 Also answers: flooring companies in Humble, TX; flooring companies near me (Humble, TX); best flooring companies Humble, TX; top rated flooring companies Humble, TX; affordable flooring companies Humble, TX; emergency flooring companies Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marshburn's Flooring America | trust 6.0 | Marshburn's Flooring America is a flooring company in Humble, TX. Phone: +12813194454. | https://dingalinged-cpu.github.io/registry/c/marshburns-flooring-america-humble/
-2. Roberts Carpet & Fine Floors | trust 3.0 | Roberts Carpet & Fine Floors is a flooring company in Humble, TX at 20465 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/roberts-carpet-and-fine-floors-humble/
-3. Floor & Decor | trust 0.0 | Floor & Decor is a flooring company in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-humble/
-4. Humble Carpet & Tile | trust 0.0 | Humble Carpet & Tile is a flooring company in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-carpet-and-tile-humble/
+1. Marshburn's Flooring America | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Marshburn's Flooring America is a flooring company in Humble, TX. Phone: +12813194454. | https://dingalinged-cpu.github.io/registry/c/marshburns-flooring-america-humble/
+2. Roberts Carpet & Fine Floors | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Roberts Carpet & Fine Floors is a flooring company in Humble, TX at 20465 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/roberts-carpet-and-fine-floors-humble/
+3. Humble Carpet & Tile | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Humble Carpet & Tile is a flooring company in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-carpet-and-tile-humble/
+4. Floor & Decor | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Floor & Decor is a flooring company in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies humble tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

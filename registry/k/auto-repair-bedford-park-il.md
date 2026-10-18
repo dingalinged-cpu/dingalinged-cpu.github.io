@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Bedford Park, IL is Pep Boys (an auto repair shop in Bedford Park, IL at 7030 South Cicero Avenue, Bedford Park, IL 60638). 1 auto repair businesses are listed for Bedford Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Bedford Park, IL is Pep Boys (an auto repair shop in Bedford Park, IL at 7030 South Cicero Avenue, Bedford Park, IL 60638). 1 auto repair businesses are listed for Bedford Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Bedford Park, IL?
 
 Also answers: auto repair in Bedford Park, IL; auto repair near me (Bedford Park, IL); best auto repair Bedford Park, IL; top rated auto repair Bedford Park, IL; affordable auto repair Bedford Park, IL; emergency auto repair Bedford Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys | trust 4.0 | Pep Boys is an auto repair shop in Bedford Park, IL at 7030 South Cicero Avenue, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/pep-boys-bedford-park/
+1. Pep Boys | Organic #1 | Pulse Score 44.2/100 (Building, #1 in city) | Pep Boys is an auto repair shop in Bedford Park, IL at 7030 South Cicero Avenue, Bedford Park, IL 60638. | https://dingalinged-cpu.github.io/registry/c/pep-boys-bedford-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair bedford park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

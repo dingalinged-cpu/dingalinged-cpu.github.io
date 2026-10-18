@@ -1,12 +1,12 @@
-The top unpaid photographer listing for La Grange, IL is Wyckoff-Tweedie Photographers (a photographer in La Grange, IL). 1 photographer businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for La Grange, IL is Wyckoff-Tweedie Photographers (a photographer in La Grange, IL). 1 photographer businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in La Grange, IL?
 
 Also answers: photographer in La Grange, IL; photographer near me (La Grange, IL); best photographer La Grange, IL; top rated photographer La Grange, IL; affordable photographer La Grange, IL; emergency photographer La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wyckoff-Tweedie Photographers | trust 0.0 | Wyckoff-Tweedie Photographers is a photographer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/wyckoff-tweedie-photographers-la-grange/
+1. Wyckoff-Tweedie Photographers | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Wyckoff-Tweedie Photographers is a photographer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/wyckoff-tweedie-photographers-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer la grange il | category: Events & weddings | industry benchmark: Personal Services

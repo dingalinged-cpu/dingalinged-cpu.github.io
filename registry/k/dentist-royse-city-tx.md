@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Royse City, TX is Comfort Care Dental (a dentist in Royse City, TX at 2763 Epps Road, Royse City, TX 75189. Phone: +19726359919. Website: https://www.comfortcaredental.net/). 4 dentist businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Royse City, TX is Comfort Care Dental (a dentist in Royse City, TX at 2763 Epps Road, Royse City, TX 75189. Phone: +19726359919. Website: https://www.comfortcaredental.net/). 4 dentist businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Royse City, TX?
 
 Also answers: dentist in Royse City, TX; dentist near me (Royse City, TX); best dentist Royse City, TX; top rated dentist Royse City, TX; affordable dentist Royse City, TX; emergency dentist Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Comfort Care Dental | trust 20.0 | Comfort Care Dental is a dentist in Royse City, TX at 2763 Epps Road, Royse City, TX 75189. Phone: +19726359919. Website: https://www.comfortcaredental.net/. | https://dingalinged-cpu.github.io/registry/c/comfort-care-dental-royse-city/
-2. Dentist Tree | trust 10.0 | Dentist Tree is a dentist in Royse City, TX at 931 North Erby Campbell Boulevard, Royse City, TX 75189. Website: https://www.dentisttreetx.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-tree-royse-city/
-3. Signature Smile Family Dentistry and Orthodontics | trust 8.0 | Signature Smile Family Dentistry and Orthodontics is a dentist in Royse City, TX at 554 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/signature-smile-family-dentistry-and-orthodontics-royse-city/
-4. Royse City Dental Care | trust 4.0 | Royse City Dental Care is a dentist in Royse City, TX at 552 East State Highway 66, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/royse-city-dental-care-royse-city/
+1. Comfort Care Dental | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Comfort Care Dental is a dentist in Royse City, TX at 2763 Epps Road, Royse City, TX 75189. Phone: +19726359919. Website: https://www.comfortcaredental.net/. | https://dingalinged-cpu.github.io/registry/c/comfort-care-dental-royse-city/
+2. Dentist Tree | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Dentist Tree is a dentist in Royse City, TX at 931 North Erby Campbell Boulevard, Royse City, TX 75189. Website: https://www.dentisttreetx.com/. | https://dingalinged-cpu.github.io/registry/c/dentist-tree-royse-city/
+3. Signature Smile Family Dentistry and Orthodontics | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Signature Smile Family Dentistry and Orthodontics is a dentist in Royse City, TX at 554 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/signature-smile-family-dentistry-and-orthodontics-royse-city/
+4. Royse City Dental Care | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Royse City Dental Care is a dentist in Royse City, TX at 552 East State Highway 66, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/royse-city-dental-care-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist royse city tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

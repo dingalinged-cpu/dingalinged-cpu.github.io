@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Homewood, IL is Psychic Chakra Energy Healing (a therapy practice in Homewood, IL at 1800 Ridge Road #204-10, Homewood, IL 60430. Phone: +12196771629. Website: https://psychicchakraenergyhealer.com/). 1 therapist businesses are listed for Homewood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Homewood, IL is Psychic Chakra Energy Healing (a therapy practice in Homewood, IL at 1800 Ridge Road #204-10, Homewood, IL 60430. Phone: +12196771629. Website: https://psychicchakraenergyhealer.com/). 1 therapist businesses are listed for Homewood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Homewood, IL?
 
 Also answers: therapist in Homewood, IL; therapist near me (Homewood, IL); best therapist Homewood, IL; top rated therapist Homewood, IL; affordable therapist Homewood, IL; emergency therapist Homewood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Psychic Chakra Energy Healing | trust 20.0 | Psychic Chakra Energy Healing is a therapy practice in Homewood, IL at 1800 Ridge Road #204-10, Homewood, IL 60430. Phone: +12196771629. Website: https://psychicchakraenergyhealer.com/. | https://dingalinged-cpu.github.io/registry/c/psychic-chakra-energy-healing-homewood/
+1. Psychic Chakra Energy Healing | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Psychic Chakra Energy Healing is a therapy practice in Homewood, IL at 1800 Ridge Road #204-10, Homewood, IL 60430. Phone: +12196771629. Website: https://psychicchakraenergyhealer.com/. | https://dingalinged-cpu.github.io/registry/c/psychic-chakra-energy-healing-homewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist homewood il | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

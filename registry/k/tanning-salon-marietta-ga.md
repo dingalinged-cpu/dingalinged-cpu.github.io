@@ -1,13 +1,13 @@
-The top unpaid tanning salon listing for Marietta, GA is Radiance Therapy Tanning (a tanning salon in Marietta, GA at 2100 Roswell Road #2182, Marietta, GA 30062. Phone: +16787014333. Website: https://radiancetherapytanning.com/). 2 tanning salon businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Marietta, GA is Sun City Tan (a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta). 2 tanning salon businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Marietta, GA?
 
 Also answers: tanning salon in Marietta, GA; tanning salon near me (Marietta, GA); best tanning salon Marietta, GA; top rated tanning salon Marietta, GA; affordable tanning salon Marietta, GA; emergency tanning salon Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Radiance Therapy Tanning | trust 20.0 | Radiance Therapy Tanning is a tanning salon in Marietta, GA at 2100 Roswell Road #2182, Marietta, GA 30062. Phone: +16787014333. Website: https://radiancetherapytanning.com/. | https://dingalinged-cpu.github.io/registry/c/radiance-therapy-tanning-marietta/
-2. Sun City Tan | trust 20.0 | Sun City Tan is a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta. | https://dingalinged-cpu.github.io/registry/c/sun-city-tan-marietta/
+1. Sun City Tan | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Sun City Tan is a tanning salon in Marietta, GA at 2421 Shallowford Road Northeast #108, Marietta, GA 30066. Phone: +17705652522. Website: https://www.coastatan.com/marietta. | https://dingalinged-cpu.github.io/registry/c/sun-city-tan-marietta/
+2. Radiance Therapy Tanning | Organic #2 | Pulse Score 64.4/100 (Good, #2 in city) | Radiance Therapy Tanning is a tanning salon in Marietta, GA at 2100 Roswell Road #2182, Marietta, GA 30062. Phone: +16787014333. Website: https://radiancetherapytanning.com/. | https://dingalinged-cpu.github.io/registry/c/radiance-therapy-tanning-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon marietta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

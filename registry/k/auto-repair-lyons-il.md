@@ -1,19 +1,19 @@
-The top unpaid auto repair listing for Lyons, IL is Tony's Fast Lane (an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/). 8 auto repair businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Lyons, IL is GGC Diagnostics (an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534). 8 auto repair businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Lyons, IL?
 
 Also answers: auto repair in Lyons, IL; auto repair near me (Lyons, IL); best auto repair Lyons, IL; top rated auto repair Lyons, IL; affordable auto repair Lyons, IL; emergency auto repair Lyons, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tony's Fast Lane | trust 6.0 | Tony's Fast Lane is an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/. | https://dingalinged-cpu.github.io/registry/c/tonys-fast-lane-lyons/
-2. GGC Diagnostics | trust 4.0 | GGC Diagnostics is an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/ggc-diagnostics-lyons/
-3. Vern's Auto Service | trust 4.0 | Vern's Auto Service is an auto repair shop in Lyons, IL at 8644 Ogden Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/verns-auto-service-lyons/
-4. Cheeco's Rebuilders | trust 0.0 | Cheeco's Rebuilders is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/cheecos-rebuilders-lyons/
-5. Faris Auto Service | trust 0.0 | Faris Auto Service is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/faris-auto-service-lyons/
-6. Gutierrez Auto Repair | trust 0.0 | Gutierrez Auto Repair is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/
-7. Knight's Body Shop | trust 0.0 | Knight's Body Shop is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/knights-body-shop-lyons/
-8. Midwest Complete Car Care | trust 0.0 | Midwest Complete Car Care is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-complete-car-care-lyons/
+1. GGC Diagnostics | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | GGC Diagnostics is an auto repair shop in Lyons, IL at 4645 Prescott Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/ggc-diagnostics-lyons/
+2. Tony's Fast Lane | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Tony's Fast Lane is an auto repair shop in Lyons, IL. Website: https://www.tonysfastlane.com/. | https://dingalinged-cpu.github.io/registry/c/tonys-fast-lane-lyons/
+3. Cheeco's Rebuilders | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Cheeco's Rebuilders is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/cheecos-rebuilders-lyons/
+4. Faris Auto Service | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Faris Auto Service is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/faris-auto-service-lyons/
+5. Gutierrez Auto Repair | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Gutierrez Auto Repair is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/gutierrez-auto-repair-lyons/
+6. Knight's Body Shop | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Knight's Body Shop is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/knights-body-shop-lyons/
+7. Midwest Complete Car Care | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | Midwest Complete Car Care is an auto repair shop in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/midwest-complete-car-care-lyons/
+8. Vern's Auto Service | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Vern's Auto Service is an auto repair shop in Lyons, IL at 8644 Ogden Avenue, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/verns-auto-service-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair lyons il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

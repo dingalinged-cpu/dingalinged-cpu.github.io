@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Dallas, TX at 1907 North Henderson Avenue, Da
 - Website: https://www.corepoweryoga.com/yoga-studios/tx/dallas/henderson
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 73% of yoga studios in Dallas–Fort Worth, #7 of 11 yoga studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

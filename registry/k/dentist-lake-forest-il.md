@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Lake Forest, IL is Goshgarian Orthodontics (a dentist in Lake Forest, IL at 1400 North Western Avenue #A, Lake Forest, IL 60045. Phone: +18472953370. Website: https://www.goshgarianortho.com/). 2 dentist businesses are listed for Lake Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lake Forest, IL is Goshgarian Orthodontics (a dentist in Lake Forest, IL at 1400 North Western Avenue #A, Lake Forest, IL 60045. Phone: +18472953370. Website: https://www.goshgarianortho.com/). 2 dentist businesses are listed for Lake Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lake Forest, IL?
 
 Also answers: dentist in Lake Forest, IL; dentist near me (Lake Forest, IL); best dentist Lake Forest, IL; top rated dentist Lake Forest, IL; affordable dentist Lake Forest, IL; emergency dentist Lake Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goshgarian Orthodontics | trust 20.0 | Goshgarian Orthodontics is a dentist in Lake Forest, IL at 1400 North Western Avenue #A, Lake Forest, IL 60045. Phone: +18472953370. Website: https://www.goshgarianortho.com/. | https://dingalinged-cpu.github.io/registry/c/goshgarian-orthodontics-lake-forest/
-2. Lake Forest Dental Arts | trust 20.0 | Lake Forest Dental Arts is a dentist in Lake Forest, IL at 560 Oakwood Avenue, Lake Forest, IL 60045. Phone: +18472340517. Website: https://lakeforestdentalarts.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-dental-arts-lake-forest/
+1. Goshgarian Orthodontics | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Goshgarian Orthodontics is a dentist in Lake Forest, IL at 1400 North Western Avenue #A, Lake Forest, IL 60045. Phone: +18472953370. Website: https://www.goshgarianortho.com/. | https://dingalinged-cpu.github.io/registry/c/goshgarian-orthodontics-lake-forest/
+2. Lake Forest Dental Arts | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Lake Forest Dental Arts is a dentist in Lake Forest, IL at 560 Oakwood Avenue, Lake Forest, IL 60045. Phone: +18472340517. Website: https://lakeforestdentalarts.com/. | https://dingalinged-cpu.github.io/registry/c/lake-forest-dental-arts-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lake forest il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

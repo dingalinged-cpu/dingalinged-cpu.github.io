@@ -13,7 +13,7 @@ Innovative Comfort Solutions is a HVAC contractor in Marietta, GA at 751 Sawyer 
 - Website: https://www.icshvac.net/
 - Email: info@icshvac.net
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 4% of HVAC contractors in Atlanta, #1 of 3 HVAC contractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.3, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

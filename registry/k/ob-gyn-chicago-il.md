@@ -1,13 +1,13 @@
-The top unpaid ob gyn listing for Chicago, IL is John Sengstacke Health Center (a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/). 2 ob gyn businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Chicago, IL is The Clark (a family medicine practice in Chicago, IL at 5346 North Clark Street, Chicago, IL 60640. Website: https://theclarkmed.com/). 2 ob gyn businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Chicago, IL?
 
 Also answers: ob gyn in Chicago, IL; ob gyn near me (Chicago, IL); best ob gyn Chicago, IL; top rated ob gyn Chicago, IL; affordable ob gyn Chicago, IL; emergency ob gyn Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Sengstacke Health Center | trust 10.0 | John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/. | https://dingalinged-cpu.github.io/registry/c/john-sengstacke-health-center-chicago/
-2. The Clark | trust 10.0 | The Clark is a family medicine practice in Chicago, IL at 5346 North Clark Street, Chicago, IL 60640. Website: https://theclarkmed.com/. | https://dingalinged-cpu.github.io/registry/c/the-clark-chicago/
+1. The Clark | Organic #1 | Pulse Score 55.7/100 (Unrated, #12 in city) | The Clark is a family medicine practice in Chicago, IL at 5346 North Clark Street, Chicago, IL 60640. Website: https://theclarkmed.com/. | https://dingalinged-cpu.github.io/registry/c/the-clark-chicago/
+2. John Sengstacke Health Center | Organic #2 | Pulse Score 44.7/100 (Unrated, #16 in city) | John Sengstacke Health Center is a family medicine practice in Chicago, IL at 500 East 51st Street, Chicago, IL 60615. Website: https://www.cookcountyhhs.org/health-centers/john-sengstacke-health-center/. | https://dingalinged-cpu.github.io/registry/c/john-sengstacke-health-center-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons

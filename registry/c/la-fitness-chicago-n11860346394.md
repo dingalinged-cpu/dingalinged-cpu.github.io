@@ -13,7 +13,7 @@ LA Fitness is a gym in Chicago, IL at 5224 South Lake Park Avenue, Chicago, IL 6
 - Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=693
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 55% of gyms in Chicago, #98 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

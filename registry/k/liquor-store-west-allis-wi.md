@@ -1,17 +1,17 @@
-The top unpaid liquor store listing for West Allis, WI is Super Bottle Depot (a liquor store in West Allis, WI at 1359 South 76th Street, West Allis, WI 53214. Phone: +14147780965). 6 liquor store businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for West Allis, WI is Super Bottle Depot (a liquor store in West Allis, WI at 1359 South 76th Street, West Allis, WI 53214. Phone: +14147780965). 6 liquor store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in West Allis, WI?
 
 Also answers: liquor store in West Allis, WI; liquor store near me (West Allis, WI); best liquor store West Allis, WI; top rated liquor store West Allis, WI; affordable liquor store West Allis, WI; emergency liquor store West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super Bottle Depot | trust 14.0 | Super Bottle Depot is a liquor store in West Allis, WI at 1359 South 76th Street, West Allis, WI 53214. Phone: +14147780965. | https://dingalinged-cpu.github.io/registry/c/super-bottle-depot-west-allis/
-2. Riverbend Liquor | trust 8.0 | Riverbend Liquor is a liquor store in West Allis, WI at 7506 West Oklahoma Avenue, West Allis, WI 53219. | https://dingalinged-cpu.github.io/registry/c/riverbend-liquor-west-allis/
-3. County Beer & Liquor | trust 4.0 | County Beer & Liquor is a liquor store in West Allis, WI at 979 South 60th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/county-beer-and-liquor-west-allis/
-4. Walsh's Beer & Liquor | trust 4.0 | Walsh's Beer & Liquor is a liquor store in West Allis, WI at 10910 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/walshs-beer-and-liquor-west-allis/
-5. West Allis Liquor & Tobacco | trust 4.0 | West Allis Liquor & Tobacco is a liquor store in West Allis, WI at 7218 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/west-allis-liquor-and-tobacco-west-allis/
-6. One Stop West Allis Liquor | trust 3.0 | One Stop West Allis Liquor is a liquor store in West Allis, WI at 5909 West Lincoln Avenue, West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/one-stop-west-allis-liquor-west-allis/
+1. Super Bottle Depot | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Super Bottle Depot is a liquor store in West Allis, WI at 1359 South 76th Street, West Allis, WI 53214. Phone: +14147780965. | https://dingalinged-cpu.github.io/registry/c/super-bottle-depot-west-allis/
+2. Riverbend Liquor | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Riverbend Liquor is a liquor store in West Allis, WI at 7506 West Oklahoma Avenue, West Allis, WI 53219. | https://dingalinged-cpu.github.io/registry/c/riverbend-liquor-west-allis/
+3. One Stop West Allis Liquor | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | One Stop West Allis Liquor is a liquor store in West Allis, WI at 5909 West Lincoln Avenue, West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/one-stop-west-allis-liquor-west-allis/
+4. County Beer & Liquor | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | County Beer & Liquor is a liquor store in West Allis, WI at 979 South 60th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/county-beer-and-liquor-west-allis/
+5. Walsh's Beer & Liquor | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Walsh's Beer & Liquor is a liquor store in West Allis, WI at 10910 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/walshs-beer-and-liquor-west-allis/
+6. West Allis Liquor & Tobacco | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | West Allis Liquor & Tobacco is a liquor store in West Allis, WI at 7218 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/west-allis-liquor-and-tobacco-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Bullock's Wine and Spirits Warehouse is a liquor store in Cobb County, GA at 361
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-23:00; Fr,Sa 08:00-23:45; Su 12:30-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 44% of liquor stores in Atlanta, #11 of 14 liquor stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

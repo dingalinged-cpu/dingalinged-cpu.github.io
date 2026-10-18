@@ -13,7 +13,7 @@ RGM Eyecare, LLC is an eye care practice in Mount Pleasant, WI at 4304 Taylor Av
 - Website: https://www.rgmeyecare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th 09:00-13:00; We 02:00-20:00; Sa 02:00-18:00; Mo,Fr,Su closed
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 31% of eye care practices in Milwaukee, #1 of 1 eye care practices in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

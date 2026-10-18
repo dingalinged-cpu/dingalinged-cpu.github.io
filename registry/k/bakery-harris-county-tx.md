@@ -1,29 +1,29 @@
-The top unpaid bakery listing for Harris County, TX is El Rancho Bakery (a bakery in Harris County, TX at 469 Uvalde Road, Harris County, TX 77015. Phone: +13468023154. Website: https://elranchobakery.com/). 18 bakery businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Harris County, TX is El Rancho Bakery (a bakery in Harris County, TX at 469 Uvalde Road, Harris County, TX 77015. Phone: +13468023154. Website: https://elranchobakery.com/). 18 bakery businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Harris County, TX?
 
 Also answers: bakery in Harris County, TX; bakery near me (Harris County, TX); best bakery Harris County, TX; top rated bakery Harris County, TX; affordable bakery Harris County, TX; emergency bakery Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. El Rancho Bakery | trust 20.0 | El Rancho Bakery is a bakery in Harris County, TX at 469 Uvalde Road, Harris County, TX 77015. Phone: +13468023154. Website: https://elranchobakery.com/. | https://dingalinged-cpu.github.io/registry/c/el-rancho-bakery-harris-county/
-2. Rao's Bakery & Coffee Cafe | trust 15.0 | Rao's Bakery & Coffee Cafe is a bakery in Harris County, TX at 6915 Cypresswood Dr, Harris County, TX. Phone: +12812517267. Website: https://raosbakery.com/. | https://dingalinged-cpu.github.io/registry/c/raos-bakery-and-coffee-cafe-harris-county/
-3. Cindy's Donuts | trust 7.0 | Cindy's Donuts is a bakery in Harris County, TX at 2919 Barker Cypress Road #H, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cindys-donuts-harris-county/
-4. Shipley Do-Nuts | trust 6.0 | Shipley Do-Nuts is a bakery in Harris County, TX. Website: https://shipleydonuts.com/. | https://dingalinged-cpu.github.io/registry/c/shipley-do-nuts-harris-county/
-5. La Hacienda Bakery | trust 4.0 | La Hacienda Bakery is a bakery in Harris County, TX at 180 Uvalde Road, Harris County, TX 77015. | https://dingalinged-cpu.github.io/registry/c/la-hacienda-bakery-harris-county/
-6. Artisan Bread Gallery | trust 0.0 | Artisan Bread Gallery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/artisan-bread-gallery-harris-county/
-7. Bakery Reynosa | trust 0.0 | Bakery Reynosa is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bakery-reynosa-harris-county/
-8. Donut Hole | trust 0.0 | Donut Hole is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/donut-hole-harris-county/
-9. Gourmet Karma Kolache & Dessert | trust 0.0 | Gourmet Karma Kolache & Dessert is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gourmet-karma-kolache-and-dessert-harris-county/
-10. Loven Bakery | trust 0.0 | Loven Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/loven-bakery-harris-county/
-11. Maytena Bakery | trust 0.0 | Maytena Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/maytena-bakery-harris-county/
-12. Maytena Bakery #2 | trust 0.0 | Maytena Bakery #2 is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/maytena-bakery-2-harris-county/
-13. Paco's Bakery | trust 0.0 | Paco's Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pacos-bakery-harris-county/
-14. Panaderia Bakery - Tierra Caliente | trust 0.0 | Panaderia Bakery - Tierra Caliente is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panaderia-bakery-tierra-caliente-harris-county/
-15. Panadería y Pastelería | trust 0.0 | Panadería y Pastelería is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-pasteler-a-harris-county/
-16. Panadería Y Pupuseria Magili Bakery | trust 0.0 | Panadería Y Pupuseria Magili Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-pupuseria-magili-bakery-harris-county/
-17. Pandoro Bakery | trust 0.0 | Pandoro Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pandoro-bakery-harris-county/
-18. Snowflake Donuts | trust 0.0 | Snowflake Donuts is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/snowflake-donuts-harris-county/
+1. El Rancho Bakery | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | El Rancho Bakery is a bakery in Harris County, TX at 469 Uvalde Road, Harris County, TX 77015. Phone: +13468023154. Website: https://elranchobakery.com/. | https://dingalinged-cpu.github.io/registry/c/el-rancho-bakery-harris-county/
+2. Rao's Bakery & Coffee Cafe | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Rao's Bakery & Coffee Cafe is a bakery in Harris County, TX at 6915 Cypresswood Dr, Harris County, TX. Phone: +12812517267. Website: https://raosbakery.com/. | https://dingalinged-cpu.github.io/registry/c/raos-bakery-and-coffee-cafe-harris-county/
+3. Cindy's Donuts | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Cindy's Donuts is a bakery in Harris County, TX at 2919 Barker Cypress Road #H, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cindys-donuts-harris-county/
+4. La Hacienda Bakery | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | La Hacienda Bakery is a bakery in Harris County, TX at 180 Uvalde Road, Harris County, TX 77015. | https://dingalinged-cpu.github.io/registry/c/la-hacienda-bakery-harris-county/
+5. Gourmet Karma Kolache & Dessert | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Gourmet Karma Kolache & Dessert is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gourmet-karma-kolache-and-dessert-harris-county/
+6. Artisan Bread Gallery | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Artisan Bread Gallery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/artisan-bread-gallery-harris-county/
+7. Bakery Reynosa | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Bakery Reynosa is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bakery-reynosa-harris-county/
+8. Donut Hole | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Donut Hole is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/donut-hole-harris-county/
+9. Loven Bakery | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Loven Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/loven-bakery-harris-county/
+10. Maytena Bakery | Organic #10 | Pulse Score 54.8/100 (Unrated, #11 in city) | Maytena Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/maytena-bakery-harris-county/
+11. Maytena Bakery #2 | Organic #11 | Pulse Score 54.8/100 (Unrated, #10 in city) | Maytena Bakery #2 is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/maytena-bakery-2-harris-county/
+12. Paco's Bakery | Organic #12 | Pulse Score 54.8/100 (Unrated, #12 in city) | Paco's Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pacos-bakery-harris-county/
+13. Panaderia Bakery - Tierra Caliente | Organic #13 | Pulse Score 54.8/100 (Unrated, #15 in city) | Panaderia Bakery - Tierra Caliente is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panaderia-bakery-tierra-caliente-harris-county/
+14. Panadería y Pastelería | Organic #14 | Pulse Score 54.8/100 (Unrated, #13 in city) | Panadería y Pastelería is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-pasteler-a-harris-county/
+15. Panadería Y Pupuseria Magili Bakery | Organic #15 | Pulse Score 54.8/100 (Unrated, #14 in city) | Panadería Y Pupuseria Magili Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/panader-a-y-pupuseria-magili-bakery-harris-county/
+16. Pandoro Bakery | Organic #16 | Pulse Score 54.8/100 (Unrated, #16 in city) | Pandoro Bakery is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pandoro-bakery-harris-county/
+17. Snowflake Donuts | Organic #17 | Pulse Score 54.8/100 (Unrated, #17 in city) | Snowflake Donuts is a bakery in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/snowflake-donuts-harris-county/
+18. Shipley Do-Nuts | Organic #18 | Pulse Score 45.6/100 (Building, #18 in city) | Shipley Do-Nuts is a bakery in Harris County, TX. Website: https://shipleydonuts.com/. | https://dingalinged-cpu.github.io/registry/c/shipley-do-nuts-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery harris county tx | category: Events & weddings | industry benchmark: Personal Services

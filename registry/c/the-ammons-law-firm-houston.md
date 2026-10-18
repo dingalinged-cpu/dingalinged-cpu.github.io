@@ -13,7 +13,7 @@ The Ammons Law Firm is a lawyer in Houston, TX at 3700 Montrose Boulevard, Houst
 - Website: https://ammonslaw.com/
 - Email: marketing@ammonslaw.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 1% of lawyers in Houston, #1 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

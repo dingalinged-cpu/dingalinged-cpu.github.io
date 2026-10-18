@@ -13,7 +13,7 @@ PetSmart is a pet store in Saint Louis Park, MN at 5640 Cedar Lake Road, Saint L
 - Website: https://www.petsmart.com/stores/us/mn/minneapolis-store0463.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 59% of pet stores in Minneapolis–St. Paul, #5 of 5 pet stores in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

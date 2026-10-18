@@ -13,7 +13,7 @@ CarMax is an used car dealer in Plano, TX at 4448 West Plano Parkway, Plano, TX 
 - Website: https://www.carmax.com/stores/7207
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 79% of used car dealers in Dallas–Fort Worth, #9 of 9 used car dealers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

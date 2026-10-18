@@ -13,7 +13,7 @@ Brasil Legal Cafe is a bakery in Chicago, IL at 2161 North Western Avenue, Chica
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-16:00
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 4% of bakerys in Chicago, #11 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.9, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

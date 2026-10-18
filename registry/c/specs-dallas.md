@@ -13,7 +13,7 @@ Spec's is a liquor store in Dallas, TX at 9500 North Central Expressway #200, Da
 - Website: https://www.specsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-21:00
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 74% of liquor stores in Dallas–Fort Worth, #23 of 27 liquor stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

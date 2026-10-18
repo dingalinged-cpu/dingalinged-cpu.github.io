@@ -13,7 +13,7 @@ H-E-B Car Wash is a car wash in Missouri City, TX at TX 6, Missouri City, TX 774
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 55% of car washes in Houston, #3 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

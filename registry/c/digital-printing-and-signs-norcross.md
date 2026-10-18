@@ -13,7 +13,7 @@ Digital Printing & Signs is a printing service in Norcross, GA at 6025 Peachtree
 - Website: https://www.digitalcopycenters.com/
 - Email: hasuinc@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of printing services in Atlanta, #1 of 2 printing services in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

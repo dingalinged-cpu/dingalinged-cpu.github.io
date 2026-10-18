@@ -1,17 +1,17 @@
-The top unpaid insurance agents listing for Waunakee, WI is American Family Insurance - Katy Lea (an insurance agent in Waunakee, WI). 6 insurance agents businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Waunakee, WI is Hub Insurance (an insurance agent in Waunakee, WI). 6 insurance agents businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Waunakee, WI?
 
 Also answers: insurance agents in Waunakee, WI; insurance agents near me (Waunakee, WI); best insurance agents Waunakee, WI; top rated insurance agents Waunakee, WI; affordable insurance agents Waunakee, WI; emergency insurance agents Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance - Katy Lea | trust 0.0 | American Family Insurance - Katy Lea is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-katy-lea-waunakee/
-2. Erie Insurance | trust 0.0 | Erie Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/erie-insurance-waunakee/
-3. Hub Insurance | trust 0.0 | Hub Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/hub-insurance-waunakee/
-4. Kurt Fauerbach Insurance | trust 0.0 | Kurt Fauerbach Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/kurt-fauerbach-insurance-waunakee/
-5. Safeco | trust 0.0 | Safeco is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/safeco-waunakee/
-6. State Farm - Troy Salisbury | trust 0.0 | State Farm - Troy Salisbury is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/state-farm-troy-salisbury-waunakee/
+1. Hub Insurance | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Hub Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/hub-insurance-waunakee/
+2. Kurt Fauerbach Insurance | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Kurt Fauerbach Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/kurt-fauerbach-insurance-waunakee/
+3. Safeco | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Safeco is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/safeco-waunakee/
+4. American Family Insurance - Katy Lea | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | American Family Insurance - Katy Lea is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-katy-lea-waunakee/
+5. Erie Insurance | Organic #5 | Pulse Score 42.7/100 (Building, #5 in city) | Erie Insurance is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/erie-insurance-waunakee/
+6. State Farm - Troy Salisbury | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | State Farm - Troy Salisbury is an insurance agent in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/state-farm-troy-salisbury-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents waunakee wi | category: insurance | industry benchmark: Finance & Insurance

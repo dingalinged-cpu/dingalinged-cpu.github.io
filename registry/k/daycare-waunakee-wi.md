@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Waunakee, WI is Moppet Play House (a daycare in Waunakee, WI). 2 daycare businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Waunakee, WI is Moppet Play House (a daycare in Waunakee, WI). 2 daycare businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Waunakee, WI?
 
 Also answers: daycare in Waunakee, WI; daycare near me (Waunakee, WI); best daycare Waunakee, WI; top rated daycare Waunakee, WI; affordable daycare Waunakee, WI; emergency daycare Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moppet Play House | trust 0.0 | Moppet Play House is a daycare in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/moppet-play-house-waunakee/
-2. The Seventeenth Radish | trust 0.0 | The Seventeenth Radish is a daycare in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/the-seventeenth-radish-waunakee/
+1. Moppet Play House | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Moppet Play House is a daycare in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/moppet-play-house-waunakee/
+2. The Seventeenth Radish | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | The Seventeenth Radish is a daycare in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/the-seventeenth-radish-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare waunakee wi | category: Education & childcare | industry benchmark: Education & Instruction

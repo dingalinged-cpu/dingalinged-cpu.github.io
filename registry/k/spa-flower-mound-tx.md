@@ -1,14 +1,14 @@
-The top unpaid spa listing for Flower Mound, TX is Arch Brow Threading & Spa (a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/). 3 spa businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Flower Mound, TX is Sutera Spa (a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/). 3 spa businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Flower Mound, TX?
 
 Also answers: spa in Flower Mound, TX; spa near me (Flower Mound, TX); best spa Flower Mound, TX; top rated spa Flower Mound, TX; affordable spa Flower Mound, TX; emergency spa Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arch Brow Threading & Spa | trust 16.0 | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://dingalinged-cpu.github.io/registry/c/arch-brow-threading-and-spa-flower-mound/
-2. Sutera Spa | trust 16.0 | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://dingalinged-cpu.github.io/registry/c/sutera-spa-flower-mound/
-3. V/O Med Sps | trust 6.0 | V/O Med Sps is a spa in Flower Mound, TX. Website: https://www.viomedspa.com/. | https://dingalinged-cpu.github.io/registry/c/v-o-med-sps-flower-mound/
+1. Sutera Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Sutera Spa is a skin care studio in Flower Mound, TX. Phone: +19728995300. Website: https://www.suteraspa.com/. | https://dingalinged-cpu.github.io/registry/c/sutera-spa-flower-mound/
+2. Arch Brow Threading & Spa | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arch Brow Threading & Spa is a spa in Flower Mound, TX. Phone: +19728747500. Website: https://www.archbrows.com/. | https://dingalinged-cpu.github.io/registry/c/arch-brow-threading-and-spa-flower-mound/
+3. V/O Med Sps | Organic #3 | Pulse Score 59.7/100 (Fair, #2 in city) | V/O Med Sps is a spa in Flower Mound, TX. Website: https://www.viomedspa.com/. | https://dingalinged-cpu.github.io/registry/c/v-o-med-sps-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

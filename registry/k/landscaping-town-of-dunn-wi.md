@@ -1,12 +1,12 @@
-The top unpaid landscaping listing for Town Of Dunn, WI is J & B Lawn Service (a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/). 1 landscaping businesses are listed for Town Of Dunn, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Town Of Dunn, WI is J & B Lawn Service (a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/). 1 landscaping businesses are listed for Town Of Dunn, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Town Of Dunn, WI?
 
 Also answers: landscaping in Town Of Dunn, WI; landscaping near me (Town Of Dunn, WI); best landscaping Town Of Dunn, WI; top rated landscaping Town Of Dunn, WI; affordable landscaping Town Of Dunn, WI; emergency landscaping Town Of Dunn, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J & B Lawn Service | trust 16.0 | J & B Lawn Service is a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-b-lawn-service-madison/
+1. J & B Lawn Service | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | J & B Lawn Service is a landscaping company in Madison, WI at 3554 Lake Farm Rd, Madison, WI 53711. Phone: +16082228132. Website: https://jandblawnservicewi.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-b-lawn-service-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping town of dunn wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

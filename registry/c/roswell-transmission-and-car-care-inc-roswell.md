@@ -13,7 +13,7 @@ Roswell Transmission & Car Care Inc is an auto repair shop in Roswell, GA at 105
 - Website: https://roswelltransmissionservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-12:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of auto repair shops in Atlanta, #6 of 17 auto repair shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid daycare listing for Denton, TX is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 6 daycare businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Denton, TX is Denton City County Day School (a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/). 6 daycare businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Denton, TX?
 
 Also answers: daycare in Denton, TX; daycare near me (Denton, TX); best daycare Denton, TX; top rated daycare Denton, TX; affordable daycare Denton, TX; emergency daycare Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denton City County Day School | trust 16.0 | Denton City County Day School is a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/. | https://dingalinged-cpu.github.io/registry/c/denton-city-county-day-school-denton/
-2. ABC Preschool and Childcare | trust 4.0 | ABC Preschool and Childcare is a daycare in Denton, TX at 808 East Sherman Drive, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/abc-preschool-and-childcare-denton/
-3. Alpha Christian Academy | trust 4.0 | Alpha Christian Academy is a daycare in Denton, TX at 3812 Market Street, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/alpha-christian-academy-denton/
-4. Childcare Network | trust 4.0 | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/childcare-network-denton/
-5. Terry's Treehouse Learning Center | trust 4.0 | Terry's Treehouse Learning Center is a daycare in Denton, TX at 4025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/terrys-treehouse-learning-center-denton/
-6. Texas Love & Care | trust 4.0 | Texas Love & Care is a daycare in Denton, TX at 6060 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/texas-love-and-care-denton/
+1. Denton City County Day School | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Denton City County Day School is a daycare in Denton, TX at 1603 Paisley Street, Denton, TX 76209. Phone: +19403826485. Website: https://www.dccds.org/. | https://dingalinged-cpu.github.io/registry/c/denton-city-county-day-school-denton/
+2. Terry's Treehouse Learning Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Terry's Treehouse Learning Center is a daycare in Denton, TX at 4025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/terrys-treehouse-learning-center-denton/
+3. ABC Preschool and Childcare | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | ABC Preschool and Childcare is a daycare in Denton, TX at 808 East Sherman Drive, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/abc-preschool-and-childcare-denton/
+4. Alpha Christian Academy | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Alpha Christian Academy is a daycare in Denton, TX at 3812 Market Street, Denton, TX 76209. | https://dingalinged-cpu.github.io/registry/c/alpha-christian-academy-denton/
+5. Texas Love & Care | Organic #5 | Pulse Score 57/100 (Unrated, #5 in city) | Texas Love & Care is a daycare in Denton, TX at 6060 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/texas-love-and-care-denton/
+6. Childcare Network | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Childcare Network is a daycare in Denton, TX at 5025 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/childcare-network-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare denton tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ The Dirty Paw Dog Spa is a dog groomer in Cobb County, GA at 2550 Sandy Plains R
 - Website: https://thedirtypawdogspa.com/
 - Email: thedirtypawdogspa@gmail.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Th,Sa 09:00-17:00; Fr 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 52% of dog groomers in Atlanta, #4 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

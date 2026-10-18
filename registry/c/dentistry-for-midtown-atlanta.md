@@ -13,7 +13,7 @@ Dentistry for Midtown is a dentist in Atlanta, GA at 1401 Peachtree Street North
 - Website: https://www.dentistryformidtown.com/dentist-near-midtown/
 - Email: info@dfmsmile.com
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00; Fr 07:00-13:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.3/100 — Good — top 2% of dentists in Atlanta, #2 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

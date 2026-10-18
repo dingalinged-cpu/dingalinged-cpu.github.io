@@ -13,7 +13,7 @@ Classic Chevrolet is an used car dealer in Grapevine, TX at 1101 West State High
 - Website: https://www.classicchevrolet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 92% of used car dealers in Dallas–Fort Worth, #4 of 4 used car dealers in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

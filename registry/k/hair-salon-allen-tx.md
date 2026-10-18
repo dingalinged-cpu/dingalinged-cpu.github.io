@@ -1,16 +1,16 @@
-The top unpaid hair salon listing for Allen, TX is Blo Blow Dry Bar (a hair salon in Allen, TX at 939 Garden Park Drive, Allen, TX 75013). 5 hair salon businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Allen, TX is Laura Mac Salon (a hair salon in Allen, TX). 5 hair salon businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Allen, TX?
 
 Also answers: hair salon in Allen, TX; hair salon near me (Allen, TX); best hair salon Allen, TX; top rated hair salon Allen, TX; affordable hair salon Allen, TX; emergency hair salon Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blo Blow Dry Bar | trust 4.0 | Blo Blow Dry Bar is a hair salon in Allen, TX at 939 Garden Park Drive, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-allen/
-2. Laura Mac Salon | trust 4.0 | Laura Mac Salon is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/laura-mac-salon-allen/
-3. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-allen/
-4. Tangerine Salon | trust 0.0 | Tangerine Salon is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/tangerine-salon-allen/
-5. The Boardroom Salon for Men | trust 0.0 | The Boardroom Salon for Men is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/the-boardroom-salon-for-men-allen/
+1. Laura Mac Salon | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Laura Mac Salon is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/laura-mac-salon-allen/
+2. The Boardroom Salon for Men | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The Boardroom Salon for Men is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/the-boardroom-salon-for-men-allen/
+3. Blo Blow Dry Bar | Organic #3 | Pulse Score 44.3/100 (Unrated, #3 in city) | Blo Blow Dry Bar is a hair salon in Allen, TX at 939 Garden Park Drive, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/blo-blow-dry-bar-allen/
+4. Tangerine Salon | Organic #4 | Pulse Score 42.8/100 (Unrated, #4 in city) | Tangerine Salon is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/tangerine-salon-allen/
+5. Sport Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Sport Clips is a hair salon in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon allen tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

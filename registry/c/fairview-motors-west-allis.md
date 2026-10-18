@@ -13,7 +13,7 @@ Fairview Motors is an used car dealer in West Allis, WI at 1965 South 60th Stree
 - Website: https://www.fairviewcars.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 09:00-12:00; Su off
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of used car dealers in Milwaukee, #3 of 4 used car dealers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

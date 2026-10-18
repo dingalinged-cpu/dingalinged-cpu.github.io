@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Northfield, IL is GLG Accounting (an accountant in Northfield, IL at 400 Central Avenue #340B, Northfield, IL 60093. Website: https://www.glgaccounting.com/). 1 accountant businesses are listed for Northfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Northfield, IL is GLG Accounting (an accountant in Northfield, IL at 400 Central Avenue #340B, Northfield, IL 60093. Website: https://www.glgaccounting.com/). 1 accountant businesses are listed for Northfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Northfield, IL?
 
 Also answers: accountant in Northfield, IL; accountant near me (Northfield, IL); best accountant Northfield, IL; top rated accountant Northfield, IL; affordable accountant Northfield, IL; emergency accountant Northfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GLG Accounting | trust 14.0 | GLG Accounting is an accountant in Northfield, IL at 400 Central Avenue #340B, Northfield, IL 60093. Website: https://www.glgaccounting.com/. | https://dingalinged-cpu.github.io/registry/c/glg-accounting-northfield/
+1. GLG Accounting | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | GLG Accounting is an accountant in Northfield, IL at 400 Central Avenue #340B, Northfield, IL 60093. Website: https://www.glgaccounting.com/. | https://dingalinged-cpu.github.io/registry/c/glg-accounting-northfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant northfield il | category: professional_accounting | industry benchmark: Business Services

@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Vernon Hills, IL is Mercury Insurance Company (an insurance agent in Vernon Hills, IL at 850 North Milwaukee Avenue, Vernon Hills, IL 60061). 1 insurance agency businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Vernon Hills, IL is Mercury Insurance Company (an insurance agent in Vernon Hills, IL at 850 North Milwaukee Avenue, Vernon Hills, IL 60061). 1 insurance agency businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Vernon Hills, IL?
 
 Also answers: insurance agency in Vernon Hills, IL; insurance agency near me (Vernon Hills, IL); best insurance agency Vernon Hills, IL; top rated insurance agency Vernon Hills, IL; affordable insurance agency Vernon Hills, IL; emergency insurance agency Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mercury Insurance Company | trust 4.0 | Mercury Insurance Company is an insurance agent in Vernon Hills, IL at 850 North Milwaukee Avenue, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/mercury-insurance-company-vernon-hills/
+1. Mercury Insurance Company | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Mercury Insurance Company is an insurance agent in Vernon Hills, IL at 850 North Milwaukee Avenue, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/mercury-insurance-company-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency vernon hills il | category: insurance | industry benchmark: Finance & Insurance

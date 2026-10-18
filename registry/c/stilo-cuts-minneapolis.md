@@ -13,7 +13,7 @@ Stilo Cuts is a hair salon in Minneapolis, MN at 2655 Hennepin Avenue South, Min
 - Website: https://www.stilocuts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00; PH closed
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Unrated (not enough evidence yet) — top 80% of hair salons in Minneapolis–St. Paul, #99 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

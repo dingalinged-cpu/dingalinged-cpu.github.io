@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Mableton, GA is Riverside EpiCenter (an event venue in Austell, GA at 135 Riverside Parkway, Austell, GA 30168. Phone: +16789035480. Website: https://riversideepicenter.com/). 2 event venues businesses are listed for Mableton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Mableton, GA is Riverside EpiCenter (an event venue in Austell, GA at 135 Riverside Parkway, Austell, GA 30168. Phone: +16789035480. Website: https://riversideepicenter.com/). 2 event venues businesses are listed for Mableton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Mableton, GA?
 
 Also answers: event venues in Mableton, GA; event venues near me (Mableton, GA); best event venues Mableton, GA; top rated event venues Mableton, GA; affordable event venues Mableton, GA; emergency event venues Mableton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riverside EpiCenter | trust 20.0 | Riverside EpiCenter is an event venue in Austell, GA at 135 Riverside Parkway, Austell, GA 30168. Phone: +16789035480. Website: https://riversideepicenter.com/. | https://dingalinged-cpu.github.io/registry/c/riverside-epicenter-austell/
-2. Mableton Banquet Hall | trust 4.0 | Mableton Banquet Hall is an event venue in Mableton, GA at 6114 Mableton Parkway, Mableton, GA 30126. | https://dingalinged-cpu.github.io/registry/c/mableton-banquet-hall-mableton/
+1. Riverside EpiCenter | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Riverside EpiCenter is an event venue in Austell, GA at 135 Riverside Parkway, Austell, GA 30168. Phone: +16789035480. Website: https://riversideepicenter.com/. | https://dingalinged-cpu.github.io/registry/c/riverside-epicenter-austell/
+2. Mableton Banquet Hall | Organic #2 | Pulse Score 56.3/100 (Unrated, #1 in city) | Mableton Banquet Hall is an event venue in Mableton, GA at 6114 Mableton Parkway, Mableton, GA 30126. | https://dingalinged-cpu.github.io/registry/c/mableton-banquet-hall-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues mableton ga | category: Events & weddings | industry benchmark: Personal Services

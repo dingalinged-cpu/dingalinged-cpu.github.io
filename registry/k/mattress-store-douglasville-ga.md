@@ -1,14 +1,14 @@
-The top unpaid mattress store listing for Douglasville, GA is Sleep Number (a mattress store in Douglasville, GA). 3 mattress store businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Douglasville, GA is The Mattress Store (a mattress store in Douglasville, GA). 3 mattress store businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Douglasville, GA?
 
 Also answers: mattress store in Douglasville, GA; mattress store near me (Douglasville, GA); best mattress store Douglasville, GA; top rated mattress store Douglasville, GA; affordable mattress store Douglasville, GA; emergency mattress store Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sleep Number | trust 0.0 | Sleep Number is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/sleep-number-douglasville/
-2. The Mattress Store | trust 0.0 | The Mattress Store is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/the-mattress-store-douglasville/
-3. Woodstock Mattress Outlet | trust 0.0 | Woodstock Mattress Outlet is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/woodstock-mattress-outlet-douglasville/
+1. The Mattress Store | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | The Mattress Store is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/the-mattress-store-douglasville/
+2. Woodstock Mattress Outlet | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Woodstock Mattress Outlet is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/woodstock-mattress-outlet-douglasville/
+3. Sleep Number | Organic #3 | Pulse Score 41.2/100 (Building, #3 in city) | Sleep Number is a mattress store in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/sleep-number-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store douglasville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

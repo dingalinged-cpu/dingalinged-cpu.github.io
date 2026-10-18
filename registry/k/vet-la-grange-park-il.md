@@ -1,12 +1,12 @@
-The top unpaid vet listing for La Grange Park, IL is Arbor Animal Hospital (a veterinarian in La Grange Park, IL). 1 vet businesses are listed for La Grange Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for La Grange Park, IL is Arbor Animal Hospital (a veterinarian in La Grange Park, IL). 1 vet businesses are listed for La Grange Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in La Grange Park, IL?
 
 Also answers: vet in La Grange Park, IL; vet near me (La Grange Park, IL); best vet La Grange Park, IL; top rated vet La Grange Park, IL; affordable vet La Grange Park, IL; emergency vet La Grange Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arbor Animal Hospital | trust 0.0 | Arbor Animal Hospital is a veterinarian in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/
+1. Arbor Animal Hospital | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Arbor Animal Hospital is a veterinarian in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/arbor-animal-hospital-la-grange-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet la grange park il | category: Pets | industry benchmark: Animals & Pets

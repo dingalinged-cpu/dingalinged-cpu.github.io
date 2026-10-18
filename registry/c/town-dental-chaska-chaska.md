@@ -13,7 +13,7 @@ Town Dental - Chaska is a dentist in Chaska, MN at 1200 Chaska Creek Way #150, C
 - Website: https://town-dental.com/
 - Email: chaska@town-dental.com
 - Opening hours (OSM syntax): Mo 08:00-17:00, Tu 08:00-17:00, We 07:00-16:00, Th 07:30-16:30, Fr-Su closed
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 11% of dentists in Minneapolis–St. Paul, #1 of 2 dentists in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

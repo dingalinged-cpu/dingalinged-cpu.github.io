@@ -1,14 +1,14 @@
-The top unpaid vet listing for Stone Mountain, GA is The Village Vets (a veterinarian in Stone Mountain, GA at 5460 Five Forks Trickum Road, Stone Mountain, GA 30087. Phone: +17707171650. Website: https://www.thevillagevets.com/stone-mountain/). 3 vet businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Stone Mountain, GA is Main Street Veterinarians of Stone Mountain (a veterinarian in Stone Mountain, GA at 868 Main Street, Stone Mountain, GA 30083. Phone: +17704984620). 3 vet businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Stone Mountain, GA?
 
 Also answers: vet in Stone Mountain, GA; vet near me (Stone Mountain, GA); best vet Stone Mountain, GA; top rated vet Stone Mountain, GA; affordable vet Stone Mountain, GA; emergency vet Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Village Vets | trust 20.0 | The Village Vets is a veterinarian in Stone Mountain, GA at 5460 Five Forks Trickum Road, Stone Mountain, GA 30087. Phone: +17707171650. Website: https://www.thevillagevets.com/stone-mountain/. | https://dingalinged-cpu.github.io/registry/c/the-village-vets-stone-mountain/
-2. Main Street Veterinarians of Stone Mountain | trust 10.0 | Main Street Veterinarians of Stone Mountain is a veterinarian in Stone Mountain, GA at 868 Main Street, Stone Mountain, GA 30083. Phone: +17704984620. | https://dingalinged-cpu.github.io/registry/c/main-street-veterinarians-of-stone-mountain-stone-mountain/
-3. Paws in Paradise Pet Salon | trust 0.0 | Paws in Paradise Pet Salon is a veterinarian in Stone Mountain, GA. | https://dingalinged-cpu.github.io/registry/c/paws-in-paradise-pet-salon-stone-mountain/
+1. Main Street Veterinarians of Stone Mountain | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Main Street Veterinarians of Stone Mountain is a veterinarian in Stone Mountain, GA at 868 Main Street, Stone Mountain, GA 30083. Phone: +17704984620. | https://dingalinged-cpu.github.io/registry/c/main-street-veterinarians-of-stone-mountain-stone-mountain/
+2. Paws in Paradise Pet Salon | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Paws in Paradise Pet Salon is a veterinarian in Stone Mountain, GA. | https://dingalinged-cpu.github.io/registry/c/paws-in-paradise-pet-salon-stone-mountain/
+3. The Village Vets | Organic #3 | Pulse Score 50.4/100 (Unrated, #3 in city) | The Village Vets is a veterinarian in Stone Mountain, GA at 5460 Five Forks Trickum Road, Stone Mountain, GA 30087. Phone: +17707171650. Website: https://www.thevillagevets.com/stone-mountain/. | https://dingalinged-cpu.github.io/registry/c/the-village-vets-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet stone mountain ga | category: Pets | industry benchmark: Animals & Pets

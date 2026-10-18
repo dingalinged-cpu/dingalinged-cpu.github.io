@@ -1,14 +1,14 @@
-The top unpaid attorney listing for Plano, TX is Law Offices of Richard C. McConathy (a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/). 3 attorney businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Plano, TX is Law Offices of Richard C. McConathy (a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/). 3 attorney businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Plano, TX?
 
 Also answers: attorney in Plano, TX; attorney near me (Plano, TX); best attorney Plano, TX; top rated attorney Plano, TX; affordable attorney Plano, TX; emergency attorney Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Offices of Richard C. McConathy | trust 20.0 | Law Offices of Richard C. McConathy is a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-richard-c-mcconathy-plano/
-2. Mullen & Mullen Law Firm | trust 20.0 | Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237, Plano, TX 75024. Phone: +19729473370. Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/. | https://dingalinged-cpu.github.io/registry/c/mullen-and-mullen-law-firm-plano/
-3. The Cole Law Firm - Plano | trust 19.0 | The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-cole-law-firm-plano-plano/
+1. Law Offices of Richard C. McConathy | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Law Offices of Richard C. McConathy is a lawyer in Plano, TX at 5700 Granite Parkway #200, Plano, TX 75024. Phone: +14693043422. Website: https://www.dwicollincounty.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-richard-c-mcconathy-plano/
+2. The Cole Law Firm - Plano | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Cole Law Firm - Plano is a lawyer in Plano, TX at 7161 Bishop Rd, Plano, TX. Phone: +19727358412. Website: https://colelawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-cole-law-firm-plano-plano/
+3. Mullen & Mullen Law Firm | Organic #3 | Pulse Score 50.3/100 (Unrated, #3 in city) | Mullen & Mullen Law Firm is a lawyer in Plano, TX at 8105 Rasor Boulevard ##237, Plano, TX 75024. Phone: +19729473370. Website: https://www.mullenandmullen.com/personal-injury-lawyer/plano-tx/. | https://dingalinged-cpu.github.io/registry/c/mullen-and-mullen-law-firm-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney plano tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

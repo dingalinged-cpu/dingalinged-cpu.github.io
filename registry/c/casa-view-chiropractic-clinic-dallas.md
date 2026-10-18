@@ -13,7 +13,7 @@ Casa View Chiropractic Clinic is a chiropractor in Dallas, TX at 10622 Shiloh Ro
 - Website: https://www.casaviewchiropracticclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 46% of chiropractors in Dallas–Fort Worth, #5 of 16 chiropractors in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

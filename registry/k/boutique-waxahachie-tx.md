@@ -1,12 +1,12 @@
-The top unpaid boutique listing for Waxahachie, TX is Refuse To Sink Boutique (a boutique in Waxahachie, TX at 207 West Marvin Avenue, Waxahachie, TX 75165). 1 boutique businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Waxahachie, TX is Refuse To Sink Boutique (a boutique in Waxahachie, TX at 207 West Marvin Avenue, Waxahachie, TX 75165). 1 boutique businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Waxahachie, TX?
 
 Also answers: boutique in Waxahachie, TX; boutique near me (Waxahachie, TX); best boutique Waxahachie, TX; top rated boutique Waxahachie, TX; affordable boutique Waxahachie, TX; emergency boutique Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Refuse To Sink Boutique | trust 4.0 | Refuse To Sink Boutique is a boutique in Waxahachie, TX at 207 West Marvin Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/refuse-to-sink-boutique-waxahachie/
+1. Refuse To Sink Boutique | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Refuse To Sink Boutique is a boutique in Waxahachie, TX at 207 West Marvin Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/refuse-to-sink-boutique-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

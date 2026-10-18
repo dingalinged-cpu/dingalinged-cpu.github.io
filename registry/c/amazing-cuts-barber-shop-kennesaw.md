@@ -13,7 +13,7 @@ Amazing Cuts Barber Shop is a hair salon in Kennesaw, GA at 3055 North Main Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-19:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 8% of hair salons in Atlanta, #4 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

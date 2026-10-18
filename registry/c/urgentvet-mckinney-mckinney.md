@@ -13,7 +13,7 @@ UrgentVet - McKinney is a veterinarian in McKinney, TX at 1717 West University D
 - Website: https://urgentvet.com/location/mckinney-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 15:00-23:00; Sa-Su 10:00-20:00; PH 12:00-20:00
-- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in Dallas–Fort Worth, #1 of 11 veterinarians in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

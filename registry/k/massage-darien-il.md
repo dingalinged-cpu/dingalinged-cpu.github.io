@@ -1,13 +1,13 @@
-The top unpaid massage listing for Darien, IL is Massage Envy (a massage studio in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16309104500. Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html). 2 massage businesses are listed for Darien, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Darien, IL is Sakura Massage (a massage studio in Darien, IL at 2121 75th Street, Darien, IL 60561. Phone: +16306358888. Website: https://sakuramassage888.com/). 2 massage businesses are listed for Darien, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Darien, IL?
 
 Also answers: massage in Darien, IL; massage near me (Darien, IL); best massage Darien, IL; top rated massage Darien, IL; affordable massage Darien, IL; emergency massage Darien, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | trust 16.0 | Massage Envy is a massage studio in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16309104500. Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-darien/
-2. Sakura Massage | trust 16.0 | Sakura Massage is a massage studio in Darien, IL at 2121 75th Street, Darien, IL 60561. Phone: +16306358888. Website: https://sakuramassage888.com/. | https://dingalinged-cpu.github.io/registry/c/sakura-massage-darien/
+1. Sakura Massage | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Sakura Massage is a massage studio in Darien, IL at 2121 75th Street, Darien, IL 60561. Phone: +16306358888. Website: https://sakuramassage888.com/. | https://dingalinged-cpu.github.io/registry/c/sakura-massage-darien/
+2. Massage Envy | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Massage Envy is a massage studio in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16309104500. Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-darien/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage darien il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

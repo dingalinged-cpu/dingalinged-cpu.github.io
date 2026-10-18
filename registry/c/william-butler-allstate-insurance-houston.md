@@ -13,7 +13,7 @@ William Butler: Allstate Insurance is an insurance agent in Houston, TX at 4201 
 - Website: https://agents.allstate.com/william-butler-houston-tx.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 08:00-17:00, We 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 42% of insurance agents in Houston, #49 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,23 +1,23 @@
-The top unpaid hair salon listing for Des Plaines, IL is Cut "n" Roll (a hair salon in Des Plaines, IL at Miner Street, Des Plaines, IL 60016). 12 hair salon businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Des Plaines, IL is Cut "n" Roll (a hair salon in Des Plaines, IL at Miner Street, Des Plaines, IL 60016). 12 hair salon businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Des Plaines, IL?
 
 Also answers: hair salon in Des Plaines, IL; hair salon near me (Des Plaines, IL); best hair salon Des Plaines, IL; top rated hair salon Des Plaines, IL; affordable hair salon Des Plaines, IL; emergency hair salon Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cut "n" Roll | trust 4.0 | Cut "n" Roll is a hair salon in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/cut-n-roll-des-plaines/
-2. International Hair Ltd | trust 4.0 | International Hair Ltd is a hair salon in Des Plaines, IL at 654 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/international-hair-ltd-des-plaines/
-3. NK Beauty Salon | trust 4.0 | NK Beauty Salon is a hair salon in Des Plaines, IL at 849 South Elmhurst Road #106A, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/nk-beauty-salon-des-plaines/
-4. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-des-plaines/
-5. Supercuts | trust 4.0 | Supercuts is a hair salon in Des Plaines, IL at 1159 Lee Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/supercuts-des-plaines/
-6. The Hair Emporium | trust 4.0 | The Hair Emporium is a hair salon in Des Plaines, IL at 630 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/the-hair-emporium-des-plaines/
-7. Karla's Hair Studio | trust 3.0 | Karla's Hair Studio is a hair salon in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/karlas-hair-studio-des-plaines/
-8. Class Hair Studio | trust 0.0 | Class Hair Studio is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/class-hair-studio-des-plaines/
-9. Gentlemen's Row | trust 0.0 | Gentlemen's Row is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/gentlemens-row-des-plaines/
-10. Pearl Beauty Hair Salon | trust 0.0 | Pearl Beauty Hair Salon is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/pearl-beauty-hair-salon-des-plaines/
-11. Shave Legends | trust 0.0 | Shave Legends is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/shave-legends-des-plaines/
-12. Trend Salon & Spa | trust 0.0 | Trend Salon & Spa is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/trend-salon-and-spa-des-plaines/
+1. Cut "n" Roll | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Cut "n" Roll is a hair salon in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/cut-n-roll-des-plaines/
+2. International Hair Ltd | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | International Hair Ltd is a hair salon in Des Plaines, IL at 654 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/international-hair-ltd-des-plaines/
+3. NK Beauty Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | NK Beauty Salon is a hair salon in Des Plaines, IL at 849 South Elmhurst Road #106A, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/nk-beauty-salon-des-plaines/
+4. The Hair Emporium | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | The Hair Emporium is a hair salon in Des Plaines, IL at 630 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/the-hair-emporium-des-plaines/
+5. Karla's Hair Studio | Organic #5 | Pulse Score 56.1/100 (Unrated, #5 in city) | Karla's Hair Studio is a hair salon in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/karlas-hair-studio-des-plaines/
+6. Class Hair Studio | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Class Hair Studio is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/class-hair-studio-des-plaines/
+7. Gentlemen's Row | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Gentlemen's Row is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/gentlemens-row-des-plaines/
+8. Pearl Beauty Hair Salon | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Pearl Beauty Hair Salon is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/pearl-beauty-hair-salon-des-plaines/
+9. Shave Legends | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Shave Legends is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/shave-legends-des-plaines/
+10. Trend Salon & Spa | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | Trend Salon & Spa is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/trend-salon-and-spa-des-plaines/
+11. Supercuts | Organic #11 | Pulse Score 45.1/100 (Building, #11 in city) | Supercuts is a hair salon in Des Plaines, IL at 1159 Lee Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/supercuts-des-plaines/
+12. Sport Clips | Organic #12 | Pulse Score 44.6/100 (Building, #12 in city) | Sport Clips is a hair salon in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon des plaines il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,17 +1,17 @@
-The top unpaid gym listing for Middleton, WI is Anytime Fitness (a gym in Middleton, WI at 1011 North Gammon Road, Middleton, WI 53562. Phone: +16088363131. Website: https://www.anytimefitness.com/gyms/595/middleton-wi-53562/). 6 gym businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Middleton, WI is CORE Health & Fitness (a gym in Middleton, WI at 2248 Deming Way #100, Middleton, WI 53562. Phone: +16088312673. Website: https://www.corehealthandfit.com/). 6 gym businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Middleton, WI?
 
 Also answers: gym in Middleton, WI; gym near me (Middleton, WI); best gym Middleton, WI; top rated gym Middleton, WI; affordable gym Middleton, WI; emergency gym Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Middleton, WI at 1011 North Gammon Road, Middleton, WI 53562. Phone: +16088363131. Website: https://www.anytimefitness.com/gyms/595/middleton-wi-53562/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-middleton/
-2. CORE Health & Fitness | trust 16.0 | CORE Health & Fitness is a gym in Middleton, WI at 2248 Deming Way #100, Middleton, WI 53562. Phone: +16088312673. Website: https://www.corehealthandfit.com/. | https://dingalinged-cpu.github.io/registry/c/core-health-and-fitness-middleton/
-3. Harbor Athletic Club | trust 4.0 | Harbor Athletic Club is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/harbor-athletic-club-middleton/
-4. REFORMadison | trust 3.0 | REFORMadison is a gym in Middleton, WI at 1819 Parmenter Street, Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/reformadison-middleton/
-5. Peter Kraus Fitness | trust 0.0 | Peter Kraus Fitness is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/peter-kraus-fitness-middleton/
-6. Princeton Club Xpress | trust 0.0 | Princeton Club Xpress is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/princeton-club-xpress-middleton/
+1. CORE Health & Fitness | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | CORE Health & Fitness is a gym in Middleton, WI at 2248 Deming Way #100, Middleton, WI 53562. Phone: +16088312673. Website: https://www.corehealthandfit.com/. | https://dingalinged-cpu.github.io/registry/c/core-health-and-fitness-middleton/
+2. Harbor Athletic Club | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Harbor Athletic Club is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/harbor-athletic-club-middleton/
+3. REFORMadison | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | REFORMadison is a gym in Middleton, WI at 1819 Parmenter Street, Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/reformadison-middleton/
+4. Peter Kraus Fitness | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Peter Kraus Fitness is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/peter-kraus-fitness-middleton/
+5. Anytime Fitness | Organic #5 | Pulse Score 50.8/100 (Fair, #5 in city) | Anytime Fitness is a gym in Middleton, WI at 1011 North Gammon Road, Middleton, WI 53562. Phone: +16088363131. Website: https://www.anytimefitness.com/gyms/595/middleton-wi-53562/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-middleton/
+6. Princeton Club Xpress | Organic #6 | Pulse Score 43.2/100 (Unrated, #6 in city) | Princeton Club Xpress is a gym in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/princeton-club-xpress-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym middleton wi | category: Fitness | industry benchmark: Health & Fitness

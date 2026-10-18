@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Sachse, TX at 7970 Woodbridge Parkway, S
 - Website: https://www.cubesmart.com/texas-self-storage/sachse-self-storage/4666.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 40% of self-storage facilitys in Dallas–Fort Worth, #2 of 3 self-storage facilitys in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

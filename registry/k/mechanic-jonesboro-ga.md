@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Jonesboro, GA is Wright Automotive Touch (an auto repair shop in Jonesboro, GA at 9876 Feagan Road, Jonesboro, GA 30236. Phone: +14047497040). 5 mechanic businesses are listed for Jonesboro, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Jonesboro, GA is Wright Automotive Touch (an auto repair shop in Jonesboro, GA at 9876 Feagan Road, Jonesboro, GA 30236. Phone: +14047497040). 5 mechanic businesses are listed for Jonesboro, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Jonesboro, GA?
 
 Also answers: mechanic in Jonesboro, GA; mechanic near me (Jonesboro, GA); best mechanic Jonesboro, GA; top rated mechanic Jonesboro, GA; affordable mechanic Jonesboro, GA; emergency mechanic Jonesboro, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wright Automotive Touch | trust 14.0 | Wright Automotive Touch is an auto repair shop in Jonesboro, GA at 9876 Feagan Road, Jonesboro, GA 30236. Phone: +14047497040. | https://dingalinged-cpu.github.io/registry/c/wright-automotive-touch-jonesboro/
-2. Betsill's Transmission Service | trust 0.0 | Betsill's Transmission Service is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/betsills-transmission-service-jonesboro/
-3. MAACO | trust 0.0 | MAACO is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/maaco-jonesboro/
-4. Metro Automotive Services | trust 0.0 | Metro Automotive Services is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/metro-automotive-services-jonesboro/
-5. Wade's Collision Repair | trust 0.0 | Wade's Collision Repair is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/wades-collision-repair-jonesboro/
+1. Wright Automotive Touch | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Wright Automotive Touch is an auto repair shop in Jonesboro, GA at 9876 Feagan Road, Jonesboro, GA 30236. Phone: +14047497040. | https://dingalinged-cpu.github.io/registry/c/wright-automotive-touch-jonesboro/
+2. Wade's Collision Repair | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Wade's Collision Repair is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/wades-collision-repair-jonesboro/
+3. Betsill's Transmission Service | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Betsill's Transmission Service is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/betsills-transmission-service-jonesboro/
+4. Metro Automotive Services | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Metro Automotive Services is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/metro-automotive-services-jonesboro/
+5. MAACO | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | MAACO is an auto repair shop in Jonesboro, GA. | https://dingalinged-cpu.github.io/registry/c/maaco-jonesboro/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic jonesboro ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

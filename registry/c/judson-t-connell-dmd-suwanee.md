@@ -13,7 +13,7 @@ Judson T. Connell, DMD is a dentist in Suwanee, GA at 3895 Johns Creek Parkway #
 - Website: https://www.judsontconnelldmd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 22% of dentists in Atlanta, #1 of 4 dentists in Suwanee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

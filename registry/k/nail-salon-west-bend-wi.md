@@ -1,16 +1,16 @@
-The top unpaid nail salon listing for West Bend, WI is JEL Nails (a nail salon in West Bend, WI). 5 nail salon businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for West Bend, WI is JEL Nails (a nail salon in West Bend, WI). 5 nail salon businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in West Bend, WI?
 
 Also answers: nail salon in West Bend, WI; nail salon near me (West Bend, WI); best nail salon West Bend, WI; top rated nail salon West Bend, WI; affordable nail salon West Bend, WI; emergency nail salon West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JEL Nails | trust 0.0 | JEL Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/jel-nails-west-bend/
-2. Royal Nails | trust 0.0 | Royal Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/royal-nails-west-bend/
-3. Royal Nails | trust 0.0 | Royal Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/royal-nails-west-bend-n4499406370/
-4. Tipsy Nails | trust 0.0 | Tipsy Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/tipsy-nails-west-bend/
-5. West Bend Nails | trust 0.0 | West Bend Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/west-bend-nails-west-bend/
+1. JEL Nails | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | JEL Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/jel-nails-west-bend/
+2. Tipsy Nails | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Tipsy Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/tipsy-nails-west-bend/
+3. West Bend Nails | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | West Bend Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/west-bend-nails-west-bend/
+4. Royal Nails | Organic #4 | Pulse Score 41.4/100 (Unrated, #4 in city) | Royal Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/royal-nails-west-bend/
+5. Royal Nails | Organic #5 | Pulse Score 41.4/100 (Unrated, #5 in city) | Royal Nails is a nail salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/royal-nails-west-bend-n4499406370/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon west bend wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

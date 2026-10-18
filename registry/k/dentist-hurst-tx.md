@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Hurst, TX is brush. (a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Phone: +18177700272. Website: https://brushheb.com/). 5 dentist businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Hurst, TX is brush. (a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Phone: +18177700272. Website: https://brushheb.com/). 5 dentist businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Hurst, TX?
 
 Also answers: dentist in Hurst, TX; dentist near me (Hurst, TX); best dentist Hurst, TX; top rated dentist Hurst, TX; affordable dentist Hurst, TX; emergency dentist Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. brush. | trust 20.0 | brush. is a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Phone: +18177700272. Website: https://brushheb.com/. | https://dingalinged-cpu.github.io/registry/c/brush-hurst/
-2. Hurst Pediatric Dentistry | trust 14.0 | Hurst Pediatric Dentistry is a dentist in Hurst, TX at 712 West Pipeline Road #600, Hurst, TX 76053. Website: https://hurstpediatricdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/hurst-pediatric-dentistry-hurst/
-3. Family Cosmetic Dentistry | trust 0.0 | Family Cosmetic Dentistry is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/family-cosmetic-dentistry-hurst/
-4. MidCities Dental | trust 0.0 | MidCities Dental is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/midcities-dental-hurst/
-5. Richard Burk DDS | trust 0.0 | Richard Burk DDS is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/richard-burk-dds-hurst/
+1. brush. | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | brush. is a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Phone: +18177700272. Website: https://brushheb.com/. | https://dingalinged-cpu.github.io/registry/c/brush-hurst/
+2. Hurst Pediatric Dentistry | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Hurst Pediatric Dentistry is a dentist in Hurst, TX at 712 West Pipeline Road #600, Hurst, TX 76053. Website: https://hurstpediatricdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/hurst-pediatric-dentistry-hurst/
+3. MidCities Dental | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | MidCities Dental is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/midcities-dental-hurst/
+4. Richard Burk DDS | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Richard Burk DDS is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/richard-burk-dds-hurst/
+5. Family Cosmetic Dentistry | Organic #5 | Pulse Score 41.7/100 (Unrated, #5 in city) | Family Cosmetic Dentistry is a dentist in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/family-cosmetic-dentistry-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist hurst tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

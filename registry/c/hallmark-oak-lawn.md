@@ -13,7 +13,7 @@ Hallmark is a gift shop in Oak Lawn, IL at 10730 South Cicero Avenue #5, Oak Law
 - Website: https://stores.hallmark.com/il/oaklawn/katies-hallmark-shop-oaklawn-il-011166.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 74% of gift shops in Chicago, #1 of 1 gift shops in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ AARF Pet Central is a pet store in Stone Mountain, GA at 951 Main Street, Stone 
 - Website: https://www.aarfpetcentral.com/
 - Email: info@aarfpetcentral.com
 - Opening hours (OSM syntax): Mo-Fr 10:30-20:00; Sa 10:30-17:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 2% of pet stores in Atlanta, #1 of 2 pet stores in Stone Mountain (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

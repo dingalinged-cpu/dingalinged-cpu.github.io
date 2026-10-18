@@ -13,7 +13,7 @@ Orthopaedic Hospital of Wisconsin – Greenfield Physical Therapy is a physical 
 - Website: https://www.ohow.com/locations/greenfield-physical-therapy/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Unrated (not enough evidence yet) — top 49% of physical therapy clinics in Milwaukee, #1 of 2 physical therapy clinics in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

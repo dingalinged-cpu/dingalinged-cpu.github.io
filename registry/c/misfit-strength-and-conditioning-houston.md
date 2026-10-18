@@ -13,7 +13,7 @@ Misfit Strength & Conditioning is a gym in Houston, TX at 5302 Cornish Street, H
 - Website: https://www.misfitstrength.com/
 - Email: misfitstrength@gmail.com
 - Opening hours (OSM syntax): Mo-Th 05:00-20:00; Fr 05:00-19:00; Sa 07:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of gyms in Houston, #1 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

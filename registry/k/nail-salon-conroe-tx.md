@@ -1,16 +1,16 @@
-The top unpaid nail salon listing for Conroe, TX is Vivid Nails (a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX). 5 nail salon businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Conroe, TX is Vivid Nails (a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX). 5 nail salon businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Conroe, TX?
 
 Also answers: nail salon in Conroe, TX; nail salon near me (Conroe, TX); best nail salon Conroe, TX; top rated nail salon Conroe, TX; affordable nail salon Conroe, TX; emergency nail salon Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vivid Nails | trust 3.0 | Vivid Nails is a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/vivid-nails-conroe/
-2. Elegant Nails | trust 0.0 | Elegant Nails is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-nails-conroe/
-3. Nails of America | trust 0.0 | Nails of America is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/nails-of-america-conroe/
-4. Nationwide Nails & Spa | trust 0.0 | Nationwide Nails & Spa is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-nails-and-spa-conroe/
-5. Premier Nail Bar | trust 0.0 | Premier Nail Bar is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/premier-nail-bar-conroe/
+1. Vivid Nails | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Vivid Nails is a nail salon in Conroe, TX at 1304 West Davis Street #E, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/vivid-nails-conroe/
+2. Elegant Nails | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Elegant Nails is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-nails-conroe/
+3. Nationwide Nails & Spa | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Nationwide Nails & Spa is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-nails-and-spa-conroe/
+4. Premier Nail Bar | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Premier Nail Bar is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/premier-nail-bar-conroe/
+5. Nails of America | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Nails of America is a nail salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/nails-of-america-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon conroe tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

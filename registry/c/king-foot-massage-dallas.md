@@ -13,7 +13,7 @@ King Foot Massage is a massage studio in Dallas, TX at 5834 Abrams Road, Dallas,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-22:00
-- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 32% of massage studios in Dallas–Fort Worth, #8 of 33 massage studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

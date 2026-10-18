@@ -13,7 +13,7 @@ FedEx Office is a printing service in Humble, TX at 10022 FM 1960 Bypass Road We
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 53% of printing services in Houston, #2 of 2 printing services in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

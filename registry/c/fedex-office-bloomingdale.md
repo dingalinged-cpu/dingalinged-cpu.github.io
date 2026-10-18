@@ -13,7 +13,7 @@ FedEx Office is a printing service in Bloomingdale, IL at 369 West Army Trail Ro
 - Website: https://local.fedex.com/en-us/il/bloomingdale/office-3622
 - Email: usa3622@fedex.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 12:00-18:00
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 13% of printing services in Chicago, #1 of 1 printing services in Bloomingdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 69.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

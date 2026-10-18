@@ -13,7 +13,7 @@ New Leaf Custom Homes is an architect in Dallas, TX at 9840 North Central Expres
 - Website: https://www.newleafcustom.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 22% of architects in Dallas–Fort Worth, #3 of 6 architects in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

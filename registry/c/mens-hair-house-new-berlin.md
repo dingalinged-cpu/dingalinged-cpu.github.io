@@ -13,7 +13,7 @@ Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road,
 - Website: https://menshairhouse.com/new-berlin-wi/
 - Email: mhh4newberlin@menshairhouse.com
 - Opening hours (OSM syntax): Mo 12:00-19:00; Tu-Th 12:00-18:00; Fr 11:00-19:00; Sa 09:00-13:00; Su 09:00-15:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 67/100 — Good — top 5% of barber shops in Milwaukee, #1 of 2 barber shops in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.2, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

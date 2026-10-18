@@ -13,7 +13,7 @@ Helping Hands Boutique is a thrift store in Rockwall, TX at 959 Williams Street,
 - Website: https://rockwallhelpinghands.com/thrift-store/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 14% of thrift stores in Dallas–Fort Worth, #1 of 2 thrift stores in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

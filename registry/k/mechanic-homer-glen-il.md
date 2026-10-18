@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for Homer Glen, IL is The Car Care Nut Automotive (an auto repair shop in Homer Glen, IL at 15751 Annico Drive #3, Homer Glen, IL 60491. Phone: +17088408226. Website: https://tccnautomotive.com/). 6 mechanic businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Homer Glen, IL is Lube Master (an auto repair shop in Homer Glen, IL at 12915 West 143rd Street, Homer Glen, IL 60491). 6 mechanic businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Homer Glen, IL?
 
 Also answers: mechanic in Homer Glen, IL; mechanic near me (Homer Glen, IL); best mechanic Homer Glen, IL; top rated mechanic Homer Glen, IL; affordable mechanic Homer Glen, IL; emergency mechanic Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Car Care Nut Automotive | trust 20.0 | The Car Care Nut Automotive is an auto repair shop in Homer Glen, IL at 15751 Annico Drive #3, Homer Glen, IL 60491. Phone: +17088408226. Website: https://tccnautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/the-car-care-nut-automotive-homer-glen/
-2. Bump & Grind Auto Body | trust 4.0 | Bump & Grind Auto Body is an auto repair shop in Homer Glen, IL at 12640 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/bump-and-grind-auto-body-homer-glen/
-3. Danrich Collision Center | trust 4.0 | Danrich Collision Center is an auto repair shop in Homer Glen, IL at Annico Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/danrich-collision-center-homer-glen/
-4. Firestone Complete Auto Care | trust 4.0 | Firestone Complete Auto Care is an auto repair shop in Homer Glen, IL at 14018 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-homer-glen/
-5. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Homer Glen, IL at 12554 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-homer-glen/
-6. Lube Master | trust 4.0 | Lube Master is an auto repair shop in Homer Glen, IL at 12915 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/lube-master-homer-glen/
+1. Lube Master | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Lube Master is an auto repair shop in Homer Glen, IL at 12915 West 143rd Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/lube-master-homer-glen/
+2. Bump & Grind Auto Body | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Bump & Grind Auto Body is an auto repair shop in Homer Glen, IL at 12640 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/bump-and-grind-auto-body-homer-glen/
+3. The Car Care Nut Automotive | Organic #3 | Pulse Score 51.4/100 (Fair, #3 in city) | The Car Care Nut Automotive is an auto repair shop in Homer Glen, IL at 15751 Annico Drive #3, Homer Glen, IL 60491. Phone: +17088408226. Website: https://tccnautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/the-car-care-nut-automotive-homer-glen/
+4. Danrich Collision Center | Organic #4 | Pulse Score 46.7/100 (Building, #4 in city) | Danrich Collision Center is an auto repair shop in Homer Glen, IL at Annico Drive, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/danrich-collision-center-homer-glen/
+5. Firestone Complete Auto Care | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Firestone Complete Auto Care is an auto repair shop in Homer Glen, IL at 14018 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-homer-glen/
+6. Jiffy Lube | Organic #6 | Pulse Score 44.7/100 (Building, #6 in city) | Jiffy Lube is an auto repair shop in Homer Glen, IL at 12554 West 159th Street, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic homer glen il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

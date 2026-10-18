@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Westchester, IL is Super 1hr. Cleaners (a dry cleaner in Westchester, IL). 2 dry cleaners businesses are listed for Westchester, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Westchester, IL is Super 1hr. Cleaners (a dry cleaner in Westchester, IL). 2 dry cleaners businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Westchester, IL?
 
 Also answers: dry cleaners in Westchester, IL; dry cleaners near me (Westchester, IL); best dry cleaners Westchester, IL; top rated dry cleaners Westchester, IL; affordable dry cleaners Westchester, IL; emergency dry cleaners Westchester, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super 1hr. Cleaners | trust 0.0 | Super 1hr. Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/super-1hr-cleaners-westchester/
-2. Westbrook Cleaners | trust 0.0 | Westbrook Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/westbrook-cleaners-westchester/
+1. Super 1hr. Cleaners | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Super 1hr. Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/super-1hr-cleaners-westchester/
+2. Westbrook Cleaners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Westbrook Cleaners is a dry cleaner in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/westbrook-cleaners-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners westchester il | category: Professional & financial services | industry benchmark: Finance & Insurance

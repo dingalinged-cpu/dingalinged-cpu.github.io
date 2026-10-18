@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Chicago, IL at 2144 South Archer Avenue, Chicago, 
 - Website: https://www.tljus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-19:00
-- Registry Score: 53.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 90% of bakerys in Chicago, #309 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.7, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Park Dental Brookpark is a dentist in Brooklyn Center, MN at 6437 Brooklyn Boule
 - Website: https://www.parkdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 17% of dentists in Minneapolis–St. Paul, #1 of 2 dentists in Brooklyn Center (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

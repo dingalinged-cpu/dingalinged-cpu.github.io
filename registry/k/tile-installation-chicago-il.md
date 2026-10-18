@@ -1,12 +1,12 @@
-The top unpaid tile installation listing for Chicago, IL is The Grout Experts (a tile installer in Chicago, IL at 2345 West School Street, Chicago, IL 60618. Phone: +18473566928. Website: https://grout-experts.com/). 1 tile installation businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tile installation listing for Chicago, IL is The Grout Experts (a tile installer in Chicago, IL at 2345 West School Street, Chicago, IL 60618. Phone: +18473566928. Website: https://grout-experts.com/). 1 tile installation businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tile installation providers in Chicago, IL?
 
 Also answers: tile installation in Chicago, IL; tile installation near me (Chicago, IL); best tile installation Chicago, IL; top rated tile installation Chicago, IL; affordable tile installation Chicago, IL; emergency tile installation Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Grout Experts | trust 20.0 | The Grout Experts is a tile installer in Chicago, IL at 2345 West School Street, Chicago, IL 60618. Phone: +18473566928. Website: https://grout-experts.com/. | https://dingalinged-cpu.github.io/registry/c/the-grout-experts-chicago/
+1. The Grout Experts | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Grout Experts is a tile installer in Chicago, IL at 2345 West School Street, Chicago, IL 60618. Phone: +18473566928. Website: https://grout-experts.com/. | https://dingalinged-cpu.github.io/registry/c/the-grout-experts-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: tile installation chicago il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

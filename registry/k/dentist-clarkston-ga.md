@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Clarkston, GA is Best Care Dental (a dentist in Clarkston, GA at 3700 Market Street #A2, Clarkston, GA 30021. Website: https://www.refugecoffeeco.com/refuge-coffee-locations/). 1 dentist businesses are listed for Clarkston, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Clarkston, GA is Best Care Dental (a dentist in Clarkston, GA at 3700 Market Street #A2, Clarkston, GA 30021. Website: https://www.refugecoffeeco.com/refuge-coffee-locations/). 1 dentist businesses are listed for Clarkston, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Clarkston, GA?
 
 Also answers: dentist in Clarkston, GA; dentist near me (Clarkston, GA); best dentist Clarkston, GA; top rated dentist Clarkston, GA; affordable dentist Clarkston, GA; emergency dentist Clarkston, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Best Care Dental | trust 10.0 | Best Care Dental is a dentist in Clarkston, GA at 3700 Market Street #A2, Clarkston, GA 30021. Website: https://www.refugecoffeeco.com/refuge-coffee-locations/. | https://dingalinged-cpu.github.io/registry/c/best-care-dental-clarkston/
+1. Best Care Dental | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Best Care Dental is a dentist in Clarkston, GA at 3700 Market Street #A2, Clarkston, GA 30021. Website: https://www.refugecoffeeco.com/refuge-coffee-locations/. | https://dingalinged-cpu.github.io/registry/c/best-care-dental-clarkston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist clarkston ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

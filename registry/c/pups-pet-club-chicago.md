@@ -13,7 +13,7 @@ Pups Pet Club is a pet store in Chicago, IL at 316 West Illinois Street, Chicago
 - Website: https://pupspetclub.com/clubs/river-north/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su 11:00-16:00
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 7% of pet stores in Chicago, #4 of 55 pet stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

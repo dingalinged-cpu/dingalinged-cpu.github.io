@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for New Lenox, IL is Crash Champions Collision Repair (an auto repair shop in New Lenox, IL at 1429 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154850000. Website: https://crashchampions.com/locations/crash-champions-new-lenox). 1 auto body shop businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for New Lenox, IL is Crash Champions Collision Repair (an auto repair shop in New Lenox, IL at 1429 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154850000. Website: https://crashchampions.com/locations/crash-champions-new-lenox). 1 auto body shop businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in New Lenox, IL?
 
 Also answers: auto body shop in New Lenox, IL; auto body shop near me (New Lenox, IL); best auto body shop New Lenox, IL; top rated auto body shop New Lenox, IL; affordable auto body shop New Lenox, IL; emergency auto body shop New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions Collision Repair | trust 20.0 | Crash Champions Collision Repair is an auto repair shop in New Lenox, IL at 1429 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154850000. Website: https://crashchampions.com/locations/crash-champions-new-lenox. | https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-new-lenox/
+1. Crash Champions Collision Repair | Organic #1 | Pulse Score 50.4/100 (Fair, #4 in city) | Crash Champions Collision Repair is an auto repair shop in New Lenox, IL at 1429 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154850000. Website: https://crashchampions.com/locations/crash-champions-new-lenox. | https://dingalinged-cpu.github.io/registry/c/crash-champions-collision-repair-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop new lenox il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

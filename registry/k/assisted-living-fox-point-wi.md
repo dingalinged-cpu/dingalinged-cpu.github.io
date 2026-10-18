@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Fox Point, WI is Azura Memory Care (an assisted living facility in Fox Point, WI at 7770 North Port Washington Road, Fox Point, WI 53217. Website: https://azuraliving.com/locations/fox-point/). 1 assisted living businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Fox Point, WI is Azura Memory Care (an assisted living facility in Fox Point, WI at 7770 North Port Washington Road, Fox Point, WI 53217. Website: https://azuraliving.com/locations/fox-point/). 1 assisted living businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Fox Point, WI?
 
 Also answers: assisted living in Fox Point, WI; assisted living near me (Fox Point, WI); best assisted living Fox Point, WI; top rated assisted living Fox Point, WI; affordable assisted living Fox Point, WI; emergency assisted living Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Azura Memory Care | trust 10.0 | Azura Memory Care is an assisted living facility in Fox Point, WI at 7770 North Port Washington Road, Fox Point, WI 53217. Website: https://azuraliving.com/locations/fox-point/. | https://dingalinged-cpu.github.io/registry/c/azura-memory-care-fox-point/
+1. Azura Memory Care | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Azura Memory Care is an assisted living facility in Fox Point, WI at 7770 North Port Washington Road, Fox Point, WI 53217. Website: https://azuraliving.com/locations/fox-point/. | https://dingalinged-cpu.github.io/registry/c/azura-memory-care-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living fox point wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Premier Dental Center is a dentist in Naperville, IL at 309 West Ogden Avenue, N
 - Website: https://www.dentistnapervilleil.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 21% of dentists in Chicago, #16 of 30 dentists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

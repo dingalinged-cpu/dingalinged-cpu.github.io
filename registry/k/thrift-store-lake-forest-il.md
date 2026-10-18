@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Lake Forest, IL is Forest and Found (a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/). 1 thrift store businesses are listed for Lake Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Lake Forest, IL is Forest and Found (a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/). 1 thrift store businesses are listed for Lake Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Lake Forest, IL?
 
 Also answers: thrift store in Lake Forest, IL; thrift store near me (Lake Forest, IL); best thrift store Lake Forest, IL; top rated thrift store Lake Forest, IL; affordable thrift store Lake Forest, IL; emergency thrift store Lake Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forest and Found | trust 20.0 | Forest and Found is a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/. | https://dingalinged-cpu.github.io/registry/c/forest-and-found-lake-forest/
+1. Forest and Found | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Forest and Found is a thrift store in Lake Forest, IL at 1363 North Western Avenue, Lake Forest, IL 60045. Phone: +18474821705. Website: https://forestandfound.com/. | https://dingalinged-cpu.github.io/registry/c/forest-and-found-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store lake forest il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

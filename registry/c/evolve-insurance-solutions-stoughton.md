@@ -13,7 +13,7 @@ Evolve Insurance Solutions is an insurance agent in Stoughton, WI at 214 S. Forr
 - Website: https://eiswi.com/
 - Email: charles@eiswi.com
 - Opening hours (OSM syntax): Monday To Friday : 9:00 Am – 05.00 Pm | Saturday & Sunday: Closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 3% of insurance agents in Madison, #1 of 2 insurance agents in Stoughton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

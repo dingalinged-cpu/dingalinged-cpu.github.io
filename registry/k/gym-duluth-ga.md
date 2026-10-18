@@ -1,14 +1,14 @@
-The top unpaid gym listing for Duluth, GA is Anytime Fitness (a gym in Duluth, GA at 2615 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702324949. Website: https://www.anytimefitness.com/gyms/1342/duluth-ga-30097/). 3 gym businesses are listed for Duluth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Duluth, GA is Anytime Fitness (a gym in Duluth, GA at 2615 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702324949. Website: https://www.anytimefitness.com/gyms/1342/duluth-ga-30097/). 3 gym businesses are listed for Duluth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Duluth, GA?
 
 Also answers: gym in Duluth, GA; gym near me (Duluth, GA); best gym Duluth, GA; top rated gym Duluth, GA; affordable gym Duluth, GA; emergency gym Duluth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Duluth, GA at 2615 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702324949. Website: https://www.anytimefitness.com/gyms/1342/duluth-ga-30097/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-duluth/
-2. Crunch Fitness | trust 16.0 | Crunch Fitness is a gym in Duluth, GA at 2200 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702023719. Website: https://www.crunch.com/locations/duluth. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-duluth/
-3. LA Fitness | trust 4.0 | LA Fitness is a gym in Duluth, GA at 11720 Medlock Bridge Road #Suite 400, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/la-fitness-duluth/
+1. Anytime Fitness | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Anytime Fitness is a gym in Duluth, GA at 2615 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702324949. Website: https://www.anytimefitness.com/gyms/1342/duluth-ga-30097/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-duluth/
+2. Crunch Fitness | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Crunch Fitness is a gym in Duluth, GA at 2200 Peachtree Industrial Boulevard, Duluth, GA 30097. Phone: +17702023719. Website: https://www.crunch.com/locations/duluth. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-duluth/
+3. LA Fitness | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | LA Fitness is a gym in Duluth, GA at 11720 Medlock Bridge Road #Suite 400, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/la-fitness-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym duluth ga | category: Fitness | industry benchmark: Health & Fitness

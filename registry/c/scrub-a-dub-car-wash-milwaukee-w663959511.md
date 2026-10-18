@@ -13,7 +13,7 @@ Scrub-a-Dub Car Wash is a car wash in Milwaukee, WI at 4240 South 27th Street, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 83% of car washes in Milwaukee, #20 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

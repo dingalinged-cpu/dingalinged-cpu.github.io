@@ -1,12 +1,12 @@
-The top unpaid property management companies listing for Westlake, TX is GlenStar (a property management company in Westlake, TX at 1500 Solana Boulevard #1100, Westlake, TX 76262). 1 property management companies businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management companies listing for Westlake, TX is GlenStar (a property management company in Westlake, TX at 1500 Solana Boulevard #1100, Westlake, TX 76262). 1 property management companies businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management companies providers in Westlake, TX?
 
 Also answers: property management companies in Westlake, TX; property management companies near me (Westlake, TX); best property management companies Westlake, TX; top rated property management companies Westlake, TX; affordable property management companies Westlake, TX; emergency property management companies Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GlenStar | trust 4.0 | GlenStar is a property management company in Westlake, TX at 1500 Solana Boulevard #1100, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/glenstar-westlake/
+1. GlenStar | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | GlenStar is a property management company in Westlake, TX at 1500 Solana Boulevard #1100, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/glenstar-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies westlake tx | category: real_estate | industry benchmark: Real Estate

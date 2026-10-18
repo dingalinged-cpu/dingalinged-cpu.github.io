@@ -1,16 +1,16 @@
-The top unpaid pet store listing for Frisco, TX is Pet Supplies Plus (a pet store in Frisco, TX at 12205 Teel Parkway #300, Frisco, TX 75033. Phone: +14698035712. Website: https://www.petsuppliesplus.com/store/tx/frisco/frisco/4133). 5 pet store businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Frisco, TX is Petco (a pet store in Frisco, TX at 5177 Eldorado Parkway, Frisco, TX 75033. Phone: +12147059384. Website: https://stores.petco.com/tx/frisco/pet-supplies-frisco-tx-1486.html). 5 pet store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Frisco, TX?
 
 Also answers: pet store in Frisco, TX; pet store near me (Frisco, TX); best pet store Frisco, TX; top rated pet store Frisco, TX; affordable pet store Frisco, TX; emergency pet store Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | trust 20.0 | Pet Supplies Plus is a pet store in Frisco, TX at 12205 Teel Parkway #300, Frisco, TX 75033. Phone: +14698035712. Website: https://www.petsuppliesplus.com/store/tx/frisco/frisco/4133. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-frisco/
-2. Petco | trust 20.0 | Petco is a pet store in Frisco, TX at 5177 Eldorado Parkway, Frisco, TX 75033. Phone: +12147059384. Website: https://stores.petco.com/tx/frisco/pet-supplies-frisco-tx-1486.html. | https://dingalinged-cpu.github.io/registry/c/petco-frisco-w665438106/
-3. Petco | trust 3.0 | Petco is a pet store in Frisco, TX at 15942 Eldorado Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petco-frisco/
-4. PetSmart | trust 0.0 | PetSmart is a pet store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-frisco/
-5. PetSmart | trust 0.0 | PetSmart is a pet store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-frisco-n13591019562/
+1. Petco | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Petco is a pet store in Frisco, TX at 5177 Eldorado Parkway, Frisco, TX 75033. Phone: +12147059384. Website: https://stores.petco.com/tx/frisco/pet-supplies-frisco-tx-1486.html. | https://dingalinged-cpu.github.io/registry/c/petco-frisco-w665438106/
+2. Pet Supplies Plus | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Pet Supplies Plus is a pet store in Frisco, TX at 12205 Teel Parkway #300, Frisco, TX 75033. Phone: +14698035712. Website: https://www.petsuppliesplus.com/store/tx/frisco/frisco/4133. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-frisco/
+3. Petco | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | Petco is a pet store in Frisco, TX at 15942 Eldorado Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petco-frisco/
+4. PetSmart | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | PetSmart is a pet store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-frisco-n13591019562/
+5. PetSmart | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | PetSmart is a pet store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

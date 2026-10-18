@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Watauga, TX is 5 Star Dental (a dentist in Watauga, TX at 8247 Rufe Snow Drive #100, Watauga, TX 76148. Website: https://5stardentaltx.com/). 1 dentist businesses are listed for Watauga, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Watauga, TX is 5 Star Dental (a dentist in Watauga, TX at 8247 Rufe Snow Drive #100, Watauga, TX 76148. Website: https://5stardentaltx.com/). 1 dentist businesses are listed for Watauga, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Watauga, TX?
 
 Also answers: dentist in Watauga, TX; dentist near me (Watauga, TX); best dentist Watauga, TX; top rated dentist Watauga, TX; affordable dentist Watauga, TX; emergency dentist Watauga, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 5 Star Dental | trust 14.0 | 5 Star Dental is a dentist in Watauga, TX at 8247 Rufe Snow Drive #100, Watauga, TX 76148. Website: https://5stardentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/5-star-dental-watauga/
+1. 5 Star Dental | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | 5 Star Dental is a dentist in Watauga, TX at 8247 Rufe Snow Drive #100, Watauga, TX 76148. Website: https://5stardentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/5-star-dental-watauga/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist watauga tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

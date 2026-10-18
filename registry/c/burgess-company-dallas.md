@@ -13,7 +13,7 @@ Burgess Company is an accountant in Dallas, TX at 5425 Philip Avenue, Dallas, TX
 - Website: https://burgesscpas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 42% of accountants in Dallas–Fort Worth, #5 of 10 accountants in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

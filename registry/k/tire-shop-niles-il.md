@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Niles, IL is Costco Tire Center (a tire shop in Niles, IL at 7311 North Melvina Avenue, Niles, IL 60714. Website: https://www.costco.com/warehouse-locations/niles-il-383.html). 2 tire shop businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Niles, IL is Costco Tire Center (a tire shop in Niles, IL at 7311 North Melvina Avenue, Niles, IL 60714. Website: https://www.costco.com/warehouse-locations/niles-il-383.html). 2 tire shop businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Niles, IL?
 
 Also answers: tire shop in Niles, IL; tire shop near me (Niles, IL); best tire shop Niles, IL; top rated tire shop Niles, IL; affordable tire shop Niles, IL; emergency tire shop Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Costco Tire Center | trust 10.0 | Costco Tire Center is a tire shop in Niles, IL at 7311 North Melvina Avenue, Niles, IL 60714. Website: https://www.costco.com/warehouse-locations/niles-il-383.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-niles/
-2. Cassidy Tire and Service | trust 4.0 | Cassidy Tire and Service is a tire shop in Niles, IL at 8733 Harlem Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-niles/
+1. Costco Tire Center | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Costco Tire Center is a tire shop in Niles, IL at 7311 North Melvina Avenue, Niles, IL 60714. Website: https://www.costco.com/warehouse-locations/niles-il-383.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-niles/
+2. Cassidy Tire and Service | Organic #2 | Pulse Score 45.2/100 (Unrated, #2 in city) | Cassidy Tire and Service is a tire shop in Niles, IL at 8733 Harlem Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop niles il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

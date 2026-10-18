@@ -1,17 +1,17 @@
-The top unpaid dentist listing for Colleyville, TX is Liberty Family Dentistry (a dentist in Colleyville, TX at 8300 Precinct Line Road, Colleyville, TX 76034. Phone: +18172814300. Website: https://lfdtexas.com/index.html). 6 dentist businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Colleyville, TX is Liberty Family Dentistry (a dentist in Colleyville, TX at 8300 Precinct Line Road, Colleyville, TX 76034. Phone: +18172814300. Website: https://lfdtexas.com/index.html). 6 dentist businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Colleyville, TX?
 
 Also answers: dentist in Colleyville, TX; dentist near me (Colleyville, TX); best dentist Colleyville, TX; top rated dentist Colleyville, TX; affordable dentist Colleyville, TX; emergency dentist Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Family Dentistry | trust 20.0 | Liberty Family Dentistry is a dentist in Colleyville, TX at 8300 Precinct Line Road, Colleyville, TX 76034. Phone: +18172814300. Website: https://lfdtexas.com/index.html. | https://dingalinged-cpu.github.io/registry/c/liberty-family-dentistry-colleyville/
-2. Pediatric Dentistry of Colleyville | trust 4.0 | Pediatric Dentistry of Colleyville is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/pediatric-dentistry-of-colleyville-colleyville/
-3. Dental Studio | trust 3.0 | Dental Studio is a dentist in Colleyville, TX at Colleyville Boulevard, Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/dental-studio-colleyville/
-4. Anderson Dentistry | trust 0.0 | Anderson Dentistry is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/anderson-dentistry-colleyville/
-5. Colleyville Children's Dentistry | trust 0.0 | Colleyville Children's Dentistry is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/colleyville-childrens-dentistry-colleyville/
-6. Motherwell Orthodontics | trust 0.0 | Motherwell Orthodontics is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/motherwell-orthodontics-colleyville/
+1. Liberty Family Dentistry | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Liberty Family Dentistry is a dentist in Colleyville, TX at 8300 Precinct Line Road, Colleyville, TX 76034. Phone: +18172814300. Website: https://lfdtexas.com/index.html. | https://dingalinged-cpu.github.io/registry/c/liberty-family-dentistry-colleyville/
+2. Pediatric Dentistry of Colleyville | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Pediatric Dentistry of Colleyville is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/pediatric-dentistry-of-colleyville-colleyville/
+3. Dental Studio | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Dental Studio is a dentist in Colleyville, TX at Colleyville Boulevard, Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/dental-studio-colleyville/
+4. Motherwell Orthodontics | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Motherwell Orthodontics is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/motherwell-orthodontics-colleyville/
+5. Anderson Dentistry | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Anderson Dentistry is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/anderson-dentistry-colleyville/
+6. Colleyville Children's Dentistry | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Colleyville Children's Dentistry is a dentist in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/colleyville-childrens-dentistry-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist colleyville tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

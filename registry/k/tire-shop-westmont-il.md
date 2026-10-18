@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Westmont, IL is Express Oil Change & Tire Engineers (a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/). 2 tire shop businesses are listed for Westmont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Westmont, IL is Express Oil Change & Tire Engineers (a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/). 2 tire shop businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Westmont, IL?
 
 Also answers: tire shop in Westmont, IL; tire shop near me (Westmont, IL); best tire shop Westmont, IL; top rated tire shop Westmont, IL; affordable tire shop Westmont, IL; emergency tire shop Westmont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-westmont/
-2. Just Tires | trust 0.0 | Just Tires is a tire shop in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/just-tires-westmont/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Westmont, IL at 25 West 63rd Street, Westmont, IL 60559. Phone: +16305415540. Website: https://www.expressoil.com/stores/westmont/il/1710/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-westmont/
+2. Just Tires | Organic #2 | Pulse Score 41.4/100 (Unrated, #2 in city) | Just Tires is a tire shop in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/just-tires-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop westmont il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

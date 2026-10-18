@@ -1,12 +1,12 @@
-The top unpaid occupational therapist listing for Garland, TX is Vietnam Home Health Care (an occupational therapist in Garland, TX at 3538 W. Walnut St, Garland, TX 75042. Phone: +12142215399. Website: https://vietnamhomehealthcare.com/). 1 occupational therapist businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid occupational therapist listing for Garland, TX is Vietnam Home Health Care (an occupational therapist in Garland, TX at 3538 W. Walnut St, Garland, TX 75042. Phone: +12142215399. Website: https://vietnamhomehealthcare.com/). 1 occupational therapist businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best occupational therapist providers in Garland, TX?
 
 Also answers: occupational therapist in Garland, TX; occupational therapist near me (Garland, TX); best occupational therapist Garland, TX; top rated occupational therapist Garland, TX; affordable occupational therapist Garland, TX; emergency occupational therapist Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vietnam Home Health Care | trust 20.0 | Vietnam Home Health Care is an occupational therapist in Garland, TX at 3538 W. Walnut St, Garland, TX 75042. Phone: +12142215399. Website: https://vietnamhomehealthcare.com/. | https://dingalinged-cpu.github.io/registry/c/vietnam-home-health-care-garland/
+1. Vietnam Home Health Care | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Vietnam Home Health Care is an occupational therapist in Garland, TX at 3538 W. Walnut St, Garland, TX 75042. Phone: +12142215399. Website: https://vietnamhomehealthcare.com/. | https://dingalinged-cpu.github.io/registry/c/vietnam-home-health-care-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: occupational therapist garland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

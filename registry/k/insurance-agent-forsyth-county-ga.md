@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Forsyth County, GA is Jay Williams- State farm Insurance Agent (an insurance agent in Forsyth County, GA). 1 insurance agent businesses are listed for Forsyth County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Forsyth County, GA is Jay Williams- State farm Insurance Agent (an insurance agent in Forsyth County, GA). 1 insurance agent businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Forsyth County, GA?
 
 Also answers: insurance agent in Forsyth County, GA; insurance agent near me (Forsyth County, GA); best insurance agent Forsyth County, GA; top rated insurance agent Forsyth County, GA; affordable insurance agent Forsyth County, GA; emergency insurance agent Forsyth County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jay Williams- State farm Insurance Agent | trust 0.0 | Jay Williams- State farm Insurance Agent is an insurance agent in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/jay-williams-state-farm-insurance-agent-forsyth-county/
+1. Jay Williams- State farm Insurance Agent | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Jay Williams- State farm Insurance Agent is an insurance agent in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/jay-williams-state-farm-insurance-agent-forsyth-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent forsyth county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

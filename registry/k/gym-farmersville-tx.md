@@ -1,12 +1,12 @@
-The top unpaid gym listing for Farmersville, TX is Rock Fitness (a gym in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://rockfitnesscamp.com/). 1 gym businesses are listed for Farmersville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Farmersville, TX is Rock Fitness (a gym in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://rockfitnesscamp.com/). 1 gym businesses are listed for Farmersville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Farmersville, TX?
 
 Also answers: gym in Farmersville, TX; gym near me (Farmersville, TX); best gym Farmersville, TX; top rated gym Farmersville, TX; affordable gym Farmersville, TX; emergency gym Farmersville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rock Fitness | trust 10.0 | Rock Fitness is a gym in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://rockfitnesscamp.com/. | https://dingalinged-cpu.github.io/registry/c/rock-fitness-farmersville/
+1. Rock Fitness | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Rock Fitness is a gym in Farmersville, TX at 1022 North State Highway 78, Farmersville, TX 75442. Website: https://rockfitnesscamp.com/. | https://dingalinged-cpu.github.io/registry/c/rock-fitness-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym farmersville tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Danada House is an event venue in Wheaton, IL at 3S501 Naperville Road, Wheaton,
 - Website: https://danadahouse.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 13% of event venues in Chicago, #1 of 2 event venues in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

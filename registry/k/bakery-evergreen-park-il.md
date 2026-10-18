@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Evergreen Park, IL is Wolf's Bakery (a bakery in Evergreen Park, IL at 3241 West 95th Street, Evergreen Park, IL 60805). 1 bakery businesses are listed for Evergreen Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Evergreen Park, IL is Wolf's Bakery (a bakery in Evergreen Park, IL at 3241 West 95th Street, Evergreen Park, IL 60805). 1 bakery businesses are listed for Evergreen Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Evergreen Park, IL?
 
 Also answers: bakery in Evergreen Park, IL; bakery near me (Evergreen Park, IL); best bakery Evergreen Park, IL; top rated bakery Evergreen Park, IL; affordable bakery Evergreen Park, IL; emergency bakery Evergreen Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wolf's Bakery | trust 4.0 | Wolf's Bakery is a bakery in Evergreen Park, IL at 3241 West 95th Street, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/wolfs-bakery-evergreen-park/
+1. Wolf's Bakery | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Wolf's Bakery is a bakery in Evergreen Park, IL at 3241 West 95th Street, Evergreen Park, IL 60805. | https://dingalinged-cpu.github.io/registry/c/wolfs-bakery-evergreen-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery evergreen park il | category: Events & weddings | industry benchmark: Personal Services

@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Rockwall, TX is Hollywood Feed (a pet store in Rockwall, TX at 2930 Ridge Road, Rockwall, TX 75032. Phone: +14698682050. Website: https://locations.hollywoodfeed.com/texas/rockwall/2930-ridge-rd/). 3 pet store businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Rockwall, TX is Petco (a pet store in Rockwall, TX at 2689 Market Center Drive, Rockwall, TX 75032. Phone: +19727223224. Website: https://stores.petco.com/tx/rockwall/pet-supplies-rockwall-tx-487.html). 3 pet store businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Rockwall, TX?
 
 Also answers: pet store in Rockwall, TX; pet store near me (Rockwall, TX); best pet store Rockwall, TX; top rated pet store Rockwall, TX; affordable pet store Rockwall, TX; emergency pet store Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hollywood Feed | trust 20.0 | Hollywood Feed is a pet store in Rockwall, TX at 2930 Ridge Road, Rockwall, TX 75032. Phone: +14698682050. Website: https://locations.hollywoodfeed.com/texas/rockwall/2930-ridge-rd/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-rockwall/
-2. Petco | trust 20.0 | Petco is a pet store in Rockwall, TX at 2689 Market Center Drive, Rockwall, TX 75032. Phone: +19727223224. Website: https://stores.petco.com/tx/rockwall/pet-supplies-rockwall-tx-487.html. | https://dingalinged-cpu.github.io/registry/c/petco-rockwall/
-3. PetSmart | trust 16.0 | PetSmart is a pet store in Rockwall, TX at 931 East Interstate 30, Rockwall, TX 75087. Phone: +19727225333. Website: https://www.petsmart.com/stores/us/tx/rockwall-store1278.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-rockwall/
+1. Petco | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Petco is a pet store in Rockwall, TX at 2689 Market Center Drive, Rockwall, TX 75032. Phone: +19727223224. Website: https://stores.petco.com/tx/rockwall/pet-supplies-rockwall-tx-487.html. | https://dingalinged-cpu.github.io/registry/c/petco-rockwall/
+2. Hollywood Feed | Organic #2 | Pulse Score 46.8/100 (Unrated, #2 in city) | Hollywood Feed is a pet store in Rockwall, TX at 2930 Ridge Road, Rockwall, TX 75032. Phone: +14698682050. Website: https://locations.hollywoodfeed.com/texas/rockwall/2930-ridge-rd/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-rockwall/
+3. PetSmart | Organic #3 | Pulse Score 45.5/100 (Building, #3 in city) | PetSmart is a pet store in Rockwall, TX at 931 East Interstate 30, Rockwall, TX 75087. Phone: +19727225333. Website: https://www.petsmart.com/stores/us/tx/rockwall-store1278.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

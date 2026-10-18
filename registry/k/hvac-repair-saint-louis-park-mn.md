@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Saint Louis Park, MN is Ideal Refrigeration Equipment (a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/). 1 hvac repair businesses are listed for Saint Louis Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Saint Louis Park, MN is Ideal Refrigeration Equipment (a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/). 1 hvac repair businesses are listed for Saint Louis Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Saint Louis Park, MN?
 
 Also answers: hvac repair in Saint Louis Park, MN; hvac repair near me (Saint Louis Park, MN); best hvac repair Saint Louis Park, MN; top rated hvac repair Saint Louis Park, MN; affordable hvac repair Saint Louis Park, MN; emergency hvac repair Saint Louis Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ideal Refrigeration Equipment | trust 16.0 | Ideal Refrigeration Equipment is a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/. | https://dingalinged-cpu.github.io/registry/c/ideal-refrigeration-equipment-saint-louis-park/
+1. Ideal Refrigeration Equipment | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Ideal Refrigeration Equipment is a HVAC contractor in Saint Louis Park, MN at 4046 Brookside Avenue South, Saint Louis Park, MN 55416. Phone: +19529294961. Website: https://www.idealrefrigeration.com/. | https://dingalinged-cpu.github.io/registry/c/ideal-refrigeration-equipment-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair saint louis park mn | category: Home services - HVAC | industry benchmark: Home & Home Improvement

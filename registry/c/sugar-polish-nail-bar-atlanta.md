@@ -13,7 +13,7 @@ Sugar Polish Nail Bar is a nail salon in Atlanta, GA at 1850 Howell Mill Road No
 - Website: https://www.sugarpolish.com/
 - Email: sugarpolishsalon@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 88% of nail salons in Atlanta, #30 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.2, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

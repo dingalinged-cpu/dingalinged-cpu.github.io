@@ -1,16 +1,16 @@
-The top unpaid pet store listing for Harris County, TX is Fish & Pets (a pet store in Harris County, TX). 5 pet store businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Harris County, TX is Fish & Pets (a pet store in Harris County, TX). 5 pet store businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Harris County, TX?
 
 Also answers: pet store in Harris County, TX; pet store near me (Harris County, TX); best pet store Harris County, TX; top rated pet store Harris County, TX; affordable pet store Harris County, TX; emergency pet store Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fish & Pets | trust 0.0 | Fish & Pets is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fish-and-pets-harris-county/
-2. Grooming and Boarding | trust 0.0 | Grooming and Boarding is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/grooming-and-boarding-harris-county/
-3. Inwood Aquarium FIsh and Supplies | trust 0.0 | Inwood Aquarium FIsh and Supplies is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/inwood-aquarium-fish-and-supplies-harris-county/
-4. Petco | trust 0.0 | Petco is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/petco-harris-county/
-5. Petco | trust 0.0 | Petco is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/petco-harris-county-n13577979755/
+1. Fish & Pets | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Fish & Pets is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fish-and-pets-harris-county/
+2. Grooming and Boarding | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Grooming and Boarding is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/grooming-and-boarding-harris-county/
+3. Inwood Aquarium FIsh and Supplies | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Inwood Aquarium FIsh and Supplies is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/inwood-aquarium-fish-and-supplies-harris-county/
+4. Petco | Organic #4 | Pulse Score 41.2/100 (Building, #4 in city) | Petco is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/petco-harris-county/
+5. Petco | Organic #5 | Pulse Score 41.2/100 (Building, #5 in city) | Petco is a pet store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/petco-harris-county-n13577979755/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store harris county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

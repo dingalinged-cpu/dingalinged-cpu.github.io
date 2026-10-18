@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Euless, TX is Total Wine (a liquor store in Euless, TX at 2501 Rio Grande Boulevard #200, Euless, TX 76039. Phone: +18175087303. Website: https://www.totalwine.com/store-info/528). 3 liquor store businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Euless, TX is Bru City (a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040). 3 liquor store businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Euless, TX?
 
 Also answers: liquor store in Euless, TX; liquor store near me (Euless, TX); best liquor store Euless, TX; top rated liquor store Euless, TX; affordable liquor store Euless, TX; emergency liquor store Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Euless, TX at 2501 Rio Grande Boulevard #200, Euless, TX 76039. Phone: +18175087303. Website: https://www.totalwine.com/store-info/528. | https://dingalinged-cpu.github.io/registry/c/total-wine-euless/
-2. Bru City | trust 4.0 | Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/bru-city-euless/
-3. Spec's | trust 4.0 | Spec's is a liquor store in Euless, TX at 900 East Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/specs-euless/
+1. Bru City | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Bru City is a liquor store in Euless, TX at 13000 Trinity Boulevard, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/bru-city-euless/
+2. Total Wine | Organic #2 | Pulse Score 50.8/100 (Fair, #2 in city) | Total Wine is a liquor store in Euless, TX at 2501 Rio Grande Boulevard #200, Euless, TX 76039. Phone: +18175087303. Website: https://www.totalwine.com/store-info/528. | https://dingalinged-cpu.github.io/registry/c/total-wine-euless/
+3. Spec's | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Spec's is a liquor store in Euless, TX at 900 East Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/specs-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store euless tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

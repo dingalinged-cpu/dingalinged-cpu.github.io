@@ -1,13 +1,13 @@
-The top unpaid gym listing for Crystal, MN is Anytime Fitness (a gym in Crystal, MN at 5580 West Broadway Avenue, Crystal, MN 55428. Phone: +17635319200. Website: https://www.anytimefitness.com/gyms/194/crystal-mn-55428/). 2 gym businesses are listed for Crystal, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Crystal, MN is Anytime Fitness (a gym in Crystal, MN at 5580 West Broadway Avenue, Crystal, MN 55428. Phone: +17635319200. Website: https://www.anytimefitness.com/gyms/194/crystal-mn-55428/). 2 gym businesses are listed for Crystal, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Crystal, MN?
 
 Also answers: gym in Crystal, MN; gym near me (Crystal, MN); best gym Crystal, MN; top rated gym Crystal, MN; affordable gym Crystal, MN; emergency gym Crystal, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Crystal, MN at 5580 West Broadway Avenue, Crystal, MN 55428. Phone: +17635319200. Website: https://www.anytimefitness.com/gyms/194/crystal-mn-55428/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-crystal/
-2. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-crystal/
+1. Anytime Fitness | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Crystal, MN at 5580 West Broadway Avenue, Crystal, MN 55428. Phone: +17635319200. Website: https://www.anytimefitness.com/gyms/194/crystal-mn-55428/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-crystal/
+2. Planet Fitness | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Planet Fitness is a gym in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-crystal/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym crystal mn | category: Fitness | industry benchmark: Health & Fitness

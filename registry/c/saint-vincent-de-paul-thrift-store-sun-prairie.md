@@ -13,7 +13,7 @@ Saint Vincent de Paul Thrift Store is a thrift store in Sun Prairie, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 69% of thrift stores in Madison, #2 of 3 thrift stores in Sun Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

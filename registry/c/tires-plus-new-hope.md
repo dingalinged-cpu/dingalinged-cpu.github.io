@@ -13,7 +13,7 @@ Tires Plus is a tire shop in New Hope, MN at 3520 Winnetka Avenue North, New Hop
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 73% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.3, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

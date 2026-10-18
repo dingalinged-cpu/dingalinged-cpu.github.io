@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Maple Grove, MN is Paradise Car Wash (a car wash in Maple Grove, MN at 13521 80th Circle North, Maple Grove, MN 55369. Phone: +17638983713. Website: https://www.paradisecarwash.com/). 4 car wash businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Maple Grove, MN is Paradise Car Wash (a car wash in Maple Grove, MN at 13521 80th Circle North, Maple Grove, MN 55369. Phone: +17638983713. Website: https://www.paradisecarwash.com/). 4 car wash businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Maple Grove, MN?
 
 Also answers: car wash in Maple Grove, MN; car wash near me (Maple Grove, MN); best car wash Maple Grove, MN; top rated car wash Maple Grove, MN; affordable car wash Maple Grove, MN; emergency car wash Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paradise Car Wash | trust 20.0 | Paradise Car Wash is a car wash in Maple Grove, MN at 13521 80th Circle North, Maple Grove, MN 55369. Phone: +17638983713. Website: https://www.paradisecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/paradise-car-wash-maple-grove/
-2. Steve's Auto World | trust 4.0 | Steve's Auto World is a car wash in Maple Grove, MN at 9871 Maple Grove Parkway, Maple Grove, MN 55369. | https://dingalinged-cpu.github.io/registry/c/steves-auto-world-maple-grove/
-3. Youngstedts Maple Grove Car Wash & Detail Center | trust 4.0 | Youngstedts Maple Grove Car Wash & Detail Center is a car wash in Maple Grove, MN at 16320 96th Avenue North, Maple Grove, MN 55311. | https://dingalinged-cpu.github.io/registry/c/youngstedts-maple-grove-car-wash-and-detail-center-maple-grove/
-4. BP | trust 0.0 | BP is a car wash in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/bp-maple-grove/
+1. Paradise Car Wash | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Paradise Car Wash is a car wash in Maple Grove, MN at 13521 80th Circle North, Maple Grove, MN 55369. Phone: +17638983713. Website: https://www.paradisecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/paradise-car-wash-maple-grove/
+2. Steve's Auto World | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Steve's Auto World is a car wash in Maple Grove, MN at 9871 Maple Grove Parkway, Maple Grove, MN 55369. | https://dingalinged-cpu.github.io/registry/c/steves-auto-world-maple-grove/
+3. Youngstedts Maple Grove Car Wash & Detail Center | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Youngstedts Maple Grove Car Wash & Detail Center is a car wash in Maple Grove, MN at 16320 96th Avenue North, Maple Grove, MN 55311. | https://dingalinged-cpu.github.io/registry/c/youngstedts-maple-grove-car-wash-and-detail-center-maple-grove/
+4. BP | Organic #4 | Pulse Score 43.7/100 (Unrated, #4 in city) | BP is a car wash in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/bp-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash maple grove mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

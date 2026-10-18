@@ -1,17 +1,17 @@
-The top unpaid gift shop listing for Peachtree Corners, GA is Miniso (a gift shop in Peachtree Corners, GA. Website: https://www.miniso.com/). 6 gift shop businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Peachtree Corners, GA is Miniso (a gift shop in Peachtree Corners, GA. Website: https://www.miniso.com/). 6 gift shop businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Peachtree Corners, GA?
 
 Also answers: gift shop in Peachtree Corners, GA; gift shop near me (Peachtree Corners, GA); best gift shop Peachtree Corners, GA; top rated gift shop Peachtree Corners, GA; affordable gift shop Peachtree Corners, GA; emergency gift shop Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miniso | trust 6.0 | Miniso is a gift shop in Peachtree Corners, GA. Website: https://www.miniso.com/. | https://dingalinged-cpu.github.io/registry/c/miniso-peachtree-corners/
-2. Brighton Collectibles | trust 0.0 | Brighton Collectibles is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/brighton-collectibles-peachtree-corners/
-3. Francesca's Collections | trust 0.0 | Francesca's Collections is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/francescas-collections-peachtree-corners/
-4. Gifts We All Want | trust 0.0 | Gifts We All Want is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/gifts-we-all-want-peachtree-corners/
-5. Hallmark | trust 0.0 | Hallmark is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/hallmark-peachtree-corners/
-6. Mori Luggage and Gifts | trust 0.0 | Mori Luggage and Gifts is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/mori-luggage-and-gifts-peachtree-corners/
+1. Miniso | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Miniso is a gift shop in Peachtree Corners, GA. Website: https://www.miniso.com/. | https://dingalinged-cpu.github.io/registry/c/miniso-peachtree-corners/
+2. Gifts We All Want | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Gifts We All Want is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/gifts-we-all-want-peachtree-corners/
+3. Francesca's Collections | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Francesca's Collections is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/francescas-collections-peachtree-corners/
+4. Mori Luggage and Gifts | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Mori Luggage and Gifts is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/mori-luggage-and-gifts-peachtree-corners/
+5. Hallmark | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | Hallmark is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/hallmark-peachtree-corners/
+6. Brighton Collectibles | Organic #6 | Pulse Score 44.6/100 (Building, #6 in city) | Brighton Collectibles is a gift shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/brighton-collectibles-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop peachtree corners ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

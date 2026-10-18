@@ -1,13 +1,13 @@
-The top unpaid car wash listing for New Glarus, WI is New Glarus Wäsche Center and Storage (a car wash in New Glarus, WI at 1500 State Highway 69, New Glarus, WI 53574). 2 car wash businesses are listed for New Glarus, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for New Glarus, WI is New Glarus Wäsche Center and Storage (a car wash in New Glarus, WI at 1500 State Highway 69, New Glarus, WI 53574). 2 car wash businesses are listed for New Glarus, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in New Glarus, WI?
 
 Also answers: car wash in New Glarus, WI; car wash near me (New Glarus, WI); best car wash New Glarus, WI; top rated car wash New Glarus, WI; affordable car wash New Glarus, WI; emergency car wash New Glarus, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Glarus Wäsche Center and Storage | trust 4.0 | New Glarus Wäsche Center and Storage is a car wash in New Glarus, WI at 1500 State Highway 69, New Glarus, WI 53574. | https://dingalinged-cpu.github.io/registry/c/new-glarus-w-sche-center-and-storage-new-glarus/
-2. New Glarus Wasche Center | trust 0.0 | New Glarus Wasche Center is a car wash in New Glarus, WI. | https://dingalinged-cpu.github.io/registry/c/new-glarus-wasche-center-new-glarus/
+1. New Glarus Wäsche Center and Storage | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | New Glarus Wäsche Center and Storage is a car wash in New Glarus, WI at 1500 State Highway 69, New Glarus, WI 53574. | https://dingalinged-cpu.github.io/registry/c/new-glarus-w-sche-center-and-storage-new-glarus/
+2. New Glarus Wasche Center | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | New Glarus Wasche Center is a car wash in New Glarus, WI. | https://dingalinged-cpu.github.io/registry/c/new-glarus-wasche-center-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash new glarus wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Refugio Barber Studio is a hair salon in Marietta, GA at 1854 Terrell Mill Road 
 - Website: https://www.refugiobarberstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:40; Su 11:00-17:10
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 20% of hair salons in Atlanta, #17 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Chicago Heights, IL is AAMCO (an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, Chicago Heights, IL 60411. Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave). 3 auto repair businesses are listed for Chicago Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Chicago Heights, IL is AAMCO (an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, Chicago Heights, IL 60411. Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave). 3 auto repair businesses are listed for Chicago Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Chicago Heights, IL?
 
 Also answers: auto repair in Chicago Heights, IL; auto repair near me (Chicago Heights, IL); best auto repair Chicago Heights, IL; top rated auto repair Chicago Heights, IL; affordable auto repair Chicago Heights, IL; emergency auto repair Chicago Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAMCO | trust 10.0 | AAMCO is an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, Chicago Heights, IL 60411. Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave. | https://dingalinged-cpu.github.io/registry/c/aamco-chicago-heights/
-2. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Chicago Heights, IL at 311 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://store.vioc.com/il/chicagoheights/oil-change-hb0002.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-heights/
-3. Crash Champions | trust 4.0 | Crash Champions is an auto repair shop in Chicago Heights, IL at 311 North Halsted Street, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-heights/
+1. AAMCO | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | AAMCO is an auto repair shop in Chicago Heights, IL at 1333 Hilltop Avenue #CD, Chicago Heights, IL 60411. Website: https://www.aamco.com/Auto-Repair-Center/IL/Chicago-Heights/Hilltop-Ave. | https://dingalinged-cpu.github.io/registry/c/aamco-chicago-heights/
+2. Valvoline | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Valvoline is an auto repair shop in Chicago Heights, IL at 311 West Lincoln Highway, Chicago Heights, IL 60411. Website: https://store.vioc.com/il/chicagoheights/oil-change-hb0002.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-heights/
+3. Crash Champions | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Crash Champions is an auto repair shop in Chicago Heights, IL at 311 North Halsted Street, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/crash-champions-chicago-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair chicago heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

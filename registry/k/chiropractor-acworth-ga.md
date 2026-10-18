@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Acworth, GA is Pfister Jerald W DC (a chiropractor in Acworth, GA at 4803 South Main Street, Acworth, GA 30101). 2 chiropractor businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Acworth, GA is Pfister Jerald W DC (a chiropractor in Acworth, GA at 4803 South Main Street, Acworth, GA 30101). 2 chiropractor businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Acworth, GA?
 
 Also answers: chiropractor in Acworth, GA; chiropractor near me (Acworth, GA); best chiropractor Acworth, GA; top rated chiropractor Acworth, GA; affordable chiropractor Acworth, GA; emergency chiropractor Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pfister Jerald W DC | trust 4.0 | Pfister Jerald W DC is a chiropractor in Acworth, GA at 4803 South Main Street, Acworth, GA 30101. | https://dingalinged-cpu.github.io/registry/c/pfister-jerald-w-dc-acworth/
-2. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-acworth/
+1. Pfister Jerald W DC | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Pfister Jerald W DC is a chiropractor in Acworth, GA at 4803 South Main Street, Acworth, GA 30101. | https://dingalinged-cpu.github.io/registry/c/pfister-jerald-w-dc-acworth/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 41.1/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor acworth ga | category: Health & medical | industry benchmark: Physicians & Surgeons

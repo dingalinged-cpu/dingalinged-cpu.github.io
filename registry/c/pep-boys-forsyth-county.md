@@ -13,7 +13,7 @@ Pep Boys is an auto repair shop in Forsyth County, GA at 7750 McGinnis Ferry Roa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 84% of auto repair shops in Atlanta, #7 of 10 auto repair shops in Forsyth County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

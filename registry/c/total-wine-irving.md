@@ -13,7 +13,7 @@ Total Wine is a liquor store in Irving, TX at 7730 North MacArthur Boulevard #A,
 - Website: https://www.totalwine.com/store-info/535
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 70% of liquor stores in Dallas–Fort Worth, #4 of 4 liquor stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

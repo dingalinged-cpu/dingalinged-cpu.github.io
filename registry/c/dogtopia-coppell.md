@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Coppell, TX at 150 South Denton Tap Road,
 - Website: https://www.dogtopia.com/dallas-fortworth-coppell/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 80% of dog boarding facilitys in Dallas–Fort Worth, #1 of 1 dog boarding facilitys in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

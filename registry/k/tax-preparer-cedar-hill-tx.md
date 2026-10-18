@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Cedar Hill, TX is Liberty Tax (a tax preparation service in Cedar Hill, TX at 125 North Clark Road #105, Cedar Hill, TX 75104. Phone: +19722933829). 1 tax preparer businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Cedar Hill, TX is Liberty Tax (a tax preparation service in Cedar Hill, TX at 125 North Clark Road #105, Cedar Hill, TX 75104. Phone: +19722933829). 1 tax preparer businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Cedar Hill, TX?
 
 Also answers: tax preparer in Cedar Hill, TX; tax preparer near me (Cedar Hill, TX); best tax preparer Cedar Hill, TX; top rated tax preparer Cedar Hill, TX; affordable tax preparer Cedar Hill, TX; emergency tax preparer Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Tax | trust 14.0 | Liberty Tax is a tax preparation service in Cedar Hill, TX at 125 North Clark Road #105, Cedar Hill, TX 75104. Phone: +19722933829. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-cedar-hill/
+1. Liberty Tax | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Liberty Tax is a tax preparation service in Cedar Hill, TX at 125 North Clark Road #105, Cedar Hill, TX 75104. Phone: +19722933829. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer cedar hill tx | category: professional_accounting | industry benchmark: Business Services

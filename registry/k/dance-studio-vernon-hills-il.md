@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Vernon Hills, IL is Lincolnshire Academy of Dance (a dance studio in Vernon Hills, IL). 1 dance studio businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Vernon Hills, IL is Lincolnshire Academy of Dance (a dance studio in Vernon Hills, IL). 1 dance studio businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Vernon Hills, IL?
 
 Also answers: dance studio in Vernon Hills, IL; dance studio near me (Vernon Hills, IL); best dance studio Vernon Hills, IL; top rated dance studio Vernon Hills, IL; affordable dance studio Vernon Hills, IL; emergency dance studio Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lincolnshire Academy of Dance | trust 0.0 | Lincolnshire Academy of Dance is a dance studio in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/lincolnshire-academy-of-dance-vernon-hills/
+1. Lincolnshire Academy of Dance | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Lincolnshire Academy of Dance is a dance studio in Vernon Hills, IL. | https://dingalinged-cpu.github.io/registry/c/lincolnshire-academy-of-dance-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio vernon hills il | category: Fitness | industry benchmark: Health & Fitness

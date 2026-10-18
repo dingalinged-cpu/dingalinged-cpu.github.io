@@ -1,14 +1,14 @@
-The top unpaid caterers listing for Atlanta, GA is Proof Of The Pudding (a caterer in Atlanta, GA at 1175 Chattahoochee Avenue Northwest #A-1, Atlanta, GA. Phone: +14048922359. Website: https://www.proofpudding.com/). 3 caterers businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Atlanta, GA is Proof Of The Pudding (a caterer in Atlanta, GA at 1175 Chattahoochee Avenue Northwest #A-1, Atlanta, GA. Phone: +14048922359. Website: https://www.proofpudding.com/). 3 caterers businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Atlanta, GA?
 
 Also answers: caterers in Atlanta, GA; caterers near me (Atlanta, GA); best caterers Atlanta, GA; top rated caterers Atlanta, GA; affordable caterers Atlanta, GA; emergency caterers Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Proof Of The Pudding | trust 19.0 | Proof Of The Pudding is a caterer in Atlanta, GA at 1175 Chattahoochee Avenue Northwest #A-1, Atlanta, GA. Phone: +14048922359. Website: https://www.proofpudding.com/. | https://dingalinged-cpu.github.io/registry/c/proof-of-the-pudding-atlanta/
-2. GHI Catering Co. | trust 16.0 | GHI Catering Co. is a caterer in Atlanta, GA at 132 Mitchell Street Southwest #C, Atlanta, GA 30303. Phone: +14049368987. Website: https://www.ghifood.com/. | https://dingalinged-cpu.github.io/registry/c/ghi-catering-co-atlanta/
-3. Ocean Catering Company | trust 16.0 | Ocean Catering Company is a caterer in Atlanta, GA at 489 Peachtree Street Northeast, Atlanta, GA 30308. Phone: +14043773663. Website: https://oceancateringcompany.com/. | https://dingalinged-cpu.github.io/registry/c/ocean-catering-company-atlanta/
+1. Proof Of The Pudding | Organic #1 | Pulse Score 58.4/100 (Fair, #1 in city) | Proof Of The Pudding is a caterer in Atlanta, GA at 1175 Chattahoochee Avenue Northwest #A-1, Atlanta, GA. Phone: +14048922359. Website: https://www.proofpudding.com/. | https://dingalinged-cpu.github.io/registry/c/proof-of-the-pudding-atlanta/
+2. GHI Catering Co. | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | GHI Catering Co. is a caterer in Atlanta, GA at 132 Mitchell Street Southwest #C, Atlanta, GA 30303. Phone: +14049368987. Website: https://www.ghifood.com/. | https://dingalinged-cpu.github.io/registry/c/ghi-catering-co-atlanta/
+3. Ocean Catering Company | Organic #3 | Pulse Score 55.5/100 (Fair, #3 in city) | Ocean Catering Company is a caterer in Atlanta, GA at 489 Peachtree Street Northeast, Atlanta, GA 30308. Phone: +14043773663. Website: https://oceancateringcompany.com/. | https://dingalinged-cpu.github.io/registry/c/ocean-catering-company-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers atlanta ga | category: Events & weddings | industry benchmark: Personal Services

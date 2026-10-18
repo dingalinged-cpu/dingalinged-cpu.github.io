@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Sugar Land, TX is Visiting Angels Senior Home Care (an assisted living facility in Sugar Land, TX at 19901 Southwest Freeway ##104, Sugar Land, TX 77479. Phone: +12812071259. Website: https://www.visitingangels.com/sugarlandtx/home). 1 assisted living businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Sugar Land, TX is Visiting Angels Senior Home Care (an assisted living facility in Sugar Land, TX at 19901 Southwest Freeway ##104, Sugar Land, TX 77479. Phone: +12812071259. Website: https://www.visitingangels.com/sugarlandtx/home). 1 assisted living businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Sugar Land, TX?
 
 Also answers: assisted living in Sugar Land, TX; assisted living near me (Sugar Land, TX); best assisted living Sugar Land, TX; top rated assisted living Sugar Land, TX; affordable assisted living Sugar Land, TX; emergency assisted living Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care | trust 20.0 | Visiting Angels Senior Home Care is an assisted living facility in Sugar Land, TX at 19901 Southwest Freeway ##104, Sugar Land, TX 77479. Phone: +12812071259. Website: https://www.visitingangels.com/sugarlandtx/home. | https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-sugar-land/
+1. Visiting Angels Senior Home Care | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | Visiting Angels Senior Home Care is an assisted living facility in Sugar Land, TX at 19901 Southwest Freeway ##104, Sugar Land, TX 77479. Phone: +12812071259. Website: https://www.visitingangels.com/sugarlandtx/home. | https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living sugar land tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

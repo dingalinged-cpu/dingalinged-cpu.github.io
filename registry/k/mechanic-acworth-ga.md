@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for Acworth, GA is KAMS Auto Service Center (an auto repair shop in Acworth, GA at 4978 Cobb Parkway, Acworth, GA 30101. Phone: +17709564060). 6 mechanic businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Acworth, GA is KAMS Auto Service Center (an auto repair shop in Acworth, GA at 4978 Cobb Parkway, Acworth, GA 30101. Phone: +17709564060). 6 mechanic businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Acworth, GA?
 
 Also answers: mechanic in Acworth, GA; mechanic near me (Acworth, GA); best mechanic Acworth, GA; top rated mechanic Acworth, GA; affordable mechanic Acworth, GA; emergency mechanic Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KAMS Auto Service Center | trust 14.0 | KAMS Auto Service Center is an auto repair shop in Acworth, GA at 4978 Cobb Parkway, Acworth, GA 30101. Phone: +17709564060. | https://dingalinged-cpu.github.io/registry/c/kams-auto-service-center-acworth/
-2. Brooks Garage | trust 0.0 | Brooks Garage is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/brooks-garage-acworth/
-3. Christian Brothers Automotive | trust 0.0 | Christian Brothers Automotive is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-acworth/
-4. Mavis Tires & Brakes | trust 0.0 | Mavis Tires & Brakes is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth/
-5. Mavis Tires & Brakes | trust 0.0 | Mavis Tires & Brakes is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth-w992879304/
-6. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-acworth/
+1. KAMS Auto Service Center | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | KAMS Auto Service Center is an auto repair shop in Acworth, GA at 4978 Cobb Parkway, Acworth, GA 30101. Phone: +17709564060. | https://dingalinged-cpu.github.io/registry/c/kams-auto-service-center-acworth/
+2. Brooks Garage | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Brooks Garage is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/brooks-garage-acworth/
+3. Pep Boys | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | Pep Boys is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-acworth/
+4. Christian Brothers Automotive | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Christian Brothers Automotive is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-acworth/
+5. Mavis Tires & Brakes | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Mavis Tires & Brakes is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth/
+6. Mavis Tires & Brakes | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Mavis Tires & Brakes is an auto repair shop in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-acworth-w992879304/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic acworth ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Vet Center is a therapy practice in Forest Park, IL at 1515 South Harlem Avenue,
 - Website: https://www.va.gov/directory/guide/facility.asp?ID=5047
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 86% of therapy practices in Chicago, #1 of 1 therapy practices in Forest Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

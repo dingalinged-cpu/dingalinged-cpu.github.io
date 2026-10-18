@@ -1,18 +1,18 @@
-The top unpaid nail salon listing for La Grange, IL is European Touch (a nail salon in La Grange, IL). 7 nail salon businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for La Grange, IL is European Touch (a nail salon in La Grange, IL). 7 nail salon businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in La Grange, IL?
 
 Also answers: nail salon in La Grange, IL; nail salon near me (La Grange, IL); best nail salon La Grange, IL; top rated nail salon La Grange, IL; affordable nail salon La Grange, IL; emergency nail salon La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Touch | trust 0.0 | European Touch is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/european-touch-la-grange/
-2. Flaunt | trust 0.0 | Flaunt is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/flaunt-la-grange/
-3. Golden Spa | trust 0.0 | Golden Spa is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/golden-spa-la-grange/
-4. Hannah's Nail Salon | trust 0.0 | Hannah's Nail Salon is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hannahs-nail-salon-la-grange/
-5. Nail Station & Spa | trust 0.0 | Nail Station & Spa is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/nail-station-and-spa-la-grange/
-6. Nailz 4U Inc | trust 0.0 | Nailz 4U Inc is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/nailz-4u-inc-la-grange/
-7. No. 1 Nails | trust 0.0 | No. 1 Nails is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/no-1-nails-la-grange/
+1. European Touch | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | European Touch is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/european-touch-la-grange/
+2. Flaunt | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Flaunt is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/flaunt-la-grange/
+3. Golden Spa | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Golden Spa is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/golden-spa-la-grange/
+4. Hannah's Nail Salon | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Hannah's Nail Salon is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hannahs-nail-salon-la-grange/
+5. Nail Station & Spa | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Nail Station & Spa is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/nail-station-and-spa-la-grange/
+6. Nailz 4U Inc | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Nailz 4U Inc is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/nailz-4u-inc-la-grange/
+7. No. 1 Nails | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | No. 1 Nails is a nail salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/no-1-nails-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon la grange il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

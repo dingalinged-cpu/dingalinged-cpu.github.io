@@ -1,13 +1,13 @@
-The top unpaid plumbers listing for Fitchburg, WI is Benjamin Plumbing Inc (a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/). 2 plumbers businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Fitchburg, WI is Benjamin Plumbing Inc (a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/). 2 plumbers businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Fitchburg, WI?
 
 Also answers: plumbers in Fitchburg, WI; plumbers near me (Fitchburg, WI); best plumbers Fitchburg, WI; top rated plumbers Fitchburg, WI; affordable plumbers Fitchburg, WI; emergency plumbers Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benjamin Plumbing Inc | trust 20.0 | Benjamin Plumbing Inc is a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/benjamin-plumbing-inc-fitchburg/
-2. Fitchburg Plumbing Inc. | trust 10.0 | Fitchburg Plumbing Inc. is a plumber in Fitchburg, WI at 5241 Dommers Drive, Fitchburg, WI 53711. Phone: +16082741884. | https://dingalinged-cpu.github.io/registry/c/fitchburg-plumbing-inc-fitchburg/
+1. Benjamin Plumbing Inc | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Benjamin Plumbing Inc is a plumber in Fitchburg, WI at 2870 Commerce Park Drive, Fitchburg, WI 53719. Phone: +16082717071. Website: https://www.benjaminplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/benjamin-plumbing-inc-fitchburg/
+2. Fitchburg Plumbing Inc. | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Fitchburg Plumbing Inc. is a plumber in Fitchburg, WI at 5241 Dommers Drive, Fitchburg, WI 53711. Phone: +16082741884. | https://dingalinged-cpu.github.io/registry/c/fitchburg-plumbing-inc-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers fitchburg wi | category: Home Services | industry benchmark: Home & Home Improvement

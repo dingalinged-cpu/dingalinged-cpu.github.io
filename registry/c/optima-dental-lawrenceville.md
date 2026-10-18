@@ -13,7 +13,7 @@ Optima Dental is a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawren
 - Website: https://www.optimafamilydentist.com/
 - Email: optimadental2@gmail.com
 - Opening hours (OSM syntax): Mo-Th 08:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 36% of dentists in Atlanta, #1 of 2 dentists in Lawrenceville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

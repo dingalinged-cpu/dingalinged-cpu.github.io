@@ -13,7 +13,7 @@ McIntyre Family Chiropractic and Wellness Center is a chiropractor in Marietta, 
 - Website: https://www.mcintyrechiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr 09:00-13:00,15:00-19:00; Tu 15:00-19:00; Sa 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 4% of chiropractors in Atlanta, #2 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

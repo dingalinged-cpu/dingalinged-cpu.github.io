@@ -1,17 +1,17 @@
-The top unpaid gym listing for Conroe, TX is ASI Gymnastics (a gym in Conroe, TX at 4000 FM 1488, Conroe, TX 77384. Phone: +19362714274. Website: https://asigymnastics.com/asi-gymnastics-the-woodlands/). 6 gym businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Conroe, TX is ASI Gymnastics (a gym in Conroe, TX at 4000 FM 1488, Conroe, TX 77384. Phone: +19362714274. Website: https://asigymnastics.com/asi-gymnastics-the-woodlands/). 6 gym businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Conroe, TX?
 
 Also answers: gym in Conroe, TX; gym near me (Conroe, TX); best gym Conroe, TX; top rated gym Conroe, TX; affordable gym Conroe, TX; emergency gym Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ASI Gymnastics | trust 20.0 | ASI Gymnastics is a gym in Conroe, TX at 4000 FM 1488, Conroe, TX 77384. Phone: +19362714274. Website: https://asigymnastics.com/asi-gymnastics-the-woodlands/. | https://dingalinged-cpu.github.io/registry/c/asi-gymnastics-conroe/
-2. Anytime Fitness | trust 14.0 | Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/
-3. Crunch Fitness Conroe | trust 14.0 | Crunch Fitness Conroe is a gym in Conroe, TX at 1420 North Loop 336 West #106, Conroe, TX 77304. Website: https://www.crunch.com/. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-conroe-conroe/
-4. Endure Cross Training | trust 0.0 | Endure Cross Training is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/endure-cross-training-conroe/
-5. Fitness Project | trust 0.0 | Fitness Project is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-project-conroe/
-6. Iron 24 | trust 0.0 | Iron 24 is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/iron-24-conroe/
+1. ASI Gymnastics | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | ASI Gymnastics is a gym in Conroe, TX at 4000 FM 1488, Conroe, TX 77384. Phone: +19362714274. Website: https://asigymnastics.com/asi-gymnastics-the-woodlands/. | https://dingalinged-cpu.github.io/registry/c/asi-gymnastics-conroe/
+2. Fitness Project | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Fitness Project is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-project-conroe/
+3. Iron 24 | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Iron 24 is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/iron-24-conroe/
+4. Endure Cross Training | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Endure Cross Training is a gym in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/endure-cross-training-conroe/
+5. Anytime Fitness | Organic #5 | Pulse Score 48.4/100 (Building, #5 in city) | Anytime Fitness is a gym in Conroe, TX at 9420 College Park Drive #20, Conroe, TX 77384. Phone: +19362735090. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-conroe/
+6. Crunch Fitness Conroe | Organic #6 | Pulse Score 48.2/100 (Building, #6 in city) | Crunch Fitness Conroe is a gym in Conroe, TX at 1420 North Loop 336 West #106, Conroe, TX 77304. Website: https://www.crunch.com/. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-conroe-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym conroe tx | category: Fitness | industry benchmark: Health & Fitness

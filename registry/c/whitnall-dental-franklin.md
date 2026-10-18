@@ -13,7 +13,7 @@ Whitnall Dental is a dentist in Franklin, WI at 6522 South Lovers Lane Road, Fra
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 59% of dentists in Milwaukee, #3 of 5 dentists in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 47. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

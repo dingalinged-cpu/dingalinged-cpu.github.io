@@ -13,7 +13,7 @@ LA Fitness is a gym in Matteson, IL at 4340 Lincoln Highway, Matteson, IL 60443.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 85% of gyms in Chicago, #3 of 3 gyms in Matteson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.4, Trust 46.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

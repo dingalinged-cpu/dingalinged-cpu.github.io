@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Wauwatosa, WI is Schmidt and Bartelt (a funeral home in Wauwatosa, WI at 10121 West North Avenue, Wauwatosa, WI 53226. Phone: +14147745010. Website: https://www.schmidtandbartelt.com/funeral-homes/wauwatosa-funeral-home.htm). 1 funeral home businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Wauwatosa, WI is Schmidt and Bartelt (a funeral home in Wauwatosa, WI at 10121 West North Avenue, Wauwatosa, WI 53226. Phone: +14147745010. Website: https://www.schmidtandbartelt.com/funeral-homes/wauwatosa-funeral-home.htm). 1 funeral home businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Wauwatosa, WI?
 
 Also answers: funeral home in Wauwatosa, WI; funeral home near me (Wauwatosa, WI); best funeral home Wauwatosa, WI; top rated funeral home Wauwatosa, WI; affordable funeral home Wauwatosa, WI; emergency funeral home Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schmidt and Bartelt | trust 16.0 | Schmidt and Bartelt is a funeral home in Wauwatosa, WI at 10121 West North Avenue, Wauwatosa, WI 53226. Phone: +14147745010. Website: https://www.schmidtandbartelt.com/funeral-homes/wauwatosa-funeral-home.htm. | https://dingalinged-cpu.github.io/registry/c/schmidt-and-bartelt-wauwatosa/
+1. Schmidt and Bartelt | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Schmidt and Bartelt is a funeral home in Wauwatosa, WI at 10121 West North Avenue, Wauwatosa, WI 53226. Phone: +14147745010. Website: https://www.schmidtandbartelt.com/funeral-homes/wauwatosa-funeral-home.htm. | https://dingalinged-cpu.github.io/registry/c/schmidt-and-bartelt-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home wauwatosa wi | category: Professional & financial services | industry benchmark: Finance & Insurance

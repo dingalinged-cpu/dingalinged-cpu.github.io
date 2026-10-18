@@ -13,7 +13,7 @@ Premier Occupational Health is a family medicine practice in Bolingbrook, IL at 
 - Website: https://premiermedclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00 Sa 09:00-13:00
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 36% of family medicine practices in Chicago, #1 of 1 family medicine practices in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

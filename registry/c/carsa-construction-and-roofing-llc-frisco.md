@@ -13,7 +13,7 @@ Carsa Construction & Roofing LLC is a roofer in Frisco, TX at 6136 Frisco Square
 - Website: https://carsaconstruction.com/frisco-roofing/
 - Email: carsadfw@gmail.com
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Good — top 16% of roofers in Dallas–Fort Worth, #2 of 3 roofers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

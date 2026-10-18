@@ -1,12 +1,12 @@
-The top unpaid flooring companies listing for Hurst, TX is iStone Floors (a flooring company in Hurst, TX). 1 flooring companies businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Hurst, TX is iStone Floors (a flooring company in Hurst, TX). 1 flooring companies businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Hurst, TX?
 
 Also answers: flooring companies in Hurst, TX; flooring companies near me (Hurst, TX); best flooring companies Hurst, TX; top rated flooring companies Hurst, TX; affordable flooring companies Hurst, TX; emergency flooring companies Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iStone Floors | trust 0.0 | iStone Floors is a flooring company in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/istone-floors-hurst/
+1. iStone Floors | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | iStone Floors is a flooring company in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/istone-floors-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies hurst tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

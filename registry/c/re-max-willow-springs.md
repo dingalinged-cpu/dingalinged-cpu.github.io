@@ -13,7 +13,7 @@ RE/MAX is a real estate agency in Willow Springs, IL at 8728 South Archer Avenue
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 88% of real estate agencys in Chicago, #1 of 1 real estate agencys in Willow Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

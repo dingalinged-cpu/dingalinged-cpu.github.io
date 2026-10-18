@@ -1,15 +1,15 @@
-The top unpaid dog groomer listing for Madison, WI is Hotel K Pet Sitting & Dog Walking (a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/). 4 dog groomer businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Madison, WI is Hotel K Pet Sitting & Dog Walking (a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/). 4 dog groomer businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Madison, WI?
 
 Also answers: dog groomer in Madison, WI; dog groomer near me (Madison, WI); best dog groomer Madison, WI; top rated dog groomer Madison, WI; affordable dog groomer Madison, WI; emergency dog groomer Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hotel K Pet Sitting & Dog Walking | trust 20.0 | Hotel K Pet Sitting & Dog Walking is a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/. | https://dingalinged-cpu.github.io/registry/c/hotel-k-pet-sitting-and-dog-walking-madison/
-2. Rufus DuMonde Pet Salon | trust 16.0 | Rufus DuMonde Pet Salon is a dog groomer in Madison, WI at 600 Williamson Street #C, Madison, WI 53703. Phone: +16082578387. Website: https://rufusdumonde.com/. | https://dingalinged-cpu.github.io/registry/c/rufus-dumonde-pet-salon-madison/
-3. EarthWise Pet Supply & Grooming | trust 4.0 | EarthWise Pet Supply & Grooming is a dog groomer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/earthwise-pet-supply-and-grooming-madison/
-4. Royal Pets | trust 0.0 | Royal Pets is a dog groomer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/royal-pets-madison/
+1. Hotel K Pet Sitting & Dog Walking | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Hotel K Pet Sitting & Dog Walking is a dog groomer in Madison, WI at 5376 Farmco Drive #Suite 1, Madison, WI 53704. Phone: +16082861573. Website: https://freebellyrubs.com/. | https://dingalinged-cpu.github.io/registry/c/hotel-k-pet-sitting-and-dog-walking-madison/
+2. Rufus DuMonde Pet Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Rufus DuMonde Pet Salon is a dog groomer in Madison, WI at 600 Williamson Street #C, Madison, WI 53703. Phone: +16082578387. Website: https://rufusdumonde.com/. | https://dingalinged-cpu.github.io/registry/c/rufus-dumonde-pet-salon-madison/
+3. EarthWise Pet Supply & Grooming | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | EarthWise Pet Supply & Grooming is a dog groomer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/earthwise-pet-supply-and-grooming-madison/
+4. Royal Pets | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Royal Pets is a dog groomer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/royal-pets-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer madison wi | category: Pets | industry benchmark: Animals & Pets

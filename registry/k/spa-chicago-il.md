@@ -1,20 +1,20 @@
-The top unpaid spa listing for Chicago, IL is H Med Spa (a spa in Chicago, IL at 1775 West North Avenue #103, Chicago, IL 60622. Phone: +17736978316. Website: https://www.hmedicalspa.com/). 9 spa businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Chicago, IL is The Wispy Brow (a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024, Chicago, IL 60642. Phone: +13123883083. Website: https://www.thewispybrow.com/). 9 spa businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Chicago, IL?
 
 Also answers: spa in Chicago, IL; spa near me (Chicago, IL); best spa Chicago, IL; top rated spa Chicago, IL; affordable spa Chicago, IL; emergency spa Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H Med Spa | trust 20.0 | H Med Spa is a spa in Chicago, IL at 1775 West North Avenue #103, Chicago, IL 60622. Phone: +17736978316. Website: https://www.hmedicalspa.com/. | https://dingalinged-cpu.github.io/registry/c/h-med-spa-chicago/
-2. The Wispy Brow | trust 20.0 | The Wispy Brow is a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024, Chicago, IL 60642. Phone: +13123883083. Website: https://www.thewispybrow.com/. | https://dingalinged-cpu.github.io/registry/c/the-wispy-brow-chicago/
-3. SpaceTime Floatation Center | trust 15.0 | SpaceTime Floatation Center is a spa in Chicago, IL at 939 West North Avenue #100, Chicago, IL. Phone: +13122852127. Website: https://floatspacetime.com/. | https://dingalinged-cpu.github.io/registry/c/spacetime-floatation-center-chicago/
-4. Lena Rose Beauty | trust 10.0 | Lena Rose Beauty is a nail salon in Chicago, IL at 4645 North Rockwell Street, Chicago, IL 60625. Website: https://lenarosebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/lena-rose-beauty-chicago/
-5. GOAT Wellness | trust 6.0 | GOAT Wellness is a spa in Chicago, IL. Website: https://www.goatchicago.com/. | https://dingalinged-cpu.github.io/registry/c/goat-wellness-chicago/
-6. spavia | trust 4.0 | spavia is a spa in Chicago, IL at 773 West Adams Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/spavia-chicago/
-7. Gold Coast Beauty Spa | trust 0.0 | Gold Coast Beauty Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/gold-coast-beauty-spa-chicago/
-8. New Image Works Medical Spa | trust 0.0 | New Image Works Medical Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/new-image-works-medical-spa-chicago/
-9. Viva La Med Spa | trust 0.0 | Viva La Med Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/viva-la-med-spa-chicago/
+1. The Wispy Brow | Organic #1 | Pulse Score 63.9/100 (Unrated, #3 in city) | The Wispy Brow is a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024, Chicago, IL 60642. Phone: +13123883083. Website: https://www.thewispybrow.com/. | https://dingalinged-cpu.github.io/registry/c/the-wispy-brow-chicago/
+2. H Med Spa | Organic #2 | Pulse Score 62/100 (Unrated, #1 in city) | H Med Spa is a spa in Chicago, IL at 1775 West North Avenue #103, Chicago, IL 60622. Phone: +17736978316. Website: https://www.hmedicalspa.com/. | https://dingalinged-cpu.github.io/registry/c/h-med-spa-chicago/
+3. Lena Rose Beauty | Organic #3 | Pulse Score 59.9/100 (Unrated, #28 in city) | Lena Rose Beauty is a nail salon in Chicago, IL at 4645 North Rockwell Street, Chicago, IL 60625. Website: https://lenarosebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/lena-rose-beauty-chicago/
+4. SpaceTime Floatation Center | Organic #4 | Pulse Score 59.5/100 (Unrated, #2 in city) | SpaceTime Floatation Center is a spa in Chicago, IL at 939 West North Avenue #100, Chicago, IL. Phone: +13122852127. Website: https://floatspacetime.com/. | https://dingalinged-cpu.github.io/registry/c/spacetime-floatation-center-chicago/
+5. GOAT Wellness | Organic #5 | Pulse Score 58.6/100 (Fair, #3 in city) | GOAT Wellness is a spa in Chicago, IL. Website: https://www.goatchicago.com/. | https://dingalinged-cpu.github.io/registry/c/goat-wellness-chicago/
+6. New Image Works Medical Spa | Organic #6 | Pulse Score 57.4/100 (Unrated, #4 in city) | New Image Works Medical Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/new-image-works-medical-spa-chicago/
+7. spavia | Organic #7 | Pulse Score 57/100 (Unrated, #5 in city) | spavia is a spa in Chicago, IL at 773 West Adams Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/spavia-chicago/
+8. Gold Coast Beauty Spa | Organic #8 | Pulse Score 54.5/100 (Unrated, #6 in city) | Gold Coast Beauty Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/gold-coast-beauty-spa-chicago/
+9. Viva La Med Spa | Organic #9 | Pulse Score 54.5/100 (Unrated, #7 in city) | Viva La Med Spa is a spa in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/viva-la-med-spa-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa chicago il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

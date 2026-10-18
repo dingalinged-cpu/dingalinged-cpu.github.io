@@ -13,7 +13,7 @@ Baker Road Dental Care is a dentist in Kennesaw, GA. Phone: +16789159496. Websit
 - Website: https://bakerroaddentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-17:00; We 09:00-17:00; Th 08:00-17:00; Fr 08:00-13:00; Sa off; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 39% of dentists in Atlanta, #8 of 11 dentists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

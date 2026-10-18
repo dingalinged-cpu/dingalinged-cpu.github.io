@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Sugar Hill, GA is Midgard Self Storage (a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556). 2 storage units businesses are listed for Sugar Hill, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Sugar Hill, GA is Midgard Self Storage (a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556). 2 storage units businesses are listed for Sugar Hill, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Sugar Hill, GA?
 
 Also answers: storage units in Sugar Hill, GA; storage units near me (Sugar Hill, GA); best storage units Sugar Hill, GA; top rated storage units Sugar Hill, GA; affordable storage units Sugar Hill, GA; emergency storage units Sugar Hill, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midgard Self Storage | trust 14.0 | Midgard Self Storage is a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-suwanee/
-2. Public Storage | trust 3.0 | Public Storage is a self-storage facility in Sugar Hill, GA at 6002, Sugar Hill, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-sugar-hill/
+1. Midgard Self Storage | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Suwanee, GA at 130 Peachtree Industrial Boulevard, Suwanee, GA 30518. Phone: +17706141556. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-suwanee/
+2. Public Storage | Organic #2 | Pulse Score 44.8/100 (Building, #1 in city) | Public Storage is a self-storage facility in Sugar Hill, GA at 6002, Sugar Hill, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units sugar hill ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

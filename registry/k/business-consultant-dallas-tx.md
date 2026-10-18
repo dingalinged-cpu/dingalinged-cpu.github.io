@@ -1,16 +1,16 @@
-The top unpaid business consultant listing for Dallas, TX is LG Networks, Inc (a business consultant in Dallas, TX at 9441 Lyndon B Johnson Freeway #250, Dallas, TX 75243. Phone: +19725286546. Website: https://www.lgnetworksinc.com/). 5 business consultant businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Dallas, TX is ProActivate (a business consultant in Dallas, TX at 100 Crescent Court #700, Dallas, TX 75201. Phone: +12147209922. Website: https://www.proactivate.net/). 5 business consultant businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Dallas, TX?
 
 Also answers: business consultant in Dallas, TX; business consultant near me (Dallas, TX); best business consultant Dallas, TX; top rated business consultant Dallas, TX; affordable business consultant Dallas, TX; emergency business consultant Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LG Networks, Inc | trust 20.0 | LG Networks, Inc is a business consultant in Dallas, TX at 9441 Lyndon B Johnson Freeway #250, Dallas, TX 75243. Phone: +19725286546. Website: https://www.lgnetworksinc.com/. | https://dingalinged-cpu.github.io/registry/c/lg-networks-inc-dallas/
-2. ProActivate | trust 20.0 | ProActivate is a business consultant in Dallas, TX at 100 Crescent Court #700, Dallas, TX 75201. Phone: +12147209922. Website: https://www.proactivate.net/. | https://dingalinged-cpu.github.io/registry/c/proactivate-dallas/
-3. McKinsey & Company | trust 16.0 | McKinsey & Company is a business consultant in Dallas, TX at 2021 McKinney Avenue #1800, Dallas, TX 75201. Phone: +12146651200. Website: https://www.mckinsey.com/southern-us/dallas. | https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-dallas/
-4. QN Management Solutions | trust 4.0 | QN Management Solutions is a business consultant in Dallas, TX at 6220 Campbell Road #202, Dallas, TX 75248. | https://dingalinged-cpu.github.io/registry/c/qn-management-solutions-dallas/
-5. Deloitte | trust 0.0 | Deloitte is a business consultant in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/deloitte-dallas/
+1. ProActivate | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | ProActivate is a business consultant in Dallas, TX at 100 Crescent Court #700, Dallas, TX 75201. Phone: +12147209922. Website: https://www.proactivate.net/. | https://dingalinged-cpu.github.io/registry/c/proactivate-dallas/
+2. LG Networks, Inc | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | LG Networks, Inc is a business consultant in Dallas, TX at 9441 Lyndon B Johnson Freeway #250, Dallas, TX 75243. Phone: +19725286546. Website: https://www.lgnetworksinc.com/. | https://dingalinged-cpu.github.io/registry/c/lg-networks-inc-dallas/
+3. QN Management Solutions | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | QN Management Solutions is a business consultant in Dallas, TX at 6220 Campbell Road #202, Dallas, TX 75248. | https://dingalinged-cpu.github.io/registry/c/qn-management-solutions-dallas/
+4. McKinsey & Company | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | McKinsey & Company is a business consultant in Dallas, TX at 2021 McKinney Avenue #1800, Dallas, TX 75201. Phone: +12146651200. Website: https://www.mckinsey.com/southern-us/dallas. | https://dingalinged-cpu.github.io/registry/c/mckinsey-and-company-dallas/
+5. Deloitte | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | Deloitte is a business consultant in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/deloitte-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant dallas tx | category: b2b_services | industry benchmark: Business Services

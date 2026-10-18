@@ -1,21 +1,21 @@
-The top unpaid jewelry store listing for Allen, TX is Starbucks (a jewelry store in Allen, TX at 985 West Bethany Drive, Allen, TX 75013. Phone: +19729083830. Website: https://www.starbucks.com/store-locator/store/1014884/market-street-allen-563-985-w-bethany-dr-allen-tx-75013-us). 10 jewelry store businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Allen, TX is Allen Village Jewelers (a jewelry store in Allen, TX). 10 jewelry store businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Allen, TX?
 
 Also answers: jewelry store in Allen, TX; jewelry store near me (Allen, TX); best jewelry store Allen, TX; top rated jewelry store Allen, TX; affordable jewelry store Allen, TX; emergency jewelry store Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Starbucks | trust 20.0 | Starbucks is a jewelry store in Allen, TX at 985 West Bethany Drive, Allen, TX 75013. Phone: +19729083830. Website: https://www.starbucks.com/store-locator/store/1014884/market-street-allen-563-985-w-bethany-dr-allen-tx-75013-us. | https://dingalinged-cpu.github.io/registry/c/starbucks-allen/
-2. James Avery Jewelry | trust 16.0 | James Avery Jewelry is a jewelry store in Allen, TX at 190 E Stacy Road Ste 510, Allen, TX 75002. Phone: +19726784700. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=701. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-allen/
-3. Pandora | trust 4.0 | Pandora is a jewelry store in Allen, TX at 887 Watters Creek Boulevard, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/pandora-allen/
-4. Allen Village Jewelers | trust 0.0 | Allen Village Jewelers is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/allen-village-jewelers-allen/
-5. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-allen/
-6. Kendra Scott | trust 0.0 | Kendra Scott is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-allen/
-7. Precious Jewelry Outlet | trust 0.0 | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/precious-jewelry-outlet-allen/
-8. Precious Jewelry Outlet | trust 0.0 | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/precious-jewelry-outlet-allen-n9211002921/
-9. Swarovski | trust 0.0 | Swarovski is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-allen/
-10. Zales | trust 0.0 | Zales is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/zales-allen/
+1. Allen Village Jewelers | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Allen Village Jewelers is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/allen-village-jewelers-allen/
+2. Starbucks | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | Starbucks is a jewelry store in Allen, TX at 985 West Bethany Drive, Allen, TX 75013. Phone: +19729083830. Website: https://www.starbucks.com/store-locator/store/1014884/market-street-allen-563-985-w-bethany-dr-allen-tx-75013-us. | https://dingalinged-cpu.github.io/registry/c/starbucks-allen/
+3. James Avery Jewelry | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | James Avery Jewelry is a jewelry store in Allen, TX at 190 E Stacy Road Ste 510, Allen, TX 75002. Phone: +19726784700. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=701. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-allen/
+4. Precious Jewelry Outlet | Organic #4 | Pulse Score 45.7/100 (Unrated, #4 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/precious-jewelry-outlet-allen/
+5. Pandora | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Pandora is a jewelry store in Allen, TX at 887 Watters Creek Boulevard, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/pandora-allen/
+6. Kay Jewelers | Organic #6 | Pulse Score 43.4/100 (Building, #6 in city) | Kay Jewelers is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-allen/
+7. Precious Jewelry Outlet | Organic #7 | Pulse Score 42.9/100 (Unrated, #7 in city) | Precious Jewelry Outlet is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/precious-jewelry-outlet-allen-n9211002921/
+8. Zales | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Zales is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/zales-allen/
+9. Swarovski | Organic #9 | Pulse Score 42.3/100 (Building, #9 in city) | Swarovski is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-allen/
+10. Kendra Scott | Organic #10 | Pulse Score 41.8/100 (Unrated, #10 in city) | Kendra Scott is a jewelry store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store allen tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

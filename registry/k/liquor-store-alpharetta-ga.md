@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Alpharetta, GA is Royal Liquor (a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/). 4 liquor store businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Alpharetta, GA is The Wine Store (a liquor store in Alpharetta, GA at 8455 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17706411900. Website: https://www.thewinestoreinc.com/). 4 liquor store businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Alpharetta, GA?
 
 Also answers: liquor store in Alpharetta, GA; liquor store near me (Alpharetta, GA); best liquor store Alpharetta, GA; top rated liquor store Alpharetta, GA; affordable liquor store Alpharetta, GA; emergency liquor store Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Liquor | trust 20.0 | Royal Liquor is a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/. | https://dingalinged-cpu.github.io/registry/c/royal-liquor-alpharetta/
-2. The Wine Store | trust 20.0 | The Wine Store is a liquor store in Alpharetta, GA at 8455 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17706411900. Website: https://www.thewinestoreinc.com/. | https://dingalinged-cpu.github.io/registry/c/the-wine-store-alpharetta/
-3. Total Wine | trust 20.0 | Total Wine is a liquor store in Alpharetta, GA at 6290 North Point Parkway, Alpharetta, GA 30022. Phone: +17707720694. Website: https://www.totalwine.com/store-info/801. | https://dingalinged-cpu.github.io/registry/c/total-wine-alpharetta/
-4. All Time Wine and Spirits | trust 0.0 | All Time Wine and Spirits is a liquor store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/all-time-wine-and-spirits-alpharetta/
+1. The Wine Store | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | The Wine Store is a liquor store in Alpharetta, GA at 8455 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17706411900. Website: https://www.thewinestoreinc.com/. | https://dingalinged-cpu.github.io/registry/c/the-wine-store-alpharetta/
+2. Royal Liquor | Organic #2 | Pulse Score 63.2/100 (Unrated, #2 in city) | Royal Liquor is a liquor store in Alpharetta, GA at 4305 State Bridge Road, Alpharetta, GA 30022. Phone: +17704423800. Website: https://www.royalliquorstore.com/. | https://dingalinged-cpu.github.io/registry/c/royal-liquor-alpharetta/
+3. All Time Wine and Spirits | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | All Time Wine and Spirits is a liquor store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/all-time-wine-and-spirits-alpharetta/
+4. Total Wine | Organic #4 | Pulse Score 50.6/100 (Fair, #4 in city) | Total Wine is a liquor store in Alpharetta, GA at 6290 North Point Parkway, Alpharetta, GA 30022. Phone: +17707720694. Website: https://www.totalwine.com/store-info/801. | https://dingalinged-cpu.github.io/registry/c/total-wine-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store alpharetta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Madison, WI at 514 Grand Cany
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 62% of insurance agents in Madison, #9 of 14 insurance agents in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

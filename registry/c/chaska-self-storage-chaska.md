@@ -13,7 +13,7 @@ Chaska Self-Storage is a self-storage facility in Chaska, MN at 103 Peavey Road,
 - Website: https://chaskaselfstorage.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 7% of self-storage facilitys in Minneapolis–St. Paul, #1 of 1 self-storage facilitys in Chaska (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

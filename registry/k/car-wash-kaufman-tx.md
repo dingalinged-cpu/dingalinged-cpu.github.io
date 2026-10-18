@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Kaufman, TX is Kaufman Express Car Wash (a car wash in Kaufman, TX at 2300 South Washington Street, Kaufman, TX 75142). 2 car wash businesses are listed for Kaufman, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Kaufman, TX is Kaufman Express Car Wash (a car wash in Kaufman, TX at 2300 South Washington Street, Kaufman, TX 75142). 2 car wash businesses are listed for Kaufman, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Kaufman, TX?
 
 Also answers: car wash in Kaufman, TX; car wash near me (Kaufman, TX); best car wash Kaufman, TX; top rated car wash Kaufman, TX; affordable car wash Kaufman, TX; emergency car wash Kaufman, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kaufman Express Car Wash | trust 4.0 | Kaufman Express Car Wash is a car wash in Kaufman, TX at 2300 South Washington Street, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/kaufman-express-car-wash-kaufman/
-2. Konny's Car Wash | trust 4.0 | Konny's Car Wash is a car wash in Kaufman, TX at 710 East US Highway 175, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/konnys-car-wash-kaufman/
+1. Kaufman Express Car Wash | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Kaufman Express Car Wash is a car wash in Kaufman, TX at 2300 South Washington Street, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/kaufman-express-car-wash-kaufman/
+2. Konny's Car Wash | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Konny's Car Wash is a car wash in Kaufman, TX at 710 East US Highway 175, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/konnys-car-wash-kaufman/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash kaufman tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

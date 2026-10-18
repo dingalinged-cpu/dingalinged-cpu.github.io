@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Orland Park, IL is Belle Tire (a tire shop in Orland Park, IL at 9526 West 159th Street, Orland Park, IL 60467. Phone: +17086752240. Website: https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il). 3 tire shop businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Orland Park, IL is Empire Tire and Battery Co (an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/). 3 tire shop businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Orland Park, IL?
 
 Also answers: tire shop in Orland Park, IL; tire shop near me (Orland Park, IL); best tire shop Orland Park, IL; top rated tire shop Orland Park, IL; affordable tire shop Orland Park, IL; emergency tire shop Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Belle Tire | trust 20.0 | Belle Tire is a tire shop in Orland Park, IL at 9526 West 159th Street, Orland Park, IL 60467. Phone: +17086752240. Website: https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-orland-park/
-2. Empire Tire and Battery Co | trust 20.0 | Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/. | https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/
-3. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/discount-tire-orland-park/
+1. Empire Tire and Battery Co | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Empire Tire and Battery Co is an auto repair shop in Orland Park, IL at 16201 Wolf Road, Orland Park, IL 60467. Phone: +17083496280. Website: https://etabco.net/. | https://dingalinged-cpu.github.io/registry/c/empire-tire-and-battery-co-orland-park/
+2. Belle Tire | Organic #2 | Pulse Score 49.6/100 (Building, #1 in city) | Belle Tire is a tire shop in Orland Park, IL at 9526 West 159th Street, Orland Park, IL 60467. Phone: +17086752240. Website: https://www.belletire.com/stores/detail/169/belle-tire-orland-park-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-orland-park/
+3. Discount Tire | Organic #3 | Pulse Score 42.1/100 (Building, #2 in city) | Discount Tire is a tire shop in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/discount-tire-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop orland park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

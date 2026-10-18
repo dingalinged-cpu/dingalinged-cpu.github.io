@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 4530 Kingwood Drive, Houston
 - Website: https://www.mattressfirm.com/en-us/stores/tx/kingwood/001149/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 52% of mattress stores in Houston, #15 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.1, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

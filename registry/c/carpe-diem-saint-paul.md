@@ -13,7 +13,7 @@ Carpe Diem is a yoga studio in Saint Paul, MN at 2290 Como Avenue, Saint Paul, M
 - Website: https://carpediemyogastudio.com/como-ave
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-20:00
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 7% of yoga studios in Minneapolis–St. Paul, #1 of 7 yoga studios in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

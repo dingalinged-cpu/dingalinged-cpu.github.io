@@ -1,14 +1,14 @@
-The top unpaid music lessons listing for Evanston, IL is Music Institute of Chicago (a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/). 3 music lessons businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Evanston, IL is Music Institute of Chicago (a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/). 3 music lessons businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Evanston, IL?
 
 Also answers: music lessons in Evanston, IL; music lessons near me (Evanston, IL); best music lessons Evanston, IL; top rated music lessons Evanston, IL; affordable music lessons Evanston, IL; emergency music lessons Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Music Institute of Chicago | trust 16.0 | Music Institute of Chicago is a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/. | https://dingalinged-cpu.github.io/registry/c/music-institute-of-chicago-evanston/
-2. Patrick G. and Shirley W. Ryan Center for the Musical Arts | trust 4.0 | Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in Evanston, IL at 70 Arts Circle Drive, Evanston, IL 60208. | https://dingalinged-cpu.github.io/registry/c/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston/
-3. School of Rock | trust 4.0 | School of Rock is a music school in Evanston, IL at 1311 Sherman Place, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-evanston/
+1. Music Institute of Chicago | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Music Institute of Chicago is a music school in Evanston, IL at 1490 Chicago Avenue, Evanston, IL 60201. Phone: +18479051500. Website: https://www.musicinst.org/. | https://dingalinged-cpu.github.io/registry/c/music-institute-of-chicago-evanston/
+2. Patrick G. and Shirley W. Ryan Center for the Musical Arts | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Patrick G. and Shirley W. Ryan Center for the Musical Arts is a music school in Evanston, IL at 70 Arts Circle Drive, Evanston, IL 60208. | https://dingalinged-cpu.github.io/registry/c/patrick-g-and-shirley-w-ryan-center-for-the-musical-arts-evanston/
+3. School of Rock | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | School of Rock is a music school in Evanston, IL at 1311 Sherman Place, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons evanston il | category: Education & childcare | industry benchmark: Education & Instruction

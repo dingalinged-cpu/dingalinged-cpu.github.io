@@ -1,14 +1,14 @@
-The top unpaid plumber listing for Cobb County, GA is Plumb Doctor (a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/). 3 plumber businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Cobb County, GA is Rooter Pro Plumbing (a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/). 3 plumber businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Cobb County, GA?
 
 Also answers: plumber in Cobb County, GA; plumber near me (Cobb County, GA); best plumber Cobb County, GA; top rated plumber Cobb County, GA; affordable plumber Cobb County, GA; emergency plumber Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plumb Doctor | trust 19.0 | Plumb Doctor is a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/. | https://dingalinged-cpu.github.io/registry/c/plumb-doctor-cobb-county/
-2. Rooter Pro Plumbing | trust 19.0 | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/rooter-pro-plumbing-cobb-county/
-3. Superior Plumbing | trust 19.0 | Superior Plumbing is a plumber in Cobb County, GA at 3991 Royal Drive Northwest, Cobb County, GA. Phone: +17704227586. Website: https://www.superiorplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/superior-plumbing-cobb-county/
+1. Rooter Pro Plumbing | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Rooter Pro Plumbing is a plumber in Cobb County, GA at 840 Pine Manor Northeast, Cobb County, GA. Phone: +17702992627. Website: https://www.rooterproplumbingga.com/. | https://dingalinged-cpu.github.io/registry/c/rooter-pro-plumbing-cobb-county/
+2. Plumb Doctor | Organic #2 | Pulse Score 60.2/100 (Good, #2 in city) | Plumb Doctor is a plumber in Cobb County, GA at 747 Chance Road, Cobb County, GA. Phone: +17709128922. Website: https://plumbdoctorga.com/. | https://dingalinged-cpu.github.io/registry/c/plumb-doctor-cobb-county/
+3. Superior Plumbing | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Superior Plumbing is a plumber in Cobb County, GA at 3991 Royal Drive Northwest, Cobb County, GA. Phone: +17704227586. Website: https://www.superiorplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/superior-plumbing-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber cobb county ga | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

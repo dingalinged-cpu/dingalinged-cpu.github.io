@@ -13,7 +13,7 @@ D. Bassett Roofing & Renovation is a roofer in Arlington, TX at 7815 S Cooper St
 - Website: https://dbassettroofing.com/
 - Email: info@dbassettroofing.com
 - Opening hours (OSM syntax): Mon to Fri : 9:00 AM - 5:00 PM,Sat : 8:30 AM - 4:00 PM
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of roofers in Dallas–Fort Worth, #2 of 2 roofers in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

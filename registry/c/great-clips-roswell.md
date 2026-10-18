@@ -13,7 +13,7 @@ Great Clips is a hair salon in Roswell, GA at 2300 Holcomb Bridge Road #102, Ros
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-17:00; PH unknown
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Building — top 90% of hair salons in Atlanta, #13 of 13 hair salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

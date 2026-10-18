@@ -13,7 +13,7 @@ Invincible Fitness is a gym in Spring, TX at 3625 FM 2920 #A5, Spring, TX 77388.
 - Website: https://www.myinvinciblefitness.com/Spring
 - Email: springtx@myinvinciblefitness.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 7% of gyms in Houston, #2 of 6 gyms in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

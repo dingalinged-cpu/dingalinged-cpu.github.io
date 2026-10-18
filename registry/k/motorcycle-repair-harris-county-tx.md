@@ -1,13 +1,13 @@
-The top unpaid motorcycle repair listing for Harris County, TX is Mancuso Crossroads Harley-Davidson Service (a motorcycle repair shop in Harris County, TX. Phone: +12818977152. Website: https://www.mancusocrossroads.com/we-repair-your-harley-davidson-motorcycle-with-certified-technicians--service). 2 motorcycle repair businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Harris County, TX is Cycle Worx (a motorcycle repair shop in Harris County, TX). 2 motorcycle repair businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Harris County, TX?
 
 Also answers: motorcycle repair in Harris County, TX; motorcycle repair near me (Harris County, TX); best motorcycle repair Harris County, TX; top rated motorcycle repair Harris County, TX; affordable motorcycle repair Harris County, TX; emergency motorcycle repair Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mancuso Crossroads Harley-Davidson Service | trust 16.0 | Mancuso Crossroads Harley-Davidson Service is a motorcycle repair shop in Harris County, TX. Phone: +12818977152. Website: https://www.mancusocrossroads.com/we-repair-your-harley-davidson-motorcycle-with-certified-technicians--service. | https://dingalinged-cpu.github.io/registry/c/mancuso-crossroads-harley-davidson-service-harris-county/
-2. Cycle Worx | trust 0.0 | Cycle Worx is a motorcycle repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cycle-worx-harris-county/
+1. Cycle Worx | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Cycle Worx is a motorcycle repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cycle-worx-harris-county/
+2. Mancuso Crossroads Harley-Davidson Service | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Mancuso Crossroads Harley-Davidson Service is a motorcycle repair shop in Harris County, TX. Phone: +12818977152. Website: https://www.mancusocrossroads.com/we-repair-your-harley-davidson-motorcycle-with-certified-technicians--service. | https://dingalinged-cpu.github.io/registry/c/mancuso-crossroads-harley-davidson-service-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair harris county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

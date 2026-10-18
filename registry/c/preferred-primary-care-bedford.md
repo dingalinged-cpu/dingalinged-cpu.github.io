@@ -13,7 +13,7 @@ Preferred Primary Care is a family medicine practice in Bedford, TX at 1999 Fore
 - Website: https://preferredprimarycare.org/
 - Email: info@preferredprimarycare.org
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 13% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Bedford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid lawyer listing for Katy, TX is Law Office of Shane McClelland (a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/). 3 lawyer businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Katy, TX is Law Office of Shane McClelland (a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/). 3 lawyer businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Katy, TX?
 
 Also answers: lawyer in Katy, TX; lawyer near me (Katy, TX); best lawyer Katy, TX; top rated lawyer Katy, TX; affordable lawyer Katy, TX; emergency lawyer Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office of Shane McClelland | trust 20.0 | Law Office of Shane McClelland is a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-shane-mcclelland-katy/
-2. Serafini Smith Law Firm | trust 20.0 | Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, Katy, TX 77450. Phone: +19363233336. Website: https://www.serafinismithlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/serafini-smith-law-firm-katy/
-3. The Linn Law Firm, PLLC | trust 20.0 | The Linn Law Firm, PLLC is a lawyer in Katy, TX at 24285 Katy Freeway #300, Katy, TX 77494. Phone: +13469983080. Website: https://linnlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-linn-law-firm-pllc-katy/
+1. Law Office of Shane McClelland | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Law Office of Shane McClelland is a lawyer in Katy, TX at 21733 Provincial Boulevard #910, Katy, TX 77450. Phone: +17139877107. Website: https://www.hmtrial.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-shane-mcclelland-katy/
+2. The Linn Law Firm, PLLC | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | The Linn Law Firm, PLLC is a lawyer in Katy, TX at 24285 Katy Freeway #300, Katy, TX 77494. Phone: +13469983080. Website: https://linnlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-linn-law-firm-pllc-katy/
+3. Serafini Smith Law Firm | Organic #3 | Pulse Score 61.6/100 (Unrated, #3 in city) | Serafini Smith Law Firm is a lawyer in Katy, TX at 21408 Provincial Boulevard, Katy, TX 77450. Phone: +19363233336. Website: https://www.serafinismithlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/serafini-smith-law-firm-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer katy tx | category: Legal | industry benchmark: Attorneys & Legal Services

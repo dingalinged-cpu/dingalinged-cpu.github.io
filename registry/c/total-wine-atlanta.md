@@ -13,7 +13,7 @@ Total Wine is a liquor store in Atlanta, GA. Phone: +17703951678. Website: https
 - Website: https://www.totalwine.com/store-info/803
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 12:30-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 100% of liquor stores in Atlanta, #37 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

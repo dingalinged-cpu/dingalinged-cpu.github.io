@@ -13,7 +13,7 @@ Fusion Autowerks is an auto repair shop in Garland, TX at 2635 South Garland Ave
 - Website: https://www.facebook.com/p/Fusion-Autowerks-100063898266900/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 6% of auto repair shops in Dallas–Fort Worth, #2 of 17 auto repair shops in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Brickhouse Gym is a gym in Denton, TX at 3300 Unicorn Lake Boulevard, Denton, TX
 - Website: https://www.thebrickhousegym.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 12% of gyms in Dallas–Fort Worth, #3 of 11 gyms in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

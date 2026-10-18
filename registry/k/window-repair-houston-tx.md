@@ -1,13 +1,13 @@
-The top unpaid window repair listing for Houston, TX is Art Glass By Wells (a window repair service in Houston, TX at 12307 Chimney Rock Road, Houston, TX 77035. Phone: +17137293699). 2 window repair businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window repair listing for Houston, TX is Art Glass By Wells (a window repair service in Houston, TX at 12307 Chimney Rock Road, Houston, TX 77035. Phone: +17137293699). 2 window repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window repair providers in Houston, TX?
 
 Also answers: window repair in Houston, TX; window repair near me (Houston, TX); best window repair Houston, TX; top rated window repair Houston, TX; affordable window repair Houston, TX; emergency window repair Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Art Glass By Wells | trust 14.0 | Art Glass By Wells is a window repair service in Houston, TX at 12307 Chimney Rock Road, Houston, TX 77035. Phone: +17137293699. | https://dingalinged-cpu.github.io/registry/c/art-glass-by-wells-houston/
-2. Millennium Glass & Mirror | trust 3.0 | Millennium Glass & Mirror is a window repair service in Houston, TX at 3250 Farrell Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/millennium-glass-and-mirror-houston/
+1. Art Glass By Wells | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Art Glass By Wells is a window repair service in Houston, TX at 12307 Chimney Rock Road, Houston, TX 77035. Phone: +17137293699. | https://dingalinged-cpu.github.io/registry/c/art-glass-by-wells-houston/
+2. Millennium Glass & Mirror | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Millennium Glass & Mirror is a window repair service in Houston, TX at 3250 Farrell Road, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/millennium-glass-and-mirror-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair houston tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

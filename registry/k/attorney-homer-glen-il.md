@@ -1,13 +1,13 @@
-The top unpaid attorney listing for Homer Glen, IL is Castle Law (a lawyer in Homer Glen, IL at 13963 South Bell Road, Homer Glen, IL 60491. Phone: +17088018000. Website: https://www.castlelaw.com/Contact.shtml). 2 attorney businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Homer Glen, IL is Castle Law (a lawyer in Homer Glen, IL at 13963 South Bell Road, Homer Glen, IL 60491. Phone: +17088018000. Website: https://www.castlelaw.com/Contact.shtml). 2 attorney businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Homer Glen, IL?
 
 Also answers: attorney in Homer Glen, IL; attorney near me (Homer Glen, IL); best attorney Homer Glen, IL; top rated attorney Homer Glen, IL; affordable attorney Homer Glen, IL; emergency attorney Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Castle Law | trust 16.0 | Castle Law is a lawyer in Homer Glen, IL at 13963 South Bell Road, Homer Glen, IL 60491. Phone: +17088018000. Website: https://www.castlelaw.com/Contact.shtml. | https://dingalinged-cpu.github.io/registry/c/castle-law-homer-glen/
-2. Law Office of Karen Walin | trust 12.0 | Law Office of Karen Walin is a lawyer in Homer Glen, IL. Phone: +17086450710. Website: https://kwalinlaw.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-karen-walin-homer-glen/
+1. Castle Law | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Castle Law is a lawyer in Homer Glen, IL at 13963 South Bell Road, Homer Glen, IL 60491. Phone: +17088018000. Website: https://www.castlelaw.com/Contact.shtml. | https://dingalinged-cpu.github.io/registry/c/castle-law-homer-glen/
+2. Law Office of Karen Walin | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Law Office of Karen Walin is a lawyer in Homer Glen, IL. Phone: +17086450710. Website: https://kwalinlaw.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-karen-walin-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney homer glen il | category: professional_legal | industry benchmark: Attorneys & Legal Services

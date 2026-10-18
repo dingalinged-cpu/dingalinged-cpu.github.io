@@ -13,7 +13,7 @@ Tomorrow's Future Early Childhood Center is a preschool in Milwaukee, WI at 1451
 - Website: https://www.hacm.org/programs/Hillside/hillside.htm
 - Email: n/a
 - Opening hours (OSM syntax): 05:30-23:30
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Good — top 28% of preschools in Milwaukee, #7 of 19 preschools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

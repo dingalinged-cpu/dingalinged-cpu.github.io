@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Brooklyn Park, MN is Tozer Chiropractic (a chiropractor in Brooklyn Park, MN. Phone: +17634938449). 2 chiropractor businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Brooklyn Park, MN is Tozer Chiropractic (a chiropractor in Brooklyn Park, MN. Phone: +17634938449). 2 chiropractor businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Brooklyn Park, MN?
 
 Also answers: chiropractor in Brooklyn Park, MN; chiropractor near me (Brooklyn Park, MN); best chiropractor Brooklyn Park, MN; top rated chiropractor Brooklyn Park, MN; affordable chiropractor Brooklyn Park, MN; emergency chiropractor Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tozer Chiropractic | trust 6.0 | Tozer Chiropractic is a chiropractor in Brooklyn Park, MN. Phone: +17634938449. | https://dingalinged-cpu.github.io/registry/c/tozer-chiropractic-brooklyn-park/
-2. Park East Chiropractic | trust 0.0 | Park East Chiropractic is a chiropractor in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/park-east-chiropractic-brooklyn-park/
+1. Tozer Chiropractic | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Tozer Chiropractic is a chiropractor in Brooklyn Park, MN. Phone: +17634938449. | https://dingalinged-cpu.github.io/registry/c/tozer-chiropractic-brooklyn-park/
+2. Park East Chiropractic | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Park East Chiropractic is a chiropractor in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/park-east-chiropractic-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor brooklyn park mn | category: Health & medical | industry benchmark: Physicians & Surgeons

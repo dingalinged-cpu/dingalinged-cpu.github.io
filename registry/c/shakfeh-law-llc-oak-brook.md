@@ -13,7 +13,7 @@ Shakfeh Law LLC is a lawyer in Oak Brook, IL at 2021 Midwest Road #200, Oak Broo
 - Website: https://www.shakfehlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 35% of lawyers in Chicago, #2 of 3 lawyers in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

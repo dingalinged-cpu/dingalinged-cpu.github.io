@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Irving, TX is La Villita Nails (a nail salon in Irving, TX. Phone: +12144960595. Website: https://lavillitanailsirving.com/). 6 nail salon businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Irving, TX is La Villita Nails (a nail salon in Irving, TX. Phone: +12144960595. Website: https://lavillitanailsirving.com/). 6 nail salon businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Irving, TX?
 
 Also answers: nail salon in Irving, TX; nail salon near me (Irving, TX); best nail salon Irving, TX; top rated nail salon Irving, TX; affordable nail salon Irving, TX; emergency nail salon Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Villita Nails | trust 16.0 | La Villita Nails is a nail salon in Irving, TX. Phone: +12144960595. Website: https://lavillitanailsirving.com/. | https://dingalinged-cpu.github.io/registry/c/la-villita-nails-irving/
-2. Chic Nails Lounge | trust 0.0 | Chic Nails Lounge is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/chic-nails-lounge-irving/
-3. Hollywood Nails | trust 0.0 | Hollywood Nails is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-nails-irving/
-4. Lux Spa & Nail Salon | trust 0.0 | Lux Spa & Nail Salon is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/lux-spa-and-nail-salon-irving/
-5. Nail Lounge | trust 0.0 | Nail Lounge is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/nail-lounge-irving/
-6. T Nails | trust 0.0 | T Nails is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/t-nails-irving/
+1. La Villita Nails | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | La Villita Nails is a nail salon in Irving, TX. Phone: +12144960595. Website: https://lavillitanailsirving.com/. | https://dingalinged-cpu.github.io/registry/c/la-villita-nails-irving/
+2. Chic Nails Lounge | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Chic Nails Lounge is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/chic-nails-lounge-irving/
+3. Lux Spa & Nail Salon | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Lux Spa & Nail Salon is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/lux-spa-and-nail-salon-irving/
+4. Nail Lounge | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Nail Lounge is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/nail-lounge-irving/
+5. Hollywood Nails | Organic #5 | Pulse Score 43.9/100 (Building, #5 in city) | Hollywood Nails is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-nails-irving/
+6. T Nails | Organic #6 | Pulse Score 41.9/100 (Unrated, #6 in city) | T Nails is a nail salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/t-nails-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

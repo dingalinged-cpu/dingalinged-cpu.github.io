@@ -13,7 +13,7 @@ Elite Hand Car Wash is a car wash in Milwaukee, WI at 2458 West Capitol Drive, M
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 15% of car washes in Milwaukee, #6 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

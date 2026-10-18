@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Richardson, TX is MyEyeDr. (an eye care practice in Richardson, TX). 3 eye doctor businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Richardson, TX is Stokol + Fagala Optometry PLLC (an eye care practice in Richardson, TX at 1301 West Campbell Road, Richardson, TX). 3 eye doctor businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Richardson, TX?
 
 Also answers: eye doctor in Richardson, TX; eye doctor near me (Richardson, TX); best eye doctor Richardson, TX; top rated eye doctor Richardson, TX; affordable eye doctor Richardson, TX; emergency eye doctor Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MyEyeDr. | trust 4.0 | MyEyeDr. is an eye care practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/myeyedr-richardson/
-2. Stokol + Fagala Optometry PLLC | trust 3.0 | Stokol + Fagala Optometry PLLC is an eye care practice in Richardson, TX at 1301 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/stokol-fagala-optometry-pllc-richardson/
-3. Makler Optical | trust 0.0 | Makler Optical is an eye care practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/makler-optical-richardson/
+1. Stokol + Fagala Optometry PLLC | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Stokol + Fagala Optometry PLLC is an eye care practice in Richardson, TX at 1301 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/stokol-fagala-optometry-pllc-richardson/
+2. Makler Optical | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Makler Optical is an eye care practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/makler-optical-richardson/
+3. MyEyeDr. | Organic #3 | Pulse Score 43.3/100 (Unrated, #3 in city) | MyEyeDr. is an eye care practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/myeyedr-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor richardson tx | category: Health & medical | industry benchmark: Physicians & Surgeons

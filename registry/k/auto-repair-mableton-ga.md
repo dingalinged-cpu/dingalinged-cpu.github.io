@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Mableton, GA is Ford (an auto repair shop in Mableton, GA). 5 auto repair businesses are listed for Mableton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Mableton, GA is Mavis Tire & Brakes (an auto repair shop in Mableton, GA). 5 auto repair businesses are listed for Mableton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Mableton, GA?
 
 Also answers: auto repair in Mableton, GA; auto repair near me (Mableton, GA); best auto repair Mableton, GA; top rated auto repair Mableton, GA; affordable auto repair Mableton, GA; emergency auto repair Mableton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ford | trust 0.0 | Ford is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/ford-mableton/
-2. Grease Monkey | trust 0.0 | Grease Monkey is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-mableton/
-3. Mavis Tire & Brakes | trust 0.0 | Mavis Tire & Brakes is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tire-and-brakes-mableton/
-4. Oil Changers | trust 0.0 | Oil Changers is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/oil-changers-mableton/
-5. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-mableton/
+1. Mavis Tire & Brakes | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Mavis Tire & Brakes is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tire-and-brakes-mableton/
+2. Oil Changers | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Oil Changers is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/oil-changers-mableton/
+3. Ford | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Ford is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/ford-mableton/
+4. Grease Monkey | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Grease Monkey is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-mableton/
+5. Pep Boys | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Pep Boys is an auto repair shop in Mableton, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-mableton/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair mableton ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

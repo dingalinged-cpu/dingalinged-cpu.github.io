@@ -13,7 +13,7 @@ The Reecer Law Firm is a lawyer in Denton, TX at 3105 Unicorn Lake Boulevard, De
 - Website: https://reecerlaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-12:00,13:00-17:00
-- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 33% of lawyers in Dallas–Fort Worth, #2 of 8 lawyers in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

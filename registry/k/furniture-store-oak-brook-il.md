@@ -1,19 +1,19 @@
-The top unpaid furniture store listing for Oak Brook, IL is Arhaus (a furniture store in Oak Brook, IL). 8 furniture store businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Oak Brook, IL is Arhaus (a furniture store in Oak Brook, IL). 8 furniture store businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Oak Brook, IL?
 
 Also answers: furniture store in Oak Brook, IL; furniture store near me (Oak Brook, IL); best furniture store Oak Brook, IL; top rated furniture store Oak Brook, IL; affordable furniture store Oak Brook, IL; emergency furniture store Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arhaus | trust 0.0 | Arhaus is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook/
-2. Arhaus | trust 0.0 | Arhaus is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook-n13685678144/
-3. Crate & Barrel | trust 0.0 | Crate & Barrel is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-oak-brook/
-4. LoveSac | trust 0.0 | LoveSac is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-oak-brook/
-5. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-oak-brook/
-6. Pottery Barn Kids | trust 0.0 | Pottery Barn Kids is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-kids-oak-brook/
-7. Room & Board | trust 0.0 | Room & Board is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/room-and-board-oak-brook/
-8. west elm | trust 0.0 | west elm is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/west-elm-oak-brook/
+1. Arhaus | Organic #1 | Pulse Score 42/100 (Building, #1 in city) | Arhaus is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook/
+2. Arhaus | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Arhaus is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-oak-brook-n13685678144/
+3. Crate & Barrel | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Crate & Barrel is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-oak-brook/
+4. LoveSac | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | LoveSac is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-oak-brook/
+5. Pottery Barn | Organic #5 | Pulse Score 42/100 (Building, #6 in city) | Pottery Barn is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-oak-brook/
+6. Pottery Barn Kids | Organic #6 | Pulse Score 42/100 (Building, #5 in city) | Pottery Barn Kids is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-kids-oak-brook/
+7. west elm | Organic #7 | Pulse Score 42/100 (Building, #7 in city) | west elm is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/west-elm-oak-brook/
+8. Room & Board | Organic #8 | Pulse Score 41.5/100 (Unrated, #8 in city) | Room & Board is a furniture store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/room-and-board-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store oak brook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

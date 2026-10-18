@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Addison, IL is Dr. Calvin George, DC (a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/). 1 chiropractor businesses are listed for Addison, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Addison, IL is Dr. Calvin George, DC (a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/). 1 chiropractor businesses are listed for Addison, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Addison, IL?
 
 Also answers: chiropractor in Addison, IL; chiropractor near me (Addison, IL); best chiropractor Addison, IL; top rated chiropractor Addison, IL; affordable chiropractor Addison, IL; emergency chiropractor Addison, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Calvin George, DC | trust 20.0 | Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/
+1. Dr. Calvin George, DC | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Dr. Calvin George, DC is a chiropractor in Addison, IL at 190 N Swift Rd Ste S, Addison, IL 60101. Phone: +16305990950. Website: https://drgeorge-chiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/dr-calvin-george-dc-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor addison il | category: Health & medical | industry benchmark: Physicians & Surgeons

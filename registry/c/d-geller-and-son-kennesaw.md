@@ -13,7 +13,7 @@ D. Geller & Son is a jewelry store in Kennesaw, GA at 840 Ernest W. Barrett Park
 - Website: https://www.dgeller.com/contact?location=2
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 9% of jewelry stores in Atlanta, #1 of 4 jewelry stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

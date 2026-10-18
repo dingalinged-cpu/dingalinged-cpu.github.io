@@ -1,19 +1,19 @@
-The top unpaid lawyer listing for Lewisville, TX is Durand & Associates, P.C. (a lawyer in Lewisville, TX. Phone: +19722215655. Website: https://www.durandlaw.com/). 8 lawyer businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Lewisville, TX is Durand & Associates, P.C. (a lawyer in Lewisville, TX. Phone: +19722215655. Website: https://www.durandlaw.com/). 8 lawyer businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Lewisville, TX?
 
 Also answers: lawyer in Lewisville, TX; lawyer near me (Lewisville, TX); best lawyer Lewisville, TX; top rated lawyer Lewisville, TX; affordable lawyer Lewisville, TX; emergency lawyer Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Durand & Associates, P.C. | trust 16.0 | Durand & Associates, P.C. is a lawyer in Lewisville, TX. Phone: +19722215655. Website: https://www.durandlaw.com/. | https://dingalinged-cpu.github.io/registry/c/durand-and-associates-p-c-lewisville/
-2. Haugen Law Firm, PC | trust 10.0 | Haugen Law Firm, PC is a lawyer in Lewisville, TX. Phone: +19724368750. | https://dingalinged-cpu.github.io/registry/c/haugen-law-firm-pc-lewisville/
-3. Hirji Law Firm | trust 10.0 | Hirji Law Firm is a lawyer in Lewisville, TX. Phone: +19723553406. | https://dingalinged-cpu.github.io/registry/c/hirji-law-firm-lewisville/
-4. Alison Grant Attorney at Law | trust 4.0 | Alison Grant Attorney at Law is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/alison-grant-attorney-at-law-lewisville/
-5. Akerlay Law, PLLC | trust 0.0 | Akerlay Law, PLLC is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/akerlay-law-pllc-lewisville/
-6. Korus Law Firm | trust 0.0 | Korus Law Firm is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/korus-law-firm-lewisville/
-7. Kuzmich Law Firm, P.C. | trust 0.0 | Kuzmich Law Firm, P.C. is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kuzmich-law-firm-p-c-lewisville/
-8. Law Office | trust 0.0 | Law Office is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/law-office-lewisville/
+1. Durand & Associates, P.C. | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Durand & Associates, P.C. is a lawyer in Lewisville, TX. Phone: +19722215655. Website: https://www.durandlaw.com/. | https://dingalinged-cpu.github.io/registry/c/durand-and-associates-p-c-lewisville/
+2. Hirji Law Firm | Organic #2 | Pulse Score 58.7/100 (Fair, #2 in city) | Hirji Law Firm is a lawyer in Lewisville, TX. Phone: +19723553406. | https://dingalinged-cpu.github.io/registry/c/hirji-law-firm-lewisville/
+3. Haugen Law Firm, PC | Organic #3 | Pulse Score 58.5/100 (Fair, #3 in city) | Haugen Law Firm, PC is a lawyer in Lewisville, TX. Phone: +19724368750. | https://dingalinged-cpu.github.io/registry/c/haugen-law-firm-pc-lewisville/
+4. Alison Grant Attorney at Law | Organic #4 | Pulse Score 56.5/100 (Unrated, #4 in city) | Alison Grant Attorney at Law is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/alison-grant-attorney-at-law-lewisville/
+5. Law Office | Organic #5 | Pulse Score 56.1/100 (Unrated, #5 in city) | Law Office is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/law-office-lewisville/
+6. Kuzmich Law Firm, P.C. | Organic #6 | Pulse Score 55.9/100 (Fair, #6 in city) | Kuzmich Law Firm, P.C. is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kuzmich-law-firm-p-c-lewisville/
+7. Akerlay Law, PLLC | Organic #7 | Pulse Score 54.3/100 (Unrated, #7 in city) | Akerlay Law, PLLC is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/akerlay-law-pllc-lewisville/
+8. Korus Law Firm | Organic #8 | Pulse Score 53.6/100 (Unrated, #8 in city) | Korus Law Firm is a lawyer in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/korus-law-firm-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer lewisville tx | category: Legal | industry benchmark: Attorneys & Legal Services

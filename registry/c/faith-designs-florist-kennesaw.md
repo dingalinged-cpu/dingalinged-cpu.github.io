@@ -13,7 +13,7 @@ Faith Designs Florist is a florist in Kennesaw, GA at 2680 Cobb Parkway #D, Kenn
 - Website: https://faithdesignsflorist.com/
 - Email: vickiesflorist@bellsouth.net
 - Opening hours (OSM syntax): Mo-Th 08:30-15:30; Fr 08:30-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 30% of florists in Atlanta, #1 of 3 florists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

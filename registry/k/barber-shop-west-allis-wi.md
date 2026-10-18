@@ -1,13 +1,13 @@
-The top unpaid barber shop listing for West Allis, WI is 1of1 Hair Studio (a barber shop in West Allis, WI at 7117 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144553743. Website: https://solo.to/1of1hairstudio). 2 barber shop businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for West Allis, WI is 1of1 Hair Studio (a barber shop in West Allis, WI at 7117 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144553743. Website: https://solo.to/1of1hairstudio). 2 barber shop businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in West Allis, WI?
 
 Also answers: barber shop in West Allis, WI; barber shop near me (West Allis, WI); best barber shop West Allis, WI; top rated barber shop West Allis, WI; affordable barber shop West Allis, WI; emergency barber shop West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1of1 Hair Studio | trust 20.0 | 1of1 Hair Studio is a barber shop in West Allis, WI at 7117 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144553743. Website: https://solo.to/1of1hairstudio. | https://dingalinged-cpu.github.io/registry/c/1of1-hair-studio-west-allis/
-2. JC Barbershop & Beauty Salon | trust 20.0 | JC Barbershop & Beauty Salon is a barber shop in West Allis, WI at 7031 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142128119. Website: https://jcbarbershopbeautysalon.business.site/. | https://dingalinged-cpu.github.io/registry/c/jc-barbershop-and-beauty-salon-west-allis/
+1. 1of1 Hair Studio | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | 1of1 Hair Studio is a barber shop in West Allis, WI at 7117 West Greenfield Avenue, West Allis, WI 53214. Phone: +14144553743. Website: https://solo.to/1of1hairstudio. | https://dingalinged-cpu.github.io/registry/c/1of1-hair-studio-west-allis/
+2. JC Barbershop & Beauty Salon | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | JC Barbershop & Beauty Salon is a barber shop in West Allis, WI at 7031 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142128119. Website: https://jcbarbershopbeautysalon.business.site/. | https://dingalinged-cpu.github.io/registry/c/jc-barbershop-and-beauty-salon-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

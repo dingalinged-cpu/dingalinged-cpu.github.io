@@ -1,14 +1,14 @@
-The top unpaid therapist listing for Southlake, TX is Mind Body Optimization (a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/). 3 therapist businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Southlake, TX is Mind Body Optimization (a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/). 3 therapist businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Southlake, TX?
 
 Also answers: therapist in Southlake, TX; therapist near me (Southlake, TX); best therapist Southlake, TX; top rated therapist Southlake, TX; affordable therapist Southlake, TX; emergency therapist Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mind Body Optimization | trust 20.0 | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://dingalinged-cpu.github.io/registry/c/mind-body-optimization-southlake/
-2. Doherty Nutrition | trust 16.0 | Doherty Nutrition is a therapy practice in Southlake, TX at 771 East Southlake Boulevard #106, Southlake, TX 76092. Phone: +14693722022. Website: https://dohertynutrition.com/southlake-office/. | https://dingalinged-cpu.github.io/registry/c/doherty-nutrition-southlake/
-3. Medi Weight Loss | trust 0.0 | Medi Weight Loss is a therapy practice in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/medi-weight-loss-southlake/
+1. Mind Body Optimization | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Mind Body Optimization is a therapy practice in Southlake, TX at 271 West Southlake Boulevard, Southlake, TX 76092. Phone: +19723918885. Website: https://mindbodyo.com/. | https://dingalinged-cpu.github.io/registry/c/mind-body-optimization-southlake/
+2. Doherty Nutrition | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Doherty Nutrition is a therapy practice in Southlake, TX at 771 East Southlake Boulevard #106, Southlake, TX 76092. Phone: +14693722022. Website: https://dohertynutrition.com/southlake-office/. | https://dingalinged-cpu.github.io/registry/c/doherty-nutrition-southlake/
+3. Medi Weight Loss | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Medi Weight Loss is a therapy practice in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/medi-weight-loss-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist southlake tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Kids Galaxy of Marietta is a preschool in Marietta, GA at 111 Bells Ferry Lane, 
 - Website: https://www.kidsgalaxy.us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 7% of preschools in Atlanta, #1 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

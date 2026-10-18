@@ -1,17 +1,17 @@
-The top unpaid dentist listing for Bolingbrook, IL is Aspen Dental (a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd). 6 dentist businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Bolingbrook, IL is Innova Family Dental (a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272). 6 dentist businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Bolingbrook, IL?
 
 Also answers: dentist in Bolingbrook, IL; dentist near me (Bolingbrook, IL); best dentist Bolingbrook, IL; top rated dentist Bolingbrook, IL; affordable dentist Bolingbrook, IL; emergency dentist Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aspen Dental | trust 20.0 | Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-bolingbrook/
-2. Innova Family Dental | trust 14.0 | Innova Family Dental is a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272. | https://dingalinged-cpu.github.io/registry/c/innova-family-dental-bolingbrook/
-3. Grove Dental | trust 0.0 | Grove Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/grove-dental-bolingbrook/
-4. Integrity Dental | trust 0.0 | Integrity Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/integrity-dental-bolingbrook/
-5. Ocean Dental | trust 0.0 | Ocean Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/ocean-dental-bolingbrook/
-6. Sonrisa Dental | trust 0.0 | Sonrisa Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/sonrisa-dental-bolingbrook/
+1. Innova Family Dental | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Innova Family Dental is a dentist in Bolingbrook, IL at 772 Weber Road, Bolingbrook, IL 60490. Phone: +16305182272. | https://dingalinged-cpu.github.io/registry/c/innova-family-dental-bolingbrook/
+2. Sonrisa Dental | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Sonrisa Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/sonrisa-dental-bolingbrook/
+3. Grove Dental | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Grove Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/grove-dental-bolingbrook/
+4. Integrity Dental | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Integrity Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/integrity-dental-bolingbrook/
+5. Ocean Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Ocean Dental is a dentist in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/ocean-dental-bolingbrook/
+6. Aspen Dental | Organic #6 | Pulse Score 48.7/100 (Building, #6 in city) | Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbrook, IL 60490. Phone: +13317574181. Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist bolingbrook il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

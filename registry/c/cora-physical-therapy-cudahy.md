@@ -13,7 +13,7 @@ Cora Physical Therapy is a physical therapy clinic in Cudahy, WI at 3503 East La
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Unrated (not enough evidence yet) — top 68% of physical therapy clinics in Milwaukee, #1 of 1 physical therapy clinics in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

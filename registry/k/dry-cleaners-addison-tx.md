@@ -1,16 +1,16 @@
-The top unpaid dry cleaners listing for Addison, TX is Brantley Cleaners (a dry cleaner in Dallas, TX at 5000 Belt Line Road #950, Dallas, TX 75254. Phone: +19726612267). 5 dry cleaners businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Addison, TX is Brantley Cleaners (a dry cleaner in Dallas, TX at 5000 Belt Line Road #950, Dallas, TX 75254. Phone: +19726612267). 5 dry cleaners businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Addison, TX?
 
 Also answers: dry cleaners in Addison, TX; dry cleaners near me (Addison, TX); best dry cleaners Addison, TX; top rated dry cleaners Addison, TX; affordable dry cleaners Addison, TX; emergency dry cleaners Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brantley Cleaners | trust 10.0 | Brantley Cleaners is a dry cleaner in Dallas, TX at 5000 Belt Line Road #950, Dallas, TX 75254. Phone: +19726612267. | https://dingalinged-cpu.github.io/registry/c/brantley-cleaners-dallas/
-2. Cleaners USA | trust 10.0 | Cleaners USA is a dry cleaner in Addison, TX at 15655 Spectrum Drive, Addison, TX 75001. Phone: +14692507729. | https://dingalinged-cpu.github.io/registry/c/cleaners-usa-addison/
-3. Sun Lite Cleaners | trust 4.0 | Sun Lite Cleaners is a dry cleaner in Addison, TX at 4151 Belt Line Road #105, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/sun-lite-cleaners-addison/
-4. Como Cleaners | trust 0.0 | Como Cleaners is a dry cleaner in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/como-cleaners-addison/
-5. Metrocrest Dry Cleaners | trust 0.0 | Metrocrest Dry Cleaners is a dry cleaner in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/metrocrest-dry-cleaners-addison/
+1. Brantley Cleaners | Organic #1 | Pulse Score 61.1/100 (Unrated, #9 in city) | Brantley Cleaners is a dry cleaner in Dallas, TX at 5000 Belt Line Road #950, Dallas, TX 75254. Phone: +19726612267. | https://dingalinged-cpu.github.io/registry/c/brantley-cleaners-dallas/
+2. Cleaners USA | Organic #2 | Pulse Score 61.1/100 (Unrated, #1 in city) | Cleaners USA is a dry cleaner in Addison, TX at 15655 Spectrum Drive, Addison, TX 75001. Phone: +14692507729. | https://dingalinged-cpu.github.io/registry/c/cleaners-usa-addison/
+3. Sun Lite Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #2 in city) | Sun Lite Cleaners is a dry cleaner in Addison, TX at 4151 Belt Line Road #105, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/sun-lite-cleaners-addison/
+4. Como Cleaners | Organic #4 | Pulse Score 54.7/100 (Unrated, #3 in city) | Como Cleaners is a dry cleaner in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/como-cleaners-addison/
+5. Metrocrest Dry Cleaners | Organic #5 | Pulse Score 54.7/100 (Unrated, #4 in city) | Metrocrest Dry Cleaners is a dry cleaner in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/metrocrest-dry-cleaners-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

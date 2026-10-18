@@ -13,7 +13,7 @@ Burn Boot Camp Mt. Pleasant is a gym in Mount Pleasant, WI at 6500 Washington Av
 - Website: https://burnbootcamp.com/locations/mt-pleasant-wi/
 - Email: mtpleasantwi@burnbootcamp.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 28% of gyms in Milwaukee, #1 of 1 gyms in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

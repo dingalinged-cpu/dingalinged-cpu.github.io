@@ -13,7 +13,7 @@ Tune Up "The Manly Salon" is a hair salon in Plano, TX at 1885 Dallas Parkway #S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 84% of hair salons in Dallas–Fort Worth, #18 of 19 hair salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

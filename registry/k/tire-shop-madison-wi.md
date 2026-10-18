@@ -1,18 +1,18 @@
-The top unpaid tire shop listing for Madison, WI is Capitol Tire & Service (a tire shop in Madison, WI at 5610 Odana Road, Madison, WI. Website: https://captire.net/). 7 tire shop businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Madison, WI is Capitol Tire & Service (a tire shop in Madison, WI at 5610 Odana Road, Madison, WI. Website: https://captire.net/). 7 tire shop businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Madison, WI?
 
 Also answers: tire shop in Madison, WI; tire shop near me (Madison, WI); best tire shop Madison, WI; top rated tire shop Madison, WI; affordable tire shop Madison, WI; emergency tire shop Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Capitol Tire & Service | trust 9.0 | Capitol Tire & Service is a tire shop in Madison, WI at 5610 Odana Road, Madison, WI. Website: https://captire.net/. | https://dingalinged-cpu.github.io/registry/c/capitol-tire-and-service-madison/
-2. Firestone | trust 9.0 | Firestone is an auto repair shop in Madison, WI at Mineral Point Road, Madison, WI. Website: https://www.firestonecompleteautocare.com/store-detail/21091/7105-mineral-point-rd-madison-wi-53717-1719/. | https://dingalinged-cpu.github.io/registry/c/firestone-madison/
-3. Tires Plus | trust 9.0 | Tires Plus is a tire shop in Madison, WI at 458 Commerce Drive, Madison, WI. Phone: +16084104650. | https://dingalinged-cpu.github.io/registry/c/tires-plus-madison-w48229977/
-4. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/discount-tire-madison/
-5. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/discount-tire-madison-w281399232/
-6. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Madison, WI at 608 East Washington Avenue, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/goodyear-madison/
-7. Tires Plus | trust 4.0 | Tires Plus is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tires-plus-madison/
+1. Capitol Tire & Service | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Capitol Tire & Service is a tire shop in Madison, WI at 5610 Odana Road, Madison, WI. Website: https://captire.net/. | https://dingalinged-cpu.github.io/registry/c/capitol-tire-and-service-madison/
+2. Tires Plus | Organic #2 | Pulse Score 50.2/100 (Fair, #2 in city) | Tires Plus is a tire shop in Madison, WI at 458 Commerce Drive, Madison, WI. Phone: +16084104650. | https://dingalinged-cpu.github.io/registry/c/tires-plus-madison-w48229977/
+3. Firestone | Organic #3 | Pulse Score 47/100 (Building, #37 in city) | Firestone is an auto repair shop in Madison, WI at Mineral Point Road, Madison, WI. Website: https://www.firestonecompleteautocare.com/store-detail/21091/7105-mineral-point-rd-madison-wi-53717-1719/. | https://dingalinged-cpu.github.io/registry/c/firestone-madison/
+4. Goodyear | Organic #4 | Pulse Score 46.3/100 (Building, #41 in city) | Goodyear is an auto repair shop in Madison, WI at 608 East Washington Avenue, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/goodyear-madison/
+5. Discount Tire | Organic #5 | Pulse Score 44.9/100 (Building, #3 in city) | Discount Tire is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/discount-tire-madison-w281399232/
+6. Discount Tire | Organic #6 | Pulse Score 44.4/100 (Building, #4 in city) | Discount Tire is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/discount-tire-madison/
+7. Tires Plus | Organic #7 | Pulse Score 44.4/100 (Building, #5 in city) | Tires Plus is a tire shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tires-plus-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop madison wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

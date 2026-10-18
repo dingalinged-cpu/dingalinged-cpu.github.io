@@ -13,7 +13,7 @@ Wellness Care Centers of Denton is a pediatrician in Lewisville, TX at 701 South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa-Su,PH off
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 3% of pediatricians in Dallas–Fort Worth, #1 of 2 pediatricians in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

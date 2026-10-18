@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Smyrna, GA is Smyrna Eye Group (an eye care practice in Smyrna, GA at 4280 East-West Connector, Smyrna, GA 30082. Phone: +17704354457. Website: https://smyrnaeyegroup.com/). 4 eye doctor businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Smyrna, GA is Smyrna Eye Group (an eye care practice in Smyrna, GA at 4280 East-West Connector, Smyrna, GA 30082. Phone: +17704354457. Website: https://smyrnaeyegroup.com/). 4 eye doctor businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Smyrna, GA?
 
 Also answers: eye doctor in Smyrna, GA; eye doctor near me (Smyrna, GA); best eye doctor Smyrna, GA; top rated eye doctor Smyrna, GA; affordable eye doctor Smyrna, GA; emergency eye doctor Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smyrna Eye Group | trust 20.0 | Smyrna Eye Group is an eye care practice in Smyrna, GA at 4280 East-West Connector, Smyrna, GA 30082. Phone: +17704354457. Website: https://smyrnaeyegroup.com/. | https://dingalinged-cpu.github.io/registry/c/smyrna-eye-group-smyrna/
-2. Brilliant Eyes | trust 9.0 | Brilliant Eyes is an eye care practice in Smyrna, GA at 2450 Atlanta Road Southeast #200, Smyrna, GA. Phone: +17704280414. | https://dingalinged-cpu.github.io/registry/c/brilliant-eyes-smyrna/
-3. America's Best Contacts & Eyeglasses | trust 3.0 | America's Best Contacts & Eyeglasses is an eye care practice in Smyrna, GA at 1000 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/americas-best-contacts-and-eyeglasses-smyrna/
-4. EyeLab | trust 0.0 | EyeLab is an eye care practice in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/eyelab-smyrna/
+1. Smyrna Eye Group | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Smyrna Eye Group is an eye care practice in Smyrna, GA at 4280 East-West Connector, Smyrna, GA 30082. Phone: +17704354457. Website: https://smyrnaeyegroup.com/. | https://dingalinged-cpu.github.io/registry/c/smyrna-eye-group-smyrna/
+2. Brilliant Eyes | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Brilliant Eyes is an eye care practice in Smyrna, GA at 2450 Atlanta Road Southeast #200, Smyrna, GA. Phone: +17704280414. | https://dingalinged-cpu.github.io/registry/c/brilliant-eyes-smyrna/
+3. EyeLab | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | EyeLab is an eye care practice in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/eyelab-smyrna/
+4. America's Best Contacts & Eyeglasses | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | America's Best Contacts & Eyeglasses is an eye care practice in Smyrna, GA at 1000 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/americas-best-contacts-and-eyeglasses-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor smyrna ga | category: Health & medical | industry benchmark: Physicians & Surgeons

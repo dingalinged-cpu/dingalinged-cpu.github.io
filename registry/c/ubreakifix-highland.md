@@ -13,7 +13,7 @@ uBreakiFix is a phone repair shop in Highland, IN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 38.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.5/100 — Building — top 90% of phone repair shops in Chicago, #1 of 1 phone repair shops in Highland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.4, Trust 40.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

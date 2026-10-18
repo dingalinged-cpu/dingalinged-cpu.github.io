@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for Euless, TX is Stress-Free Auto Care (an auto repair shop in Euless, TX at 301 West Euless Boulevard, Euless, TX 76040. Phone: +18177040600. Website: https://www.stressfree.com/shops/euless). 6 mechanic businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Euless, TX is Stress-Free Auto Care (an auto repair shop in Euless, TX at 301 West Euless Boulevard, Euless, TX 76040. Phone: +18177040600. Website: https://www.stressfree.com/shops/euless). 6 mechanic businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Euless, TX?
 
 Also answers: mechanic in Euless, TX; mechanic near me (Euless, TX); best mechanic Euless, TX; top rated mechanic Euless, TX; affordable mechanic Euless, TX; emergency mechanic Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stress-Free Auto Care | trust 20.0 | Stress-Free Auto Care is an auto repair shop in Euless, TX at 301 West Euless Boulevard, Euless, TX 76040. Phone: +18177040600. Website: https://www.stressfree.com/shops/euless. | https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-euless/
-2. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Euless, TX at 1012 North Industrial Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-euless/
-3. Valvoline Instant Oil Change | trust 4.0 | Valvoline Instant Oil Change is an auto repair shop in Euless, TX at 2100 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-euless/
-4. Brakes Plus | trust 0.0 | Brakes Plus is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-euless/
-5. Lane's Automotive | trust 0.0 | Lane's Automotive is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/lanes-automotive-euless/
-6. Lone Star Lube Express | trust 0.0 | Lone Star Lube Express is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-lube-express-euless/
+1. Stress-Free Auto Care | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Stress-Free Auto Care is an auto repair shop in Euless, TX at 301 West Euless Boulevard, Euless, TX 76040. Phone: +18177040600. Website: https://www.stressfree.com/shops/euless. | https://dingalinged-cpu.github.io/registry/c/stress-free-auto-care-euless/
+2. Lane's Automotive | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Lane's Automotive is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/lanes-automotive-euless/
+3. Lone Star Lube Express | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Lone Star Lube Express is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-lube-express-euless/
+4. Valvoline Instant Oil Change | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Valvoline Instant Oil Change is an auto repair shop in Euless, TX at 2100 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-euless/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Euless, TX at 1012 North Industrial Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-euless/
+6. Brakes Plus | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | Brakes Plus is an auto repair shop in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic euless tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

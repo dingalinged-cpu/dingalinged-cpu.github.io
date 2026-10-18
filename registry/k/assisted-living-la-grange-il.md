@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for La Grange, IL is Meadowbrook Manor (an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525). 1 assisted living businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for La Grange, IL is Meadowbrook Manor (an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525). 1 assisted living businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in La Grange, IL?
 
 Also answers: assisted living in La Grange, IL; assisted living near me (La Grange, IL); best assisted living La Grange, IL; top rated assisted living La Grange, IL; affordable assisted living La Grange, IL; emergency assisted living La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meadowbrook Manor | trust 4.0 | Meadowbrook Manor is an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525. | https://dingalinged-cpu.github.io/registry/c/meadowbrook-manor-la-grange/
+1. Meadowbrook Manor | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Meadowbrook Manor is an assisted living facility in La Grange, IL at 339 South 9th Avenue, La Grange, IL 60525. | https://dingalinged-cpu.github.io/registry/c/meadowbrook-manor-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living la grange il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

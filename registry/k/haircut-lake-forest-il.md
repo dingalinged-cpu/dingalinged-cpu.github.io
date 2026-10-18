@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Lake Forest, IL is Tiara Salon & Spa (a hair salon in Lake Forest, IL at 1385 North Western Avenue, Lake Forest, IL 60045. Phone: +18472348211. Website: https://tiarasalon.com/). 2 haircut businesses are listed for Lake Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Lake Forest, IL is Tiara Salon & Spa (a hair salon in Lake Forest, IL at 1385 North Western Avenue, Lake Forest, IL 60045. Phone: +18472348211. Website: https://tiarasalon.com/). 2 haircut businesses are listed for Lake Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Lake Forest, IL?
 
 Also answers: haircut in Lake Forest, IL; haircut near me (Lake Forest, IL); best haircut Lake Forest, IL; top rated haircut Lake Forest, IL; affordable haircut Lake Forest, IL; emergency haircut Lake Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiara Salon & Spa | trust 20.0 | Tiara Salon & Spa is a hair salon in Lake Forest, IL at 1385 North Western Avenue, Lake Forest, IL 60045. Phone: +18472348211. Website: https://tiarasalon.com/. | https://dingalinged-cpu.github.io/registry/c/tiara-salon-and-spa-lake-forest/
-2. Fred's Barber Shoppe | trust 0.0 | Fred's Barber Shoppe is a hair salon in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/freds-barber-shoppe-lake-forest/
+1. Tiara Salon & Spa | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Tiara Salon & Spa is a hair salon in Lake Forest, IL at 1385 North Western Avenue, Lake Forest, IL 60045. Phone: +18472348211. Website: https://tiarasalon.com/. | https://dingalinged-cpu.github.io/registry/c/tiara-salon-and-spa-lake-forest/
+2. Fred's Barber Shoppe | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Fred's Barber Shoppe is a hair salon in Lake Forest, IL. | https://dingalinged-cpu.github.io/registry/c/freds-barber-shoppe-lake-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut lake forest il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

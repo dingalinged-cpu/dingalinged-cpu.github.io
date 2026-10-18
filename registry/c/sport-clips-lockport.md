@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Lockport, IL at 16449 West 159th Street, Lockport
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 88% of hair salons in Chicago, #1 of 1 hair salons in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

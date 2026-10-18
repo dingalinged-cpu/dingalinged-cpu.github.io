@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Roanoke, TX is Sport Clips (a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 305, Roanoke, TX 76262. Phone: +18174913388. Website: https://sportclips.com/us-tx-roanoke-tx425). 3 hair salon businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Roanoke, TX is Beauty Hive Salon (a hair salon in Roanoke, TX). 3 hair salon businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Roanoke, TX?
 
 Also answers: hair salon in Roanoke, TX; hair salon near me (Roanoke, TX); best hair salon Roanoke, TX; top rated hair salon Roanoke, TX; affordable hair salon Roanoke, TX; emergency hair salon Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 20.0 | Sport Clips is a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 305, Roanoke, TX 76262. Phone: +18174913388. Website: https://sportclips.com/us-tx-roanoke-tx425. | https://dingalinged-cpu.github.io/registry/c/sport-clips-roanoke/
-2. Supercuts | trust 4.0 | Supercuts is a hair salon in Roanoke, TX at 1320 North US Highway 377 #200, Roanoke, TX 76262. | https://dingalinged-cpu.github.io/registry/c/supercuts-roanoke/
-3. Beauty Hive Salon | trust 0.0 | Beauty Hive Salon is a hair salon in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/beauty-hive-salon-roanoke/
+1. Beauty Hive Salon | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Beauty Hive Salon is a hair salon in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/beauty-hive-salon-roanoke/
+2. Sport Clips | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Sport Clips is a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 305, Roanoke, TX 76262. Phone: +18174913388. Website: https://sportclips.com/us-tx-roanoke-tx425. | https://dingalinged-cpu.github.io/registry/c/sport-clips-roanoke/
+3. Supercuts | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Supercuts is a hair salon in Roanoke, TX at 1320 North US Highway 377 #200, Roanoke, TX 76262. | https://dingalinged-cpu.github.io/registry/c/supercuts-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon roanoke tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

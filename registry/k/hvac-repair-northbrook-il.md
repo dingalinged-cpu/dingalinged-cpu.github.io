@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Northbrook, IL is Roberts Heating & Air Conditioning, Inc. (a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/). 1 hvac repair businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Northbrook, IL is Roberts Heating & Air Conditioning, Inc. (a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/). 1 hvac repair businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Northbrook, IL?
 
 Also answers: hvac repair in Northbrook, IL; hvac repair near me (Northbrook, IL); best hvac repair Northbrook, IL; top rated hvac repair Northbrook, IL; affordable hvac repair Northbrook, IL; emergency hvac repair Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roberts Heating & Air Conditioning, Inc. | trust 6.0 | Roberts Heating & Air Conditioning, Inc. is a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/. | https://dingalinged-cpu.github.io/registry/c/roberts-heating-and-air-conditioning-inc-northbrook/
+1. Roberts Heating & Air Conditioning, Inc. | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Roberts Heating & Air Conditioning, Inc. is a HVAC contractor in Northbrook, IL. Website: https://www.robertsheating.com/. | https://dingalinged-cpu.github.io/registry/c/roberts-heating-and-air-conditioning-inc-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair northbrook il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

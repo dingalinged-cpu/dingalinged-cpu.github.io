@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Orland Park, IL is European Wax Center (a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html). 1 waxing businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Orland Park, IL is European Wax Center (a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html). 1 waxing businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Orland Park, IL?
 
 Also answers: waxing in Orland Park, IL; waxing near me (Orland Park, IL); best waxing Orland Park, IL; top rated waxing Orland Park, IL; affordable waxing Orland Park, IL; emergency waxing Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 10.0 | European Wax Center is a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-orland-park/
+1. European Wax Center | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | European Wax Center is a waxing salon in Orland Park, IL at 15174 South La Grange Road, Orland Park, IL 60462. Website: https://locations.waxcenter.com/il/orlandpark/orland-park-0568.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing orland park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

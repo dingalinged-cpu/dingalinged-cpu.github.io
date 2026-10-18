@@ -13,7 +13,7 @@ El Diamante Jewelry is a jewelry store in Atlanta, GA at 3406 Clairmont Road, At
 - Website: https://eldiamanteatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 20% of jewelry stores in Atlanta, #2 of 7 jewelry stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

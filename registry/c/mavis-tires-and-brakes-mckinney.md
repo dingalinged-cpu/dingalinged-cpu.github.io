@@ -13,7 +13,7 @@ Mavis Tires & Brakes is an auto repair shop in McKinney, TX at 7237 South Custer
 - Website: https://mavis.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #14 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

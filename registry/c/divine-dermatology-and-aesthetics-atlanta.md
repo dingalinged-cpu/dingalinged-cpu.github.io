@@ -13,7 +13,7 @@ Divine Dermatology and Aesthetics is a dermatologist in Atlanta, GA at 1039 Gran
 - Website: https://divinedermatl.com/
 - Email: info@DivineDermAtl.com
 - Opening hours (OSM syntax): Tu,Th,Fr 08:30-16:00; We 10:00-18:00; PH unkown
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 12% of dermatologists in Atlanta, #1 of 3 dermatologists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

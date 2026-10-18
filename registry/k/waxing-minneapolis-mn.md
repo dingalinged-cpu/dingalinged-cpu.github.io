@@ -1,14 +1,14 @@
-The top unpaid waxing listing for Minneapolis, MN is European Wax Center (a waxing salon in Minneapolis, MN at 3232 Lake Street West, Minneapolis, MN 55416. Phone: +16123535982. Website: https://locations.waxcenter.com/mn/minneapolis/minneapolis-uptown-0123.html). 3 waxing businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Minneapolis, MN is Spa Sweet (a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588). 3 waxing businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Minneapolis, MN?
 
 Also answers: waxing in Minneapolis, MN; waxing near me (Minneapolis, MN); best waxing Minneapolis, MN; top rated waxing Minneapolis, MN; affordable waxing Minneapolis, MN; emergency waxing Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 20.0 | European Wax Center is a waxing salon in Minneapolis, MN at 3232 Lake Street West, Minneapolis, MN 55416. Phone: +16123535982. Website: https://locations.waxcenter.com/mn/minneapolis/minneapolis-uptown-0123.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-minneapolis/
-2. Spa Sweet | trust 10.0 | Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588. | https://dingalinged-cpu.github.io/registry/c/spa-sweet-minneapolis/
-3. The Refinery | trust 10.0 | The Refinery is a waxing salon in Minneapolis, MN at 34 Northeast 13th Avenue #102, Minneapolis, MN 55413. Website: https://www.refinerympls.com/. | https://dingalinged-cpu.github.io/registry/c/the-refinery-minneapolis/
+1. Spa Sweet | Organic #1 | Pulse Score 59.7/100 (Unrated, #6 in city) | Spa Sweet is a nail salon in Minneapolis, MN at 4747 Chicago Avenue South, Minneapolis, MN 55407. Phone: +16127993588. | https://dingalinged-cpu.github.io/registry/c/spa-sweet-minneapolis/
+2. The Refinery | Organic #2 | Pulse Score 56.2/100 (Unrated, #1 in city) | The Refinery is a waxing salon in Minneapolis, MN at 34 Northeast 13th Avenue #102, Minneapolis, MN 55413. Website: https://www.refinerympls.com/. | https://dingalinged-cpu.github.io/registry/c/the-refinery-minneapolis/
+3. European Wax Center | Organic #3 | Pulse Score 49.9/100 (Building, #2 in city) | European Wax Center is a waxing salon in Minneapolis, MN at 3232 Lake Street West, Minneapolis, MN 55416. Phone: +16123535982. Website: https://locations.waxcenter.com/mn/minneapolis/minneapolis-uptown-0123.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing minneapolis mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

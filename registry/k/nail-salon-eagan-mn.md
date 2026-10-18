@@ -1,21 +1,21 @@
-The top unpaid nail salon listing for Eagan, MN is Star Nails (a nail salon in Eagan, MN at 1016 Diffley Road, Eagan, MN 55123). 10 nail salon businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Eagan, MN is Tip Top Nails (a nail salon in Eagan, MN at 1468B, Eagan, MN). 10 nail salon businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Eagan, MN?
 
 Also answers: nail salon in Eagan, MN; nail salon near me (Eagan, MN); best nail salon Eagan, MN; top rated nail salon Eagan, MN; affordable nail salon Eagan, MN; emergency nail salon Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Star Nails | trust 4.0 | Star Nails is a nail salon in Eagan, MN at 1016 Diffley Road, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/star-nails-eagan/
-2. USA Nails | trust 4.0 | USA Nails is a nail salon in Eagan, MN at 1270 Town Centre Drive, Eagan, MN 55121. | https://dingalinged-cpu.github.io/registry/c/usa-nails-eagan/
-3. Tip Top Nails | trust 3.0 | Tip Top Nails is a nail salon in Eagan, MN at 1468B, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/tip-top-nails-eagan/
-4. Central Nails | trust 0.0 | Central Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/central-nails-eagan/
-5. Friendly Nails | trust 0.0 | Friendly Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/friendly-nails-eagan/
-6. Lux Nail Spa | trust 0.0 | Lux Nail Spa is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/lux-nail-spa-eagan/
-7. Nails 1st | trust 0.0 | Nails 1st is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/nails-1st-eagan/
-8. PamPer Nails | trust 0.0 | PamPer Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/pamper-nails-eagan/
-9. Turbo Nails and Spa | trust 0.0 | Turbo Nails and Spa is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/turbo-nails-and-spa-eagan/
-10. VP Nails | trust 0.0 | VP Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/vp-nails-eagan/
+1. Tip Top Nails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Tip Top Nails is a nail salon in Eagan, MN at 1468B, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/tip-top-nails-eagan/
+2. Central Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Central Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/central-nails-eagan/
+3. Friendly Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Friendly Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/friendly-nails-eagan/
+4. Turbo Nails and Spa | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Turbo Nails and Spa is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/turbo-nails-and-spa-eagan/
+5. VP Nails | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | VP Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/vp-nails-eagan/
+6. Star Nails | Organic #6 | Pulse Score 44.5/100 (Unrated, #6 in city) | Star Nails is a nail salon in Eagan, MN at 1016 Diffley Road, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/star-nails-eagan/
+7. USA Nails | Organic #7 | Pulse Score 44.5/100 (Unrated, #7 in city) | USA Nails is a nail salon in Eagan, MN at 1270 Town Centre Drive, Eagan, MN 55121. | https://dingalinged-cpu.github.io/registry/c/usa-nails-eagan/
+8. Lux Nail Spa | Organic #8 | Pulse Score 42/100 (Unrated, #8 in city) | Lux Nail Spa is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/lux-nail-spa-eagan/
+9. Nails 1st | Organic #9 | Pulse Score 42/100 (Unrated, #9 in city) | Nails 1st is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/nails-1st-eagan/
+10. PamPer Nails | Organic #10 | Pulse Score 42/100 (Unrated, #10 in city) | PamPer Nails is a nail salon in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/pamper-nails-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon eagan mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Sugar Hill, GA is Peach State Laser Periodontics & Implants (a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822). 2 dentist businesses are listed for Sugar Hill, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Sugar Hill, GA is Peach State Laser Periodontics & Implants (a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822). 2 dentist businesses are listed for Sugar Hill, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Sugar Hill, GA?
 
 Also answers: dentist in Sugar Hill, GA; dentist near me (Sugar Hill, GA); best dentist Sugar Hill, GA; top rated dentist Sugar Hill, GA; affordable dentist Sugar Hill, GA; emergency dentist Sugar Hill, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peach State Laser Periodontics & Implants | trust 14.0 | Peach State Laser Periodontics & Implants is a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822. | https://dingalinged-cpu.github.io/registry/c/peach-state-laser-periodontics-and-implants-suwanee/
-2. Sugar Hill Corners Dentistry | trust 12.0 | Sugar Hill Corners Dentistry is a dentist in Sugar Hill, GA. Phone: +16789447327. Website: https://sugarhillcornersdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/sugar-hill-corners-dentistry-sugar-hill/
+1. Peach State Laser Periodontics & Implants | Organic #1 | Pulse Score 59.1/100 (Unrated, #2 in city) | Peach State Laser Periodontics & Implants is a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822. | https://dingalinged-cpu.github.io/registry/c/peach-state-laser-periodontics-and-implants-suwanee/
+2. Sugar Hill Corners Dentistry | Organic #2 | Pulse Score 58.4/100 (Unrated, #1 in city) | Sugar Hill Corners Dentistry is a dentist in Sugar Hill, GA. Phone: +16789447327. Website: https://sugarhillcornersdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/sugar-hill-corners-dentistry-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist sugar hill ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

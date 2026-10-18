@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Berwyn, IL is Jiffy Lube (an auto repair shop in Berwyn, IL at 6930 West Cermak Road, Berwyn, IL 60402. Website: https://www.jiffylube.com/locations/il/berwyn/279). 3 auto repair businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Berwyn, IL is Camargos Auto & Tire Repair (an auto repair shop in Berwyn, IL at 6321 West Roosevelt Road, Berwyn, IL 60402). 3 auto repair businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Berwyn, IL?
 
 Also answers: auto repair in Berwyn, IL; auto repair near me (Berwyn, IL); best auto repair Berwyn, IL; top rated auto repair Berwyn, IL; affordable auto repair Berwyn, IL; emergency auto repair Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 10.0 | Jiffy Lube is an auto repair shop in Berwyn, IL at 6930 West Cermak Road, Berwyn, IL 60402. Website: https://www.jiffylube.com/locations/il/berwyn/279. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-berwyn/
-2. Camargos Auto & Tire Repair | trust 4.0 | Camargos Auto & Tire Repair is an auto repair shop in Berwyn, IL at 6321 West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/camargos-auto-and-tire-repair-berwyn/
-3. Safelite AutoGlass | trust 4.0 | Safelite AutoGlass is an auto repair shop in Berwyn, IL at 6538 West Ogden Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-berwyn/
+1. Camargos Auto & Tire Repair | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Camargos Auto & Tire Repair is an auto repair shop in Berwyn, IL at 6321 West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/camargos-auto-and-tire-repair-berwyn/
+2. Jiffy Lube | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Berwyn, IL at 6930 West Cermak Road, Berwyn, IL 60402. Website: https://www.jiffylube.com/locations/il/berwyn/279. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-berwyn/
+3. Safelite AutoGlass | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Safelite AutoGlass is an auto repair shop in Berwyn, IL at 6538 West Ogden Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair berwyn il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

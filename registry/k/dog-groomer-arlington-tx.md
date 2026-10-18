@@ -1,14 +1,14 @@
-The top unpaid dog groomer listing for Arlington, TX is Pet Supplies Plus (a dog groomer in Arlington, TX at 5335 West Sublett Road, Arlington, TX 76017. Phone: +16828084956). 3 dog groomer businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Arlington, TX is Bark of the Town (a dog groomer in Arlington, TX. Website: https://bark-town.com/). 3 dog groomer businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Arlington, TX?
 
 Also answers: dog groomer in Arlington, TX; dog groomer near me (Arlington, TX); best dog groomer Arlington, TX; top rated dog groomer Arlington, TX; affordable dog groomer Arlington, TX; emergency dog groomer Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Supplies Plus | trust 10.0 | Pet Supplies Plus is a dog groomer in Arlington, TX at 5335 West Sublett Road, Arlington, TX 76017. Phone: +16828084956. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-arlington-n13416774401/
-2. Bark of the Town | trust 6.0 | Bark of the Town is a dog groomer in Arlington, TX. Website: https://bark-town.com/. | https://dingalinged-cpu.github.io/registry/c/bark-of-the-town-arlington/
-3. PetSuites Arlington | trust 0.0 | PetSuites Arlington is a dog groomer in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/petsuites-arlington-arlington/
+1. Bark of the Town | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Bark of the Town is a dog groomer in Arlington, TX. Website: https://bark-town.com/. | https://dingalinged-cpu.github.io/registry/c/bark-of-the-town-arlington/
+2. PetSuites Arlington | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | PetSuites Arlington is a dog groomer in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/petsuites-arlington-arlington/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 46.7/100 (Unrated, #3 in city) | Pet Supplies Plus is a dog groomer in Arlington, TX at 5335 West Sublett Road, Arlington, TX 76017. Phone: +16828084956. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-arlington-n13416774401/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer arlington tx | category: Pets | industry benchmark: Animals & Pets

@@ -1,18 +1,18 @@
-The top unpaid lawyer listing for Racine, WI is Patton Law Office, S.C. (a lawyer in Racine, WI at 1636 Taylor Avenue, Racine, WI 53142. Phone: +12622214848. Website: https://www.pattonlawwi.com/). 7 lawyer businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Racine, WI is Patton Law Office, S.C. (a lawyer in Racine, WI at 1636 Taylor Avenue, Racine, WI 53142. Phone: +12622214848. Website: https://www.pattonlawwi.com/). 7 lawyer businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Racine, WI?
 
 Also answers: lawyer in Racine, WI; lawyer near me (Racine, WI); best lawyer Racine, WI; top rated lawyer Racine, WI; affordable lawyer Racine, WI; emergency lawyer Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Patton Law Office, S.C. | trust 20.0 | Patton Law Office, S.C. is a lawyer in Racine, WI at 1636 Taylor Avenue, Racine, WI 53142. Phone: +12622214848. Website: https://www.pattonlawwi.com/. | https://dingalinged-cpu.github.io/registry/c/patton-law-office-s-c-racine/
-2. Sterling Lawyers, LLC | trust 20.0 | Sterling Lawyers, LLC is a lawyer in Racine, WI at 731 Main St, Racine, WI 53403. Phone: +12624255656. Website: https://www.sterlinglawyers.com/wisconsin/locations/racine/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-racine/
-3. Bruner Law Offices S.C. | trust 3.0 | Bruner Law Offices S.C. is a lawyer in Racine, WI at 827 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bruner-law-offices-s-c-racine/
-4. Clifton Larson Allen | trust 3.0 | Clifton Larson Allen is a lawyer in Racine, WI at 222 Main Street #200, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/clifton-larson-allen-racine/
-5. Grunn Law Office | trust 3.0 | Grunn Law Office is a lawyer in Racine, WI at 310 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/grunn-law-office-racine/
-6. Jeffrey Leavell, SC | trust 3.0 | Jeffrey Leavell, SC is a lawyer in Racine, WI at 723 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/jeffrey-leavell-sc-racine/
-7. Servantez Law Offices | trust 3.0 | Servantez Law Offices is a lawyer in Racine, WI at 4101 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/servantez-law-offices-racine/
+1. Patton Law Office, S.C. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Patton Law Office, S.C. is a lawyer in Racine, WI at 1636 Taylor Avenue, Racine, WI 53142. Phone: +12622214848. Website: https://www.pattonlawwi.com/. | https://dingalinged-cpu.github.io/registry/c/patton-law-office-s-c-racine/
+2. Bruner Law Offices S.C. | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Bruner Law Offices S.C. is a lawyer in Racine, WI at 827 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bruner-law-offices-s-c-racine/
+3. Clifton Larson Allen | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Clifton Larson Allen is a lawyer in Racine, WI at 222 Main Street #200, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/clifton-larson-allen-racine/
+4. Grunn Law Office | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Grunn Law Office is a lawyer in Racine, WI at 310 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/grunn-law-office-racine/
+5. Jeffrey Leavell, SC | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Jeffrey Leavell, SC is a lawyer in Racine, WI at 723 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/jeffrey-leavell-sc-racine/
+6. Servantez Law Offices | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Servantez Law Offices is a lawyer in Racine, WI at 4101 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/servantez-law-offices-racine/
+7. Sterling Lawyers, LLC | Organic #7 | Pulse Score 49.2/100 (Unrated, #7 in city) | Sterling Lawyers, LLC is a lawyer in Racine, WI at 731 Main St, Racine, WI 53403. Phone: +12624255656. Website: https://www.sterlinglawyers.com/wisconsin/locations/racine/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer racine wi | category: Legal | industry benchmark: Attorneys & Legal Services

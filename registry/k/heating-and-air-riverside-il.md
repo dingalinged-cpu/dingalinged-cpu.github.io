@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Riverside, IL is Riverside Plumbing & Heating (a HVAC contractor in Riverside, IL at 3 Longcommon Road, Riverside, IL 60546). 1 heating and air businesses are listed for Riverside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Riverside, IL is Riverside Plumbing & Heating (a HVAC contractor in Riverside, IL at 3 Longcommon Road, Riverside, IL 60546). 1 heating and air businesses are listed for Riverside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Riverside, IL?
 
 Also answers: heating and air in Riverside, IL; heating and air near me (Riverside, IL); best heating and air Riverside, IL; top rated heating and air Riverside, IL; affordable heating and air Riverside, IL; emergency heating and air Riverside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riverside Plumbing & Heating | trust 4.0 | Riverside Plumbing & Heating is a HVAC contractor in Riverside, IL at 3 Longcommon Road, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/riverside-plumbing-and-heating-riverside/
+1. Riverside Plumbing & Heating | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Riverside Plumbing & Heating is a HVAC contractor in Riverside, IL at 3 Longcommon Road, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/riverside-plumbing-and-heating-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air riverside il | category: Home Services | industry benchmark: Home & Home Improvement

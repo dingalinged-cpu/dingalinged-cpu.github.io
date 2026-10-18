@@ -13,7 +13,7 @@ KinderCare is a preschool in Cobb County, GA at 2615 Bells Ferry Road Northeast,
 - Website: https://www.kindercare.com/our-centers/marietta/ga/301690
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 74% of preschools in Atlanta, #9 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

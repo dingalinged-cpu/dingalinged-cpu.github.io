@@ -13,7 +13,7 @@ Rockstar Tatto & Co is a tattoo shop in West Allis, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.1/100 — Unrated (not enough evidence yet) — top 98% of tattoo shops in Milwaukee, #2 of 2 tattoo shops in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 38.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

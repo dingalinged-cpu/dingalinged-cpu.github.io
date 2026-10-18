@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Fulton County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 77% of tax preparation services in Atlanta, #1 of 2 tax preparation services in Fulton County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.1, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

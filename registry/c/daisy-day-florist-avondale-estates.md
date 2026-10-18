@@ -13,7 +13,7 @@ Daisy Day Florist is a florist in Avondale Estates, GA at 8 North Clarendon Aven
 - Website: https://daisydayfloristga.com/
 - Email: daisydayflorist@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-17:00; Sa-Su 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 3% of florists in Atlanta, #1 of 1 florists in Avondale Estates (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

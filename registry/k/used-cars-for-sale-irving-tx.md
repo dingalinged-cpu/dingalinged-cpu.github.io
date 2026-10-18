@@ -1,14 +1,14 @@
-The top unpaid used cars for sale listing for Irving, TX is CarMax (an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115). 3 used cars for sale businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Irving, TX is CarMax (an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115). 3 used cars for sale businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Irving, TX?
 
 Also answers: used cars for sale in Irving, TX; used cars for sale near me (Irving, TX); best used cars for sale Irving, TX; top rated used cars for sale Irving, TX; affordable used cars for sale Irving, TX; emergency used cars for sale Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarMax | trust 10.0 | CarMax is an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115. | https://dingalinged-cpu.github.io/registry/c/carmax-irving/
-2. Avis | trust 6.0 | Avis is an used car dealer in Irving, TX. Website: https://www.aviscarsales.com/locations/tx/irving.htm. | https://dingalinged-cpu.github.io/registry/c/avis-irving/
-3. Forklift City | trust 4.0 | Forklift City is an used car dealer in Irving, TX at 2120 North Loop 12, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/forklift-city-irving/
+1. CarMax | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | CarMax is an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. Website: https://www.carmax.com/stores/7115. | https://dingalinged-cpu.github.io/registry/c/carmax-irving/
+2. Forklift City | Organic #2 | Pulse Score 44.6/100 (Unrated, #2 in city) | Forklift City is an used car dealer in Irving, TX at 2120 North Loop 12, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/forklift-city-irving/
+3. Avis | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Avis is an used car dealer in Irving, TX. Website: https://www.aviscarsales.com/locations/tx/irving.htm. | https://dingalinged-cpu.github.io/registry/c/avis-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale irving tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

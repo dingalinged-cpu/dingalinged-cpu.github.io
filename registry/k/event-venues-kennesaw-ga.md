@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Kennesaw, GA is The 1808 (an event venue in Kennesaw, GA at 2871 Cherokee Street Northwest, Kennesaw, GA. Phone: +14046655365. Website: https://www.the1808.com/). 4 event venues businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Kennesaw, GA is The 1808 (an event venue in Kennesaw, GA at 2871 Cherokee Street Northwest, Kennesaw, GA. Phone: +14046655365. Website: https://www.the1808.com/). 4 event venues businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Kennesaw, GA?
 
 Also answers: event venues in Kennesaw, GA; event venues near me (Kennesaw, GA); best event venues Kennesaw, GA; top rated event venues Kennesaw, GA; affordable event venues Kennesaw, GA; emergency event venues Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The 1808 | trust 15.0 | The 1808 is an event venue in Kennesaw, GA at 2871 Cherokee Street Northwest, Kennesaw, GA. Phone: +14046655365. Website: https://www.the1808.com/. | https://dingalinged-cpu.github.io/registry/c/the-1808-kennesaw/
-2. The Venue On Main | trust 10.0 | The Venue On Main is an event venue in Kennesaw, GA. Website: https://www.peerspace.com/pages/listings/64d545261fd449002261e126. | https://dingalinged-cpu.github.io/registry/c/the-venue-on-main-kennesaw/
-3. Leo Delle and Lex Jolley Lodge | trust 4.0 | Leo Delle and Lex Jolley Lodge is an event venue in Kennesaw, GA at 1055 Canton Place Northwest, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/leo-delle-and-lex-jolley-lodge-kennesaw/
-4. Parish Hall | trust 0.0 | Parish Hall is an event venue in Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/parish-hall-kennesaw/
+1. The 1808 | Organic #1 | Pulse Score 60.3/100 (Good, #1 in city) | The 1808 is an event venue in Kennesaw, GA at 2871 Cherokee Street Northwest, Kennesaw, GA. Phone: +14046655365. Website: https://www.the1808.com/. | https://dingalinged-cpu.github.io/registry/c/the-1808-kennesaw/
+2. The Venue On Main | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | The Venue On Main is an event venue in Kennesaw, GA. Website: https://www.peerspace.com/pages/listings/64d545261fd449002261e126. | https://dingalinged-cpu.github.io/registry/c/the-venue-on-main-kennesaw/
+3. Leo Delle and Lex Jolley Lodge | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Leo Delle and Lex Jolley Lodge is an event venue in Kennesaw, GA at 1055 Canton Place Northwest, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/leo-delle-and-lex-jolley-lodge-kennesaw/
+4. Parish Hall | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Parish Hall is an event venue in Kennesaw, GA. | https://dingalinged-cpu.github.io/registry/c/parish-hall-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues kennesaw ga | category: Events & weddings | industry benchmark: Personal Services

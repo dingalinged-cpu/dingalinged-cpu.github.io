@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Prospect Heights, IL is Five Star Dog Grooming (a dog groomer in Prospect Heights, IL. Phone: +18473722817). 1 dog groomer businesses are listed for Prospect Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Prospect Heights, IL is Five Star Dog Grooming (a dog groomer in Prospect Heights, IL. Phone: +18473722817). 1 dog groomer businesses are listed for Prospect Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Prospect Heights, IL?
 
 Also answers: dog groomer in Prospect Heights, IL; dog groomer near me (Prospect Heights, IL); best dog groomer Prospect Heights, IL; top rated dog groomer Prospect Heights, IL; affordable dog groomer Prospect Heights, IL; emergency dog groomer Prospect Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Five Star Dog Grooming | trust 6.0 | Five Star Dog Grooming is a dog groomer in Prospect Heights, IL. Phone: +18473722817. | https://dingalinged-cpu.github.io/registry/c/five-star-dog-grooming-prospect-heights/
+1. Five Star Dog Grooming | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Five Star Dog Grooming is a dog groomer in Prospect Heights, IL. Phone: +18473722817. | https://dingalinged-cpu.github.io/registry/c/five-star-dog-grooming-prospect-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer prospect heights il | category: Pets | industry benchmark: Animals & Pets

@@ -13,7 +13,7 @@ Greater Dallas Orthopaedics PLLC is an orthopedic surgeon in Dallas, TX at 12330
 - Website: https://www.gdortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 34% of orthopedic surgeons in Dallas–Fort Worth, #1 of 2 orthopedic surgeons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

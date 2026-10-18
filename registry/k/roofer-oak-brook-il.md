@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Oak Brook, IL is Benchmark Exteriors (a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/). 1 roofer businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Oak Brook, IL is Benchmark Exteriors (a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/). 1 roofer businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Oak Brook, IL?
 
 Also answers: roofer in Oak Brook, IL; roofer near me (Oak Brook, IL); best roofer Oak Brook, IL; top rated roofer Oak Brook, IL; affordable roofer Oak Brook, IL; emergency roofer Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benchmark Exteriors | trust 20.0 | Benchmark Exteriors is a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/benchmark-exteriors-oak-brook/
+1. Benchmark Exteriors | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Benchmark Exteriors is a roofer in Oak Brook, IL at 1000 Jorie Boulevard #150, Oak Brook, IL 60523. Phone: +18337087663. Website: https://www.benchmarkexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/benchmark-exteriors-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer oak brook il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

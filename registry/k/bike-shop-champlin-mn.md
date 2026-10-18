@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Champlin, MN is Trailhead Cycling (a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/). 1 bike shop businesses are listed for Champlin, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Champlin, MN is Trailhead Cycling (a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/). 1 bike shop businesses are listed for Champlin, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Champlin, MN?
 
 Also answers: bike shop in Champlin, MN; bike shop near me (Champlin, MN); best bike shop Champlin, MN; top rated bike shop Champlin, MN; affordable bike shop Champlin, MN; emergency bike shop Champlin, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trailhead Cycling | trust 20.0 | Trailhead Cycling is a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/. | https://dingalinged-cpu.github.io/registry/c/trailhead-cycling-champlin/
+1. Trailhead Cycling | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Trailhead Cycling is a bike shop in Champlin, MN at 11350 Aquila Drive North, Champlin, MN 55316. Phone: +17637120312. Website: https://www.trailheadcycling.com/. | https://dingalinged-cpu.github.io/registry/c/trailhead-cycling-champlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop champlin mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ YoYo Reflexology is a massage studio in Coppell, TX. Phone: +14699688015.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-21:00; PH closed
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of massage studios in Dallas–Fort Worth, #3 of 6 massage studios in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

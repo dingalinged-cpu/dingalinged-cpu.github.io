@@ -13,7 +13,7 @@ State Farm: Jim Marsh is an insurance agent in Sugar Land, TX at 3425 State High
 - Website: https://www.jimmarshinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 54% of insurance agents in Houston, #3 of 4 insurance agents in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

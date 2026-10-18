@@ -13,7 +13,7 @@ Rocket Auto Sales is an used car dealer in Chicago, IL at 5552 South Archer Aven
 - Website: https://www.rocketautosale.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr-Sa 10:00-17:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 7% of used car dealers in Chicago, #3 of 13 used car dealers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

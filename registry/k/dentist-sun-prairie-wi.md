@@ -1,17 +1,17 @@
-The top unpaid dentist listing for Sun Prairie, WI is Forward Dental (a dentist in Sun Prairie, WI). 6 dentist businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Sun Prairie, WI is Forward Dental (a dentist in Sun Prairie, WI). 6 dentist businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Sun Prairie, WI?
 
 Also answers: dentist in Sun Prairie, WI; dentist near me (Sun Prairie, WI); best dentist Sun Prairie, WI; top rated dentist Sun Prairie, WI; affordable dentist Sun Prairie, WI; emergency dentist Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forward Dental | trust 4.0 | Forward Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/forward-dental-sun-prairie/
-2. First Choice Dental | trust 0.0 | First Choice Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/first-choice-dental-sun-prairie/
-3. Prairie Grove Othodontics | trust 0.0 | Prairie Grove Othodontics is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-grove-othodontics-sun-prairie/
-4. Prairie Lakes Dental | trust 0.0 | Prairie Lakes Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-lakes-dental-sun-prairie/
-5. West Prairie Dental | trust 0.0 | West Prairie Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/west-prairie-dental-sun-prairie/
-6. Wisconsin Dental Solutions | trust 0.0 | Wisconsin Dental Solutions is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/wisconsin-dental-solutions-sun-prairie/
+1. Forward Dental | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Forward Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/forward-dental-sun-prairie/
+2. Prairie Grove Othodontics | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Prairie Grove Othodontics is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-grove-othodontics-sun-prairie/
+3. Prairie Lakes Dental | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Prairie Lakes Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-lakes-dental-sun-prairie/
+4. West Prairie Dental | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | West Prairie Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/west-prairie-dental-sun-prairie/
+5. Wisconsin Dental Solutions | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Wisconsin Dental Solutions is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/wisconsin-dental-solutions-sun-prairie/
+6. First Choice Dental | Organic #6 | Pulse Score 43.5/100 (Unrated, #6 in city) | First Choice Dental is a dentist in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/first-choice-dental-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist sun prairie wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

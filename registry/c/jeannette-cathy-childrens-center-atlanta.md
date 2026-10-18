@@ -13,7 +13,7 @@ Jeannette Cathy Children's Center is a daycare in Atlanta, GA at 5180 Buffington
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 38% of daycares in Atlanta, #4 of 7 daycares in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for New Lenox, IL is Quality Cleaners (a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/). 1 dry cleaners businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for New Lenox, IL is Quality Cleaners (a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/). 1 dry cleaners businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in New Lenox, IL?
 
 Also answers: dry cleaners in New Lenox, IL; dry cleaners near me (New Lenox, IL); best dry cleaners New Lenox, IL; top rated dry cleaners New Lenox, IL; affordable dry cleaners New Lenox, IL; emergency dry cleaners New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Quality Cleaners | trust 20.0 | Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/. | https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/
+1. Quality Cleaners | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Quality Cleaners is a dry cleaner in New Lenox, IL at 13150 East Lincoln Highway, New Lenox, IL 60451. Phone: +18154854422. Website: https://welkersqualitycleaners.business.site/. | https://dingalinged-cpu.github.io/registry/c/quality-cleaners-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners new lenox il | category: Professional & financial services | industry benchmark: Finance & Insurance

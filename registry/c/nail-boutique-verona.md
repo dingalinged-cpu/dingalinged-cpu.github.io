@@ -13,7 +13,7 @@ Nail Boutique is a nail salon in Verona, WI at 600 West Verona Avenue #4, Verona
 - Website: https://www.facebook.com/Nailsboutique.VeronaArea/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 7% of nail salons in Madison, #1 of 3 nail salons in Verona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 68.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ EZ Floors is a flooring company in Spring, TX at 5015 FM 2920, Spring, TX 77388.
 - Website: https://www.ezfloorsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 16% of flooring companys in Houston, #2 of 5 flooring companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

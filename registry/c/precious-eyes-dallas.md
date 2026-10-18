@@ -13,7 +13,7 @@ Precious Eyes is an eye care practice in Dallas, TX at 16731 Coit Road #150, Dal
 - Website: https://www.preciouseyes2020.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 10:00-18:00; Tu 11:00-19:00; We,Su off; Th 10:00-15:00; Sa 10:00-16:00
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 7% of eye care practices in Dallas–Fort Worth, #1 of 9 eye care practices in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

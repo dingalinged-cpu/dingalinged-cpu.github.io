@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Eagan, MN is Hallmark (a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html). 1 gift shop businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Eagan, MN is Hallmark (a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html). 1 gift shop businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Eagan, MN?
 
 Also answers: gift shop in Eagan, MN; gift shop near me (Eagan, MN); best gift shop Eagan, MN; top rated gift shop Eagan, MN; affordable gift shop Eagan, MN; emergency gift shop Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | trust 20.0 | Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/
+1. Hallmark | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | Hallmark is a gift shop in Eagan, MN at 1283 Promenade Place #5, Eagan, MN 55121. Phone: +16516818424. Website: https://stores.hallmark.com/mn/eagan/jaynes-hallmark-shop-eagan-mn-062975.html. | https://dingalinged-cpu.github.io/registry/c/hallmark-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop eagan mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

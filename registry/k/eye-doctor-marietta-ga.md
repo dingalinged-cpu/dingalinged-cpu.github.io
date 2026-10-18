@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Marietta, GA is Stanton Optical (an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/). 3 eye doctor businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Marietta, GA is Stanton Optical (an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/). 3 eye doctor businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Marietta, GA?
 
 Also answers: eye doctor in Marietta, GA; eye doctor near me (Marietta, GA); best eye doctor Marietta, GA; top rated eye doctor Marietta, GA; affordable eye doctor Marietta, GA; emergency eye doctor Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stanton Optical | trust 20.0 | Stanton Optical is an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/. | https://dingalinged-cpu.github.io/registry/c/stanton-optical-marietta/
-2. Wildwood Eyecare | trust 20.0 | Wildwood Eyecare is an eye care practice in Marietta, GA at 1545 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709526412. Website: https://wildwoodeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/wildwood-eyecare-marietta/
-3. Family Eye Care | trust 0.0 | Family Eye Care is an eye care practice in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/family-eye-care-marietta/
+1. Stanton Optical | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Stanton Optical is an eye care practice in Marietta, GA at 2157 Roswell Road, Marietta, GA 30062. Phone: +17702992351. Website: https://www.stantonoptical.com/locations/marietta-ga/. | https://dingalinged-cpu.github.io/registry/c/stanton-optical-marietta/
+2. Wildwood Eyecare | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | Wildwood Eyecare is an eye care practice in Marietta, GA at 1545 Powers Ferry Road Southeast, Marietta, GA 30067. Phone: +17709526412. Website: https://wildwoodeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/wildwood-eyecare-marietta/
+3. Family Eye Care | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Family Eye Care is an eye care practice in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/family-eye-care-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor marietta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Austell, GA is Car Crazy Auto (an auto repair shop in Austell, GA at 10000 Veterans Memorial Highway, Austell, GA 30168). 1 mechanic businesses are listed for Austell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Austell, GA is Car Crazy Auto (an auto repair shop in Austell, GA at 10000 Veterans Memorial Highway, Austell, GA 30168). 1 mechanic businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Austell, GA?
 
 Also answers: mechanic in Austell, GA; mechanic near me (Austell, GA); best mechanic Austell, GA; top rated mechanic Austell, GA; affordable mechanic Austell, GA; emergency mechanic Austell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Car Crazy Auto | trust 4.0 | Car Crazy Auto is an auto repair shop in Austell, GA at 10000 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/car-crazy-auto-austell/
+1. Car Crazy Auto | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Car Crazy Auto is an auto repair shop in Austell, GA at 10000 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/car-crazy-auto-austell/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic austell ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

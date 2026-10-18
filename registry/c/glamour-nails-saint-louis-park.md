@@ -13,7 +13,7 @@ Glamour Nails is a nail salon in Saint Louis Park, MN at 1685 West End Boulevard
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.5/100 — Unrated (not enough evidence yet) — top 86% of nail salons in Minneapolis–St. Paul, #10 of 11 nail salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.4, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

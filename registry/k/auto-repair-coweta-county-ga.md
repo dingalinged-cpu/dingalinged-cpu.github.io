@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Coweta County, GA is Auto Quick Fast Lube (an auto repair shop in Coweta County, GA). 4 auto repair businesses are listed for Coweta County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Coweta County, GA is Auto Quick Fast Lube (an auto repair shop in Coweta County, GA). 4 auto repair businesses are listed for Coweta County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Coweta County, GA?
 
 Also answers: auto repair in Coweta County, GA; auto repair near me (Coweta County, GA); best auto repair Coweta County, GA; top rated auto repair Coweta County, GA; affordable auto repair Coweta County, GA; emergency auto repair Coweta County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Quick Fast Lube | trust 0.0 | Auto Quick Fast Lube is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/auto-quick-fast-lube-coweta-county/
-2. Crossroads Automotive | trust 0.0 | Crossroads Automotive is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/crossroads-automotive-coweta-county/
-3. Mavis Tires & Brakes | trust 0.0 | Mavis Tires & Brakes is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-coweta-county/
-4. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-coweta-county/
+1. Auto Quick Fast Lube | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Auto Quick Fast Lube is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/auto-quick-fast-lube-coweta-county/
+2. Crossroads Automotive | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Crossroads Automotive is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/crossroads-automotive-coweta-county/
+3. Pep Boys | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | Pep Boys is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-coweta-county/
+4. Mavis Tires & Brakes | Organic #4 | Pulse Score 42.7/100 (Unrated, #4 in city) | Mavis Tires & Brakes is an auto repair shop in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-coweta-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair coweta county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

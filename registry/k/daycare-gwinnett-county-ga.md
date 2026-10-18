@@ -1,16 +1,16 @@
-The top unpaid daycare listing for Gwinnett County, GA is Early Scholars Daycare (a daycare in Gwinnett County, GA). 5 daycare businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Gwinnett County, GA is Early Scholars Daycare (a daycare in Gwinnett County, GA). 5 daycare businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Gwinnett County, GA?
 
 Also answers: daycare in Gwinnett County, GA; daycare near me (Gwinnett County, GA); best daycare Gwinnett County, GA; top rated daycare Gwinnett County, GA; affordable daycare Gwinnett County, GA; emergency daycare Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Early Scholars Daycare | trust 0.0 | Early Scholars Daycare is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/early-scholars-daycare-gwinnett-county/
-2. Kare Bear Academy | trust 0.0 | Kare Bear Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kare-bear-academy-gwinnett-county/
-3. Kids 'R' Kids | trust 0.0 | Kids 'R' Kids is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-gwinnett-county/
-4. KidzWise Academy | trust 0.0 | KidzWise Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kidzwise-academy-gwinnett-county/
-5. Treehouse Academy | trust 0.0 | Treehouse Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/treehouse-academy-gwinnett-county/
+1. Early Scholars Daycare | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Early Scholars Daycare is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/early-scholars-daycare-gwinnett-county/
+2. Kare Bear Academy | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Kare Bear Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kare-bear-academy-gwinnett-county/
+3. KidzWise Academy | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | KidzWise Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kidzwise-academy-gwinnett-county/
+4. Treehouse Academy | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Treehouse Academy is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/treehouse-academy-gwinnett-county/
+5. Kids 'R' Kids | Organic #5 | Pulse Score 43.3/100 (Building, #5 in city) | Kids 'R' Kids is a daycare in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare gwinnett county ga | category: Education & childcare | industry benchmark: Education & Instruction

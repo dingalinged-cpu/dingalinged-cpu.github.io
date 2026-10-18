@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Northfield, IL is North Coast Dental of Northfield (a dentist in Northfield, IL at 191 Waukegan Road #106, Northfield, IL 60093). 1 dentist businesses are listed for Northfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Northfield, IL is North Coast Dental of Northfield (a dentist in Northfield, IL at 191 Waukegan Road #106, Northfield, IL 60093). 1 dentist businesses are listed for Northfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Northfield, IL?
 
 Also answers: dentist in Northfield, IL; dentist near me (Northfield, IL); best dentist Northfield, IL; top rated dentist Northfield, IL; affordable dentist Northfield, IL; emergency dentist Northfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Coast Dental of Northfield | trust 4.0 | North Coast Dental of Northfield is a dentist in Northfield, IL at 191 Waukegan Road #106, Northfield, IL 60093. | https://dingalinged-cpu.github.io/registry/c/north-coast-dental-of-northfield-northfield/
+1. North Coast Dental of Northfield | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | North Coast Dental of Northfield is a dentist in Northfield, IL at 191 Waukegan Road #106, Northfield, IL 60093. | https://dingalinged-cpu.github.io/registry/c/north-coast-dental-of-northfield-northfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist northfield il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

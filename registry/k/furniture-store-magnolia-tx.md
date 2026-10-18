@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Magnolia, TX is Raffia Home (a furniture store in Magnolia, TX at 32309 Conroe Hufsmith Road, Magnolia, TX). 2 furniture store businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Magnolia, TX is Raffia Home (a furniture store in Magnolia, TX at 32309 Conroe Hufsmith Road, Magnolia, TX). 2 furniture store businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Magnolia, TX?
 
 Also answers: furniture store in Magnolia, TX; furniture store near me (Magnolia, TX); best furniture store Magnolia, TX; top rated furniture store Magnolia, TX; affordable furniture store Magnolia, TX; emergency furniture store Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Raffia Home | trust 3.0 | Raffia Home is a furniture store in Magnolia, TX at 32309 Conroe Hufsmith Road, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/raffia-home-magnolia/
-2. Aaron's | trust 0.0 | Aaron's is a furniture store in Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-magnolia/
+1. Raffia Home | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Raffia Home is a furniture store in Magnolia, TX at 32309 Conroe Hufsmith Road, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/raffia-home-magnolia/
+2. Aaron's | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Aaron's is a furniture store in Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store magnolia tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

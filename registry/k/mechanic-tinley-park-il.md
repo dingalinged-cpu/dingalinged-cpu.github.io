@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Tinley Park, IL is Apple Chevrolet Parts (an auto repair shop in Tinley Park, IL at 8585 West 159th Street, Tinley Park, IL 60487. Phone: +17083363167). 3 mechanic businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Tinley Park, IL is Apple Chevrolet Parts (an auto repair shop in Tinley Park, IL at 8585 West 159th Street, Tinley Park, IL 60487. Phone: +17083363167). 3 mechanic businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Tinley Park, IL?
 
 Also answers: mechanic in Tinley Park, IL; mechanic near me (Tinley Park, IL); best mechanic Tinley Park, IL; top rated mechanic Tinley Park, IL; affordable mechanic Tinley Park, IL; emergency mechanic Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apple Chevrolet Parts | trust 10.0 | Apple Chevrolet Parts is an auto repair shop in Tinley Park, IL at 8585 West 159th Street, Tinley Park, IL 60487. Phone: +17083363167. | https://dingalinged-cpu.github.io/registry/c/apple-chevrolet-parts-tinley-park/
-2. Firestone | trust 4.0 | Firestone is an auto repair shop in Tinley Park, IL at 15930 Harlem Avenue, Tinley Park, IL 60477. | https://dingalinged-cpu.github.io/registry/c/firestone-tinley-park/
-3. Midas | trust 4.0 | Midas is an auto repair shop in Tinley Park, IL at 7011 West 159th Street, Tinley Park, IL 60477. | https://dingalinged-cpu.github.io/registry/c/midas-tinley-park/
+1. Apple Chevrolet Parts | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Apple Chevrolet Parts is an auto repair shop in Tinley Park, IL at 8585 West 159th Street, Tinley Park, IL 60487. Phone: +17083363167. | https://dingalinged-cpu.github.io/registry/c/apple-chevrolet-parts-tinley-park/
+2. Firestone | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Firestone is an auto repair shop in Tinley Park, IL at 15930 Harlem Avenue, Tinley Park, IL 60477. | https://dingalinged-cpu.github.io/registry/c/firestone-tinley-park/
+3. Midas | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Midas is an auto repair shop in Tinley Park, IL at 7011 West 159th Street, Tinley Park, IL 60477. | https://dingalinged-cpu.github.io/registry/c/midas-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic tinley park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

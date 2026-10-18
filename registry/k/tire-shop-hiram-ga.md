@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Hiram, GA is Express Oil Change & Tire Engineers (a tire shop in Hiram, GA at 5579 Wendy Bagwell Parkway, Hiram, GA 30141. Phone: +17704393986. Website: https://www.expressoil.com/stores/hiram/ga/1543/). 2 tire shop businesses are listed for Hiram, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Hiram, GA is Southern Tire (a tire shop in Hiram, GA). 2 tire shop businesses are listed for Hiram, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Hiram, GA?
 
 Also answers: tire shop in Hiram, GA; tire shop near me (Hiram, GA); best tire shop Hiram, GA; top rated tire shop Hiram, GA; affordable tire shop Hiram, GA; emergency tire shop Hiram, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Hiram, GA at 5579 Wendy Bagwell Parkway, Hiram, GA 30141. Phone: +17704393986. Website: https://www.expressoil.com/stores/hiram/ga/1543/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-hiram/
-2. Southern Tire | trust 0.0 | Southern Tire is a tire shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/southern-tire-hiram/
+1. Southern Tire | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Southern Tire is a tire shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/southern-tire-hiram/
+2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Hiram, GA at 5579 Wendy Bagwell Parkway, Hiram, GA 30141. Phone: +17704393986. Website: https://www.expressoil.com/stores/hiram/ga/1543/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop hiram ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

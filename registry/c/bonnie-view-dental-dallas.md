@@ -13,7 +13,7 @@ Bonnie View Dental is a dentist in Dallas, TX at 6181 Bonnie View Road ##100, Da
 - Website: https://www.bonnieviewdentaldallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of dentists in Dallas–Fort Worth, #6 of 116 dentists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

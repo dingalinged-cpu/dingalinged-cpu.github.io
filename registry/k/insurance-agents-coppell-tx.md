@@ -1,15 +1,15 @@
-The top unpaid insurance agents listing for Coppell, TX is State Farm (an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/). 4 insurance agents businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Coppell, TX is State Farm (an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/). 4 insurance agents businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Coppell, TX?
 
 Also answers: insurance agents in Coppell, TX; insurance agents near me (Coppell, TX); best insurance agents Coppell, TX; top rated insurance agents Coppell, TX; affordable insurance agents Coppell, TX; emergency insurance agents Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 16.0 | State Farm is an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-coppell/
-2. State Farm | trust 10.0 | State Farm is an insurance agent in Coppell, TX. Phone: +19728896570. | https://dingalinged-cpu.github.io/registry/c/state-farm-coppell-n13076479520/
-3. Farmers Insurance | trust 6.0 | Farmers Insurance is an insurance agent in Coppell, TX. Phone: +19724624589. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coppell/
-4. Nationwide Insurance | trust 0.0 | Nationwide Insurance is an insurance agent in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-insurance-coppell/
+1. State Farm | Organic #1 | Pulse Score 51/100 (Fair, #1 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19729560011. Website: https://www.teamslaughter.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-coppell/
+2. Farmers Insurance | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Coppell, TX. Phone: +19724624589. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-coppell/
+3. State Farm | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | State Farm is an insurance agent in Coppell, TX. Phone: +19728896570. | https://dingalinged-cpu.github.io/registry/c/state-farm-coppell-n13076479520/
+4. Nationwide Insurance | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | Nationwide Insurance is an insurance agent in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/nationwide-insurance-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents coppell tx | category: insurance | industry benchmark: Finance & Insurance

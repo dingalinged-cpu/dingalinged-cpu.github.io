@@ -13,7 +13,7 @@ Relax & Wax is a waxing salon in Plano, TX. Phone: +14693041606.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00; Sa 10:00-17:00
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 64% of waxing salons in Dallas–Fort Worth, #2 of 2 waxing salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

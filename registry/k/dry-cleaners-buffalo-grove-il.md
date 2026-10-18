@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Buffalo Grove, IL is Rainbow Cleaners (a dry cleaner in Buffalo Grove, IL). 2 dry cleaners businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Buffalo Grove, IL is Rainbow Cleaners (a dry cleaner in Buffalo Grove, IL). 2 dry cleaners businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Buffalo Grove, IL?
 
 Also answers: dry cleaners in Buffalo Grove, IL; dry cleaners near me (Buffalo Grove, IL); best dry cleaners Buffalo Grove, IL; top rated dry cleaners Buffalo Grove, IL; affordable dry cleaners Buffalo Grove, IL; emergency dry cleaners Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rainbow Cleaners | trust 0.0 | Rainbow Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/rainbow-cleaners-buffalo-grove/
-2. Tide Cleaners | trust 0.0 | Tide Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-buffalo-grove/
+1. Rainbow Cleaners | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Rainbow Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/rainbow-cleaners-buffalo-grove/
+2. Tide Cleaners | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Tide Cleaners is a dry cleaner in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners buffalo grove il | category: Professional & financial services | industry benchmark: Finance & Insurance

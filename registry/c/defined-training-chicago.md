@@ -13,7 +13,7 @@ Defined Training is a CrossFit gym in Chicago, IL at 3834 North Broadway, Chicag
 - Website: https://defined.training/
 - Email: info@defined.training
 - Opening hours (OSM syntax): Mo-Fr 05:30-21:00, Sa-Su 08:00-14:00
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 17% of CrossFit gyms in Chicago, #1 of 3 CrossFit gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

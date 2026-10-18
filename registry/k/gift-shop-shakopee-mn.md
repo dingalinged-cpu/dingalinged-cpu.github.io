@@ -1,15 +1,15 @@
-The top unpaid gift shop listing for Shakopee, MN is Lakeshore Landing (a gift shop in Shakopee, MN). 4 gift shop businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Shakopee, MN is Lakeshore Landing (a gift shop in Shakopee, MN). 4 gift shop businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Shakopee, MN?
 
 Also answers: gift shop in Shakopee, MN; gift shop near me (Shakopee, MN); best gift shop Shakopee, MN; top rated gift shop Shakopee, MN; affordable gift shop Shakopee, MN; emergency gift shop Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakeshore Landing | trust 0.0 | Lakeshore Landing is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/lakeshore-landing-shakopee/
-2. Plaza Shopper | trust 0.0 | Plaza Shopper is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/plaza-shopper-shakopee/
-3. Snoopy Boutique | trust 0.0 | Snoopy Boutique is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/
-4. Splashdown Supplies | trust 0.0 | Splashdown Supplies is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/splashdown-supplies-shakopee/
+1. Lakeshore Landing | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Lakeshore Landing is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/lakeshore-landing-shakopee/
+2. Plaza Shopper | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Plaza Shopper is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/plaza-shopper-shakopee/
+3. Snoopy Boutique | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Snoopy Boutique is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/snoopy-boutique-shakopee/
+4. Splashdown Supplies | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Splashdown Supplies is a gift shop in Shakopee, MN. | https://dingalinged-cpu.github.io/registry/c/splashdown-supplies-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop shakopee mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

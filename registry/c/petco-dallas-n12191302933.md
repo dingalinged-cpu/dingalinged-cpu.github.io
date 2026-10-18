@@ -13,7 +13,7 @@ Petco is a pet store in Dallas, TX at 5301 Belt Line Road #106, Dallas, TX 75254
 - Website: https://stores.petco.com/tx/dallas/pet-supplies-dallas-tx-1464.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 60% of pet stores in Dallas–Fort Worth, #14 of 24 pet stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Clips is a hair salon in Spring, TX at 21212 Kuykendahl Road #G, Spring, T
 - Website: https://salons.greatclips.com/us/tx/spring/21212-kuykendahl-rd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 71% of hair salons in Houston, #8 of 10 hair salons in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

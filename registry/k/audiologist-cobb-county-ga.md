@@ -1,12 +1,12 @@
-The top unpaid audiologist listing for Cobb County, GA is Children's at Town Center Outpatient Care (a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center). 1 audiologist businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Cobb County, GA is Children's at Town Center Outpatient Care (a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center). 1 audiologist businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Cobb County, GA?
 
 Also answers: audiologist in Cobb County, GA; audiologist near me (Cobb County, GA); best audiologist Cobb County, GA; top rated audiologist Cobb County, GA; affordable audiologist Cobb County, GA; emergency audiologist Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's at Town Center Outpatient Care | trust 19.0 | Children's at Town Center Outpatient Care is a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center. | https://dingalinged-cpu.github.io/registry/c/childrens-at-town-center-outpatient-care-cobb-county/
+1. Children's at Town Center Outpatient Care | Organic #1 | Pulse Score 62.1/100 (Good, #2 in city) | Children's at Town Center Outpatient Care is a pediatrician in Cobb County, GA at 605 Big Shanty Road Northwest, Cobb County, GA. Phone: +14047855437. Website: https://www.choa.org/locations/childrens-at-town-center-outpatient-care-center. | https://dingalinged-cpu.github.io/registry/c/childrens-at-town-center-outpatient-care-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist cobb county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Westmont, IL is ChiroCare Clinic Wellness Center (a chiropractor in Westmont, IL at 693 N Cass Ave., Westmont, IL 60559. Phone: +16306016932. Website: https://chirocarewellnessclinic.com/). 1 chiropractor businesses are listed for Westmont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Westmont, IL is ChiroCare Clinic Wellness Center (a chiropractor in Westmont, IL at 693 N Cass Ave., Westmont, IL 60559. Phone: +16306016932. Website: https://chirocarewellnessclinic.com/). 1 chiropractor businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Westmont, IL?
 
 Also answers: chiropractor in Westmont, IL; chiropractor near me (Westmont, IL); best chiropractor Westmont, IL; top rated chiropractor Westmont, IL; affordable chiropractor Westmont, IL; emergency chiropractor Westmont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ChiroCare Clinic Wellness Center | trust 16.0 | ChiroCare Clinic Wellness Center is a chiropractor in Westmont, IL at 693 N Cass Ave., Westmont, IL 60559. Phone: +16306016932. Website: https://chirocarewellnessclinic.com/. | https://dingalinged-cpu.github.io/registry/c/chirocare-clinic-wellness-center-westmont/
+1. ChiroCare Clinic Wellness Center | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | ChiroCare Clinic Wellness Center is a chiropractor in Westmont, IL at 693 N Cass Ave., Westmont, IL 60559. Phone: +16306016932. Website: https://chirocarewellnessclinic.com/. | https://dingalinged-cpu.github.io/registry/c/chirocare-clinic-wellness-center-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor westmont il | category: Health & medical | industry benchmark: Physicians & Surgeons

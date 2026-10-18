@@ -13,7 +13,7 @@ Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Pa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.2/100 — Unrated (not enough evidence yet) — top 66% of bike shops in Chicago, #3 of 5 bike shops in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

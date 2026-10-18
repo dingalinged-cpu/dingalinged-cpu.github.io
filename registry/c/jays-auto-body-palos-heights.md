@@ -13,7 +13,7 @@ Jay's Auto Body is an auto repair shop in Palos Heights, IL at 6355 West College
 - Website: https://jaysautobodypalosheights.com/
 - Email: terryabusharif@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 7% of auto repair shops in Chicago, #1 of 3 auto repair shops in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

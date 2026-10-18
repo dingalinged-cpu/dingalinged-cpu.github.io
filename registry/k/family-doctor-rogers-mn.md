@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Rogers, MN is Northwest Family Clinics (a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/). 1 family doctor businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Rogers, MN is Northwest Family Clinics (a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/). 1 family doctor businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Rogers, MN?
 
 Also answers: family doctor in Rogers, MN; family doctor near me (Rogers, MN); best family doctor Rogers, MN; top rated family doctor Rogers, MN; affordable family doctor Rogers, MN; emergency family doctor Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwest Family Clinics | trust 16.0 | Northwest Family Clinics is a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/. | https://dingalinged-cpu.github.io/registry/c/northwest-family-clinics-rogers/
+1. Northwest Family Clinics | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Northwest Family Clinics is a family medicine practice in Rogers, MN at 21395 John Milless Drive #Suite 100, Rogers, MN 55374. Phone: +17635046400. Website: https://www.northwestfamilyclinics.com/. | https://dingalinged-cpu.github.io/registry/c/northwest-family-clinics-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor rogers mn | category: Health & medical | industry benchmark: Physicians & Surgeons

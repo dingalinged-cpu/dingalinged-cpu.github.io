@@ -13,7 +13,7 @@ Ideal Dental is a dentist in Cedar Hill, TX at 638 Uptown Boulevard #100, Cedar 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Unrated (not enough evidence yet) — top 91% of dentists in Dallas–Fort Worth, #14 of 15 dentists in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

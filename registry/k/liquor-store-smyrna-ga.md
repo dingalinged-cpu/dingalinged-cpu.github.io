@@ -1,18 +1,18 @@
-The top unpaid liquor store listing for Smyrna, GA is 1 Stop Beverage (a liquor store in Smyrna, GA at 2333 Cobb Parkway South, Smyrna, GA 30080. Phone: +16782246167). 7 liquor store businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Smyrna, GA is 1 Stop Beverage (a liquor store in Smyrna, GA at 2333 Cobb Parkway South, Smyrna, GA 30080. Phone: +16782246167). 7 liquor store businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Smyrna, GA?
 
 Also answers: liquor store in Smyrna, GA; liquor store near me (Smyrna, GA); best liquor store Smyrna, GA; top rated liquor store Smyrna, GA; affordable liquor store Smyrna, GA; emergency liquor store Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1 Stop Beverage | trust 14.0 | 1 Stop Beverage is a liquor store in Smyrna, GA at 2333 Cobb Parkway South, Smyrna, GA 30080. Phone: +16782246167. | https://dingalinged-cpu.github.io/registry/c/1-stop-beverage-smyrna/
-2. Ray's Liquor Store | trust 10.0 | Ray's Liquor Store is a liquor store in Smyrna, GA at 2264 Atlanta Road Southeast, Smyrna, GA 30080. Phone: +17704327062. | https://dingalinged-cpu.github.io/registry/c/rays-liquor-store-smyrna/
-3. South Cobb Package | trust 10.0 | South Cobb Package is a liquor store in Smyrna, GA at 3181 South Cobb Drive, Smyrna, GA 30080. Phone: +16784248265. | https://dingalinged-cpu.github.io/registry/c/south-cobb-package-smyrna/
-4. Smyrna Liquors | trust 8.0 | Smyrna Liquors is a liquor store in Smyrna, GA at 2350 Spring Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/smyrna-liquors-smyrna/
-5. Mr. Bill's Package Store | trust 4.0 | Mr. Bill's Package Store is a liquor store in Smyrna, GA at 3791 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/mr-bills-package-store-smyrna/
-6. Smyrna World of Beverages | trust 4.0 | Smyrna World of Beverages is a liquor store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/smyrna-world-of-beverages-smyrna/
-7. Spring Road Package Store | trust 4.0 | Spring Road Package Store is a liquor store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/spring-road-package-store-smyrna/
+1. 1 Stop Beverage | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | 1 Stop Beverage is a liquor store in Smyrna, GA at 2333 Cobb Parkway South, Smyrna, GA 30080. Phone: +16782246167. | https://dingalinged-cpu.github.io/registry/c/1-stop-beverage-smyrna/
+2. Smyrna Liquors | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Smyrna Liquors is a liquor store in Smyrna, GA at 2350 Spring Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/smyrna-liquors-smyrna/
+3. South Cobb Package | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | South Cobb Package is a liquor store in Smyrna, GA at 3181 South Cobb Drive, Smyrna, GA 30080. Phone: +16784248265. | https://dingalinged-cpu.github.io/registry/c/south-cobb-package-smyrna/
+4. Ray's Liquor Store | Organic #4 | Pulse Score 59.4/100 (Unrated, #4 in city) | Ray's Liquor Store is a liquor store in Smyrna, GA at 2264 Atlanta Road Southeast, Smyrna, GA 30080. Phone: +17704327062. | https://dingalinged-cpu.github.io/registry/c/rays-liquor-store-smyrna/
+5. Spring Road Package Store | Organic #5 | Pulse Score 58.3/100 (Unrated, #5 in city) | Spring Road Package Store is a liquor store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/spring-road-package-store-smyrna/
+6. Smyrna World of Beverages | Organic #6 | Pulse Score 57.1/100 (Unrated, #6 in city) | Smyrna World of Beverages is a liquor store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/smyrna-world-of-beverages-smyrna/
+7. Mr. Bill's Package Store | Organic #7 | Pulse Score 56.7/100 (Unrated, #7 in city) | Mr. Bill's Package Store is a liquor store in Smyrna, GA at 3791 South Cobb Drive, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/mr-bills-package-store-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store smyrna ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

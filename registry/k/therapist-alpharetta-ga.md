@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Alpharetta, GA is Elevation Autism Center (a therapy practice in Alpharetta, GA at 11560 Great Oaks Way STE 300, Alpharetta, GA 30022. Website: https://elevationautism.com/). 1 therapist businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Alpharetta, GA is Elevation Autism Center (a therapy practice in Alpharetta, GA at 11560 Great Oaks Way STE 300, Alpharetta, GA 30022. Website: https://elevationautism.com/). 1 therapist businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Alpharetta, GA?
 
 Also answers: therapist in Alpharetta, GA; therapist near me (Alpharetta, GA); best therapist Alpharetta, GA; top rated therapist Alpharetta, GA; affordable therapist Alpharetta, GA; emergency therapist Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elevation Autism Center | trust 14.0 | Elevation Autism Center is a therapy practice in Alpharetta, GA at 11560 Great Oaks Way STE 300, Alpharetta, GA 30022. Website: https://elevationautism.com/. | https://dingalinged-cpu.github.io/registry/c/elevation-autism-center-alpharetta/
+1. Elevation Autism Center | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Elevation Autism Center is a therapy practice in Alpharetta, GA at 11560 Great Oaks Way STE 300, Alpharetta, GA 30022. Website: https://elevationautism.com/. | https://dingalinged-cpu.github.io/registry/c/elevation-autism-center-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist alpharetta ga | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Plymouth, MN is Hom Furniture (a furniture store in Plymouth, MN). 1 furniture store businesses are listed for Plymouth, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Plymouth, MN is Hom Furniture (a furniture store in Plymouth, MN). 1 furniture store businesses are listed for Plymouth, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Plymouth, MN?
 
 Also answers: furniture store in Plymouth, MN; furniture store near me (Plymouth, MN); best furniture store Plymouth, MN; top rated furniture store Plymouth, MN; affordable furniture store Plymouth, MN; emergency furniture store Plymouth, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hom Furniture | trust 0.0 | Hom Furniture is a furniture store in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/hom-furniture-plymouth/
+1. Hom Furniture | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Hom Furniture is a furniture store in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/hom-furniture-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store plymouth mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

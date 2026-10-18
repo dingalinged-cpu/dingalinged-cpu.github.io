@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Smyrna, GA is Angel's Tattoos (a tattoo shop in Smyrna, GA. Phone: +17704058018. Website: https://dot.cards/angelst_tattoos?e=ZGV2aWNlLXk0MVROWjZaZnZaLWMtYmw). 1 tattoo shop businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Smyrna, GA is Angel's Tattoos (a tattoo shop in Smyrna, GA. Phone: +17704058018. Website: https://dot.cards/angelst_tattoos?e=ZGV2aWNlLXk0MVROWjZaZnZaLWMtYmw). 1 tattoo shop businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Smyrna, GA?
 
 Also answers: tattoo shop in Smyrna, GA; tattoo shop near me (Smyrna, GA); best tattoo shop Smyrna, GA; top rated tattoo shop Smyrna, GA; affordable tattoo shop Smyrna, GA; emergency tattoo shop Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angel's Tattoos | trust 16.0 | Angel's Tattoos is a tattoo shop in Smyrna, GA. Phone: +17704058018. Website: https://dot.cards/angelst_tattoos?e=ZGV2aWNlLXk0MVROWjZaZnZaLWMtYmw. | https://dingalinged-cpu.github.io/registry/c/angels-tattoos-smyrna/
+1. Angel's Tattoos | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Angel's Tattoos is a tattoo shop in Smyrna, GA. Phone: +17704058018. Website: https://dot.cards/angelst_tattoos?e=ZGV2aWNlLXk0MVROWjZaZnZaLWMtYmw. | https://dingalinged-cpu.github.io/registry/c/angels-tattoos-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop smyrna ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

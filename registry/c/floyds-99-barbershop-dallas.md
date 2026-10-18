@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Dallas, TX at 11811 Preston Road #100, 
 - Website: https://www.floydsbarbershop.com/locations/texas/dallas/preston-forest
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 09:00-18:00
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 78% of hair salons in Dallas–Fort Worth, #79 of 90 hair salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

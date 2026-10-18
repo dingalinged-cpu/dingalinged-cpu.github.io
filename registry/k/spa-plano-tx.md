@@ -1,18 +1,18 @@
-The top unpaid spa listing for Plano, TX is Minaya Beauty Spa (a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/). 7 spa businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Plano, TX is Minaya Beauty Spa (a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/). 7 spa businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Plano, TX?
 
 Also answers: spa in Plano, TX; spa near me (Plano, TX); best spa Plano, TX; top rated spa Plano, TX; affordable spa Plano, TX; emergency spa Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minaya Beauty Spa | trust 20.0 | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
-2. Village Aesthetics | trust 16.0 | Village Aesthetics is a spa in Plano, TX at 5425 West Spring Creek Parkway #210, Plano, TX 75024. Phone: +19724335077. Website: https://villageaesthetics.com/. | https://dingalinged-cpu.github.io/registry/c/village-aesthetics-plano/
-3. Spa Habitat | trust 14.0 | Spa Habitat is a spa in Plano, TX at 7300 Lone Star Drive #C-110, Plano, TX 75024. Phone: +19729439191. | https://dingalinged-cpu.github.io/registry/c/spa-habitat-plano/
-4. Atlas Spas & Swim Spas | trust 4.0 | Atlas Spas & Swim Spas is a spa in Plano, TX at 4801 West Park Boulevard #448, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/atlas-spas-and-swim-spas-plano/
-5. City Salon Suites & Spa | trust 4.0 | City Salon Suites & Spa is a spa in Plano, TX at 5813 Preston Road #554, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/city-salon-suites-and-spa-plano/
-6. M Spa & Beauty | trust 4.0 | M Spa & Beauty is a spa in Plano, TX at 308 Coit Road #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/m-spa-and-beauty-plano/
-7. The Woodhouse | trust 0.0 | The Woodhouse is a spa in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodhouse-plano/
+1. Minaya Beauty Spa | Organic #1 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
+2. Village Aesthetics | Organic #2 | Pulse Score 61.4/100 (Unrated, #1 in city) | Village Aesthetics is a spa in Plano, TX at 5425 West Spring Creek Parkway #210, Plano, TX 75024. Phone: +19724335077. Website: https://villageaesthetics.com/. | https://dingalinged-cpu.github.io/registry/c/village-aesthetics-plano/
+3. Spa Habitat | Organic #3 | Pulse Score 59.7/100 (Unrated, #2 in city) | Spa Habitat is a spa in Plano, TX at 7300 Lone Star Drive #C-110, Plano, TX 75024. Phone: +19729439191. | https://dingalinged-cpu.github.io/registry/c/spa-habitat-plano/
+4. Atlas Spas & Swim Spas | Organic #4 | Pulse Score 55.7/100 (Unrated, #3 in city) | Atlas Spas & Swim Spas is a spa in Plano, TX at 4801 West Park Boulevard #448, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/atlas-spas-and-swim-spas-plano/
+5. City Salon Suites & Spa | Organic #5 | Pulse Score 55.7/100 (Unrated, #4 in city) | City Salon Suites & Spa is a spa in Plano, TX at 5813 Preston Road #554, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/city-salon-suites-and-spa-plano/
+6. M Spa & Beauty | Organic #6 | Pulse Score 55.7/100 (Unrated, #5 in city) | M Spa & Beauty is a spa in Plano, TX at 308 Coit Road #200, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/m-spa-and-beauty-plano/
+7. The Woodhouse | Organic #7 | Pulse Score 55.3/100 (Unrated, #6 in city) | The Woodhouse is a spa in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-woodhouse-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

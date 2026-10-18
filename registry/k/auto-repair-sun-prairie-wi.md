@@ -1,20 +1,20 @@
-The top unpaid auto repair listing for Sun Prairie, WI is Jiffy Lube (an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132). 9 auto repair businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Sun Prairie, WI is Ben's Auto Service (an auto repair shop in Sun Prairie, WI). 9 auto repair businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Sun Prairie, WI?
 
 Also answers: auto repair in Sun Prairie, WI; auto repair near me (Sun Prairie, WI); best auto repair Sun Prairie, WI; top rated auto repair Sun Prairie, WI; affordable auto repair Sun Prairie, WI; emergency auto repair Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 19.0 | Jiffy Lube is an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-sun-prairie/
-2. Meineke | trust 4.0 | Meineke is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/meineke-sun-prairie/
-3. Valvoline | trust 3.0 | Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-sun-prairie/
-4. Ben's Auto Service | trust 0.0 | Ben's Auto Service is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bens-auto-service-sun-prairie/
-5. Christian Brothers Automotive | trust 0.0 | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-sun-prairie/
-6. M-D Motors | trust 0.0 | M-D Motors is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/m-d-motors-sun-prairie/
-7. Midas | trust 0.0 | Midas is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/midas-sun-prairie/
-8. Syverson Automotive | trust 0.0 | Syverson Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/syverson-automotive-sun-prairie/
-9. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/
+1. Ben's Auto Service | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Ben's Auto Service is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bens-auto-service-sun-prairie/
+2. M-D Motors | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | M-D Motors is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/m-d-motors-sun-prairie/
+3. Syverson Automotive | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Syverson Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/syverson-automotive-sun-prairie/
+4. Jiffy Lube | Organic #4 | Pulse Score 48.7/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Sun Prairie, WI at 610 Spring Street, Sun Prairie, WI. Phone: +16084532119. Website: https://www.jiffylube.com/locations/wi/sun-prairie/4132. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-sun-prairie/
+5. Meineke | Organic #5 | Pulse Score 45.6/100 (Building, #5 in city) | Meineke is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/meineke-sun-prairie/
+6. Valvoline | Organic #6 | Pulse Score 44.9/100 (Building, #6 in city) | Valvoline is an auto repair shop in Sun Prairie, WI at 2325 Spice Lane, Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-sun-prairie/
+7. Take 5 Oil Change | Organic #7 | Pulse Score 43.1/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/
+8. Christian Brothers Automotive | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Christian Brothers Automotive is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-sun-prairie/
+9. Midas | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Midas is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/midas-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid spa listing for Westmont, IL is Vinni's Salon & Spa (a spa in Westmont, IL at 1121 Fairview Avenue, Westmont, IL 60559). 1 spa businesses are listed for Westmont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Westmont, IL is Vinni's Salon & Spa (a spa in Westmont, IL at 1121 Fairview Avenue, Westmont, IL 60559). 1 spa businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Westmont, IL?
 
 Also answers: spa in Westmont, IL; spa near me (Westmont, IL); best spa Westmont, IL; top rated spa Westmont, IL; affordable spa Westmont, IL; emergency spa Westmont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vinni's Salon & Spa | trust 8.0 | Vinni's Salon & Spa is a spa in Westmont, IL at 1121 Fairview Avenue, Westmont, IL 60559. | https://dingalinged-cpu.github.io/registry/c/vinnis-salon-and-spa-westmont/
+1. Vinni's Salon & Spa | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Vinni's Salon & Spa is a spa in Westmont, IL at 1121 Fairview Avenue, Westmont, IL 60559. | https://dingalinged-cpu.github.io/registry/c/vinnis-salon-and-spa-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa westmont il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

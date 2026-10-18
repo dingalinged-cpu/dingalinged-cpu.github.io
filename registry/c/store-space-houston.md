@@ -13,7 +13,7 @@ Store Space is a self-storage facility in Houston, TX at 5512 South Willow Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00; Mo-Fr 09:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 43% of self-storage facilitys in Houston, #24 of 81 self-storage facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

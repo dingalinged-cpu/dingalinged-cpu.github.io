@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Waxahachie, TX is Amanda & Ashley's Resale (a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165). 3 furniture store businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Waxahachie, TX is Happy's Home Furnishings (a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165). 3 furniture store businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Waxahachie, TX?
 
 Also answers: furniture store in Waxahachie, TX; furniture store near me (Waxahachie, TX); best furniture store Waxahachie, TX; top rated furniture store Waxahachie, TX; affordable furniture store Waxahachie, TX; emergency furniture store Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amanda & Ashley's Resale | trust 4.0 | Amanda & Ashley's Resale is a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/amanda-and-ashleys-resale-waxahachie/
-2. Furniture By Sleep Quarters | trust 4.0 | Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/furniture-by-sleep-quarters-waxahachie/
-3. Happy's Home Furnishings | trust 4.0 | Happy's Home Furnishings is a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/happys-home-furnishings-waxahachie/
+1. Happy's Home Furnishings | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Happy's Home Furnishings is a furniture store in Waxahachie, TX at 114 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/happys-home-furnishings-waxahachie/
+2. Amanda & Ashley's Resale | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Amanda & Ashley's Resale is a furniture store in Waxahachie, TX at 3280 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/amanda-and-ashleys-resale-waxahachie/
+3. Furniture By Sleep Quarters | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Furniture By Sleep Quarters is a furniture store in Waxahachie, TX at 500 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/furniture-by-sleep-quarters-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store waxahachie tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

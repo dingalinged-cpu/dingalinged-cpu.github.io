@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Lake City, GA is Hair & Nails (a hair salon in Lake City, GA). 1 hair salon businesses are listed for Lake City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Lake City, GA is Hair & Nails (a hair salon in Lake City, GA). 1 hair salon businesses are listed for Lake City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Lake City, GA?
 
 Also answers: hair salon in Lake City, GA; hair salon near me (Lake City, GA); best hair salon Lake City, GA; top rated hair salon Lake City, GA; affordable hair salon Lake City, GA; emergency hair salon Lake City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair & Nails | trust 0.0 | Hair & Nails is a hair salon in Lake City, GA. | https://dingalinged-cpu.github.io/registry/c/hair-and-nails-lake-city/
+1. Hair & Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Hair & Nails is a hair salon in Lake City, GA. | https://dingalinged-cpu.github.io/registry/c/hair-and-nails-lake-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon lake city ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

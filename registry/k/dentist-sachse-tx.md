@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Sachse, TX is Beyond Braces (a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, TX 75048. Phone: +19729289477. Website: https://beyondbracestx.com/). 5 dentist businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Sachse, TX is Beyond Braces (a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, TX 75048. Phone: +19729289477. Website: https://beyondbracestx.com/). 5 dentist businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Sachse, TX?
 
 Also answers: dentist in Sachse, TX; dentist near me (Sachse, TX); best dentist Sachse, TX; top rated dentist Sachse, TX; affordable dentist Sachse, TX; emergency dentist Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beyond Braces | trust 20.0 | Beyond Braces is a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, TX 75048. Phone: +19729289477. Website: https://beyondbracestx.com/. | https://dingalinged-cpu.github.io/registry/c/beyond-braces-sachse/
-2. Oak Tree Dental | trust 20.0 | Oak Tree Dental is a dentist in Sachse, TX at 5120 State Highway 78 #400, Sachse, TX 75048. Phone: +19724142300. Website: https://oaktreedentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/oak-tree-dental-sachse/
-3. Thrive Dental and Orthodontics | trust 20.0 | Thrive Dental and Orthodontics is a dentist in Sachse, TX at 7900 Woodbridge Parkway, Sachse, TX 75048. Phone: +14696491101. Website: https://thrivedentist.com/locations/sachse/. | https://dingalinged-cpu.github.io/registry/c/thrive-dental-and-orthodontics-sachse/
-4. Lumi Family Dentistry | trust 4.0 | Lumi Family Dentistry is a dentist in Sachse, TX at 8010 South State Highway 78 #Suite 210, Sachse, TX 75048. | https://dingalinged-cpu.github.io/registry/c/lumi-family-dentistry-sachse/
-5. Sachse Family Dentistry | trust 4.0 | Sachse Family Dentistry is a dentist in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/sachse-family-dentistry-sachse/
+1. Beyond Braces | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Beyond Braces is a dentist in Sachse, TX at 5120 State Highway 78 #800, Sachse, TX 75048. Phone: +19729289477. Website: https://beyondbracestx.com/. | https://dingalinged-cpu.github.io/registry/c/beyond-braces-sachse/
+2. Thrive Dental and Orthodontics | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Thrive Dental and Orthodontics is a dentist in Sachse, TX at 7900 Woodbridge Parkway, Sachse, TX 75048. Phone: +14696491101. Website: https://thrivedentist.com/locations/sachse/. | https://dingalinged-cpu.github.io/registry/c/thrive-dental-and-orthodontics-sachse/
+3. Oak Tree Dental | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | Oak Tree Dental is a dentist in Sachse, TX at 5120 State Highway 78 #400, Sachse, TX 75048. Phone: +19724142300. Website: https://oaktreedentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/oak-tree-dental-sachse/
+4. Sachse Family Dentistry | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Sachse Family Dentistry is a dentist in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/sachse-family-dentistry-sachse/
+5. Lumi Family Dentistry | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Lumi Family Dentistry is a dentist in Sachse, TX at 8010 South State Highway 78 #Suite 210, Sachse, TX 75048. | https://dingalinged-cpu.github.io/registry/c/lumi-family-dentistry-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist sachse tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

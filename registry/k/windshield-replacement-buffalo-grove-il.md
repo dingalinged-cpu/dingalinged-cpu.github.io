@@ -1,12 +1,12 @@
-The top unpaid windshield replacement listing for Buffalo Grove, IL is Gerber Collision & Glass (an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089). 1 windshield replacement businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Buffalo Grove, IL is Gerber Collision & Glass (an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089). 1 windshield replacement businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Buffalo Grove, IL?
 
 Also answers: windshield replacement in Buffalo Grove, IL; windshield replacement near me (Buffalo Grove, IL); best windshield replacement Buffalo Grove, IL; top rated windshield replacement Buffalo Grove, IL; affordable windshield replacement Buffalo Grove, IL; emergency windshield replacement Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
+1. Gerber Collision & Glass | Organic #1 | Pulse Score 45.7/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement buffalo grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

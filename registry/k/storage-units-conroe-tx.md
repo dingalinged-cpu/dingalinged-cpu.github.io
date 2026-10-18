@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Conroe, TX is Montgomery Self Storage (a self-storage facility in Conroe, TX at 1418 FM 2854, Conroe, TX 77304. Phone: +19367601898. Website: https://www.montgomeryss.com/locations/fm-2854/). 3 storage units businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Conroe, TX is Montgomery Self Storage (a self-storage facility in Conroe, TX at 1418 FM 2854, Conroe, TX 77304. Phone: +19367601898. Website: https://www.montgomeryss.com/locations/fm-2854/). 3 storage units businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Conroe, TX?
 
 Also answers: storage units in Conroe, TX; storage units near me (Conroe, TX); best storage units Conroe, TX; top rated storage units Conroe, TX; affordable storage units Conroe, TX; emergency storage units Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Montgomery Self Storage | trust 20.0 | Montgomery Self Storage is a self-storage facility in Conroe, TX at 1418 FM 2854, Conroe, TX 77304. Phone: +19367601898. Website: https://www.montgomeryss.com/locations/fm-2854/. | https://dingalinged-cpu.github.io/registry/c/montgomery-self-storage-conroe/
-2. iStorage | trust 16.0 | iStorage is a self-storage facility in Conroe, TX at 1777 North Loop 336 West, Conroe, TX 77304. Phone: +18329577814. Website: https://www.istorage.com/storage/texas/storage-units-conroe/1777-N-Loop-336-W-537. | https://dingalinged-cpu.github.io/registry/c/istorage-conroe/
-3. 1488 Boat & RV Storage | trust 4.0 | 1488 Boat & RV Storage is a self-storage facility in Conroe, TX at 4392 FM 1488, Conroe, TX 77384. | https://dingalinged-cpu.github.io/registry/c/1488-boat-and-rv-storage-conroe/
+1. Montgomery Self Storage | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Montgomery Self Storage is a self-storage facility in Conroe, TX at 1418 FM 2854, Conroe, TX 77304. Phone: +19367601898. Website: https://www.montgomeryss.com/locations/fm-2854/. | https://dingalinged-cpu.github.io/registry/c/montgomery-self-storage-conroe/
+2. 1488 Boat & RV Storage | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | 1488 Boat & RV Storage is a self-storage facility in Conroe, TX at 4392 FM 1488, Conroe, TX 77384. | https://dingalinged-cpu.github.io/registry/c/1488-boat-and-rv-storage-conroe/
+3. iStorage | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | iStorage is a self-storage facility in Conroe, TX at 1777 North Loop 336 West, Conroe, TX 77304. Phone: +18329577814. Website: https://www.istorage.com/storage/texas/storage-units-conroe/1777-N-Loop-336-W-537. | https://dingalinged-cpu.github.io/registry/c/istorage-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units conroe tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

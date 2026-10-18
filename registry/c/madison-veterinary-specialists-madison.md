@@ -13,7 +13,7 @@ Madison Veterinary Specialists is a veterinarian in Madison, WI at 229 West Belt
 - Website: https://www.mvsvets.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of veterinarians in Madison, #2 of 25 veterinarians in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

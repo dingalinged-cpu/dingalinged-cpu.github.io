@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Hales Corners, WI is Cora Physical Therapy (a physical therapy clinic in Hales Corners, WI at 5301 South 108th Street, Hales Corners, WI 53130. Phone: +14145297375. Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/). 2 physical therapy businesses are listed for Hales Corners, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Hales Corners, WI is Cora Physical Therapy (a physical therapy clinic in Hales Corners, WI at 5301 South 108th Street, Hales Corners, WI 53130. Phone: +14145297375. Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/). 2 physical therapy businesses are listed for Hales Corners, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Hales Corners, WI?
 
 Also answers: physical therapy in Hales Corners, WI; physical therapy near me (Hales Corners, WI); best physical therapy Hales Corners, WI; top rated physical therapy Hales Corners, WI; affordable physical therapy Hales Corners, WI; emergency physical therapy Hales Corners, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cora Physical Therapy | trust 20.0 | Cora Physical Therapy is a physical therapy clinic in Hales Corners, WI at 5301 South 108th Street, Hales Corners, WI 53130. Phone: +14145297375. Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/. | https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-hales-corners/
-2. Doctors of Physical Therapy | trust 0.0 | Doctors of Physical Therapy is a physical therapy clinic in Hales Corners, WI. | https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-hales-corners/
+1. Cora Physical Therapy | Organic #1 | Pulse Score 49.9/100 (Unrated, #1 in city) | Cora Physical Therapy is a physical therapy clinic in Hales Corners, WI at 5301 South 108th Street, Hales Corners, WI 53130. Phone: +14145297375. Website: https://coraphysicaltherapy.com/location/cora-hales-corners-wisconsin/. | https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-hales-corners/
+2. Doctors of Physical Therapy | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | Doctors of Physical Therapy is a physical therapy clinic in Hales Corners, WI. | https://dingalinged-cpu.github.io/registry/c/doctors-of-physical-therapy-hales-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy hales corners wi | category: Health & medical | industry benchmark: Physicians & Surgeons

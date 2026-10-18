@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Rolling Meadows, IL is Squire Liquor & Tobacco (a liquor store in Rolling Meadows, IL at 1929 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18473594166. Website: https://fb.com/squireliquor). 1 liquor store businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Rolling Meadows, IL is Squire Liquor & Tobacco (a liquor store in Rolling Meadows, IL at 1929 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18473594166. Website: https://fb.com/squireliquor). 1 liquor store businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Rolling Meadows, IL?
 
 Also answers: liquor store in Rolling Meadows, IL; liquor store near me (Rolling Meadows, IL); best liquor store Rolling Meadows, IL; top rated liquor store Rolling Meadows, IL; affordable liquor store Rolling Meadows, IL; emergency liquor store Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Squire Liquor & Tobacco | trust 20.0 | Squire Liquor & Tobacco is a liquor store in Rolling Meadows, IL at 1929 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18473594166. Website: https://fb.com/squireliquor. | https://dingalinged-cpu.github.io/registry/c/squire-liquor-and-tobacco-rolling-meadows/
+1. Squire Liquor & Tobacco | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Squire Liquor & Tobacco is a liquor store in Rolling Meadows, IL at 1929 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18473594166. Website: https://fb.com/squireliquor. | https://dingalinged-cpu.github.io/registry/c/squire-liquor-and-tobacco-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store rolling meadows il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

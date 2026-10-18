@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Evanston, IL is Plain and Simple (a furniture store in Evanston, IL at 713 Main Street, Evanston, IL 60202). 4 furniture store businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Evanston, IL is Plain and Simple (a furniture store in Evanston, IL at 713 Main Street, Evanston, IL 60202). 4 furniture store businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Evanston, IL?
 
 Also answers: furniture store in Evanston, IL; furniture store near me (Evanston, IL); best furniture store Evanston, IL; top rated furniture store Evanston, IL; affordable furniture store Evanston, IL; emergency furniture store Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Plain and Simple | trust 8.0 | Plain and Simple is a furniture store in Evanston, IL at 713 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/plain-and-simple-evanston/
-2. Ad Hoc Home | trust 4.0 | Ad Hoc Home is a furniture store in Evanston, IL at 1937 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/ad-hoc-home-evanston/
-3. Interiors Et Cetera | trust 4.0 | Interiors Et Cetera is a furniture store in Evanston, IL at 1243 Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/interiors-et-cetera-evanston/
-4. Paramour Bungalow | trust 4.0 | Paramour Bungalow is a furniture store in Evanston, IL at 812 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/paramour-bungalow-evanston/
+1. Plain and Simple | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Plain and Simple is a furniture store in Evanston, IL at 713 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/plain-and-simple-evanston/
+2. Ad Hoc Home | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Ad Hoc Home is a furniture store in Evanston, IL at 1937 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/ad-hoc-home-evanston/
+3. Interiors Et Cetera | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Interiors Et Cetera is a furniture store in Evanston, IL at 1243 Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/interiors-et-cetera-evanston/
+4. Paramour Bungalow | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Paramour Bungalow is a furniture store in Evanston, IL at 812 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/paramour-bungalow-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store evanston il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

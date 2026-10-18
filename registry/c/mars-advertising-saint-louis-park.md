@@ -13,7 +13,7 @@ Mars Advertising is a marketing agency in Saint Louis Park, MN at 5050 36th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 93% of marketing agencys in Minneapolis–St. Paul, #3 of 3 marketing agencys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.2, Trust 40. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

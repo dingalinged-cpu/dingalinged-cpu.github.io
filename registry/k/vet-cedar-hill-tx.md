@@ -1,13 +1,13 @@
-The top unpaid vet listing for Cedar Hill, TX is Cedar Hill Veterinary Clinic (a veterinarian in Cedar Hill, TX at 1026 North Highway 67, Cedar Hill, TX 75104). 2 vet businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Cedar Hill, TX is Cedar Hill Veterinary Clinic (a veterinarian in Cedar Hill, TX at 1026 North Highway 67, Cedar Hill, TX 75104). 2 vet businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Cedar Hill, TX?
 
 Also answers: vet in Cedar Hill, TX; vet near me (Cedar Hill, TX); best vet Cedar Hill, TX; top rated vet Cedar Hill, TX; affordable vet Cedar Hill, TX; emergency vet Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedar Hill Veterinary Clinic | trust 4.0 | Cedar Hill Veterinary Clinic is a veterinarian in Cedar Hill, TX at 1026 North Highway 67, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-veterinary-clinic-cedar-hill/
-2. Vetco Total Care | trust 4.0 | Vetco Total Care is a veterinarian in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/vetco-total-care-cedar-hill/
+1. Cedar Hill Veterinary Clinic | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Cedar Hill Veterinary Clinic is a veterinarian in Cedar Hill, TX at 1026 North Highway 67, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-veterinary-clinic-cedar-hill/
+2. Vetco Total Care | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Vetco Total Care is a veterinarian in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/vetco-total-care-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet cedar hill tx | category: Pets | industry benchmark: Animals & Pets

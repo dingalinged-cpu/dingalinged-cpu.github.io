@@ -13,7 +13,7 @@ Au Levain is a bakery in Chicago, IL at 4301 North Lincoln Avenue, Chicago, IL 6
 - Website: https://www.aulevainchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Th-Su 08:00-14:00
-- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 43% of bakerys in Chicago, #161 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

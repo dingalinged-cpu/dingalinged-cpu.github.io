@@ -1,13 +1,13 @@
-The top unpaid window repair listing for Gary, IN is Indy Enterprise Group Inc. (a window repair service in Gary, IN. Phone: +12198869910). 2 window repair businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window repair listing for Gary, IN is Indy Enterprise Group Inc. (a window repair service in Gary, IN. Phone: +12198869910). 2 window repair businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window repair providers in Gary, IN?
 
 Also answers: window repair in Gary, IN; window repair near me (Gary, IN); best window repair Gary, IN; top rated window repair Gary, IN; affordable window repair Gary, IN; emergency window repair Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Indy Enterprise Group Inc. | trust 6.0 | Indy Enterprise Group Inc. is a window repair service in Gary, IN. Phone: +12198869910. | https://dingalinged-cpu.github.io/registry/c/indy-enterprise-group-inc-gary/
-2. Glass City | trust 0.0 | Glass City is a window repair service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/glass-city-gary/
+1. Indy Enterprise Group Inc. | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Indy Enterprise Group Inc. is a window repair service in Gary, IN. Phone: +12198869910. | https://dingalinged-cpu.github.io/registry/c/indy-enterprise-group-inc-gary/
+2. Glass City | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Glass City is a window repair service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/glass-city-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair gary in | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

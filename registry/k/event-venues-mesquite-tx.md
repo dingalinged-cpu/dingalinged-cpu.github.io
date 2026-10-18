@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Mesquite, TX is Wisteria Place (an event venue in Mesquite, TX at 902 South Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://m.wisteriaplaceeventhall.com/). 4 event venues businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Mesquite, TX is Wisteria Place (an event venue in Mesquite, TX at 902 South Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://m.wisteriaplaceeventhall.com/). 4 event venues businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Mesquite, TX?
 
 Also answers: event venues in Mesquite, TX; event venues near me (Mesquite, TX); best event venues Mesquite, TX; top rated event venues Mesquite, TX; affordable event venues Mesquite, TX; emergency event venues Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wisteria Place | trust 10.0 | Wisteria Place is an event venue in Mesquite, TX at 902 South Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://m.wisteriaplaceeventhall.com/. | https://dingalinged-cpu.github.io/registry/c/wisteria-place-mesquite/
-2. Big Town Events Center | trust 4.0 | Big Town Events Center is an event venue in Mesquite, TX at 2323 Big Town Boulevard, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/big-town-events-center-mesquite/
-3. Elegant Party Hall | trust 4.0 | Elegant Party Hall is an event venue in Mesquite, TX at 1900 Oates Drive #152, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/elegant-party-hall-mesquite/
-4. Westlake House | trust 4.0 | Westlake House is an event venue in Mesquite, TX at 421 Gross Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/westlake-house-mesquite/
+1. Wisteria Place | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Wisteria Place is an event venue in Mesquite, TX at 902 South Bryan - Belt Line Road, Mesquite, TX 75149. Website: https://m.wisteriaplaceeventhall.com/. | https://dingalinged-cpu.github.io/registry/c/wisteria-place-mesquite/
+2. Big Town Events Center | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Big Town Events Center is an event venue in Mesquite, TX at 2323 Big Town Boulevard, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/big-town-events-center-mesquite/
+3. Elegant Party Hall | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Elegant Party Hall is an event venue in Mesquite, TX at 1900 Oates Drive #152, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/elegant-party-hall-mesquite/
+4. Westlake House | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Westlake House is an event venue in Mesquite, TX at 421 Gross Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/westlake-house-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues mesquite tx | category: Events & weddings | industry benchmark: Personal Services

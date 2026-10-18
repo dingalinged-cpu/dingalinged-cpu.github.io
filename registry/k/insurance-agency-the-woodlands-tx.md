@@ -1,17 +1,17 @@
-The top unpaid insurance agency listing for The Woodlands, TX is Farmers Insurance (an insurance agent in The Woodlands, TX at 8105 Kuykendahl Road #Suite 100, The Woodlands, TX 77382). 6 insurance agency businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for The Woodlands, TX is Independence Title (an insurance agent in The Woodlands, TX at 25305 Interstate 45 North, The Woodlands, TX). 6 insurance agency businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in The Woodlands, TX?
 
 Also answers: insurance agency in The Woodlands, TX; insurance agency near me (The Woodlands, TX); best insurance agency The Woodlands, TX; top rated insurance agency The Woodlands, TX; affordable insurance agency The Woodlands, TX; emergency insurance agency The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance | trust 4.0 | Farmers Insurance is an insurance agent in The Woodlands, TX at 8105 Kuykendahl Road #Suite 100, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands/
-2. David Griffith Agency | trust 3.0 | David Griffith Agency is an insurance agent in The Woodlands, TX at 27130 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/david-griffith-agency-the-woodlands/
-3. Independence Title | trust 3.0 | Independence Title is an insurance agent in The Woodlands, TX at 25305 Interstate 45 North, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/independence-title-the-woodlands/
-4. Allstate | trust 0.0 | Allstate is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-the-woodlands/
-5. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands-n13109585869/
-6. State Farm | trust 0.0 | State Farm is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-the-woodlands/
+1. Independence Title | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Independence Title is an insurance agent in The Woodlands, TX at 25305 Interstate 45 North, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/independence-title-the-woodlands/
+2. Farmers Insurance | Organic #2 | Pulse Score 44.9/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in The Woodlands, TX at 8105 Kuykendahl Road #Suite 100, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands/
+3. David Griffith Agency | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | David Griffith Agency is an insurance agent in The Woodlands, TX at 27130 Glen Loch Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/david-griffith-agency-the-woodlands/
+4. Allstate | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Allstate is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-the-woodlands/
+5. Farmers Insurance | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Farmers Insurance is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-the-woodlands-n13109585869/
+6. State Farm | Organic #6 | Pulse Score 42.1/100 (Building, #6 in city) | State Farm is an insurance agent in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency the woodlands tx | category: insurance | industry benchmark: Finance & Insurance

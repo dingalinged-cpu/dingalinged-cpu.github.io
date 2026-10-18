@@ -1,13 +1,13 @@
-The top unpaid auto body shop listing for Denton, TX is MAACO (an auto repair shop in Denton, TX at 2115 Sadau Court, Denton, TX 76210. Phone: +19402206073. Website: https://www.maaco.com/). 2 auto body shop businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Denton, TX is Gene's Paint & Body Shop (an auto repair shop in Denton, TX at 713 South Locust Street, Denton, TX 76201). 2 auto body shop businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Denton, TX?
 
 Also answers: auto body shop in Denton, TX; auto body shop near me (Denton, TX); best auto body shop Denton, TX; top rated auto body shop Denton, TX; affordable auto body shop Denton, TX; emergency auto body shop Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MAACO | trust 16.0 | MAACO is an auto repair shop in Denton, TX at 2115 Sadau Court, Denton, TX 76210. Phone: +19402206073. Website: https://www.maaco.com/. | https://dingalinged-cpu.github.io/registry/c/maaco-denton/
-2. Gene's Paint & Body Shop | trust 4.0 | Gene's Paint & Body Shop is an auto repair shop in Denton, TX at 713 South Locust Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/genes-paint-and-body-shop-denton/
+1. Gene's Paint & Body Shop | Organic #1 | Pulse Score 57.7/100 (Unrated, #16 in city) | Gene's Paint & Body Shop is an auto repair shop in Denton, TX at 713 South Locust Street, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/genes-paint-and-body-shop-denton/
+2. MAACO | Organic #2 | Pulse Score 48.1/100 (Building, #28 in city) | MAACO is an auto repair shop in Denton, TX at 2115 Sadau Court, Denton, TX 76210. Phone: +19402206073. Website: https://www.maaco.com/. | https://dingalinged-cpu.github.io/registry/c/maaco-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop denton tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

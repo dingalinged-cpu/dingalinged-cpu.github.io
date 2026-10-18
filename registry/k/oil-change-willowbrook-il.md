@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Willowbrook, IL is Route 66 Auto Service (an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/). 1 oil change businesses are listed for Willowbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Willowbrook, IL is Route 66 Auto Service (an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/). 1 oil change businesses are listed for Willowbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Willowbrook, IL?
 
 Also answers: oil change in Willowbrook, IL; oil change near me (Willowbrook, IL); best oil change Willowbrook, IL; top rated oil change Willowbrook, IL; affordable oil change Willowbrook, IL; emergency oil change Willowbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Route 66 Auto Service | trust 20.0 | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/
+1. Route 66 Auto Service | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Route 66 Auto Service is an auto repair shop in Willowbrook, IL at 7551 South Madison Street, Willowbrook, IL 60527. Phone: +16309200905. Website: https://www.rt66autoservice.com/. | https://dingalinged-cpu.github.io/registry/c/route-66-auto-service-willowbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change willowbrook il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

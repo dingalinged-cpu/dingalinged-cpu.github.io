@@ -13,7 +13,7 @@ Barbershop Old Town is a barber shop in Lewisville, TX. Phone: +14694644434. Web
 - Website: https://www.oldtownbarber.shop/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 09:00-19:00; Sa 10:00-17:00
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 20% of barber shops in Dallas–Fort Worth, #2 of 5 barber shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

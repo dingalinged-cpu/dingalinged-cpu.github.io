@@ -13,7 +13,7 @@ Affordable Smiles is a dentist in Porter, TX at 23741 Eastex Freeway #1, Porter,
 - Website: https://www.affordable-smiles.com/
 - Email: info@affordable-smiles.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of dentists in Houston, #2 of 2 dentists in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

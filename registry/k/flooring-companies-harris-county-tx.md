@@ -1,15 +1,15 @@
-The top unpaid flooring companies listing for Harris County, TX is Warren's Rock & Mulch (a flooring company in Harris County, TX. Phone: +12818527400). 4 flooring companies businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Harris County, TX is Warren's Rock & Mulch (a flooring company in Harris County, TX. Phone: +12818527400). 4 flooring companies businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Harris County, TX?
 
 Also answers: flooring companies in Harris County, TX; flooring companies near me (Harris County, TX); best flooring companies Harris County, TX; top rated flooring companies Harris County, TX; affordable flooring companies Harris County, TX; emergency flooring companies Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Warren's Rock & Mulch | trust 6.0 | Warren's Rock & Mulch is a flooring company in Harris County, TX. Phone: +12818527400. | https://dingalinged-cpu.github.io/registry/c/warrens-rock-and-mulch-harris-county/
-2. Five Star Flooring | trust 0.0 | Five Star Flooring is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/five-star-flooring-harris-county/
-3. Floors For Living | trust 0.0 | Floors For Living is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/floors-for-living-harris-county/
-4. Lumber Liquidators | trust 0.0 | Lumber Liquidators is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-harris-county/
+1. Warren's Rock & Mulch | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Warren's Rock & Mulch is a flooring company in Harris County, TX. Phone: +12818527400. | https://dingalinged-cpu.github.io/registry/c/warrens-rock-and-mulch-harris-county/
+2. Five Star Flooring | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Five Star Flooring is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/five-star-flooring-harris-county/
+3. Floors For Living | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | Floors For Living is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/floors-for-living-harris-county/
+4. Lumber Liquidators | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Lumber Liquidators is a flooring company in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies harris county tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

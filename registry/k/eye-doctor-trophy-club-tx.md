@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Trophy Club, TX is Vision Source (an eye care practice in Trophy Club, TX at 301 Trophy Lake Drive #128, Trophy Club, TX 76262. Phone: +16822372103. Website: https://visionsourcetrophyclub.com/). 2 eye doctor businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Trophy Club, TX is Trophy Club Vision Care (an eye care practice in Trophy Club, TX). 2 eye doctor businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Trophy Club, TX?
 
 Also answers: eye doctor in Trophy Club, TX; eye doctor near me (Trophy Club, TX); best eye doctor Trophy Club, TX; top rated eye doctor Trophy Club, TX; affordable eye doctor Trophy Club, TX; emergency eye doctor Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vision Source | trust 20.0 | Vision Source is an eye care practice in Trophy Club, TX at 301 Trophy Lake Drive #128, Trophy Club, TX 76262. Phone: +16822372103. Website: https://visionsourcetrophyclub.com/. | https://dingalinged-cpu.github.io/registry/c/vision-source-trophy-club/
-2. Trophy Club Vision Care | trust 4.0 | Trophy Club Vision Care is an eye care practice in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/trophy-club-vision-care-trophy-club/
+1. Trophy Club Vision Care | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Trophy Club Vision Care is an eye care practice in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/trophy-club-vision-care-trophy-club/
+2. Vision Source | Organic #2 | Pulse Score 51.1/100 (Fair, #2 in city) | Vision Source is an eye care practice in Trophy Club, TX at 301 Trophy Lake Drive #128, Trophy Club, TX 76262. Phone: +16822372103. Website: https://visionsourcetrophyclub.com/. | https://dingalinged-cpu.github.io/registry/c/vision-source-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor trophy club tx | category: Health & medical | industry benchmark: Physicians & Surgeons

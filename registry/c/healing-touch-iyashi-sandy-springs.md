@@ -13,7 +13,7 @@ Healing Touch Iyashi is a massage studio in Sandy Springs, GA at 5975 Roswell Ro
 - Website: https://www.healingtouchiyashi.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 21% of massage studios in Atlanta, #1 of 1 massage studios in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Washworks Car Wash is a car wash in Cobb County, GA at 2072 Cobb Parkway, Cobb C
 - Website: https://washworkscarwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 08:00-18:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of car washes in Atlanta, #9 of 21 car washes in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

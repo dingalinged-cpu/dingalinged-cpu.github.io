@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Prosper, TX is Jerry's Liquor and Fine Wine (a liquor store in Prosper, TX at 1281 East University Drive, Prosper, TX 75078. Phone: +14694816015). 2 liquor store businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Prosper, TX is Jerry's Liquor and Fine Wine (a liquor store in Prosper, TX at 1281 East University Drive, Prosper, TX 75078. Phone: +14694816015). 2 liquor store businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Prosper, TX?
 
 Also answers: liquor store in Prosper, TX; liquor store near me (Prosper, TX); best liquor store Prosper, TX; top rated liquor store Prosper, TX; affordable liquor store Prosper, TX; emergency liquor store Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jerry's Liquor and Fine Wine | trust 10.0 | Jerry's Liquor and Fine Wine is a liquor store in Prosper, TX at 1281 East University Drive, Prosper, TX 75078. Phone: +14694816015. | https://dingalinged-cpu.github.io/registry/c/jerrys-liquor-and-fine-wine-prosper/
-2. Spec's | trust 3.0 | Spec's is a liquor store in Prosper, TX at 950 South Preston Road, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/specs-prosper/
+1. Jerry's Liquor and Fine Wine | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Jerry's Liquor and Fine Wine is a liquor store in Prosper, TX at 1281 East University Drive, Prosper, TX 75078. Phone: +14694816015. | https://dingalinged-cpu.github.io/registry/c/jerrys-liquor-and-fine-wine-prosper/
+2. Spec's | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Spec's is a liquor store in Prosper, TX at 950 South Preston Road, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/specs-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store prosper tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

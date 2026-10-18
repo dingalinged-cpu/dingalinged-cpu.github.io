@@ -13,7 +13,7 @@ The Home Market is a furniture store in Milwaukee, WI at 151 South 1st Street, M
 - Website: https://shophomemarket.com/
 - Email: info@homemarketmilwaukee.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-16:00; Sa 11:00-15:00
-- Registry Score: 67/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 2% of furniture stores in Milwaukee, #1 of 30 furniture stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 67.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

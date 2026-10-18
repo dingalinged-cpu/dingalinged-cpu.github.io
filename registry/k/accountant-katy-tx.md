@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Katy, TX is Peter J. Petry, P.C., CPA (an accountant in Katy, TX at 2717 Commercial Center Boulevard #E200, Katy, TX 77494. Phone: +12818569788. Website: https://www.peterpetrycpa.com/). 1 accountant businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Katy, TX is Peter J. Petry, P.C., CPA (an accountant in Katy, TX at 2717 Commercial Center Boulevard #E200, Katy, TX 77494. Phone: +12818569788. Website: https://www.peterpetrycpa.com/). 1 accountant businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Katy, TX?
 
 Also answers: accountant in Katy, TX; accountant near me (Katy, TX); best accountant Katy, TX; top rated accountant Katy, TX; affordable accountant Katy, TX; emergency accountant Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peter J. Petry, P.C., CPA | trust 20.0 | Peter J. Petry, P.C., CPA is an accountant in Katy, TX at 2717 Commercial Center Boulevard #E200, Katy, TX 77494. Phone: +12818569788. Website: https://www.peterpetrycpa.com/. | https://dingalinged-cpu.github.io/registry/c/peter-j-petry-p-c-cpa-katy/
+1. Peter J. Petry, P.C., CPA | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Peter J. Petry, P.C., CPA is an accountant in Katy, TX at 2717 Commercial Center Boulevard #E200, Katy, TX 77494. Phone: +12818569788. Website: https://www.peterpetrycpa.com/. | https://dingalinged-cpu.github.io/registry/c/peter-j-petry-p-c-cpa-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant katy tx | category: professional_accounting | industry benchmark: Business Services

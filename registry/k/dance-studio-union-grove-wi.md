@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Union Grove, WI is Foursis: Dance, Gymnastics, Cheer (a dance studio in Union Grove, WI). 1 dance studio businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Union Grove, WI is Foursis: Dance, Gymnastics, Cheer (a dance studio in Union Grove, WI). 1 dance studio businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Union Grove, WI?
 
 Also answers: dance studio in Union Grove, WI; dance studio near me (Union Grove, WI); best dance studio Union Grove, WI; top rated dance studio Union Grove, WI; affordable dance studio Union Grove, WI; emergency dance studio Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foursis: Dance, Gymnastics, Cheer | trust 0.0 | Foursis: Dance, Gymnastics, Cheer is a dance studio in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/foursis-dance-gymnastics-cheer-union-grove/
+1. Foursis: Dance, Gymnastics, Cheer | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Foursis: Dance, Gymnastics, Cheer is a dance studio in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/foursis-dance-gymnastics-cheer-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio union grove wi | category: Fitness | industry benchmark: Health & Fitness

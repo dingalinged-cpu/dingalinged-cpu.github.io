@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Schererville, IN at Wicker Avenue, Schererville, IN 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 66% of gyms in Chicago, #1 of 1 gyms in Schererville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

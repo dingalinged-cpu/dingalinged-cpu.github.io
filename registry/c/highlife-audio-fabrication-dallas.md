@@ -13,7 +13,7 @@ Highlife Audio Fabrication is an auto repair shop in Dallas, TX at 9959 Royal La
 - Website: n/a
 - Email: highlifeaudio1@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00
-- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 1% of auto repair shops in Dallas–Fort Worth, #1 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

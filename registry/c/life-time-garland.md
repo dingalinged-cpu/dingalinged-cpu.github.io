@@ -13,7 +13,7 @@ Life Time is a gym in Garland, TX at 5602 Naaman Forest Boulevard, Garland, TX 7
 - Website: https://www.lifetime.life/life-time-locations/tx-garland.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 53% of gyms in Dallas–Fort Worth, #6 of 9 gyms in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

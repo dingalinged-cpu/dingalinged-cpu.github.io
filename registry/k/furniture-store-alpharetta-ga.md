@@ -1,25 +1,25 @@
-The top unpaid furniture store listing for Alpharetta, GA is west elm (a furniture store in Alpharetta, GA at 6160 Avalon Boulevard, Alpharetta, GA 30004. Phone: +16782485547. Website: https://www.westelm.com/stores/us-ga-alpharetta-avalon/). 14 furniture store businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Alpharetta, GA is Visual Comfort & Co. (a furniture store in Alpharetta, GA). 14 furniture store businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Alpharetta, GA?
 
 Also answers: furniture store in Alpharetta, GA; furniture store near me (Alpharetta, GA); best furniture store Alpharetta, GA; top rated furniture store Alpharetta, GA; affordable furniture store Alpharetta, GA; emergency furniture store Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. west elm | trust 20.0 | west elm is a furniture store in Alpharetta, GA at 6160 Avalon Boulevard, Alpharetta, GA 30004. Phone: +16782485547. Website: https://www.westelm.com/stores/us-ga-alpharetta-avalon/. | https://dingalinged-cpu.github.io/registry/c/west-elm-alpharetta/
-2. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Alpharetta, GA at 5980 North Point Parkway, Alpharetta, GA 30022. Phone: +14702861602. Website: https://stores.ashleyfurniture.com/store/us/georgia/alpharetta/7710000109/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-alpharetta/
-3. American Backyard | trust 6.0 | American Backyard is a furniture store in Alpharetta, GA. Website: https://www.americanbackyard.com/. | https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta/
-4. Arhaus | trust 4.0 | Arhaus is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/arhaus-alpharetta/
-5. Crate & Barrel | trust 4.0 | Crate & Barrel is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-alpharetta/
-6. Ethan Allen | trust 3.0 | Ethan Allen is a furniture store in Alpharetta, GA at 6751 North Point Parkway, Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-alpharetta/
-7. Havertys | trust 3.0 | Havertys is a furniture store in Alpharetta, GA at 6731 North Point Parkway, Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/havertys-alpharetta/
-8. American Backyard | trust 0.0 | American Backyard is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta-w274500609/
-9. LoveSac | trust 0.0 | LoveSac is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/lovesac-alpharetta/
-10. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-alpharetta/
-11. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta/
-12. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta-w833549989/
-13. The Shade Store | trust 0.0 | The Shade Store is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/the-shade-store-alpharetta/
-14. Visual Comfort & Co. | trust 0.0 | Visual Comfort & Co. is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/visual-comfort-and-co-alpharetta/
+1. Visual Comfort & Co. | Organic #1 | Pulse Score 58.8/100 (Fair, #1 in city) | Visual Comfort & Co. is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/visual-comfort-and-co-alpharetta/
+2. The Shade Store | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | The Shade Store is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/the-shade-store-alpharetta/
+3. American Backyard | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | American Backyard is a furniture store in Alpharetta, GA. Website: https://www.americanbackyard.com/. | https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta/
+4. American Backyard | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | American Backyard is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/american-backyard-alpharetta-w274500609/
+5. west elm | Organic #5 | Pulse Score 50.7/100 (Fair, #5 in city) | west elm is a furniture store in Alpharetta, GA at 6160 Avalon Boulevard, Alpharetta, GA 30004. Phone: +16782485547. Website: https://www.westelm.com/stores/us-ga-alpharetta-avalon/. | https://dingalinged-cpu.github.io/registry/c/west-elm-alpharetta/
+6. Ashley HomeStore | Organic #6 | Pulse Score 47/100 (Building, #6 in city) | Ashley HomeStore is a furniture store in Alpharetta, GA at 5980 North Point Parkway, Alpharetta, GA 30022. Phone: +14702861602. Website: https://stores.ashleyfurniture.com/store/us/georgia/alpharetta/7710000109/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-alpharetta/
+7. Arhaus | Organic #7 | Pulse Score 45/100 (Building, #7 in city) | Arhaus is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/arhaus-alpharetta/
+8. Crate & Barrel | Organic #8 | Pulse Score 45/100 (Building, #8 in city) | Crate & Barrel is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-alpharetta/
+9. Ethan Allen | Organic #9 | Pulse Score 44.1/100 (Building, #9 in city) | Ethan Allen is a furniture store in Alpharetta, GA at 6751 North Point Parkway, Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-alpharetta/
+10. Havertys | Organic #10 | Pulse Score 44.1/100 (Building, #10 in city) | Havertys is a furniture store in Alpharetta, GA at 6731 North Point Parkway, Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/havertys-alpharetta/
+11. Pottery Barn | Organic #11 | Pulse Score 44/100 (Building, #11 in city) | Pottery Barn is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-alpharetta/
+12. LoveSac | Organic #12 | Pulse Score 43.9/100 (Building, #12 in city) | LoveSac is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/lovesac-alpharetta/
+13. Rooms To Go | Organic #13 | Pulse Score 42.5/100 (Building, #13 in city) | Rooms To Go is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta-w833549989/
+14. Rooms To Go | Organic #14 | Pulse Score 42.1/100 (Building, #14 in city) | Rooms To Go is a furniture store in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store alpharetta ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

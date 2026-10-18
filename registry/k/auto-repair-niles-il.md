@@ -1,19 +1,19 @@
-The top unpaid auto repair listing for Niles, IL is Erich's Lehigh Auto Body (an auto repair shop in Niles, IL at 6637 West Touhy Avenue, Niles, IL 60714. Website: https://www.erichslehighautobody.net/). 8 auto repair businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Niles, IL is Erich's Lehigh Auto Body (an auto repair shop in Niles, IL at 6637 West Touhy Avenue, Niles, IL 60714. Website: https://www.erichslehighautobody.net/). 8 auto repair businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Niles, IL?
 
 Also answers: auto repair in Niles, IL; auto repair near me (Niles, IL); best auto repair Niles, IL; top rated auto repair Niles, IL; affordable auto repair Niles, IL; emergency auto repair Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Erich's Lehigh Auto Body | trust 10.0 | Erich's Lehigh Auto Body is an auto repair shop in Niles, IL at 6637 West Touhy Avenue, Niles, IL 60714. Website: https://www.erichslehighautobody.net/. | https://dingalinged-cpu.github.io/registry/c/erichs-lehigh-auto-body-niles/
-2. Mavis Tires & Brakes | trust 10.0 | Mavis Tires & Brakes is an auto repair shop in Niles, IL at 9007 North Milwaukee Avenue, Niles, IL 60714. Website: https://www.mavis.com/locations/niles-il/. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-niles/
-3. Firestone | trust 4.0 | Firestone is an auto repair shop in Niles, IL at 7237 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/firestone-niles/
-4. Midas | trust 4.0 | Midas is an auto repair shop in Niles, IL at 7369 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/midas-niles/
-5. Pep Boys | trust 4.0 | Pep Boys is an auto repair shop in Niles, IL at 9643 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/pep-boys-niles/
-6. Star Nissan | trust 4.0 | Star Nissan is an auto repair shop in Niles, IL at 5757 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/star-nissan-niles/
-7. Take 5 Oil Change | trust 4.0 | Take 5 Oil Change is an auto repair shop in Niles, IL at 9600 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-niles/
-8. Walmart Auto Care Center | trust 4.0 | Walmart Auto Care Center is an auto repair shop in Niles, IL at 5630 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-care-center-niles/
+1. Erich's Lehigh Auto Body | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Erich's Lehigh Auto Body is an auto repair shop in Niles, IL at 6637 West Touhy Avenue, Niles, IL 60714. Website: https://www.erichslehighautobody.net/. | https://dingalinged-cpu.github.io/registry/c/erichs-lehigh-auto-body-niles/
+2. Mavis Tires & Brakes | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Mavis Tires & Brakes is an auto repair shop in Niles, IL at 9007 North Milwaukee Avenue, Niles, IL 60714. Website: https://www.mavis.com/locations/niles-il/. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-niles/
+3. Firestone | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | Firestone is an auto repair shop in Niles, IL at 7237 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/firestone-niles/
+4. Take 5 Oil Change | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Niles, IL at 9600 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-niles/
+5. Midas | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Midas is an auto repair shop in Niles, IL at 7369 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/midas-niles/
+6. Pep Boys | Organic #6 | Pulse Score 44.2/100 (Building, #6 in city) | Pep Boys is an auto repair shop in Niles, IL at 9643 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/pep-boys-niles/
+7. Star Nissan | Organic #7 | Pulse Score 44.2/100 (Building, #7 in city) | Star Nissan is an auto repair shop in Niles, IL at 5757 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/star-nissan-niles/
+8. Walmart Auto Care Center | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Walmart Auto Care Center is an auto repair shop in Niles, IL at 5630 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-care-center-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair niles il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

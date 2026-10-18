@@ -13,7 +13,7 @@ North Atlanta Family Dentistry is a dentist in Johns Creek, GA at 5805 State Bri
 - Website: https://www.smilegeorgia.com/johns-creek-ga/
 - Email: northatlantafamilydentistry@gmail.com
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00, Fr 07:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 5% of dentists in Atlanta, #1 of 5 dentists in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

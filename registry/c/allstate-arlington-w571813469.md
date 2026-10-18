@@ -13,7 +13,7 @@ Allstate is an insurance agent in Arlington, TX at 1601 Fielder North Plaza Sc, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.8/100 — Unrated (not enough evidence yet) — top 82% of insurance agents in Dallas–Fort Worth, #9 of 11 insurance agents in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 44.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid vet listing for Schaumburg, IL is Golf Rose Animal Hospital (a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173). 2 vet businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Schaumburg, IL is Golf Rose Animal Hospital (a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173). 2 vet businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Schaumburg, IL?
 
 Also answers: vet in Schaumburg, IL; vet near me (Schaumburg, IL); best vet Schaumburg, IL; top rated vet Schaumburg, IL; affordable vet Schaumburg, IL; emergency vet Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Golf Rose Animal Hospital | trust 4.0 | Golf Rose Animal Hospital is a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/golf-rose-animal-hospital-schaumburg/
-2. Spring Valley Veterinary Clinic | trust 0.0 | Spring Valley Veterinary Clinic is a veterinarian in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/spring-valley-veterinary-clinic-schaumburg/
+1. Golf Rose Animal Hospital | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Golf Rose Animal Hospital is a veterinarian in Schaumburg, IL at 51 Remington Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/golf-rose-animal-hospital-schaumburg/
+2. Spring Valley Veterinary Clinic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Spring Valley Veterinary Clinic is a veterinarian in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/spring-valley-veterinary-clinic-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet schaumburg il | category: Pets | industry benchmark: Animals & Pets

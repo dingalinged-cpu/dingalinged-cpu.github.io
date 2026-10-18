@@ -1,16 +1,16 @@
-The top unpaid nail salon listing for West Allis, WI is USA Nails (a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/). 5 nail salon businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for West Allis, WI is Throne of Nails (a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219). 5 nail salon businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in West Allis, WI?
 
 Also answers: nail salon in West Allis, WI; nail salon near me (West Allis, WI); best nail salon West Allis, WI; top rated nail salon West Allis, WI; affordable nail salon West Allis, WI; emergency nail salon West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. USA Nails | trust 20.0 | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://dingalinged-cpu.github.io/registry/c/usa-nails-west-allis/
-2. Spa Nails | trust 4.0 | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/spa-nails-west-allis/
-3. Throne of Nails | trust 4.0 | Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219. | https://dingalinged-cpu.github.io/registry/c/throne-of-nails-west-allis/
-4. Best Nails | trust 0.0 | Best Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/best-nails-west-allis/
-5. Lux Nails | trust 0.0 | Lux Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/lux-nails-west-allis/
+1. Throne of Nails | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Throne of Nails is a nail salon in West Allis, WI at 1911 South 60th Street, West Allis, WI 53219. | https://dingalinged-cpu.github.io/registry/c/throne-of-nails-west-allis/
+2. Best Nails | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Best Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/best-nails-west-allis/
+3. Lux Nails | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Lux Nails is a nail salon in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/lux-nails-west-allis/
+4. USA Nails | Organic #4 | Pulse Score 48.7/100 (Unrated, #4 in city) | USA Nails is a nail salon in West Allis, WI at 6712 West Greenfield Avenue, West Allis, WI 53214. Phone: +14147744149. Website: https://usanailswestallis.com/. | https://dingalinged-cpu.github.io/registry/c/usa-nails-west-allis/
+5. Spa Nails | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Spa Nails is a nail salon in West Allis, WI at 1526 South 108th Street, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/spa-nails-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

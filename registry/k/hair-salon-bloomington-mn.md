@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Bloomington, MN is GNC (a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871). 6 hair salon businesses are listed for Bloomington, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Bloomington, MN is GNC (a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871). 6 hair salon businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Bloomington, MN?
 
 Also answers: hair salon in Bloomington, MN; hair salon near me (Bloomington, MN); best hair salon Bloomington, MN; top rated hair salon Bloomington, MN; affordable hair salon Bloomington, MN; emergency hair salon Bloomington, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GNC | trust 13.0 | GNC is a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871. | https://dingalinged-cpu.github.io/registry/c/gnc-bloomington/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington-n6412456034/
-4. Sagitario | trust 0.0 | Sagitario is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sagitario-bloomington/
-5. Salon Oriana | trust 0.0 | Salon Oriana is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/salon-oriana-bloomington/
-6. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bloomington/
+1. GNC | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | GNC is a hair salon in Bloomington, MN at 372 North Garden, Bloomington, MN. Phone: +19526812871. | https://dingalinged-cpu.github.io/registry/c/gnc-bloomington/
+2. Sagitario | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Sagitario is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sagitario-bloomington/
+3. Salon Oriana | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Salon Oriana is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/salon-oriana-bloomington/
+4. Sport Clips | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | Sport Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bloomington/
+5. Great Clips | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington/
+6. Great Clips | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Great Clips is a hair salon in Bloomington, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-bloomington-n6412456034/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon bloomington mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

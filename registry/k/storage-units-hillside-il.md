@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Hillside, IL is StorageMart (a self-storage facility in Hillside, IL at 5979 Darmstadt Road, Hillside, IL 60162). 1 storage units businesses are listed for Hillside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Hillside, IL is StorageMart (a self-storage facility in Hillside, IL at 5979 Darmstadt Road, Hillside, IL 60162). 1 storage units businesses are listed for Hillside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Hillside, IL?
 
 Also answers: storage units in Hillside, IL; storage units near me (Hillside, IL); best storage units Hillside, IL; top rated storage units Hillside, IL; affordable storage units Hillside, IL; emergency storage units Hillside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. StorageMart | trust 4.0 | StorageMart is a self-storage facility in Hillside, IL at 5979 Darmstadt Road, Hillside, IL 60162. | https://dingalinged-cpu.github.io/registry/c/storagemart-hillside/
+1. StorageMart | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | StorageMart is a self-storage facility in Hillside, IL at 5979 Darmstadt Road, Hillside, IL 60162. | https://dingalinged-cpu.github.io/registry/c/storagemart-hillside/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units hillside il | category: Home services - Moving | industry benchmark: Home & Home Improvement

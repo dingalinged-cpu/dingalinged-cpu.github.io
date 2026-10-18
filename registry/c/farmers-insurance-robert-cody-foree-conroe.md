@@ -13,7 +13,7 @@ Farmers Insurance: Robert Cody Foree is an insurance agent in Conroe, TX at 903 
 - Website: https://www.farmersagent.com/rforee1
 - Email: foreeins@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 44% of insurance agents in Houston, #3 of 5 insurance agents in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

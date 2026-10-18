@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Palos Heights, IL is Richard's Bicycles (a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463). 1 bike shop businesses are listed for Palos Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Palos Heights, IL is Richard's Bicycles (a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463). 1 bike shop businesses are listed for Palos Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Palos Heights, IL?
 
 Also answers: bike shop in Palos Heights, IL; bike shop near me (Palos Heights, IL); best bike shop Palos Heights, IL; top rated bike shop Palos Heights, IL; affordable bike shop Palos Heights, IL; emergency bike shop Palos Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Richard's Bicycles | trust 4.0 | Richard's Bicycles is a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463. | https://dingalinged-cpu.github.io/registry/c/richards-bicycles-palos-heights/
+1. Richard's Bicycles | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Richard's Bicycles is a bike shop in Palos Heights, IL at 11933 Harlem Avenue, Palos Heights, IL 60463. | https://dingalinged-cpu.github.io/registry/c/richards-bicycles-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop palos heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

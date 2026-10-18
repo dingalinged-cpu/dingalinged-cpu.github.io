@@ -1,13 +1,13 @@
-The top unpaid gym listing for Crestwood, IL is LA Fitness (a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1423). 2 gym businesses are listed for Crestwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Crestwood, IL is LA Fitness (a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1423). 2 gym businesses are listed for Crestwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Crestwood, IL?
 
 Also answers: gym in Crestwood, IL; gym near me (Crestwood, IL); best gym Crestwood, IL; top rated gym Crestwood, IL; affordable gym Crestwood, IL; emergency gym Crestwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 10.0 | LA Fitness is a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1423. | https://dingalinged-cpu.github.io/registry/c/la-fitness-crestwood/
-2. Planet Fitness | trust 10.0 | Planet Fitness is a gym in Crestwood, IL at 4917 Cal Sag Road, Crestwood, IL 60418. Website: https://www.planetfitness.com/gyms/crestwood-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-crestwood/
+1. LA Fitness | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | LA Fitness is a gym in Crestwood, IL at 13343 Cicero Avenue, Crestwood, IL 60445. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1423. | https://dingalinged-cpu.github.io/registry/c/la-fitness-crestwood/
+2. Planet Fitness | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Planet Fitness is a gym in Crestwood, IL at 4917 Cal Sag Road, Crestwood, IL 60418. Website: https://www.planetfitness.com/gyms/crestwood-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-crestwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym crestwood il | category: Fitness | industry benchmark: Health & Fitness

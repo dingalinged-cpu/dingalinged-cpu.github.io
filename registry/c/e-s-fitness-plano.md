@@ -13,7 +13,7 @@ EōS Fitness is a gym in Plano, TX at 3500 Preston Road #100, Plano, TX 75093. P
 - Website: https://eosfitness.com/gym/plano-preston-rd-w-parker-rd/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 59% of gyms in Dallas–Fort Worth, #18 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

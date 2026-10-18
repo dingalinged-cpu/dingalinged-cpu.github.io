@@ -13,7 +13,7 @@ Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldora
 - Website: https://childrenslighthouse.com/frisco
 - Email: PantherCreek@ChildrensLighthouse.com
 - Opening hours (OSM syntax): 06:30-18:30
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of daycares in Dallas–Fort Worth, #1 of 3 daycares in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

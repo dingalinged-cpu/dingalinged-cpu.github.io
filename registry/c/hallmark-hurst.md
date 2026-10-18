@@ -13,7 +13,7 @@ Hallmark is a gift shop in Hurst, TX at 1404 West Pipeline Road, Hurst, TX 76053
 - Website: https://stores.hallmark.com/tx/hurst/amys-hallmark-shop-hurst-tx-067679.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00, Su 12:00-06:00
-- Registry Score: 52.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 73% of gift shops in Dallas–Fort Worth, #1 of 1 gift shops in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

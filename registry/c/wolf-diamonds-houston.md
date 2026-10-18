@@ -13,7 +13,7 @@ Wolf Diamonds is a jewelry store in Houston, TX at 1777 Sage Road, Houston, TX. 
 - Website: https://www.wolfdiamondsjewelrystorehouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 14% of jewelry stores in Houston, #13 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

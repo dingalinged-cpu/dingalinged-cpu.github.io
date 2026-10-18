@@ -13,7 +13,7 @@ Bright Orthodontics Katy is a dentist in Katy, TX at 810 South Mason Road #290, 
 - Website: https://www.brightbraces.com/
 - Email: info@brightbraces.com
 - Opening hours (OSM syntax): Mo,Tu,Th 08:30-17:00; We 08:30-12:30; Fr 07:30-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of dentists in Houston, #3 of 17 dentists in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

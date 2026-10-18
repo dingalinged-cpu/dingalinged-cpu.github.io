@@ -13,7 +13,7 @@ Rockwall Injury Rehab is a chiropractor in Rockwall, TX at 2920 Ridge Road, Rock
 - Website: https://allinjuryrehab.com/clinic/chiropractors-in-rockwall-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:30
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 84% of chiropractors in Dallas–Fort Worth, #8 of 10 chiropractors in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

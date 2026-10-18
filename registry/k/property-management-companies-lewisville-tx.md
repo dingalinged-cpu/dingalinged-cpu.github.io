@@ -1,13 +1,13 @@
-The top unpaid property management companies listing for Lewisville, TX is OakForest (a property management company in Lewisville, TX. Phone: +19726364070). 2 property management companies businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management companies listing for Lewisville, TX is OakForest (a property management company in Lewisville, TX. Phone: +19726364070). 2 property management companies businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management companies providers in Lewisville, TX?
 
 Also answers: property management companies in Lewisville, TX; property management companies near me (Lewisville, TX); best property management companies Lewisville, TX; top rated property management companies Lewisville, TX; affordable property management companies Lewisville, TX; emergency property management companies Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. OakForest | trust 10.0 | OakForest is a property management company in Lewisville, TX. Phone: +19726364070. | https://dingalinged-cpu.github.io/registry/c/oakforest-lewisville/
-2. Vue Castle Apartments | trust 4.0 | Vue Castle Apartments is a property management company in Lewisville, TX at 5500 State Hwy 121, Lewisville, TX 75056. | https://dingalinged-cpu.github.io/registry/c/vue-castle-apartments-lewisville/
+1. OakForest | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | OakForest is a property management company in Lewisville, TX. Phone: +19726364070. | https://dingalinged-cpu.github.io/registry/c/oakforest-lewisville/
+2. Vue Castle Apartments | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Vue Castle Apartments is a property management company in Lewisville, TX at 5500 State Hwy 121, Lewisville, TX 75056. | https://dingalinged-cpu.github.io/registry/c/vue-castle-apartments-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies lewisville tx | category: real_estate | industry benchmark: Real Estate

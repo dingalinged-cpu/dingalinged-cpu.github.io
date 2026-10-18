@@ -1,13 +1,13 @@
-The top unpaid tax preparer listing for Tucker, GA is H&R Block (a tax preparation service in Tucker, GA). 2 tax preparer businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Tucker, GA is Jackson Hewitt (a tax preparation service in Tucker, GA). 2 tax preparer businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Tucker, GA?
 
 Also answers: tax preparer in Tucker, GA; tax preparer near me (Tucker, GA); best tax preparer Tucker, GA; top rated tax preparer Tucker, GA; affordable tax preparer Tucker, GA; emergency tax preparer Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-tucker/
-2. Jackson Hewitt | trust 0.0 | Jackson Hewitt is a tax preparation service in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-tucker/
+1. Jackson Hewitt | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-tucker/
+2. H&R Block | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | H&R Block is a tax preparation service in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer tucker ga | category: professional_accounting | industry benchmark: Business Services

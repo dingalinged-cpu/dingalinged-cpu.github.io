@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Town Of Brookfield, WI is AAA Insurance (an insurance agent in Town of Brookfield, WI). 1 insurance agent businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Town Of Brookfield, WI is AAA Insurance (an insurance agent in Town of Brookfield, WI). 1 insurance agent businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Town Of Brookfield, WI?
 
 Also answers: insurance agent in Town Of Brookfield, WI; insurance agent near me (Town Of Brookfield, WI); best insurance agent Town Of Brookfield, WI; top rated insurance agent Town Of Brookfield, WI; affordable insurance agent Town Of Brookfield, WI; emergency insurance agent Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Insurance | trust 0.0 | AAA Insurance is an insurance agent in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-town-of-brookfield/
+1. AAA Insurance | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | AAA Insurance is an insurance agent in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent town of brookfield wi | category: Professional & financial services | industry benchmark: Finance & Insurance

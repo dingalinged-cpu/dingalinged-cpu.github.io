@@ -13,7 +13,7 @@ Legacy North is a property management company in Plano, TX at 5765 Bozeman Drive
 - Website: https://www.legacynorthapts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su 13:00-17:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of property management companys in Dallas–Fort Worth, #1 of 6 property management companys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

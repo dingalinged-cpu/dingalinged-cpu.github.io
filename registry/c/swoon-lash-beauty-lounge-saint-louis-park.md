@@ -13,7 +13,7 @@ Swoon Lash + Beauty Lounge is a hair salon in Saint Louis Park, MN at 6610 West 
 - Website: https://swoonbeautylounge.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 41% of hair salons in Minneapolis–St. Paul, #15 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

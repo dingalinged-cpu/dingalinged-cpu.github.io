@@ -1,12 +1,12 @@
-The top unpaid massage listing for Mount Pleasant, WI is Massage Wellness Center (a massage studio in Mount Pleasant, WI at 6211 Durand Avenue #101, Mount Pleasant, WI). 1 massage businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Mount Pleasant, WI is Massage Wellness Center (a massage studio in Mount Pleasant, WI at 6211 Durand Avenue #101, Mount Pleasant, WI). 1 massage businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Mount Pleasant, WI?
 
 Also answers: massage in Mount Pleasant, WI; massage near me (Mount Pleasant, WI); best massage Mount Pleasant, WI; top rated massage Mount Pleasant, WI; affordable massage Mount Pleasant, WI; emergency massage Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Wellness Center | trust 3.0 | Massage Wellness Center is a massage studio in Mount Pleasant, WI at 6211 Durand Avenue #101, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/massage-wellness-center-mount-pleasant/
+1. Massage Wellness Center | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Massage Wellness Center is a massage studio in Mount Pleasant, WI at 6211 Durand Avenue #101, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/massage-wellness-center-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage mount pleasant wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

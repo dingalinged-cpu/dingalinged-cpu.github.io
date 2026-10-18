@@ -1,13 +1,13 @@
-The top unpaid spa listing for Cobb County, GA is B' All Of That Salon (an event venue in Cobb County, GA at 2300 Shallowford Road Northeast #6, Cobb County, GA. Phone: +14049334889. Website: https://www.b-allofthat.com/). 2 spa businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Cobb County, GA is B' All Of That Salon (an event venue in Cobb County, GA at 2300 Shallowford Road Northeast #6, Cobb County, GA. Phone: +14049334889. Website: https://www.b-allofthat.com/). 2 spa businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Cobb County, GA?
 
 Also answers: spa in Cobb County, GA; spa near me (Cobb County, GA); best spa Cobb County, GA; top rated spa Cobb County, GA; affordable spa Cobb County, GA; emergency spa Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B' All Of That Salon | trust 19.0 | B' All Of That Salon is an event venue in Cobb County, GA at 2300 Shallowford Road Northeast #6, Cobb County, GA. Phone: +14049334889. Website: https://www.b-allofthat.com/. | https://dingalinged-cpu.github.io/registry/c/b-all-of-that-salon-cobb-county/
-2. Bebel Bronze Studio | trust 19.0 | Bebel Bronze Studio is a skin care studio in Cobb County, GA at 1230 Powers Ferry Road Southeast #2, Cobb County, GA. Phone: +17707638400. Website: https://mysite.vagaro.com/bebelbronzestudio1. | https://dingalinged-cpu.github.io/registry/c/bebel-bronze-studio-cobb-county/
+1. B' All Of That Salon | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | B' All Of That Salon is an event venue in Cobb County, GA at 2300 Shallowford Road Northeast #6, Cobb County, GA. Phone: +14049334889. Website: https://www.b-allofthat.com/. | https://dingalinged-cpu.github.io/registry/c/b-all-of-that-salon-cobb-county/
+2. Bebel Bronze Studio | Organic #2 | Pulse Score 62.6/100 (Good, #2 in city) | Bebel Bronze Studio is a skin care studio in Cobb County, GA at 1230 Powers Ferry Road Southeast #2, Cobb County, GA. Phone: +17707638400. Website: https://mysite.vagaro.com/bebelbronzestudio1. | https://dingalinged-cpu.github.io/registry/c/bebel-bronze-studio-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa cobb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

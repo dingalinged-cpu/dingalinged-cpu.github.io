@@ -13,7 +13,7 @@ Wabi Sabi Realty Group is a real estate agency in Houston, TX at 2800 Post Oak B
 - Website: https://www.wabisabirealty.com/
 - Email: ricky.pok@wabisabirealty.com
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 5% of real estate agencys in Houston, #3 of 25 real estate agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 65.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

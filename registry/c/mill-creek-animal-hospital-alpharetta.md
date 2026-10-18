@@ -13,7 +13,7 @@ Mill Creek Animal Hospital is a veterinarian in Alpharetta, GA at 10100 Jones Br
 - Website: https://www.millcreekvet.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 08:30-12:30; PH unknown
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 34% of veterinarians in Atlanta, #5 of 6 veterinarians in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

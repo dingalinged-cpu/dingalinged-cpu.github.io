@@ -13,7 +13,7 @@ ELITE MED URGENT CARE PLLC is an urgent care clinic in Hickory Hills, IL at 9634
 - Website: https://elitemedurgentcare.com/
 - Email: elitemedurgentcare@gmail.com
 - Opening hours (OSM syntax): Mo-Su 08:00-22:00
-- Registry Score: 66.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 8% of urgent care clinics in Chicago, #1 of 1 urgent care clinics in Hickory Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

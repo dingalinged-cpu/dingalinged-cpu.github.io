@@ -1,12 +1,12 @@
-The top unpaid tile installation listing for North Richland Hills, TX is It's Your Floor Granite & Remodeling (a tile installer in North Richland Hills, TX at 7716 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175147522. Website: https://www.itsyourfloor.com/). 1 tile installation businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tile installation listing for North Richland Hills, TX is It's Your Floor Granite & Remodeling (a tile installer in North Richland Hills, TX at 7716 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175147522. Website: https://www.itsyourfloor.com/). 1 tile installation businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tile installation providers in North Richland Hills, TX?
 
 Also answers: tile installation in North Richland Hills, TX; tile installation near me (North Richland Hills, TX); best tile installation North Richland Hills, TX; top rated tile installation North Richland Hills, TX; affordable tile installation North Richland Hills, TX; emergency tile installation North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. It's Your Floor Granite & Remodeling | trust 16.0 | It's Your Floor Granite & Remodeling is a tile installer in North Richland Hills, TX at 7716 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175147522. Website: https://www.itsyourfloor.com/. | https://dingalinged-cpu.github.io/registry/c/its-your-floor-granite-and-remodeling-north-richland-hills/
+1. It's Your Floor Granite & Remodeling | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | It's Your Floor Granite & Remodeling is a tile installer in North Richland Hills, TX at 7716 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18175147522. Website: https://www.itsyourfloor.com/. | https://dingalinged-cpu.github.io/registry/c/its-your-floor-granite-and-remodeling-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tile installation north richland hills tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

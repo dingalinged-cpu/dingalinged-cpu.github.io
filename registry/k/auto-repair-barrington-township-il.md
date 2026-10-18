@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Barrington Township, IL is Higgins Automotive (an auto repair shop in Barrington Township, IL). 1 auto repair businesses are listed for Barrington Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Barrington Township, IL is Higgins Automotive (an auto repair shop in Barrington Township, IL). 1 auto repair businesses are listed for Barrington Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Barrington Township, IL?
 
 Also answers: auto repair in Barrington Township, IL; auto repair near me (Barrington Township, IL); best auto repair Barrington Township, IL; top rated auto repair Barrington Township, IL; affordable auto repair Barrington Township, IL; emergency auto repair Barrington Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Higgins Automotive | trust 0.0 | Higgins Automotive is an auto repair shop in Barrington Township, IL. | https://dingalinged-cpu.github.io/registry/c/higgins-automotive-barrington-township/
+1. Higgins Automotive | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Higgins Automotive is an auto repair shop in Barrington Township, IL. | https://dingalinged-cpu.github.io/registry/c/higgins-automotive-barrington-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair barrington township il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

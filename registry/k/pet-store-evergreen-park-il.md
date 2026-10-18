@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Evergreen Park, IL is Petco (a pet store in Evergreen Park, IL at 9670 South Western Avenue, Evergreen Park, IL 60805. Phone: +17089074297. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1990.html). 2 pet store businesses are listed for Evergreen Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Evergreen Park, IL is PetSmart (a pet store in Evergreen Park, IL at 2603 West 95th Street, Evergreen Park, IL 60805. Phone: +17084599112. Website: https://www.petsmart.com/stores/us/il/evergreen-park-store2310.html). 2 pet store businesses are listed for Evergreen Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Evergreen Park, IL?
 
 Also answers: pet store in Evergreen Park, IL; pet store near me (Evergreen Park, IL); best pet store Evergreen Park, IL; top rated pet store Evergreen Park, IL; affordable pet store Evergreen Park, IL; emergency pet store Evergreen Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Evergreen Park, IL at 9670 South Western Avenue, Evergreen Park, IL 60805. Phone: +17089074297. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1990.html. | https://dingalinged-cpu.github.io/registry/c/petco-evergreen-park/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Evergreen Park, IL at 2603 West 95th Street, Evergreen Park, IL 60805. Phone: +17084599112. Website: https://www.petsmart.com/stores/us/il/evergreen-park-store2310.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-evergreen-park/
+1. PetSmart | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | PetSmart is a pet store in Evergreen Park, IL at 2603 West 95th Street, Evergreen Park, IL 60805. Phone: +17084599112. Website: https://www.petsmart.com/stores/us/il/evergreen-park-store2310.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-evergreen-park/
+2. Petco | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Petco is a pet store in Evergreen Park, IL at 9670 South Western Avenue, Evergreen Park, IL 60805. Phone: +17089074297. Website: https://stores.petco.com/il/chicago/pet-supplies-chicago-il-1990.html. | https://dingalinged-cpu.github.io/registry/c/petco-evergreen-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store evergreen park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

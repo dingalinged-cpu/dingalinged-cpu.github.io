@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Muskego, WI is Jiffy Lube (an auto repair shop in Muskego, WI at W15890 Commerce Center Parkway, Muskego, WI. Website: https://www.jiffylube.com/locations/wi/muskego/3964). 1 auto repair businesses are listed for Muskego, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Muskego, WI is Jiffy Lube (an auto repair shop in Muskego, WI at W15890 Commerce Center Parkway, Muskego, WI. Website: https://www.jiffylube.com/locations/wi/muskego/3964). 1 auto repair businesses are listed for Muskego, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Muskego, WI?
 
 Also answers: auto repair in Muskego, WI; auto repair near me (Muskego, WI); best auto repair Muskego, WI; top rated auto repair Muskego, WI; affordable auto repair Muskego, WI; emergency auto repair Muskego, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 9.0 | Jiffy Lube is an auto repair shop in Muskego, WI at W15890 Commerce Center Parkway, Muskego, WI. Website: https://www.jiffylube.com/locations/wi/muskego/3964. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-muskego/
+1. Jiffy Lube | Organic #1 | Pulse Score 45.9/100 (Building, #1 in city) | Jiffy Lube is an auto repair shop in Muskego, WI at W15890 Commerce Center Parkway, Muskego, WI. Website: https://www.jiffylube.com/locations/wi/muskego/3964. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-muskego/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair muskego wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

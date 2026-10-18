@@ -1,14 +1,14 @@
-The top unpaid gym listing for Carol Stream, IL is Retro Fitness (a gym in Carol Stream, IL at 608 East North Avenue, Carol Stream, IL 60188. Phone: +16309236567. Website: https://www.retrofitness.com/location/carolstreamil). 3 gym businesses are listed for Carol Stream, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Carol Stream, IL is Retro Fitness (a gym in Carol Stream, IL at 608 East North Avenue, Carol Stream, IL 60188. Phone: +16309236567. Website: https://www.retrofitness.com/location/carolstreamil). 3 gym businesses are listed for Carol Stream, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Carol Stream, IL?
 
 Also answers: gym in Carol Stream, IL; gym near me (Carol Stream, IL); best gym Carol Stream, IL; top rated gym Carol Stream, IL; affordable gym Carol Stream, IL; emergency gym Carol Stream, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Retro Fitness | trust 20.0 | Retro Fitness is a gym in Carol Stream, IL at 608 East North Avenue, Carol Stream, IL 60188. Phone: +16309236567. Website: https://www.retrofitness.com/location/carolstreamil. | https://dingalinged-cpu.github.io/registry/c/retro-fitness-carol-stream/
-2. Charter Fitness | trust 0.0 | Charter Fitness is a gym in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/charter-fitness-carol-stream/
-3. LA Fitness | trust 0.0 | LA Fitness is a gym in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-carol-stream/
+1. Retro Fitness | Organic #1 | Pulse Score 49.7/100 (Building, #1 in city) | Retro Fitness is a gym in Carol Stream, IL at 608 East North Avenue, Carol Stream, IL 60188. Phone: +16309236567. Website: https://www.retrofitness.com/location/carolstreamil. | https://dingalinged-cpu.github.io/registry/c/retro-fitness-carol-stream/
+2. Charter Fitness | Organic #2 | Pulse Score 42.2/100 (Unrated, #2 in city) | Charter Fitness is a gym in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/charter-fitness-carol-stream/
+3. LA Fitness | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | LA Fitness is a gym in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-carol-stream/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym carol stream il | category: Fitness | industry benchmark: Health & Fitness

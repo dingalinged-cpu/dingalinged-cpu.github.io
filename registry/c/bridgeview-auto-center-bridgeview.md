@@ -13,7 +13,7 @@ Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem A
 - Website: https://www.bridgeviewautocenter.com/
 - Email: bridgeviewauto@sbcglobal.net
 - Opening hours (OSM syntax): Sa-Su CLOSED, Mo-Fr 07:30-17:00
-- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 1% of auto repair shops in Chicago, #1 of 4 auto repair shops in Bridgeview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

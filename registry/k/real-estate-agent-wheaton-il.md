@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Wheaton, IL is Perkins & Zayed PC (a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/). 1 real estate agent businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Wheaton, IL is Perkins & Zayed PC (a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/). 1 real estate agent businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Wheaton, IL?
 
 Also answers: real estate agent in Wheaton, IL; real estate agent near me (Wheaton, IL); best real estate agent Wheaton, IL; top rated real estate agent Wheaton, IL; affordable real estate agent Wheaton, IL; emergency real estate agent Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Perkins & Zayed PC | trust 16.0 | Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/. | https://dingalinged-cpu.github.io/registry/c/perkins-and-zayed-pc-wheaton/
+1. Perkins & Zayed PC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Naperville Road #200, Wheaton, IL 60189. Phone: +16306652300. Website: https://www.trust-lawgroup.com/. | https://dingalinged-cpu.github.io/registry/c/perkins-and-zayed-pc-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent wheaton il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ t lee custom design jewelry is a jewelry store in Minneapolis, MN at 509 1/2 Nor
 - Website: https://www.tleegold.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00; PH closed
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.6/100 — Unrated (not enough evidence yet) — top 38% of jewelry stores in Minneapolis–St. Paul, #8 of 18 jewelry stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

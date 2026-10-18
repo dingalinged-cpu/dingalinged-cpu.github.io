@@ -13,7 +13,7 @@ Paul's Bicycle Shop is a bike shop in Shakopee, MN at 120 Holmes Street South, S
 - Website: https://www.paulsbicyclerepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00
-- Registry Score: 58.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 32% of bike shops in Minneapolis–St. Paul, #1 of 1 bike shops in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.1, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

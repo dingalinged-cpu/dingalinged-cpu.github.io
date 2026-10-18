@@ -1,13 +1,13 @@
-The top unpaid dog boarding listing for Addison, TX is Pappy's Pet Lodge (a dog boarding facility in Addison, TX at 15530 Quorum Drive, Addison, TX 75001. Phone: +19722900485. Website: https://pappyspetlodge.com/). 2 dog boarding businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Addison, TX is Yard Dog (a dog boarding facility in Addison, TX at 15003 Inwood Road, Addison, TX 75001. Website: https://www.theyarddog.com/). 2 dog boarding businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Addison, TX?
 
 Also answers: dog boarding in Addison, TX; dog boarding near me (Addison, TX); best dog boarding Addison, TX; top rated dog boarding Addison, TX; affordable dog boarding Addison, TX; emergency dog boarding Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pappy's Pet Lodge | trust 16.0 | Pappy's Pet Lodge is a dog boarding facility in Addison, TX at 15530 Quorum Drive, Addison, TX 75001. Phone: +19722900485. Website: https://pappyspetlodge.com/. | https://dingalinged-cpu.github.io/registry/c/pappys-pet-lodge-addison/
-2. Yard Dog | trust 10.0 | Yard Dog is a dog boarding facility in Addison, TX at 15003 Inwood Road, Addison, TX 75001. Website: https://www.theyarddog.com/. | https://dingalinged-cpu.github.io/registry/c/yard-dog-addison/
+1. Yard Dog | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Yard Dog is a dog boarding facility in Addison, TX at 15003 Inwood Road, Addison, TX 75001. Website: https://www.theyarddog.com/. | https://dingalinged-cpu.github.io/registry/c/yard-dog-addison/
+2. Pappy's Pet Lodge | Organic #2 | Pulse Score 48.2/100 (Unrated, #2 in city) | Pappy's Pet Lodge is a dog boarding facility in Addison, TX at 15530 Quorum Drive, Addison, TX 75001. Phone: +19722900485. Website: https://pappyspetlodge.com/. | https://dingalinged-cpu.github.io/registry/c/pappys-pet-lodge-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding addison tx | category: Pets | industry benchmark: Animals & Pets

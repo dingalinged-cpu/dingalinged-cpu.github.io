@@ -13,7 +13,7 @@ Pinnacle Health + Fitness is a gym in Madison, WI at 44 East Mifflin Street, Mad
 - Website: https://www.phfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-23:00; Fr 05:00-21:00; Sa-Su 06:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 4% of gyms in Madison, #2 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

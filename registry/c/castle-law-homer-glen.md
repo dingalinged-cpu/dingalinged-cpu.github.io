@@ -13,7 +13,7 @@ Castle Law is a lawyer in Homer Glen, IL at 13963 South Bell Road, Homer Glen, I
 - Website: https://www.castlelaw.com/Contact.shtml
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 51% of lawyers in Chicago, #1 of 2 lawyers in Homer Glen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Royse City, TX is Ronnie’s Dry Clean Center (a dry cleaner in Royse City, TX at 140 West Main Street, Royse City, TX 75189). 1 dry cleaners businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Royse City, TX is Ronnie’s Dry Clean Center (a dry cleaner in Royse City, TX at 140 West Main Street, Royse City, TX 75189). 1 dry cleaners businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Royse City, TX?
 
 Also answers: dry cleaners in Royse City, TX; dry cleaners near me (Royse City, TX); best dry cleaners Royse City, TX; top rated dry cleaners Royse City, TX; affordable dry cleaners Royse City, TX; emergency dry cleaners Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ronnie’s Dry Clean Center | trust 4.0 | Ronnie’s Dry Clean Center is a dry cleaner in Royse City, TX at 140 West Main Street, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/ronnie-s-dry-clean-center-royse-city/
+1. Ronnie’s Dry Clean Center | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Ronnie’s Dry Clean Center is a dry cleaner in Royse City, TX at 140 West Main Street, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/ronnie-s-dry-clean-center-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners royse city tx | category: Professional & financial services | industry benchmark: Finance & Insurance

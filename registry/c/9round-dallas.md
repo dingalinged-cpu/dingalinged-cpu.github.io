@@ -13,7 +13,7 @@
 - Website: https://www.9round.com/locations/tx/dallas/mockingbird-station
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-13:30,15:30-20:00; Sa 08:00-14:00
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 91% of martial arts schools in Dallas–Fort Worth, #7 of 7 martial arts schools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

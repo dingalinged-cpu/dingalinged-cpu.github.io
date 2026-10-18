@@ -13,7 +13,7 @@ Charter Furniture Rental is a furniture store in Addison, TX at 4181 Centurion W
 - Website: https://charterfurnituresolutions.com/rental/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 6% of furniture stores in Dallas–Fort Worth, #2 of 4 furniture stores in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

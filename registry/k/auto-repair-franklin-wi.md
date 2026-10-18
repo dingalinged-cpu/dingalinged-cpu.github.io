@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Franklin, WI is Franklin Automotive & Restoration (an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/). 4 auto repair businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Franklin, WI is Franklin Automotive & Restoration (an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/). 4 auto repair businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Franklin, WI?
 
 Also answers: auto repair in Franklin, WI; auto repair near me (Franklin, WI); best auto repair Franklin, WI; top rated auto repair Franklin, WI; affordable auto repair Franklin, WI; emergency auto repair Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Franklin Automotive & Restoration | trust 20.0 | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
-2. Caliber Collision | trust 4.0 | Caliber Collision is an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-franklin/
-3. Root River Auto Body Shop | trust 4.0 | Root River Auto Body Shop is an auto repair shop in Franklin, WI at 8595 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/root-river-auto-body-shop-franklin/
-4. S & S Auto Repair & Detailing | trust 4.0 | S & S Auto Repair & Detailing is an auto repair shop in Franklin, WI at 8853 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/s-and-s-auto-repair-and-detailing-franklin/
+1. Franklin Automotive & Restoration | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
+2. Root River Auto Body Shop | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Root River Auto Body Shop is an auto repair shop in Franklin, WI at 8595 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/root-river-auto-body-shop-franklin/
+3. S & S Auto Repair & Detailing | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | S & S Auto Repair & Detailing is an auto repair shop in Franklin, WI at 8853 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/s-and-s-auto-repair-and-detailing-franklin/
+4. Caliber Collision | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Caliber Collision is an auto repair shop in Franklin, WI at 5525 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair franklin wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

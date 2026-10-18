@@ -13,7 +13,7 @@ Off The Top is a barber shop in Webster, TX at 578 El Dorado Boulevard, Webster,
 - Website: https://www.off-the-top-barbershop.com/
 - Email: offthetop.clearlake@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 3% of barber shops in Houston, #1 of 1 barber shops in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

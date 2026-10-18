@@ -13,7 +13,7 @@ Beidelman Furniture is a furniture store in Naperville, IL at 239 South Washingt
 - Website: https://www.beidelmanfurniture.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Fr 11:00-19:00; Tu, We, Sa 11:00-18:00; Th 11:00-20:00; Su 12:00-16:00
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 2% of furniture stores in Chicago, #1 of 3 furniture stores in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

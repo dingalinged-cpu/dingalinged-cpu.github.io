@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Trophy Club, TX is Great Clips (a hair salon in Trophy Club, TX at 301 Trophy Lake Drive #100, Trophy Club, TX 76262. Phone: +18174908882. Website: https://www.greatclips.com/salons/4949). 1 hair salon businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Trophy Club, TX is Great Clips (a hair salon in Trophy Club, TX at 301 Trophy Lake Drive #100, Trophy Club, TX 76262. Phone: +18174908882. Website: https://www.greatclips.com/salons/4949). 1 hair salon businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Trophy Club, TX?
 
 Also answers: hair salon in Trophy Club, TX; hair salon near me (Trophy Club, TX); best hair salon Trophy Club, TX; top rated hair salon Trophy Club, TX; affordable hair salon Trophy Club, TX; emergency hair salon Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 20.0 | Great Clips is a hair salon in Trophy Club, TX at 301 Trophy Lake Drive #100, Trophy Club, TX 76262. Phone: +18174908882. Website: https://www.greatclips.com/salons/4949. | https://dingalinged-cpu.github.io/registry/c/great-clips-trophy-club/
+1. Great Clips | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Great Clips is a hair salon in Trophy Club, TX at 301 Trophy Lake Drive #100, Trophy Club, TX 76262. Phone: +18174908882. Website: https://www.greatclips.com/salons/4949. | https://dingalinged-cpu.github.io/registry/c/great-clips-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon trophy club tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

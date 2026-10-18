@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for New Hope, MN is Gill Brothers Funeral Chapel (a funeral home in New Hope, MN at 7300 42nd Avenue North, New Hope, MN 55428). 1 funeral home businesses are listed for New Hope, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for New Hope, MN is Gill Brothers Funeral Chapel (a funeral home in New Hope, MN at 7300 42nd Avenue North, New Hope, MN 55428). 1 funeral home businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in New Hope, MN?
 
 Also answers: funeral home in New Hope, MN; funeral home near me (New Hope, MN); best funeral home New Hope, MN; top rated funeral home New Hope, MN; affordable funeral home New Hope, MN; emergency funeral home New Hope, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gill Brothers Funeral Chapel | trust 4.0 | Gill Brothers Funeral Chapel is a funeral home in New Hope, MN at 7300 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/gill-brothers-funeral-chapel-new-hope/
+1. Gill Brothers Funeral Chapel | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Gill Brothers Funeral Chapel is a funeral home in New Hope, MN at 7300 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/gill-brothers-funeral-chapel-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home new hope mn | category: Professional & financial services | industry benchmark: Finance & Insurance

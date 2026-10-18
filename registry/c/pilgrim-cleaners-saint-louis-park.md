@@ -13,7 +13,7 @@ Pilgrim Cleaners is a dry cleaner in Saint Louis Park, MN at 4120 Minnetonka Bou
 - Website: https://www.pilgrimdrycleaners.com/locations/st-louis-park
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 71% of dry cleaners in Minneapolis–St. Paul, #4 of 5 dry cleaners in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

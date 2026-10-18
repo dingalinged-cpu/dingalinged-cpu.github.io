@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Wheaton, IL is Marquiz Salons & Spa (a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/). 6 hair salon businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Wheaton, IL is Marquiz Salons & Spa (a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/). 6 hair salon businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Wheaton, IL?
 
 Also answers: hair salon in Wheaton, IL; hair salon near me (Wheaton, IL); best hair salon Wheaton, IL; top rated hair salon Wheaton, IL; affordable hair salon Wheaton, IL; emergency hair salon Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marquiz Salons & Spa | trust 16.0 | Marquiz Salons & Spa is a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/. | https://dingalinged-cpu.github.io/registry/c/marquiz-salons-and-spa-wheaton/
-2. 209 | trust 0.0 | 209 is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/209-wheaton/
-3. Barber Shop | trust 0.0 | Barber Shop is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-wheaton/
-5. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton/
-6. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton-n11188198671/
+1. Marquiz Salons & Spa | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Marquiz Salons & Spa is a hair salon in Wheaton, IL at 222 West Front Street, Wheaton, IL 60187. Phone: +16306535256. Website: https://www.marquizsalon.net/. | https://dingalinged-cpu.github.io/registry/c/marquiz-salons-and-spa-wheaton/
+2. 209 | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | 209 is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/209-wheaton/
+3. Sport Clips | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton-n11188198671/
+4. Barber Shop | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Barber Shop is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/barber-shop-wheaton/
+5. Great Clips | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Great Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-wheaton/
+6. Sport Clips | Organic #6 | Pulse Score 42.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon wheaton il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

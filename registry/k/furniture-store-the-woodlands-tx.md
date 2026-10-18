@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for The Woodlands, TX is Havertys (a furniture store in The Woodlands, TX at 1560 Lake Woodlands Drive, The Woodlands, TX). 4 furniture store businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for The Woodlands, TX is Havertys (a furniture store in The Woodlands, TX at 1560 Lake Woodlands Drive, The Woodlands, TX). 4 furniture store businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in The Woodlands, TX?
 
 Also answers: furniture store in The Woodlands, TX; furniture store near me (The Woodlands, TX); best furniture store The Woodlands, TX; top rated furniture store The Woodlands, TX; affordable furniture store The Woodlands, TX; emergency furniture store The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Havertys | trust 3.0 | Havertys is a furniture store in The Woodlands, TX at 1560 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-the-woodlands/
-2. Arhaus | trust 0.0 | Arhaus is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/arhaus-the-woodlands/
-3. La-Z-Boy | trust 0.0 | La-Z-Boy is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-the-woodlands/
-4. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-the-woodlands/
+1. Havertys | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Havertys is a furniture store in The Woodlands, TX at 1560 Lake Woodlands Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-the-woodlands/
+2. Pottery Barn | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | Pottery Barn is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-the-woodlands/
+3. La-Z-Boy | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | La-Z-Boy is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-the-woodlands/
+4. Arhaus | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Arhaus is a furniture store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/arhaus-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store the woodlands tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

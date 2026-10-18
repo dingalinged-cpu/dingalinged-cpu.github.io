@@ -13,7 +13,7 @@ INTEC is an insulation contractor in Milwaukee, WI at 321 North 25th Street, Mil
 - Website: https://intecwi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 100% of insulation contractors in Milwaukee, #1 of 1 insulation contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

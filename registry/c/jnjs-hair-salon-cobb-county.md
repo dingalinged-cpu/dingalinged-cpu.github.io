@@ -13,7 +13,7 @@ Jnj's Hair Salon is a hair salon in Cobb County, GA at 2464 Canton Road, Cobb Co
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 33% of hair salons in Atlanta, #47 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 51.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

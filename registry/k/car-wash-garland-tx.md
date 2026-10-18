@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Garland, TX is WhiteWater Express Car Wash (a car wash in Garland, TX at 3331 Arapaho Road, Garland, TX). 4 car wash businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Garland, TX is Miller Car Wash (a car wash in Garland, TX). 4 car wash businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Garland, TX?
 
 Also answers: car wash in Garland, TX; car wash near me (Garland, TX); best car wash Garland, TX; top rated car wash Garland, TX; affordable car wash Garland, TX; emergency car wash Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WhiteWater Express Car Wash | trust 3.0 | WhiteWater Express Car Wash is a car wash in Garland, TX at 3331 Arapaho Road, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-garland/
-2. Miller Car Wash | trust 0.0 | Miller Car Wash is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/miller-car-wash-garland/
-3. The Bubble Zone  Car Wash & Lube Center | trust 0.0 | The Bubble Zone  Car Wash & Lube Center is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/the-bubble-zone-car-wash-and-lube-center-garland/
-4. Ultimate Car Wash | trust 0.0 | Ultimate Car Wash is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/ultimate-car-wash-garland/
+1. Miller Car Wash | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Miller Car Wash is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/miller-car-wash-garland/
+2. The Bubble Zone  Car Wash & Lube Center | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | The Bubble Zone  Car Wash & Lube Center is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/the-bubble-zone-car-wash-and-lube-center-garland/
+3. Ultimate Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Ultimate Car Wash is a car wash in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/ultimate-car-wash-garland/
+4. WhiteWater Express Car Wash | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | WhiteWater Express Car Wash is a car wash in Garland, TX at 3331 Arapaho Road, Garland, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash garland tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

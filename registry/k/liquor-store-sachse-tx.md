@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Sachse, TX is Simply Liquor Sachse (a liquor store in Sachse, TX at 5120 State Highway 78 #500, Sachse, TX 75048. Phone: +14699296114. Website: https://holiq.store/simplyliquorsachse). 3 liquor store businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Sachse, TX is Simply Liquor Sachse (a liquor store in Sachse, TX at 5120 State Highway 78 #500, Sachse, TX 75048. Phone: +14699296114. Website: https://holiq.store/simplyliquorsachse). 3 liquor store businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Sachse, TX?
 
 Also answers: liquor store in Sachse, TX; liquor store near me (Sachse, TX); best liquor store Sachse, TX; top rated liquor store Sachse, TX; affordable liquor store Sachse, TX; emergency liquor store Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simply Liquor Sachse | trust 20.0 | Simply Liquor Sachse is a liquor store in Sachse, TX at 5120 State Highway 78 #500, Sachse, TX 75048. Phone: +14699296114. Website: https://holiq.store/simplyliquorsachse. | https://dingalinged-cpu.github.io/registry/c/simply-liquor-sachse-sachse/
-2. Spec's | trust 20.0 | Spec's is a liquor store in Sachse, TX at 4205 President George Bush Highway, Sachse, TX 75048. Phone: +19728400089. Website: https://specsonline.com/liquor-stores/dallas/sachse-gwb/. | https://dingalinged-cpu.github.io/registry/c/specs-sachse-w1454240784/
-3. Spec's | trust 3.0 | Spec's is a liquor store in Sachse, TX at 8110 South State Highway 78, Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/specs-sachse/
+1. Simply Liquor Sachse | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Simply Liquor Sachse is a liquor store in Sachse, TX at 5120 State Highway 78 #500, Sachse, TX 75048. Phone: +14699296114. Website: https://holiq.store/simplyliquorsachse. | https://dingalinged-cpu.github.io/registry/c/simply-liquor-sachse-sachse/
+2. Spec's | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Spec's is a liquor store in Sachse, TX at 4205 President George Bush Highway, Sachse, TX 75048. Phone: +19728400089. Website: https://specsonline.com/liquor-stores/dallas/sachse-gwb/. | https://dingalinged-cpu.github.io/registry/c/specs-sachse-w1454240784/
+3. Spec's | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Spec's is a liquor store in Sachse, TX at 8110 South State Highway 78, Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/specs-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store sachse tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

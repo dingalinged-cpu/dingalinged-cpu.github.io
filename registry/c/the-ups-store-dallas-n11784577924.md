@@ -13,7 +13,7 @@ The UPS Store is a printing service in Dallas, TX at 7150 Skillman Street #160, 
 - Website: https://locations.theupsstore.com/tx/dallas/7150-skillman-st
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 10:00-16:00; Su 11:00-16:00
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 38% of printing services in Dallas–Fort Worth, #8 of 20 printing services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Acme Roof Systems Inc is a roofer in North Richland Hills, TX at 9128 Belshire D
 - Website: https://acmeroofsystems.com/contact-us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-12:00
-- Registry Score: 52.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 57% of roofers in Dallas–Fort Worth, #5 of 6 roofers in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

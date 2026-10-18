@@ -13,7 +13,7 @@ The Lodge Barbershop is a barber shop in Southlake, TX at 1125 Davis Boulevard #
 - Website: https://thelodgebarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-18:00; Sa 08:00-13:30; Su,Mo off
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 27% of barber shops in Dallas–Fort Worth, #1 of 2 barber shops in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid barber shop listing for Roanoke, TX is Bazooka Charlie's (a barber shop in Roanoke, TX at North US Highway 377, Roanoke, TX). 3 barber shop businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Roanoke, TX is Bazooka Charlie's (a barber shop in Roanoke, TX at North US Highway 377, Roanoke, TX). 3 barber shop businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Roanoke, TX?
 
 Also answers: barber shop in Roanoke, TX; barber shop near me (Roanoke, TX); best barber shop Roanoke, TX; top rated barber shop Roanoke, TX; affordable barber shop Roanoke, TX; emergency barber shop Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bazooka Charlie's | trust 3.0 | Bazooka Charlie's is a barber shop in Roanoke, TX at North US Highway 377, Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/bazooka-charlies-roanoke/
-2. Men Of Action Haircuts | trust 0.0 | Men Of Action Haircuts is a barber shop in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/men-of-action-haircuts-roanoke/
-3. Mr. A Barbers | trust 0.0 | Mr. A Barbers is a barber shop in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/mr-a-barbers-roanoke/
+1. Bazooka Charlie's | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Bazooka Charlie's is a barber shop in Roanoke, TX at North US Highway 377, Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/bazooka-charlies-roanoke/
+2. Men Of Action Haircuts | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Men Of Action Haircuts is a barber shop in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/men-of-action-haircuts-roanoke/
+3. Mr. A Barbers | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Mr. A Barbers is a barber shop in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/mr-a-barbers-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop roanoke tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

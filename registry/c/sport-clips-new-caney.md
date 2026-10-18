@@ -13,7 +13,7 @@ Sport Clips is a hair salon in New Caney, TX at 11939 North Grand Parkway East #
 - Website: https://haircutmenvalleyranchtowncenternewcaneytx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 68% of hair salons in Houston, #3 of 4 hair salons in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

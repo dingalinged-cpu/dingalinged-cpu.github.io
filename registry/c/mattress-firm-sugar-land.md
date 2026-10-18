@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Sugar Land, TX at 2685 Town Center Boulevar
 - Website: https://www.mattressfirm.com/en-us/stores/tx/sugar-land/001017/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 28% of mattress stores in Houston, #1 of 3 mattress stores in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 67.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

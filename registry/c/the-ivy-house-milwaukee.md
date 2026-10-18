@@ -13,7 +13,7 @@ The Ivy House is an event venue in Milwaukee, WI at 906 South Barclay Street, Mi
 - Website: https://ivyhousemke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 57% of event venues in Milwaukee, #29 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

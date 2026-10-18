@@ -13,7 +13,7 @@ Avenue Catering Concepts is a caterer in Marietta, GA at 1236 Powers Ferry Commo
 - Website: https://avenue-catering.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 10:00-17:00; Tu-We,Fr 09:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 15% of caterers in Atlanta, #1 of 5 caterers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.2, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

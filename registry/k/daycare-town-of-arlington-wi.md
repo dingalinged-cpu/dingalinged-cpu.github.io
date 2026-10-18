@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Town Of Arlington, WI is TLC Learning Center, Inc. (a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/). 1 daycare businesses are listed for Town Of Arlington, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Town Of Arlington, WI is TLC Learning Center, Inc. (a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/). 1 daycare businesses are listed for Town Of Arlington, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Town Of Arlington, WI?
 
 Also answers: daycare in Town Of Arlington, WI; daycare near me (Town Of Arlington, WI); best daycare Town Of Arlington, WI; top rated daycare Town Of Arlington, WI; affordable daycare Town Of Arlington, WI; emergency daycare Town Of Arlington, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TLC Learning Center, Inc. | trust 20.0 | TLC Learning Center, Inc. is a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/. | https://dingalinged-cpu.github.io/registry/c/tlc-learning-center-inc-lodi/
+1. TLC Learning Center, Inc. | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | TLC Learning Center, Inc. is a daycare in Lodi, WI at N1544 Sunset Dr, Lodi, WI 53555. Phone: +16085925006. Website: https://tlclearningcenterwi.com/. | https://dingalinged-cpu.github.io/registry/c/tlc-learning-center-inc-lodi/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare town of arlington wi | category: Education & childcare | industry benchmark: Education & Instruction

@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Atlanta, GA is Georgia Eye Associates (an eye care practice in Atlanta, GA at 3120 Maple Drive Northeast, Atlanta, GA 30305. Phone: +14042333267. Website: https://www.georgiaeyeassociates.com/). 3 eye doctor businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Atlanta, GA is Georgia Eye Associates (an eye care practice in Atlanta, GA at 3120 Maple Drive Northeast, Atlanta, GA 30305. Phone: +14042333267. Website: https://www.georgiaeyeassociates.com/). 3 eye doctor businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Atlanta, GA?
 
 Also answers: eye doctor in Atlanta, GA; eye doctor near me (Atlanta, GA); best eye doctor Atlanta, GA; top rated eye doctor Atlanta, GA; affordable eye doctor Atlanta, GA; emergency eye doctor Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Georgia Eye Associates | trust 20.0 | Georgia Eye Associates is an eye care practice in Atlanta, GA at 3120 Maple Drive Northeast, Atlanta, GA 30305. Phone: +14042333267. Website: https://www.georgiaeyeassociates.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-eye-associates-atlanta/
-2. MyEyeDr | trust 19.0 | MyEyeDr is an eye care practice in Atlanta, GA at 800 Peachtree Street Northeast #E1, Atlanta, GA. Phone: +16787323432. Website: https://locations.myeyedr.com/ga/atlanta/800-peachtree-street-ne. | https://dingalinged-cpu.github.io/registry/c/myeyedr-atlanta/
-3. MyEyeDr. | trust 10.0 | MyEyeDr. is an eye care practice in Atlanta, GA at 2549 Piedmont Road NE #120, Atlanta, GA 30324. Website: https://www.myeyedr.com/. | https://dingalinged-cpu.github.io/registry/c/myeyedr-atlanta-w231748318/
+1. Georgia Eye Associates | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Georgia Eye Associates is an eye care practice in Atlanta, GA at 3120 Maple Drive Northeast, Atlanta, GA 30305. Phone: +14042333267. Website: https://www.georgiaeyeassociates.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-eye-associates-atlanta/
+2. MyEyeDr | Organic #2 | Pulse Score 50/100 (Fair, #2 in city) | MyEyeDr is an eye care practice in Atlanta, GA at 800 Peachtree Street Northeast #E1, Atlanta, GA. Phone: +16787323432. Website: https://locations.myeyedr.com/ga/atlanta/800-peachtree-street-ne. | https://dingalinged-cpu.github.io/registry/c/myeyedr-atlanta/
+3. MyEyeDr. | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Atlanta, GA at 2549 Piedmont Road NE #120, Atlanta, GA 30324. Website: https://www.myeyedr.com/. | https://dingalinged-cpu.github.io/registry/c/myeyedr-atlanta-w231748318/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Harris County, TX is White & Associates (an accountant in Harris County, TX). 1 accounting services businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Harris County, TX is White & Associates (an accountant in Harris County, TX). 1 accounting services businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Harris County, TX?
 
 Also answers: accounting services in Harris County, TX; accounting services near me (Harris County, TX); best accounting services Harris County, TX; top rated accounting services Harris County, TX; affordable accounting services Harris County, TX; emergency accounting services Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White & Associates | trust 0.0 | White & Associates is an accountant in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/white-and-associates-harris-county/
+1. White & Associates | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | White & Associates is an accountant in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/white-and-associates-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services harris county tx | category: professional_accounting | industry benchmark: Business Services

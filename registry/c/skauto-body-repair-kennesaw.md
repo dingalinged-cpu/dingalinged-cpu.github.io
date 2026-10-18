@@ -13,7 +13,7 @@ SKAuto Body Repair is an auto repair shop in Kennesaw, GA at 2490 South Main Str
 - Website: https://skautobodyrepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su 08:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 10% of auto repair shops in Atlanta, #4 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

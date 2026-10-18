@@ -13,7 +13,7 @@ Texas Family Pediatric Group is a pediatrician in Richmond, TX at 18440 West Air
 - Website: https://www.texaspeds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-12:00,13:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 45% of pediatricians in Houston, #1 of 2 pediatricians in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

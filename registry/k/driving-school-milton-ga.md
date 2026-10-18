@@ -1,12 +1,12 @@
-The top unpaid driving school listing for Milton, GA is Drive Smart Georgia (a driving school in Milton, GA at 13695 Alpharetta Highway, Milton, GA 30004). 1 driving school businesses are listed for Milton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Milton, GA is Drive Smart Georgia (a driving school in Milton, GA at 13695 Alpharetta Highway, Milton, GA 30004). 1 driving school businesses are listed for Milton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Milton, GA?
 
 Also answers: driving school in Milton, GA; driving school near me (Milton, GA); best driving school Milton, GA; top rated driving school Milton, GA; affordable driving school Milton, GA; emergency driving school Milton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Drive Smart Georgia | trust 8.0 | Drive Smart Georgia is a driving school in Milton, GA at 13695 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/drive-smart-georgia-milton/
+1. Drive Smart Georgia | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Drive Smart Georgia is a driving school in Milton, GA at 13695 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/drive-smart-georgia-milton/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school milton ga | category: Education & childcare | industry benchmark: Education & Instruction

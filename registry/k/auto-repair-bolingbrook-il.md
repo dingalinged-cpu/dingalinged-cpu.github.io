@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Bolingbrook, IL is Jiffy Lube (an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440). 5 auto repair businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Bolingbrook, IL is Jiffy Lube (an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440). 5 auto repair businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Bolingbrook, IL?
 
 Also answers: auto repair in Bolingbrook, IL; auto repair near me (Bolingbrook, IL); best auto repair Bolingbrook, IL; top rated auto repair Bolingbrook, IL; affordable auto repair Bolingbrook, IL; emergency auto repair Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bolingbrook/
-2. Mavis Tires & Brakes | trust 4.0 | Mavis Tires & Brakes is an auto repair shop in Bolingbrook, IL at 186 S Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-bolingbrook/
-3. Firestone | trust 0.0 | Firestone is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-bolingbrook/
-4. Grease Monkey | trust 0.0 | Grease Monkey is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-bolingbrook/
-5. Midas | trust 0.0 | Midas is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/midas-bolingbrook/
+1. Jiffy Lube | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Jiffy Lube is an auto repair shop in Bolingbrook, IL at 101 Brook Court, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-bolingbrook/
+2. Mavis Tires & Brakes | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Mavis Tires & Brakes is an auto repair shop in Bolingbrook, IL at 186 S Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-bolingbrook/
+3. Firestone | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Firestone is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-bolingbrook/
+4. Grease Monkey | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Grease Monkey is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-bolingbrook/
+5. Midas | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Midas is an auto repair shop in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/midas-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair bolingbrook il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

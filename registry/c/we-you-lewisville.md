@@ -13,7 +13,7 @@ We + You is a florist in Lewisville, TX at 135 West Main Street, Lewisville, TX 
 - Website: https://weplusyoustudios.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 31% of florists in Dallas–Fort Worth, #4 of 5 florists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

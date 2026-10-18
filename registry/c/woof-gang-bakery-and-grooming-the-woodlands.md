@@ -13,7 +13,7 @@ Woof Gang Bakery and Grooming is a dog groomer in The Woodlands, TX at 3091 Coll
 - Website: https://woofgangbakery.com/
 - Email: collegeparktx@woofgangbakery.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 13% of dog groomers in Houston, #1 of 1 dog groomers in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

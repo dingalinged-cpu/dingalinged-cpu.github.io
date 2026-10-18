@@ -1,13 +1,13 @@
-The top unpaid transmission repair listing for Houston, TX is Circle D Transmission (an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/). 2 transmission repair businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Houston, TX is Circle D Transmission (an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/). 2 transmission repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Houston, TX?
 
 Also answers: transmission repair in Houston, TX; transmission repair near me (Houston, TX); best transmission repair Houston, TX; top rated transmission repair Houston, TX; affordable transmission repair Houston, TX; emergency transmission repair Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Circle D Transmission | trust 20.0 | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://dingalinged-cpu.github.io/registry/c/circle-d-transmission-houston/
-2. My Transmission Experts | trust 20.0 | My Transmission Experts is an auto repair shop in Houston, TX at 11729 Jones Road, Houston, TX 77070. Phone: +12816128948. Website: https://www.mytransmissionexperts.com/locations/cypress-jones-road/. | https://dingalinged-cpu.github.io/registry/c/my-transmission-experts-houston-w910999792/
+1. Circle D Transmission | Organic #1 | Pulse Score 65.2/100 (Good, #2 in city) | Circle D Transmission is an auto repair shop in Houston, TX at 13706 Hempstead Road, Houston, TX 77040. Phone: +17138957019. Website: https://circledtrans.com/. | https://dingalinged-cpu.github.io/registry/c/circle-d-transmission-houston/
+2. My Transmission Experts | Organic #2 | Pulse Score 51/100 (Unrated, #154 in city) | My Transmission Experts is an auto repair shop in Houston, TX at 11729 Jones Road, Houston, TX 77070. Phone: +12816128948. Website: https://www.mytransmissionexperts.com/locations/cypress-jones-road/. | https://dingalinged-cpu.github.io/registry/c/my-transmission-experts-houston-w910999792/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair houston tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

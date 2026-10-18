@@ -13,7 +13,7 @@ PetSmart is a pet store in Maple Grove, MN at 11200 Fountains Drive, Maple Grove
 - Website: https://www.petsmart.com/stores/us/mn/maple-grove-store1585.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 78% of pet stores in Minneapolis–St. Paul, #2 of 3 pet stores in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

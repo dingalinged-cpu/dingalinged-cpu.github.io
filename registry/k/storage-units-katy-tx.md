@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Katy, TX is Cane Island Storage (a self-storage facility in Katy, TX at 27748 US-90, Katy, TX 77494. Phone: +12815744777. Website: https://www.caneislandstorage.com/). 3 storage units businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Katy, TX is Schlipf Road Park & Go (a self-storage facility in Katy, TX at 3554 Schlipf Road, Katy, TX 77493. Phone: +18327255551. Website: https://schlipfroadparkandgo.com/). 3 storage units businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Katy, TX?
 
 Also answers: storage units in Katy, TX; storage units near me (Katy, TX); best storage units Katy, TX; top rated storage units Katy, TX; affordable storage units Katy, TX; emergency storage units Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cane Island Storage | trust 20.0 | Cane Island Storage is a self-storage facility in Katy, TX at 27748 US-90, Katy, TX 77494. Phone: +12815744777. Website: https://www.caneislandstorage.com/. | https://dingalinged-cpu.github.io/registry/c/cane-island-storage-katy/
-2. Schlipf Road Park & Go | trust 20.0 | Schlipf Road Park & Go is a self-storage facility in Katy, TX at 3554 Schlipf Road, Katy, TX 77493. Phone: +18327255551. Website: https://schlipfroadparkandgo.com/. | https://dingalinged-cpu.github.io/registry/c/schlipf-road-park-and-go-katy/
-3. Public Storage | trust 3.0 | Public Storage is a self-storage facility in Katy, TX at 1001 South Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-katy/
+1. Schlipf Road Park & Go | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Schlipf Road Park & Go is a self-storage facility in Katy, TX at 3554 Schlipf Road, Katy, TX 77493. Phone: +18327255551. Website: https://schlipfroadparkandgo.com/. | https://dingalinged-cpu.github.io/registry/c/schlipf-road-park-and-go-katy/
+2. Cane Island Storage | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Cane Island Storage is a self-storage facility in Katy, TX at 27748 US-90, Katy, TX 77494. Phone: +12815744777. Website: https://www.caneislandstorage.com/. | https://dingalinged-cpu.github.io/registry/c/cane-island-storage-katy/
+3. Public Storage | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | Public Storage is a self-storage facility in Katy, TX at 1001 South Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units katy tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

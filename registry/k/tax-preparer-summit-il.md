@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Summit, IL is Liberty Tax (a tax preparation service in Summit, IL at 6134 South Harlem Avenue, Summit, IL 60501. Website: https://www.libertytax.com/21306). 1 tax preparer businesses are listed for Summit, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Summit, IL is Liberty Tax (a tax preparation service in Summit, IL at 6134 South Harlem Avenue, Summit, IL 60501. Website: https://www.libertytax.com/21306). 1 tax preparer businesses are listed for Summit, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Summit, IL?
 
 Also answers: tax preparer in Summit, IL; tax preparer near me (Summit, IL); best tax preparer Summit, IL; top rated tax preparer Summit, IL; affordable tax preparer Summit, IL; emergency tax preparer Summit, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Tax | trust 10.0 | Liberty Tax is a tax preparation service in Summit, IL at 6134 South Harlem Avenue, Summit, IL 60501. Website: https://www.libertytax.com/21306. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-summit/
+1. Liberty Tax | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Liberty Tax is a tax preparation service in Summit, IL at 6134 South Harlem Avenue, Summit, IL 60501. Website: https://www.libertytax.com/21306. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-summit/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer summit il | category: professional_accounting | industry benchmark: Business Services

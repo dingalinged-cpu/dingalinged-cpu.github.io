@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Addison, IL is God Loves Little Children Daycare (a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406). 1 daycare businesses are listed for Addison, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Addison, IL is God Loves Little Children Daycare (a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406). 1 daycare businesses are listed for Addison, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Addison, IL?
 
 Also answers: daycare in Addison, IL; daycare near me (Addison, IL); best daycare Addison, IL; top rated daycare Addison, IL; affordable daycare Addison, IL; emergency daycare Addison, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. God Loves Little Children Daycare | trust 14.0 | God Loves Little Children Daycare is a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406. | https://dingalinged-cpu.github.io/registry/c/god-loves-little-children-daycare-addison/
+1. God Loves Little Children Daycare | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | God Loves Little Children Daycare is a daycare in Addison, IL at 20W381 Stone Avenue, Addison, IL 60101. Phone: +16305436406. | https://dingalinged-cpu.github.io/registry/c/god-loves-little-children-daycare-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare addison il | category: Education & childcare | industry benchmark: Education & Instruction

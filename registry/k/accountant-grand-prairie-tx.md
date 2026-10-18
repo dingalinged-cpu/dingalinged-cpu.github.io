@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Grand Prairie, TX is Gail Willis Certified Public Accountant (an accountant in Grand Prairie, TX). 1 accountant businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Grand Prairie, TX is Gail Willis Certified Public Accountant (an accountant in Grand Prairie, TX). 1 accountant businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Grand Prairie, TX?
 
 Also answers: accountant in Grand Prairie, TX; accountant near me (Grand Prairie, TX); best accountant Grand Prairie, TX; top rated accountant Grand Prairie, TX; affordable accountant Grand Prairie, TX; emergency accountant Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gail Willis Certified Public Accountant | trust 0.0 | Gail Willis Certified Public Accountant is an accountant in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/gail-willis-certified-public-accountant-grand-prairie/
+1. Gail Willis Certified Public Accountant | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Gail Willis Certified Public Accountant is an accountant in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/gail-willis-certified-public-accountant-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant grand prairie tx | category: professional_accounting | industry benchmark: Business Services

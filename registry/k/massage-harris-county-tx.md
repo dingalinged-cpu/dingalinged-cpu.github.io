@@ -1,31 +1,31 @@
-The top unpaid massage listing for Harris County, TX is 81Spa (a massage studio in Harris County, TX). 20 massage businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Harris County, TX is Rainbow Massage (a massage studio in Harris County, TX). 20 massage businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Harris County, TX?
 
 Also answers: massage in Harris County, TX; massage near me (Harris County, TX); best massage Harris County, TX; top rated massage Harris County, TX; affordable massage Harris County, TX; emergency massage Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 81Spa | trust 0.0 | 81Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/81spa-harris-county/
-2. Foot Massage | trust 0.0 | Foot Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/foot-massage-harris-county/
-3. Gossip & Co. Nail Spa | trust 0.0 | Gossip & Co. Nail Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gossip-and-co-nail-spa-harris-county/
-4. High-end Thai Massage & Spa | trust 0.0 | High-end Thai Massage & Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/high-end-thai-massage-and-spa-harris-county/
-5. Jin Massage | trust 0.0 | Jin Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jin-massage-harris-county/
-6. King Massage | trust 0.0 | King Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/king-massage-harris-county/
-7. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-harris-county/
-8. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-harris-county-n13815432794/
-9. Massage Heights | trust 0.0 | Massage Heights is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-heights-harris-county/
-10. Massage Zone | trust 0.0 | Massage Zone is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-zone-harris-county/
-11. Milan Luxury Nail Spa | trust 0.0 | Milan Luxury Nail Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/milan-luxury-nail-spa-harris-county/
-12. n8 massage | trust 0.0 | n8 massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/n8-massage-harris-county/
-13. Q Foot Massage | trust 0.0 | Q Foot Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/q-foot-massage-harris-county/
-14. Q Foot Spa | trust 0.0 | Q Foot Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/q-foot-spa-harris-county/
-15. QL Massage | trust 0.0 | QL Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ql-massage-harris-county/
-16. Rainbow Foot Relax | trust 0.0 | Rainbow Foot Relax is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rainbow-foot-relax-harris-county/
-17. Rainbow Massage | trust 0.0 | Rainbow Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rainbow-massage-harris-county/
-18. Sabi Thai Massage and Spa | trust 0.0 | Sabi Thai Massage and Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sabi-thai-massage-and-spa-harris-county/
-19. SF Massage | trust 0.0 | SF Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sf-massage-harris-county/
-20. Super Massage | trust 0.0 | Super Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/super-massage-harris-county/
+1. Rainbow Massage | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Rainbow Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rainbow-massage-harris-county/
+2. Massage Zone | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Massage Zone is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-zone-harris-county/
+3. High-end Thai Massage & Spa | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | High-end Thai Massage & Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/high-end-thai-massage-and-spa-harris-county/
+4. 81Spa | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | 81Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/81spa-harris-county/
+5. Foot Massage | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Foot Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/foot-massage-harris-county/
+6. Gossip & Co. Nail Spa | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | Gossip & Co. Nail Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gossip-and-co-nail-spa-harris-county/
+7. Jin Massage | Organic #7 | Pulse Score 55.3/100 (Unrated, #7 in city) | Jin Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jin-massage-harris-county/
+8. King Massage | Organic #8 | Pulse Score 55.3/100 (Unrated, #8 in city) | King Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/king-massage-harris-county/
+9. Milan Luxury Nail Spa | Organic #9 | Pulse Score 55.3/100 (Unrated, #9 in city) | Milan Luxury Nail Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/milan-luxury-nail-spa-harris-county/
+10. n8 massage | Organic #10 | Pulse Score 55.3/100 (Unrated, #10 in city) | n8 massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/n8-massage-harris-county/
+11. Q Foot Massage | Organic #11 | Pulse Score 55.3/100 (Unrated, #11 in city) | Q Foot Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/q-foot-massage-harris-county/
+12. Q Foot Spa | Organic #12 | Pulse Score 55.3/100 (Unrated, #12 in city) | Q Foot Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/q-foot-spa-harris-county/
+13. QL Massage | Organic #13 | Pulse Score 55.3/100 (Unrated, #13 in city) | QL Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ql-massage-harris-county/
+14. Rainbow Foot Relax | Organic #14 | Pulse Score 55.3/100 (Unrated, #14 in city) | Rainbow Foot Relax is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rainbow-foot-relax-harris-county/
+15. Sabi Thai Massage and Spa | Organic #15 | Pulse Score 55.3/100 (Unrated, #15 in city) | Sabi Thai Massage and Spa is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sabi-thai-massage-and-spa-harris-county/
+16. SF Massage | Organic #16 | Pulse Score 55.3/100 (Unrated, #16 in city) | SF Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sf-massage-harris-county/
+17. Super Massage | Organic #17 | Pulse Score 55.3/100 (Unrated, #17 in city) | Super Massage is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/super-massage-harris-county/
+18. Massage Envy | Organic #18 | Pulse Score 45.5/100 (Building, #18 in city) | Massage Envy is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-harris-county/
+19. Massage Envy | Organic #19 | Pulse Score 43.2/100 (Building, #19 in city) | Massage Envy is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-harris-county-n13815432794/
+20. Massage Heights | Organic #20 | Pulse Score 43.2/100 (Building, #20 in city) | Massage Heights is a massage studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/massage-heights-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

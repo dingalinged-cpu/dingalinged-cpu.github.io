@@ -1,18 +1,18 @@
-The top unpaid dance studio listing for Dallas, TX is Dallas Dance Collective (a dance studio in Dallas, TX at 9840 North Central Expressway #300, Dallas, TX 75231. Phone: +19729486659). 7 dance studio businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Dallas, TX is Dallas Dance Collective (a dance studio in Dallas, TX at 9840 North Central Expressway #300, Dallas, TX 75231. Phone: +19729486659). 7 dance studio businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Dallas, TX?
 
 Also answers: dance studio in Dallas, TX; dance studio near me (Dallas, TX); best dance studio Dallas, TX; top rated dance studio Dallas, TX; affordable dance studio Dallas, TX; emergency dance studio Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dallas Dance Collective | trust 10.0 | Dallas Dance Collective is a dance studio in Dallas, TX at 9840 North Central Expressway #300, Dallas, TX 75231. Phone: +19729486659. | https://dingalinged-cpu.github.io/registry/c/dallas-dance-collective-dallas/
-2. AD Dance | trust 9.0 | AD Dance is a dance studio in Dallas, TX at 718 North Buckner Boulevard #138, Dallas, TX. Website: https://theamericandanceacademy.com/school-dance/ad-dance. | https://dingalinged-cpu.github.io/registry/c/ad-dance-dallas/
-3. Dallas Ballet Center | trust 9.0 | Dallas Ballet Center is a dance studio in Dallas, TX at 8530 Abrams Road #608, Dallas, TX. Website: https://www.dallasballetcenter.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-ballet-center-dallas/
-4. Ballet North Texas | trust 3.0 | Ballet North Texas is a dance studio in Dallas, TX at 10675 East Northwest Highway #2400, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ballet-north-texas-dallas/
-5. Dance Studio 22 | trust 0.0 | Dance Studio 22 is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/dance-studio-22-dallas/
-6. Royale Ballet Dance Academy | trust 0.0 | Royale Ballet Dance Academy is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/royale-ballet-dance-academy-dallas/
-7. Rumba | trust 0.0 | Rumba is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rumba-dallas/
+1. Dallas Dance Collective | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Dallas Dance Collective is a dance studio in Dallas, TX at 9840 North Central Expressway #300, Dallas, TX 75231. Phone: +19729486659. | https://dingalinged-cpu.github.io/registry/c/dallas-dance-collective-dallas/
+2. AD Dance | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | AD Dance is a dance studio in Dallas, TX at 718 North Buckner Boulevard #138, Dallas, TX. Website: https://theamericandanceacademy.com/school-dance/ad-dance. | https://dingalinged-cpu.github.io/registry/c/ad-dance-dallas/
+3. Dallas Ballet Center | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | Dallas Ballet Center is a dance studio in Dallas, TX at 8530 Abrams Road #608, Dallas, TX. Website: https://www.dallasballetcenter.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-ballet-center-dallas/
+4. Ballet North Texas | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Ballet North Texas is a dance studio in Dallas, TX at 10675 East Northwest Highway #2400, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ballet-north-texas-dallas/
+5. Royale Ballet Dance Academy | Organic #5 | Pulse Score 56.8/100 (Unrated, #5 in city) | Royale Ballet Dance Academy is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/royale-ballet-dance-academy-dallas/
+6. Rumba | Organic #6 | Pulse Score 56/100 (Unrated, #6 in city) | Rumba is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rumba-dallas/
+7. Dance Studio 22 | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Dance Studio 22 is a dance studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/dance-studio-22-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio dallas tx | category: Fitness | industry benchmark: Health & Fitness

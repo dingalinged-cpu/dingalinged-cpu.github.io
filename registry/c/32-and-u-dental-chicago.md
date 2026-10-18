@@ -13,7 +13,7 @@
 - Website: https://32andudental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 20% of dentists in Chicago, #19 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

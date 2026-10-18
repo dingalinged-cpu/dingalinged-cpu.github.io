@@ -13,7 +13,7 @@ Badger Health Center is a chiropractor in Waukesha, WI at S31W24757 Sunset Drive
 - Website: https://badgerhealth.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00, Tu 12:30-19:00, We-Th 09:00-19:00, Fr 09:00-12:30, Sa 09:00-11:30
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of chiropractors in Milwaukee, #1 of 4 chiropractors in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

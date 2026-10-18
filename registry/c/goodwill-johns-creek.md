@@ -13,7 +13,7 @@ Goodwill is a thrift store in Johns Creek, GA at 10955 Jones Bridge Road, Johns 
 - Website: https://goodwillng.org/gw-locations/johns-creek-store-donation-center-30022/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-We 09:00-20:00; Th 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 52% of thrift stores in Atlanta, #6 of 6 thrift stores in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.6, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

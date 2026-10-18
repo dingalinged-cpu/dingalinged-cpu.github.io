@@ -13,7 +13,7 @@ Ultimate Dental Care is a dentist in Milwaukee, WI at 1625 Miller Park Way, Milw
 - Website: https://ultimatedentalcarewi.com/
 - Email: appointments@ultimatedentalcarewi.com
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00, Fr 09:00-12:00
-- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of dentists in Milwaukee, #2 of 41 dentists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 65.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Caney Creek Cleaners is a dry cleaner in Montgomery County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 43% of dry cleaners in Houston, #2 of 5 dry cleaners in Montgomery County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

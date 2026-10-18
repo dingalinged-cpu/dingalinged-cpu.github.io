@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Friendswood, TX is Total Wine (a liquor store in Friendswood, TX at 18740 Gulf Freeway, Friendswood, TX 77546. Phone: +12812186011. Website: https://www.totalwine.com/store-info/515). 2 liquor store businesses are listed for Friendswood, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Friendswood, TX is Potter Liquor (a liquor store in Friendswood, TX at 412 North Friendswood Drive, Friendswood, TX 77546). 2 liquor store businesses are listed for Friendswood, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Friendswood, TX?
 
 Also answers: liquor store in Friendswood, TX; liquor store near me (Friendswood, TX); best liquor store Friendswood, TX; top rated liquor store Friendswood, TX; affordable liquor store Friendswood, TX; emergency liquor store Friendswood, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Friendswood, TX at 18740 Gulf Freeway, Friendswood, TX 77546. Phone: +12812186011. Website: https://www.totalwine.com/store-info/515. | https://dingalinged-cpu.github.io/registry/c/total-wine-friendswood/
-2. Potter Liquor | trust 8.0 | Potter Liquor is a liquor store in Friendswood, TX at 412 North Friendswood Drive, Friendswood, TX 77546. | https://dingalinged-cpu.github.io/registry/c/potter-liquor-friendswood/
+1. Potter Liquor | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Potter Liquor is a liquor store in Friendswood, TX at 412 North Friendswood Drive, Friendswood, TX 77546. | https://dingalinged-cpu.github.io/registry/c/potter-liquor-friendswood/
+2. Total Wine | Organic #2 | Pulse Score 51.4/100 (Fair, #2 in city) | Total Wine is a liquor store in Friendswood, TX at 18740 Gulf Freeway, Friendswood, TX 77546. Phone: +12812186011. Website: https://www.totalwine.com/store-info/515. | https://dingalinged-cpu.github.io/registry/c/total-wine-friendswood/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store friendswood tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

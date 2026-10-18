@@ -1,12 +1,12 @@
-The top unpaid electrician listing for Atlanta, GA is Mayberry Electric Incorporated - Prefab & Logistics (an electrician in Atlanta, GA at 1738 Taylor Street Northwest, Atlanta, GA). 1 electrician businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Atlanta, GA is Mayberry Electric Incorporated - Prefab & Logistics (an electrician in Atlanta, GA at 1738 Taylor Street Northwest, Atlanta, GA). 1 electrician businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Atlanta, GA?
 
 Also answers: electrician in Atlanta, GA; electrician near me (Atlanta, GA); best electrician Atlanta, GA; top rated electrician Atlanta, GA; affordable electrician Atlanta, GA; emergency electrician Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mayberry Electric Incorporated - Prefab & Logistics | trust 3.0 | Mayberry Electric Incorporated - Prefab & Logistics is an electrician in Atlanta, GA at 1738 Taylor Street Northwest, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/mayberry-electric-incorporated-prefab-and-logistics-atlanta/
+1. Mayberry Electric Incorporated - Prefab & Logistics | Organic #1 | Pulse Score 56.7/100 (Fair, #1 in city) | Mayberry Electric Incorporated - Prefab & Logistics is an electrician in Atlanta, GA at 1738 Taylor Street Northwest, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/mayberry-electric-incorporated-prefab-and-logistics-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician atlanta ga | category: Home services - Electrical | industry benchmark: Home & Home Improvement

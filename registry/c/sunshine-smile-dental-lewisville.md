@@ -13,7 +13,7 @@ Sunshine Smile Dental is a dentist in Lewisville, TX. Phone: +14696301369. Websi
 - Website: https://www.mysunshinesmiledental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th 13:00-16:00; PH closed; Sa-Su closed "By appointment"
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 14% of dentists in Dallas–Fort Worth, #9 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

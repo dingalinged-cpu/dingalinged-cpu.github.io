@@ -13,7 +13,7 @@ James Avery Jewelry is a jewelry store in Houston, TX at 6543B North Highway 6, 
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=943
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 47% of jewelry stores in Houston, #45 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

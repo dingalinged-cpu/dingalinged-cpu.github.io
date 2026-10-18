@@ -1,21 +1,21 @@
-The top unpaid mechanic listing for Pearland, TX is Snider Transmission (an auto repair shop in Pearland, TX at 4010 West Broadway Street, Pearland, TX 77581. Phone: +12814850430. Website: https://snidertransmissionpearlandtx.com/). 10 mechanic businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Pearland, TX is Snider Transmission (an auto repair shop in Pearland, TX at 4010 West Broadway Street, Pearland, TX 77581. Phone: +12814850430. Website: https://snidertransmissionpearlandtx.com/). 10 mechanic businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Pearland, TX?
 
 Also answers: mechanic in Pearland, TX; mechanic near me (Pearland, TX); best mechanic Pearland, TX; top rated mechanic Pearland, TX; affordable mechanic Pearland, TX; emergency mechanic Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Snider Transmission | trust 20.0 | Snider Transmission is an auto repair shop in Pearland, TX at 4010 West Broadway Street, Pearland, TX 77581. Phone: +12814850430. Website: https://snidertransmissionpearlandtx.com/. | https://dingalinged-cpu.github.io/registry/c/snider-transmission-pearland/
-2. Excessive Racing Engines | trust 14.0 | Excessive Racing Engines is an auto repair shop in Pearland, TX at 1126 North Main Street, Pearland, TX 77581. Phone: +12814127223. | https://dingalinged-cpu.github.io/registry/c/excessive-racing-engines-pearland/
-3. Midas | trust 7.0 | Midas is an auto repair shop in Pearland, TX at 4401 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/midas-pearland/
-4. Jiffy Lube | trust 3.0 | Jiffy Lube is an auto repair shop in Pearland, TX at 2118 North Main Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-pearland/
-5. Main Street Paint & Body | trust 3.0 | Main Street Paint & Body is an auto repair shop in Pearland, TX at 2403 South Main Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/main-street-paint-and-body-pearland/
-6. Meineke | trust 3.0 | Meineke is an auto repair shop in Pearland, TX at 2339 North Austin Avenue, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/meineke-pearland/
-7. Service Street Auto Repair | trust 3.0 | Service Street Auto Repair is an auto repair shop in Pearland, TX at 11620 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/service-street-auto-repair-pearland/
-8. Elite Auto Clinic | trust 0.0 | Elite Auto Clinic is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/elite-auto-clinic-pearland/
-9. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-pearland/
-10. Owen's Racing Engines | trust 0.0 | Owen's Racing Engines is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/owens-racing-engines-pearland/
+1. Snider Transmission | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Snider Transmission is an auto repair shop in Pearland, TX at 4010 West Broadway Street, Pearland, TX 77581. Phone: +12814850430. Website: https://snidertransmissionpearlandtx.com/. | https://dingalinged-cpu.github.io/registry/c/snider-transmission-pearland/
+2. Excessive Racing Engines | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Excessive Racing Engines is an auto repair shop in Pearland, TX at 1126 North Main Street, Pearland, TX 77581. Phone: +12814127223. | https://dingalinged-cpu.github.io/registry/c/excessive-racing-engines-pearland/
+3. Main Street Paint & Body | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Main Street Paint & Body is an auto repair shop in Pearland, TX at 2403 South Main Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/main-street-paint-and-body-pearland/
+4. Service Street Auto Repair | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Service Street Auto Repair is an auto repair shop in Pearland, TX at 11620 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/service-street-auto-repair-pearland/
+5. Elite Auto Clinic | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Elite Auto Clinic is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/elite-auto-clinic-pearland/
+6. Owen's Racing Engines | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Owen's Racing Engines is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/owens-racing-engines-pearland/
+7. Midas | Organic #7 | Pulse Score 46.6/100 (Building, #7 in city) | Midas is an auto repair shop in Pearland, TX at 4401 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/midas-pearland/
+8. Meineke | Organic #8 | Pulse Score 44.5/100 (Building, #8 in city) | Meineke is an auto repair shop in Pearland, TX at 2339 North Austin Avenue, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/meineke-pearland/
+9. Jiffy Lube | Organic #9 | Pulse Score 44.1/100 (Building, #9 in city) | Jiffy Lube is an auto repair shop in Pearland, TX at 2118 North Main Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-pearland/
+10. Goodyear | Organic #10 | Pulse Score 43.6/100 (Building, #10 in city) | Goodyear is an auto repair shop in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic pearland tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

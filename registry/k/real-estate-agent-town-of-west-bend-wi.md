@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Town Of West Bend, WI is Emmer (a real estate agency in Town of West Bend, WI). 1 real estate agent businesses are listed for Town Of West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Town Of West Bend, WI is Emmer (a real estate agency in Town of West Bend, WI). 1 real estate agent businesses are listed for Town Of West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Town Of West Bend, WI?
 
 Also answers: real estate agent in Town Of West Bend, WI; real estate agent near me (Town Of West Bend, WI); best real estate agent Town Of West Bend, WI; top rated real estate agent Town Of West Bend, WI; affordable real estate agent Town Of West Bend, WI; emergency real estate agent Town Of West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Emmer | trust 0.0 | Emmer is a real estate agency in Town of West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/emmer-town-of-west-bend/
+1. Emmer | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Emmer is a real estate agency in Town of West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/emmer-town-of-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent town of west bend wi | category: Professional & financial services | industry benchmark: Finance & Insurance

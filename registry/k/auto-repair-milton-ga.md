@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for Milton, GA is Extra Mile Tire Pros (an auto repair shop in Milton, GA at 2875 Bethany Bend, Milton, GA 30004). 2 auto repair businesses are listed for Milton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Milton, GA is Extra Mile Tire Pros (an auto repair shop in Milton, GA at 2875 Bethany Bend, Milton, GA 30004). 2 auto repair businesses are listed for Milton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Milton, GA?
 
 Also answers: auto repair in Milton, GA; auto repair near me (Milton, GA); best auto repair Milton, GA; top rated auto repair Milton, GA; affordable auto repair Milton, GA; emergency auto repair Milton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Mile Tire Pros | trust 8.0 | Extra Mile Tire Pros is an auto repair shop in Milton, GA at 2875 Bethany Bend, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/extra-mile-tire-pros-milton/
-2. NTB | trust 0.0 | NTB is an auto repair shop in Milton, GA. | https://dingalinged-cpu.github.io/registry/c/ntb-milton/
+1. Extra Mile Tire Pros | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Extra Mile Tire Pros is an auto repair shop in Milton, GA at 2875 Bethany Bend, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/extra-mile-tire-pros-milton/
+2. NTB | Organic #2 | Pulse Score 42.1/100 (Unrated, #2 in city) | NTB is an auto repair shop in Milton, GA. | https://dingalinged-cpu.github.io/registry/c/ntb-milton/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair milton ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

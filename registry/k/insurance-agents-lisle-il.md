@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Lisle, IL is Harold W. Conick & Associates Ltd. (an insurance agent in Lisle, IL at 1001 Warrenville Road #500, Lisle, IL 60532. Phone: +16306811336. Website: https://conicklaw.com/). 2 insurance agents businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Lisle, IL is Harold W. Conick & Associates Ltd. (an insurance agent in Lisle, IL at 1001 Warrenville Road #500, Lisle, IL 60532. Phone: +16306811336. Website: https://conicklaw.com/). 2 insurance agents businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Lisle, IL?
 
 Also answers: insurance agents in Lisle, IL; insurance agents near me (Lisle, IL); best insurance agents Lisle, IL; top rated insurance agents Lisle, IL; affordable insurance agents Lisle, IL; emergency insurance agents Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harold W. Conick & Associates Ltd. | trust 20.0 | Harold W. Conick & Associates Ltd. is an insurance agent in Lisle, IL at 1001 Warrenville Road #500, Lisle, IL 60532. Phone: +16306811336. Website: https://conicklaw.com/. | https://dingalinged-cpu.github.io/registry/c/harold-w-conick-and-associates-ltd-lisle/
-2. State Farm | trust 0.0 | State Farm is an insurance agent in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-lisle/
+1. Harold W. Conick & Associates Ltd. | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Harold W. Conick & Associates Ltd. is an insurance agent in Lisle, IL at 1001 Warrenville Road #500, Lisle, IL 60532. Phone: +16306811336. Website: https://conicklaw.com/. | https://dingalinged-cpu.github.io/registry/c/harold-w-conick-and-associates-ltd-lisle/
+2. State Farm | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | State Farm is an insurance agent in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents lisle il | category: insurance | industry benchmark: Finance & Insurance

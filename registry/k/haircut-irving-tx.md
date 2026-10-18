@@ -1,19 +1,19 @@
-The top unpaid haircut listing for Irving, TX is Jeanet's Beauty Salon (a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062). 8 haircut businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Irving, TX is KCB Braid Barber & Salon (a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX). 8 haircut businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Irving, TX?
 
 Also answers: haircut in Irving, TX; haircut near me (Irving, TX); best haircut Irving, TX; top rated haircut Irving, TX; affordable haircut Irving, TX; emergency haircut Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeanet's Beauty Salon | trust 4.0 | Jeanet's Beauty Salon is a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/jeanets-beauty-salon-irving/
-2. blo | trust 3.0 | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/blo-irving/
-3. KCB Braid Barber & Salon | trust 3.0 | KCB Braid Barber & Salon is a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/kcb-braid-barber-and-salon-irving/
-4. Tailor Made Cuts | trust 3.0 | Tailor Made Cuts is a hair salon in Irving, TX at 595 South Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/tailor-made-cuts-irving/
-5. The Family Salon & Barbershop | trust 3.0 | The Family Salon & Barbershop is a barber shop in Irving, TX at 3021 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-family-salon-and-barbershop-irving/
-6. Great Clips | trust 0.0 | Great Clips is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-irving/
-7. Supercuts | trust 0.0 | Supercuts is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-irving/
-8. Supercuts | trust 0.0 | Supercuts is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-irving-n10245696289/
+1. KCB Braid Barber & Salon | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | KCB Braid Barber & Salon is a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/kcb-braid-barber-and-salon-irving/
+2. The Family Salon & Barbershop | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Family Salon & Barbershop is a barber shop in Irving, TX at 3021 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-family-salon-and-barbershop-irving/
+3. Jeanet's Beauty Salon | Organic #3 | Pulse Score 57.1/100 (Unrated, #1 in city) | Jeanet's Beauty Salon is a hair salon in Irving, TX at 407 West Rochelle Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/jeanets-beauty-salon-irving/
+4. blo | Organic #4 | Pulse Score 55.6/100 (Unrated, #2 in city) | blo is a hair salon in Irving, TX at 110 State Highway 161, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/blo-irving/
+5. Tailor Made Cuts | Organic #5 | Pulse Score 55.6/100 (Unrated, #3 in city) | Tailor Made Cuts is a hair salon in Irving, TX at 595 South Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/tailor-made-cuts-irving/
+6. Great Clips | Organic #6 | Pulse Score 42.2/100 (Building, #4 in city) | Great Clips is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-irving/
+7. Supercuts | Organic #7 | Pulse Score 42.2/100 (Building, #5 in city) | Supercuts is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-irving/
+8. Supercuts | Organic #8 | Pulse Score 42.2/100 (Building, #6 in city) | Supercuts is a hair salon in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-irving-n10245696289/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

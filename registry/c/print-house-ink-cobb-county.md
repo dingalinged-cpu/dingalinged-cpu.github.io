@@ -13,7 +13,7 @@ Print House.ink is a printing service in Cobb County, GA at 2520 Shallowford Roa
 - Website: https://printhouse.ink/
 - Email: contact@printhouse.ink
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 3% of printing services in Atlanta, #1 of 8 printing services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

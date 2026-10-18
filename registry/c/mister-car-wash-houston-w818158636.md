@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in Houston, TX at 210 FM 1960 East, Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 08:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 44% of car washes in Houston, #39 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

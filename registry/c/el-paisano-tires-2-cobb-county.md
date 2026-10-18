@@ -13,7 +13,7 @@ El Paisano Tires 2 is a tire shop in Cobb County, GA at 4853 Canton Road Northea
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 6% of tire shops in Atlanta, #3 of 11 tire shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

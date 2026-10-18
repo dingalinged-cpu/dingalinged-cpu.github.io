@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Douglasville, GA is Next Level Thrift & Variety Shop (a thrift store in Douglasville, GA at 12295 Veterans Memorial Highway, Douglasville, GA 30134). 1 thrift store businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Douglasville, GA is Next Level Thrift & Variety Shop (a thrift store in Douglasville, GA at 12295 Veterans Memorial Highway, Douglasville, GA 30134). 1 thrift store businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Douglasville, GA?
 
 Also answers: thrift store in Douglasville, GA; thrift store near me (Douglasville, GA); best thrift store Douglasville, GA; top rated thrift store Douglasville, GA; affordable thrift store Douglasville, GA; emergency thrift store Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Next Level Thrift & Variety Shop | trust 4.0 | Next Level Thrift & Variety Shop is a thrift store in Douglasville, GA at 12295 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/next-level-thrift-and-variety-shop-douglasville/
+1. Next Level Thrift & Variety Shop | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Next Level Thrift & Variety Shop is a thrift store in Douglasville, GA at 12295 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/next-level-thrift-and-variety-shop-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store douglasville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for Wauconda, IL is First Step Foot Care (a podiatrist in Wauconda, IL at 385 West Liberty Street, Wauconda, IL 60084. Phone: +18474872827. Website: https://www.firststepfootcare.com/). 1 podiatrist businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Wauconda, IL is First Step Foot Care (a podiatrist in Wauconda, IL at 385 West Liberty Street, Wauconda, IL 60084. Phone: +18474872827. Website: https://www.firststepfootcare.com/). 1 podiatrist businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Wauconda, IL?
 
 Also answers: podiatrist in Wauconda, IL; podiatrist near me (Wauconda, IL); best podiatrist Wauconda, IL; top rated podiatrist Wauconda, IL; affordable podiatrist Wauconda, IL; emergency podiatrist Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Step Foot Care | trust 20.0 | First Step Foot Care is a podiatrist in Wauconda, IL at 385 West Liberty Street, Wauconda, IL 60084. Phone: +18474872827. Website: https://www.firststepfootcare.com/. | https://dingalinged-cpu.github.io/registry/c/first-step-foot-care-wauconda/
+1. First Step Foot Care | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | First Step Foot Care is a podiatrist in Wauconda, IL at 385 West Liberty Street, Wauconda, IL 60084. Phone: +18474872827. Website: https://www.firststepfootcare.com/. | https://dingalinged-cpu.github.io/registry/c/first-step-foot-care-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist wauconda il | category: Health & medical | industry benchmark: Physicians & Surgeons

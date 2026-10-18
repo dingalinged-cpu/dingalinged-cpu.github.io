@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Mcdonough, GA is Ashley HomeStore (a furniture store in McDonough, GA at 1960 Jonesboro Road, McDonough, GA 30253. Phone: +17702888680. Website: https://stores.ashleyfurniture.com/store/us/georgia/mcdonough/7710000121/). 4 furniture store businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Mcdonough, GA is Ashley HomeStore (a furniture store in McDonough, GA at 1960 Jonesboro Road, McDonough, GA 30253. Phone: +17702888680. Website: https://stores.ashleyfurniture.com/store/us/georgia/mcdonough/7710000121/). 4 furniture store businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Mcdonough, GA?
 
 Also answers: furniture store in Mcdonough, GA; furniture store near me (Mcdonough, GA); best furniture store Mcdonough, GA; top rated furniture store Mcdonough, GA; affordable furniture store Mcdonough, GA; emergency furniture store Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in McDonough, GA at 1960 Jonesboro Road, McDonough, GA 30253. Phone: +17702888680. Website: https://stores.ashleyfurniture.com/store/us/georgia/mcdonough/7710000121/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-mcdonough/
-2. Havertys | trust 0.0 | Havertys is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/havertys-mcdonough/
-3. La-Z-Boy | trust 0.0 | La-Z-Boy is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-mcdonough/
-4. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-mcdonough/
+1. Ashley HomeStore | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Ashley HomeStore is a furniture store in McDonough, GA at 1960 Jonesboro Road, McDonough, GA 30253. Phone: +17702888680. Website: https://stores.ashleyfurniture.com/store/us/georgia/mcdonough/7710000121/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-mcdonough/
+2. Havertys | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Havertys is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/havertys-mcdonough/
+3. La-Z-Boy | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | La-Z-Boy is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-mcdonough/
+4. Rooms To Go | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Rooms To Go is a furniture store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store mcdonough ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

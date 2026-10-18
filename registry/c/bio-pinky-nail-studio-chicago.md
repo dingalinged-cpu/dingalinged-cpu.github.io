@@ -13,7 +13,7 @@ Bio Pinky Nail Studio is a nail salon in Chicago, IL at 1159 West Madison Street
 - Website: https://bio-pinky.square.site/
 - Email: biopinky896@gmail.com
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Registry Score: 67.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 1% of nail salons in Chicago, #1 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

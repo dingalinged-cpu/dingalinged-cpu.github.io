@@ -1,16 +1,16 @@
-The top unpaid realtor listing for Lewisville, TX is Avery (a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/). 5 realtor businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Lewisville, TX is Mill Old Town (a real estate agency in Lewisville, TX at 535 South Mill Street, Lewisville, TX. Phone: +19726954401. Website: https://www.milloldtown.com/). 5 realtor businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Lewisville, TX?
 
 Also answers: realtor in Lewisville, TX; realtor near me (Lewisville, TX); best realtor Lewisville, TX; top rated realtor Lewisville, TX; affordable realtor Lewisville, TX; emergency realtor Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avery | trust 20.0 | Avery is a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/. | https://dingalinged-cpu.github.io/registry/c/avery-lewisville/
-2. Bright Realty | trust 20.0 | Bright Realty is a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/. | https://dingalinged-cpu.github.io/registry/c/bright-realty-lewisville/
-3. Mill Old Town | trust 19.0 | Mill Old Town is a real estate agency in Lewisville, TX at 535 South Mill Street, Lewisville, TX. Phone: +19726954401. Website: https://www.milloldtown.com/. | https://dingalinged-cpu.github.io/registry/c/mill-old-town-lewisville/
-4. Dallas & Beyond | trust 6.0 | Dallas & Beyond is a real estate agency in Lewisville, TX. Phone: +12146831834. | https://dingalinged-cpu.github.io/registry/c/dallas-and-beyond-lewisville/
-5. Weichert | trust 6.0 | Weichert is a real estate agency in Lewisville, TX. Phone: +19725446400. | https://dingalinged-cpu.github.io/registry/c/weichert-lewisville/
+1. Mill Old Town | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Mill Old Town is a real estate agency in Lewisville, TX at 535 South Mill Street, Lewisville, TX. Phone: +19726954401. Website: https://www.milloldtown.com/. | https://dingalinged-cpu.github.io/registry/c/mill-old-town-lewisville/
+2. Avery | Organic #2 | Pulse Score 62.8/100 (Unrated, #2 in city) | Avery is a real estate agency in Lewisville, TX at 350 Continental Drive, Lewisville, TX 75067. Phone: +19728437059. Website: https://www.averyapartmenthomes.com/. | https://dingalinged-cpu.github.io/registry/c/avery-lewisville/
+3. Bright Realty | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | Bright Realty is a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/. | https://dingalinged-cpu.github.io/registry/c/bright-realty-lewisville/
+4. Dallas & Beyond | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Dallas & Beyond is a real estate agency in Lewisville, TX. Phone: +12146831834. | https://dingalinged-cpu.github.io/registry/c/dallas-and-beyond-lewisville/
+5. Weichert | Organic #5 | Pulse Score 47.2/100 (Building, #5 in city) | Weichert is a real estate agency in Lewisville, TX. Phone: +19725446400. | https://dingalinged-cpu.github.io/registry/c/weichert-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor lewisville tx | category: real_estate | industry benchmark: Real Estate

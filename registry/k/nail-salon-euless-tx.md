@@ -1,23 +1,23 @@
-The top unpaid nail salon listing for Euless, TX is Chic Nails (a nail salon in Euless, TX at 101 W Glade Road #106, Euless, TX 76039. Phone: +18172831726). 12 nail salon businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Euless, TX is Chic Nails (a nail salon in Euless, TX at 101 W Glade Road #106, Euless, TX 76039. Phone: +18172831726). 12 nail salon businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Euless, TX?
 
 Also answers: nail salon in Euless, TX; nail salon near me (Euless, TX); best nail salon Euless, TX; top rated nail salon Euless, TX; affordable nail salon Euless, TX; emergency nail salon Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chic Nails | trust 10.0 | Chic Nails is a nail salon in Euless, TX at 101 W Glade Road #106, Euless, TX 76039. Phone: +18172831726. | https://dingalinged-cpu.github.io/registry/c/chic-nails-euless/
-2. Lavish Nail Bar | trust 4.0 | Lavish Nail Bar is a nail salon in Euless, TX at 1001 East Harwood Road #33, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/lavish-nail-bar-euless/
-3. Magic Nail Spa | trust 4.0 | Magic Nail Spa is a nail salon in Euless, TX at 501 North Main Street #101, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/magic-nail-spa-euless/
-4. Maxiam Nail Bar | trust 4.0 | Maxiam Nail Bar is a nail salon in Euless, TX at 2921 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/maxiam-nail-bar-euless/
-5. Mlux Nail Bar | trust 4.0 | Mlux Nail Bar is a nail salon in Euless, TX at 2720 State Hwy 121 #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/mlux-nail-bar-euless/
-6. Ms. Nails & Spa | trust 4.0 | Ms. Nails & Spa is a nail salon in Euless, TX at 1060 North Main Street #105, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/ms-nails-and-spa-euless/
-7. Pinky's Nails Salon | trust 4.0 | Pinky's Nails Salon is a nail salon in Euless, TX at 2390 Fuller-Wiser Road #504, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/pinkys-nails-salon-euless/
-8. Sola Salons | trust 4.0 | Sola Salons is a nail salon in Euless, TX at 1321 Chisholm Trail #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/sola-salons-euless/
-9. Texas Nail Bar | trust 4.0 | Texas Nail Bar is a nail salon in Euless, TX at 918 East Harwood Road #E, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/texas-nail-bar-euless/
-10. Upscale Spa & Nails | trust 4.0 | Upscale Spa & Nails is a nail salon in Euless, TX at 3010 State Hwy 121 #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/upscale-spa-and-nails-euless/
-11. American Nail Bar | trust 0.0 | American Nail Bar is a nail salon in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/american-nail-bar-euless/
-12. VIP Nails & Spa | trust 0.0 | VIP Nails & Spa is a nail salon in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/vip-nails-and-spa-euless/
+1. Chic Nails | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Chic Nails is a nail salon in Euless, TX at 101 W Glade Road #106, Euless, TX 76039. Phone: +18172831726. | https://dingalinged-cpu.github.io/registry/c/chic-nails-euless/
+2. Lavish Nail Bar | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Lavish Nail Bar is a nail salon in Euless, TX at 1001 East Harwood Road #33, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/lavish-nail-bar-euless/
+3. Magic Nail Spa | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Magic Nail Spa is a nail salon in Euless, TX at 501 North Main Street #101, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/magic-nail-spa-euless/
+4. Maxiam Nail Bar | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Maxiam Nail Bar is a nail salon in Euless, TX at 2921 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/maxiam-nail-bar-euless/
+5. Mlux Nail Bar | Organic #5 | Pulse Score 57.2/100 (Unrated, #5 in city) | Mlux Nail Bar is a nail salon in Euless, TX at 2720 State Hwy 121 #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/mlux-nail-bar-euless/
+6. Ms. Nails & Spa | Organic #6 | Pulse Score 57.2/100 (Unrated, #6 in city) | Ms. Nails & Spa is a nail salon in Euless, TX at 1060 North Main Street #105, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/ms-nails-and-spa-euless/
+7. Pinky's Nails Salon | Organic #7 | Pulse Score 57.2/100 (Unrated, #7 in city) | Pinky's Nails Salon is a nail salon in Euless, TX at 2390 Fuller-Wiser Road #504, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/pinkys-nails-salon-euless/
+8. Texas Nail Bar | Organic #8 | Pulse Score 57.2/100 (Unrated, #8 in city) | Texas Nail Bar is a nail salon in Euless, TX at 918 East Harwood Road #E, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/texas-nail-bar-euless/
+9. Upscale Spa & Nails | Organic #9 | Pulse Score 57.2/100 (Unrated, #9 in city) | Upscale Spa & Nails is a nail salon in Euless, TX at 3010 State Hwy 121 #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/upscale-spa-and-nails-euless/
+10. American Nail Bar | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | American Nail Bar is a nail salon in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/american-nail-bar-euless/
+11. VIP Nails & Spa | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | VIP Nails & Spa is a nail salon in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/vip-nails-and-spa-euless/
+12. Sola Salons | Organic #12 | Pulse Score 45.2/100 (Building, #12 in city) | Sola Salons is a nail salon in Euless, TX at 1321 Chisholm Trail #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/sola-salons-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon euless tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

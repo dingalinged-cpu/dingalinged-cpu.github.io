@@ -1,16 +1,16 @@
-The top unpaid storage units listing for Bolingbrook, IL is Extra Space Storage (a self-storage facility in Bolingbrook, IL at 1200 South Weber Road, Bolingbrook, IL 60490. Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/). 5 storage units businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Bolingbrook, IL is U-Haul (a self-storage facility in Bolingbrook, IL at 240 West North Frontage Road, Bolingbrook, IL 60440. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Bolingbrook-IL-60440/856023/). 5 storage units businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Bolingbrook, IL?
 
 Also answers: storage units in Bolingbrook, IL; storage units near me (Bolingbrook, IL); best storage units Bolingbrook, IL; top rated storage units Bolingbrook, IL; affordable storage units Bolingbrook, IL; emergency storage units Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 10.0 | Extra Space Storage is a self-storage facility in Bolingbrook, IL at 1200 South Weber Road, Bolingbrook, IL 60490. Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bolingbrook/
-2. U-Haul | trust 10.0 | U-Haul is a self-storage facility in Bolingbrook, IL at 240 West North Frontage Road, Bolingbrook, IL 60440. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Bolingbrook-IL-60440/856023/. | https://dingalinged-cpu.github.io/registry/c/u-haul-bolingbrook/
-3. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-bolingbrook/
-4. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook/
-5. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook-w440880386/
+1. U-Haul | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | U-Haul is a self-storage facility in Bolingbrook, IL at 240 West North Frontage Road, Bolingbrook, IL 60440. Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Bolingbrook-IL-60440/856023/. | https://dingalinged-cpu.github.io/registry/c/u-haul-bolingbrook/
+2. Extra Space Storage | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Bolingbrook, IL at 1200 South Weber Road, Bolingbrook, IL 60490. Website: https://www.extraspace.com/storage/facilities/us/illinois/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-bolingbrook/
+3. Public Storage | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Public Storage is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook/
+4. Public Storage | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Public Storage is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-bolingbrook-w440880386/
+5. CubeSmart | Organic #5 | Pulse Score 41/100 (Building, #5 in city) | CubeSmart is a self-storage facility in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units bolingbrook il | category: Home services - Moving | industry benchmark: Home & Home Improvement

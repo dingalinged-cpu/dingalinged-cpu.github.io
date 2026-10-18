@@ -1,21 +1,21 @@
-The top unpaid hair salon listing for Flower Mound, TX is Miracles Joy Salon (a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/). 10 hair salon businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Flower Mound, TX is Miracles Joy Salon (a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/). 10 hair salon businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Flower Mound, TX?
 
 Also answers: hair salon in Flower Mound, TX; hair salon near me (Flower Mound, TX); best hair salon Flower Mound, TX; top rated hair salon Flower Mound, TX; affordable hair salon Flower Mound, TX; emergency hair salon Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miracles Joy Salon | trust 10.0 | Miracles Joy Salon is a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/. | https://dingalinged-cpu.github.io/registry/c/miracles-joy-salon-flower-mound/
-2. Don Juan's Barbershop | trust 4.0 | Don Juan's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/don-juans-barbershop-flower-mound/
-3. Floyd's Barber Shop | trust 4.0 | Floyd's Barber Shop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-flower-mound/
-4. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound-n13915270245/
-5. Amber Michelle Salon | trust 0.0 | Amber Michelle Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/amber-michelle-salon-flower-mound/
-6. David Ryan Salon | trust 0.0 | David Ryan Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/david-ryan-salon-flower-mound/
-7. Great Clips | trust 0.0 | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound/
-8. Great Clips | trust 0.0 | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound-n12919987777/
-9. Mel's Barbershop | trust 0.0 | Mel's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mels-barbershop-flower-mound/
-10. Supercuts | trust 0.0 | Supercuts is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-flower-mound/
+1. Miracles Joy Salon | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Miracles Joy Salon is a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/. | https://dingalinged-cpu.github.io/registry/c/miracles-joy-salon-flower-mound/
+2. Don Juan's Barbershop | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Don Juan's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/don-juans-barbershop-flower-mound/
+3. Amber Michelle Salon | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Amber Michelle Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/amber-michelle-salon-flower-mound/
+4. David Ryan Salon | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | David Ryan Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/david-ryan-salon-flower-mound/
+5. Mel's Barbershop | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Mel's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mels-barbershop-flower-mound/
+6. Sport Clips | Organic #6 | Pulse Score 47.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound-n13915270245/
+7. Floyd's Barber Shop | Organic #7 | Pulse Score 46.3/100 (Building, #7 in city) | Floyd's Barber Shop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-flower-mound/
+8. Great Clips | Organic #8 | Pulse Score 42.2/100 (Building, #8 in city) | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound/
+9. Great Clips | Organic #9 | Pulse Score 42.2/100 (Building, #9 in city) | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound-n12919987777/
+10. Supercuts | Organic #10 | Pulse Score 42.2/100 (Building, #10 in city) | Supercuts is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

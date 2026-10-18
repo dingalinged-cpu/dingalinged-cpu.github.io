@@ -1,17 +1,17 @@
-The top unpaid printing services listing for Plano, TX is FedEx Office (a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114). 6 printing services businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Plano, TX is FedEx Office (a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114). 6 printing services businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Plano, TX?
 
 Also answers: printing services in Plano, TX; printing services near me (Plano, TX); best printing services Plano, TX; top rated printing services Plano, TX; affordable printing services Plano, TX; emergency printing services Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | trust 19.0 | FedEx Office is a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano/
-2. The UPS Store | trust 14.0 | The UPS Store is a printing service in Plano, TX at 3308 Preston Road #350, Plano, TX 75093. Website: https://www.ups.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13712519702/
-3. FedEx Office | trust 4.0 | FedEx Office is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-w291924008/
-4. The UPS Store | trust 4.0 | The UPS Store is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano/
-5. FedEx Office | trust 3.0 | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-n13757574504/
-6. The UPS Store | trust 3.0 | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13792405238/
+1. FedEx Office | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | FedEx Office is a printing service in Plano, TX at 5000 West Park Boulevard #102, Plano, TX. Phone: +19729640801. Website: https://local.fedex.com/en-us/tx/plano/office-3114. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano/
+2. The UPS Store | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | The UPS Store is a printing service in Plano, TX at 3308 Preston Road #350, Plano, TX 75093. Website: https://www.ups.com/. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13712519702/
+3. The UPS Store | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | The UPS Store is a printing service in Plano, TX at 3100 Independence Parkway #311, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano-n13792405238/
+4. FedEx Office | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | FedEx Office is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-w291924008/
+5. FedEx Office | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | FedEx Office is a printing service in Plano, TX at 4152 West Spring Creek Parkway #100, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-plano-n13757574504/
+6. The UPS Store | Organic #6 | Pulse Score 44.5/100 (Building, #6 in city) | The UPS Store is a printing service in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

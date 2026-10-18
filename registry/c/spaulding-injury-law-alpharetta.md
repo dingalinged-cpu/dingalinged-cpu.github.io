@@ -13,7 +13,7 @@ Spaulding Injury Law is a lawyer in Alpharetta, GA at 44 Milton Avenue ##132, Al
 - Website: https://www.spauldinginjurylaw.com/alpharetta/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 10% of lawyers in Atlanta, #1 of 4 lawyers in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

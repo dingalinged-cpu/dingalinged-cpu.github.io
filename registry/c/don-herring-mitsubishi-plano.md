@@ -13,7 +13,7 @@ Don Herring Mitsubishi is an used car dealer in Plano, TX at 4225 West Plano Par
 - Website: https://www.donherringplano.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-20:00; Sa 09:00-18:00
-- Registry Score: 53.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 73% of used car dealers in Dallas–Fort Worth, #7 of 9 used car dealers in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

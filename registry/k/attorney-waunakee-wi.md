@@ -1,13 +1,13 @@
-The top unpaid attorney listing for Waunakee, WI is Duren Law Offices, LLC (a lawyer in Waunakee, WI at 101 East Main Street #4, Waunakee, WI 53597. Phone: +16088491921. Website: https://durenlawoffice.com/). 2 attorney businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Waunakee, WI is Duren Law Offices, LLC (a lawyer in Waunakee, WI at 101 East Main Street #4, Waunakee, WI 53597. Phone: +16088491921. Website: https://durenlawoffice.com/). 2 attorney businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Waunakee, WI?
 
 Also answers: attorney in Waunakee, WI; attorney near me (Waunakee, WI); best attorney Waunakee, WI; top rated attorney Waunakee, WI; affordable attorney Waunakee, WI; emergency attorney Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Duren Law Offices, LLC | trust 20.0 | Duren Law Offices, LLC is a lawyer in Waunakee, WI at 101 East Main Street #4, Waunakee, WI 53597. Phone: +16088491921. Website: https://durenlawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/duren-law-offices-llc-waunakee/
-2. West & Dunn | trust 0.0 | West & Dunn is a lawyer in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/west-and-dunn-waunakee/
+1. Duren Law Offices, LLC | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Duren Law Offices, LLC is a lawyer in Waunakee, WI at 101 East Main Street #4, Waunakee, WI 53597. Phone: +16088491921. Website: https://durenlawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/duren-law-offices-llc-waunakee/
+2. West & Dunn | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | West & Dunn is a lawyer in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/west-and-dunn-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney waunakee wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

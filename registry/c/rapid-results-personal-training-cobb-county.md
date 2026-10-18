@@ -13,7 +13,7 @@ Rapid Results Personal Training is a gym in Cobb County, GA at 3920 Canton Road 
 - Website: https://rapidresultspersonaltraining.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 18% of gyms in Atlanta, #14 of 38 gyms in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

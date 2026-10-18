@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Waxahachie, TX is Condor Child Care (a daycare in Waxahachie, TX at 102 Chambers Circle, Waxahachie, TX 75165). 2 daycare businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Waxahachie, TX is Condor Child Care (a daycare in Waxahachie, TX at 102 Chambers Circle, Waxahachie, TX 75165). 2 daycare businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Waxahachie, TX?
 
 Also answers: daycare in Waxahachie, TX; daycare near me (Waxahachie, TX); best daycare Waxahachie, TX; top rated daycare Waxahachie, TX; affordable daycare Waxahachie, TX; emergency daycare Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Condor Child Care | trust 4.0 | Condor Child Care is a daycare in Waxahachie, TX at 102 Chambers Circle, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/condor-child-care-waxahachie/
-2. Promise Child Development Center | trust 0.0 | Promise Child Development Center is a daycare in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/promise-child-development-center-waxahachie/
+1. Condor Child Care | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Condor Child Care is a daycare in Waxahachie, TX at 102 Chambers Circle, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/condor-child-care-waxahachie/
+2. Promise Child Development Center | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Promise Child Development Center is a daycare in Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/promise-child-development-center-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare waxahachie tx | category: Education & childcare | industry benchmark: Education & Instruction

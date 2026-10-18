@@ -13,7 +13,7 @@ Modern Beauté Salon is a hair salon in Smyrna, GA. Phone: +16785363709.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00; Su 11:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 37% of hair salons in Atlanta, #9 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

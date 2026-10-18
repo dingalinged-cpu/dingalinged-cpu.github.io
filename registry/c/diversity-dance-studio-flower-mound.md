@@ -13,7 +13,7 @@ Diversity Dance Studio is a dance studio in Flower Mound, TX. Phone: +1214285509
 - Website: https://www.diversitydsncestudio.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 14% of dance studios in Dallas–Fort Worth, #3 of 5 dance studios in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

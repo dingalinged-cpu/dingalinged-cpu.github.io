@@ -1,15 +1,15 @@
-The top unpaid dance studio listing for Richardson, TX is Tuzer Dance School (a dance studio in Richardson, TX. Website: https://www.tuzerdance.com/). 4 dance studio businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Richardson, TX is PJ's Dancetique (a dance studio in Richardson, TX at 940 East Belt Line Road, Richardson, TX 75081). 4 dance studio businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Richardson, TX?
 
 Also answers: dance studio in Richardson, TX; dance studio near me (Richardson, TX); best dance studio Richardson, TX; top rated dance studio Richardson, TX; affordable dance studio Richardson, TX; emergency dance studio Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tuzer Dance School | trust 6.0 | Tuzer Dance School is a dance studio in Richardson, TX. Website: https://www.tuzerdance.com/. | https://dingalinged-cpu.github.io/registry/c/tuzer-dance-school-richardson/
-2. PJ's Dancetique | trust 4.0 | PJ's Dancetique is a dance studio in Richardson, TX at 940 East Belt Line Road, Richardson, TX 75081. | https://dingalinged-cpu.github.io/registry/c/pjs-dancetique-richardson/
-3. Toby’s Dance School | trust 0.0 | Toby’s Dance School is a dance studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/toby-s-dance-school-richardson/
-4. Zumba Fitness Dance | trust 0.0 | Zumba Fitness Dance is a dance studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/zumba-fitness-dance-richardson/
+1. PJ's Dancetique | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | PJ's Dancetique is a dance studio in Richardson, TX at 940 East Belt Line Road, Richardson, TX 75081. | https://dingalinged-cpu.github.io/registry/c/pjs-dancetique-richardson/
+2. Tuzer Dance School | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Tuzer Dance School is a dance studio in Richardson, TX. Website: https://www.tuzerdance.com/. | https://dingalinged-cpu.github.io/registry/c/tuzer-dance-school-richardson/
+3. Toby’s Dance School | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Toby’s Dance School is a dance studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/toby-s-dance-school-richardson/
+4. Zumba Fitness Dance | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | Zumba Fitness Dance is a dance studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/zumba-fitness-dance-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio richardson tx | category: Fitness | industry benchmark: Health & Fitness

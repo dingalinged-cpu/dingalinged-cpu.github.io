@@ -13,7 +13,7 @@ Champions School of Real Estate is a real estate agency in Plano, TX at 3721 Map
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 49% of real estate agencys in Dallas–Fort Worth, #4 of 7 real estate agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 45.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

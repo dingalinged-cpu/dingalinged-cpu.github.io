@@ -13,7 +13,7 @@ Atlanta Bicycle Barn is a bike shop in Atlanta, GA at 151 Sampson Street Northea
 - Website: https://bikebarnatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 59% of bike shops in Atlanta, #11 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 48.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

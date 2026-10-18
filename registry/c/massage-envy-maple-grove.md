@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Maple Grove, MN at 8091 Wedgewood Lane, Mapl
 - Website: https://locations.massageenvy.com/minnesota/maple-grove/8091-wedgewood-lane-north.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00;Sa 08:00-21:00;Su 09:00-18:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 81% of massage studios in Minneapolis–St. Paul, #2 of 2 massage studios in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

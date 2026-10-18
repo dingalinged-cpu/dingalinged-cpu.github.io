@@ -1,17 +1,17 @@
-The top unpaid auto body shop listing for Harris County, TX is Crash Champions (an auto repair shop in Harris County, TX. Phone: +12816758000. Website: https://crashchampions.com/locations/crash-champions-katy). 6 auto body shop businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Harris County, TX is Copperfield Collision Center (an auto repair shop in Harris County, TX at 8424 North Highway 6, Harris County, TX). 6 auto body shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Harris County, TX?
 
 Also answers: auto body shop in Harris County, TX; auto body shop near me (Harris County, TX); best auto body shop Harris County, TX; top rated auto body shop Harris County, TX; affordable auto body shop Harris County, TX; emergency auto body shop Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | trust 12.0 | Crash Champions is an auto repair shop in Harris County, TX. Phone: +12816758000. Website: https://crashchampions.com/locations/crash-champions-katy. | https://dingalinged-cpu.github.io/registry/c/crash-champions-harris-county/
-2. Copperfield Collision Center | trust 3.0 | Copperfield Collision Center is an auto repair shop in Harris County, TX at 8424 North Highway 6, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-collision-center-harris-county/
-3. Bates Custom & Collision | trust 0.0 | Bates Custom & Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bates-custom-and-collision-harris-county/
-4. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county/
-5. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county-n12544351728/
-6. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county-n13846618885/
+1. Copperfield Collision Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #7 in city) | Copperfield Collision Center is an auto repair shop in Harris County, TX at 8424 North Highway 6, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-collision-center-harris-county/
+2. Bates Custom & Collision | Organic #2 | Pulse Score 56.4/100 (Unrated, #9 in city) | Bates Custom & Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bates-custom-and-collision-harris-county/
+3. Crash Champions | Organic #3 | Pulse Score 48.3/100 (Building, #41 in city) | Crash Champions is an auto repair shop in Harris County, TX. Phone: +12816758000. Website: https://crashchampions.com/locations/crash-champions-katy. | https://dingalinged-cpu.github.io/registry/c/crash-champions-harris-county/
+4. Caliber Collision | Organic #4 | Pulse Score 42.7/100 (Building, #53 in city) | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county/
+5. Caliber Collision | Organic #5 | Pulse Score 42.7/100 (Building, #54 in city) | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county-n12544351728/
+6. Caliber Collision | Organic #6 | Pulse Score 42.7/100 (Building, #55 in city) | Caliber Collision is an auto repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-harris-county-n13846618885/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop harris county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Sanctuary Salon & Spa is a spa in Sandy Springs, GA at 6160 Peachtree Dunwoody R
 - Website: https://www.sanctuarysalonatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 75% of spas in Atlanta, #1 of 1 spas in Sandy Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

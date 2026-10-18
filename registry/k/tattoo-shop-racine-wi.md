@@ -1,15 +1,15 @@
-The top unpaid tattoo shop listing for Racine, WI is i ov thee dragon (a tattoo shop in Racine, WI at 614 6th Street, Racine, WI). 4 tattoo shop businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Racine, WI is i ov thee dragon (a tattoo shop in Racine, WI at 614 6th Street, Racine, WI). 4 tattoo shop businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Racine, WI?
 
 Also answers: tattoo shop in Racine, WI; tattoo shop near me (Racine, WI); best tattoo shop Racine, WI; top rated tattoo shop Racine, WI; affordable tattoo shop Racine, WI; emergency tattoo shop Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. i ov thee dragon | trust 3.0 | i ov thee dragon is a tattoo shop in Racine, WI at 614 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/i-ov-thee-dragon-racine/
-2. Lost Soul Studio | trust 3.0 | Lost Soul Studio is a tattoo shop in Racine, WI at 407 High Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lost-soul-studio-racine/
-3. Private Stock Tattoo | trust 3.0 | Private Stock Tattoo is a tattoo shop in Racine, WI at 312 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/private-stock-tattoo-racine/
-4. The Studio Tattoo | trust 3.0 | The Studio Tattoo is a tattoo shop in Racine, WI at 307 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-studio-tattoo-racine/
+1. i ov thee dragon | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | i ov thee dragon is a tattoo shop in Racine, WI at 614 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/i-ov-thee-dragon-racine/
+2. Lost Soul Studio | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Lost Soul Studio is a tattoo shop in Racine, WI at 407 High Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lost-soul-studio-racine/
+3. Private Stock Tattoo | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Private Stock Tattoo is a tattoo shop in Racine, WI at 312 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/private-stock-tattoo-racine/
+4. The Studio Tattoo | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | The Studio Tattoo is a tattoo shop in Racine, WI at 307 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-studio-tattoo-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop racine wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

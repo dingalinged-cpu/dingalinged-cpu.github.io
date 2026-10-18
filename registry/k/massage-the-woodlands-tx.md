@@ -1,14 +1,14 @@
-The top unpaid massage listing for The Woodlands, TX is Massage Heights (a massage studio in The Woodlands, TX). 3 massage businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for The Woodlands, TX is Oasis Massage Salon (a massage studio in The Woodlands, TX). 3 massage businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in The Woodlands, TX?
 
 Also answers: massage in The Woodlands, TX; massage near me (The Woodlands, TX); best massage The Woodlands, TX; top rated massage The Woodlands, TX; affordable massage The Woodlands, TX; emergency massage The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Heights | trust 0.0 | Massage Heights is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/massage-heights-the-woodlands/
-2. Oasis Massage Salon | trust 0.0 | Oasis Massage Salon is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/oasis-massage-salon-the-woodlands/
-3. Relaxen Bodywork | trust 0.0 | Relaxen Bodywork is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/relaxen-bodywork-the-woodlands/
+1. Oasis Massage Salon | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Oasis Massage Salon is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/oasis-massage-salon-the-woodlands/
+2. Relaxen Bodywork | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Relaxen Bodywork is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/relaxen-bodywork-the-woodlands/
+3. Massage Heights | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Massage Heights is a massage studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/massage-heights-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage the woodlands tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

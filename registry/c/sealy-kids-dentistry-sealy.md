@@ -13,7 +13,7 @@ Sealy Kids Dentistry is a dentist in Sealy, TX at 2355 TX-36, Sealy, TX 77474. P
 - Website: https://www.sealykidsdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of dentists in Houston, #3 of 3 dentists in Sealy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm Clearance is a mattress store in Atlanta, GA at 2983 Cobb Parkway 
 - Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007117/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.7/100 — Fair — top 26% of mattress stores in Atlanta, #1 of 5 mattress stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 70.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

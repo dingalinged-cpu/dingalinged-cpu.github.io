@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Rowlett, TX is Eagle Tire & Wheel (a tire shop in Rowlett, TX at 5120 Grisham Drive, Rowlett, TX 75088. Phone: +19724630992). 2 tire shop businesses are listed for Rowlett, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Rowlett, TX is Eagle Tire & Wheel (a tire shop in Rowlett, TX at 5120 Grisham Drive, Rowlett, TX 75088. Phone: +19724630992). 2 tire shop businesses are listed for Rowlett, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Rowlett, TX?
 
 Also answers: tire shop in Rowlett, TX; tire shop near me (Rowlett, TX); best tire shop Rowlett, TX; top rated tire shop Rowlett, TX; affordable tire shop Rowlett, TX; emergency tire shop Rowlett, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eagle Tire & Wheel | trust 14.0 | Eagle Tire & Wheel is a tire shop in Rowlett, TX at 5120 Grisham Drive, Rowlett, TX 75088. Phone: +19724630992. | https://dingalinged-cpu.github.io/registry/c/eagle-tire-and-wheel-rowlett/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Rowlett, TX at 5150 Lakeview Parkway, Rowlett, TX 75088. Phone: +14693660188. | https://dingalinged-cpu.github.io/registry/c/discount-tire-rowlett/
+1. Eagle Tire & Wheel | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Eagle Tire & Wheel is a tire shop in Rowlett, TX at 5120 Grisham Drive, Rowlett, TX 75088. Phone: +19724630992. | https://dingalinged-cpu.github.io/registry/c/eagle-tire-and-wheel-rowlett/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Rowlett, TX at 5150 Lakeview Parkway, Rowlett, TX 75088. Phone: +14693660188. | https://dingalinged-cpu.github.io/registry/c/discount-tire-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop rowlett tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

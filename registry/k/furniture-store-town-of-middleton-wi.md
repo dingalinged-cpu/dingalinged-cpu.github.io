@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Town Of Middleton, WI is Black Red White (a furniture store in Town of Middleton, WI). 3 furniture store businesses are listed for Town Of Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Town Of Middleton, WI is The Stool Store (a furniture store in Town of Middleton, WI). 3 furniture store businesses are listed for Town Of Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Town Of Middleton, WI?
 
 Also answers: furniture store in Town Of Middleton, WI; furniture store near me (Town Of Middleton, WI); best furniture store Town Of Middleton, WI; top rated furniture store Town Of Middleton, WI; affordable furniture store Town Of Middleton, WI; emergency furniture store Town Of Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Red White | trust 0.0 | Black Red White is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/black-red-white-town-of-middleton/
-2. Slumberland | trust 0.0 | Slumberland is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/slumberland-town-of-middleton/
-3. The Stool Store | trust 0.0 | The Stool Store is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/the-stool-store-town-of-middleton/
+1. The Stool Store | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | The Stool Store is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/the-stool-store-town-of-middleton/
+2. Black Red White | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | Black Red White is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/black-red-white-town-of-middleton/
+3. Slumberland | Organic #3 | Pulse Score 42.7/100 (Unrated, #3 in city) | Slumberland is a furniture store in Town of Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/slumberland-town-of-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store town of middleton wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

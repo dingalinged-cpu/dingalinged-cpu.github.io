@@ -1,12 +1,12 @@
-The top unpaid florist listing for Oak Park, IL is Westgate Flower and Plant Shop (a florist in Oak Park, IL at 841 South Oak Park Avenue, Oak Park, IL 60304). 1 florist businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Oak Park, IL is Westgate Flower and Plant Shop (a florist in Oak Park, IL at 841 South Oak Park Avenue, Oak Park, IL 60304). 1 florist businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Oak Park, IL?
 
 Also answers: florist in Oak Park, IL; florist near me (Oak Park, IL); best florist Oak Park, IL; top rated florist Oak Park, IL; affordable florist Oak Park, IL; emergency florist Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westgate Flower and Plant Shop | trust 4.0 | Westgate Flower and Plant Shop is a florist in Oak Park, IL at 841 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/westgate-flower-and-plant-shop-oak-park/
+1. Westgate Flower and Plant Shop | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Westgate Flower and Plant Shop is a florist in Oak Park, IL at 841 South Oak Park Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/westgate-flower-and-plant-shop-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist oak park il | category: Events & weddings | industry benchmark: Personal Services

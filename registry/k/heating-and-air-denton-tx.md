@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Denton, TX is BCI Plumbing, Heating and Air (a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/). 2 heating and air businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Denton, TX is BCI Plumbing, Heating and Air (a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/). 2 heating and air businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Denton, TX?
 
 Also answers: heating and air in Denton, TX; heating and air near me (Denton, TX); best heating and air Denton, TX; top rated heating and air Denton, TX; affordable heating and air Denton, TX; emergency heating and air Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BCI Plumbing, Heating and Air | trust 20.0 | BCI Plumbing, Heating and Air is a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/. | https://dingalinged-cpu.github.io/registry/c/bci-plumbing-heating-and-air-denton/
-2. PRK Services, Inc. | trust 16.0 | PRK Services, Inc. is a HVAC contractor in Denton, TX at 904 South Woodrow Lane, Denton, TX 76205. Phone: +19403828554. Website: https://www.fixac.com/. | https://dingalinged-cpu.github.io/registry/c/prk-services-inc-denton/
+1. BCI Plumbing, Heating and Air | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | BCI Plumbing, Heating and Air is a HVAC contractor in Denton, TX at 400 East Oak Street, Denton, TX 76201. Phone: +19403531556. Website: https://www.bcimechanical.com/. | https://dingalinged-cpu.github.io/registry/c/bci-plumbing-heating-and-air-denton/
+2. PRK Services, Inc. | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | PRK Services, Inc. is a HVAC contractor in Denton, TX at 904 South Woodrow Lane, Denton, TX 76205. Phone: +19403828554. Website: https://www.fixac.com/. | https://dingalinged-cpu.github.io/registry/c/prk-services-inc-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air denton tx | category: Home Services | industry benchmark: Home & Home Improvement

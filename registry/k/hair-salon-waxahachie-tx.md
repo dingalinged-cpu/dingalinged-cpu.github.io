@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Waxahachie, TX is Salon Friends (a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/). 4 hair salon businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Waxahachie, TX is Salon Friends (a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/). 4 hair salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Waxahachie, TX?
 
 Also answers: hair salon in Waxahachie, TX; hair salon near me (Waxahachie, TX); best hair salon Waxahachie, TX; top rated hair salon Waxahachie, TX; affordable hair salon Waxahachie, TX; emergency hair salon Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Friends | trust 16.0 | Salon Friends is a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/. | https://dingalinged-cpu.github.io/registry/c/salon-friends-waxahachie/
-2. Karen's Hairstyling | trust 4.0 | Karen's Hairstyling is a hair salon in Waxahachie, TX at 519 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/karens-hairstyling-waxahachie/
-3. Simply Chic | trust 4.0 | Simply Chic is a hair salon in Waxahachie, TX at 513 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/simply-chic-waxahachie/
-4. The Hair House | trust 4.0 | The Hair House is a hair salon in Waxahachie, TX at 432 North Monroe Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-hair-house-waxahachie/
+1. Salon Friends | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Salon Friends is a hair salon in Waxahachie, TX at 106 West Main Street, Waxahachie, TX 75165. Phone: +19729374247. Website: https://salonfriends.com/. | https://dingalinged-cpu.github.io/registry/c/salon-friends-waxahachie/
+2. The Hair House | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | The Hair House is a hair salon in Waxahachie, TX at 432 North Monroe Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-hair-house-waxahachie/
+3. Karen's Hairstyling | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Karen's Hairstyling is a hair salon in Waxahachie, TX at 519 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/karens-hairstyling-waxahachie/
+4. Simply Chic | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Simply Chic is a hair salon in Waxahachie, TX at 513 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/simply-chic-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon waxahachie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

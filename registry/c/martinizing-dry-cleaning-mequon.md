@@ -13,7 +13,7 @@ Martinizing Dry Cleaning is a dry cleaner in Mequon, WI. Website: https://www.my
 - Website: https://www.mymartinizing.com/WisconsinDryCleaningLocations/Mequon
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 88% of dry cleaners in Milwaukee, #1 of 2 dry cleaners in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 44.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

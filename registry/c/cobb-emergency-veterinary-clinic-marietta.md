@@ -13,7 +13,7 @@ Cobb Emergency Veterinary Clinic is a veterinarian in Marietta, GA at 630 Cobb P
 - Website: https://www.cobbevc.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 18% of veterinarians in Atlanta, #9 of 15 veterinarians in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

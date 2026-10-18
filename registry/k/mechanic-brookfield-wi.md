@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Brookfield, WI is Firestone Complete Auto Care (an auto repair shop in Brookfield, WI at 95 N Moorland Road, Brookfield, WI 53005. Phone: +12627536930. Website: https://firestonecompleteautocare.com/). 4 mechanic businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Brookfield, WI is Lutter's Elmbrook Automotive (an auto repair shop in Brookfield, WI at 16880 West Greenfield Avenue, Brookfield, WI). 4 mechanic businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Brookfield, WI?
 
 Also answers: mechanic in Brookfield, WI; mechanic near me (Brookfield, WI); best mechanic Brookfield, WI; top rated mechanic Brookfield, WI; affordable mechanic Brookfield, WI; emergency mechanic Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone Complete Auto Care | trust 20.0 | Firestone Complete Auto Care is an auto repair shop in Brookfield, WI at 95 N Moorland Road, Brookfield, WI 53005. Phone: +12627536930. Website: https://firestonecompleteautocare.com/. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-brookfield/
-2. Lutter's Elmbrook Automotive | trust 7.0 | Lutter's Elmbrook Automotive is an auto repair shop in Brookfield, WI at 16880 West Greenfield Avenue, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/lutters-elmbrook-automotive-brookfield/
-3. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Brookfield, WI at 12555 West North Avenue, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/goodyear-brookfield-w279038418/
-4. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/goodyear-brookfield/
+1. Lutter's Elmbrook Automotive | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Lutter's Elmbrook Automotive is an auto repair shop in Brookfield, WI at 16880 West Greenfield Avenue, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/lutters-elmbrook-automotive-brookfield/
+2. Firestone Complete Auto Care | Organic #2 | Pulse Score 48.8/100 (Unrated, #2 in city) | Firestone Complete Auto Care is an auto repair shop in Brookfield, WI at 95 N Moorland Road, Brookfield, WI 53005. Phone: +12627536930. Website: https://firestonecompleteautocare.com/. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-brookfield/
+3. Goodyear | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Goodyear is an auto repair shop in Brookfield, WI at 12555 West North Avenue, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/goodyear-brookfield-w279038418/
+4. Goodyear | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Goodyear is an auto repair shop in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/goodyear-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic brookfield wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

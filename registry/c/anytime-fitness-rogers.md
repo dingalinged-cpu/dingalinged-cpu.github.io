@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Rogers, MN at 14142 Northdale Boulevard, Rogers, MN 
 - Website: https://www.anytimefitness.com/gyms/143/rogers-mn-55374/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 51% of gyms in Minneapolis–St. Paul, #1 of 3 gyms in Rogers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

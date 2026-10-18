@@ -13,7 +13,7 @@ Bulldog Barber Shop is a hair salon in Richardson, TX at 318 South Central Expre
 - Website: https://www.bulldog-barbershops.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 10:00-18:00; PH off
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Dallas–Fort Worth, #3 of 21 hair salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

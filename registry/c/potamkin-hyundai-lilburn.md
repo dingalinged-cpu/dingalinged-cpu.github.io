@@ -13,7 +13,7 @@ Potamkin Hyundai is an used car dealer in Lilburn, GA at 4355 Stone Mountain Hig
 - Website: https://www.potamkinatlanta.com/
 - Email: kolbk@potamkin.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 88% of used car dealers in Atlanta, #3 of 3 used car dealers in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.6, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

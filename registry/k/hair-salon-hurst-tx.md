@@ -1,16 +1,16 @@
-The top unpaid hair salon listing for Hurst, TX is Love is in The Hair (in The Hair is a hair salon in Hurst, TX at 725 Arcadia Street #36, Hurst, TX 76053. Phone: +18172034422. Website: https://www.loveisinthehairtx.com/). 5 hair salon businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Hurst, TX is Artistic Profiles (a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959). 5 hair salon businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Hurst, TX?
 
 Also answers: hair salon in Hurst, TX; hair salon near me (Hurst, TX); best hair salon Hurst, TX; top rated hair salon Hurst, TX; affordable hair salon Hurst, TX; emergency hair salon Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Love is in The Hair | trust 16.0 | Love is in The Hair is a hair salon in Hurst, TX at 725 Arcadia Street #36, Hurst, TX 76053. Phone: +18172034422. Website: https://www.loveisinthehairtx.com/. | https://dingalinged-cpu.github.io/registry/c/love-is-in-the-hair-hurst/
-2. Artistic Profiles | trust 14.0 | Artistic Profiles is a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959. | https://dingalinged-cpu.github.io/registry/c/artistic-profiles-hurst/
-3. Knockouts | trust 3.0 | Knockouts is a hair salon in Hurst, TX at 520 Grapevine Highway, Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/knockouts-hurst/
-4. AABR Hair Salon | trust 0.0 | AABR Hair Salon is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/aabr-hair-salon-hurst/
-5. Great Clips | trust 0.0 | Great Clips is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-hurst/
+1. Artistic Profiles | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Artistic Profiles is a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst, TX 76053. Phone: +18177853959. | https://dingalinged-cpu.github.io/registry/c/artistic-profiles-hurst/
+2. AABR Hair Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | AABR Hair Salon is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/aabr-hair-salon-hurst/
+3. Love is in The Hair | Organic #3 | Pulse Score 50.4/100 (Fair, #3 in city) | Love is in The Hair is a hair salon in Hurst, TX at 725 Arcadia Street #36, Hurst, TX 76053. Phone: +18172034422. Website: https://www.loveisinthehairtx.com/. | https://dingalinged-cpu.github.io/registry/c/love-is-in-the-hair-hurst/
+4. Knockouts | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | Knockouts is a hair salon in Hurst, TX at 520 Grapevine Highway, Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/knockouts-hurst/
+5. Great Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon hurst tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

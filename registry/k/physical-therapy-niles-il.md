@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Niles, IL is FYZICAL (a physical therapy clinic in Niles, IL at 9519 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473900999. Website: https://fyzicalchicago.com/). 2 physical therapy businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Niles, IL is FYZICAL (a physical therapy clinic in Niles, IL at 9519 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473900999. Website: https://fyzicalchicago.com/). 2 physical therapy businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Niles, IL?
 
 Also answers: physical therapy in Niles, IL; physical therapy near me (Niles, IL); best physical therapy Niles, IL; top rated physical therapy Niles, IL; affordable physical therapy Niles, IL; emergency physical therapy Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FYZICAL | trust 20.0 | FYZICAL is a physical therapy clinic in Niles, IL at 9519 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473900999. Website: https://fyzicalchicago.com/. | https://dingalinged-cpu.github.io/registry/c/fyzical-niles/
-2. Athletico Physical Therapy | trust 10.0 | Athletico Physical Therapy is a physical therapy clinic in Niles, IL at 7119 West Dempster Street, Niles, IL 60714. Website: https://www.athletico.com/locations/morton-grove/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-niles/
+1. FYZICAL | Organic #1 | Pulse Score 50.1/100 (Unrated, #1 in city) | FYZICAL is a physical therapy clinic in Niles, IL at 9519 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473900999. Website: https://fyzicalchicago.com/. | https://dingalinged-cpu.github.io/registry/c/fyzical-niles/
+2. Athletico Physical Therapy | Organic #2 | Pulse Score 47.7/100 (Building, #2 in city) | Athletico Physical Therapy is a physical therapy clinic in Niles, IL at 7119 West Dempster Street, Niles, IL 60714. Website: https://www.athletico.com/locations/morton-grove/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy niles il | category: Health & medical | industry benchmark: Physicians & Surgeons

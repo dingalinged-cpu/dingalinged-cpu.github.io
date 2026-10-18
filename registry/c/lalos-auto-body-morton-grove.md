@@ -13,7 +13,7 @@ Lalo's Auto Body is an auto repair shop in Morton Grove, IL at 8621 Lincoln Aven
 - Website: n/a
 - Email: laloautobody@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Chicago, #1 of 7 auto repair shops in Morton Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

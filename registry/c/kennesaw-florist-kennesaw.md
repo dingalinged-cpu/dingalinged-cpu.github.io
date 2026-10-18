@@ -13,7 +13,7 @@ Kennesaw Florist is a florist in Kennesaw, GA at 2724 Summers Street Northwest, 
 - Website: https://www.kennesawflorist.com/
 - Email: kennesawflorist@bellsouth.net
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 36% of florists in Atlanta, #2 of 3 florists in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid staffing agency listing for Bloomington, MN is TempWorks Software (a staffing agency in Bloomington, MN at 5600 West 83rd Street #400, Bloomington, MN 55437. Phone: +16514520366. Website: https://www.tempworks.com/). 1 staffing agency businesses are listed for Bloomington, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Bloomington, MN is TempWorks Software (a staffing agency in Bloomington, MN at 5600 West 83rd Street #400, Bloomington, MN 55437. Phone: +16514520366. Website: https://www.tempworks.com/). 1 staffing agency businesses are listed for Bloomington, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Bloomington, MN?
 
 Also answers: staffing agency in Bloomington, MN; staffing agency near me (Bloomington, MN); best staffing agency Bloomington, MN; top rated staffing agency Bloomington, MN; affordable staffing agency Bloomington, MN; emergency staffing agency Bloomington, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TempWorks Software | trust 20.0 | TempWorks Software is a staffing agency in Bloomington, MN at 5600 West 83rd Street #400, Bloomington, MN 55437. Phone: +16514520366. Website: https://www.tempworks.com/. | https://dingalinged-cpu.github.io/registry/c/tempworks-software-bloomington/
+1. TempWorks Software | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | TempWorks Software is a staffing agency in Bloomington, MN at 5600 West 83rd Street #400, Bloomington, MN 55437. Phone: +16514520366. Website: https://www.tempworks.com/. | https://dingalinged-cpu.github.io/registry/c/tempworks-software-bloomington/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency bloomington mn | category: b2b_services | industry benchmark: Business Services

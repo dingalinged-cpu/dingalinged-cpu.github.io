@@ -13,7 +13,7 @@ Blindside Barber Company is a barber shop in Shorewood, WI at 2520 East Capitol 
 - Website: https://www.blindsidebarbers.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 45% of barber shops in Milwaukee, #2 of 2 barber shops in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

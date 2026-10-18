@@ -1,14 +1,14 @@
-The top unpaid ob gyn listing for Flower Mound, TX is Flower Mound Women's Care (an OB-GYN practice in Flower Mound, TX at Long Prairie Road #E, Flower Mound, TX. Phone: +19728999787. Website: https://www.flowermoundobgyn.com/). 3 ob gyn businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Flower Mound, TX is Flower Mound Women's Care (an OB-GYN practice in Flower Mound, TX at Long Prairie Road #E, Flower Mound, TX. Phone: +19728999787. Website: https://www.flowermoundobgyn.com/). 3 ob gyn businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Flower Mound, TX?
 
 Also answers: ob gyn in Flower Mound, TX; ob gyn near me (Flower Mound, TX); best ob gyn Flower Mound, TX; top rated ob gyn Flower Mound, TX; affordable ob gyn Flower Mound, TX; emergency ob gyn Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flower Mound Women's Care | trust 15.0 | Flower Mound Women's Care is an OB-GYN practice in Flower Mound, TX at Long Prairie Road #E, Flower Mound, TX. Phone: +19728999787. Website: https://www.flowermoundobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/flower-mound-womens-care-flower-mound/
-2. North Texas Ob-Gyn Associates | trust 9.0 | North Texas Ob-Gyn Associates is an OB-GYN practice in Flower Mound, TX at 3424 Long Prairie Road #200, Flower Mound, TX. Phone: +19724367557. | https://dingalinged-cpu.github.io/registry/c/north-texas-ob-gyn-associates-flower-mound/
-3. Obstetrics & Gynecology Associates | trust 7.0 | Obstetrics & Gynecology Associates is an OB-GYN practice in Flower Mound, TX at 4001 Long Prairie Rd #150, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/obstetrics-and-gynecology-associates-flower-mound/
+1. Flower Mound Women's Care | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Flower Mound Women's Care is an OB-GYN practice in Flower Mound, TX at Long Prairie Road #E, Flower Mound, TX. Phone: +19728999787. Website: https://www.flowermoundobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/flower-mound-womens-care-flower-mound/
+2. North Texas Ob-Gyn Associates | Organic #2 | Pulse Score 59.9/100 (Fair, #2 in city) | North Texas Ob-Gyn Associates is an OB-GYN practice in Flower Mound, TX at 3424 Long Prairie Road #200, Flower Mound, TX. Phone: +19724367557. | https://dingalinged-cpu.github.io/registry/c/north-texas-ob-gyn-associates-flower-mound/
+3. Obstetrics & Gynecology Associates | Organic #3 | Pulse Score 58.9/100 (Fair, #3 in city) | Obstetrics & Gynecology Associates is an OB-GYN practice in Flower Mound, TX at 4001 Long Prairie Rd #150, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/obstetrics-and-gynecology-associates-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

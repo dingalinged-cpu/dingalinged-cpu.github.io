@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Oak Park, IL is CorePower Yoga (a yoga studio in Oak Park, IL at 855 Madison Street, Oak Park, IL 60302). 2 yoga classes businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Oak Park, IL is Yoga Trek (a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park, IL 60304). 2 yoga classes businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Oak Park, IL?
 
 Also answers: yoga classes in Oak Park, IL; yoga classes near me (Oak Park, IL); best yoga classes Oak Park, IL; top rated yoga classes Oak Park, IL; affordable yoga classes Oak Park, IL; emergency yoga classes Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Oak Park, IL at 855 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-oak-park/
-2. Yoga Trek | trust 4.0 | Yoga Trek is a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/yoga-trek-oak-park/
+1. Yoga Trek | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Yoga Trek is a yoga studio in Oak Park, IL at 911 South Lombard Avenue, Oak Park, IL 60304. | https://dingalinged-cpu.github.io/registry/c/yoga-trek-oak-park/
+2. CorePower Yoga | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | CorePower Yoga is a yoga studio in Oak Park, IL at 855 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes oak park il | category: Fitness | industry benchmark: Health & Fitness

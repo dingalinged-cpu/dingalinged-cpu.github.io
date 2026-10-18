@@ -1,16 +1,16 @@
-The top unpaid storage units listing for Stonecrest, GA is Extra Space Storage (a self-storage facility in Stonecrest, GA). 5 storage units businesses are listed for Stonecrest, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Stonecrest, GA is Extra Space Storage (a self-storage facility in Stonecrest, GA). 5 storage units businesses are listed for Stonecrest, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Stonecrest, GA?
 
 Also answers: storage units in Stonecrest, GA; storage units near me (Stonecrest, GA); best storage units Stonecrest, GA; top rated storage units Stonecrest, GA; affordable storage units Stonecrest, GA; emergency storage units Stonecrest, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stonecrest/
-2. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stonecrest-w377793932/
-3. Life Storage | trust 0.0 | Life Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/life-storage-stonecrest/
-4. Mini Storage Depot | trust 0.0 | Mini Storage Depot is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/mini-storage-depot-stonecrest/
-5. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-stonecrest/
+1. Extra Space Storage | Organic #1 | Pulse Score 42.6/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stonecrest-w377793932/
+2. Life Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Life Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/life-storage-stonecrest/
+3. Mini Storage Depot | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Mini Storage Depot is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/mini-storage-depot-stonecrest/
+4. Public Storage | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | Public Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-stonecrest/
+5. Extra Space Storage | Organic #5 | Pulse Score 42.2/100 (Unrated, #5 in city) | Extra Space Storage is a self-storage facility in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-stonecrest/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units stonecrest ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

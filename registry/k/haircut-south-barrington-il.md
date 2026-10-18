@@ -1,13 +1,13 @@
-The top unpaid haircut listing for South Barrington, IL is Sport Clips (a hair salon in South Barrington, IL at 100 West Higgins Road #M-25, South Barrington, IL 60010). 2 haircut businesses are listed for South Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for South Barrington, IL is Kid Snips (a hair salon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL). 2 haircut businesses are listed for South Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in South Barrington, IL?
 
 Also answers: haircut in South Barrington, IL; haircut near me (South Barrington, IL); best haircut South Barrington, IL; top rated haircut South Barrington, IL; affordable haircut South Barrington, IL; emergency haircut South Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 4.0 | Sport Clips is a hair salon in South Barrington, IL at 100 West Higgins Road #M-25, South Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/sport-clips-south-barrington/
-2. Kid Snips | trust 3.0 | Kid Snips is a hair salon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/kid-snips-south-barrington/
+1. Kid Snips | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Kid Snips is a hair salon in South Barrington, IL at 100 West Higgins Road, South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/kid-snips-south-barrington/
+2. Sport Clips | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Sport Clips is a hair salon in South Barrington, IL at 100 West Higgins Road #M-25, South Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/sport-clips-south-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut south barrington il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

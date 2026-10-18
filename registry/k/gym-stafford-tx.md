@@ -1,12 +1,12 @@
-The top unpaid gym listing for Stafford, TX is Alphalete Gym (a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545). 1 gym businesses are listed for Stafford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Stafford, TX is Alphalete Gym (a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545). 1 gym businesses are listed for Stafford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Stafford, TX?
 
 Also answers: gym in Stafford, TX; gym near me (Stafford, TX); best gym Stafford, TX; top rated gym Stafford, TX; affordable gym Stafford, TX; emergency gym Stafford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alphalete Gym | trust 14.0 | Alphalete Gym is a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545. | https://dingalinged-cpu.github.io/registry/c/alphalete-gym-stafford/
+1. Alphalete Gym | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Alphalete Gym is a gym in Stafford, TX at 711 Avenue E, Stafford, TX 77477. Phone: +12819697545. | https://dingalinged-cpu.github.io/registry/c/alphalete-gym-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym stafford tx | category: Fitness | industry benchmark: Health & Fitness

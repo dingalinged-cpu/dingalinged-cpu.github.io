@@ -1,13 +1,13 @@
-The top unpaid facial listing for Alpharetta, GA is Alpha Lan Med Spa (a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/). 2 facial businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Alpharetta, GA is Alpha Lan Med Spa (a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/). 2 facial businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Alpharetta, GA?
 
 Also answers: facial in Alpharetta, GA; facial near me (Alpharetta, GA); best facial Alpharetta, GA; top rated facial Alpharetta, GA; affordable facial Alpharetta, GA; emergency facial Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alpha Lan Med Spa | trust 20.0 | Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-lan-med-spa-alpharetta/
-2. Brow Art 23 | trust 0.0 | Brow Art 23 is a skin care studio in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/brow-art-23-alpharetta/
+1. Alpha Lan Med Spa | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-lan-med-spa-alpharetta/
+2. Brow Art 23 | Organic #2 | Pulse Score 39.7/100 (Building, #2 in city) | Brow Art 23 is a skin care studio in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/brow-art-23-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial alpharetta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

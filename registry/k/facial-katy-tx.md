@@ -1,14 +1,14 @@
-The top unpaid facial listing for Katy, TX is Ulta Beauty (a skin care studio in Katy, TX at 455 South Fry Road, Katy, TX 77450. Phone: +12816468808. Website: https://www.ulta.com/stores/katy-tx-93). 3 facial businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Katy, TX is ZenSkinsation by Nelson (a skin care studio in Katy, TX at 26077 Nelson Way #401, Katy, TX 77494. Phone: +18324644516. Website: https://zenskinsation.square.site/). 3 facial businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Katy, TX?
 
 Also answers: facial in Katy, TX; facial near me (Katy, TX); best facial Katy, TX; top rated facial Katy, TX; affordable facial Katy, TX; emergency facial Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Katy, TX at 455 South Fry Road, Katy, TX 77450. Phone: +12816468808. Website: https://www.ulta.com/stores/katy-tx-93. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-katy/
-2. ZenSkinsation by Nelson | trust 20.0 | ZenSkinsation by Nelson is a skin care studio in Katy, TX at 26077 Nelson Way #401, Katy, TX 77494. Phone: +18324644516. Website: https://zenskinsation.square.site/. | https://dingalinged-cpu.github.io/registry/c/zenskinsation-by-nelson-katy/
-3. Sola Salons | trust 4.0 | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sola-salons-katy/
+1. ZenSkinsation by Nelson | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | ZenSkinsation by Nelson is a skin care studio in Katy, TX at 26077 Nelson Way #401, Katy, TX 77494. Phone: +18324644516. Website: https://zenskinsation.square.site/. | https://dingalinged-cpu.github.io/registry/c/zenskinsation-by-nelson-katy/
+2. Sola Salons | Organic #2 | Pulse Score 47.1/100 (Building, #8 in city) | Sola Salons is a nail salon in Katy, TX at 24022 Cinco Village Center Boulevard #120, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sola-salons-katy/
+3. Ulta Beauty | Organic #3 | Pulse Score 46.4/100 (Building, #2 in city) | Ulta Beauty is a skin care studio in Katy, TX at 455 South Fry Road, Katy, TX 77450. Phone: +12816468808. Website: https://www.ulta.com/stores/katy-tx-93. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

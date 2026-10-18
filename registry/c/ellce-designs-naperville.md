@@ -13,7 +13,7 @@ Ellce Designs is an architect in Naperville, IL at 21 West Jefferson Avenue, Nap
 - Website: https://www.ellcedesigns.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo , Su off; Tu-Fr 10:00-17:00; Sa 10:00-16:00
-- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 15% of architects in Chicago, #1 of 3 architects in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Homer Glen, IL is Eco Dental (a dentist in Homer Glen, IL at 14403 South Bell Road, Homer Glen, IL 60491. Phone: +17089664018. Website: https://www.myecodental.com/). 3 dentist businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Homer Glen, IL is Eco Dental (a dentist in Homer Glen, IL at 14403 South Bell Road, Homer Glen, IL 60491. Phone: +17089664018. Website: https://www.myecodental.com/). 3 dentist businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Homer Glen, IL?
 
 Also answers: dentist in Homer Glen, IL; dentist near me (Homer Glen, IL); best dentist Homer Glen, IL; top rated dentist Homer Glen, IL; affordable dentist Homer Glen, IL; emergency dentist Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eco Dental | trust 16.0 | Eco Dental is a dentist in Homer Glen, IL at 14403 South Bell Road, Homer Glen, IL 60491. Phone: +17089664018. Website: https://www.myecodental.com/. | https://dingalinged-cpu.github.io/registry/c/eco-dental-homer-glen/
-2. Booth Orthodontics | trust 14.0 | Booth Orthodontics is a dentist in Homer Glen, IL at 12635 West 143rd Street, Homer Glen, IL 60491. Website: https://boothorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/booth-orthodontics-homer-glen/
-3. Homer Dental Care | trust 10.0 | Homer Dental Care is a dentist in Homer Glen, IL at 14309 South Golden Oak Drive, Homer Glen, IL 60491. Phone: +17083015885. | https://dingalinged-cpu.github.io/registry/c/homer-dental-care-homer-glen/
+1. Eco Dental | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Eco Dental is a dentist in Homer Glen, IL at 14403 South Bell Road, Homer Glen, IL 60491. Phone: +17089664018. Website: https://www.myecodental.com/. | https://dingalinged-cpu.github.io/registry/c/eco-dental-homer-glen/
+2. Booth Orthodontics | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Booth Orthodontics is a dentist in Homer Glen, IL at 12635 West 143rd Street, Homer Glen, IL 60491. Website: https://boothorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/booth-orthodontics-homer-glen/
+3. Homer Dental Care | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | Homer Dental Care is a dentist in Homer Glen, IL at 14309 South Golden Oak Drive, Homer Glen, IL 60491. Phone: +17083015885. | https://dingalinged-cpu.github.io/registry/c/homer-dental-care-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist homer glen il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

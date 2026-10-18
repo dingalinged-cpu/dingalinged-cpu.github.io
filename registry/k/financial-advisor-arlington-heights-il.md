@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Arlington Heights, IL is The Princeton Group (a financial advisor in Arlington Heights, IL at 150 West Campbell Street, Arlington Heights, IL 60005. Website: https://www.theprincetongrp.com/). 2 financial advisor businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Arlington Heights, IL is The Princeton Group (a financial advisor in Arlington Heights, IL at 150 West Campbell Street, Arlington Heights, IL 60005. Website: https://www.theprincetongrp.com/). 2 financial advisor businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Arlington Heights, IL?
 
 Also answers: financial advisor in Arlington Heights, IL; financial advisor near me (Arlington Heights, IL); best financial advisor Arlington Heights, IL; top rated financial advisor Arlington Heights, IL; affordable financial advisor Arlington Heights, IL; emergency financial advisor Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Princeton Group | trust 10.0 | The Princeton Group is a financial advisor in Arlington Heights, IL at 150 West Campbell Street, Arlington Heights, IL 60005. Website: https://www.theprincetongrp.com/. | https://dingalinged-cpu.github.io/registry/c/the-princeton-group-arlington-heights/
-2. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/edward-jones-arlington-heights/
+1. The Princeton Group | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | The Princeton Group is a financial advisor in Arlington Heights, IL at 150 West Campbell Street, Arlington Heights, IL 60005. Website: https://www.theprincetongrp.com/. | https://dingalinged-cpu.github.io/registry/c/the-princeton-group-arlington-heights/
+2. Edward Jones | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Edward Jones is a financial advisor in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/edward-jones-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor arlington heights il | category: Professional & financial services | industry benchmark: Finance & Insurance

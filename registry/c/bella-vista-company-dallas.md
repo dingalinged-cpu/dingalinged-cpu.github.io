@@ -13,7 +13,7 @@ Bella Vista Company is an architect in Dallas, TX at 8989 Garland Road, Dallas, 
 - Website: https://bellavistacompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 65% of architects in Dallas–Fort Worth, #5 of 6 architects in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

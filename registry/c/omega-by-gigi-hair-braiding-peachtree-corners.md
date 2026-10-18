@@ -13,7 +13,7 @@ Omega By Gigi Hair Braiding is a hair salon in Peachtree Corners, GA at 3466 Hol
 - Website: n/a
 - Email: omegabygigi@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 7% of hair salons in Atlanta, #1 of 4 hair salons in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

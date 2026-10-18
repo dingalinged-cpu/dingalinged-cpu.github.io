@@ -13,7 +13,7 @@ Happy Dental And Orthodontics is a dentist in Marietta, GA at 2852 Delk Road Sou
 - Website: https://mariettacosmeticdentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-17:00; We-Fr 09:00-19:00; Sa 09:00-12:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 6% of dentists in Atlanta, #6 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 63.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

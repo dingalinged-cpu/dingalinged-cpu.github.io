@@ -13,7 +13,7 @@ Guild + Journeyman is a bike shop in Decatur, GA at 115 Clairemont Avenue, Decat
 - Website: https://www.guildjourneyman.com/
 - Email: info@guildjourneyman.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 30% of bike shops in Atlanta, #1 of 1 bike shops in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid locksmith listing for Frankfort, IL is Armor Security (a locksmith in Frankfort, IL. Phone: +18154690606. Website: https://armorlocksmiths.com/). 1 locksmith businesses are listed for Frankfort, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Frankfort, IL is Armor Security (a locksmith in Frankfort, IL. Phone: +18154690606. Website: https://armorlocksmiths.com/). 1 locksmith businesses are listed for Frankfort, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Frankfort, IL?
 
 Also answers: locksmith in Frankfort, IL; locksmith near me (Frankfort, IL); best locksmith Frankfort, IL; top rated locksmith Frankfort, IL; affordable locksmith Frankfort, IL; emergency locksmith Frankfort, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Armor Security | trust 17.0 | Armor Security is a locksmith in Frankfort, IL. Phone: +18154690606. Website: https://armorlocksmiths.com/. | https://dingalinged-cpu.github.io/registry/c/armor-security-frankfort/
+1. Armor Security | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Armor Security is a locksmith in Frankfort, IL. Phone: +18154690606. Website: https://armorlocksmiths.com/. | https://dingalinged-cpu.github.io/registry/c/armor-security-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith frankfort il | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

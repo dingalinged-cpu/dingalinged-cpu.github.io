@@ -13,7 +13,7 @@ Blend Salon & Skincare is a hair salon in Lisle, IL at 1111 Burlington Avenue #1
 - Website: https://www.blendhairandskincare.com/
 - Email: teamblend@blendhairandskincare.com
 - Opening hours (OSM syntax): Mo 11:00-19:00; Tu-Th 10:00-18:00; Fr 10:00-18:00; Sa 09:00-17:00; Su "By appointment with Beth"
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 2% of hair salons in Chicago, #1 of 1 hair salons in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

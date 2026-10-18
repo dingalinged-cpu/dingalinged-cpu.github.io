@@ -13,7 +13,7 @@ SUV Properties is a real estate agency in Village of Germantown, WI at W156N1104
 - Website: https://www.suvproperties.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Th 09:00-12:00
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 18% of real estate agencys in Milwaukee, #1 of 1 real estate agencys in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,18 +1,18 @@
-The top unpaid dentist listing for Keller, TX is Highland Oaks Family Dentistry - Keller, TX (a dentist in Keller, TX at 700 N Tarrant Pkwy, Keller, TX 76248. Phone: +18178863547. Website: https://highlandoaksfamilydentistry.com/). 7 dentist businesses are listed for Keller, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Keller, TX is Highland Oaks Family Dentistry - Keller, TX (a dentist in Keller, TX at 700 N Tarrant Pkwy, Keller, TX 76248. Phone: +18178863547. Website: https://highlandoaksfamilydentistry.com/). 7 dentist businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Keller, TX?
 
 Also answers: dentist in Keller, TX; dentist near me (Keller, TX); best dentist Keller, TX; top rated dentist Keller, TX; affordable dentist Keller, TX; emergency dentist Keller, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Highland Oaks Family Dentistry - Keller, TX | trust 16.0 | Highland Oaks Family Dentistry - Keller, TX is a dentist in Keller, TX at 700 N Tarrant Pkwy, Keller, TX 76248. Phone: +18178863547. Website: https://highlandoaksfamilydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/highland-oaks-family-dentistry-keller-tx-keller/
-2. Gina Biedermann DDS | trust 14.0 | Gina Biedermann DDS is a dentist in Keller, TX at 940 Keller Parkway #170, Keller, TX 76248. Website: https://www.docbiedermann.com/. | https://dingalinged-cpu.github.io/registry/c/gina-biedermann-dds-keller/
-3. KL Dental Studio | trust 14.0 | KL Dental Studio is a dentist in Keller, TX at 1675 North Tarrant Parkway #200, Keller, TX 76248. Website: https://kldentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/kl-dental-studio-keller/
-4. Keller Family Dentistry, Sleep & Facial pain | trust 4.0 | Keller Family Dentistry, Sleep & Facial pain is a dentist in Keller, TX at 841 North Tarrant Parkway ##112, Keller, TX 76248. | https://dingalinged-cpu.github.io/registry/c/keller-family-dentistry-sleep-and-facial-pain-keller/
-5. Ideal Dental | trust 0.0 | Ideal Dental is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-keller/
-6. North Tarrant Family Dentistry | trust 0.0 | North Tarrant Family Dentistry is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/north-tarrant-family-dentistry-keller/
-7. NuTeeth | trust 0.0 | NuTeeth is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/nuteeth-keller/
+1. Highland Oaks Family Dentistry - Keller, TX | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Highland Oaks Family Dentistry - Keller, TX is a dentist in Keller, TX at 700 N Tarrant Pkwy, Keller, TX 76248. Phone: +18178863547. Website: https://highlandoaksfamilydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/highland-oaks-family-dentistry-keller-tx-keller/
+2. Gina Biedermann DDS | Organic #2 | Pulse Score 63.2/100 (Unrated, #2 in city) | Gina Biedermann DDS is a dentist in Keller, TX at 940 Keller Parkway #170, Keller, TX 76248. Website: https://www.docbiedermann.com/. | https://dingalinged-cpu.github.io/registry/c/gina-biedermann-dds-keller/
+3. KL Dental Studio | Organic #3 | Pulse Score 60.8/100 (Unrated, #3 in city) | KL Dental Studio is a dentist in Keller, TX at 1675 North Tarrant Parkway #200, Keller, TX 76248. Website: https://kldentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/kl-dental-studio-keller/
+4. Keller Family Dentistry, Sleep & Facial pain | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Keller Family Dentistry, Sleep & Facial pain is a dentist in Keller, TX at 841 North Tarrant Parkway ##112, Keller, TX 76248. | https://dingalinged-cpu.github.io/registry/c/keller-family-dentistry-sleep-and-facial-pain-keller/
+5. North Tarrant Family Dentistry | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | North Tarrant Family Dentistry is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/north-tarrant-family-dentistry-keller/
+6. NuTeeth | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | NuTeeth is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/nuteeth-keller/
+7. Ideal Dental | Organic #7 | Pulse Score 41.7/100 (Unrated, #7 in city) | Ideal Dental is a dentist in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist keller tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

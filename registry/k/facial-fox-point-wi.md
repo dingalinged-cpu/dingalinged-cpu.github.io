@@ -1,12 +1,12 @@
-The top unpaid facial listing for Fox Point, WI is aPeel Skin Spa (a skin care studio in Fox Point, WI at 8653 North Port Washington Road, Fox Point, WI 53217. Phone: +14144779220. Website: https://www.apeelskinspa.com/). 1 facial businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Fox Point, WI is aPeel Skin Spa (a skin care studio in Fox Point, WI at 8653 North Port Washington Road, Fox Point, WI 53217. Phone: +14144779220. Website: https://www.apeelskinspa.com/). 1 facial businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Fox Point, WI?
 
 Also answers: facial in Fox Point, WI; facial near me (Fox Point, WI); best facial Fox Point, WI; top rated facial Fox Point, WI; affordable facial Fox Point, WI; emergency facial Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. aPeel Skin Spa | trust 20.0 | aPeel Skin Spa is a skin care studio in Fox Point, WI at 8653 North Port Washington Road, Fox Point, WI 53217. Phone: +14144779220. Website: https://www.apeelskinspa.com/. | https://dingalinged-cpu.github.io/registry/c/apeel-skin-spa-fox-point/
+1. aPeel Skin Spa | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | aPeel Skin Spa is a skin care studio in Fox Point, WI at 8653 North Port Washington Road, Fox Point, WI 53217. Phone: +14144779220. Website: https://www.apeelskinspa.com/. | https://dingalinged-cpu.github.io/registry/c/apeel-skin-spa-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial fox point wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

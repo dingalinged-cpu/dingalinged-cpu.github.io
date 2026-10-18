@@ -1,13 +1,13 @@
-The top unpaid it support listing for Racine, WI is Lafave LLC (an IT support company in Racine, WI at 3543 Republic Avenue, Racine, WI 53405. Phone: +12628650066. Website: https://www.lafavellc.com/). 2 it support businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Racine, WI is Lafave LLC (an IT support company in Racine, WI at 3543 Republic Avenue, Racine, WI 53405. Phone: +12628650066. Website: https://www.lafavellc.com/). 2 it support businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Racine, WI?
 
 Also answers: it support in Racine, WI; it support near me (Racine, WI); best it support Racine, WI; top rated it support Racine, WI; affordable it support Racine, WI; emergency it support Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lafave LLC | trust 20.0 | Lafave LLC is an IT support company in Racine, WI at 3543 Republic Avenue, Racine, WI 53405. Phone: +12628650066. Website: https://www.lafavellc.com/. | https://dingalinged-cpu.github.io/registry/c/lafave-llc-racine/
-2. Innovative Dynamic Networks | trust 19.0 | Innovative Dynamic Networks is an IT support company in Racine, WI at 610 6th Street, Racine, WI. Phone: +12629951190. Website: https://idn-wi.com/. | https://dingalinged-cpu.github.io/registry/c/innovative-dynamic-networks-racine/
+1. Lafave LLC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Lafave LLC is an IT support company in Racine, WI at 3543 Republic Avenue, Racine, WI 53405. Phone: +12628650066. Website: https://www.lafavellc.com/. | https://dingalinged-cpu.github.io/registry/c/lafave-llc-racine/
+2. Innovative Dynamic Networks | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Innovative Dynamic Networks is an IT support company in Racine, WI at 610 6th Street, Racine, WI. Phone: +12629951190. Website: https://idn-wi.com/. | https://dingalinged-cpu.github.io/registry/c/innovative-dynamic-networks-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support racine wi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

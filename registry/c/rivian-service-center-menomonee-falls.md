@@ -13,7 +13,7 @@ Rivian Service Center is an auto repair shop in Menomonee Falls, WI at N59W13500
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa 09:00-17:30
-- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 80% of auto repair shops in Milwaukee, #2 of 4 auto repair shops in Menomonee Falls (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

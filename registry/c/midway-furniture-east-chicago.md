@@ -13,7 +13,7 @@ Midway Furniture is a furniture store in East Chicago, IN at 800 West Chicago Av
 - Website: https://www.midwayfurniture.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00, Su 10:00-17:00
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of furniture stores in Chicago, #1 of 2 furniture stores in East Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

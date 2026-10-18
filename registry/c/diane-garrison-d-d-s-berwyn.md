@@ -13,7 +13,7 @@ Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn,
 - Website: https://www.dianegarrisondds.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 40% of dentists in Chicago, #3 of 3 dentists in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

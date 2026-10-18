@@ -13,7 +13,7 @@ South Texas Dental is a dentist in Grand Prairie, TX at 106 East Main Street, Gr
 - Website: https://www.southtexasdental.com/locations-arlington.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 09:00-17:00; Tu,Th 11:00-19:00; Sa 09:00-15:00
-- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 4% of dentists in Dallas–Fort Worth, #3 of 6 dentists in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

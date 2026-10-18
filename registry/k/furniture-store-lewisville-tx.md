@@ -1,17 +1,17 @@
-The top unpaid furniture store listing for Lewisville, TX is Home Zone (a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/). 6 furniture store businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Lewisville, TX is Home Zone (a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/). 6 furniture store businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Lewisville, TX?
 
 Also answers: furniture store in Lewisville, TX; furniture store near me (Lewisville, TX); best furniture store Lewisville, TX; top rated furniture store Lewisville, TX; affordable furniture store Lewisville, TX; emergency furniture store Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Home Zone | trust 13.0 | Home Zone is a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-lewisville/
-2. Furniture Buy Consignment | trust 10.0 | Furniture Buy Consignment is a furniture store in Lewisville, TX. Website: https://www.furniturebuyconsignment.com/. | https://dingalinged-cpu.github.io/registry/c/furniture-buy-consignment-lewisville/
-3. The Leather Sofa Co. | trust 10.0 | The Leather Sofa Co. is a furniture store in Lewisville, TX. Website: https://www.leathersofaco.com/. | https://dingalinged-cpu.github.io/registry/c/the-leather-sofa-co-lewisville/
-4. Home Zone Furniture | trust 7.0 | Home Zone Furniture is a furniture store in Lewisville, TX at 420 East Round Grove Road #300B, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-lewisville/
-5. Buddy's Home Furnishings | trust 4.0 | Buddy's Home Furnishings is a furniture store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/buddys-home-furnishings-lewisville/
-6. Lifestyle Furniture | trust 4.0 | Lifestyle Furniture is a furniture store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lifestyle-furniture-lewisville/
+1. Home Zone | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Home Zone is a furniture store in Lewisville, TX at 997 Valley Ridge Boulevard, Lewisville, TX. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-lewisville/
+2. The Leather Sofa Co. | Organic #2 | Pulse Score 62.1/100 (Good, #2 in city) | The Leather Sofa Co. is a furniture store in Lewisville, TX. Website: https://www.leathersofaco.com/. | https://dingalinged-cpu.github.io/registry/c/the-leather-sofa-co-lewisville/
+3. Furniture Buy Consignment | Organic #3 | Pulse Score 61.2/100 (Unrated, #3 in city) | Furniture Buy Consignment is a furniture store in Lewisville, TX. Website: https://www.furniturebuyconsignment.com/. | https://dingalinged-cpu.github.io/registry/c/furniture-buy-consignment-lewisville/
+4. Buddy's Home Furnishings | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Buddy's Home Furnishings is a furniture store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/buddys-home-furnishings-lewisville/
+5. Lifestyle Furniture | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Lifestyle Furniture is a furniture store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lifestyle-furniture-lewisville/
+6. Home Zone Furniture | Organic #6 | Pulse Score 50.6/100 (Fair, #6 in city) | Home Zone Furniture is a furniture store in Lewisville, TX at 420 East Round Grove Road #300B, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

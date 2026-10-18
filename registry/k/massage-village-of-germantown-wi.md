@@ -1,12 +1,12 @@
-The top unpaid massage listing for Village Of Germantown, WI is Yin Yang Massage (a massage studio in Village of Germantown, WI at W156N11074 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144696698. Website: https://yinyangmeridian.godaddysites.com/). 1 massage businesses are listed for Village Of Germantown, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Village Of Germantown, WI is Yin Yang Massage (a massage studio in Village of Germantown, WI at W156N11074 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144696698. Website: https://yinyangmeridian.godaddysites.com/). 1 massage businesses are listed for Village Of Germantown, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Village Of Germantown, WI?
 
 Also answers: massage in Village Of Germantown, WI; massage near me (Village Of Germantown, WI); best massage Village Of Germantown, WI; top rated massage Village Of Germantown, WI; affordable massage Village Of Germantown, WI; emergency massage Village Of Germantown, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Yin Yang Massage | trust 20.0 | Yin Yang Massage is a massage studio in Village of Germantown, WI at W156N11074 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144696698. Website: https://yinyangmeridian.godaddysites.com/. | https://dingalinged-cpu.github.io/registry/c/yin-yang-massage-village-of-germantown/
+1. Yin Yang Massage | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Yin Yang Massage is a massage studio in Village of Germantown, WI at W156N11074 Pilgrim Road, Village of Germantown, WI 53022. Phone: +14144696698. Website: https://yinyangmeridian.godaddysites.com/. | https://dingalinged-cpu.github.io/registry/c/yin-yang-massage-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage village of germantown wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

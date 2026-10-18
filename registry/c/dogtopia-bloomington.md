@@ -13,7 +13,7 @@ Dogtopia is a dog boarding facility in Bloomington, MN at 5208 West 84th Street,
 - Website: https://www.dogtopia.com/bloomington/
 - Email: bloomington@dogtopia.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 10:00-17:00
-- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 87% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 1 dog boarding facilitys in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

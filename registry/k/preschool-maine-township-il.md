@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Maine Township, IL is First Steps Preschool (a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps). 1 preschool businesses are listed for Maine Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Maine Township, IL is First Steps Preschool (a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps). 1 preschool businesses are listed for Maine Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Maine Township, IL?
 
 Also answers: preschool in Maine Township, IL; preschool near me (Maine Township, IL); best preschool Maine Township, IL; top rated preschool Maine Township, IL; affordable preschool Maine Township, IL; emergency preschool Maine Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Steps Preschool | trust 10.0 | First Steps Preschool is a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps. | https://dingalinged-cpu.github.io/registry/c/first-steps-preschool-des-plaines/
+1. First Steps Preschool | Organic #1 | Pulse Score 59.8/100 (Unrated, #2 in city) | First Steps Preschool is a preschool in Des Plaines, IL at 10000 North Dee Road, Des Plaines, IL 60016. Website: https://emsd63.org/firststeps. | https://dingalinged-cpu.github.io/registry/c/first-steps-preschool-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool maine township il | category: Education & childcare | industry benchmark: Education & Instruction

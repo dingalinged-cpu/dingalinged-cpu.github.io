@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Hanover Park, IL is Ace Transmission Inc (an auto repair shop in Hanover Park, IL at 2107 East Irving Park Road, Hanover Park, IL 60133. Phone: +16302898030). 4 mechanic businesses are listed for Hanover Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hanover Park, IL is Ace Transmission Inc (an auto repair shop in Hanover Park, IL at 2107 East Irving Park Road, Hanover Park, IL 60133. Phone: +16302898030). 4 mechanic businesses are listed for Hanover Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hanover Park, IL?
 
 Also answers: mechanic in Hanover Park, IL; mechanic near me (Hanover Park, IL); best mechanic Hanover Park, IL; top rated mechanic Hanover Park, IL; affordable mechanic Hanover Park, IL; emergency mechanic Hanover Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ace Transmission Inc | trust 14.0 | Ace Transmission Inc is an auto repair shop in Hanover Park, IL at 2107 East Irving Park Road, Hanover Park, IL 60133. Phone: +16302898030. | https://dingalinged-cpu.github.io/registry/c/ace-transmission-inc-hanover-park/
-2. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Hanover Park, IL at 1600 East Irving Park Road, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hanover-park/
-3. Merlin Complete Auto Care | trust 4.0 | Merlin Complete Auto Care is an auto repair shop in Hanover Park, IL at 1680 East Irving Park Road, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/merlin-complete-auto-care-hanover-park/
-4. Midas | trust 0.0 | Midas is an auto repair shop in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/midas-hanover-park/
+1. Ace Transmission Inc | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Ace Transmission Inc is an auto repair shop in Hanover Park, IL at 2107 East Irving Park Road, Hanover Park, IL 60133. Phone: +16302898030. | https://dingalinged-cpu.github.io/registry/c/ace-transmission-inc-hanover-park/
+2. Jiffy Lube | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Hanover Park, IL at 1600 East Irving Park Road, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hanover-park/
+3. Merlin Complete Auto Care | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Merlin Complete Auto Care is an auto repair shop in Hanover Park, IL at 1680 East Irving Park Road, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/merlin-complete-auto-care-hanover-park/
+4. Midas | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Midas is an auto repair shop in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/midas-hanover-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hanover park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

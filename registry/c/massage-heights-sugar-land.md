@@ -13,7 +13,7 @@ Massage Heights is a massage studio in Sugar Land, TX at 1875 State Highway 6 #5
 - Website: https://www.massageheights.com/sugarland/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 09:00-19:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 72% of massage studios in Houston, #3 of 5 massage studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

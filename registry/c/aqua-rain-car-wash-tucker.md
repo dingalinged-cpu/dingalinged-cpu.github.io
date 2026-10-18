@@ -13,7 +13,7 @@ Aqua Rain Car Wash is a car wash in Tucker, GA at 4037 Lawrenceville Highway, Tu
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of car washes in Atlanta, #1 of 1 car washes in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

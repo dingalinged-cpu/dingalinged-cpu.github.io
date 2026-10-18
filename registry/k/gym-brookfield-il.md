@@ -1,14 +1,14 @@
-The top unpaid gym listing for Brookfield, IL is Sokol Spirit Family Fitness (a gym in Brookfield, IL at 3909 Prairie Avenue, Brookfield, IL 60513. Website: https://www.sokolspirit.org/). 3 gym businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Brookfield, IL is Sokol Spirit Family Fitness (a gym in Brookfield, IL at 3909 Prairie Avenue, Brookfield, IL 60513. Website: https://www.sokolspirit.org/). 3 gym businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Brookfield, IL?
 
 Also answers: gym in Brookfield, IL; gym near me (Brookfield, IL); best gym Brookfield, IL; top rated gym Brookfield, IL; affordable gym Brookfield, IL; emergency gym Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sokol Spirit Family Fitness | trust 10.0 | Sokol Spirit Family Fitness is a gym in Brookfield, IL at 3909 Prairie Avenue, Brookfield, IL 60513. Website: https://www.sokolspirit.org/. | https://dingalinged-cpu.github.io/registry/c/sokol-spirit-family-fitness-brookfield/
-2. American Sokol | trust 0.0 | American Sokol is a gym in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/american-sokol-brookfield/
-3. CrossFit | trust 0.0 | CrossFit is a gym in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/crossfit-brookfield/
+1. Sokol Spirit Family Fitness | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Sokol Spirit Family Fitness is a gym in Brookfield, IL at 3909 Prairie Avenue, Brookfield, IL 60513. Website: https://www.sokolspirit.org/. | https://dingalinged-cpu.github.io/registry/c/sokol-spirit-family-fitness-brookfield/
+2. American Sokol | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | American Sokol is a gym in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/american-sokol-brookfield/
+3. CrossFit | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | CrossFit is a gym in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/crossfit-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym brookfield il | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Carmen Carmen Hair Studio is a hair salon in Roswell, GA at 1480 Woodstock Road,
 - Website: n/a
 - Email: carmencarmenhairstudio@gmail.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 09:00-18:00; Sa 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 6% of hair salons in Atlanta, #2 of 13 hair salons in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

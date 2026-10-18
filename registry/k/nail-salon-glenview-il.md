@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Glenview, IL is La Mode Nails Glenview (a nail salon in Glenview, IL at 3240 Greenwood Road, Glenview, IL 60025. Phone: +12246613923). 2 nail salon businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Glenview, IL is La Mode Nails Glenview (a nail salon in Glenview, IL at 3240 Greenwood Road, Glenview, IL 60025. Phone: +12246613923). 2 nail salon businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Glenview, IL?
 
 Also answers: nail salon in Glenview, IL; nail salon near me (Glenview, IL); best nail salon Glenview, IL; top rated nail salon Glenview, IL; affordable nail salon Glenview, IL; emergency nail salon Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Mode Nails Glenview | trust 10.0 | La Mode Nails Glenview is a nail salon in Glenview, IL at 3240 Greenwood Road, Glenview, IL 60025. Phone: +12246613923. | https://dingalinged-cpu.github.io/registry/c/la-mode-nails-glenview-glenview/
-2. Blooming Nails | trust 0.0 | Blooming Nails is a nail salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/blooming-nails-glenview/
+1. La Mode Nails Glenview | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | La Mode Nails Glenview is a nail salon in Glenview, IL at 3240 Greenwood Road, Glenview, IL 60025. Phone: +12246613923. | https://dingalinged-cpu.github.io/registry/c/la-mode-nails-glenview-glenview/
+2. Blooming Nails | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Blooming Nails is a nail salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/blooming-nails-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon glenview il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

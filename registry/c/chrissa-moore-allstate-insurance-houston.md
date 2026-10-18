@@ -13,7 +13,7 @@ Chrissa Moore: Allstate Insurance is an insurance agent in Houston, TX at 550 We
 - Website: https://agents.allstate.com/chrissa-moore-houston-tx.html
 - Email: chrissamoore@allstate.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa-Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 41% of insurance agents in Houston, #47 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

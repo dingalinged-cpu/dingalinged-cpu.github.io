@@ -1,16 +1,16 @@
-The top unpaid tax preparer listing for Denton, TX is H&R Block (a tax preparation service in Denton, TX at 2710 West University Drive #Suite 1010, Denton, TX 76201). 5 tax preparer businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Denton, TX is H&R Block (a tax preparation service in Denton, TX at 5017 Teasley Lane #Suite 147, Denton, TX 76210). 5 tax preparer businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Denton, TX?
 
 Also answers: tax preparer in Denton, TX; tax preparer near me (Denton, TX); best tax preparer Denton, TX; top rated tax preparer Denton, TX; affordable tax preparer Denton, TX; emergency tax preparer Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Denton, TX at 2710 West University Drive #Suite 1010, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton/
-2. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Denton, TX at 5017 Teasley Lane #Suite 147, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton-n4760381925/
-3. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Denton, TX at 1012 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton-n9412742208/
-4. Jackson Hewitt | trust 4.0 | Jackson Hewitt is a tax preparation service in Denton, TX at 1710 West University Drive #Suite 110, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-denton/
-5. Liberty Tax | trust 4.0 | Liberty Tax is a tax preparation service in Denton, TX at 732 Fort Worth Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-denton/
+1. H&R Block | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | H&R Block is a tax preparation service in Denton, TX at 5017 Teasley Lane #Suite 147, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton-n4760381925/
+2. Jackson Hewitt | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in Denton, TX at 1710 West University Drive #Suite 110, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-denton/
+3. Liberty Tax | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Liberty Tax is a tax preparation service in Denton, TX at 732 Fort Worth Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-denton/
+4. H&R Block | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | H&R Block is a tax preparation service in Denton, TX at 2710 West University Drive #Suite 1010, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton/
+5. H&R Block | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | H&R Block is a tax preparation service in Denton, TX at 1012 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-denton-n9412742208/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer denton tx | category: professional_accounting | industry benchmark: Business Services

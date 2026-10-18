@@ -1,12 +1,12 @@
-The top unpaid window replacement listing for Cobb County, GA is The Glass Man (a window installer in Cobb County, GA at 4456 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17704219100). 1 window replacement businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Cobb County, GA is The Glass Man (a window installer in Cobb County, GA at 4456 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17704219100). 1 window replacement businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Cobb County, GA?
 
 Also answers: window replacement in Cobb County, GA; window replacement near me (Cobb County, GA); best window replacement Cobb County, GA; top rated window replacement Cobb County, GA; affordable window replacement Cobb County, GA; emergency window replacement Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Glass Man | trust 9.0 | The Glass Man is a window installer in Cobb County, GA at 4456 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17704219100. | https://dingalinged-cpu.github.io/registry/c/the-glass-man-cobb-county/
+1. The Glass Man | Organic #1 | Pulse Score 57.9/100 (Fair, #1 in city) | The Glass Man is a window installer in Cobb County, GA at 4456 Bells Ferry Road Northwest, Cobb County, GA. Phone: +17704219100. | https://dingalinged-cpu.github.io/registry/c/the-glass-man-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement cobb county ga | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

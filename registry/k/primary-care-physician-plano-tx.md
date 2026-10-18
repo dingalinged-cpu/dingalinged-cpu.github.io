@@ -1,14 +1,14 @@
-The top unpaid primary care physician listing for Plano, TX is Sleep Rehab (a family medicine practice in Plano, TX at 3447 East Renner Road, Plano, TX 75074). 3 primary care physician businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Plano, TX is WellBridge Healthcare (a family medicine practice in Plano, TX at 4301 Mapleshade Lane, Plano, TX 75093). 3 primary care physician businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Plano, TX?
 
 Also answers: primary care physician in Plano, TX; primary care physician near me (Plano, TX); best primary care physician Plano, TX; top rated primary care physician Plano, TX; affordable primary care physician Plano, TX; emergency primary care physician Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sleep Rehab | trust 4.0 | Sleep Rehab is a family medicine practice in Plano, TX at 3447 East Renner Road, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/sleep-rehab-plano/
-2. Urgent Care of Texas | trust 4.0 | Urgent Care of Texas is a family medicine practice in Plano, TX at 3909 West Parker Road #104, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/urgent-care-of-texas-plano/
-3. WellBridge Healthcare | trust 4.0 | WellBridge Healthcare is a family medicine practice in Plano, TX at 4301 Mapleshade Lane, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/wellbridge-healthcare-plano/
+1. WellBridge Healthcare | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | WellBridge Healthcare is a family medicine practice in Plano, TX at 4301 Mapleshade Lane, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/wellbridge-healthcare-plano/
+2. Sleep Rehab | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Sleep Rehab is a family medicine practice in Plano, TX at 3447 East Renner Road, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/sleep-rehab-plano/
+3. Urgent Care of Texas | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Urgent Care of Texas is a family medicine practice in Plano, TX at 3909 West Parker Road #104, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/urgent-care-of-texas-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

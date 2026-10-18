@@ -13,7 +13,7 @@ DJ's Transmissions is an auto repair shop in Milwaukee, WI at 7325 West Fond du 
 - Website: https://djstransmissions.com/
 - Email: DJstransmissions@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Milwaukee, #4 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

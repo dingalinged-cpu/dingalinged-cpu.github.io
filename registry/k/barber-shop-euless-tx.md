@@ -1,17 +1,17 @@
-The top unpaid barber shop listing for Euless, TX is Euless North Barber Ship (a barber shop in Euless, TX at 103 West Harwood Road, Euless, TX 76039). 6 barber shop businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Euless, TX is Euless North Barber Ship (a barber shop in Euless, TX at 103 West Harwood Road, Euless, TX 76039). 6 barber shop businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Euless, TX?
 
 Also answers: barber shop in Euless, TX; barber shop near me (Euless, TX); best barber shop Euless, TX; top rated barber shop Euless, TX; affordable barber shop Euless, TX; emergency barber shop Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Euless North Barber Ship | trust 4.0 | Euless North Barber Ship is a barber shop in Euless, TX at 103 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/euless-north-barber-ship-euless/
-2. Floyd's Barbershop | trust 4.0 | Floyd's Barbershop is a barber shop in Euless, TX at 2511 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-euless/
-3. Kreative Cuts | trust 4.0 | Kreative Cuts is a barber shop in Euless, TX at 501 North Main Street #107, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/kreative-cuts-euless/
-4. Razors Edge | trust 4.0 | Razors Edge is a barber shop in Euless, TX at 1005 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/razors-edge-euless/
-5. Styles Barber & Beauty | trust 4.0 | Styles Barber & Beauty is a barber shop in Euless, TX at 415 North Main Street #107, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/styles-barber-and-beauty-euless/
-6. Casa Gold Cuts Barbershop | trust 3.0 | Casa Gold Cuts Barbershop is a barber shop in Euless, TX at 613, Euless, TX. | https://dingalinged-cpu.github.io/registry/c/casa-gold-cuts-barbershop-euless/
+1. Euless North Barber Ship | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Euless North Barber Ship is a barber shop in Euless, TX at 103 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/euless-north-barber-ship-euless/
+2. Floyd's Barbershop | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Floyd's Barbershop is a barber shop in Euless, TX at 2511 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-euless/
+3. Kreative Cuts | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Kreative Cuts is a barber shop in Euless, TX at 501 North Main Street #107, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/kreative-cuts-euless/
+4. Razors Edge | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Razors Edge is a barber shop in Euless, TX at 1005 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/razors-edge-euless/
+5. Styles Barber & Beauty | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Styles Barber & Beauty is a barber shop in Euless, TX at 415 North Main Street #107, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/styles-barber-and-beauty-euless/
+6. Casa Gold Cuts Barbershop | Organic #6 | Pulse Score 56.1/100 (Unrated, #6 in city) | Casa Gold Cuts Barbershop is a barber shop in Euless, TX at 613, Euless, TX. | https://dingalinged-cpu.github.io/registry/c/casa-gold-cuts-barbershop-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop euless tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

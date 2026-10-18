@@ -13,7 +13,7 @@ A-La Auto Insurance is an insurance agent in Lewisville, TX. Phone: +19724310838
 - Website: https://www.alaautoinsurance.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su "Open on this day"
-- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 3% of insurance agents in Dallas–Fort Worth, #1 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

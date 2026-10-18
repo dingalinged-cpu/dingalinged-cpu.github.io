@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Carol Stream, IL is AWE Air Water Energy (a HVAC contractor in Carol Stream, IL at 295 Carlton Drive, Carol Stream, IL 60188. Phone: +16302937663. Website: https://www.theawefactor.com/). 1 hvac repair businesses are listed for Carol Stream, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Carol Stream, IL is AWE Air Water Energy (a HVAC contractor in Carol Stream, IL at 295 Carlton Drive, Carol Stream, IL 60188. Phone: +16302937663. Website: https://www.theawefactor.com/). 1 hvac repair businesses are listed for Carol Stream, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Carol Stream, IL?
 
 Also answers: hvac repair in Carol Stream, IL; hvac repair near me (Carol Stream, IL); best hvac repair Carol Stream, IL; top rated hvac repair Carol Stream, IL; affordable hvac repair Carol Stream, IL; emergency hvac repair Carol Stream, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AWE Air Water Energy | trust 16.0 | AWE Air Water Energy is a HVAC contractor in Carol Stream, IL at 295 Carlton Drive, Carol Stream, IL 60188. Phone: +16302937663. Website: https://www.theawefactor.com/. | https://dingalinged-cpu.github.io/registry/c/awe-air-water-energy-carol-stream/
+1. AWE Air Water Energy | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | AWE Air Water Energy is a HVAC contractor in Carol Stream, IL at 295 Carlton Drive, Carol Stream, IL 60188. Phone: +16302937663. Website: https://www.theawefactor.com/. | https://dingalinged-cpu.github.io/registry/c/awe-air-water-energy-carol-stream/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair carol stream il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

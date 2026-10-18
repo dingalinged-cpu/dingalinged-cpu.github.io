@@ -13,7 +13,7 @@ Wisconsin Power Yoga is a yoga studio in Burlington, WI at 164 East Washington S
 - Website: https://www.wipoweryoga.com/
 - Email: wipoweryoga@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 34% of yoga studios in Milwaukee, #1 of 1 yoga studios in Burlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

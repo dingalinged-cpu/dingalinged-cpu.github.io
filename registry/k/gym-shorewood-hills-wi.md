@@ -1,13 +1,13 @@
-The top unpaid gym listing for Shorewood Hills, WI is Madabolic (a gym in Shorewood Hills, WI at 2852 University Avenue, Shorewood Hills, WI. Phone: +16084716820. Website: https://madabolic.com/). 2 gym businesses are listed for Shorewood Hills, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Shorewood Hills, WI is Madabolic (a gym in Shorewood Hills, WI at 2852 University Avenue, Shorewood Hills, WI. Phone: +16084716820. Website: https://madabolic.com/). 2 gym businesses are listed for Shorewood Hills, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Shorewood Hills, WI?
 
 Also answers: gym in Shorewood Hills, WI; gym near me (Shorewood Hills, WI); best gym Shorewood Hills, WI; top rated gym Shorewood Hills, WI; affordable gym Shorewood Hills, WI; emergency gym Shorewood Hills, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madabolic | trust 15.0 | Madabolic is a gym in Shorewood Hills, WI at 2852 University Avenue, Shorewood Hills, WI. Phone: +16084716820. Website: https://madabolic.com/. | https://dingalinged-cpu.github.io/registry/c/madabolic-shorewood-hills/
-2. Gracie | trust 0.0 | Gracie is a gym in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/gracie-shorewood-hills/
+1. Madabolic | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Madabolic is a gym in Shorewood Hills, WI at 2852 University Avenue, Shorewood Hills, WI. Phone: +16084716820. Website: https://madabolic.com/. | https://dingalinged-cpu.github.io/registry/c/madabolic-shorewood-hills/
+2. Gracie | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Gracie is a gym in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/gracie-shorewood-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym shorewood hills wi | category: Fitness | industry benchmark: Health & Fitness

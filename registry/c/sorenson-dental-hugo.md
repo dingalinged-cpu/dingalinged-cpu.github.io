@@ -13,7 +13,7 @@ Sorenson Dental is a dentist in Hugo, MN at 14688 Everton Avenue North, Hugo, MN
 - Website: https://www.sorensondental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 09:00-17:00; We 08:00-16:00; Fr[1],Fr[3] 09:00-14:00 open "every other Friday"
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 16% of dentists in Minneapolis–St. Paul, #1 of 1 dentists in Hugo (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

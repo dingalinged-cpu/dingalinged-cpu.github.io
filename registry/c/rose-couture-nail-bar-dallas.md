@@ -13,7 +13,7 @@ Rose Couture Nail Bar is a nail salon in Dallas, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:00-19:00; Su 11:30-17:00
-- Registry Score: 44/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 94% of nail salons in Dallas–Fort Worth, #44 of 51 nail salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

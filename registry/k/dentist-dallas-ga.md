@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Dallas, GA is Seven Hills Dentistry (a dentist in Dallas, GA at 1305 Cedarcrest Road #115, Dallas, GA 30132. Phone: +16782577117. Website: https://www.mysevenhillsdentist.com/). 1 dentist businesses are listed for Dallas, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Dallas, GA is Seven Hills Dentistry (a dentist in Dallas, GA at 1305 Cedarcrest Road #115, Dallas, GA 30132. Phone: +16782577117. Website: https://www.mysevenhillsdentist.com/). 1 dentist businesses are listed for Dallas, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Dallas, GA?
 
 Also answers: dentist in Dallas, GA; dentist near me (Dallas, GA); best dentist Dallas, GA; top rated dentist Dallas, GA; affordable dentist Dallas, GA; emergency dentist Dallas, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Seven Hills Dentistry | trust 20.0 | Seven Hills Dentistry is a dentist in Dallas, GA at 1305 Cedarcrest Road #115, Dallas, GA 30132. Phone: +16782577117. Website: https://www.mysevenhillsdentist.com/. | https://dingalinged-cpu.github.io/registry/c/seven-hills-dentistry-dallas/
+1. Seven Hills Dentistry | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Seven Hills Dentistry is a dentist in Dallas, GA at 1305 Cedarcrest Road #115, Dallas, GA 30132. Phone: +16782577117. Website: https://www.mysevenhillsdentist.com/. | https://dingalinged-cpu.github.io/registry/c/seven-hills-dentistry-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dallas ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

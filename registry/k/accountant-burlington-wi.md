@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Burlington, WI is Kevin P Schuerman CPA (an accountant in Burlington, WI at 372 North Pine Street, Burlington, WI 53105). 1 accountant businesses are listed for Burlington, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Burlington, WI is Kevin P Schuerman CPA (an accountant in Burlington, WI at 372 North Pine Street, Burlington, WI 53105). 1 accountant businesses are listed for Burlington, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Burlington, WI?
 
 Also answers: accountant in Burlington, WI; accountant near me (Burlington, WI); best accountant Burlington, WI; top rated accountant Burlington, WI; affordable accountant Burlington, WI; emergency accountant Burlington, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kevin P Schuerman CPA | trust 4.0 | Kevin P Schuerman CPA is an accountant in Burlington, WI at 372 North Pine Street, Burlington, WI 53105. | https://dingalinged-cpu.github.io/registry/c/kevin-p-schuerman-cpa-burlington/
+1. Kevin P Schuerman CPA | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Kevin P Schuerman CPA is an accountant in Burlington, WI at 372 North Pine Street, Burlington, WI 53105. | https://dingalinged-cpu.github.io/registry/c/kevin-p-schuerman-cpa-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant burlington wi | category: professional_accounting | industry benchmark: Business Services

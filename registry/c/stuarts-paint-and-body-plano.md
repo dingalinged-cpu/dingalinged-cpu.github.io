@@ -13,7 +13,7 @@ Stuart's Paint & Body is an auto repair shop in Plano, TX at 4420 Tradition Trai
 - Website: https://stuartspaintandbody.com/
 - Email: cali@stuartspnb.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 1% of auto repair shops in Dallas–Fort Worth, #1 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

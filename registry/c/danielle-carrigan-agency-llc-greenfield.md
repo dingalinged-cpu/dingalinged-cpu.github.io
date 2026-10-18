@@ -13,7 +13,7 @@ Danielle Carrigan Agency LLC is an insurance agent in Greenfield, WI at 4147 Sou
 - Website: https://www.amfam.com/agents/wisconsin/greenfield/danielle-carrigan
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 51.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 49% of insurance agents in Milwaukee, #4 of 10 insurance agents in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

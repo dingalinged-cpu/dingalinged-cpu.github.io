@@ -13,7 +13,7 @@ Tailorite Complete Clothing Care is a dry cleaner in Chicago, IL at 8459 South C
 - Website: https://tailoriteclothingcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 20% of dry cleaners in Chicago, #21 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

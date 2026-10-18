@@ -1,17 +1,17 @@
-The top unpaid phone repair listing for Houston, TX is Gadget MD (a phone repair shop in Houston, TX at 4529 Kingwood Drive, Houston, TX 77345. Phone: +12819281322. Website: https://www.mygadgetmd.com/locations/kingwood.html). 6 phone repair businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Houston, TX is Cell Doc Tomball (a phone repair shop in Houston, TX at 22503 Tomball Parkway #300, Houston, TX 77070. Phone: +12819650313). 6 phone repair businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Houston, TX?
 
 Also answers: phone repair in Houston, TX; phone repair near me (Houston, TX); best phone repair Houston, TX; top rated phone repair Houston, TX; affordable phone repair Houston, TX; emergency phone repair Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gadget MD | trust 16.0 | Gadget MD is a phone repair shop in Houston, TX at 4529 Kingwood Drive, Houston, TX 77345. Phone: +12819281322. Website: https://www.mygadgetmd.com/locations/kingwood.html. | https://dingalinged-cpu.github.io/registry/c/gadget-md-houston/
-2. Cell Doc Tomball | trust 10.0 | Cell Doc Tomball is a phone repair shop in Houston, TX at 22503 Tomball Parkway #300, Houston, TX 77070. Phone: +12819650313. | https://dingalinged-cpu.github.io/registry/c/cell-doc-tomball-houston/
-3. uBreakiFix | trust 3.0 | uBreakiFix is a phone repair shop in Houston, TX at 446 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston-n10665807950/
-4. Cell Phone Repair | trust 0.0 | Cell Phone Repair is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-houston/
-5. uBreakiFix | trust 0.0 | uBreakiFix is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston/
-6. uBreakiFix | trust 0.0 | uBreakiFix is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston-n9228394754/
+1. Cell Doc Tomball | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Cell Doc Tomball is a phone repair shop in Houston, TX at 22503 Tomball Parkway #300, Houston, TX 77070. Phone: +12819650313. | https://dingalinged-cpu.github.io/registry/c/cell-doc-tomball-houston/
+2. Gadget MD | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Gadget MD is a phone repair shop in Houston, TX at 4529 Kingwood Drive, Houston, TX 77345. Phone: +12819281322. Website: https://www.mygadgetmd.com/locations/kingwood.html. | https://dingalinged-cpu.github.io/registry/c/gadget-md-houston/
+3. uBreakiFix | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | uBreakiFix is a phone repair shop in Houston, TX at 446 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston-n10665807950/
+4. uBreakiFix | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | uBreakiFix is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston/
+5. Cell Phone Repair | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Cell Phone Repair is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-houston/
+6. uBreakiFix | Organic #6 | Pulse Score 41.6/100 (Building, #6 in city) | uBreakiFix is a phone repair shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-houston-n9228394754/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair houston tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

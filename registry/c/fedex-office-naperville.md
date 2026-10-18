@@ -13,7 +13,7 @@ FedEx Office is a printing service in Naperville, IL at 860 75th Street #128, Na
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 42% of printing services in Chicago, #5 of 6 printing services in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Emmanuel Salon is a hair salon in Sugar Land, TX at 1875 State Highway 6 #400, S
 - Website: https://emmanuelsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-15:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Houston, #2 of 10 hair salons in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

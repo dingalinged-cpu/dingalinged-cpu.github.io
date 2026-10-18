@@ -13,7 +13,7 @@ Semeria Imports, Inc. is an auto repair shop in Prospect Heights, IL at 851 East
 - Website: https://www.semeriaimports.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 13% of auto repair shops in Chicago, #2 of 3 auto repair shops in Prospect Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

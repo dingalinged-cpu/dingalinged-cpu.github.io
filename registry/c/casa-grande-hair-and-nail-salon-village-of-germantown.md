@@ -13,7 +13,7 @@ Casa Grande Hair And Nail Salon is a nail salon in Village of Germantown, WI at 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-20:00; Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 08:00-15:00
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Milwaukee, #1 of 1 nail salons in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

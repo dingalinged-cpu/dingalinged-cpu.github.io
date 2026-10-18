@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Rosemont, IL is Lee Nail Salon (a nail salon in Rosemont, IL at 7072 Mannheim Road, Rosemont, IL 60018). 1 nail salon businesses are listed for Rosemont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Rosemont, IL is Lee Nail Salon (a nail salon in Rosemont, IL at 7072 Mannheim Road, Rosemont, IL 60018). 1 nail salon businesses are listed for Rosemont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Rosemont, IL?
 
 Also answers: nail salon in Rosemont, IL; nail salon near me (Rosemont, IL); best nail salon Rosemont, IL; top rated nail salon Rosemont, IL; affordable nail salon Rosemont, IL; emergency nail salon Rosemont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee Nail Salon | trust 4.0 | Lee Nail Salon is a nail salon in Rosemont, IL at 7072 Mannheim Road, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/lee-nail-salon-rosemont/
+1. Lee Nail Salon | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Lee Nail Salon is a nail salon in Rosemont, IL at 7072 Mannheim Road, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/lee-nail-salon-rosemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon rosemont il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

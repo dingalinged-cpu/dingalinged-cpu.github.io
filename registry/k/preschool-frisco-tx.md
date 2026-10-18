@@ -1,16 +1,16 @@
-The top unpaid preschool listing for Frisco, TX is The PREP School at Panther Creek (a preschool in Frisco, TX at 11000 Panther Creek Parkway, Frisco, TX 75035). 5 preschool businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Frisco, TX is Kids USA Montessori of Frisco (a preschool in Frisco, TX at 8890 Meadow Hill Drive, Frisco, TX). 5 preschool businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Frisco, TX?
 
 Also answers: preschool in Frisco, TX; preschool near me (Frisco, TX); best preschool Frisco, TX; top rated preschool Frisco, TX; affordable preschool Frisco, TX; emergency preschool Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The PREP School at Panther Creek | trust 4.0 | The PREP School at Panther Creek is a preschool in Frisco, TX at 11000 Panther Creek Parkway, Frisco, TX 75035. | https://dingalinged-cpu.github.io/registry/c/the-prep-school-at-panther-creek-frisco/
-2. Kids USA Montessori of Frisco | trust 3.0 | Kids USA Montessori of Frisco is a preschool in Frisco, TX at 8890 Meadow Hill Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kids-usa-montessori-of-frisco-frisco/
-3. Legacy Learning Center | trust 3.0 | Legacy Learning Center is a preschool in Frisco, TX at 8227 FM 423, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-learning-center-frisco/
-4. Primrose School | trust 0.0 | Primrose School is a preschool in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-frisco/
-5. The Goddard School | trust 0.0 | The Goddard School is a preschool in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-frisco/
+1. Kids USA Montessori of Frisco | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Kids USA Montessori of Frisco is a preschool in Frisco, TX at 8890 Meadow Hill Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kids-usa-montessori-of-frisco-frisco/
+2. The PREP School at Panther Creek | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | The PREP School at Panther Creek is a preschool in Frisco, TX at 11000 Panther Creek Parkway, Frisco, TX 75035. | https://dingalinged-cpu.github.io/registry/c/the-prep-school-at-panther-creek-frisco/
+3. Legacy Learning Center | Organic #3 | Pulse Score 46.2/100 (Unrated, #3 in city) | Legacy Learning Center is a preschool in Frisco, TX at 8227 FM 423, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-learning-center-frisco/
+4. Primrose School | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Primrose School is a preschool in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-frisco/
+5. The Goddard School | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | The Goddard School is a preschool in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool frisco tx | category: Education & childcare | industry benchmark: Education & Instruction

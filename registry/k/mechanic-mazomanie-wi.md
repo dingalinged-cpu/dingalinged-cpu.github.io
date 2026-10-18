@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Mazomanie, WI is Willie's Repair (an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazomanie, WI 53560. Phone: +16087952500. Website: https://shop.autovaluestores.com/). 1 mechanic businesses are listed for Mazomanie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Mazomanie, WI is Willie's Repair (an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazomanie, WI 53560. Phone: +16087952500. Website: https://shop.autovaluestores.com/). 1 mechanic businesses are listed for Mazomanie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Mazomanie, WI?
 
 Also answers: mechanic in Mazomanie, WI; mechanic near me (Mazomanie, WI); best mechanic Mazomanie, WI; top rated mechanic Mazomanie, WI; affordable mechanic Mazomanie, WI; emergency mechanic Mazomanie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Willie's Repair | trust 20.0 | Willie's Repair is an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazomanie, WI 53560. Phone: +16087952500. Website: https://shop.autovaluestores.com/. | https://dingalinged-cpu.github.io/registry/c/willies-repair-mazomanie/
+1. Willie's Repair | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Willie's Repair is an auto repair shop in Mazomanie, WI at 510 Emily Road, Mazomanie, WI 53560. Phone: +16087952500. Website: https://shop.autovaluestores.com/. | https://dingalinged-cpu.github.io/registry/c/willies-repair-mazomanie/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic mazomanie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

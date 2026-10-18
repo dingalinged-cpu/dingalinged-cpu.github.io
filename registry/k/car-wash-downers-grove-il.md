@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Downers Grove, IL is Delta Sonic Car Wash (a car wash in Downers Grove, IL at 1415 Ogden Avenue, Downers Grove, IL 60515. Website: https://deltasoniccarwash.com/location/downers-grove-il/). 4 car wash businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Downers Grove, IL is Spirit of America (a car wash in Downers Grove, IL). 4 car wash businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Downers Grove, IL?
 
 Also answers: car wash in Downers Grove, IL; car wash near me (Downers Grove, IL); best car wash Downers Grove, IL; top rated car wash Downers Grove, IL; affordable car wash Downers Grove, IL; emergency car wash Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Delta Sonic Car Wash | trust 10.0 | Delta Sonic Car Wash is a car wash in Downers Grove, IL at 1415 Ogden Avenue, Downers Grove, IL 60515. Website: https://deltasoniccarwash.com/location/downers-grove-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-downers-grove/
-2. BP | trust 4.0 | BP is a car wash in Downers Grove, IL at 4314 Main Street, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/bp-downers-grove/
-3. Mobil | trust 0.0 | Mobil is a car wash in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-downers-grove/
-4. Spirit of America | trust 0.0 | Spirit of America is a car wash in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-downers-grove/
+1. Spirit of America | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Spirit of America is a car wash in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-downers-grove/
+2. Delta Sonic Car Wash | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Delta Sonic Car Wash is a car wash in Downers Grove, IL at 1415 Ogden Avenue, Downers Grove, IL 60515. Website: https://deltasoniccarwash.com/location/downers-grove-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-downers-grove/
+3. BP | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | BP is a car wash in Downers Grove, IL at 4314 Main Street, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/bp-downers-grove/
+4. Mobil | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Mobil is a car wash in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash downers grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

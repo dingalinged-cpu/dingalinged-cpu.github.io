@@ -1,17 +1,17 @@
-The top unpaid jewelry store listing for Garland, TX is James Avery Jewelry (a jewelry store in Garland, TX at 435 Coneflower Drive, Garland, TX 75040. Phone: +19724954414. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=726). 6 jewelry store businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Garland, TX is Nasr Jewelers (a jewelry store in Garland, TX). 6 jewelry store businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Garland, TX?
 
 Also answers: jewelry store in Garland, TX; jewelry store near me (Garland, TX); best jewelry store Garland, TX; top rated jewelry store Garland, TX; affordable jewelry store Garland, TX; emergency jewelry store Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Garland, TX at 435 Coneflower Drive, Garland, TX 75040. Phone: +19724954414. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=726. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-garland/
-2. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-garland/
-3. Nasr Jewelers | trust 0.0 | Nasr Jewelers is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/nasr-jewelers-garland/
-4. Pandora | trust 0.0 | Pandora is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-garland/
-5. Sam's Fine Jewelry | trust 0.0 | Sam's Fine Jewelry is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/sams-fine-jewelry-garland/
-6. Zales | trust 0.0 | Zales is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/zales-garland/
+1. Nasr Jewelers | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Nasr Jewelers is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/nasr-jewelers-garland/
+2. Sam's Fine Jewelry | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Sam's Fine Jewelry is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/sams-fine-jewelry-garland/
+3. James Avery Jewelry | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | James Avery Jewelry is a jewelry store in Garland, TX at 435 Coneflower Drive, Garland, TX 75040. Phone: +19724954414. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=726. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-garland/
+4. Zales | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Zales is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/zales-garland/
+5. Kay Jewelers | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Kay Jewelers is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-garland/
+6. Pandora | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Pandora is a jewelry store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store garland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

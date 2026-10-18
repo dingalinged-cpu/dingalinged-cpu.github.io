@@ -13,7 +13,7 @@ Total Wine is a liquor store in Alpharetta, GA at 6290 North Point Parkway, Alph
 - Website: https://www.totalwine.com/store-info/801
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-22:00; Fr,Sa 09:00-23:00; Su 12:30-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 100% of liquor stores in Atlanta, #4 of 4 liquor stores in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 69. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

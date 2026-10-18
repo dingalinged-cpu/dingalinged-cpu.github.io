@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Shorewood, WI at 4155 North Oakland Avenue, Sho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.2/100 — Building — top 73% of gyms in Milwaukee, #4 of 4 gyms in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

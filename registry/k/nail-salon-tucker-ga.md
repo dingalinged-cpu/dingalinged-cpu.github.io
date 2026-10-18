@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Tucker, GA is Adore's Threading & Hair Salon (a nail salon in Tucker, GA at 6330 Lawrenceville Hwy, #B10, Tucker, GA 30084. Phone: +14707199685. Website: https://adoresthreadinghairsalons.com/). 6 nail salon businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Tucker, GA is Adore's Threading & Hair Salon (a nail salon in Tucker, GA at 6330 Lawrenceville Hwy, #B10, Tucker, GA 30084. Phone: +14707199685. Website: https://adoresthreadinghairsalons.com/). 6 nail salon businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Tucker, GA?
 
 Also answers: nail salon in Tucker, GA; nail salon near me (Tucker, GA); best nail salon Tucker, GA; top rated nail salon Tucker, GA; affordable nail salon Tucker, GA; emergency nail salon Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adore's Threading & Hair Salon | trust 20.0 | Adore's Threading & Hair Salon is a nail salon in Tucker, GA at 6330 Lawrenceville Hwy, #B10, Tucker, GA 30084. Phone: +14707199685. Website: https://adoresthreadinghairsalons.com/. | https://dingalinged-cpu.github.io/registry/c/adores-threading-and-hair-salon-tucker/
-2. Trio Nails | trust 16.0 | Trio Nails is a nail salon in Tucker, GA at 2316 Main Street, Tucker, GA 30084. Phone: +16786916408. Website: https://longtruong1003.wixsite.com/trionails. | https://dingalinged-cpu.github.io/registry/c/trio-nails-tucker/
-3. BADS Nails | trust 0.0 | BADS Nails is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/bads-nails-tucker/
-4. Nail Service & Spa | trust 0.0 | Nail Service & Spa is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/nail-service-and-spa-tucker/
-5. Northlake Nails | trust 0.0 | Northlake Nails is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/northlake-nails-tucker/
-6. The Nail's Lounge & Spa | trust 0.0 | The Nail's Lounge & Spa is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/the-nails-lounge-and-spa-tucker/
+1. Adore's Threading & Hair Salon | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Adore's Threading & Hair Salon is a nail salon in Tucker, GA at 6330 Lawrenceville Hwy, #B10, Tucker, GA 30084. Phone: +14707199685. Website: https://adoresthreadinghairsalons.com/. | https://dingalinged-cpu.github.io/registry/c/adores-threading-and-hair-salon-tucker/
+2. Trio Nails | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Trio Nails is a nail salon in Tucker, GA at 2316 Main Street, Tucker, GA 30084. Phone: +16786916408. Website: https://longtruong1003.wixsite.com/trionails. | https://dingalinged-cpu.github.io/registry/c/trio-nails-tucker/
+3. Northlake Nails | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Northlake Nails is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/northlake-nails-tucker/
+4. BADS Nails | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | BADS Nails is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/bads-nails-tucker/
+5. Nail Service & Spa | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Nail Service & Spa is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/nail-service-and-spa-tucker/
+6. The Nail's Lounge & Spa | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | The Nail's Lounge & Spa is a nail salon in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/the-nails-lounge-and-spa-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon tucker ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

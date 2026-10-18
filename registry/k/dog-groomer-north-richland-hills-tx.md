@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for North Richland Hills, TX is Jerry's Paw Spaw (a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/). 2 dog groomer businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for North Richland Hills, TX is Natural Grooming (a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/). 2 dog groomer businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in North Richland Hills, TX?
 
 Also answers: dog groomer in North Richland Hills, TX; dog groomer near me (North Richland Hills, TX); best dog groomer North Richland Hills, TX; top rated dog groomer North Richland Hills, TX; affordable dog groomer North Richland Hills, TX; emergency dog groomer North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jerry's Paw Spaw | trust 20.0 | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://dingalinged-cpu.github.io/registry/c/jerrys-paw-spaw-north-richland-hills/
-2. Natural Grooming | trust 20.0 | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://dingalinged-cpu.github.io/registry/c/natural-grooming-north-richland-hills/
+1. Natural Grooming | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Natural Grooming is a dog groomer in North Richland Hills, TX at 8415 Davis Boulevard #309, North Richland Hills, TX 76182. Phone: +18176050423. Website: https://natural-grooming.edan.io/. | https://dingalinged-cpu.github.io/registry/c/natural-grooming-north-richland-hills/
+2. Jerry's Paw Spaw | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Jerry's Paw Spaw is a dog groomer in North Richland Hills, TX at 7800 Davis Boulevard, North Richland Hills, TX 76182. Phone: +18174278400. Website: https://www.jerryspawspaw.com/. | https://dingalinged-cpu.github.io/registry/c/jerrys-paw-spaw-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer north richland hills tx | category: Pets | industry benchmark: Animals & Pets

@@ -1,29 +1,29 @@
-The top unpaid furniture store listing for Harris County, TX is Texas Furniture Hut (a furniture store in Harris County, TX at 23922 Northwest Freeway, Harris County, TX 77429). 18 furniture store businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Harris County, TX is Texas Furniture Hut (a furniture store in Harris County, TX at 23922 Northwest Freeway, Harris County, TX 77429). 18 furniture store businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Harris County, TX?
 
 Also answers: furniture store in Harris County, TX; furniture store near me (Harris County, TX); best furniture store Harris County, TX; top rated furniture store Harris County, TX; affordable furniture store Harris County, TX; emergency furniture store Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Furniture Hut | trust 4.0 | Texas Furniture Hut is a furniture store in Harris County, TX at 23922 Northwest Freeway, Harris County, TX 77429. | https://dingalinged-cpu.github.io/registry/c/texas-furniture-hut-harris-county/
-2. Aaron's | trust 0.0 | Aaron's is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-harris-county/
-3. Aaron's | trust 0.0 | Aaron's is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-harris-county-n4291218855/
-4. Bel Furniture | trust 0.0 | Bel Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bel-furniture-harris-county/
-5. Blue Bell Furniture | trust 0.0 | Blue Bell Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-bell-furniture-harris-county/
-6. Chair King Backyard Store | trust 0.0 | Chair King Backyard Store is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-backyard-store-harris-county/
-7. Exclusive Furniture | trust 0.0 | Exclusive Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exclusive-furniture-harris-county/
-8. Far Pavilions | trust 0.0 | Far Pavilions is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/far-pavilions-harris-county/
-9. Ideal Furniture | trust 0.0 | Ideal Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-furniture-harris-county/
-10. Katy Furniture | trust 0.0 | Katy Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-furniture-harris-county/
-11. Landmark Furniture | trust 0.0 | Landmark Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/landmark-furniture-harris-county/
-12. Model Home Furniture | trust 0.0 | Model Home Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/model-home-furniture-harris-county/
-13. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-harris-county/
-14. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-harris-county/
-15. Sears Home Appliance Showroom | trust 0.0 | Sears Home Appliance Showroom is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sears-home-appliance-showroom-harris-county/
-16. Sierra Furniture & Matress | trust 0.0 | Sierra Furniture & Matress is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sierra-furniture-and-matress-harris-county/
-17. Skero's Furniture & Mattress | trust 0.0 | Skero's Furniture & Mattress is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/skeros-furniture-and-mattress-harris-county/
-18. The Dump | trust 0.0 | The Dump is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-dump-harris-county/
+1. Texas Furniture Hut | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Texas Furniture Hut is a furniture store in Harris County, TX at 23922 Northwest Freeway, Harris County, TX 77429. | https://dingalinged-cpu.github.io/registry/c/texas-furniture-hut-harris-county/
+2. The Dump | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | The Dump is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-dump-harris-county/
+3. Ideal Furniture | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Ideal Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-furniture-harris-county/
+4. Katy Furniture | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Katy Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-furniture-harris-county/
+5. Blue Bell Furniture | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Blue Bell Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-bell-furniture-harris-county/
+6. Far Pavilions | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Far Pavilions is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/far-pavilions-harris-county/
+7. Landmark Furniture | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Landmark Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/landmark-furniture-harris-county/
+8. Model Home Furniture | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Model Home Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/model-home-furniture-harris-county/
+9. Sears Home Appliance Showroom | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Sears Home Appliance Showroom is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sears-home-appliance-showroom-harris-county/
+10. Sierra Furniture & Matress | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | Sierra Furniture & Matress is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sierra-furniture-and-matress-harris-county/
+11. Skero's Furniture & Mattress | Organic #11 | Pulse Score 54.8/100 (Unrated, #11 in city) | Skero's Furniture & Mattress is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/skeros-furniture-and-mattress-harris-county/
+12. Pottery Barn | Organic #12 | Pulse Score 44.4/100 (Building, #12 in city) | Pottery Barn is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-harris-county/
+13. Bel Furniture | Organic #13 | Pulse Score 43.2/100 (Unrated, #13 in city) | Bel Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bel-furniture-harris-county/
+14. Exclusive Furniture | Organic #14 | Pulse Score 43.2/100 (Unrated, #14 in city) | Exclusive Furniture is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exclusive-furniture-harris-county/
+15. Aaron's | Organic #15 | Pulse Score 42.7/100 (Building, #15 in city) | Aaron's is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-harris-county/
+16. Rooms To Go | Organic #16 | Pulse Score 42.7/100 (Building, #16 in city) | Rooms To Go is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-harris-county/
+17. Aaron's | Organic #17 | Pulse Score 42.1/100 (Unrated, #17 in city) | Aaron's is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-harris-county-n4291218855/
+18. Chair King Backyard Store | Organic #18 | Pulse Score 42.1/100 (Unrated, #18 in city) | Chair King Backyard Store is a furniture store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-backyard-store-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store harris county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

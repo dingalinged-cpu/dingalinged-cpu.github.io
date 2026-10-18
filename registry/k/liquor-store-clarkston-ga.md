@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Clarkston, GA is JB Liquor Store (a liquor store in Clarkston, GA at 4228 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +16787329273). 2 liquor store businesses are listed for Clarkston, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Clarkston, GA is JB Liquor Store (a liquor store in Clarkston, GA at 4228 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +16787329273). 2 liquor store businesses are listed for Clarkston, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Clarkston, GA?
 
 Also answers: liquor store in Clarkston, GA; liquor store near me (Clarkston, GA); best liquor store Clarkston, GA; top rated liquor store Clarkston, GA; affordable liquor store Clarkston, GA; emergency liquor store Clarkston, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JB Liquor Store | trust 10.0 | JB Liquor Store is a liquor store in Clarkston, GA at 4228 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +16787329273. | https://dingalinged-cpu.github.io/registry/c/jb-liquor-store-clarkston/
-2. Brocket triangle package store | trust 0.0 | Brocket triangle package store is a liquor store in Clarkston, GA. | https://dingalinged-cpu.github.io/registry/c/brocket-triangle-package-store-clarkston/
+1. JB Liquor Store | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | JB Liquor Store is a liquor store in Clarkston, GA at 4228 East Ponce de Leon Avenue, Clarkston, GA 30021. Phone: +16787329273. | https://dingalinged-cpu.github.io/registry/c/jb-liquor-store-clarkston/
+2. Brocket triangle package store | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Brocket triangle package store is a liquor store in Clarkston, GA. | https://dingalinged-cpu.github.io/registry/c/brocket-triangle-package-store-clarkston/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store clarkston ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Kennesaw, GA at 2500 Cobb Parkway, Kennesaw, GA. P
 - Website: https://goodwillng.org/gw-locations/kennesaw-store-donation-center-30152/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 60% of thrift stores in Atlanta, #3 of 3 thrift stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,19 +1,19 @@
-The top unpaid gym listing for Fort Bend County, TX is 24 Hour Fitness (a gym in Fort Bend County, TX). 8 gym businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Fort Bend County, TX is VillaSport (a gym in Fort Bend County, TX). 8 gym businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Fort Bend County, TX?
 
 Also answers: gym in Fort Bend County, TX; gym near me (Fort Bend County, TX); best gym Fort Bend County, TX; top rated gym Fort Bend County, TX; affordable gym Fort Bend County, TX; emergency gym Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 24 Hour Fitness | trust 0.0 | 24 Hour Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-fort-bend-county/
-2. Charlo Boxing and Fitness Club | trust 0.0 | Charlo Boxing and Fitness Club is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/charlo-boxing-and-fitness-club-fort-bend-county/
-3. EōS Fitness | trust 0.0 | EōS Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-fort-bend-county/
-4. F45 Training | trust 0.0 | F45 Training is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-fort-bend-county/
-5. Fitness FX | trust 0.0 | Fitness FX is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-fx-fort-bend-county/
-6. Hotworx | trust 0.0 | Hotworx is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/hotworx-fort-bend-county/
-7. LA Fitness | trust 0.0 | LA Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-fort-bend-county/
-8. VillaSport | trust 0.0 | VillaSport is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/villasport-fort-bend-county/
+1. VillaSport | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | VillaSport is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/villasport-fort-bend-county/
+2. Charlo Boxing and Fitness Club | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Charlo Boxing and Fitness Club is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/charlo-boxing-and-fitness-club-fort-bend-county/
+3. Fitness FX | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Fitness FX is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-fx-fort-bend-county/
+4. EōS Fitness | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | EōS Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-fort-bend-county/
+5. F45 Training | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | F45 Training is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-fort-bend-county/
+6. LA Fitness | Organic #6 | Pulse Score 43.4/100 (Building, #6 in city) | LA Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-fort-bend-county/
+7. 24 Hour Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | 24 Hour Fitness is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-fort-bend-county/
+8. Hotworx | Organic #8 | Pulse Score 42.3/100 (Building, #8 in city) | Hotworx is a gym in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/hotworx-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym fort bend county tx | category: Fitness | industry benchmark: Health & Fitness

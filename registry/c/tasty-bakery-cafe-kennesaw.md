@@ -13,7 +13,7 @@ Tasty Bakery Cafe is a bakery in Kennesaw, GA at 840 Ernest W. Barrett Parkway N
 - Website: https://tastybakerycafe.com/
 - Email: yummy@tastybakerycafe.com
 - Opening hours (OSM syntax): Mo-Th 08:00-21:00; Fr-Su 08:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 4% of bakerys in Atlanta, #1 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.8, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hairitage Studios is a barber shop in Spring, TX at 5200 FM 2920 #150, Spring, T
 - Website: https://booksy.com/en-us/729140_hairitage-studios_barber-shop_36811_spring
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 38% of barber shops in Houston, #2 of 3 barber shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

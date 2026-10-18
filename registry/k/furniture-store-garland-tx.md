@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Garland, TX is Continental Office Group (a furniture store in Garland, TX at 4002 West Miller Road #130, Garland, TX 75041. Website: https://continentalofficegroup.business.site/). 4 furniture store businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Garland, TX is Continental Office Group (a furniture store in Garland, TX at 4002 West Miller Road #130, Garland, TX 75041. Website: https://continentalofficegroup.business.site/). 4 furniture store businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Garland, TX?
 
 Also answers: furniture store in Garland, TX; furniture store near me (Garland, TX); best furniture store Garland, TX; top rated furniture store Garland, TX; affordable furniture store Garland, TX; emergency furniture store Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Continental Office Group | trust 14.0 | Continental Office Group is a furniture store in Garland, TX at 4002 West Miller Road #130, Garland, TX 75041. Website: https://continentalofficegroup.business.site/. | https://dingalinged-cpu.github.io/registry/c/continental-office-group-garland/
-2. Fashion Home Furniture | trust 4.0 | Fashion Home Furniture is a furniture store in Garland, TX at 336 West Interstate 30, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/fashion-home-furniture-garland/
-3. The Great Westen Furniture Company | trust 4.0 | The Great Westen Furniture Company is a furniture store in Garland, TX at 11413 Lyndon B Johnson Freeway, Garland, TX 75041. | https://dingalinged-cpu.github.io/registry/c/the-great-westen-furniture-company-garland/
-4. Rent-A-Center | trust 0.0 | Rent-A-Center is a furniture store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-garland/
+1. Continental Office Group | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Continental Office Group is a furniture store in Garland, TX at 4002 West Miller Road #130, Garland, TX 75041. Website: https://continentalofficegroup.business.site/. | https://dingalinged-cpu.github.io/registry/c/continental-office-group-garland/
+2. The Great Westen Furniture Company | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | The Great Westen Furniture Company is a furniture store in Garland, TX at 11413 Lyndon B Johnson Freeway, Garland, TX 75041. | https://dingalinged-cpu.github.io/registry/c/the-great-westen-furniture-company-garland/
+3. Fashion Home Furniture | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Fashion Home Furniture is a furniture store in Garland, TX at 336 West Interstate 30, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/fashion-home-furniture-garland/
+4. Rent-A-Center | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Rent-A-Center is a furniture store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store garland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

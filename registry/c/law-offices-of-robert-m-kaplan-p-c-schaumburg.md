@@ -13,7 +13,7 @@ Law Offices of Robert M. Kaplan, P.C. is a lawyer in Schaumburg, IL at 1901 N. R
 - Website: https://www.robertkaplanlaw.com/
 - Email: robertkaplanlaw2014@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of lawyers in Chicago, #3 of 4 lawyers in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

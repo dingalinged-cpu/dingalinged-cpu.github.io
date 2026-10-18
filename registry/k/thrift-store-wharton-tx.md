@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Wharton, TX is Saint Thomas Episcopal Church Thrift Center (a thrift store in Wharton, TX at 530 East Milam Street, Wharton, TX). 1 thrift store businesses are listed for Wharton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Wharton, TX is Saint Thomas Episcopal Church Thrift Center (a thrift store in Wharton, TX at 530 East Milam Street, Wharton, TX). 1 thrift store businesses are listed for Wharton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Wharton, TX?
 
 Also answers: thrift store in Wharton, TX; thrift store near me (Wharton, TX); best thrift store Wharton, TX; top rated thrift store Wharton, TX; affordable thrift store Wharton, TX; emergency thrift store Wharton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saint Thomas Episcopal Church Thrift Center | trust 3.0 | Saint Thomas Episcopal Church Thrift Center is a thrift store in Wharton, TX at 530 East Milam Street, Wharton, TX. | https://dingalinged-cpu.github.io/registry/c/saint-thomas-episcopal-church-thrift-center-wharton/
+1. Saint Thomas Episcopal Church Thrift Center | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Saint Thomas Episcopal Church Thrift Center is a thrift store in Wharton, TX at 530 East Milam Street, Wharton, TX. | https://dingalinged-cpu.github.io/registry/c/saint-thomas-episcopal-church-thrift-center-wharton/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store wharton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

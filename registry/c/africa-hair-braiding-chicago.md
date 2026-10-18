@@ -13,7 +13,7 @@ Africa Hair Braiding is a hair salon in Chicago, IL at 102 East 47th Street, Chi
 - Website: https://africahairbraiding.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Chicago, #15 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

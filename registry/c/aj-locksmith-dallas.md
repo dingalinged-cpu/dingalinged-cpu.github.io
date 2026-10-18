@@ -13,7 +13,7 @@ AJ Locksmith is a locksmith in Dallas, TX at 6750 Hillcrest Plaza Drive #75230, 
 - Website: https://www.ajlocksmith.com/
 - Email: info@ajlocksmith.com
 - Opening hours (OSM syntax): Su-Fr 00:00-24:00
-- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.1/100 — Good — top 6% of locksmiths in Dallas–Fort Worth, #1 of 8 locksmiths in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 70.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

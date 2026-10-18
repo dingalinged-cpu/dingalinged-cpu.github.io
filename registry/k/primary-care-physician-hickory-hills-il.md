@@ -1,12 +1,12 @@
-The top unpaid primary care physician listing for Hickory Hills, IL is ELITE MED URGENT CARE PLLC (an urgent care clinic in Hickory Hills, IL at 9634 South Roberts Road, Hickory Hills, IL 60457. Phone: +17087417944. Website: https://elitemedurgentcare.com/). 1 primary care physician businesses are listed for Hickory Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Hickory Hills, IL is ELITE MED URGENT CARE PLLC (an urgent care clinic in Hickory Hills, IL at 9634 South Roberts Road, Hickory Hills, IL 60457. Phone: +17087417944. Website: https://elitemedurgentcare.com/). 1 primary care physician businesses are listed for Hickory Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Hickory Hills, IL?
 
 Also answers: primary care physician in Hickory Hills, IL; primary care physician near me (Hickory Hills, IL); best primary care physician Hickory Hills, IL; top rated primary care physician Hickory Hills, IL; affordable primary care physician Hickory Hills, IL; emergency primary care physician Hickory Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ELITE MED URGENT CARE PLLC | trust 20.0 | ELITE MED URGENT CARE PLLC is an urgent care clinic in Hickory Hills, IL at 9634 South Roberts Road, Hickory Hills, IL 60457. Phone: +17087417944. Website: https://elitemedurgentcare.com/. | https://dingalinged-cpu.github.io/registry/c/elite-med-urgent-care-pllc-hickory-hills/
+1. ELITE MED URGENT CARE PLLC | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | ELITE MED URGENT CARE PLLC is an urgent care clinic in Hickory Hills, IL at 9634 South Roberts Road, Hickory Hills, IL 60457. Phone: +17087417944. Website: https://elitemedurgentcare.com/. | https://dingalinged-cpu.github.io/registry/c/elite-med-urgent-care-pllc-hickory-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician hickory hills il | category: Health & medical | industry benchmark: Physicians & Surgeons

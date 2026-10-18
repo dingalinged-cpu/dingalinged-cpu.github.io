@@ -1,16 +1,16 @@
-The top unpaid gym listing for Westmont, IL is Westmont Park District Fitness & Racquetball Club (a gym in Westmont, IL at 424 Plaza Drive, Westmont, IL. Website: https://www.westmontparks.org/fitness-club/facility-information/). 5 gym businesses are listed for Westmont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Westmont, IL is Westmont Park District Fitness & Racquetball Club (a gym in Westmont, IL at 424 Plaza Drive, Westmont, IL. Website: https://www.westmontparks.org/fitness-club/facility-information/). 5 gym businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Westmont, IL?
 
 Also answers: gym in Westmont, IL; gym near me (Westmont, IL); best gym Westmont, IL; top rated gym Westmont, IL; affordable gym Westmont, IL; emergency gym Westmont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westmont Park District Fitness & Racquetball Club | trust 13.0 | Westmont Park District Fitness & Racquetball Club is a gym in Westmont, IL at 424 Plaza Drive, Westmont, IL. Website: https://www.westmontparks.org/fitness-club/facility-information/. | https://dingalinged-cpu.github.io/registry/c/westmont-park-district-fitness-and-racquetball-club-westmont/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Westmont, IL at 19 West Ogden Avenue, Westmont, IL 60559. Phone: +16303263000. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-westmont/
-3. F45 Training | trust 0.0 | F45 Training is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/f45-training-westmont/
-4. IGI Gymnastics | trust 0.0 | IGI Gymnastics is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/igi-gymnastics-westmont/
-5. LA Fitness | trust 0.0 | LA Fitness is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-westmont/
+1. Westmont Park District Fitness & Racquetball Club | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Westmont Park District Fitness & Racquetball Club is a gym in Westmont, IL at 424 Plaza Drive, Westmont, IL. Website: https://www.westmontparks.org/fitness-club/facility-information/. | https://dingalinged-cpu.github.io/registry/c/westmont-park-district-fitness-and-racquetball-club-westmont/
+2. IGI Gymnastics | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | IGI Gymnastics is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/igi-gymnastics-westmont/
+3. Orangetheory Fitness | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Orangetheory Fitness is a gym in Westmont, IL at 19 West Ogden Avenue, Westmont, IL 60559. Phone: +16303263000. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-westmont/
+4. F45 Training | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | F45 Training is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/f45-training-westmont/
+5. LA Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | LA Fitness is a gym in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym westmont il | category: Fitness | industry benchmark: Health & Fitness

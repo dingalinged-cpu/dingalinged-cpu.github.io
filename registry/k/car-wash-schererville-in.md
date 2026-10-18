@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Schererville, IN is Easy Clean (a car wash in Schererville, IN at Wicker Avenue, Schererville, IN 46375). 2 car wash businesses are listed for Schererville, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Schererville, IN is Easy Clean (a car wash in Schererville, IN at Wicker Avenue, Schererville, IN 46375). 2 car wash businesses are listed for Schererville, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Schererville, IN?
 
 Also answers: car wash in Schererville, IN; car wash near me (Schererville, IN); best car wash Schererville, IN; top rated car wash Schererville, IN; affordable car wash Schererville, IN; emergency car wash Schererville, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Easy Clean | trust 4.0 | Easy Clean is a car wash in Schererville, IN at Wicker Avenue, Schererville, IN 46375. | https://dingalinged-cpu.github.io/registry/c/easy-clean-schererville/
-2. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Schererville, IN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-schererville/
+1. Easy Clean | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Easy Clean is a car wash in Schererville, IN at Wicker Avenue, Schererville, IN 46375. | https://dingalinged-cpu.github.io/registry/c/easy-clean-schererville/
+2. Speedy Wash | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Speedy Wash is a car wash in Schererville, IN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-schererville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash schererville in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,16 +1,16 @@
-The top unpaid gym listing for Vernon Hills, IL is Life Time (a gym in Vernon Hills, IL at 680 Woodlands Parkway, Vernon Hills, IL 60061. Phone: +18479950670. Website: https://www.lifetime.life/life-time-locations/il-vernon-hills.html). 5 gym businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Vernon Hills, IL is Bears Fit (a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/). 5 gym businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Vernon Hills, IL?
 
 Also answers: gym in Vernon Hills, IL; gym near me (Vernon Hills, IL); best gym Vernon Hills, IL; top rated gym Vernon Hills, IL; affordable gym Vernon Hills, IL; emergency gym Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 20.0 | Life Time is a gym in Vernon Hills, IL at 680 Woodlands Parkway, Vernon Hills, IL 60061. Phone: +18479950670. Website: https://www.lifetime.life/life-time-locations/il-vernon-hills.html. | https://dingalinged-cpu.github.io/registry/c/life-time-vernon-hills/
-2. Planet Fitness | trust 16.0 | Planet Fitness is a gym in Vernon Hills, IL at 413 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +17085724420. Website: https://www.planetfitness.com/gyms/vernon-hills-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-vernon-hills/
-3. Bears Fit | trust 10.0 | Bears Fit is a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/. | https://dingalinged-cpu.github.io/registry/c/bears-fit-vernon-hills/
-4. The Barre Code | trust 4.0 | The Barre Code is a gym in Vernon Hills, IL at 850 North Milwaukee Avenue #200, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/the-barre-code-vernon-hills/
-5. Vernon Hills Gymnastics | trust 4.0 | Vernon Hills Gymnastics is a gym in Vernon Hills, IL at 645 Lakeview Parkway #100, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/vernon-hills-gymnastics-vernon-hills/
+1. Bears Fit | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Bears Fit is a gym in Vernon Hills, IL at 155 Townline Road, Vernon Hills, IL 60061. Website: https://bearsfit.com/. | https://dingalinged-cpu.github.io/registry/c/bears-fit-vernon-hills/
+2. Vernon Hills Gymnastics | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Vernon Hills Gymnastics is a gym in Vernon Hills, IL at 645 Lakeview Parkway #100, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/vernon-hills-gymnastics-vernon-hills/
+3. Life Time | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | Life Time is a gym in Vernon Hills, IL at 680 Woodlands Parkway, Vernon Hills, IL 60061. Phone: +18479950670. Website: https://www.lifetime.life/life-time-locations/il-vernon-hills.html. | https://dingalinged-cpu.github.io/registry/c/life-time-vernon-hills/
+4. Planet Fitness | Organic #4 | Pulse Score 47.7/100 (Building, #4 in city) | Planet Fitness is a gym in Vernon Hills, IL at 413 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +17085724420. Website: https://www.planetfitness.com/gyms/vernon-hills-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-vernon-hills/
+5. The Barre Code | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | The Barre Code is a gym in Vernon Hills, IL at 850 North Milwaukee Avenue #200, Vernon Hills, IL 60061. | https://dingalinged-cpu.github.io/registry/c/the-barre-code-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym vernon hills il | category: Fitness | industry benchmark: Health & Fitness

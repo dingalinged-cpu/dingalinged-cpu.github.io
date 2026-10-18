@@ -13,7 +13,7 @@
 - Website: n/a
 - Email: 3e38thstbarbers@gmail.com
 - Opening hours (OSM syntax): Mo,Sa 00:00-03:00; Th 00:00-15:00; Fr 12:00-15:00; Su 12:00-24:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 14% of barber shops in Minneapolis–St. Paul, #4 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

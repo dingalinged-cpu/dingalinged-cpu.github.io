@@ -1,13 +1,13 @@
-The top unpaid roofer listing for Grapevine, TX is KangaRoof (a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/). 2 roofer businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Grapevine, TX is KangaRoof (a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/). 2 roofer businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Grapevine, TX?
 
 Also answers: roofer in Grapevine, TX; roofer near me (Grapevine, TX); best roofer Grapevine, TX; top rated roofer Grapevine, TX; affordable roofer Grapevine, TX; emergency roofer Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KangaRoof | trust 20.0 | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://dingalinged-cpu.github.io/registry/c/kangaroof-grapevine/
-2. Ryerson Roofing, Inc. | trust 16.0 | Ryerson Roofing, Inc. is a roofer in Grapevine, TX at 611 South Main Street ##400, Grapevine, TX 76051. Phone: +18177567686. Website: https://www.ryersonroofing.com/. | https://dingalinged-cpu.github.io/registry/c/ryerson-roofing-inc-grapevine/
+1. KangaRoof | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | KangaRoof is a roofer in Grapevine, TX at 1340 South Main Street #190, Grapevine, TX 76051. Phone: +15127598800. Website: https://callkangaroofdfw.com/. | https://dingalinged-cpu.github.io/registry/c/kangaroof-grapevine/
+2. Ryerson Roofing, Inc. | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Ryerson Roofing, Inc. is a roofer in Grapevine, TX at 611 South Main Street ##400, Grapevine, TX 76051. Phone: +18177567686. Website: https://www.ryersonroofing.com/. | https://dingalinged-cpu.github.io/registry/c/ryerson-roofing-inc-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer grapevine tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

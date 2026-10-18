@@ -13,7 +13,7 @@ Van Michael Salon is a hair salon in Marietta, GA at 4475 Roswell Road #1730, Ma
 - Website: https://avenueeastcobb.com/directory/van-michael-salon/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 12:00-19:00; Tu-Fr 08:00-20:00; Sa 08:00-18:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 9% of hair salons in Atlanta, #9 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

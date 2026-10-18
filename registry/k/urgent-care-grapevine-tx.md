@@ -1,12 +1,12 @@
-The top unpaid urgent care listing for Grapevine, TX is CareNow (an urgent care clinic in Grapevine, TX at 5301 William D Tate Avenue #100, Grapevine, TX 76051). 1 urgent care businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Grapevine, TX is CareNow (an urgent care clinic in Grapevine, TX at 5301 William D Tate Avenue #100, Grapevine, TX 76051). 1 urgent care businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Grapevine, TX?
 
 Also answers: urgent care in Grapevine, TX; urgent care near me (Grapevine, TX); best urgent care Grapevine, TX; top rated urgent care Grapevine, TX; affordable urgent care Grapevine, TX; emergency urgent care Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CareNow | trust 4.0 | CareNow is an urgent care clinic in Grapevine, TX at 5301 William D Tate Avenue #100, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/carenow-grapevine/
+1. CareNow | Organic #1 | Pulse Score 42.8/100 (Building, #1 in city) | CareNow is an urgent care clinic in Grapevine, TX at 5301 William D Tate Avenue #100, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/carenow-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care grapevine tx | category: Health & medical | industry benchmark: Physicians & Surgeons

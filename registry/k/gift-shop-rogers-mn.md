@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Rogers, MN is Owl and Lark (a gift shop in Rogers, MN). 3 gift shop businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Rogers, MN is Owl and Lark (a gift shop in Rogers, MN). 3 gift shop businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Rogers, MN?
 
 Also answers: gift shop in Rogers, MN; gift shop near me (Rogers, MN); best gift shop Rogers, MN; top rated gift shop Rogers, MN; affordable gift shop Rogers, MN; emergency gift shop Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Owl and Lark | trust 0.0 | Owl and Lark is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/owl-and-lark-rogers/
-2. Stony Hill Gifts and Home Decor | trust 0.0 | Stony Hill Gifts and Home Decor is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/stony-hill-gifts-and-home-decor-rogers/
-3. Treasures Galore on 94 | trust 0.0 | Treasures Galore on 94 is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/treasures-galore-on-94-rogers/
+1. Owl and Lark | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Owl and Lark is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/owl-and-lark-rogers/
+2. Stony Hill Gifts and Home Decor | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Stony Hill Gifts and Home Decor is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/stony-hill-gifts-and-home-decor-rogers/
+3. Treasures Galore on 94 | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Treasures Galore on 94 is a gift shop in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/treasures-galore-on-94-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop rogers mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

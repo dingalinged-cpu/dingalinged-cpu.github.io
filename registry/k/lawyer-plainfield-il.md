@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Plainfield, IL is Law Office of Ronald D. Cummings (a lawyer in Plainfield, IL at 22600 Deer Path Lane, Plainfield, IL 60544. Phone: +18157299212. Website: https://www.bankruptcylawcenter.org/). 1 lawyer businesses are listed for Plainfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Plainfield, IL is Law Office of Ronald D. Cummings (a lawyer in Plainfield, IL at 22600 Deer Path Lane, Plainfield, IL 60544. Phone: +18157299212. Website: https://www.bankruptcylawcenter.org/). 1 lawyer businesses are listed for Plainfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Plainfield, IL?
 
 Also answers: lawyer in Plainfield, IL; lawyer near me (Plainfield, IL); best lawyer Plainfield, IL; top rated lawyer Plainfield, IL; affordable lawyer Plainfield, IL; emergency lawyer Plainfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Office of Ronald D. Cummings | trust 20.0 | Law Office of Ronald D. Cummings is a lawyer in Plainfield, IL at 22600 Deer Path Lane, Plainfield, IL 60544. Phone: +18157299212. Website: https://www.bankruptcylawcenter.org/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-ronald-d-cummings-plainfield/
+1. Law Office of Ronald D. Cummings | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Law Office of Ronald D. Cummings is a lawyer in Plainfield, IL at 22600 Deer Path Lane, Plainfield, IL 60544. Phone: +18157299212. Website: https://www.bankruptcylawcenter.org/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-ronald-d-cummings-plainfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer plainfield il | category: Legal | industry benchmark: Attorneys & Legal Services

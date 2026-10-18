@@ -13,7 +13,7 @@ Design Zone is a hair salon in Riverside, IL at 354 East Burlington Street, Rive
 - Website: https://www.instagram.com/designzone001/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Chicago, #1 of 1 hair salons in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

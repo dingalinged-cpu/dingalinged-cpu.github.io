@@ -13,7 +13,7 @@ Blessed Up Barber Shop is a hair salon in Cobb County, GA at 2543 Bells Ferry Ro
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 10:00-20:00; Sa 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 9% of hair salons in Atlanta, #8 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

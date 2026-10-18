@@ -1,12 +1,12 @@
-The top unpaid car inspection listing for Kennedale, TX is TEC Inspection Services (a vehicle inspection station in Kennedale, TX at 601 Corry A Edwards Drive #102, Kennedale, TX 76060. Phone: +18177753645. Website: https://techomeinspection.com/). 1 car inspection businesses are listed for Kennedale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Kennedale, TX is TEC Inspection Services (a vehicle inspection station in Kennedale, TX at 601 Corry A Edwards Drive #102, Kennedale, TX 76060. Phone: +18177753645. Website: https://techomeinspection.com/). 1 car inspection businesses are listed for Kennedale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Kennedale, TX?
 
 Also answers: car inspection in Kennedale, TX; car inspection near me (Kennedale, TX); best car inspection Kennedale, TX; top rated car inspection Kennedale, TX; affordable car inspection Kennedale, TX; emergency car inspection Kennedale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TEC Inspection Services | trust 20.0 | TEC Inspection Services is a vehicle inspection station in Kennedale, TX at 601 Corry A Edwards Drive #102, Kennedale, TX 76060. Phone: +18177753645. Website: https://techomeinspection.com/. | https://dingalinged-cpu.github.io/registry/c/tec-inspection-services-kennedale/
+1. TEC Inspection Services | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | TEC Inspection Services is a vehicle inspection station in Kennedale, TX at 601 Corry A Edwards Drive #102, Kennedale, TX 76060. Phone: +18177753645. Website: https://techomeinspection.com/. | https://dingalinged-cpu.github.io/registry/c/tec-inspection-services-kennedale/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection kennedale tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

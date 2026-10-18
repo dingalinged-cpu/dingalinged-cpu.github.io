@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for La Grange Park, IL is Jiffy Lube (an auto repair shop in La Grange Park, IL). 3 auto repair businesses are listed for La Grange Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for La Grange Park, IL is Murphy's Transmission & Complete Auto Repair (an auto repair shop in La Grange Park, IL). 3 auto repair businesses are listed for La Grange Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in La Grange Park, IL?
 
 Also answers: auto repair in La Grange Park, IL; auto repair near me (La Grange Park, IL); best auto repair La Grange Park, IL; top rated auto repair La Grange Park, IL; affordable auto repair La Grange Park, IL; emergency auto repair La Grange Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-la-grange-park/
-2. Murphy's Transmission & Complete Auto Repair | trust 0.0 | Murphy's Transmission & Complete Auto Repair is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/murphys-transmission-and-complete-auto-repair-la-grange-park/
-3. Vaupell Auto Repair | trust 0.0 | Vaupell Auto Repair is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/vaupell-auto-repair-la-grange-park/
+1. Murphy's Transmission & Complete Auto Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Murphy's Transmission & Complete Auto Repair is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/murphys-transmission-and-complete-auto-repair-la-grange-park/
+2. Vaupell Auto Repair | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Vaupell Auto Repair is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/vaupell-auto-repair-la-grange-park/
+3. Jiffy Lube | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in La Grange Park, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-la-grange-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair la grange park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

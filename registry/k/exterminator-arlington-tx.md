@@ -1,12 +1,12 @@
-The top unpaid exterminator listing for Arlington, TX is White Out Termite and Pest Control (a pest control company in Arlington, TX at 2502 West Bardin Road, Arlington, TX 76017. Phone: +18176759135). 1 exterminator businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid exterminator listing for Arlington, TX is White Out Termite and Pest Control (a pest control company in Arlington, TX at 2502 West Bardin Road, Arlington, TX 76017. Phone: +18176759135). 1 exterminator businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best exterminator providers in Arlington, TX?
 
 Also answers: exterminator in Arlington, TX; exterminator near me (Arlington, TX); best exterminator Arlington, TX; top rated exterminator Arlington, TX; affordable exterminator Arlington, TX; emergency exterminator Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White Out Termite and Pest Control | trust 10.0 | White Out Termite and Pest Control is a pest control company in Arlington, TX at 2502 West Bardin Road, Arlington, TX 76017. Phone: +18176759135. | https://dingalinged-cpu.github.io/registry/c/white-out-termite-and-pest-control-arlington/
+1. White Out Termite and Pest Control | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | White Out Termite and Pest Control is a pest control company in Arlington, TX at 2502 West Bardin Road, Arlington, TX 76017. Phone: +18176759135. | https://dingalinged-cpu.github.io/registry/c/white-out-termite-and-pest-control-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator arlington tx | category: Home services - Pest control | industry benchmark: Home & Home Improvement

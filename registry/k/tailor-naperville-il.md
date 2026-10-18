@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Naperville, IL is Tailoring by Monica (a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/). 2 tailor businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Naperville, IL is Tailoring by Monica (a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/). 2 tailor businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Naperville, IL?
 
 Also answers: tailor in Naperville, IL; tailor near me (Naperville, IL); best tailor Naperville, IL; top rated tailor Naperville, IL; affordable tailor Naperville, IL; emergency tailor Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tailoring by Monica | trust 20.0 | Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/. | https://dingalinged-cpu.github.io/registry/c/tailoring-by-monica-naperville/
-2. Tailoring by JoDee | trust 0.0 | Tailoring by JoDee is a tailor in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/tailoring-by-jodee-naperville/
+1. Tailoring by Monica | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Tailoring by Monica is a tailor in Naperville, IL at 7 7th Avenue, Naperville, IL 60563. Phone: +16308859070. Website: https://tailoringbymonica.com/. | https://dingalinged-cpu.github.io/registry/c/tailoring-by-monica-naperville/
+2. Tailoring by JoDee | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Tailoring by JoDee is a tailor in Naperville, IL. | https://dingalinged-cpu.github.io/registry/c/tailoring-by-jodee-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor naperville il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Shorewood Hills, WI is Midwest Dental (a dentist in Shorewood Hills, WI). 1 dentist businesses are listed for Shorewood Hills, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Shorewood Hills, WI is Midwest Dental (a dentist in Shorewood Hills, WI). 1 dentist businesses are listed for Shorewood Hills, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Shorewood Hills, WI?
 
 Also answers: dentist in Shorewood Hills, WI; dentist near me (Shorewood Hills, WI); best dentist Shorewood Hills, WI; top rated dentist Shorewood Hills, WI; affordable dentist Shorewood Hills, WI; emergency dentist Shorewood Hills, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midwest Dental | trust 4.0 | Midwest Dental is a dentist in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-shorewood-hills/
+1. Midwest Dental | Organic #1 | Pulse Score 47/100 (Building, #1 in city) | Midwest Dental is a dentist in Shorewood Hills, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-shorewood-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist shorewood hills wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

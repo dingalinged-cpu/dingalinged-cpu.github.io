@@ -13,7 +13,7 @@ House of Smiles Pediatric Dentistry And Orthodontics is a dentist in Cypress, TX
 - Website: https://houseofsmileshtx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-16:00, Fr 08:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 20% of dentists in Houston, #3 of 5 dentists in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

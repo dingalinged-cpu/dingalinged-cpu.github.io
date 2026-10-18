@@ -1,15 +1,15 @@
-The top unpaid gift shop listing for Racine, WI is Sheepish (a gift shop in Racine, WI at 326 Main Street, Racine, WI. Website: https://sheepishwi.com/). 4 gift shop businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Racine, WI is Sheepish (a gift shop in Racine, WI at 326 Main Street, Racine, WI. Website: https://sheepishwi.com/). 4 gift shop businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Racine, WI?
 
 Also answers: gift shop in Racine, WI; gift shop near me (Racine, WI); best gift shop Racine, WI; top rated gift shop Racine, WI; affordable gift shop Racine, WI; emergency gift shop Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sheepish | trust 9.0 | Sheepish is a gift shop in Racine, WI at 326 Main Street, Racine, WI. Website: https://sheepishwi.com/. | https://dingalinged-cpu.github.io/registry/c/sheepish-racine/
-2. Lighthouse Gallery & Gifts | trust 3.0 | Lighthouse Gallery & Gifts is a gift shop in Racine, WI at 306 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lighthouse-gallery-and-gifts-racine/
-3. Northern Lights Gallery | trust 3.0 | Northern Lights Gallery is a gift shop in Racine, WI at 423 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/northern-lights-gallery-racine/
-4. Zootique | trust 0.0 | Zootique is a gift shop in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/zootique-racine/
+1. Sheepish | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Sheepish is a gift shop in Racine, WI at 326 Main Street, Racine, WI. Website: https://sheepishwi.com/. | https://dingalinged-cpu.github.io/registry/c/sheepish-racine/
+2. Lighthouse Gallery & Gifts | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Lighthouse Gallery & Gifts is a gift shop in Racine, WI at 306 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lighthouse-gallery-and-gifts-racine/
+3. Northern Lights Gallery | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Northern Lights Gallery is a gift shop in Racine, WI at 423 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/northern-lights-gallery-racine/
+4. Zootique | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Zootique is a gift shop in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/zootique-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

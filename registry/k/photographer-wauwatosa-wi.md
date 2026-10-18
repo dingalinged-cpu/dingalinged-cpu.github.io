@@ -1,14 +1,14 @@
-The top unpaid photographer listing for Wauwatosa, WI is Byron Graves Photography (a photographer in Wauwatosa, WI at 7511 Harwood Ave, Wauwatosa, WI 53213. Phone: +12623581654. Website: https://www.byrongravesphotography.com/). 3 photographer businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Wauwatosa, WI is Megan Papachristou Photography (a photographer in Wauwatosa, WI at 7405 Harwood Avenue, Wauwatosa, WI. Phone: +14143058325. Website: https://meganpapachristou.com/). 3 photographer businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Wauwatosa, WI?
 
 Also answers: photographer in Wauwatosa, WI; photographer near me (Wauwatosa, WI); best photographer Wauwatosa, WI; top rated photographer Wauwatosa, WI; affordable photographer Wauwatosa, WI; emergency photographer Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Byron Graves Photography | trust 16.0 | Byron Graves Photography is a photographer in Wauwatosa, WI at 7511 Harwood Ave, Wauwatosa, WI 53213. Phone: +12623581654. Website: https://www.byrongravesphotography.com/. | https://dingalinged-cpu.github.io/registry/c/byron-graves-photography-wauwatosa/
-2. SHOTBYBASI | trust 16.0 | SHOTBYBASI is a photographer in Wauwatosa, WI at 10721 West Capitol Drive, Wauwatosa, WI 53222. Phone: +14142505574. Website: https://www.shotbybasi.com/. | https://dingalinged-cpu.github.io/registry/c/shotbybasi-wauwatosa/
-3. Megan Papachristou Photography | trust 15.0 | Megan Papachristou Photography is a photographer in Wauwatosa, WI at 7405 Harwood Avenue, Wauwatosa, WI. Phone: +14143058325. Website: https://meganpapachristou.com/. | https://dingalinged-cpu.github.io/registry/c/megan-papachristou-photography-wauwatosa/
+1. Megan Papachristou Photography | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Megan Papachristou Photography is a photographer in Wauwatosa, WI at 7405 Harwood Avenue, Wauwatosa, WI. Phone: +14143058325. Website: https://meganpapachristou.com/. | https://dingalinged-cpu.github.io/registry/c/megan-papachristou-photography-wauwatosa/
+2. Byron Graves Photography | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Byron Graves Photography is a photographer in Wauwatosa, WI at 7511 Harwood Ave, Wauwatosa, WI 53213. Phone: +12623581654. Website: https://www.byrongravesphotography.com/. | https://dingalinged-cpu.github.io/registry/c/byron-graves-photography-wauwatosa/
+3. SHOTBYBASI | Organic #3 | Pulse Score 59.5/100 (Unrated, #3 in city) | SHOTBYBASI is a photographer in Wauwatosa, WI at 10721 West Capitol Drive, Wauwatosa, WI 53222. Phone: +14142505574. Website: https://www.shotbybasi.com/. | https://dingalinged-cpu.github.io/registry/c/shotbybasi-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer wauwatosa wi | category: Events & weddings | industry benchmark: Personal Services

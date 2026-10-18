@@ -1,12 +1,12 @@
-The top unpaid electrician listing for Golden Valley, MN is North Country Auto & Marine (an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/). 1 electrician businesses are listed for Golden Valley, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Golden Valley, MN is North Country Auto & Marine (an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/). 1 electrician businesses are listed for Golden Valley, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Golden Valley, MN?
 
 Also answers: electrician in Golden Valley, MN; electrician near me (Golden Valley, MN); best electrician Golden Valley, MN; top rated electrician Golden Valley, MN; affordable electrician Golden Valley, MN; emergency electrician Golden Valley, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Country Auto & Marine | trust 16.0 | North Country Auto & Marine is an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/. | https://dingalinged-cpu.github.io/registry/c/north-country-auto-and-marine-golden-valley/
+1. North Country Auto & Marine | Organic #1 | Pulse Score 60.6/100 (Good, #1 in city) | North Country Auto & Marine is an electrician in Golden Valley, MN at 710 Pennsylvania Avenue South, Golden Valley, MN 55426. Phone: +16129192963. Website: https://www.facebook.com/northcountryam/. | https://dingalinged-cpu.github.io/registry/c/north-country-auto-and-marine-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician golden valley mn | category: Home services - Electrical | industry benchmark: Home & Home Improvement

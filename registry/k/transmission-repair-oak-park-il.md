@@ -1,12 +1,12 @@
-The top unpaid transmission repair listing for Oak Park, IL is AAMCO (an auto repair shop in Oak Park, IL at 311 Madison Street, Oak Park, IL 60302). 1 transmission repair businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Oak Park, IL is AAMCO (an auto repair shop in Oak Park, IL at 311 Madison Street, Oak Park, IL 60302). 1 transmission repair businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Oak Park, IL?
 
 Also answers: transmission repair in Oak Park, IL; transmission repair near me (Oak Park, IL); best transmission repair Oak Park, IL; top rated transmission repair Oak Park, IL; affordable transmission repair Oak Park, IL; emergency transmission repair Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAMCO | trust 4.0 | AAMCO is an auto repair shop in Oak Park, IL at 311 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/aamco-oak-park/
+1. AAMCO | Organic #1 | Pulse Score 44.7/100 (Building, #5 in city) | AAMCO is an auto repair shop in Oak Park, IL at 311 Madison Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/aamco-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair oak park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

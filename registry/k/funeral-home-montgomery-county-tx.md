@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Montgomery County, TX is Forest Park - The Woodlands Funeral Home & Cemetery (a funeral home in Montgomery County, TX). 1 funeral home businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Montgomery County, TX is Forest Park - The Woodlands Funeral Home & Cemetery (a funeral home in Montgomery County, TX). 1 funeral home businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Montgomery County, TX?
 
 Also answers: funeral home in Montgomery County, TX; funeral home near me (Montgomery County, TX); best funeral home Montgomery County, TX; top rated funeral home Montgomery County, TX; affordable funeral home Montgomery County, TX; emergency funeral home Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forest Park - The Woodlands Funeral Home & Cemetery | trust 0.0 | Forest Park - The Woodlands Funeral Home & Cemetery is a funeral home in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/forest-park-the-woodlands-funeral-home-and-cemetery-montgomery-county/
+1. Forest Park - The Woodlands Funeral Home & Cemetery | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Forest Park - The Woodlands Funeral Home & Cemetery is a funeral home in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/forest-park-the-woodlands-funeral-home-and-cemetery-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home montgomery county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

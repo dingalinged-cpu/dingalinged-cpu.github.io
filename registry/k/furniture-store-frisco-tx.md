@@ -1,26 +1,26 @@
-The top unpaid furniture store listing for Frisco, TX is IKEA (a furniture store in Frisco, TX at 7171 Ikea Drive, Frisco, TX 75034. Phone: +18888884532. Website: https://www.ikea.com/us/en/stores/frisco/). 15 furniture store businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Frisco, TX is Amish Furniture Showcase (a furniture store in Frisco, TX at 3411 Preston Road, Frisco, TX 75034). 15 furniture store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Frisco, TX?
 
 Also answers: furniture store in Frisco, TX; furniture store near me (Frisco, TX); best furniture store Frisco, TX; top rated furniture store Frisco, TX; affordable furniture store Frisco, TX; emergency furniture store Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. IKEA | trust 20.0 | IKEA is a furniture store in Frisco, TX at 7171 Ikea Drive, Frisco, TX 75034. Phone: +18888884532. Website: https://www.ikea.com/us/en/stores/frisco/. | https://dingalinged-cpu.github.io/registry/c/ikea-frisco/
-2. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Frisco, TX at 7780 State Highway 121, Frisco, TX 75034. Phone: +12147051244. Website: https://stores.ashleyfurniture.com/store/us/texas/frisco/7710000413/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-frisco/
-3. Amish Furniture Showcase | trust 4.0 | Amish Furniture Showcase is a furniture store in Frisco, TX at 3411 Preston Road, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/amish-furniture-showcase-frisco/
-4. Rooms To Go | trust 4.0 | Rooms To Go is a furniture store in Frisco, TX at 7660 State Highway 121, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-frisco/
-5. Ethan Allen | trust 3.0 | Ethan Allen is a furniture store in Frisco, TX at 2100 Parkwood Boulevard, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-frisco/
-6. Havertys | trust 3.0 | Havertys is a furniture store in Frisco, TX at 8049 Gaylord Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-frisco/
-7. Bassett Furniture | trust 0.0 | Bassett Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/bassett-furniture-frisco/
-8. Ferguson Bath, Kitchen & Lighting Gallery | trust 0.0 | Ferguson Bath, Kitchen & Lighting Gallery is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ferguson-bath-kitchen-and-lighting-gallery-frisco/
-9. La-Z-Boy | trust 0.0 | La-Z-Boy is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-frisco/
-10. Natuzzi | trust 0.0 | Natuzzi is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/natuzzi-frisco/
-11. Paradise Grills | trust 0.0 | Paradise Grills is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/paradise-grills-frisco/
-12. Stash Home Furniture | trust 0.0 | Stash Home Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/stash-home-furniture-frisco/
-13. Sunnyland Outdoor Living | trust 0.0 | Sunnyland Outdoor Living is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/sunnyland-outdoor-living-frisco/
-14. The Leather Sofa C | trust 0.0 | The Leather Sofa C is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-leather-sofa-c-frisco/
-15. Zuri Modern Furniture | trust 0.0 | Zuri Modern Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/zuri-modern-furniture-frisco/
+1. Amish Furniture Showcase | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Amish Furniture Showcase is a furniture store in Frisco, TX at 3411 Preston Road, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/amish-furniture-showcase-frisco/
+2. Ferguson Bath, Kitchen & Lighting Gallery | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Ferguson Bath, Kitchen & Lighting Gallery is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ferguson-bath-kitchen-and-lighting-gallery-frisco/
+3. Paradise Grills | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Paradise Grills is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/paradise-grills-frisco/
+4. Stash Home Furniture | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Stash Home Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/stash-home-furniture-frisco/
+5. Sunnyland Outdoor Living | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Sunnyland Outdoor Living is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/sunnyland-outdoor-living-frisco/
+6. The Leather Sofa C | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | The Leather Sofa C is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-leather-sofa-c-frisco/
+7. Zuri Modern Furniture | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Zuri Modern Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/zuri-modern-furniture-frisco/
+8. IKEA | Organic #8 | Pulse Score 49/100 (Building, #8 in city) | IKEA is a furniture store in Frisco, TX at 7171 Ikea Drive, Frisco, TX 75034. Phone: +18888884532. Website: https://www.ikea.com/us/en/stores/frisco/. | https://dingalinged-cpu.github.io/registry/c/ikea-frisco/
+9. Ashley HomeStore | Organic #9 | Pulse Score 48/100 (Building, #9 in city) | Ashley HomeStore is a furniture store in Frisco, TX at 7780 State Highway 121, Frisco, TX 75034. Phone: +12147051244. Website: https://stores.ashleyfurniture.com/store/us/texas/frisco/7710000413/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-frisco/
+10. Rooms To Go | Organic #10 | Pulse Score 45.5/100 (Building, #10 in city) | Rooms To Go is a furniture store in Frisco, TX at 7660 State Highway 121, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-frisco/
+11. Havertys | Organic #11 | Pulse Score 44.6/100 (Building, #11 in city) | Havertys is a furniture store in Frisco, TX at 8049 Gaylord Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-frisco/
+12. Ethan Allen | Organic #12 | Pulse Score 44.1/100 (Building, #12 in city) | Ethan Allen is a furniture store in Frisco, TX at 2100 Parkwood Boulevard, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-frisco/
+13. La-Z-Boy | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | La-Z-Boy is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-frisco/
+14. Natuzzi | Organic #14 | Pulse Score 42.7/100 (Building, #14 in city) | Natuzzi is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/natuzzi-frisco/
+15. Bassett Furniture | Organic #15 | Pulse Score 42.2/100 (Building, #15 in city) | Bassett Furniture is a furniture store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/bassett-furniture-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

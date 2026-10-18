@@ -13,7 +13,7 @@ Fama is a spa in Denton, TX. Phone: +19406129127.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 09:00-19:00; Sa 08:00-19:00; Su off
-- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 50% of spas in Dallas–Fort Worth, #1 of 1 spas in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

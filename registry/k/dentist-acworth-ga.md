@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Acworth, GA is Biologic Dentistry (a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html). 5 dentist businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Acworth, GA is Biologic Dentistry (a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html). 5 dentist businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Acworth, GA?
 
 Also answers: dentist in Acworth, GA; dentist near me (Acworth, GA); best dentist Acworth, GA; top rated dentist Acworth, GA; affordable dentist Acworth, GA; emergency dentist Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Biologic Dentistry | trust 20.0 | Biologic Dentistry is a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html. | https://dingalinged-cpu.github.io/registry/c/biologic-dentistry-acworth/
-2. Glee Dential | trust 16.0 | Glee Dential is a dentist in Acworth, GA at 3485 Acworth Due West Road #160, Acworth, GA 30101. Phone: +16789613370. Website: https://glee-dental.com/. | https://dingalinged-cpu.github.io/registry/c/glee-dential-acworth/
-3. Mountain View Dental | trust 16.0 | Mountain View Dental is a dentist in Acworth, GA at 2320 Baker Road, Acworth, GA 30101. Phone: +17704298989. Website: https://dentistacworth.com/. | https://dingalinged-cpu.github.io/registry/c/mountain-view-dental-acworth/
-4. Hildreth Dental | trust 14.0 | Hildreth Dental is a dentist in Acworth, GA at 4900 Ivey Road #1424, Acworth, GA 30101. Website: https://hildrethdental.com/. | https://dingalinged-cpu.github.io/registry/c/hildreth-dental-acworth/
-5. braces braces | trust 0.0 | braces braces is a dentist in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/braces-braces-acworth/
+1. Biologic Dentistry | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Biologic Dentistry is a dentist in Acworth, GA at 1781 Brookstone Walk Northwest #110, Acworth, GA 30101. Phone: +17704269994. Website: https://www.biologicdentistry.com/contact-us.html. | https://dingalinged-cpu.github.io/registry/c/biologic-dentistry-acworth/
+2. Glee Dential | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Glee Dential is a dentist in Acworth, GA at 3485 Acworth Due West Road #160, Acworth, GA 30101. Phone: +16789613370. Website: https://glee-dental.com/. | https://dingalinged-cpu.github.io/registry/c/glee-dential-acworth/
+3. Hildreth Dental | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Hildreth Dental is a dentist in Acworth, GA at 4900 Ivey Road #1424, Acworth, GA 30101. Website: https://hildrethdental.com/. | https://dingalinged-cpu.github.io/registry/c/hildreth-dental-acworth/
+4. Mountain View Dental | Organic #4 | Pulse Score 59.1/100 (Unrated, #4 in city) | Mountain View Dental is a dentist in Acworth, GA at 2320 Baker Road, Acworth, GA 30101. Phone: +17704298989. Website: https://dentistacworth.com/. | https://dingalinged-cpu.github.io/registry/c/mountain-view-dental-acworth/
+5. braces braces | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | braces braces is a dentist in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/braces-braces-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist acworth ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

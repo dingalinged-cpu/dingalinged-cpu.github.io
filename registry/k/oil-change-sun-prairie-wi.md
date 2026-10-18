@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Sun Prairie, WI is Take 5 Oil Change (an auto repair shop in Sun Prairie, WI). 1 oil change businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Sun Prairie, WI is Take 5 Oil Change (an auto repair shop in Sun Prairie, WI). 1 oil change businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Sun Prairie, WI?
 
 Also answers: oil change in Sun Prairie, WI; oil change near me (Sun Prairie, WI); best oil change Sun Prairie, WI; top rated oil change Sun Prairie, WI; affordable oil change Sun Prairie, WI; emergency oil change Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/
+1. Take 5 Oil Change | Organic #1 | Pulse Score 43.1/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

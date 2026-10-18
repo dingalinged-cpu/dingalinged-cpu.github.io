@@ -1,16 +1,16 @@
-The top unpaid chiropractor listing for Harris County, TX is Click Chriopractic (a chiropractor in Harris County, TX). 5 chiropractor businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Harris County, TX is Click Chriopractic (a chiropractor in Harris County, TX). 5 chiropractor businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Harris County, TX?
 
 Also answers: chiropractor in Harris County, TX; chiropractor near me (Harris County, TX); best chiropractor Harris County, TX; top rated chiropractor Harris County, TX; affordable chiropractor Harris County, TX; emergency chiropractor Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Click Chriopractic | trust 0.0 | Click Chriopractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/click-chriopractic-harris-county/
-2. Discover Chiropractic | trust 0.0 | Discover Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/discover-chiropractic-harris-county/
-3. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county/
-4. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county-n11963638281/
-5. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county-n13838092401/
+1. Click Chriopractic | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Click Chriopractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/click-chriopractic-harris-county/
+2. Discover Chiropractic | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Discover Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/discover-chiropractic-harris-county/
+3. The Joint Chiropractic | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county-n11963638281/
+4. The Joint Chiropractic | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county/
+5. The Joint Chiropractic | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | The Joint Chiropractic is a chiropractor in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-harris-county-n13838092401/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor harris county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

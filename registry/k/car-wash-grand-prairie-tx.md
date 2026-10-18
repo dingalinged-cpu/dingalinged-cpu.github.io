@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Grand Prairie, TX is $4 Express Car Wash (a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052). 5 car wash businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Grand Prairie, TX is $4 Express Car Wash (a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052). 5 car wash businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Grand Prairie, TX?
 
 Also answers: car wash in Grand Prairie, TX; car wash near me (Grand Prairie, TX); best car wash Grand Prairie, TX; top rated car wash Grand Prairie, TX; affordable car wash Grand Prairie, TX; emergency car wash Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. $4 Express Car Wash | trust 8.0 | $4 Express Car Wash is a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052. | https://dingalinged-cpu.github.io/registry/c/4-express-car-wash-grand-prairie/
-2. Marquez Car Wash | trust 8.0 | Marquez Car Wash is a car wash in Grand Prairie, TX at 211 Southwest 3rd Street, Grand Prairie, TX 75051. | https://dingalinged-cpu.github.io/registry/c/marquez-car-wash-grand-prairie/
-3. Wash Masters | trust 8.0 | Wash Masters is a car wash in Grand Prairie, TX at 3190 Lynn Creek Parkway, Grand Prairie, TX 75052. | https://dingalinged-cpu.github.io/registry/c/wash-masters-grand-prairie/
-4. Kleen Car | trust 0.0 | Kleen Car is a car wash in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/kleen-car-grand-prairie/
-5. Scrub-A-Dub | trust 0.0 | Scrub-A-Dub is a car wash in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-grand-prairie/
+1. $4 Express Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | $4 Express Car Wash is a car wash in Grand Prairie, TX at 3949 South Belt Line Road, Grand Prairie, TX 75052. | https://dingalinged-cpu.github.io/registry/c/4-express-car-wash-grand-prairie/
+2. Marquez Car Wash | Organic #2 | Pulse Score 60.6/100 (Unrated, #2 in city) | Marquez Car Wash is a car wash in Grand Prairie, TX at 211 Southwest 3rd Street, Grand Prairie, TX 75051. | https://dingalinged-cpu.github.io/registry/c/marquez-car-wash-grand-prairie/
+3. Kleen Car | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Kleen Car is a car wash in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/kleen-car-grand-prairie/
+4. Scrub-A-Dub | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Scrub-A-Dub is a car wash in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-grand-prairie/
+5. Wash Masters | Organic #5 | Pulse Score 49.8/100 (Unrated, #5 in city) | Wash Masters is a car wash in Grand Prairie, TX at 3190 Lynn Creek Parkway, Grand Prairie, TX 75052. | https://dingalinged-cpu.github.io/registry/c/wash-masters-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash grand prairie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

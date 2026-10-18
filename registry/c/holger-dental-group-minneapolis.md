@@ -13,7 +13,7 @@ Holger Dental Group is a dentist in Minneapolis, MN at 120 North 1st Avenue, Min
 - Website: https://www.holgerdentalgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 29% of dentists in Minneapolis–St. Paul, #17 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

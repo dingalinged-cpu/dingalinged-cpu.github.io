@@ -13,7 +13,7 @@ The Adley Craig Ranch is a property management company in McKinney, TX at 8951 M
 - Website: https://www.irtliving.com/Apartments-In/McKinney-TX/Adley-Craig-Ranch
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00; Tu,Th,Sa 10:00-18:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 14% of property management companys in Dallas–Fort Worth, #1 of 5 property management companys in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

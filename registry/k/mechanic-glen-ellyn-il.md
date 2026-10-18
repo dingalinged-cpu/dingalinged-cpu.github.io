@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Glen Ellyn, IL is Gearhead Auto (an auto repair shop in Glen Ellyn, IL at 474 Forest Avenue, Glen Ellyn, IL 60137. Website: https://www.gearheadautorepair.com/). 3 mechanic businesses are listed for Glen Ellyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Glen Ellyn, IL is J & R Auto Repair, Inc. (an auto repair shop in Glen Ellyn, IL at 574 Pennsylvania Avenue, Glen Ellyn, IL 60137. Phone: +16304699222). 3 mechanic businesses are listed for Glen Ellyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Glen Ellyn, IL?
 
 Also answers: mechanic in Glen Ellyn, IL; mechanic near me (Glen Ellyn, IL); best mechanic Glen Ellyn, IL; top rated mechanic Glen Ellyn, IL; affordable mechanic Glen Ellyn, IL; emergency mechanic Glen Ellyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gearhead Auto | trust 10.0 | Gearhead Auto is an auto repair shop in Glen Ellyn, IL at 474 Forest Avenue, Glen Ellyn, IL 60137. Website: https://www.gearheadautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/gearhead-auto-glen-ellyn/
-2. J & R Auto Repair, Inc. | trust 10.0 | J & R Auto Repair, Inc. is an auto repair shop in Glen Ellyn, IL at 574 Pennsylvania Avenue, Glen Ellyn, IL 60137. Phone: +16304699222. | https://dingalinged-cpu.github.io/registry/c/j-and-r-auto-repair-inc-glen-ellyn/
-3. Valvoline Express Care | trust 9.0 | Valvoline Express Care is an auto repair shop in Wheaton, IL at 1927 East Roosevelt Road, Wheaton, IL. Phone: +16306536553. | https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-wheaton/
+1. J & R Auto Repair, Inc. | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | J & R Auto Repair, Inc. is an auto repair shop in Glen Ellyn, IL at 574 Pennsylvania Avenue, Glen Ellyn, IL 60137. Phone: +16304699222. | https://dingalinged-cpu.github.io/registry/c/j-and-r-auto-repair-inc-glen-ellyn/
+2. Gearhead Auto | Organic #2 | Pulse Score 59.2/100 (Unrated, #2 in city) | Gearhead Auto is an auto repair shop in Glen Ellyn, IL at 474 Forest Avenue, Glen Ellyn, IL 60137. Website: https://www.gearheadautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/gearhead-auto-glen-ellyn/
+3. Valvoline Express Care | Organic #3 | Pulse Score 46.6/100 (Building, #2 in city) | Valvoline Express Care is an auto repair shop in Wheaton, IL at 1927 East Roosevelt Road, Wheaton, IL. Phone: +16306536553. | https://dingalinged-cpu.github.io/registry/c/valvoline-express-care-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic glen ellyn il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

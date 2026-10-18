@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for White Bear Lake, MN is No Joke Tattoo Studio (a tattoo shop in White Bear Lake, MN). 1 tattoo shop businesses are listed for White Bear Lake, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for White Bear Lake, MN is No Joke Tattoo Studio (a tattoo shop in White Bear Lake, MN). 1 tattoo shop businesses are listed for White Bear Lake, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in White Bear Lake, MN?
 
 Also answers: tattoo shop in White Bear Lake, MN; tattoo shop near me (White Bear Lake, MN); best tattoo shop White Bear Lake, MN; top rated tattoo shop White Bear Lake, MN; affordable tattoo shop White Bear Lake, MN; emergency tattoo shop White Bear Lake, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. No Joke Tattoo Studio | trust 0.0 | No Joke Tattoo Studio is a tattoo shop in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/no-joke-tattoo-studio-white-bear-lake/
+1. No Joke Tattoo Studio | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | No Joke Tattoo Studio is a tattoo shop in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/no-joke-tattoo-studio-white-bear-lake/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop white bear lake mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,14 +1,14 @@
-The top unpaid yoga classes listing for Naperville, IL is Abhyaasa Yoga (a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/). 3 yoga classes businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Naperville, IL is Abhyaasa Yoga (a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/). 3 yoga classes businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Naperville, IL?
 
 Also answers: yoga classes in Naperville, IL; yoga classes near me (Naperville, IL); best yoga classes Naperville, IL; top rated yoga classes Naperville, IL; affordable yoga classes Naperville, IL; emergency yoga classes Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abhyaasa Yoga | trust 16.0 | Abhyaasa Yoga is a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/. | https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/
-2. Hot Yoga Naperville | trust 16.0 | Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street, Naperville, IL 60540. Phone: +16304507406. Website: https://www.hotyoganaperville.com/. | https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/
-3. Shyft | trust 10.0 | Shyft is a yoga studio in Naperville, IL at 39 1/2 West Jefferson Avenue, Naperville, IL 60540. Website: https://www.shyftnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/shyft-naperville/
+1. Abhyaasa Yoga | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Abhyaasa Yoga is a yoga studio in Naperville, IL at 124 South Webster Street, Naperville, IL 60540. Phone: +16303589642. Website: https://www.abhyaasayoga.com/. | https://dingalinged-cpu.github.io/registry/c/abhyaasa-yoga-naperville/
+2. Hot Yoga Naperville | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Hot Yoga Naperville is a yoga studio in Naperville, IL at 400 South Main Street, Naperville, IL 60540. Phone: +16304507406. Website: https://www.hotyoganaperville.com/. | https://dingalinged-cpu.github.io/registry/c/hot-yoga-naperville-naperville/
+3. Shyft | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Shyft is a yoga studio in Naperville, IL at 39 1/2 West Jefferson Avenue, Naperville, IL 60540. Website: https://www.shyftnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/shyft-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes naperville il | category: Fitness | industry benchmark: Health & Fitness

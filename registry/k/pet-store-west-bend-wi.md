@@ -1,13 +1,13 @@
-The top unpaid pet store listing for West Bend, WI is Petco (a pet store in West Bend, WI at 806 West Paradise Drive, West Bend, WI 53095. Phone: +12623344785. Website: https://stores.petco.com/wi/westbend/pet-supplies-westbend-wi-1664.html). 2 pet store businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for West Bend, WI is Pet Care Essentials Plus (a pet store in West Bend, WI). 2 pet store businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in West Bend, WI?
 
 Also answers: pet store in West Bend, WI; pet store near me (West Bend, WI); best pet store West Bend, WI; top rated pet store West Bend, WI; affordable pet store West Bend, WI; emergency pet store West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in West Bend, WI at 806 West Paradise Drive, West Bend, WI 53095. Phone: +12623344785. Website: https://stores.petco.com/wi/westbend/pet-supplies-westbend-wi-1664.html. | https://dingalinged-cpu.github.io/registry/c/petco-west-bend/
-2. Pet Care Essentials Plus | trust 0.0 | Pet Care Essentials Plus is a pet store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pet-care-essentials-plus-west-bend/
+1. Pet Care Essentials Plus | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Pet Care Essentials Plus is a pet store in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pet-care-essentials-plus-west-bend/
+2. Petco | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Petco is a pet store in West Bend, WI at 806 West Paradise Drive, West Bend, WI 53095. Phone: +12623344785. Website: https://stores.petco.com/wi/westbend/pet-supplies-westbend-wi-1664.html. | https://dingalinged-cpu.github.io/registry/c/petco-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store west bend wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

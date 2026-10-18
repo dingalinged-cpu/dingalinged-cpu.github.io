@@ -13,7 +13,7 @@ Boutros Orthodontics is a dentist in Bellaire, TX at 6750 West Loop South, Bella
 - Website: https://www.boutrosortho.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of dentists in Houston, #1 of 1 dentists in Bellaire (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

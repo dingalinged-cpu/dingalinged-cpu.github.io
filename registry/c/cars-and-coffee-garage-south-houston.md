@@ -13,7 +13,7 @@ Cars and Coffee Garage is an auto repair shop in South Houston, TX. Phone: +1713
 - Website: https://carsandcoffeegarage.com/
 - Email: carsandcoffeegarage@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Houston, #1 of 1 auto repair shops in South Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

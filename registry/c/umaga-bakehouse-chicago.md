@@ -13,7 +13,7 @@ Umaga Bakehouse is a bakery in Chicago, IL at 4703 West Foster Avenue, Chicago, 
 - Website: https://order.online/store/umaga-bakehouse-chicago-29847764/?hideModal=true&pickup=true&redirected=true
 - Email: info@umagabakehouse.com
 - Opening hours (OSM syntax): Mo-Su 08:00-19:40
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of bakerys in Chicago, #14 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

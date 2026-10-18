@@ -13,7 +13,7 @@ Hair Bizz is a hair salon in Arlington, TX at 2510 Little Road, Arlington, TX. P
 - Website: https://hairbizz.biz/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Dallas–Fort Worth, #6 of 19 hair salons in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

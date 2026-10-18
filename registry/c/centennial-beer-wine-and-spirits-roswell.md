@@ -13,7 +13,7 @@ Centennial Beer, Wine, and Spirits is a liquor store in Roswell, GA at 2300 Holc
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 57% of liquor stores in Atlanta, #3 of 6 liquor stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

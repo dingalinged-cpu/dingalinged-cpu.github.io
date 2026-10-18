@@ -13,7 +13,7 @@ Super-Lube is an auto repair shop in Oak Creek, WI at 6906 South 27th Street, Oa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 92% of auto repair shops in Milwaukee, #5 of 6 auto repair shops in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

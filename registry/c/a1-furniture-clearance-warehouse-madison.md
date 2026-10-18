@@ -13,7 +13,7 @@ A1 Furniture Clearance Warehouse is a furniture store in Madison, WI. Phone: +18
 - Website: https://driveoscar.com/locations/madison-south
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 65% of furniture stores in Madison, #9 of 17 furniture stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

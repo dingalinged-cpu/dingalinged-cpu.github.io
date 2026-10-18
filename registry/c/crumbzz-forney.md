@@ -13,7 +13,7 @@ Crumbzz is a bakery in Forney, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.5/100 — Unrated (not enough evidence yet) — top 66% of bakerys in Dallas–Fort Worth, #2 of 2 bakerys in Forney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 40.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

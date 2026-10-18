@@ -1,14 +1,14 @@
-The top unpaid gym listing for Grapevine, TX is CLUB4 Fitness (a gym in Grapevine, TX at 4000 William D Tate Avenue, Grapevine, TX 76051. Phone: +18174423493. Website: https://www.club4fitness.com/location/grapevine-tx/). 3 gym businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Grapevine, TX is Max Resultx (a gym in Grapevine, TX at 2030 Glade Road #250, Grapevine, TX 76051). 3 gym businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Grapevine, TX?
 
 Also answers: gym in Grapevine, TX; gym near me (Grapevine, TX); best gym Grapevine, TX; top rated gym Grapevine, TX; affordable gym Grapevine, TX; emergency gym Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CLUB4 Fitness | trust 20.0 | CLUB4 Fitness is a gym in Grapevine, TX at 4000 William D Tate Avenue, Grapevine, TX 76051. Phone: +18174423493. Website: https://www.club4fitness.com/location/grapevine-tx/. | https://dingalinged-cpu.github.io/registry/c/club4-fitness-grapevine/
-2. Max Resultx | trust 4.0 | Max Resultx is a gym in Grapevine, TX at 2030 Glade Road #250, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/max-resultx-grapevine/
-3. The REC of Grapevine | trust 0.0 | The REC of Grapevine is a gym in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/the-rec-of-grapevine-grapevine/
+1. Max Resultx | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Max Resultx is a gym in Grapevine, TX at 2030 Glade Road #250, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/max-resultx-grapevine/
+2. The REC of Grapevine | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | The REC of Grapevine is a gym in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/the-rec-of-grapevine-grapevine/
+3. CLUB4 Fitness | Organic #3 | Pulse Score 51.3/100 (Unrated, #3 in city) | CLUB4 Fitness is a gym in Grapevine, TX at 4000 William D Tate Avenue, Grapevine, TX 76051. Phone: +18174423493. Website: https://www.club4fitness.com/location/grapevine-tx/. | https://dingalinged-cpu.github.io/registry/c/club4-fitness-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym grapevine tx | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Mundelein, IL is Brother's Barber Shop (a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181). 2 haircut businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Mundelein, IL is J.L.O (a hair salon in Mundelein, IL at 26290, Mundelein, IL. Phone: +18478378008). 2 haircut businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Mundelein, IL?
 
 Also answers: haircut in Mundelein, IL; haircut near me (Mundelein, IL); best haircut Mundelein, IL; top rated haircut Mundelein, IL; affordable haircut Mundelein, IL; emergency haircut Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brother's Barber Shop | trust 14.0 | Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181. | https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/
-2. J.L.O | trust 13.0 | J.L.O is a hair salon in Mundelein, IL at 26290, Mundelein, IL. Phone: +18478378008. | https://dingalinged-cpu.github.io/registry/c/j-l-o-mundelein/
+1. J.L.O | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | J.L.O is a hair salon in Mundelein, IL at 26290, Mundelein, IL. Phone: +18478378008. | https://dingalinged-cpu.github.io/registry/c/j-l-o-mundelein/
+2. Brother's Barber Shop | Organic #2 | Pulse Score 60.4/100 (Unrated, #1 in city) | Brother's Barber Shop is a barber shop in Mundelein, IL at 439 North Lake Street, Mundelein, IL 60060. Phone: +18479103181. | https://dingalinged-cpu.github.io/registry/c/brothers-barber-shop-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut mundelein il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Shorewood, WI is Northwoods (a marketing agency in Shorewood, WI at 1572 East Capitol Drive, Shorewood, WI 53211. Phone: +14149149102. Website: https://www.nwsdigital.com/). 1 marketing agency businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Shorewood, WI is Northwoods (a marketing agency in Shorewood, WI at 1572 East Capitol Drive, Shorewood, WI 53211. Phone: +14149149102. Website: https://www.nwsdigital.com/). 1 marketing agency businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Shorewood, WI?
 
 Also answers: marketing agency in Shorewood, WI; marketing agency near me (Shorewood, WI); best marketing agency Shorewood, WI; top rated marketing agency Shorewood, WI; affordable marketing agency Shorewood, WI; emergency marketing agency Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwoods | trust 16.0 | Northwoods is a marketing agency in Shorewood, WI at 1572 East Capitol Drive, Shorewood, WI 53211. Phone: +14149149102. Website: https://www.nwsdigital.com/. | https://dingalinged-cpu.github.io/registry/c/northwoods-shorewood/
+1. Northwoods | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Northwoods is a marketing agency in Shorewood, WI at 1572 East Capitol Drive, Shorewood, WI 53211. Phone: +14149149102. Website: https://www.nwsdigital.com/. | https://dingalinged-cpu.github.io/registry/c/northwoods-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency shorewood wi | category: Professional & financial services | industry benchmark: Finance & Insurance

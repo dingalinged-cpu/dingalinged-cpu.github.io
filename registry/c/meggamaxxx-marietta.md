@@ -13,7 +13,7 @@ Meggamaxxx is an auto repair shop in Marietta, GA at 80 Cobb Parkway North, Mari
 - Website: https://www.meggamaxx.com/
 - Email: contact@meggamaxx.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 3% of auto repair shops in Atlanta, #5 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

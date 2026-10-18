@@ -1,13 +1,13 @@
-The top unpaid tax preparer listing for Matteson, IL is H&R Block (a tax preparation service in Matteson, IL at 4163 Lincoln Highway, Matteson, IL 60443. Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/). 2 tax preparer businesses are listed for Matteson, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Matteson, IL is H&R Block (a tax preparation service in Matteson, IL at 4163 Lincoln Highway, Matteson, IL 60443. Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/). 2 tax preparer businesses are listed for Matteson, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Matteson, IL?
 
 Also answers: tax preparer in Matteson, IL; tax preparer near me (Matteson, IL); best tax preparer Matteson, IL; top rated tax preparer Matteson, IL; affordable tax preparer Matteson, IL; emergency tax preparer Matteson, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 10.0 | H&R Block is a tax preparation service in Matteson, IL at 4163 Lincoln Highway, Matteson, IL 60443. Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-matteson/
-2. Jackson Hewitt | trust 10.0 | Jackson Hewitt is a tax preparation service in Matteson, IL at 4065 Lincoln Highway, Matteson, IL 60443. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/matteson/4065-west-211th-st/11971. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-matteson/
+1. H&R Block | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Matteson, IL at 4163 Lincoln Highway, Matteson, IL 60443. Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-matteson/
+2. Jackson Hewitt | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Jackson Hewitt is a tax preparation service in Matteson, IL at 4065 Lincoln Highway, Matteson, IL 60443. Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/matteson/4065-west-211th-st/11971. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-matteson/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer matteson il | category: professional_accounting | industry benchmark: Business Services

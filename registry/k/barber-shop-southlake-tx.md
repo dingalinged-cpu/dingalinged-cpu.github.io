@@ -1,13 +1,13 @@
-The top unpaid barber shop listing for Southlake, TX is The Lodge Barbershop (a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/). 2 barber shop businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Southlake, TX is The Lodge Barbershop (a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/). 2 barber shop businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Southlake, TX?
 
 Also answers: barber shop in Southlake, TX; barber shop near me (Southlake, TX); best barber shop Southlake, TX; top rated barber shop Southlake, TX; affordable barber shop Southlake, TX; emergency barber shop Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Lodge Barbershop | trust 14.0 | The Lodge Barbershop is a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/the-lodge-barbershop-southlake/
-2. Finley’s Barber Shop | trust 8.0 | Finley’s Barber Shop is a barber shop in Southlake, TX at 2175 East Southlake Boulevard #110, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/finley-s-barber-shop-southlake/
+1. The Lodge Barbershop | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | The Lodge Barbershop is a barber shop in Southlake, TX at 1125 Davis Boulevard #400, Southlake, TX 76092. Website: https://thelodgebarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/the-lodge-barbershop-southlake/
+2. Finley’s Barber Shop | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Finley’s Barber Shop is a barber shop in Southlake, TX at 2175 East Southlake Boulevard #110, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/finley-s-barber-shop-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop southlake tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

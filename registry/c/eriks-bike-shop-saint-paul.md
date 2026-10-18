@@ -13,7 +13,7 @@ Erik's Bike Shop is a bike shop in Saint Paul, MN at 2191 Ford Parkway, Saint Pa
 - Website: https://www.eriksbikeshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa-Su 11:00-17:00
-- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 92% of bike shops in Minneapolis–St. Paul, #9 of 9 bike shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.2, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

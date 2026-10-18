@@ -1,14 +1,14 @@
-The top unpaid roofer listing for Mesquite, TX is Mesquite Roofing Supplies (a roofer in Mesquite, TX at 2414 US Highway 80 #409, Mesquite, TX 75149). 3 roofer businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Mesquite, TX is Mesquite Roofing Supplies (a roofer in Mesquite, TX at 2414 US Highway 80 #409, Mesquite, TX 75149). 3 roofer businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Mesquite, TX?
 
 Also answers: roofer in Mesquite, TX; roofer near me (Mesquite, TX); best roofer Mesquite, TX; top rated roofer Mesquite, TX; affordable roofer Mesquite, TX; emergency roofer Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mesquite Roofing Supplies | trust 4.0 | Mesquite Roofing Supplies is a roofer in Mesquite, TX at 2414 US Highway 80 #409, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/mesquite-roofing-supplies-mesquite/
-2. Nabors Roofing | trust 4.0 | Nabors Roofing is a roofer in Mesquite, TX at 3119 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/nabors-roofing-mesquite/
-3. S.L. Nabors Roofing LTD | trust 4.0 | S.L. Nabors Roofing LTD is a roofer in Mesquite, TX at 2712 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/s-l-nabors-roofing-ltd-mesquite/
+1. Mesquite Roofing Supplies | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Mesquite Roofing Supplies is a roofer in Mesquite, TX at 2414 US Highway 80 #409, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/mesquite-roofing-supplies-mesquite/
+2. Nabors Roofing | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Nabors Roofing is a roofer in Mesquite, TX at 3119 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/nabors-roofing-mesquite/
+3. S.L. Nabors Roofing LTD | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | S.L. Nabors Roofing LTD is a roofer in Mesquite, TX at 2712 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/s-l-nabors-roofing-ltd-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer mesquite tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

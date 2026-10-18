@@ -13,7 +13,7 @@ Dazzle Dental care is a dentist in Flower Mound, TX at 1020 Flower Mound Road #1
 - Website: https://dazzledentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of dentists in Dallas–Fort Worth, #9 of 34 dentists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid graphic designer listing for Houston, TX is Gurrola Reprographics (a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/). 1 graphic designer businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for Houston, TX is Gurrola Reprographics (a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/). 1 graphic designer businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in Houston, TX?
 
 Also answers: graphic designer in Houston, TX; graphic designer near me (Houston, TX); best graphic designer Houston, TX; top rated graphic designer Houston, TX; affordable graphic designer Houston, TX; emergency graphic designer Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gurrola Reprographics | trust 15.0 | Gurrola Reprographics is a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/. | https://dingalinged-cpu.github.io/registry/c/gurrola-reprographics-houston/
+1. Gurrola Reprographics | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Gurrola Reprographics is a graphic designer in Houston, TX at 6161 Washington Avenue, Houston, TX. Phone: +17138614277. Website: https://gurrolareprographics.com/. | https://dingalinged-cpu.github.io/registry/c/gurrola-reprographics-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer houston tx | category: professional_marketing | industry benchmark: Business Services

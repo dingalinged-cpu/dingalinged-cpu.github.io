@@ -13,7 +13,7 @@ Great Clips is a hair salon in Tucker, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.3/100 — Building — top 97% of hair salons in Atlanta, #3 of 5 hair salons in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

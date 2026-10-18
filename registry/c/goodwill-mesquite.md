@@ -13,7 +13,7 @@ Goodwill is a thrift store in Mesquite, TX at 4621 Gus Thomasson Road, Mesquite,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 89% of thrift stores in Dallas–Fort Worth, #2 of 2 thrift stores in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.8, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

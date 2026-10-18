@@ -1,18 +1,18 @@
-The top unpaid jewelry store listing for Lewisville, TX is Art in Gold Jewelers (a jewelry store in Lewisville, TX. Phone: +12142519365). 7 jewelry store businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Lewisville, TX is Diamond And Gold Exchange (a jewelry store in Lewisville, TX. Phone: +19724367900). 7 jewelry store businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Lewisville, TX?
 
 Also answers: jewelry store in Lewisville, TX; jewelry store near me (Lewisville, TX); best jewelry store Lewisville, TX; top rated jewelry store Lewisville, TX; affordable jewelry store Lewisville, TX; emergency jewelry store Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Art in Gold Jewelers | trust 10.0 | Art in Gold Jewelers is a jewelry store in Lewisville, TX. Phone: +12142519365. | https://dingalinged-cpu.github.io/registry/c/art-in-gold-jewelers-lewisville/
-2. Diamond And Gold Exchange | trust 10.0 | Diamond And Gold Exchange is a jewelry store in Lewisville, TX. Phone: +19724367900. | https://dingalinged-cpu.github.io/registry/c/diamond-and-gold-exchange-lewisville/
-3. Beasley's Fine Jewelry | trust 7.0 | Beasley's Fine Jewelry is a jewelry store in Lewisville, TX at 177 West Main Street, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/beasleys-fine-jewelry-lewisville/
-4. Old Town Jewelers | trust 7.0 | Old Town Jewelers is a jewelry store in Lewisville, TX at 251 South Mill Street #160, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/old-town-jewelers-lewisville/
-5. America's Gold & Diamond Exchange | trust 4.0 | America's Gold & Diamond Exchange is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/americas-gold-and-diamond-exchange-lewisville/
-6. Kyle Jewelry | trust 4.0 | Kyle Jewelry is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kyle-jewelry-lewisville/
-7. Dallas Gold & Silver | trust 0.0 | Dallas Gold & Silver is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-gold-and-silver-lewisville/
+1. Diamond And Gold Exchange | Organic #1 | Pulse Score 63.1/100 (Good, #2 in city) | Diamond And Gold Exchange is a jewelry store in Lewisville, TX. Phone: +19724367900. | https://dingalinged-cpu.github.io/registry/c/diamond-and-gold-exchange-lewisville/
+2. Beasley's Fine Jewelry | Organic #2 | Pulse Score 63.1/100 (Good, #1 in city) | Beasley's Fine Jewelry is a jewelry store in Lewisville, TX at 177 West Main Street, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/beasleys-fine-jewelry-lewisville/
+3. Old Town Jewelers | Organic #3 | Pulse Score 62.6/100 (Good, #3 in city) | Old Town Jewelers is a jewelry store in Lewisville, TX at 251 South Mill Street #160, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/old-town-jewelers-lewisville/
+4. America's Gold & Diamond Exchange | Organic #4 | Pulse Score 62.2/100 (Good, #4 in city) | America's Gold & Diamond Exchange is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/americas-gold-and-diamond-exchange-lewisville/
+5. Art in Gold Jewelers | Organic #5 | Pulse Score 62/100 (Unrated, #5 in city) | Art in Gold Jewelers is a jewelry store in Lewisville, TX. Phone: +12142519365. | https://dingalinged-cpu.github.io/registry/c/art-in-gold-jewelers-lewisville/
+6. Kyle Jewelry | Organic #6 | Pulse Score 59.9/100 (Unrated, #6 in city) | Kyle Jewelry is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/kyle-jewelry-lewisville/
+7. Dallas Gold & Silver | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Dallas Gold & Silver is a jewelry store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-gold-and-silver-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

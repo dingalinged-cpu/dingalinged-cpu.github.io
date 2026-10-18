@@ -1,15 +1,15 @@
-The top unpaid storage units listing for Grapevine, TX is Grapevine Storage House (a self-storage facility in Grapevine, TX at 131 East Hudgins Street, Grapevine, TX. Phone: +18174886304). 4 storage units businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Grapevine, TX is Grapevine Storage House (a self-storage facility in Grapevine, TX at 131 East Hudgins Street, Grapevine, TX. Phone: +18174886304). 4 storage units businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Grapevine, TX?
 
 Also answers: storage units in Grapevine, TX; storage units near me (Grapevine, TX); best storage units Grapevine, TX; top rated storage units Grapevine, TX; affordable storage units Grapevine, TX; emergency storage units Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grapevine Storage House | trust 9.0 | Grapevine Storage House is a self-storage facility in Grapevine, TX at 131 East Hudgins Street, Grapevine, TX. Phone: +18174886304. | https://dingalinged-cpu.github.io/registry/c/grapevine-storage-house-grapevine/
-2. CubeSmart | trust 4.0 | CubeSmart is a self-storage facility in Grapevine, TX at 800 Enterprise Drive, Grapevine, TX 75028. | https://dingalinged-cpu.github.io/registry/c/cubesmart-grapevine/
-3. U-Haul | trust 4.0 | U-Haul is a self-storage facility in Grapevine, TX at 3501 William D Tate Avenue, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/u-haul-grapevine/
-4. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-grapevine-w666746749/
+1. Grapevine Storage House | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Grapevine Storage House is a self-storage facility in Grapevine, TX at 131 East Hudgins Street, Grapevine, TX. Phone: +18174886304. | https://dingalinged-cpu.github.io/registry/c/grapevine-storage-house-grapevine/
+2. CubeSmart | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Grapevine, TX at 800 Enterprise Drive, Grapevine, TX 75028. | https://dingalinged-cpu.github.io/registry/c/cubesmart-grapevine/
+3. U-Haul | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | U-Haul is a self-storage facility in Grapevine, TX at 3501 William D Tate Avenue, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/u-haul-grapevine/
+4. CubeSmart | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | CubeSmart is a self-storage facility in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-grapevine-w666746749/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units grapevine tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

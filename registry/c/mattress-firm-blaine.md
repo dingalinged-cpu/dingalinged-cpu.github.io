@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Blaine, MN at 1384 109th Avenue Northeast #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 72% of mattress stores in Minneapolis–St. Paul, #1 of 1 mattress stores in Blaine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

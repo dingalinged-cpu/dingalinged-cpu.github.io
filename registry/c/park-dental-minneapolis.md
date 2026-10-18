@@ -13,7 +13,7 @@ Park Dental is a dentist in Minneapolis, MN. Website: https://www.parkdental.com
 - Website: https://www.parkdental.com/location/park-dental-lasalle-plaza/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 93% of dentists in Minneapolis–St. Paul, #40 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

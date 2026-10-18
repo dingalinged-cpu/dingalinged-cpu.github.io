@@ -13,7 +13,7 @@ All Allergy, Asthma & Immunology Clinic is an allergist in Dallas, TX at 10216 G
 - Website: https://aaaic.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 78% of allergists in Dallas–Fort Worth, #1 of 1 allergists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 44.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Colleyville, TX is Roosters Men's Grooming Center (a hair salon in Colleyville, TX at 5615 Colleyville Boulevard #250, Colleyville, TX 76034. Phone: +18172810225. Website: https://www.roostersmgc.com/locations/tx/colleyville/towne-center-colleyville-haircuts-13132.html). 1 haircut businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Colleyville, TX is Roosters Men's Grooming Center (a hair salon in Colleyville, TX at 5615 Colleyville Boulevard #250, Colleyville, TX 76034. Phone: +18172810225. Website: https://www.roostersmgc.com/locations/tx/colleyville/towne-center-colleyville-haircuts-13132.html). 1 haircut businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Colleyville, TX?
 
 Also answers: haircut in Colleyville, TX; haircut near me (Colleyville, TX); best haircut Colleyville, TX; top rated haircut Colleyville, TX; affordable haircut Colleyville, TX; emergency haircut Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roosters Men's Grooming Center | trust 20.0 | Roosters Men's Grooming Center is a hair salon in Colleyville, TX at 5615 Colleyville Boulevard #250, Colleyville, TX 76034. Phone: +18172810225. Website: https://www.roostersmgc.com/locations/tx/colleyville/towne-center-colleyville-haircuts-13132.html. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-colleyville/
+1. Roosters Men's Grooming Center | Organic #1 | Pulse Score 50.9/100 (Fair, #1 in city) | Roosters Men's Grooming Center is a hair salon in Colleyville, TX at 5615 Colleyville Boulevard #250, Colleyville, TX 76034. Phone: +18172810225. Website: https://www.roostersmgc.com/locations/tx/colleyville/towne-center-colleyville-haircuts-13132.html. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut colleyville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

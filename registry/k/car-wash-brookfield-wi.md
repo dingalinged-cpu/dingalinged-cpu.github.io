@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Brookfield, WI is Mister Car Wash (a car wash in Brookfield, WI at 19050 West Bluemound Road, Brookfield, WI 53045). 1 car wash businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Brookfield, WI is Mister Car Wash (a car wash in Brookfield, WI at 19050 West Bluemound Road, Brookfield, WI 53045). 1 car wash businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Brookfield, WI?
 
 Also answers: car wash in Brookfield, WI; car wash near me (Brookfield, WI); best car wash Brookfield, WI; top rated car wash Brookfield, WI; affordable car wash Brookfield, WI; emergency car wash Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | trust 4.0 | Mister Car Wash is a car wash in Brookfield, WI at 19050 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-brookfield/
+1. Mister Car Wash | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | Mister Car Wash is a car wash in Brookfield, WI at 19050 West Bluemound Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash brookfield wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

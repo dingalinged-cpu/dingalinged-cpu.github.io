@@ -13,7 +13,7 @@ The Gage is an event venue in West Allis, WI at 1139 South 70th Street, West All
 - Website: https://www.thegagemke.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 12% of event venues in Milwaukee, #1 of 1 event venues in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

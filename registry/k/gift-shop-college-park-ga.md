@@ -1,17 +1,17 @@
-The top unpaid gift shop listing for College Park, GA is Atlanta.net (a gift shop in College Park, GA). 6 gift shop businesses are listed for College Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for College Park, GA is Brighton Collectables (a gift shop in College Park, GA). 6 gift shop businesses are listed for College Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in College Park, GA?
 
 Also answers: gift shop in College Park, GA; gift shop near me (College Park, GA); best gift shop College Park, GA; top rated gift shop College Park, GA; affordable gift shop College Park, GA; emergency gift shop College Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta.net | trust 0.0 | Atlanta.net is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-net-college-park/
-2. Brighton Collectables | trust 0.0 | Brighton Collectables is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/brighton-collectables-college-park/
-3. Brookstone | trust 0.0 | Brookstone is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/brookstone-college-park/
-4. Kiehl's | trust 0.0 | Kiehl's is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/kiehls-college-park/
-5. News Beat ATL | trust 0.0 | News Beat ATL is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/news-beat-atl-college-park/
-6. Sunglass Icon | trust 0.0 | Sunglass Icon is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/sunglass-icon-college-park/
+1. Brighton Collectables | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Brighton Collectables is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/brighton-collectables-college-park/
+2. News Beat ATL | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | News Beat ATL is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/news-beat-atl-college-park/
+3. Kiehl's | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Kiehl's is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/kiehls-college-park/
+4. Sunglass Icon | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Sunglass Icon is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/sunglass-icon-college-park/
+5. Atlanta.net | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Atlanta.net is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-net-college-park/
+6. Brookstone | Organic #6 | Pulse Score 42.4/100 (Unrated, #6 in city) | Brookstone is a gift shop in College Park, GA. | https://dingalinged-cpu.github.io/registry/c/brookstone-college-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop college park ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

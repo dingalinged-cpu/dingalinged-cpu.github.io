@@ -1,32 +1,32 @@
-The top unpaid gift shop listing for Arlington, TX is A to Z Shop (a gift shop in Arlington, TX). 21 gift shop businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Arlington, TX is Smith Street Emporium (a gift shop in Arlington, TX). 21 gift shop businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Arlington, TX?
 
 Also answers: gift shop in Arlington, TX; gift shop near me (Arlington, TX); best gift shop Arlington, TX; top rated gift shop Arlington, TX; affordable gift shop Arlington, TX; emergency gift shop Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A to Z Shop | trust 0.0 | A to Z Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/a-to-z-shop-arlington/
-2. Asian Gifts & Videos | trust 0.0 | Asian Gifts & Videos is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/asian-gifts-and-videos-arlington/
-3. Buffalo Trading Post | trust 0.0 | Buffalo Trading Post is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/buffalo-trading-post-arlington/
-4. Cabana Brothers | trust 0.0 | Cabana Brothers is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/cabana-brothers-arlington/
-5. Casa de Six Flags | trust 0.0 | Casa de Six Flags is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/casa-de-six-flags-arlington/
-6. Coaster Candy | trust 0.0 | Coaster Candy is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/coaster-candy-arlington/
-7. El Mercado de la Plaza | trust 0.0 | El Mercado de la Plaza is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/el-mercado-de-la-plaza-arlington/
-8. Fun House Gifts | trust 0.0 | Fun House Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/fun-house-gifts-arlington/
-9. Hook'S Treasures | trust 0.0 | Hook'S Treasures is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/hooks-treasures-arlington/
-10. Justice League Gift Shop | trust 0.0 | Justice League Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/justice-league-gift-shop-arlington/
-11. Painted Shirts | trust 0.0 | Painted Shirts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/painted-shirts-arlington/
-12. Secret Trove Gifts | trust 0.0 | Secret Trove Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/secret-trove-gifts-arlington/
-13. Silver Spur Sugar Shack | trust 0.0 | Silver Spur Sugar Shack is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/silver-spur-sugar-shack-arlington/
-14. Six Flags Universe | trust 0.0 | Six Flags Universe is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/six-flags-universe-arlington/
-15. Smith Street Emporium | trust 0.0 | Smith Street Emporium is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/smith-street-emporium-arlington/
-16. Studio 6F | trust 0.0 | Studio 6F is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/studio-6f-arlington/
-17. Texas Giant Gift Shop | trust 0.0 | Texas Giant Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/texas-giant-gift-shop-arlington/
-18. Texas Gifts | trust 0.0 | Texas Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/texas-gifts-arlington/
-19. Titan Gift Shop | trust 0.0 | Titan Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/titan-gift-shop-arlington/
-20. TX Corner | trust 0.0 | TX Corner is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tx-corner-arlington/
-21. U.B. DED Undertaker | trust 0.0 | U.B. DED Undertaker is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/u-b-ded-undertaker-arlington/
+1. Smith Street Emporium | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Smith Street Emporium is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/smith-street-emporium-arlington/
+2. Texas Giant Gift Shop | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Texas Giant Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/texas-giant-gift-shop-arlington/
+3. A to Z Shop | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | A to Z Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/a-to-z-shop-arlington/
+4. Asian Gifts & Videos | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Asian Gifts & Videos is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/asian-gifts-and-videos-arlington/
+5. Buffalo Trading Post | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Buffalo Trading Post is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/buffalo-trading-post-arlington/
+6. Cabana Brothers | Organic #6 | Pulse Score 55.6/100 (Unrated, #6 in city) | Cabana Brothers is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/cabana-brothers-arlington/
+7. Casa de Six Flags | Organic #7 | Pulse Score 55.6/100 (Unrated, #7 in city) | Casa de Six Flags is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/casa-de-six-flags-arlington/
+8. Coaster Candy | Organic #8 | Pulse Score 55.6/100 (Unrated, #8 in city) | Coaster Candy is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/coaster-candy-arlington/
+9. El Mercado de la Plaza | Organic #9 | Pulse Score 55.6/100 (Unrated, #9 in city) | El Mercado de la Plaza is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/el-mercado-de-la-plaza-arlington/
+10. Fun House Gifts | Organic #10 | Pulse Score 55.6/100 (Unrated, #10 in city) | Fun House Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/fun-house-gifts-arlington/
+11. Hook'S Treasures | Organic #11 | Pulse Score 55.6/100 (Unrated, #11 in city) | Hook'S Treasures is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/hooks-treasures-arlington/
+12. Justice League Gift Shop | Organic #12 | Pulse Score 55.6/100 (Unrated, #12 in city) | Justice League Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/justice-league-gift-shop-arlington/
+13. Painted Shirts | Organic #13 | Pulse Score 55.6/100 (Unrated, #13 in city) | Painted Shirts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/painted-shirts-arlington/
+14. Secret Trove Gifts | Organic #14 | Pulse Score 55.6/100 (Unrated, #14 in city) | Secret Trove Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/secret-trove-gifts-arlington/
+15. Silver Spur Sugar Shack | Organic #15 | Pulse Score 55.6/100 (Unrated, #15 in city) | Silver Spur Sugar Shack is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/silver-spur-sugar-shack-arlington/
+16. Six Flags Universe | Organic #16 | Pulse Score 55.6/100 (Unrated, #16 in city) | Six Flags Universe is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/six-flags-universe-arlington/
+17. Studio 6F | Organic #17 | Pulse Score 55.6/100 (Unrated, #17 in city) | Studio 6F is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/studio-6f-arlington/
+18. Texas Gifts | Organic #18 | Pulse Score 55.6/100 (Unrated, #18 in city) | Texas Gifts is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/texas-gifts-arlington/
+19. Titan Gift Shop | Organic #19 | Pulse Score 55.6/100 (Unrated, #19 in city) | Titan Gift Shop is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/titan-gift-shop-arlington/
+20. TX Corner | Organic #20 | Pulse Score 55.6/100 (Unrated, #20 in city) | TX Corner is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tx-corner-arlington/
+21. U.B. DED Undertaker | Organic #21 | Pulse Score 55.6/100 (Unrated, #21 in city) | U.B. DED Undertaker is a gift shop in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/u-b-ded-undertaker-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop arlington tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

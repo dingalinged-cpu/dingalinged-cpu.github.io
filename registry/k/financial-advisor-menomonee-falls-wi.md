@@ -1,12 +1,12 @@
-The top unpaid financial advisor listing for Menomonee Falls, WI is Romagna Wealth Management Group (a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051). 1 financial advisor businesses are listed for Menomonee Falls, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Menomonee Falls, WI is Romagna Wealth Management Group (a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051). 1 financial advisor businesses are listed for Menomonee Falls, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Menomonee Falls, WI?
 
 Also answers: financial advisor in Menomonee Falls, WI; financial advisor near me (Menomonee Falls, WI); best financial advisor Menomonee Falls, WI; top rated financial advisor Menomonee Falls, WI; affordable financial advisor Menomonee Falls, WI; emergency financial advisor Menomonee Falls, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Romagna Wealth Management Group | trust 4.0 | Romagna Wealth Management Group is a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/romagna-wealth-management-group-menomonee-falls/
+1. Romagna Wealth Management Group | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Romagna Wealth Management Group is a financial advisor in Menomonee Falls, WI at N88W16447 Main Street #400, Menomonee Falls, WI 53051. | https://dingalinged-cpu.github.io/registry/c/romagna-wealth-management-group-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor menomonee falls wi | category: Professional & financial services | industry benchmark: Finance & Insurance

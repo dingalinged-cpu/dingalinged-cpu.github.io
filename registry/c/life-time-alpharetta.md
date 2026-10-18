@@ -13,7 +13,7 @@ Life Time is a gym in Alpharetta, GA at 855 North Point Parkway, Alpharetta, GA 
 - Website: https://www.lifetime.life/life-time-locations/ga-alpharetta.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 62% of gyms in Atlanta, #6 of 8 gyms in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

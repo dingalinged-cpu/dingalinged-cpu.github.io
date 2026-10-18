@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Sunnyvale, TX is Sunnyvale Dance Academy (a dance studio in Sunnyvale, TX at 400 South Paschal Road #100, Sunnyvale, TX 75182). 1 dance studio businesses are listed for Sunnyvale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Sunnyvale, TX is Sunnyvale Dance Academy (a dance studio in Sunnyvale, TX at 400 South Paschal Road #100, Sunnyvale, TX 75182). 1 dance studio businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Sunnyvale, TX?
 
 Also answers: dance studio in Sunnyvale, TX; dance studio near me (Sunnyvale, TX); best dance studio Sunnyvale, TX; top rated dance studio Sunnyvale, TX; affordable dance studio Sunnyvale, TX; emergency dance studio Sunnyvale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunnyvale Dance Academy | trust 4.0 | Sunnyvale Dance Academy is a dance studio in Sunnyvale, TX at 400 South Paschal Road #100, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/sunnyvale-dance-academy-sunnyvale/
+1. Sunnyvale Dance Academy | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Sunnyvale Dance Academy is a dance studio in Sunnyvale, TX at 400 South Paschal Road #100, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/sunnyvale-dance-academy-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio sunnyvale tx | category: Fitness | industry benchmark: Health & Fitness

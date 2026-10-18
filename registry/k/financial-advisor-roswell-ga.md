@@ -1,15 +1,15 @@
-The top unpaid financial advisor listing for Roswell, GA is Edward Jones - Ellie Ciraldo (a financial advisor in Roswell, GA at 540 West Crossville Road #202, Roswell, GA. Phone: +17709931153. Website: https://www.edwardjones.com/us-en/financial-advisor/ellie-ciraldo). 4 financial advisor businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Roswell, GA is Retirement Cash Flow (a financial advisor in Roswell, GA). 4 financial advisor businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Roswell, GA?
 
 Also answers: financial advisor in Roswell, GA; financial advisor near me (Roswell, GA); best financial advisor Roswell, GA; top rated financial advisor Roswell, GA; affordable financial advisor Roswell, GA; emergency financial advisor Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones - Ellie Ciraldo | trust 19.0 | Edward Jones - Ellie Ciraldo is a financial advisor in Roswell, GA at 540 West Crossville Road #202, Roswell, GA. Phone: +17709931153. Website: https://www.edwardjones.com/us-en/financial-advisor/ellie-ciraldo. | https://dingalinged-cpu.github.io/registry/c/edward-jones-ellie-ciraldo-roswell/
-2. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/edward-jones-roswell/
-3. Retirement Cash Flow | trust 0.0 | Retirement Cash Flow is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/retirement-cash-flow-roswell/
-4. Successful Retirement | trust 0.0 | Successful Retirement is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/successful-retirement-roswell/
+1. Retirement Cash Flow | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Retirement Cash Flow is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/retirement-cash-flow-roswell/
+2. Successful Retirement | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Successful Retirement is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/successful-retirement-roswell/
+3. Edward Jones - Ellie Ciraldo | Organic #3 | Pulse Score 51/100 (Fair, #3 in city) | Edward Jones - Ellie Ciraldo is a financial advisor in Roswell, GA at 540 West Crossville Road #202, Roswell, GA. Phone: +17709931153. Website: https://www.edwardjones.com/us-en/financial-advisor/ellie-ciraldo. | https://dingalinged-cpu.github.io/registry/c/edward-jones-ellie-ciraldo-roswell/
+4. Edward Jones | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Edward Jones is a financial advisor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/edward-jones-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance

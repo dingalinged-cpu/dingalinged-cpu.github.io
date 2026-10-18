@@ -13,7 +13,7 @@ Hallowell & James Funeral Home is a funeral home in Countryside, IL at 1025 West
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.6/100 — Unrated (not enough evidence yet) — top 89% of funeral homes in Chicago, #1 of 1 funeral homes in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

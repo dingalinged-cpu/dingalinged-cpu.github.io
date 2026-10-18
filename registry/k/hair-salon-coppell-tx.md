@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Coppell, TX is Tangerine Salon (a hair salon in Coppell, TX at 723 West Main Street, Coppell, TX 75019. Phone: +19723939200. Website: https://tangerinesalon.net/). 6 hair salon businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Coppell, TX is Floyd's Barbershop (a hair salon in Coppell, TX). 6 hair salon businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Coppell, TX?
 
 Also answers: hair salon in Coppell, TX; hair salon near me (Coppell, TX); best hair salon Coppell, TX; top rated hair salon Coppell, TX; affordable hair salon Coppell, TX; emergency hair salon Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tangerine Salon | trust 20.0 | Tangerine Salon is a hair salon in Coppell, TX at 723 West Main Street, Coppell, TX 75019. Phone: +19723939200. Website: https://tangerinesalon.net/. | https://dingalinged-cpu.github.io/registry/c/tangerine-salon-coppell/
-2. Sport Clips | trust 14.0 | Sport Clips is a hair salon in Coppell, TX at 240 North Denton Tap Road ##430, Coppell, TX 75019. Phone: +19723939490. | https://dingalinged-cpu.github.io/registry/c/sport-clips-coppell/
-3. Floyd's Barbershop | trust 4.0 | Floyd's Barbershop is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-coppell/
-4. Great Clips | trust 4.0 | Great Clips is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-coppell/
-5. Knockouts | trust 0.0 | Knockouts is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/knockouts-coppell/
-6. Supercuts | trust 0.0 | Supercuts is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-coppell/
+1. Floyd's Barbershop | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Floyd's Barbershop is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barbershop-coppell/
+2. Tangerine Salon | Organic #2 | Pulse Score 52/100 (Unrated, #2 in city) | Tangerine Salon is a hair salon in Coppell, TX at 723 West Main Street, Coppell, TX 75019. Phone: +19723939200. Website: https://tangerinesalon.net/. | https://dingalinged-cpu.github.io/registry/c/tangerine-salon-coppell/
+3. Sport Clips | Organic #3 | Pulse Score 50.7/100 (Fair, #3 in city) | Sport Clips is a hair salon in Coppell, TX at 240 North Denton Tap Road ##430, Coppell, TX 75019. Phone: +19723939490. | https://dingalinged-cpu.github.io/registry/c/sport-clips-coppell/
+4. Great Clips | Organic #4 | Pulse Score 44.5/100 (Building, #4 in city) | Great Clips is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-coppell/
+5. Knockouts | Organic #5 | Pulse Score 42.8/100 (Unrated, #5 in city) | Knockouts is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/knockouts-coppell/
+6. Supercuts | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Supercuts is a hair salon in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon coppell tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

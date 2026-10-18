@@ -13,7 +13,7 @@ Dodson Law Firm is a lawyer in Houston, TX at 1923 Washington Avenue #3014, Hous
 - Website: https://www.dodsonlawoffices.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 57% of lawyers in Houston, #46 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

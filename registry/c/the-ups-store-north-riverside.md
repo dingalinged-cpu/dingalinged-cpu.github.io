@@ -13,7 +13,7 @@ The UPS Store is a printing service in North Riverside, IL at 7301 West 25th Str
 - Website: https://locations.theupsstore.com/il/north-riverside/7301-w-25th-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 32% of printing services in Chicago, #1 of 1 printing services in North Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

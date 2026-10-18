@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Lyons, IL is Gorgeous (a nail salon in Lyons, IL). 2 nail salon businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Lyons, IL is Gorgeous (a nail salon in Lyons, IL). 2 nail salon businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Lyons, IL?
 
 Also answers: nail salon in Lyons, IL; nail salon near me (Lyons, IL); best nail salon Lyons, IL; top rated nail salon Lyons, IL; affordable nail salon Lyons, IL; emergency nail salon Lyons, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gorgeous | trust 0.0 | Gorgeous is a nail salon in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/gorgeous-lyons/
-2. Nail Studios | trust 0.0 | Nail Studios is a nail salon in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/nail-studios-lyons/
+1. Gorgeous | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Gorgeous is a nail salon in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/gorgeous-lyons/
+2. Nail Studios | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Nail Studios is a nail salon in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/nail-studios-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lyons il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

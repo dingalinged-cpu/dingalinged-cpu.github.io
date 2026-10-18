@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Greenfield, WI is Total Wine (a liquor store in Greenfield, WI at 8700 West Sura Lane, Greenfield, WI 53228. Phone: +14144257373. Website: https://www.totalwine.com/store-info/wisconsin-greenfield/1903). 2 liquor store businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Greenfield, WI is Coldspring Liquor (a liquor store in Greenfield, WI at 6115 West Coldspring Road, Greenfield, WI 53220). 2 liquor store businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Greenfield, WI?
 
 Also answers: liquor store in Greenfield, WI; liquor store near me (Greenfield, WI); best liquor store Greenfield, WI; top rated liquor store Greenfield, WI; affordable liquor store Greenfield, WI; emergency liquor store Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Greenfield, WI at 8700 West Sura Lane, Greenfield, WI 53228. Phone: +14144257373. Website: https://www.totalwine.com/store-info/wisconsin-greenfield/1903. | https://dingalinged-cpu.github.io/registry/c/total-wine-greenfield/
-2. Coldspring Liquor | trust 4.0 | Coldspring Liquor is a liquor store in Greenfield, WI at 6115 West Coldspring Road, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/coldspring-liquor-greenfield/
+1. Coldspring Liquor | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Coldspring Liquor is a liquor store in Greenfield, WI at 6115 West Coldspring Road, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/coldspring-liquor-greenfield/
+2. Total Wine | Organic #2 | Pulse Score 50.6/100 (Fair, #2 in city) | Total Wine is a liquor store in Greenfield, WI at 8700 West Sura Lane, Greenfield, WI 53228. Phone: +14144257373. Website: https://www.totalwine.com/store-info/wisconsin-greenfield/1903. | https://dingalinged-cpu.github.io/registry/c/total-wine-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store greenfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

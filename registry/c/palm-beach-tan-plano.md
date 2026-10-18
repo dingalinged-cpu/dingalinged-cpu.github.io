@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Plano, TX at 3645 Dallas Parkway #509, Plan
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Building — top 81% of tanning salons in Dallas–Fort Worth, #2 of 2 tanning salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid eye doctor listing for Frisco, TX is Clarkson Eyecare (an eye care practice in Frisco, TX. Phone: +12146195580. Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy). 5 eye doctor businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Frisco, TX is Hollingsworth Eye Care (an eye care practice in Frisco, TX at 11220 Dallas Parkway, Frisco, TX). 5 eye doctor businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Frisco, TX?
 
 Also answers: eye doctor in Frisco, TX; eye doctor near me (Frisco, TX); best eye doctor Frisco, TX; top rated eye doctor Frisco, TX; affordable eye doctor Frisco, TX; emergency eye doctor Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clarkson Eyecare | trust 12.0 | Clarkson Eyecare is an eye care practice in Frisco, TX. Phone: +12146195580. Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy. | https://dingalinged-cpu.github.io/registry/c/clarkson-eyecare-frisco/
-2. Hollingsworth Eye Care | trust 7.0 | Hollingsworth Eye Care is an eye care practice in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/hollingsworth-eye-care-frisco/
-3. Avant-Garde Optometry | trust 3.0 | Avant-Garde Optometry is an eye care practice in Frisco, TX at 9255 Dallas Parkway #140, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/avant-garde-optometry-frisco/
-4. Pearle Vision | trust 3.0 | Pearle Vision is an eye care practice in Frisco, TX at 11550 Legacy Drive #470, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-frisco/
-5. Bright Vision Family Eyecare | trust 0.0 | Bright Vision Family Eyecare is an eye care practice in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/bright-vision-family-eyecare-frisco/
+1. Hollingsworth Eye Care | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Hollingsworth Eye Care is an eye care practice in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/hollingsworth-eye-care-frisco/
+2. Pearle Vision | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Frisco, TX at 11550 Legacy Drive #470, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-frisco/
+3. Avant-Garde Optometry | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Avant-Garde Optometry is an eye care practice in Frisco, TX at 9255 Dallas Parkway #140, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/avant-garde-optometry-frisco/
+4. Bright Vision Family Eyecare | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Bright Vision Family Eyecare is an eye care practice in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/bright-vision-family-eyecare-frisco/
+5. Clarkson Eyecare | Organic #5 | Pulse Score 46.8/100 (Building, #5 in city) | Clarkson Eyecare is an eye care practice in Frisco, TX. Phone: +12146195580. Website: https://www.clarksoneyecare.com/locations/tx/frisco/legacy. | https://dingalinged-cpu.github.io/registry/c/clarkson-eyecare-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

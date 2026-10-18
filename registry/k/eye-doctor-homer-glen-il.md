@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Homer Glen, IL is Homer Township Vision Center (an eye care practice in Homer Glen, IL at 13231 West 143rd Street #101, Homer Glen, IL 60491). 1 eye doctor businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Homer Glen, IL is Homer Township Vision Center (an eye care practice in Homer Glen, IL at 13231 West 143rd Street #101, Homer Glen, IL 60491). 1 eye doctor businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Homer Glen, IL?
 
 Also answers: eye doctor in Homer Glen, IL; eye doctor near me (Homer Glen, IL); best eye doctor Homer Glen, IL; top rated eye doctor Homer Glen, IL; affordable eye doctor Homer Glen, IL; emergency eye doctor Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Homer Township Vision Center | trust 4.0 | Homer Township Vision Center is an eye care practice in Homer Glen, IL at 13231 West 143rd Street #101, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/homer-township-vision-center-homer-glen/
+1. Homer Township Vision Center | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Homer Township Vision Center is an eye care practice in Homer Glen, IL at 13231 West 143rd Street #101, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/homer-township-vision-center-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor homer glen il | category: Health & medical | industry benchmark: Physicians & Surgeons

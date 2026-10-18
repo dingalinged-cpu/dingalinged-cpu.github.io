@@ -13,7 +13,7 @@ CS Salon is a hair salon in DeKalb County, GA at 1248 Clairmont Road #4A, DeKalb
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 27% of hair salons in Atlanta, #3 of 11 hair salons in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

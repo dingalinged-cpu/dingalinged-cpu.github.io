@@ -13,7 +13,7 @@ Molly's Mutt House is a dog boarding facility in Houston, TX at 3410 North Sheph
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su 14:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 30% of dog boarding facilitys in Houston, #2 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Missouri City, TX is BlueWave Express Car Wash (a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/). 3 car wash businesses are listed for Missouri City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Missouri City, TX is BlueWave Express Car Wash (a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/). 3 car wash businesses are listed for Missouri City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Missouri City, TX?
 
 Also answers: car wash in Missouri City, TX; car wash near me (Missouri City, TX); best car wash Missouri City, TX; top rated car wash Missouri City, TX; affordable car wash Missouri City, TX; emergency car wash Missouri City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BlueWave Express Car Wash | trust 20.0 | BlueWave Express Car Wash is a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/. | https://dingalinged-cpu.github.io/registry/c/bluewave-express-car-wash-missouri-city/
-2. iShine Express Car Wash & Detail | trust 20.0 | iShine Express Car Wash & Detail is a car wash in Missouri City, TX at 8331 Copper Creek Lane, Missouri City, TX 77459. Phone: +12817781833. Website: https://ishinecarwash.com/MissouriCity. | https://dingalinged-cpu.github.io/registry/c/ishine-express-car-wash-and-detail-missouri-city/
-3. H-E-B Car Wash | trust 4.0 | H-E-B Car Wash is a car wash in Missouri City, TX at TX 6, Missouri City, TX 77459. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-missouri-city/
+1. BlueWave Express Car Wash | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | BlueWave Express Car Wash is a car wash in Missouri City, TX at 10120 State Highway 6, Missouri City, TX 77459. Phone: +18775030008. Website: https://bluewaveexpress.com/. | https://dingalinged-cpu.github.io/registry/c/bluewave-express-car-wash-missouri-city/
+2. iShine Express Car Wash & Detail | Organic #2 | Pulse Score 52.9/100 (Unrated, #2 in city) | iShine Express Car Wash & Detail is a car wash in Missouri City, TX at 8331 Copper Creek Lane, Missouri City, TX 77459. Phone: +12817781833. Website: https://ishinecarwash.com/MissouriCity. | https://dingalinged-cpu.github.io/registry/c/ishine-express-car-wash-and-detail-missouri-city/
+3. H-E-B Car Wash | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | H-E-B Car Wash is a car wash in Missouri City, TX at TX 6, Missouri City, TX 77459. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash missouri city tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

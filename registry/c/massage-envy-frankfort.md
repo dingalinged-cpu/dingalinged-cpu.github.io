@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Frankfort, IL at 11061 Lincoln Highway, Fran
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 77% of massage studios in Chicago, #1 of 1 massage studios in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

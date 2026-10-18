@@ -1,16 +1,16 @@
-The top unpaid photographer listing for Madison, WI is Focal Flame (a photographer in Madison, WI at 2145 University Avenue, Madison, WI 53726. Phone: +16087720048. Website: https://www.focalflame.com/). 5 photographer businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Madison, WI is Focal Flame (a photographer in Madison, WI at 2145 University Avenue, Madison, WI 53726. Phone: +16087720048. Website: https://www.focalflame.com/). 5 photographer businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Madison, WI?
 
 Also answers: photographer in Madison, WI; photographer near me (Madison, WI); best photographer Madison, WI; top rated photographer Madison, WI; affordable photographer Madison, WI; emergency photographer Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Focal Flame | trust 20.0 | Focal Flame is a photographer in Madison, WI at 2145 University Avenue, Madison, WI 53726. Phone: +16087720048. Website: https://www.focalflame.com/. | https://dingalinged-cpu.github.io/registry/c/focal-flame-madison/
-2. ParadisePhotography776 | trust 20.0 | ParadisePhotography776 is a photographer in Madison, WI at 805 Harbor House Dr, Unit 7, Madison, WI 53719. Phone: +16088436706. Website: https://paradisephotography776.com/. | https://dingalinged-cpu.github.io/registry/c/paradisephotography776-madison/
-3. Lewis Photography | trust 19.0 | Lewis Photography is a photographer in Madison, WI at 1706 Wild Oak Circle, Madison, WI. Phone: +16082225125. Website: https://www.lewisphotomadison.com/. | https://dingalinged-cpu.github.io/registry/c/lewis-photography-madison/
-4. PhotoMidwest | trust 10.0 | PhotoMidwest is a photographer in Madison, WI. Website: https://www.photomidwest.org/. | https://dingalinged-cpu.github.io/registry/c/photomidwest-madison/
-5. JCPenney Portraits | trust 0.0 | JCPenney Portraits is a photographer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/jcpenney-portraits-madison/
+1. Focal Flame | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Focal Flame is a photographer in Madison, WI at 2145 University Avenue, Madison, WI 53726. Phone: +16087720048. Website: https://www.focalflame.com/. | https://dingalinged-cpu.github.io/registry/c/focal-flame-madison/
+2. ParadisePhotography776 | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | ParadisePhotography776 is a photographer in Madison, WI at 805 Harbor House Dr, Unit 7, Madison, WI 53719. Phone: +16088436706. Website: https://paradisephotography776.com/. | https://dingalinged-cpu.github.io/registry/c/paradisephotography776-madison/
+3. Lewis Photography | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Lewis Photography is a photographer in Madison, WI at 1706 Wild Oak Circle, Madison, WI. Phone: +16082225125. Website: https://www.lewisphotomadison.com/. | https://dingalinged-cpu.github.io/registry/c/lewis-photography-madison/
+4. PhotoMidwest | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | PhotoMidwest is a photographer in Madison, WI. Website: https://www.photomidwest.org/. | https://dingalinged-cpu.github.io/registry/c/photomidwest-madison/
+5. JCPenney Portraits | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | JCPenney Portraits is a photographer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/jcpenney-portraits-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer madison wi | category: Events & weddings | industry benchmark: Personal Services

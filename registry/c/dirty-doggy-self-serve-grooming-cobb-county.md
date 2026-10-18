@@ -13,7 +13,7 @@ Dirty Doggy Self-Serve Grooming is a dog groomer in Cobb County, GA at 3595 Cant
 - Website: https://dirtydoggywash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Th 10:00-16:00; Fr-Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Fair — top 58% of dog groomers in Atlanta, #5 of 8 dog groomers in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid florist listing for Northbrook, IL is Esther Flowers (a florist in Northbrook, IL at 1028 Waukegan Road, Northbrook, IL 60062. Phone: +18476568811. Website: https://estherflowers.net/). 1 florist businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Northbrook, IL is Esther Flowers (a florist in Northbrook, IL at 1028 Waukegan Road, Northbrook, IL 60062. Phone: +18476568811. Website: https://estherflowers.net/). 1 florist businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Northbrook, IL?
 
 Also answers: florist in Northbrook, IL; florist near me (Northbrook, IL); best florist Northbrook, IL; top rated florist Northbrook, IL; affordable florist Northbrook, IL; emergency florist Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Esther Flowers | trust 16.0 | Esther Flowers is a florist in Northbrook, IL at 1028 Waukegan Road, Northbrook, IL 60062. Phone: +18476568811. Website: https://estherflowers.net/. | https://dingalinged-cpu.github.io/registry/c/esther-flowers-northbrook/
+1. Esther Flowers | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Esther Flowers is a florist in Northbrook, IL at 1028 Waukegan Road, Northbrook, IL 60062. Phone: +18476568811. Website: https://estherflowers.net/. | https://dingalinged-cpu.github.io/registry/c/esther-flowers-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist northbrook il | category: Events & weddings | industry benchmark: Personal Services

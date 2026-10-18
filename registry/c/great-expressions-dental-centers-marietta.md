@@ -13,7 +13,7 @@ Great Expressions Dental Centers is a dentist in Marietta, GA at 1545 Powers Fer
 - Website: https://www.greatexpressions.com/dental-offices/georgia-offices/marietta-powers-ferry
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-13:00, 14:00-17:00; Th-Fr 08:00-13:00, 14:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Unrated (not enough evidence yet) — top 93% of dentists in Atlanta, #25 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid plumber listing for Little Elm, TX is Trident Plumbing (a plumber in Frisco, TX at 15222 King Road #301, Frisco, TX 75034. Phone: +19729006660. Website: https://www.trident-plumbing.com/). 1 plumber businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Little Elm, TX is Trident Plumbing (a plumber in Frisco, TX at 15222 King Road #301, Frisco, TX 75034. Phone: +19729006660. Website: https://www.trident-plumbing.com/). 1 plumber businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Little Elm, TX?
 
 Also answers: plumber in Little Elm, TX; plumber near me (Little Elm, TX); best plumber Little Elm, TX; top rated plumber Little Elm, TX; affordable plumber Little Elm, TX; emergency plumber Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trident Plumbing | trust 16.0 | Trident Plumbing is a plumber in Frisco, TX at 15222 King Road #301, Frisco, TX 75034. Phone: +19729006660. Website: https://www.trident-plumbing.com/. | https://dingalinged-cpu.github.io/registry/c/trident-plumbing-frisco/
+1. Trident Plumbing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Trident Plumbing is a plumber in Frisco, TX at 15222 King Road #301, Frisco, TX 75034. Phone: +19729006660. Website: https://www.trident-plumbing.com/. | https://dingalinged-cpu.github.io/registry/c/trident-plumbing-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber little elm tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

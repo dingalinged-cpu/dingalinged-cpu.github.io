@@ -1,24 +1,24 @@
-The top unpaid tire shop listing for Chicago, IL is Alvaro’s Tire Shop (a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/). 13 tire shop businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Chicago, IL is Archer Premier Tire Shop (a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/). 13 tire shop businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Chicago, IL?
 
 Also answers: tire shop in Chicago, IL; tire shop near me (Chicago, IL); best tire shop Chicago, IL; top rated tire shop Chicago, IL; affordable tire shop Chicago, IL; emergency tire shop Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alvaro’s Tire Shop | trust 20.0 | Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/. | https://dingalinged-cpu.github.io/registry/c/alvaro-s-tire-shop-chicago/
-2. Archer Premier Tire Shop | trust 20.0 | Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/. | https://dingalinged-cpu.github.io/registry/c/archer-premier-tire-shop-chicago/
-3. Cassidy Tire | trust 14.0 | Cassidy Tire is a tire shop in Chicago, IL at 1950 West Carroll Avenue, Chicago, IL 60612. Website: https://www.cassidytire.com/stores/view/15138/. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-chicago/
-4. Armando's Tire Shop | trust 4.0 | Armando's Tire Shop is a tire shop in Chicago, IL at 10546 South Torrence Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/
-5. Just Tires | trust 4.0 | Just Tires is a tire shop in Chicago, IL at 4809 North Broadway, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/just-tires-chicago/
-6. R.C.B Tire Shop | trust 4.0 | R.C.B Tire Shop is a tire shop in Chicago, IL at 9262 South South Chicago Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/r-c-b-tire-shop-chicago/
-7. RCB Tire Shop | trust 4.0 | RCB Tire Shop is a tire shop in Chicago, IL at 9415 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/rcb-tire-shop-chicago/
-8. Wentworth Tire Service | trust 4.0 | Wentworth Tire Service is a tire shop in Chicago, IL at 11130 South Corliss Avenue, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-chicago/
-9. RV Tire Shop | trust 3.0 | RV Tire Shop is a tire shop in Chicago, IL at 3554 West Fullerton Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rv-tire-shop-chicago/
-10. Bridgestone | trust 0.0 | Bridgestone is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bridgestone-chicago/
-11. Luis & Son | trust 0.0 | Luis & Son is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/luis-and-son-chicago/
-12. Tire Shop | trust 0.0 | Tire Shop is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/tire-shop-chicago/
-13. U-Pick-A-Tire Store | trust 0.0 | U-Pick-A-Tire Store is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/u-pick-a-tire-store-chicago/
+1. Archer Premier Tire Shop | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Archer Premier Tire Shop is a tire shop in Chicago, IL at 4825 South Archer Avenue, Chicago, IL 60632. Phone: +17737354760. Website: https://archerpremiertireshop.com/. | https://dingalinged-cpu.github.io/registry/c/archer-premier-tire-shop-chicago/
+2. Alvaro’s Tire Shop | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Alvaro’s Tire Shop is a tire shop in Chicago, IL at 717 North Cicero Avenue, Chicago, IL 60644. Phone: +17736885874. Website: https://alvarostireshop.com/. | https://dingalinged-cpu.github.io/registry/c/alvaro-s-tire-shop-chicago/
+3. Cassidy Tire | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Cassidy Tire is a tire shop in Chicago, IL at 1950 West Carroll Avenue, Chicago, IL 60612. Website: https://www.cassidytire.com/stores/view/15138/. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-chicago/
+4. Armando's Tire Shop | Organic #4 | Pulse Score 58.5/100 (Unrated, #4 in city) | Armando's Tire Shop is a tire shop in Chicago, IL at 10546 South Torrence Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/armandos-tire-shop-chicago/
+5. RCB Tire Shop | Organic #5 | Pulse Score 58.5/100 (Unrated, #5 in city) | RCB Tire Shop is a tire shop in Chicago, IL at 9415 South Commercial Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/rcb-tire-shop-chicago/
+6. Wentworth Tire Service | Organic #6 | Pulse Score 58.5/100 (Unrated, #6 in city) | Wentworth Tire Service is a tire shop in Chicago, IL at 11130 South Corliss Avenue, Chicago, IL 60628. | https://dingalinged-cpu.github.io/registry/c/wentworth-tire-service-chicago/
+7. R.C.B Tire Shop | Organic #7 | Pulse Score 58.3/100 (Unrated, #7 in city) | R.C.B Tire Shop is a tire shop in Chicago, IL at 9262 South South Chicago Avenue, Chicago, IL 60617. | https://dingalinged-cpu.github.io/registry/c/r-c-b-tire-shop-chicago/
+8. RV Tire Shop | Organic #8 | Pulse Score 57.2/100 (Unrated, #8 in city) | RV Tire Shop is a tire shop in Chicago, IL at 3554 West Fullerton Avenue, Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/rv-tire-shop-chicago/
+9. Luis & Son | Organic #9 | Pulse Score 54.2/100 (Unrated, #9 in city) | Luis & Son is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/luis-and-son-chicago/
+10. Tire Shop | Organic #10 | Pulse Score 54.2/100 (Unrated, #10 in city) | Tire Shop is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/tire-shop-chicago/
+11. U-Pick-A-Tire Store | Organic #11 | Pulse Score 54.2/100 (Unrated, #11 in city) | U-Pick-A-Tire Store is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/u-pick-a-tire-store-chicago/
+12. Just Tires | Organic #12 | Pulse Score 45.7/100 (Unrated, #12 in city) | Just Tires is a tire shop in Chicago, IL at 4809 North Broadway, Chicago, IL 60640. | https://dingalinged-cpu.github.io/registry/c/just-tires-chicago/
+13. Bridgestone | Organic #13 | Pulse Score 41.6/100 (Building, #13 in city) | Bridgestone is a tire shop in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/bridgestone-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop chicago il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

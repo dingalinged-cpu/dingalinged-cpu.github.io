@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Darien, IL at 2445 75th Street, Darien, IL 6
 - Website: https://locations.massageenvy.com/illinois/darien/2445-75th-street-unit-e.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 72% of massage studios in Chicago, #2 of 2 massage studios in Darien (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

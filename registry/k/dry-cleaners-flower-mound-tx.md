@@ -1,16 +1,16 @@
-The top unpaid dry cleaners listing for Flower Mound, TX is Marinizing Cleaners (a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/). 5 dry cleaners businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Flower Mound, TX is Marinizing Cleaners (a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/). 5 dry cleaners businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Flower Mound, TX?
 
 Also answers: dry cleaners in Flower Mound, TX; dry cleaners near me (Flower Mound, TX); best dry cleaners Flower Mound, TX; top rated dry cleaners Flower Mound, TX; affordable dry cleaners Flower Mound, TX; emergency dry cleaners Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marinizing Cleaners | trust 16.0 | Marinizing Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/. | https://dingalinged-cpu.github.io/registry/c/marinizing-cleaners-flower-mound/
-2. Dry Clean Super Center of Flower Mound | trust 14.0 | Dry Clean Super Center of Flower Mound is a dry cleaner in Flower Mound, TX at 2216 Long Prairie Road, Flower Mound, TX 75022. Website: https://drycleanersflowermound.com/. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-of-flower-mound-flower-mound/
-3. Bizz Cleaners | trust 10.0 | Bizz Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19723551807. | https://dingalinged-cpu.github.io/registry/c/bizz-cleaners-flower-mound/
-4. Pro Cleaners | trust 7.0 | Pro Cleaners is a dry cleaner in Flower Mound, TX at 3413 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-flower-mound/
-5. Lucy's Cleaners | trust 4.0 | Lucy's Cleaners is a dry cleaner in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/lucys-cleaners-flower-mound/
+1. Marinizing Cleaners | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Marinizing Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19725375005. Website: https://www.martinizing.com/. | https://dingalinged-cpu.github.io/registry/c/marinizing-cleaners-flower-mound/
+2. Lucy's Cleaners | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | Lucy's Cleaners is a dry cleaner in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/lucys-cleaners-flower-mound/
+3. Dry Clean Super Center of Flower Mound | Organic #3 | Pulse Score 61.8/100 (Unrated, #3 in city) | Dry Clean Super Center of Flower Mound is a dry cleaner in Flower Mound, TX at 2216 Long Prairie Road, Flower Mound, TX 75022. Website: https://drycleanersflowermound.com/. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-of-flower-mound-flower-mound/
+4. Bizz Cleaners | Organic #4 | Pulse Score 61.5/100 (Unrated, #4 in city) | Bizz Cleaners is a dry cleaner in Flower Mound, TX. Phone: +19723551807. | https://dingalinged-cpu.github.io/registry/c/bizz-cleaners-flower-mound/
+5. Pro Cleaners | Organic #5 | Pulse Score 49.3/100 (Building, #5 in city) | Pro Cleaners is a dry cleaner in Flower Mound, TX at 3413 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

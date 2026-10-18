@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Coppell, TX is MZ Land Group (a real estate agency in Coppell, TX at 106 N Denton Tap Rd #210-226, Coppell, TX 75019. Phone: +18559473440. Website: https://www.mzlandgroupsolution.com/). 1 real estate agent businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Coppell, TX is MZ Land Group (a real estate agency in Coppell, TX at 106 N Denton Tap Rd #210-226, Coppell, TX 75019. Phone: +18559473440. Website: https://www.mzlandgroupsolution.com/). 1 real estate agent businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Coppell, TX?
 
 Also answers: real estate agent in Coppell, TX; real estate agent near me (Coppell, TX); best real estate agent Coppell, TX; top rated real estate agent Coppell, TX; affordable real estate agent Coppell, TX; emergency real estate agent Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MZ Land Group | trust 20.0 | MZ Land Group is a real estate agency in Coppell, TX at 106 N Denton Tap Rd #210-226, Coppell, TX 75019. Phone: +18559473440. Website: https://www.mzlandgroupsolution.com/. | https://dingalinged-cpu.github.io/registry/c/mz-land-group-coppell/
+1. MZ Land Group | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | MZ Land Group is a real estate agency in Coppell, TX at 106 N Denton Tap Rd #210-226, Coppell, TX 75019. Phone: +18559473440. Website: https://www.mzlandgroupsolution.com/. | https://dingalinged-cpu.github.io/registry/c/mz-land-group-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent coppell tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Buffalo Grove, IL is Ballistic Budo Club (a martial arts school in Buffalo Grove, IL at 1148 West Lake Cook Road, Buffalo Grove, IL 60089). 1 martial arts businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Buffalo Grove, IL is Ballistic Budo Club (a martial arts school in Buffalo Grove, IL at 1148 West Lake Cook Road, Buffalo Grove, IL 60089). 1 martial arts businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Buffalo Grove, IL?
 
 Also answers: martial arts in Buffalo Grove, IL; martial arts near me (Buffalo Grove, IL); best martial arts Buffalo Grove, IL; top rated martial arts Buffalo Grove, IL; affordable martial arts Buffalo Grove, IL; emergency martial arts Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ballistic Budo Club | trust 8.0 | Ballistic Budo Club is a martial arts school in Buffalo Grove, IL at 1148 West Lake Cook Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/ballistic-budo-club-buffalo-grove/
+1. Ballistic Budo Club | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Ballistic Budo Club is a martial arts school in Buffalo Grove, IL at 1148 West Lake Cook Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/ballistic-budo-club-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts buffalo grove il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Cicero, IL is The Rim Plug (The Chrome Depot) (a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot). 2 tire shop businesses are listed for Cicero, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Cicero, IL is The Rim Plug (The Chrome Depot) (a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot). 2 tire shop businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Cicero, IL?
 
 Also answers: tire shop in Cicero, IL; tire shop near me (Cicero, IL); best tire shop Cicero, IL; top rated tire shop Cicero, IL; affordable tire shop Cicero, IL; emergency tire shop Cicero, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Rim Plug (The Chrome Depot) | trust 16.0 | The Rim Plug (The Chrome Depot) is a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot. | https://dingalinged-cpu.github.io/registry/c/the-rim-plug-the-chrome-depot-cicero/
-2. Express Tires | trust 10.0 | Express Tires is a tire shop in Cicero, IL at 1901 South Laramie Avenue, Cicero, IL 60804. Phone: +17738006428. | https://dingalinged-cpu.github.io/registry/c/express-tires-cicero/
+1. The Rim Plug (The Chrome Depot) | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | The Rim Plug (The Chrome Depot) is a tire shop in Cicero, IL at 1817 South 55th Avenue, Cicero, IL 60804. Phone: +17087763119. Website: https://www.facebook.com/thechromedepot. | https://dingalinged-cpu.github.io/registry/c/the-rim-plug-the-chrome-depot-cicero/
+2. Express Tires | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Express Tires is a tire shop in Cicero, IL at 1901 South Laramie Avenue, Cicero, IL 60804. Phone: +17738006428. | https://dingalinged-cpu.github.io/registry/c/express-tires-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop cicero il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

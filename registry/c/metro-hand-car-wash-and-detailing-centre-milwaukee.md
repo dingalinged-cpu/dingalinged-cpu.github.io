@@ -13,7 +13,7 @@ Metro Hand Car Wash & Detailing Centre is a car wash in Milwaukee, WI at 1510 No
 - Website: https://metrocarwashanddetailing.com/
 - Email: info@metrocarwashanddetailing.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su 10:00-15:00
-- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 2% of car washes in Milwaukee, #1 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

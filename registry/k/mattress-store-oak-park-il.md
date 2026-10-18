@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Oak Park, IL is American Mattress (a mattress store in Oak Park, IL at 7123 West North Avenue, Oak Park, IL 60302). 1 mattress store businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Oak Park, IL is American Mattress (a mattress store in Oak Park, IL at 7123 West North Avenue, Oak Park, IL 60302). 1 mattress store businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Oak Park, IL?
 
 Also answers: mattress store in Oak Park, IL; mattress store near me (Oak Park, IL); best mattress store Oak Park, IL; top rated mattress store Oak Park, IL; affordable mattress store Oak Park, IL; emergency mattress store Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Mattress | trust 4.0 | American Mattress is a mattress store in Oak Park, IL at 7123 West North Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/american-mattress-oak-park/
+1. American Mattress | Organic #1 | Pulse Score 43.2/100 (Unrated, #1 in city) | American Mattress is a mattress store in Oak Park, IL at 7123 West North Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/american-mattress-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store oak park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

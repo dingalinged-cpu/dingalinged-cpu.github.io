@@ -13,7 +13,7 @@ Waterview Dentistry is a dentist in McKinney, TX at 9245 Virginia Parkway #300, 
 - Website: https://www.waterviewdentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Th 09:00-18:00; Fr-Sa 08:00-15:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 7% of dentists in Dallas–Fort Worth, #2 of 41 dentists in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for Denton, TX is North Texas Foot & Ankle Specalists (a podiatrist in Denton, TX at 102 North Locust Street, Denton, TX 76201. Phone: +19403828801. Website: https://www.ntfootdocs.com/). 1 podiatrist businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Denton, TX is North Texas Foot & Ankle Specalists (a podiatrist in Denton, TX at 102 North Locust Street, Denton, TX 76201. Phone: +19403828801. Website: https://www.ntfootdocs.com/). 1 podiatrist businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Denton, TX?
 
 Also answers: podiatrist in Denton, TX; podiatrist near me (Denton, TX); best podiatrist Denton, TX; top rated podiatrist Denton, TX; affordable podiatrist Denton, TX; emergency podiatrist Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Texas Foot & Ankle Specalists | trust 20.0 | North Texas Foot & Ankle Specalists is a podiatrist in Denton, TX at 102 North Locust Street, Denton, TX 76201. Phone: +19403828801. Website: https://www.ntfootdocs.com/. | https://dingalinged-cpu.github.io/registry/c/north-texas-foot-and-ankle-specalists-denton/
+1. North Texas Foot & Ankle Specalists | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | North Texas Foot & Ankle Specalists is a podiatrist in Denton, TX at 102 North Locust Street, Denton, TX 76201. Phone: +19403828801. Website: https://www.ntfootdocs.com/. | https://dingalinged-cpu.github.io/registry/c/north-texas-foot-and-ankle-specalists-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist denton tx | category: Health & medical | industry benchmark: Physicians & Surgeons

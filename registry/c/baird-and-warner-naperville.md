@@ -13,7 +13,7 @@ Baird & Warner is a real estate agency in Naperville, IL at 836 75th Street, Nap
 - Website: https://www.bairdwarner.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 71% of real estate agencys in Chicago, #4 of 9 real estate agencys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

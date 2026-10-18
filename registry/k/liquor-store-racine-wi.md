@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Racine, WI is Ayra's Liquor and Cigar (a liquor store in Racine, WI at 4700 Washington Avenue, Racine, WI). 5 liquor store businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Racine, WI is Ayra's Liquor and Cigar (a liquor store in Racine, WI at 4700 Washington Avenue, Racine, WI). 5 liquor store businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Racine, WI?
 
 Also answers: liquor store in Racine, WI; liquor store near me (Racine, WI); best liquor store Racine, WI; top rated liquor store Racine, WI; affordable liquor store Racine, WI; emergency liquor store Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ayra's Liquor and Cigar | trust 3.0 | Ayra's Liquor and Cigar is a liquor store in Racine, WI at 4700 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/ayras-liquor-and-cigar-racine/
-2. Carriage House Liquor Company | trust 3.0 | Carriage House Liquor Company is a liquor store in Racine, WI at 220 State Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/carriage-house-liquor-company-racine/
-3. One Stop Food and Liquor | trust 3.0 | One Stop Food and Liquor is a liquor store in Racine, WI at 1711 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/one-stop-food-and-liquor-racine/
-4. Port of Call Liquor | trust 3.0 | Port of Call Liquor is a liquor store in Racine, WI at 918 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/port-of-call-liquor-racine/
-5. Timers Beverage Center | trust 3.0 | Timers Beverage Center is a liquor store in Racine, WI at 3800 Northwestern Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/timers-beverage-center-racine/
+1. Ayra's Liquor and Cigar | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Ayra's Liquor and Cigar is a liquor store in Racine, WI at 4700 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/ayras-liquor-and-cigar-racine/
+2. Carriage House Liquor Company | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Carriage House Liquor Company is a liquor store in Racine, WI at 220 State Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/carriage-house-liquor-company-racine/
+3. One Stop Food and Liquor | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | One Stop Food and Liquor is a liquor store in Racine, WI at 1711 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/one-stop-food-and-liquor-racine/
+4. Port of Call Liquor | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Port of Call Liquor is a liquor store in Racine, WI at 918 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/port-of-call-liquor-racine/
+5. Timers Beverage Center | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Timers Beverage Center is a liquor store in Racine, WI at 3800 Northwestern Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/timers-beverage-center-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

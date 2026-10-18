@@ -13,7 +13,7 @@ Walker Street Mini Storage is a self-storage facility in Atlanta, GA at 165 Walk
 - Website: https://www.universalstoragegroup.com/locations/georgia/atlanta/walker-street-mini-storage-165-walker-street-southwest
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 7:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of self-storage facilitys in Atlanta, #1 of 18 self-storage facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

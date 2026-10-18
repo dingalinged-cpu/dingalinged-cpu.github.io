@@ -13,7 +13,7 @@ Orland Family Dental is a dentist in Riverside, IL at 21 North Delaplaine Road, 
 - Website: https://www.orlandfamilydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 22% of dentists in Chicago, #1 of 2 dentists in Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

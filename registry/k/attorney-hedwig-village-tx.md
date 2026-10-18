@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Hedwig Village, TX is Katherine Boyd Law (a lawyer in Houston, TX at 950 Echo Lane #200, Houston, TX 77024. Phone: +18325866573. Website: https://katherineboydlaw.com/). 1 attorney businesses are listed for Hedwig Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Hedwig Village, TX is Katherine Boyd Law (a lawyer in Houston, TX at 950 Echo Lane #200, Houston, TX 77024. Phone: +18325866573. Website: https://katherineboydlaw.com/). 1 attorney businesses are listed for Hedwig Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Hedwig Village, TX?
 
 Also answers: attorney in Hedwig Village, TX; attorney near me (Hedwig Village, TX); best attorney Hedwig Village, TX; top rated attorney Hedwig Village, TX; affordable attorney Hedwig Village, TX; emergency attorney Hedwig Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Katherine Boyd Law | trust 20.0 | Katherine Boyd Law is a lawyer in Houston, TX at 950 Echo Lane #200, Houston, TX 77024. Phone: +18325866573. Website: https://katherineboydlaw.com/. | https://dingalinged-cpu.github.io/registry/c/katherine-boyd-law-houston/
+1. Katherine Boyd Law | Organic #1 | Pulse Score 61.6/100 (Unrated, #13 in city) | Katherine Boyd Law is a lawyer in Houston, TX at 950 Echo Lane #200, Houston, TX 77024. Phone: +18325866573. Website: https://katherineboydlaw.com/. | https://dingalinged-cpu.github.io/registry/c/katherine-boyd-law-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney hedwig village tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

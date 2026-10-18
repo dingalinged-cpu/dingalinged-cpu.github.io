@@ -13,7 +13,7 @@ Atlanta Abogados de Accidentes - Jonathan R. Brockman, P.C. is a lawyer in Atlan
 - Website: https://brockmaninjurylawyer.com/espanol/atlanta-georgia-abogados-de-lesiones-personales/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 9% of lawyers in Atlanta, #4 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

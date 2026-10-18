@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Eden Prairie, MN is Wedding Day Diamonds (a jewelry store in Eden Prairie, MN at 8320 Flying Cloud Drive, Eden Prairie, MN). 2 jewelry store businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Eden Prairie, MN is Becklund Jewelers (a jewelry store in Eden Prairie, MN). 2 jewelry store businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Eden Prairie, MN?
 
 Also answers: jewelry store in Eden Prairie, MN; jewelry store near me (Eden Prairie, MN); best jewelry store Eden Prairie, MN; top rated jewelry store Eden Prairie, MN; affordable jewelry store Eden Prairie, MN; emergency jewelry store Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wedding Day Diamonds | trust 3.0 | Wedding Day Diamonds is a jewelry store in Eden Prairie, MN at 8320 Flying Cloud Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-eden-prairie/
-2. Becklund Jewelers | trust 0.0 | Becklund Jewelers is a jewelry store in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/becklund-jewelers-eden-prairie/
+1. Becklund Jewelers | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Becklund Jewelers is a jewelry store in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/becklund-jewelers-eden-prairie/
+2. Wedding Day Diamonds | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | Wedding Day Diamonds is a jewelry store in Eden Prairie, MN at 8320 Flying Cloud Drive, Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store eden prairie mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ L.A. Insurance is an insurance agent in Mesquite, TX at 1704 Military Parkway #8
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 77% of insurance agents in Dallas–Fort Worth, #12 of 12 insurance agents in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.9, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

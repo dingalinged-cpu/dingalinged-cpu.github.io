@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Oak Park, IL is Studio Skinrx (a skin care studio in Oak Park, IL at 6429 West North Avenue #202, Oak Park, IL 60302. Phone: +17086161466. Website: https://www.studioskinrx.com/). 1 waxing businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Oak Park, IL is Studio Skinrx (a skin care studio in Oak Park, IL at 6429 West North Avenue #202, Oak Park, IL 60302. Phone: +17086161466. Website: https://www.studioskinrx.com/). 1 waxing businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Oak Park, IL?
 
 Also answers: waxing in Oak Park, IL; waxing near me (Oak Park, IL); best waxing Oak Park, IL; top rated waxing Oak Park, IL; affordable waxing Oak Park, IL; emergency waxing Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio Skinrx | trust 20.0 | Studio Skinrx is a skin care studio in Oak Park, IL at 6429 West North Avenue #202, Oak Park, IL 60302. Phone: +17086161466. Website: https://www.studioskinrx.com/. | https://dingalinged-cpu.github.io/registry/c/studio-skinrx-oak-park/
+1. Studio Skinrx | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Studio Skinrx is a skin care studio in Oak Park, IL at 6429 West North Avenue #202, Oak Park, IL 60302. Phone: +17086161466. Website: https://www.studioskinrx.com/. | https://dingalinged-cpu.github.io/registry/c/studio-skinrx-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing oak park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

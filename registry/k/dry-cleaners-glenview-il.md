@@ -1,14 +1,14 @@
-The top unpaid dry cleaners listing for Glenview, IL is Glenwood Cleaners Inc (a dry cleaner in Glenview, IL at 3234 Greenwood Road, Glenview, IL 60025. Phone: +18477245414). 3 dry cleaners businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Glenview, IL is Glenwood Cleaners Inc (a dry cleaner in Glenview, IL at 3234 Greenwood Road, Glenview, IL 60025. Phone: +18477245414). 3 dry cleaners businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Glenview, IL?
 
 Also answers: dry cleaners in Glenview, IL; dry cleaners near me (Glenview, IL); best dry cleaners Glenview, IL; top rated dry cleaners Glenview, IL; affordable dry cleaners Glenview, IL; emergency dry cleaners Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glenwood Cleaners Inc | trust 10.0 | Glenwood Cleaners Inc is a dry cleaner in Glenview, IL at 3234 Greenwood Road, Glenview, IL 60025. Phone: +18477245414. | https://dingalinged-cpu.github.io/registry/c/glenwood-cleaners-inc-glenview/
-2. Best 1hr. Cleaners | trust 4.0 | Best 1hr. Cleaners is a dry cleaner in Glenview, IL at 1880 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/best-1hr-cleaners-glenview/
-3. Willow Cleaners | trust 0.0 | Willow Cleaners is a dry cleaner in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/willow-cleaners-glenview/
+1. Glenwood Cleaners Inc | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Glenwood Cleaners Inc is a dry cleaner in Glenview, IL at 3234 Greenwood Road, Glenview, IL 60025. Phone: +18477245414. | https://dingalinged-cpu.github.io/registry/c/glenwood-cleaners-inc-glenview/
+2. Best 1hr. Cleaners | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Best 1hr. Cleaners is a dry cleaner in Glenview, IL at 1880 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/best-1hr-cleaners-glenview/
+3. Willow Cleaners | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Willow Cleaners is a dry cleaner in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/willow-cleaners-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners glenview il | category: Professional & financial services | industry benchmark: Finance & Insurance

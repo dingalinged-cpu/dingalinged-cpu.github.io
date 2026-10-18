@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Rogers, MN is Minnesota Orthodontics (a dentist in Rogers, MN). 2 dentist businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Rogers, MN is Minnesota Orthodontics (a dentist in Rogers, MN). 2 dentist businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Rogers, MN?
 
 Also answers: dentist in Rogers, MN; dentist near me (Rogers, MN); best dentist Rogers, MN; top rated dentist Rogers, MN; affordable dentist Rogers, MN; emergency dentist Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minnesota Orthodontics | trust 0.0 | Minnesota Orthodontics is a dentist in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-orthodontics-rogers/
-2. Rogers Dental Center | trust 0.0 | Rogers Dental Center is a dentist in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/rogers-dental-center-rogers/
+1. Minnesota Orthodontics | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Minnesota Orthodontics is a dentist in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/minnesota-orthodontics-rogers/
+2. Rogers Dental Center | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Rogers Dental Center is a dentist in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/rogers-dental-center-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist rogers mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

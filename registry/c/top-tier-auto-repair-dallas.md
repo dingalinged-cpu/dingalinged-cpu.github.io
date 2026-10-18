@@ -13,7 +13,7 @@ Top Tier Auto Repair is an auto repair shop in Dallas, TX at 2533 Farrington Str
 - Website: https://www.toptierautodallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Dallas–Fort Worth, #3 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

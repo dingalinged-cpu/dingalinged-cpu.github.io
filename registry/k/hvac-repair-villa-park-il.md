@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Villa Park, IL is Bogdan HVAC, Furnace & AC Repair (a HVAC contractor in Villa Park, IL at 728 North Princeton Avenue, Villa Park, IL 60181. Phone: +18476412743. Website: https://www.hvacbogdan.com/ac-repair/). 1 hvac repair businesses are listed for Villa Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Villa Park, IL is Bogdan HVAC, Furnace & AC Repair (a HVAC contractor in Villa Park, IL at 728 North Princeton Avenue, Villa Park, IL 60181. Phone: +18476412743. Website: https://www.hvacbogdan.com/ac-repair/). 1 hvac repair businesses are listed for Villa Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Villa Park, IL?
 
 Also answers: hvac repair in Villa Park, IL; hvac repair near me (Villa Park, IL); best hvac repair Villa Park, IL; top rated hvac repair Villa Park, IL; affordable hvac repair Villa Park, IL; emergency hvac repair Villa Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bogdan HVAC, Furnace & AC Repair | trust 20.0 | Bogdan HVAC, Furnace & AC Repair is a HVAC contractor in Villa Park, IL at 728 North Princeton Avenue, Villa Park, IL 60181. Phone: +18476412743. Website: https://www.hvacbogdan.com/ac-repair/. | https://dingalinged-cpu.github.io/registry/c/bogdan-hvac-furnace-and-ac-repair-villa-park/
+1. Bogdan HVAC, Furnace & AC Repair | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Bogdan HVAC, Furnace & AC Repair is a HVAC contractor in Villa Park, IL at 728 North Princeton Avenue, Villa Park, IL 60181. Phone: +18476412743. Website: https://www.hvacbogdan.com/ac-repair/. | https://dingalinged-cpu.github.io/registry/c/bogdan-hvac-furnace-and-ac-repair-villa-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair villa park il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

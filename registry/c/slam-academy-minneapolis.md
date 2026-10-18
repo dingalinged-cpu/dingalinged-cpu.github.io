@@ -13,7 +13,7 @@ Slam Academy is a music school in Minneapolis, MN. Phone: +16122937526. Website:
 - Website: https://slamacademy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 45% of music schools in Minneapolis–St. Paul, #4 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

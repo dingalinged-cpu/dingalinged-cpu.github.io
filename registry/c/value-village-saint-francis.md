@@ -13,7 +13,7 @@ Value Village is a thrift store in Saint Francis, WI at 3100 East Layton Avenue,
 - Website: https://www.valuevillagewi.com/resume-2
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 67% of thrift stores in Milwaukee, #1 of 1 thrift stores in Saint Francis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

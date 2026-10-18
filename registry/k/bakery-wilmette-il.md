@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Wilmette, IL is St. Roger Abbey French Patisserie (a bakery in Wilmette, IL at 1101 Central Avenue, Wilmette, IL 60091. Phone: +18159234350. Website: https://www.strogerabbey.org/). 1 bakery businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Wilmette, IL is St. Roger Abbey French Patisserie (a bakery in Wilmette, IL at 1101 Central Avenue, Wilmette, IL 60091. Phone: +18159234350. Website: https://www.strogerabbey.org/). 1 bakery businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Wilmette, IL?
 
 Also answers: bakery in Wilmette, IL; bakery near me (Wilmette, IL); best bakery Wilmette, IL; top rated bakery Wilmette, IL; affordable bakery Wilmette, IL; emergency bakery Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Roger Abbey French Patisserie | trust 16.0 | St. Roger Abbey French Patisserie is a bakery in Wilmette, IL at 1101 Central Avenue, Wilmette, IL 60091. Phone: +18159234350. Website: https://www.strogerabbey.org/. | https://dingalinged-cpu.github.io/registry/c/st-roger-abbey-french-patisserie-wilmette/
+1. St. Roger Abbey French Patisserie | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | St. Roger Abbey French Patisserie is a bakery in Wilmette, IL at 1101 Central Avenue, Wilmette, IL 60091. Phone: +18159234350. Website: https://www.strogerabbey.org/. | https://dingalinged-cpu.github.io/registry/c/st-roger-abbey-french-patisserie-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery wilmette il | category: Events & weddings | industry benchmark: Personal Services

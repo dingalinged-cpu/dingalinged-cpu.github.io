@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Eden Prairie, MN is Eden Prairie Liquor (a liquor store in Eden Prairie, MN at 8018 Den Road, Eden Prairie, MN 55344). 2 liquor store businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Eden Prairie, MN is Eden Prairie Liquor (a liquor store in Eden Prairie, MN at 8018 Den Road, Eden Prairie, MN 55344). 2 liquor store businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Eden Prairie, MN?
 
 Also answers: liquor store in Eden Prairie, MN; liquor store near me (Eden Prairie, MN); best liquor store Eden Prairie, MN; top rated liquor store Eden Prairie, MN; affordable liquor store Eden Prairie, MN; emergency liquor store Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eden Prairie Liquor | trust 8.0 | Eden Prairie Liquor is a liquor store in Eden Prairie, MN at 8018 Den Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie-n12022859336/
-2. Eden Prairie Liquor | trust 0.0 | Eden Prairie Liquor is a liquor store in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie/
+1. Eden Prairie Liquor | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Eden Prairie Liquor is a liquor store in Eden Prairie, MN at 8018 Den Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie-n12022859336/
+2. Eden Prairie Liquor | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Eden Prairie Liquor is a liquor store in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/eden-prairie-liquor-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store eden prairie mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

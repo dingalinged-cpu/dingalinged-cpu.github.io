@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Evansville, WI is Midwest Dental (a dentist in Evansville, WI at 449 South 1st Street, Evansville, WI 53536. Phone: +16088824338. Website: https://midwest-dental.com/locations/wisconsin-dental-centers/evansville-wi/). 3 dentist businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Evansville, WI is Maple Grove Family Dental (a dentist in Evansville, WI at 39 West Church Street, Evansville, WI 53536). 3 dentist businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Evansville, WI?
 
 Also answers: dentist in Evansville, WI; dentist near me (Evansville, WI); best dentist Evansville, WI; top rated dentist Evansville, WI; affordable dentist Evansville, WI; emergency dentist Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midwest Dental | trust 20.0 | Midwest Dental is a dentist in Evansville, WI at 449 South 1st Street, Evansville, WI 53536. Phone: +16088824338. Website: https://midwest-dental.com/locations/wisconsin-dental-centers/evansville-wi/. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-evansville/
-2. Maple Grove Family Dental | trust 4.0 | Maple Grove Family Dental is a dentist in Evansville, WI at 39 West Church Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/maple-grove-family-dental-evansville/
-3. The Grove Family Dental | trust 4.0 | The Grove Family Dental is a dentist in Evansville, WI at 109 South Madison Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/the-grove-family-dental-evansville/
+1. Maple Grove Family Dental | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Maple Grove Family Dental is a dentist in Evansville, WI at 39 West Church Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/maple-grove-family-dental-evansville/
+2. The Grove Family Dental | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | The Grove Family Dental is a dentist in Evansville, WI at 109 South Madison Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/the-grove-family-dental-evansville/
+3. Midwest Dental | Organic #3 | Pulse Score 52.2/100 (Fair, #3 in city) | Midwest Dental is a dentist in Evansville, WI at 449 South 1st Street, Evansville, WI 53536. Phone: +16088824338. Website: https://midwest-dental.com/locations/wisconsin-dental-centers/evansville-wi/. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist evansville wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

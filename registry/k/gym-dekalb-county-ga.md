@@ -1,16 +1,16 @@
-The top unpaid gym listing for Dekalb County, GA is Central Rock Gym Atlanta Bouldering (a gym in DeKalb County, GA at 3176 Marjan Drive, DeKalb County, GA 30340. Phone: +14703954588. Website: https://centralrockgym.com/atlanta-bouldering/). 5 gym businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Dekalb County, GA is Central Rock Gym Atlanta Bouldering (a gym in DeKalb County, GA at 3176 Marjan Drive, DeKalb County, GA 30340. Phone: +14703954588. Website: https://centralrockgym.com/atlanta-bouldering/). 5 gym businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Dekalb County, GA?
 
 Also answers: gym in Dekalb County, GA; gym near me (Dekalb County, GA); best gym Dekalb County, GA; top rated gym Dekalb County, GA; affordable gym Dekalb County, GA; emergency gym Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Central Rock Gym Atlanta Bouldering | trust 20.0 | Central Rock Gym Atlanta Bouldering is a gym in DeKalb County, GA at 3176 Marjan Drive, DeKalb County, GA 30340. Phone: +14703954588. Website: https://centralrockgym.com/atlanta-bouldering/. | https://dingalinged-cpu.github.io/registry/c/central-rock-gym-atlanta-bouldering-dekalb-county/
-2. Planet Fitness | trust 20.0 | Planet Fitness is a gym in DeKalb County, GA at 3535 Chamblee Tucker Road, DeKalb County, GA 30341. Phone: +17704528373. Website: https://www.planetfitness.com/. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county-n13670335801/
-3. LA Fitness | trust 0.0 | LA Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-dekalb-county/
-4. Planet Fitness | trust 0.0 | Planet Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county/
-5. Planet Fitness | trust 0.0 | Planet Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county-n11874659851/
+1. Central Rock Gym Atlanta Bouldering | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Central Rock Gym Atlanta Bouldering is a gym in DeKalb County, GA at 3176 Marjan Drive, DeKalb County, GA 30340. Phone: +14703954588. Website: https://centralrockgym.com/atlanta-bouldering/. | https://dingalinged-cpu.github.io/registry/c/central-rock-gym-atlanta-bouldering-dekalb-county/
+2. Planet Fitness | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | Planet Fitness is a gym in DeKalb County, GA at 3535 Chamblee Tucker Road, DeKalb County, GA 30341. Phone: +17704528373. Website: https://www.planetfitness.com/. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county-n13670335801/
+3. LA Fitness | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | LA Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-dekalb-county/
+4. Planet Fitness | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Planet Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county/
+5. Planet Fitness | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Planet Fitness is a gym in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-dekalb-county-n11874659851/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym dekalb county ga | category: Fitness | industry benchmark: Health & Fitness

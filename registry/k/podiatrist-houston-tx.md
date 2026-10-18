@@ -1,14 +1,14 @@
-The top unpaid podiatrist listing for Houston, TX is Foot Care Associates of Texas (a podiatrist in Houston, TX at 23972-A Highway 59 North, Houston, TX 77339. Phone: +12815401444. Website: https://www.michaelwynndpm.com/). 3 podiatrist businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Houston, TX is Foot Specialist Anthony LaMarra DPM (a podiatrist in Houston, TX at 2621 South Shepherd Drive, Houston, TX 77098. Phone: +17139427700). 3 podiatrist businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Houston, TX?
 
 Also answers: podiatrist in Houston, TX; podiatrist near me (Houston, TX); best podiatrist Houston, TX; top rated podiatrist Houston, TX; affordable podiatrist Houston, TX; emergency podiatrist Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot Care Associates of Texas | trust 16.0 | Foot Care Associates of Texas is a podiatrist in Houston, TX at 23972-A Highway 59 North, Houston, TX 77339. Phone: +12815401444. Website: https://www.michaelwynndpm.com/. | https://dingalinged-cpu.github.io/registry/c/foot-care-associates-of-texas-houston/
-2. Foot Specialist Anthony LaMarra DPM | trust 14.0 | Foot Specialist Anthony LaMarra DPM is a podiatrist in Houston, TX at 2621 South Shepherd Drive, Houston, TX 77098. Phone: +17139427700. | https://dingalinged-cpu.github.io/registry/c/foot-specialist-anthony-lamarra-dpm-houston/
-3. Dr. Pan | trust 4.0 | Dr. Pan is a podiatrist in Houston, TX at 9896 Bellaire Boulevard, Houston, TX 77036. | https://dingalinged-cpu.github.io/registry/c/dr-pan-houston/
+1. Foot Specialist Anthony LaMarra DPM | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Foot Specialist Anthony LaMarra DPM is a podiatrist in Houston, TX at 2621 South Shepherd Drive, Houston, TX 77098. Phone: +17139427700. | https://dingalinged-cpu.github.io/registry/c/foot-specialist-anthony-lamarra-dpm-houston/
+2. Foot Care Associates of Texas | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Foot Care Associates of Texas is a podiatrist in Houston, TX at 23972-A Highway 59 North, Houston, TX 77339. Phone: +12815401444. Website: https://www.michaelwynndpm.com/. | https://dingalinged-cpu.github.io/registry/c/foot-care-associates-of-texas-houston/
+3. Dr. Pan | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Dr. Pan is a podiatrist in Houston, TX at 9896 Bellaire Boulevard, Houston, TX 77036. | https://dingalinged-cpu.github.io/registry/c/dr-pan-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

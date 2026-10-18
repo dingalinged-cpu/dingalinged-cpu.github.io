@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Norcross, GA is BOVA Contemporary Furniture (a furniture store in Norcross, GA at 6460 Dawson Boulevard, Norcross, GA 30043. Phone: +17702426666. Website: https://www.bovafurniture.com/atlanta/). 2 furniture store businesses are listed for Norcross, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Norcross, GA is BOVA Contemporary Furniture (a furniture store in Norcross, GA at 6460 Dawson Boulevard, Norcross, GA 30043. Phone: +17702426666. Website: https://www.bovafurniture.com/atlanta/). 2 furniture store businesses are listed for Norcross, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Norcross, GA?
 
 Also answers: furniture store in Norcross, GA; furniture store near me (Norcross, GA); best furniture store Norcross, GA; top rated furniture store Norcross, GA; affordable furniture store Norcross, GA; emergency furniture store Norcross, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BOVA Contemporary Furniture | trust 20.0 | BOVA Contemporary Furniture is a furniture store in Norcross, GA at 6460 Dawson Boulevard, Norcross, GA 30043. Phone: +17702426666. Website: https://www.bovafurniture.com/atlanta/. | https://dingalinged-cpu.github.io/registry/c/bova-contemporary-furniture-norcross/
-2. James Furniture & Mattress Deals | trust 20.0 | James Furniture & Mattress Deals is a furniture store in Norcross, GA at 5211 Jimmy Carter Boulevard, Norcross, GA 30093. Phone: +17704470336. Website: https://www.jamesfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-norcross/
+1. BOVA Contemporary Furniture | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | BOVA Contemporary Furniture is a furniture store in Norcross, GA at 6460 Dawson Boulevard, Norcross, GA 30043. Phone: +17702426666. Website: https://www.bovafurniture.com/atlanta/. | https://dingalinged-cpu.github.io/registry/c/bova-contemporary-furniture-norcross/
+2. James Furniture & Mattress Deals | Organic #2 | Pulse Score 62.8/100 (Unrated, #2 in city) | James Furniture & Mattress Deals is a furniture store in Norcross, GA at 5211 Jimmy Carter Boulevard, Norcross, GA 30093. Phone: +17704470336. Website: https://www.jamesfurnituredeals.com/. | https://dingalinged-cpu.github.io/registry/c/james-furniture-and-mattress-deals-norcross/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store norcross ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Professional Black Belt Academy - Highland Park is a martial arts school in Dall
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 60% of martial arts schools in Dallas–Fort Worth, #4 of 7 martial arts schools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

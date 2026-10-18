@@ -1,12 +1,12 @@
-The top unpaid gym listing for Merrionette Park, IL is Blink Fitness (a gym in Merrionette Park, IL at 3243 West 115th Street, Merrionette Park, IL 60803. Website: https://blink-fitness.com/). 1 gym businesses are listed for Merrionette Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Merrionette Park, IL is Blink Fitness (a gym in Merrionette Park, IL at 3243 West 115th Street, Merrionette Park, IL 60803. Website: https://blink-fitness.com/). 1 gym businesses are listed for Merrionette Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Merrionette Park, IL?
 
 Also answers: gym in Merrionette Park, IL; gym near me (Merrionette Park, IL); best gym Merrionette Park, IL; top rated gym Merrionette Park, IL; affordable gym Merrionette Park, IL; emergency gym Merrionette Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blink Fitness | trust 10.0 | Blink Fitness is a gym in Merrionette Park, IL at 3243 West 115th Street, Merrionette Park, IL 60803. Website: https://blink-fitness.com/. | https://dingalinged-cpu.github.io/registry/c/blink-fitness-merrionette-park/
+1. Blink Fitness | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Blink Fitness is a gym in Merrionette Park, IL at 3243 West 115th Street, Merrionette Park, IL 60803. Website: https://blink-fitness.com/. | https://dingalinged-cpu.github.io/registry/c/blink-fitness-merrionette-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym merrionette park il | category: Fitness | industry benchmark: Health & Fitness

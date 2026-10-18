@@ -13,7 +13,7 @@ Shoe Repair is a shoe repair in Downers Grove, IL at 144 Ogden Avenue, Downers G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 09:00-18:00; We 10:00-18:00; Fr 09:00-16:00; Su 10:00-13:00
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 17% of shoe repairs in Chicago, #1 of 1 shoe repairs in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

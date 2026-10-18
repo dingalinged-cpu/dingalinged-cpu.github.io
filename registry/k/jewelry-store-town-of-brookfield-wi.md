@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Town Of Brookfield, WI is Kendra Scott (a jewelry store in Town of Brookfield, WI). 1 jewelry store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Town Of Brookfield, WI is Kendra Scott (a jewelry store in Town of Brookfield, WI). 1 jewelry store businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Town Of Brookfield, WI?
 
 Also answers: jewelry store in Town Of Brookfield, WI; jewelry store near me (Town Of Brookfield, WI); best jewelry store Town Of Brookfield, WI; top rated jewelry store Town Of Brookfield, WI; affordable jewelry store Town Of Brookfield, WI; emergency jewelry store Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kendra Scott | trust 0.0 | Kendra Scott is a jewelry store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-town-of-brookfield/
+1. Kendra Scott | Organic #1 | Pulse Score 41.4/100 (Building, #1 in city) | Kendra Scott is a jewelry store in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store town of brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,14 +1,14 @@
-The top unpaid financial advisor listing for Waunakee, WI is Edward Jones (a financial advisor in Waunakee, WI). 3 financial advisor businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Waunakee, WI is Madison Partners (a financial advisor in Waunakee, WI). 3 financial advisor businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Waunakee, WI?
 
 Also answers: financial advisor in Waunakee, WI; financial advisor near me (Waunakee, WI); best financial advisor Waunakee, WI; top rated financial advisor Waunakee, WI; affordable financial advisor Waunakee, WI; emergency financial advisor Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee/
-2. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee-n9414181395/
-3. Madison Partners | trust 0.0 | Madison Partners is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/madison-partners-waunakee/
+1. Madison Partners | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Madison Partners is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/madison-partners-waunakee/
+2. Edward Jones | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee/
+3. Edward Jones | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Edward Jones is a financial advisor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waunakee-n9414181395/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor waunakee wi | category: Professional & financial services | industry benchmark: Finance & Insurance

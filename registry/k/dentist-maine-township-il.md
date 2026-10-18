@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Maine Township, IL is I. Lubaev DDS (a dentist in Niles, IL at 8074 West Golf Road, Niles, IL 60714. Phone: +18472967070. Website: https://www.drlubaev.com/). 1 dentist businesses are listed for Maine Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Maine Township, IL is I. Lubaev DDS (a dentist in Niles, IL at 8074 West Golf Road, Niles, IL 60714. Phone: +18472967070. Website: https://www.drlubaev.com/). 1 dentist businesses are listed for Maine Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Maine Township, IL?
 
 Also answers: dentist in Maine Township, IL; dentist near me (Maine Township, IL); best dentist Maine Township, IL; top rated dentist Maine Township, IL; affordable dentist Maine Township, IL; emergency dentist Maine Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. I. Lubaev DDS | trust 16.0 | I. Lubaev DDS is a dentist in Niles, IL at 8074 West Golf Road, Niles, IL 60714. Phone: +18472967070. Website: https://www.drlubaev.com/. | https://dingalinged-cpu.github.io/registry/c/i-lubaev-dds-niles/
+1. I. Lubaev DDS | Organic #1 | Pulse Score 60.3/100 (Unrated, #2 in city) | I. Lubaev DDS is a dentist in Niles, IL at 8074 West Golf Road, Niles, IL 60714. Phone: +18472967070. Website: https://www.drlubaev.com/. | https://dingalinged-cpu.github.io/registry/c/i-lubaev-dds-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist maine township il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

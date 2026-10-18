@@ -1,24 +1,24 @@
-The top unpaid hair salon listing for Sun Prairie, WI is Cost Cutters (a hair salon in Sun Prairie, WI). 13 hair salon businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Sun Prairie, WI is Omnia Salon (a hair salon in Sun Prairie, WI). 13 hair salon businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Sun Prairie, WI?
 
 Also answers: hair salon in Sun Prairie, WI; hair salon near me (Sun Prairie, WI); best hair salon Sun Prairie, WI; top rated hair salon Sun Prairie, WI; affordable hair salon Sun Prairie, WI; emergency hair salon Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie-n7486573522/
-2. 10Twenty Salon | trust 0.0 | 10Twenty Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/10twenty-salon-sun-prairie/
-3. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-sun-prairie/
-5. Hair Excellence | trust 0.0 | Hair Excellence is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hair-excellence-sun-prairie/
-6. Hairadise Salon | trust 0.0 | Hairadise Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hairadise-salon-sun-prairie/
-7. Heads Up Hair Salon | trust 0.0 | Heads Up Hair Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/heads-up-hair-salon-sun-prairie/
-8. MCV Salon | trust 0.0 | MCV Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/mcv-salon-sun-prairie/
-9. Omnia Salon | trust 0.0 | Omnia Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/omnia-salon-sun-prairie/
-10. Riah Hair | trust 0.0 | Riah Hair is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/riah-hair-sun-prairie/
-11. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-sun-prairie/
-12. Studio 7 Hair | trust 0.0 | Studio 7 Hair is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/studio-7-hair-sun-prairie/
-13. Studio D Salon | trust 0.0 | Studio D Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/studio-d-salon-sun-prairie/
+1. Omnia Salon | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Omnia Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/omnia-salon-sun-prairie/
+2. Hairadise Salon | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Hairadise Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hairadise-salon-sun-prairie/
+3. MCV Salon | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | MCV Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/mcv-salon-sun-prairie/
+4. 10Twenty Salon | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | 10Twenty Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/10twenty-salon-sun-prairie/
+5. Hair Excellence | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Hair Excellence is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hair-excellence-sun-prairie/
+6. Heads Up Hair Salon | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Heads Up Hair Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/heads-up-hair-salon-sun-prairie/
+7. Riah Hair | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Riah Hair is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/riah-hair-sun-prairie/
+8. Studio 7 Hair | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | Studio 7 Hair is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/studio-7-hair-sun-prairie/
+9. Studio D Salon | Organic #9 | Pulse Score 55.1/100 (Unrated, #9 in city) | Studio D Salon is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/studio-d-salon-sun-prairie/
+10. Cost Cutters | Organic #10 | Pulse Score 47.5/100 (Building, #10 in city) | Cost Cutters is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie-n7486573522/
+11. Cost Cutters | Organic #11 | Pulse Score 42.8/100 (Building, #11 in city) | Cost Cutters is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-sun-prairie/
+12. Great Clips | Organic #12 | Pulse Score 42.8/100 (Building, #12 in city) | Great Clips is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-sun-prairie/
+13. Sport Clips | Organic #13 | Pulse Score 42.8/100 (Building, #13 in city) | Sport Clips is a hair salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon sun prairie wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,19 +1,19 @@
-The top unpaid dry cleaners listing for Roswell, GA is Mountain Park Superior Cleaners (a dry cleaner in Roswell, GA at 4750 Alabama Road #119, Roswell, GA. Phone: +17706428322). 8 dry cleaners businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Roswell, GA is Mountain Park Superior Cleaners (a dry cleaner in Roswell, GA at 4750 Alabama Road #119, Roswell, GA. Phone: +17706428322). 8 dry cleaners businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Roswell, GA?
 
 Also answers: dry cleaners in Roswell, GA; dry cleaners near me (Roswell, GA); best dry cleaners Roswell, GA; top rated dry cleaners Roswell, GA; affordable dry cleaners Roswell, GA; emergency dry cleaners Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mountain Park Superior Cleaners | trust 9.0 | Mountain Park Superior Cleaners is a dry cleaner in Roswell, GA at 4750 Alabama Road #119, Roswell, GA. Phone: +17706428322. | https://dingalinged-cpu.github.io/registry/c/mountain-park-superior-cleaners-roswell/
-2. Kay Cleaners | trust 4.0 | Kay Cleaners is a dry cleaner in Roswell, GA at 2300 Holcomb Bridge Road #400, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell/
-3. Martinizing Dry Cleaning | trust 4.0 | Martinizing Dry Cleaning is a dry cleaner in Roswell, GA at 1570 Holcomb Bridge Road #908, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/martinizing-dry-cleaning-roswell/
-4. Prestige Dry Cleaners | trust 4.0 | Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/
-5. Pro Cleaners | trust 3.0 | Pro Cleaners is a dry cleaner in Roswell, GA at 270 Rucker Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-roswell/
-6. Ellard Cleaners | trust 0.0 | Ellard Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/ellard-cleaners-roswell/
-7. Kay Cleaners | trust 0.0 | Kay Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell-n7968552820/
-8. Pride Cleaners | trust 0.0 | Pride Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-roswell/
+1. Mountain Park Superior Cleaners | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Mountain Park Superior Cleaners is a dry cleaner in Roswell, GA at 4750 Alabama Road #119, Roswell, GA. Phone: +17706428322. | https://dingalinged-cpu.github.io/registry/c/mountain-park-superior-cleaners-roswell/
+2. Prestige Dry Cleaners | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/
+3. Ellard Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #2 in city) | Ellard Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/ellard-cleaners-roswell/
+4. Pride Cleaners | Organic #4 | Pulse Score 54.8/100 (Unrated, #3 in city) | Pride Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pride-cleaners-roswell/
+5. Pro Cleaners | Organic #5 | Pulse Score 46.8/100 (Building, #4 in city) | Pro Cleaners is a dry cleaner in Roswell, GA at 270 Rucker Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/pro-cleaners-roswell/
+6. Kay Cleaners | Organic #6 | Pulse Score 45.8/100 (Unrated, #5 in city) | Kay Cleaners is a dry cleaner in Roswell, GA at 2300 Holcomb Bridge Road #400, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell/
+7. Martinizing Dry Cleaning | Organic #7 | Pulse Score 45.3/100 (Building, #6 in city) | Martinizing Dry Cleaning is a dry cleaner in Roswell, GA at 1570 Holcomb Bridge Road #908, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/martinizing-dry-cleaning-roswell/
+8. Kay Cleaners | Organic #8 | Pulse Score 43.1/100 (Unrated, #7 in city) | Kay Cleaners is a dry cleaner in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/kay-cleaners-roswell-n7968552820/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance

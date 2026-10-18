@@ -1,13 +1,13 @@
-The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 2 barber shop businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 2 barber shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Garland, TX?
 
 Also answers: barber shop in Garland, TX; barber shop near me (Garland, TX); best barber shop Garland, TX; top rated barber shop Garland, TX; affordable barber shop Garland, TX; emergency barber shop Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MTP Barbershop | trust 20.0 | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/
-2. Mr. Ice Water Fade  at Crown Barbershop | trust 14.0 | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/
+1. MTP Barbershop | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/
+2. Mr. Ice Water Fade  at Crown Barbershop | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

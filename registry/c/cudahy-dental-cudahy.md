@@ -13,7 +13,7 @@ Cudahy Dental is a dentist in Cudahy, WI at 6217 South Packard Avenue, Cudahy, W
 - Website: https://cudahydentalassociates.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 42% of dentists in Milwaukee, #1 of 1 dentists in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

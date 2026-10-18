@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Marshall, WI is Steven's Rocks & Gifts (a gift shop in Marshall, WI). 1 gift shop businesses are listed for Marshall, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Marshall, WI is Steven's Rocks & Gifts (a gift shop in Marshall, WI). 1 gift shop businesses are listed for Marshall, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Marshall, WI?
 
 Also answers: gift shop in Marshall, WI; gift shop near me (Marshall, WI); best gift shop Marshall, WI; top rated gift shop Marshall, WI; affordable gift shop Marshall, WI; emergency gift shop Marshall, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steven's Rocks & Gifts | trust 0.0 | Steven's Rocks & Gifts is a gift shop in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/stevens-rocks-and-gifts-marshall/
+1. Steven's Rocks & Gifts | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Steven's Rocks & Gifts is a gift shop in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/stevens-rocks-and-gifts-marshall/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop marshall wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

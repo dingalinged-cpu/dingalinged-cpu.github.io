@@ -13,7 +13,7 @@ Shawn Da' Barbershop & Beauty Salon is a hair salon in Milwaukee, WI at 7516 Wes
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su 11:00-17:00; Tu-Sa 08:00-22:00
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 21% of hair salons in Milwaukee, #51 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.9, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

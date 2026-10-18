@@ -13,7 +13,7 @@ YogaSix is a yoga studio in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 90% of yoga studios in Dallas–Fort Worth, #2 of 2 yoga studios in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

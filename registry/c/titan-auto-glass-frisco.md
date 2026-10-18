@@ -13,7 +13,7 @@ Titan Auto Glass is an auto repair shop in Frisco, TX at 10400 Frisco Street, Fr
 - Website: https://titanautoglass.net/auto-glass-frisco/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 11% of auto repair shops in Dallas–Fort Worth, #2 of 24 auto repair shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

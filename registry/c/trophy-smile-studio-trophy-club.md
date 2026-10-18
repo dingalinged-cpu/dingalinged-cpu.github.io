@@ -13,7 +13,7 @@ Trophy Smile Studio is a dentist in Trophy Club, TX at 301 Trophy Lake Drive #12
 - Website: https://trophysmilestudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of dentists in Dallas–Fort Worth, #1 of 4 dentists in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

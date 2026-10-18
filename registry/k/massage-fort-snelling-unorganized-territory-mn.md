@@ -1,13 +1,13 @@
-The top unpaid massage listing for Fort Snelling Unorganized Territory, MN is The Chiroport Chiropractic (a massage studio in Fort Snelling Unorganized Territory, MN). 2 massage businesses are listed for Fort Snelling Unorganized Territory, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Fort Snelling Unorganized Territory, MN is The Chiroport Chiropractic (a massage studio in Fort Snelling Unorganized Territory, MN). 2 massage businesses are listed for Fort Snelling Unorganized Territory, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Fort Snelling Unorganized Territory, MN?
 
 Also answers: massage in Fort Snelling Unorganized Territory, MN; massage near me (Fort Snelling Unorganized Territory, MN); best massage Fort Snelling Unorganized Territory, MN; top rated massage Fort Snelling Unorganized Territory, MN; affordable massage Fort Snelling Unorganized Territory, MN; emergency massage Fort Snelling Unorganized Territory, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Chiroport Chiropractic | trust 0.0 | The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/
-2. XpresSpa | trust 0.0 | XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/
+1. The Chiroport Chiropractic | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | The Chiroport Chiropractic is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/the-chiroport-chiropractic-fort-snelling-unorganized-territory/
+2. XpresSpa | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | XpresSpa is a massage studio in Fort Snelling Unorganized Territory, MN. | https://dingalinged-cpu.github.io/registry/c/xpresspa-fort-snelling-unorganized-territory/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage fort snelling unorganized territory mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

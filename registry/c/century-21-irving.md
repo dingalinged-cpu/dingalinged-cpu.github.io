@@ -13,7 +13,7 @@ Century 21 is a real estate agency in Irving, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30 || "weekends by appointment"
-- Registry Score: 41.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 92% of real estate agencys in Dallas–Fort Worth, #2 of 2 real estate agencys in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 43. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

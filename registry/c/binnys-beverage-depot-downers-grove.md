@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Downers Grove, IL at 2020 Butterfiel
 - Website: https://www.binnys.com/store-locator/downers-grove/
 - Email: downersgrove@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 92% of liquor stores in Chicago, #2 of 2 liquor stores in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

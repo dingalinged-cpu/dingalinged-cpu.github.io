@@ -13,7 +13,7 @@ J.M. Brennan Incorporated is a HVAC contractor in Milwaukee, WI at 2101 West Sai
 - Website: https://jmbrennan.com/
 - Email: mattb@jmbrennan.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 6% of HVAC contractors in Milwaukee, #1 of 6 HVAC contractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

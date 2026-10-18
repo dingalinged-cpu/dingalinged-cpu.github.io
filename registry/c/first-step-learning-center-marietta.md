@@ -13,7 +13,7 @@ First Step Learning Center is a preschool in Marietta, GA at 1060 Franklin Gatew
 - Website: n/a
 - Email: firststepcenter@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 16% of preschools in Atlanta, #3 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.2, Trust 50.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

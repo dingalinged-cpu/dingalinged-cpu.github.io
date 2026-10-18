@@ -13,7 +13,7 @@ EatZi's Market and Bakery is a bakery in Plano, TX. Phone: +19725356305. Website
 - Website: https://eatzis.com/locations/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-21:00
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 19% of bakerys in Dallas–Fort Worth, #2 of 7 bakerys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

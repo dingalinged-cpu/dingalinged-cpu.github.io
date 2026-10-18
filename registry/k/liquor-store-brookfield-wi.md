@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Brookfield, WI is Total Wine (a liquor store in Brookfield, WI at 17300 West Bluemound Road #200, Brookfield, WI 53045. Phone: +12627861520. Website: https://www.totalwine.com/store-info/1901). 2 liquor store businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Brookfield, WI is Westbrook Liquor (a liquor store in Brookfield, WI at 13430 West Greenfield Avenue, Brookfield, WI). 2 liquor store businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Brookfield, WI?
 
 Also answers: liquor store in Brookfield, WI; liquor store near me (Brookfield, WI); best liquor store Brookfield, WI; top rated liquor store Brookfield, WI; affordable liquor store Brookfield, WI; emergency liquor store Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Brookfield, WI at 17300 West Bluemound Road #200, Brookfield, WI 53045. Phone: +12627861520. Website: https://www.totalwine.com/store-info/1901. | https://dingalinged-cpu.github.io/registry/c/total-wine-brookfield/
-2. Westbrook Liquor | trust 3.0 | Westbrook Liquor is a liquor store in Brookfield, WI at 13430 West Greenfield Avenue, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/westbrook-liquor-brookfield/
+1. Westbrook Liquor | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Westbrook Liquor is a liquor store in Brookfield, WI at 13430 West Greenfield Avenue, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/westbrook-liquor-brookfield/
+2. Total Wine | Organic #2 | Pulse Score 50.6/100 (Fair, #2 in city) | Total Wine is a liquor store in Brookfield, WI at 17300 West Bluemound Road #200, Brookfield, WI 53045. Phone: +12627861520. Website: https://www.totalwine.com/store-info/1901. | https://dingalinged-cpu.github.io/registry/c/total-wine-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

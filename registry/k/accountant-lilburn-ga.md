@@ -1,13 +1,13 @@
-The top unpaid accountant listing for Lilburn, GA is GATCI (an accountant in Lilburn, GA). 2 accountant businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Lilburn, GA is GATCI (an accountant in Lilburn, GA). 2 accountant businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Lilburn, GA?
 
 Also answers: accountant in Lilburn, GA; accountant near me (Lilburn, GA); best accountant Lilburn, GA; top rated accountant Lilburn, GA; affordable accountant Lilburn, GA; emergency accountant Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GATCI | trust 0.0 | GATCI is an accountant in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/gatci-lilburn/
-2. Mark T. Windsor CPA | trust 0.0 | Mark T. Windsor CPA is an accountant in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/mark-t-windsor-cpa-lilburn/
+1. GATCI | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | GATCI is an accountant in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/gatci-lilburn/
+2. Mark T. Windsor CPA | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Mark T. Windsor CPA is an accountant in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/mark-t-windsor-cpa-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant lilburn ga | category: professional_accounting | industry benchmark: Business Services

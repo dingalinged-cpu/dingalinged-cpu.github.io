@@ -1,14 +1,14 @@
-The top unpaid gym listing for Matteson, IL is VASA Fitness (a gym in Matteson, IL at 4011 Lincoln Highway, Matteson, IL 60443. Website: https://vasafitness.com/locations/il/matteson/). 3 gym businesses are listed for Matteson, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Matteson, IL is VASA Fitness (a gym in Matteson, IL at 4011 Lincoln Highway, Matteson, IL 60443. Website: https://vasafitness.com/locations/il/matteson/). 3 gym businesses are listed for Matteson, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Matteson, IL?
 
 Also answers: gym in Matteson, IL; gym near me (Matteson, IL); best gym Matteson, IL; top rated gym Matteson, IL; affordable gym Matteson, IL; emergency gym Matteson, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VASA Fitness | trust 10.0 | VASA Fitness is a gym in Matteson, IL at 4011 Lincoln Highway, Matteson, IL 60443. Website: https://vasafitness.com/locations/il/matteson/. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-matteson/
-2. LA Fitness | trust 4.0 | LA Fitness is a gym in Matteson, IL at 4701 Lincoln Mall Drive, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson/
-3. LA Fitness | trust 4.0 | LA Fitness is a gym in Matteson, IL at 4340 Lincoln Highway, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson-w755231869/
+1. VASA Fitness | Organic #1 | Pulse Score 45.8/100 (Building, #1 in city) | VASA Fitness is a gym in Matteson, IL at 4011 Lincoln Highway, Matteson, IL 60443. Website: https://vasafitness.com/locations/il/matteson/. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-matteson/
+2. LA Fitness | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | LA Fitness is a gym in Matteson, IL at 4701 Lincoln Mall Drive, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson/
+3. LA Fitness | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | LA Fitness is a gym in Matteson, IL at 4340 Lincoln Highway, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/la-fitness-matteson-w755231869/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym matteson il | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Moore Foot & Ankle Specialists is a podiatrist in Spring, TX at 2616 FM 2920 #N,
 - Website: https://mfaspecialists.com/
 - Email: AskDrMoore@mfaspecialists.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa 09:00-12:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 29% of podiatrists in Houston, #1 of 1 podiatrists in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

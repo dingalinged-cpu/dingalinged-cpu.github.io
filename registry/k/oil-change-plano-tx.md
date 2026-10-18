@@ -1,15 +1,15 @@
-The top unpaid oil change listing for Plano, TX is Grease Monkey (an auto repair shop in Plano, TX at 3201 West Parker Road, Plano, TX 75075. Phone: +19728672241. Website: https://www.greasemonkeyauto.com/plano-texas-75023-center-1363/). 4 oil change businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Plano, TX is Kwik Kar Willow Bend (an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700). 4 oil change businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Plano, TX?
 
 Also answers: oil change in Plano, TX; oil change near me (Plano, TX); best oil change Plano, TX; top rated oil change Plano, TX; affordable oil change Plano, TX; emergency oil change Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grease Monkey | trust 20.0 | Grease Monkey is an auto repair shop in Plano, TX at 3201 West Parker Road, Plano, TX 75075. Phone: +19728672241. Website: https://www.greasemonkeyauto.com/plano-texas-75023-center-1363/. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-plano/
-2. Jiffy Lube | trust 16.0 | Jiffy Lube is an auto repair shop in Plano, TX at 1229 Coit Road, Plano, TX 75075. Phone: +19725961002. Website: https://www.jiffylube.com/locations/tx/plano/3794. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-plano/
-3. Kwik Kar Willow Bend | trust 14.0 | Kwik Kar Willow Bend is an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-willow-bend-plano/
-4. Spring Creek Auto Repair | trust 14.0 | Spring Creek Auto Repair is an auto repair shop in Plano, TX at 5401 Alma Drive, Plano, TX 75023. Phone: +19728817314. | https://dingalinged-cpu.github.io/registry/c/spring-creek-auto-repair-plano/
+1. Kwik Kar Willow Bend | Organic #1 | Pulse Score 61.6/100 (Unrated, #3 in city) | Kwik Kar Willow Bend is an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-willow-bend-plano/
+2. Spring Creek Auto Repair | Organic #2 | Pulse Score 61.6/100 (Unrated, #4 in city) | Spring Creek Auto Repair is an auto repair shop in Plano, TX at 5401 Alma Drive, Plano, TX 75023. Phone: +19728817314. | https://dingalinged-cpu.github.io/registry/c/spring-creek-auto-repair-plano/
+3. Grease Monkey | Organic #3 | Pulse Score 49.1/100 (Building, #28 in city) | Grease Monkey is an auto repair shop in Plano, TX at 3201 West Parker Road, Plano, TX 75075. Phone: +19728672241. Website: https://www.greasemonkeyauto.com/plano-texas-75023-center-1363/. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-plano/
+4. Jiffy Lube | Organic #4 | Pulse Score 48.2/100 (Building, #29 in city) | Jiffy Lube is an auto repair shop in Plano, TX at 1229 Coit Road, Plano, TX 75075. Phone: +19725961002. Website: https://www.jiffylube.com/locations/tx/plano/3794. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change plano tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

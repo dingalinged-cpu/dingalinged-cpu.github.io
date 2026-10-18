@@ -1,13 +1,13 @@
-The top unpaid mattress store listing for Mcdonough, GA is Mattress Firm (a mattress store in McDonough, GA at 1525 West Highway 20, McDonough, GA 30253. Phone: +17708920213. Website: https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/). 2 mattress store businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Mcdonough, GA is Mattress Firm (a mattress store in McDonough, GA at 1525 West Highway 20, McDonough, GA 30253. Phone: +17708920213. Website: https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/). 2 mattress store businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Mcdonough, GA?
 
 Also answers: mattress store in Mcdonough, GA; mattress store near me (Mcdonough, GA); best mattress store Mcdonough, GA; top rated mattress store Mcdonough, GA; affordable mattress store Mcdonough, GA; emergency mattress store Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in McDonough, GA at 1525 West Highway 20, McDonough, GA 30253. Phone: +17708920213. Website: https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-mcdonough/
-2. Sleep Number | trust 0.0 | Sleep Number is a mattress store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/sleep-number-mcdonough/
+1. Mattress Firm | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Mattress Firm is a mattress store in McDonough, GA at 1525 West Highway 20, McDonough, GA 30253. Phone: +17708920213. Website: https://www.mattressfirm.com/en-us/stores/ga/mcdonough/007111/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-mcdonough/
+2. Sleep Number | Organic #2 | Pulse Score 41/100 (Building, #2 in city) | Sleep Number is a mattress store in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/sleep-number-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mcdonough ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

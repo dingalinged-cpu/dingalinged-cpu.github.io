@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Cobb County, GA at 501 Roberts Court #9, C
 - Website: https://www.ediblearrangements.com/stores/440-earnest-w-barrett-pkwy-kennesaw-ga-30144
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 76% of gift shops in Atlanta, #5 of 5 gift shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

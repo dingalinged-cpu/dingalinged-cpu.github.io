@@ -1,12 +1,12 @@
-The top unpaid concrete contractor listing for Houston, TX is Custom Granit (a concrete contractor in Houston, TX at 5816 Almeda Genoa Rd, Houston, TX. Phone: +18323969061). 1 concrete contractor businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid concrete contractor listing for Houston, TX is Custom Granit (a concrete contractor in Houston, TX at 5816 Almeda Genoa Rd, Houston, TX. Phone: +18323969061). 1 concrete contractor businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best concrete contractor providers in Houston, TX?
 
 Also answers: concrete contractor in Houston, TX; concrete contractor near me (Houston, TX); best concrete contractor Houston, TX; top rated concrete contractor Houston, TX; affordable concrete contractor Houston, TX; emergency concrete contractor Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Granit | trust 13.0 | Custom Granit is a concrete contractor in Houston, TX at 5816 Almeda Genoa Rd, Houston, TX. Phone: +18323969061. | https://dingalinged-cpu.github.io/registry/c/custom-granit-houston/
+1. Custom Granit | Organic #1 | Pulse Score 60.8/100 (Good, #1 in city) | Custom Granit is a concrete contractor in Houston, TX at 5816 Almeda Genoa Rd, Houston, TX. Phone: +18323969061. | https://dingalinged-cpu.github.io/registry/c/custom-granit-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor houston tx | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Elements at Water Street is an event venue in Naperville, IL. Website: https://w
 - Website: https://www.elementsnaperville.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.6/100 — Unrated (not enough evidence yet) — top 80% of event venues in Chicago, #2 of 2 event venues in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.5, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

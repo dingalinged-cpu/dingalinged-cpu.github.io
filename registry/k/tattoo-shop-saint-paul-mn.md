@@ -1,19 +1,19 @@
-The top unpaid tattoo shop listing for Saint Paul, MN is Black Coffin Tattoo (a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/). 8 tattoo shop businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Saint Paul, MN is Black Coffin Tattoo (a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/). 8 tattoo shop businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Saint Paul, MN?
 
 Also answers: tattoo shop in Saint Paul, MN; tattoo shop near me (Saint Paul, MN); best tattoo shop Saint Paul, MN; top rated tattoo shop Saint Paul, MN; affordable tattoo shop Saint Paul, MN; emergency tattoo shop Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Coffin Tattoo | trust 16.0 | Black Coffin Tattoo is a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/. | https://dingalinged-cpu.github.io/registry/c/black-coffin-tattoo-saint-paul/
-2. Saint Paul Tattoo | trust 14.0 | Saint Paul Tattoo is a tattoo shop in Saint Paul, MN at 458 Robert Street South, Saint Paul, MN 55107. Phone: +16514553496. | https://dingalinged-cpu.github.io/registry/c/saint-paul-tattoo-saint-paul/
-3. The Ink Gallery | trust 8.0 | The Ink Gallery is a tattoo shop in Saint Paul, MN at 1722 University Avenue, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/the-ink-gallery-saint-paul/
-4. Fluid Ink Tattoos | trust 4.0 | Fluid Ink Tattoos is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/fluid-ink-tattoos-saint-paul/
-5. Grand Avenue Tattoo | trust 4.0 | Grand Avenue Tattoo is a tattoo shop in Saint Paul, MN at 42 South Dale Street, Saint Paul, MN 55102. | https://dingalinged-cpu.github.io/registry/c/grand-avenue-tattoo-saint-paul/
-6. Medallion Ink | trust 3.0 | Medallion Ink is a tattoo shop in Saint Paul, MN at 878 Payne Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/medallion-ink-saint-paul/
-7. Acme Tattoo | trust 0.0 | Acme Tattoo is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/acme-tattoo-saint-paul/
-8. Port & Starboard Tattoo and Piercing | trust 0.0 | Port & Starboard Tattoo and Piercing is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/port-and-starboard-tattoo-and-piercing-saint-paul/
+1. Black Coffin Tattoo | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Black Coffin Tattoo is a tattoo shop in Saint Paul, MN at 2480 University Avenue West, Saint Paul, MN 55114. Phone: +16516414099. Website: https://www.blackcoffintattoo.com/. | https://dingalinged-cpu.github.io/registry/c/black-coffin-tattoo-saint-paul/
+2. Saint Paul Tattoo | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Saint Paul Tattoo is a tattoo shop in Saint Paul, MN at 458 Robert Street South, Saint Paul, MN 55107. Phone: +16514553496. | https://dingalinged-cpu.github.io/registry/c/saint-paul-tattoo-saint-paul/
+3. The Ink Gallery | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | The Ink Gallery is a tattoo shop in Saint Paul, MN at 1722 University Avenue, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/the-ink-gallery-saint-paul/
+4. Medallion Ink | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Medallion Ink is a tattoo shop in Saint Paul, MN at 878 Payne Avenue, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/medallion-ink-saint-paul/
+5. Fluid Ink Tattoos | Organic #5 | Pulse Score 56.8/100 (Unrated, #5 in city) | Fluid Ink Tattoos is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/fluid-ink-tattoos-saint-paul/
+6. Grand Avenue Tattoo | Organic #6 | Pulse Score 56.5/100 (Unrated, #6 in city) | Grand Avenue Tattoo is a tattoo shop in Saint Paul, MN at 42 South Dale Street, Saint Paul, MN 55102. | https://dingalinged-cpu.github.io/registry/c/grand-avenue-tattoo-saint-paul/
+7. Acme Tattoo | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Acme Tattoo is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/acme-tattoo-saint-paul/
+8. Port & Starboard Tattoo and Piercing | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | Port & Starboard Tattoo and Piercing is a tattoo shop in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/port-and-starboard-tattoo-and-piercing-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop saint paul mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

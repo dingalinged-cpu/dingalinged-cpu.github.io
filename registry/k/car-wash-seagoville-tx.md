@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Seagoville, TX is Chevron Car Wash (Inc. Short-Visits) (a car wash in Seagoville, TX). 3 car wash businesses are listed for Seagoville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Seagoville, TX is Chevron Car Wash (Inc. Short-Visits) (a car wash in Seagoville, TX). 3 car wash businesses are listed for Seagoville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Seagoville, TX?
 
 Also answers: car wash in Seagoville, TX; car wash near me (Seagoville, TX); best car wash Seagoville, TX; top rated car wash Seagoville, TX; affordable car wash Seagoville, TX; emergency car wash Seagoville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chevron Car Wash (Inc. Short-Visits) | trust 0.0 | Chevron Car Wash (Inc. Short-Visits) is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/chevron-car-wash-inc-short-visits-seagoville/
-2. Hartis Car Wash | trust 0.0 | Hartis Car Wash is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/hartis-car-wash-seagoville/
-3. Shell | trust 0.0 | Shell is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/shell-seagoville/
+1. Chevron Car Wash (Inc. Short-Visits) | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Chevron Car Wash (Inc. Short-Visits) is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/chevron-car-wash-inc-short-visits-seagoville/
+2. Hartis Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Hartis Car Wash is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/hartis-car-wash-seagoville/
+3. Shell | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Shell is a car wash in Seagoville, TX. | https://dingalinged-cpu.github.io/registry/c/shell-seagoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash seagoville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

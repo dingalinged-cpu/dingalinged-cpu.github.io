@@ -13,7 +13,7 @@ Harvest Dental is a dentist in Farmersville, TX at 1704 West Audie Murphy Parkwa
 - Website: https://www.harvestdentaltexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 20% of dentists in Dallas–Fort Worth, #1 of 2 dentists in Farmersville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

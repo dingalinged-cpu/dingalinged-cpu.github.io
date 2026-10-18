@@ -1,16 +1,16 @@
-The top unpaid insurance agency listing for Irving, TX is McKinley Insurance Agency (an insurance agent in Irving, TX at 128 East 2nd Street, Irving, TX 75060. Phone: +19727900156. Website: https://www.mckinleyinsurancedfw.com/). 5 insurance agency businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Irving, TX is Texas Insurance Advisors (an insurance agent in Irving, TX at 3585 North Belt Line Road, Irving, TX 75062. Phone: +19722561800. Website: https://mytexasagent.com/). 5 insurance agency businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Irving, TX?
 
 Also answers: insurance agency in Irving, TX; insurance agency near me (Irving, TX); best insurance agency Irving, TX; top rated insurance agency Irving, TX; affordable insurance agency Irving, TX; emergency insurance agency Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McKinley Insurance Agency | trust 16.0 | McKinley Insurance Agency is an insurance agent in Irving, TX at 128 East 2nd Street, Irving, TX 75060. Phone: +19727900156. Website: https://www.mckinleyinsurancedfw.com/. | https://dingalinged-cpu.github.io/registry/c/mckinley-insurance-agency-irving/
-2. Texas Insurance Advisors | trust 16.0 | Texas Insurance Advisors is an insurance agent in Irving, TX at 3585 North Belt Line Road, Irving, TX 75062. Phone: +19722561800. Website: https://mytexasagent.com/. | https://dingalinged-cpu.github.io/registry/c/texas-insurance-advisors-irving/
-3. Fiesta Auto Insurance | trust 0.0 | Fiesta Auto Insurance is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/fiesta-auto-insurance-irving/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-irving/
-5. State Farm | trust 0.0 | State Farm is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-irving-n11236467493/
+1. Texas Insurance Advisors | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Texas Insurance Advisors is an insurance agent in Irving, TX at 3585 North Belt Line Road, Irving, TX 75062. Phone: +19722561800. Website: https://mytexasagent.com/. | https://dingalinged-cpu.github.io/registry/c/texas-insurance-advisors-irving/
+2. McKinley Insurance Agency | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | McKinley Insurance Agency is an insurance agent in Irving, TX at 128 East 2nd Street, Irving, TX 75060. Phone: +19727900156. Website: https://www.mckinleyinsurancedfw.com/. | https://dingalinged-cpu.github.io/registry/c/mckinley-insurance-agency-irving/
+3. Fiesta Auto Insurance | Organic #3 | Pulse Score 42.6/100 (Unrated, #3 in city) | Fiesta Auto Insurance is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/fiesta-auto-insurance-irving/
+4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-irving/
+5. State Farm | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | State Farm is an insurance agent in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-irving-n11236467493/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency irving tx | category: insurance | industry benchmark: Finance & Insurance

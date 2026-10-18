@@ -13,7 +13,7 @@ Finest Cuts Barber Shop is a hair salon in Marietta, GA at 2100 Roswell Road #11
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-20:00; Sa 11:00-21:00; Su 11:00-19:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 14% of hair salons in Atlanta, #11 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

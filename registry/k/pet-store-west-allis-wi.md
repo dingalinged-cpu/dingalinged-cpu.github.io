@@ -1,14 +1,14 @@
-The top unpaid pet store listing for West Allis, WI is Dog-Gone Lovely (a pet store in West Allis, WI at 11076 West National Avenue, West Allis, WI 53227. Phone: +14143270166. Website: https://doggonelovely.com/). 3 pet store businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for West Allis, WI is Dog-Gone Lovely (a pet store in West Allis, WI at 11076 West National Avenue, West Allis, WI 53227. Phone: +14143270166. Website: https://doggonelovely.com/). 3 pet store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in West Allis, WI?
 
 Also answers: pet store in West Allis, WI; pet store near me (West Allis, WI); best pet store West Allis, WI; top rated pet store West Allis, WI; affordable pet store West Allis, WI; emergency pet store West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dog-Gone Lovely | trust 20.0 | Dog-Gone Lovely is a pet store in West Allis, WI at 11076 West National Avenue, West Allis, WI 53227. Phone: +14143270166. Website: https://doggonelovely.com/. | https://dingalinged-cpu.github.io/registry/c/dog-gone-lovely-west-allis/
-2. The Fish Factory | trust 20.0 | The Fish Factory is a pet store in West Allis, WI at 9218 West Oklahoma Avenue, West Allis, WI 53227. Phone: +14145462201. Website: https://thefishfactoryonline.com/. | https://dingalinged-cpu.github.io/registry/c/the-fish-factory-west-allis/
-3. Pet World | trust 0.0 | Pet World is a pet store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/pet-world-west-allis/
+1. Dog-Gone Lovely | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Dog-Gone Lovely is a pet store in West Allis, WI at 11076 West National Avenue, West Allis, WI 53227. Phone: +14143270166. Website: https://doggonelovely.com/. | https://dingalinged-cpu.github.io/registry/c/dog-gone-lovely-west-allis/
+2. The Fish Factory | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | The Fish Factory is a pet store in West Allis, WI at 9218 West Oklahoma Avenue, West Allis, WI 53227. Phone: +14145462201. Website: https://thefishfactoryonline.com/. | https://dingalinged-cpu.github.io/registry/c/the-fish-factory-west-allis/
+3. Pet World | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Pet World is a pet store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/pet-world-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

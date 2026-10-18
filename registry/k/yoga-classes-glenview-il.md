@@ -1,15 +1,15 @@
-The top unpaid yoga classes listing for Glenview, IL is The Hot Room North Shore (a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/). 4 yoga classes businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Glenview, IL is The Hot Room North Shore (a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/). 4 yoga classes businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Glenview, IL?
 
 Also answers: yoga classes in Glenview, IL; yoga classes near me (Glenview, IL); best yoga classes Glenview, IL; top rated yoga classes Glenview, IL; affordable yoga classes Glenview, IL; emergency yoga classes Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hot Room North Shore | trust 20.0 | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
-2. Elite Center | trust 10.0 | Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/. | https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/
-3. CorePower Yoga | trust 8.0 | CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-glenview/
-4. Evolution Yoga | trust 6.0 | Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/. | https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/
+1. The Hot Room North Shore | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | The Hot Room North Shore is a yoga studio in Glenview, IL at 1926 Waukegan Road, Glenview, IL 60025. Phone: +18479986030. Website: https://thehotroomnorthshore.com/. | https://dingalinged-cpu.github.io/registry/c/the-hot-room-north-shore-glenview/
+2. Elite Center | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Elite Center is a yoga studio in Glenview, IL at 1841 Waukegan Road, Glenview, IL 60025. Website: https://elitecenter.net/. | https://dingalinged-cpu.github.io/registry/c/elite-center-glenview/
+3. Evolution Yoga | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Evolution Yoga is a yoga studio in Glenview, IL. Website: https://www.evolutionyogaglenview.com/. | https://dingalinged-cpu.github.io/registry/c/evolution-yoga-glenview/
+4. CorePower Yoga | Organic #4 | Pulse Score 45.6/100 (Building, #4 in city) | CorePower Yoga is a yoga studio in Glenview, IL at 1819 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes glenview il | category: Fitness | industry benchmark: Health & Fitness

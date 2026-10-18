@@ -13,7 +13,7 @@ Gina Cleaners is a dry cleaner in Kennesaw, GA at 3600 Cherokee Street Northwest
 - Website: https://chonnykim.wixsite.com/ginacleaners
 - Email: Ginacleaners1@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 8% of dry cleaners in Atlanta, #1 of 6 dry cleaners in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

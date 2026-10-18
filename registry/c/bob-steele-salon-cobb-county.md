@@ -13,7 +13,7 @@ Bob Steele Salon is a hair salon in Cobb County, GA at 2960 Shallowford Road Nor
 - Website: https://www.bobsteele.com/eastcobbstylists
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 09:30-20:00; Sa 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 3% of hair salons in Atlanta, #4 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

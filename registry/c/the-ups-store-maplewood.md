@@ -13,7 +13,7 @@ The UPS Store is a printing service in Maplewood, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:30-16:00; Su 11:00-16:00
-- Registry Score: 46.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 53% of printing services in Minneapolis–St. Paul, #2 of 2 printing services in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 51.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

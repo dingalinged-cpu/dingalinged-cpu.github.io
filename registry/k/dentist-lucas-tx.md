@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Lucas, TX is Sterling Smiles (a dentist in Lucas, TX at 2650 West Lucas Road #120, Lucas, TX 75002). 1 dentist businesses are listed for Lucas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lucas, TX is Sterling Smiles (a dentist in Lucas, TX at 2650 West Lucas Road #120, Lucas, TX 75002). 1 dentist businesses are listed for Lucas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lucas, TX?
 
 Also answers: dentist in Lucas, TX; dentist near me (Lucas, TX); best dentist Lucas, TX; top rated dentist Lucas, TX; affordable dentist Lucas, TX; emergency dentist Lucas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Smiles | trust 4.0 | Sterling Smiles is a dentist in Lucas, TX at 2650 West Lucas Road #120, Lucas, TX 75002. | https://dingalinged-cpu.github.io/registry/c/sterling-smiles-lucas/
+1. Sterling Smiles | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Sterling Smiles is a dentist in Lucas, TX at 2650 West Lucas Road #120, Lucas, TX 75002. | https://dingalinged-cpu.github.io/registry/c/sterling-smiles-lucas/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lucas tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

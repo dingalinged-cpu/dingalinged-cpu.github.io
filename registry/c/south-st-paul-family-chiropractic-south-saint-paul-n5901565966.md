@@ -13,7 +13,7 @@ South St.Paul Family Chiropractic is a chiropractor in South Saint Paul, MN at 1
 - Website: https://drjuliefoote.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 10:00-18:00
-- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 5% of chiropractors in Minneapolis–St. Paul, #1 of 2 chiropractors in South Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

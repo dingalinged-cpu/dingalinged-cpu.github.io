@@ -1,22 +1,22 @@
-The top unpaid barber shop listing for Harris County, TX is Barber (a barber shop in Harris County, TX). 11 barber shop businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Harris County, TX is Barber (a barber shop in Harris County, TX). 11 barber shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Harris County, TX?
 
 Also answers: barber shop in Harris County, TX; barber shop near me (Harris County, TX); best barber shop Harris County, TX; top rated barber shop Harris County, TX; affordable barber shop Harris County, TX; emergency barber shop Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barber | trust 0.0 | Barber is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-harris-county/
-2. Barber Cuts | trust 0.0 | Barber Cuts is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-cuts-harris-county/
-3. Barber Shop | trust 0.0 | Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-shop-harris-county/
-4. Barber Shop Hair Salon | trust 0.0 | Barber Shop Hair Salon is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-shop-hair-salon-harris-county/
-5. ELITE 90 | trust 0.0 | ELITE 90 is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/elite-90-harris-county/
-6. Heights Kutz Barber Shop | trust 0.0 | Heights Kutz Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/heights-kutz-barber-shop-harris-county/
-7. Houston Barber School | trust 0.0 | Houston Barber School is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/houston-barber-school-harris-county/
-8. Innovative Kutz | trust 0.0 | Innovative Kutz is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/innovative-kutz-harris-county/
-9. Strokes barber shop | trust 0.0 | Strokes barber shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/strokes-barber-shop-harris-county/
-10. Tita’s Barber Shop | trust 0.0 | Tita’s Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tita-s-barber-shop-harris-county/
-11. Tune Up | trust 0.0 | Tune Up is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-harris-county-n13838074273/
+1. Barber | Organic #1 | Pulse Score 54.9/100 (Unrated, #2 in city) | Barber is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-harris-county/
+2. Barber Cuts | Organic #2 | Pulse Score 54.9/100 (Unrated, #1 in city) | Barber Cuts is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-cuts-harris-county/
+3. Barber Shop Hair Salon | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Barber Shop Hair Salon is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-shop-hair-salon-harris-county/
+4. ELITE 90 | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | ELITE 90 is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/elite-90-harris-county/
+5. Heights Kutz Barber Shop | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Heights Kutz Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/heights-kutz-barber-shop-harris-county/
+6. Houston Barber School | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Houston Barber School is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/houston-barber-school-harris-county/
+7. Innovative Kutz | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | Innovative Kutz is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/innovative-kutz-harris-county/
+8. Strokes barber shop | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | Strokes barber shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/strokes-barber-shop-harris-county/
+9. Tita’s Barber Shop | Organic #9 | Pulse Score 54.9/100 (Unrated, #9 in city) | Tita’s Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tita-s-barber-shop-harris-county/
+10. Tune Up | Organic #10 | Pulse Score 43.2/100 (Unrated, #10 in city) | Tune Up is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-harris-county-n13838074273/
+11. Barber Shop | Organic #11 | Pulse Score 42.1/100 (Unrated, #11 in city) | Barber Shop is a barber shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/barber-shop-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Arlington, TX is Space Monkey Tattoo (a tattoo shop in Arlington, TX at 302 East Division Street, Arlington, TX 76011). 1 tattoo shop businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Arlington, TX is Space Monkey Tattoo (a tattoo shop in Arlington, TX at 302 East Division Street, Arlington, TX 76011). 1 tattoo shop businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Arlington, TX?
 
 Also answers: tattoo shop in Arlington, TX; tattoo shop near me (Arlington, TX); best tattoo shop Arlington, TX; top rated tattoo shop Arlington, TX; affordable tattoo shop Arlington, TX; emergency tattoo shop Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Space Monkey Tattoo | trust 8.0 | Space Monkey Tattoo is a tattoo shop in Arlington, TX at 302 East Division Street, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/space-monkey-tattoo-arlington/
+1. Space Monkey Tattoo | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Space Monkey Tattoo is a tattoo shop in Arlington, TX at 302 East Division Street, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/space-monkey-tattoo-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

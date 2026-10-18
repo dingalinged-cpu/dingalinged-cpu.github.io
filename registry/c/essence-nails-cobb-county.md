@@ -13,7 +13,7 @@ Essence Nails is a nail salon in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-19:00; Su 12:00-18:00; Mo off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 40% of nail salons in Atlanta, #24 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

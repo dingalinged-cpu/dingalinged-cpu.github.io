@@ -13,7 +13,7 @@ Fashion Nails is a nail salon in Bloomington, MN at 10590.5 France Avenue South,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of nail salons in Minneapolis–St. Paul, #2 of 4 nail salons in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

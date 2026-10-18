@@ -1,15 +1,15 @@
-The top unpaid roofer listing for West Allis, WI is WeatherPro Exteriors (a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/). 4 roofer businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for West Allis, WI is WeatherPro Exteriors (a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/). 4 roofer businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in West Allis, WI?
 
 Also answers: roofer in West Allis, WI; roofer near me (West Allis, WI); best roofer West Allis, WI; top rated roofer West Allis, WI; affordable roofer West Allis, WI; emergency roofer West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WeatherPro Exteriors | trust 20.0 | WeatherPro Exteriors is a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/weatherpro-exteriors-west-allis/
-2. WA Home Improvements | trust 16.0 | WA Home Improvements is a roofer in West Allis, WI at 7528 West Becher Street, West Allis, WI 53219. Phone: +14148131181. Website: https://www.wahomeimprovements.com/. | https://dingalinged-cpu.github.io/registry/c/wa-home-improvements-west-allis/
-3. Rob's Roofing | trust 0.0 | Rob's Roofing is a roofer in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/robs-roofing-west-allis/
-4. WeatherPro | trust 0.0 | WeatherPro is a roofer in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/weatherpro-west-allis/
+1. WeatherPro Exteriors | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | WeatherPro Exteriors is a roofer in West Allis, WI at 12200 West Adler Lane, West Allis, WI 53214. Phone: +14145430929. Website: https://www.weatherproexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/weatherpro-exteriors-west-allis/
+2. WA Home Improvements | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | WA Home Improvements is a roofer in West Allis, WI at 7528 West Becher Street, West Allis, WI 53219. Phone: +14148131181. Website: https://www.wahomeimprovements.com/. | https://dingalinged-cpu.github.io/registry/c/wa-home-improvements-west-allis/
+3. Rob's Roofing | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Rob's Roofing is a roofer in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/robs-roofing-west-allis/
+4. WeatherPro | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | WeatherPro is a roofer in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/weatherpro-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer west allis wi | category: Home services - Roofing | industry benchmark: Home & Home Improvement

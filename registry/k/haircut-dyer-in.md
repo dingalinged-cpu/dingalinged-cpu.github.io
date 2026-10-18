@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Dyer, IN is Hair Cuttery (a hair salon in Dyer, IN). 2 haircut businesses are listed for Dyer, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Dyer, IN is Hair Cuttery (a hair salon in Dyer, IN). 2 haircut businesses are listed for Dyer, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Dyer, IN?
 
 Also answers: haircut in Dyer, IN; haircut near me (Dyer, IN); best haircut Dyer, IN; top rated haircut Dyer, IN; affordable haircut Dyer, IN; emergency haircut Dyer, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Cuttery | trust 1.0 | Hair Cuttery is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-dyer/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/great-clips-dyer/
+1. Hair Cuttery | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | Hair Cuttery is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-dyer/
+2. Great Clips | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Great Clips is a hair salon in Dyer, IN. | https://dingalinged-cpu.github.io/registry/c/great-clips-dyer/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut dyer in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

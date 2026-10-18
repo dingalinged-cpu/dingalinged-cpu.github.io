@@ -13,7 +13,7 @@ Lillstreet Gallery & Artisan Gift Shop is a gift shop in Chicago, IL at 4401 Nor
 - Website: https://lillstreetgallery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:30; Fr-Sa 10:00-18:00; Su 10:00-17:00
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 12% of gift shops in Chicago, #9 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

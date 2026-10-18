@@ -13,7 +13,7 @@ Flyin' Wrench Motorsports is an auto repair shop in Woodstock, GA at 9575 Main S
 - Website: https://www.flyinwrench.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 6% of auto repair shops in Atlanta, #2 of 13 auto repair shops in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

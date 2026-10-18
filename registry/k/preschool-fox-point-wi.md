@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Fox Point, WI is The Nurturing Nook (a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint). 1 preschool businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Fox Point, WI is The Nurturing Nook (a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint). 1 preschool businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Fox Point, WI?
 
 Also answers: preschool in Fox Point, WI; preschool near me (Fox Point, WI); best preschool Fox Point, WI; top rated preschool Fox Point, WI; affordable preschool Fox Point, WI; emergency preschool Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Nurturing Nook | trust 20.0 | The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint. | https://dingalinged-cpu.github.io/registry/c/the-nurturing-nook-fox-point/
+1. The Nurturing Nook | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | The Nurturing Nook is a preschool in Fox Point, WI at 8647 North Port Washington Road, Fox Point, WI 53217. Phone: +14143526115. Website: https://www.thenurturingnook.com/riverpoint. | https://dingalinged-cpu.github.io/registry/c/the-nurturing-nook-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool fox point wi | category: Education & childcare | industry benchmark: Education & Instruction

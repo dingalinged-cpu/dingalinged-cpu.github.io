@@ -1,13 +1,13 @@
-The top unpaid funeral home listing for Evansville, WI is Ward-Hurtley Funeral Home (a funeral home in Evansville, WI at 130 South 5th Street, Evansville, WI 53536. Phone: +16088824410. Website: https://www.wardhurtley.com/). 2 funeral home businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Evansville, WI is Ward-Hurtley Funeral Home (a funeral home in Evansville, WI at 130 South 5th Street, Evansville, WI 53536. Phone: +16088824410. Website: https://www.wardhurtley.com/). 2 funeral home businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Evansville, WI?
 
 Also answers: funeral home in Evansville, WI; funeral home near me (Evansville, WI); best funeral home Evansville, WI; top rated funeral home Evansville, WI; affordable funeral home Evansville, WI; emergency funeral home Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ward-Hurtley Funeral Home | trust 16.0 | Ward-Hurtley Funeral Home is a funeral home in Evansville, WI at 130 South 5th Street, Evansville, WI 53536. Phone: +16088824410. Website: https://www.wardhurtley.com/. | https://dingalinged-cpu.github.io/registry/c/ward-hurtley-funeral-home-evansville/
-2. Allen-Meredith Funeral Home | trust 4.0 | Allen-Meredith Funeral Home is a funeral home in Evansville, WI at 103 West Main Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/allen-meredith-funeral-home-evansville/
+1. Ward-Hurtley Funeral Home | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Ward-Hurtley Funeral Home is a funeral home in Evansville, WI at 130 South 5th Street, Evansville, WI 53536. Phone: +16088824410. Website: https://www.wardhurtley.com/. | https://dingalinged-cpu.github.io/registry/c/ward-hurtley-funeral-home-evansville/
+2. Allen-Meredith Funeral Home | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Allen-Meredith Funeral Home is a funeral home in Evansville, WI at 103 West Main Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/allen-meredith-funeral-home-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home evansville wi | category: Professional & financial services | industry benchmark: Finance & Insurance

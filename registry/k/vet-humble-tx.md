@@ -1,15 +1,15 @@
-The top unpaid vet listing for Humble, TX is Atascocita Animal Hospital (a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/). 4 vet businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Humble, TX is Atascocita Animal Hospital (a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/). 4 vet businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Humble, TX?
 
 Also answers: vet in Humble, TX; vet near me (Humble, TX); best vet Humble, TX; top rated vet Humble, TX; affordable vet Humble, TX; emergency vet Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atascocita Animal Hospital | trust 20.0 | Atascocita Animal Hospital is a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/. | https://dingalinged-cpu.github.io/registry/c/atascocita-animal-hospital-humble/
-2. Eastex Veterinary Clinic | trust 10.0 | Eastex Veterinary Clinic is a veterinarian in Humble, TX at 1400 1st Street, Humble, TX 77338. Website: https://eastexveterinaryclinichumble.com/. | https://dingalinged-cpu.github.io/registry/c/eastex-veterinary-clinic-humble/
-3. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Humble, TX at 20518 Eastex Freeway, Humble, TX 77338. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-humble/
-4. Texas Litter Control | trust 0.0 | Texas Litter Control is a veterinarian in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/texas-litter-control-humble/
+1. Atascocita Animal Hospital | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Atascocita Animal Hospital is a veterinarian in Humble, TX at 7819 FM 1960, Humble, TX 77346. Phone: +12816024092. Website: https://www.atascocitavet.com/. | https://dingalinged-cpu.github.io/registry/c/atascocita-animal-hospital-humble/
+2. Eastex Veterinary Clinic | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Eastex Veterinary Clinic is a veterinarian in Humble, TX at 1400 1st Street, Humble, TX 77338. Website: https://eastexveterinaryclinichumble.com/. | https://dingalinged-cpu.github.io/registry/c/eastex-veterinary-clinic-humble/
+3. Texas Litter Control | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Texas Litter Control is a veterinarian in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/texas-litter-control-humble/
+4. Banfield Pet Hospital | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Banfield Pet Hospital is a veterinarian in Humble, TX at 20518 Eastex Freeway, Humble, TX 77338. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet humble tx | category: Pets | industry benchmark: Animals & Pets

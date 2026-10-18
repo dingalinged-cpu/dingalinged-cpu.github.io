@@ -13,7 +13,7 @@ Charm Dental Richmond is a dentist in Richmond, TX at 2201 Thompson Road #101, R
 - Website: https://www.charmdentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 09:00-17:00; Tu,Th 10:00-17:00; We 10:00-19:00; Sa 09:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of dentists in Houston, #4 of 20 dentists in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

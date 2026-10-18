@@ -1,18 +1,18 @@
-The top unpaid auto body shop listing for Dallas, TX is Bengal Automotive (an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/). 7 auto body shop businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Dallas, TX is Bengal Automotive (an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/). 7 auto body shop businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Dallas, TX?
 
 Also answers: auto body shop in Dallas, TX; auto body shop near me (Dallas, TX); best auto body shop Dallas, TX; top rated auto body shop Dallas, TX; affordable auto body shop Dallas, TX; emergency auto body shop Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bengal Automotive | trust 20.0 | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
-2. Collision Matrix | trust 9.0 | Collision Matrix is an auto repair shop in Dallas, TX at 1714 Westburg Alley, Dallas, TX. Website: https://collisionmatrix.com/. | https://dingalinged-cpu.github.io/registry/c/collision-matrix-dallas/
-3. Gerber Collision & Glass | trust 3.0 | Gerber Collision & Glass is an auto repair shop in Dallas, TX at 8054 Forest Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-dallas/
-4. Powell Paint & Body | trust 3.0 | Powell Paint & Body is an auto repair shop in Dallas, TX at 1518 Naylor Street, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/powell-paint-and-body-dallas/
-5. Rusty Wallis Collision | trust 3.0 | Rusty Wallis Collision is an auto repair shop in Dallas, TX at 11310 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rusty-wallis-collision-dallas/
-6. Dallas Dent Company | trust 0.0 | Dallas Dent Company is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-dent-company-dallas/
-7. J.T. Automotive | trust 0.0 | J.T. Automotive is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/j-t-automotive-dallas/
+1. Bengal Automotive | Organic #1 | Pulse Score 62.6/100 (Unrated, #6 in city) | Bengal Automotive is an auto repair shop in Dallas, TX at 4814 Bengal Street #1, Dallas, TX 75235. Phone: +12149020952. Website: https://www.bengalautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/bengal-automotive-dallas/
+2. Collision Matrix | Organic #2 | Pulse Score 59.2/100 (Unrated, #22 in city) | Collision Matrix is an auto repair shop in Dallas, TX at 1714 Westburg Alley, Dallas, TX. Website: https://collisionmatrix.com/. | https://dingalinged-cpu.github.io/registry/c/collision-matrix-dallas/
+3. Powell Paint & Body | Organic #3 | Pulse Score 56.3/100 (Unrated, #47 in city) | Powell Paint & Body is an auto repair shop in Dallas, TX at 1518 Naylor Street, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/powell-paint-and-body-dallas/
+4. Rusty Wallis Collision | Organic #4 | Pulse Score 55.9/100 (Unrated, #52 in city) | Rusty Wallis Collision is an auto repair shop in Dallas, TX at 11310 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/rusty-wallis-collision-dallas/
+5. J.T. Automotive | Organic #5 | Pulse Score 55.5/100 (Unrated, #55 in city) | J.T. Automotive is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/j-t-automotive-dallas/
+6. Dallas Dent Company | Organic #6 | Pulse Score 54.8/100 (Unrated, #75 in city) | Dallas Dent Company is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-dent-company-dallas/
+7. Gerber Collision & Glass | Organic #7 | Pulse Score 46.8/100 (Building, #91 in city) | Gerber Collision & Glass is an auto repair shop in Dallas, TX at 8054 Forest Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

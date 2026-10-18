@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for New Hope, MN is Great Nails (a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428). 4 nail salon businesses are listed for New Hope, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for New Hope, MN is Great Nails (a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428). 4 nail salon businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in New Hope, MN?
 
 Also answers: nail salon in New Hope, MN; nail salon near me (New Hope, MN); best nail salon New Hope, MN; top rated nail salon New Hope, MN; affordable nail salon New Hope, MN; emergency nail salon New Hope, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Nails | trust 4.0 | Great Nails is a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/great-nails-new-hope/
-2. Daisy Nails | trust 3.0 | Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/daisy-nails-new-hope/
-3. Love Nails | trust 0.0 | Love Nails is a nail salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/love-nails-new-hope/
-4. V Nails | trust 0.0 | V Nails is a nail salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/v-nails-new-hope/
+1. Great Nails | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Great Nails is a nail salon in New Hope, MN at 4214 Winnetka Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/great-nails-new-hope/
+2. V Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | V Nails is a nail salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/v-nails-new-hope/
+3. Daisy Nails | Organic #3 | Pulse Score 44.5/100 (Unrated, #3 in city) | Daisy Nails is a nail salon in New Hope, MN at 3548 Winnetka Avenue North, New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/daisy-nails-new-hope/
+4. Love Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Love Nails is a nail salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/love-nails-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon new hope mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

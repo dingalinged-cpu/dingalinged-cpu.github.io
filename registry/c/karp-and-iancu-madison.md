@@ -13,7 +13,7 @@ Karp & Iancu is a lawyer in Madison, WI at 811 East Washington Avenue #418, Madi
 - Website: https://www.karplawfirm.com/locations/madison/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.2/100 — Unrated (not enough evidence yet) — top 44% of lawyers in Madison, #6 of 12 lawyers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

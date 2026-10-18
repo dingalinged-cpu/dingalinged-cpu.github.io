@@ -1,14 +1,14 @@
-The top unpaid car wash listing for West Bend, WI is Full Service Car Wash (a car wash in West Bend, WI). 3 car wash businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for West Bend, WI is Scrub-a-Dub (a car wash in West Bend, WI). 3 car wash businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in West Bend, WI?
 
 Also answers: car wash in West Bend, WI; car wash near me (West Bend, WI); best car wash West Bend, WI; top rated car wash West Bend, WI; affordable car wash West Bend, WI; emergency car wash West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Full Service Car Wash | trust 0.0 | Full Service Car Wash is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/full-service-car-wash-west-bend/
-2. Scrub-a-Dub | trust 0.0 | Scrub-a-Dub is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-west-bend/
-3. Tommy's Express Car Wash | trust 0.0 | Tommy's Express Car Wash is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-west-bend/
+1. Scrub-a-Dub | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Scrub-a-Dub is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-west-bend/
+2. Full Service Car Wash | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Full Service Car Wash is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/full-service-car-wash-west-bend/
+3. Tommy's Express Car Wash | Organic #3 | Pulse Score 41.9/100 (Unrated, #3 in city) | Tommy's Express Car Wash is a car wash in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash west bend wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

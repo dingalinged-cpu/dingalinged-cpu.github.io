@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Palatine, IL is Stacey Lipinski Hair (a hair salon in Palatine, IL at 220 North Smith Street #117 unit 207, Palatine, IL 60067. Phone: +18473612547). 4 hair salon businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Palatine, IL is Stacey Lipinski Hair (a hair salon in Palatine, IL at 220 North Smith Street #117 unit 207, Palatine, IL 60067. Phone: +18473612547). 4 hair salon businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Palatine, IL?
 
 Also answers: hair salon in Palatine, IL; hair salon near me (Palatine, IL); best hair salon Palatine, IL; top rated hair salon Palatine, IL; affordable hair salon Palatine, IL; emergency hair salon Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stacey Lipinski Hair | trust 14.0 | Stacey Lipinski Hair is a hair salon in Palatine, IL at 220 North Smith Street #117 unit 207, Palatine, IL 60067. Phone: +18473612547. | https://dingalinged-cpu.github.io/registry/c/stacey-lipinski-hair-palatine/
-2. Mastercuts | trust 8.0 | Mastercuts is a hair salon in Palatine, IL at 245 East Northwest Highway, Palatine, IL 60067. | https://dingalinged-cpu.github.io/registry/c/mastercuts-palatine/
-3. Cutting Edge Salon + Spa | trust 0.0 | Cutting Edge Salon + Spa is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/cutting-edge-salon-spa-palatine/
-4. Supercuts | trust 0.0 | Supercuts is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-palatine/
+1. Stacey Lipinski Hair | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Stacey Lipinski Hair is a hair salon in Palatine, IL at 220 North Smith Street #117 unit 207, Palatine, IL 60067. Phone: +18473612547. | https://dingalinged-cpu.github.io/registry/c/stacey-lipinski-hair-palatine/
+2. Cutting Edge Salon + Spa | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Cutting Edge Salon + Spa is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/cutting-edge-salon-spa-palatine/
+3. Mastercuts | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Mastercuts is a hair salon in Palatine, IL at 245 East Northwest Highway, Palatine, IL 60067. | https://dingalinged-cpu.github.io/registry/c/mastercuts-palatine/
+4. Supercuts | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Supercuts is a hair salon in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon palatine il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

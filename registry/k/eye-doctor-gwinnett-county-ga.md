@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Gwinnett County, GA is New Hope Eye Center (an eye care practice in Gwinnett County, GA at 2070 Pleasant Hill Road, Gwinnett County, GA). 2 eye doctor businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Gwinnett County, GA is New Hope Eye Center (an eye care practice in Gwinnett County, GA at 2070 Pleasant Hill Road, Gwinnett County, GA). 2 eye doctor businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Gwinnett County, GA?
 
 Also answers: eye doctor in Gwinnett County, GA; eye doctor near me (Gwinnett County, GA); best eye doctor Gwinnett County, GA; top rated eye doctor Gwinnett County, GA; affordable eye doctor Gwinnett County, GA; emergency eye doctor Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Hope Eye Center | trust 3.0 | New Hope Eye Center is an eye care practice in Gwinnett County, GA at 2070 Pleasant Hill Road, Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/new-hope-eye-center-gwinnett-county/
-2. Sugarloaf Vision Center | trust 0.0 | Sugarloaf Vision Center is an eye care practice in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/sugarloaf-vision-center-gwinnett-county/
+1. New Hope Eye Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | New Hope Eye Center is an eye care practice in Gwinnett County, GA at 2070 Pleasant Hill Road, Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/new-hope-eye-center-gwinnett-county/
+2. Sugarloaf Vision Center | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Sugarloaf Vision Center is an eye care practice in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/sugarloaf-vision-center-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor gwinnett county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

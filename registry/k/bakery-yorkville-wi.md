@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Yorkville, WI is The Country Rose (a bakery in Union Grove, WI at 19319 Washington Avenue, Union Grove, WI 53182. Phone: +12628785474. Website: https://www.countryrosebakery.com/). 2 bakery businesses are listed for Yorkville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Yorkville, WI is The Country Rose (a bakery in Union Grove, WI at 19319 Washington Avenue, Union Grove, WI 53182. Phone: +12628785474. Website: https://www.countryrosebakery.com/). 2 bakery businesses are listed for Yorkville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Yorkville, WI?
 
 Also answers: bakery in Yorkville, WI; bakery near me (Yorkville, WI); best bakery Yorkville, WI; top rated bakery Yorkville, WI; affordable bakery Yorkville, WI; emergency bakery Yorkville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Country Rose | trust 20.0 | The Country Rose is a bakery in Union Grove, WI at 19319 Washington Avenue, Union Grove, WI 53182. Phone: +12628785474. Website: https://www.countryrosebakery.com/. | https://dingalinged-cpu.github.io/registry/c/the-country-rose-union-grove/
-2. O&H Danish | trust 0.0 | O&H Danish is a bakery in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-yorkville/
+1. The Country Rose | Organic #1 | Pulse Score 67.7/100 (Good, #1 in city) | The Country Rose is a bakery in Union Grove, WI at 19319 Washington Avenue, Union Grove, WI 53182. Phone: +12628785474. Website: https://www.countryrosebakery.com/. | https://dingalinged-cpu.github.io/registry/c/the-country-rose-union-grove/
+2. O&H Danish | Organic #2 | Pulse Score 53.9/100 (Unrated, #1 in city) | O&H Danish is a bakery in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery yorkville wi | category: Events & weddings | industry benchmark: Personal Services

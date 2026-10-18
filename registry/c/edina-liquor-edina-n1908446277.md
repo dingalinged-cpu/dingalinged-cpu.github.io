@@ -13,7 +13,7 @@ Edina Liquor is a liquor store in Edina, MN at 5013 Vernon Avenue, Edina, MN 554
 - Website: https://www.edinaliquor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-18:00
-- Registry Score: 55.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 84% of liquor stores in Minneapolis–St. Paul, #1 of 3 liquor stores in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.8, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

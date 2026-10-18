@@ -1,15 +1,15 @@
-The top unpaid gift shop listing for Wauwatosa, WI is BoxLunch (a gift shop in Wauwatosa, WI. Phone: +14147780904. Website: https://www.boxlunch.com/stores-details?StoreId=4534). 4 gift shop businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Wauwatosa, WI is Egyptian International Art (a gift shop in Wauwatosa, WI. Phone: +14144756071). 4 gift shop businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Wauwatosa, WI?
 
 Also answers: gift shop in Wauwatosa, WI; gift shop near me (Wauwatosa, WI); best gift shop Wauwatosa, WI; top rated gift shop Wauwatosa, WI; affordable gift shop Wauwatosa, WI; emergency gift shop Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BoxLunch | trust 16.0 | BoxLunch is a gift shop in Wauwatosa, WI. Phone: +14147780904. Website: https://www.boxlunch.com/stores-details?StoreId=4534. | https://dingalinged-cpu.github.io/registry/c/boxlunch-wauwatosa/
-2. Spencer's | trust 16.0 | Spencer's is a gift shop in Wauwatosa, WI. Phone: +18335430751. Website: https://stores.spencersonline.com/wi/wauwatosa/mayfair-mall-02057.html. | https://dingalinged-cpu.github.io/registry/c/spencers-wauwatosa/
-3. Egyptian International Art | trust 10.0 | Egyptian International Art is a gift shop in Wauwatosa, WI. Phone: +14144756071. | https://dingalinged-cpu.github.io/registry/c/egyptian-international-art-wauwatosa/
-4. Art Center | trust 4.0 | Art Center is a gift shop in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/art-center-wauwatosa/
+1. Egyptian International Art | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Egyptian International Art is a gift shop in Wauwatosa, WI. Phone: +14144756071. | https://dingalinged-cpu.github.io/registry/c/egyptian-international-art-wauwatosa/
+2. Art Center | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Art Center is a gift shop in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/art-center-wauwatosa/
+3. Spencer's | Organic #3 | Pulse Score 49/100 (Building, #3 in city) | Spencer's is a gift shop in Wauwatosa, WI. Phone: +18335430751. Website: https://stores.spencersonline.com/wi/wauwatosa/mayfair-mall-02057.html. | https://dingalinged-cpu.github.io/registry/c/spencers-wauwatosa/
+4. BoxLunch | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | BoxLunch is a gift shop in Wauwatosa, WI. Phone: +14147780904. Website: https://www.boxlunch.com/stores-details?StoreId=4534. | https://dingalinged-cpu.github.io/registry/c/boxlunch-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop wauwatosa wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

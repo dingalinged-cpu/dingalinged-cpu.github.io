@@ -13,7 +13,7 @@ COLTON Community is a real estate agency in Todd Mission, TX at 42030 Texoma Way
 - Website: https://coltontx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 10:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 27% of real estate agencys in Houston, #1 of 1 real estate agencys in Todd Mission (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

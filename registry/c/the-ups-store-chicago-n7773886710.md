@@ -13,7 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 818 East 63rd Street, Chic
 - Website: https://locations.theupsstore.com/il/chicago/818-e-63rd-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 31% of printing services in Chicago, #25 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

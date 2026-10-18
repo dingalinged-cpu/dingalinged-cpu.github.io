@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Waxahachie, TX is Uptown Glow Airbrush Tanning (a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/). 1 tanning salon businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Waxahachie, TX is Uptown Glow Airbrush Tanning (a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/). 1 tanning salon businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Waxahachie, TX?
 
 Also answers: tanning salon in Waxahachie, TX; tanning salon near me (Waxahachie, TX); best tanning salon Waxahachie, TX; top rated tanning salon Waxahachie, TX; affordable tanning salon Waxahachie, TX; emergency tanning salon Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Uptown Glow Airbrush Tanning | trust 20.0 | Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/. | https://dingalinged-cpu.github.io/registry/c/uptown-glow-airbrush-tanning-waxahachie/
+1. Uptown Glow Airbrush Tanning | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Uptown Glow Airbrush Tanning is a tanning salon in Waxahachie, TX at 110 Panorama Loop, Waxahachie, TX 75165. Phone: +19727520284. Website: https://uptown-glow.com/. | https://dingalinged-cpu.github.io/registry/c/uptown-glow-airbrush-tanning-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon waxahachie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,14 +1,14 @@
-The top unpaid physical therapy listing for Coppell, TX is Star Orthopedics (a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/). 3 physical therapy businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Coppell, TX is Star Orthopedics (a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/). 3 physical therapy businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Coppell, TX?
 
 Also answers: physical therapy in Coppell, TX; physical therapy near me (Coppell, TX); best physical therapy Coppell, TX; top rated physical therapy Coppell, TX; affordable physical therapy Coppell, TX; emergency physical therapy Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Star Orthopedics | trust 15.0 | Star Orthopedics is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/. | https://dingalinged-cpu.github.io/registry/c/star-orthopedics-coppell/
-2. Star Sports Therapy and Rehab | trust 10.0 | Star Sports Therapy and Rehab is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #110, Coppell, TX 75019. Phone: +14695982760. | https://dingalinged-cpu.github.io/registry/c/star-sports-therapy-and-rehab-coppell/
-3. ATI Physical Therapy | trust 0.0 | ATI Physical Therapy is a physical therapy clinic in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-coppell/
+1. Star Orthopedics | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Star Orthopedics is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #115, Coppell, TX. Phone: +14698500680. Website: https://www.starorthopedics.com/. | https://dingalinged-cpu.github.io/registry/c/star-orthopedics-coppell/
+2. Star Sports Therapy and Rehab | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | Star Sports Therapy and Rehab is a physical therapy clinic in Coppell, TX at 149 West State Highway 121 #110, Coppell, TX 75019. Phone: +14695982760. | https://dingalinged-cpu.github.io/registry/c/star-sports-therapy-and-rehab-coppell/
+3. ATI Physical Therapy | Organic #3 | Pulse Score 41.6/100 (Building, #3 in city) | ATI Physical Therapy is a physical therapy clinic in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy coppell tx | category: Health & medical | industry benchmark: Physicians & Surgeons

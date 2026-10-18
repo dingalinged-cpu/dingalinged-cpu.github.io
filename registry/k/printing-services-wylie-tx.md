@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Wylie, TX is The UPS Store Wylie (a printing service in Wylie, TX at 809 Woodbridge Parkway #500, Wylie, TX 75098. Phone: +14693040444. Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy). 2 printing services businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Wylie, TX is The UPS Store Wylie (a printing service in Wylie, TX at 809 Woodbridge Parkway #500, Wylie, TX 75098. Phone: +14693040444. Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy). 2 printing services businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Wylie, TX?
 
 Also answers: printing services in Wylie, TX; printing services near me (Wylie, TX); best printing services Wylie, TX; top rated printing services Wylie, TX; affordable printing services Wylie, TX; emergency printing services Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store Wylie | trust 20.0 | The UPS Store Wylie is a printing service in Wylie, TX at 809 Woodbridge Parkway #500, Wylie, TX 75098. Phone: +14693040444. Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie-wylie/
-2. The UPS Store | trust 4.0 | The UPS Store is a printing service in Wylie, TX at 2030 North State Highway 78 #Suite 300, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie/
+1. The UPS Store Wylie | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | The UPS Store Wylie is a printing service in Wylie, TX at 809 Woodbridge Parkway #500, Wylie, TX 75098. Phone: +14693040444. Website: https://locations.theupsstore.com/tx/wylie/809-woodbridge-pkwy. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie-wylie/
+2. The UPS Store | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | The UPS Store is a printing service in Wylie, TX at 2030 North State Highway 78 #Suite 300, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services wylie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

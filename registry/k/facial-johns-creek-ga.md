@@ -1,13 +1,13 @@
-The top unpaid facial listing for Johns Creek, GA is Alpha Lan Med Spa (a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/). 2 facial businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Johns Creek, GA is Radiant Touch at Salons by JC (a skin care studio in Johns Creek, GA at 10955 Jones Bridge Road #126-8, Johns Creek, GA 30022. Phone: +17707443015. Website: https://salonsbyjc.com/salons/radiant-touch-beauty-studio). 2 facial businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Johns Creek, GA?
 
 Also answers: facial in Johns Creek, GA; facial near me (Johns Creek, GA); best facial Johns Creek, GA; top rated facial Johns Creek, GA; affordable facial Johns Creek, GA; emergency facial Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alpha Lan Med Spa | trust 20.0 | Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-lan-med-spa-alpharetta/
-2. Radiant Touch at Salons by JC | trust 20.0 | Radiant Touch at Salons by JC is a skin care studio in Johns Creek, GA at 10955 Jones Bridge Road #126-8, Johns Creek, GA 30022. Phone: +17707443015. Website: https://salonsbyjc.com/salons/radiant-touch-beauty-studio. | https://dingalinged-cpu.github.io/registry/c/radiant-touch-at-salons-by-jc-johns-creek/
+1. Radiant Touch at Salons by JC | Organic #1 | Pulse Score 65.4/100 (Good, #1 in city) | Radiant Touch at Salons by JC is a skin care studio in Johns Creek, GA at 10955 Jones Bridge Road #126-8, Johns Creek, GA 30022. Phone: +17707443015. Website: https://salonsbyjc.com/salons/radiant-touch-beauty-studio. | https://dingalinged-cpu.github.io/registry/c/radiant-touch-at-salons-by-jc-johns-creek/
+2. Alpha Lan Med Spa | Organic #2 | Pulse Score 59.6/100 (Unrated, #1 in city) | Alpha Lan Med Spa is a skin care studio in Alpharetta, GA at 11895 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16785875575. Website: https://alphalanmedspaga.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-lan-med-spa-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial johns creek ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

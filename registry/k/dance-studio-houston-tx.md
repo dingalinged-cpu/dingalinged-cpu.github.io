@@ -1,18 +1,18 @@
-The top unpaid dance studio listing for Houston, TX is Arthur Murray Dance Center (a dance studio in Houston, TX at 9746 Katy Freeway #100, Houston, TX 77055. Website: https://arthurmurray.com/). 7 dance studio businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Houston, TX is Princess Reception Hall (a dance studio in Houston, TX at 16312 Spencer Road, Houston, TX 77095. Phone: +12816901487). 7 dance studio businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Houston, TX?
 
 Also answers: dance studio in Houston, TX; dance studio near me (Houston, TX); best dance studio Houston, TX; top rated dance studio Houston, TX; affordable dance studio Houston, TX; emergency dance studio Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arthur Murray Dance Center | trust 10.0 | Arthur Murray Dance Center is a dance studio in Houston, TX at 9746 Katy Freeway #100, Houston, TX 77055. Website: https://arthurmurray.com/. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-houston/
-2. Princess Reception Hall | trust 10.0 | Princess Reception Hall is a dance studio in Houston, TX at 16312 Spencer Road, Houston, TX 77095. Phone: +12816901487. | https://dingalinged-cpu.github.io/registry/c/princess-reception-hall-houston/
-3. Uptown Dance Centre | trust 10.0 | Uptown Dance Centre is a dance studio in Houston, TX at 7417 Shadyvilla Lane, Houston, TX 77055. Website: https://www.uptowndance.org/. | https://dingalinged-cpu.github.io/registry/c/uptown-dance-centre-houston/
-4. Love Dance HTX | trust 4.0 | Love Dance HTX is a dance studio in Houston, TX at 2206 Edwards Street #B, Houston, TX 77006. | https://dingalinged-cpu.github.io/registry/c/love-dance-htx-houston/
-5. Mitsi Dancing School | trust 4.0 | Mitsi Dancing School is a dance studio in Houston, TX at 9889 Bellaire Boulevard #D251, Houston, TX 77036. | https://dingalinged-cpu.github.io/registry/c/mitsi-dancing-school-houston/
-6. Creative Motion Dance Studio | trust 3.0 | Creative Motion Dance Studio is a dance studio in Houston, TX at 720 Pinemont Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/creative-motion-dance-studio-houston/
-7. Dance of Asian America | trust 0.0 | Dance of Asian America is a dance studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dance-of-asian-america-houston/
+1. Princess Reception Hall | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Princess Reception Hall is a dance studio in Houston, TX at 16312 Spencer Road, Houston, TX 77095. Phone: +12816901487. | https://dingalinged-cpu.github.io/registry/c/princess-reception-hall-houston/
+2. Uptown Dance Centre | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Uptown Dance Centre is a dance studio in Houston, TX at 7417 Shadyvilla Lane, Houston, TX 77055. Website: https://www.uptowndance.org/. | https://dingalinged-cpu.github.io/registry/c/uptown-dance-centre-houston/
+3. Love Dance HTX | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Love Dance HTX is a dance studio in Houston, TX at 2206 Edwards Street #B, Houston, TX 77006. | https://dingalinged-cpu.github.io/registry/c/love-dance-htx-houston/
+4. Mitsi Dancing School | Organic #4 | Pulse Score 58/100 (Unrated, #4 in city) | Mitsi Dancing School is a dance studio in Houston, TX at 9889 Bellaire Boulevard #D251, Houston, TX 77036. | https://dingalinged-cpu.github.io/registry/c/mitsi-dancing-school-houston/
+5. Creative Motion Dance Studio | Organic #5 | Pulse Score 56.8/100 (Unrated, #5 in city) | Creative Motion Dance Studio is a dance studio in Houston, TX at 720 Pinemont Drive, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/creative-motion-dance-studio-houston/
+6. Dance of Asian America | Organic #6 | Pulse Score 54.3/100 (Unrated, #6 in city) | Dance of Asian America is a dance studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dance-of-asian-america-houston/
+7. Arthur Murray Dance Center | Organic #7 | Pulse Score 47.4/100 (Building, #7 in city) | Arthur Murray Dance Center is a dance studio in Houston, TX at 9746 Katy Freeway #100, Houston, TX 77055. Website: https://arthurmurray.com/. | https://dingalinged-cpu.github.io/registry/c/arthur-murray-dance-center-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio houston tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Z's Shakes & Cakes is a bakery in Gary, IN at 1215 Broadway, Gary, IN 46407. Pho
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 39% of bakerys in Chicago, #1 of 2 bakerys in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

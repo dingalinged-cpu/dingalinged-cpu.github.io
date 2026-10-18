@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Hales Corners, WI is Forest Ridge Senior Community (an assisted living facility in Hales Corners, WI at 11077 West Forest Home Avenue, Hales Corners, WI 53130). 1 assisted living businesses are listed for Hales Corners, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Hales Corners, WI is Forest Ridge Senior Community (an assisted living facility in Hales Corners, WI at 11077 West Forest Home Avenue, Hales Corners, WI 53130). 1 assisted living businesses are listed for Hales Corners, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Hales Corners, WI?
 
 Also answers: assisted living in Hales Corners, WI; assisted living near me (Hales Corners, WI); best assisted living Hales Corners, WI; top rated assisted living Hales Corners, WI; affordable assisted living Hales Corners, WI; emergency assisted living Hales Corners, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forest Ridge Senior Community | trust 4.0 | Forest Ridge Senior Community is an assisted living facility in Hales Corners, WI at 11077 West Forest Home Avenue, Hales Corners, WI 53130. | https://dingalinged-cpu.github.io/registry/c/forest-ridge-senior-community-hales-corners/
+1. Forest Ridge Senior Community | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Forest Ridge Senior Community is an assisted living facility in Hales Corners, WI at 11077 West Forest Home Avenue, Hales Corners, WI 53130. | https://dingalinged-cpu.github.io/registry/c/forest-ridge-senior-community-hales-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living hales corners wi | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

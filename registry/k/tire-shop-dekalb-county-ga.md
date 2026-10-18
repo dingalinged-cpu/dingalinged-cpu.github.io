@@ -1,16 +1,16 @@
-The top unpaid tire shop listing for Dekalb County, GA is AAA Toco Hills Car Care Plus (an auto repair shop in DeKalb County, GA at 2161 Lavista Road Northeast, DeKalb County, GA. Phone: +14042356754. Website: https://locator.acg.aaa.com/ga/atlanta/aaa-toco-hills-car-care-plus). 5 tire shop businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Dekalb County, GA is Mavis Tires (a tire shop in DeKalb County, GA at 3924 Lavista Road, DeKalb County, GA. Website: https://www.mavis.com/locations/tucker-lavista-rd-ga.asp). 5 tire shop businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Dekalb County, GA?
 
 Also answers: tire shop in Dekalb County, GA; tire shop near me (Dekalb County, GA); best tire shop Dekalb County, GA; top rated tire shop Dekalb County, GA; affordable tire shop Dekalb County, GA; emergency tire shop Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Toco Hills Car Care Plus | trust 19.0 | AAA Toco Hills Car Care Plus is an auto repair shop in DeKalb County, GA at 2161 Lavista Road Northeast, DeKalb County, GA. Phone: +14042356754. Website: https://locator.acg.aaa.com/ga/atlanta/aaa-toco-hills-car-care-plus. | https://dingalinged-cpu.github.io/registry/c/aaa-toco-hills-car-care-plus-dekalb-county/
-2. Mavis Tires | trust 9.0 | Mavis Tires is a tire shop in DeKalb County, GA at 3924 Lavista Road, DeKalb County, GA. Website: https://www.mavis.com/locations/tucker-lavista-rd-ga.asp. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-dekalb-county/
-3. Mavis Tires and Brakes | trust 0.0 | Mavis Tires and Brakes is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-dekalb-county/
-4. Tires Plus | trust 0.0 | Tires Plus is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/tires-plus-dekalb-county/
-5. TOP Tire Service | trust 0.0 | TOP Tire Service is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/top-tire-service-dekalb-county/
+1. Mavis Tires | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Mavis Tires is a tire shop in DeKalb County, GA at 3924 Lavista Road, DeKalb County, GA. Website: https://www.mavis.com/locations/tucker-lavista-rd-ga.asp. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-dekalb-county/
+2. TOP Tire Service | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | TOP Tire Service is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/top-tire-service-dekalb-county/
+3. AAA Toco Hills Car Care Plus | Organic #3 | Pulse Score 50.7/100 (Fair, #12 in city) | AAA Toco Hills Car Care Plus is an auto repair shop in DeKalb County, GA at 2161 Lavista Road Northeast, DeKalb County, GA. Phone: +14042356754. Website: https://locator.acg.aaa.com/ga/atlanta/aaa-toco-hills-car-care-plus. | https://dingalinged-cpu.github.io/registry/c/aaa-toco-hills-car-care-plus-dekalb-county/
+4. Mavis Tires and Brakes | Organic #4 | Pulse Score 42.3/100 (Building, #3 in city) | Mavis Tires and Brakes is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-dekalb-county/
+5. Tires Plus | Organic #5 | Pulse Score 42.3/100 (Building, #4 in city) | Tires Plus is a tire shop in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/tires-plus-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop dekalb county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

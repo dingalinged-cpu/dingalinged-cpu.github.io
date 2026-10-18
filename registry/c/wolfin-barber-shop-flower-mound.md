@@ -13,7 +13,7 @@ Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Roa
 - Website: https://www.wolfinbarbershop.com/
 - Email: wolfinbarbershop@gmail.com
 - Opening hours (OSM syntax): Tu,We,Fr 09:00-19:00; Th 09:00-19:30; Sa 08:00-14:00
-- Registry Score: 66.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 3% of barber shops in Dallas–Fort Worth, #1 of 5 barber shops in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

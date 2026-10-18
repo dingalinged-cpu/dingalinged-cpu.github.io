@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Arlington Heights, IL is Arlington Ridge Center (ARC) (a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/). 2 yoga classes businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Arlington Heights, IL is Arlington Ridge Center (ARC) (a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/). 2 yoga classes businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Arlington Heights, IL?
 
 Also answers: yoga classes in Arlington Heights, IL; yoga classes near me (Arlington Heights, IL); best yoga classes Arlington Heights, IL; top rated yoga classes Arlington Heights, IL; affordable yoga classes Arlington Heights, IL; emergency yoga classes Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arlington Ridge Center (ARC) | trust 19.0 | Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/. | https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/
-2. CorePower Yoga | trust 4.0 | CorePower Yoga is a yoga studio in Arlington Heights, IL at South Evergreen Avenue, Arlington Heights, IL 60004. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-arlington-heights/
+1. Arlington Ridge Center (ARC) | Organic #1 | Pulse Score 51.5/100 (Fair, #1 in city) | Arlington Ridge Center (ARC) is a yoga studio in Arlington Heights, IL at 660 North Ridge Avenue, Arlington Heights, IL. Phone: +18475773025. Website: https://www.ahpd.org/facilities/arc/. | https://dingalinged-cpu.github.io/registry/c/arlington-ridge-center-arc-arlington-heights/
+2. CorePower Yoga | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | CorePower Yoga is a yoga studio in Arlington Heights, IL at South Evergreen Avenue, Arlington Heights, IL 60004. | https://dingalinged-cpu.github.io/registry/c/corepower-yoga-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes arlington heights il | category: Fitness | industry benchmark: Health & Fitness

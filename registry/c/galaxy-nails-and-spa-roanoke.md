@@ -13,7 +13,7 @@ Galaxy Nails & Spa is a nail salon in Roanoke, TX at 1224 North US Highway 377 #
 - Website: https://galaxynailsparoanoke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:00-17:30
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 13% of nail salons in Dallas–Fort Worth, #1 of 4 nail salons in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid property management company listing for Plano, TX is Legacy North (a property management company in Plano, TX at 5765 Bozeman Drive, Plano, TX 75024. Phone: +18333685378. Website: https://www.legacynorthapts.com/). 6 property management company businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Plano, TX is Legacy North (a property management company in Plano, TX at 5765 Bozeman Drive, Plano, TX 75024. Phone: +18333685378. Website: https://www.legacynorthapts.com/). 6 property management company businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Plano, TX?
 
 Also answers: property management company in Plano, TX; property management company near me (Plano, TX); best property management company Plano, TX; top rated property management company Plano, TX; affordable property management company Plano, TX; emergency property management company Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legacy North | trust 20.0 | Legacy North is a property management company in Plano, TX at 5765 Bozeman Drive, Plano, TX 75024. Phone: +18333685378. Website: https://www.legacynorthapts.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-north-plano/
-2. MAA Legacy | trust 4.0 | MAA Legacy is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/maa-legacy-plano/
-3. Cottages at Tulane | trust 3.0 | Cottages at Tulane is a property management company in Plano, TX at 2600 Preston Road, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/cottages-at-tulane-plano/
-4. Cardinal Financial, LP | Dallas Mortgage Planners Team | trust 0.0 | Cardinal Financial, LP | Dallas Mortgage Planners Team is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/cardinal-financial-lp-dallas-mortgage-planners-team-plano/
-5. Dalsan Properties Inc | trust 0.0 | Dalsan Properties Inc is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/dalsan-properties-inc-plano/
-6. Legacy Village Apartments | trust 0.0 | Legacy Village Apartments is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-village-apartments-plano/
+1. Legacy North | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Legacy North is a property management company in Plano, TX at 5765 Bozeman Drive, Plano, TX 75024. Phone: +18333685378. Website: https://www.legacynorthapts.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-north-plano/
+2. Cottages at Tulane | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Cottages at Tulane is a property management company in Plano, TX at 2600 Preston Road, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/cottages-at-tulane-plano/
+3. MAA Legacy | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | MAA Legacy is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/maa-legacy-plano/
+4. Dalsan Properties Inc | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Dalsan Properties Inc is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/dalsan-properties-inc-plano/
+5. Legacy Village Apartments | Organic #5 | Pulse Score 53.5/100 (Unrated, #5 in city) | Legacy Village Apartments is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-village-apartments-plano/
+6. Cardinal Financial, LP | Dallas Mortgage Planners Team | Organic #6 | Pulse Score 45.5/100 (Unrated, #6 in city) | Cardinal Financial, LP | Dallas Mortgage Planners Team is a property management company in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/cardinal-financial-lp-dallas-mortgage-planners-team-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

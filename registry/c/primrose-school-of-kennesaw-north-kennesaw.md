@@ -13,7 +13,7 @@ Primrose School of Kennesaw North is a preschool in Kennesaw, GA at 3054 North M
 - Website: https://www.primroseschools.com/schools/kennesaw-north
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 9% of preschools in Atlanta, #1 of 8 preschools in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

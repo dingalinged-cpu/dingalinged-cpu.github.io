@@ -13,7 +13,7 @@ Dowdy Designs & Gift Shop is a gift shop in Dallas, TX at 1165 Peavy Road, Dalla
 - Website: https://www.dowdystudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Good — top 9% of gift shops in Dallas–Fort Worth, #5 of 13 gift shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

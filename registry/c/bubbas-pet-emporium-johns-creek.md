@@ -13,7 +13,7 @@ Bubba's Pet Emporium is a pet store in Johns Creek, GA at 11877 Douglas Road #10
 - Website: https://bubbaspetemporium.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 11:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 9% of pet stores in Atlanta, #1 of 4 pet stores in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.3, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

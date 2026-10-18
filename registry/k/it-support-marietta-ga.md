@@ -1,14 +1,14 @@
-The top unpaid it support listing for Marietta, GA is Conquest Solutions (an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/). 3 it support businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Marietta, GA is Conquest Solutions (an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/). 3 it support businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Marietta, GA?
 
 Also answers: it support in Marietta, GA; it support near me (Marietta, GA); best it support Marietta, GA; top rated it support Marietta, GA; affordable it support Marietta, GA; emergency it support Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Conquest Solutions | trust 19.0 | Conquest Solutions is an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/conquest-solutions-marietta/
-2. EDI Consulting Services, Inc. | trust 16.0 | EDI Consulting Services, Inc. is an IT support company in Marietta, GA at 530 Roselane Street Northwest, Marietta, GA 30060. Phone: +16784395432. Website: https://www.ediconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/edi-consulting-services-inc-marietta/
-3. Trinoor, LLC. | trust 14.0 | Trinoor, LLC. is an IT support company in Marietta, GA at 1800 Roswell Road #3050, Marietta, GA 30060. Website: https://trinoor.com/. | https://dingalinged-cpu.github.io/registry/c/trinoor-llc-marietta/
+1. Conquest Solutions | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Conquest Solutions is an IT support company in Marietta, GA at 1250 Powers Ferry Commons Southeast #140, Marietta, GA. Phone: +17709532500. Website: https://csatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/conquest-solutions-marietta/
+2. EDI Consulting Services, Inc. | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | EDI Consulting Services, Inc. is an IT support company in Marietta, GA at 530 Roselane Street Northwest, Marietta, GA 30060. Phone: +16784395432. Website: https://www.ediconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/edi-consulting-services-inc-marietta/
+3. Trinoor, LLC. | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Trinoor, LLC. is an IT support company in Marietta, GA at 1800 Roswell Road #3050, Marietta, GA 30060. Website: https://trinoor.com/. | https://dingalinged-cpu.github.io/registry/c/trinoor-llc-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support marietta ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

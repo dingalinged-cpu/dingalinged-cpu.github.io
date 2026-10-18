@@ -1,16 +1,16 @@
-The top unpaid gym listing for Skokie, IL is Anytime Fitness (a gym in Skokie, IL at 7010 Carpenter Road #43, Skokie, IL 60077. Phone: +12242518777. Website: https://www.anytimefitness.com/gyms/3550/skokie-il-60077/). 5 gym businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Skokie, IL is Anytime Fitness (a gym in Skokie, IL at 7010 Carpenter Road #43, Skokie, IL 60077. Phone: +12242518777. Website: https://www.anytimefitness.com/gyms/3550/skokie-il-60077/). 5 gym businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Skokie, IL?
 
 Also answers: gym in Skokie, IL; gym near me (Skokie, IL); best gym Skokie, IL; top rated gym Skokie, IL; affordable gym Skokie, IL; emergency gym Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Skokie, IL at 7010 Carpenter Road #43, Skokie, IL 60077. Phone: +12242518777. Website: https://www.anytimefitness.com/gyms/3550/skokie-il-60077/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-skokie/
-2. Life Time | trust 20.0 | Life Time is a gym in Skokie, IL at 5300 Old Orchard Road, Skokie, IL 60077. Phone: +18474708600. Website: https://www.lifetime.life/life-time-locations/il-skokie-old-orchard.html. | https://dingalinged-cpu.github.io/registry/c/life-time-skokie/
-3. Orangetheory Fitness | trust 16.0 | Orangetheory Fitness is a gym in Skokie, IL at 5230 West Touhy Avenue, Skokie, IL 60077. Phone: +18474236060. Website: https://edgebrookskokie.orangetheoryfitness.com/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-skokie/
-4. LA Fitness | trust 4.0 | LA Fitness is a gym in Skokie, IL at 3450 West Touhy Avenue, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/la-fitness-skokie/
-5. SoulCycle | trust 0.0 | SoulCycle is a gym in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/soulcycle-skokie/
+1. Anytime Fitness | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Skokie, IL at 7010 Carpenter Road #43, Skokie, IL 60077. Phone: +12242518777. Website: https://www.anytimefitness.com/gyms/3550/skokie-il-60077/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-skokie/
+2. Life Time | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Life Time is a gym in Skokie, IL at 5300 Old Orchard Road, Skokie, IL 60077. Phone: +18474708600. Website: https://www.lifetime.life/life-time-locations/il-skokie-old-orchard.html. | https://dingalinged-cpu.github.io/registry/c/life-time-skokie/
+3. Orangetheory Fitness | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Orangetheory Fitness is a gym in Skokie, IL at 5230 West Touhy Avenue, Skokie, IL 60077. Phone: +18474236060. Website: https://edgebrookskokie.orangetheoryfitness.com/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-skokie/
+4. LA Fitness | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | LA Fitness is a gym in Skokie, IL at 3450 West Touhy Avenue, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/la-fitness-skokie/
+5. SoulCycle | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | SoulCycle is a gym in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/soulcycle-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym skokie il | category: Fitness | industry benchmark: Health & Fitness

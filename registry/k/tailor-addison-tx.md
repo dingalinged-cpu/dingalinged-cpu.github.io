@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Addison, TX is Edward Baumann Clothier's (a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/). 2 tailor businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Addison, TX is Edward Baumann Clothier's (a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/). 2 tailor businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Addison, TX?
 
 Also answers: tailor in Addison, TX; tailor near me (Addison, TX); best tailor Addison, TX; top rated tailor Addison, TX; affordable tailor Addison, TX; emergency tailor Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Baumann Clothier's | trust 16.0 | Edward Baumann Clothier's is a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/. | https://dingalinged-cpu.github.io/registry/c/edward-baumann-clothiers-addison/
-2. Golden Thimble Tailor | trust 10.0 | Golden Thimble Tailor is a tailor in Addison, TX at 4536 Belt Line Road, Addison, TX 75001. Website: https://www.golden-thimble.com/. | https://dingalinged-cpu.github.io/registry/c/golden-thimble-tailor-addison/
+1. Edward Baumann Clothier's | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Edward Baumann Clothier's is a tailor in Addison, TX at 4901 Arapaho Road, Addison, TX 75001. Phone: +19728955172. Website: https://edwardbaumann.com/. | https://dingalinged-cpu.github.io/registry/c/edward-baumann-clothiers-addison/
+2. Golden Thimble Tailor | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Golden Thimble Tailor is a tailor in Addison, TX at 4536 Belt Line Road, Addison, TX 75001. Website: https://www.golden-thimble.com/. | https://dingalinged-cpu.github.io/registry/c/golden-thimble-tailor-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

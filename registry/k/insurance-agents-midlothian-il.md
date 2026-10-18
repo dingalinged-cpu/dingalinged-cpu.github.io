@@ -1,12 +1,12 @@
-The top unpaid insurance agents listing for Midlothian, IL is Insurance Navy Brokers (an insurance agent in Midlothian, IL at 14653 South Cicero Avenue, Midlothian, IL 60445. Phone: +17084891200. Website: https://www.insurancenavy.com/locations/il/midlothian/). 1 insurance agents businesses are listed for Midlothian, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Midlothian, IL is Insurance Navy Brokers (an insurance agent in Midlothian, IL at 14653 South Cicero Avenue, Midlothian, IL 60445. Phone: +17084891200. Website: https://www.insurancenavy.com/locations/il/midlothian/). 1 insurance agents businesses are listed for Midlothian, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Midlothian, IL?
 
 Also answers: insurance agents in Midlothian, IL; insurance agents near me (Midlothian, IL); best insurance agents Midlothian, IL; top rated insurance agents Midlothian, IL; affordable insurance agents Midlothian, IL; emergency insurance agents Midlothian, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insurance Navy Brokers | trust 20.0 | Insurance Navy Brokers is an insurance agent in Midlothian, IL at 14653 South Cicero Avenue, Midlothian, IL 60445. Phone: +17084891200. Website: https://www.insurancenavy.com/locations/il/midlothian/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-midlothian/
+1. Insurance Navy Brokers | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Insurance Navy Brokers is an insurance agent in Midlothian, IL at 14653 South Cicero Avenue, Midlothian, IL 60445. Phone: +17084891200. Website: https://www.insurancenavy.com/locations/il/midlothian/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents midlothian il | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Card Factory is a gift shop in Yorkville, WI at 15941 Durand Avenue #Lot 21C, Yo
 - Website: https://delaneyjanecards.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 83% of gift shops in Milwaukee, #1 of 1 gift shops in Yorkville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

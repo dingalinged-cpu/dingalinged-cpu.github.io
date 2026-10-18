@@ -13,7 +13,7 @@ Mink's Wine And Spirit is a liquor store in Marietta, GA at 2565 Delk Road South
 - Website: https://minkspackage.gotoliquorstore.com/
 - Email: minkspackagestore@gmail.com
 - Opening hours (OSM syntax): Mo-Th 08:00-23:00; Fr-Sa 08:00-23:30; Su 12:30-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65/100 — Good — top 2% of liquor stores in Atlanta, #2 of 13 liquor stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

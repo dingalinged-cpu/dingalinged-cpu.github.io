@@ -1,22 +1,22 @@
-The top unpaid chiropractor listing for Sun Prairie, WI is Noble Choice Chiropractice (a chiropractor in Sun Prairie, WI at 3120 Edmonton Drive #100, Sun Prairie, WI. Phone: +16083185300. Website: https://mynoblechoice.com/). 11 chiropractor businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Sun Prairie, WI is Noble Choice Chiropractice (a chiropractor in Sun Prairie, WI at 3120 Edmonton Drive #100, Sun Prairie, WI. Phone: +16083185300. Website: https://mynoblechoice.com/). 11 chiropractor businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Sun Prairie, WI?
 
 Also answers: chiropractor in Sun Prairie, WI; chiropractor near me (Sun Prairie, WI); best chiropractor Sun Prairie, WI; top rated chiropractor Sun Prairie, WI; affordable chiropractor Sun Prairie, WI; emergency chiropractor Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Noble Choice Chiropractice | trust 15.0 | Noble Choice Chiropractice is a chiropractor in Sun Prairie, WI at 3120 Edmonton Drive #100, Sun Prairie, WI. Phone: +16083185300. Website: https://mynoblechoice.com/. | https://dingalinged-cpu.github.io/registry/c/noble-choice-chiropractice-sun-prairie/
-2. Ager Chiropractic Wellness Center | trust 4.0 | Ager Chiropractic Wellness Center is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/ager-chiropractic-wellness-center-sun-prairie/
-3. Chiro One Wellness Centers | trust 4.0 | Chiro One Wellness Centers is a chiropractor in Sun Prairie, WI at 695 South Grand Avenue #103, Sun Prairie, WI 53590. | https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-centers-sun-prairie/
-4. Bakke Chiropractic Clinic | trust 0.0 | Bakke Chiropractic Clinic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-clinic-sun-prairie/
-5. Elite Chiropractic | trust 0.0 | Elite Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/elite-chiropractic-sun-prairie/
-6. Friesen Chiropractic | trust 0.0 | Friesen Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/friesen-chiropractic-sun-prairie/
-7. Harvest Ciropractic | trust 0.0 | Harvest Ciropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/harvest-ciropractic-sun-prairie/
-8. LSM Chiropractic | trust 0.0 | LSM Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-sun-prairie/
-9. Peak Performance Chiropractic & Rehab | trust 0.0 | Peak Performance Chiropractic & Rehab is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/peak-performance-chiropractic-and-rehab-sun-prairie/
-10. Prairie Chiropractic | trust 0.0 | Prairie Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-chiropractic-sun-prairie/
-11. Pro Health Ciropractic | trust 0.0 | Pro Health Ciropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/pro-health-ciropractic-sun-prairie/
+1. Noble Choice Chiropractice | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Noble Choice Chiropractice is a chiropractor in Sun Prairie, WI at 3120 Edmonton Drive #100, Sun Prairie, WI. Phone: +16083185300. Website: https://mynoblechoice.com/. | https://dingalinged-cpu.github.io/registry/c/noble-choice-chiropractice-sun-prairie/
+2. Ager Chiropractic Wellness Center | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Ager Chiropractic Wellness Center is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/ager-chiropractic-wellness-center-sun-prairie/
+3. Bakke Chiropractic Clinic | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Bakke Chiropractic Clinic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-clinic-sun-prairie/
+4. Elite Chiropractic | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Elite Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/elite-chiropractic-sun-prairie/
+5. Friesen Chiropractic | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | Friesen Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/friesen-chiropractic-sun-prairie/
+6. Harvest Ciropractic | Organic #6 | Pulse Score 56/100 (Unrated, #6 in city) | Harvest Ciropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/harvest-ciropractic-sun-prairie/
+7. Peak Performance Chiropractic & Rehab | Organic #7 | Pulse Score 56/100 (Unrated, #7 in city) | Peak Performance Chiropractic & Rehab is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/peak-performance-chiropractic-and-rehab-sun-prairie/
+8. Prairie Chiropractic | Organic #8 | Pulse Score 56/100 (Unrated, #8 in city) | Prairie Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-chiropractic-sun-prairie/
+9. Pro Health Ciropractic | Organic #9 | Pulse Score 56/100 (Unrated, #9 in city) | Pro Health Ciropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/pro-health-ciropractic-sun-prairie/
+10. Chiro One Wellness Centers | Organic #10 | Pulse Score 47.5/100 (Unrated, #10 in city) | Chiro One Wellness Centers is a chiropractor in Sun Prairie, WI at 695 South Grand Avenue #103, Sun Prairie, WI 53590. | https://dingalinged-cpu.github.io/registry/c/chiro-one-wellness-centers-sun-prairie/
+11. LSM Chiropractic | Organic #11 | Pulse Score 44.3/100 (Unrated, #11 in city) | LSM Chiropractic is a chiropractor in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor sun prairie wi | category: Health & medical | industry benchmark: Physicians & Surgeons

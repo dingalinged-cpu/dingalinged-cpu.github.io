@@ -13,7 +13,7 @@ Allstate Insurance is an insurance agent in Park Ridge, IL at 15 South Fairview 
 - Website: https://agents.allstate.com/todd-gentile-park-ridge-il.html
 - Email: toddgentile@allstate.com
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-17:00; Sa "by appointment"
-- Registry Score: 54.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 33% of insurance agents in Chicago, #1 of 3 insurance agents in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Texas City, TX is Mainland Dental Center (a dentist in Texas City, TX at 2501 Palmer Highway #102, Texas City, TX 77590. Phone: +14099450644. Website: https://mainland-dental.com/). 2 dentist businesses are listed for Texas City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Texas City, TX is Mainland Dental Center (a dentist in Texas City, TX at 2501 Palmer Highway #102, Texas City, TX 77590. Phone: +14099450644. Website: https://mainland-dental.com/). 2 dentist businesses are listed for Texas City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Texas City, TX?
 
 Also answers: dentist in Texas City, TX; dentist near me (Texas City, TX); best dentist Texas City, TX; top rated dentist Texas City, TX; affordable dentist Texas City, TX; emergency dentist Texas City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mainland Dental Center | trust 20.0 | Mainland Dental Center is a dentist in Texas City, TX at 2501 Palmer Highway #102, Texas City, TX 77590. Phone: +14099450644. Website: https://mainland-dental.com/. | https://dingalinged-cpu.github.io/registry/c/mainland-dental-center-texas-city/
-2. Aspen Dental | trust 3.0 | Aspen Dental is a dentist in Texas City, TX at 2020 Gulf Freeway Frontage Road, Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-texas-city/
+1. Mainland Dental Center | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Mainland Dental Center is a dentist in Texas City, TX at 2501 Palmer Highway #102, Texas City, TX 77590. Phone: +14099450644. Website: https://mainland-dental.com/. | https://dingalinged-cpu.github.io/registry/c/mainland-dental-center-texas-city/
+2. Aspen Dental | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Aspen Dental is a dentist in Texas City, TX at 2020 Gulf Freeway Frontage Road, Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-texas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist texas city tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

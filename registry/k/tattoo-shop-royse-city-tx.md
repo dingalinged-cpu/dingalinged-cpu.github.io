@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Royse City, TX is Leos Tattoo (a tattoo shop in Royse City, TX at 509 South Elm Street, Royse City, TX 75189. Phone: +14693996222. Website: https://www.leostattooroysecity.com/). 1 tattoo shop businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Royse City, TX is Leos Tattoo (a tattoo shop in Royse City, TX at 509 South Elm Street, Royse City, TX 75189. Phone: +14693996222. Website: https://www.leostattooroysecity.com/). 1 tattoo shop businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Royse City, TX?
 
 Also answers: tattoo shop in Royse City, TX; tattoo shop near me (Royse City, TX); best tattoo shop Royse City, TX; top rated tattoo shop Royse City, TX; affordable tattoo shop Royse City, TX; emergency tattoo shop Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leos Tattoo | trust 16.0 | Leos Tattoo is a tattoo shop in Royse City, TX at 509 South Elm Street, Royse City, TX 75189. Phone: +14693996222. Website: https://www.leostattooroysecity.com/. | https://dingalinged-cpu.github.io/registry/c/leos-tattoo-royse-city/
+1. Leos Tattoo | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Leos Tattoo is a tattoo shop in Royse City, TX at 509 South Elm Street, Royse City, TX 75189. Phone: +14693996222. Website: https://www.leostattooroysecity.com/. | https://dingalinged-cpu.github.io/registry/c/leos-tattoo-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop royse city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

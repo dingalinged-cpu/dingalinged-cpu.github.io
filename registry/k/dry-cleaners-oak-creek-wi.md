@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Oak Creek, WI is Lily's Cleaners (a dry cleaner in Oak Creek, WI at 2171 East Rawson Avenue, Oak Creek, WI 53154). 1 dry cleaners businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Oak Creek, WI is Lily's Cleaners (a dry cleaner in Oak Creek, WI at 2171 East Rawson Avenue, Oak Creek, WI 53154). 1 dry cleaners businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Oak Creek, WI?
 
 Also answers: dry cleaners in Oak Creek, WI; dry cleaners near me (Oak Creek, WI); best dry cleaners Oak Creek, WI; top rated dry cleaners Oak Creek, WI; affordable dry cleaners Oak Creek, WI; emergency dry cleaners Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lily's Cleaners | trust 4.0 | Lily's Cleaners is a dry cleaner in Oak Creek, WI at 2171 East Rawson Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/lilys-cleaners-oak-creek/
+1. Lily's Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Lily's Cleaners is a dry cleaner in Oak Creek, WI at 2171 East Rawson Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/lilys-cleaners-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners oak creek wi | category: Professional & financial services | industry benchmark: Finance & Insurance

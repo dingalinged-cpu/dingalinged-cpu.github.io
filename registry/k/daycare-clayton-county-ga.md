@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Clayton County, GA is Adult Day Care Center (a daycare in Clayton County, GA). 2 daycare businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Clayton County, GA is Adult Day Care Center (a daycare in Clayton County, GA). 2 daycare businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Clayton County, GA?
 
 Also answers: daycare in Clayton County, GA; daycare near me (Clayton County, GA); best daycare Clayton County, GA; top rated daycare Clayton County, GA; affordable daycare Clayton County, GA; emergency daycare Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adult Day Care Center | trust 0.0 | Adult Day Care Center is a daycare in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/adult-day-care-center-clayton-county/
-2. Arcadia Kids Club | trust 0.0 | Arcadia Kids Club is a daycare in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/arcadia-kids-club-clayton-county/
+1. Adult Day Care Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Adult Day Care Center is a daycare in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/adult-day-care-center-clayton-county/
+2. Arcadia Kids Club | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Arcadia Kids Club is a daycare in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/arcadia-kids-club-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare clayton county ga | category: Education & childcare | industry benchmark: Education & Instruction

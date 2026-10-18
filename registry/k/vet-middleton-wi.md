@@ -1,14 +1,14 @@
-The top unpaid vet listing for Middleton, WI is Middleton Veterinary Hospital (a veterinarian in Middleton, WI at 2705 Parmenter Street, Middleton, WI). 3 vet businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Middleton, WI is Middleton Veterinary Hospital (a veterinarian in Middleton, WI at 2705 Parmenter Street, Middleton, WI). 3 vet businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Middleton, WI?
 
 Also answers: vet in Middleton, WI; vet near me (Middleton, WI); best vet Middleton, WI; top rated vet Middleton, WI; affordable vet Middleton, WI; emergency vet Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Middleton Veterinary Hospital | trust 3.0 | Middleton Veterinary Hospital is a veterinarian in Middleton, WI at 2705 Parmenter Street, Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/middleton-veterinary-hospital-middleton/
-2. All Pets Veterinary Clinic | trust 0.0 | All Pets Veterinary Clinic is a veterinarian in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/all-pets-veterinary-clinic-middleton/
-3. And Dogs Too | trust 0.0 | And Dogs Too is a veterinarian in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/and-dogs-too-middleton/
+1. Middleton Veterinary Hospital | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Middleton Veterinary Hospital is a veterinarian in Middleton, WI at 2705 Parmenter Street, Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/middleton-veterinary-hospital-middleton/
+2. All Pets Veterinary Clinic | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | All Pets Veterinary Clinic is a veterinarian in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/all-pets-veterinary-clinic-middleton/
+3. And Dogs Too | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | And Dogs Too is a veterinarian in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/and-dogs-too-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet middleton wi | category: Pets | industry benchmark: Animals & Pets

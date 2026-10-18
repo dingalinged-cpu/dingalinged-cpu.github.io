@@ -13,7 +13,7 @@ Aspire Allergy & Sinus is an allergist in Sugar Land, TX at 16525 Lexington Boul
 - Website: https://www.aspireallergy.com/location/sugar-land
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-17:00; Th-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 34% of allergists in Houston, #1 of 1 allergists in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

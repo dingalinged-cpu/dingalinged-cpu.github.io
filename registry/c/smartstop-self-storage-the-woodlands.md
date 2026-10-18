@@ -13,7 +13,7 @@ SmartStop Self Storage is a self-storage facility in The Woodlands, TX at 3750 F
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 09:00-16:00; Su 10:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 49% of self-storage facilitys in Houston, #1 of 3 self-storage facilitys in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

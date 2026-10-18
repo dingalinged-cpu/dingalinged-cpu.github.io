@@ -13,7 +13,7 @@ Oral Surgery Associates is a dentist in Wauwatosa, WI at 800 North Mayfair Road 
 - Website: https://www.oralsurgeryassociates.net/contact-us/waukesha-wi/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 9% of dentists in Milwaukee, #3 of 13 dentists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.8, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

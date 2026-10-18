@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Kennesaw, GA is Kennesaw Alterations (a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588). 2 tailor businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Kennesaw, GA is Kennesaw Alterations (a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588). 2 tailor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Kennesaw, GA?
 
 Also answers: tailor in Kennesaw, GA; tailor near me (Kennesaw, GA); best tailor Kennesaw, GA; top rated tailor Kennesaw, GA; affordable tailor Kennesaw, GA; emergency tailor Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kennesaw Alterations | trust 14.0 | Kennesaw Alterations is a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588. | https://dingalinged-cpu.github.io/registry/c/kennesaw-alterations-kennesaw/
-2. Hong Kong Alterations | trust 10.0 | Hong Kong Alterations is a tailor in Kennesaw, GA at 4430 Wade Green Road #160, Kennesaw, GA 30144. Phone: +17704256832. | https://dingalinged-cpu.github.io/registry/c/hong-kong-alterations-kennesaw/
+1. Kennesaw Alterations | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Kennesaw Alterations is a tailor in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +17707959588. | https://dingalinged-cpu.github.io/registry/c/kennesaw-alterations-kennesaw/
+2. Hong Kong Alterations | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Hong Kong Alterations is a tailor in Kennesaw, GA at 4430 Wade Green Road #160, Kennesaw, GA 30144. Phone: +17704256832. | https://dingalinged-cpu.github.io/registry/c/hong-kong-alterations-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor kennesaw ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Legal Action of Wisconsin is a lawyer in Milwaukee, WI at 633 West Wisconsin Ave
 - Website: https://www.legalaction.org/contact-us/milwaukee-and-waukesha-office
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 8% of lawyers in Milwaukee, #7 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

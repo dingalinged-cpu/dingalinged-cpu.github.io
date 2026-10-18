@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Vernon Hills, IL is European Wax Center (a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html). 1 waxing businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Vernon Hills, IL is European Wax Center (a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html). 1 waxing businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Vernon Hills, IL?
 
 Also answers: waxing in Vernon Hills, IL; waxing near me (Vernon Hills, IL); best waxing Vernon Hills, IL; top rated waxing Vernon Hills, IL; affordable waxing Vernon Hills, IL; emergency waxing Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 10.0 | European Wax Center is a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-vernon-hills/
+1. European Wax Center | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | European Wax Center is a waxing salon in Vernon Hills, IL at 901 North Milwaukee Avenue #700, Vernon Hills, IL 60061. Website: https://locations.waxcenter.com/il/vernonhills/vernon-hills-0811.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing vernon hills il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

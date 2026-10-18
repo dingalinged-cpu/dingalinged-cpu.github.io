@@ -13,7 +13,7 @@ Ralph's Cleaners is a dry cleaner in Atlanta, GA at 1170 Collier Road Northwest,
 - Website: https://ralphscleaners.com/
 - Email: ralphscleanersatlanta@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 4% of dry cleaners in Atlanta, #3 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 66.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

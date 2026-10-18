@@ -13,7 +13,7 @@ Dulce Canela Handcrafted Churros And Ice Cream is a bakery in Kennesaw, GA at 27
 - Website: https://ww.dulcecanelachurros.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th,Su 12:00-21:00; Fr 12:00-22:00; Sa 10:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 8% of bakerys in Atlanta, #2 of 5 bakerys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.3, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

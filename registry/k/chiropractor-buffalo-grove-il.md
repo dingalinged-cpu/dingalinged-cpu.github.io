@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Buffalo Grove, IL is ARC Chiropractic (a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Buffalo Grove, IL 60089. Phone: +18474693272. Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh). 1 chiropractor businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Buffalo Grove, IL is ARC Chiropractic (a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Buffalo Grove, IL 60089. Phone: +18474693272. Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh). 1 chiropractor businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Buffalo Grove, IL?
 
 Also answers: chiropractor in Buffalo Grove, IL; chiropractor near me (Buffalo Grove, IL); best chiropractor Buffalo Grove, IL; top rated chiropractor Buffalo Grove, IL; affordable chiropractor Buffalo Grove, IL; emergency chiropractor Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ARC Chiropractic | trust 20.0 | ARC Chiropractic is a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Buffalo Grove, IL 60089. Phone: +18474693272. Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh. | https://dingalinged-cpu.github.io/registry/c/arc-chiropractic-buffalo-grove/
+1. ARC Chiropractic | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | ARC Chiropractic is a chiropractor in Buffalo Grove, IL at 1176 McHenry Road, Buffalo Grove, IL 60089. Phone: +18474693272. Website: https://www.zocdoc.com/professional/john-cress-dc-327467?LocIdent=lo_JLouWcXqPUinbyG_kmxgYh. | https://dingalinged-cpu.github.io/registry/c/arc-chiropractic-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor buffalo grove il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,16 +1,16 @@
-The top unpaid thrift store listing for Racine, WI is Value Village (a thrift store in Racine, WI at 4103 Durand Avenue, Racine, WI 53405. Phone: +12625545080. Website: https://www.valuevillagewi.com/resume-1). 5 thrift store businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Racine, WI is Belle City Resale (a thrift store in Racine, WI at 3801 Douglas Avenue, Racine, WI). 5 thrift store businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Racine, WI?
 
 Also answers: thrift store in Racine, WI; thrift store near me (Racine, WI); best thrift store Racine, WI; top rated thrift store Racine, WI; affordable thrift store Racine, WI; emergency thrift store Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Value Village | trust 20.0 | Value Village is a thrift store in Racine, WI at 4103 Durand Avenue, Racine, WI 53405. Phone: +12625545080. Website: https://www.valuevillagewi.com/resume-1. | https://dingalinged-cpu.github.io/registry/c/value-village-racine/
-2. Belle City Resale | trust 3.0 | Belle City Resale is a thrift store in Racine, WI at 3801 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/belle-city-resale-racine/
-3. Lornacopia | trust 3.0 | Lornacopia is a thrift store in Racine, WI at 310 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lornacopia-racine/
-4. Snoopers Paradise | trust 3.0 | Snoopers Paradise is a thrift store in Racine, WI at 1232 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/snoopers-paradise-racine/
-5. The Thrift Shop | trust 3.0 | The Thrift Shop is a thrift store in Racine, WI at 1222 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-thrift-shop-racine/
+1. Belle City Resale | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Belle City Resale is a thrift store in Racine, WI at 3801 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/belle-city-resale-racine/
+2. Lornacopia | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Lornacopia is a thrift store in Racine, WI at 310 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lornacopia-racine/
+3. Snoopers Paradise | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Snoopers Paradise is a thrift store in Racine, WI at 1232 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/snoopers-paradise-racine/
+4. The Thrift Shop | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | The Thrift Shop is a thrift store in Racine, WI at 1222 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-thrift-shop-racine/
+5. Value Village | Organic #5 | Pulse Score 49.5/100 (Building, #5 in city) | Value Village is a thrift store in Racine, WI at 4103 Durand Avenue, Racine, WI 53405. Phone: +12625545080. Website: https://www.valuevillagewi.com/resume-1. | https://dingalinged-cpu.github.io/registry/c/value-village-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

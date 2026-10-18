@@ -13,7 +13,7 @@ MDN Enterprises is a plumber in New Caney, TX at 21371 Eastex Freeway, New Caney
 - Website: https://mdnenterprises.com/
 - Email: mdn@mdnenterprises.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa 08:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 15% of plumbers in Houston, #1 of 1 plumbers in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

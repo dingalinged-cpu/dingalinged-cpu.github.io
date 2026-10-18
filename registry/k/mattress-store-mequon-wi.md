@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Mequon, WI is Hassleless Mattress (a mattress store in Mequon, WI at 10920 North Port Washington Lane, Mequon, WI 53092. Website: https://www.hassleless.com/locations/mequon-mattress-showroom). 1 mattress store businesses are listed for Mequon, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Mequon, WI is Hassleless Mattress (a mattress store in Mequon, WI at 10920 North Port Washington Lane, Mequon, WI 53092. Website: https://www.hassleless.com/locations/mequon-mattress-showroom). 1 mattress store businesses are listed for Mequon, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Mequon, WI?
 
 Also answers: mattress store in Mequon, WI; mattress store near me (Mequon, WI); best mattress store Mequon, WI; top rated mattress store Mequon, WI; affordable mattress store Mequon, WI; emergency mattress store Mequon, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hassleless Mattress | trust 10.0 | Hassleless Mattress is a mattress store in Mequon, WI at 10920 North Port Washington Lane, Mequon, WI 53092. Website: https://www.hassleless.com/locations/mequon-mattress-showroom. | https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-mequon/
+1. Hassleless Mattress | Organic #1 | Pulse Score 44.7/100 (Unrated, #1 in city) | Hassleless Mattress is a mattress store in Mequon, WI at 10920 North Port Washington Lane, Mequon, WI 53092. Website: https://www.hassleless.com/locations/mequon-mattress-showroom. | https://dingalinged-cpu.github.io/registry/c/hassleless-mattress-mequon/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store mequon wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

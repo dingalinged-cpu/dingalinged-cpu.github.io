@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Euless, TX is Westpark Rehabilitation and Living (an assisted living facility in Euless, TX at 900 Westpark Way, Euless, TX 76040). 1 assisted living businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Euless, TX is Westpark Rehabilitation and Living (an assisted living facility in Euless, TX at 900 Westpark Way, Euless, TX 76040). 1 assisted living businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Euless, TX?
 
 Also answers: assisted living in Euless, TX; assisted living near me (Euless, TX); best assisted living Euless, TX; top rated assisted living Euless, TX; affordable assisted living Euless, TX; emergency assisted living Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westpark Rehabilitation and Living | trust 4.0 | Westpark Rehabilitation and Living is an assisted living facility in Euless, TX at 900 Westpark Way, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/westpark-rehabilitation-and-living-euless/
+1. Westpark Rehabilitation and Living | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Westpark Rehabilitation and Living is an assisted living facility in Euless, TX at 900 Westpark Way, Euless, TX 76040. | https://dingalinged-cpu.github.io/registry/c/westpark-rehabilitation-and-living-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living euless tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

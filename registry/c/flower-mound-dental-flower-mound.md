@@ -13,7 +13,7 @@ Flower Mound Dental is a dentist in Flower Mound, TX. Phone: +19723552222. Websi
 - Website: https://www.flowermounddental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 8% of dentists in Dallas–Fort Worth, #7 of 34 dentists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

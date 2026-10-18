@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Village Of Raymond, WI is Your Place To Grow Childcare (a daycare in Village of Raymond, WI). 1 daycare businesses are listed for Village Of Raymond, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Village Of Raymond, WI is Your Place To Grow Childcare (a daycare in Village of Raymond, WI). 1 daycare businesses are listed for Village Of Raymond, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Village Of Raymond, WI?
 
 Also answers: daycare in Village Of Raymond, WI; daycare near me (Village Of Raymond, WI); best daycare Village Of Raymond, WI; top rated daycare Village Of Raymond, WI; affordable daycare Village Of Raymond, WI; emergency daycare Village Of Raymond, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Your Place To Grow Childcare | trust 0.0 | Your Place To Grow Childcare is a daycare in Village of Raymond, WI. | https://dingalinged-cpu.github.io/registry/c/your-place-to-grow-childcare-village-of-raymond/
+1. Your Place To Grow Childcare | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Your Place To Grow Childcare is a daycare in Village of Raymond, WI. | https://dingalinged-cpu.github.io/registry/c/your-place-to-grow-childcare-village-of-raymond/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare village of raymond wi | category: Education & childcare | industry benchmark: Education & Instruction

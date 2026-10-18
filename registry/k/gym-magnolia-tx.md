@@ -1,13 +1,13 @@
-The top unpaid gym listing for Magnolia, TX is Gold's Gym (a gym in Magnolia, TX at 6511 FM 1488, Magnolia, TX 77354). 2 gym businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Magnolia, TX is Magnolia Fitness Center (a gym in Magnolia, TX at 405 Heflan Street, Magnolia, TX 77355). 2 gym businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Magnolia, TX?
 
 Also answers: gym in Magnolia, TX; gym near me (Magnolia, TX); best gym Magnolia, TX; top rated gym Magnolia, TX; affordable gym Magnolia, TX; emergency gym Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gold's Gym | trust 4.0 | Gold's Gym is a gym in Magnolia, TX at 6511 FM 1488, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/golds-gym-magnolia/
-2. Magnolia Fitness Center | trust 4.0 | Magnolia Fitness Center is a gym in Magnolia, TX at 405 Heflan Street, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/magnolia-fitness-center-magnolia/
+1. Magnolia Fitness Center | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Magnolia Fitness Center is a gym in Magnolia, TX at 405 Heflan Street, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/magnolia-fitness-center-magnolia/
+2. Gold's Gym | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | Gold's Gym is a gym in Magnolia, TX at 6511 FM 1488, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/golds-gym-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym magnolia tx | category: Fitness | industry benchmark: Health & Fitness

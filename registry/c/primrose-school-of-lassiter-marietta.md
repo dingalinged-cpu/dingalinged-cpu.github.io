@@ -13,7 +13,7 @@ Primrose School of Lassiter is a preschool in Marietta, GA at 2821 Lassiter Road
 - Website: https://www.primroseschools.com/schools/lassiter/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 78% of preschools in Atlanta, #13 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

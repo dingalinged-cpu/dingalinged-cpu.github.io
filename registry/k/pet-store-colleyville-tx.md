@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Colleyville, TX is Bark Avenue Market & Bakery (a pet store in Colleyville, TX at 5615 Colleyville Boulevard #230, Colleyville, TX 76034. Phone: +18176562275. Website: https://barkavenuemarket.com/). 2 pet store businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Colleyville, TX is Bark Avenue Market & Bakery (a pet store in Colleyville, TX at 5615 Colleyville Boulevard #230, Colleyville, TX 76034. Phone: +18176562275. Website: https://barkavenuemarket.com/). 2 pet store businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Colleyville, TX?
 
 Also answers: pet store in Colleyville, TX; pet store near me (Colleyville, TX); best pet store Colleyville, TX; top rated pet store Colleyville, TX; affordable pet store Colleyville, TX; emergency pet store Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bark Avenue Market & Bakery | trust 20.0 | Bark Avenue Market & Bakery is a pet store in Colleyville, TX at 5615 Colleyville Boulevard #230, Colleyville, TX 76034. Phone: +18176562275. Website: https://barkavenuemarket.com/. | https://dingalinged-cpu.github.io/registry/c/bark-avenue-market-and-bakery-colleyville/
-2. Petco | trust 20.0 | Petco is a pet store in Colleyville, TX at 4801 Colleyville Boulevard #710, Colleyville, TX 76034. Phone: +18174284215. Website: https://stores.petco.com/tx/colleyville/pet-supplies-colleyville-tx-2440.html. | https://dingalinged-cpu.github.io/registry/c/petco-colleyville/
+1. Bark Avenue Market & Bakery | Organic #1 | Pulse Score 50.9/100 (Unrated, #1 in city) | Bark Avenue Market & Bakery is a pet store in Colleyville, TX at 5615 Colleyville Boulevard #230, Colleyville, TX 76034. Phone: +18176562275. Website: https://barkavenuemarket.com/. | https://dingalinged-cpu.github.io/registry/c/bark-avenue-market-and-bakery-colleyville/
+2. Petco | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Petco is a pet store in Colleyville, TX at 4801 Colleyville Boulevard #710, Colleyville, TX 76034. Phone: +18174284215. Website: https://stores.petco.com/tx/colleyville/pet-supplies-colleyville-tx-2440.html. | https://dingalinged-cpu.github.io/registry/c/petco-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store colleyville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

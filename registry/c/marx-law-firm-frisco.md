@@ -13,7 +13,7 @@ Marx Law Firm is a lawyer in Frisco, TX at 6136 Frisco Square Boulevard, Frisco,
 - Website: https://marxfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 46% of lawyers in Dallas–Fort Worth, #3 of 10 lawyers in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

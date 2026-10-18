@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Atlanta, GA. Phone: +14048754317. Webs
 - Website: https://www.hrblock.com/local-tax-offices/georgia/atlanta/615-peachtree-st-ne-ste-1/10974/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 56% of tax preparation services in Atlanta, #7 of 7 tax preparation services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.7, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Atlanta, GA at 1579 Monroe Drive North
 - Website: https://www.hrblock.com/tax-office-near-me/georgia/atlanta/10982/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-19:00; We-Fr 10:00-19:00; Sa-Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.1/100 — Fair — top 52% of tax preparation services in Atlanta, #6 of 7 tax preparation services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 71.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

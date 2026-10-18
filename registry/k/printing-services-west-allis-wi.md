@@ -1,13 +1,13 @@
-The top unpaid printing services listing for West Allis, WI is National Sign & Design (a printing service in West Allis, WI at 11082 West National Avenue, West Allis, WI 53227. Phone: +14147274646. Website: https://ntlsign.com/). 2 printing services businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for West Allis, WI is National Sign & Design (a printing service in West Allis, WI at 11082 West National Avenue, West Allis, WI 53227. Phone: +14147274646. Website: https://ntlsign.com/). 2 printing services businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in West Allis, WI?
 
 Also answers: printing services in West Allis, WI; printing services near me (West Allis, WI); best printing services West Allis, WI; top rated printing services West Allis, WI; affordable printing services West Allis, WI; emergency printing services West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. National Sign & Design | trust 20.0 | National Sign & Design is a printing service in West Allis, WI at 11082 West National Avenue, West Allis, WI 53227. Phone: +14147274646. Website: https://ntlsign.com/. | https://dingalinged-cpu.github.io/registry/c/national-sign-and-design-west-allis/
-2. Pressing On Towards The Mark | trust 16.0 | Pressing On Towards The Mark is a printing service in West Allis, WI at 6127 West Mitchell Street, West Allis, WI 53214. Phone: +14143211444. Website: https://www.pressing-on.com/. | https://dingalinged-cpu.github.io/registry/c/pressing-on-towards-the-mark-west-allis/
+1. National Sign & Design | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | National Sign & Design is a printing service in West Allis, WI at 11082 West National Avenue, West Allis, WI 53227. Phone: +14147274646. Website: https://ntlsign.com/. | https://dingalinged-cpu.github.io/registry/c/national-sign-and-design-west-allis/
+2. Pressing On Towards The Mark | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Pressing On Towards The Mark is a printing service in West Allis, WI at 6127 West Mitchell Street, West Allis, WI 53214. Phone: +14143211444. Website: https://www.pressing-on.com/. | https://dingalinged-cpu.github.io/registry/c/pressing-on-towards-the-mark-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services west allis wi | category: Professional & financial services | industry benchmark: Finance & Insurance

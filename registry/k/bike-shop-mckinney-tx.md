@@ -1,13 +1,13 @@
-The top unpaid bike shop listing for Mckinney, TX is Cadence Cyclery (a bike shop in McKinney, TX at 119 South Tennessee Street, McKinney, TX 75069. Phone: +19725487400. Website: https://www.cadencecyclery.com/). 2 bike shop businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Mckinney, TX is Cadence Cyclery (a bike shop in McKinney, TX at 119 South Tennessee Street, McKinney, TX 75069. Phone: +19725487400. Website: https://www.cadencecyclery.com/). 2 bike shop businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Mckinney, TX?
 
 Also answers: bike shop in Mckinney, TX; bike shop near me (Mckinney, TX); best bike shop Mckinney, TX; top rated bike shop Mckinney, TX; affordable bike shop Mckinney, TX; emergency bike shop Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cadence Cyclery | trust 20.0 | Cadence Cyclery is a bike shop in McKinney, TX at 119 South Tennessee Street, McKinney, TX 75069. Phone: +19725487400. Website: https://www.cadencecyclery.com/. | https://dingalinged-cpu.github.io/registry/c/cadence-cyclery-mckinney/
-2. Bike Mart | trust 19.0 | Bike Mart is a bike shop in McKinney, TX at 9040 Falcon View Drive, McKinney, TX. Phone: +14696251700. Website: https://bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-mckinney/
+1. Cadence Cyclery | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Cadence Cyclery is a bike shop in McKinney, TX at 119 South Tennessee Street, McKinney, TX 75069. Phone: +19725487400. Website: https://www.cadencecyclery.com/. | https://dingalinged-cpu.github.io/registry/c/cadence-cyclery-mckinney/
+2. Bike Mart | Organic #2 | Pulse Score 46.4/100 (Unrated, #2 in city) | Bike Mart is a bike shop in McKinney, TX at 9040 Falcon View Drive, McKinney, TX. Phone: +14696251700. Website: https://bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop mckinney tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

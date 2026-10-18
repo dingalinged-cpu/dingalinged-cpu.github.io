@@ -1,13 +1,13 @@
-The top unpaid gym listing for Rolling Meadows, IL is Anytime Fitness (a gym in Rolling Meadows, IL). 2 gym businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Rolling Meadows, IL is Meadow Edge Clubhouse (a gym in Rolling Meadows, IL). 2 gym businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Rolling Meadows, IL?
 
 Also answers: gym in Rolling Meadows, IL; gym near me (Rolling Meadows, IL); best gym Rolling Meadows, IL; top rated gym Rolling Meadows, IL; affordable gym Rolling Meadows, IL; emergency gym Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 4.0 | Anytime Fitness is a gym in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-rolling-meadows/
-2. Meadow Edge Clubhouse | trust 0.0 | Meadow Edge Clubhouse is a gym in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/meadow-edge-clubhouse-rolling-meadows/
+1. Meadow Edge Clubhouse | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Meadow Edge Clubhouse is a gym in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/meadow-edge-clubhouse-rolling-meadows/
+2. Anytime Fitness | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Anytime Fitness is a gym in Rolling Meadows, IL. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym rolling meadows il | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Levain Bakery is a bakery in Chicago, IL at 840 West Randolph Street, Chicago, I
 - Website: https://levainbakery.com/pages/west-loop
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 07:30-22:00; Th-Su 07:30-23:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 1% of bakerys in Chicago, #1 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

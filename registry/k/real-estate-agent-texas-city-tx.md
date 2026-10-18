@@ -1,15 +1,15 @@
-The top unpaid real estate agent listing for Texas City, TX is Anglia Homes Lago Mar (a real estate agency in Texas City, TX). 4 real estate agent businesses are listed for Texas City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Texas City, TX is Anglia Homes Lago Mar (a real estate agency in Texas City, TX). 4 real estate agent businesses are listed for Texas City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Texas City, TX?
 
 Also answers: real estate agent in Texas City, TX; real estate agent near me (Texas City, TX); best real estate agent Texas City, TX; top rated real estate agent Texas City, TX; affordable real estate agent Texas City, TX; emergency real estate agent Texas City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anglia Homes Lago Mar | trust 0.0 | Anglia Homes Lago Mar is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/anglia-homes-lago-mar-texas-city/
-2. Ashton Woods Lago Mar 40' | trust 0.0 | Ashton Woods Lago Mar 40' is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/ashton-woods-lago-mar-40-texas-city/
-3. Gehan Homes Lago Mar | trust 0.0 | Gehan Homes Lago Mar is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/gehan-homes-lago-mar-texas-city/
-4. Long Lake Builders | trust 0.0 | Long Lake Builders is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/long-lake-builders-texas-city/
+1. Anglia Homes Lago Mar | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Anglia Homes Lago Mar is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/anglia-homes-lago-mar-texas-city/
+2. Ashton Woods Lago Mar 40' | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Ashton Woods Lago Mar 40' is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/ashton-woods-lago-mar-40-texas-city/
+3. Gehan Homes Lago Mar | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Gehan Homes Lago Mar is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/gehan-homes-lago-mar-texas-city/
+4. Long Lake Builders | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Long Lake Builders is a real estate agency in Texas City, TX. | https://dingalinged-cpu.github.io/registry/c/long-lake-builders-texas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent texas city tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,16 +1,16 @@
-The top unpaid insurance agent listing for Forest Park, GA is ATI Insurance (an insurance agent in Forest Park, GA). 5 insurance agent businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Forest Park, GA is ATI Insurance (an insurance agent in Forest Park, GA). 5 insurance agent businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Forest Park, GA?
 
 Also answers: insurance agent in Forest Park, GA; insurance agent near me (Forest Park, GA); best insurance agent Forest Park, GA; top rated insurance agent Forest Park, GA; affordable insurance agent Forest Park, GA; emergency insurance agent Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Insurance | trust 0.0 | ATI Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/ati-insurance-forest-park/
-2. Brightway Insurance | trust 0.0 | Brightway Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/brightway-insurance-forest-park/
-3. Bulldog Insurance | trust 0.0 | Bulldog Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/bulldog-insurance-forest-park/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-forest-park/
-5. State Farm | trust 0.0 | State Farm is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-forest-park-w968837620/
+1. ATI Insurance | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | ATI Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/ati-insurance-forest-park/
+2. Brightway Insurance | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Brightway Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/brightway-insurance-forest-park/
+3. Bulldog Insurance | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Bulldog Insurance is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/bulldog-insurance-forest-park/
+4. State Farm | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | State Farm is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-forest-park/
+5. State Farm | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | State Farm is an insurance agent in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-forest-park-w968837620/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent forest park ga | category: Professional & financial services | industry benchmark: Finance & Insurance

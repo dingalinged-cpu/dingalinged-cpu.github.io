@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Westchester, IL is Westchester Eye Surgeons (an eye care practice in Westchester, IL at 10439 West Cermak Road, Westchester, IL 60154. Phone: +17085311030). 1 eye doctor businesses are listed for Westchester, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Westchester, IL is Westchester Eye Surgeons (an eye care practice in Westchester, IL at 10439 West Cermak Road, Westchester, IL 60154. Phone: +17085311030). 1 eye doctor businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Westchester, IL?
 
 Also answers: eye doctor in Westchester, IL; eye doctor near me (Westchester, IL); best eye doctor Westchester, IL; top rated eye doctor Westchester, IL; affordable eye doctor Westchester, IL; emergency eye doctor Westchester, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Westchester Eye Surgeons | trust 10.0 | Westchester Eye Surgeons is an eye care practice in Westchester, IL at 10439 West Cermak Road, Westchester, IL 60154. Phone: +17085311030. | https://dingalinged-cpu.github.io/registry/c/westchester-eye-surgeons-westchester/
+1. Westchester Eye Surgeons | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Westchester Eye Surgeons is an eye care practice in Westchester, IL at 10439 West Cermak Road, Westchester, IL 60154. Phone: +17085311030. | https://dingalinged-cpu.github.io/registry/c/westchester-eye-surgeons-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor westchester il | category: Health & medical | industry benchmark: Physicians & Surgeons

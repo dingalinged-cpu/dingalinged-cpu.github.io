@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Lewisville, TX is Eye Clinic Medical (an eye care practice in Lewisville, TX. Phone: +14696162030). 4 eye doctor businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Lewisville, TX is Lakeview Vision (an eye care practice in Lewisville, TX. Phone: +14693906558). 4 eye doctor businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Lewisville, TX?
 
 Also answers: eye doctor in Lewisville, TX; eye doctor near me (Lewisville, TX); best eye doctor Lewisville, TX; top rated eye doctor Lewisville, TX; affordable eye doctor Lewisville, TX; emergency eye doctor Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Clinic Medical | trust 10.0 | Eye Clinic Medical is an eye care practice in Lewisville, TX. Phone: +14696162030. | https://dingalinged-cpu.github.io/registry/c/eye-clinic-medical-lewisville/
-2. Lakeview Vision | trust 10.0 | Lakeview Vision is an eye care practice in Lewisville, TX. Phone: +14693906558. | https://dingalinged-cpu.github.io/registry/c/lakeview-vision-lewisville/
-3. My EyeLab | trust 4.0 | My EyeLab is an eye care practice in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/my-eyelab-lewisville/
-4. Optical Infinitu | trust 3.0 | Optical Infinitu is an eye care practice in Lewisville, TX at Hebron Parkway #102,103, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/optical-infinitu-lewisville/
+1. Lakeview Vision | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Lakeview Vision is an eye care practice in Lewisville, TX. Phone: +14693906558. | https://dingalinged-cpu.github.io/registry/c/lakeview-vision-lewisville/
+2. Eye Clinic Medical | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Eye Clinic Medical is an eye care practice in Lewisville, TX. Phone: +14696162030. | https://dingalinged-cpu.github.io/registry/c/eye-clinic-medical-lewisville/
+3. Optical Infinitu | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Optical Infinitu is an eye care practice in Lewisville, TX at Hebron Parkway #102,103, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/optical-infinitu-lewisville/
+4. My EyeLab | Organic #4 | Pulse Score 47.4/100 (Unrated, #4 in city) | My EyeLab is an eye care practice in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/my-eyelab-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor lewisville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

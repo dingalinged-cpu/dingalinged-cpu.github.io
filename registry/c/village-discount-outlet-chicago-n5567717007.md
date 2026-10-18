@@ -13,7 +13,7 @@ Village Discount Outlet is a thrift store in Chicago, IL at 2043 West Roscoe Str
 - Website: https://villagediscountoutlet.com/locations/roscoe-chicago/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 55% of thrift stores in Chicago, #32 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

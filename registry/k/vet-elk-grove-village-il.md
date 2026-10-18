@@ -1,13 +1,13 @@
-The top unpaid vet listing for Elk Grove Village, IL is Elk Grove Veterinary Specialty & Emergency (a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007). 2 vet businesses are listed for Elk Grove Village, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Elk Grove Village, IL is Elk Grove Veterinary Specialty & Emergency (a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007). 2 vet businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Elk Grove Village, IL?
 
 Also answers: vet in Elk Grove Village, IL; vet near me (Elk Grove Village, IL); best vet Elk Grove Village, IL; top rated vet Elk Grove Village, IL; affordable vet Elk Grove Village, IL; emergency vet Elk Grove Village, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elk Grove Veterinary Specialty & Emergency | trust 4.0 | Elk Grove Veterinary Specialty & Emergency is a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/elk-grove-veterinary-specialty-and-emergency-elk-grove-village/
-2. Elk Grove Pet Clinic | trust 0.0 | Elk Grove Pet Clinic is a veterinarian in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/elk-grove-pet-clinic-elk-grove-village/
+1. Elk Grove Veterinary Specialty & Emergency | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Elk Grove Veterinary Specialty & Emergency is a veterinarian in Elk Grove Village, IL at 1050 Bonaventure Drive, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/elk-grove-veterinary-specialty-and-emergency-elk-grove-village/
+2. Elk Grove Pet Clinic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Elk Grove Pet Clinic is a veterinarian in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/elk-grove-pet-clinic-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet elk grove village il | category: Pets | industry benchmark: Animals & Pets

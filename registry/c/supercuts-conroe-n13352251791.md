@@ -13,7 +13,7 @@ Supercuts is a hair salon in Conroe, TX at 2104 North Frazier Street, Conroe, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr-Sa 09:00-18:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 72% of hair salons in Houston, #3 of 6 hair salons in Conroe (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Elmwood Park, IL is Little Newtons Daycare (a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/). 2 daycare businesses are listed for Elmwood Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Elmwood Park, IL is Little Newtons Daycare (a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/). 2 daycare businesses are listed for Elmwood Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Elmwood Park, IL?
 
 Also answers: daycare in Elmwood Park, IL; daycare near me (Elmwood Park, IL); best daycare Elmwood Park, IL; top rated daycare Elmwood Park, IL; affordable daycare Elmwood Park, IL; emergency daycare Elmwood Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Newtons Daycare | trust 10.0 | Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/. | https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/
-2. Early Childhood Center | trust 4.0 | Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmwood Park, IL 60707. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/
+1. Little Newtons Daycare | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Little Newtons Daycare is a daycare in Elmwood Park, IL at 1850 North Harlem Avenue, Elmwood Park, IL 60707. Website: https://littlenewtons.com/elmwood-park-il-childcare/. | https://dingalinged-cpu.github.io/registry/c/little-newtons-daycare-elmwood-park/
+2. Early Childhood Center | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | Early Childhood Center is a daycare in Elmwood Park, IL at 4 Conti Parkway, Elmwood Park, IL 60707. | https://dingalinged-cpu.github.io/registry/c/early-childhood-center-elmwood-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare elmwood park il | category: Education & childcare | industry benchmark: Education & Instruction

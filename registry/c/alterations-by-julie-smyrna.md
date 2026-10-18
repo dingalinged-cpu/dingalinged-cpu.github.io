@@ -13,7 +13,7 @@ Alterations By Julie is a tailor in Smyrna, GA at 2384 Cobb Parkway South, Smyrn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 44% of tailors in Atlanta, #1 of 2 tailors in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Jacoby Dickens Athletic Center is a yoga studio in Chicago, IL at 9501 South Doc
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): sunrise-sunset
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 19% of yoga studios in Chicago, #6 of 27 yoga studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

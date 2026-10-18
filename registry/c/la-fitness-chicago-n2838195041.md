@@ -13,7 +13,7 @@ LA Fitness is a gym in Chicago, IL. Website: https://www.lafitness.com/.
 - Website: https://www.lafitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 83% of gyms in Chicago, #151 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 42.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

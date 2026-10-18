@@ -13,7 +13,7 @@ Salon Deco is a hair salon in Cobb County, GA at Paces Ferry Road Southeast #256
 - Website: https://salondecoatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo "By appointment only"; Tu-Th 10:00-19:00; Fr-Sa 10:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 22% of hair salons in Atlanta, #35 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

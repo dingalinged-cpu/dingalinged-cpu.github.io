@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Fort Bend County, TX is Gashapon Bandai Official Shop (a gift shop in Fort Bend County, TX at 23501 Cinco Ranch Boulevard #Suite H110, Fort Bend County, TX). 1 gift shop businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Fort Bend County, TX is Gashapon Bandai Official Shop (a gift shop in Fort Bend County, TX at 23501 Cinco Ranch Boulevard #Suite H110, Fort Bend County, TX). 1 gift shop businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Fort Bend County, TX?
 
 Also answers: gift shop in Fort Bend County, TX; gift shop near me (Fort Bend County, TX); best gift shop Fort Bend County, TX; top rated gift shop Fort Bend County, TX; affordable gift shop Fort Bend County, TX; emergency gift shop Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gashapon Bandai Official Shop | trust 7.0 | Gashapon Bandai Official Shop is a gift shop in Fort Bend County, TX at 23501 Cinco Ranch Boulevard #Suite H110, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/gashapon-bandai-official-shop-fort-bend-county/
+1. Gashapon Bandai Official Shop | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Gashapon Bandai Official Shop is a gift shop in Fort Bend County, TX at 23501 Cinco Ranch Boulevard #Suite H110, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/gashapon-bandai-official-shop-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop fort bend county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,14 +1,14 @@
-The top unpaid gym listing for Roseville, MN is Planet Fitness (a gym in Roseville, MN at 1750 State Highway 36 Service Drive, Roseville, MN 55113. Phone: +16512003166). 3 gym businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Roseville, MN is Viverant Physical Therapy (a gym in Roseville, MN at 1686 Lexington Avenue North, Roseville, MN 55113). 3 gym businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Roseville, MN?
 
 Also answers: gym in Roseville, MN; gym near me (Roseville, MN); best gym Roseville, MN; top rated gym Roseville, MN; affordable gym Roseville, MN; emergency gym Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planet Fitness | trust 10.0 | Planet Fitness is a gym in Roseville, MN at 1750 State Highway 36 Service Drive, Roseville, MN 55113. Phone: +16512003166. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-roseville/
-2. Xperience Fitness | trust 7.0 | Xperience Fitness is a gym in Roseville, MN at 1663 County Road B2 West, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-roseville/
-3. Viverant Physical Therapy | trust 4.0 | Viverant Physical Therapy is a gym in Roseville, MN at 1686 Lexington Avenue North, Roseville, MN 55113. | https://dingalinged-cpu.github.io/registry/c/viverant-physical-therapy-roseville/
+1. Viverant Physical Therapy | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Viverant Physical Therapy is a gym in Roseville, MN at 1686 Lexington Avenue North, Roseville, MN 55113. | https://dingalinged-cpu.github.io/registry/c/viverant-physical-therapy-roseville/
+2. Planet Fitness | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Planet Fitness is a gym in Roseville, MN at 1750 State Highway 36 Service Drive, Roseville, MN 55113. Phone: +16512003166. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-roseville/
+3. Xperience Fitness | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | Xperience Fitness is a gym in Roseville, MN at 1663 County Road B2 West, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym roseville mn | category: Fitness | industry benchmark: Health & Fitness

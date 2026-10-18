@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for South Fulton, GA is Atlanta Family Foot Care (a podiatrist in Atlanta, GA at 5835 Campbellton Road Southwest #104, Atlanta, GA 30331. Phone: +14043340696. Website: https://www.famfootcare.com/). 1 podiatrist businesses are listed for South Fulton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for South Fulton, GA is Atlanta Family Foot Care (a podiatrist in Atlanta, GA at 5835 Campbellton Road Southwest #104, Atlanta, GA 30331. Phone: +14043340696. Website: https://www.famfootcare.com/). 1 podiatrist businesses are listed for South Fulton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in South Fulton, GA?
 
 Also answers: podiatrist in South Fulton, GA; podiatrist near me (South Fulton, GA); best podiatrist South Fulton, GA; top rated podiatrist South Fulton, GA; affordable podiatrist South Fulton, GA; emergency podiatrist South Fulton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Family Foot Care | trust 20.0 | Atlanta Family Foot Care is a podiatrist in Atlanta, GA at 5835 Campbellton Road Southwest #104, Atlanta, GA 30331. Phone: +14043340696. Website: https://www.famfootcare.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-family-foot-care-atlanta/
+1. Atlanta Family Foot Care | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | Atlanta Family Foot Care is a podiatrist in Atlanta, GA at 5835 Campbellton Road Southwest #104, Atlanta, GA 30331. Phone: +14043340696. Website: https://www.famfootcare.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-family-foot-care-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist south fulton ga | category: Health & medical | industry benchmark: Physicians & Surgeons

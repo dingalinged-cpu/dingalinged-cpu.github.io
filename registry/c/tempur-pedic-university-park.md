@@ -13,7 +13,7 @@ Tempur-Pedic is a mattress store in University Park, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 38.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.8/100 — Unrated (not enough evidence yet) — top 81% of mattress stores in Dallas–Fort Worth, #1 of 1 mattress stores in University Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.6, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

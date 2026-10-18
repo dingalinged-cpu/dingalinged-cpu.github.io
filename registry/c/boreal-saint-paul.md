@@ -13,7 +13,7 @@ boreal is a gift shop in Saint Paul, MN at 2276 Como Avenue, Saint Paul, MN 5510
 - Website: https://boreal.life/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00; Su 10:00-16:00
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of gift shops in Minneapolis–St. Paul, #1 of 16 gift shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

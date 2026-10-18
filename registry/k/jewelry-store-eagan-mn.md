@@ -1,16 +1,16 @@
-The top unpaid jewelry store listing for Eagan, MN is Waldeland Jewelers (a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/). 5 jewelry store businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Eagan, MN is Waldeland Jewelers (a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/). 5 jewelry store businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Eagan, MN?
 
 Also answers: jewelry store in Eagan, MN; jewelry store near me (Eagan, MN); best jewelry store Eagan, MN; top rated jewelry store Eagan, MN; affordable jewelry store Eagan, MN; emergency jewelry store Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waldeland Jewelers | trust 20.0 | Waldeland Jewelers is a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/waldeland-jewelers-eagan/
-2. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-eagan/
-3. Jewelry Exchange | trust 0.0 | Jewelry Exchange is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/jewelry-exchange-eagan/
-4. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-eagan/
-5. Swarovski | trust 0.0 | Swarovski is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/swarovski-eagan/
+1. Waldeland Jewelers | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Waldeland Jewelers is a jewelry store in Eagan, MN at 1340 Duckwood Drive #11, Eagan, MN 55123. Phone: +16514521877. Website: https://waldelandjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/waldeland-jewelers-eagan/
+2. Jewelry Exchange | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Jewelry Exchange is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/jewelry-exchange-eagan/
+3. Helzberg Diamonds | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Helzberg Diamonds is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-eagan/
+4. Kay Jewelers | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Kay Jewelers is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-eagan/
+5. Swarovski | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Swarovski is a jewelry store in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/swarovski-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store eagan mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

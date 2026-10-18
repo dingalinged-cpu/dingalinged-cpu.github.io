@@ -13,7 +13,7 @@ Angry Dragon Studios is a marketing agency in Houston, TX at 2525 Citywest Boule
 - Website: https://angrydragonstudios.com/
 - Email: roy@angrydragonstudios.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 27% of marketing agencys in Houston, #2 of 8 marketing agencys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

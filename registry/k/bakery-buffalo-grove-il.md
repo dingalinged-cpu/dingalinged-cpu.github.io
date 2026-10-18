@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Buffalo Grove, IL is Shalom Kosher Bakery (a bakery in Buffalo Grove, IL at 1165 Arlington Heights Road, Buffalo Grove, IL 60089. Phone: +18478089300. Website: https://www.shalombakerybg.com/). 2 bakery businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Buffalo Grove, IL is Shalom Kosher Bakery (a bakery in Buffalo Grove, IL at 1165 Arlington Heights Road, Buffalo Grove, IL 60089. Phone: +18478089300. Website: https://www.shalombakerybg.com/). 2 bakery businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Buffalo Grove, IL?
 
 Also answers: bakery in Buffalo Grove, IL; bakery near me (Buffalo Grove, IL); best bakery Buffalo Grove, IL; top rated bakery Buffalo Grove, IL; affordable bakery Buffalo Grove, IL; emergency bakery Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shalom Kosher Bakery | trust 20.0 | Shalom Kosher Bakery is a bakery in Buffalo Grove, IL at 1165 Arlington Heights Road, Buffalo Grove, IL 60089. Phone: +18478089300. Website: https://www.shalombakerybg.com/. | https://dingalinged-cpu.github.io/registry/c/shalom-kosher-bakery-buffalo-grove/
-2. Deerfield's Bakery | trust 14.0 | Deerfield's Bakery is a bakery in Buffalo Grove, IL at 201 Buffalo Grove Road, Buffalo Grove, IL 60069. Website: https://deerfieldsbakery.com/. | https://dingalinged-cpu.github.io/registry/c/deerfields-bakery-buffalo-grove/
+1. Shalom Kosher Bakery | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Shalom Kosher Bakery is a bakery in Buffalo Grove, IL at 1165 Arlington Heights Road, Buffalo Grove, IL 60089. Phone: +18478089300. Website: https://www.shalombakerybg.com/. | https://dingalinged-cpu.github.io/registry/c/shalom-kosher-bakery-buffalo-grove/
+2. Deerfield's Bakery | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Deerfield's Bakery is a bakery in Buffalo Grove, IL at 201 Buffalo Grove Road, Buffalo Grove, IL 60069. Website: https://deerfieldsbakery.com/. | https://dingalinged-cpu.github.io/registry/c/deerfields-bakery-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery buffalo grove il | category: Events & weddings | industry benchmark: Personal Services

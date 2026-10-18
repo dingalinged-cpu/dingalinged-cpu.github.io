@@ -13,7 +13,7 @@ Liberty Tax is a tax preparation service in Houston, TX at 11603 Aldine Westfiel
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45/100 — Unrated (not enough evidence yet) — top 70% of tax preparation services in Houston, #37 of 44 tax preparation services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

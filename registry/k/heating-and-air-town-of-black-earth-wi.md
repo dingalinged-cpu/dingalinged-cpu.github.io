@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Town Of Black Earth, WI is Modern Heating & Cooling (a HVAC contractor in Town of Black Earth, WI). 1 heating and air businesses are listed for Town Of Black Earth, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Town Of Black Earth, WI is Modern Heating & Cooling (a HVAC contractor in Town of Black Earth, WI). 1 heating and air businesses are listed for Town Of Black Earth, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Town Of Black Earth, WI?
 
 Also answers: heating and air in Town Of Black Earth, WI; heating and air near me (Town Of Black Earth, WI); best heating and air Town Of Black Earth, WI; top rated heating and air Town Of Black Earth, WI; affordable heating and air Town Of Black Earth, WI; emergency heating and air Town Of Black Earth, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modern Heating & Cooling | trust 0.0 | Modern Heating & Cooling is a HVAC contractor in Town of Black Earth, WI. | https://dingalinged-cpu.github.io/registry/c/modern-heating-and-cooling-town-of-black-earth/
+1. Modern Heating & Cooling | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Modern Heating & Cooling is a HVAC contractor in Town of Black Earth, WI. | https://dingalinged-cpu.github.io/registry/c/modern-heating-and-cooling-town-of-black-earth/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air town of black earth wi | category: Home Services | industry benchmark: Home & Home Improvement

@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Johns Creek, GA is Bubba's Pet Emporium (a pet store in Johns Creek, GA at 11877 Douglas Road #101, Johns Creek, GA 30005. Phone: +16783938333. Website: https://bubbaspetemporium.net/). 4 pet store businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Johns Creek, GA is Bubba's Pet Emporium (a pet store in Johns Creek, GA at 11877 Douglas Road #101, Johns Creek, GA 30005. Phone: +16783938333. Website: https://bubbaspetemporium.net/). 4 pet store businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Johns Creek, GA?
 
 Also answers: pet store in Johns Creek, GA; pet store near me (Johns Creek, GA); best pet store Johns Creek, GA; top rated pet store Johns Creek, GA; affordable pet store Johns Creek, GA; emergency pet store Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bubba's Pet Emporium | trust 20.0 | Bubba's Pet Emporium is a pet store in Johns Creek, GA at 11877 Douglas Road #101, Johns Creek, GA 30005. Phone: +16783938333. Website: https://bubbaspetemporium.net/. | https://dingalinged-cpu.github.io/registry/c/bubbas-pet-emporium-johns-creek/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Johns Creek, GA at 6370 North Point Parkway, Johns Creek, GA 30022. Phone: +17703438511. Website: https://www.petsmart.com/stores/us/ga/alpharetta-store0289.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-johns-creek/
-3. Hollywood Feed | trust 0.0 | Hollywood Feed is a pet store in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-johns-creek/
-4. Wild Birds Unlimited | trust 0.0 | Wild Birds Unlimited is a pet store in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-johns-creek/
+1. Bubba's Pet Emporium | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Bubba's Pet Emporium is a pet store in Johns Creek, GA at 11877 Douglas Road #101, Johns Creek, GA 30005. Phone: +16783938333. Website: https://bubbaspetemporium.net/. | https://dingalinged-cpu.github.io/registry/c/bubbas-pet-emporium-johns-creek/
+2. PetSmart | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | PetSmart is a pet store in Johns Creek, GA at 6370 North Point Parkway, Johns Creek, GA 30022. Phone: +17703438511. Website: https://www.petsmart.com/stores/us/ga/alpharetta-store0289.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-johns-creek/
+3. Wild Birds Unlimited | Organic #3 | Pulse Score 40.9/100 (Building, #3 in city) | Wild Birds Unlimited is a pet store in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-johns-creek/
+4. Hollywood Feed | Organic #4 | Pulse Score 40.9/100 (Unrated, #4 in city) | Hollywood Feed is a pet store in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store johns creek ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

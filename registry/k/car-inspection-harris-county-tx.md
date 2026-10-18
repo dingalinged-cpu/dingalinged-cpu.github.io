@@ -1,13 +1,13 @@
-The top unpaid car inspection listing for Harris County, TX is EZ State Inspections (a vehicle inspection station in Harris County, TX. Phone: +17135300464). 2 car inspection businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Harris County, TX is EZ State Inspections (a vehicle inspection station in Harris County, TX. Phone: +17135300464). 2 car inspection businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Harris County, TX?
 
 Also answers: car inspection in Harris County, TX; car inspection near me (Harris County, TX); best car inspection Harris County, TX; top rated car inspection Harris County, TX; affordable car inspection Harris County, TX; emergency car inspection Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EZ State Inspections | trust 6.0 | EZ State Inspections is a vehicle inspection station in Harris County, TX. Phone: +17135300464. | https://dingalinged-cpu.github.io/registry/c/ez-state-inspections-harris-county/
-2. Park Place Dealer Services | trust 3.0 | Park Place Dealer Services is a vehicle inspection station in Harris County, TX at 3635 Aldine Mail Route #A, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/park-place-dealer-services-harris-county/
+1. EZ State Inspections | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | EZ State Inspections is a vehicle inspection station in Harris County, TX. Phone: +17135300464. | https://dingalinged-cpu.github.io/registry/c/ez-state-inspections-harris-county/
+2. Park Place Dealer Services | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Park Place Dealer Services is a vehicle inspection station in Harris County, TX at 3635 Aldine Mail Route #A, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/park-place-dealer-services-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection harris county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

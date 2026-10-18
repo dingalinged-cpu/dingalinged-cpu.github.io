@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Chanhassen, MN is BP (a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317). 5 car wash businesses are listed for Chanhassen, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Chanhassen, MN is Brown's Car Wash (a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317). 5 car wash businesses are listed for Chanhassen, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Chanhassen, MN?
 
 Also answers: car wash in Chanhassen, MN; car wash near me (Chanhassen, MN); best car wash Chanhassen, MN; top rated car wash Chanhassen, MN; affordable car wash Chanhassen, MN; emergency car wash Chanhassen, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BP | trust 8.0 | BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/
-2. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=402. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen/
-3. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=492. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen-w258506166/
-4. Brown's Car Wash | trust 4.0 | Brown's Car Wash is a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/browns-car-wash-chanhassen/
-5. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-chanhassen/
+1. Brown's Car Wash | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Brown's Car Wash is a car wash in Chanhassen, MN at 7903 Great Plains Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/browns-car-wash-chanhassen/
+2. Kwik Trip | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=402. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen/
+3. Kwik Trip | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Kwik Trip is a car wash in Chanhassen, MN. Website: https://www.kwiktrip.com/locator/store?id=492. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-chanhassen-w258506166/
+4. BP | Organic #4 | Pulse Score 48.1/100 (Unrated, #4 in city) | BP is a car wash in Chanhassen, MN at 7755 West 78th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/bp-chanhassen/
+5. Speedy Wash | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Speedy Wash is a car wash in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash chanhassen mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

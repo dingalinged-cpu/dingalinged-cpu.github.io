@@ -13,7 +13,7 @@ ORTAHAUS Barber Co. is a hair salon in Houston, TX at 920 Studemont Street #600,
 - Website: https://online.getsquire.com/book/ortahaus-barber-co-houston/barber
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-21:00, Sa-Su 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Houston, #19 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

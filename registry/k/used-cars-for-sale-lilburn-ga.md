@@ -1,14 +1,14 @@
-The top unpaid used cars for sale listing for Lilburn, GA is Klassic Cars (an used car dealer in Lilburn, GA at 4925 Lawrenceville Highway Northwest, Lilburn, GA 30047. Phone: +16785801899. Website: https://klassiccars.com/). 3 used cars for sale businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Lilburn, GA is Klassic Cars (an used car dealer in Lilburn, GA at 4925 Lawrenceville Highway Northwest, Lilburn, GA 30047. Phone: +16785801899. Website: https://klassiccars.com/). 3 used cars for sale businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Lilburn, GA?
 
 Also answers: used cars for sale in Lilburn, GA; used cars for sale near me (Lilburn, GA); best used cars for sale Lilburn, GA; top rated used cars for sale Lilburn, GA; affordable used cars for sale Lilburn, GA; emergency used cars for sale Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Klassic Cars | trust 16.0 | Klassic Cars is an used car dealer in Lilburn, GA at 4925 Lawrenceville Highway Northwest, Lilburn, GA 30047. Phone: +16785801899. Website: https://klassiccars.com/. | https://dingalinged-cpu.github.io/registry/c/klassic-cars-lilburn/
-2. Potamkin Hyundai | trust 16.0 | Potamkin Hyundai is an used car dealer in Lilburn, GA at 4355 Stone Mountain Highway, Lilburn, GA 30047. Phone: +17709721222. Website: https://www.potamkinatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/potamkin-hyundai-lilburn/
-3. Atlanta Used Car Sales | trust 3.0 | Atlanta Used Car Sales is an used car dealer in Lilburn, GA at 4430 Lawrenceville Highway, Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-used-car-sales-lilburn/
+1. Klassic Cars | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Klassic Cars is an used car dealer in Lilburn, GA at 4925 Lawrenceville Highway Northwest, Lilburn, GA 30047. Phone: +16785801899. Website: https://klassiccars.com/. | https://dingalinged-cpu.github.io/registry/c/klassic-cars-lilburn/
+2. Atlanta Used Car Sales | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Atlanta Used Car Sales is an used car dealer in Lilburn, GA at 4430 Lawrenceville Highway, Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-used-car-sales-lilburn/
+3. Potamkin Hyundai | Organic #3 | Pulse Score 47.2/100 (Building, #3 in city) | Potamkin Hyundai is an used car dealer in Lilburn, GA at 4355 Stone Mountain Highway, Lilburn, GA 30047. Phone: +17709721222. Website: https://www.potamkinatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/potamkin-hyundai-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale lilburn ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

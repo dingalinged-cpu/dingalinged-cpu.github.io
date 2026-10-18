@@ -13,7 +13,7 @@ Salon de Vive is a hair salon in Chicago, IL at 2137 West Belmont Avenue, Chicag
 - Website: https://places.singleplatform.com/salon-de-vive/menu?ref=google
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 9:00-16:00
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Chicago, #24 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

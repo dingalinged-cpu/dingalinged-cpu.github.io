@@ -1,12 +1,12 @@
-The top unpaid ob gyn listing for Alpharetta, GA is Alpha Omega OBGYN (an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Parkway #Bldg. C Suite 475, Alpharetta, GA 30005. Phone: +14705547870. Website: https://alphaomegaobgyn.com/). 1 ob gyn businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Alpharetta, GA is Alpha Omega OBGYN (an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Parkway #Bldg. C Suite 475, Alpharetta, GA 30005. Phone: +14705547870. Website: https://alphaomegaobgyn.com/). 1 ob gyn businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Alpharetta, GA?
 
 Also answers: ob gyn in Alpharetta, GA; ob gyn near me (Alpharetta, GA); best ob gyn Alpharetta, GA; top rated ob gyn Alpharetta, GA; affordable ob gyn Alpharetta, GA; emergency ob gyn Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alpha Omega OBGYN | trust 20.0 | Alpha Omega OBGYN is an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Parkway #Bldg. C Suite 475, Alpharetta, GA 30005. Phone: +14705547870. Website: https://alphaomegaobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-omega-obgyn-alpharetta/
+1. Alpha Omega OBGYN | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Alpha Omega OBGYN is an OB-GYN practice in Alpharetta, GA at 3400 Old Milton Parkway #Bldg. C Suite 475, Alpharetta, GA 30005. Phone: +14705547870. Website: https://alphaomegaobgyn.com/. | https://dingalinged-cpu.github.io/registry/c/alpha-omega-obgyn-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn alpharetta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

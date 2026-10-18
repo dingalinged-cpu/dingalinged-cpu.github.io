@@ -1,12 +1,12 @@
-The top unpaid driving school listing for Frisco, TX is DFW Driving School (a driving school in Frisco, TX at 11625 Custer Road #125, Frisco, TX). 1 driving school businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Frisco, TX is DFW Driving School (a driving school in Frisco, TX at 11625 Custer Road #125, Frisco, TX). 1 driving school businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Frisco, TX?
 
 Also answers: driving school in Frisco, TX; driving school near me (Frisco, TX); best driving school Frisco, TX; top rated driving school Frisco, TX; affordable driving school Frisco, TX; emergency driving school Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DFW Driving School | trust 3.0 | DFW Driving School is a driving school in Frisco, TX at 11625 Custer Road #125, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-driving-school-frisco/
+1. DFW Driving School | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | DFW Driving School is a driving school in Frisco, TX at 11625 Custer Road #125, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-driving-school-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school frisco tx | category: Education & childcare | industry benchmark: Education & Instruction

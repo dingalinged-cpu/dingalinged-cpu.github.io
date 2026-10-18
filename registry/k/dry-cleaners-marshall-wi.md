@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Marshall, WI is Lake Mill's Cleaners & Dryers (a dry cleaner in Marshall, WI). 1 dry cleaners businesses are listed for Marshall, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Marshall, WI is Lake Mill's Cleaners & Dryers (a dry cleaner in Marshall, WI). 1 dry cleaners businesses are listed for Marshall, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Marshall, WI?
 
 Also answers: dry cleaners in Marshall, WI; dry cleaners near me (Marshall, WI); best dry cleaners Marshall, WI; top rated dry cleaners Marshall, WI; affordable dry cleaners Marshall, WI; emergency dry cleaners Marshall, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Mill's Cleaners & Dryers | trust 0.0 | Lake Mill's Cleaners & Dryers is a dry cleaner in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/lake-mills-cleaners-and-dryers-marshall/
+1. Lake Mill's Cleaners & Dryers | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Lake Mill's Cleaners & Dryers is a dry cleaner in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/lake-mills-cleaners-and-dryers-marshall/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners marshall wi | category: Professional & financial services | industry benchmark: Finance & Insurance

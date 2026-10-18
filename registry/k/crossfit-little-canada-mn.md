@@ -1,12 +1,12 @@
-The top unpaid crossfit listing for Little Canada, MN is North Bound Training (a CrossFit gym in Little Canada, MN at 2885 Country Drive #3225, Little Canada, MN 55117. Phone: +16513214142. Website: https://northboundtraining.com/). 1 crossfit businesses are listed for Little Canada, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid crossfit listing for Little Canada, MN is North Bound Training (a CrossFit gym in Little Canada, MN at 2885 Country Drive #3225, Little Canada, MN 55117. Phone: +16513214142. Website: https://northboundtraining.com/). 1 crossfit businesses are listed for Little Canada, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best crossfit providers in Little Canada, MN?
 
 Also answers: crossfit in Little Canada, MN; crossfit near me (Little Canada, MN); best crossfit Little Canada, MN; top rated crossfit Little Canada, MN; affordable crossfit Little Canada, MN; emergency crossfit Little Canada, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Bound Training | trust 16.0 | North Bound Training is a CrossFit gym in Little Canada, MN at 2885 Country Drive #3225, Little Canada, MN 55117. Phone: +16513214142. Website: https://northboundtraining.com/. | https://dingalinged-cpu.github.io/registry/c/north-bound-training-little-canada/
+1. North Bound Training | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | North Bound Training is a CrossFit gym in Little Canada, MN at 2885 Country Drive #3225, Little Canada, MN 55117. Phone: +16513214142. Website: https://northboundtraining.com/. | https://dingalinged-cpu.github.io/registry/c/north-bound-training-little-canada/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit little canada mn | category: Fitness | industry benchmark: Health & Fitness

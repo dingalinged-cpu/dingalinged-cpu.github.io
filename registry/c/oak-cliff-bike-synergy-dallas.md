@@ -13,7 +13,7 @@ Oak Cliff Bike Synergy is a bike shop in Dallas, TX. Phone: +14694561136. Websit
 - Website: https://www.oakcliffbikesynergy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 10:00-18:00
-- Registry Score: 55.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 49% of bike shops in Dallas–Fort Worth, #8 of 12 bike shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

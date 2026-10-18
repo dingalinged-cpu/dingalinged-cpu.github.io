@@ -13,7 +13,7 @@ Mack's Bike & Goods is a bike shop in Evanston, IL at 2948 Central Street, Evans
 - Website: https://www.macksbikeandgoods.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tuesday - Friday 10am - 5pm, Saturday 9am - 5pm
-- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of bike shops in Chicago, #1 of 4 bike shops in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

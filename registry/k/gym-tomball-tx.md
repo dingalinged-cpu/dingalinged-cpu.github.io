@@ -1,14 +1,14 @@
-The top unpaid gym listing for Tomball, TX is CrossFit (a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/). 3 gym businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Tomball, TX is Master Kim's PMA Taekwondo (a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/). 3 gym businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Tomball, TX?
 
 Also answers: gym in Tomball, TX; gym near me (Tomball, TX); best gym Tomball, TX; top rated gym Tomball, TX; affordable gym Tomball, TX; emergency gym Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CrossFit | trust 16.0 | CrossFit is a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-tomball/
-2. Master Kim's PMA Taekwondo | trust 16.0 | Master Kim's PMA Taekwondo is a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/. | https://dingalinged-cpu.github.io/registry/c/master-kims-pma-taekwondo-tomball/
-3. True Form Gym | trust 16.0 | True Form Gym is a gym in Tomball, TX at 205 Houston Street, Tomball, TX 77375. Phone: +13466768720. Website: https://trueformgym.com/. | https://dingalinged-cpu.github.io/registry/c/true-form-gym-tomball/
+1. Master Kim's PMA Taekwondo | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Master Kim's PMA Taekwondo is a gym in Tomball, TX at 25201 Kuykendahl Road #600, Tomball, TX 77375. Phone: +18327824414. Website: https://www.pmatkd.com/. | https://dingalinged-cpu.github.io/registry/c/master-kims-pma-taekwondo-tomball/
+2. True Form Gym | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | True Form Gym is a gym in Tomball, TX at 205 Houston Street, Tomball, TX 77375. Phone: +13466768720. Website: https://trueformgym.com/. | https://dingalinged-cpu.github.io/registry/c/true-form-gym-tomball/
+3. CrossFit | Organic #3 | Pulse Score 48.2/100 (Building, #3 in city) | CrossFit is a gym in Tomball, TX at 29935 Tomball Parkway, Tomball, TX 77375. Phone: +18323384656. Website: https://crossfitigneous.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym tomball tx | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Natural Cleaners is a dry cleaner in Bayside, WI at 8832 North Port Washington R
 - Website: https://naturalcleaners.com/
 - Email: info@naturalcleaners.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-14:00
-- Registry Score: 55.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.5/100 — Fair — top 66% of dry cleaners in Milwaukee, #1 of 1 dry cleaners in Bayside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43.8, Trust 68.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

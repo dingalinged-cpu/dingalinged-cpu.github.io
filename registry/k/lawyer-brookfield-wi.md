@@ -1,15 +1,15 @@
-The top unpaid lawyer listing for Brookfield, WI is Sterling Lawyers, LLC (a lawyer in Brookfield, WI at 200 South Executive Drive ##101, Brookfield, WI 53005. Phone: +12622218355. Website: https://www.sterlinglawyers.com/wisconsin/locations/brookfield/). 4 lawyer businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Brookfield, WI is Cannon & Dunphy (a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045). 4 lawyer businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Brookfield, WI?
 
 Also answers: lawyer in Brookfield, WI; lawyer near me (Brookfield, WI); best lawyer Brookfield, WI; top rated lawyer Brookfield, WI; affordable lawyer Brookfield, WI; emergency lawyer Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Lawyers, LLC | trust 20.0 | Sterling Lawyers, LLC is a lawyer in Brookfield, WI at 200 South Executive Drive ##101, Brookfield, WI 53005. Phone: +12622218355. Website: https://www.sterlinglawyers.com/wisconsin/locations/brookfield/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-brookfield/
-2. Cannon & Dunphy | trust 4.0 | Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/cannon-and-dunphy-brookfield/
-3. KDR Lawyers | trust 0.0 | KDR Lawyers is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kdr-lawyers-brookfield/
-4. Mark S. Knutson, S.C. | trust 0.0 | Mark S. Knutson, S.C. is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mark-s-knutson-s-c-brookfield/
+1. Cannon & Dunphy | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Cannon & Dunphy is a lawyer in Brookfield, WI at 595 North Barker Road, Brookfield, WI 53045. | https://dingalinged-cpu.github.io/registry/c/cannon-and-dunphy-brookfield/
+2. KDR Lawyers | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | KDR Lawyers is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kdr-lawyers-brookfield/
+3. Mark S. Knutson, S.C. | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Mark S. Knutson, S.C. is a lawyer in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mark-s-knutson-s-c-brookfield/
+4. Sterling Lawyers, LLC | Organic #4 | Pulse Score 49.3/100 (Unrated, #4 in city) | Sterling Lawyers, LLC is a lawyer in Brookfield, WI at 200 South Executive Drive ##101, Brookfield, WI 53005. Phone: +12622218355. Website: https://www.sterlinglawyers.com/wisconsin/locations/brookfield/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer brookfield wi | category: Legal | industry benchmark: Attorneys & Legal Services

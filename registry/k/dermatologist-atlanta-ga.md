@@ -1,14 +1,14 @@
-The top unpaid dermatologist listing for Atlanta, GA is Divine Dermatology and Aesthetics (a dermatologist in Atlanta, GA at 1039 Grant Circle Southeast #A11, Atlanta, GA 30315. Phone: +16785897546. Website: https://divinedermatl.com/). 3 dermatologist businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Atlanta, GA is Divine Dermatology and Aesthetics (a dermatologist in Atlanta, GA at 1039 Grant Circle Southeast #A11, Atlanta, GA 30315. Phone: +16785897546. Website: https://divinedermatl.com/). 3 dermatologist businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Atlanta, GA?
 
 Also answers: dermatologist in Atlanta, GA; dermatologist near me (Atlanta, GA); best dermatologist Atlanta, GA; top rated dermatologist Atlanta, GA; affordable dermatologist Atlanta, GA; emergency dermatologist Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Divine Dermatology and Aesthetics | trust 20.0 | Divine Dermatology and Aesthetics is a dermatologist in Atlanta, GA at 1039 Grant Circle Southeast #A11, Atlanta, GA 30315. Phone: +16785897546. Website: https://divinedermatl.com/. | https://dingalinged-cpu.github.io/registry/c/divine-dermatology-and-aesthetics-atlanta/
-2. LaserAway | trust 19.0 | LaserAway is a dermatologist in Atlanta, GA at 931 Monroe Drive Northeast #113D, Atlanta, GA. Phone: +14045317100. Website: https://www.laseraway.com/locations/ga/atlanta-midtown/. | https://dingalinged-cpu.github.io/registry/c/laseraway-atlanta/
-3. Peachtree Dermatology | trust 0.0 | Peachtree Dermatology is a dermatologist in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-dermatology-atlanta/
+1. Divine Dermatology and Aesthetics | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Divine Dermatology and Aesthetics is a dermatologist in Atlanta, GA at 1039 Grant Circle Southeast #A11, Atlanta, GA 30315. Phone: +16785897546. Website: https://divinedermatl.com/. | https://dingalinged-cpu.github.io/registry/c/divine-dermatology-and-aesthetics-atlanta/
+2. Peachtree Dermatology | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Peachtree Dermatology is a dermatologist in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-dermatology-atlanta/
+3. LaserAway | Organic #3 | Pulse Score 49.9/100 (Building, #3 in city) | LaserAway is a dermatologist in Atlanta, GA at 931 Monroe Drive Northeast #113D, Atlanta, GA. Phone: +14045317100. Website: https://www.laseraway.com/locations/ga/atlanta-midtown/. | https://dingalinged-cpu.github.io/registry/c/laseraway-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

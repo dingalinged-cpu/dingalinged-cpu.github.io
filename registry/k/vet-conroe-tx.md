@@ -1,12 +1,12 @@
-The top unpaid vet listing for Conroe, TX is Animal Hospital & Emergency Veterinary of Conroe (a veterinarian in Conroe, TX at 505 Interstate 45 North, Conroe, TX 77304). 1 vet businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Conroe, TX is Animal Hospital & Emergency Veterinary of Conroe (a veterinarian in Conroe, TX at 505 Interstate 45 North, Conroe, TX 77304). 1 vet businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Conroe, TX?
 
 Also answers: vet in Conroe, TX; vet near me (Conroe, TX); best vet Conroe, TX; top rated vet Conroe, TX; affordable vet Conroe, TX; emergency vet Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Hospital & Emergency Veterinary of Conroe | trust 4.0 | Animal Hospital & Emergency Veterinary of Conroe is a veterinarian in Conroe, TX at 505 Interstate 45 North, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-and-emergency-veterinary-of-conroe-conroe/
+1. Animal Hospital & Emergency Veterinary of Conroe | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Animal Hospital & Emergency Veterinary of Conroe is a veterinarian in Conroe, TX at 505 Interstate 45 North, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-and-emergency-veterinary-of-conroe-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet conroe tx | category: Pets | industry benchmark: Animals & Pets

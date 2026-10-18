@@ -13,7 +13,7 @@ Little Spurs Pediatric Urgent Care is a pediatrician in Garland, TX at 6520 Nort
 - Website: https://littlespurspedi.com/location/garland-clinic/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 09:00-17:00
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 18% of pediatricians in Dallas–Fort Worth, #1 of 1 pediatricians in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

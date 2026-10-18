@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in League City, TX. Website: ht
 - Website: https://www.ntb.com/store/tx/league-city/2488-gulf-fwy-s-77573/4488
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.1/100 — Building — top 80% of auto repair shops in Houston, #2 of 3 auto repair shops in League City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

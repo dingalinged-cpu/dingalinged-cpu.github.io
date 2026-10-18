@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Buffalo Grove, IL is Gerber Collision & Glass (an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089). 3 mechanic businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Buffalo Grove, IL is BP Auto Complete Repair (an auto repair shop in Buffalo Grove, IL). 3 mechanic businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Buffalo Grove, IL?
 
 Also answers: mechanic in Buffalo Grove, IL; mechanic near me (Buffalo Grove, IL); best mechanic Buffalo Grove, IL; top rated mechanic Buffalo Grove, IL; affordable mechanic Buffalo Grove, IL; emergency mechanic Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
-2. BP Auto Complete Repair | trust 0.0 | BP Auto Complete Repair is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/bp-auto-complete-repair-buffalo-grove/
-3. Woodman's Oil Change | trust 0.0 | Woodman's Oil Change is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/woodmans-oil-change-buffalo-grove/
+1. BP Auto Complete Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | BP Auto Complete Repair is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/bp-auto-complete-repair-buffalo-grove/
+2. Woodman's Oil Change | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Woodman's Oil Change is an auto repair shop in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/woodmans-oil-change-buffalo-grove/
+3. Gerber Collision & Glass | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Buffalo Grove, IL at 20445 North Milwaukee Avenue, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic buffalo grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,22 +1,22 @@
-The top unpaid gym listing for Evanston, IL is Fitness Matrix (a gym in Evanston, IL at 2306 Main Street, Evanston, IL 60202. Website: https://thefitnessmatrix.me/). 11 gym businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Evanston, IL is Fitness Matrix (a gym in Evanston, IL at 2306 Main Street, Evanston, IL 60202. Website: https://thefitnessmatrix.me/). 11 gym businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Evanston, IL?
 
 Also answers: gym in Evanston, IL; gym near me (Evanston, IL); best gym Evanston, IL; top rated gym Evanston, IL; affordable gym Evanston, IL; emergency gym Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fitness Matrix | trust 10.0 | Fitness Matrix is a gym in Evanston, IL at 2306 Main Street, Evanston, IL 60202. Website: https://thefitnessmatrix.me/. | https://dingalinged-cpu.github.io/registry/c/fitness-matrix-evanston/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Evanston, IL at 2800 Central Street, Evanston, IL 60201. Phone: +18474919090. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-evanston/
-3. Blink Fitness | trust 4.0 | Blink Fitness is a gym in Evanston, IL at 1926 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/blink-fitness-evanston/
-4. CrossFit | trust 4.0 | CrossFit is a gym in Evanston, IL at 1508 Sherman Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/crossfit-evanston/
-5. CycleBar | trust 4.0 | CycleBar is a gym in Evanston, IL at 940 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/cyclebar-evanston/
-6. Evanston Athletic Club | trust 4.0 | Evanston Athletic Club is a gym in Evanston, IL at 1723 Benson Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/evanston-athletic-club-evanston/
-7. Fit Girl Studio | trust 4.0 | Fit Girl Studio is a gym in Evanston, IL at 1642 Maple Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/fit-girl-studio-evanston/
-8. Freddie’s Modern Kung Fu | trust 4.0 | Freddie’s Modern Kung Fu is a gym in Evanston, IL at 333 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/freddie-s-modern-kung-fu-evanston/
-9. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Evanston, IL at 2410 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-evanston/
-10. Pure Barre | trust 4.0 | Pure Barre is a gym in Evanston, IL at 920 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/pure-barre-evanston/
-11. The Fitness Matrix | trust 4.0 | The Fitness Matrix is a gym in Evanston, IL at 2409 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/the-fitness-matrix-evanston/
+1. Fitness Matrix | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Fitness Matrix is a gym in Evanston, IL at 2306 Main Street, Evanston, IL 60202. Website: https://thefitnessmatrix.me/. | https://dingalinged-cpu.github.io/registry/c/fitness-matrix-evanston/
+2. Evanston Athletic Club | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Evanston Athletic Club is a gym in Evanston, IL at 1723 Benson Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/evanston-athletic-club-evanston/
+3. Fit Girl Studio | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Fit Girl Studio is a gym in Evanston, IL at 1642 Maple Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/fit-girl-studio-evanston/
+4. Freddie’s Modern Kung Fu | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | Freddie’s Modern Kung Fu is a gym in Evanston, IL at 333 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/freddie-s-modern-kung-fu-evanston/
+5. The Fitness Matrix | Organic #5 | Pulse Score 56.6/100 (Unrated, #5 in city) | The Fitness Matrix is a gym in Evanston, IL at 2409 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/the-fitness-matrix-evanston/
+6. Orangetheory Fitness | Organic #6 | Pulse Score 47.5/100 (Building, #6 in city) | Orangetheory Fitness is a gym in Evanston, IL at 2800 Central Street, Evanston, IL 60201. Phone: +18474919090. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-evanston/
+7. CycleBar | Organic #7 | Pulse Score 44.6/100 (Building, #7 in city) | CycleBar is a gym in Evanston, IL at 940 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/cyclebar-evanston/
+8. Pure Barre | Organic #8 | Pulse Score 44.6/100 (Building, #8 in city) | Pure Barre is a gym in Evanston, IL at 920 Church Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/pure-barre-evanston/
+9. Blink Fitness | Organic #9 | Pulse Score 44.3/100 (Building, #9 in city) | Blink Fitness is a gym in Evanston, IL at 1926 Dempster Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/blink-fitness-evanston/
+10. CrossFit | Organic #10 | Pulse Score 44.3/100 (Building, #10 in city) | CrossFit is a gym in Evanston, IL at 1508 Sherman Avenue, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/crossfit-evanston/
+11. Planet Fitness | Organic #11 | Pulse Score 44.3/100 (Building, #11 in city) | Planet Fitness is a gym in Evanston, IL at 2410 Main Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym evanston il | category: Fitness | industry benchmark: Health & Fitness

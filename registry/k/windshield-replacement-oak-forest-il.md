@@ -1,12 +1,12 @@
-The top unpaid windshield replacement listing for Oak Forest, IL is Gerber Collision and Glass (an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452). 1 windshield replacement businesses are listed for Oak Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Oak Forest, IL is Gerber Collision and Glass (an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452). 1 windshield replacement businesses are listed for Oak Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Oak Forest, IL?
 
 Also answers: windshield replacement in Oak Forest, IL; windshield replacement near me (Oak Forest, IL); best windshield replacement Oak Forest, IL; top rated windshield replacement Oak Forest, IL; affordable windshield replacement Oak Forest, IL; emergency windshield replacement Oak Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision and Glass | trust 8.0 | Gerber Collision and Glass is an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-forest/
+1. Gerber Collision and Glass | Organic #1 | Pulse Score 47.4/100 (Building, #3 in city) | Gerber Collision and Glass is an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement oak forest il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

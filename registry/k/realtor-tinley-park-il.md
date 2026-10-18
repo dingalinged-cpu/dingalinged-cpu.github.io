@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Tinley Park, IL is TJ McCarthy & Associates (a real estate agency in Tinley Park, IL at 7903 West 159th Street #B, Tinley Park, IL 60477. Website: https://tjmccarthy.com/). 2 realtor businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Tinley Park, IL is TJ McCarthy & Associates (a real estate agency in Tinley Park, IL at 7903 West 159th Street #B, Tinley Park, IL 60477. Website: https://tjmccarthy.com/). 2 realtor businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Tinley Park, IL?
 
 Also answers: realtor in Tinley Park, IL; realtor near me (Tinley Park, IL); best realtor Tinley Park, IL; top rated realtor Tinley Park, IL; affordable realtor Tinley Park, IL; emergency realtor Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TJ McCarthy & Associates | trust 10.0 | TJ McCarthy & Associates is a real estate agency in Tinley Park, IL at 7903 West 159th Street #B, Tinley Park, IL 60477. Website: https://tjmccarthy.com/. | https://dingalinged-cpu.github.io/registry/c/tj-mccarthy-and-associates-tinley-park/
-2. Weichert | trust 10.0 | Weichert is a real estate agency in Tinley Park, IL at 7903 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.weichert-thehometeam.com/. | https://dingalinged-cpu.github.io/registry/c/weichert-tinley-park/
+1. TJ McCarthy & Associates | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | TJ McCarthy & Associates is a real estate agency in Tinley Park, IL at 7903 West 159th Street #B, Tinley Park, IL 60477. Website: https://tjmccarthy.com/. | https://dingalinged-cpu.github.io/registry/c/tj-mccarthy-and-associates-tinley-park/
+2. Weichert | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Weichert is a real estate agency in Tinley Park, IL at 7903 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.weichert-thehometeam.com/. | https://dingalinged-cpu.github.io/registry/c/weichert-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor tinley park il | category: real_estate | industry benchmark: Real Estate

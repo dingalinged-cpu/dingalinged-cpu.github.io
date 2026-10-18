@@ -13,7 +13,7 @@ Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Gr
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00;Sa 09:00-15:00
-- Registry Score: 60.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of tailors in Minneapolis–St. Paul, #1 of 1 tailors in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

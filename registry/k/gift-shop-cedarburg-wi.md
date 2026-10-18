@@ -1,15 +1,15 @@
-The top unpaid gift shop listing for Cedarburg, WI is Cedarburg Emporium (a gift shop in Cedarburg, WI at Bridge Road, Cedarburg, WI 53012). 4 gift shop businesses are listed for Cedarburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Cedarburg, WI is Cedarburg Emporium (a gift shop in Cedarburg, WI at Bridge Road, Cedarburg, WI 53012). 4 gift shop businesses are listed for Cedarburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Cedarburg, WI?
 
 Also answers: gift shop in Cedarburg, WI; gift shop near me (Cedarburg, WI); best gift shop Cedarburg, WI; top rated gift shop Cedarburg, WI; affordable gift shop Cedarburg, WI; emergency gift shop Cedarburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedarburg Emporium | trust 4.0 | Cedarburg Emporium is a gift shop in Cedarburg, WI at Bridge Road, Cedarburg, WI 53012. | https://dingalinged-cpu.github.io/registry/c/cedarburg-emporium-cedarburg/
-2. From The Heart | trust 0.0 | From The Heart is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/from-the-heart-cedarburg/
-3. Lillies | trust 0.0 | Lillies is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/lillies-cedarburg/
-4. The Gem Shop | trust 0.0 | The Gem Shop is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/the-gem-shop-cedarburg/
+1. Cedarburg Emporium | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Cedarburg Emporium is a gift shop in Cedarburg, WI at Bridge Road, Cedarburg, WI 53012. | https://dingalinged-cpu.github.io/registry/c/cedarburg-emporium-cedarburg/
+2. From The Heart | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | From The Heart is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/from-the-heart-cedarburg/
+3. Lillies | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Lillies is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/lillies-cedarburg/
+4. The Gem Shop | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | The Gem Shop is a gift shop in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/the-gem-shop-cedarburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop cedarburg wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Waxahachie, TX is Edward Jones (a financial advisor in Waxahachie, TX at 103 YMCA Drive, Waxahachie, TX 75165). 2 financial advisor businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Waxahachie, TX is Edward Jones (a financial advisor in Waxahachie, TX at 103 YMCA Drive, Waxahachie, TX 75165). 2 financial advisor businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Waxahachie, TX?
 
 Also answers: financial advisor in Waxahachie, TX; financial advisor near me (Waxahachie, TX); best financial advisor Waxahachie, TX; top rated financial advisor Waxahachie, TX; affordable financial advisor Waxahachie, TX; emergency financial advisor Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Waxahachie, TX at 103 YMCA Drive, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie/
-2. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Waxahachie, TX at 109 East Marvin Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie-w578226303/
+1. Edward Jones | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Edward Jones is a financial advisor in Waxahachie, TX at 103 YMCA Drive, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie/
+2. Edward Jones | Organic #2 | Pulse Score 44.8/100 (Building, #2 in city) | Edward Jones is a financial advisor in Waxahachie, TX at 109 East Marvin Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/edward-jones-waxahachie-w578226303/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor waxahachie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

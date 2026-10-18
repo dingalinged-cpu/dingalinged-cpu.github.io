@@ -13,7 +13,7 @@ Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 96% of pet stores in Milwaukee, #4 of 4 pet stores in Mount Pleasant (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 45.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

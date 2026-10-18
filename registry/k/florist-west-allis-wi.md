@@ -1,12 +1,12 @@
-The top unpaid florist listing for West Allis, WI is Locker's Florist (a florist in West Allis, WI. Phone: +14142767673. Website: https://www.lockersflorist.com/). 1 florist businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for West Allis, WI is Locker's Florist (a florist in West Allis, WI. Phone: +14142767673. Website: https://www.lockersflorist.com/). 1 florist businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in West Allis, WI?
 
 Also answers: florist in West Allis, WI; florist near me (West Allis, WI); best florist West Allis, WI; top rated florist West Allis, WI; affordable florist West Allis, WI; emergency florist West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Locker's Florist | trust 16.0 | Locker's Florist is a florist in West Allis, WI. Phone: +14142767673. Website: https://www.lockersflorist.com/. | https://dingalinged-cpu.github.io/registry/c/lockers-florist-west-allis/
+1. Locker's Florist | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Locker's Florist is a florist in West Allis, WI. Phone: +14142767673. Website: https://www.lockersflorist.com/. | https://dingalinged-cpu.github.io/registry/c/lockers-florist-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist west allis wi | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Spec's is a liquor store in Fort Worth, TX at 8550 East Freeway, Fort Worth, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.4/100 — Building — top 91% of liquor stores in Dallas–Fort Worth, #3 of 3 liquor stores in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

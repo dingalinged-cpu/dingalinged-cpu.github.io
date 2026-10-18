@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Murphy, TX is Annie's Culinary Creations (a bakery in Murphy, TX at 120 E FM 544, Murphy, TX 75094). 2 bakery businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Murphy, TX is Annie's Culinary Creations (a bakery in Murphy, TX at 120 E FM 544, Murphy, TX 75094). 2 bakery businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Murphy, TX?
 
 Also answers: bakery in Murphy, TX; bakery near me (Murphy, TX); best bakery Murphy, TX; top rated bakery Murphy, TX; affordable bakery Murphy, TX; emergency bakery Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Annie's Culinary Creations | trust 4.0 | Annie's Culinary Creations is a bakery in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/annies-culinary-creations-murphy/
-2. Kolache Factory | trust 4.0 | Kolache Factory is a bakery in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/kolache-factory-murphy/
+1. Annie's Culinary Creations | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Annie's Culinary Creations is a bakery in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/annies-culinary-creations-murphy/
+2. Kolache Factory | Organic #2 | Pulse Score 45.2/100 (Unrated, #2 in city) | Kolache Factory is a bakery in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/kolache-factory-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery murphy tx | category: Events & weddings | industry benchmark: Personal Services

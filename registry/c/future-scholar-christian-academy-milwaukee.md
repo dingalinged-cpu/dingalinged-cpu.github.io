@@ -13,7 +13,7 @@ Future Scholar Christian Academy is a daycare in Milwaukee, WI at 6401 West Capi
 - Website: https://www.futurescholarca.com/
 - Email: n/a
 - Opening hours (OSM syntax): 05:00-24:00
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of daycares in Milwaukee, #6 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

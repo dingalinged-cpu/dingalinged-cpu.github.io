@@ -13,7 +13,7 @@ All Exteriors Plus is a window installer in Town of Rutland, WI at 824 South Fre
 - Website: https://allexteriorsplus.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 34% of window installers in Madison, #1 of 1 window installers in Town of Rutland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid electrician listing for Kennesaw, GA is MSF Electric, Inc. (an electrician in Kennesaw, GA at 2535 South Main Street #104, Kennesaw, GA. Phone: +19198188052. Website: https://www.msfelectric.com/). 3 electrician businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Kennesaw, GA is MSF Electric, Inc. (an electrician in Kennesaw, GA at 2535 South Main Street #104, Kennesaw, GA. Phone: +19198188052. Website: https://www.msfelectric.com/). 3 electrician businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Kennesaw, GA?
 
 Also answers: electrician in Kennesaw, GA; electrician near me (Kennesaw, GA); best electrician Kennesaw, GA; top rated electrician Kennesaw, GA; affordable electrician Kennesaw, GA; emergency electrician Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MSF Electric, Inc. | trust 15.0 | MSF Electric, Inc. is an electrician in Kennesaw, GA at 2535 South Main Street #104, Kennesaw, GA. Phone: +19198188052. Website: https://www.msfelectric.com/. | https://dingalinged-cpu.github.io/registry/c/msf-electric-inc-kennesaw/
-2. Infratech Corporation | trust 9.0 | Infratech Corporation is an electrician in Kennesaw, GA at 2036 Baker Court, Kennesaw, GA. Website: https://infratechcorp.com/. | https://dingalinged-cpu.github.io/registry/c/infratech-corporation-kennesaw/
-3. Wade Electric, Inc. | trust 9.0 | Wade Electric, Inc. is an electrician in Kennesaw, GA at 1900 Old 41 Highway Northwest, Kennesaw, GA. Phone: +17704280388. | https://dingalinged-cpu.github.io/registry/c/wade-electric-inc-kennesaw/
+1. MSF Electric, Inc. | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | MSF Electric, Inc. is an electrician in Kennesaw, GA at 2535 South Main Street #104, Kennesaw, GA. Phone: +19198188052. Website: https://www.msfelectric.com/. | https://dingalinged-cpu.github.io/registry/c/msf-electric-inc-kennesaw/
+2. Wade Electric, Inc. | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Wade Electric, Inc. is an electrician in Kennesaw, GA at 1900 Old 41 Highway Northwest, Kennesaw, GA. Phone: +17704280388. | https://dingalinged-cpu.github.io/registry/c/wade-electric-inc-kennesaw/
+3. Infratech Corporation | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Infratech Corporation is an electrician in Kennesaw, GA at 2036 Baker Court, Kennesaw, GA. Website: https://infratechcorp.com/. | https://dingalinged-cpu.github.io/registry/c/infratech-corporation-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician kennesaw ga | category: Home services - Electrical | industry benchmark: Home & Home Improvement

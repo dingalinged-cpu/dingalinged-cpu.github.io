@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Orland Park, IL is Washen (a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/). 3 car wash businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Orland Park, IL is Washen (a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/). 3 car wash businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Orland Park, IL?
 
 Also answers: car wash in Orland Park, IL; car wash near me (Orland Park, IL); best car wash Orland Park, IL; top rated car wash Orland Park, IL; affordable car wash Orland Park, IL; emergency car wash Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Washen | trust 20.0 | Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/. | https://dingalinged-cpu.github.io/registry/c/washen-orland-park/
-2. Mobil | trust 4.0 | Mobil is a car wash in Mokena, IL at 11200 183rd Place, Mokena, IL 60448. | https://dingalinged-cpu.github.io/registry/c/mobil-mokena/
-3. Shell | trust 4.0 | Shell is a car wash in Orland Park, IL at 13059 South La Grange Road, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/shell-orland-park/
+1. Washen | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Washen is a car wash in Orland Park, IL at 8701 West 159th Street, Orland Park, IL 60462. Phone: +14648002029. Website: https://washen.us/. | https://dingalinged-cpu.github.io/registry/c/washen-orland-park/
+2. Mobil | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | Mobil is a car wash in Mokena, IL at 11200 183rd Place, Mokena, IL 60448. | https://dingalinged-cpu.github.io/registry/c/mobil-mokena/
+3. Shell | Organic #3 | Pulse Score 45.3/100 (Building, #2 in city) | Shell is a car wash in Orland Park, IL at 13059 South La Grange Road, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/shell-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash orland park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

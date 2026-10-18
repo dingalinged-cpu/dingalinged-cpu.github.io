@@ -1,19 +1,19 @@
-The top unpaid gym listing for Decatur, GA is Anytime Fitness (a gym in Decatur, GA at 4760 Flat Shoals Parkway, Decatur, GA 30034. Phone: +17706744185. Website: https://www.anytimefitness.com/gyms/1374/decatur-ga-30034/). 8 gym businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Decatur, GA is The Dance Center at Vista Grove (a gym in Decatur, GA at 2852 Lavista Road, Decatur, GA 30033). 8 gym businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Decatur, GA?
 
 Also answers: gym in Decatur, GA; gym near me (Decatur, GA); best gym Decatur, GA; top rated gym Decatur, GA; affordable gym Decatur, GA; emergency gym Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Decatur, GA at 4760 Flat Shoals Parkway, Decatur, GA 30034. Phone: +17706744185. Website: https://www.anytimefitness.com/gyms/1374/decatur-ga-30034/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-decatur/
-2. Workout Anytime | trust 8.0 | Workout Anytime is a gym in Decatur, GA at 2836 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-decatur/
-3. Atlanta Barbell | trust 4.0 | Atlanta Barbell is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-barbell-decatur/
-4. The Dance Center at Vista Grove | trust 4.0 | The Dance Center at Vista Grove is a gym in Decatur, GA at 2852 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/the-dance-center-at-vista-grove-decatur/
-5. Body20 | trust 0.0 | Body20 is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/body20-decatur/
-6. Level 2 fitness | trust 0.0 | Level 2 fitness is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/level-2-fitness-decatur/
-7. Pace 23 | trust 0.0 | Pace 23 is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/pace-23-decatur/
-8. Pinnacle Fitness Center | trust 0.0 | Pinnacle Fitness Center is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/pinnacle-fitness-center-decatur/
+1. The Dance Center at Vista Grove | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | The Dance Center at Vista Grove is a gym in Decatur, GA at 2852 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/the-dance-center-at-vista-grove-decatur/
+2. Atlanta Barbell | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Atlanta Barbell is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-barbell-decatur/
+3. Pace 23 | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Pace 23 is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/pace-23-decatur/
+4. Level 2 fitness | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Level 2 fitness is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/level-2-fitness-decatur/
+5. Pinnacle Fitness Center | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Pinnacle Fitness Center is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/pinnacle-fitness-center-decatur/
+6. Anytime Fitness | Organic #6 | Pulse Score 48.4/100 (Building, #6 in city) | Anytime Fitness is a gym in Decatur, GA at 4760 Flat Shoals Parkway, Decatur, GA 30034. Phone: +17706744185. Website: https://www.anytimefitness.com/gyms/1374/decatur-ga-30034/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-decatur/
+7. Workout Anytime | Organic #7 | Pulse Score 45.3/100 (Unrated, #7 in city) | Workout Anytime is a gym in Decatur, GA at 2836 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-decatur/
+8. Body20 | Organic #8 | Pulse Score 43.3/100 (Building, #8 in city) | Body20 is a gym in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/body20-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym decatur ga | category: Fitness | industry benchmark: Health & Fitness

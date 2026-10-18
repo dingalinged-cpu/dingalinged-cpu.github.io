@@ -1,12 +1,12 @@
-The top unpaid gym listing for Wylie, TX is Wylie Elite Allstar Cheerleading and Tumbling (a gym in Wylie, TX at 201 Security Court, Wylie, TX 75098). 1 gym businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Wylie, TX is Wylie Elite Allstar Cheerleading and Tumbling (a gym in Wylie, TX at 201 Security Court, Wylie, TX 75098). 1 gym businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Wylie, TX?
 
 Also answers: gym in Wylie, TX; gym near me (Wylie, TX); best gym Wylie, TX; top rated gym Wylie, TX; affordable gym Wylie, TX; emergency gym Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wylie Elite Allstar Cheerleading and Tumbling | trust 4.0 | Wylie Elite Allstar Cheerleading and Tumbling is a gym in Wylie, TX at 201 Security Court, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-elite-allstar-cheerleading-and-tumbling-wylie/
+1. Wylie Elite Allstar Cheerleading and Tumbling | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Wylie Elite Allstar Cheerleading and Tumbling is a gym in Wylie, TX at 201 Security Court, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-elite-allstar-cheerleading-and-tumbling-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym wylie tx | category: Fitness | industry benchmark: Health & Fitness

@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Frisco, TX is Goodwill Store & Donation Center (a thrift store in Frisco, TX at 3939 Ohio Drive, Frisco, TX. Phone: +12148888051. Website: https://goodwilldallas.org/). 3 thrift store businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Frisco, TX is Grace Bridge Resale (a thrift store in Frisco, TX at 9380 Prestmont Place, Frisco, TX 75035. Website: https://www.gracebridge.us/resale-stores). 3 thrift store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Frisco, TX?
 
 Also answers: thrift store in Frisco, TX; thrift store near me (Frisco, TX); best thrift store Frisco, TX; top rated thrift store Frisco, TX; affordable thrift store Frisco, TX; emergency thrift store Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill Store & Donation Center | trust 19.0 | Goodwill Store & Donation Center is a thrift store in Frisco, TX at 3939 Ohio Drive, Frisco, TX. Phone: +12148888051. Website: https://goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-frisco/
-2. Grace Bridge Resale | trust 14.0 | Grace Bridge Resale is a thrift store in Frisco, TX at 9380 Prestmont Place, Frisco, TX 75035. Website: https://www.gracebridge.us/resale-stores. | https://dingalinged-cpu.github.io/registry/c/grace-bridge-resale-frisco/
-3. Frisco Resale | trust 8.0 | Frisco Resale is a thrift store in Frisco, TX at 9125 Dogwood Street, Frisco, TX 75033. | https://dingalinged-cpu.github.io/registry/c/frisco-resale-frisco/
+1. Grace Bridge Resale | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Grace Bridge Resale is a thrift store in Frisco, TX at 9380 Prestmont Place, Frisco, TX 75035. Website: https://www.gracebridge.us/resale-stores. | https://dingalinged-cpu.github.io/registry/c/grace-bridge-resale-frisco/
+2. Frisco Resale | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Frisco Resale is a thrift store in Frisco, TX at 9125 Dogwood Street, Frisco, TX 75033. | https://dingalinged-cpu.github.io/registry/c/frisco-resale-frisco/
+3. Goodwill Store & Donation Center | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Goodwill Store & Donation Center is a thrift store in Frisco, TX at 3939 Ohio Drive, Frisco, TX. Phone: +12148888051. Website: https://goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

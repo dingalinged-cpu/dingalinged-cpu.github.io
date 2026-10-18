@@ -13,7 +13,7 @@ Massage Envy is a massage studio in Richardson, TX at 1415 East Renner Road #210
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-21:00; Tu 10:00-21:00; Sa,Su 08:00-20:00
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 80% of massage studios in Dallas–Fort Worth, #6 of 6 massage studios in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

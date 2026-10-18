@@ -1,12 +1,12 @@
-The top unpaid moving company listing for League City, TX is Clear Lake Movers Inc (a moving company in League City, TX at 303 Velvet St, League City, TX 77573. Phone: +12815324889. Website: https://clearlakemovers.com/). 1 moving company businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for League City, TX is Clear Lake Movers Inc (a moving company in League City, TX at 303 Velvet St, League City, TX 77573. Phone: +12815324889. Website: https://clearlakemovers.com/). 1 moving company businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in League City, TX?
 
 Also answers: moving company in League City, TX; moving company near me (League City, TX); best moving company League City, TX; top rated moving company League City, TX; affordable moving company League City, TX; emergency moving company League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clear Lake Movers Inc | trust 20.0 | Clear Lake Movers Inc is a moving company in League City, TX at 303 Velvet St, League City, TX 77573. Phone: +12815324889. Website: https://clearlakemovers.com/. | https://dingalinged-cpu.github.io/registry/c/clear-lake-movers-inc-league-city/
+1. Clear Lake Movers Inc | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Clear Lake Movers Inc is a moving company in League City, TX at 303 Velvet St, League City, TX 77573. Phone: +12815324889. Website: https://clearlakemovers.com/. | https://dingalinged-cpu.github.io/registry/c/clear-lake-movers-inc-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company league city tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

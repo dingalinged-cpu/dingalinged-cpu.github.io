@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Shoreview, MN is BP Car Wash (a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126). 4 car wash businesses are listed for Shoreview, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Shoreview, MN is Tony's Wash N Fill (a car wash in Shoreview, MN). 4 car wash businesses are listed for Shoreview, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Shoreview, MN?
 
 Also answers: car wash in Shoreview, MN; car wash near me (Shoreview, MN); best car wash Shoreview, MN; top rated car wash Shoreview, MN; affordable car wash Shoreview, MN; emergency car wash Shoreview, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BP Car Wash | trust 4.0 | BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126. | https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/
-2. Mister Car Wash | trust 4.0 | Mister Car Wash is a car wash in Shoreview, MN at 4595 Hodgson Road, Shoreview, MN 55126. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-shoreview/
-3. Tony's Wash N Fill | trust 4.0 | Tony's Wash N Fill is a car wash in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/tonys-wash-n-fill-shoreview/
-4. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-shoreview/
+1. Tony's Wash N Fill | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Tony's Wash N Fill is a car wash in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/tonys-wash-n-fill-shoreview/
+2. BP Car Wash | Organic #2 | Pulse Score 58.7/100 (Unrated, #3 in city) | BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126. | https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/
+3. Mister Car Wash | Organic #3 | Pulse Score 47.1/100 (Building, #2 in city) | Mister Car Wash is a car wash in Shoreview, MN at 4595 Hodgson Road, Shoreview, MN 55126. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-shoreview/
+4. Speedy Wash | Organic #4 | Pulse Score 43.2/100 (Building, #3 in city) | Speedy Wash is a car wash in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-shoreview/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash shoreview mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

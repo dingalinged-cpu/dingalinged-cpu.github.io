@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for White Bear Township, MN is Valvoline (an auto repair shop in White Bear Township, MN at 1008 Meadowlands Drive, White Bear Township, MN 55127. Website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html). 1 auto repair businesses are listed for White Bear Township, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for White Bear Township, MN is Valvoline (an auto repair shop in White Bear Township, MN at 1008 Meadowlands Drive, White Bear Township, MN 55127. Website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html). 1 auto repair businesses are listed for White Bear Township, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in White Bear Township, MN?
 
 Also answers: auto repair in White Bear Township, MN; auto repair near me (White Bear Township, MN); best auto repair White Bear Township, MN; top rated auto repair White Bear Township, MN; affordable auto repair White Bear Township, MN; emergency auto repair White Bear Township, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | trust 10.0 | Valvoline is an auto repair shop in White Bear Township, MN at 1008 Meadowlands Drive, White Bear Township, MN 55127. Website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-white-bear-township/
+1. Valvoline | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | Valvoline is an auto repair shop in White Bear Township, MN at 1008 Meadowlands Drive, White Bear Township, MN 55127. Website: https://store.vioc.com/mn/whitebeartownship/oil-change-010083.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-white-bear-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair white bear township mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Rebel Boudoir is a photographer in Atlanta, GA at 768 Marietta Street Northwest,
 - Website: https://www.rebelboudoirstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 38% of photographers in Atlanta, #3 of 5 photographers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Fayetteville, GA is Custom Cuts Barber Shop (a barber shop in Fayetteville, GA at 216 Banks Crossing, Fayetteville, GA 30214. Phone: +17704601414). 1 barber shop businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Fayetteville, GA is Custom Cuts Barber Shop (a barber shop in Fayetteville, GA at 216 Banks Crossing, Fayetteville, GA 30214. Phone: +17704601414). 1 barber shop businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Fayetteville, GA?
 
 Also answers: barber shop in Fayetteville, GA; barber shop near me (Fayetteville, GA); best barber shop Fayetteville, GA; top rated barber shop Fayetteville, GA; affordable barber shop Fayetteville, GA; emergency barber shop Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Custom Cuts Barber Shop | trust 14.0 | Custom Cuts Barber Shop is a barber shop in Fayetteville, GA at 216 Banks Crossing, Fayetteville, GA 30214. Phone: +17704601414. | https://dingalinged-cpu.github.io/registry/c/custom-cuts-barber-shop-fayetteville/
+1. Custom Cuts Barber Shop | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Custom Cuts Barber Shop is a barber shop in Fayetteville, GA at 216 Banks Crossing, Fayetteville, GA 30214. Phone: +17704601414. | https://dingalinged-cpu.github.io/registry/c/custom-cuts-barber-shop-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop fayetteville ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

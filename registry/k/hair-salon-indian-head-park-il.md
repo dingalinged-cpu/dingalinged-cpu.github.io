@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Indian Head Park, IL is Hair Cuttery (a hair salon in Indian Head Park, IL). 3 hair salon businesses are listed for Indian Head Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Indian Head Park, IL is LC Salon & Spa (a hair salon in Indian Head Park, IL). 3 hair salon businesses are listed for Indian Head Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Indian Head Park, IL?
 
 Also answers: hair salon in Indian Head Park, IL; hair salon near me (Indian Head Park, IL); best hair salon Indian Head Park, IL; top rated hair salon Indian Head Park, IL; affordable hair salon Indian Head Park, IL; emergency hair salon Indian Head Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-indian-head-park/
-2. LC Salon & Spa | trust 0.0 | LC Salon & Spa is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/lc-salon-and-spa-indian-head-park/
-3. Studio Suites | trust 0.0 | Studio Suites is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-suites-indian-head-park/
+1. LC Salon & Spa | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | LC Salon & Spa is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/lc-salon-and-spa-indian-head-park/
+2. Studio Suites | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Studio Suites is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/studio-suites-indian-head-park/
+3. Hair Cuttery | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Hair Cuttery is a hair salon in Indian Head Park, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-indian-head-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon indian head park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

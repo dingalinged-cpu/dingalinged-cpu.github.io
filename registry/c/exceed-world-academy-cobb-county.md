@@ -13,7 +13,7 @@ Exceed World Academy is a daycare in Cobb County, GA at 803 Brackett Road Northe
 - Website: https://exceedworldacademy.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Good — top 17% of daycares in Atlanta, #6 of 9 daycares in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

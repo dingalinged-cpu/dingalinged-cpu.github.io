@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Orland Park, IL is Georgio's (an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/). 2 event venues businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Orland Park, IL is Jamog Banquets (an event venue in Orland Park, IL at 9050 West 159th Street, Orland Park, IL 60462. Phone: +17086751010. Website: https://www.jamogbanquets.com/). 2 event venues businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Orland Park, IL?
 
 Also answers: event venues in Orland Park, IL; event venues near me (Orland Park, IL); best event venues Orland Park, IL; top rated event venues Orland Park, IL; affordable event venues Orland Park, IL; emergency event venues Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Georgio's | trust 16.0 | Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/. | https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/
-2. Jamog Banquets | trust 16.0 | Jamog Banquets is an event venue in Orland Park, IL at 9050 West 159th Street, Orland Park, IL 60462. Phone: +17086751010. Website: https://www.jamogbanquets.com/. | https://dingalinged-cpu.github.io/registry/c/jamog-banquets-orland-park/
+1. Jamog Banquets | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Jamog Banquets is an event venue in Orland Park, IL at 9050 West 159th Street, Orland Park, IL 60462. Phone: +17086751010. Website: https://www.jamogbanquets.com/. | https://dingalinged-cpu.github.io/registry/c/jamog-banquets-orland-park/
+2. Georgio's | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Georgio's is an event venue in Orland Park, IL at 8800 West 159th Street, Orland Park, IL 60462. Phone: +17084031757. Website: https://georgios.com/. | https://dingalinged-cpu.github.io/registry/c/georgios-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues orland park il | category: Events & weddings | industry benchmark: Personal Services

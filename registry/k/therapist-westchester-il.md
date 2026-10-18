@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Westchester, IL is Calm Mind Counseling Center (a therapy practice in Westchester, IL. Phone: +17732340423. Website: https://www.calmmindcc.com/). 1 therapist businesses are listed for Westchester, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Westchester, IL is Calm Mind Counseling Center (a therapy practice in Westchester, IL. Phone: +17732340423. Website: https://www.calmmindcc.com/). 1 therapist businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Westchester, IL?
 
 Also answers: therapist in Westchester, IL; therapist near me (Westchester, IL); best therapist Westchester, IL; top rated therapist Westchester, IL; affordable therapist Westchester, IL; emergency therapist Westchester, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Calm Mind Counseling Center | trust 12.0 | Calm Mind Counseling Center is a therapy practice in Westchester, IL. Phone: +17732340423. Website: https://www.calmmindcc.com/. | https://dingalinged-cpu.github.io/registry/c/calm-mind-counseling-center-westchester/
+1. Calm Mind Counseling Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Calm Mind Counseling Center is a therapy practice in Westchester, IL. Phone: +17732340423. Website: https://www.calmmindcc.com/. | https://dingalinged-cpu.github.io/registry/c/calm-mind-counseling-center-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist westchester il | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

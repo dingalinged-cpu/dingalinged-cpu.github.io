@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Fort Bend County, TX is Sugaring NYC (a waxing salon in Fort Bend County, TX). 2 waxing businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Fort Bend County, TX is Sugaring NYC (a waxing salon in Fort Bend County, TX). 2 waxing businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Fort Bend County, TX?
 
 Also answers: waxing in Fort Bend County, TX; waxing near me (Fort Bend County, TX); best waxing Fort Bend County, TX; top rated waxing Fort Bend County, TX; affordable waxing Fort Bend County, TX; emergency waxing Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sugaring NYC | trust 0.0 | Sugaring NYC is a waxing salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-fort-bend-county/
-2. Waxing the City | trust 0.0 | Waxing the City is a waxing salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/waxing-the-city-fort-bend-county/
+1. Sugaring NYC | Organic #1 | Pulse Score 41.1/100 (Unrated, #1 in city) | Sugaring NYC is a waxing salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-fort-bend-county/
+2. Waxing the City | Organic #2 | Pulse Score 40.9/100 (Building, #2 in city) | Waxing the City is a waxing salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/waxing-the-city-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing fort bend county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

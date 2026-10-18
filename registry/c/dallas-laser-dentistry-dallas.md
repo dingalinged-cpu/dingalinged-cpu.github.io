@@ -13,7 +13,7 @@ Dallas Laser Dentistry is a dentist in Dallas, TX at 7557 Rambler Road #1023, Da
 - Website: n/a
 - Email: dallaslaserdentistrytx@gmail.com
 - Opening hours (OSM syntax): Mo,Tu,We,Th 07:30-16:00; Fr,Sa,Su off
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of dentists in Dallas–Fort Worth, #24 of 116 dentists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

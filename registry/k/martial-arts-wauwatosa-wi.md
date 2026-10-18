@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Wauwatosa, WI is 9Round Fitness (a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave). 3 martial arts businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Wauwatosa, WI is 9Round Fitness (a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave). 3 martial arts businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Wauwatosa, WI?
 
 Also answers: martial arts in Wauwatosa, WI; martial arts near me (Wauwatosa, WI); best martial arts Wauwatosa, WI; top rated martial arts Wauwatosa, WI; affordable martial arts Wauwatosa, WI; emergency martial arts Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 9Round Fitness | trust 10.0 | 9Round Fitness is a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave. | https://dingalinged-cpu.github.io/registry/c/9round-fitness-wauwatosa/
-2. Cross Over Juiu Jitsu | trust 3.0 | Cross Over Juiu Jitsu is a martial arts school in Wauwatosa, WI at 11931 West Bluemound Road, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/cross-over-juiu-jitsu-wauwatosa/
-3. Premier Martial Arts | trust 0.0 | Premier Martial Arts is a martial arts school in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/premier-martial-arts-wauwatosa/
+1. 9Round Fitness | Organic #1 | Pulse Score 60.2/100 (Good, #1 in city) | 9Round Fitness is a martial arts school in Wauwatosa, WI at 7954 Harwood Avenue, Wauwatosa, WI 53213. Website: https://www.9round.com/locations/wi/wauwatosa/harwood-ave. | https://dingalinged-cpu.github.io/registry/c/9round-fitness-wauwatosa/
+2. Cross Over Juiu Jitsu | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Cross Over Juiu Jitsu is a martial arts school in Wauwatosa, WI at 11931 West Bluemound Road, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/cross-over-juiu-jitsu-wauwatosa/
+3. Premier Martial Arts | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Premier Martial Arts is a martial arts school in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/premier-martial-arts-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts wauwatosa wi | category: Fitness | industry benchmark: Health & Fitness

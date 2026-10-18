@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Cleveland, TX is Palm Harbor Homes (a real estate agency in Cleveland, TX at 1152 US-59 Bypass, Cleveland, TX 77327). 1 real estate agent businesses are listed for Cleveland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Cleveland, TX is Palm Harbor Homes (a real estate agency in Cleveland, TX at 1152 US-59 Bypass, Cleveland, TX 77327). 1 real estate agent businesses are listed for Cleveland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Cleveland, TX?
 
 Also answers: real estate agent in Cleveland, TX; real estate agent near me (Cleveland, TX); best real estate agent Cleveland, TX; top rated real estate agent Cleveland, TX; affordable real estate agent Cleveland, TX; emergency real estate agent Cleveland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Harbor Homes | trust 4.0 | Palm Harbor Homes is a real estate agency in Cleveland, TX at 1152 US-59 Bypass, Cleveland, TX 77327. | https://dingalinged-cpu.github.io/registry/c/palm-harbor-homes-cleveland/
+1. Palm Harbor Homes | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Palm Harbor Homes is a real estate agency in Cleveland, TX at 1152 US-59 Bypass, Cleveland, TX 77327. | https://dingalinged-cpu.github.io/registry/c/palm-harbor-homes-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent cleveland tx | category: Professional & financial services | industry benchmark: Finance & Insurance

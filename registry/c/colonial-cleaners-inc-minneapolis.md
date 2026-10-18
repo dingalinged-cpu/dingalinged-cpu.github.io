@@ -13,7 +13,7 @@ Colonial Cleaners, Inc. is a dry cleaner in Minneapolis, MN at 3701 Lyndale Aven
 - Website: https://colonialcleanersmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 10:00-14:00; PH,Su off
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 2% of dry cleaners in Minneapolis–St. Paul, #1 of 13 dry cleaners in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

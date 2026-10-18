@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Cicero, IL is Take 5 Oil Change (an auto repair shop in Cicero, IL at 2217 South Cicero Avenue, Cicero, IL 60804. Website: https://www.take5.com/locations/oil-change/illinois/cicero/31289/). 4 auto repair businesses are listed for Cicero, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Cicero, IL is Robin Hood Muffler Shop (an auto repair shop in Cicero, IL at 6131 West Ogden Avenue, Cicero, IL 60804). 4 auto repair businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Cicero, IL?
 
 Also answers: auto repair in Cicero, IL; auto repair near me (Cicero, IL); best auto repair Cicero, IL; top rated auto repair Cicero, IL; affordable auto repair Cicero, IL; emergency auto repair Cicero, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Take 5 Oil Change | trust 10.0 | Take 5 Oil Change is an auto repair shop in Cicero, IL at 2217 South Cicero Avenue, Cicero, IL 60804. Website: https://www.take5.com/locations/oil-change/illinois/cicero/31289/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-cicero/
-2. AAMCO | trust 4.0 | AAMCO is an auto repair shop in Cicero, IL at 2001 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/aamco-cicero/
-3. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Cicero, IL at 6140 West Ogden Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-cicero/
-4. Robin Hood Muffler Shop | trust 4.0 | Robin Hood Muffler Shop is an auto repair shop in Cicero, IL at 6131 West Ogden Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/robin-hood-muffler-shop-cicero/
+1. Robin Hood Muffler Shop | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Robin Hood Muffler Shop is an auto repair shop in Cicero, IL at 6131 West Ogden Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/robin-hood-muffler-shop-cicero/
+2. Take 5 Oil Change | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Take 5 Oil Change is an auto repair shop in Cicero, IL at 2217 South Cicero Avenue, Cicero, IL 60804. Website: https://www.take5.com/locations/oil-change/illinois/cicero/31289/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-cicero/
+3. AAMCO | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | AAMCO is an auto repair shop in Cicero, IL at 2001 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/aamco-cicero/
+4. Jiffy Lube | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Cicero, IL at 6140 West Ogden Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair cicero il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

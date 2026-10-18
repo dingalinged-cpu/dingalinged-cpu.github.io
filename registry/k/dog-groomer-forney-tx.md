@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Forney, TX is Forney Pet Spa (a dog groomer in Forney, TX at 10308 West US Highway 80, Forney, TX 75126). 1 dog groomer businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Forney, TX is Forney Pet Spa (a dog groomer in Forney, TX at 10308 West US Highway 80, Forney, TX 75126). 1 dog groomer businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Forney, TX?
 
 Also answers: dog groomer in Forney, TX; dog groomer near me (Forney, TX); best dog groomer Forney, TX; top rated dog groomer Forney, TX; affordable dog groomer Forney, TX; emergency dog groomer Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forney Pet Spa | trust 4.0 | Forney Pet Spa is a dog groomer in Forney, TX at 10308 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/forney-pet-spa-forney/
+1. Forney Pet Spa | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Forney Pet Spa is a dog groomer in Forney, TX at 10308 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/forney-pet-spa-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer forney tx | category: Pets | industry benchmark: Animals & Pets

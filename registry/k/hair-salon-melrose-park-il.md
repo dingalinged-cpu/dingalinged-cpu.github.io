@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Melrose Park, IL is Roy's Hair Salon (a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195). 2 hair salon businesses are listed for Melrose Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Melrose Park, IL is Roy's Hair Salon (a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195). 2 hair salon businesses are listed for Melrose Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Melrose Park, IL?
 
 Also answers: hair salon in Melrose Park, IL; hair salon near me (Melrose Park, IL); best hair salon Melrose Park, IL; top rated hair salon Melrose Park, IL; affordable hair salon Melrose Park, IL; emergency hair salon Melrose Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roy's Hair Salon | trust 10.0 | Roy's Hair Salon is a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195. | https://dingalinged-cpu.github.io/registry/c/roys-hair-salon-melrose-park/
-2. Melrose Platinum Fades | trust 0.0 | Melrose Platinum Fades is a hair salon in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/melrose-platinum-fades-melrose-park/
+1. Roy's Hair Salon | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Roy's Hair Salon is a hair salon in Melrose Park, IL at 113 Broadway Avenue, Melrose Park, IL 60160. Phone: +17082528195. | https://dingalinged-cpu.github.io/registry/c/roys-hair-salon-melrose-park/
+2. Melrose Platinum Fades | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Melrose Platinum Fades is a hair salon in Melrose Park, IL. | https://dingalinged-cpu.github.io/registry/c/melrose-platinum-fades-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon melrose park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

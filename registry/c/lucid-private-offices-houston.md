@@ -13,7 +13,7 @@ Lucid Private Offices is a coworking space in Houston, TX at 5718 Westheimer Roa
 - Website: https://www.lucidprivateoffices.com/texas/houston/5718-westheimer-road/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 62% of coworking spaces in Houston, #6 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

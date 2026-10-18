@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Franklin, WI is Coldwell Banker (a real estate agency in Franklin, WI at 7194 South 76th Street, Franklin, WI 53132). 2 realtor businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Franklin, WI is Janacek Investments (a real estate agency in Franklin, WI at 6528 South Lovers Lane Road, Franklin, WI 53132). 2 realtor businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Franklin, WI?
 
 Also answers: realtor in Franklin, WI; realtor near me (Franklin, WI); best realtor Franklin, WI; top rated realtor Franklin, WI; affordable realtor Franklin, WI; emergency realtor Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Coldwell Banker | trust 4.0 | Coldwell Banker is a real estate agency in Franklin, WI at 7194 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-franklin/
-2. Janacek Investments | trust 4.0 | Janacek Investments is a real estate agency in Franklin, WI at 6528 South Lovers Lane Road, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/janacek-investments-franklin/
+1. Janacek Investments | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Janacek Investments is a real estate agency in Franklin, WI at 6528 South Lovers Lane Road, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/janacek-investments-franklin/
+2. Coldwell Banker | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Coldwell Banker is a real estate agency in Franklin, WI at 7194 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor franklin wi | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ Cutting Up Style Bar is a hair salon in Smyrna, GA at 1184 Concord Road Southeas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-18:00; Fr 08:00-18:00; Sa 07:00-16:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 31% of hair salons in Atlanta, #4 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

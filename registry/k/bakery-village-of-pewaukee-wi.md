@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Village Of Pewaukee, WI is Turkey & The Toad (a bakery in Village of Pewaukee, WI at 161 West Wisconsin Avenue #1G, Village of Pewaukee, WI 53072. Phone: +12626964470. Website: https://www.turkeyandthetoad.com/). 1 bakery businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Village Of Pewaukee, WI is Turkey & The Toad (a bakery in Village of Pewaukee, WI at 161 West Wisconsin Avenue #1G, Village of Pewaukee, WI 53072. Phone: +12626964470. Website: https://www.turkeyandthetoad.com/). 1 bakery businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Village Of Pewaukee, WI?
 
 Also answers: bakery in Village Of Pewaukee, WI; bakery near me (Village Of Pewaukee, WI); best bakery Village Of Pewaukee, WI; top rated bakery Village Of Pewaukee, WI; affordable bakery Village Of Pewaukee, WI; emergency bakery Village Of Pewaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Turkey & The Toad | trust 20.0 | Turkey & The Toad is a bakery in Village of Pewaukee, WI at 161 West Wisconsin Avenue #1G, Village of Pewaukee, WI 53072. Phone: +12626964470. Website: https://www.turkeyandthetoad.com/. | https://dingalinged-cpu.github.io/registry/c/turkey-and-the-toad-village-of-pewaukee/
+1. Turkey & The Toad | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Turkey & The Toad is a bakery in Village of Pewaukee, WI at 161 West Wisconsin Avenue #1G, Village of Pewaukee, WI 53072. Phone: +12626964470. Website: https://www.turkeyandthetoad.com/. | https://dingalinged-cpu.github.io/registry/c/turkey-and-the-toad-village-of-pewaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery village of pewaukee wi | category: Events & weddings | industry benchmark: Personal Services

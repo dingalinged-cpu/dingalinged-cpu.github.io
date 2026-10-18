@@ -13,7 +13,7 @@ La Petite Academy of Marietta is a preschool in Marietta, GA at 1805 Williams Dr
 - Website: https://www.lapetite.com/your-local-school/marietta-ga-7413/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 75% of preschools in Atlanta, #11 of 14 preschools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

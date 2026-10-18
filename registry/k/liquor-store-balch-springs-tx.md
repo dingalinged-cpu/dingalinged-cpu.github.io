@@ -1,17 +1,17 @@
-The top unpaid liquor store listing for Balch Springs, TX is Big 5 Beverage (a liquor store in Balch Springs, TX at 1499 South Peachtree Road #A, Balch Springs, TX 75180). 6 liquor store businesses are listed for Balch Springs, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Balch Springs, TX is Big 5 Beverage (a liquor store in Balch Springs, TX at 1499 South Peachtree Road #A, Balch Springs, TX 75180). 6 liquor store businesses are listed for Balch Springs, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Balch Springs, TX?
 
 Also answers: liquor store in Balch Springs, TX; liquor store near me (Balch Springs, TX); best liquor store Balch Springs, TX; top rated liquor store Balch Springs, TX; affordable liquor store Balch Springs, TX; emergency liquor store Balch Springs, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big 5 Beverage | trust 4.0 | Big 5 Beverage is a liquor store in Balch Springs, TX at 1499 South Peachtree Road #A, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/big-5-beverage-balch-springs/
-2. Howdys | trust 4.0 | Howdys is a liquor store in Balch Springs, TX at 3620 Shepherd Lane, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/howdys-balch-springs/
-3. I-20 Liquor Depot | trust 4.0 | I-20 Liquor Depot is a liquor store in Balch Springs, TX at 13881 Interstate 20 #B, Balch Springs, TX 75181. | https://dingalinged-cpu.github.io/registry/c/i-20-liquor-depot-balch-springs/
-4. Liquor Depot | trust 4.0 | Liquor Depot is a liquor store in Balch Springs, TX at 11709 Seagoville Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/liquor-depot-balch-springs/
-5. Liquor Zone | trust 4.0 | Liquor Zone is a liquor store in Balch Springs, TX at 1820 Bruton Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/liquor-zone-balch-springs/
-6. Payless Liquor | trust 4.0 | Payless Liquor is a liquor store in Balch Springs, TX at 2497 South Peachtree Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/payless-liquor-balch-springs/
+1. Big 5 Beverage | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Big 5 Beverage is a liquor store in Balch Springs, TX at 1499 South Peachtree Road #A, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/big-5-beverage-balch-springs/
+2. Howdys | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Howdys is a liquor store in Balch Springs, TX at 3620 Shepherd Lane, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/howdys-balch-springs/
+3. I-20 Liquor Depot | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | I-20 Liquor Depot is a liquor store in Balch Springs, TX at 13881 Interstate 20 #B, Balch Springs, TX 75181. | https://dingalinged-cpu.github.io/registry/c/i-20-liquor-depot-balch-springs/
+4. Liquor Zone | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Liquor Zone is a liquor store in Balch Springs, TX at 1820 Bruton Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/liquor-zone-balch-springs/
+5. Payless Liquor | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Payless Liquor is a liquor store in Balch Springs, TX at 2497 South Peachtree Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/payless-liquor-balch-springs/
+6. Liquor Depot | Organic #6 | Pulse Score 44.2/100 (Unrated, #6 in city) | Liquor Depot is a liquor store in Balch Springs, TX at 11709 Seagoville Road, Balch Springs, TX 75180. | https://dingalinged-cpu.github.io/registry/c/liquor-depot-balch-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store balch springs tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Cleveland, TX is Solar Deluxe Nails (a nail salon in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815929903). 2 nail salon businesses are listed for Cleveland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Cleveland, TX is Solar Deluxe Nails (a nail salon in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815929903). 2 nail salon businesses are listed for Cleveland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Cleveland, TX?
 
 Also answers: nail salon in Cleveland, TX; nail salon near me (Cleveland, TX); best nail salon Cleveland, TX; top rated nail salon Cleveland, TX; affordable nail salon Cleveland, TX; emergency nail salon Cleveland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Solar Deluxe Nails | trust 14.0 | Solar Deluxe Nails is a nail salon in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815929903. | https://dingalinged-cpu.github.io/registry/c/solar-deluxe-nails-cleveland/
-2. Crystal Nails | trust 4.0 | Crystal Nails is a nail salon in Cleveland, TX at 1823 East Houston Street, Cleveland, TX 77327. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-cleveland/
+1. Solar Deluxe Nails | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Solar Deluxe Nails is a nail salon in Cleveland, TX at 429 West Southline Street, Cleveland, TX 77327. Phone: +12815929903. | https://dingalinged-cpu.github.io/registry/c/solar-deluxe-nails-cleveland/
+2. Crystal Nails | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Crystal Nails is a nail salon in Cleveland, TX at 1823 East Houston Street, Cleveland, TX 77327. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon cleveland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

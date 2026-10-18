@@ -1,12 +1,12 @@
-The top unpaid vet listing for Des Plaines, IL is Des Plaines Veterenaty Hospital (a veterinarian in Des Plaines, IL). 1 vet businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Des Plaines, IL is Des Plaines Veterenaty Hospital (a veterinarian in Des Plaines, IL). 1 vet businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Des Plaines, IL?
 
 Also answers: vet in Des Plaines, IL; vet near me (Des Plaines, IL); best vet Des Plaines, IL; top rated vet Des Plaines, IL; affordable vet Des Plaines, IL; emergency vet Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Des Plaines Veterenaty Hospital | trust 0.0 | Des Plaines Veterenaty Hospital is a veterinarian in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/des-plaines-veterenaty-hospital-des-plaines/
+1. Des Plaines Veterenaty Hospital | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Des Plaines Veterenaty Hospital is a veterinarian in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/des-plaines-veterenaty-hospital-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet des plaines il | category: Pets | industry benchmark: Animals & Pets

@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Northbrook, IL is Dania Furnture (a furniture store in Northbrook, IL at 1001 Skokie Boulevard, Northbrook, IL 60062. Website: https://daniafurniture.com/). 3 furniture store businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Northbrook, IL is Dania Furnture (a furniture store in Northbrook, IL at 1001 Skokie Boulevard, Northbrook, IL 60062. Website: https://daniafurniture.com/). 3 furniture store businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Northbrook, IL?
 
 Also answers: furniture store in Northbrook, IL; furniture store near me (Northbrook, IL); best furniture store Northbrook, IL; top rated furniture store Northbrook, IL; affordable furniture store Northbrook, IL; emergency furniture store Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dania Furnture | trust 10.0 | Dania Furnture is a furniture store in Northbrook, IL at 1001 Skokie Boulevard, Northbrook, IL 60062. Website: https://daniafurniture.com/. | https://dingalinged-cpu.github.io/registry/c/dania-furnture-northbrook/
-2. Crate & Barrel | trust 8.0 | Crate & Barrel is a furniture store in Northbrook, IL at 1775 Lake Cook Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-northbrook/
-3. Arhaus | trust 0.0 | Arhaus is a furniture store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-northbrook/
+1. Dania Furnture | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Dania Furnture is a furniture store in Northbrook, IL at 1001 Skokie Boulevard, Northbrook, IL 60062. Website: https://daniafurniture.com/. | https://dingalinged-cpu.github.io/registry/c/dania-furnture-northbrook/
+2. Crate & Barrel | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Crate & Barrel is a furniture store in Northbrook, IL at 1775 Lake Cook Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-northbrook/
+3. Arhaus | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Arhaus is a furniture store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store northbrook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

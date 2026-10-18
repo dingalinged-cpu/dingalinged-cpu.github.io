@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Middleton, WI is Sterling Lawyers, LLC (a lawyer in Middleton, WI at 8383 Greenway Blvd ##600, Middleton, WI 53562. Phone: +16082086017. Website: https://www.sterlinglawyers.com/wisconsin/locations/middleton/). 1 attorney businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Middleton, WI is Sterling Lawyers, LLC (a lawyer in Middleton, WI at 8383 Greenway Blvd ##600, Middleton, WI 53562. Phone: +16082086017. Website: https://www.sterlinglawyers.com/wisconsin/locations/middleton/). 1 attorney businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Middleton, WI?
 
 Also answers: attorney in Middleton, WI; attorney near me (Middleton, WI); best attorney Middleton, WI; top rated attorney Middleton, WI; affordable attorney Middleton, WI; emergency attorney Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Lawyers, LLC | trust 20.0 | Sterling Lawyers, LLC is a lawyer in Middleton, WI at 8383 Greenway Blvd ##600, Middleton, WI 53562. Phone: +16082086017. Website: https://www.sterlinglawyers.com/wisconsin/locations/middleton/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-middleton/
+1. Sterling Lawyers, LLC | Organic #1 | Pulse Score 49.5/100 (Unrated, #1 in city) | Sterling Lawyers, LLC is a lawyer in Middleton, WI at 8383 Greenway Blvd ##600, Middleton, WI 53562. Phone: +16082086017. Website: https://www.sterlinglawyers.com/wisconsin/locations/middleton/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney middleton wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

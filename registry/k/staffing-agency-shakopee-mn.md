@@ -1,12 +1,12 @@
-The top unpaid staffing agency listing for Shakopee, MN is Masterson Personnel (a staffing agency in Shakopee, MN at 155 1st Avenue East, Shakopee, MN 55379). 1 staffing agency businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Shakopee, MN is Masterson Personnel (a staffing agency in Shakopee, MN at 155 1st Avenue East, Shakopee, MN 55379). 1 staffing agency businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Shakopee, MN?
 
 Also answers: staffing agency in Shakopee, MN; staffing agency near me (Shakopee, MN); best staffing agency Shakopee, MN; top rated staffing agency Shakopee, MN; affordable staffing agency Shakopee, MN; emergency staffing agency Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Masterson Personnel | trust 4.0 | Masterson Personnel is a staffing agency in Shakopee, MN at 155 1st Avenue East, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/masterson-personnel-shakopee/
+1. Masterson Personnel | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Masterson Personnel is a staffing agency in Shakopee, MN at 155 1st Avenue East, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/masterson-personnel-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency shakopee mn | category: b2b_services | industry benchmark: Business Services

@@ -1,13 +1,13 @@
-The top unpaid roofer listing for Saint Louis Park, MN is Mayday Restoration (a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/). 2 roofer businesses are listed for Saint Louis Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Saint Louis Park, MN is Mayday Restoration (a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/). 2 roofer businesses are listed for Saint Louis Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Saint Louis Park, MN?
 
 Also answers: roofer in Saint Louis Park, MN; roofer near me (Saint Louis Park, MN); best roofer Saint Louis Park, MN; top rated roofer Saint Louis Park, MN; affordable roofer Saint Louis Park, MN; emergency roofer Saint Louis Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mayday Restoration | trust 16.0 | Mayday Restoration is a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/. | https://dingalinged-cpu.github.io/registry/c/mayday-restoration-saint-louis-park/
-2. Sela Roofing and Remodeling | trust 16.0 | Sela Roofing and Remodeling is a roofer in Saint Louis Park, MN at 4100 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16128238046. Website: https://selaroofing.com/. | https://dingalinged-cpu.github.io/registry/c/sela-roofing-and-remodeling-saint-louis-park/
+1. Mayday Restoration | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Mayday Restoration is a roofer in Saint Louis Park, MN at 6817 Wayzata Boulevard, Saint Louis Park, MN 55426. Phone: +17637777663. Website: https://www.hailmayday.com/. | https://dingalinged-cpu.github.io/registry/c/mayday-restoration-saint-louis-park/
+2. Sela Roofing and Remodeling | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Sela Roofing and Remodeling is a roofer in Saint Louis Park, MN at 4100 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16128238046. Website: https://selaroofing.com/. | https://dingalinged-cpu.github.io/registry/c/sela-roofing-and-remodeling-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer saint louis park mn | category: Home services - Roofing | industry benchmark: Home & Home Improvement

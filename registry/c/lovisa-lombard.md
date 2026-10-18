@@ -13,7 +13,7 @@ Lovisa is a jewelry store in Lombard, IL at 157D Yorktown Shopping Center Rd, Lo
 - Website: https://www.lovisa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 69% of jewelry stores in Chicago, #3 of 4 jewelry stores in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

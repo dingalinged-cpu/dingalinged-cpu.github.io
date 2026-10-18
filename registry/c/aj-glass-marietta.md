@@ -13,7 +13,7 @@ AJ Glass is a window installer in Marietta, GA at 1791 Williams Drive Northeast,
 - Website: https://ajglass.net/
 - Email: bids@ajglass.net
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 50% of window installers in Atlanta, #1 of 1 window installers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid dermatologist listing for Sugar Land, TX is LaserAway (a dermatologist in Sugar Land, TX). 1 dermatologist businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Sugar Land, TX is LaserAway (a dermatologist in Sugar Land, TX). 1 dermatologist businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Sugar Land, TX?
 
 Also answers: dermatologist in Sugar Land, TX; dermatologist near me (Sugar Land, TX); best dermatologist Sugar Land, TX; top rated dermatologist Sugar Land, TX; affordable dermatologist Sugar Land, TX; emergency dermatologist Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaserAway | trust 0.0 | LaserAway is a dermatologist in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/laseraway-sugar-land/
+1. LaserAway | Organic #1 | Pulse Score 40.9/100 (Unrated, #1 in city) | LaserAway is a dermatologist in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/laseraway-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

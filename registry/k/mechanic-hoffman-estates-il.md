@@ -1,18 +1,18 @@
-The top unpaid mechanic listing for Hoffman Estates, IL is TTVM (an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Hoffman Estates, IL 60195). 7 mechanic businesses are listed for Hoffman Estates, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hoffman Estates, IL is TTVM (an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Hoffman Estates, IL 60195). 7 mechanic businesses are listed for Hoffman Estates, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hoffman Estates, IL?
 
 Also answers: mechanic in Hoffman Estates, IL; mechanic near me (Hoffman Estates, IL); best mechanic Hoffman Estates, IL; top rated mechanic Hoffman Estates, IL; affordable mechanic Hoffman Estates, IL; emergency mechanic Hoffman Estates, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TTVM | trust 4.0 | TTVM is an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Hoffman Estates, IL 60195. | https://dingalinged-cpu.github.io/registry/c/ttvm-hoffman-estates/
-2. Acorn Auto Service | trust 0.0 | Acorn Auto Service is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/acorn-auto-service-hoffman-estates/
-3. Firestone | trust 0.0 | Firestone is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates/
-4. Firestone | trust 0.0 | Firestone is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates-w1385998759/
-5. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-hoffman-estates/
-6. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hoffman-estates/
-7. NTB | trust 0.0 | NTB is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/ntb-hoffman-estates/
+1. TTVM | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | TTVM is an auto repair shop in Hoffman Estates, IL at 1300 West Higgins Road, Hoffman Estates, IL 60195. | https://dingalinged-cpu.github.io/registry/c/ttvm-hoffman-estates/
+2. Acorn Auto Service | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Acorn Auto Service is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/acorn-auto-service-hoffman-estates/
+3. Firestone | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Firestone is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates/
+4. Firestone | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Firestone is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-hoffman-estates-w1385998759/
+5. NTB | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | NTB is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/ntb-hoffman-estates/
+6. Goodyear | Organic #6 | Pulse Score 41.7/100 (Building, #6 in city) | Goodyear is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-hoffman-estates/
+7. Jiffy Lube | Organic #7 | Pulse Score 41.7/100 (Building, #7 in city) | Jiffy Lube is an auto repair shop in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hoffman-estates/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hoffman estates il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

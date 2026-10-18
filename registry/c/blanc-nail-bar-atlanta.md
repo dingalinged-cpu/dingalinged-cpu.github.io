@@ -13,7 +13,7 @@ Blanc Nail Bar is a nail salon in Atlanta, GA at 945 Memorial Drive Southeast #4
 - Website: https://blancnailbaratlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-19:00; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 29% of nail salons in Atlanta, #15 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

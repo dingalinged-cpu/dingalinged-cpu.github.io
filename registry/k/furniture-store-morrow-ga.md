@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Morrow, GA is Ashley HomeStore (a furniture store in Morrow, GA at 1930 Mount Zion Road, Morrow, GA 30260. Phone: +17704724750. Website: https://stores.ashleyfurniture.com/store/us/georgia/morrow/7710000122/). 4 furniture store businesses are listed for Morrow, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Morrow, GA is Americal Freight Furniture (a furniture store in Morrow, GA). 4 furniture store businesses are listed for Morrow, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Morrow, GA?
 
 Also answers: furniture store in Morrow, GA; furniture store near me (Morrow, GA); best furniture store Morrow, GA; top rated furniture store Morrow, GA; affordable furniture store Morrow, GA; emergency furniture store Morrow, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Morrow, GA at 1930 Mount Zion Road, Morrow, GA 30260. Phone: +17704724750. Website: https://stores.ashleyfurniture.com/store/us/georgia/morrow/7710000122/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-morrow/
-2. Americal Freight Furniture | trust 0.0 | Americal Freight Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/americal-freight-furniture-morrow/
-3. Direct Furniture | trust 0.0 | Direct Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/direct-furniture-morrow/
-4. Save & Tell Furniture | trust 0.0 | Save & Tell Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/save-and-tell-furniture-morrow/
+1. Americal Freight Furniture | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Americal Freight Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/americal-freight-furniture-morrow/
+2. Direct Furniture | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Direct Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/direct-furniture-morrow/
+3. Save & Tell Furniture | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Save & Tell Furniture is a furniture store in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/save-and-tell-furniture-morrow/
+4. Ashley HomeStore | Organic #4 | Pulse Score 44.6/100 (Building, #4 in city) | Ashley HomeStore is a furniture store in Morrow, GA at 1930 Mount Zion Road, Morrow, GA 30260. Phone: +17704724750. Website: https://stores.ashleyfurniture.com/store/us/georgia/morrow/7710000122/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store morrow ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

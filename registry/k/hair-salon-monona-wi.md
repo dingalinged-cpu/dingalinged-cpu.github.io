@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Monona, WI is Great Clips (a hair salon in Monona, WI at 6528 Monona Drive, Monona, WI 53716). 3 hair salon businesses are listed for Monona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Monona, WI is The Ultimate Veritas Spa Salon (a hair salon in Monona, WI). 3 hair salon businesses are listed for Monona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Monona, WI?
 
 Also answers: hair salon in Monona, WI; hair salon near me (Monona, WI); best hair salon Monona, WI; top rated hair salon Monona, WI; affordable hair salon Monona, WI; emergency hair salon Monona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 8.0 | Great Clips is a hair salon in Monona, WI at 6528 Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/great-clips-monona/
-2. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in Monona, WI at Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-monona/
-3. The Ultimate Veritas Spa Salon | trust 0.0 | The Ultimate Veritas Spa Salon is a hair salon in Monona, WI. | https://dingalinged-cpu.github.io/registry/c/the-ultimate-veritas-spa-salon-monona/
+1. The Ultimate Veritas Spa Salon | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | The Ultimate Veritas Spa Salon is a hair salon in Monona, WI. | https://dingalinged-cpu.github.io/registry/c/the-ultimate-veritas-spa-salon-monona/
+2. Cost Cutters | Organic #2 | Pulse Score 47.9/100 (Building, #2 in city) | Cost Cutters is a hair salon in Monona, WI at Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-monona/
+3. Great Clips | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | Great Clips is a hair salon in Monona, WI at 6528 Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/great-clips-monona/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon monona wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

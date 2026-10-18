@@ -1,16 +1,16 @@
-The top unpaid tax preparer listing for Gary, IN is Jackson Hewitt (a tax preparation service in Gary, IN at 3768 Broadway, Gary, IN 46408. Phone: +12199397632). 5 tax preparer businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Gary, IN is The Solution Services LLC. (a tax preparation service in Gary, IN at 1617 Broadway, Gary, IN 46407). 5 tax preparer businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Gary, IN?
 
 Also answers: tax preparer in Gary, IN; tax preparer near me (Gary, IN); best tax preparer Gary, IN; top rated tax preparer Gary, IN; affordable tax preparer Gary, IN; emergency tax preparer Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Hewitt | trust 10.0 | Jackson Hewitt is a tax preparation service in Gary, IN at 3768 Broadway, Gary, IN 46408. Phone: +12199397632. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-gary/
-2. The Solution Services LLC. | trust 4.0 | The Solution Services LLC. is a tax preparation service in Gary, IN at 1617 Broadway, Gary, IN 46407. | https://dingalinged-cpu.github.io/registry/c/the-solution-services-llc-gary/
-3. Elite Tax Service | trust 0.0 | Elite Tax Service is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/elite-tax-service-gary/
-4. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-gary/
-5. Tax Service | trust 0.0 | Tax Service is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/tax-service-gary/
+1. The Solution Services LLC. | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | The Solution Services LLC. is a tax preparation service in Gary, IN at 1617 Broadway, Gary, IN 46407. | https://dingalinged-cpu.github.io/registry/c/the-solution-services-llc-gary/
+2. Elite Tax Service | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Elite Tax Service is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/elite-tax-service-gary/
+3. Tax Service | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Tax Service is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/tax-service-gary/
+4. Jackson Hewitt | Organic #4 | Pulse Score 47.6/100 (Building, #4 in city) | Jackson Hewitt is a tax preparation service in Gary, IN at 3768 Broadway, Gary, IN 46408. Phone: +12199397632. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-gary/
+5. H&R Block | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | H&R Block is a tax preparation service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer gary in | category: professional_accounting | industry benchmark: Business Services

@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Lawrenceville, GA is InsuranceHub (an insurance agent in Lawrenceville, GA at 1720 Lakes Parkway, Lawrenceville, GA 30043. Phone: +17704971200. Website: https://insurancehub.com/). 1 insurance agent businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Lawrenceville, GA is InsuranceHub (an insurance agent in Lawrenceville, GA at 1720 Lakes Parkway, Lawrenceville, GA 30043. Phone: +17704971200. Website: https://insurancehub.com/). 1 insurance agent businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Lawrenceville, GA?
 
 Also answers: insurance agent in Lawrenceville, GA; insurance agent near me (Lawrenceville, GA); best insurance agent Lawrenceville, GA; top rated insurance agent Lawrenceville, GA; affordable insurance agent Lawrenceville, GA; emergency insurance agent Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. InsuranceHub | trust 20.0 | InsuranceHub is an insurance agent in Lawrenceville, GA at 1720 Lakes Parkway, Lawrenceville, GA 30043. Phone: +17704971200. Website: https://insurancehub.com/. | https://dingalinged-cpu.github.io/registry/c/insurancehub-lawrenceville/
+1. InsuranceHub | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | InsuranceHub is an insurance agent in Lawrenceville, GA at 1720 Lakes Parkway, Lawrenceville, GA 30043. Phone: +17704971200. Website: https://insurancehub.com/. | https://dingalinged-cpu.github.io/registry/c/insurancehub-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent lawrenceville ga | category: Professional & financial services | industry benchmark: Finance & Insurance

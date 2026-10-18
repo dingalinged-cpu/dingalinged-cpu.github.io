@@ -1,17 +1,17 @@
-The top unpaid tailor listing for Roswell, GA is Lace Alterations (a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/). 6 tailor businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Roswell, GA is Alterations By Natalia (a tailor in Roswell, GA at 4750 Alabama Road #102, Roswell, GA. Phone: +17705875063). 6 tailor businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Roswell, GA?
 
 Also answers: tailor in Roswell, GA; tailor near me (Roswell, GA); best tailor Roswell, GA; top rated tailor Roswell, GA; affordable tailor Roswell, GA; emergency tailor Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lace Alterations | trust 19.0 | Lace Alterations is a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/lace-alterations-roswell/
-2. Alterations By Natalia | trust 13.0 | Alterations By Natalia is a tailor in Roswell, GA at 4750 Alabama Road #102, Roswell, GA. Phone: +17705875063. | https://dingalinged-cpu.github.io/registry/c/alterations-by-natalia-roswell/
-3. Classic Tailor | trust 10.0 | Classic Tailor is a tailor in Roswell, GA at 10800 Alpharetta Highway #Suite 204, Roswell, GA 30076. Phone: +17706421400. | https://dingalinged-cpu.github.io/registry/c/classic-tailor-roswell/
-4. Chantelia Sewing & Alterations | trust 4.0 | Chantelia Sewing & Alterations is a tailor in Roswell, GA at 770 Old Roswell Place #A-200, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/chantelia-sewing-and-alterations-roswell/
-5. Alterations | trust 0.0 | Alterations is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/alterations-roswell/
-6. Lee's Tailors | trust 0.0 | Lee's Tailors is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/lees-tailors-roswell/
+1. Alterations By Natalia | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Alterations By Natalia is a tailor in Roswell, GA at 4750 Alabama Road #102, Roswell, GA. Phone: +17705875063. | https://dingalinged-cpu.github.io/registry/c/alterations-by-natalia-roswell/
+2. Lace Alterations | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Lace Alterations is a tailor in Roswell, GA at Unit 140 408 South Atlanta Street, Roswell, GA 30075, Roswell, GA. Phone: +17706950958. Website: https://www.bridalalterationsatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/lace-alterations-roswell/
+3. Classic Tailor | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Classic Tailor is a tailor in Roswell, GA at 10800 Alpharetta Highway #Suite 204, Roswell, GA 30076. Phone: +17706421400. | https://dingalinged-cpu.github.io/registry/c/classic-tailor-roswell/
+4. Chantelia Sewing & Alterations | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Chantelia Sewing & Alterations is a tailor in Roswell, GA at 770 Old Roswell Place #A-200, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/chantelia-sewing-and-alterations-roswell/
+5. Lee's Tailors | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Lee's Tailors is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/lees-tailors-roswell/
+6. Alterations | Organic #6 | Pulse Score 41.5/100 (Unrated, #6 in city) | Alterations is a tailor in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/alterations-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance

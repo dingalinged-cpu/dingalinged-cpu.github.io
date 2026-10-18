@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Homewood, IL is GoodSpeed Cycles (a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/). 1 bike shop businesses are listed for Homewood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Homewood, IL is GoodSpeed Cycles (a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/). 1 bike shop businesses are listed for Homewood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Homewood, IL?
 
 Also answers: bike shop in Homewood, IL; bike shop near me (Homewood, IL); best bike shop Homewood, IL; top rated bike shop Homewood, IL; affordable bike shop Homewood, IL; emergency bike shop Homewood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GoodSpeed Cycles | trust 10.0 | GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/. | https://dingalinged-cpu.github.io/registry/c/goodspeed-cycles-homewood/
+1. GoodSpeed Cycles | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | GoodSpeed Cycles is a bike shop in Homewood, IL at 2125 183rd Street, Homewood, IL 60430. Website: https://www.goodspeedcycles.com/. | https://dingalinged-cpu.github.io/registry/c/goodspeed-cycles-homewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop homewood il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

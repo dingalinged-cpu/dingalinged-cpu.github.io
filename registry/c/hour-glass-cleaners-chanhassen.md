@@ -13,7 +13,7 @@ Hour Glass Cleaners is a dry cleaner in Chanhassen, MN at 530 West 79th Street, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.5/100 — Unrated (not enough evidence yet) — top 36% of dry cleaners in Minneapolis–St. Paul, #1 of 2 dry cleaners in Chanhassen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

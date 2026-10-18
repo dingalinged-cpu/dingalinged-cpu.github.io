@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Lewisville, TX is Petco (a pet store in Lewisville, TX at 420 East Round Grove Road #680, Lewisville, TX 75067. Phone: +14693906993. Website: https://stores.petco.com/tx/lewisville/pet-supplies-lewisville-tx-2472.html). 4 pet store businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Lewisville, TX is PetSmart (a pet store in Lewisville, TX at 4854 Highway 121, Lewisville, TX 75056. Phone: +14693622824. Website: https://www.petsmart.com/stores/us/tx/lewisville-store2128.html). 4 pet store businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Lewisville, TX?
 
 Also answers: pet store in Lewisville, TX; pet store near me (Lewisville, TX); best pet store Lewisville, TX; top rated pet store Lewisville, TX; affordable pet store Lewisville, TX; emergency pet store Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Lewisville, TX at 420 East Round Grove Road #680, Lewisville, TX 75067. Phone: +14693906993. Website: https://stores.petco.com/tx/lewisville/pet-supplies-lewisville-tx-2472.html. | https://dingalinged-cpu.github.io/registry/c/petco-lewisville/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Lewisville, TX at 4854 Highway 121, Lewisville, TX 75056. Phone: +14693622824. Website: https://www.petsmart.com/stores/us/tx/lewisville-store2128.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-lewisville/
-3. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-lewisville/
-4. PetSmart | trust 4.0 | PetSmart is a pet store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-lewisville-w650139843/
+1. PetSmart | Organic #1 | Pulse Score 49.8/100 (Building, #1 in city) | PetSmart is a pet store in Lewisville, TX at 4854 Highway 121, Lewisville, TX 75056. Phone: +14693622824. Website: https://www.petsmart.com/stores/us/tx/lewisville-store2128.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-lewisville/
+2. Petco | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Petco is a pet store in Lewisville, TX at 420 East Round Grove Road #680, Lewisville, TX 75067. Phone: +14693906993. Website: https://stores.petco.com/tx/lewisville/pet-supplies-lewisville-tx-2472.html. | https://dingalinged-cpu.github.io/registry/c/petco-lewisville/
+3. PetSmart | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | PetSmart is a pet store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-lewisville-w650139843/
+4. Pet Supplies Plus | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

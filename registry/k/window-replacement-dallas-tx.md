@@ -1,15 +1,15 @@
-The top unpaid window replacement listing for Dallas, TX is Foster Exteriors Window Company (a window installer in Dallas, TX at 1350 North Buckner Boulevard ##216, Dallas, TX 75218. Phone: +12143198400. Website: https://www.fosterexteriors.com/). 4 window replacement businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Dallas, TX is Southwest Door & Window (a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/). 4 window replacement businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Dallas, TX?
 
 Also answers: window replacement in Dallas, TX; window replacement near me (Dallas, TX); best window replacement Dallas, TX; top rated window replacement Dallas, TX; affordable window replacement Dallas, TX; emergency window replacement Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foster Exteriors Window Company | trust 20.0 | Foster Exteriors Window Company is a window installer in Dallas, TX at 1350 North Buckner Boulevard ##216, Dallas, TX 75218. Phone: +12143198400. Website: https://www.fosterexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/foster-exteriors-window-company-dallas/
-2. Southwest Door & Window | trust 20.0 | Southwest Door & Window is a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/. | https://dingalinged-cpu.github.io/registry/c/southwest-door-and-window-dallas/
-3. Century Glass | trust 9.0 | Century Glass is a window installer in Dallas, TX at 1417 North Washington Avenue, Dallas, TX. Website: https://centuryglassdallas.com/. | https://dingalinged-cpu.github.io/registry/c/century-glass-dallas/
-4. Curtain Couture | trust 0.0 | Curtain Couture is a window installer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/curtain-couture-dallas/
+1. Southwest Door & Window | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Southwest Door & Window is a window installer in Dallas, TX at 10255 Miller Rd, Dallas, TX 75238. Phone: +12143412212. Website: https://southwestdw.com/. | https://dingalinged-cpu.github.io/registry/c/southwest-door-and-window-dallas/
+2. Foster Exteriors Window Company | Organic #2 | Pulse Score 63.8/100 (Good, #2 in city) | Foster Exteriors Window Company is a window installer in Dallas, TX at 1350 North Buckner Boulevard ##216, Dallas, TX 75218. Phone: +12143198400. Website: https://www.fosterexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/foster-exteriors-window-company-dallas/
+3. Century Glass | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Century Glass is a window installer in Dallas, TX at 1417 North Washington Avenue, Dallas, TX. Website: https://centuryglassdallas.com/. | https://dingalinged-cpu.github.io/registry/c/century-glass-dallas/
+4. Curtain Couture | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Curtain Couture is a window installer in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/curtain-couture-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement dallas tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

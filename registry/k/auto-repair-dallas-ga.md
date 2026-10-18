@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Dallas, GA is Chloes Auto Repair and Tire (an auto repair shop in Dallas, GA at 1340A Hiram Acworth Highway, Dallas, GA 30157. Phone: +17702229696). 1 auto repair businesses are listed for Dallas, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Dallas, GA is Chloes Auto Repair and Tire (an auto repair shop in Dallas, GA at 1340A Hiram Acworth Highway, Dallas, GA 30157. Phone: +17702229696). 1 auto repair businesses are listed for Dallas, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Dallas, GA?
 
 Also answers: auto repair in Dallas, GA; auto repair near me (Dallas, GA); best auto repair Dallas, GA; top rated auto repair Dallas, GA; affordable auto repair Dallas, GA; emergency auto repair Dallas, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chloes Auto Repair and Tire | trust 10.0 | Chloes Auto Repair and Tire is an auto repair shop in Dallas, GA at 1340A Hiram Acworth Highway, Dallas, GA 30157. Phone: +17702229696. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-dallas/
+1. Chloes Auto Repair and Tire | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Chloes Auto Repair and Tire is an auto repair shop in Dallas, GA at 1340A Hiram Acworth Highway, Dallas, GA 30157. Phone: +17702229696. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-and-tire-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair dallas ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

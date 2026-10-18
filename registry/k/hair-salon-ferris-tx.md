@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Ferris, TX is La Flare's Barbershop (a hair salon in Ferris, TX at 219 West 6th Street, Ferris, TX 75125. Phone: +14696883421. Website: https://www.facebook.com/La-Flares-Barbershop-104162814752410/). 1 hair salon businesses are listed for Ferris, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Ferris, TX is La Flare's Barbershop (a hair salon in Ferris, TX at 219 West 6th Street, Ferris, TX 75125. Phone: +14696883421. Website: https://www.facebook.com/La-Flares-Barbershop-104162814752410/). 1 hair salon businesses are listed for Ferris, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Ferris, TX?
 
 Also answers: hair salon in Ferris, TX; hair salon near me (Ferris, TX); best hair salon Ferris, TX; top rated hair salon Ferris, TX; affordable hair salon Ferris, TX; emergency hair salon Ferris, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Flare's Barbershop | trust 20.0 | La Flare's Barbershop is a hair salon in Ferris, TX at 219 West 6th Street, Ferris, TX 75125. Phone: +14696883421. Website: https://www.facebook.com/La-Flares-Barbershop-104162814752410/. | https://dingalinged-cpu.github.io/registry/c/la-flares-barbershop-ferris/
+1. La Flare's Barbershop | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | La Flare's Barbershop is a hair salon in Ferris, TX at 219 West 6th Street, Ferris, TX 75125. Phone: +14696883421. Website: https://www.facebook.com/La-Flares-Barbershop-104162814752410/. | https://dingalinged-cpu.github.io/registry/c/la-flares-barbershop-ferris/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon ferris tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

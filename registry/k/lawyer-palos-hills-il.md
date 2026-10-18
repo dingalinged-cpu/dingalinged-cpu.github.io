@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Palos Hills, IL is Law Offices of George Andrews & Associates (a lawyer in Palos Hills, IL at 9760 South Roberts Road #2, Palos Hills, IL 60465. Phone: +17082339990. Website: https://lawofficesofgeorgeandrews.com/). 1 lawyer businesses are listed for Palos Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Palos Hills, IL is Law Offices of George Andrews & Associates (a lawyer in Palos Hills, IL at 9760 South Roberts Road #2, Palos Hills, IL 60465. Phone: +17082339990. Website: https://lawofficesofgeorgeandrews.com/). 1 lawyer businesses are listed for Palos Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Palos Hills, IL?
 
 Also answers: lawyer in Palos Hills, IL; lawyer near me (Palos Hills, IL); best lawyer Palos Hills, IL; top rated lawyer Palos Hills, IL; affordable lawyer Palos Hills, IL; emergency lawyer Palos Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Offices of George Andrews & Associates | trust 16.0 | Law Offices of George Andrews & Associates is a lawyer in Palos Hills, IL at 9760 South Roberts Road #2, Palos Hills, IL 60465. Phone: +17082339990. Website: https://lawofficesofgeorgeandrews.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-george-andrews-and-associates-palos-hills/
+1. Law Offices of George Andrews & Associates | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Law Offices of George Andrews & Associates is a lawyer in Palos Hills, IL at 9760 South Roberts Road #2, Palos Hills, IL 60465. Phone: +17082339990. Website: https://lawofficesofgeorgeandrews.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-george-andrews-and-associates-palos-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer palos hills il | category: Legal | industry benchmark: Attorneys & Legal Services

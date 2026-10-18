@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Seabrook, TX is Benjamin's Automotive (an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/). 4 mechanic businesses are listed for Seabrook, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Seabrook, TX is Benjamin's Automotive (an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/). 4 mechanic businesses are listed for Seabrook, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Seabrook, TX?
 
 Also answers: mechanic in Seabrook, TX; mechanic near me (Seabrook, TX); best mechanic Seabrook, TX; top rated mechanic Seabrook, TX; affordable mechanic Seabrook, TX; emergency mechanic Seabrook, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benjamin's Automotive | trust 20.0 | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
-2. Bay Area Body Shop | trust 10.0 | Bay Area Body Shop is an auto repair shop in Seabrook, TX at 3110 Bayport Boulevard, Seabrook, TX 77586. Phone: +12814744711. | https://dingalinged-cpu.github.io/registry/c/bay-area-body-shop-seabrook/
-3. Bosone Automotive | trust 4.0 | Bosone Automotive is an auto repair shop in Seabrook, TX at 1940 Repsdorph Dr, Seabrook, TX 77586. | https://dingalinged-cpu.github.io/registry/c/bosone-automotive-seabrook/
-4. Apollo Tire & Wheel | trust 0.0 | Apollo Tire & Wheel is an auto repair shop in Seabrook, TX. | https://dingalinged-cpu.github.io/registry/c/apollo-tire-and-wheel-seabrook/
+1. Benjamin's Automotive | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Benjamin's Automotive is an auto repair shop in Seabrook, TX at 2830 East NASA Parkway, Seabrook, TX 77586. Phone: +12812919823. Website: https://benjaminsautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/benjamins-automotive-seabrook/
+2. Bay Area Body Shop | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Bay Area Body Shop is an auto repair shop in Seabrook, TX at 3110 Bayport Boulevard, Seabrook, TX 77586. Phone: +12814744711. | https://dingalinged-cpu.github.io/registry/c/bay-area-body-shop-seabrook/
+3. Bosone Automotive | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Bosone Automotive is an auto repair shop in Seabrook, TX at 1940 Repsdorph Dr, Seabrook, TX 77586. | https://dingalinged-cpu.github.io/registry/c/bosone-automotive-seabrook/
+4. Apollo Tire & Wheel | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Apollo Tire & Wheel is an auto repair shop in Seabrook, TX. | https://dingalinged-cpu.github.io/registry/c/apollo-tire-and-wheel-seabrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic seabrook tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

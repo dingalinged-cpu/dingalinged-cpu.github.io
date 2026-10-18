@@ -13,7 +13,7 @@ Tous les Jours is a bakery in Arlington Heights, IL at 37 West Golf Road, Arling
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:30-21:00
-- Registry Score: 45.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Building — top 96% of bakerys in Chicago, #3 of 3 bakerys in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

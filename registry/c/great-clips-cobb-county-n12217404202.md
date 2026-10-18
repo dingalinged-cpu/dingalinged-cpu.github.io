@@ -13,7 +13,7 @@ Great Clips is a hair salon in Cobb County, GA at 4651 Woodstock Road #204, Cobb
 - Website: https://salons.greatclips.com/us/ga/roswell/4651-woodstock-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 86% of hair salons in Atlanta, #68 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

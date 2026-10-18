@@ -13,7 +13,7 @@ HKM Employment Attorneys LLP is a lawyer in Houston, TX at 1201 Fannin Street #S
 - Website: https://hkm.com/houston
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa-Su 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 98% of lawyers in Houston, #78 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

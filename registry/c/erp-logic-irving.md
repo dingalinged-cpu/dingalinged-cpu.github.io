@@ -13,7 +13,7 @@ ERP Logic is an IT support company in Irving, TX at 7301 N Hwy 161 #210, Irving,
 - Website: https://www.erplogic.com/
 - Email: info@erplogic.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 8% of IT support companys in Dallas–Fort Worth, #1 of 1 IT support companys in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 68.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

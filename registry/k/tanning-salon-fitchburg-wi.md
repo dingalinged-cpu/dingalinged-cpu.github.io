@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Fitchburg, WI is Sun Tan City (a tanning salon in Fitchburg, WI). 1 tanning salon businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Fitchburg, WI is Sun Tan City (a tanning salon in Fitchburg, WI). 1 tanning salon businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Fitchburg, WI?
 
 Also answers: tanning salon in Fitchburg, WI; tanning salon near me (Fitchburg, WI); best tanning salon Fitchburg, WI; top rated tanning salon Fitchburg, WI; affordable tanning salon Fitchburg, WI; emergency tanning salon Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun Tan City | trust 0.0 | Sun Tan City is a tanning salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/sun-tan-city-fitchburg/
+1. Sun Tan City | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Sun Tan City is a tanning salon in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/sun-tan-city-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon fitchburg wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

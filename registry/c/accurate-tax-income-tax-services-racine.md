@@ -13,7 +13,7 @@ AccuraTe Tax Income Tax Services is an accountant in Racine, WI at 3103 Lathrop 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 56% of accountants in Milwaukee, #1 of 2 accountants in Racine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.1, Trust 47.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

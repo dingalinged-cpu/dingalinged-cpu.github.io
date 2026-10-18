@@ -13,7 +13,7 @@ Shipley Do-Nuts is a bakery in Harris County, TX. Website: https://shipleydonuts
 - Website: https://shipleydonuts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 92% of bakerys in Houston, #18 of 18 bakerys in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

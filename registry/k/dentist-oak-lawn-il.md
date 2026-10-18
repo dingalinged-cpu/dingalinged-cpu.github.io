@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Oak Lawn, IL is Eco Friendly Dentistry (a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/). 3 dentist businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Oak Lawn, IL is Eco Friendly Dentistry (a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/). 3 dentist businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Oak Lawn, IL?
 
 Also answers: dentist in Oak Lawn, IL; dentist near me (Oak Lawn, IL); best dentist Oak Lawn, IL; top rated dentist Oak Lawn, IL; affordable dentist Oak Lawn, IL; emergency dentist Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eco Friendly Dentistry | trust 20.0 | Eco Friendly Dentistry is a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/eco-friendly-dentistry-oak-lawn/
-2. Family Dental Care | trust 16.0 | Family Dental Care is a dentist in Oak Lawn, IL at 9101 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084191601. Website: https://www.familydentalcare.com/oak-lawn-office/. | https://dingalinged-cpu.github.io/registry/c/family-dental-care-oak-lawn/
-3. Thomas A. Swingler DDS | trust 16.0 | Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak Lawn, IL 60453. Phone: +17084238380. Website: https://www.thomasaswinglerdds.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-a-swingler-dds-oak-lawn/
+1. Eco Friendly Dentistry | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Eco Friendly Dentistry is a dentist in Oak Lawn, IL at 4934 West 95th Street, Oak Lawn, IL 60453. Phone: +17734291400. Website: https://ecofriendlydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/eco-friendly-dentistry-oak-lawn/
+2. Family Dental Care | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Family Dental Care is a dentist in Oak Lawn, IL at 9101 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084191601. Website: https://www.familydentalcare.com/oak-lawn-office/. | https://dingalinged-cpu.github.io/registry/c/family-dental-care-oak-lawn/
+3. Thomas A. Swingler DDS | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Thomas A. Swingler DDS is a dentist in Oak Lawn, IL at 4600 103rd Street, Oak Lawn, IL 60453. Phone: +17084238380. Website: https://www.thomasaswinglerdds.com/. | https://dingalinged-cpu.github.io/registry/c/thomas-a-swingler-dds-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist oak lawn il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

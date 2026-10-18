@@ -1,13 +1,13 @@
-The top unpaid vet listing for Mokena, IL is Nighthawk Veterinary Clinic (a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/). 2 vet businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Mokena, IL is Nighthawk Veterinary Clinic (a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/). 2 vet businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Mokena, IL?
 
 Also answers: vet in Mokena, IL; vet near me (Mokena, IL); best vet Mokena, IL; top rated vet Mokena, IL; affordable vet Mokena, IL; emergency vet Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nighthawk Veterinary Clinic | trust 16.0 | Nighthawk Veterinary Clinic is a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/. | https://dingalinged-cpu.github.io/registry/c/nighthawk-veterinary-clinic-mokena/
-2. Moneka Animal Clinic | trust 0.0 | Moneka Animal Clinic is a veterinarian in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/moneka-animal-clinic-mokena/
+1. Nighthawk Veterinary Clinic | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Nighthawk Veterinary Clinic is a veterinarian in Mokena, IL at 11600 Francis Road, Mokena, IL 60448. Phone: +17084786482. Website: https://www.nighthawkvet.com/. | https://dingalinged-cpu.github.io/registry/c/nighthawk-veterinary-clinic-mokena/
+2. Moneka Animal Clinic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Moneka Animal Clinic is a veterinarian in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/moneka-animal-clinic-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet mokena il | category: Pets | industry benchmark: Animals & Pets

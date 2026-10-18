@@ -1,12 +1,12 @@
-The top unpaid plumbers listing for Willowbrook, IL is Father and Sons Plumbing & Drain Cleaning LLC (a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/). 1 plumbers businesses are listed for Willowbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Willowbrook, IL is Father and Sons Plumbing & Drain Cleaning LLC (a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/). 1 plumbers businesses are listed for Willowbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Willowbrook, IL?
 
 Also answers: plumbers in Willowbrook, IL; plumbers near me (Willowbrook, IL); best plumbers Willowbrook, IL; top rated plumbers Willowbrook, IL; affordable plumbers Willowbrook, IL; emergency plumbers Willowbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Father and Sons Plumbing & Drain Cleaning LLC | trust 20.0 | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
+1. Father and Sons Plumbing & Drain Cleaning LLC | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Father and Sons Plumbing & Drain Cleaning LLC is a plumber in Willowbrook, IL at 636 Executive Drive, Willowbrook, IL 60527. Phone: +16308224443. Website: https://www.fatherandsonsplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/father-and-sons-plumbing-and-drain-cleaning-llc-willowbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers willowbrook il | category: Home Services | industry benchmark: Home & Home Improvement

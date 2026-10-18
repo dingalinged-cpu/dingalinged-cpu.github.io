@@ -1,16 +1,16 @@
-The top unpaid gift shop listing for Brookfield, IL is Bear Crossing (a gift shop in Brookfield, IL). 5 gift shop businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Brookfield, IL is Bear Crossing (a gift shop in Brookfield, IL). 5 gift shop businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Brookfield, IL?
 
 Also answers: gift shop in Brookfield, IL; gift shop near me (Brookfield, IL); best gift shop Brookfield, IL; top rated gift shop Brookfield, IL; affordable gift shop Brookfield, IL; emergency gift shop Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bear Crossing | trust 0.0 | Bear Crossing is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/
-2. Coast Gifts | trust 0.0 | Coast Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/coast-gifts-brookfield/
-3. North Outpost | trust 0.0 | North Outpost is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/north-outpost-brookfield/
-4. Wildlife Trading Post | trust 0.0 | Wildlife Trading Post is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/wildlife-trading-post-brookfield/
-5. Woof-Field Gifts | trust 0.0 | Woof-Field Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/woof-field-gifts-brookfield/
+1. Bear Crossing | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Bear Crossing is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/bear-crossing-brookfield/
+2. Coast Gifts | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Coast Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/coast-gifts-brookfield/
+3. North Outpost | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | North Outpost is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/north-outpost-brookfield/
+4. Wildlife Trading Post | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Wildlife Trading Post is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/wildlife-trading-post-brookfield/
+5. Woof-Field Gifts | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Woof-Field Gifts is a gift shop in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/woof-field-gifts-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop brookfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,17 +1,17 @@
-The top unpaid haircut listing for Mokena, IL is Wild Hive Hair (a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair). 6 haircut businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Mokena, IL is Wild Hive Hair (a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair). 6 haircut businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Mokena, IL?
 
 Also answers: haircut in Mokena, IL; haircut near me (Mokena, IL); best haircut Mokena, IL; top rated haircut Mokena, IL; affordable haircut Mokena, IL; emergency haircut Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wild Hive Hair | trust 16.0 | Wild Hive Hair is a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair. | https://dingalinged-cpu.github.io/registry/c/wild-hive-hair-mokena/
-2. Barberz Blvd. | trust 10.0 | Barberz Blvd. is a hair salon in Mokena, IL at 11137 Wolf Road, Mokena, IL 60448. Phone: +17087193448. | https://dingalinged-cpu.github.io/registry/c/barberz-blvd-mokena/
-3. Mane Tamers Salon | trust 6.0 | Mane Tamers Salon is a hair salon in Mokena, IL. Phone: +17084799149. | https://dingalinged-cpu.github.io/registry/c/mane-tamers-salon-mokena/
-4. Great Clips | trust 4.0 | Great Clips is a hair salon in Mokena, IL at 11240 Lincoln Highway, Mokena, IL 60448. | https://dingalinged-cpu.github.io/registry/c/great-clips-mokena/
-5. Sheer Styles | trust 0.0 | Sheer Styles is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sheer-styles-mokena/
-6. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-mokena/
+1. Wild Hive Hair | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Wild Hive Hair is a hair salon in Mokena, IL at 19137 Wolf Road, Mokena, IL 60448. Phone: +17089533358. Website: https://www.vagaro.com/wildhivehair. | https://dingalinged-cpu.github.io/registry/c/wild-hive-hair-mokena/
+2. Barberz Blvd. | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Barberz Blvd. is a hair salon in Mokena, IL at 11137 Wolf Road, Mokena, IL 60448. Phone: +17087193448. | https://dingalinged-cpu.github.io/registry/c/barberz-blvd-mokena/
+3. Mane Tamers Salon | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Mane Tamers Salon is a hair salon in Mokena, IL. Phone: +17084799149. | https://dingalinged-cpu.github.io/registry/c/mane-tamers-salon-mokena/
+4. Sheer Styles | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Sheer Styles is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sheer-styles-mokena/
+5. Great Clips | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Great Clips is a hair salon in Mokena, IL at 11240 Lincoln Highway, Mokena, IL 60448. | https://dingalinged-cpu.github.io/registry/c/great-clips-mokena/
+6. Sport Clips | Organic #6 | Pulse Score 42.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut mokena il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Amma Abunyewa MD is a physical therapy clinic in Marietta, GA at 4180 Providence
 - Website: https://providencerdprimarycare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Th 08:30-16:00; Tu 08:30-13:00; Fr 08:30-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 12% of physical therapy clinics in Atlanta, #1 of 5 physical therapy clinics in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

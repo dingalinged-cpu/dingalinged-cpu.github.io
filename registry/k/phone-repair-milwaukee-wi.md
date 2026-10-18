@@ -1,14 +1,14 @@
-The top unpaid phone repair listing for Milwaukee, WI is uBreakiFix (a phone repair shop in Milwaukee, WI at 1857 East Kenilworth Place, Milwaukee, WI 53202. Phone: +14142768243. Website: https://www.ubreakifix.com/locations/milwaukee). 3 phone repair businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Milwaukee, WI is 202.PC.repair (a phone repair shop in Milwaukee, WI at 1625 East Irving Place, Milwaukee, WI 53202. Phone: +14147044105). 3 phone repair businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Milwaukee, WI?
 
 Also answers: phone repair in Milwaukee, WI; phone repair near me (Milwaukee, WI); best phone repair Milwaukee, WI; top rated phone repair Milwaukee, WI; affordable phone repair Milwaukee, WI; emergency phone repair Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 20.0 | uBreakiFix is a phone repair shop in Milwaukee, WI at 1857 East Kenilworth Place, Milwaukee, WI 53202. Phone: +14142768243. Website: https://www.ubreakifix.com/locations/milwaukee. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-milwaukee/
-2. 202.PC.repair | trust 14.0 | 202.PC.repair is a phone repair shop in Milwaukee, WI at 1625 East Irving Place, Milwaukee, WI 53202. Phone: +14147044105. | https://dingalinged-cpu.github.io/registry/c/202-pc-repair-milwaukee/
-3. 27th Fix | trust 10.0 | 27th Fix is a phone repair shop in Milwaukee, WI at 5318 South 27th Street, Milwaukee, WI 53221. Phone: +14143953223. | https://dingalinged-cpu.github.io/registry/c/27th-fix-milwaukee/
+1. 202.PC.repair | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | 202.PC.repair is a phone repair shop in Milwaukee, WI at 1625 East Irving Place, Milwaukee, WI 53202. Phone: +14147044105. | https://dingalinged-cpu.github.io/registry/c/202-pc-repair-milwaukee/
+2. 27th Fix | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | 27th Fix is a phone repair shop in Milwaukee, WI at 5318 South 27th Street, Milwaukee, WI 53221. Phone: +14143953223. | https://dingalinged-cpu.github.io/registry/c/27th-fix-milwaukee/
+3. uBreakiFix | Organic #3 | Pulse Score 50.5/100 (Fair, #3 in city) | uBreakiFix is a phone repair shop in Milwaukee, WI at 1857 East Kenilworth Place, Milwaukee, WI 53202. Phone: +14142768243. Website: https://www.ubreakifix.com/locations/milwaukee. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair milwaukee wi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid orthodontist listing for Oak Creek, WI is Aurora Health Center (an allergist in Oak Creek, WI at 200 East Ryan Road, Oak Creek, WI 53154. Phone: +14145703590. Website: https://care.aurorahealthcare.org/locations/aurora-health-center-oak-creek). 1 orthodontist businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthodontist listing for Oak Creek, WI is Aurora Health Center (an allergist in Oak Creek, WI at 200 East Ryan Road, Oak Creek, WI 53154. Phone: +14145703590. Website: https://care.aurorahealthcare.org/locations/aurora-health-center-oak-creek). 1 orthodontist businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthodontist providers in Oak Creek, WI?
 
 Also answers: orthodontist in Oak Creek, WI; orthodontist near me (Oak Creek, WI); best orthodontist Oak Creek, WI; top rated orthodontist Oak Creek, WI; affordable orthodontist Oak Creek, WI; emergency orthodontist Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aurora Health Center | trust 20.0 | Aurora Health Center is an allergist in Oak Creek, WI at 200 East Ryan Road, Oak Creek, WI 53154. Phone: +14145703590. Website: https://care.aurorahealthcare.org/locations/aurora-health-center-oak-creek. | https://dingalinged-cpu.github.io/registry/c/aurora-health-center-oak-creek/
+1. Aurora Health Center | Organic #1 | Pulse Score 51/100 (Fair, #1 in city) | Aurora Health Center is an allergist in Oak Creek, WI at 200 East Ryan Road, Oak Creek, WI 53154. Phone: +14145703590. Website: https://care.aurorahealthcare.org/locations/aurora-health-center-oak-creek. | https://dingalinged-cpu.github.io/registry/c/aurora-health-center-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthodontist oak creek wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

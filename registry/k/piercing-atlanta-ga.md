@@ -1,16 +1,16 @@
-The top unpaid piercing listing for Atlanta, GA is Piercing Experience (a piercing studio in Atlanta, GA at 1654 McLendon Avenue Northeast, Atlanta, GA 30307. Phone: +14043789100. Website: https://piercingexp.com/). 5 piercing businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid piercing listing for Atlanta, GA is Piercing Experience (a piercing studio in Atlanta, GA at 1654 McLendon Avenue Northeast, Atlanta, GA 30307. Phone: +14043789100. Website: https://piercingexp.com/). 5 piercing businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best piercing providers in Atlanta, GA?
 
 Also answers: piercing in Atlanta, GA; piercing near me (Atlanta, GA); best piercing Atlanta, GA; top rated piercing Atlanta, GA; affordable piercing Atlanta, GA; emergency piercing Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Piercing Experience | trust 20.0 | Piercing Experience is a piercing studio in Atlanta, GA at 1654 McLendon Avenue Northeast, Atlanta, GA 30307. Phone: +14043789100. Website: https://piercingexp.com/. | https://dingalinged-cpu.github.io/registry/c/piercing-experience-atlanta/
-2. She Pierced It | trust 20.0 | She Pierced It is a piercing studio in Atlanta, GA at 1874 Piedmont Avenue Northeast #E, Atlanta, GA 30324. Phone: +14045283996. Website: https://shepiercedit.com/. | https://dingalinged-cpu.github.io/registry/c/she-pierced-it-atlanta/
-3. Needle Love Art Studio - Pierced By Lauren | trust 14.0 | Needle Love Art Studio - Pierced By Lauren is a piercing studio in Atlanta, GA at 620 Peachtree Street Northeast #107, Atlanta, GA 30308. Website: https://piercedbylauren.as.me/schedule/b5e5f4ce. | https://dingalinged-cpu.github.io/registry/c/needle-love-art-studio-pierced-by-lauren-atlanta/
-4. Rowan | trust 4.0 | Rowan is a piercing studio in Atlanta, GA at 124 Krog Street Northeast, Atlanta, GA 30307. | https://dingalinged-cpu.github.io/registry/c/rowan-atlanta/
-5. Kolo | trust 0.0 | Kolo is a piercing studio in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/kolo-atlanta/
+1. Piercing Experience | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Piercing Experience is a piercing studio in Atlanta, GA at 1654 McLendon Avenue Northeast, Atlanta, GA 30307. Phone: +14043789100. Website: https://piercingexp.com/. | https://dingalinged-cpu.github.io/registry/c/piercing-experience-atlanta/
+2. She Pierced It | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | She Pierced It is a piercing studio in Atlanta, GA at 1874 Piedmont Avenue Northeast #E, Atlanta, GA 30324. Phone: +14045283996. Website: https://shepiercedit.com/. | https://dingalinged-cpu.github.io/registry/c/she-pierced-it-atlanta/
+3. Needle Love Art Studio - Pierced By Lauren | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Needle Love Art Studio - Pierced By Lauren is a piercing studio in Atlanta, GA at 620 Peachtree Street Northeast #107, Atlanta, GA 30308. Website: https://piercedbylauren.as.me/schedule/b5e5f4ce. | https://dingalinged-cpu.github.io/registry/c/needle-love-art-studio-pierced-by-lauren-atlanta/
+4. Kolo | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Kolo is a piercing studio in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/kolo-atlanta/
+5. Rowan | Organic #5 | Pulse Score 43/100 (Unrated, #5 in city) | Rowan is a piercing studio in Atlanta, GA at 124 Krog Street Northeast, Atlanta, GA 30307. | https://dingalinged-cpu.github.io/registry/c/rowan-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: piercing atlanta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Milwaukee, WI is Charles Elite Shoe Shine and Repair (a shoe repair in Milwaukee, WI at 4009 W North Avenue, Milwaukee, WI 53208. Phone: +14145261154. Website: https://www.charlesshoedaddy.com/). 1 shoe repair businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Milwaukee, WI is Charles Elite Shoe Shine and Repair (a shoe repair in Milwaukee, WI at 4009 W North Avenue, Milwaukee, WI 53208. Phone: +14145261154. Website: https://www.charlesshoedaddy.com/). 1 shoe repair businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Milwaukee, WI?
 
 Also answers: shoe repair in Milwaukee, WI; shoe repair near me (Milwaukee, WI); best shoe repair Milwaukee, WI; top rated shoe repair Milwaukee, WI; affordable shoe repair Milwaukee, WI; emergency shoe repair Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles Elite Shoe Shine and Repair | trust 16.0 | Charles Elite Shoe Shine and Repair is a shoe repair in Milwaukee, WI at 4009 W North Avenue, Milwaukee, WI 53208. Phone: +14145261154. Website: https://www.charlesshoedaddy.com/. | https://dingalinged-cpu.github.io/registry/c/charles-elite-shoe-shine-and-repair-milwaukee/
+1. Charles Elite Shoe Shine and Repair | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Charles Elite Shoe Shine and Repair is a shoe repair in Milwaukee, WI at 4009 W North Avenue, Milwaukee, WI 53208. Phone: +14145261154. Website: https://www.charlesshoedaddy.com/. | https://dingalinged-cpu.github.io/registry/c/charles-elite-shoe-shine-and-repair-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair milwaukee wi | category: Professional & financial services | industry benchmark: Finance & Insurance

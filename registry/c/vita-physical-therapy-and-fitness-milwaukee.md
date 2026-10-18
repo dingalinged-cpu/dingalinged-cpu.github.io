@@ -13,7 +13,7 @@ Vita Physical Therapy & Fitness is a physical therapy clinic in Milwaukee, WI at
 - Website: https://thevitaadvantage.com/
 - Email: info@getvitafit.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-13:00
-- Registry Score: 66.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 3% of physical therapy clinics in Milwaukee, #1 of 8 physical therapy clinics in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

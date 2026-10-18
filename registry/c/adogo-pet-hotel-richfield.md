@@ -13,7 +13,7 @@ Adogo Pet Hotel is a dog boarding facility in Richfield, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 74% of dog boarding facilitys in Minneapolis–St. Paul, #1 of 1 dog boarding facilitys in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 38.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

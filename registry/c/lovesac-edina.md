@@ -13,7 +13,7 @@ LoveSac is a furniture store in Edina, MN. Website: https://www.lovesac.com/show
 - Website: https://www.lovesac.com/showroomlocator/50th-and-france
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-18:00
-- Registry Score: 44.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 84% of furniture stores in Minneapolis–St. Paul, #3 of 6 furniture stores in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

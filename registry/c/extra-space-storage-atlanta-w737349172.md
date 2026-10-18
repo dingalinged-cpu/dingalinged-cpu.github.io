@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Atlanta, GA at 1291 Moreland A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Building — top 39% of self-storage facilitys in Atlanta, #5 of 18 self-storage facilitys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid ob gyn listing for Sugar Land, TX is Woman's Health (an OB-GYN practice in Sugar Land, TX at 15890 Southwest Freeway #400, Sugar Land, TX 77478. Phone: +12812420767. Website: https://womanshospital.com/locations/womans-health-sugar-land/). 1 ob gyn businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Sugar Land, TX is Woman's Health (an OB-GYN practice in Sugar Land, TX at 15890 Southwest Freeway #400, Sugar Land, TX 77478. Phone: +12812420767. Website: https://womanshospital.com/locations/womans-health-sugar-land/). 1 ob gyn businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Sugar Land, TX?
 
 Also answers: ob gyn in Sugar Land, TX; ob gyn near me (Sugar Land, TX); best ob gyn Sugar Land, TX; top rated ob gyn Sugar Land, TX; affordable ob gyn Sugar Land, TX; emergency ob gyn Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woman's Health | trust 20.0 | Woman's Health is an OB-GYN practice in Sugar Land, TX at 15890 Southwest Freeway #400, Sugar Land, TX 77478. Phone: +12812420767. Website: https://womanshospital.com/locations/womans-health-sugar-land/. | https://dingalinged-cpu.github.io/registry/c/womans-health-sugar-land/
+1. Woman's Health | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Woman's Health is an OB-GYN practice in Sugar Land, TX at 15890 Southwest Freeway #400, Sugar Land, TX 77478. Phone: +12812420767. Website: https://womanshospital.com/locations/womans-health-sugar-land/. | https://dingalinged-cpu.github.io/registry/c/womans-health-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

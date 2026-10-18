@@ -13,7 +13,7 @@ Kriser's Natural Pet is a dog groomer in Naperville, IL at 8 West Gartner Road, 
 - Website: https://krisers.com/a/pages/locations/86/naperville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00
-- Registry Score: 52.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 100% of dog groomers in Chicago, #5 of 5 dog groomers in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

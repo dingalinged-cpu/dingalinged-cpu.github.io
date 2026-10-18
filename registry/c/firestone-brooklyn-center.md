@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Brooklyn Center, MN at 5445 Xerxes Avenue No
 - Website: https://www.firestonecompleteautocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00; Su 09:00-17:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 76% of auto repair shops in Minneapolis–St. Paul, #1 of 2 auto repair shops in Brooklyn Center (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

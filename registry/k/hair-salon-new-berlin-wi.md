@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for New Berlin, WI is Cost Cutters (a hair salon in New Berlin, WI at 15431 West National Avenue, New Berlin, WI 53151). 6 hair salon businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for New Berlin, WI is Sola Salon (a hair salon in New Berlin, WI at 15345 West National Avenue, New Berlin, WI). 6 hair salon businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in New Berlin, WI?
 
 Also answers: hair salon in New Berlin, WI; hair salon near me (New Berlin, WI); best hair salon New Berlin, WI; top rated hair salon New Berlin, WI; affordable hair salon New Berlin, WI; emergency hair salon New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in New Berlin, WI at 15431 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-new-berlin/
-2. Great Clips | trust 4.0 | Great Clips is a hair salon in New Berlin, WI at 15440 West Beloit Road #300, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/great-clips-new-berlin/
-3. Phenix Salon Suites | trust 4.0 | Phenix Salon Suites is a hair salon in New Berlin, WI at 15421 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-new-berlin/
-4. The Barbershop | trust 4.0 | The Barbershop is a hair salon in New Berlin, WI at 15409 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-new-berlin/
-5. Sola Salon | trust 3.0 | Sola Salon is a hair salon in New Berlin, WI at 15345 West National Avenue, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/sola-salon-new-berlin/
-6. Hair Solutions | trust 0.0 | Hair Solutions is a hair salon in New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-new-berlin/
+1. Sola Salon | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Sola Salon is a hair salon in New Berlin, WI at 15345 West National Avenue, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/sola-salon-new-berlin/
+2. Hair Solutions | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Hair Solutions is a hair salon in New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-new-berlin/
+3. Cost Cutters | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | Cost Cutters is a hair salon in New Berlin, WI at 15431 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-new-berlin/
+4. Phenix Salon Suites | Organic #4 | Pulse Score 44.5/100 (Unrated, #4 in city) | Phenix Salon Suites is a hair salon in New Berlin, WI at 15421 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-new-berlin/
+5. The Barbershop | Organic #5 | Pulse Score 44.5/100 (Unrated, #5 in city) | The Barbershop is a hair salon in New Berlin, WI at 15409 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-new-berlin/
+6. Great Clips | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Great Clips is a hair salon in New Berlin, WI at 15440 West Beloit Road #300, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/great-clips-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon new berlin wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

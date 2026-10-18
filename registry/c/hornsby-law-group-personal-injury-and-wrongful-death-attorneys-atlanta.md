@@ -13,7 +13,7 @@ Hornsby Law Group - Personal Injury & Wrongful Death Attorneys is a lawyer in At
 - Website: https://www.hornsbylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 90% of lawyers in Atlanta, #47 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

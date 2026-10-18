@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Brazoria County, TX is Guidepost Montessori (a preschool in Brazoria County, TX). 2 preschool businesses are listed for Brazoria County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Brazoria County, TX is Primrose School of Pearland (a preschool in Brazoria County, TX). 2 preschool businesses are listed for Brazoria County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Brazoria County, TX?
 
 Also answers: preschool in Brazoria County, TX; preschool near me (Brazoria County, TX); best preschool Brazoria County, TX; top rated preschool Brazoria County, TX; affordable preschool Brazoria County, TX; emergency preschool Brazoria County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Guidepost Montessori | trust 0.0 | Guidepost Montessori is a preschool in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-brazoria-county/
-2. Primrose School of Pearland | trust 0.0 | Primrose School of Pearland is a preschool in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-pearland-brazoria-county/
+1. Primrose School of Pearland | Organic #1 | Pulse Score 43.5/100 (Building, #1 in city) | Primrose School of Pearland is a preschool in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-pearland-brazoria-county/
+2. Guidepost Montessori | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Guidepost Montessori is a preschool in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/guidepost-montessori-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool brazoria county tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Arrow Body and Fender is an auto repair shop in Elmwood Park, IL at 7536 West Gr
 - Website: n/a
 - Email: arrowbody@sbcglobal.net
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:30
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 5% of auto repair shops in Chicago, #1 of 1 auto repair shops in Elmwood Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

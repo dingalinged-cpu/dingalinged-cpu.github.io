@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Highland Park, IL is Lakeview Martial Arts Academy (a martial arts school in Highland Park, IL at 1614 Deerfield Road, Highland Park, IL 60035). 1 martial arts businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Highland Park, IL is Lakeview Martial Arts Academy (a martial arts school in Highland Park, IL at 1614 Deerfield Road, Highland Park, IL 60035). 1 martial arts businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Highland Park, IL?
 
 Also answers: martial arts in Highland Park, IL; martial arts near me (Highland Park, IL); best martial arts Highland Park, IL; top rated martial arts Highland Park, IL; affordable martial arts Highland Park, IL; emergency martial arts Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakeview Martial Arts Academy | trust 4.0 | Lakeview Martial Arts Academy is a martial arts school in Highland Park, IL at 1614 Deerfield Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/lakeview-martial-arts-academy-highland-park/
+1. Lakeview Martial Arts Academy | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Lakeview Martial Arts Academy is a martial arts school in Highland Park, IL at 1614 Deerfield Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/lakeview-martial-arts-academy-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts highland park il | category: Fitness | industry benchmark: Health & Fitness

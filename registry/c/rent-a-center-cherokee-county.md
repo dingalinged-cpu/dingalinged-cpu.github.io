@@ -13,7 +13,7 @@ Rent-A-Center is a furniture store in Cherokee County, GA at 5546 Bells Ferry Ro
 - Website: https://locations.rentacenter.com/georgia/acworth/5546-bells-ferry-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr-Sa 10:00-18:00; Th 10:00-19:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 58% of furniture stores in Atlanta, #2 of 2 furniture stores in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Total Wine is a liquor store in Atlanta, GA at 2955 Cobb Parkway South #310, Atl
 - Website: https://www.totalwine.com/store-info/georgia-akers-mill/805
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-22:00; Fr-Sa 08:00-23:00; Su 11:30-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.6/100 — Fair — top 98% of liquor stores in Atlanta, #36 of 37 liquor stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 69.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

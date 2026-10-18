@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Morrow, GA is Secure Care (a self-storage facility in Morrow, GA). 2 storage units businesses are listed for Morrow, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Morrow, GA is Secure Care (a self-storage facility in Morrow, GA). 2 storage units businesses are listed for Morrow, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Morrow, GA?
 
 Also answers: storage units in Morrow, GA; storage units near me (Morrow, GA); best storage units Morrow, GA; top rated storage units Morrow, GA; affordable storage units Morrow, GA; emergency storage units Morrow, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Secure Care | trust 0.0 | Secure Care is a self-storage facility in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/secure-care-morrow/
-2. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/u-haul-morrow/
+1. Secure Care | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Secure Care is a self-storage facility in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/secure-care-morrow/
+2. U-Haul | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | U-Haul is a self-storage facility in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/u-haul-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units morrow ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

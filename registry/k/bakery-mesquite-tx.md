@@ -1,14 +1,14 @@
-The top unpaid bakery listing for Mesquite, TX is Abuelito Panaderia (a bakery in Mesquite, TX at 701 Military Parkway, Mesquite, TX 75149). 3 bakery businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Mesquite, TX is Abuelito Panaderia (a bakery in Mesquite, TX at 701 Military Parkway, Mesquite, TX 75149). 3 bakery businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Mesquite, TX?
 
 Also answers: bakery in Mesquite, TX; bakery near me (Mesquite, TX); best bakery Mesquite, TX; top rated bakery Mesquite, TX; affordable bakery Mesquite, TX; emergency bakery Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abuelito Panaderia | trust 4.0 | Abuelito Panaderia is a bakery in Mesquite, TX at 701 Military Parkway, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/abuelito-panaderia-mesquite/
-2. Panaderia Y Taqueria Mi Morelia | trust 4.0 | Panaderia Y Taqueria Mi Morelia is a bakery in Mesquite, TX at 1821 Crestridge Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/panaderia-y-taqueria-mi-morelia-mesquite/
-3. Southern Maid Donuts | trust 4.0 | Southern Maid Donuts is a bakery in Mesquite, TX at 500 North Galloway Avenue #6, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/southern-maid-donuts-mesquite/
+1. Abuelito Panaderia | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Abuelito Panaderia is a bakery in Mesquite, TX at 701 Military Parkway, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/abuelito-panaderia-mesquite/
+2. Panaderia Y Taqueria Mi Morelia | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Panaderia Y Taqueria Mi Morelia is a bakery in Mesquite, TX at 1821 Crestridge Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/panaderia-y-taqueria-mi-morelia-mesquite/
+3. Southern Maid Donuts | Organic #3 | Pulse Score 44.3/100 (Unrated, #3 in city) | Southern Maid Donuts is a bakery in Mesquite, TX at 500 North Galloway Avenue #6, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/southern-maid-donuts-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mesquite tx | category: Events & weddings | industry benchmark: Personal Services

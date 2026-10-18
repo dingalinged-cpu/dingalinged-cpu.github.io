@@ -13,7 +13,7 @@ Golden Treasures Thrift Store is a thrift store in Cobb County, GA at 2314 Canto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu,We,Fr 10:00-18:00; Sa 09:00-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Good — top 20% of thrift stores in Atlanta, #5 of 9 thrift stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

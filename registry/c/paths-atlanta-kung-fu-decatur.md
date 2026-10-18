@@ -13,7 +13,7 @@ PATHS Atlanta Kung Fu is a martial arts school in Decatur, GA at 2973 Delcourt D
 - Website: https://www.pathsatlanta.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 37% of martial arts schools in Atlanta, #1 of 2 martial arts schools in Decatur (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

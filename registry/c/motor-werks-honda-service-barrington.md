@@ -13,7 +13,7 @@ Motor Werks Honda Service is an auto repair shop in Barrington, IL at 1475 South
 - Website: https://www.motorwerkshonda.com/service/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Chicago, #1 of 4 auto repair shops in Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

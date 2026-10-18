@@ -13,7 +13,7 @@ Bunbury & Associates Realtors is a real estate agency in Fitchburg, WI at 2970 C
 - Website: https://www.bunburyrealtors.com/
 - Email: info@bunburyrealtors.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of real estate agencys in Madison, #1 of 3 real estate agencys in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

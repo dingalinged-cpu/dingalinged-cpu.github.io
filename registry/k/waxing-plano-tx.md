@@ -1,15 +1,15 @@
-The top unpaid waxing listing for Plano, TX is Celebrity Nails (a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/). 4 waxing businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Plano, TX is Celebrity Nails (a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/). 4 waxing businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Plano, TX?
 
 Also answers: waxing in Plano, TX; waxing near me (Plano, TX); best waxing Plano, TX; top rated waxing Plano, TX; affordable waxing Plano, TX; emergency waxing Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Celebrity Nails | trust 20.0 | Celebrity Nails is a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/. | https://dingalinged-cpu.github.io/registry/c/celebrity-nails-plano/
-2. Minaya Beauty Spa | trust 20.0 | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
-3. Relax & Wax | trust 10.0 | Relax & Wax is a waxing salon in Plano, TX. Phone: +14693041606. | https://dingalinged-cpu.github.io/registry/c/relax-and-wax-plano/
-4. Sugaring LA | trust 4.0 | Sugaring LA is a waxing salon in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sugaring-la-plano/
+1. Celebrity Nails | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Celebrity Nails is a nail salon in Plano, TX at 5717 Legacy Drive #140, Plano, TX 75024. Phone: +19726731266. Website: https://celebritynailsplano.com/. | https://dingalinged-cpu.github.io/registry/c/celebrity-nails-plano/
+2. Minaya Beauty Spa | Organic #2 | Pulse Score 62.8/100 (Unrated, #3 in city) | Minaya Beauty Spa is a nail salon in Plano, TX at 2300 McDermott Road #300, Plano, TX 75025. Phone: +14696753040. Website: https://www.minayaspa.com/. | https://dingalinged-cpu.github.io/registry/c/minaya-beauty-spa-plano/
+3. Sugaring LA | Organic #3 | Pulse Score 57.2/100 (Unrated, #1 in city) | Sugaring LA is a waxing salon in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sugaring-la-plano/
+4. Relax & Wax | Organic #4 | Pulse Score 46.5/100 (Building, #2 in city) | Relax & Wax is a waxing salon in Plano, TX. Phone: +14693041606. | https://dingalinged-cpu.github.io/registry/c/relax-and-wax-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,16 +1,16 @@
-The top unpaid haircut listing for League City, TX is Made To Slay Salon (a hair salon in League City, TX at 1015 East Main Street, League City, TX 77573. Website: https://glossgenius.com/). 5 haircut businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for League City, TX is Technic Salon (a hair salon in League City, TX at 2875 South Gulf Freeway, League City, TX). 5 haircut businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in League City, TX?
 
 Also answers: haircut in League City, TX; haircut near me (League City, TX); best haircut League City, TX; top rated haircut League City, TX; affordable haircut League City, TX; emergency haircut League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Made To Slay Salon | trust 10.0 | Made To Slay Salon is a hair salon in League City, TX at 1015 East Main Street, League City, TX 77573. Website: https://glossgenius.com/. | https://dingalinged-cpu.github.io/registry/c/made-to-slay-salon-league-city/
-2. Shag the Barber | trust 8.0 | Shag the Barber is a barber shop in League City, TX at 826 West Main Street, League City, TX 77573. | https://dingalinged-cpu.github.io/registry/c/shag-the-barber-league-city/
-3. Technic Salon | trust 7.0 | Technic Salon is a hair salon in League City, TX at 2875 South Gulf Freeway, League City, TX. | https://dingalinged-cpu.github.io/registry/c/technic-salon-league-city/
-4. Sport Clips | trust 0.0 | Sport Clips is a hair salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-league-city/
-5. Supercuts | trust 0.0 | Supercuts is a hair salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-league-city/
+1. Technic Salon | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Technic Salon is a hair salon in League City, TX at 2875 South Gulf Freeway, League City, TX. | https://dingalinged-cpu.github.io/registry/c/technic-salon-league-city/
+2. Made To Slay Salon | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Made To Slay Salon is a hair salon in League City, TX at 1015 East Main Street, League City, TX 77573. Website: https://glossgenius.com/. | https://dingalinged-cpu.github.io/registry/c/made-to-slay-salon-league-city/
+3. Shag the Barber | Organic #3 | Pulse Score 60.3/100 (Unrated, #1 in city) | Shag the Barber is a barber shop in League City, TX at 826 West Main Street, League City, TX 77573. | https://dingalinged-cpu.github.io/registry/c/shag-the-barber-league-city/
+4. Sport Clips | Organic #4 | Pulse Score 42.7/100 (Building, #3 in city) | Sport Clips is a hair salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-league-city/
+5. Supercuts | Organic #5 | Pulse Score 42.7/100 (Building, #4 in city) | Supercuts is a hair salon in League City, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut league city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

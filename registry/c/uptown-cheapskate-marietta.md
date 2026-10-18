@@ -13,7 +13,7 @@ Uptown Cheapskate is a thrift store in Marietta, GA at 4880 Lower Roswell Rd ##8
 - Website: https://www.uptowncheapskate.com/location/marietta/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 48% of thrift stores in Atlanta, #7 of 7 thrift stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.8, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

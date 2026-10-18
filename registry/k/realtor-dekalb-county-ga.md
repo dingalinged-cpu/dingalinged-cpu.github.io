@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Dekalb County, GA is RE/MAX Metro (a real estate agency in DeKalb County, GA). 2 realtor businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Dekalb County, GA is Realty Associates of Atlanta (a real estate agency in DeKalb County, GA). 2 realtor businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Dekalb County, GA?
 
 Also answers: realtor in Dekalb County, GA; realtor near me (Dekalb County, GA); best realtor Dekalb County, GA; top rated realtor Dekalb County, GA; affordable realtor Dekalb County, GA; emergency realtor Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RE/MAX Metro | trust 0.0 | RE/MAX Metro is a real estate agency in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/re-max-metro-dekalb-county/
-2. Realty Associates of Atlanta | trust 0.0 | Realty Associates of Atlanta is a real estate agency in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/realty-associates-of-atlanta-dekalb-county/
+1. Realty Associates of Atlanta | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Realty Associates of Atlanta is a real estate agency in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/realty-associates-of-atlanta-dekalb-county/
+2. RE/MAX Metro | Organic #2 | Pulse Score 42.3/100 (Unrated, #2 in city) | RE/MAX Metro is a real estate agency in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/re-max-metro-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor dekalb county ga | category: real_estate | industry benchmark: Real Estate

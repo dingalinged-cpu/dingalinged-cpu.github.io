@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Alpharetta, GA is Classic Cleaners (a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005). 2 dry cleaners businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Alpharetta, GA is Classic Cleaners (a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005). 2 dry cleaners businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Alpharetta, GA?
 
 Also answers: dry cleaners in Alpharetta, GA; dry cleaners near me (Alpharetta, GA); best dry cleaners Alpharetta, GA; top rated dry cleaners Alpharetta, GA; affordable dry cleaners Alpharetta, GA; emergency dry cleaners Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Classic Cleaners | trust 8.0 | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/classic-cleaners-alpharetta/
-2. Prestige Dry Cleaners | trust 4.0 | Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/
+1. Classic Cleaners | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Classic Cleaners is a dry cleaner in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/classic-cleaners-alpharetta/
+2. Prestige Dry Cleaners | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Prestige Dry Cleaners is a dry cleaner in Alpharetta, GA at 2850 Holcomb Bridge Road #100, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/prestige-dry-cleaners-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners alpharetta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

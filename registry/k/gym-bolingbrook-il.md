@@ -1,12 +1,12 @@
-The top unpaid gym listing for Bolingbrook, IL is LA Fitness (a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 60440. Phone: +16307397011. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=414). 1 gym businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Bolingbrook, IL is LA Fitness (a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 60440. Phone: +16307397011. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=414). 1 gym businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Bolingbrook, IL?
 
 Also answers: gym in Bolingbrook, IL; gym near me (Bolingbrook, IL); best gym Bolingbrook, IL; top rated gym Bolingbrook, IL; affordable gym Bolingbrook, IL; emergency gym Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 16.0 | LA Fitness is a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 60440. Phone: +16307397011. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=414. | https://dingalinged-cpu.github.io/registry/c/la-fitness-bolingbrook/
+1. LA Fitness | Organic #1 | Pulse Score 48/100 (Building, #1 in city) | LA Fitness is a gym in Bolingbrook, IL at 506 Janes Avenue, Bolingbrook, IL 60440. Phone: +16307397011. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=414. | https://dingalinged-cpu.github.io/registry/c/la-fitness-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym bolingbrook il | category: Fitness | industry benchmark: Health & Fitness

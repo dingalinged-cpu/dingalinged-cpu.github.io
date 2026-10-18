@@ -1,22 +1,22 @@
-The top unpaid therapist listing for Madison, WI is Anesis Therapy (a therapy practice in Madison, WI at 2206 University Avenue, Madison, WI. Website: https://anesistherapycenter.com/). 11 therapist businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Madison, WI is PACT (a therapy practice in Madison, WI at 600 Williamson Street #A, Madison, WI. Website: https://www.dhs.wisconsin.gov/mmhi/pact.htm). 11 therapist businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Madison, WI?
 
 Also answers: therapist in Madison, WI; therapist near me (Madison, WI); best therapist Madison, WI; top rated therapist Madison, WI; affordable therapist Madison, WI; emergency therapist Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anesis Therapy | trust 9.0 | Anesis Therapy is a therapy practice in Madison, WI at 2206 University Avenue, Madison, WI. Website: https://anesistherapycenter.com/. | https://dingalinged-cpu.github.io/registry/c/anesis-therapy-madison/
-2. PACT | trust 9.0 | PACT is a therapy practice in Madison, WI at 600 Williamson Street #A, Madison, WI. Website: https://www.dhs.wisconsin.gov/mmhi/pact.htm. | https://dingalinged-cpu.github.io/registry/c/pact-madison/
-3. UW Health Arboretum Clinic | trust 8.0 | UW Health Arboretum Clinic is a family medicine practice in Madison, WI at 1102 South Park Street, Madison, WI 53715. | https://dingalinged-cpu.github.io/registry/c/uw-health-arboretum-clinic-madison/
-4. Golden Vibes Counseling Center | trust 4.0 | Golden Vibes Counseling Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/golden-vibes-counseling-center-madison/
-5. Planned Parenthood | trust 4.0 | Planned Parenthood is a therapy practice in Madison, WI at 2222 South Park Street, Madison, WI 53713. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-madison/
-6. Planned Parenthood | trust 4.0 | Planned Parenthood is a therapy practice in Madison, WI at 3706 Orin Road, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-madison-w106101986/
-7. Vet Center | trust 1.0 | Vet Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/vet-center-madison/
-8. Gateway Community Support Program | trust 0.0 | Gateway Community Support Program is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/gateway-community-support-program-madison/
-9. Northstar Counseling Center | trust 0.0 | Northstar Counseling Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/northstar-counseling-center-madison/
-10. Quest Counseling | trust 0.0 | Quest Counseling is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/quest-counseling-madison/
-11. WW Studio | trust 0.0 | WW Studio is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/ww-studio-madison/
+1. PACT | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | PACT is a therapy practice in Madison, WI at 600 Williamson Street #A, Madison, WI. Website: https://www.dhs.wisconsin.gov/mmhi/pact.htm. | https://dingalinged-cpu.github.io/registry/c/pact-madison/
+2. Anesis Therapy | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Anesis Therapy is a therapy practice in Madison, WI at 2206 University Avenue, Madison, WI. Website: https://anesistherapycenter.com/. | https://dingalinged-cpu.github.io/registry/c/anesis-therapy-madison/
+3. Golden Vibes Counseling Center | Organic #3 | Pulse Score 57.9/100 (Unrated, #3 in city) | Golden Vibes Counseling Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/golden-vibes-counseling-center-madison/
+4. UW Health Arboretum Clinic | Organic #4 | Pulse Score 56.1/100 (Unrated, #2 in city) | UW Health Arboretum Clinic is a family medicine practice in Madison, WI at 1102 South Park Street, Madison, WI 53715. | https://dingalinged-cpu.github.io/registry/c/uw-health-arboretum-clinic-madison/
+5. Quest Counseling | Organic #5 | Pulse Score 56/100 (Unrated, #4 in city) | Quest Counseling is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/quest-counseling-madison/
+6. Gateway Community Support Program | Organic #6 | Pulse Score 54.5/100 (Unrated, #5 in city) | Gateway Community Support Program is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/gateway-community-support-program-madison/
+7. Northstar Counseling Center | Organic #7 | Pulse Score 54.1/100 (Unrated, #6 in city) | Northstar Counseling Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/northstar-counseling-center-madison/
+8. Planned Parenthood | Organic #8 | Pulse Score 45.8/100 (Unrated, #7 in city) | Planned Parenthood is a therapy practice in Madison, WI at 2222 South Park Street, Madison, WI 53713. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-madison/
+9. Planned Parenthood | Organic #9 | Pulse Score 45.2/100 (Building, #8 in city) | Planned Parenthood is a therapy practice in Madison, WI at 3706 Orin Road, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-madison-w106101986/
+10. Vet Center | Organic #10 | Pulse Score 43.7/100 (Building, #9 in city) | Vet Center is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/vet-center-madison/
+11. WW Studio | Organic #11 | Pulse Score 42.4/100 (Building, #10 in city) | WW Studio is a therapy practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/ww-studio-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist madison wi | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

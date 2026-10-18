@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Menomonee Falls, WI is Sterling Lawyers, LLC (a lawyer in Menomonee Falls, WI at N56 W13405 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +14144314997. Website: https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/). 1 attorney businesses are listed for Menomonee Falls, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Menomonee Falls, WI is Sterling Lawyers, LLC (a lawyer in Menomonee Falls, WI at N56 W13405 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +14144314997. Website: https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/). 1 attorney businesses are listed for Menomonee Falls, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Menomonee Falls, WI?
 
 Also answers: attorney in Menomonee Falls, WI; attorney near me (Menomonee Falls, WI); best attorney Menomonee Falls, WI; top rated attorney Menomonee Falls, WI; affordable attorney Menomonee Falls, WI; emergency attorney Menomonee Falls, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Lawyers, LLC | trust 16.0 | Sterling Lawyers, LLC is a lawyer in Menomonee Falls, WI at N56 W13405 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +14144314997. Website: https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-menomonee-falls/
+1. Sterling Lawyers, LLC | Organic #1 | Pulse Score 45.9/100 (Unrated, #1 in city) | Sterling Lawyers, LLC is a lawyer in Menomonee Falls, WI at N56 W13405 Silver Spring Drive, Menomonee Falls, WI 53051. Phone: +14144314997. Website: https://www.sterlinglawyers.com/wisconsin/locations/menomonee-falls/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-menomonee-falls/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney menomonee falls wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

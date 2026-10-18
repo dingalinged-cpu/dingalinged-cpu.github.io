@@ -1,12 +1,12 @@
-The top unpaid insurance agents listing for Midlothian, TX is McKnight Insurance Services (an insurance agent in Midlothian, TX at 110-B Roundabout Drive #1990, Midlothian, TX 76065. Phone: +14696125020. Website: https://www.mcknightins.com/). 1 insurance agents businesses are listed for Midlothian, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Midlothian, TX is McKnight Insurance Services (an insurance agent in Midlothian, TX at 110-B Roundabout Drive #1990, Midlothian, TX 76065. Phone: +14696125020. Website: https://www.mcknightins.com/). 1 insurance agents businesses are listed for Midlothian, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Midlothian, TX?
 
 Also answers: insurance agents in Midlothian, TX; insurance agents near me (Midlothian, TX); best insurance agents Midlothian, TX; top rated insurance agents Midlothian, TX; affordable insurance agents Midlothian, TX; emergency insurance agents Midlothian, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McKnight Insurance Services | trust 20.0 | McKnight Insurance Services is an insurance agent in Midlothian, TX at 110-B Roundabout Drive #1990, Midlothian, TX 76065. Phone: +14696125020. Website: https://www.mcknightins.com/. | https://dingalinged-cpu.github.io/registry/c/mcknight-insurance-services-midlothian/
+1. McKnight Insurance Services | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | McKnight Insurance Services is an insurance agent in Midlothian, TX at 110-B Roundabout Drive #1990, Midlothian, TX 76065. Phone: +14696125020. Website: https://www.mcknightins.com/. | https://dingalinged-cpu.github.io/registry/c/mcknight-insurance-services-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents midlothian tx | category: insurance | industry benchmark: Finance & Insurance

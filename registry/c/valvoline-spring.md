@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Spring, TX at 21900 Spring Stuebner Road, Sp
 - Website: https://store.vioc.com/tx/spring/oil-change-070047.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 09:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 69% of auto repair shops in Houston, #26 of 30 auto repair shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

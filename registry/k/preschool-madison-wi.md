@@ -1,22 +1,22 @@
-The top unpaid preschool listing for Madison, WI is KinderCare (a preschool in Madison, WI at 7126 Old Sauk Road, Madison, WI 53717. Phone: +16088311223. Website: https://www.kindercare.com/). 11 preschool businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Madison, WI is Preschool of the Arts (a preschool in Madison, WI at 11 Science Court, Madison, WI 53711). 11 preschool businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Madison, WI?
 
 Also answers: preschool in Madison, WI; preschool near me (Madison, WI); best preschool Madison, WI; top rated preschool Madison, WI; affordable preschool Madison, WI; emergency preschool Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | trust 20.0 | KinderCare is a preschool in Madison, WI at 7126 Old Sauk Road, Madison, WI 53717. Phone: +16088311223. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-madison-w325102407/
-2. Preschool of the Arts | trust 4.0 | Preschool of the Arts is a preschool in Madison, WI at 11 Science Court, Madison, WI 53711. | https://dingalinged-cpu.github.io/registry/c/preschool-of-the-arts-madison/
-3. Bright Horizons at the American Center | trust 0.0 | Bright Horizons at the American Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-the-american-center-madison/
-4. Creando Explorertorium | trust 0.0 | Creando Explorertorium is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/creando-explorertorium-madison/
-5. Cultured Kids of Madison | trust 0.0 | Cultured Kids of Madison is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cultured-kids-of-madison-madison/
-6. Here We Grow Learning Center | trust 0.0 | Here We Grow Learning Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/here-we-grow-learning-center-madison/
-7. KinderCare | trust 0.0 | KinderCare is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/kindercare-madison/
-8. La Petite Academy | trust 0.0 | La Petite Academy is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-madison/
-9. La Petite Academy | trust 0.0 | La Petite Academy is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-madison-w105564849/
-10. Living Christ Early Childhood Education Center | trust 0.0 | Living Christ Early Childhood Education Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/living-christ-early-childhood-education-center-madison/
-11. Uhp Co-op Preschool | trust 0.0 | Uhp Co-op Preschool is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/uhp-co-op-preschool-madison/
+1. Preschool of the Arts | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Preschool of the Arts is a preschool in Madison, WI at 11 Science Court, Madison, WI 53711. | https://dingalinged-cpu.github.io/registry/c/preschool-of-the-arts-madison/
+2. Uhp Co-op Preschool | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Uhp Co-op Preschool is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/uhp-co-op-preschool-madison/
+3. Creando Explorertorium | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Creando Explorertorium is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/creando-explorertorium-madison/
+4. Cultured Kids of Madison | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Cultured Kids of Madison is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/cultured-kids-of-madison-madison/
+5. Here We Grow Learning Center | Organic #5 | Pulse Score 55/100 (Unrated, #5 in city) | Here We Grow Learning Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/here-we-grow-learning-center-madison/
+6. Living Christ Early Childhood Education Center | Organic #6 | Pulse Score 55/100 (Unrated, #6 in city) | Living Christ Early Childhood Education Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/living-christ-early-childhood-education-center-madison/
+7. KinderCare | Organic #7 | Pulse Score 49.4/100 (Building, #7 in city) | KinderCare is a preschool in Madison, WI at 7126 Old Sauk Road, Madison, WI 53717. Phone: +16088311223. Website: https://www.kindercare.com/. | https://dingalinged-cpu.github.io/registry/c/kindercare-madison-w325102407/
+8. KinderCare | Organic #8 | Pulse Score 43.6/100 (Building, #8 in city) | KinderCare is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/kindercare-madison/
+9. Bright Horizons at the American Center | Organic #9 | Pulse Score 43/100 (Building, #9 in city) | Bright Horizons at the American Center is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-at-the-american-center-madison/
+10. La Petite Academy | Organic #10 | Pulse Score 43/100 (Building, #10 in city) | La Petite Academy is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-madison/
+11. La Petite Academy | Organic #11 | Pulse Score 43/100 (Building, #11 in city) | La Petite Academy is a preschool in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-madison-w105564849/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool madison wi | category: Education & childcare | industry benchmark: Education & Instruction

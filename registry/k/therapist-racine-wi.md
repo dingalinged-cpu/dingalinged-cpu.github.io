@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Racine, WI is Planned Parenthood Racine Health Center (a therapy practice in Racine, WI at 834 Main Street, Racine, WI 53403). 2 therapist businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Racine, WI is Planned Parenthood Racine Health Center (a therapy practice in Racine, WI at 834 Main Street, Racine, WI 53403). 2 therapist businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Racine, WI?
 
 Also answers: therapist in Racine, WI; therapist near me (Racine, WI); best therapist Racine, WI; top rated therapist Racine, WI; affordable therapist Racine, WI; emergency therapist Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planned Parenthood Racine Health Center | trust 4.0 | Planned Parenthood Racine Health Center is a therapy practice in Racine, WI at 834 Main Street, Racine, WI 53403. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-racine-health-center-racine/
-2. WW Studio | trust 4.0 | WW Studio is a therapy practice in Mount Pleasant, WI at 2310 South Green Bay Road #Suite M, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/ww-studio-mount-pleasant/
+1. Planned Parenthood Racine Health Center | Organic #1 | Pulse Score 44.8/100 (Unrated, #1 in city) | Planned Parenthood Racine Health Center is a therapy practice in Racine, WI at 834 Main Street, Racine, WI 53403. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-racine-health-center-racine/
+2. WW Studio | Organic #2 | Pulse Score 43.2/100 (Building, #1 in city) | WW Studio is a therapy practice in Mount Pleasant, WI at 2310 South Green Bay Road #Suite M, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/ww-studio-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist racine wi | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

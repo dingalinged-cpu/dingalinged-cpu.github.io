@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Sachse, TX is Caliber Auto Care (an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse). 5 auto repair businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Sachse, TX is Kwik Kar Lube & Auto Repair (an auto repair shop in Sachse, TX). 5 auto repair businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Sachse, TX?
 
 Also answers: auto repair in Sachse, TX; auto repair near me (Sachse, TX); best auto repair Sachse, TX; top rated auto repair Sachse, TX; affordable auto repair Sachse, TX; emergency auto repair Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Auto Care | trust 20.0 | Caliber Auto Care is an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse. | https://dingalinged-cpu.github.io/registry/c/caliber-auto-care-sachse/
-2. National Tire and Battery | trust 10.0 | National Tire and Battery is an auto repair shop in Sachse, TX at 5420 State Highway 78, Sachse, TX 75048. Website: https://www.ntb.com/store/tx/sachse/5420-highway-78-75048/4512. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-sachse/
-3. Kwik Kar Lube & Auto Repair | trust 0.0 | Kwik Kar Lube & Auto Repair is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-auto-repair-sachse/
-4. Sachse Tire | trust 0.0 | Sachse Tire is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/sachse-tire-sachse/
-5. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sachse/
+1. Kwik Kar Lube & Auto Repair | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Kwik Kar Lube & Auto Repair is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-auto-repair-sachse/
+2. Sachse Tire | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Sachse Tire is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/sachse-tire-sachse/
+3. Caliber Auto Care | Organic #3 | Pulse Score 49.4/100 (Building, #3 in city) | Caliber Auto Care is an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse. | https://dingalinged-cpu.github.io/registry/c/caliber-auto-care-sachse/
+4. National Tire and Battery | Organic #4 | Pulse Score 46.8/100 (Building, #4 in city) | National Tire and Battery is an auto repair shop in Sachse, TX at 5420 State Highway 78, Sachse, TX 75048. Website: https://www.ntb.com/store/tx/sachse/5420-highway-78-75048/4512. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-sachse/
+5. Take 5 Oil Change | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Take 5 Oil Change is an auto repair shop in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sachse tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

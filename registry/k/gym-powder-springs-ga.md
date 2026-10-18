@@ -1,13 +1,13 @@
-The top unpaid gym listing for Powder Springs, GA is Anytime Fitness (a gym in Powder Springs, GA). 2 gym businesses are listed for Powder Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Powder Springs, GA is Grace Christian Academy Gynmasium (a gym in Powder Springs, GA). 2 gym businesses are listed for Powder Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Powder Springs, GA?
 
 Also answers: gym in Powder Springs, GA; gym near me (Powder Springs, GA); best gym Powder Springs, GA; top rated gym Powder Springs, GA; affordable gym Powder Springs, GA; emergency gym Powder Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 0.0 | Anytime Fitness is a gym in Powder Springs, GA. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-powder-springs/
-2. Grace Christian Academy Gynmasium | trust 0.0 | Grace Christian Academy Gynmasium is a gym in Powder Springs, GA. | https://dingalinged-cpu.github.io/registry/c/grace-christian-academy-gynmasium-powder-springs/
+1. Grace Christian Academy Gynmasium | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Grace Christian Academy Gynmasium is a gym in Powder Springs, GA. | https://dingalinged-cpu.github.io/registry/c/grace-christian-academy-gynmasium-powder-springs/
+2. Anytime Fitness | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Anytime Fitness is a gym in Powder Springs, GA. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-powder-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym powder springs ga | category: Fitness | industry benchmark: Health & Fitness

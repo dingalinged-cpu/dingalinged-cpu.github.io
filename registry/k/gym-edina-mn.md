@@ -1,27 +1,27 @@
-The top unpaid gym listing for Edina, MN is LA Fitness (a gym in Edina, MN at 4175 West 76th Street, Edina, MN 55435. Phone: +16122354831. Website: https://www.lafitness.com/). 16 gym businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Edina, MN is Paragon (a gym in Edina, MN. Phone: +19524059765. Website: https://www.paragonpilatespt.com/). 16 gym businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Edina, MN?
 
 Also answers: gym in Edina, MN; gym near me (Edina, MN); best gym Edina, MN; top rated gym Edina, MN; affordable gym Edina, MN; emergency gym Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 16.0 | LA Fitness is a gym in Edina, MN at 4175 West 76th Street, Edina, MN 55435. Phone: +16122354831. Website: https://www.lafitness.com/. | https://dingalinged-cpu.github.io/registry/c/la-fitness-edina/
-2. Paragon | trust 16.0 | Paragon is a gym in Edina, MN. Phone: +19524059765. Website: https://www.paragonpilatespt.com/. | https://dingalinged-cpu.github.io/registry/c/paragon-edina/
-3. Life Time | trust 14.0 | Life Time is a gym in Edina, MN at 250 Southdale, Edina, MN 55435. Website: https://www.lifetime.life/life-time-locations/mn-edina-southdale.html. | https://dingalinged-cpu.github.io/registry/c/life-time-edina/
-4. Snap Fitness | trust 14.0 | Snap Fitness is a gym in Edina, MN at 4402 France Avenue South, Edina, MN 55410. Website: https://www.snapfitness.com/us/gyms/edina-south-france-mn. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-edina/
-5. ALTR | trust 10.0 | ALTR is a gym in Edina, MN. Website: https://www.altrfit.com/. | https://dingalinged-cpu.github.io/registry/c/altr-edina/
-6. Diamond Body Sculpting | trust 10.0 | Diamond Body Sculpting is a gym in Edina, MN at 3801 West 50th Street #Suite 150A, Edina, MN 55410. Website: https://diamondbodysculpting.com/. | https://dingalinged-cpu.github.io/registry/c/diamond-body-sculpting-edina/
-7. Human Powered Health - 50th & France | trust 10.0 | Human Powered Health - 50th & France is a gym in Edina, MN. Website: https://humanpoweredhealth.com/. | https://dingalinged-cpu.github.io/registry/c/human-powered-health-50th-and-france-edina/
-8. Basecamp Fitness Edina | trust 6.0 | Basecamp Fitness Edina is a gym in Edina, MN. Website: https://www.basecampfitness.com/studio/edina. | https://dingalinged-cpu.github.io/registry/c/basecamp-fitness-edina-edina/
-9. Crossfit Eden Prairie | trust 4.0 | Crossfit Eden Prairie is a gym in Edina, MN at 6883 Washington Avenue South, Edina, MN 55439. | https://dingalinged-cpu.github.io/registry/c/crossfit-eden-prairie-edina/
-10. Orangetheory Fitness | trust 4.0 | Orangetheory Fitness is a gym in Edina, MN at 3523 West 70th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-edina/
-11. Pure Barre | trust 4.0 | Pure Barre is a gym in Edina, MN at 7101 France Avenue South, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/pure-barre-edina/
-12. Flex Fitness | trust 0.0 | Flex Fitness is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/flex-fitness-edina/
-13. Grind | trust 0.0 | Grind is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/grind-edina/
-14. Physical Culture | trust 0.0 | Physical Culture is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/physical-culture-edina/
-15. Studio Pilates | trust 0.0 | Studio Pilates is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/studio-pilates-edina/
-16. Welcyon | trust 0.0 | Welcyon is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/welcyon-edina/
+1. Paragon | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Paragon is a gym in Edina, MN. Phone: +19524059765. Website: https://www.paragonpilatespt.com/. | https://dingalinged-cpu.github.io/registry/c/paragon-edina/
+2. Human Powered Health - 50th & France | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Human Powered Health - 50th & France is a gym in Edina, MN. Website: https://humanpoweredhealth.com/. | https://dingalinged-cpu.github.io/registry/c/human-powered-health-50th-and-france-edina/
+3. ALTR | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | ALTR is a gym in Edina, MN. Website: https://www.altrfit.com/. | https://dingalinged-cpu.github.io/registry/c/altr-edina/
+4. Diamond Body Sculpting | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | Diamond Body Sculpting is a gym in Edina, MN at 3801 West 50th Street #Suite 150A, Edina, MN 55410. Website: https://diamondbodysculpting.com/. | https://dingalinged-cpu.github.io/registry/c/diamond-body-sculpting-edina/
+5. Basecamp Fitness Edina | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Basecamp Fitness Edina is a gym in Edina, MN. Website: https://www.basecampfitness.com/studio/edina. | https://dingalinged-cpu.github.io/registry/c/basecamp-fitness-edina-edina/
+6. Crossfit Eden Prairie | Organic #6 | Pulse Score 55.6/100 (Unrated, #6 in city) | Crossfit Eden Prairie is a gym in Edina, MN at 6883 Washington Avenue South, Edina, MN 55439. | https://dingalinged-cpu.github.io/registry/c/crossfit-eden-prairie-edina/
+7. Flex Fitness | Organic #7 | Pulse Score 54/100 (Unrated, #7 in city) | Flex Fitness is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/flex-fitness-edina/
+8. Grind | Organic #8 | Pulse Score 54/100 (Unrated, #8 in city) | Grind is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/grind-edina/
+9. Physical Culture | Organic #9 | Pulse Score 54/100 (Unrated, #9 in city) | Physical Culture is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/physical-culture-edina/
+10. Studio Pilates | Organic #10 | Pulse Score 54/100 (Unrated, #10 in city) | Studio Pilates is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/studio-pilates-edina/
+11. Welcyon | Organic #11 | Pulse Score 54/100 (Unrated, #11 in city) | Welcyon is a gym in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/welcyon-edina/
+12. LA Fitness | Organic #12 | Pulse Score 46.4/100 (Building, #12 in city) | LA Fitness is a gym in Edina, MN at 4175 West 76th Street, Edina, MN 55435. Phone: +16122354831. Website: https://www.lafitness.com/. | https://dingalinged-cpu.github.io/registry/c/la-fitness-edina/
+13. Life Time | Organic #13 | Pulse Score 45.8/100 (Building, #13 in city) | Life Time is a gym in Edina, MN at 250 Southdale, Edina, MN 55435. Website: https://www.lifetime.life/life-time-locations/mn-edina-southdale.html. | https://dingalinged-cpu.github.io/registry/c/life-time-edina/
+14. Snap Fitness | Organic #14 | Pulse Score 45.8/100 (Building, #14 in city) | Snap Fitness is a gym in Edina, MN at 4402 France Avenue South, Edina, MN 55410. Website: https://www.snapfitness.com/us/gyms/edina-south-france-mn. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-edina/
+15. Pure Barre | Organic #15 | Pulse Score 43.6/100 (Building, #15 in city) | Pure Barre is a gym in Edina, MN at 7101 France Avenue South, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/pure-barre-edina/
+16. Orangetheory Fitness | Organic #16 | Pulse Score 43.1/100 (Building, #16 in city) | Orangetheory Fitness is a gym in Edina, MN at 3523 West 70th Street, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym edina mn | category: Fitness | industry benchmark: Health & Fitness

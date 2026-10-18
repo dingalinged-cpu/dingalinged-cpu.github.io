@@ -1,14 +1,14 @@
-The top unpaid gym listing for Webster, TX is spenga (a gym in Webster, TX at 1507 West Bay Area Boulevard #B, Webster, TX 77598. Phone: +12819628838. Website: https://websterbaybrook.spenga.com/). 3 gym businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Webster, TX is spenga (a gym in Webster, TX at 1507 West Bay Area Boulevard #B, Webster, TX 77598. Phone: +12819628838. Website: https://websterbaybrook.spenga.com/). 3 gym businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Webster, TX?
 
 Also answers: gym in Webster, TX; gym near me (Webster, TX); best gym Webster, TX; top rated gym Webster, TX; affordable gym Webster, TX; emergency gym Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. spenga | trust 16.0 | spenga is a gym in Webster, TX at 1507 West Bay Area Boulevard #B, Webster, TX 77598. Phone: +12819628838. Website: https://websterbaybrook.spenga.com/. | https://dingalinged-cpu.github.io/registry/c/spenga-webster/
-2. Fitness Connection | trust 10.0 | Fitness Connection is a gym in Webster, TX at 20761 Gulf Freeway, Webster, TX 77598. Website: https://fitnessconnection.com/gyms/clear-lake/. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-webster/
-3. EOS Fitness | trust 4.0 | EOS Fitness is a gym in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/eos-fitness-webster/
+1. spenga | Organic #1 | Pulse Score 50.1/100 (Fair, #1 in city) | spenga is a gym in Webster, TX at 1507 West Bay Area Boulevard #B, Webster, TX 77598. Phone: +12819628838. Website: https://websterbaybrook.spenga.com/. | https://dingalinged-cpu.github.io/registry/c/spenga-webster/
+2. Fitness Connection | Organic #2 | Pulse Score 46.3/100 (Unrated, #2 in city) | Fitness Connection is a gym in Webster, TX at 20761 Gulf Freeway, Webster, TX 77598. Website: https://fitnessconnection.com/gyms/clear-lake/. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-webster/
+3. EOS Fitness | Organic #3 | Pulse Score 46.2/100 (Unrated, #3 in city) | EOS Fitness is a gym in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/eos-fitness-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym webster tx | category: Fitness | industry benchmark: Health & Fitness

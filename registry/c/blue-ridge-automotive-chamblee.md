@@ -13,7 +13,7 @@ Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peach
 - Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/
 - Email: teamchamblee@blueridgeauto.co
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Atlanta, #1 of 9 auto repair shops in Chamblee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

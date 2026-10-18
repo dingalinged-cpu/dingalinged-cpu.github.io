@@ -1,13 +1,13 @@
-The top unpaid caterers listing for Madison, WI is Twisted Radish Catering (a caterer in Madison, WI at 1219 North Sherman Avenue, Madison, WI 53704. Phone: +16085715001. Website: https://twistedradish.com/). 2 caterers businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Madison, WI is Twisted Radish Catering (a caterer in Madison, WI at 1219 North Sherman Avenue, Madison, WI 53704. Phone: +16085715001. Website: https://twistedradish.com/). 2 caterers businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Madison, WI?
 
 Also answers: caterers in Madison, WI; caterers near me (Madison, WI); best caterers Madison, WI; top rated caterers Madison, WI; affordable caterers Madison, WI; emergency caterers Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Twisted Radish Catering | trust 20.0 | Twisted Radish Catering is a caterer in Madison, WI at 1219 North Sherman Avenue, Madison, WI 53704. Phone: +16085715001. Website: https://twistedradish.com/. | https://dingalinged-cpu.github.io/registry/c/twisted-radish-catering-madison/
-2. Marigold Catering | trust 1.0 | Marigold Catering is a caterer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/marigold-catering-madison/
+1. Twisted Radish Catering | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Twisted Radish Catering is a caterer in Madison, WI at 1219 North Sherman Avenue, Madison, WI 53704. Phone: +16085715001. Website: https://twistedradish.com/. | https://dingalinged-cpu.github.io/registry/c/twisted-radish-catering-madison/
+2. Marigold Catering | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Marigold Catering is a caterer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/marigold-catering-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers madison wi | category: Events & weddings | industry benchmark: Personal Services

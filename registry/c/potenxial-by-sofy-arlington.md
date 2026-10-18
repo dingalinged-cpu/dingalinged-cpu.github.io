@@ -13,7 +13,7 @@ Potenxial by Sofy is a physical therapy clinic in Arlington, TX at 1402 Janann A
 - Website: https://potenxialbysofy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 3% of physical therapy clinics in Dallas–Fort Worth, #1 of 2 physical therapy clinics in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

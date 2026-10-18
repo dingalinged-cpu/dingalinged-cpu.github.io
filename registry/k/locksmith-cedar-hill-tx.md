@@ -1,12 +1,12 @@
-The top unpaid locksmith listing for Cedar Hill, TX is Locks by LeDuff (a locksmith in Cedar Hill, TX at 101 North Highway 67 #Suite D, Cedar Hill, TX 75104. Phone: +19722933553. Website: https://locksbyleduff.com/). 1 locksmith businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Cedar Hill, TX is Locks by LeDuff (a locksmith in Cedar Hill, TX at 101 North Highway 67 #Suite D, Cedar Hill, TX 75104. Phone: +19722933553. Website: https://locksbyleduff.com/). 1 locksmith businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Cedar Hill, TX?
 
 Also answers: locksmith in Cedar Hill, TX; locksmith near me (Cedar Hill, TX); best locksmith Cedar Hill, TX; top rated locksmith Cedar Hill, TX; affordable locksmith Cedar Hill, TX; emergency locksmith Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Locks by LeDuff | trust 20.0 | Locks by LeDuff is a locksmith in Cedar Hill, TX at 101 North Highway 67 #Suite D, Cedar Hill, TX 75104. Phone: +19722933553. Website: https://locksbyleduff.com/. | https://dingalinged-cpu.github.io/registry/c/locks-by-leduff-cedar-hill/
+1. Locks by LeDuff | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Locks by LeDuff is a locksmith in Cedar Hill, TX at 101 North Highway 67 #Suite D, Cedar Hill, TX 75104. Phone: +19722933553. Website: https://locksbyleduff.com/. | https://dingalinged-cpu.github.io/registry/c/locks-by-leduff-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith cedar hill tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

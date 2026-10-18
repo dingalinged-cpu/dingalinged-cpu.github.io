@@ -13,7 +13,7 @@ NTB is a tire shop in Friendswood, TX at 1505 Broadway Street, Friendswood, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.9/100 — Unrated (not enough evidence yet) — top 94% of tire shops in Houston, #2 of 2 tire shops in Friendswood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 47.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

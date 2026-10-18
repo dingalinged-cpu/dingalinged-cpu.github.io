@@ -1,12 +1,12 @@
-The top unpaid dermatologist listing for Fulshear, TX is Elite Dermatology (a dermatologist in Fulshear, TX). 1 dermatologist businesses are listed for Fulshear, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Fulshear, TX is Elite Dermatology (a dermatologist in Fulshear, TX). 1 dermatologist businesses are listed for Fulshear, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Fulshear, TX?
 
 Also answers: dermatologist in Fulshear, TX; dermatologist near me (Fulshear, TX); best dermatologist Fulshear, TX; top rated dermatologist Fulshear, TX; affordable dermatologist Fulshear, TX; emergency dermatologist Fulshear, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Dermatology | trust 1.0 | Elite Dermatology is a dermatologist in Fulshear, TX. | https://dingalinged-cpu.github.io/registry/c/elite-dermatology-fulshear/
+1. Elite Dermatology | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Elite Dermatology is a dermatologist in Fulshear, TX. | https://dingalinged-cpu.github.io/registry/c/elite-dermatology-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist fulshear tx | category: Health & medical | industry benchmark: Physicians & Surgeons

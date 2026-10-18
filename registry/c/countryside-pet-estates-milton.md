@@ -13,7 +13,7 @@ Countryside Pet Estates is a dog boarding facility in Milton, GA at 2540 Hopewel
 - Website: https://countrysidepetestates.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa-Su 09:00-17:00; Jan 1 closed; May Mo[-1] closed; Jul 4 closed; Sep Mo[1] closed; Nov Th[4] closed; Dec 25 closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of dog boarding facilitys in Atlanta, #1 of 1 dog boarding facilitys in Milton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

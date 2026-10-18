@@ -1,16 +1,16 @@
-The top unpaid haircut listing for Royse City, TX is Hair Junkie Salon and Boutique (a hair salon in Royse City, TX at 213 South Elm Street #103, Royse City, TX 75189. Phone: +19726356614. Website: https://hairjunkietx.com/). 5 haircut businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Royse City, TX is Two Friends Salon (a hair salon in Royse City, TX at 220 West Main Street, Royse City, TX 75189. Phone: +19726356423). 5 haircut businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Royse City, TX?
 
 Also answers: haircut in Royse City, TX; haircut near me (Royse City, TX); best haircut Royse City, TX; top rated haircut Royse City, TX; affordable haircut Royse City, TX; emergency haircut Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Junkie Salon and Boutique | trust 16.0 | Hair Junkie Salon and Boutique is a hair salon in Royse City, TX at 213 South Elm Street #103, Royse City, TX 75189. Phone: +19726356614. Website: https://hairjunkietx.com/. | https://dingalinged-cpu.github.io/registry/c/hair-junkie-salon-and-boutique-royse-city/
-2. Two Friends Salon | trust 14.0 | Two Friends Salon is a hair salon in Royse City, TX at 220 West Main Street, Royse City, TX 75189. Phone: +19726356423. | https://dingalinged-cpu.github.io/registry/c/two-friends-salon-royse-city/
-3. Bella's Beauty Salon | trust 10.0 | Bella's Beauty Salon is a hair salon in Royse City, TX at 520 South Houston Street, Royse City, TX 75189. Phone: +14694759263. | https://dingalinged-cpu.github.io/registry/c/bellas-beauty-salon-royse-city/
-4. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Royse City, TX at 921 North Erby Campbell Boulevard, Royse City, TX 75189. Website: https://haircutmenroysecitytx.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-royse-city/
-5. Great Clips | trust 8.0 | Great Clips is a hair salon in Royse City, TX at 556 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/great-clips-royse-city/
+1. Two Friends Salon | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Two Friends Salon is a hair salon in Royse City, TX at 220 West Main Street, Royse City, TX 75189. Phone: +19726356423. | https://dingalinged-cpu.github.io/registry/c/two-friends-salon-royse-city/
+2. Bella's Beauty Salon | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Bella's Beauty Salon is a hair salon in Royse City, TX at 520 South Houston Street, Royse City, TX 75189. Phone: +14694759263. | https://dingalinged-cpu.github.io/registry/c/bellas-beauty-salon-royse-city/
+3. Hair Junkie Salon and Boutique | Organic #3 | Pulse Score 60.8/100 (Unrated, #3 in city) | Hair Junkie Salon and Boutique is a hair salon in Royse City, TX at 213 South Elm Street #103, Royse City, TX 75189. Phone: +19726356614. Website: https://hairjunkietx.com/. | https://dingalinged-cpu.github.io/registry/c/hair-junkie-salon-and-boutique-royse-city/
+4. Sport Clips | Organic #4 | Pulse Score 46.8/100 (Building, #5 in city) | Sport Clips is a hair salon in Royse City, TX at 921 North Erby Campbell Boulevard, Royse City, TX 75189. Website: https://haircutmenroysecitytx.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-royse-city/
+5. Great Clips | Organic #5 | Pulse Score 46.8/100 (Building, #4 in city) | Great Clips is a hair salon in Royse City, TX at 556 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/great-clips-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut royse city tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

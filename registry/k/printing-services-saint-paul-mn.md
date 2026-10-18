@@ -1,17 +1,17 @@
-The top unpaid printing services listing for Saint Paul, MN is Bolger (a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/). 6 printing services businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Saint Paul, MN is Bolger (a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/). 6 printing services businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Saint Paul, MN?
 
 Also answers: printing services in Saint Paul, MN; printing services near me (Saint Paul, MN); best printing services Saint Paul, MN; top rated printing services Saint Paul, MN; affordable printing services Saint Paul, MN; emergency printing services Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bolger | trust 16.0 | Bolger is a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/. | https://dingalinged-cpu.github.io/registry/c/bolger-saint-paul/
-2. The UPS Store | trust 7.0 | The UPS Store is a printing service in Saint Paul, MN at 2038 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul/
-3. FedEx Office | trust 4.0 | FedEx Office is a printing service in Saint Paul, MN at 58 Snelling Avenue South, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/fedex-office-saint-paul/
-4. Insty-Prints | trust 0.0 | Insty-Prints is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/insty-prints-saint-paul/
-5. InstyPrints | trust 0.0 | InstyPrints is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/instyprints-saint-paul/
-6. The UPS Store | trust 0.0 | The UPS Store is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul-n3246904112/
+1. Bolger | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Bolger is a printing service in Saint Paul, MN at 3301 Como Avenue, Saint Paul, MN 55108. Phone: +16516456311. Website: https://bolgerinc.com/. | https://dingalinged-cpu.github.io/registry/c/bolger-saint-paul/
+2. Insty-Prints | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Insty-Prints is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/insty-prints-saint-paul/
+3. InstyPrints | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | InstyPrints is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/instyprints-saint-paul/
+4. The UPS Store | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | The UPS Store is a printing service in Saint Paul, MN at 2038 Ford Parkway, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul/
+5. FedEx Office | Organic #5 | Pulse Score 44.4/100 (Building, #5 in city) | FedEx Office is a printing service in Saint Paul, MN at 58 Snelling Avenue South, Saint Paul, MN 55105. | https://dingalinged-cpu.github.io/registry/c/fedex-office-saint-paul/
+6. The UPS Store | Organic #6 | Pulse Score 42.6/100 (Building, #6 in city) | The UPS Store is a printing service in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-saint-paul-n3246904112/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services saint paul mn | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Mokena, IL is Crash Champions (an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st). 1 auto body shop businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Mokena, IL is Crash Champions (an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st). 1 auto body shop businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Mokena, IL?
 
 Also answers: auto body shop in Mokena, IL; auto body shop near me (Mokena, IL); best auto body shop Mokena, IL; top rated auto body shop Mokena, IL; affordable auto body shop Mokena, IL; emergency auto body shop Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | trust 12.0 | Crash Champions is an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st. | https://dingalinged-cpu.github.io/registry/c/crash-champions-mokena/
+1. Crash Champions | Organic #1 | Pulse Score 48.7/100 (Building, #5 in city) | Crash Champions is an auto repair shop in Mokena, IL. Phone: +17084794321. Website: https://crashchampions.com/locations/crash-champions-mokena-191st. | https://dingalinged-cpu.github.io/registry/c/crash-champions-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop mokena il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

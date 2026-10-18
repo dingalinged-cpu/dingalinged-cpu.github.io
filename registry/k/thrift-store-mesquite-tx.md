@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Mesquite, TX is Goodwill (a thrift store in Mesquite, TX at 4621 Gus Thomasson Road, Mesquite, TX 75150). 2 thrift store businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Mesquite, TX is Moody-Wells Auctioneers (a thrift store in Mesquite, TX at 109 West Main Street, Mesquite, TX 75149). 2 thrift store businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Mesquite, TX?
 
 Also answers: thrift store in Mesquite, TX; thrift store near me (Mesquite, TX); best thrift store Mesquite, TX; top rated thrift store Mesquite, TX; affordable thrift store Mesquite, TX; emergency thrift store Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 4.0 | Goodwill is a thrift store in Mesquite, TX at 4621 Gus Thomasson Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/goodwill-mesquite/
-2. Moody-Wells Auctioneers | trust 4.0 | Moody-Wells Auctioneers is a thrift store in Mesquite, TX at 109 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/moody-wells-auctioneers-mesquite/
+1. Moody-Wells Auctioneers | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Moody-Wells Auctioneers is a thrift store in Mesquite, TX at 109 West Main Street, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/moody-wells-auctioneers-mesquite/
+2. Goodwill | Organic #2 | Pulse Score 43.2/100 (Building, #2 in city) | Goodwill is a thrift store in Mesquite, TX at 4621 Gus Thomasson Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/goodwill-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store mesquite tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

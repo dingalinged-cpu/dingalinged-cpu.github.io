@@ -1,17 +1,17 @@
-The top unpaid massage listing for Richardson, TX is Tani Spa (a massage studio in Richardson, TX at 328 West Campbell Road, Richardson, TX 75080. Phone: +19722353338. Website: https://www.tanispa.com/). 6 massage businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Richardson, TX is Tani Spa (a massage studio in Richardson, TX at 328 West Campbell Road, Richardson, TX 75080. Phone: +19722353338. Website: https://www.tanispa.com/). 6 massage businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Richardson, TX?
 
 Also answers: massage in Richardson, TX; massage near me (Richardson, TX); best massage Richardson, TX; top rated massage Richardson, TX; affordable massage Richardson, TX; emergency massage Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tani Spa | trust 20.0 | Tani Spa is a massage studio in Richardson, TX at 328 West Campbell Road, Richardson, TX 75080. Phone: +19722353338. Website: https://www.tanispa.com/. | https://dingalinged-cpu.github.io/registry/c/tani-spa-richardson/
-2. Massage Envy | trust 8.0 | Massage Envy is a massage studio in Richardson, TX at 1415 East Renner Road #210, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/massage-envy-richardson/
-3. The Gift of Touch Massage Therapy | trust 4.0 | The Gift of Touch Massage Therapy is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-gift-of-touch-massage-therapy-richardson/
-4. Swing Sync Golf & Body | trust 3.0 | Swing Sync Golf & Body is a massage studio in Richardson, TX at 300 North Coit Road #159, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/swing-sync-golf-and-body-richardson/
-5. Aqua Massage Spa | trust 0.0 | Aqua Massage Spa is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/aqua-massage-spa-richardson/
-6. Top Line Massage | trust 0.0 | Top Line Massage is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/top-line-massage-richardson/
+1. Tani Spa | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Tani Spa is a massage studio in Richardson, TX at 328 West Campbell Road, Richardson, TX 75080. Phone: +19722353338. Website: https://www.tanispa.com/. | https://dingalinged-cpu.github.io/registry/c/tani-spa-richardson/
+2. Swing Sync Golf & Body | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Swing Sync Golf & Body is a massage studio in Richardson, TX at 300 North Coit Road #159, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/swing-sync-golf-and-body-richardson/
+3. The Gift of Touch Massage Therapy | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | The Gift of Touch Massage Therapy is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-gift-of-touch-massage-therapy-richardson/
+4. Aqua Massage Spa | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Aqua Massage Spa is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/aqua-massage-spa-richardson/
+5. Top Line Massage | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Top Line Massage is a massage studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/top-line-massage-richardson/
+6. Massage Envy | Organic #6 | Pulse Score 46.8/100 (Building, #6 in city) | Massage Envy is a massage studio in Richardson, TX at 1415 East Renner Road #210, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/massage-envy-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage richardson tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

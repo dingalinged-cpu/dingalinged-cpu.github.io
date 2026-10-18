@@ -13,7 +13,7 @@ Allied Ink Tatoo is a tattoo shop in Cobb County, GA at 3205 Canton Road #141, C
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 15:00-22:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Fair — top 67% of tattoo shops in Atlanta, #6 of 7 tattoo shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 47.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

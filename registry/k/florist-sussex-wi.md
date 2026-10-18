@@ -1,13 +1,13 @@
-The top unpaid florist listing for Sussex, WI is Sussex Country Floral Shoppe (a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089. Phone: +12622463980. Website: https://www.sussexcountryfloral.com/). 2 florist businesses are listed for Sussex, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Sussex, WI is Historic Square (a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089). 2 florist businesses are listed for Sussex, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Sussex, WI?
 
 Also answers: florist in Sussex, WI; florist near me (Sussex, WI); best florist Sussex, WI; top rated florist Sussex, WI; affordable florist Sussex, WI; emergency florist Sussex, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sussex Country Floral Shoppe | trust 20.0 | Sussex Country Floral Shoppe is a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089. Phone: +12622463980. Website: https://www.sussexcountryfloral.com/. | https://dingalinged-cpu.github.io/registry/c/sussex-country-floral-shoppe-sussex/
-2. Historic Square | trust 4.0 | Historic Square is a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089. | https://dingalinged-cpu.github.io/registry/c/historic-square-sussex/
+1. Historic Square | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Historic Square is a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089. | https://dingalinged-cpu.github.io/registry/c/historic-square-sussex/
+2. Sussex Country Floral Shoppe | Organic #2 | Pulse Score 51.5/100 (Fair, #2 in city) | Sussex Country Floral Shoppe is a florist in Sussex, WI at N63 W23811 Main Street, Sussex, WI 53089. Phone: +12622463980. Website: https://www.sussexcountryfloral.com/. | https://dingalinged-cpu.github.io/registry/c/sussex-country-floral-shoppe-sussex/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist sussex wi | category: Events & weddings | industry benchmark: Personal Services

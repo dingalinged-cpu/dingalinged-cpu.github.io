@@ -13,7 +13,7 @@ Lewisville Dental is a dentist in Lewisville, TX. Phone: +19724590400. Website: 
 - Website: https://www.lewisvilledentisttx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Fr 09:00-17:00; Sa 09:00-14:00 open "Select Saturday, by appointment only."; PH closed
-- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 2% of dentists in Dallas–Fort Worth, #3 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

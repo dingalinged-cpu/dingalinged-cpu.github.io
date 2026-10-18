@@ -13,7 +13,7 @@ Mattress Warehouse is a mattress store in Arlington Heights, IL at 1007 East Ran
 - Website: https://mattresswarehouse.com/store-locator/mattress-warehouse-of-arlington_heights-5521-arlington_heights-illinois
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 10:00-18:00
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 48% of mattress stores in Chicago, #2 of 3 mattress stores in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

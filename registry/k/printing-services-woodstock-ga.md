@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Woodstock, GA is Cherokee Reprographics (a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/). 2 printing services businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Woodstock, GA is Cherokee Reprographics (a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/). 2 printing services businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Woodstock, GA?
 
 Also answers: printing services in Woodstock, GA; printing services near me (Woodstock, GA); best printing services Woodstock, GA; top rated printing services Woodstock, GA; affordable printing services Woodstock, GA; emergency printing services Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cherokee Reprographics | trust 19.0 | Cherokee Reprographics is a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/. | https://dingalinged-cpu.github.io/registry/c/cherokee-reprographics-woodstock/
-2. The UPS Store | trust 0.0 | The UPS Store is a printing service in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-woodstock/
+1. Cherokee Reprographics | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | Cherokee Reprographics is a printing service in Woodstock, GA at 9740 Main Street #300, Woodstock, GA. Phone: +16784942000. Website: https://cherokeerepro.com/. | https://dingalinged-cpu.github.io/registry/c/cherokee-reprographics-woodstock/
+2. The UPS Store | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | The UPS Store is a printing service in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Monro is an auto repair shop in Milwaukee, WI at 5910,5930 West Bluemound Road, 
 - Website: https://locations.monro.com/wi/milwaukee/5930-w-bluemound
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-19:00, Sa 07:30-18:00
-- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 75% of auto repair shops in Milwaukee, #86 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

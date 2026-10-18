@@ -1,13 +1,13 @@
-The top unpaid drug rehab listing for Saint Paul, MN is Nurturing House LLC (an addiction treatment center in Saint Paul, MN at 1919 University Avenue ##185, Saint Paul, MN 55104. Phone: +16517561473. Website: https://www.nurturinghouse.org/). 2 drug rehab businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid drug rehab listing for Saint Paul, MN is Twin Town (an addiction treatment center in Saint Paul, MN at 1706 University Avenue, Saint Paul, MN 55104. Phone: +16516453661. Website: https://www.meridianprograms.com/program/twin-town-mens-residential-st-paul-mn/). 2 drug rehab businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best drug rehab providers in Saint Paul, MN?
 
 Also answers: drug rehab in Saint Paul, MN; drug rehab near me (Saint Paul, MN); best drug rehab Saint Paul, MN; top rated drug rehab Saint Paul, MN; affordable drug rehab Saint Paul, MN; emergency drug rehab Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nurturing House LLC | trust 16.0 | Nurturing House LLC is an addiction treatment center in Saint Paul, MN at 1919 University Avenue ##185, Saint Paul, MN 55104. Phone: +16517561473. Website: https://www.nurturinghouse.org/. | https://dingalinged-cpu.github.io/registry/c/nurturing-house-llc-saint-paul/
-2. Twin Town | trust 16.0 | Twin Town is an addiction treatment center in Saint Paul, MN at 1706 University Avenue, Saint Paul, MN 55104. Phone: +16516453661. Website: https://www.meridianprograms.com/program/twin-town-mens-residential-st-paul-mn/. | https://dingalinged-cpu.github.io/registry/c/twin-town-saint-paul/
+1. Twin Town | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Twin Town is an addiction treatment center in Saint Paul, MN at 1706 University Avenue, Saint Paul, MN 55104. Phone: +16516453661. Website: https://www.meridianprograms.com/program/twin-town-mens-residential-st-paul-mn/. | https://dingalinged-cpu.github.io/registry/c/twin-town-saint-paul/
+2. Nurturing House LLC | Organic #2 | Pulse Score 54.9/100 (Fair, #2 in city) | Nurturing House LLC is an addiction treatment center in Saint Paul, MN at 1919 University Avenue ##185, Saint Paul, MN 55104. Phone: +16517561473. Website: https://www.nurturinghouse.org/. | https://dingalinged-cpu.github.io/registry/c/nurturing-house-llc-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: drug rehab saint paul mn | category: Health & medical - Addiction treatment | industry benchmark: Physicians & Surgeons

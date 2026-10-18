@@ -1,19 +1,19 @@
-The top unpaid haircut listing for Forest Park, GA is Hair Affair (a hair salon in Forest Park, GA). 8 haircut businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Forest Park, GA is Hair Affair (a hair salon in Forest Park, GA). 8 haircut businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Forest Park, GA?
 
 Also answers: haircut in Forest Park, GA; haircut near me (Forest Park, GA); best haircut Forest Park, GA; top rated haircut Forest Park, GA; affordable haircut Forest Park, GA; emergency haircut Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Affair | trust 0.0 | Hair Affair is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/hair-affair-forest-park/
-2. Judy's Hair Salon | trust 0.0 | Judy's Hair Salon is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/judys-hair-salon-forest-park/
-3. Kass | trust 0.0 | Kass is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/kass-forest-park/
-4. Lala's Braid Lounge | trust 0.0 | Lala's Braid Lounge is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/lalas-braid-lounge-forest-park/
-5. Locs & Natural Hair Care | trust 0.0 | Locs & Natural Hair Care is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/locs-and-natural-hair-care-forest-park/
-6. Magdalena African Hair Branding | trust 0.0 | Magdalena African Hair Branding is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/magdalena-african-hair-branding-forest-park/
-7. Solo's Barber Shop | trust 0.0 | Solo's Barber Shop is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/solos-barber-shop-forest-park/
-8. United Barbershop Beauty Salon | trust 0.0 | United Barbershop Beauty Salon is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/united-barbershop-beauty-salon-forest-park/
+1. Hair Affair | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Hair Affair is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/hair-affair-forest-park/
+2. Judy's Hair Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Judy's Hair Salon is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/judys-hair-salon-forest-park/
+3. Kass | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Kass is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/kass-forest-park/
+4. Lala's Braid Lounge | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Lala's Braid Lounge is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/lalas-braid-lounge-forest-park/
+5. Locs & Natural Hair Care | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Locs & Natural Hair Care is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/locs-and-natural-hair-care-forest-park/
+6. Magdalena African Hair Branding | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Magdalena African Hair Branding is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/magdalena-african-hair-branding-forest-park/
+7. Solo's Barber Shop | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Solo's Barber Shop is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/solos-barber-shop-forest-park/
+8. United Barbershop Beauty Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | United Barbershop Beauty Salon is a hair salon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/united-barbershop-beauty-salon-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut forest park ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

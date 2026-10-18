@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Lawrenceville, GA is Express Oil Change & Tire Engineers (a tire shop in Lawrenceville, GA at 1422 Pleasant Hill Road, Lawrenceville, GA 30044. Phone: +17709310026. Website: https://www.expressoil.com/stores/lawrenceville/ga/1829/). 1 tire shop businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Lawrenceville, GA is Express Oil Change & Tire Engineers (a tire shop in Lawrenceville, GA at 1422 Pleasant Hill Road, Lawrenceville, GA 30044. Phone: +17709310026. Website: https://www.expressoil.com/stores/lawrenceville/ga/1829/). 1 tire shop businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Lawrenceville, GA?
 
 Also answers: tire shop in Lawrenceville, GA; tire shop near me (Lawrenceville, GA); best tire shop Lawrenceville, GA; top rated tire shop Lawrenceville, GA; affordable tire shop Lawrenceville, GA; emergency tire shop Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Lawrenceville, GA at 1422 Pleasant Hill Road, Lawrenceville, GA 30044. Phone: +17709310026. Website: https://www.expressoil.com/stores/lawrenceville/ga/1829/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-lawrenceville/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Lawrenceville, GA at 1422 Pleasant Hill Road, Lawrenceville, GA 30044. Phone: +17709310026. Website: https://www.expressoil.com/stores/lawrenceville/ga/1829/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop lawrenceville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

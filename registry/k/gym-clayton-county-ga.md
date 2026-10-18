@@ -1,15 +1,15 @@
-The top unpaid gym listing for Clayton County, GA is HiTone Fitness (a gym in Clayton County, GA). 4 gym businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Clayton County, GA is HiTone Fitness (a gym in Clayton County, GA). 4 gym businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Clayton County, GA?
 
 Also answers: gym in Clayton County, GA; gym near me (Clayton County, GA); best gym Clayton County, GA; top rated gym Clayton County, GA; affordable gym Clayton County, GA; emergency gym Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HiTone Fitness | trust 0.0 | HiTone Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hitone-fitness-clayton-county/
-2. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county/
-3. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county-w949866495/
-4. Workout Anytime | trust 0.0 | Workout Anytime is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-clayton-county/
+1. HiTone Fitness | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | HiTone Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hitone-fitness-clayton-county/
+2. Planet Fitness | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Planet Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county/
+3. Planet Fitness | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Planet Fitness is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-clayton-county-w949866495/
+4. Workout Anytime | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Workout Anytime is a gym in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym clayton county ga | category: Fitness | industry benchmark: Health & Fitness

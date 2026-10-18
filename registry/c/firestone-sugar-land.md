@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South
 - Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 62% of auto repair shops in Houston, #3 of 6 auto repair shops in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

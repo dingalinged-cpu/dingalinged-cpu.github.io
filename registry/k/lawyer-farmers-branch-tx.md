@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Farmers Branch, TX is Asset Protection Dallas - Robert K. Dowd P.C. (a lawyer in Dallas, TX at 4100 Spring Valley Road #686, Dallas, TX 75244. Phone: +12149229330. Website: https://assetprotectiondallas.com/). 1 lawyer businesses are listed for Farmers Branch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Farmers Branch, TX is Asset Protection Dallas - Robert K. Dowd P.C. (a lawyer in Dallas, TX at 4100 Spring Valley Road #686, Dallas, TX 75244. Phone: +12149229330. Website: https://assetprotectiondallas.com/). 1 lawyer businesses are listed for Farmers Branch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Farmers Branch, TX?
 
 Also answers: lawyer in Farmers Branch, TX; lawyer near me (Farmers Branch, TX); best lawyer Farmers Branch, TX; top rated lawyer Farmers Branch, TX; affordable lawyer Farmers Branch, TX; emergency lawyer Farmers Branch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Asset Protection Dallas - Robert K. Dowd P.C. | trust 20.0 | Asset Protection Dallas - Robert K. Dowd P.C. is a lawyer in Dallas, TX at 4100 Spring Valley Road #686, Dallas, TX 75244. Phone: +12149229330. Website: https://assetprotectiondallas.com/. | https://dingalinged-cpu.github.io/registry/c/asset-protection-dallas-robert-k-dowd-p-c-dallas/
+1. Asset Protection Dallas - Robert K. Dowd P.C. | Organic #1 | Pulse Score 60/100 (Unrated, #17 in city) | Asset Protection Dallas - Robert K. Dowd P.C. is a lawyer in Dallas, TX at 4100 Spring Valley Road #686, Dallas, TX 75244. Phone: +12149229330. Website: https://assetprotectiondallas.com/. | https://dingalinged-cpu.github.io/registry/c/asset-protection-dallas-robert-k-dowd-p-c-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer farmers branch tx | category: Legal | industry benchmark: Attorneys & Legal Services

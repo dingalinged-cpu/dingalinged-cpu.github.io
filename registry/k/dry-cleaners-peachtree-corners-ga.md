@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Peachtree Corners, GA is Evergreen Pro Cleaners (a dry cleaner in Peachtree Corners, GA at 6395 Spalding Drive #A, Peachtree Corners, GA. Phone: +16784666608. Website: https://www.evgreenpro.com/). 1 dry cleaners businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Peachtree Corners, GA is Evergreen Pro Cleaners (a dry cleaner in Peachtree Corners, GA at 6395 Spalding Drive #A, Peachtree Corners, GA. Phone: +16784666608. Website: https://www.evgreenpro.com/). 1 dry cleaners businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Peachtree Corners, GA?
 
 Also answers: dry cleaners in Peachtree Corners, GA; dry cleaners near me (Peachtree Corners, GA); best dry cleaners Peachtree Corners, GA; top rated dry cleaners Peachtree Corners, GA; affordable dry cleaners Peachtree Corners, GA; emergency dry cleaners Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evergreen Pro Cleaners | trust 19.0 | Evergreen Pro Cleaners is a dry cleaner in Peachtree Corners, GA at 6395 Spalding Drive #A, Peachtree Corners, GA. Phone: +16784666608. Website: https://www.evgreenpro.com/. | https://dingalinged-cpu.github.io/registry/c/evergreen-pro-cleaners-peachtree-corners/
+1. Evergreen Pro Cleaners | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Evergreen Pro Cleaners is a dry cleaner in Peachtree Corners, GA at 6395 Spalding Drive #A, Peachtree Corners, GA. Phone: +16784666608. Website: https://www.evgreenpro.com/. | https://dingalinged-cpu.github.io/registry/c/evergreen-pro-cleaners-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners peachtree corners ga | category: Professional & financial services | industry benchmark: Finance & Insurance

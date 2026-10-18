@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Katy, TX is R & G Property Services De Tejas - Rosa Ellenburg (a real estate agency in Katy, TX at 28227 Daystrom Lane, Katy, TX 77494. Phone: +18328145174. Website: https://rosaellenburg.com/). 1 real estate agent businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Katy, TX is R & G Property Services De Tejas - Rosa Ellenburg (a real estate agency in Katy, TX at 28227 Daystrom Lane, Katy, TX 77494. Phone: +18328145174. Website: https://rosaellenburg.com/). 1 real estate agent businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Katy, TX?
 
 Also answers: real estate agent in Katy, TX; real estate agent near me (Katy, TX); best real estate agent Katy, TX; top rated real estate agent Katy, TX; affordable real estate agent Katy, TX; emergency real estate agent Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. R & G Property Services De Tejas - Rosa Ellenburg | trust 20.0 | R & G Property Services De Tejas - Rosa Ellenburg is a real estate agency in Katy, TX at 28227 Daystrom Lane, Katy, TX 77494. Phone: +18328145174. Website: https://rosaellenburg.com/. | https://dingalinged-cpu.github.io/registry/c/r-and-g-property-services-de-tejas-rosa-ellenburg-katy/
+1. R & G Property Services De Tejas - Rosa Ellenburg | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | R & G Property Services De Tejas - Rosa Ellenburg is a real estate agency in Katy, TX at 28227 Daystrom Lane, Katy, TX 77494. Phone: +18328145174. Website: https://rosaellenburg.com/. | https://dingalinged-cpu.github.io/registry/c/r-and-g-property-services-de-tejas-rosa-ellenburg-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent katy tx | category: Professional & financial services | industry benchmark: Finance & Insurance

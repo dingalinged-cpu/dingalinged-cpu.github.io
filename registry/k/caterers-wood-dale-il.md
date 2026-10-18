@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Wood Dale, IL is Shorty's (a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/). 1 caterers businesses are listed for Wood Dale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Wood Dale, IL is Shorty's (a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/). 1 caterers businesses are listed for Wood Dale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Wood Dale, IL?
 
 Also answers: caterers in Wood Dale, IL; caterers near me (Wood Dale, IL); best caterers Wood Dale, IL; top rated caterers Wood Dale, IL; affordable caterers Wood Dale, IL; emergency caterers Wood Dale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shorty's | trust 20.0 | Shorty's is a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/. | https://dingalinged-cpu.github.io/registry/c/shortys-wood-dale/
+1. Shorty's | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Shorty's is a caterer in Wood Dale, IL at 123 Irving Park Road, Wood Dale, IL 60191. Phone: +16306949293. Website: https://www.shortyswooddale.com/. | https://dingalinged-cpu.github.io/registry/c/shortys-wood-dale/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers wood dale il | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Cleaners is a dry cleaner in Denton, TX at 2430 South Interstate 35E #Suite# 106
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 45.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Unrated (not enough evidence yet) — top 88% of dry cleaners in Dallas–Fort Worth, #8 of 9 dry cleaners in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Beer Temple is a liquor store in Chicago, IL at 3169 North Elston Avenue, Chicag
 - Website: https://craftbeertemple.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 12% of liquor stores in Chicago, #18 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

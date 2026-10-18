@@ -13,7 +13,7 @@ Fuller's Car Wash is a car wash in Mokena, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Unrated (not enough evidence yet) — top 82% of car washes in Chicago, #4 of 7 car washes in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 40.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

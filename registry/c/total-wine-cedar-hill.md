@@ -13,7 +13,7 @@ Total Wine is a liquor store in Cedar Hill, TX at 428 East FM 1382, Cedar Hill, 
 - Website: https://www.totalwine.com/store-info/534
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 68% of liquor stores in Dallas–Fort Worth, #1 of 2 liquor stores in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

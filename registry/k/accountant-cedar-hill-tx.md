@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Cedar Hill, TX is Logan and Associates CPA (an accountant in Cedar Hill, TX at 103 East Belt Line Road #E, Cedar Hill, TX 75104. Phone: +19722938224). 1 accountant businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Cedar Hill, TX is Logan and Associates CPA (an accountant in Cedar Hill, TX at 103 East Belt Line Road #E, Cedar Hill, TX 75104. Phone: +19722938224). 1 accountant businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Cedar Hill, TX?
 
 Also answers: accountant in Cedar Hill, TX; accountant near me (Cedar Hill, TX); best accountant Cedar Hill, TX; top rated accountant Cedar Hill, TX; affordable accountant Cedar Hill, TX; emergency accountant Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Logan and Associates CPA | trust 10.0 | Logan and Associates CPA is an accountant in Cedar Hill, TX at 103 East Belt Line Road #E, Cedar Hill, TX 75104. Phone: +19722938224. | https://dingalinged-cpu.github.io/registry/c/logan-and-associates-cpa-cedar-hill/
+1. Logan and Associates CPA | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Logan and Associates CPA is an accountant in Cedar Hill, TX at 103 East Belt Line Road #E, Cedar Hill, TX 75104. Phone: +19722938224. | https://dingalinged-cpu.github.io/registry/c/logan-and-associates-cpa-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant cedar hill tx | category: professional_accounting | industry benchmark: Business Services

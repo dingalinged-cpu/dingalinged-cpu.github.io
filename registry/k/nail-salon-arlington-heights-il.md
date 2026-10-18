@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Arlington Heights, IL is Choice Nails (a nail salon in Arlington Heights, IL at 30 S Dunton Ave, Arlington Heights, IL 60005. Phone: +18476700500. Website: https://choicenailsah.com/). 6 nail salon businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Arlington Heights, IL is Tina's Nail Salon (a nail salon in Arlington Heights, IL at 1844 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +18476408001. Website: https://tinasnailsalon.biz/). 6 nail salon businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Arlington Heights, IL?
 
 Also answers: nail salon in Arlington Heights, IL; nail salon near me (Arlington Heights, IL); best nail salon Arlington Heights, IL; top rated nail salon Arlington Heights, IL; affordable nail salon Arlington Heights, IL; emergency nail salon Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Choice Nails | trust 20.0 | Choice Nails is a nail salon in Arlington Heights, IL at 30 S Dunton Ave, Arlington Heights, IL 60005. Phone: +18476700500. Website: https://choicenailsah.com/. | https://dingalinged-cpu.github.io/registry/c/choice-nails-arlington-heights/
-2. Tina's Nail Salon | trust 20.0 | Tina's Nail Salon is a nail salon in Arlington Heights, IL at 1844 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +18476408001. Website: https://tinasnailsalon.biz/. | https://dingalinged-cpu.github.io/registry/c/tinas-nail-salon-arlington-heights/
-3. Vik Nail Salon | trust 14.0 | Vik Nail Salon is a nail salon in Arlington Heights, IL at 2304 East Rand Road, Arlington Heights, IL 60004. Phone: +18476701800. | https://dingalinged-cpu.github.io/registry/c/vik-nail-salon-arlington-heights/
-4. J Nails | trust 6.0 | J Nails is a nail salon in Arlington Heights, IL. Phone: +12247352437. | https://dingalinged-cpu.github.io/registry/c/j-nails-arlington-heights/
-5. Hera Nails | trust 0.0 | Hera Nails is a nail salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/hera-nails-arlington-heights/
-6. L.Lovely Nails | trust 0.0 | L.Lovely Nails is a nail salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/l-lovely-nails-arlington-heights/
+1. Tina's Nail Salon | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Tina's Nail Salon is a nail salon in Arlington Heights, IL at 1844 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +18476408001. Website: https://tinasnailsalon.biz/. | https://dingalinged-cpu.github.io/registry/c/tinas-nail-salon-arlington-heights/
+2. Choice Nails | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Choice Nails is a nail salon in Arlington Heights, IL at 30 S Dunton Ave, Arlington Heights, IL 60005. Phone: +18476700500. Website: https://choicenailsah.com/. | https://dingalinged-cpu.github.io/registry/c/choice-nails-arlington-heights/
+3. Vik Nail Salon | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | Vik Nail Salon is a nail salon in Arlington Heights, IL at 2304 East Rand Road, Arlington Heights, IL 60004. Phone: +18476701800. | https://dingalinged-cpu.github.io/registry/c/vik-nail-salon-arlington-heights/
+4. J Nails | Organic #4 | Pulse Score 59.3/100 (Unrated, #4 in city) | J Nails is a nail salon in Arlington Heights, IL. Phone: +12247352437. | https://dingalinged-cpu.github.io/registry/c/j-nails-arlington-heights/
+5. Hera Nails | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Hera Nails is a nail salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/hera-nails-arlington-heights/
+6. L.Lovely Nails | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | L.Lovely Nails is a nail salon in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/l-lovely-nails-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon arlington heights il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

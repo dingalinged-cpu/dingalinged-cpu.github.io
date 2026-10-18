@@ -13,7 +13,7 @@ Grande Flowers is a florist in Shorewood, WI at 1433 East Capitol Drive, Shorewo
 - Website: https://www.grandeflowersshorewoodwi.com/
 - Email: info@grandeflowersshorewoodwi.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 27% of florists in Milwaukee, #1 of 1 florists in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

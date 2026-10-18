@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Downers Grove, IL is Artistic Grooming (a dog groomer in Downers Grove, IL at 6309 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309710143). 1 dog groomer businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Downers Grove, IL is Artistic Grooming (a dog groomer in Downers Grove, IL at 6309 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309710143). 1 dog groomer businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Downers Grove, IL?
 
 Also answers: dog groomer in Downers Grove, IL; dog groomer near me (Downers Grove, IL); best dog groomer Downers Grove, IL; top rated dog groomer Downers Grove, IL; affordable dog groomer Downers Grove, IL; emergency dog groomer Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Artistic Grooming | trust 10.0 | Artistic Grooming is a dog groomer in Downers Grove, IL at 6309 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309710143. | https://dingalinged-cpu.github.io/registry/c/artistic-grooming-downers-grove/
+1. Artistic Grooming | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Artistic Grooming is a dog groomer in Downers Grove, IL at 6309 Woodward Avenue, Downers Grove, IL 60516. Phone: +16309710143. | https://dingalinged-cpu.github.io/registry/c/artistic-grooming-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer downers grove il | category: Pets | industry benchmark: Animals & Pets

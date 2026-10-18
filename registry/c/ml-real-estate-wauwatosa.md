@@ -13,7 +13,7 @@ ML Real Estate is a real estate agency in Wauwatosa, WI at 6111 West North Avenu
 - Website: https://www.mlrealestate.co/
 - Email: mike@mlrealestate.co
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 15% of real estate agencys in Milwaukee, #2 of 11 real estate agencys in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

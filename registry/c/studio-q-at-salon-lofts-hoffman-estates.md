@@ -13,7 +13,7 @@ Studio Q at Salon Lofts is a hair salon in Hoffman Estates, IL at 977 North Rose
 - Website: https://salonlofts.com/studio_q_salon_nicole_q
 - Email: nicole.q@salonlofts.com
 - Opening hours (OSM syntax): We,Th 09:00-15:00; Fr 09:00-17:00; Sa 09:00-14:00; Tu 15:00-20:00
-- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 2% of hair salons in Chicago, #1 of 2 hair salons in Hoffman Estates (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 66.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

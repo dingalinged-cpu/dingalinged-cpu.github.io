@@ -13,7 +13,7 @@ Caliber Collision is an auto repair shop in Cobb County, GA at 850 Mountain Indu
 - Website: https://www.caliber.com/find-a-location/kennesaw
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Unrated (not enough evidence yet) — top 74% of auto repair shops in Atlanta, #61 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

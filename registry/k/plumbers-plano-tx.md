@@ -1,14 +1,14 @@
-The top unpaid plumbers listing for Plano, TX is My Local Plumber (a plumber in Plano, TX at 820 West Spring Creek Parkway, Plano, TX 75023. Phone: +19726452363. Website: https://mylocalplumber.net/plumber-plano-tx/). 3 plumbers businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Plano, TX is NOMI - Bathroom Remodeling (a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/). 3 plumbers businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Plano, TX?
 
 Also answers: plumbers in Plano, TX; plumbers near me (Plano, TX); best plumbers Plano, TX; top rated plumbers Plano, TX; affordable plumbers Plano, TX; emergency plumbers Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. My Local Plumber | trust 20.0 | My Local Plumber is a plumber in Plano, TX at 820 West Spring Creek Parkway, Plano, TX 75023. Phone: +19726452363. Website: https://mylocalplumber.net/plumber-plano-tx/. | https://dingalinged-cpu.github.io/registry/c/my-local-plumber-plano/
-2. NOMI - Bathroom Remodeling | trust 20.0 | NOMI - Bathroom Remodeling is a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/. | https://dingalinged-cpu.github.io/registry/c/nomi-bathroom-remodeling-plano/
-3. Water Heater Hero | trust 20.0 | Water Heater Hero is a plumber in Plano, TX at 3905 Hedgcoxe Road ##250605, Plano, TX 75025. Phone: +14694561855. Website: https://waterheaterherotx.com/. | https://dingalinged-cpu.github.io/registry/c/water-heater-hero-plano/
+1. NOMI - Bathroom Remodeling | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | NOMI - Bathroom Remodeling is a plumber in Plano, TX at 820 West Spring Creek Parkway #ste 400 HH, Plano, TX 75023. Phone: +18003718970. Website: https://nomibath.com/location/bathroom-remodel-plano/. | https://dingalinged-cpu.github.io/registry/c/nomi-bathroom-remodeling-plano/
+2. My Local Plumber | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | My Local Plumber is a plumber in Plano, TX at 820 West Spring Creek Parkway, Plano, TX 75023. Phone: +19726452363. Website: https://mylocalplumber.net/plumber-plano-tx/. | https://dingalinged-cpu.github.io/registry/c/my-local-plumber-plano/
+3. Water Heater Hero | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Water Heater Hero is a plumber in Plano, TX at 3905 Hedgcoxe Road ##250605, Plano, TX 75025. Phone: +14694561855. Website: https://waterheaterherotx.com/. | https://dingalinged-cpu.github.io/registry/c/water-heater-hero-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers plano tx | category: Home Services | industry benchmark: Home & Home Improvement

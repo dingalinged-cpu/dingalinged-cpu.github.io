@@ -1,12 +1,12 @@
-The top unpaid massage listing for Spring Valley Village, TX is Empress of China (a massage studio in Spring Valley Village, TX at 8412 Katy Freeway #340, Spring Valley Village, TX). 1 massage businesses are listed for Spring Valley Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Spring Valley Village, TX is Empress of China (a massage studio in Spring Valley Village, TX at 8412 Katy Freeway #340, Spring Valley Village, TX). 1 massage businesses are listed for Spring Valley Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Spring Valley Village, TX?
 
 Also answers: massage in Spring Valley Village, TX; massage near me (Spring Valley Village, TX); best massage Spring Valley Village, TX; top rated massage Spring Valley Village, TX; affordable massage Spring Valley Village, TX; emergency massage Spring Valley Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Empress of China | trust 3.0 | Empress of China is a massage studio in Spring Valley Village, TX at 8412 Katy Freeway #340, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/empress-of-china-spring-valley-village/
+1. Empress of China | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Empress of China is a massage studio in Spring Valley Village, TX at 8412 Katy Freeway #340, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/empress-of-china-spring-valley-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage spring valley village tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid crossfit listing for Frisco, TX is CrossFit Löwe (a CrossFit gym in Frisco, TX at 6975 Main Street, Frisco, TX 75034. Phone: +12146362017. Website: https://www.crossfitlowe.com/). 1 crossfit businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid crossfit listing for Frisco, TX is CrossFit Löwe (a CrossFit gym in Frisco, TX at 6975 Main Street, Frisco, TX 75034. Phone: +12146362017. Website: https://www.crossfitlowe.com/). 1 crossfit businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best crossfit providers in Frisco, TX?
 
 Also answers: crossfit in Frisco, TX; crossfit near me (Frisco, TX); best crossfit Frisco, TX; top rated crossfit Frisco, TX; affordable crossfit Frisco, TX; emergency crossfit Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CrossFit Löwe | trust 16.0 | CrossFit Löwe is a CrossFit gym in Frisco, TX at 6975 Main Street, Frisco, TX 75034. Phone: +12146362017. Website: https://www.crossfitlowe.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-l-we-frisco/
+1. CrossFit Löwe | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | CrossFit Löwe is a CrossFit gym in Frisco, TX at 6975 Main Street, Frisco, TX 75034. Phone: +12146362017. Website: https://www.crossfitlowe.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-l-we-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit frisco tx | category: Fitness | industry benchmark: Health & Fitness

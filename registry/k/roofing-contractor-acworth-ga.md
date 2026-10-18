@@ -1,12 +1,12 @@
-The top unpaid roofing contractor listing for Acworth, GA is Mancilla Roofing & Construction (a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/). 1 roofing contractor businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Acworth, GA is Mancilla Roofing & Construction (a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/). 1 roofing contractor businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Acworth, GA?
 
 Also answers: roofing contractor in Acworth, GA; roofing contractor near me (Acworth, GA); best roofing contractor Acworth, GA; top rated roofing contractor Acworth, GA; affordable roofing contractor Acworth, GA; emergency roofing contractor Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mancilla Roofing & Construction | trust 20.0 | Mancilla Roofing & Construction is a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/. | https://dingalinged-cpu.github.io/registry/c/mancilla-roofing-and-construction-acworth/
+1. Mancilla Roofing & Construction | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Mancilla Roofing & Construction is a roofer in Acworth, GA at 6985 McCurley Road, Acworth, GA 30102. Phone: +16782643189. Website: https://mancillaroofing.com/. | https://dingalinged-cpu.github.io/registry/c/mancilla-roofing-and-construction-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor acworth ga | category: Home services - Roofing | industry benchmark: Home & Home Improvement

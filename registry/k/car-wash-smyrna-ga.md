@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Smyrna, GA is Scrub Hub (a car wash in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://scrubhubcarwash.com/). 4 car wash businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Smyrna, GA is Scrub Hub (a car wash in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://scrubhubcarwash.com/). 4 car wash businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Smyrna, GA?
 
 Also answers: car wash in Smyrna, GA; car wash near me (Smyrna, GA); best car wash Smyrna, GA; top rated car wash Smyrna, GA; affordable car wash Smyrna, GA; emergency car wash Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scrub Hub | trust 9.0 | Scrub Hub is a car wash in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://scrubhubcarwash.com/. | https://dingalinged-cpu.github.io/registry/c/scrub-hub-smyrna/
-2. Bubbles | trust 4.0 | Bubbles is a car wash in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/bubbles-smyrna/
-3. Clean Track | trust 3.0 | Clean Track is a car wash in Smyrna, GA at 3390 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/clean-track-smyrna/
-4. Hand Carwash & Detail | trust 0.0 | Hand Carwash & Detail is a car wash in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/hand-carwash-and-detail-smyrna/
+1. Scrub Hub | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Scrub Hub is a car wash in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://scrubhubcarwash.com/. | https://dingalinged-cpu.github.io/registry/c/scrub-hub-smyrna/
+2. Bubbles | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Bubbles is a car wash in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/bubbles-smyrna/
+3. Clean Track | Organic #3 | Pulse Score 58.2/100 (Unrated, #3 in city) | Clean Track is a car wash in Smyrna, GA at 3390 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/clean-track-smyrna/
+4. Hand Carwash & Detail | Organic #4 | Pulse Score 55.8/100 (Unrated, #4 in city) | Hand Carwash & Detail is a car wash in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/hand-carwash-and-detail-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash smyrna ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

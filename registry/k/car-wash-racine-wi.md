@@ -1,17 +1,17 @@
-The top unpaid car wash listing for Racine, WI is Rocket Wash (a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406). 6 car wash businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Racine, WI is Rocket Wash (a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406). 6 car wash businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Racine, WI?
 
 Also answers: car wash in Racine, WI; car wash near me (Racine, WI); best car wash Racine, WI; top rated car wash Racine, WI; affordable car wash Racine, WI; emergency car wash Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rocket Wash | trust 8.0 | Rocket Wash is a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/rocket-wash-racine/
-2. Scrub-A-Dub Car Wash | trust 7.0 | Scrub-A-Dub Car Wash is a car wash in Racine, WI at 5120 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-car-wash-racine/
-3. Regency Car Wash | trust 3.0 | Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/regency-car-wash-racine/
-4. Royal Car Care | trust 3.0 | Royal Car Care is a car wash in Racine, WI at 3829 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/royal-car-care-racine/
-5. BP | trust 0.0 | BP is a car wash in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bp-racine/
-6. Citgo | trust 0.0 | Citgo is a car wash in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/citgo-racine/
+1. Rocket Wash | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Rocket Wash is a car wash in Racine, WI at 4733 Spring Street, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/rocket-wash-racine/
+2. Regency Car Wash | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Regency Car Wash is a car wash in Racine, WI at 6149 Regency West Drive, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/regency-car-wash-racine/
+3. Royal Car Care | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Royal Car Care is a car wash in Racine, WI at 3829 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/royal-car-care-racine/
+4. Scrub-A-Dub Car Wash | Organic #4 | Pulse Score 46.6/100 (Unrated, #4 in city) | Scrub-A-Dub Car Wash is a car wash in Racine, WI at 5120 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/scrub-a-dub-car-wash-racine/
+5. BP | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | BP is a car wash in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bp-racine/
+6. Citgo | Organic #6 | Pulse Score 41.4/100 (Unrated, #6 in city) | Citgo is a car wash in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/citgo-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash racine wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

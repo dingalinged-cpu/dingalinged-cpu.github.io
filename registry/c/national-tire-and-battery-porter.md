@@ -13,7 +13,7 @@ National Tire and Battery is an auto repair shop in Porter, TX at 22180 Farris G
 - Website: https://www.ntb.com/store/tx/porter/22180-farris-green-rd-77365/4505
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00, Sa 08:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 63% of auto repair shops in Houston, #3 of 3 auto repair shops in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

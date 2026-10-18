@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Dunwoody, GA is Total Wine (a liquor store in Atlanta, GA. Phone: +17703951678. Website: https://www.totalwine.com/store-info/803). 2 liquor store businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Dunwoody, GA is Dunwoody Beverage (a liquor store in Dunwoody, GA at Dunwoody Village Parkway, Dunwoody, GA 30338). 2 liquor store businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Dunwoody, GA?
 
 Also answers: liquor store in Dunwoody, GA; liquor store near me (Dunwoody, GA); best liquor store Dunwoody, GA; top rated liquor store Dunwoody, GA; affordable liquor store Dunwoody, GA; emergency liquor store Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 17.0 | Total Wine is a liquor store in Atlanta, GA. Phone: +17703951678. Website: https://www.totalwine.com/store-info/803. | https://dingalinged-cpu.github.io/registry/c/total-wine-atlanta/
-2. Dunwoody Beverage | trust 4.0 | Dunwoody Beverage is a liquor store in Dunwoody, GA at Dunwoody Village Parkway, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/dunwoody-beverage-dunwoody/
+1. Dunwoody Beverage | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Dunwoody Beverage is a liquor store in Dunwoody, GA at Dunwoody Village Parkway, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/dunwoody-beverage-dunwoody/
+2. Total Wine | Organic #2 | Pulse Score 49.1/100 (Building, #37 in city) | Total Wine is a liquor store in Atlanta, GA. Phone: +17703951678. Website: https://www.totalwine.com/store-info/803. | https://dingalinged-cpu.github.io/registry/c/total-wine-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store dunwoody ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

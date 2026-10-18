@@ -13,7 +13,7 @@ Skale Dental Professionals is a dentist in Northbrook, IL at 1300 Meadow Rd, Sui
 - Website: https://www.drskale.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-17:00; Tu 09:00-18:00; Th 08:00-14:00; Fr 08:00-13:00
-- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 23% of dentists in Chicago, #2 of 2 dentists in Northbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

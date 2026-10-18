@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Bolingbrook, IL is Ashley HomeStore (a furniture store in Bolingbrook, IL at 875 Boughton Road, Bolingbrook, IL 60440. Phone: +16307832346. Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/). 4 furniture store businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Bolingbrook, IL is Ashley HomeStore (a furniture store in Bolingbrook, IL at 875 Boughton Road, Bolingbrook, IL 60440. Phone: +16307832346. Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/). 4 furniture store businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Bolingbrook, IL?
 
 Also answers: furniture store in Bolingbrook, IL; furniture store near me (Bolingbrook, IL); best furniture store Bolingbrook, IL; top rated furniture store Bolingbrook, IL; affordable furniture store Bolingbrook, IL; emergency furniture store Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Bolingbrook, IL at 875 Boughton Road, Bolingbrook, IL 60440. Phone: +16307832346. Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-bolingbrook/
-2. La-Z-Boy | trust 16.0 | La-Z-Boy is a furniture store in Bolingbrook, IL at 825W875 Boughton Road, Bolingbrook, IL 60440. Phone: +12199373360. Website: https://www.la-z-boy.com/. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-bolingbrook/
-3. IKEA | trust 10.0 | IKEA is a furniture store in Bolingbrook, IL at 750 East Boughton Road, Bolingbrook, IL 60440. Website: https://www.ikea.com/us/en/stores/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/ikea-bolingbrook/
-4. Aaron's | trust 0.0 | Aaron's is a furniture store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/aarons-bolingbrook/
+1. Ashley HomeStore | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Ashley HomeStore is a furniture store in Bolingbrook, IL at 875 Boughton Road, Bolingbrook, IL 60440. Phone: +16307832346. Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-bolingbrook/
+2. La-Z-Boy | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | La-Z-Boy is a furniture store in Bolingbrook, IL at 825W875 Boughton Road, Bolingbrook, IL 60440. Phone: +12199373360. Website: https://www.la-z-boy.com/. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-bolingbrook/
+3. IKEA | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | IKEA is a furniture store in Bolingbrook, IL at 750 East Boughton Road, Bolingbrook, IL 60440. Website: https://www.ikea.com/us/en/stores/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/ikea-bolingbrook/
+4. Aaron's | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Aaron's is a furniture store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/aarons-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store bolingbrook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

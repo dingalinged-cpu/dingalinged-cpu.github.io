@@ -13,7 +13,7 @@ Gracious Gifts Child Development Center is a daycare in Greenfield, WI at 4161 S
 - Website: https://www.graciousgifts2.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of daycares in Milwaukee, #1 of 1 daycares in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

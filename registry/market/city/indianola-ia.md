@@ -1,0 +1,58 @@
+Keyword market for Indianola, IA: 30 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Des Moines-West Des Moines, IA metro (US volume x population share).
+
+# Top keywords in Indianola, IA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. car wash indianola ia | searches/mo 4,100 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-indianola-ia/
+2. dentist indianola ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-indianola-ia/
+3. gym indianola ia | searches/mo 4,100 (est) | CPC $1.67 | value $6,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-indianola-ia/
+4. hair salon indianola ia | searches/mo 3,300 (est) | CPC $0.55 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-indianola-ia/
+5. mechanic indianola ia | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-indianola-ia/
+6. vet indianola ia | searches/mo 1,200 (est) | CPC $4.06 | value $4,900 | Google Ads equiv $320/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-indianola-ia/
+7. haircut indianola ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-indianola-ia/
+8. auto repair indianola ia | searches/mo 670 (est) | CPC $4.35 | value $2,900 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-indianola-ia/
+9. chiropractor indianola ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-indianola-ia/
+10. real estate agent indianola ia | searches/mo 450 (est) | CPC $3.61 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-indianola-ia/
+11. insurance agency indianola ia | searches/mo 200 (est) | CPC $3.39 | value $680 | Google Ads equiv $56.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-indianola-ia/
+12. realtor indianola ia | searches/mo 200 (est) | CPC $3.70 | value $740 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-indianola-ia/
+13. attorney indianola ia | searches/mo 160 (est) | CPC $9.87 | value $1,600 | Google Ads equiv $94.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-indianola-ia/
+14. insurance agents indianola ia | searches/mo 110 (est) | CPC $3.39 | value $370 | Google Ads equiv $31.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-indianola-ia/
+15. lawyer indianola ia | searches/mo 110 (est) | CPC $9.87 | value $1,100 | Google Ads equiv $65.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-indianola-ia/
+
+## By CPC
+1. attorney indianola ia | searches/mo 160 (est) | CPC $9.87 | value $1,600 | Google Ads equiv $94.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-indianola-ia/
+2. lawyer indianola ia | searches/mo 110 (est) | CPC $9.87 | value $1,100 | Google Ads equiv $65.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-indianola-ia/
+3. carpet installation indianola ia | searches/mo 33.00 (est) | CPC $8.33 | value $270 | Google Ads equiv $18.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/carpet-installation-indianola-ia/
+4. tile installation indianola ia | searches/mo 27.00 (est) | CPC $8.33 | value $220 | Google Ads equiv $14.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tile-installation-indianola-ia/
+5. bakery indianola ia | searches/mo 490 (est) | CPC $7.17 | value $3,500 | Google Ads equiv $270/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/bakery-indianola-ia/
+6. martial arts indianola ia | searches/mo 670 (est) | CPC $6.17 | value $4,100 | Google Ads equiv $300/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/martial-arts-indianola-ia/
+7. chiropractor indianola ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-indianola-ia/
+8. eye doctor indianola ia | searches/mo 490 (est) | CPC $4.76 | value $2,300 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/eye-doctor-indianola-ia/
+9. family doctor indianola ia | searches/mo 73.00 (est) | CPC $4.76 | value $350 | Google Ads equiv $23.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/family-doctor-indianola-ia/
+10. primary care physician indianola ia | searches/mo 60.00 (est) | CPC $4.76 | value $290 | Google Ads equiv $19.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/primary-care-physician-indianola-ia/
+11. dentist indianola ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-indianola-ia/
+12. haircut indianola ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-indianola-ia/
+13. auto repair indianola ia | searches/mo 670 (est) | CPC $4.35 | value $2,900 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-indianola-ia/
+14. car wash indianola ia | searches/mo 4,100 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-indianola-ia/
+15. mechanic indianola ia | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-indianola-ia/
+
+## By value (searches x CPC)
+1. dentist indianola ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dentist-indianola-ia/
+2. car wash indianola ia | searches/mo 4,100 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/car-wash-indianola-ia/
+3. gym indianola ia | searches/mo 4,100 (est) | CPC $1.67 | value $6,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-indianola-ia/
+4. mechanic indianola ia | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/mechanic-indianola-ia/
+5. vet indianola ia | searches/mo 1,200 (est) | CPC $4.06 | value $4,900 | Google Ads equiv $320/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/vet-indianola-ia/
+6. haircut indianola ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/haircut-indianola-ia/
+7. auto repair indianola ia | searches/mo 670 (est) | CPC $4.35 | value $2,900 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/auto-repair-indianola-ia/
+8. chiropractor indianola ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/chiropractor-indianola-ia/
+9. hair salon indianola ia | searches/mo 3,300 (est) | CPC $0.55 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/hair-salon-indianola-ia/
+10. attorney indianola ia | searches/mo 160 (est) | CPC $9.87 | value $1,600 | Google Ads equiv $94.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/attorney-indianola-ia/
+11. real estate agent indianola ia | searches/mo 450 (est) | CPC $3.61 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-indianola-ia/
+12. lawyer indianola ia | searches/mo 110 (est) | CPC $9.87 | value $1,100 | Google Ads equiv $65.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/lawyer-indianola-ia/
+13. realtor indianola ia | searches/mo 200 (est) | CPC $3.70 | value $740 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-indianola-ia/
+14. insurance agency indianola ia | searches/mo 200 (est) | CPC $3.39 | value $680 | Google Ads equiv $56.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-indianola-ia/
+15. insurance agents indianola ia | searches/mo 110 (est) | CPC $3.39 | value $370 | Google Ads equiv $31.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agents-indianola-ia/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

@@ -1,13 +1,13 @@
-The top unpaid it support listing for Saint Paul, MN is Nagios Enterprises, LLC (an IT support company in Saint Paul, MN at 1295 #165 Bandana Boulevard North, Saint Paul, MN 55108. Phone: +18886244671. Website: https://www.nagios.com/). 2 it support businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Saint Paul, MN is PropertyKey (an IT support company in Saint Paul, MN at 662 662 Transfer Road, Saint Paul, MN 55114. Phone: +16516599232. Website: https://www.propertykey.com/). 2 it support businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Saint Paul, MN?
 
 Also answers: it support in Saint Paul, MN; it support near me (Saint Paul, MN); best it support Saint Paul, MN; top rated it support Saint Paul, MN; affordable it support Saint Paul, MN; emergency it support Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nagios Enterprises, LLC | trust 20.0 | Nagios Enterprises, LLC is an IT support company in Saint Paul, MN at 1295 #165 Bandana Boulevard North, Saint Paul, MN 55108. Phone: +18886244671. Website: https://www.nagios.com/. | https://dingalinged-cpu.github.io/registry/c/nagios-enterprises-llc-saint-paul/
-2. PropertyKey | trust 20.0 | PropertyKey is an IT support company in Saint Paul, MN at 662 662 Transfer Road, Saint Paul, MN 55114. Phone: +16516599232. Website: https://www.propertykey.com/. | https://dingalinged-cpu.github.io/registry/c/propertykey-saint-paul/
+1. PropertyKey | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | PropertyKey is an IT support company in Saint Paul, MN at 662 662 Transfer Road, Saint Paul, MN 55114. Phone: +16516599232. Website: https://www.propertykey.com/. | https://dingalinged-cpu.github.io/registry/c/propertykey-saint-paul/
+2. Nagios Enterprises, LLC | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Nagios Enterprises, LLC is an IT support company in Saint Paul, MN at 1295 #165 Bandana Boulevard North, Saint Paul, MN 55108. Phone: +18886244671. Website: https://www.nagios.com/. | https://dingalinged-cpu.github.io/registry/c/nagios-enterprises-llc-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support saint paul mn | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

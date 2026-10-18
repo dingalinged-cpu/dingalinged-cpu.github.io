@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for New Hope, MN is Hy-Vee Wine & Spirits (a liquor store in New Hope, MN at 8200 42nd Avenue North, New Hope, MN 55428). 3 liquor store businesses are listed for New Hope, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for New Hope, MN is Viking Liquor (a liquor store in New Hope, MN at 7141 42nd Avenue North, New Hope, MN 55428). 3 liquor store businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in New Hope, MN?
 
 Also answers: liquor store in New Hope, MN; liquor store near me (New Hope, MN); best liquor store New Hope, MN; top rated liquor store New Hope, MN; affordable liquor store New Hope, MN; emergency liquor store New Hope, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hy-Vee Wine & Spirits | trust 4.0 | Hy-Vee Wine & Spirits is a liquor store in New Hope, MN at 8200 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-new-hope/
-2. Viking Liquor | trust 4.0 | Viking Liquor is a liquor store in New Hope, MN at 7141 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/viking-liquor-new-hope/
-3. Winnetka Liquors | trust 3.0 | Winnetka Liquors is a liquor store in New Hope, MN at 3544 Winnetka Avenue North, New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/winnetka-liquors-new-hope/
+1. Viking Liquor | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Viking Liquor is a liquor store in New Hope, MN at 7141 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/viking-liquor-new-hope/
+2. Winnetka Liquors | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Winnetka Liquors is a liquor store in New Hope, MN at 3544 Winnetka Avenue North, New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/winnetka-liquors-new-hope/
+3. Hy-Vee Wine & Spirits | Organic #3 | Pulse Score 45.4/100 (Unrated, #3 in city) | Hy-Vee Wine & Spirits is a liquor store in New Hope, MN at 8200 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/hy-vee-wine-and-spirits-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store new hope mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

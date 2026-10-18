@@ -13,7 +13,7 @@ L'aVantage Salon is a hair salon in The Woodlands, TX at 8000 Research Forest Dr
 - Website: https://lavantageonline.com/alden-bridge/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Houston, #1 of 18 hair salons in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid tax preparer listing for Downers Grove, IL is B3 XChange (a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/). 2 tax preparer businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Downers Grove, IL is B3 XChange (a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/). 2 tax preparer businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Downers Grove, IL?
 
 Also answers: tax preparer in Downers Grove, IL; tax preparer near me (Downers Grove, IL); best tax preparer Downers Grove, IL; top rated tax preparer Downers Grove, IL; affordable tax preparer Downers Grove, IL; emergency tax preparer Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B3 XChange | trust 20.0 | B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/. | https://dingalinged-cpu.github.io/registry/c/b3-xchange-downers-grove/
-2. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-downers-grove/
+1. B3 XChange | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | B3 XChange is a tax preparation service in Downers Grove, IL at 6400 Woodward Avenue #G, Downers Grove, IL 60516. Phone: +16305419065. Website: https://b3businesssolutions.com/. | https://dingalinged-cpu.github.io/registry/c/b3-xchange-downers-grove/
+2. H&R Block | Organic #2 | Pulse Score 41.1/100 (Building, #2 in city) | H&R Block is a tax preparation service in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer downers grove il | category: professional_accounting | industry benchmark: Business Services

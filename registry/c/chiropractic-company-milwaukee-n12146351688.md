@@ -13,7 +13,7 @@ Chiropractic Company is a chiropractor in Milwaukee, WI at 140 South 1st Street 
 - Website: https://www.chiropracticco.com/chiropractor/milwaukee-third-ward
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa,Su off
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Unrated (not enough evidence yet) — top 82% of chiropractors in Milwaukee, #5 of 6 chiropractors in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

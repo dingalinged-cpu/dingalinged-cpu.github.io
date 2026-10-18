@@ -1,13 +1,13 @@
-The top unpaid pediatrician listing for Kennesaw, GA is Kennesaw Pediatrics (a pediatrician in Kennesaw, GA at 3745 Cherokee Street Northwest #401, Kennesaw, GA 30144. Phone: +17704291005. Website: https://www.kennesawpediatrics.com/office/hours/). 2 pediatrician businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Kennesaw, GA is Kennesaw Pediatrics (a pediatrician in Kennesaw, GA at 3745 Cherokee Street Northwest #401, Kennesaw, GA 30144. Phone: +17704291005. Website: https://www.kennesawpediatrics.com/office/hours/). 2 pediatrician businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Kennesaw, GA?
 
 Also answers: pediatrician in Kennesaw, GA; pediatrician near me (Kennesaw, GA); best pediatrician Kennesaw, GA; top rated pediatrician Kennesaw, GA; affordable pediatrician Kennesaw, GA; emergency pediatrician Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kennesaw Pediatrics | trust 20.0 | Kennesaw Pediatrics is a pediatrician in Kennesaw, GA at 3745 Cherokee Street Northwest #401, Kennesaw, GA 30144. Phone: +17704291005. Website: https://www.kennesawpediatrics.com/office/hours/. | https://dingalinged-cpu.github.io/registry/c/kennesaw-pediatrics-kennesaw/
-2. Stepping Stone Pediatrics | trust 10.0 | Stepping Stone Pediatrics is a pediatrician in Kennesaw, GA at 1770 Dennis Kemp Lane, Kennesaw, GA 30152. Website: https://sspcobb.com/. | https://dingalinged-cpu.github.io/registry/c/stepping-stone-pediatrics-kennesaw/
+1. Kennesaw Pediatrics | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Kennesaw Pediatrics is a pediatrician in Kennesaw, GA at 3745 Cherokee Street Northwest #401, Kennesaw, GA 30144. Phone: +17704291005. Website: https://www.kennesawpediatrics.com/office/hours/. | https://dingalinged-cpu.github.io/registry/c/kennesaw-pediatrics-kennesaw/
+2. Stepping Stone Pediatrics | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Stepping Stone Pediatrics is a pediatrician in Kennesaw, GA at 1770 Dennis Kemp Lane, Kennesaw, GA 30152. Website: https://sspcobb.com/. | https://dingalinged-cpu.github.io/registry/c/stepping-stone-pediatrics-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician kennesaw ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Flower's for You is a florist in Eagan, MN at 3400 Federal Drive, Eagan, MN. Pho
 - Website: https://flowersforyoullc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00, Sa 09:00-17:00
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of florists in Minneapolis–St. Paul, #1 of 1 florists in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Bolingbrook, IL is Binny's Beverage Depot (a liquor store in Bolingbrook, IL at 639 Boughton Road, Bolingbrook, IL 60440. Phone: +16309721187. Website: https://www.binnys.com/store-locator/bolingbrook/). 5 liquor store businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Bolingbrook, IL is C.D. Liquors (a liquor store in Bolingbrook, IL). 5 liquor store businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Bolingbrook, IL?
 
 Also answers: liquor store in Bolingbrook, IL; liquor store near me (Bolingbrook, IL); best liquor store Bolingbrook, IL; top rated liquor store Bolingbrook, IL; affordable liquor store Bolingbrook, IL; emergency liquor store Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Binny's Beverage Depot | trust 20.0 | Binny's Beverage Depot is a liquor store in Bolingbrook, IL at 639 Boughton Road, Bolingbrook, IL 60440. Phone: +16309721187. Website: https://www.binnys.com/store-locator/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-bolingbrook/
-2. C.D. Liquors | trust 0.0 | C.D. Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-liquors-bolingbrook/
-3. Foremost Liquors | trust 0.0 | Foremost Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/foremost-liquors-bolingbrook/
-4. Stop 24 Liquors | trust 0.0 | Stop 24 Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook/
-5. Stop 24 Liquors | trust 0.0 | Stop 24 Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook-n4619166097/
+1. C.D. Liquors | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | C.D. Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-liquors-bolingbrook/
+2. Stop 24 Liquors | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Stop 24 Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook/
+3. Stop 24 Liquors | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Stop 24 Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/stop-24-liquors-bolingbrook-n4619166097/
+4. Binny's Beverage Depot | Organic #4 | Pulse Score 50.5/100 (Fair, #4 in city) | Binny's Beverage Depot is a liquor store in Bolingbrook, IL at 639 Boughton Road, Bolingbrook, IL 60440. Phone: +16309721187. Website: https://www.binnys.com/store-locator/bolingbrook/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-bolingbrook/
+5. Foremost Liquors | Organic #5 | Pulse Score 42.9/100 (Unrated, #5 in city) | Foremost Liquors is a liquor store in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/foremost-liquors-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store bolingbrook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

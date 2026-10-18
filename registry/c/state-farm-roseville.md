@@ -13,7 +13,7 @@ State Farm is an insurance agent in Roseville, MN at 1789 Lexington Avenue North
 - Website: https://www.tyhaschig.com/quote
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 58% of insurance agents in Minneapolis–St. Paul, #2 of 4 insurance agents in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

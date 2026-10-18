@@ -13,7 +13,7 @@ Spenga is a yoga studio in Sugar Land, TX at 13540 University Boulevard #250, Su
 - Website: https://sugarlandtx.spenga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 05:00-20:30; Tu,Th 06:00-20:30; Fr 05:00-19:30; Sa-Su 07:00-13:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 82% of yoga studios in Houston, #2 of 2 yoga studios in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.4, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

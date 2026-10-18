@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Forney, TX is DL Nails (a nail salon in Forney, TX at 1102 Ranch Road #208, Forney, TX 75126). 3 nail salon businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Forney, TX is DL Nails (a nail salon in Forney, TX at 1102 Ranch Road #208, Forney, TX 75126). 3 nail salon businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Forney, TX?
 
 Also answers: nail salon in Forney, TX; nail salon near me (Forney, TX); best nail salon Forney, TX; top rated nail salon Forney, TX; affordable nail salon Forney, TX; emergency nail salon Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DL Nails | trust 4.0 | DL Nails is a nail salon in Forney, TX at 1102 Ranch Road #208, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/dl-nails-forney/
-2. Euphoria Nail Spa | trust 4.0 | Euphoria Nail Spa is a nail salon in Forney, TX at 724 East US Highway 80 #120, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/euphoria-nail-spa-forney/
-3. The Nail Lounge | trust 4.0 | The Nail Lounge is a nail salon in Forney, TX at 485 Marketplace Boulevard #120, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/the-nail-lounge-forney/
+1. DL Nails | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | DL Nails is a nail salon in Forney, TX at 1102 Ranch Road #208, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/dl-nails-forney/
+2. Euphoria Nail Spa | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Euphoria Nail Spa is a nail salon in Forney, TX at 724 East US Highway 80 #120, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/euphoria-nail-spa-forney/
+3. The Nail Lounge | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | The Nail Lounge is a nail salon in Forney, TX at 485 Marketplace Boulevard #120, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/the-nail-lounge-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon forney tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

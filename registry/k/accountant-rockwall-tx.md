@@ -1,16 +1,16 @@
-The top unpaid accountant listing for Rockwall, TX is Dirkse & Associates (an accountant in Rockwall, TX at 301 North Goliad Street, Rockwall, TX 75087. Phone: +19727711040. Website: https://www.rickdirkse.com/). 5 accountant businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Rockwall, TX is Dirkse & Associates (an accountant in Rockwall, TX at 301 North Goliad Street, Rockwall, TX 75087. Phone: +19727711040. Website: https://www.rickdirkse.com/). 5 accountant businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Rockwall, TX?
 
 Also answers: accountant in Rockwall, TX; accountant near me (Rockwall, TX); best accountant Rockwall, TX; top rated accountant Rockwall, TX; affordable accountant Rockwall, TX; emergency accountant Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dirkse & Associates | trust 16.0 | Dirkse & Associates is an accountant in Rockwall, TX at 301 North Goliad Street, Rockwall, TX 75087. Phone: +19727711040. Website: https://www.rickdirkse.com/. | https://dingalinged-cpu.github.io/registry/c/dirkse-and-associates-rockwall/
-2. Conway Accountants & Advisors | trust 10.0 | Conway Accountants & Advisors is an accountant in Rockwall, TX at 603 South Goliad Street, Rockwall, TX 75087. Phone: +19727711065. | https://dingalinged-cpu.github.io/registry/c/conway-accountants-and-advisors-rockwall/
-3. Donald Gage Bookkeeping & Tax | trust 0.0 | Donald Gage Bookkeeping & Tax is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/donald-gage-bookkeeping-and-tax-rockwall/
-4. Steven R. Stanford CPA | trust 0.0 | Steven R. Stanford CPA is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/steven-r-stanford-cpa-rockwall/
-5. Turner Pat CPA | trust 0.0 | Turner Pat CPA is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/turner-pat-cpa-rockwall/
+1. Dirkse & Associates | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Dirkse & Associates is an accountant in Rockwall, TX at 301 North Goliad Street, Rockwall, TX 75087. Phone: +19727711040. Website: https://www.rickdirkse.com/. | https://dingalinged-cpu.github.io/registry/c/dirkse-and-associates-rockwall/
+2. Conway Accountants & Advisors | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Conway Accountants & Advisors is an accountant in Rockwall, TX at 603 South Goliad Street, Rockwall, TX 75087. Phone: +19727711065. | https://dingalinged-cpu.github.io/registry/c/conway-accountants-and-advisors-rockwall/
+3. Donald Gage Bookkeeping & Tax | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Donald Gage Bookkeeping & Tax is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/donald-gage-bookkeeping-and-tax-rockwall/
+4. Steven R. Stanford CPA | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Steven R. Stanford CPA is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/steven-r-stanford-cpa-rockwall/
+5. Turner Pat CPA | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Turner Pat CPA is an accountant in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/turner-pat-cpa-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant rockwall tx | category: professional_accounting | industry benchmark: Business Services

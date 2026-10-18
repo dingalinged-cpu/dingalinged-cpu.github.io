@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Oak Creek, WI is Fred Astaire Dance Studios (a dance studio in Oak Creek, WI at 2121 East Rawson Avenue, Oak Creek, WI 53154). 1 dance studio businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Oak Creek, WI is Fred Astaire Dance Studios (a dance studio in Oak Creek, WI at 2121 East Rawson Avenue, Oak Creek, WI 53154). 1 dance studio businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Oak Creek, WI?
 
 Also answers: dance studio in Oak Creek, WI; dance studio near me (Oak Creek, WI); best dance studio Oak Creek, WI; top rated dance studio Oak Creek, WI; affordable dance studio Oak Creek, WI; emergency dance studio Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fred Astaire Dance Studios | trust 4.0 | Fred Astaire Dance Studios is a dance studio in Oak Creek, WI at 2121 East Rawson Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-oak-creek/
+1. Fred Astaire Dance Studios | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | Fred Astaire Dance Studios is a dance studio in Oak Creek, WI at 2121 East Rawson Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/fred-astaire-dance-studios-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio oak creek wi | category: Fitness | industry benchmark: Health & Fitness

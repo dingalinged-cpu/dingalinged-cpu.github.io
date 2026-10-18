@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Evergreen Park, IL at 8732 South Kedzie Av
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.8/100 — Building — top 81% of gift shops in Chicago, #1 of 1 gift shops in Evergreen Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.5, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

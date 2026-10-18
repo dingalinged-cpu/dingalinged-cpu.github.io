@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Tucker, GA is Liberty Income Tax (an accountant in Tucker, GA). 1 accounting services businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Tucker, GA is Liberty Income Tax (an accountant in Tucker, GA). 1 accounting services businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Tucker, GA?
 
 Also answers: accounting services in Tucker, GA; accounting services near me (Tucker, GA); best accounting services Tucker, GA; top rated accounting services Tucker, GA; affordable accounting services Tucker, GA; emergency accounting services Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Income Tax | trust 0.0 | Liberty Income Tax is an accountant in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/liberty-income-tax-tucker/
+1. Liberty Income Tax | Organic #1 | Pulse Score 41.8/100 (Unrated, #1 in city) | Liberty Income Tax is an accountant in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/liberty-income-tax-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services tucker ga | category: professional_accounting | industry benchmark: Business Services

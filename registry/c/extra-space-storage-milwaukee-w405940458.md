@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Milwaukee, WI at 420 West Sain
 - Website: https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/4210/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-13:15,14:00-18:00; Su 09:00-13:30,14:00-16:00
-- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 74% of self-storage facilitys in Milwaukee, #13 of 20 self-storage facilitys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

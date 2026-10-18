@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Oak Park, IL is Minit Car Wash (a car wash in Oak Park, IL at 7 Lake Street, Oak Park, IL 60302). 1 car wash businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Oak Park, IL is Minit Car Wash (a car wash in Oak Park, IL at 7 Lake Street, Oak Park, IL 60302). 1 car wash businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Oak Park, IL?
 
 Also answers: car wash in Oak Park, IL; car wash near me (Oak Park, IL); best car wash Oak Park, IL; top rated car wash Oak Park, IL; affordable car wash Oak Park, IL; emergency car wash Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minit Car Wash | trust 4.0 | Minit Car Wash is a car wash in Oak Park, IL at 7 Lake Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/minit-car-wash-oak-park/
+1. Minit Car Wash | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Minit Car Wash is a car wash in Oak Park, IL at 7 Lake Street, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/minit-car-wash-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash oak park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

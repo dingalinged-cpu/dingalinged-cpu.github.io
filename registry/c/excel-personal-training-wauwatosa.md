@@ -13,7 +13,7 @@ Excel Personal Training is a gym in Wauwatosa, WI at 6014 West Vliet Street, Wau
 - Website: https://www.excelpersonaltraining.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 20% of gyms in Milwaukee, #3 of 6 gyms in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

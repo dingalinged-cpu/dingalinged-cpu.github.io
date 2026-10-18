@@ -13,7 +13,7 @@ Arlington Resale Too is a thrift store in Arlington, TX at 5100 South Collins St
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 38% of thrift stores in Dallas–Fort Worth, #3 of 12 thrift stores in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 45.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

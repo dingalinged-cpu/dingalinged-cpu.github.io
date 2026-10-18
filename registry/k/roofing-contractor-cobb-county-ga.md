@@ -1,14 +1,14 @@
-The top unpaid roofing contractor listing for Cobb County, GA is Sadler Roofing (a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/). 3 roofing contractor businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Cobb County, GA is Sadler Roofing (a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/). 3 roofing contractor businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Cobb County, GA?
 
 Also answers: roofing contractor in Cobb County, GA; roofing contractor near me (Cobb County, GA); best roofing contractor Cobb County, GA; top rated roofing contractor Cobb County, GA; affordable roofing contractor Cobb County, GA; emergency roofing contractor Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sadler Roofing | trust 19.0 | Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/. | https://dingalinged-cpu.github.io/registry/c/sadler-roofing-cobb-county/
-2. Bird's Eye Roofing | trust 15.0 | Bird's Eye Roofing is a roofer in Cobb County, GA at 4618 Woodstock Road, Cobb County, GA. Phone: +17707443358. Website: https://www.birdseyeroofing.com/. | https://dingalinged-cpu.github.io/registry/c/birds-eye-roofing-cobb-county/
-3. Rhino Restoration of Georgia | trust 15.0 | Rhino Restoration of Georgia is a roofer in Cobb County, GA at 4016 Canton Road Northeast, Cobb County, GA. Phone: +16785900190. Website: https://rhino-roofs.com/. | https://dingalinged-cpu.github.io/registry/c/rhino-restoration-of-georgia-cobb-county/
+1. Sadler Roofing | Organic #1 | Pulse Score 59.6/100 (Fair, #1 in city) | Sadler Roofing is a roofer in Cobb County, GA at 826 Blackwell Road, Cobb County, GA. Phone: +17705141199. Website: https://www.sadlerroofing.net/. | https://dingalinged-cpu.github.io/registry/c/sadler-roofing-cobb-county/
+2. Bird's Eye Roofing | Organic #2 | Pulse Score 59/100 (Fair, #2 in city) | Bird's Eye Roofing is a roofer in Cobb County, GA at 4618 Woodstock Road, Cobb County, GA. Phone: +17707443358. Website: https://www.birdseyeroofing.com/. | https://dingalinged-cpu.github.io/registry/c/birds-eye-roofing-cobb-county/
+3. Rhino Restoration of Georgia | Organic #3 | Pulse Score 58.8/100 (Fair, #3 in city) | Rhino Restoration of Georgia is a roofer in Cobb County, GA at 4016 Canton Road Northeast, Cobb County, GA. Phone: +16785900190. Website: https://rhino-roofs.com/. | https://dingalinged-cpu.github.io/registry/c/rhino-restoration-of-georgia-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor cobb county ga | category: Home services - Roofing | industry benchmark: Home & Home Improvement

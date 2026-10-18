@@ -13,7 +13,7 @@ Whitley Garner at Rosehaven is a funeral home in Douglasville, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 100% of funeral homes in Atlanta, #3 of 3 funeral homes in Douglasville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 39.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

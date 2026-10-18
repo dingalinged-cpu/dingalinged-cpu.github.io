@@ -1,16 +1,16 @@
-The top unpaid mattress store listing for Southlake, TX is Mattress Firm (a mattress store in Southlake, TX at 200 North Kimball Avenue #207, Southlake, TX 76092. Phone: +18173100605). 5 mattress store businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Southlake, TX is Mattress Firm (a mattress store in Southlake, TX at 200 North Kimball Avenue #207, Southlake, TX 76092. Phone: +18173100605). 5 mattress store businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Southlake, TX?
 
 Also answers: mattress store in Southlake, TX; mattress store near me (Southlake, TX); best mattress store Southlake, TX; top rated mattress store Southlake, TX; affordable mattress store Southlake, TX; emergency mattress store Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 14.0 | Mattress Firm is a mattress store in Southlake, TX at 200 North Kimball Avenue #207, Southlake, TX 76092. Phone: +18173100605. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-southlake/
-2. Casper | trust 0.0 | Casper is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/casper-southlake/
-3. Purple | trust 0.0 | Purple is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/purple-southlake/
-4. Sleep Number | trust 0.0 | Sleep Number is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/sleep-number-southlake/
-5. Tempur-Pedic | trust 0.0 | Tempur-Pedic is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/tempur-pedic-southlake/
+1. Mattress Firm | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Mattress Firm is a mattress store in Southlake, TX at 200 North Kimball Avenue #207, Southlake, TX 76092. Phone: +18173100605. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-southlake/
+2. Casper | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Casper is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/casper-southlake/
+3. Purple | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Purple is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/purple-southlake/
+4. Sleep Number | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Sleep Number is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/sleep-number-southlake/
+5. Tempur-Pedic | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Tempur-Pedic is a mattress store in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/tempur-pedic-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store southlake tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Denton, TX is Petco (a pet store in Denton, TX at 2640 West University Drive #1280, Denton, TX 76201. Phone: +19403827263. Website: https://www.petco.com/). 4 pet store businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Denton, TX is Fish n' Chirps Pet Center (a pet store in Denton, TX at 914 West University Drive, Denton, TX 76201). 4 pet store businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Denton, TX?
 
 Also answers: pet store in Denton, TX; pet store near me (Denton, TX); best pet store Denton, TX; top rated pet store Denton, TX; affordable pet store Denton, TX; emergency pet store Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Denton, TX at 2640 West University Drive #1280, Denton, TX 76201. Phone: +19403827263. Website: https://www.petco.com/. | https://dingalinged-cpu.github.io/registry/c/petco-denton/
-2. Fish n' Chirps Pet Center | trust 4.0 | Fish n' Chirps Pet Center is a pet store in Denton, TX at 914 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/fish-n-chirps-pet-center-denton/
-3. Pet Supermarket | trust 4.0 | Pet Supermarket is a pet store in Denton, TX at 4940 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-denton/
-4. Groggy Dog | trust 3.0 | Groggy Dog is a pet store in Denton, TX at 4017 Mesa Drive, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/groggy-dog-denton/
+1. Fish n' Chirps Pet Center | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Fish n' Chirps Pet Center is a pet store in Denton, TX at 914 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/fish-n-chirps-pet-center-denton/
+2. Groggy Dog | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Groggy Dog is a pet store in Denton, TX at 4017 Mesa Drive, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/groggy-dog-denton/
+3. Petco | Organic #3 | Pulse Score 46.9/100 (Building, #3 in city) | Petco is a pet store in Denton, TX at 2640 West University Drive #1280, Denton, TX 76201. Phone: +19403827263. Website: https://www.petco.com/. | https://dingalinged-cpu.github.io/registry/c/petco-denton/
+4. Pet Supermarket | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Pet Supermarket is a pet store in Denton, TX at 4940 Teasley Lane, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store denton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

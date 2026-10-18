@@ -1,12 +1,12 @@
-The top unpaid gym listing for Mount Pleasant, WI is Burn Boot Camp Mt. Pleasant (a gym in Mount Pleasant, WI at 6500 Washington Ave, Mount Pleasant, WI 53406. Phone: +12625834004. Website: https://burnbootcamp.com/locations/mt-pleasant-wi/). 1 gym businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mount Pleasant, WI is Burn Boot Camp Mt. Pleasant (a gym in Mount Pleasant, WI at 6500 Washington Ave, Mount Pleasant, WI 53406. Phone: +12625834004. Website: https://burnbootcamp.com/locations/mt-pleasant-wi/). 1 gym businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mount Pleasant, WI?
 
 Also answers: gym in Mount Pleasant, WI; gym near me (Mount Pleasant, WI); best gym Mount Pleasant, WI; top rated gym Mount Pleasant, WI; affordable gym Mount Pleasant, WI; emergency gym Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Burn Boot Camp Mt. Pleasant | trust 16.0 | Burn Boot Camp Mt. Pleasant is a gym in Mount Pleasant, WI at 6500 Washington Ave, Mount Pleasant, WI 53406. Phone: +12625834004. Website: https://burnbootcamp.com/locations/mt-pleasant-wi/. | https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-mt-pleasant-mount-pleasant/
+1. Burn Boot Camp Mt. Pleasant | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Burn Boot Camp Mt. Pleasant is a gym in Mount Pleasant, WI at 6500 Washington Ave, Mount Pleasant, WI 53406. Phone: +12625834004. Website: https://burnbootcamp.com/locations/mt-pleasant-wi/. | https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-mt-pleasant-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mount pleasant wi | category: Fitness | industry benchmark: Health & Fitness

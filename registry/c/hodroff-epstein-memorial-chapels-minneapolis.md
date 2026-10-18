@@ -13,7 +13,7 @@ Hodroff-Epstein Memorial Chapels is a funeral home in Minneapolis, MN at 126 Eas
 - Website: https://www.hodroffepsteinmemorialchapels.com/
 - Email: info@hodroffepstein.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 6% of funeral homes in Minneapolis–St. Paul, #1 of 11 funeral homes in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

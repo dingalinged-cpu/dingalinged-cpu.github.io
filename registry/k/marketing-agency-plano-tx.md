@@ -1,16 +1,16 @@
-The top unpaid marketing agency listing for Plano, TX is Austin Bryant Consulting (a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/). 5 marketing agency businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Plano, TX is AÉNL Agency (a marketing agency in Plano, TX at 5830 Granite Parkway #100-301, Plano, TX 75024. Phone: +14243549774. Website: https://aenlagency.co/). 5 marketing agency businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Plano, TX?
 
 Also answers: marketing agency in Plano, TX; marketing agency near me (Plano, TX); best marketing agency Plano, TX; top rated marketing agency Plano, TX; affordable marketing agency Plano, TX; emergency marketing agency Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Austin Bryant Consulting | trust 20.0 | Austin Bryant Consulting is a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/austin-bryant-consulting-plano/
-2. AÉNL Agency | trust 20.0 | AÉNL Agency is a marketing agency in Plano, TX at 5830 Granite Parkway #100-301, Plano, TX 75024. Phone: +14243549774. Website: https://aenlagency.co/. | https://dingalinged-cpu.github.io/registry/c/a-nl-agency-plano/
-3. MoreThanSEO | trust 10.0 | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://dingalinged-cpu.github.io/registry/c/morethanseo-plano/
-4. UMI | trust 4.0 | UMI is a marketing agency in Plano, TX at 1081 Ohio Drive, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/umi-plano/
-5. Alpha Graphics | trust 0.0 | Alpha Graphics is a marketing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/alpha-graphics-plano/
+1. AÉNL Agency | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | AÉNL Agency is a marketing agency in Plano, TX at 5830 Granite Parkway #100-301, Plano, TX 75024. Phone: +14243549774. Website: https://aenlagency.co/. | https://dingalinged-cpu.github.io/registry/c/a-nl-agency-plano/
+2. Austin Bryant Consulting | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Austin Bryant Consulting is a marketing agency in Plano, TX at 2 Eastvale Pl, Plano, TX 75074. Phone: +19724767161. Website: https://austinbryantconsulting.com/. | https://dingalinged-cpu.github.io/registry/c/austin-bryant-consulting-plano/
+3. MoreThanSEO | Organic #3 | Pulse Score 59.5/100 (Fair, #3 in city) | MoreThanSEO is a marketing agency in Plano, TX at 8920 Coit Road, Plano, TX 75024. Website: https://www.morethanseo.com/. | https://dingalinged-cpu.github.io/registry/c/morethanseo-plano/
+4. UMI | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | UMI is a marketing agency in Plano, TX at 1081 Ohio Drive, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/umi-plano/
+5. Alpha Graphics | Organic #5 | Pulse Score 40.7/100 (Unrated, #5 in city) | Alpha Graphics is a marketing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/alpha-graphics-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

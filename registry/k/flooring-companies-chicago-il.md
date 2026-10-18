@@ -1,14 +1,14 @@
-The top unpaid flooring companies listing for Chicago, IL is Floor & Decor (a flooring company in Chicago, IL at 125 West 87th Street, Chicago, IL 60620. Website: https://www.flooranddecor.com/store?StoreID=271). 3 flooring companies businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Chicago, IL is Midwest Carpet & Flooring (a flooring company in Chicago, IL at 1201 West 37th Street, Chicago, IL 60609). 3 flooring companies businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Chicago, IL?
 
 Also answers: flooring companies in Chicago, IL; flooring companies near me (Chicago, IL); best flooring companies Chicago, IL; top rated flooring companies Chicago, IL; affordable flooring companies Chicago, IL; emergency flooring companies Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floor & Decor | trust 10.0 | Floor & Decor is a flooring company in Chicago, IL at 125 West 87th Street, Chicago, IL 60620. Website: https://www.flooranddecor.com/store?StoreID=271. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-chicago/
-2. Floor & Decor | trust 10.0 | Floor & Decor is a flooring company in Chicago, IL at 3448 West Addison Street, Chicago, IL 60618. Website: https://www.flooranddecor.com/store?StoreID=218. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-chicago-n13171967959/
-3. Midwest Carpet & Flooring | trust 4.0 | Midwest Carpet & Flooring is a flooring company in Chicago, IL at 1201 West 37th Street, Chicago, IL 60609. | https://dingalinged-cpu.github.io/registry/c/midwest-carpet-and-flooring-chicago/
+1. Midwest Carpet & Flooring | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Midwest Carpet & Flooring is a flooring company in Chicago, IL at 1201 West 37th Street, Chicago, IL 60609. | https://dingalinged-cpu.github.io/registry/c/midwest-carpet-and-flooring-chicago/
+2. Floor & Decor | Organic #2 | Pulse Score 46.4/100 (Building, #2 in city) | Floor & Decor is a flooring company in Chicago, IL at 3448 West Addison Street, Chicago, IL 60618. Website: https://www.flooranddecor.com/store?StoreID=218. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-chicago-n13171967959/
+3. Floor & Decor | Organic #3 | Pulse Score 45.6/100 (Building, #3 in city) | Floor & Decor is a flooring company in Chicago, IL at 125 West 87th Street, Chicago, IL 60620. Website: https://www.flooranddecor.com/store?StoreID=271. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies chicago il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

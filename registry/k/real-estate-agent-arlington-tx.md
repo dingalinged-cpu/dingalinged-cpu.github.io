@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Arlington, TX is Rental Homes (a real estate agency in Arlington, TX at 1031 South Bowen Road, Arlington, TX 76013). 2 real estate agent businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Arlington, TX is Rental Homes (a real estate agency in Arlington, TX at 1031 South Bowen Road, Arlington, TX 76013). 2 real estate agent businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Arlington, TX?
 
 Also answers: real estate agent in Arlington, TX; real estate agent near me (Arlington, TX); best real estate agent Arlington, TX; top rated real estate agent Arlington, TX; affordable real estate agent Arlington, TX; emergency real estate agent Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rental Homes | trust 4.0 | Rental Homes is a real estate agency in Arlington, TX at 1031 South Bowen Road, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/rental-homes-arlington/
-2. VI Collections | trust 0.0 | VI Collections is a real estate agency in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/vi-collections-arlington/
+1. Rental Homes | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Rental Homes is a real estate agency in Arlington, TX at 1031 South Bowen Road, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/rental-homes-arlington/
+2. VI Collections | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | VI Collections is a real estate agency in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/vi-collections-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent arlington tx | category: Professional & financial services | industry benchmark: Finance & Insurance

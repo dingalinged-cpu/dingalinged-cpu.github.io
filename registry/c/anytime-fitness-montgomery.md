@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Montgomery, TX at 910 Pine Market Avenue #100, Montg
 - Website: https://www.anytimefitness.com/gyms/4968/montgomery-tx-77316/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 44% of gyms in Houston, #1 of 1 gyms in Montgomery (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 69.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

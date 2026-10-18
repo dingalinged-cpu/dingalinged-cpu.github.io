@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Dallas, TX at 2461 Gus Thomasson Road, Dalla
 - Website: https://www.petsuppliesplus.com/store/tx/dallas/4234
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 76% of pet stores in Dallas–Fort Worth, #16 of 24 pet stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 48.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Baytown, TX is The Fine Arts Collective (a tattoo shop in Baytown, TX at 608 William Avenue, Baytown, TX 77520. Phone: +12819757116. Website: https://www.thefineartscollective.com/). 1 tattoo shop businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Baytown, TX is The Fine Arts Collective (a tattoo shop in Baytown, TX at 608 William Avenue, Baytown, TX 77520. Phone: +12819757116. Website: https://www.thefineartscollective.com/). 1 tattoo shop businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Baytown, TX?
 
 Also answers: tattoo shop in Baytown, TX; tattoo shop near me (Baytown, TX); best tattoo shop Baytown, TX; top rated tattoo shop Baytown, TX; affordable tattoo shop Baytown, TX; emergency tattoo shop Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Fine Arts Collective | trust 20.0 | The Fine Arts Collective is a tattoo shop in Baytown, TX at 608 William Avenue, Baytown, TX 77520. Phone: +12819757116. Website: https://www.thefineartscollective.com/. | https://dingalinged-cpu.github.io/registry/c/the-fine-arts-collective-baytown/
+1. The Fine Arts Collective | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | The Fine Arts Collective is a tattoo shop in Baytown, TX at 608 William Avenue, Baytown, TX 77520. Phone: +12819757116. Website: https://www.thefineartscollective.com/. | https://dingalinged-cpu.github.io/registry/c/the-fine-arts-collective-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop baytown tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

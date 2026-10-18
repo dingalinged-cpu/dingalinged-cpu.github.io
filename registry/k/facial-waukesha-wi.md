@@ -1,12 +1,12 @@
-The top unpaid facial listing for Waukesha, WI is Ulta Beauty (a skin care studio in Waukesha, WI at 1160 West Sunset Drive #134, Waukesha, WI 53189. Phone: +12625740387. Website: https://www.ulta.com/stores/waukesha-wi-591). 1 facial businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Waukesha, WI is Ulta Beauty (a skin care studio in Waukesha, WI at 1160 West Sunset Drive #134, Waukesha, WI 53189. Phone: +12625740387. Website: https://www.ulta.com/stores/waukesha-wi-591). 1 facial businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Waukesha, WI?
 
 Also answers: facial in Waukesha, WI; facial near me (Waukesha, WI); best facial Waukesha, WI; top rated facial Waukesha, WI; affordable facial Waukesha, WI; emergency facial Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Waukesha, WI at 1160 West Sunset Drive #134, Waukesha, WI 53189. Phone: +12625740387. Website: https://www.ulta.com/stores/waukesha-wi-591. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-waukesha/
+1. Ulta Beauty | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Waukesha, WI at 1160 West Sunset Drive #134, Waukesha, WI 53189. Phone: +12625740387. Website: https://www.ulta.com/stores/waukesha-wi-591. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial waukesha wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

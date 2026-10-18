@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Chanhassen, MN is Total Wine (a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606). 3 liquor store businesses are listed for Chanhassen, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Chanhassen, MN is Total Wine (a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606). 3 liquor store businesses are listed for Chanhassen, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Chanhassen, MN?
 
 Also answers: liquor store in Chanhassen, MN; liquor store near me (Chanhassen, MN); best liquor store Chanhassen, MN; top rated liquor store Chanhassen, MN; affordable liquor store Chanhassen, MN; emergency liquor store Chanhassen, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606. | https://dingalinged-cpu.github.io/registry/c/total-wine-chanhassen/
-2. MGM Liquor Warehouse | trust 4.0 | MGM Liquor Warehouse is a liquor store in Chanhassen, MN at 7856 Market Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-chanhassen/
-3. Top Ten Liquors | trust 0.0 | Top Ten Liquors is a liquor store in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-chanhassen/
+1. Total Wine | Organic #1 | Pulse Score 51.2/100 (Fair, #1 in city) | Total Wine is a liquor store in Chanhassen, MN at 510 Lake Drive, Chanhassen, MN 55317. Phone: +19529346484. Website: https://www.totalwine.com/store-info/1606. | https://dingalinged-cpu.github.io/registry/c/total-wine-chanhassen/
+2. MGM Liquor Warehouse | Organic #2 | Pulse Score 45.3/100 (Unrated, #2 in city) | MGM Liquor Warehouse is a liquor store in Chanhassen, MN at 7856 Market Boulevard, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/mgm-liquor-warehouse-chanhassen/
+3. Top Ten Liquors | Organic #3 | Pulse Score 43.9/100 (Unrated, #3 in city) | Top Ten Liquors is a liquor store in Chanhassen, MN. | https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store chanhassen mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

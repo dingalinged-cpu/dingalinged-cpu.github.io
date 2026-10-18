@@ -13,7 +13,7 @@ Saturday Properties is a real estate agency in Saint Louis Park, MN at 3546 Dako
 - Website: https://saturdayproperties.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 27% of real estate agencys in Minneapolis–St. Paul, #3 of 4 real estate agencys in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

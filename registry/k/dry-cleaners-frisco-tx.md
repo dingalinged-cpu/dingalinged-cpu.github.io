@@ -1,20 +1,20 @@
-The top unpaid dry cleaners listing for Frisco, TX is Dry Clean Super Center (a dry cleaner in Frisco, TX at 6552 Preston Road, Frisco, TX). 9 dry cleaners businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Frisco, TX is Kwik Dry Clean Supercenter (a dry cleaner in Frisco, TX at 12299 Custer Road, Frisco, TX). 9 dry cleaners businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Frisco, TX?
 
 Also answers: dry cleaners in Frisco, TX; dry cleaners near me (Frisco, TX); best dry cleaners Frisco, TX; top rated dry cleaners Frisco, TX; affordable dry cleaners Frisco, TX; emergency dry cleaners Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dry Clean Super Center | trust 3.0 | Dry Clean Super Center is a dry cleaner in Frisco, TX at 6552 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-frisco/
-2. Kwik Dry Clean Supercenter | trust 3.0 | Kwik Dry Clean Supercenter is a dry cleaner in Frisco, TX at 12299 Custer Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-dry-clean-supercenter-frisco/
-3. Lakeside Cleaners | trust 3.0 | Lakeside Cleaners is a dry cleaner in Frisco, TX at 5570 FM 423 #450, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/lakeside-cleaners-frisco/
-4. Legacy @ Warren Dry Cleaners | trust 3.0 | Legacy @ Warren Dry Cleaners is a dry cleaner in Frisco, TX at 3550 Legacy Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-warren-dry-cleaners-frisco/
-5. Premium Cleaners | trust 3.0 | Premium Cleaners is a dry cleaner in Frisco, TX at 9133 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/premium-cleaners-frisco/
-6. Top Cleaners | trust 3.0 | Top Cleaners is a dry cleaner in Frisco, TX at 12255 Teel Parkway #440, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/top-cleaners-frisco/
-7. Comet Cleaners | trust 0.0 | Comet Cleaners is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-frisco/
-8. Dry Clean Super Center | trust 0.0 | Dry Clean Super Center is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-frisco-w235237831/
-9. Teel Cleaners | trust 0.0 | Teel Cleaners is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/teel-cleaners-frisco/
+1. Kwik Dry Clean Supercenter | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Kwik Dry Clean Supercenter is a dry cleaner in Frisco, TX at 12299 Custer Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-dry-clean-supercenter-frisco/
+2. Premium Cleaners | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Premium Cleaners is a dry cleaner in Frisco, TX at 9133 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/premium-cleaners-frisco/
+3. Top Cleaners | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Top Cleaners is a dry cleaner in Frisco, TX at 12255 Teel Parkway #440, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/top-cleaners-frisco/
+4. Lakeside Cleaners | Organic #4 | Pulse Score 59.9/100 (Unrated, #4 in city) | Lakeside Cleaners is a dry cleaner in Frisco, TX at 5570 FM 423 #450, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/lakeside-cleaners-frisco/
+5. Legacy @ Warren Dry Cleaners | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Legacy @ Warren Dry Cleaners is a dry cleaner in Frisco, TX at 3550 Legacy Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-warren-dry-cleaners-frisco/
+6. Teel Cleaners | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Teel Cleaners is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/teel-cleaners-frisco/
+7. Dry Clean Super Center | Organic #7 | Pulse Score 47.3/100 (Building, #7 in city) | Dry Clean Super Center is a dry cleaner in Frisco, TX at 6552 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-frisco/
+8. Comet Cleaners | Organic #8 | Pulse Score 41.9/100 (Unrated, #8 in city) | Comet Cleaners is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-frisco/
+9. Dry Clean Super Center | Organic #9 | Pulse Score 41.9/100 (Unrated, #9 in city) | Dry Clean Super Center is a dry cleaner in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-frisco-w235237831/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners frisco tx | category: Professional & financial services | industry benchmark: Finance & Insurance

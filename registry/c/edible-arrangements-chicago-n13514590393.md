@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Chicago, IL at 9945 South Halsted Street, 
 - Website: https://www.ediblearrangements.com/stores/9945-s-halsted-st-chicago-il-60628
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 77% of gift shops in Chicago, #57 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

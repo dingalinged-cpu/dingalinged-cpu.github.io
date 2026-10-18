@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Des Plaines, IL is Just Tires (a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Plaines, IL 60018. Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034). 1 tire shop businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Des Plaines, IL is Just Tires (a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Plaines, IL 60018. Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034). 1 tire shop businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Des Plaines, IL?
 
 Also answers: tire shop in Des Plaines, IL; tire shop near me (Des Plaines, IL); best tire shop Des Plaines, IL; top rated tire shop Des Plaines, IL; affordable tire shop Des Plaines, IL; emergency tire shop Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Just Tires | trust 10.0 | Just Tires is a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Plaines, IL 60018. Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034. | https://dingalinged-cpu.github.io/registry/c/just-tires-des-plaines/
+1. Just Tires | Organic #1 | Pulse Score 46.7/100 (Unrated, #1 in city) | Just Tires is a tire shop in Des Plaines, IL at 1180 East Oakton Street, Des Plaines, IL 60018. Website: https://www.justtires.com/en-US/shop/IL/Des-Plaines/000901267-60018-2034. | https://dingalinged-cpu.github.io/registry/c/just-tires-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop des plaines il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ J. McLaughlin is a boutique in Cobb County, GA at Paces Ferry Road Southeast #22
 - Website: https://www.jmclaughlin.com/storelocator/ga/atlanta
 - Email: n/a
 - Opening hours (OSM syntax): Su 12:00-17:00; Mo-Sa 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 67% of boutiques in Atlanta, #1 of 1 boutiques in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Refined Barbershop is a barber shop in Chicago, IL at 328 South Jefferson Street
 - Website: https://refinedbarber.co/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Fair — top 42% of barber shops in Chicago, #5 of 18 barber shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

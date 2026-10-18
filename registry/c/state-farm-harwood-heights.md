@@ -13,7 +13,7 @@ State Farm is an insurance agent in Harwood Heights, IL at 4732 North Harlem Ave
 - Website: https://www.petergrande.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 38% of insurance agents in Chicago, #2 of 2 insurance agents in Harwood Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

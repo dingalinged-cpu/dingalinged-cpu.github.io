@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Black Earth, WI is Village Family Dental (a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515). 1 dentist businesses are listed for Black Earth, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Black Earth, WI is Village Family Dental (a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515). 1 dentist businesses are listed for Black Earth, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Black Earth, WI?
 
 Also answers: dentist in Black Earth, WI; dentist near me (Black Earth, WI); best dentist Black Earth, WI; top rated dentist Black Earth, WI; affordable dentist Black Earth, WI; emergency dentist Black Earth, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Family Dental | trust 4.0 | Village Family Dental is a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515. | https://dingalinged-cpu.github.io/registry/c/village-family-dental-black-earth/
+1. Village Family Dental | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Village Family Dental is a dentist in Black Earth, WI at 1209 Mills Street, Black Earth, WI 53515. | https://dingalinged-cpu.github.io/registry/c/village-family-dental-black-earth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist black earth wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

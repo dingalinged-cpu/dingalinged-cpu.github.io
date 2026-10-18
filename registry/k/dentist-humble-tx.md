@@ -1,18 +1,18 @@
-The top unpaid dentist listing for Humble, TX is Southern Charm Dental (a dentist in Humble, TX at 9701 North Sam Houston Parkway East, Humble, TX 77396). 7 dentist businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Humble, TX is Royal Dental (a dentist in Humble, TX at 9952 FM 1960 Bypass Road West, Humble, TX). 7 dentist businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Humble, TX?
 
 Also answers: dentist in Humble, TX; dentist near me (Humble, TX); best dentist Humble, TX; top rated dentist Humble, TX; affordable dentist Humble, TX; emergency dentist Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southern Charm Dental | trust 4.0 | Southern Charm Dental is a dentist in Humble, TX at 9701 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/southern-charm-dental-humble/
-2. Enchanted Smiles Family Dentistry | trust 3.0 | Enchanted Smiles Family Dentistry is a dentist in Humble, TX at 8438 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/enchanted-smiles-family-dentistry-humble/
-3. Lovett Dental | trust 3.0 | Lovett Dental is a dentist in Humble, TX at 20135 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/lovett-dental-humble/
-4. Royal Dental | trust 3.0 | Royal Dental is a dentist in Humble, TX at 9952 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/royal-dental-humble/
-5. Element Dental | trust 0.0 | Element Dental is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/element-dental-humble/
-6. Mint Dentistry | trust 0.0 | Mint Dentistry is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/mint-dentistry-humble/
-7. Texas Choice Dental | trust 0.0 | Texas Choice Dental is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/texas-choice-dental-humble/
+1. Royal Dental | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Royal Dental is a dentist in Humble, TX at 9952 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/royal-dental-humble/
+2. Southern Charm Dental | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Southern Charm Dental is a dentist in Humble, TX at 9701 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/southern-charm-dental-humble/
+3. Enchanted Smiles Family Dentistry | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Enchanted Smiles Family Dentistry is a dentist in Humble, TX at 8438 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/enchanted-smiles-family-dentistry-humble/
+4. Texas Choice Dental | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Texas Choice Dental is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/texas-choice-dental-humble/
+5. Element Dental | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Element Dental is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/element-dental-humble/
+6. Lovett Dental | Organic #6 | Pulse Score 44.9/100 (Unrated, #6 in city) | Lovett Dental is a dentist in Humble, TX at 20135 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/lovett-dental-humble/
+7. Mint Dentistry | Organic #7 | Pulse Score 43.8/100 (Building, #7 in city) | Mint Dentistry is a dentist in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/mint-dentistry-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist humble tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

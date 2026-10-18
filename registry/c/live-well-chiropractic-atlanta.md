@@ -13,7 +13,7 @@ Live Well Chiropractic is a chiropractor in Atlanta, GA at 1035 Juniper Street N
 - Website: https://www.livewellchiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Fair — top 44% of chiropractors in Atlanta, #11 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

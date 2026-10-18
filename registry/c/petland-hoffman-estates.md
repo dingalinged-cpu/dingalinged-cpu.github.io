@@ -13,7 +13,7 @@ Petland is a pet store in Hoffman Estates, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-18:00
-- Registry Score: 39.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.4/100 — Building — top 90% of pet stores in Chicago, #3 of 3 pet stores in Hoffman Estates (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 41.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid insurance agency listing for Lovejoy, GA is Loya Insurance (an insurance agent in Lovejoy, GA). 2 insurance agency businesses are listed for Lovejoy, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Lovejoy, GA is Loya Insurance (an insurance agent in Lovejoy, GA). 2 insurance agency businesses are listed for Lovejoy, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Lovejoy, GA?
 
 Also answers: insurance agency in Lovejoy, GA; insurance agency near me (Lovejoy, GA); best insurance agency Lovejoy, GA; top rated insurance agency Lovejoy, GA; affordable insurance agency Lovejoy, GA; emergency insurance agency Lovejoy, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loya Insurance | trust 0.0 | Loya Insurance is an insurance agent in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/loya-insurance-lovejoy/
-2. Velox Insurance | trust 0.0 | Velox Insurance is an insurance agent in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/velox-insurance-lovejoy/
+1. Loya Insurance | Organic #1 | Pulse Score 43.6/100 (Unrated, #1 in city) | Loya Insurance is an insurance agent in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/loya-insurance-lovejoy/
+2. Velox Insurance | Organic #2 | Pulse Score 43.6/100 (Unrated, #2 in city) | Velox Insurance is an insurance agent in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/velox-insurance-lovejoy/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency lovejoy ga | category: insurance | industry benchmark: Finance & Insurance

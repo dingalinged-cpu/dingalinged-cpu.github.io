@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Desoto, TX is Jill at Scarlet (a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115). 4 haircut businesses are listed for Desoto, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Desoto, TX is Jill at Scarlet (a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115). 4 haircut businesses are listed for Desoto, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Desoto, TX?
 
 Also answers: haircut in Desoto, TX; haircut near me (Desoto, TX); best haircut Desoto, TX; top rated haircut Desoto, TX; affordable haircut Desoto, TX; emergency haircut Desoto, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jill at Scarlet | trust 8.0 | Jill at Scarlet is a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115. | https://dingalinged-cpu.github.io/registry/c/jill-at-scarlet-desoto/
-2. Braids & Weaves | trust 0.0 | Braids & Weaves is a hair salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/braids-and-weaves-desoto/
-3. Corn's Cutz | trust 0.0 | Corn's Cutz is a barber shop in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/corns-cutz-desoto/
-4. Hair Couture Salon | trust 0.0 | Hair Couture Salon is a hair salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/hair-couture-salon-desoto/
+1. Jill at Scarlet | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Jill at Scarlet is a hair salon in DeSoto, TX at 2021 North Hampton Road #150, DeSoto, TX 75115. | https://dingalinged-cpu.github.io/registry/c/jill-at-scarlet-desoto/
+2. Braids & Weaves | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Braids & Weaves is a hair salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/braids-and-weaves-desoto/
+3. Hair Couture Salon | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Hair Couture Salon is a hair salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/hair-couture-salon-desoto/
+4. Corn's Cutz | Organic #4 | Pulse Score 54.4/100 (Unrated, #1 in city) | Corn's Cutz is a barber shop in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/corns-cutz-desoto/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut desoto tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

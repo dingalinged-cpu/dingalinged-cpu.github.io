@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Midlot
 - Website: https://www.actionbehavior.com/locations/texas/dallas-fort-worth/aba-therapy-midlothian-tx/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 87% of therapy practices in Dallas–Fort Worth, #1 of 1 therapy practices in Midlothian (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

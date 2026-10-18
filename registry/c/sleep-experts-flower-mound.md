@@ -13,7 +13,7 @@ Sleep Experts is a mattress store in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-20:00
-- Registry Score: 42.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.8/100 — Building — top 69% of mattress stores in Dallas–Fort Worth, #1 of 2 mattress stores in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 45.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

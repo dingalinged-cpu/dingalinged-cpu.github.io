@@ -13,7 +13,7 @@ Andersonville Galleria is a gift shop in Chicago, IL at 5247 North Clark Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 11:00-18:00
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 20% of gift shops in Chicago, #16 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

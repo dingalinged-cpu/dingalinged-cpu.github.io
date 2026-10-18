@@ -13,7 +13,7 @@ Houston Eye Associates is an eye care practice in Spring, TX at 5211 FM 2920 #Su
 - Website: https://www.houstoneye.com/clinics/spring-klein
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Mo closed; Tu-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 7% of eye care practices in Houston, #1 of 1 eye care practices in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

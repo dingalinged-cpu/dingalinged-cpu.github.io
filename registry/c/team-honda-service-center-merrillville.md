@@ -13,7 +13,7 @@ Team Honda Service Center is an auto repair shop in Merrillville, IN at 4613 Eas
 - Website: https://www.teamhondaon30.com/contact-us/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30; Sa 07:30-16:00
-- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 54% of auto repair shops in Chicago, #1 of 5 auto repair shops in Merrillville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

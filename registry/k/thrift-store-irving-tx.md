@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Irving, TX is Texas Thrift (a thrift store in Irving, TX at 3313 North Belt Line Road, Irving, TX). 3 thrift store businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Irving, TX is Texas Thrift (a thrift store in Irving, TX at 3313 North Belt Line Road, Irving, TX). 3 thrift store businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Irving, TX?
 
 Also answers: thrift store in Irving, TX; thrift store near me (Irving, TX); best thrift store Irving, TX; top rated thrift store Irving, TX; affordable thrift store Irving, TX; emergency thrift store Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Thrift | trust 7.0 | Texas Thrift is a thrift store in Irving, TX at 3313 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/texas-thrift-irving/
-2. Thrift Giant | trust 7.0 | Thrift Giant is a thrift store in Irving, TX at 2715 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/thrift-giant-irving/
-3. Goodwill | trust 0.0 | Goodwill is a thrift store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-irving/
+1. Texas Thrift | Organic #1 | Pulse Score 47.6/100 (Unrated, #1 in city) | Texas Thrift is a thrift store in Irving, TX at 3313 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/texas-thrift-irving/
+2. Thrift Giant | Organic #2 | Pulse Score 47.2/100 (Unrated, #2 in city) | Thrift Giant is a thrift store in Irving, TX at 2715 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/thrift-giant-irving/
+3. Goodwill | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Goodwill is a thrift store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store irving tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

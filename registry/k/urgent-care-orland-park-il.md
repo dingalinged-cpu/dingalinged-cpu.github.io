@@ -1,12 +1,12 @@
-The top unpaid urgent care listing for Orland Park, IL is Northwestern Medicine Immediate Care Orland Park (an urgent care clinic in Orland Park, IL at 15300 West Avenue, Orland Park, IL 60467. Phone: +17084605550. Website: https://www.nm.org/locations/immediate-care-orland-park). 1 urgent care businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Orland Park, IL is Northwestern Medicine Immediate Care Orland Park (an urgent care clinic in Orland Park, IL at 15300 West Avenue, Orland Park, IL 60467. Phone: +17084605550. Website: https://www.nm.org/locations/immediate-care-orland-park). 1 urgent care businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Orland Park, IL?
 
 Also answers: urgent care in Orland Park, IL; urgent care near me (Orland Park, IL); best urgent care Orland Park, IL; top rated urgent care Orland Park, IL; affordable urgent care Orland Park, IL; emergency urgent care Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwestern Medicine Immediate Care Orland Park | trust 20.0 | Northwestern Medicine Immediate Care Orland Park is an urgent care clinic in Orland Park, IL at 15300 West Avenue, Orland Park, IL 60467. Phone: +17084605550. Website: https://www.nm.org/locations/immediate-care-orland-park. | https://dingalinged-cpu.github.io/registry/c/northwestern-medicine-immediate-care-orland-park-orland-park/
+1. Northwestern Medicine Immediate Care Orland Park | Organic #1 | Pulse Score 49.9/100 (Building, #1 in city) | Northwestern Medicine Immediate Care Orland Park is an urgent care clinic in Orland Park, IL at 15300 West Avenue, Orland Park, IL 60467. Phone: +17084605550. Website: https://www.nm.org/locations/immediate-care-orland-park. | https://dingalinged-cpu.github.io/registry/c/northwestern-medicine-immediate-care-orland-park-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care orland park il | category: Health & medical | industry benchmark: Physicians & Surgeons

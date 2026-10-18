@@ -1,14 +1,14 @@
-The top unpaid storage units listing for New Hope, MN is Extra Space Storage (a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps). 3 storage units businesses are listed for New Hope, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for New Hope, MN is Extra Space Storage (a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps). 3 storage units businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in New Hope, MN?
 
 Also answers: storage units in New Hope, MN; storage units near me (New Hope, MN); best storage units New Hope, MN; top rated storage units New Hope, MN; affordable storage units New Hope, MN; emergency storage units New Hope, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 10.0 | Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-new-hope/
-2. Public Storage | trust 0.0 | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope/
-3. Public Storage | trust 0.0 | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope-w763213354/
+1. Extra Space Storage | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in New Hope, MN at 3216 Winnetka Avenue North, New Hope, MN 55427. Website: https://www.extraspace.com/storage/facilities/us/minnesota/minneapolis/7561/?cid=org%3A%3Amaps. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-new-hope/
+2. Public Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope/
+3. Public Storage | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Public Storage is a self-storage facility in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/public-storage-new-hope-w763213354/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units new hope mn | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Orland Park, IL is Sola Salons (a nail salon in Orland Park, IL at 15752 South La Grange Road #2, Orland Park, IL 60462). 4 nail salon businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Orland Park, IL is Classy Nails (a nail salon in Orland Park, IL). 4 nail salon businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Orland Park, IL?
 
 Also answers: nail salon in Orland Park, IL; nail salon near me (Orland Park, IL); best nail salon Orland Park, IL; top rated nail salon Orland Park, IL; affordable nail salon Orland Park, IL; emergency nail salon Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sola Salons | trust 4.0 | Sola Salons is a nail salon in Orland Park, IL at 15752 South La Grange Road #2, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/sola-salons-orland-park/
-2. Classy Nails | trust 0.0 | Classy Nails is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/classy-nails-orland-park/
-3. Crystal Nails & Spa | trust 0.0 | Crystal Nails & Spa is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-and-spa-orland-park/
-4. Pro Nails | trust 0.0 | Pro Nails is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/pro-nails-orland-park/
+1. Classy Nails | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Classy Nails is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/classy-nails-orland-park/
+2. Crystal Nails & Spa | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Crystal Nails & Spa is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-and-spa-orland-park/
+3. Sola Salons | Organic #3 | Pulse Score 45.6/100 (Building, #3 in city) | Sola Salons is a nail salon in Orland Park, IL at 15752 South La Grange Road #2, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/sola-salons-orland-park/
+4. Pro Nails | Organic #4 | Pulse Score 42.2/100 (Unrated, #4 in city) | Pro Nails is a nail salon in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/pro-nails-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon orland park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

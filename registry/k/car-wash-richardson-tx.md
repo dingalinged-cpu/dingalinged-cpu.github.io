@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Richardson, TX is Vibe Car Wash (a car wash in Richardson, TX at 535 West Arapaho Road, Richardson, TX 75080. Phone: +14697084680. Website: https://www.vibecw.com/arapaho). 5 car wash businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Richardson, TX is The Clean Scene (a car wash in Richardson, TX). 5 car wash businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Richardson, TX?
 
 Also answers: car wash in Richardson, TX; car wash near me (Richardson, TX); best car wash Richardson, TX; top rated car wash Richardson, TX; affordable car wash Richardson, TX; emergency car wash Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vibe Car Wash | trust 20.0 | Vibe Car Wash is a car wash in Richardson, TX at 535 West Arapaho Road, Richardson, TX 75080. Phone: +14697084680. Website: https://www.vibecw.com/arapaho. | https://dingalinged-cpu.github.io/registry/c/vibe-car-wash-richardson/
-2. 50¢ Car Wash | trust 0.0 | 50¢ Car Wash is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/50-car-wash-richardson/
-3. Carmel Car Wash | trust 0.0 | Carmel Car Wash is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-richardson/
-4. Precision Auto Care | trust 0.0 | Precision Auto Care is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/precision-auto-care-richardson/
-5. The Clean Scene | trust 0.0 | The Clean Scene is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-clean-scene-richardson/
+1. The Clean Scene | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | The Clean Scene is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-clean-scene-richardson/
+2. 50¢ Car Wash | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | 50¢ Car Wash is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/50-car-wash-richardson/
+3. Precision Auto Care | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Precision Auto Care is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/precision-auto-care-richardson/
+4. Vibe Car Wash | Organic #4 | Pulse Score 52.8/100 (Unrated, #4 in city) | Vibe Car Wash is a car wash in Richardson, TX at 535 West Arapaho Road, Richardson, TX 75080. Phone: +14697084680. Website: https://www.vibecw.com/arapaho. | https://dingalinged-cpu.github.io/registry/c/vibe-car-wash-richardson/
+5. Carmel Car Wash | Organic #5 | Pulse Score 43.8/100 (Unrated, #5 in city) | Carmel Car Wash is a car wash in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash richardson tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

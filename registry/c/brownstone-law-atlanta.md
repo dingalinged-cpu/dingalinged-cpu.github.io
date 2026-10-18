@@ -13,7 +13,7 @@ Brownstone Law is a lawyer in Atlanta, GA at 2870 Peachtree Road Northeast, Atla
 - Website: https://www.brownstonelaw.com/appellate-lawyer/georgia-appeals/appeals-lawyers-in-atlanta-georgia/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 99% of lawyers in Atlanta, #52 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.3, Trust 46.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

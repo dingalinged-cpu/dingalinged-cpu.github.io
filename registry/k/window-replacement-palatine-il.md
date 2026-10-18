@@ -1,12 +1,12 @@
-The top unpaid window replacement listing for Palatine, IL is Lake Cook Exteriors, Inc. (a window installer in Palatine, IL at 50 E Palatine Rd, Palatine, IL 60067. Phone: +18479919180. Website: https://www.lakecookexteriors.com/). 1 window replacement businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Palatine, IL is Lake Cook Exteriors, Inc. (a window installer in Palatine, IL at 50 E Palatine Rd, Palatine, IL 60067. Phone: +18479919180. Website: https://www.lakecookexteriors.com/). 1 window replacement businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Palatine, IL?
 
 Also answers: window replacement in Palatine, IL; window replacement near me (Palatine, IL); best window replacement Palatine, IL; top rated window replacement Palatine, IL; affordable window replacement Palatine, IL; emergency window replacement Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Cook Exteriors, Inc. | trust 16.0 | Lake Cook Exteriors, Inc. is a window installer in Palatine, IL at 50 E Palatine Rd, Palatine, IL 60067. Phone: +18479919180. Website: https://www.lakecookexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/lake-cook-exteriors-inc-palatine/
+1. Lake Cook Exteriors, Inc. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Lake Cook Exteriors, Inc. is a window installer in Palatine, IL at 50 E Palatine Rd, Palatine, IL 60067. Phone: +18479919180. Website: https://www.lakecookexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/lake-cook-exteriors-inc-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement palatine il | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

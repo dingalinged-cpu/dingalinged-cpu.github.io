@@ -1,13 +1,13 @@
-The top unpaid ob gyn listing for Peachtree Corners, GA is Gerry Sotomayor, MD (an OB-GYN practice in Peachtree Corners, GA at 3957 Holcomb Bridge Road #100, Peachtree Corners, GA 30092). 2 ob gyn businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for Peachtree Corners, GA is Reproductive Health Medicine & Gynecology (an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092). 2 ob gyn businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in Peachtree Corners, GA?
 
 Also answers: ob gyn in Peachtree Corners, GA; ob gyn near me (Peachtree Corners, GA); best ob gyn Peachtree Corners, GA; top rated ob gyn Peachtree Corners, GA; affordable ob gyn Peachtree Corners, GA; emergency ob gyn Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerry Sotomayor, MD | trust 4.0 | Gerry Sotomayor, MD is an OB-GYN practice in Peachtree Corners, GA at 3957 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/gerry-sotomayor-md-peachtree-corners/
-2. Reproductive Health Medicine & Gynecology | trust 4.0 | Reproductive Health Medicine & Gynecology is an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/reproductive-health-medicine-and-gynecology-peachtree-corners/
+1. Reproductive Health Medicine & Gynecology | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Reproductive Health Medicine & Gynecology is an OB-GYN practice in Peachtree Corners, GA at 3965 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/reproductive-health-medicine-and-gynecology-peachtree-corners/
+2. Gerry Sotomayor, MD | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Gerry Sotomayor, MD is an OB-GYN practice in Peachtree Corners, GA at 3957 Holcomb Bridge Road #100, Peachtree Corners, GA 30092. | https://dingalinged-cpu.github.io/registry/c/gerry-sotomayor-md-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn peachtree corners ga | category: Health & medical | industry benchmark: Physicians & Surgeons

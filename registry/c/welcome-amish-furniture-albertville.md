@@ -13,7 +13,7 @@ Welcome Amish Furniture is a furniture store in Albertville, MN at 10575 Keyston
 - Website: https://www.welcomefurniture.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 29% of furniture stores in Minneapolis–St. Paul, #1 of 2 furniture stores in Albertville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

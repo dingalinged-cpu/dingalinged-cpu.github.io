@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for North Riverside, IL is Kuratko-Nosek (a funeral home in North Riverside, IL at 2447 Des Plaines Avenue, North Riverside, IL 60546. Website: https://www.kuratkonosek.com/). 1 funeral home businesses are listed for North Riverside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for North Riverside, IL is Kuratko-Nosek (a funeral home in North Riverside, IL at 2447 Des Plaines Avenue, North Riverside, IL 60546. Website: https://www.kuratkonosek.com/). 1 funeral home businesses are listed for North Riverside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in North Riverside, IL?
 
 Also answers: funeral home in North Riverside, IL; funeral home near me (North Riverside, IL); best funeral home North Riverside, IL; top rated funeral home North Riverside, IL; affordable funeral home North Riverside, IL; emergency funeral home North Riverside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kuratko-Nosek | trust 10.0 | Kuratko-Nosek is a funeral home in North Riverside, IL at 2447 Des Plaines Avenue, North Riverside, IL 60546. Website: https://www.kuratkonosek.com/. | https://dingalinged-cpu.github.io/registry/c/kuratko-nosek-north-riverside/
+1. Kuratko-Nosek | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Kuratko-Nosek is a funeral home in North Riverside, IL at 2447 Des Plaines Avenue, North Riverside, IL 60546. Website: https://www.kuratkonosek.com/. | https://dingalinged-cpu.github.io/registry/c/kuratko-nosek-north-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home north riverside il | category: Professional & financial services | industry benchmark: Finance & Insurance

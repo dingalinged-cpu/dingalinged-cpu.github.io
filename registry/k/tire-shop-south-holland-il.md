@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for South Holland, IL is Stanfa Tire and Auto (an auto repair shop in South Holland, IL at 16220 Prince Drive, South Holland, IL 60473. Phone: +17085969292. Website: https://www.stanfatire.com/). 2 tire shop businesses are listed for South Holland, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for South Holland, IL is Stanfa Tire and Auto (an auto repair shop in South Holland, IL at 16220 Prince Drive, South Holland, IL 60473. Phone: +17085969292. Website: https://www.stanfatire.com/). 2 tire shop businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in South Holland, IL?
 
 Also answers: tire shop in South Holland, IL; tire shop near me (South Holland, IL); best tire shop South Holland, IL; top rated tire shop South Holland, IL; affordable tire shop South Holland, IL; emergency tire shop South Holland, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stanfa Tire and Auto | trust 16.0 | Stanfa Tire and Auto is an auto repair shop in South Holland, IL at 16220 Prince Drive, South Holland, IL 60473. Phone: +17085969292. Website: https://www.stanfatire.com/. | https://dingalinged-cpu.github.io/registry/c/stanfa-tire-and-auto-south-holland/
-2. Michelin | trust 4.0 | Michelin is a tire shop in South Holland, IL at 555 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/michelin-south-holland/
+1. Stanfa Tire and Auto | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Stanfa Tire and Auto is an auto repair shop in South Holland, IL at 16220 Prince Drive, South Holland, IL 60473. Phone: +17085969292. Website: https://www.stanfatire.com/. | https://dingalinged-cpu.github.io/registry/c/stanfa-tire-and-auto-south-holland/
+2. Michelin | Organic #2 | Pulse Score 43.8/100 (Building, #1 in city) | Michelin is a tire shop in South Holland, IL at 555 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/michelin-south-holland/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop south holland il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

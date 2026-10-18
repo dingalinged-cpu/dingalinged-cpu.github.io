@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Niles, IL is Fit & Fight Gym (a martial arts school in Niles, IL at 9517 North Milwaukee Avenue, Niles, IL 60714. Phone: +18477073727. Website: https://fitandfightgym.com/). 1 martial arts businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Niles, IL is Fit & Fight Gym (a martial arts school in Niles, IL at 9517 North Milwaukee Avenue, Niles, IL 60714. Phone: +18477073727. Website: https://fitandfightgym.com/). 1 martial arts businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Niles, IL?
 
 Also answers: martial arts in Niles, IL; martial arts near me (Niles, IL); best martial arts Niles, IL; top rated martial arts Niles, IL; affordable martial arts Niles, IL; emergency martial arts Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fit & Fight Gym | trust 20.0 | Fit & Fight Gym is a martial arts school in Niles, IL at 9517 North Milwaukee Avenue, Niles, IL 60714. Phone: +18477073727. Website: https://fitandfightgym.com/. | https://dingalinged-cpu.github.io/registry/c/fit-and-fight-gym-niles/
+1. Fit & Fight Gym | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Fit & Fight Gym is a martial arts school in Niles, IL at 9517 North Milwaukee Avenue, Niles, IL 60714. Phone: +18477073727. Website: https://fitandfightgym.com/. | https://dingalinged-cpu.github.io/registry/c/fit-and-fight-gym-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts niles il | category: Fitness | industry benchmark: Health & Fitness

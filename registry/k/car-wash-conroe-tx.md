@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Conroe, TX is ClearWater Express Wash (a car wash in Conroe, TX at 610 North Loop 336 West, Conroe, TX 77301). 4 car wash businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Conroe, TX is Hot City Auto Spa (a car wash in Conroe, TX at 2206 North Frazier Street, Conroe, TX 77303). 4 car wash businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Conroe, TX?
 
 Also answers: car wash in Conroe, TX; car wash near me (Conroe, TX); best car wash Conroe, TX; top rated car wash Conroe, TX; affordable car wash Conroe, TX; emergency car wash Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ClearWater Express Wash | trust 8.0 | ClearWater Express Wash is a car wash in Conroe, TX at 610 North Loop 336 West, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-conroe/
-2. Hot City Auto Spa | trust 4.0 | Hot City Auto Spa is a car wash in Conroe, TX at 2206 North Frazier Street, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/hot-city-auto-spa-conroe/
-3. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe/
-4. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe-w621235191/
+1. Hot City Auto Spa | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Hot City Auto Spa is a car wash in Conroe, TX at 2206 North Frazier Street, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/hot-city-auto-spa-conroe/
+2. ClearWater Express Wash | Organic #2 | Pulse Score 48.5/100 (Unrated, #2 in city) | ClearWater Express Wash is a car wash in Conroe, TX at 610 North Loop 336 West, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-conroe/
+3. H-E-B Car Wash | Organic #3 | Pulse Score 44.7/100 (Building, #3 in city) | H-E-B Car Wash is a car wash in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe-w621235191/
+4. H-E-B Car Wash | Organic #4 | Pulse Score 43/100 (Building, #4 in city) | H-E-B Car Wash is a car wash in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash conroe tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

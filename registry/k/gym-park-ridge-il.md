@@ -1,15 +1,15 @@
-The top unpaid gym listing for Park Ridge, IL is Fitness Formula Club (a gym in Park Ridge, IL at 826 West Touhy Avenue, Park Ridge, IL 60068. Website: https://ffc.com/club-locations/park-ridge/). 4 gym businesses are listed for Park Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Park Ridge, IL is Fitness Formula Club (a gym in Park Ridge, IL at 826 West Touhy Avenue, Park Ridge, IL 60068. Website: https://ffc.com/club-locations/park-ridge/). 4 gym businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Park Ridge, IL?
 
 Also answers: gym in Park Ridge, IL; gym near me (Park Ridge, IL); best gym Park Ridge, IL; top rated gym Park Ridge, IL; affordable gym Park Ridge, IL; emergency gym Park Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fitness Formula Club | trust 10.0 | Fitness Formula Club is a gym in Park Ridge, IL at 826 West Touhy Avenue, Park Ridge, IL 60068. Website: https://ffc.com/club-locations/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/fitness-formula-club-park-ridge/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Park Ridge, IL at 10 North Northwest Highway, Park Ridge, IL 60068. Phone: +18473183804. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-park-ridge/
-3. Pure Barre | trust 10.0 | Pure Barre is a gym in Park Ridge, IL at 110 North Northwest Highway, Park Ridge, IL 60068. Website: https://www.purebarre.com/location/park-ridge-il-il. | https://dingalinged-cpu.github.io/registry/c/pure-barre-park-ridge/
-4. F45 Training | trust 4.0 | F45 Training is a gym in Park Ridge, IL at 948 North Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/f45-training-park-ridge/
+1. Fitness Formula Club | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Fitness Formula Club is a gym in Park Ridge, IL at 826 West Touhy Avenue, Park Ridge, IL 60068. Website: https://ffc.com/club-locations/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/fitness-formula-club-park-ridge/
+2. Orangetheory Fitness | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Park Ridge, IL at 10 North Northwest Highway, Park Ridge, IL 60068. Phone: +18473183804. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-park-ridge/
+3. Pure Barre | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Pure Barre is a gym in Park Ridge, IL at 110 North Northwest Highway, Park Ridge, IL 60068. Website: https://www.purebarre.com/location/park-ridge-il-il. | https://dingalinged-cpu.github.io/registry/c/pure-barre-park-ridge/
+4. F45 Training | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | F45 Training is a gym in Park Ridge, IL at 948 North Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/f45-training-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym park ridge il | category: Fitness | industry benchmark: Health & Fitness

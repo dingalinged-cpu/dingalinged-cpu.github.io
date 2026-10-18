@@ -1,14 +1,14 @@
-The top unpaid insurance agent listing for Kaufman, TX is Taylor Insurance (an insurance agent in Kaufman, TX at 200 West Fair Street, Kaufman, TX 75142. Phone: +19729327075. Website: https://taylorins.net/). 3 insurance agent businesses are listed for Kaufman, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Kaufman, TX is Taylor Insurance (an insurance agent in Kaufman, TX at 200 West Fair Street, Kaufman, TX 75142. Phone: +19729327075. Website: https://taylorins.net/). 3 insurance agent businesses are listed for Kaufman, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Kaufman, TX?
 
 Also answers: insurance agent in Kaufman, TX; insurance agent near me (Kaufman, TX); best insurance agent Kaufman, TX; top rated insurance agent Kaufman, TX; affordable insurance agent Kaufman, TX; emergency insurance agent Kaufman, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Taylor Insurance | trust 16.0 | Taylor Insurance is an insurance agent in Kaufman, TX at 200 West Fair Street, Kaufman, TX 75142. Phone: +19729327075. Website: https://taylorins.net/. | https://dingalinged-cpu.github.io/registry/c/taylor-insurance-kaufman/
-2. Rowden, Hendrickson, Shipley & Rymer, Inc. | trust 9.0 | Rowden, Hendrickson, Shipley & Rymer, Inc. is an insurance agent in Kaufman, TX at 115 West Mulberry Street, Kaufman, TX. Phone: +19729327665. | https://dingalinged-cpu.github.io/registry/c/rowden-hendrickson-shipley-and-rymer-inc-kaufman/
-3. Texas Farm Bureau Insurance | trust 4.0 | Texas Farm Bureau Insurance is an insurance agent in Kaufman, TX at 2477 North State Highway 34, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-kaufman/
+1. Taylor Insurance | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Taylor Insurance is an insurance agent in Kaufman, TX at 200 West Fair Street, Kaufman, TX 75142. Phone: +19729327075. Website: https://taylorins.net/. | https://dingalinged-cpu.github.io/registry/c/taylor-insurance-kaufman/
+2. Rowden, Hendrickson, Shipley & Rymer, Inc. | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Rowden, Hendrickson, Shipley & Rymer, Inc. is an insurance agent in Kaufman, TX at 115 West Mulberry Street, Kaufman, TX. Phone: +19729327665. | https://dingalinged-cpu.github.io/registry/c/rowden-hendrickson-shipley-and-rymer-inc-kaufman/
+3. Texas Farm Bureau Insurance | Organic #3 | Pulse Score 45.1/100 (Unrated, #3 in city) | Texas Farm Bureau Insurance is an insurance agent in Kaufman, TX at 2477 North State Highway 34, Kaufman, TX 75142. | https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-kaufman/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent kaufman tx | category: Professional & financial services | industry benchmark: Finance & Insurance

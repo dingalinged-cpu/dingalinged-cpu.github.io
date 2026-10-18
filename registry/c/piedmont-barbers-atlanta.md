@@ -13,7 +13,7 @@ Piedmont Barbers is a hair salon in Atlanta, GA at 2350 Cheshire Bridge Road NE 
 - Website: https://www.piedmontbarbers.com/
 - Email: PiedmontBarbers@hotmail.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-19:00, Sa 09:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 18% of hair salons in Atlanta, #23 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Valerie Randolph: Allstate Insurance is an insurance agent in Marietta, GA at 24
 - Website: https://agents.allstate.com/valerie-randolph-marietta-ga.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 52% of insurance agents in Atlanta, #8 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

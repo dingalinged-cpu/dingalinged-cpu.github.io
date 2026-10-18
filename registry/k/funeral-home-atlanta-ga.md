@@ -1,14 +1,14 @@
-The top unpaid funeral home listing for Atlanta, GA is Stocks Funeral Home (a funeral home in Atlanta, GA at 1970 Hosea L Williams Drive Southeast, Atlanta, GA. Phone: +14043770458. Website: https://www.stocksfuneralhome.com/). 3 funeral home businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Atlanta, GA is Stocks Funeral Home (a funeral home in Atlanta, GA at 1970 Hosea L Williams Drive Southeast, Atlanta, GA. Phone: +14043770458. Website: https://www.stocksfuneralhome.com/). 3 funeral home businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Atlanta, GA?
 
 Also answers: funeral home in Atlanta, GA; funeral home near me (Atlanta, GA); best funeral home Atlanta, GA; top rated funeral home Atlanta, GA; affordable funeral home Atlanta, GA; emergency funeral home Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stocks Funeral Home | trust 15.0 | Stocks Funeral Home is a funeral home in Atlanta, GA at 1970 Hosea L Williams Drive Southeast, Atlanta, GA. Phone: +14043770458. Website: https://www.stocksfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/stocks-funeral-home-atlanta/
-2. Carl M. Williams Funeral Direcors | trust 10.0 | Carl M. Williams Funeral Direcors is a funeral home in Atlanta, GA at 492 Larkin Street Southwest, Atlanta, GA 30313. Website: https://www.carlmwilliams.com/. | https://dingalinged-cpu.github.io/registry/c/carl-m-williams-funeral-direcors-atlanta/
-3. Meadows Mortuary | trust 10.0 | Meadows Mortuary is a funeral home in Atlanta, GA at 419 Flat Shoals Avenue Southeast, Atlanta, GA 30316. Website: https://meadowsmortuary.com/. | https://dingalinged-cpu.github.io/registry/c/meadows-mortuary-atlanta/
+1. Stocks Funeral Home | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Stocks Funeral Home is a funeral home in Atlanta, GA at 1970 Hosea L Williams Drive Southeast, Atlanta, GA. Phone: +14043770458. Website: https://www.stocksfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/stocks-funeral-home-atlanta/
+2. Carl M. Williams Funeral Direcors | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Carl M. Williams Funeral Direcors is a funeral home in Atlanta, GA at 492 Larkin Street Southwest, Atlanta, GA 30313. Website: https://www.carlmwilliams.com/. | https://dingalinged-cpu.github.io/registry/c/carl-m-williams-funeral-direcors-atlanta/
+3. Meadows Mortuary | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Meadows Mortuary is a funeral home in Atlanta, GA at 419 Flat Shoals Avenue Southeast, Atlanta, GA 30316. Website: https://meadowsmortuary.com/. | https://dingalinged-cpu.github.io/registry/c/meadows-mortuary-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home atlanta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

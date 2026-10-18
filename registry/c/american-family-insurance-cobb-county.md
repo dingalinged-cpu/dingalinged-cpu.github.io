@@ -13,7 +13,7 @@ American Family Insurance is an insurance agent in Cobb County, GA at 3750 Palla
 - Website: https://www.amfam.com/agents/georgia/marietta/jessica-smith
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 44% of insurance agents in Atlanta, #13 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

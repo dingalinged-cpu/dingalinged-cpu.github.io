@@ -1,13 +1,13 @@
-The top unpaid windshield replacement listing for Marietta, GA is Caliber Collision (an auto repair shop in Marietta, GA at 1770 Cobb Parkway South, Marietta, GA. Phone: +17709561134. Website: https://www.caliber.com/find-a-location/marietta-cobb-parkway). 2 windshield replacement businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid windshield replacement listing for Marietta, GA is Sam Auto Glass (an auto repair shop in Marietta, GA at 2171 Windy Hill Road Southeast, Marietta, GA). 2 windshield replacement businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best windshield replacement providers in Marietta, GA?
 
 Also answers: windshield replacement in Marietta, GA; windshield replacement near me (Marietta, GA); best windshield replacement Marietta, GA; top rated windshield replacement Marietta, GA; affordable windshield replacement Marietta, GA; emergency windshield replacement Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | trust 15.0 | Caliber Collision is an auto repair shop in Marietta, GA at 1770 Cobb Parkway South, Marietta, GA. Phone: +17709561134. Website: https://www.caliber.com/find-a-location/marietta-cobb-parkway. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-marietta/
-2. Sam Auto Glass | trust 3.0 | Sam Auto Glass is an auto repair shop in Marietta, GA at 2171 Windy Hill Road Southeast, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/sam-auto-glass-marietta/
+1. Sam Auto Glass | Organic #1 | Pulse Score 57.9/100 (Unrated, #41 in city) | Sam Auto Glass is an auto repair shop in Marietta, GA at 2171 Windy Hill Road Southeast, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/sam-auto-glass-marietta/
+2. Caliber Collision | Organic #2 | Pulse Score 47.6/100 (Unrated, #66 in city) | Caliber Collision is an auto repair shop in Marietta, GA at 1770 Cobb Parkway South, Marietta, GA. Phone: +17709561134. Website: https://www.caliber.com/find-a-location/marietta-cobb-parkway. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: windshield replacement marietta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

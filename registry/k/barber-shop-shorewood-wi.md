@@ -1,13 +1,13 @@
-The top unpaid barber shop listing for Shorewood, WI is Nick's Barber Shop (a barber shop in Shorewood, WI at 1520 East Capitol Drive, Shorewood, WI 53211. Phone: +14149619853. Website: https://nicksbarbershop.jimdofree.com/). 2 barber shop businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Shorewood, WI is Nick's Barber Shop (a barber shop in Shorewood, WI at 1520 East Capitol Drive, Shorewood, WI 53211. Phone: +14149619853. Website: https://nicksbarbershop.jimdofree.com/). 2 barber shop businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Shorewood, WI?
 
 Also answers: barber shop in Shorewood, WI; barber shop near me (Shorewood, WI); best barber shop Shorewood, WI; top rated barber shop Shorewood, WI; affordable barber shop Shorewood, WI; emergency barber shop Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nick's Barber Shop | trust 20.0 | Nick's Barber Shop is a barber shop in Shorewood, WI at 1520 East Capitol Drive, Shorewood, WI 53211. Phone: +14149619853. Website: https://nicksbarbershop.jimdofree.com/. | https://dingalinged-cpu.github.io/registry/c/nicks-barber-shop-shorewood/
-2. Blindside Barber Company | trust 16.0 | Blindside Barber Company is a barber shop in Shorewood, WI at 2520 East Capitol Drive, Shorewood, WI 53211. Phone: +14143369963. Website: https://www.blindsidebarbers.com/. | https://dingalinged-cpu.github.io/registry/c/blindside-barber-company-shorewood/
+1. Nick's Barber Shop | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Nick's Barber Shop is a barber shop in Shorewood, WI at 1520 East Capitol Drive, Shorewood, WI 53211. Phone: +14149619853. Website: https://nicksbarbershop.jimdofree.com/. | https://dingalinged-cpu.github.io/registry/c/nicks-barber-shop-shorewood/
+2. Blindside Barber Company | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Blindside Barber Company is a barber shop in Shorewood, WI at 2520 East Capitol Drive, Shorewood, WI 53211. Phone: +14143369963. Website: https://www.blindsidebarbers.com/. | https://dingalinged-cpu.github.io/registry/c/blindside-barber-company-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop shorewood wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

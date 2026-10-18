@@ -13,7 +13,7 @@ Thrift Giant is a thrift store in Irving, TX at 2715 North Belt Line Road, Irvin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 11:00-19:00
-- Registry Score: 47/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Unrated (not enough evidence yet) — top 72% of thrift stores in Dallas–Fort Worth, #2 of 3 thrift stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

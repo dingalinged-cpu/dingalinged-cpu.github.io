@@ -1,17 +1,17 @@
-The top unpaid auto repair listing for La Grange, IL is D.M.J. Automotive (an auto repair shop in La Grange, IL at 603 South La Grange Road, La Grange, IL 60525. Phone: +17083525767. Website: https://dmjautomotive.com/). 6 auto repair businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for La Grange, IL is D.M.J. Automotive (an auto repair shop in La Grange, IL at 603 South La Grange Road, La Grange, IL 60525. Phone: +17083525767. Website: https://dmjautomotive.com/). 6 auto repair businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in La Grange, IL?
 
 Also answers: auto repair in La Grange, IL; auto repair near me (La Grange, IL); best auto repair La Grange, IL; top rated auto repair La Grange, IL; affordable auto repair La Grange, IL; emergency auto repair La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D.M.J. Automotive | trust 16.0 | D.M.J. Automotive is an auto repair shop in La Grange, IL at 603 South La Grange Road, La Grange, IL 60525. Phone: +17083525767. Website: https://dmjautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/d-m-j-automotive-la-grange/
-2. Fair Muffler | trust 6.0 | Fair Muffler is an auto repair shop in La Grange, IL. Website: https://fairmuffleril.com/. | https://dingalinged-cpu.github.io/registry/c/fair-muffler-la-grange/
-3. Atop Auto Repair & Towing | trust 0.0 | Atop Auto Repair & Towing is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/atop-auto-repair-and-towing-la-grange/
-4. Burlington Auto Body Inc. | trust 0.0 | Burlington Auto Body Inc. is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/burlington-auto-body-inc-la-grange/
-5. Custom Cars Unlimited | trust 0.0 | Custom Cars Unlimited is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/custom-cars-unlimited-la-grange/
-6. Mega Handlers, Inc. | trust 0.0 | Mega Handlers, Inc. is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/mega-handlers-inc-la-grange/
+1. D.M.J. Automotive | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | D.M.J. Automotive is an auto repair shop in La Grange, IL at 603 South La Grange Road, La Grange, IL 60525. Phone: +17083525767. Website: https://dmjautomotive.com/. | https://dingalinged-cpu.github.io/registry/c/d-m-j-automotive-la-grange/
+2. Fair Muffler | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Fair Muffler is an auto repair shop in La Grange, IL. Website: https://fairmuffleril.com/. | https://dingalinged-cpu.github.io/registry/c/fair-muffler-la-grange/
+3. Atop Auto Repair & Towing | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Atop Auto Repair & Towing is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/atop-auto-repair-and-towing-la-grange/
+4. Burlington Auto Body Inc. | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Burlington Auto Body Inc. is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/burlington-auto-body-inc-la-grange/
+5. Custom Cars Unlimited | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Custom Cars Unlimited is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/custom-cars-unlimited-la-grange/
+6. Mega Handlers, Inc. | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Mega Handlers, Inc. is an auto repair shop in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/mega-handlers-inc-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair la grange il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

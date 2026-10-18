@@ -13,7 +13,7 @@ Ameriprise Financial is a financial advisor in Warrenville, IL at 28381 Davis Pa
 - Website: https://www.ameripriseadvisors.com/armand.d.prestidge/contact/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa, Su off
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 31% of financial advisors in Chicago, #1 of 2 financial advisors in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

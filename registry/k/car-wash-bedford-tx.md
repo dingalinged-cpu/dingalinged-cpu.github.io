@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Bedford, TX is Speedway Express Car Wash (a car wash in Bedford, TX. Website: https://www.speedwaycarwash.com/). 4 car wash businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Bedford, TX is Trinity Shine Car Wash (a car wash in Bedford, TX at 721 North Industrial Boulevard, Bedford, TX 76021). 4 car wash businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Bedford, TX?
 
 Also answers: car wash in Bedford, TX; car wash near me (Bedford, TX); best car wash Bedford, TX; top rated car wash Bedford, TX; affordable car wash Bedford, TX; emergency car wash Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Speedway Express Car Wash | trust 6.0 | Speedway Express Car Wash is a car wash in Bedford, TX. Website: https://www.speedwaycarwash.com/. | https://dingalinged-cpu.github.io/registry/c/speedway-express-car-wash-bedford/
-2. H-E-B Car Wash | trust 4.0 | H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-euless/
-3. Trinity Shine Car Wash | trust 4.0 | Trinity Shine Car Wash is a car wash in Bedford, TX at 721 North Industrial Boulevard, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/trinity-shine-car-wash-bedford/
-4. Best Car Wash | trust 0.0 | Best Car Wash is a car wash in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/best-car-wash-bedford/
+1. Trinity Shine Car Wash | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Trinity Shine Car Wash is a car wash in Bedford, TX at 721 North Industrial Boulevard, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/trinity-shine-car-wash-bedford/
+2. Speedway Express Car Wash | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Speedway Express Car Wash is a car wash in Bedford, TX. Website: https://www.speedwaycarwash.com/. | https://dingalinged-cpu.github.io/registry/c/speedway-express-car-wash-bedford/
+3. Best Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Best Car Wash is a car wash in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/best-car-wash-bedford/
+4. H-E-B Car Wash | Organic #4 | Pulse Score 45/100 (Building, #5 in city) | H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash bedford tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

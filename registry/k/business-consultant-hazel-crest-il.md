@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Hazel Crest, IL is LM Consulting Agency (a business consultant in Homewood, IL at 17475 Jovanna Street, Homewood, IL 60430). 1 business consultant businesses are listed for Hazel Crest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Hazel Crest, IL is LM Consulting Agency (a business consultant in Homewood, IL at 17475 Jovanna Street, Homewood, IL 60430). 1 business consultant businesses are listed for Hazel Crest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Hazel Crest, IL?
 
 Also answers: business consultant in Hazel Crest, IL; business consultant near me (Hazel Crest, IL); best business consultant Hazel Crest, IL; top rated business consultant Hazel Crest, IL; affordable business consultant Hazel Crest, IL; emergency business consultant Hazel Crest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LM Consulting Agency | trust 4.0 | LM Consulting Agency is a business consultant in Homewood, IL at 17475 Jovanna Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/lm-consulting-agency-homewood/
+1. LM Consulting Agency | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | LM Consulting Agency is a business consultant in Homewood, IL at 17475 Jovanna Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/lm-consulting-agency-homewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant hazel crest il | category: b2b_services | industry benchmark: Business Services

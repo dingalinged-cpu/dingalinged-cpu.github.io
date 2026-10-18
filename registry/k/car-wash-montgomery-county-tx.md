@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Montgomery County, TX is H-E-B Car Wash (a car wash in Montgomery County, TX). 5 car wash businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Montgomery County, TX is The Krest Hand Car Wash (a car wash in Montgomery County, TX). 5 car wash businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Montgomery County, TX?
 
 Also answers: car wash in Montgomery County, TX; car wash near me (Montgomery County, TX); best car wash Montgomery County, TX; top rated car wash Montgomery County, TX; affordable car wash Montgomery County, TX; emergency car wash Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county/
-2. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w503245798/
-3. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w852033164/
-4. Quick Quack Car Wash | trust 0.0 | Quick Quack Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-montgomery-county/
-5. The Krest Hand Car Wash | trust 0.0 | The Krest Hand Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/the-krest-hand-car-wash-montgomery-county/
+1. The Krest Hand Car Wash | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | The Krest Hand Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/the-krest-hand-car-wash-montgomery-county/
+2. Quick Quack Car Wash | Organic #2 | Pulse Score 43/100 (Unrated, #2 in city) | Quick Quack Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-montgomery-county/
+3. H-E-B Car Wash | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county/
+4. H-E-B Car Wash | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w503245798/
+5. H-E-B Car Wash | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | H-E-B Car Wash is a car wash in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-montgomery-county-w852033164/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash montgomery county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

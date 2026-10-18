@@ -1,13 +1,13 @@
-The top unpaid insurance agency listing for Trophy Club, TX is Allstate (an insurance agent in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +18173805489. Website: https://agents.allstate.com/josh-house-trophy-club-tx1.html). 2 insurance agency businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Trophy Club, TX is Allstate (an insurance agent in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +18173805489. Website: https://agents.allstate.com/josh-house-trophy-club-tx1.html). 2 insurance agency businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Trophy Club, TX?
 
 Also answers: insurance agency in Trophy Club, TX; insurance agency near me (Trophy Club, TX); best insurance agency Trophy Club, TX; top rated insurance agency Trophy Club, TX; affordable insurance agency Trophy Club, TX; emergency insurance agency Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 16.0 | Allstate is an insurance agent in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +18173805489. Website: https://agents.allstate.com/josh-house-trophy-club-tx1.html. | https://dingalinged-cpu.github.io/registry/c/allstate-trophy-club/
-2. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-trophy-club/
+1. Allstate | Organic #1 | Pulse Score 48.2/100 (Building, #1 in city) | Allstate is an insurance agent in Trophy Club, TX at 2550 Bobcat Boulevard, Trophy Club, TX 76262. Phone: +18173805489. Website: https://agents.allstate.com/josh-house-trophy-club-tx1.html. | https://dingalinged-cpu.github.io/registry/c/allstate-trophy-club/
+2. Farmers Insurance | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency trophy club tx | category: insurance | industry benchmark: Finance & Insurance

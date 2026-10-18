@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Hoffman Estates, IL is Ultimate Exposure Tanning Center (a tanning salon in Hoffman Estates, IL). 1 tanning salon businesses are listed for Hoffman Estates, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Hoffman Estates, IL is Ultimate Exposure Tanning Center (a tanning salon in Hoffman Estates, IL). 1 tanning salon businesses are listed for Hoffman Estates, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Hoffman Estates, IL?
 
 Also answers: tanning salon in Hoffman Estates, IL; tanning salon near me (Hoffman Estates, IL); best tanning salon Hoffman Estates, IL; top rated tanning salon Hoffman Estates, IL; affordable tanning salon Hoffman Estates, IL; emergency tanning salon Hoffman Estates, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ultimate Exposure Tanning Center | trust 0.0 | Ultimate Exposure Tanning Center is a tanning salon in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/ultimate-exposure-tanning-center-hoffman-estates/
+1. Ultimate Exposure Tanning Center | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Ultimate Exposure Tanning Center is a tanning salon in Hoffman Estates, IL. | https://dingalinged-cpu.github.io/registry/c/ultimate-exposure-tanning-center-hoffman-estates/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon hoffman estates il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

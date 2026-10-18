@@ -1,12 +1,12 @@
-The top unpaid exterminator listing for Forney, TX is WING 8 Pest Services (a pest control company in Forney, TX at 30 Mustang Ct., Forney, TX 75126. Phone: +18338889464. Website: https://wing8pest.com/). 1 exterminator businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid exterminator listing for Forney, TX is WING 8 Pest Services (a pest control company in Forney, TX at 30 Mustang Ct., Forney, TX 75126. Phone: +18338889464. Website: https://wing8pest.com/). 1 exterminator businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best exterminator providers in Forney, TX?
 
 Also answers: exterminator in Forney, TX; exterminator near me (Forney, TX); best exterminator Forney, TX; top rated exterminator Forney, TX; affordable exterminator Forney, TX; emergency exterminator Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WING 8 Pest Services | trust 20.0 | WING 8 Pest Services is a pest control company in Forney, TX at 30 Mustang Ct., Forney, TX 75126. Phone: +18338889464. Website: https://wing8pest.com/. | https://dingalinged-cpu.github.io/registry/c/wing-8-pest-services-forney/
+1. WING 8 Pest Services | Organic #1 | Pulse Score 60.4/100 (Good, #1 in city) | WING 8 Pest Services is a pest control company in Forney, TX at 30 Mustang Ct., Forney, TX 75126. Phone: +18338889464. Website: https://wing8pest.com/. | https://dingalinged-cpu.github.io/registry/c/wing-8-pest-services-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: exterminator forney tx | category: Home services - Pest control | industry benchmark: Home & Home Improvement

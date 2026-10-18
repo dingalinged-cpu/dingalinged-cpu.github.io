@@ -1,14 +1,14 @@
-The top unpaid insurance agency listing for West Bend, WI is Allstate (an insurance agent in West Bend, WI). 3 insurance agency businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for West Bend, WI is Thivent (an insurance agent in West Bend, WI). 3 insurance agency businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in West Bend, WI?
 
 Also answers: insurance agency in West Bend, WI; insurance agency near me (West Bend, WI); best insurance agency West Bend, WI; top rated insurance agency West Bend, WI; affordable insurance agency West Bend, WI; emergency insurance agency West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 0.0 | Allstate is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/allstate-west-bend/
-2. American Family | trust 0.0 | American Family is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-west-bend/
-3. Thivent | trust 0.0 | Thivent is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/thivent-west-bend/
+1. Thivent | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Thivent is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/thivent-west-bend/
+2. American Family | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | American Family is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-west-bend/
+3. Allstate | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Allstate is an insurance agent in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/allstate-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency west bend wi | category: insurance | industry benchmark: Finance & Insurance

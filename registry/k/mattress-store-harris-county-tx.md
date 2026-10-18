@@ -1,18 +1,18 @@
-The top unpaid mattress store listing for Harris County, TX is Mattress Firm (a mattress store in Harris County, TX). 7 mattress store businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Harris County, TX is Saveon Mattresses (a mattress store in Harris County, TX). 7 mattress store businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Harris County, TX?
 
 Also answers: mattress store in Harris County, TX; mattress store near me (Harris County, TX); best mattress store Harris County, TX; top rated mattress store Harris County, TX; affordable mattress store Harris County, TX; emergency mattress store Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 0.0 | Mattress Firm is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-harris-county/
-2. Mattress Firm | trust 0.0 | Mattress Firm is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-harris-county-n12572822595/
-3. Mattress King | trust 0.0 | Mattress King is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-king-harris-county/
-4. Mattresses For Less | trust 0.0 | Mattresses For Less is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattresses-for-less-harris-county/
-5. MattressPro | trust 0.0 | MattressPro is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattresspro-harris-county/
-6. Red Tag Mattress | trust 0.0 | Red Tag Mattress is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/red-tag-mattress-harris-county/
-7. Saveon Mattresses | trust 0.0 | Saveon Mattresses is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/saveon-mattresses-harris-county/
+1. Saveon Mattresses | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Saveon Mattresses is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/saveon-mattresses-harris-county/
+2. Mattresses For Less | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mattresses For Less is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattresses-for-less-harris-county/
+3. Mattress King | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Mattress King is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-king-harris-county/
+4. MattressPro | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | MattressPro is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattresspro-harris-county/
+5. Red Tag Mattress | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Red Tag Mattress is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/red-tag-mattress-harris-county/
+6. Mattress Firm | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Mattress Firm is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-harris-county-n12572822595/
+7. Mattress Firm | Organic #7 | Pulse Score 41.6/100 (Building, #7 in city) | Mattress Firm is a mattress store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store harris county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

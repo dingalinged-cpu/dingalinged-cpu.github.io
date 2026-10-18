@@ -13,7 +13,7 @@ State Farm is an insurance agent in Katy, TX at 1310 Pin Oak Road, Katy, TX 7749
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.9/100 — Building — top 70% of insurance agents in Houston, #3 of 3 insurance agents in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

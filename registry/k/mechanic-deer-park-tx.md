@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Deer Park, TX is Harris Window Tinting (an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/). 4 mechanic businesses are listed for Deer Park, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Deer Park, TX is Harris Window Tinting (an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/). 4 mechanic businesses are listed for Deer Park, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Deer Park, TX?
 
 Also answers: mechanic in Deer Park, TX; mechanic near me (Deer Park, TX); best mechanic Deer Park, TX; top rated mechanic Deer Park, TX; affordable mechanic Deer Park, TX; emergency mechanic Deer Park, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harris Window Tinting | trust 20.0 | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://dingalinged-cpu.github.io/registry/c/harris-window-tinting-deer-park/
-2. National Tire and Battery | trust 10.0 | National Tire and Battery is an auto repair shop in Deer Park, TX at 4951 East Boulevard, Deer Park, TX 77536. Website: https://www.ntb.com/store/tx/deer-park/4951-east-blvd-77536/4452. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-deer-park/
-3. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Deer Park, TX at 3417 Center Street, Deer Park, TX 77536. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-deer-park/
-4. Firestone | trust 0.0 | Firestone is an auto repair shop in Deer Park, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-deer-park/
+1. Harris Window Tinting | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | Harris Window Tinting is an auto repair shop in Deer Park, TX at 2676 Center Street, Deer Park, TX 77536. Phone: +18324295390. Website: https://www.harriswindowtinting.com/. | https://dingalinged-cpu.github.io/registry/c/harris-window-tinting-deer-park/
+2. National Tire and Battery | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | National Tire and Battery is an auto repair shop in Deer Park, TX at 4951 East Boulevard, Deer Park, TX 77536. Website: https://www.ntb.com/store/tx/deer-park/4951-east-blvd-77536/4452. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-deer-park/
+3. Jiffy Lube | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Deer Park, TX at 3417 Center Street, Deer Park, TX 77536. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-deer-park/
+4. Firestone | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Firestone is an auto repair shop in Deer Park, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-deer-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic deer park tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Specialized is a bike shop in Atlanta, GA at 112 Krog Street Northeast, Atlanta,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 41.9/100 — Building — top 98% of bike shops in Atlanta, #15 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26, Trust 42.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

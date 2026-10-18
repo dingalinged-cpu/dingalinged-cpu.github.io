@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Mequon, WI is Mequon Auto Tech (an auto repair shop in Mequon, WI. Website: https://mequon-auto-tech.edan.io/). 4 auto repair businesses are listed for Mequon, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Mequon, WI is Mequon Auto Tech (an auto repair shop in Mequon, WI. Website: https://mequon-auto-tech.edan.io/). 4 auto repair businesses are listed for Mequon, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Mequon, WI?
 
 Also answers: auto repair in Mequon, WI; auto repair near me (Mequon, WI); best auto repair Mequon, WI; top rated auto repair Mequon, WI; affordable auto repair Mequon, WI; emergency auto repair Mequon, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mequon Auto Tech | trust 6.0 | Mequon Auto Tech is an auto repair shop in Mequon, WI. Website: https://mequon-auto-tech.edan.io/. | https://dingalinged-cpu.github.io/registry/c/mequon-auto-tech-mequon/
-2. Trust Tire & Auto | trust 6.0 | Trust Tire & Auto is an auto repair shop in Mequon, WI. Website: https://www.tiresmequon.com/. | https://dingalinged-cpu.github.io/registry/c/trust-tire-and-auto-mequon/
-3. Freistadt Automotive | trust 4.0 | Freistadt Automotive is an auto repair shop in Mequon, WI at 10826 Freistadt Rd., Mequon, WI 53097. | https://dingalinged-cpu.github.io/registry/c/freistadt-automotive-mequon/
-4. Rick's Mequon Auto Care | trust 0.0 | Rick's Mequon Auto Care is an auto repair shop in Mequon, WI. | https://dingalinged-cpu.github.io/registry/c/ricks-mequon-auto-care-mequon/
+1. Mequon Auto Tech | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Mequon Auto Tech is an auto repair shop in Mequon, WI. Website: https://mequon-auto-tech.edan.io/. | https://dingalinged-cpu.github.io/registry/c/mequon-auto-tech-mequon/
+2. Freistadt Automotive | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Freistadt Automotive is an auto repair shop in Mequon, WI at 10826 Freistadt Rd., Mequon, WI 53097. | https://dingalinged-cpu.github.io/registry/c/freistadt-automotive-mequon/
+3. Rick's Mequon Auto Care | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Rick's Mequon Auto Care is an auto repair shop in Mequon, WI. | https://dingalinged-cpu.github.io/registry/c/ricks-mequon-auto-care-mequon/
+4. Trust Tire & Auto | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Trust Tire & Auto is an auto repair shop in Mequon, WI. Website: https://www.tiresmequon.com/. | https://dingalinged-cpu.github.io/registry/c/trust-tire-and-auto-mequon/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair mequon wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

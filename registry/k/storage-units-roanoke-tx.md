@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Roanoke, TX is CubeSmart - Roanoke (a self-storage facility in Roanoke, TX at 1201 North US Highway 377, Roanoke, TX 76262. Phone: +18174302737. Website: https://www.cubesmart.com/texas-self-storage/roanoke-self-storage/211.html). 2 storage units businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Roanoke, TX is CubeSmart - Roanoke (a self-storage facility in Roanoke, TX at 1201 North US Highway 377, Roanoke, TX 76262. Phone: +18174302737. Website: https://www.cubesmart.com/texas-self-storage/roanoke-self-storage/211.html). 2 storage units businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Roanoke, TX?
 
 Also answers: storage units in Roanoke, TX; storage units near me (Roanoke, TX); best storage units Roanoke, TX; top rated storage units Roanoke, TX; affordable storage units Roanoke, TX; emergency storage units Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CubeSmart - Roanoke | trust 20.0 | CubeSmart - Roanoke is a self-storage facility in Roanoke, TX at 1201 North US Highway 377, Roanoke, TX 76262. Phone: +18174302737. Website: https://www.cubesmart.com/texas-self-storage/roanoke-self-storage/211.html. | https://dingalinged-cpu.github.io/registry/c/cubesmart-roanoke-roanoke/
-2. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-roanoke/
+1. CubeSmart - Roanoke | Organic #1 | Pulse Score 52.8/100 (Fair, #1 in city) | CubeSmart - Roanoke is a self-storage facility in Roanoke, TX at 1201 North US Highway 377, Roanoke, TX 76262. Phone: +18174302737. Website: https://www.cubesmart.com/texas-self-storage/roanoke-self-storage/211.html. | https://dingalinged-cpu.github.io/registry/c/cubesmart-roanoke-roanoke/
+2. Public Storage | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Public Storage is a self-storage facility in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units roanoke tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -1,13 +1,13 @@
-The top unpaid haircut listing for River Grove, IL is Great Clips (a hair salon in River Grove, IL at 8251 West Belmont Avenue, River Grove, IL 60171). 2 haircut businesses are listed for River Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for River Grove, IL is Mario Novelli's Barber Salon (a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171). 2 haircut businesses are listed for River Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in River Grove, IL?
 
 Also answers: haircut in River Grove, IL; haircut near me (River Grove, IL); best haircut River Grove, IL; top rated haircut River Grove, IL; affordable haircut River Grove, IL; emergency haircut River Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 4.0 | Great Clips is a hair salon in River Grove, IL at 8251 West Belmont Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/great-clips-river-grove/
-2. Mario Novelli's Barber Salon | trust 4.0 | Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
+1. Mario Novelli's Barber Salon | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Mario Novelli's Barber Salon is a barber shop in River Grove, IL at 8345 West Grand Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/mario-novellis-barber-salon-river-grove/
+2. Great Clips | Organic #2 | Pulse Score 45.1/100 (Building, #1 in city) | Great Clips is a hair salon in River Grove, IL at 8251 West Belmont Avenue, River Grove, IL 60171. | https://dingalinged-cpu.github.io/registry/c/great-clips-river-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut river grove il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,14 +1,14 @@
-The top unpaid vet listing for Monona, WI is Beltline Animal Hospital Ltd (a veterinarian in Monona, WI at 800 East Broadway, Monona, WI 53716. Phone: +16082221515). 3 vet businesses are listed for Monona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Monona, WI is Beltline Animal Hospital Ltd (a veterinarian in Monona, WI at 800 East Broadway, Monona, WI 53716. Phone: +16082221515). 3 vet businesses are listed for Monona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Monona, WI?
 
 Also answers: vet in Monona, WI; vet near me (Monona, WI); best vet Monona, WI; top rated vet Monona, WI; affordable vet Monona, WI; emergency vet Monona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beltline Animal Hospital Ltd | trust 10.0 | Beltline Animal Hospital Ltd is a veterinarian in Monona, WI at 800 East Broadway, Monona, WI 53716. Phone: +16082221515. | https://dingalinged-cpu.github.io/registry/c/beltline-animal-hospital-ltd-monona/
-2. Citywide Pet Clinic | trust 4.0 | Citywide Pet Clinic is a veterinarian in Monona, WI at 6009 Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/citywide-pet-clinic-monona/
-3. Monona Veterinary Clinic | trust 0.0 | Monona Veterinary Clinic is a veterinarian in Monona, WI. | https://dingalinged-cpu.github.io/registry/c/monona-veterinary-clinic-monona/
+1. Beltline Animal Hospital Ltd | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Beltline Animal Hospital Ltd is a veterinarian in Monona, WI at 800 East Broadway, Monona, WI 53716. Phone: +16082221515. | https://dingalinged-cpu.github.io/registry/c/beltline-animal-hospital-ltd-monona/
+2. Citywide Pet Clinic | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Citywide Pet Clinic is a veterinarian in Monona, WI at 6009 Monona Drive, Monona, WI 53716. | https://dingalinged-cpu.github.io/registry/c/citywide-pet-clinic-monona/
+3. Monona Veterinary Clinic | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Monona Veterinary Clinic is a veterinarian in Monona, WI. | https://dingalinged-cpu.github.io/registry/c/monona-veterinary-clinic-monona/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet monona wi | category: Pets | industry benchmark: Animals & Pets

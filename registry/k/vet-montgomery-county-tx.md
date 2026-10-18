@@ -1,16 +1,16 @@
-The top unpaid vet listing for Montgomery County, TX is Banfield Pet Hospital (a veterinarian in Montgomery County, TX). 5 vet businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Montgomery County, TX is Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy (a veterinarian in Montgomery County, TX). 5 vet businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Montgomery County, TX?
 
 Also answers: vet in Montgomery County, TX; vet near me (Montgomery County, TX); best vet Montgomery County, TX; top rated vet Montgomery County, TX; affordable vet Montgomery County, TX; emergency vet Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Banfield Pet Hospital | trust 0.0 | Banfield Pet Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-montgomery-county/
-2. Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy | trust 0.0 | Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/best-friends-veterinary-hospital-drive-thru-pet-pharmacy-montgomery-county/
-3. Kainer Veterinary Hospital | trust 0.0 | Kainer Veterinary Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/kainer-veterinary-hospital-montgomery-county/
-4. Lone Star Animal Hospital | trust 0.0 | Lone Star Animal Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-animal-hospital-montgomery-county/
-5. Pet Clinic | trust 0.0 | Pet Clinic is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/pet-clinic-montgomery-county/
+1. Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Best Friends Veterinary Hospital / Drive-thru Pet Pharmacy is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/best-friends-veterinary-hospital-drive-thru-pet-pharmacy-montgomery-county/
+2. Kainer Veterinary Hospital | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Kainer Veterinary Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/kainer-veterinary-hospital-montgomery-county/
+3. Lone Star Animal Hospital | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Lone Star Animal Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-animal-hospital-montgomery-county/
+4. Pet Clinic | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Pet Clinic is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/pet-clinic-montgomery-county/
+5. Banfield Pet Hospital | Organic #5 | Pulse Score 43.8/100 (Building, #5 in city) | Banfield Pet Hospital is a veterinarian in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet montgomery county tx | category: Pets | industry benchmark: Animals & Pets

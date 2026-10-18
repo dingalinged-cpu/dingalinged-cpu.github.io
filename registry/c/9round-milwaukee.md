@@ -13,7 +13,7 @@
 - Website: https://www.9round.com/fitness/milwaukee-wisconsin
 - Email: milwaukee@9round.com
 - Opening hours (OSM syntax): Mo-Fr 05:30-20:00; Sa 08:00-12:00
-- Registry Score: 52.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 96% of martial arts schools in Milwaukee, #6 of 6 martial arts schools in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 68.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

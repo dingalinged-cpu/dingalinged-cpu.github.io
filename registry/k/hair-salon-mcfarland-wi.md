@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Mcfarland, WI is Monda's Family Hair Care McFarland (a hair salon in McFarland, WI at 5910 US-51, McFarland, WI 53558. Phone: +16085791400. Website: https://www.mondashaircare.com/). 1 hair salon businesses are listed for Mcfarland, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Mcfarland, WI is Monda's Family Hair Care McFarland (a hair salon in McFarland, WI at 5910 US-51, McFarland, WI 53558. Phone: +16085791400. Website: https://www.mondashaircare.com/). 1 hair salon businesses are listed for Mcfarland, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Mcfarland, WI?
 
 Also answers: hair salon in Mcfarland, WI; hair salon near me (Mcfarland, WI); best hair salon Mcfarland, WI; top rated hair salon Mcfarland, WI; affordable hair salon Mcfarland, WI; emergency hair salon Mcfarland, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Monda's Family Hair Care McFarland | trust 16.0 | Monda's Family Hair Care McFarland is a hair salon in McFarland, WI at 5910 US-51, McFarland, WI 53558. Phone: +16085791400. Website: https://www.mondashaircare.com/. | https://dingalinged-cpu.github.io/registry/c/mondas-family-hair-care-mcfarland-mcfarland/
+1. Monda's Family Hair Care McFarland | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Monda's Family Hair Care McFarland is a hair salon in McFarland, WI at 5910 US-51, McFarland, WI 53558. Phone: +16085791400. Website: https://www.mondashaircare.com/. | https://dingalinged-cpu.github.io/registry/c/mondas-family-hair-care-mcfarland-mcfarland/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon mcfarland wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

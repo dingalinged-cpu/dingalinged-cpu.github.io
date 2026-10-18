@@ -1,31 +1,31 @@
-The top unpaid gym listing for Flower Mound, TX is Best Gymnastics (a gym in Flower Mound, TX at 601 Garden Ridge Boulevard, Flower Mound, TX 75028. Phone: +19728748800. Website: https://www.bestgymnastics.net/). 20 gym businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Flower Mound, TX is Best Gymnastics (a gym in Flower Mound, TX at 601 Garden Ridge Boulevard, Flower Mound, TX 75028. Phone: +19728748800. Website: https://www.bestgymnastics.net/). 20 gym businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Flower Mound, TX?
 
 Also answers: gym in Flower Mound, TX; gym near me (Flower Mound, TX); best gym Flower Mound, TX; top rated gym Flower Mound, TX; affordable gym Flower Mound, TX; emergency gym Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Best Gymnastics | trust 20.0 | Best Gymnastics is a gym in Flower Mound, TX at 601 Garden Ridge Boulevard, Flower Mound, TX 75028. Phone: +19728748800. Website: https://www.bestgymnastics.net/. | https://dingalinged-cpu.github.io/registry/c/best-gymnastics-flower-mound/
-2. Life Time | trust 20.0 | Life Time is a gym in Flower Mound, TX at 3100 Churchill Drive, Flower Mound, TX 75022. Phone: +19723555000. Website: https://www.lifetime.life/life-time-locations/tx-flower-mound.html. | https://dingalinged-cpu.github.io/registry/c/life-time-flower-mound/
-3. Club 4 Fitness | trust 16.0 | Club 4 Fitness is a gym in Flower Mound, TX. Phone: +14693900101. Website: https://www.club4fitness.com/. | https://dingalinged-cpu.github.io/registry/c/club-4-fitness-flower-mound/
-4. Prevail Personal Fitness | trust 16.0 | Prevail Personal Fitness is a gym in Flower Mound, TX. Phone: +14699491350. Website: https://www.prevailpf.com/. | https://dingalinged-cpu.github.io/registry/c/prevail-personal-fitness-flower-mound/
-5. The Exercise Coach | trust 16.0 | The Exercise Coach is a gym in Flower Mound, TX. Phone: +14696788303. Website: https://exercisecoach.com/flower-mound. | https://dingalinged-cpu.github.io/registry/c/the-exercise-coach-flower-mound/
-6. Hotworx | trust 10.0 | Hotworx is a gym in Flower Mound, TX. Phone: +19724100271. | https://dingalinged-cpu.github.io/registry/c/hotworx-flower-mound/
-7. Nexgen Fitness | trust 10.0 | Nexgen Fitness is a gym in Flower Mound, TX. Phone: +14699304356. | https://dingalinged-cpu.github.io/registry/c/nexgen-fitness-flower-mound/
-8. Gold's Gym | trust 4.0 | Gold's Gym is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/golds-gym-flower-mound/
-9. Outlaw Fitcamp | trust 4.0 | Outlaw Fitcamp is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/outlaw-fitcamp-flower-mound/
-10. Stretch Lab | trust 4.0 | Stretch Lab is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/stretch-lab-flower-mound/
-11. Altitude | trust 3.0 | Altitude is a gym in Flower Mound, TX at 3417 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/altitude-flower-mound/
-12. 30 Minute HIT | trust 0.0 | 30 Minute HIT is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/30-minute-hit-flower-mound/
-13. Alloy Personal Training | trust 0.0 | Alloy Personal Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/alloy-personal-training-flower-mound/
-14. Burn Boot Camp | trust 0.0 | Burn Boot Camp is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-flower-mound/
-15. F45 Training | trust 0.0 | F45 Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-flower-mound/
-16. inLife Wellness | trust 0.0 | inLife Wellness is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/inlife-wellness-flower-mound/
-17. Pure Barre | trust 0.0 | Pure Barre is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/pure-barre-flower-mound/
-18. Scott Wiesel Personal Training | trust 0.0 | Scott Wiesel Personal Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/scott-wiesel-personal-training-flower-mound/
-19. Shapes | trust 0.0 | Shapes is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/shapes-flower-mound/
-20. Thrive Pilates | trust 0.0 | Thrive Pilates is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/thrive-pilates-flower-mound/
+1. Best Gymnastics | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Best Gymnastics is a gym in Flower Mound, TX at 601 Garden Ridge Boulevard, Flower Mound, TX 75028. Phone: +19728748800. Website: https://www.bestgymnastics.net/. | https://dingalinged-cpu.github.io/registry/c/best-gymnastics-flower-mound/
+2. Club 4 Fitness | Organic #2 | Pulse Score 62.9/100 (Good, #2 in city) | Club 4 Fitness is a gym in Flower Mound, TX. Phone: +14693900101. Website: https://www.club4fitness.com/. | https://dingalinged-cpu.github.io/registry/c/club-4-fitness-flower-mound/
+3. Outlaw Fitcamp | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Outlaw Fitcamp is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/outlaw-fitcamp-flower-mound/
+4. Prevail Personal Fitness | Organic #4 | Pulse Score 60.6/100 (Unrated, #4 in city) | Prevail Personal Fitness is a gym in Flower Mound, TX. Phone: +14699491350. Website: https://www.prevailpf.com/. | https://dingalinged-cpu.github.io/registry/c/prevail-personal-fitness-flower-mound/
+5. Altitude | Organic #5 | Pulse Score 59.8/100 (Fair, #5 in city) | Altitude is a gym in Flower Mound, TX at 3417 Long Prairie Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/altitude-flower-mound/
+6. inLife Wellness | Organic #6 | Pulse Score 57.6/100 (Unrated, #6 in city) | inLife Wellness is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/inlife-wellness-flower-mound/
+7. 30 Minute HIT | Organic #7 | Pulse Score 54.3/100 (Unrated, #7 in city) | 30 Minute HIT is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/30-minute-hit-flower-mound/
+8. Alloy Personal Training | Organic #8 | Pulse Score 54.3/100 (Unrated, #8 in city) | Alloy Personal Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/alloy-personal-training-flower-mound/
+9. Scott Wiesel Personal Training | Organic #9 | Pulse Score 54.3/100 (Unrated, #9 in city) | Scott Wiesel Personal Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/scott-wiesel-personal-training-flower-mound/
+10. Shapes | Organic #10 | Pulse Score 54.3/100 (Unrated, #10 in city) | Shapes is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/shapes-flower-mound/
+11. Thrive Pilates | Organic #11 | Pulse Score 54.3/100 (Unrated, #11 in city) | Thrive Pilates is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/thrive-pilates-flower-mound/
+12. Nexgen Fitness | Organic #12 | Pulse Score 50/100 (Unrated, #12 in city) | Nexgen Fitness is a gym in Flower Mound, TX. Phone: +14699304356. | https://dingalinged-cpu.github.io/registry/c/nexgen-fitness-flower-mound/
+13. The Exercise Coach | Organic #13 | Pulse Score 49.4/100 (Building, #13 in city) | The Exercise Coach is a gym in Flower Mound, TX. Phone: +14696788303. Website: https://exercisecoach.com/flower-mound. | https://dingalinged-cpu.github.io/registry/c/the-exercise-coach-flower-mound/
+14. Life Time | Organic #14 | Pulse Score 48.8/100 (Building, #14 in city) | Life Time is a gym in Flower Mound, TX at 3100 Churchill Drive, Flower Mound, TX 75022. Phone: +19723555000. Website: https://www.lifetime.life/life-time-locations/tx-flower-mound.html. | https://dingalinged-cpu.github.io/registry/c/life-time-flower-mound/
+15. Stretch Lab | Organic #15 | Pulse Score 48.2/100 (Building, #15 in city) | Stretch Lab is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/stretch-lab-flower-mound/
+16. Hotworx | Organic #16 | Pulse Score 47.3/100 (Building, #16 in city) | Hotworx is a gym in Flower Mound, TX. Phone: +19724100271. | https://dingalinged-cpu.github.io/registry/c/hotworx-flower-mound/
+17. Gold's Gym | Organic #17 | Pulse Score 44/100 (Building, #17 in city) | Gold's Gym is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/golds-gym-flower-mound/
+18. F45 Training | Organic #18 | Pulse Score 42.4/100 (Building, #18 in city) | F45 Training is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-flower-mound/
+19. Burn Boot Camp | Organic #19 | Pulse Score 41.9/100 (Building, #19 in city) | Burn Boot Camp is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/burn-boot-camp-flower-mound/
+20. Pure Barre | Organic #20 | Pulse Score 41.9/100 (Building, #20 in city) | Pure Barre is a gym in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/pure-barre-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym flower mound tx | category: Fitness | industry benchmark: Health & Fitness

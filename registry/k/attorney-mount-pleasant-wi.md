@@ -1,15 +1,15 @@
-The top unpaid attorney listing for Mount Pleasant, WI is John Barry Stutt, S.C. (a lawyer in Mount Pleasant, WI at 6015 Durand Avenue #400, Mount Pleasant, WI). 4 attorney businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Mount Pleasant, WI is John Barry Stutt, S.C. (a lawyer in Mount Pleasant, WI at 6015 Durand Avenue #400, Mount Pleasant, WI). 4 attorney businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Mount Pleasant, WI?
 
 Also answers: attorney in Mount Pleasant, WI; attorney near me (Mount Pleasant, WI); best attorney Mount Pleasant, WI; top rated attorney Mount Pleasant, WI; affordable attorney Mount Pleasant, WI; emergency attorney Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John Barry Stutt, S.C. | trust 3.0 | John Barry Stutt, S.C. is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue #400, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/john-barry-stutt-s-c-mount-pleasant/
-2. L.A. Duesterbeck and Associates | trust 3.0 | L.A. Duesterbeck and Associates is a lawyer in Mount Pleasant, WI at 6211 Durand Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/l-a-duesterbeck-and-associates-mount-pleasant/
-3. Law Offices of Peter Francis Geraci | trust 3.0 | Law Offices of Peter Francis Geraci is a lawyer in Mount Pleasant, WI at 6216 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-peter-francis-geraci-mount-pleasant/
-4. Robertson, Ryan, and Associates | trust 3.0 | Robertson, Ryan, and Associates is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/robertson-ryan-and-associates-mount-pleasant/
+1. John Barry Stutt, S.C. | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | John Barry Stutt, S.C. is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue #400, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/john-barry-stutt-s-c-mount-pleasant/
+2. L.A. Duesterbeck and Associates | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | L.A. Duesterbeck and Associates is a lawyer in Mount Pleasant, WI at 6211 Durand Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/l-a-duesterbeck-and-associates-mount-pleasant/
+3. Law Offices of Peter Francis Geraci | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Law Offices of Peter Francis Geraci is a lawyer in Mount Pleasant, WI at 6216 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-peter-francis-geraci-mount-pleasant/
+4. Robertson, Ryan, and Associates | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Robertson, Ryan, and Associates is a lawyer in Mount Pleasant, WI at 6015 Durand Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/robertson-ryan-and-associates-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney mount pleasant wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

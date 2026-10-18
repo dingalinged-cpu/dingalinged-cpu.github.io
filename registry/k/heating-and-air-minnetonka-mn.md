@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Minnetonka, MN is VOGT Heating, Air Conditioning & Plumbing (a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/). 1 heating and air businesses are listed for Minnetonka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Minnetonka, MN is VOGT Heating, Air Conditioning & Plumbing (a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/). 1 heating and air businesses are listed for Minnetonka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Minnetonka, MN?
 
 Also answers: heating and air in Minnetonka, MN; heating and air near me (Minnetonka, MN); best heating and air Minnetonka, MN; top rated heating and air Minnetonka, MN; affordable heating and air Minnetonka, MN; emergency heating and air Minnetonka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VOGT Heating, Air Conditioning & Plumbing | trust 16.0 | VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/. | https://dingalinged-cpu.github.io/registry/c/vogt-heating-air-conditioning-and-plumbing-minnetonka/
+1. VOGT Heating, Air Conditioning & Plumbing | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | VOGT Heating, Air Conditioning & Plumbing is a HVAC contractor in Minnetonka, MN at 15612 Highway 7 Suite 333, Minnetonka, MN 55345. Phone: +19524666571. Website: https://www.vogtheating.com/. | https://dingalinged-cpu.github.io/registry/c/vogt-heating-air-conditioning-and-plumbing-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air minnetonka mn | category: Home Services | industry benchmark: Home & Home Improvement

@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Buffalo Grove, IL is WW Studio (a therapy practice in Buffalo Grove, IL). 1 therapist businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Buffalo Grove, IL is WW Studio (a therapy practice in Buffalo Grove, IL). 1 therapist businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Buffalo Grove, IL?
 
 Also answers: therapist in Buffalo Grove, IL; therapist near me (Buffalo Grove, IL); best therapist Buffalo Grove, IL; top rated therapist Buffalo Grove, IL; affordable therapist Buffalo Grove, IL; emergency therapist Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WW Studio | trust 0.0 | WW Studio is a therapy practice in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ww-studio-buffalo-grove/
+1. WW Studio | Organic #1 | Pulse Score 41.6/100 (Building, #1 in city) | WW Studio is a therapy practice in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ww-studio-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist buffalo grove il | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

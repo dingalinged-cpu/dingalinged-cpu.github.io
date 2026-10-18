@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Oak Forest, IL at 5570 West 159th Street, Oak Forest
 - Website: https://www.anytimefitness.com/locations/oak-forest-illinois-4158/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 48% of gyms in Chicago, #1 of 1 gyms in Oak Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

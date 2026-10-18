@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Orland Park, IL is Athletico Physical Therapy (a physical therapy clinic in Orland Park, IL at 14700 South La Grange Road #A, Orland Park, IL 60462). 2 physical therapy businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Orland Park, IL is Team Rehabilition Physcial Therapy (a physical therapy clinic in Orland Park, IL). 2 physical therapy businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Orland Park, IL?
 
 Also answers: physical therapy in Orland Park, IL; physical therapy near me (Orland Park, IL); best physical therapy Orland Park, IL; top rated physical therapy Orland Park, IL; affordable physical therapy Orland Park, IL; emergency physical therapy Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athletico Physical Therapy | trust 4.0 | Athletico Physical Therapy is a physical therapy clinic in Orland Park, IL at 14700 South La Grange Road #A, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-orland-park/
-2. Team Rehabilition Physcial Therapy | trust 0.0 | Team Rehabilition Physcial Therapy is a physical therapy clinic in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/team-rehabilition-physcial-therapy-orland-park/
+1. Team Rehabilition Physcial Therapy | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Team Rehabilition Physcial Therapy is a physical therapy clinic in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/team-rehabilition-physcial-therapy-orland-park/
+2. Athletico Physical Therapy | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | Athletico Physical Therapy is a physical therapy clinic in Orland Park, IL at 14700 South La Grange Road #A, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy orland park il | category: Health & medical | industry benchmark: Physicians & Surgeons

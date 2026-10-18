@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Melrose Park, IL is Division Laundromat of Melrose Park (a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160). 1 dentist businesses are listed for Melrose Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Melrose Park, IL is Division Laundromat of Melrose Park (a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160). 1 dentist businesses are listed for Melrose Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Melrose Park, IL?
 
 Also answers: dentist in Melrose Park, IL; dentist near me (Melrose Park, IL); best dentist Melrose Park, IL; top rated dentist Melrose Park, IL; affordable dentist Melrose Park, IL; emergency dentist Melrose Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Division Laundromat of Melrose Park | trust 4.0 | Division Laundromat of Melrose Park is a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/division-laundromat-of-melrose-park-melrose-park/
+1. Division Laundromat of Melrose Park | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Division Laundromat of Melrose Park is a dentist in Melrose Park, IL at 1620 Division Street, Melrose Park, IL 60160. | https://dingalinged-cpu.github.io/registry/c/division-laundromat-of-melrose-park-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist melrose park il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

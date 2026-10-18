@@ -1,13 +1,13 @@
-The top unpaid gym listing for Glendale Heights, IL is Glendale Heights Sports Hub (a gym in Glendale Heights, IL at 250 Civic Centre Plaza, Glendale Heights, IL. Phone: +16302606060. Website: https://www.ghrec.org/). 2 gym businesses are listed for Glendale Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Glendale Heights, IL is Glendale Heights Sports Hub (a gym in Glendale Heights, IL at 250 Civic Centre Plaza, Glendale Heights, IL. Phone: +16302606060. Website: https://www.ghrec.org/). 2 gym businesses are listed for Glendale Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Glendale Heights, IL?
 
 Also answers: gym in Glendale Heights, IL; gym near me (Glendale Heights, IL); best gym Glendale Heights, IL; top rated gym Glendale Heights, IL; affordable gym Glendale Heights, IL; emergency gym Glendale Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glendale Heights Sports Hub | trust 19.0 | Glendale Heights Sports Hub is a gym in Glendale Heights, IL at 250 Civic Centre Plaza, Glendale Heights, IL. Phone: +16302606060. Website: https://www.ghrec.org/. | https://dingalinged-cpu.github.io/registry/c/glendale-heights-sports-hub-glendale-heights/
-2. LA Fitness | trust 4.0 | LA Fitness is a gym in Glendale Heights, IL at 265 East Army Trail Road, Glendale Heights, IL 60139. | https://dingalinged-cpu.github.io/registry/c/la-fitness-glendale-heights/
+1. Glendale Heights Sports Hub | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Glendale Heights Sports Hub is a gym in Glendale Heights, IL at 250 Civic Centre Plaza, Glendale Heights, IL. Phone: +16302606060. Website: https://www.ghrec.org/. | https://dingalinged-cpu.github.io/registry/c/glendale-heights-sports-hub-glendale-heights/
+2. LA Fitness | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | LA Fitness is a gym in Glendale Heights, IL at 265 East Army Trail Road, Glendale Heights, IL 60139. | https://dingalinged-cpu.github.io/registry/c/la-fitness-glendale-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym glendale heights il | category: Fitness | industry benchmark: Health & Fitness

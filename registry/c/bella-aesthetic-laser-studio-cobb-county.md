@@ -13,7 +13,7 @@ Bella Aesthetic Laser Studio is a skin care studio in Cobb County, GA at 2214 Ro
 - Website: https://bellaaestheticlaser.com/
 - Email: bellalaserstudio@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 9% of skin care studios in Atlanta, #1 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.7, Trust 58.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

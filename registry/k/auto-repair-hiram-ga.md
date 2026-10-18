@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Hiram, GA is Pep Boys (an auto repair shop in Hiram, GA at 4569 Jimmy Lee Smith Parkway, Hiram, GA 30141). 5 auto repair businesses are listed for Hiram, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Hiram, GA is Grey's Auto Collision Center (an auto repair shop in Hiram, GA at 189 Poplar Springs Road, Hiram, GA 30141). 5 auto repair businesses are listed for Hiram, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Hiram, GA?
 
 Also answers: auto repair in Hiram, GA; auto repair near me (Hiram, GA); best auto repair Hiram, GA; top rated auto repair Hiram, GA; affordable auto repair Hiram, GA; emergency auto repair Hiram, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys | trust 8.0 | Pep Boys is an auto repair shop in Hiram, GA at 4569 Jimmy Lee Smith Parkway, Hiram, GA 30141. | https://dingalinged-cpu.github.io/registry/c/pep-boys-hiram/
-2. Grey's Auto Collision Center | trust 4.0 | Grey's Auto Collision Center is an auto repair shop in Hiram, GA at 189 Poplar Springs Road, Hiram, GA 30141. | https://dingalinged-cpu.github.io/registry/c/greys-auto-collision-center-hiram/
-3. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hiram/
-4. Hale Automotive | trust 0.0 | Hale Automotive is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/hale-automotive-hiram/
-5. Peach State Printing | trust 0.0 | Peach State Printing is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/peach-state-printing-hiram/
+1. Grey's Auto Collision Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Grey's Auto Collision Center is an auto repair shop in Hiram, GA at 189 Poplar Springs Road, Hiram, GA 30141. | https://dingalinged-cpu.github.io/registry/c/greys-auto-collision-center-hiram/
+2. Hale Automotive | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Hale Automotive is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/hale-automotive-hiram/
+3. Peach State Printing | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Peach State Printing is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/peach-state-printing-hiram/
+4. Pep Boys | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | Pep Boys is an auto repair shop in Hiram, GA at 4569 Jimmy Lee Smith Parkway, Hiram, GA 30141. | https://dingalinged-cpu.github.io/registry/c/pep-boys-hiram/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair hiram ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

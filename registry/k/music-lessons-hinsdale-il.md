@@ -1,12 +1,12 @@
-The top unpaid music lessons listing for Hinsdale, IL is School of Rock (a music school in Hinsdale, IL). 1 music lessons businesses are listed for Hinsdale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Hinsdale, IL is School of Rock (a music school in Hinsdale, IL). 1 music lessons businesses are listed for Hinsdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Hinsdale, IL?
 
 Also answers: music lessons in Hinsdale, IL; music lessons near me (Hinsdale, IL); best music lessons Hinsdale, IL; top rated music lessons Hinsdale, IL; affordable music lessons Hinsdale, IL; emergency music lessons Hinsdale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. School of Rock | trust 0.0 | School of Rock is a music school in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-hinsdale/
+1. School of Rock | Organic #1 | Pulse Score 42.5/100 (Building, #1 in city) | School of Rock is a music school in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-hinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons hinsdale il | category: Education & childcare | industry benchmark: Education & Instruction

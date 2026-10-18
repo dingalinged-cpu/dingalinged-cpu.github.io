@@ -13,7 +13,7 @@ American haircuts is a hair salon in Brookhaven, GA at 4060 Peachtree Road North
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00; Sa 08:30-19:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 89% of hair salons in Atlanta, #2 of 4 hair salons in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 52.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Wauconda Car Care & Tire Center is an auto repair shop in Wauconda, IL. Phone: +
 - Website: https://www.waucondacarcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-16:00
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Chicago, #3 of 5 auto repair shops in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

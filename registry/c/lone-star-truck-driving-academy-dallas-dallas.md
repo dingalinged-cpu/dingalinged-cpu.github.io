@@ -13,7 +13,7 @@ Lone Star Truck Driving Academy - Dallas is a driving school in Dallas, TX at 40
 - Website: https://lonestar-tda.com/dallas-tx-cdl-training/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:00-16:00; Tu-Fr 09:00-16:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 8% of driving schools in Dallas–Fort Worth, #1 of 1 driving schools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 68.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

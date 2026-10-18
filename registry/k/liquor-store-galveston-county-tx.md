@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Galveston County, TX is Cheer's Liquor (a liquor store in Galveston County, TX). 2 liquor store businesses are listed for Galveston County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Galveston County, TX is Cheer's Liquor (a liquor store in Galveston County, TX). 2 liquor store businesses are listed for Galveston County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Galveston County, TX?
 
 Also answers: liquor store in Galveston County, TX; liquor store near me (Galveston County, TX); best liquor store Galveston County, TX; top rated liquor store Galveston County, TX; affordable liquor store Galveston County, TX; emergency liquor store Galveston County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cheer's Liquor | trust 0.0 | Cheer's Liquor is a liquor store in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/cheers-liquor-galveston-county/
-2. San Leon LIquor | trust 0.0 | San Leon LIquor is a liquor store in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/san-leon-liquor-galveston-county/
+1. Cheer's Liquor | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Cheer's Liquor is a liquor store in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/cheers-liquor-galveston-county/
+2. San Leon LIquor | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | San Leon LIquor is a liquor store in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/san-leon-liquor-galveston-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store galveston county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

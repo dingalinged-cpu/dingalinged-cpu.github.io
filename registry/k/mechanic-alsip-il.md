@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Alsip, IL is Valvoline (an auto repair shop in Alsip, IL at 12245 South Pulaski Road, Alsip, IL 60803. Website: https://store.vioc.com/il/alsip/oil-change-gr0023.html). 1 mechanic businesses are listed for Alsip, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Alsip, IL is Valvoline (an auto repair shop in Alsip, IL at 12245 South Pulaski Road, Alsip, IL 60803. Website: https://store.vioc.com/il/alsip/oil-change-gr0023.html). 1 mechanic businesses are listed for Alsip, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Alsip, IL?
 
 Also answers: mechanic in Alsip, IL; mechanic near me (Alsip, IL); best mechanic Alsip, IL; top rated mechanic Alsip, IL; affordable mechanic Alsip, IL; emergency mechanic Alsip, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Alsip, IL at 12245 South Pulaski Road, Alsip, IL 60803. Website: https://store.vioc.com/il/alsip/oil-change-gr0023.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-alsip/
+1. Valvoline | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Valvoline is an auto repair shop in Alsip, IL at 12245 South Pulaski Road, Alsip, IL 60803. Website: https://store.vioc.com/il/alsip/oil-change-gr0023.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-alsip/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic alsip il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

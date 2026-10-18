@@ -1,27 +1,27 @@
-The top unpaid hair salon listing for Lewisville, TX is Barbers @ 101E (a hair salon in Lewisville, TX at East Southwest Parkway #116, Lewisville, TX. Phone: +19722195343). 16 hair salon businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Lewisville, TX is T.H.1 Barbershop (a hair salon in Lewisville, TX at 1318 West Main Street, Lewisville, TX 75067). 16 hair salon businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Lewisville, TX?
 
 Also answers: hair salon in Lewisville, TX; hair salon near me (Lewisville, TX); best hair salon Lewisville, TX; top rated hair salon Lewisville, TX; affordable hair salon Lewisville, TX; emergency hair salon Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barbers @ 101E | trust 13.0 | Barbers @ 101E is a hair salon in Lewisville, TX at East Southwest Parkway #116, Lewisville, TX. Phone: +19722195343. | https://dingalinged-cpu.github.io/registry/c/barbers-101e-lewisville/
-2. Hair Focus | trust 10.0 | Hair Focus is a hair salon in Lewisville, TX. Phone: +19724597731. | https://dingalinged-cpu.github.io/registry/c/hair-focus-lewisville/
-3. Henry's Hair Salon | trust 10.0 | Henry's Hair Salon is a hair salon in Lewisville, TX. Phone: +12145165882. | https://dingalinged-cpu.github.io/registry/c/henrys-hair-salon-lewisville/
-4. Illusion Hair | trust 10.0 | Illusion Hair is a hair salon in Lewisville, TX. Phone: +19726938191. | https://dingalinged-cpu.github.io/registry/c/illusion-hair-lewisville/
-5. Tommy Hair Salon | trust 10.0 | Tommy Hair Salon is a hair salon in Lewisville, TX. Phone: +12142224284. | https://dingalinged-cpu.github.io/registry/c/tommy-hair-salon-lewisville/
-6. T.H.1 Barbershop | trust 8.0 | T.H.1 Barbershop is a hair salon in Lewisville, TX at 1318 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/t-h-1-barbershop-lewisville/
-7. Great Clips | trust 4.0 | Great Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-lewisville/
-8. Great Clips | trust 4.0 | Great Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-lewisville-n9930258469/
-9. House of Fadez | trust 4.0 | House of Fadez is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/house-of-fadez-lewisville/
-10. Ray's Barber & Beauty Salon | trust 4.0 | Ray's Barber & Beauty Salon is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/rays-barber-and-beauty-salon-lewisville/
-11. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lewisville/
-12. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lewisville-n10609100233/
-13. Styletastic | trust 4.0 | Styletastic is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/styletastic-lewisville/
-14. Supercuts | trust 4.0 | Supercuts is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-lewisville/
-15. Salon Yoli's & Bsrber Shop | trust 3.0 | Salon Yoli's & Bsrber Shop is a hair salon in Lewisville, TX at 1165 South Stemmons Freeway #164, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salon-yolis-and-bsrber-shop-lewisville/
-16. Barbers College | trust 0.0 | Barbers College is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/barbers-college-lewisville/
+1. T.H.1 Barbershop | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | T.H.1 Barbershop is a hair salon in Lewisville, TX at 1318 West Main Street, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/t-h-1-barbershop-lewisville/
+2. Henry's Hair Salon | Organic #2 | Pulse Score 62.8/100 (Good, #2 in city) | Henry's Hair Salon is a hair salon in Lewisville, TX. Phone: +12145165882. | https://dingalinged-cpu.github.io/registry/c/henrys-hair-salon-lewisville/
+3. Barbers @ 101E | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | Barbers @ 101E is a hair salon in Lewisville, TX at East Southwest Parkway #116, Lewisville, TX. Phone: +19722195343. | https://dingalinged-cpu.github.io/registry/c/barbers-101e-lewisville/
+4. Illusion Hair | Organic #4 | Pulse Score 61.9/100 (Unrated, #4 in city) | Illusion Hair is a hair salon in Lewisville, TX. Phone: +19726938191. | https://dingalinged-cpu.github.io/registry/c/illusion-hair-lewisville/
+5. Tommy Hair Salon | Organic #5 | Pulse Score 61.9/100 (Unrated, #5 in city) | Tommy Hair Salon is a hair salon in Lewisville, TX. Phone: +12142224284. | https://dingalinged-cpu.github.io/registry/c/tommy-hair-salon-lewisville/
+6. Hair Focus | Organic #6 | Pulse Score 61.7/100 (Unrated, #6 in city) | Hair Focus is a hair salon in Lewisville, TX. Phone: +19724597731. | https://dingalinged-cpu.github.io/registry/c/hair-focus-lewisville/
+7. Salon Yoli's & Bsrber Shop | Organic #7 | Pulse Score 61.1/100 (Good, #7 in city) | Salon Yoli's & Bsrber Shop is a hair salon in Lewisville, TX at 1165 South Stemmons Freeway #164, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salon-yolis-and-bsrber-shop-lewisville/
+8. House of Fadez | Organic #8 | Pulse Score 59.1/100 (Unrated, #8 in city) | House of Fadez is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/house-of-fadez-lewisville/
+9. Ray's Barber & Beauty Salon | Organic #9 | Pulse Score 58.8/100 (Unrated, #9 in city) | Ray's Barber & Beauty Salon is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/rays-barber-and-beauty-salon-lewisville/
+10. Styletastic | Organic #10 | Pulse Score 58.7/100 (Unrated, #10 in city) | Styletastic is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/styletastic-lewisville/
+11. Barbers College | Organic #11 | Pulse Score 55.5/100 (Unrated, #11 in city) | Barbers College is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/barbers-college-lewisville/
+12. Great Clips | Organic #12 | Pulse Score 48.4/100 (Building, #12 in city) | Great Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-lewisville-n9930258469/
+13. Supercuts | Organic #13 | Pulse Score 46.3/100 (Building, #13 in city) | Supercuts is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-lewisville/
+14. Sport Clips | Organic #14 | Pulse Score 46.2/100 (Building, #14 in city) | Sport Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lewisville/
+15. Great Clips | Organic #15 | Pulse Score 45.7/100 (Building, #15 in city) | Great Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-lewisville/
+16. Sport Clips | Organic #16 | Pulse Score 45.7/100 (Building, #16 in city) | Sport Clips is a hair salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lewisville-n10609100233/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

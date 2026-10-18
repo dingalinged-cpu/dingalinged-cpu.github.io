@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Sun Prairie, WI is Kwik Trip (a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=393). 4 car wash businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Sun Prairie, WI is Badger Wash (a car wash in Sun Prairie, WI). 4 car wash businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Sun Prairie, WI?
 
 Also answers: car wash in Sun Prairie, WI; car wash near me (Sun Prairie, WI); best car wash Sun Prairie, WI; top rated car wash Sun Prairie, WI; affordable car wash Sun Prairie, WI; emergency car wash Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=393. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie/
-2. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=496. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie-w504572987/
-3. Badger Wash | trust 0.0 | Badger Wash is a car wash in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/badger-wash-sun-prairie/
-4. Mr. Splash Car Wash | trust 0.0 | Mr. Splash Car Wash is a car wash in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/mr-splash-car-wash-sun-prairie/
+1. Badger Wash | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Badger Wash is a car wash in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/badger-wash-sun-prairie/
+2. Mr. Splash Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Mr. Splash Car Wash is a car wash in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/mr-splash-car-wash-sun-prairie/
+3. Kwik Trip | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=393. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie/
+4. Kwik Trip | Organic #4 | Pulse Score 48.4/100 (Building, #4 in city) | Kwik Trip is a car wash in Sun Prairie, WI. Website: https://www.kwiktrip.com/locator/store?id=496. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-sun-prairie-w504572987/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash sun prairie wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

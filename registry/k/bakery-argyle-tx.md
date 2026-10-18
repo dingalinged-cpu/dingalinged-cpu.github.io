@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Argyle, TX is The Jenny Layne Bakery (a bakery in Argyle, TX at 815 Stonecrest Rd, Argyle, TX 76226. Phone: +19726912253. Website: https://www.jennylaynebakery.com/). 1 bakery businesses are listed for Argyle, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Argyle, TX is The Jenny Layne Bakery (a bakery in Argyle, TX at 815 Stonecrest Rd, Argyle, TX 76226. Phone: +19726912253. Website: https://www.jennylaynebakery.com/). 1 bakery businesses are listed for Argyle, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Argyle, TX?
 
 Also answers: bakery in Argyle, TX; bakery near me (Argyle, TX); best bakery Argyle, TX; top rated bakery Argyle, TX; affordable bakery Argyle, TX; emergency bakery Argyle, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Jenny Layne Bakery | trust 20.0 | The Jenny Layne Bakery is a bakery in Argyle, TX at 815 Stonecrest Rd, Argyle, TX 76226. Phone: +19726912253. Website: https://www.jennylaynebakery.com/. | https://dingalinged-cpu.github.io/registry/c/the-jenny-layne-bakery-argyle/
+1. The Jenny Layne Bakery | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | The Jenny Layne Bakery is a bakery in Argyle, TX at 815 Stonecrest Rd, Argyle, TX 76226. Phone: +19726912253. Website: https://www.jennylaynebakery.com/. | https://dingalinged-cpu.github.io/registry/c/the-jenny-layne-bakery-argyle/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery argyle tx | category: Events & weddings | industry benchmark: Personal Services

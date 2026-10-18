@@ -1,17 +1,17 @@
-The top unpaid gym listing for West Saint Paul, MN is Snap Fitness (a gym in West Saint Paul, MN at 1016 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16512388853). 6 gym businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for West Saint Paul, MN is Midway Judo Club (a gym in West Saint Paul, MN at 1068 Robert Street South, West Saint Paul, MN 55118). 6 gym businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in West Saint Paul, MN?
 
 Also answers: gym in West Saint Paul, MN; gym near me (West Saint Paul, MN); best gym West Saint Paul, MN; top rated gym West Saint Paul, MN; affordable gym West Saint Paul, MN; emergency gym West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Snap Fitness | trust 10.0 | Snap Fitness is a gym in West Saint Paul, MN at 1016 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16512388853. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-west-saint-paul/
-2. Anytime Fitness | trust 4.0 | Anytime Fitness is a gym in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-west-saint-paul/
-3. Midway Judo Club | trust 4.0 | Midway Judo Club is a gym in West Saint Paul, MN at 1068 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/midway-judo-club-west-saint-paul/
-4. Planet Fitness | trust 4.0 | Planet Fitness is a gym in West Saint Paul, MN at 1675 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-west-saint-paul/
-5. Raddatz Dance Studio | trust 4.0 | Raddatz Dance Studio is a gym in West Saint Paul, MN at 120 Butler Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/raddatz-dance-studio-west-saint-paul/
-6. LA Fitness | trust 3.0 | LA Fitness is a gym in West Saint Paul, MN at 1611, West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/la-fitness-west-saint-paul/
+1. Midway Judo Club | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Midway Judo Club is a gym in West Saint Paul, MN at 1068 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/midway-judo-club-west-saint-paul/
+2. Raddatz Dance Studio | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Raddatz Dance Studio is a gym in West Saint Paul, MN at 120 Butler Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/raddatz-dance-studio-west-saint-paul/
+3. Snap Fitness | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Snap Fitness is a gym in West Saint Paul, MN at 1016 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16512388853. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-west-saint-paul/
+4. Anytime Fitness | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Anytime Fitness is a gym in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-west-saint-paul/
+5. Planet Fitness | Organic #5 | Pulse Score 43.1/100 (Building, #5 in city) | Planet Fitness is a gym in West Saint Paul, MN at 1675 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-west-saint-paul/
+6. LA Fitness | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | LA Fitness is a gym in West Saint Paul, MN at 1611, West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/la-fitness-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym west saint paul mn | category: Fitness | industry benchmark: Health & Fitness

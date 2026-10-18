@@ -1,16 +1,16 @@
-The top unpaid gym listing for Lake Zurich, IL is The Kirt Locker (a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, IL 60047. Phone: +12243160138. Website: https://thekirtlocker.com/). 5 gym businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lake Zurich, IL is The Kirt Locker (a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, IL 60047. Phone: +12243160138. Website: https://thekirtlocker.com/). 5 gym businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lake Zurich, IL?
 
 Also answers: gym in Lake Zurich, IL; gym near me (Lake Zurich, IL); best gym Lake Zurich, IL; top rated gym Lake Zurich, IL; affordable gym Lake Zurich, IL; emergency gym Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Kirt Locker | trust 20.0 | The Kirt Locker is a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, IL 60047. Phone: +12243160138. Website: https://thekirtlocker.com/. | https://dingalinged-cpu.github.io/registry/c/the-kirt-locker-lake-zurich/
-2. CrossFit | trust 16.0 | CrossFit is a gym in Lake Zurich, IL at 519 Tesler Rd, Lake Zurich, IL 60047. Phone: +12242861299. Website: https://crossfitlykos.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-lake-zurich/
-3. Life Time | trust 10.0 | Life Time is a gym in Lake Zurich, IL at 400 North Rand Road, Lake Zurich, IL 60047. Website: https://www.lifetime.life/life-time-locations/il-lake-zurich.html. | https://dingalinged-cpu.github.io/registry/c/life-time-lake-zurich/
-4. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Lake Zurich, IL at 935 South Rand Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-lake-zurich/
-5. LA Fitness | trust 0.0 | LA Fitness is a gym in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lake-zurich/
+1. The Kirt Locker | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | The Kirt Locker is a gym in Lake Zurich, IL at 765 Ela Road #107, Lake Zurich, IL 60047. Phone: +12243160138. Website: https://thekirtlocker.com/. | https://dingalinged-cpu.github.io/registry/c/the-kirt-locker-lake-zurich/
+2. CrossFit | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | CrossFit is a gym in Lake Zurich, IL at 519 Tesler Rd, Lake Zurich, IL 60047. Phone: +12242861299. Website: https://crossfitlykos.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-lake-zurich/
+3. Life Time | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Life Time is a gym in Lake Zurich, IL at 400 North Rand Road, Lake Zurich, IL 60047. Website: https://www.lifetime.life/life-time-locations/il-lake-zurich.html. | https://dingalinged-cpu.github.io/registry/c/life-time-lake-zurich/
+4. Planet Fitness | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Planet Fitness is a gym in Lake Zurich, IL at 935 South Rand Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-lake-zurich/
+5. LA Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | LA Fitness is a gym in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lake zurich il | category: Fitness | industry benchmark: Health & Fitness

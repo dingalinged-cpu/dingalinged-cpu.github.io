@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Coon Rapids, MN is Darque Tan (a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663). 1 tanning salon businesses are listed for Coon Rapids, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Coon Rapids, MN is Darque Tan (a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663). 1 tanning salon businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Coon Rapids, MN?
 
 Also answers: tanning salon in Coon Rapids, MN; tanning salon near me (Coon Rapids, MN); best tanning salon Coon Rapids, MN; top rated tanning salon Coon Rapids, MN; affordable tanning salon Coon Rapids, MN; emergency tanning salon Coon Rapids, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Darque Tan | trust 10.0 | Darque Tan is a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663. | https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/
+1. Darque Tan | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Darque Tan is a tanning salon in Coon Rapids, MN at 13131 Riverdale Drive NW, Coon Rapids, MN 55448. Phone: +17638622663. | https://dingalinged-cpu.github.io/registry/c/darque-tan-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon coon rapids mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

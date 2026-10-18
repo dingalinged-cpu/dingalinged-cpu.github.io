@@ -1,15 +1,15 @@
-The top unpaid bakery listing for Edina, MN is Patisserie Margo (a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55424. Phone: +19529260548. Website: https://patisseriemargomn.com/). 4 bakery businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Edina, MN is Patisserie Margo (a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55424. Phone: +19529260548. Website: https://patisseriemargomn.com/). 4 bakery businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Edina, MN?
 
 Also answers: bakery in Edina, MN; bakery near me (Edina, MN); best bakery Edina, MN; top rated bakery Edina, MN; affordable bakery Edina, MN; emergency bakery Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Patisserie Margo | trust 20.0 | Patisserie Margo is a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55424. Phone: +19529260548. Website: https://patisseriemargomn.com/. | https://dingalinged-cpu.github.io/registry/c/patisserie-margo-edina/
-2. Breadsmith Bakery | trust 16.0 | Breadsmith Bakery is a bakery in Edina, MN. Phone: +19529202778. Website: https://www.breadsmith.com/. | https://dingalinged-cpu.github.io/registry/c/breadsmith-bakery-edina/
-3. Little Pete's | trust 0.0 | Little Pete's is a bakery in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/little-petes-edina/
-4. Rustica | trust 0.0 | Rustica is a bakery in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/rustica-edina/
+1. Patisserie Margo | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Patisserie Margo is a bakery in Edina, MN at 4510 Valley View Road, Edina, MN 55424. Phone: +19529260548. Website: https://patisseriemargomn.com/. | https://dingalinged-cpu.github.io/registry/c/patisserie-margo-edina/
+2. Little Pete's | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Little Pete's is a bakery in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/little-petes-edina/
+3. Rustica | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Rustica is a bakery in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/rustica-edina/
+4. Breadsmith Bakery | Organic #4 | Pulse Score 47.3/100 (Building, #4 in city) | Breadsmith Bakery is a bakery in Edina, MN. Phone: +19529202778. Website: https://www.breadsmith.com/. | https://dingalinged-cpu.github.io/registry/c/breadsmith-bakery-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery edina mn | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Brenda's House Of Flowers is a florist in Woodstock, GA at 200 Chambers Street, 
 - Website: https://www.brendashouseofflowers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 12% of florists in Atlanta, #1 of 3 florists in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Precision Social is a marketing agency in Mokena, IL at 9200 West 191st Street #
 - Website: https://precision-social.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-19:00
-- Registry Score: 59.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 50% of marketing agencys in Chicago, #1 of 1 marketing agencys in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

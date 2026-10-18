@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Plymouth, MN is Gearty-Delmore Funeral Chapel (a funeral home in Plymouth, MN at 15800 37th Avenue North, Plymouth, MN 55446. Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel). 1 funeral home businesses are listed for Plymouth, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Plymouth, MN is Gearty-Delmore Funeral Chapel (a funeral home in Plymouth, MN at 15800 37th Avenue North, Plymouth, MN 55446. Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel). 1 funeral home businesses are listed for Plymouth, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Plymouth, MN?
 
 Also answers: funeral home in Plymouth, MN; funeral home near me (Plymouth, MN); best funeral home Plymouth, MN; top rated funeral home Plymouth, MN; affordable funeral home Plymouth, MN; emergency funeral home Plymouth, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gearty-Delmore Funeral Chapel | trust 10.0 | Gearty-Delmore Funeral Chapel is a funeral home in Plymouth, MN at 15800 37th Avenue North, Plymouth, MN 55446. Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel. | https://dingalinged-cpu.github.io/registry/c/gearty-delmore-funeral-chapel-plymouth/
+1. Gearty-Delmore Funeral Chapel | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Gearty-Delmore Funeral Chapel is a funeral home in Plymouth, MN at 15800 37th Avenue North, Plymouth, MN 55446. Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel. | https://dingalinged-cpu.github.io/registry/c/gearty-delmore-funeral-chapel-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home plymouth mn | category: Professional & financial services | industry benchmark: Finance & Insurance

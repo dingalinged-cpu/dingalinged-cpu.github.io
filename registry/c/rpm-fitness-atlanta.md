@@ -13,7 +13,7 @@ RPM Fitness is a gym in Atlanta, GA at 600 Peachtree Street Northeast, Atlanta, 
 - Website: https://www.rpmboap.com/
 - Email: info@rpmboap.com
 - Opening hours (OSM syntax): Mo-Fr 05:00-21:00; Sa-Su 07:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 7% of gyms in Atlanta, #4 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

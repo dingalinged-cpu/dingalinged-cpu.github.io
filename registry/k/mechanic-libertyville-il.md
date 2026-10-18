@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Libertyville, IL is Duxler Firestone Libertyville Tire (an auto repair shop in Libertyville, IL at 902 South Milwaukee Avenue, Libertyville, IL 60048). 2 mechanic businesses are listed for Libertyville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Libertyville, IL is Duxler Firestone Libertyville Tire (an auto repair shop in Libertyville, IL at 902 South Milwaukee Avenue, Libertyville, IL 60048). 2 mechanic businesses are listed for Libertyville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Libertyville, IL?
 
 Also answers: mechanic in Libertyville, IL; mechanic near me (Libertyville, IL); best mechanic Libertyville, IL; top rated mechanic Libertyville, IL; affordable mechanic Libertyville, IL; emergency mechanic Libertyville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Duxler Firestone Libertyville Tire | trust 4.0 | Duxler Firestone Libertyville Tire is an auto repair shop in Libertyville, IL at 902 South Milwaukee Avenue, Libertyville, IL 60048. | https://dingalinged-cpu.github.io/registry/c/duxler-firestone-libertyville-tire-libertyville/
-2. Pauly Honda Service Center | trust 0.0 | Pauly Honda Service Center is an auto repair shop in Libertyville, IL. | https://dingalinged-cpu.github.io/registry/c/pauly-honda-service-center-libertyville/
+1. Duxler Firestone Libertyville Tire | Organic #1 | Pulse Score 45/100 (Building, #1 in city) | Duxler Firestone Libertyville Tire is an auto repair shop in Libertyville, IL at 902 South Milwaukee Avenue, Libertyville, IL 60048. | https://dingalinged-cpu.github.io/registry/c/duxler-firestone-libertyville-tire-libertyville/
+2. Pauly Honda Service Center | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Pauly Honda Service Center is an auto repair shop in Libertyville, IL. | https://dingalinged-cpu.github.io/registry/c/pauly-honda-service-center-libertyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic libertyville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

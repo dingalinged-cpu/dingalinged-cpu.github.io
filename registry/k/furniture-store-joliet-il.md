@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Joliet, IL is Ashley HomeStore (a furniture store in Joliet, IL at 3200 Mall Loop Drive, Joliet, IL 60431. Phone: +18152304280. Website: https://stores.ashleyfurniture.com/store/us/illinois/joliet/7710000149/). 5 furniture store businesses are listed for Joliet, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Joliet, IL is Turk Furniture (a furniture store in Joliet, IL). 5 furniture store businesses are listed for Joliet, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Joliet, IL?
 
 Also answers: furniture store in Joliet, IL; furniture store near me (Joliet, IL); best furniture store Joliet, IL; top rated furniture store Joliet, IL; affordable furniture store Joliet, IL; emergency furniture store Joliet, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Joliet, IL at 3200 Mall Loop Drive, Joliet, IL 60431. Phone: +18152304280. Website: https://stores.ashleyfurniture.com/store/us/illinois/joliet/7710000149/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-joliet/
-2. Bob's Discount Furniture | trust 0.0 | Bob's Discount Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-joliet/
-3. Pottery Barn Outlet | trust 0.0 | Pottery Barn Outlet is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-outlet-joliet/
-4. Turk Furniture | trust 0.0 | Turk Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/turk-furniture-joliet/
-5. Value City Furniture | trust 0.0 | Value City Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/value-city-furniture-joliet/
+1. Turk Furniture | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Turk Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/turk-furniture-joliet/
+2. Ashley HomeStore | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Joliet, IL at 3200 Mall Loop Drive, Joliet, IL 60431. Phone: +18152304280. Website: https://stores.ashleyfurniture.com/store/us/illinois/joliet/7710000149/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-joliet/
+3. Bob's Discount Furniture | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Bob's Discount Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-joliet/
+4. Pottery Barn Outlet | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Pottery Barn Outlet is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-outlet-joliet/
+5. Value City Furniture | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Value City Furniture is a furniture store in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/value-city-furniture-joliet/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store joliet il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

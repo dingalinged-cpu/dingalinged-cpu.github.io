@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Lockport, IL at 16453 West 159th Street, Lo
 - Website: https://www.mattressfirm.com/en-us/stores/il/lockport/119146/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 30% of mattress stores in Chicago, #1 of 1 mattress stores in Lockport (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Sachse, TX is Baylor Scott & White Primary Care - Sachse (a family medicine practice in Sachse, TX at 5250 State Highway 78 #850, Sachse, TX 75048. Phone: +14698002450. Website: https://www.bswhealth.com/locations/clinic/primary-care-sachse). 1 family doctor businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Sachse, TX is Baylor Scott & White Primary Care - Sachse (a family medicine practice in Sachse, TX at 5250 State Highway 78 #850, Sachse, TX 75048. Phone: +14698002450. Website: https://www.bswhealth.com/locations/clinic/primary-care-sachse). 1 family doctor businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Sachse, TX?
 
 Also answers: family doctor in Sachse, TX; family doctor near me (Sachse, TX); best family doctor Sachse, TX; top rated family doctor Sachse, TX; affordable family doctor Sachse, TX; emergency family doctor Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baylor Scott & White Primary Care - Sachse | trust 20.0 | Baylor Scott & White Primary Care - Sachse is a family medicine practice in Sachse, TX at 5250 State Highway 78 #850, Sachse, TX 75048. Phone: +14698002450. Website: https://www.bswhealth.com/locations/clinic/primary-care-sachse. | https://dingalinged-cpu.github.io/registry/c/baylor-scott-and-white-primary-care-sachse-sachse/
+1. Baylor Scott & White Primary Care - Sachse | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Baylor Scott & White Primary Care - Sachse is a family medicine practice in Sachse, TX at 5250 State Highway 78 #850, Sachse, TX 75048. Phone: +14698002450. Website: https://www.bswhealth.com/locations/clinic/primary-care-sachse. | https://dingalinged-cpu.github.io/registry/c/baylor-scott-and-white-primary-care-sachse-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor sachse tx | category: Health & medical | industry benchmark: Physicians & Surgeons

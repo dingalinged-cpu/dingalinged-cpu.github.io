@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for Hammond, IN is The Tattoo Lady (a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond, IN 46323. Phone: +12198449976. Website: https://www.thetattoolady.com/). 2 tattoo shop businesses are listed for Hammond, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Hammond, IN is The Tattoo Lady (a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond, IN 46323. Phone: +12198449976. Website: https://www.thetattoolady.com/). 2 tattoo shop businesses are listed for Hammond, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Hammond, IN?
 
 Also answers: tattoo shop in Hammond, IN; tattoo shop near me (Hammond, IN); best tattoo shop Hammond, IN; top rated tattoo shop Hammond, IN; affordable tattoo shop Hammond, IN; emergency tattoo shop Hammond, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Tattoo Lady | trust 20.0 | The Tattoo Lady is a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond, IN 46323. Phone: +12198449976. Website: https://www.thetattoolady.com/. | https://dingalinged-cpu.github.io/registry/c/the-tattoo-lady-hammond/
-2. China Doll Tattoo & Piercing | trust 16.0 | China Doll Tattoo & Piercing is a tattoo shop in Hammond, IN at 7346 Calumet Avenue, Hammond, IN 46324. Phone: +12198530956. Website: https://chinadolltattooandpiercing.net/. | https://dingalinged-cpu.github.io/registry/c/china-doll-tattoo-and-piercing-hammond/
+1. The Tattoo Lady | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | The Tattoo Lady is a tattoo shop in Hammond, IN at 6817 Kennedy Avenue, Hammond, IN 46323. Phone: +12198449976. Website: https://www.thetattoolady.com/. | https://dingalinged-cpu.github.io/registry/c/the-tattoo-lady-hammond/
+2. China Doll Tattoo & Piercing | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | China Doll Tattoo & Piercing is a tattoo shop in Hammond, IN at 7346 Calumet Avenue, Hammond, IN 46324. Phone: +12198530956. Website: https://chinadolltattooandpiercing.net/. | https://dingalinged-cpu.github.io/registry/c/china-doll-tattoo-and-piercing-hammond/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop hammond in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

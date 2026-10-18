@@ -13,7 +13,7 @@ Pro Bike Repair is a bike shop in Palmetto, GA at 9222 Selborne Lane #A, Palmett
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 76% of bike shops in Atlanta, #1 of 1 bike shops in Palmetto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.1, Trust 42.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

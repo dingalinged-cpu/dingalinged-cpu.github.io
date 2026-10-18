@@ -1,12 +1,12 @@
-The top unpaid brake repair listing for Lewisville, TX is Brakes Plus (an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926). 1 brake repair businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Lewisville, TX is Brakes Plus (an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926). 1 brake repair businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Lewisville, TX?
 
 Also answers: brake repair in Lewisville, TX; brake repair near me (Lewisville, TX); best brake repair Lewisville, TX; top rated brake repair Lewisville, TX; affordable brake repair Lewisville, TX; emergency brake repair Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brakes Plus | trust 14.0 | Brakes Plus is an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-lewisville-w1078679039/
+1. Brakes Plus | Organic #1 | Pulse Score 49.4/100 (Building, #18 in city) | Brakes Plus is an auto repair shop in Lewisville, TX at 200 West Round Grove Road, Lewisville, TX 75067. Phone: +19723152926. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-lewisville-w1078679039/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

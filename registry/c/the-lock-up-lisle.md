@@ -13,7 +13,7 @@ The Lock Up is a self-storage facility in Lisle, IL at 431 Ogden Avenue, Lisle, 
 - Website: https://www.thelockup.com/self-storage-lisle-downers-grove-llinois
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 25% of self-storage facilitys in Chicago, #1 of 3 self-storage facilitys in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

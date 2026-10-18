@@ -1,13 +1,13 @@
-The top unpaid it support listing for Gwinnett County, GA is Constellation Park Apartments (an IT support company in Gwinnett County, GA). 2 it support businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Gwinnett County, GA is Tray Communications (an IT support company in Gwinnett County, GA). 2 it support businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Gwinnett County, GA?
 
 Also answers: it support in Gwinnett County, GA; it support near me (Gwinnett County, GA); best it support Gwinnett County, GA; top rated it support Gwinnett County, GA; affordable it support Gwinnett County, GA; emergency it support Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Constellation Park Apartments | trust 0.0 | Constellation Park Apartments is an IT support company in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/constellation-park-apartments-gwinnett-county/
-2. Tray Communications | trust 0.0 | Tray Communications is an IT support company in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tray-communications-gwinnett-county/
+1. Tray Communications | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Tray Communications is an IT support company in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tray-communications-gwinnett-county/
+2. Constellation Park Apartments | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Constellation Park Apartments is an IT support company in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/constellation-park-apartments-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support gwinnett county ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Ravinia Nursery School is a daycare in Highland Park, IL at 686 Red Oak Lane, Hi
 - Website: https://ravinianurseryschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 18% of daycares in Chicago, #1 of 1 daycares in Highland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid plumbing services listing for Duncanville, TX is Benjamin Franklin Plumbing & Drain Services of Duncanville (a plumber in Duncanville, TX at 1019 Explorer Street, Duncanville, TX 75137. Phone: +19722635010. Website: https://www.duncanvilleplumber.com/). 1 plumbing services businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbing services listing for Duncanville, TX is Benjamin Franklin Plumbing & Drain Services of Duncanville (a plumber in Duncanville, TX at 1019 Explorer Street, Duncanville, TX 75137. Phone: +19722635010. Website: https://www.duncanvilleplumber.com/). 1 plumbing services businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbing services providers in Duncanville, TX?
 
 Also answers: plumbing services in Duncanville, TX; plumbing services near me (Duncanville, TX); best plumbing services Duncanville, TX; top rated plumbing services Duncanville, TX; affordable plumbing services Duncanville, TX; emergency plumbing services Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benjamin Franklin Plumbing & Drain Services of Duncanville | trust 20.0 | Benjamin Franklin Plumbing & Drain Services of Duncanville is a plumber in Duncanville, TX at 1019 Explorer Street, Duncanville, TX 75137. Phone: +19722635010. Website: https://www.duncanvilleplumber.com/. | https://dingalinged-cpu.github.io/registry/c/benjamin-franklin-plumbing-and-drain-services-of-duncanville-duncanville/
+1. Benjamin Franklin Plumbing & Drain Services of Duncanville | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Benjamin Franklin Plumbing & Drain Services of Duncanville is a plumber in Duncanville, TX at 1019 Explorer Street, Duncanville, TX 75137. Phone: +19722635010. Website: https://www.duncanvilleplumber.com/. | https://dingalinged-cpu.github.io/registry/c/benjamin-franklin-plumbing-and-drain-services-of-duncanville-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbing services duncanville tx | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

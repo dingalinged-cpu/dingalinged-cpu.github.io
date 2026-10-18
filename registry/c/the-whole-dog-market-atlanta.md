@@ -13,7 +13,7 @@ The Whole Dog Market is a pet store in Atlanta, GA at 3300 Cobb Parkway South, A
 - Website: https://vinings.thewholedogmarket.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:30-19:30; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 3% of pet stores in Atlanta, #1 of 20 pet stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

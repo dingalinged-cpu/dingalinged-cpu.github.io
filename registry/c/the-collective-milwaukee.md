@@ -13,7 +13,7 @@ The Collective is a hair salon in Milwaukee, WI at 765 North Jackson Street, Mil
 - Website: https://thecollectivemke.com/
 - Email: info@thecollectivemke.com
 - Opening hours (OSM syntax): Tu-We 10:00-20:00; Th-Fr 08:00-18:00; Sa 09:00-15:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 81% of hair salons in Milwaukee, #144 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.4, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

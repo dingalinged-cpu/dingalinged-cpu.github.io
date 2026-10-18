@@ -13,7 +13,7 @@ Village CycleSport is a bike shop in Barrington, IL at 203 West Northwest Highwa
 - Website: https://www.villagecyclesport.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00
-- Registry Score: 56.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 42% of bike shops in Chicago, #1 of 1 bike shops in Barrington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.1, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

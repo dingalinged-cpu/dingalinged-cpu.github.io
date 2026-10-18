@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Park Ridge, IL is Anthony Valentino Salon for Hair (a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/). 6 hair salon businesses are listed for Park Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Park Ridge, IL is Anthony Valentino Salon for Hair (a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/). 6 hair salon businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Park Ridge, IL?
 
 Also answers: hair salon in Park Ridge, IL; hair salon near me (Park Ridge, IL); best hair salon Park Ridge, IL; top rated hair salon Park Ridge, IL; affordable hair salon Park Ridge, IL; emergency hair salon Park Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anthony Valentino Salon for Hair | trust 10.0 | Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/
-2. Floyd's 99 Barbershop | trust 10.0 | Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Park Ridge, IL 60068. Website: https://www.floydsbarbershop.com/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-park-ridge/
-3. Ash and Willow | trust 8.0 | Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/ash-and-willow-park-ridge/
-4. Hair Cuttery | trust 4.0 | Hair Cuttery is a hair salon in Park Ridge, IL at 108 Euclid Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-park-ridge/
-5. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Park Ridge, IL at 35 South Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/sport-clips-park-ridge/
-6. Touch Of Class | trust 4.0 | Touch Of Class is a hair salon in Park Ridge, IL at 733 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/touch-of-class-park-ridge/
+1. Anthony Valentino Salon for Hair | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Anthony Valentino Salon for Hair is a hair salon in Park Ridge, IL at 26 Main Street, Park Ridge, IL 60068. Website: https://avsalonforhair.com/. | https://dingalinged-cpu.github.io/registry/c/anthony-valentino-salon-for-hair-park-ridge/
+2. Ash and Willow | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/ash-and-willow-park-ridge/
+3. Touch Of Class | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Touch Of Class is a hair salon in Park Ridge, IL at 733 Devon Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/touch-of-class-park-ridge/
+4. Floyd's 99 Barbershop | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | Floyd's 99 Barbershop is a hair salon in Park Ridge, IL at 742 Higgins Road, Park Ridge, IL 60068. Website: https://www.floydsbarbershop.com/park-ridge/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-park-ridge/
+5. Hair Cuttery | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | Hair Cuttery is a hair salon in Park Ridge, IL at 108 Euclid Avenue, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-park-ridge/
+6. Sport Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Sport Clips is a hair salon in Park Ridge, IL at 35 South Northwest Highway, Park Ridge, IL 60068. | https://dingalinged-cpu.github.io/registry/c/sport-clips-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon park ridge il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

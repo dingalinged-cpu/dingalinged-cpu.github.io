@@ -13,7 +13,7 @@ Jordan Carl, DMD is a dentist in Lewisville, TX. Phone: +19722219136. Website: h
 - Website: https://www.jordancarl.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-11:45,12:45-16:30; Fr-Su off
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 6% of dentists in Dallas–Fort Worth, #7 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

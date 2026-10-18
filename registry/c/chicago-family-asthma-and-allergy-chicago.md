@@ -13,7 +13,7 @@ Chicago Family Asthma & Allergy is an allergist in Chicago, IL at 2551 North Cla
 - Website: https://www.chicagofamilyasthma.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:00-18:00; Th 09:00-18:00; Fr 09:00-17:00; PH off
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 100% of allergists in Chicago, #1 of 1 allergists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

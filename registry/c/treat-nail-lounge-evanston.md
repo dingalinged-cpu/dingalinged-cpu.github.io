@@ -13,7 +13,7 @@ Treat Nail Lounge is a nail salon in Evanston, IL. Phone: +18478661305. Website:
 - Website: https://www.facebook.com/treatnail/
 - Email: treatevanston@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 3% of nail salons in Chicago, #1 of 11 nail salons in Evanston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

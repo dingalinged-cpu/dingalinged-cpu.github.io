@@ -13,7 +13,7 @@ be yoga Atlanta is a yoga studio in Marietta, GA at 107 Church Street, Marietta,
 - Website: https://www.beyogaatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 42% of yoga studios in Atlanta, #1 of 1 yoga studios in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

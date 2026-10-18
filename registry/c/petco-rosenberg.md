@@ -13,7 +13,7 @@ Petco is a pet store in Rosenberg, TX at 23710 Commercial Drive, Rosenberg, TX 7
 - Website: https://stores.petco.com/tx/rosenberg/pet-supplies-rosenberg-tx-1467.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 36% of pet stores in Houston, #1 of 1 pet stores in Rosenberg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.5, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

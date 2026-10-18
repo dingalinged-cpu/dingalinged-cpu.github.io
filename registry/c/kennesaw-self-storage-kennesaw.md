@@ -13,7 +13,7 @@ Kennesaw Self Storage is a self-storage facility in Kennesaw, GA at 3050 North M
 - Website: https://www.absolutemgmt.com/storage-locations/ga/kennesaw/3050-n-main-st-nw/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 3% of self-storage facilitys in Atlanta, #1 of 8 self-storage facilitys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

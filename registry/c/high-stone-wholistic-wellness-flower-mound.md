@@ -13,7 +13,7 @@ High Stone Wholistic Wellness is a chiropractor in Flower Mound, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Sa 10:00-20:00; Su 12:00-20:00; PH off
-- Registry Score: 54.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.6/100 — Unrated (not enough evidence yet) — top 48% of chiropractors in Dallas–Fort Worth, #8 of 13 chiropractors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 44.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

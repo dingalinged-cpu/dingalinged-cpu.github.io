@@ -13,7 +13,7 @@ Painted Tree Boutiques is a gift shop in Roswell, GA at 4651 Woodstock Road, Ros
 - Website: https://paintedtree.com/
 - Email: customerservice@paintedtree.com
 - Opening hours (OSM syntax): 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 8% of gift shops in Atlanta, #1 of 1 gift shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

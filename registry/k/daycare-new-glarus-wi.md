@@ -1,12 +1,12 @@
-The top unpaid daycare listing for New Glarus, WI is Small World Childcare Center (a daycare in New Glarus, WI at 107 2nd Street, New Glarus, WI 53574. Phone: +16085272954. Website: https://www.smallworldchildcare.org/). 1 daycare businesses are listed for New Glarus, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for New Glarus, WI is Small World Childcare Center (a daycare in New Glarus, WI at 107 2nd Street, New Glarus, WI 53574. Phone: +16085272954. Website: https://www.smallworldchildcare.org/). 1 daycare businesses are listed for New Glarus, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in New Glarus, WI?
 
 Also answers: daycare in New Glarus, WI; daycare near me (New Glarus, WI); best daycare New Glarus, WI; top rated daycare New Glarus, WI; affordable daycare New Glarus, WI; emergency daycare New Glarus, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Small World Childcare Center | trust 16.0 | Small World Childcare Center is a daycare in New Glarus, WI at 107 2nd Street, New Glarus, WI 53574. Phone: +16085272954. Website: https://www.smallworldchildcare.org/. | https://dingalinged-cpu.github.io/registry/c/small-world-childcare-center-new-glarus/
+1. Small World Childcare Center | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Small World Childcare Center is a daycare in New Glarus, WI at 107 2nd Street, New Glarus, WI 53574. Phone: +16085272954. Website: https://www.smallworldchildcare.org/. | https://dingalinged-cpu.github.io/registry/c/small-world-childcare-center-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare new glarus wi | category: Education & childcare | industry benchmark: Education & Instruction

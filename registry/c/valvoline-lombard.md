@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Lombard, IL at 1204 East Roosevelt Road, Lom
 - Website: https://store.vioc.com/il/lombard/oil-change-gr0037.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 61% of auto repair shops in Chicago, #4 of 13 auto repair shops in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

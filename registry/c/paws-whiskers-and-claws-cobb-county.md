@@ -13,7 +13,7 @@ Paws Whiskers & Claws is a veterinarian in Cobb County, GA at 4719 Lower Roswell
 - Website: https://pawswhiskersandclaws.com/
 - Email: catspwc@pawswhiskersandclaws.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:30; We off; Sa 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 3% of veterinarians in Atlanta, #1 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

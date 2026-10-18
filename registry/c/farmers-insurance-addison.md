@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Addison, IL at 240 Lake Street #205, 
 - Website: https://agents.farmers.com/il/addison/james-provinzino
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:30; Fr 08:30-17:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 36% of insurance agents in Chicago, #1 of 1 insurance agents in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

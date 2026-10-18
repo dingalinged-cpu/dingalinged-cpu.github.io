@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Hempstead, TX is Zipp's Liquor (a liquor store in Hempstead, TX). 1 liquor store businesses are listed for Hempstead, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Hempstead, TX is Zipp's Liquor (a liquor store in Hempstead, TX). 1 liquor store businesses are listed for Hempstead, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Hempstead, TX?
 
 Also answers: liquor store in Hempstead, TX; liquor store near me (Hempstead, TX); best liquor store Hempstead, TX; top rated liquor store Hempstead, TX; affordable liquor store Hempstead, TX; emergency liquor store Hempstead, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zipp's Liquor | trust 0.0 | Zipp's Liquor is a liquor store in Hempstead, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-hempstead/
+1. Zipp's Liquor | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Zipp's Liquor is a liquor store in Hempstead, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-liquor-hempstead/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store hempstead tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

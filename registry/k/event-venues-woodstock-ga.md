@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Woodstock, GA is MadLife Stage & Studios (an event venue in Woodstock, GA at 8722 Main Street, Woodstock, GA 30188. Phone: +16783842363. Website: https://madlifestageandstudios.com/). 4 event venues businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Woodstock, GA is MadLife Stage & Studios (an event venue in Woodstock, GA at 8722 Main Street, Woodstock, GA 30188. Phone: +16783842363. Website: https://madlifestageandstudios.com/). 4 event venues businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Woodstock, GA?
 
 Also answers: event venues in Woodstock, GA; event venues near me (Woodstock, GA); best event venues Woodstock, GA; top rated event venues Woodstock, GA; affordable event venues Woodstock, GA; emergency event venues Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MadLife Stage & Studios | trust 20.0 | MadLife Stage & Studios is an event venue in Woodstock, GA at 8722 Main Street, Woodstock, GA 30188. Phone: +16783842363. Website: https://madlifestageandstudios.com/. | https://dingalinged-cpu.github.io/registry/c/madlife-stage-and-studios-woodstock/
-2. Gathering On Main | trust 16.0 | Gathering On Main is an event venue in Woodstock, GA at 8826 Main Street, Woodstock, GA 30188. Phone: +17709269280. Website: https://gatheringonmainwoodstock.com/. | https://dingalinged-cpu.github.io/registry/c/gathering-on-main-woodstock/
-3. Venue 92 | trust 10.0 | Venue 92 is an event venue in Woodstock, GA at 12015 GA-92, Woodstock, GA 30188. Website: https://www.venue92.com/. | https://dingalinged-cpu.github.io/registry/c/venue-92-woodstock/
-4. El Evento Perfecto | trust 0.0 | El Evento Perfecto is an event venue in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/el-evento-perfecto-woodstock/
+1. MadLife Stage & Studios | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | MadLife Stage & Studios is an event venue in Woodstock, GA at 8722 Main Street, Woodstock, GA 30188. Phone: +16783842363. Website: https://madlifestageandstudios.com/. | https://dingalinged-cpu.github.io/registry/c/madlife-stage-and-studios-woodstock/
+2. Gathering On Main | Organic #2 | Pulse Score 62.5/100 (Good, #2 in city) | Gathering On Main is an event venue in Woodstock, GA at 8826 Main Street, Woodstock, GA 30188. Phone: +17709269280. Website: https://gatheringonmainwoodstock.com/. | https://dingalinged-cpu.github.io/registry/c/gathering-on-main-woodstock/
+3. Venue 92 | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Venue 92 is an event venue in Woodstock, GA at 12015 GA-92, Woodstock, GA 30188. Website: https://www.venue92.com/. | https://dingalinged-cpu.github.io/registry/c/venue-92-woodstock/
+4. El Evento Perfecto | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | El Evento Perfecto is an event venue in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/el-evento-perfecto-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues woodstock ga | category: Events & weddings | industry benchmark: Personal Services

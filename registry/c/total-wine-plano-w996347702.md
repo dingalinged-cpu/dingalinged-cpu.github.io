@@ -13,7 +13,7 @@ Total Wine is a liquor store in Plano, TX at 6400 West Plano Parkway, Plano, TX 
 - Website: https://www.totalwine.com/store-info/texas-west-plano/513
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 69% of liquor stores in Dallas–Fort Worth, #10 of 16 liquor stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

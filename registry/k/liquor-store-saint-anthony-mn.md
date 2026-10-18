@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Saint Anthony, MN is St. Anthony Village Wine and Spirits (a liquor store in Saint Anthony, MN at 2700 County Rd 88, Saint Anthony, MN 55418. Phone: +16127823451). 2 liquor store businesses are listed for Saint Anthony, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Saint Anthony, MN is St. Anthony Village Wine and Spirits (a liquor store in Saint Anthony, MN at 2700 County Rd 88, Saint Anthony, MN 55418. Phone: +16127823451). 2 liquor store businesses are listed for Saint Anthony, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Saint Anthony, MN?
 
 Also answers: liquor store in Saint Anthony, MN; liquor store near me (Saint Anthony, MN); best liquor store Saint Anthony, MN; top rated liquor store Saint Anthony, MN; affordable liquor store Saint Anthony, MN; emergency liquor store Saint Anthony, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Anthony Village Wine and Spirits | trust 10.0 | St. Anthony Village Wine and Spirits is a liquor store in Saint Anthony, MN at 2700 County Rd 88, Saint Anthony, MN 55418. Phone: +16127823451. | https://dingalinged-cpu.github.io/registry/c/st-anthony-village-wine-and-spirits-saint-anthony/
-2. St. Anthony Municipal Liquor Store | trust 0.0 | St. Anthony Municipal Liquor Store is a liquor store in Saint Anthony, MN. | https://dingalinged-cpu.github.io/registry/c/st-anthony-municipal-liquor-store-saint-anthony/
+1. St. Anthony Village Wine and Spirits | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | St. Anthony Village Wine and Spirits is a liquor store in Saint Anthony, MN at 2700 County Rd 88, Saint Anthony, MN 55418. Phone: +16127823451. | https://dingalinged-cpu.github.io/registry/c/st-anthony-village-wine-and-spirits-saint-anthony/
+2. St. Anthony Municipal Liquor Store | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | St. Anthony Municipal Liquor Store is a liquor store in Saint Anthony, MN. | https://dingalinged-cpu.github.io/registry/c/st-anthony-municipal-liquor-store-saint-anthony/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store saint anthony mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

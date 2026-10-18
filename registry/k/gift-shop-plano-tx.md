@@ -1,15 +1,15 @@
-The top unpaid gift shop listing for Plano, TX is Hallmark (a gift shop in Plano, TX at 3305 Dallas Parkway #365, Plano, TX 75093). 4 gift shop businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Plano, TX is Holidaze & Gifts (a gift shop in Plano, TX). 4 gift shop businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Plano, TX?
 
 Also answers: gift shop in Plano, TX; gift shop near me (Plano, TX); best gift shop Plano, TX; top rated gift shop Plano, TX; affordable gift shop Plano, TX; emergency gift shop Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | trust 8.0 | Hallmark is a gift shop in Plano, TX at 3305 Dallas Parkway #365, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/hallmark-plano/
-2. Holidaze & Gifts | trust 4.0 | Holidaze & Gifts is a gift shop in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/holidaze-and-gifts-plano/
-3. Kashi City | trust 3.0 | Kashi City is a gift shop in Plano, TX at 3320 K Avenue #M115, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/kashi-city-plano/
-4. Postal Shoppe | trust 0.0 | Postal Shoppe is a gift shop in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/postal-shoppe-plano/
+1. Holidaze & Gifts | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Holidaze & Gifts is a gift shop in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/holidaze-and-gifts-plano/
+2. Kashi City | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Kashi City is a gift shop in Plano, TX at 3320 K Avenue #M115, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/kashi-city-plano/
+3. Postal Shoppe | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Postal Shoppe is a gift shop in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/postal-shoppe-plano/
+4. Hallmark | Organic #4 | Pulse Score 49.3/100 (Building, #4 in city) | Hallmark is a gift shop in Plano, TX at 3305 Dallas Parkway #365, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/hallmark-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop plano tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

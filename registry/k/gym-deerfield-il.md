@@ -1,14 +1,14 @@
-The top unpaid gym listing for Deerfield, IL is Institute for Human Performance (a gym in Deerfield, IL at 151 South Pfingsten Road #C, Deerfield, IL 60015. Phone: +18475621005. Website: https://ihp-deerfield.com/). 3 gym businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Deerfield, IL is Institute for Human Performance (a gym in Deerfield, IL at 151 South Pfingsten Road #C, Deerfield, IL 60015. Phone: +18475621005. Website: https://ihp-deerfield.com/). 3 gym businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Deerfield, IL?
 
 Also answers: gym in Deerfield, IL; gym near me (Deerfield, IL); best gym Deerfield, IL; top rated gym Deerfield, IL; affordable gym Deerfield, IL; emergency gym Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Institute for Human Performance | trust 20.0 | Institute for Human Performance is a gym in Deerfield, IL at 151 South Pfingsten Road #C, Deerfield, IL 60015. Phone: +18475621005. Website: https://ihp-deerfield.com/. | https://dingalinged-cpu.github.io/registry/c/institute-for-human-performance-deerfield/
-2. Planet Fitness | trust 10.0 | Planet Fitness is a gym in Deerfield, IL at 35 North Waukegan Road, Deerfield, IL 60015. Website: https://www.planetfitness.com/gyms/deerfield-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-deerfield/
-3. CycleBar | trust 4.0 | CycleBar is a gym in Deerfield, IL at 190 North Waukegan Road, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/cyclebar-deerfield/
+1. Institute for Human Performance | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Institute for Human Performance is a gym in Deerfield, IL at 151 South Pfingsten Road #C, Deerfield, IL 60015. Phone: +18475621005. Website: https://ihp-deerfield.com/. | https://dingalinged-cpu.github.io/registry/c/institute-for-human-performance-deerfield/
+2. Planet Fitness | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Planet Fitness is a gym in Deerfield, IL at 35 North Waukegan Road, Deerfield, IL 60015. Website: https://www.planetfitness.com/gyms/deerfield-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-deerfield/
+3. CycleBar | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | CycleBar is a gym in Deerfield, IL at 190 North Waukegan Road, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/cyclebar-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym deerfield il | category: Fitness | industry benchmark: Health & Fitness

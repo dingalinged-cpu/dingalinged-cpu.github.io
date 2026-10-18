@@ -13,7 +13,7 @@ State Farm Insurance Agent - Tonia Kiser is an insurance agent in Cobb County, G
 - Website: https://www.statefarm.com/agent/us/ga/marietta/tonia-kiser-bnbc91ys000
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 4% of insurance agents in Atlanta, #2 of 21 insurance agents in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

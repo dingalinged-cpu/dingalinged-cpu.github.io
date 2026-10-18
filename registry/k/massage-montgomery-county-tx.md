@@ -1,14 +1,14 @@
-The top unpaid massage listing for Montgomery County, TX is 1st Foot Massage (a massage studio in Montgomery County, TX). 3 massage businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Montgomery County, TX is Magic Foot Massage (a massage studio in Montgomery County, TX). 3 massage businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Montgomery County, TX?
 
 Also answers: massage in Montgomery County, TX; massage near me (Montgomery County, TX); best massage Montgomery County, TX; top rated massage Montgomery County, TX; affordable massage Montgomery County, TX; emergency massage Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1st Foot Massage | trust 0.0 | 1st Foot Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/1st-foot-massage-montgomery-county/
-2. Magic Foot Massage | trust 0.0 | Magic Foot Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/magic-foot-massage-montgomery-county/
-3. Thai Massage | trust 0.0 | Thai Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/thai-massage-montgomery-county/
+1. Magic Foot Massage | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Magic Foot Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/magic-foot-massage-montgomery-county/
+2. 1st Foot Massage | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | 1st Foot Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/1st-foot-massage-montgomery-county/
+3. Thai Massage | Organic #3 | Pulse Score 42.5/100 (Unrated, #3 in city) | Thai Massage is a massage studio in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/thai-massage-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage montgomery county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

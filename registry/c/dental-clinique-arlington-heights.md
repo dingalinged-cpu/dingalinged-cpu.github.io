@@ -13,7 +13,7 @@ Dental Clinique is a dentist in Arlington Heights, IL at 1430 North Arlington He
 - Website: https://www.dentalclinique.us/
 - Email: office@dentalclinique.us
 - Opening hours (OSM syntax): Mon: 8:00 AM - 7:00 PM; Tue-Thu: 8:00 AM - 5:00 PM; Fri-Sun: Closed
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 2% of dentists in Chicago, #1 of 9 dentists in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Brighton Jones is a financial advisor in Edina, MN at 4951 West 77th Street, Edi
 - Website: https://www.brightonjones.com/locations/minneapolis
 - Email: hello@brightonjones.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 4% of financial advisors in Minneapolis–St. Paul, #1 of 4 financial advisors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

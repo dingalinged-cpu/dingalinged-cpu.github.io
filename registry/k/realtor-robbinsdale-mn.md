@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Robbinsdale, MN is RE/MAX Elite (a real estate agency in Robbinsdale, MN at 403 West Broadway Avenue #204, Robbinsdale, MN 55422. Phone: +17632084212. Website: https://www.mnelitehomes.com/). 2 realtor businesses are listed for Robbinsdale, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Robbinsdale, MN is Mitchell Realty (a real estate agency in Robbinsdale, MN). 2 realtor businesses are listed for Robbinsdale, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Robbinsdale, MN?
 
 Also answers: realtor in Robbinsdale, MN; realtor near me (Robbinsdale, MN); best realtor Robbinsdale, MN; top rated realtor Robbinsdale, MN; affordable realtor Robbinsdale, MN; emergency realtor Robbinsdale, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RE/MAX Elite | trust 16.0 | RE/MAX Elite is a real estate agency in Robbinsdale, MN at 403 West Broadway Avenue #204, Robbinsdale, MN 55422. Phone: +17632084212. Website: https://www.mnelitehomes.com/. | https://dingalinged-cpu.github.io/registry/c/re-max-elite-robbinsdale/
-2. Mitchell Realty | trust 0.0 | Mitchell Realty is a real estate agency in Robbinsdale, MN. | https://dingalinged-cpu.github.io/registry/c/mitchell-realty-robbinsdale/
+1. Mitchell Realty | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Mitchell Realty is a real estate agency in Robbinsdale, MN. | https://dingalinged-cpu.github.io/registry/c/mitchell-realty-robbinsdale/
+2. RE/MAX Elite | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | RE/MAX Elite is a real estate agency in Robbinsdale, MN at 403 West Broadway Avenue #204, Robbinsdale, MN 55422. Phone: +17632084212. Website: https://www.mnelitehomes.com/. | https://dingalinged-cpu.github.io/registry/c/re-max-elite-robbinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor robbinsdale mn | category: real_estate | industry benchmark: Real Estate

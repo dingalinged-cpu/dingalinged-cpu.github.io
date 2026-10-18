@@ -1,13 +1,13 @@
-The top unpaid gym listing for Village Of Cross Plains, WI is Challenge Fit LLC (a gym in Village of Cross Plains, WI at 31 Glaciers Edge Square, Village of Cross Plains, WI 53528. Phone: +16087325199. Website: https://www.getchallengefit.com/about). 2 gym businesses are listed for Village Of Cross Plains, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Village Of Cross Plains, WI is Challenge Fit LLC (a gym in Village of Cross Plains, WI at 31 Glaciers Edge Square, Village of Cross Plains, WI 53528. Phone: +16087325199. Website: https://www.getchallengefit.com/about). 2 gym businesses are listed for Village Of Cross Plains, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Village Of Cross Plains, WI?
 
 Also answers: gym in Village Of Cross Plains, WI; gym near me (Village Of Cross Plains, WI); best gym Village Of Cross Plains, WI; top rated gym Village Of Cross Plains, WI; affordable gym Village Of Cross Plains, WI; emergency gym Village Of Cross Plains, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Challenge Fit LLC | trust 16.0 | Challenge Fit LLC is a gym in Village of Cross Plains, WI at 31 Glaciers Edge Square, Village of Cross Plains, WI 53528. Phone: +16087325199. Website: https://www.getchallengefit.com/about. | https://dingalinged-cpu.github.io/registry/c/challenge-fit-llc-village-of-cross-plains/
-2. Snap Fitness | trust 0.0 | Snap Fitness is a gym in Village of Cross Plains, WI. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-village-of-cross-plains/
+1. Challenge Fit LLC | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Challenge Fit LLC is a gym in Village of Cross Plains, WI at 31 Glaciers Edge Square, Village of Cross Plains, WI 53528. Phone: +16087325199. Website: https://www.getchallengefit.com/about. | https://dingalinged-cpu.github.io/registry/c/challenge-fit-llc-village-of-cross-plains/
+2. Snap Fitness | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | Snap Fitness is a gym in Village of Cross Plains, WI. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-village-of-cross-plains/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym village of cross plains wi | category: Fitness | industry benchmark: Health & Fitness

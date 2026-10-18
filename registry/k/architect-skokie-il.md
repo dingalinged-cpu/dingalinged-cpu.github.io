@@ -1,12 +1,12 @@
-The top unpaid architect listing for Skokie, IL is Durrett Design (an architect in Skokie, IL at Dempster Street, Skokie, IL 60076). 1 architect businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Skokie, IL is Durrett Design (an architect in Skokie, IL at Dempster Street, Skokie, IL 60076). 1 architect businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Skokie, IL?
 
 Also answers: architect in Skokie, IL; architect near me (Skokie, IL); best architect Skokie, IL; top rated architect Skokie, IL; affordable architect Skokie, IL; emergency architect Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Durrett Design | trust 4.0 | Durrett Design is an architect in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/durrett-design-skokie/
+1. Durrett Design | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Durrett Design is an architect in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/durrett-design-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect skokie il | category: Home services - Design | industry benchmark: Home & Home Improvement

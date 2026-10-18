@@ -1,16 +1,16 @@
-The top unpaid barber shop listing for Lewisville, TX is Barbershop Old Town (a barber shop in Lewisville, TX. Phone: +14694644434. Website: https://www.oldtownbarber.shop/). 5 barber shop businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Lewisville, TX is Josebarber (a barber shop in Lewisville, TX at 1000 Grandys Lane #2359, Lewisville, TX 75077. Phone: +14692658433). 5 barber shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Lewisville, TX?
 
 Also answers: barber shop in Lewisville, TX; barber shop near me (Lewisville, TX); best barber shop Lewisville, TX; top rated barber shop Lewisville, TX; affordable barber shop Lewisville, TX; emergency barber shop Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barbershop Old Town | trust 16.0 | Barbershop Old Town is a barber shop in Lewisville, TX. Phone: +14694644434. Website: https://www.oldtownbarber.shop/. | https://dingalinged-cpu.github.io/registry/c/barbershop-old-town-lewisville/
-2. A Different Cut Barbershop | trust 14.0 | A Different Cut Barbershop is a barber shop in Lewisville, TX at 705 South Mill Street #103, Lewisville, TX 75057. Phone: +12147724180. | https://dingalinged-cpu.github.io/registry/c/a-different-cut-barbershop-lewisville/
-3. Josebarber | trust 14.0 | Josebarber is a barber shop in Lewisville, TX at 1000 Grandys Lane #2359, Lewisville, TX 75077. Phone: +14692658433. | https://dingalinged-cpu.github.io/registry/c/josebarber-lewisville/
-4. GirenDeguchi | trust 10.0 | GirenDeguchi is a barber shop in Lewisville, TX. Phone: +12146357291. | https://dingalinged-cpu.github.io/registry/c/girendeguchi-lewisville/
-5. The Barber Butler | trust 4.0 | The Barber Butler is a barber shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-barber-butler-lewisville/
+1. Josebarber | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Josebarber is a barber shop in Lewisville, TX at 1000 Grandys Lane #2359, Lewisville, TX 75077. Phone: +14692658433. | https://dingalinged-cpu.github.io/registry/c/josebarber-lewisville/
+2. Barbershop Old Town | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Barbershop Old Town is a barber shop in Lewisville, TX. Phone: +14694644434. Website: https://www.oldtownbarber.shop/. | https://dingalinged-cpu.github.io/registry/c/barbershop-old-town-lewisville/
+3. A Different Cut Barbershop | Organic #3 | Pulse Score 61.5/100 (Unrated, #3 in city) | A Different Cut Barbershop is a barber shop in Lewisville, TX at 705 South Mill Street #103, Lewisville, TX 75057. Phone: +12147724180. | https://dingalinged-cpu.github.io/registry/c/a-different-cut-barbershop-lewisville/
+4. GirenDeguchi | Organic #4 | Pulse Score 61/100 (Unrated, #4 in city) | GirenDeguchi is a barber shop in Lewisville, TX. Phone: +12146357291. | https://dingalinged-cpu.github.io/registry/c/girendeguchi-lewisville/
+5. The Barber Butler | Organic #5 | Pulse Score 59.5/100 (Unrated, #5 in city) | The Barber Butler is a barber shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-barber-butler-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

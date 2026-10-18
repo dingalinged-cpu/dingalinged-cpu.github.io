@@ -13,7 +13,7 @@ Minuteman Press is a printing service in Chicago, IL at 1249 North Clybourn Aven
 - Website: https://www.chicago.minutemanpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 34% of printing services in Chicago, #26 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

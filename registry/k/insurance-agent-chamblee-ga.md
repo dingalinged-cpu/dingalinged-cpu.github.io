@@ -1,14 +1,14 @@
-The top unpaid insurance agent listing for Chamblee, GA is Golden Shield Life Insurance (an insurance agent in Atlanta, GA at 1954 Airport Road #130-12, Atlanta, GA 30341. Phone: +16788844653. Website: https://goldenshieldlifeinsurance.com/). 3 insurance agent businesses are listed for Chamblee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Chamblee, GA is International Insurance of Georgia (an insurance agent in Chamblee, GA at 3720, Chamblee, GA). 3 insurance agent businesses are listed for Chamblee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Chamblee, GA?
 
 Also answers: insurance agent in Chamblee, GA; insurance agent near me (Chamblee, GA); best insurance agent Chamblee, GA; top rated insurance agent Chamblee, GA; affordable insurance agent Chamblee, GA; emergency insurance agent Chamblee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Golden Shield Life Insurance | trust 20.0 | Golden Shield Life Insurance is an insurance agent in Atlanta, GA at 1954 Airport Road #130-12, Atlanta, GA 30341. Phone: +16788844653. Website: https://goldenshieldlifeinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/golden-shield-life-insurance-atlanta/
-2. International Insurance of Georgia | trust 3.0 | International Insurance of Georgia is an insurance agent in Chamblee, GA at 3720, Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/international-insurance-of-georgia-chamblee/
-3. Allstate Insurance | trust 0.0 | Allstate Insurance is an insurance agent in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-insurance-chamblee/
+1. International Insurance of Georgia | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | International Insurance of Georgia is an insurance agent in Chamblee, GA at 3720, Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/international-insurance-of-georgia-chamblee/
+2. Golden Shield Life Insurance | Organic #2 | Pulse Score 53.9/100 (Fair, #5 in city) | Golden Shield Life Insurance is an insurance agent in Atlanta, GA at 1954 Airport Road #130-12, Atlanta, GA 30341. Phone: +16788844653. Website: https://goldenshieldlifeinsurance.com/. | https://dingalinged-cpu.github.io/registry/c/golden-shield-life-insurance-atlanta/
+3. Allstate Insurance | Organic #3 | Pulse Score 42.8/100 (Building, #2 in city) | Allstate Insurance is an insurance agent in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-insurance-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent chamblee ga | category: Professional & financial services | industry benchmark: Finance & Insurance

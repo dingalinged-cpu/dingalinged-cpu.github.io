@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Maple Grove, MN at 13613 Grove Drive N
 - Website: https://www.hrblock.com/
 - Email: n/a
 - Opening hours (OSM syntax): "Closed until Jan 02, 2019"
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 59% of tax preparation services in Minneapolis–St. Paul, #1 of 1 tax preparation services in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 67.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Villa Park, IL is Farmers Insurance - Anna Lebiecka-Helma (an insurance agent in Villa Park, IL at 401 East North Avenue ##8, Villa Park, IL 60181. Phone: +16303523052. Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma). 1 insurance agency businesses are listed for Villa Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Villa Park, IL is Farmers Insurance - Anna Lebiecka-Helma (an insurance agent in Villa Park, IL at 401 East North Avenue ##8, Villa Park, IL 60181. Phone: +16303523052. Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma). 1 insurance agency businesses are listed for Villa Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Villa Park, IL?
 
 Also answers: insurance agency in Villa Park, IL; insurance agency near me (Villa Park, IL); best insurance agency Villa Park, IL; top rated insurance agency Villa Park, IL; affordable insurance agency Villa Park, IL; emergency insurance agency Villa Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance - Anna Lebiecka-Helma | trust 20.0 | Farmers Insurance - Anna Lebiecka-Helma is an insurance agent in Villa Park, IL at 401 East North Avenue ##8, Villa Park, IL 60181. Phone: +16303523052. Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-anna-lebiecka-helma-villa-park/
+1. Farmers Insurance - Anna Lebiecka-Helma | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Farmers Insurance - Anna Lebiecka-Helma is an insurance agent in Villa Park, IL at 401 East North Avenue ##8, Villa Park, IL 60181. Phone: +16303523052. Website: https://agents.farmers.com/il/villa-park/anna-lebiecka-helma. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-anna-lebiecka-helma-villa-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency villa park il | category: insurance | industry benchmark: Finance & Insurance

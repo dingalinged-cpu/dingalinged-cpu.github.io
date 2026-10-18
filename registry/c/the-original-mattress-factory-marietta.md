@@ -13,7 +13,7 @@ The Original Mattress Factory is a mattress store in Marietta, GA at 1335 Resour
 - Website: https://www.originalmattress.com/atlanta-marietta-georgia-original-mattress-factory-store
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.1/100 — Fair — top 22% of mattress stores in Atlanta, #1 of 2 mattress stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.9, Trust 72.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

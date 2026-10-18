@@ -13,7 +13,7 @@ Far East Healing & Spa is a massage studio in Wauwatosa, WI at 737 North Mayfair
 - Website: https://www.facebook.com/people/Far-east-healing-SPA-in-Milwaukee/100070208288302/
 - Email: n/a
 - Opening hours (OSM syntax): 09:00-20:00
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 6% of massage studios in Milwaukee, #1 of 9 massage studios in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 67.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

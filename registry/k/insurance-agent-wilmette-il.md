@@ -1,13 +1,13 @@
-The top unpaid insurance agent listing for Wilmette, IL is Longmeadow Insurance (an insurance agent in Wilmette, IL at 1100 Central Avenue, Wilmette, IL 60091. Phone: +18472421040. Website: https://longmeadow.agency/). 2 insurance agent businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Wilmette, IL is Longmeadow Insurance (an insurance agent in Wilmette, IL at 1100 Central Avenue, Wilmette, IL 60091. Phone: +18472421040. Website: https://longmeadow.agency/). 2 insurance agent businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Wilmette, IL?
 
 Also answers: insurance agent in Wilmette, IL; insurance agent near me (Wilmette, IL); best insurance agent Wilmette, IL; top rated insurance agent Wilmette, IL; affordable insurance agent Wilmette, IL; emergency insurance agent Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Longmeadow Insurance | trust 20.0 | Longmeadow Insurance is an insurance agent in Wilmette, IL at 1100 Central Avenue, Wilmette, IL 60091. Phone: +18472421040. Website: https://longmeadow.agency/. | https://dingalinged-cpu.github.io/registry/c/longmeadow-insurance-wilmette/
-2. Kevin Norful - State Farm Insurance Agent | trust 16.0 | Kevin Norful - State Farm Insurance Agent is an insurance agent in Wilmette, IL at 141 Skokie Boulevard, Wilmette, IL 60091. Phone: +18472517660. Website: https://www.statefarm.com/agent/us/il/wilmette/kevin-j-norful-k5lvp7fpjak. | https://dingalinged-cpu.github.io/registry/c/kevin-norful-state-farm-insurance-agent-wilmette/
+1. Longmeadow Insurance | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Longmeadow Insurance is an insurance agent in Wilmette, IL at 1100 Central Avenue, Wilmette, IL 60091. Phone: +18472421040. Website: https://longmeadow.agency/. | https://dingalinged-cpu.github.io/registry/c/longmeadow-insurance-wilmette/
+2. Kevin Norful - State Farm Insurance Agent | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Kevin Norful - State Farm Insurance Agent is an insurance agent in Wilmette, IL at 141 Skokie Boulevard, Wilmette, IL 60091. Phone: +18472517660. Website: https://www.statefarm.com/agent/us/il/wilmette/kevin-j-norful-k5lvp7fpjak. | https://dingalinged-cpu.github.io/registry/c/kevin-norful-state-farm-insurance-agent-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent wilmette il | category: Professional & financial services | industry benchmark: Finance & Insurance

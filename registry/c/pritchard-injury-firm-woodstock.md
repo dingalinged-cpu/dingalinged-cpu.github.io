@@ -13,7 +13,7 @@ Pritchard Injury Firm is a lawyer in Woodstock, GA at 9244 Main Street #100, Woo
 - Website: https://www.pritchardinjuryfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 8% of lawyers in Atlanta, #1 of 1 lawyers in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.7, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

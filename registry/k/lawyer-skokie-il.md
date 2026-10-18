@@ -1,14 +1,14 @@
-The top unpaid lawyer listing for Skokie, IL is Goldman & Associates (a lawyer in Skokie, IL at 5250 Old Orchard Road #326, Skokie, IL 60077. Phone: +18472152600. Website: https://www.criminallawyer-chicago.com/). 3 lawyer businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Skokie, IL is Goldman & Associates (a lawyer in Skokie, IL at 5250 Old Orchard Road #326, Skokie, IL 60077. Phone: +18472152600. Website: https://www.criminallawyer-chicago.com/). 3 lawyer businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Skokie, IL?
 
 Also answers: lawyer in Skokie, IL; lawyer near me (Skokie, IL); best lawyer Skokie, IL; top rated lawyer Skokie, IL; affordable lawyer Skokie, IL; emergency lawyer Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goldman & Associates | trust 20.0 | Goldman & Associates is a lawyer in Skokie, IL at 5250 Old Orchard Road #326, Skokie, IL 60077. Phone: +18472152600. Website: https://www.criminallawyer-chicago.com/. | https://dingalinged-cpu.github.io/registry/c/goldman-and-associates-skokie/
-2. Gordon & Perlut, LLC | trust 20.0 | Gordon & Perlut, LLC is a lawyer in Skokie, IL at 5250 Old Orchard Road #300, Skokie, IL 60077. Phone: +18473290101. Website: https://www.familylawadvocate.com/. | https://dingalinged-cpu.github.io/registry/c/gordon-and-perlut-llc-skokie/
-3. Law Offices of Naheed A. Amdani, PC | trust 4.0 | Law Offices of Naheed A. Amdani, PC is a lawyer in Skokie, IL at 4909 Oakton Street, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-naheed-a-amdani-pc-skokie/
+1. Goldman & Associates | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Goldman & Associates is a lawyer in Skokie, IL at 5250 Old Orchard Road #326, Skokie, IL 60077. Phone: +18472152600. Website: https://www.criminallawyer-chicago.com/. | https://dingalinged-cpu.github.io/registry/c/goldman-and-associates-skokie/
+2. Gordon & Perlut, LLC | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Gordon & Perlut, LLC is a lawyer in Skokie, IL at 5250 Old Orchard Road #300, Skokie, IL 60077. Phone: +18473290101. Website: https://www.familylawadvocate.com/. | https://dingalinged-cpu.github.io/registry/c/gordon-and-perlut-llc-skokie/
+3. Law Offices of Naheed A. Amdani, PC | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Law Offices of Naheed A. Amdani, PC is a lawyer in Skokie, IL at 4909 Oakton Street, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-naheed-a-amdani-pc-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer skokie il | category: Legal | industry benchmark: Attorneys & Legal Services

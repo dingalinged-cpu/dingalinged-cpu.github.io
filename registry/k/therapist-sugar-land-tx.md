@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Sugar Land, TX is Action Behavior Centers - ABA Therapy for Autism (a therapy practice in Sugar Land, TX at 18726 University Boulevard #J, Sugar Land, TX 77479. Phone: +17135747525. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-sienna-riverstone-tx/). 2 therapist businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Sugar Land, TX is The Behavior Toolbox (a therapy practice in Sugar Land, TX at 4502 State Highway 6 South #C, Sugar Land, TX). 2 therapist businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Sugar Land, TX?
 
 Also answers: therapist in Sugar Land, TX; therapist near me (Sugar Land, TX); best therapist Sugar Land, TX; top rated therapist Sugar Land, TX; affordable therapist Sugar Land, TX; emergency therapist Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Centers - ABA Therapy for Autism | trust 20.0 | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Sugar Land, TX at 18726 University Boulevard #J, Sugar Land, TX 77479. Phone: +17135747525. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-sienna-riverstone-tx/. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-sugar-land/
-2. The Behavior Toolbox | trust 3.0 | The Behavior Toolbox is a therapy practice in Sugar Land, TX at 4502 State Highway 6 South #C, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/the-behavior-toolbox-sugar-land/
+1. The Behavior Toolbox | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | The Behavior Toolbox is a therapy practice in Sugar Land, TX at 4502 State Highway 6 South #C, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/the-behavior-toolbox-sugar-land/
+2. Action Behavior Centers - ABA Therapy for Autism | Organic #2 | Pulse Score 47.2/100 (Unrated, #2 in city) | Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Sugar Land, TX at 18726 University Boulevard #J, Sugar Land, TX 77479. Phone: +17135747525. Website: https://www.actionbehavior.com/locations/texas/houston/aba-therapy-sienna-riverstone-tx/. | https://dingalinged-cpu.github.io/registry/c/action-behavior-centers-aba-therapy-for-autism-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist sugar land tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

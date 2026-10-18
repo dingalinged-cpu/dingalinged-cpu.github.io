@@ -13,7 +13,7 @@ Baytown Ford is an used car dealer in Baytown, TX at 4110 Interstate 10, Baytown
 - Website: https://www.baytownford.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 76% of used car dealers in Houston, #1 of 1 used car dealers in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 58% of gyms in Dallas–Fort Worth, #43 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

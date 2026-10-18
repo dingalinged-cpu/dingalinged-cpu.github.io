@@ -13,7 +13,7 @@ CarMax is an used car dealer in Irving, TX at 3100 Spur 482, Irving, TX 75062. W
 - Website: https://www.carmax.com/stores/7115
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 95% of used car dealers in Dallas–Fort Worth, #1 of 3 used car dealers in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

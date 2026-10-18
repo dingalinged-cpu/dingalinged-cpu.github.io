@@ -13,7 +13,7 @@ Team Rehabilitation is a physical therapy clinic in Marietta, GA at 1401 Johnson
 - Website: https://team-rehab.com/location/east-cobb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 53% of physical therapy clinics in Atlanta, #5 of 5 physical therapy clinics in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

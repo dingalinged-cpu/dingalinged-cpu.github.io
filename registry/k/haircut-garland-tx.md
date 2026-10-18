@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Garland, TX is MTP Barbershop (a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/). 10 haircut businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Garland, TX is Vince's Salon (a hair salon in Garland, TX at 5966 Broadway Boulevard, Garland, TX 75043. Phone: +19722408730. Website: https://vinces-salon.edan.io/). 10 haircut businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Garland, TX?
 
 Also answers: haircut in Garland, TX; haircut near me (Garland, TX); best haircut Garland, TX; top rated haircut Garland, TX; affordable haircut Garland, TX; emergency haircut Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MTP Barbershop | trust 20.0 | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/
-2. Vince's Salon | trust 20.0 | Vince's Salon is a hair salon in Garland, TX at 5966 Broadway Boulevard, Garland, TX 75043. Phone: +19722408730. Website: https://vinces-salon.edan.io/. | https://dingalinged-cpu.github.io/registry/c/vinces-salon-garland/
-3. Marcia's Beauty Box | trust 16.0 | Marcia's Beauty Box is a hair salon in Garland, TX at 609 Main Street, Garland, TX 75040. Phone: +19722760009. Website: https://marciasbeautybox.placeweb.site/. | https://dingalinged-cpu.github.io/registry/c/marcias-beauty-box-garland/
-4. Mr. Ice Water Fade  at Crown Barbershop | trust 14.0 | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/
-5. Essence of Locks | trust 8.0 | Essence of Locks is a hair salon in Garland, TX at 4222 Rosehill Road #11, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/essence-of-locks-garland/
-6. Five Star Fades | trust 4.0 | Five Star Fades is a hair salon in Garland, TX at 2309 Guthrie Road, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/five-star-fades-garland/
-7. Firewheel Salon | trust 0.0 | Firewheel Salon is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/firewheel-salon-garland/
-8. Great Clips | trust 0.0 | Great Clips is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-garland/
-9. LA Hair Studio | trust 0.0 | LA Hair Studio is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/la-hair-studio-garland/
-10. The Salons at Bella Suites | trust 0.0 | The Salons at Bella Suites is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/the-salons-at-bella-suites-garland/
+1. Vince's Salon | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Vince's Salon is a hair salon in Garland, TX at 5966 Broadway Boulevard, Garland, TX 75043. Phone: +19722408730. Website: https://vinces-salon.edan.io/. | https://dingalinged-cpu.github.io/registry/c/vinces-salon-garland/
+2. MTP Barbershop | Organic #2 | Pulse Score 63.6/100 (Good, #1 in city) | MTP Barbershop is a barber shop in Garland, TX at 2404 West Walnut Street #104, Garland, TX 75042. Phone: +19726394051. Website: https://chunkcutzz.square.site/. | https://dingalinged-cpu.github.io/registry/c/mtp-barbershop-garland/
+3. Mr. Ice Water Fade  at Crown Barbershop | Organic #3 | Pulse Score 63/100 (Good, #2 in city) | Mr. Ice Water Fade  at Crown Barbershop is a barber shop in Garland, TX at 518 North Plano Road, Garland, TX 75042. Phone: +12145718950. | https://dingalinged-cpu.github.io/registry/c/mr-ice-water-fade-at-crown-barbershop-garland/
+4. Essence of Locks | Organic #4 | Pulse Score 61.7/100 (Unrated, #2 in city) | Essence of Locks is a hair salon in Garland, TX at 4222 Rosehill Road #11, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/essence-of-locks-garland/
+5. Marcia's Beauty Box | Organic #5 | Pulse Score 60.8/100 (Unrated, #3 in city) | Marcia's Beauty Box is a hair salon in Garland, TX at 609 Main Street, Garland, TX 75040. Phone: +19722760009. Website: https://marciasbeautybox.placeweb.site/. | https://dingalinged-cpu.github.io/registry/c/marcias-beauty-box-garland/
+6. Five Star Fades | Organic #6 | Pulse Score 57.1/100 (Unrated, #4 in city) | Five Star Fades is a hair salon in Garland, TX at 2309 Guthrie Road, Garland, TX 75043. | https://dingalinged-cpu.github.io/registry/c/five-star-fades-garland/
+7. Firewheel Salon | Organic #7 | Pulse Score 54.5/100 (Unrated, #5 in city) | Firewheel Salon is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/firewheel-salon-garland/
+8. LA Hair Studio | Organic #8 | Pulse Score 54.5/100 (Unrated, #6 in city) | LA Hair Studio is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/la-hair-studio-garland/
+9. The Salons at Bella Suites | Organic #9 | Pulse Score 54.5/100 (Unrated, #7 in city) | The Salons at Bella Suites is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/the-salons-at-bella-suites-garland/
+10. Great Clips | Organic #10 | Pulse Score 42.2/100 (Building, #8 in city) | Great Clips is a hair salon in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut garland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Tomball, TX is Tomball Barber Shop (a barber shop in Tomball, TX at 613 West Main Street, Tomball, TX 77375. Phone: +17138344031). 1 barber shop businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Tomball, TX is Tomball Barber Shop (a barber shop in Tomball, TX at 613 West Main Street, Tomball, TX 77375. Phone: +17138344031). 1 barber shop businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Tomball, TX?
 
 Also answers: barber shop in Tomball, TX; barber shop near me (Tomball, TX); best barber shop Tomball, TX; top rated barber shop Tomball, TX; affordable barber shop Tomball, TX; emergency barber shop Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tomball Barber Shop | trust 10.0 | Tomball Barber Shop is a barber shop in Tomball, TX at 613 West Main Street, Tomball, TX 77375. Phone: +17138344031. | https://dingalinged-cpu.github.io/registry/c/tomball-barber-shop-tomball/
+1. Tomball Barber Shop | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Tomball Barber Shop is a barber shop in Tomball, TX at 613 West Main Street, Tomball, TX 77375. Phone: +17138344031. | https://dingalinged-cpu.github.io/registry/c/tomball-barber-shop-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop tomball tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

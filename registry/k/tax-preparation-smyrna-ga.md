@@ -1,18 +1,18 @@
-The top unpaid tax preparation listing for Smyrna, GA is H&R Block (a tax preparation service in Smyrna, GA at 2473 Cobb Parkway South, Smyrna, GA. Phone: +17708586523. Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307). 7 tax preparation businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Smyrna, GA is Super Tax (a tax preparation service in Smyrna, GA at 1270 Concord Road Southeast #200, Smyrna, GA). 7 tax preparation businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Smyrna, GA?
 
 Also answers: tax preparation in Smyrna, GA; tax preparation near me (Smyrna, GA); best tax preparation Smyrna, GA; top rated tax preparation Smyrna, GA; affordable tax preparation Smyrna, GA; emergency tax preparation Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 15.0 | H&R Block is a tax preparation service in Smyrna, GA at 2473 Cobb Parkway South, Smyrna, GA. Phone: +17708586523. Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-smyrna/
-2. H&R Block | trust 7.0 | H&R Block is a tax preparation service in Smyrna, GA at 3209 f5 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-smyrna-w1014114465/
-3. Jackson Hewitt | trust 3.0 | Jackson Hewitt is a tax preparation service in Smyrna, GA at 3231 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-smyrna/
-4. Super Tax | trust 3.0 | Super Tax is a tax preparation service in Smyrna, GA at 1270 Concord Road Southeast #200, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/super-tax-smyrna/
-5. J’s Unlimited Tax Service | trust 0.0 | J’s Unlimited Tax Service is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/j-s-unlimited-tax-service-smyrna/
-6. Tax Services & Insurance | trust 0.0 | Tax Services & Insurance is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/tax-services-and-insurance-smyrna/
-7. WLP Tax Services | trust 0.0 | WLP Tax Services is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/wlp-tax-services-smyrna/
+1. Super Tax | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Super Tax is a tax preparation service in Smyrna, GA at 1270 Concord Road Southeast #200, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/super-tax-smyrna/
+2. Tax Services & Insurance | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Tax Services & Insurance is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/tax-services-and-insurance-smyrna/
+3. J’s Unlimited Tax Service | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | J’s Unlimited Tax Service is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/j-s-unlimited-tax-service-smyrna/
+4. WLP Tax Services | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | WLP Tax Services is a tax preparation service in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/wlp-tax-services-smyrna/
+5. H&R Block | Organic #5 | Pulse Score 49.5/100 (Building, #5 in city) | H&R Block is a tax preparation service in Smyrna, GA at 2473 Cobb Parkway South, Smyrna, GA. Phone: +17708586523. Website: https://www.hrblock.com/local-tax-offices/georgia/smyrna/2473-cobb-pkwy/11307. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-smyrna/
+6. H&R Block | Organic #6 | Pulse Score 47.6/100 (Building, #6 in city) | H&R Block is a tax preparation service in Smyrna, GA at 3209 f5 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-smyrna-w1014114465/
+7. Jackson Hewitt | Organic #7 | Pulse Score 47.4/100 (Building, #7 in city) | Jackson Hewitt is a tax preparation service in Smyrna, GA at 3231 South Cobb Drive, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation smyrna ga | category: Professional & financial services | industry benchmark: Finance & Insurance

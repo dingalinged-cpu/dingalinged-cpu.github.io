@@ -1,14 +1,14 @@
-The top unpaid bakery listing for Norridge, IL is Allegretti's Bakery (a bakery in Norridge, IL at 7717 West Lawrence Avenue, Norridge, IL 60706. Phone: +17084534412). 3 bakery businesses are listed for Norridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Norridge, IL is Palermo Bakery (a bakery in Norridge, IL at 7312 West Irving Park Road, Norridge, IL 60706). 3 bakery businesses are listed for Norridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Norridge, IL?
 
 Also answers: bakery in Norridge, IL; bakery near me (Norridge, IL); best bakery Norridge, IL; top rated bakery Norridge, IL; affordable bakery Norridge, IL; emergency bakery Norridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allegretti's Bakery | trust 10.0 | Allegretti's Bakery is a bakery in Norridge, IL at 7717 West Lawrence Avenue, Norridge, IL 60706. Phone: +17084534412. | https://dingalinged-cpu.github.io/registry/c/allegrettis-bakery-norridge/
-2. Palermo Bakery | trust 8.0 | Palermo Bakery is a bakery in Norridge, IL at 7312 West Irving Park Road, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/palermo-bakery-norridge/
-3. ABC Bakery & Deli | trust 4.0 | ABC Bakery & Deli is a bakery in Norridge, IL at 7701 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/abc-bakery-and-deli-norridge/
+1. Palermo Bakery | Organic #1 | Pulse Score 60.4/100 (Good, #1 in city) | Palermo Bakery is a bakery in Norridge, IL at 7312 West Irving Park Road, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/palermo-bakery-norridge/
+2. Allegretti's Bakery | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Allegretti's Bakery is a bakery in Norridge, IL at 7717 West Lawrence Avenue, Norridge, IL 60706. Phone: +17084534412. | https://dingalinged-cpu.github.io/registry/c/allegrettis-bakery-norridge/
+3. ABC Bakery & Deli | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | ABC Bakery & Deli is a bakery in Norridge, IL at 7701 West Lawrence Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/abc-bakery-and-deli-norridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery norridge il | category: Events & weddings | industry benchmark: Personal Services

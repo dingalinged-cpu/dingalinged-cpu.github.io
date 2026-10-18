@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Darien, IL is Great Clips (a hair salon in Darien, IL at 2133 75th Street, Darien, IL 60561. Phone: +16309630632. Website: https://www.greatclips.com/salons/2120). 4 haircut businesses are listed for Darien, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Darien, IL is Brookhaven Salon Studios (a hair salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16306631152). 4 haircut businesses are listed for Darien, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Darien, IL?
 
 Also answers: haircut in Darien, IL; haircut near me (Darien, IL); best haircut Darien, IL; top rated haircut Darien, IL; affordable haircut Darien, IL; emergency haircut Darien, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 16.0 | Great Clips is a hair salon in Darien, IL at 2133 75th Street, Darien, IL 60561. Phone: +16309630632. Website: https://www.greatclips.com/salons/2120. | https://dingalinged-cpu.github.io/registry/c/great-clips-darien/
-2. Sport Clips | trust 16.0 | Sport Clips is a hair salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16303959532. Website: https://www.haircutmendarienil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-darien/
-3. Brookhaven Salon Studios | trust 10.0 | Brookhaven Salon Studios is a hair salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16306631152. | https://dingalinged-cpu.github.io/registry/c/brookhaven-salon-studios-darien/
-4. Lady Jane's Haircuts for Men | trust 0.0 | Lady Jane's Haircuts for Men is a hair salon in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-darien/
+1. Brookhaven Salon Studios | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Brookhaven Salon Studios is a hair salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16306631152. | https://dingalinged-cpu.github.io/registry/c/brookhaven-salon-studios-darien/
+2. Great Clips | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Great Clips is a hair salon in Darien, IL at 2133 75th Street, Darien, IL 60561. Phone: +16309630632. Website: https://www.greatclips.com/salons/2120. | https://dingalinged-cpu.github.io/registry/c/great-clips-darien/
+3. Sport Clips | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Sport Clips is a hair salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16303959532. Website: https://www.haircutmendarienil.com/. | https://dingalinged-cpu.github.io/registry/c/sport-clips-darien/
+4. Lady Jane's Haircuts for Men | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Lady Jane's Haircuts for Men is a hair salon in Darien, IL. | https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-darien/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut darien il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Irving, TX is Jaime Barron PC Immigration Law (a lawyer in Irving, TX at 727 West Airport Freeway, Irving, TX 75062. Phone: +12142679300. Website: https://jaimebarron.com/). 1 lawyer businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Irving, TX is Jaime Barron PC Immigration Law (a lawyer in Irving, TX at 727 West Airport Freeway, Irving, TX 75062. Phone: +12142679300. Website: https://jaimebarron.com/). 1 lawyer businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Irving, TX?
 
 Also answers: lawyer in Irving, TX; lawyer near me (Irving, TX); best lawyer Irving, TX; top rated lawyer Irving, TX; affordable lawyer Irving, TX; emergency lawyer Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jaime Barron PC Immigration Law | trust 16.0 | Jaime Barron PC Immigration Law is a lawyer in Irving, TX at 727 West Airport Freeway, Irving, TX 75062. Phone: +12142679300. Website: https://jaimebarron.com/. | https://dingalinged-cpu.github.io/registry/c/jaime-barron-pc-immigration-law-irving/
+1. Jaime Barron PC Immigration Law | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Jaime Barron PC Immigration Law is a lawyer in Irving, TX at 727 West Airport Freeway, Irving, TX 75062. Phone: +12142679300. Website: https://jaimebarron.com/. | https://dingalinged-cpu.github.io/registry/c/jaime-barron-pc-immigration-law-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer irving tx | category: Legal | industry benchmark: Attorneys & Legal Services

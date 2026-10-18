@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Cedarburg, WI is Ladd Agency (an insurance agent in Cedarburg, WI at W64N140 Washington Avenue, Cedarburg, WI 53012. Phone: +12622518660. Website: https://laddagency.com/). 1 insurance agency businesses are listed for Cedarburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Cedarburg, WI is Ladd Agency (an insurance agent in Cedarburg, WI at W64N140 Washington Avenue, Cedarburg, WI 53012. Phone: +12622518660. Website: https://laddagency.com/). 1 insurance agency businesses are listed for Cedarburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Cedarburg, WI?
 
 Also answers: insurance agency in Cedarburg, WI; insurance agency near me (Cedarburg, WI); best insurance agency Cedarburg, WI; top rated insurance agency Cedarburg, WI; affordable insurance agency Cedarburg, WI; emergency insurance agency Cedarburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ladd Agency | trust 16.0 | Ladd Agency is an insurance agent in Cedarburg, WI at W64N140 Washington Avenue, Cedarburg, WI 53012. Phone: +12622518660. Website: https://laddagency.com/. | https://dingalinged-cpu.github.io/registry/c/ladd-agency-cedarburg/
+1. Ladd Agency | Organic #1 | Pulse Score 48.1/100 (Unrated, #1 in city) | Ladd Agency is an insurance agent in Cedarburg, WI at W64N140 Washington Avenue, Cedarburg, WI 53012. Phone: +12622518660. Website: https://laddagency.com/. | https://dingalinged-cpu.github.io/registry/c/ladd-agency-cedarburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency cedarburg wi | category: insurance | industry benchmark: Finance & Insurance

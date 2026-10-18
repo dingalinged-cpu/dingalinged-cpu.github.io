@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for West Saint Paul, MN is Discount Tire (a tire shop in West Saint Paul, MN at 1540 Robert Street South, West Saint Paul, MN 55118. Phone: +16513069910. Website: https://www.discounttire.com/store/mn/west-st-paul/s/1796). 3 tire shop businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for West Saint Paul, MN is Home Town Tire And Service (a tire shop in West Saint Paul, MN at 1133 - 1137 Robert Street South, West Saint Paul, MN 55118). 3 tire shop businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in West Saint Paul, MN?
 
 Also answers: tire shop in West Saint Paul, MN; tire shop near me (West Saint Paul, MN); best tire shop West Saint Paul, MN; top rated tire shop West Saint Paul, MN; affordable tire shop West Saint Paul, MN; emergency tire shop West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 20.0 | Discount Tire is a tire shop in West Saint Paul, MN at 1540 Robert Street South, West Saint Paul, MN 55118. Phone: +16513069910. Website: https://www.discounttire.com/store/mn/west-st-paul/s/1796. | https://dingalinged-cpu.github.io/registry/c/discount-tire-west-saint-paul/
-2. Home Town Tire And Service | trust 4.0 | Home Town Tire And Service is a tire shop in West Saint Paul, MN at 1133 - 1137 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/home-town-tire-and-service-west-saint-paul/
-3. Tires Plus | trust 4.0 | Tires Plus is a tire shop in West Saint Paul, MN at 1973 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/tires-plus-west-saint-paul/
+1. Home Town Tire And Service | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Home Town Tire And Service is a tire shop in West Saint Paul, MN at 1133 - 1137 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/home-town-tire-and-service-west-saint-paul/
+2. Discount Tire | Organic #2 | Pulse Score 50.9/100 (Fair, #2 in city) | Discount Tire is a tire shop in West Saint Paul, MN at 1540 Robert Street South, West Saint Paul, MN 55118. Phone: +16513069910. Website: https://www.discounttire.com/store/mn/west-st-paul/s/1796. | https://dingalinged-cpu.github.io/registry/c/discount-tire-west-saint-paul/
+3. Tires Plus | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | Tires Plus is a tire shop in West Saint Paul, MN at 1973 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/tires-plus-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop west saint paul mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

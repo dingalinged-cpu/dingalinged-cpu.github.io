@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Burr Ridge, IL is Imperial Jewelers (a jewelry store in Burr Ridge, IL). 1 jewelry store businesses are listed for Burr Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Burr Ridge, IL is Imperial Jewelers (a jewelry store in Burr Ridge, IL). 1 jewelry store businesses are listed for Burr Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Burr Ridge, IL?
 
 Also answers: jewelry store in Burr Ridge, IL; jewelry store near me (Burr Ridge, IL); best jewelry store Burr Ridge, IL; top rated jewelry store Burr Ridge, IL; affordable jewelry store Burr Ridge, IL; emergency jewelry store Burr Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Imperial Jewelers | trust 0.0 | Imperial Jewelers is a jewelry store in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/imperial-jewelers-burr-ridge/
+1. Imperial Jewelers | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Imperial Jewelers is a jewelry store in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/imperial-jewelers-burr-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store burr ridge il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

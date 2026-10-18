@@ -13,7 +13,7 @@ Life Time - Coon Rapids is a gym in Coon Rapids, MN at 2100 Northdale Boulevard 
 - Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-23:00; Sa-Su 06:00-21:00
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 54% of gyms in Minneapolis–St. Paul, #1 of 1 gyms in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

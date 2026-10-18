@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Hitchcock, TX is The Clip Joint (a hair salon in Hitchcock, TX at 3135 Highway 6, Hitchcock, TX). 1 hair salon businesses are listed for Hitchcock, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Hitchcock, TX is The Clip Joint (a hair salon in Hitchcock, TX at 3135 Highway 6, Hitchcock, TX). 1 hair salon businesses are listed for Hitchcock, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Hitchcock, TX?
 
 Also answers: hair salon in Hitchcock, TX; hair salon near me (Hitchcock, TX); best hair salon Hitchcock, TX; top rated hair salon Hitchcock, TX; affordable hair salon Hitchcock, TX; emergency hair salon Hitchcock, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Clip Joint | trust 3.0 | The Clip Joint is a hair salon in Hitchcock, TX at 3135 Highway 6, Hitchcock, TX. | https://dingalinged-cpu.github.io/registry/c/the-clip-joint-hitchcock/
+1. The Clip Joint | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | The Clip Joint is a hair salon in Hitchcock, TX at 3135 Highway 6, Hitchcock, TX. | https://dingalinged-cpu.github.io/registry/c/the-clip-joint-hitchcock/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon hitchcock tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

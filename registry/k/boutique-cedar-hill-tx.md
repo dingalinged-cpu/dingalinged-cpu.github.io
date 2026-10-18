@@ -1,12 +1,12 @@
-The top unpaid boutique listing for Cedar Hill, TX is Distinct Elegance Bridal Boutique (a boutique in Cedar Hill, TX. Phone: +19722996444. Website: https://www.distinct-elegance.com/). 1 boutique businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Cedar Hill, TX is Distinct Elegance Bridal Boutique (a boutique in Cedar Hill, TX. Phone: +19722996444. Website: https://www.distinct-elegance.com/). 1 boutique businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Cedar Hill, TX?
 
 Also answers: boutique in Cedar Hill, TX; boutique near me (Cedar Hill, TX); best boutique Cedar Hill, TX; top rated boutique Cedar Hill, TX; affordable boutique Cedar Hill, TX; emergency boutique Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Distinct Elegance Bridal Boutique | trust 16.0 | Distinct Elegance Bridal Boutique is a boutique in Cedar Hill, TX. Phone: +19722996444. Website: https://www.distinct-elegance.com/. | https://dingalinged-cpu.github.io/registry/c/distinct-elegance-bridal-boutique-cedar-hill/
+1. Distinct Elegance Bridal Boutique | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Distinct Elegance Bridal Boutique is a boutique in Cedar Hill, TX. Phone: +19722996444. Website: https://www.distinct-elegance.com/. | https://dingalinged-cpu.github.io/registry/c/distinct-elegance-bridal-boutique-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique cedar hill tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

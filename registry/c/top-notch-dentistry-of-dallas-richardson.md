@@ -13,7 +13,7 @@ Top Notch Dentistry of Dallas is a dentist in Richardson, TX at 670 West Campbel
 - Website: https://topnotchdentistryofdallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 08:00-17:00
-- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 4% of dentists in Dallas–Fort Worth, #1 of 18 dentists in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid transmission repair listing for Montgomery County, TX is Executive Automotive Service & Transmission (an auto repair shop in Montgomery County, TX. Phone: +12816898149). 1 transmission repair businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Montgomery County, TX is Executive Automotive Service & Transmission (an auto repair shop in Montgomery County, TX. Phone: +12816898149). 1 transmission repair businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Montgomery County, TX?
 
 Also answers: transmission repair in Montgomery County, TX; transmission repair near me (Montgomery County, TX); best transmission repair Montgomery County, TX; top rated transmission repair Montgomery County, TX; affordable transmission repair Montgomery County, TX; emergency transmission repair Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Executive Automotive Service & Transmission | trust 6.0 | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/
+1. Executive Automotive Service & Transmission | Organic #1 | Pulse Score 59.5/100 (Unrated, #2 in city) | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair montgomery county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Needville, TX at 13400 TX-36 #117, Needvi
 - Website: https://www.edwardjones.com/us-en/financial-advisor/glenn-schmidt
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 31% of financial advisors in Houston, #1 of 1 financial advisors in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

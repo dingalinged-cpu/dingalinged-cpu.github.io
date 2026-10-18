@@ -13,7 +13,7 @@ Fountain Blue Banquets & Conference Center is an event venue in Des Plaines, IL 
 - Website: https://fountainblue.com/
 - Email: john@fountainblue.com
 - Opening hours (OSM syntax): Sa-Su 10:00-15:00, Mo-Fr 10:00-17:00
-- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 1% of event venues in Chicago, #1 of 1 event venues in Des Plaines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

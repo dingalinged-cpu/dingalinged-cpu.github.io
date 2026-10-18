@@ -1,12 +1,12 @@
-The top unpaid property management companies listing for Tomball, TX is Cobble Creek Leasing Office (a property management company in Tomball, TX at 920 Lawrence Street, Tomball, TX 77375. Phone: +12813512100. Website: https://www.cobblecreekliving.com/). 1 property management companies businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management companies listing for Tomball, TX is Cobble Creek Leasing Office (a property management company in Tomball, TX at 920 Lawrence Street, Tomball, TX 77375. Phone: +12813512100. Website: https://www.cobblecreekliving.com/). 1 property management companies businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management companies providers in Tomball, TX?
 
 Also answers: property management companies in Tomball, TX; property management companies near me (Tomball, TX); best property management companies Tomball, TX; top rated property management companies Tomball, TX; affordable property management companies Tomball, TX; emergency property management companies Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cobble Creek Leasing Office | trust 20.0 | Cobble Creek Leasing Office is a property management company in Tomball, TX at 920 Lawrence Street, Tomball, TX 77375. Phone: +12813512100. Website: https://www.cobblecreekliving.com/. | https://dingalinged-cpu.github.io/registry/c/cobble-creek-leasing-office-tomball/
+1. Cobble Creek Leasing Office | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Cobble Creek Leasing Office is a property management company in Tomball, TX at 920 Lawrence Street, Tomball, TX 77375. Phone: +12813512100. Website: https://www.cobblecreekliving.com/. | https://dingalinged-cpu.github.io/registry/c/cobble-creek-leasing-office-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies tomball tx | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Addison, TX at 4532 Belt Line Road, Add
 - Website: https://www.floydsbarbershop.com/addison/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr-Sa 09:00-20:00; Su 10:00-18:00
-- Registry Score: 49.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 78% of hair salons in Dallas–Fort Worth, #20 of 23 hair salons in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

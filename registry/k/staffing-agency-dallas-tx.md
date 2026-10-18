@@ -1,15 +1,15 @@
-The top unpaid staffing agency listing for Dallas, TX is dfwHR (a staffing agency in Dallas, TX at 2001 Ross Avenue #Suite 700-161, Dallas, TX 75201. Phone: +18446933947. Website: https://www.dfwhr.com/). 4 staffing agency businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Dallas, TX is dfwHR (a staffing agency in Dallas, TX at 2001 Ross Avenue #Suite 700-161, Dallas, TX 75201. Phone: +18446933947. Website: https://www.dfwhr.com/). 4 staffing agency businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Dallas, TX?
 
 Also answers: staffing agency in Dallas, TX; staffing agency near me (Dallas, TX); best staffing agency Dallas, TX; top rated staffing agency Dallas, TX; affordable staffing agency Dallas, TX; emergency staffing agency Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. dfwHR | trust 20.0 | dfwHR is a staffing agency in Dallas, TX at 2001 Ross Avenue #Suite 700-161, Dallas, TX 75201. Phone: +18446933947. Website: https://www.dfwhr.com/. | https://dingalinged-cpu.github.io/registry/c/dfwhr-dallas/
-2. Dallas Christian Women's Job Corps | trust 9.0 | Dallas Christian Women's Job Corps is a staffing agency in Dallas, TX at 3006 Oates Drive, Dallas, TX. Website: https://dallascwjc.org/. | https://dingalinged-cpu.github.io/registry/c/dallas-christian-womens-job-corps-dallas/
-3. Wilkinson Center | trust 9.0 | Wilkinson Center is a staffing agency in Dallas, TX at 3302 North Buckner Boulevard #111, Dallas, TX. Website: https://www.thewilkinsoncenter.org/contact/. | https://dingalinged-cpu.github.io/registry/c/wilkinson-center-dallas/
-4. D-Skilled Staffing | trust 3.0 | D-Skilled Staffing is a staffing agency in Dallas, TX at 9090 Skillman Street #287, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/d-skilled-staffing-dallas/
+1. dfwHR | Organic #1 | Pulse Score 66/100 (Good, #1 in city) | dfwHR is a staffing agency in Dallas, TX at 2001 Ross Avenue #Suite 700-161, Dallas, TX 75201. Phone: +18446933947. Website: https://www.dfwhr.com/. | https://dingalinged-cpu.github.io/registry/c/dfwhr-dallas/
+2. Dallas Christian Women's Job Corps | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Dallas Christian Women's Job Corps is a staffing agency in Dallas, TX at 3006 Oates Drive, Dallas, TX. Website: https://dallascwjc.org/. | https://dingalinged-cpu.github.io/registry/c/dallas-christian-womens-job-corps-dallas/
+3. Wilkinson Center | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Wilkinson Center is a staffing agency in Dallas, TX at 3302 North Buckner Boulevard #111, Dallas, TX. Website: https://www.thewilkinsoncenter.org/contact/. | https://dingalinged-cpu.github.io/registry/c/wilkinson-center-dallas/
+4. D-Skilled Staffing | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | D-Skilled Staffing is a staffing agency in Dallas, TX at 9090 Skillman Street #287, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/d-skilled-staffing-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency dallas tx | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ The Music School Atlanta is a music school in Marietta, GA at 2100 Roswell Road 
 - Website: https://www.themusicstudioatlanta.com/
 - Email: EastCobb@TheMusicStudioAtlanta.com
 - Opening hours (OSM syntax): Mo-Fr 13:00-20:00; Sa 10:00-16:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 7% of music schools in Atlanta, #1 of 2 music schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 66. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Proof Of The Pudding is a caterer in Atlanta, GA at 1175 Chattahoochee Avenue No
 - Website: https://www.proofpudding.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Fair — top 43% of caterers in Atlanta, #1 of 3 caterers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

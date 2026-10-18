@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Rolling Meadows, IL is Jiffy Lube (an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008). 1 oil change businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Rolling Meadows, IL is Jiffy Lube (an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008). 1 oil change businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Rolling Meadows, IL?
 
 Also answers: oil change in Rolling Meadows, IL; oil change near me (Rolling Meadows, IL); best oil change Rolling Meadows, IL; top rated oil change Rolling Meadows, IL; affordable oil change Rolling Meadows, IL; emergency oil change Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-rolling-meadows/
+1. Jiffy Lube | Organic #1 | Pulse Score 44.7/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Rolling Meadows, IL at 2100 South Plum Grove Road, Rolling Meadows, IL 60008. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change rolling meadows il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

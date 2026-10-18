@@ -13,7 +13,7 @@ NY's Liquor is a liquor store in Centerville, MN at 7093 20th Avenue South, Cent
 - Website: https://jpsliquorwineandbeer.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 24% of liquor stores in Minneapolis–St. Paul, #1 of 1 liquor stores in Centerville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

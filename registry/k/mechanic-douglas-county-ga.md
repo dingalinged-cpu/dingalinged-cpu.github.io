@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Douglas County, GA is Midas (an auto repair shop in Douglas County, GA). 1 mechanic businesses are listed for Douglas County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Douglas County, GA is Midas (an auto repair shop in Douglas County, GA). 1 mechanic businesses are listed for Douglas County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Douglas County, GA?
 
 Also answers: mechanic in Douglas County, GA; mechanic near me (Douglas County, GA); best mechanic Douglas County, GA; top rated mechanic Douglas County, GA; affordable mechanic Douglas County, GA; emergency mechanic Douglas County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midas | trust 0.0 | Midas is an auto repair shop in Douglas County, GA. | https://dingalinged-cpu.github.io/registry/c/midas-douglas-county/
+1. Midas | Organic #1 | Pulse Score 42.4/100 (Building, #1 in city) | Midas is an auto repair shop in Douglas County, GA. | https://dingalinged-cpu.github.io/registry/c/midas-douglas-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic douglas county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

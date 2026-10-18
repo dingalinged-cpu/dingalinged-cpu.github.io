@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Skokie, IL is Strategic Properties (a real estate agency in Skokie, IL at 5009 Oakton Street, Skokie, IL 60077. Website: https://www.spofna.com/). 2 real estate agent businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Skokie, IL is Strategic Properties (a real estate agency in Skokie, IL at 5009 Oakton Street, Skokie, IL 60077. Website: https://www.spofna.com/). 2 real estate agent businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Skokie, IL?
 
 Also answers: real estate agent in Skokie, IL; real estate agent near me (Skokie, IL); best real estate agent Skokie, IL; top rated real estate agent Skokie, IL; affordable real estate agent Skokie, IL; emergency real estate agent Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Strategic Properties | trust 10.0 | Strategic Properties is a real estate agency in Skokie, IL at 5009 Oakton Street, Skokie, IL 60077. Website: https://www.spofna.com/. | https://dingalinged-cpu.github.io/registry/c/strategic-properties-skokie/
-2. Goldtree Realty | trust 4.0 | Goldtree Realty is a real estate agency in Skokie, IL at Lincoln Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/goldtree-realty-skokie/
+1. Strategic Properties | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Strategic Properties is a real estate agency in Skokie, IL at 5009 Oakton Street, Skokie, IL 60077. Website: https://www.spofna.com/. | https://dingalinged-cpu.github.io/registry/c/strategic-properties-skokie/
+2. Goldtree Realty | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Goldtree Realty is a real estate agency in Skokie, IL at Lincoln Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/goldtree-realty-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent skokie il | category: Professional & financial services | industry benchmark: Finance & Insurance

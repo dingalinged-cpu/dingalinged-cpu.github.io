@@ -13,7 +13,7 @@ brush. is a dentist in Hurst, TX at 800 Forest Oaks Lane #A, Hurst, TX 76053. Ph
 - Website: https://brushheb.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 07:00-15:00, We 11:00-19:00, Th 07:00-15:00, Sa 09:00-13:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 12% of dentists in Dallas–Fort Worth, #1 of 5 dentists in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

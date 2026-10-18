@@ -13,7 +13,7 @@ Nurturing House LLC is an addiction treatment center in Saint Paul, MN at 1919 U
 - Website: https://www.nurturinghouse.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Fair — top 75% of addiction treatment centers in Minneapolis–St. Paul, #2 of 2 addiction treatment centers in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.6, Trust 41. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

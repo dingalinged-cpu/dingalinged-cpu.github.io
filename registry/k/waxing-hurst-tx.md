@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Hurst, TX is European Wax Center (a waxing salon in Hurst, TX at 1424 West Pipeline Road, Hurst, TX 76053. Phone: +18175950520. Website: https://locations.waxcenter.com/tx/hurst/hurst-0234.html). 1 waxing businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Hurst, TX is European Wax Center (a waxing salon in Hurst, TX at 1424 West Pipeline Road, Hurst, TX 76053. Phone: +18175950520. Website: https://locations.waxcenter.com/tx/hurst/hurst-0234.html). 1 waxing businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Hurst, TX?
 
 Also answers: waxing in Hurst, TX; waxing near me (Hurst, TX); best waxing Hurst, TX; top rated waxing Hurst, TX; affordable waxing Hurst, TX; emergency waxing Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 20.0 | European Wax Center is a waxing salon in Hurst, TX at 1424 West Pipeline Road, Hurst, TX 76053. Phone: +18175950520. Website: https://locations.waxcenter.com/tx/hurst/hurst-0234.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-hurst/
+1. European Wax Center | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | European Wax Center is a waxing salon in Hurst, TX at 1424 West Pipeline Road, Hurst, TX 76053. Phone: +18175950520. Website: https://locations.waxcenter.com/tx/hurst/hurst-0234.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing hurst tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Waxahachie, TX is Hidden Waters Wedding and Events Venue (an event venue in Waxahachie, TX at 2220 Bells Chapel Road, Waxahachie, TX 75165. Website: https://hiddenwatersevents.com/). 4 event venues businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Waxahachie, TX is Hidden Waters Wedding and Events Venue (an event venue in Waxahachie, TX at 2220 Bells Chapel Road, Waxahachie, TX 75165. Website: https://hiddenwatersevents.com/). 4 event venues businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Waxahachie, TX?
 
 Also answers: event venues in Waxahachie, TX; event venues near me (Waxahachie, TX); best event venues Waxahachie, TX; top rated event venues Waxahachie, TX; affordable event venues Waxahachie, TX; emergency event venues Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hidden Waters Wedding and Events Venue | trust 10.0 | Hidden Waters Wedding and Events Venue is an event venue in Waxahachie, TX at 2220 Bells Chapel Road, Waxahachie, TX 75165. Website: https://hiddenwatersevents.com/. | https://dingalinged-cpu.github.io/registry/c/hidden-waters-wedding-and-events-venue-waxahachie/
-2. Munster Mansion | trust 4.0 | Munster Mansion is an event venue in Waxahachie, TX at 3636 FM 813, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/munster-mansion-waxahachie/
-3. The Graily | trust 4.0 | The Graily is an event venue in Waxahachie, TX at 716 Dunaway Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-graily-waxahachie/
-4. Willow Creek Wedding & Events Venue | trust 4.0 | Willow Creek Wedding & Events Venue is an event venue in Waxahachie, TX at 401 South Westmoreland Road #Venue, Waxahachie, TX 75167. | https://dingalinged-cpu.github.io/registry/c/willow-creek-wedding-and-events-venue-waxahachie/
+1. Hidden Waters Wedding and Events Venue | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Hidden Waters Wedding and Events Venue is an event venue in Waxahachie, TX at 2220 Bells Chapel Road, Waxahachie, TX 75165. Website: https://hiddenwatersevents.com/. | https://dingalinged-cpu.github.io/registry/c/hidden-waters-wedding-and-events-venue-waxahachie/
+2. The Graily | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | The Graily is an event venue in Waxahachie, TX at 716 Dunaway Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-graily-waxahachie/
+3. Munster Mansion | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Munster Mansion is an event venue in Waxahachie, TX at 3636 FM 813, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/munster-mansion-waxahachie/
+4. Willow Creek Wedding & Events Venue | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Willow Creek Wedding & Events Venue is an event venue in Waxahachie, TX at 401 South Westmoreland Road #Venue, Waxahachie, TX 75167. | https://dingalinged-cpu.github.io/registry/c/willow-creek-wedding-and-events-venue-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues waxahachie tx | category: Events & weddings | industry benchmark: Personal Services

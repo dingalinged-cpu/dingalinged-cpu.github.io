@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Saint Bonifacius, MN is Moby's Wine and Spirits (a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/). 2 liquor store businesses are listed for Saint Bonifacius, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Saint Bonifacius, MN is Moby's Wine and Spirits (a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/). 2 liquor store businesses are listed for Saint Bonifacius, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Saint Bonifacius, MN?
 
 Also answers: liquor store in Saint Bonifacius, MN; liquor store near me (Saint Bonifacius, MN); best liquor store Saint Bonifacius, MN; top rated liquor store Saint Bonifacius, MN; affordable liquor store Saint Bonifacius, MN; emergency liquor store Saint Bonifacius, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moby's Wine and Spirits | trust 16.0 | Moby's Wine and Spirits is a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/. | https://dingalinged-cpu.github.io/registry/c/mobys-wine-and-spirits-saint-bonifacius/
-2. St. Boni Liquor | trust 0.0 | St. Boni Liquor is a liquor store in Saint Bonifacius, MN. | https://dingalinged-cpu.github.io/registry/c/st-boni-liquor-saint-bonifacius/
+1. Moby's Wine and Spirits | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Moby's Wine and Spirits is a liquor store in Saint Bonifacius, MN at 4080 Tower Street #1070, Saint Bonifacius, MN 55375. Phone: +19524461638. Website: https://mobys-wine-and-spirits.business.site/. | https://dingalinged-cpu.github.io/registry/c/mobys-wine-and-spirits-saint-bonifacius/
+2. St. Boni Liquor | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | St. Boni Liquor is a liquor store in Saint Bonifacius, MN. | https://dingalinged-cpu.github.io/registry/c/st-boni-liquor-saint-bonifacius/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store saint bonifacius mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

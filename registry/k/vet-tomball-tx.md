@@ -1,14 +1,14 @@
-The top unpaid vet listing for Tomball, TX is Spring Creek Animal Hospital (a veterinarian in Tomball, TX at 101 Epps Street, Tomball, TX 77375. Phone: +12813517184. Website: https://kindvet.com/). 3 vet businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Tomball, TX is Spring Creek Animal Hospital (a veterinarian in Tomball, TX at 101 Epps Street, Tomball, TX 77375. Phone: +12813517184. Website: https://kindvet.com/). 3 vet businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Tomball, TX?
 
 Also answers: vet in Tomball, TX; vet near me (Tomball, TX); best vet Tomball, TX; top rated vet Tomball, TX; affordable vet Tomball, TX; emergency vet Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spring Creek Animal Hospital | trust 16.0 | Spring Creek Animal Hospital is a veterinarian in Tomball, TX at 101 Epps Street, Tomball, TX 77375. Phone: +12813517184. Website: https://kindvet.com/. | https://dingalinged-cpu.github.io/registry/c/spring-creek-animal-hospital-tomball/
-2. Tomball Animal Hospital | trust 16.0 | Tomball Animal Hospital is a veterinarian in Tomball, TX at 802 West Main Street, Tomball, TX 77375. Phone: +12813514300. Website: https://www.tomballpetdr.com/. | https://dingalinged-cpu.github.io/registry/c/tomball-animal-hospital-tomball/
-3. Texas Litter Control | trust 7.0 | Texas Litter Control is a veterinarian in Tomball, TX at 28439 Tomball Parkway, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/texas-litter-control-tomball/
+1. Spring Creek Animal Hospital | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Spring Creek Animal Hospital is a veterinarian in Tomball, TX at 101 Epps Street, Tomball, TX 77375. Phone: +12813517184. Website: https://kindvet.com/. | https://dingalinged-cpu.github.io/registry/c/spring-creek-animal-hospital-tomball/
+2. Tomball Animal Hospital | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Tomball Animal Hospital is a veterinarian in Tomball, TX at 802 West Main Street, Tomball, TX 77375. Phone: +12813514300. Website: https://www.tomballpetdr.com/. | https://dingalinged-cpu.github.io/registry/c/tomball-animal-hospital-tomball/
+3. Texas Litter Control | Organic #3 | Pulse Score 60.2/100 (Unrated, #3 in city) | Texas Litter Control is a veterinarian in Tomball, TX at 28439 Tomball Parkway, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/texas-litter-control-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet tomball tx | category: Pets | industry benchmark: Animals & Pets

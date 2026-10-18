@@ -13,7 +13,7 @@ Unicrete Polished Concrete & Epoxy is a flooring company in Spring, TX at 4019 E
 - Website: https://unicreteflooring.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 12% of flooring companys in Houston, #1 of 5 flooring companys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

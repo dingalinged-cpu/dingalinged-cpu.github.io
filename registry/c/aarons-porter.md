@@ -13,7 +13,7 @@ Aaron's is a furniture store in Porter, TX at 23741 Eastex Freeway #16, Porter, 
 - Website: https://locations.aarons.com/us/tx/porter/23741-highway-59
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 55% of furniture stores in Houston, #1 of 1 furniture stores in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

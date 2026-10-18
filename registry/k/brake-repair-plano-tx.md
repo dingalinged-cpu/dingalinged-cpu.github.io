@@ -1,12 +1,12 @@
-The top unpaid brake repair listing for Plano, TX is Kwik Kar Willow Bend (an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700). 1 brake repair businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Plano, TX is Kwik Kar Willow Bend (an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700). 1 brake repair businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Plano, TX?
 
 Also answers: brake repair in Plano, TX; brake repair near me (Plano, TX); best brake repair Plano, TX; top rated brake repair Plano, TX; affordable brake repair Plano, TX; emergency brake repair Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Kar Willow Bend | trust 14.0 | Kwik Kar Willow Bend is an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-willow-bend-plano/
+1. Kwik Kar Willow Bend | Organic #1 | Pulse Score 61.6/100 (Unrated, #3 in city) | Kwik Kar Willow Bend is an auto repair shop in Plano, TX at 2208 Midway Road, Plano, TX 75093. Phone: +19727812700. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-willow-bend-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair plano tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

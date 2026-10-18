@@ -13,7 +13,7 @@ Richardson Inspection Service Inc. is a real estate agency in Plano, TX at 3301 
 - Website: https://richardsoninspectionserviceinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 27% of real estate agencys in Dallas–Fort Worth, #3 of 7 real estate agencys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

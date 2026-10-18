@@ -1,18 +1,18 @@
-The top unpaid tax preparation listing for Clayton County, GA is Debsdoing Taxes (a tax preparation service in Clayton County, GA). 7 tax preparation businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Clayton County, GA is Debsdoing Taxes (a tax preparation service in Clayton County, GA). 7 tax preparation businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Clayton County, GA?
 
 Also answers: tax preparation in Clayton County, GA; tax preparation near me (Clayton County, GA); best tax preparation Clayton County, GA; top rated tax preparation Clayton County, GA; affordable tax preparation Clayton County, GA; emergency tax preparation Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Debsdoing Taxes | trust 0.0 | Debsdoing Taxes is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/debsdoing-taxes-clayton-county/
-2. Elite Taxes | trust 0.0 | Elite Taxes is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/elite-taxes-clayton-county/
-3. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-clayton-county/
-4. Midway Tax | trust 0.0 | Midway Tax is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/midway-tax-clayton-county/
-5. Precise Tax Service | trust 0.0 | Precise Tax Service is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/precise-tax-service-clayton-county/
-6. Royality Tax Service | trust 0.0 | Royality Tax Service is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/royality-tax-service-clayton-county/
-7. Taxman | trust 0.0 | Taxman is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/taxman-clayton-county/
+1. Debsdoing Taxes | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Debsdoing Taxes is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/debsdoing-taxes-clayton-county/
+2. Elite Taxes | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Elite Taxes is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/elite-taxes-clayton-county/
+3. Midway Tax | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Midway Tax is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/midway-tax-clayton-county/
+4. Precise Tax Service | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Precise Tax Service is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/precise-tax-service-clayton-county/
+5. Royality Tax Service | Organic #5 | Pulse Score 55.6/100 (Unrated, #5 in city) | Royality Tax Service is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/royality-tax-service-clayton-county/
+6. Taxman | Organic #6 | Pulse Score 55.6/100 (Unrated, #6 in city) | Taxman is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/taxman-clayton-county/
+7. H&R Block | Organic #7 | Pulse Score 43.2/100 (Building, #7 in city) | H&R Block is a tax preparation service in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation clayton county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

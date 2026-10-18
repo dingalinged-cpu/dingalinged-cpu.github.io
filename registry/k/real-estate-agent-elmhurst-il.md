@@ -1,14 +1,14 @@
-The top unpaid real estate agent listing for Elmhurst, IL is GMS Realty Group, LLC (a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/). 3 real estate agent businesses are listed for Elmhurst, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Elmhurst, IL is GMS Realty Group, LLC (a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/). 3 real estate agent businesses are listed for Elmhurst, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Elmhurst, IL?
 
 Also answers: real estate agent in Elmhurst, IL; real estate agent near me (Elmhurst, IL); best real estate agent Elmhurst, IL; top rated real estate agent Elmhurst, IL; affordable real estate agent Elmhurst, IL; emergency real estate agent Elmhurst, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GMS Realty Group, LLC | trust 20.0 | GMS Realty Group, LLC is a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/. | https://dingalinged-cpu.github.io/registry/c/gms-realty-group-llc-elmhurst/
-2. Berrshire Hathaway | trust 0.0 | Berrshire Hathaway is a real estate agency in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/berrshire-hathaway-elmhurst/
-3. Walsh Partners Real Estate | trust 0.0 | Walsh Partners Real Estate is a real estate agency in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/walsh-partners-real-estate-elmhurst/
+1. GMS Realty Group, LLC | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | GMS Realty Group, LLC is a real estate agency in Elmhurst, IL at 627 North York Street #Suite A, Elmhurst, IL 60126. Phone: +16308334422. Website: https://www.yourchicagohomesearch.com/. | https://dingalinged-cpu.github.io/registry/c/gms-realty-group-llc-elmhurst/
+2. Berrshire Hathaway | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Berrshire Hathaway is a real estate agency in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/berrshire-hathaway-elmhurst/
+3. Walsh Partners Real Estate | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Walsh Partners Real Estate is a real estate agency in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/walsh-partners-real-estate-elmhurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent elmhurst il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for North Richland Hills, TX is J Tiger Martial Arts (a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/). 3 martial arts businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for North Richland Hills, TX is J Tiger Martial Arts (a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/). 3 martial arts businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in North Richland Hills, TX?
 
 Also answers: martial arts in North Richland Hills, TX; martial arts near me (North Richland Hills, TX); best martial arts North Richland Hills, TX; top rated martial arts North Richland Hills, TX; affordable martial arts North Richland Hills, TX; emergency martial arts North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J Tiger Martial Arts | trust 10.0 | J Tiger Martial Arts is a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/. | https://dingalinged-cpu.github.io/registry/c/j-tiger-martial-arts-north-richland-hills/
-2. Tarrant Elite Taekwondo | trust 0.0 | Tarrant Elite Taekwondo is a martial arts school in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/tarrant-elite-taekwondo-north-richland-hills/
-3. TKD Armor Academy | trust 0.0 | TKD Armor Academy is a martial arts school in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/tkd-armor-academy-north-richland-hills/
+1. J Tiger Martial Arts | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | J Tiger Martial Arts is a martial arts school in North Richland Hills, TX at 8700 North Tarrant Parkway #105, North Richland Hills, TX 76182. Website: https://jtigerma.com/. | https://dingalinged-cpu.github.io/registry/c/j-tiger-martial-arts-north-richland-hills/
+2. Tarrant Elite Taekwondo | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Tarrant Elite Taekwondo is a martial arts school in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/tarrant-elite-taekwondo-north-richland-hills/
+3. TKD Armor Academy | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | TKD Armor Academy is a martial arts school in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/tkd-armor-academy-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts north richland hills tx | category: Fitness | industry benchmark: Health & Fitness

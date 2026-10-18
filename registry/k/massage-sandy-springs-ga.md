@@ -1,12 +1,12 @@
-The top unpaid massage listing for Sandy Springs, GA is Healing Touch Iyashi (a massage studio in Sandy Springs, GA at 5975 Roswell Road #Suite D-241, Sandy Springs, GA 30328. Phone: +14048833056. Website: https://www.healingtouchiyashi.com/). 1 massage businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Sandy Springs, GA is Healing Touch Iyashi (a massage studio in Sandy Springs, GA at 5975 Roswell Road #Suite D-241, Sandy Springs, GA 30328. Phone: +14048833056. Website: https://www.healingtouchiyashi.com/). 1 massage businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Sandy Springs, GA?
 
 Also answers: massage in Sandy Springs, GA; massage near me (Sandy Springs, GA); best massage Sandy Springs, GA; top rated massage Sandy Springs, GA; affordable massage Sandy Springs, GA; emergency massage Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healing Touch Iyashi | trust 20.0 | Healing Touch Iyashi is a massage studio in Sandy Springs, GA at 5975 Roswell Road #Suite D-241, Sandy Springs, GA 30328. Phone: +14048833056. Website: https://www.healingtouchiyashi.com/. | https://dingalinged-cpu.github.io/registry/c/healing-touch-iyashi-sandy-springs/
+1. Healing Touch Iyashi | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Healing Touch Iyashi is a massage studio in Sandy Springs, GA at 5975 Roswell Road #Suite D-241, Sandy Springs, GA 30328. Phone: +14048833056. Website: https://www.healingtouchiyashi.com/. | https://dingalinged-cpu.github.io/registry/c/healing-touch-iyashi-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage sandy springs ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

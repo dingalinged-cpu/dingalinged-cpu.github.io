@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Downers Grove, IL is Bright Horizons (a preschool in Downers Grove, IL at 3400 Lacey Road, Downers Grove, IL 60515). 3 preschool businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Downers Grove, IL is Bright Horizons (a preschool in Downers Grove, IL at 3400 Lacey Road, Downers Grove, IL 60515). 3 preschool businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Downers Grove, IL?
 
 Also answers: preschool in Downers Grove, IL; preschool near me (Downers Grove, IL); best preschool Downers Grove, IL; top rated preschool Downers Grove, IL; affordable preschool Downers Grove, IL; emergency preschool Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Downers Grove, IL at 3400 Lacey Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-downers-grove/
-2. Tutor Time of Downers Grove | trust 4.0 | Tutor Time of Downers Grove is a preschool in Downers Grove, IL at 460 75th Street, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-downers-grove-downers-grove/
-3. Kindercare | trust 0.0 | Kindercare is a preschool in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-downers-grove/
+1. Bright Horizons | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | Bright Horizons is a preschool in Downers Grove, IL at 3400 Lacey Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-downers-grove/
+2. Tutor Time of Downers Grove | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Tutor Time of Downers Grove is a preschool in Downers Grove, IL at 460 75th Street, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/tutor-time-of-downers-grove-downers-grove/
+3. Kindercare | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Kindercare is a preschool in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool downers grove il | category: Education & childcare | industry benchmark: Education & Instruction

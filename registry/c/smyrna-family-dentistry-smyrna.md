@@ -13,7 +13,7 @@ Smyrna Family Dentistry is a dentist in Smyrna, GA at 2874 King Street Southeast
 - Website: https://www.smyrnafamilydentistry.com/
 - Email: hello@smyrnafamilydentistry.com
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 24% of dentists in Atlanta, #2 of 12 dentists in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

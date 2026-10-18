@@ -13,7 +13,7 @@ The Bearded Bastard is a barber shop in Dallas, TX at 2328 North Henderson Avenu
 - Website: https://www.beardedbastardbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 30% of barber shops in Dallas–Fort Worth, #6 of 24 barber shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

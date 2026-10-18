@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Glenview, IL is Glenview Car Wash (a car wash in Glenview, IL at 1820 Waukegan Road, Glenview, IL 60025. Website: https://www.glenviewcw.com/). 5 car wash businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Glenview, IL is Glenview Car Wash (a car wash in Glenview, IL at 1820 Waukegan Road, Glenview, IL 60025. Website: https://www.glenviewcw.com/). 5 car wash businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Glenview, IL?
 
 Also answers: car wash in Glenview, IL; car wash near me (Glenview, IL); best car wash Glenview, IL; top rated car wash Glenview, IL; affordable car wash Glenview, IL; emergency car wash Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glenview Car Wash | trust 10.0 | Glenview Car Wash is a car wash in Glenview, IL at 1820 Waukegan Road, Glenview, IL 60025. Website: https://www.glenviewcw.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-car-wash-glenview/
-2. BP | trust 4.0 | BP is a car wash in Glenview, IL at 825 Milwaukee Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/bp-glenview/
-3. BP | trust 4.0 | BP is a car wash in Northbrook, IL at Willow Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook-w1333922852/
-4. Mobil | trust 4.0 | Mobil is a car wash in Glenview, IL at 9701 Milwaukee Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/mobil-glenview/
-5. Capital Car Wash | trust 0.0 | Capital Car Wash is a car wash in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/capital-car-wash-glenview/
+1. Glenview Car Wash | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Glenview Car Wash is a car wash in Glenview, IL at 1820 Waukegan Road, Glenview, IL 60025. Website: https://www.glenviewcw.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-car-wash-glenview/
+2. Capital Car Wash | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Capital Car Wash is a car wash in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/capital-car-wash-glenview/
+3. BP | Organic #3 | Pulse Score 46.3/100 (Building, #4 in city) | BP is a car wash in Northbrook, IL at Willow Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook-w1333922852/
+4. BP | Organic #4 | Pulse Score 45.3/100 (Building, #3 in city) | BP is a car wash in Glenview, IL at 825 Milwaukee Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/bp-glenview/
+5. Mobil | Organic #5 | Pulse Score 45.3/100 (Building, #4 in city) | Mobil is a car wash in Glenview, IL at 9701 Milwaukee Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/mobil-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash glenview il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

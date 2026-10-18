@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Alvin, TX is Stoffer's Air Conditioning & Heating (a HVAC contractor in Alvin, TX. Phone: +12813317749). 1 hvac repair businesses are listed for Alvin, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Alvin, TX is Stoffer's Air Conditioning & Heating (a HVAC contractor in Alvin, TX. Phone: +12813317749). 1 hvac repair businesses are listed for Alvin, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Alvin, TX?
 
 Also answers: hvac repair in Alvin, TX; hvac repair near me (Alvin, TX); best hvac repair Alvin, TX; top rated hvac repair Alvin, TX; affordable hvac repair Alvin, TX; emergency hvac repair Alvin, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stoffer's Air Conditioning & Heating | trust 6.0 | Stoffer's Air Conditioning & Heating is a HVAC contractor in Alvin, TX. Phone: +12813317749. | https://dingalinged-cpu.github.io/registry/c/stoffers-air-conditioning-and-heating-alvin/
+1. Stoffer's Air Conditioning & Heating | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Stoffer's Air Conditioning & Heating is a HVAC contractor in Alvin, TX. Phone: +12813317749. | https://dingalinged-cpu.github.io/registry/c/stoffers-air-conditioning-and-heating-alvin/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair alvin tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

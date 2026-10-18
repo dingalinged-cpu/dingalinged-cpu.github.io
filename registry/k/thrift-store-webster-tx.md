@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Webster, TX is Goodwill (a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX. Phone: +12813320190. Website: https://www.goodwillhouston.org/locations/nasa/). 3 thrift store businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Webster, TX is Interfaith Caring Ministries (ICM) Resale Shop (a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale). 3 thrift store businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Webster, TX?
 
 Also answers: thrift store in Webster, TX; thrift store near me (Webster, TX); best thrift store Webster, TX; top rated thrift store Webster, TX; affordable thrift store Webster, TX; emergency thrift store Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 19.0 | Goodwill is a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX. Phone: +12813320190. Website: https://www.goodwillhouston.org/locations/nasa/. | https://dingalinged-cpu.github.io/registry/c/goodwill-webster/
-2. Interfaith Caring Ministries (ICM) Resale Shop | trust 16.0 | Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale. | https://dingalinged-cpu.github.io/registry/c/interfaith-caring-ministries-icm-resale-shop-webster/
-3. Assistance League of the Bay | trust 4.0 | Assistance League of the Bay is a thrift store in Webster, TX at 100 NASA Parkway, Webster, TX 77598. | https://dingalinged-cpu.github.io/registry/c/assistance-league-of-the-bay-webster/
+1. Interfaith Caring Ministries (ICM) Resale Shop | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Interfaith Caring Ministries (ICM) Resale Shop is a thrift store in Webster, TX at 803 East NASA Parkway #118, Webster, TX 77598. Phone: +12813322025. Website: https://icmtx.org/resale. | https://dingalinged-cpu.github.io/registry/c/interfaith-caring-ministries-icm-resale-shop-webster/
+2. Assistance League of the Bay | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Assistance League of the Bay is a thrift store in Webster, TX at 100 NASA Parkway, Webster, TX 77598. | https://dingalinged-cpu.github.io/registry/c/assistance-league-of-the-bay-webster/
+3. Goodwill | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Goodwill is a thrift store in Webster, TX at 20810 Gulf Freeway #A, Webster, TX. Phone: +12813320190. Website: https://www.goodwillhouston.org/locations/nasa/. | https://dingalinged-cpu.github.io/registry/c/goodwill-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store webster tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

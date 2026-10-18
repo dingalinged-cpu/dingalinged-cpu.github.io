@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Wauconda, IL is Polish'd Nail & Hair Studio (a nail salon in Wauconda, IL. Phone: +18474698584. Website: https://polishdnailstudio.com/). 4 nail salon businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Wauconda, IL is Polish'd Nail & Hair Studio (a nail salon in Wauconda, IL. Phone: +18474698584. Website: https://polishdnailstudio.com/). 4 nail salon businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Wauconda, IL?
 
 Also answers: nail salon in Wauconda, IL; nail salon near me (Wauconda, IL); best nail salon Wauconda, IL; top rated nail salon Wauconda, IL; affordable nail salon Wauconda, IL; emergency nail salon Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Polish'd Nail & Hair Studio | trust 12.0 | Polish'd Nail & Hair Studio is a nail salon in Wauconda, IL. Phone: +18474698584. Website: https://polishdnailstudio.com/. | https://dingalinged-cpu.github.io/registry/c/polishd-nail-and-hair-studio-wauconda/
-2. Crystal Nails | trust 10.0 | Crystal Nails is a nail salon in Wauconda, IL at 469 West Liberty Street #D, Wauconda, IL 60084. Phone: +18474879515. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-wauconda/
-3. The Nail Polish Girl | trust 4.0 | The Nail Polish Girl is a nail salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/the-nail-polish-girl-wauconda/
-4. Platinum Nails | trust 0.0 | Platinum Nails is a nail salon in Wauconda, IL. | https://dingalinged-cpu.github.io/registry/c/platinum-nails-wauconda/
+1. Polish'd Nail & Hair Studio | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Polish'd Nail & Hair Studio is a nail salon in Wauconda, IL. Phone: +18474698584. Website: https://polishdnailstudio.com/. | https://dingalinged-cpu.github.io/registry/c/polishd-nail-and-hair-studio-wauconda/
+2. Crystal Nails | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Crystal Nails is a nail salon in Wauconda, IL at 469 West Liberty Street #D, Wauconda, IL 60084. Phone: +18474879515. | https://dingalinged-cpu.github.io/registry/c/crystal-nails-wauconda/
+3. The Nail Polish Girl | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | The Nail Polish Girl is a nail salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/the-nail-polish-girl-wauconda/
+4. Platinum Nails | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Platinum Nails is a nail salon in Wauconda, IL. | https://dingalinged-cpu.github.io/registry/c/platinum-nails-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon wauconda il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Reich Dental Center Roswell is a dentist in Roswell, GA at 1775 Woodstock Road #
 - Website: https://www.reichdentalcenter.com/roswell
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:30-15:30; Fr-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 6% of dentists in Atlanta, #1 of 8 dentists in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

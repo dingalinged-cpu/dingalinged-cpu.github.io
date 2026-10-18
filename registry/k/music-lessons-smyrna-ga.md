@@ -1,13 +1,13 @@
-The top unpaid music lessons listing for Smyrna, GA is Tara Simon Studios (a music school in Smyrna, GA at 1306 Concord Road, Smyrna, GA 30080). 2 music lessons businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Smyrna, GA is Tara Simon Studios (a music school in Smyrna, GA at 1306 Concord Road, Smyrna, GA 30080). 2 music lessons businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Smyrna, GA?
 
 Also answers: music lessons in Smyrna, GA; music lessons near me (Smyrna, GA); best music lessons Smyrna, GA; top rated music lessons Smyrna, GA; affordable music lessons Smyrna, GA; emergency music lessons Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tara Simon Studios | trust 4.0 | Tara Simon Studios is a music school in Smyrna, GA at 1306 Concord Road, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/tara-simon-studios-smyrna/
-2. Bug Shack Music Studio | trust 0.0 | Bug Shack Music Studio is a music school in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/bug-shack-music-studio-smyrna/
+1. Tara Simon Studios | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Tara Simon Studios is a music school in Smyrna, GA at 1306 Concord Road, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/tara-simon-studios-smyrna/
+2. Bug Shack Music Studio | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Bug Shack Music Studio is a music school in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/bug-shack-music-studio-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons smyrna ga | category: Education & childcare | industry benchmark: Education & Instruction

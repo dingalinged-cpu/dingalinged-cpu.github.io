@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Fayetteville, GA is Milex Mr. Transmission of Fayetteville (an auto repair shop in Fayetteville, GA at 278 Glynn Street North, Fayetteville, GA 30214. Phone: +17707197676. Website: https://fayetteville.mrt-milex.com/). 5 auto repair businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Fayetteville, GA is Milex Mr. Transmission of Fayetteville (an auto repair shop in Fayetteville, GA at 278 Glynn Street North, Fayetteville, GA 30214. Phone: +17707197676. Website: https://fayetteville.mrt-milex.com/). 5 auto repair businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Fayetteville, GA?
 
 Also answers: auto repair in Fayetteville, GA; auto repair near me (Fayetteville, GA); best auto repair Fayetteville, GA; top rated auto repair Fayetteville, GA; affordable auto repair Fayetteville, GA; emergency auto repair Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Milex Mr. Transmission of Fayetteville | trust 16.0 | Milex Mr. Transmission of Fayetteville is an auto repair shop in Fayetteville, GA at 278 Glynn Street North, Fayetteville, GA 30214. Phone: +17707197676. Website: https://fayetteville.mrt-milex.com/. | https://dingalinged-cpu.github.io/registry/c/milex-mr-transmission-of-fayetteville-fayetteville/
-2. Fayette Emissions | trust 0.0 | Fayette Emissions is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-emissions-fayetteville/
-3. Jiffy Lube Oil Change | trust 0.0 | Jiffy Lube Oil Change is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oil-change-fayetteville/
-4. Merlin Complete Auto Care | trust 0.0 | Merlin Complete Auto Care is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/merlin-complete-auto-care-fayetteville/
-5. Top Quality Car Care | trust 0.0 | Top Quality Car Care is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/top-quality-car-care-fayetteville/
+1. Milex Mr. Transmission of Fayetteville | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Milex Mr. Transmission of Fayetteville is an auto repair shop in Fayetteville, GA at 278 Glynn Street North, Fayetteville, GA 30214. Phone: +17707197676. Website: https://fayetteville.mrt-milex.com/. | https://dingalinged-cpu.github.io/registry/c/milex-mr-transmission-of-fayetteville-fayetteville/
+2. Fayette Emissions | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Fayette Emissions is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-emissions-fayetteville/
+3. Top Quality Car Care | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Top Quality Car Care is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/top-quality-car-care-fayetteville/
+4. Jiffy Lube Oil Change | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Jiffy Lube Oil Change is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oil-change-fayetteville/
+5. Merlin Complete Auto Care | Organic #5 | Pulse Score 42.1/100 (Unrated, #5 in city) | Merlin Complete Auto Care is an auto repair shop in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/merlin-complete-auto-care-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair fayetteville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

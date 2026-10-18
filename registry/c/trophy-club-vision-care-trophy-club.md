@@ -13,7 +13,7 @@ Trophy Club Vision Care is an eye care practice in Trophy Club, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 08:30-17:00; Th 09:00-19:00; Fr 08:30-13:00; Sa,Su off
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 57% of eye care practices in Dallas–Fort Worth, #1 of 2 eye care practices in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

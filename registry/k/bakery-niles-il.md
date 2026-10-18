@@ -1,14 +1,14 @@
-The top unpaid bakery listing for Niles, IL is Oak Mill Bakery (a bakery in Niles, IL at 8012 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473186400. Website: https://www.oakmillbakery.com/). 3 bakery businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Niles, IL is Handsome Bakery & Cafe (a bakery in Niles, IL at 8502 West Golf Road, Niles, IL 60714). 3 bakery businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Niles, IL?
 
 Also answers: bakery in Niles, IL; bakery near me (Niles, IL); best bakery Niles, IL; top rated bakery Niles, IL; affordable bakery Niles, IL; emergency bakery Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oak Mill Bakery | trust 20.0 | Oak Mill Bakery is a bakery in Niles, IL at 8012 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473186400. Website: https://www.oakmillbakery.com/. | https://dingalinged-cpu.github.io/registry/c/oak-mill-bakery-niles/
-2. Handsome Bakery & Cafe | trust 4.0 | Handsome Bakery & Cafe is a bakery in Niles, IL at 8502 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/handsome-bakery-and-cafe-niles/
-3. Paris Baguette | trust 4.0 | Paris Baguette is a bakery in Niles, IL at 801 Civic Center Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-niles/
+1. Handsome Bakery & Cafe | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Handsome Bakery & Cafe is a bakery in Niles, IL at 8502 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/handsome-bakery-and-cafe-niles/
+2. Oak Mill Bakery | Organic #2 | Pulse Score 50.5/100 (Unrated, #2 in city) | Oak Mill Bakery is a bakery in Niles, IL at 8012 North Milwaukee Avenue, Niles, IL 60714. Phone: +18473186400. Website: https://www.oakmillbakery.com/. | https://dingalinged-cpu.github.io/registry/c/oak-mill-bakery-niles/
+3. Paris Baguette | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | Paris Baguette is a bakery in Niles, IL at 801 Civic Center Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery niles il | category: Events & weddings | industry benchmark: Personal Services

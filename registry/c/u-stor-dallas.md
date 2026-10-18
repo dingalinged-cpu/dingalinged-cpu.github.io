@@ -13,7 +13,7 @@ U-STOR is a self-storage facility in Dallas, TX at 10406 Lake June Road, Dallas,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.9/100 — Unrated (not enough evidence yet) — top 82% of self-storage facilitys in Dallas–Fort Worth, #35 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 45.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

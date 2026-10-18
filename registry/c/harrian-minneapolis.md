@@ -13,7 +13,7 @@ Harrian is a furniture store in Minneapolis, MN at 3537 West 44th Street, Minnea
 - Website: https://www.harriann.com/
 - Email: bobyablonski@yahoo.com
 - Opening hours (OSM syntax): Th-Sa 11:00-16:00
-- Registry Score: 68.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 68/100 — Good — top 2% of furniture stores in Minneapolis–St. Paul, #1 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 79.2, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

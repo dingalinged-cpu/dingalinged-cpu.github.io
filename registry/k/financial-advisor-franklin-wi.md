@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Franklin, WI is Edward Jones (a financial advisor in Franklin, WI at 7740 South Lovers Lane Road #420, Franklin, WI 53132. Phone: +14144256049. Website: https://www.edwardjones.com/us-en). 2 financial advisor businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Franklin, WI is Edward Jones (a financial advisor in Franklin, WI at 7740 South Lovers Lane Road #420, Franklin, WI 53132. Phone: +14144256049. Website: https://www.edwardjones.com/us-en). 2 financial advisor businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Franklin, WI?
 
 Also answers: financial advisor in Franklin, WI; financial advisor near me (Franklin, WI); best financial advisor Franklin, WI; top rated financial advisor Franklin, WI; affordable financial advisor Franklin, WI; emergency financial advisor Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 16.0 | Edward Jones is a financial advisor in Franklin, WI at 7740 South Lovers Lane Road #420, Franklin, WI 53132. Phone: +14144256049. Website: https://www.edwardjones.com/us-en. | https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin-w1176000060/
-2. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Franklin, WI at 7162 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin/
+1. Edward Jones | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | Edward Jones is a financial advisor in Franklin, WI at 7740 South Lovers Lane Road #420, Franklin, WI 53132. Phone: +14144256049. Website: https://www.edwardjones.com/us-en. | https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin-w1176000060/
+2. Edward Jones | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Edward Jones is a financial advisor in Franklin, WI at 7162 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/edward-jones-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor franklin wi | category: Professional & financial services | industry benchmark: Finance & Insurance

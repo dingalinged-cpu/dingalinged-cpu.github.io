@@ -1,12 +1,12 @@
-The top unpaid pet store listing for Austell, GA is PetSmart (a pet store in Austell, GA at 4155 Austell Road, Austell, GA 30106. Phone: +16789451081. Website: https://www.petsmart.com/stores/us/ga/austell-store2169.html). 1 pet store businesses are listed for Austell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Austell, GA is PetSmart (a pet store in Austell, GA at 4155 Austell Road, Austell, GA 30106. Phone: +16789451081. Website: https://www.petsmart.com/stores/us/ga/austell-store2169.html). 1 pet store businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Austell, GA?
 
 Also answers: pet store in Austell, GA; pet store near me (Austell, GA); best pet store Austell, GA; top rated pet store Austell, GA; affordable pet store Austell, GA; emergency pet store Austell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Austell, GA at 4155 Austell Road, Austell, GA 30106. Phone: +16789451081. Website: https://www.petsmart.com/stores/us/ga/austell-store2169.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-austell/
+1. PetSmart | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | PetSmart is a pet store in Austell, GA at 4155 Austell Road, Austell, GA 30106. Phone: +16789451081. Website: https://www.petsmart.com/stores/us/ga/austell-store2169.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-austell/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store austell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

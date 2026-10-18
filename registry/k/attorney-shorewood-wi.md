@@ -1,13 +1,13 @@
-The top unpaid attorney listing for Shorewood, WI is Pinix Law (a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149636164. Website: https://www.pinixlaw.com/). 2 attorney businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Shorewood, WI is Pinix Law (a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149636164. Website: https://www.pinixlaw.com/). 2 attorney businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Shorewood, WI?
 
 Also answers: attorney in Shorewood, WI; attorney near me (Shorewood, WI); best attorney Shorewood, WI; top rated attorney Shorewood, WI; affordable attorney Shorewood, WI; emergency attorney Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pinix Law | trust 20.0 | Pinix Law is a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149636164. Website: https://www.pinixlaw.com/. | https://dingalinged-cpu.github.io/registry/c/pinix-law-shorewood/
-2. Adams Law Group | trust 16.0 | Adams Law Group is a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149211945. Website: https://www.defensewisconsin.com/. | https://dingalinged-cpu.github.io/registry/c/adams-law-group-shorewood/
+1. Pinix Law | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Pinix Law is a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149636164. Website: https://www.pinixlaw.com/. | https://dingalinged-cpu.github.io/registry/c/pinix-law-shorewood/
+2. Adams Law Group | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Adams Law Group is a lawyer in Shorewood, WI at 1200 East Capitol Drive #Suite 360, Shorewood, WI 53211. Phone: +14149211945. Website: https://www.defensewisconsin.com/. | https://dingalinged-cpu.github.io/registry/c/adams-law-group-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney shorewood wi | category: professional_legal | industry benchmark: Attorneys & Legal Services

@@ -13,7 +13,7 @@ Ash and Willow is a hair salon in Park Ridge, IL at 610 Devon Avenue, Park Ridge
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-21:00; Tu,We 07:00-21:00; Th 08:00-21:00; Fr 08:00-19:00; Sa 07:00-16:00; Su 09:00-18:00
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Chicago, #2 of 6 hair salons in Park Ridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

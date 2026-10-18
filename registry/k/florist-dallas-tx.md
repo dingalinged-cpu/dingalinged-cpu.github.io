@@ -1,21 +1,21 @@
-The top unpaid florist listing for Dallas, TX is Presch Petals (a florist in Dallas, TX at 1212 Oak Lawn Avenue #111, Dallas, TX 75207. Phone: +12142888601. Website: https://preschpetals.com/). 10 florist businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Dallas, TX is Presch Petals (a florist in Dallas, TX at 1212 Oak Lawn Avenue #111, Dallas, TX 75207. Phone: +12142888601. Website: https://preschpetals.com/). 10 florist businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Dallas, TX?
 
 Also answers: florist in Dallas, TX; florist near me (Dallas, TX); best florist Dallas, TX; top rated florist Dallas, TX; affordable florist Dallas, TX; emergency florist Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Presch Petals | trust 20.0 | Presch Petals is a florist in Dallas, TX at 1212 Oak Lawn Avenue #111, Dallas, TX 75207. Phone: +12142888601. Website: https://preschpetals.com/. | https://dingalinged-cpu.github.io/registry/c/presch-petals-dallas/
-2. Petals and Stems Florist | trust 10.0 | Petals and Stems Florist is a florist in Dallas, TX at 13319 Montfort Dr., Dallas, TX 75240. Website: https://petalsandstems.com/. | https://dingalinged-cpu.github.io/registry/c/petals-and-stems-florist-dallas/
-3. Dirt | trust 4.0 | Dirt is a florist in Dallas, TX at 417 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/dirt-dallas/
-4. Lake Highlands Flowers | trust 4.0 | Lake Highlands Flowers is a florist in Dallas, TX at 9661 Audelia Road #118, Dallas, TX 75238. | https://dingalinged-cpu.github.io/registry/c/lake-highlands-flowers-dallas/
-5. Estrella’s Flower Shop | trust 3.0 | Estrella’s Flower Shop is a florist in Dallas, TX at 13021 Coit Road #107, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/estrella-s-flower-shop-dallas/
-6. Estrella's | trust 0.0 | Estrella's is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/estrellas-dallas/
-7. In Bloom | trust 0.0 | In Bloom is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/in-bloom-dallas/
-8. McShan Florist | trust 0.0 | McShan Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/mcshan-florist-dallas/
-9. Roses & More Florist | trust 0.0 | Roses & More Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/roses-and-more-florist-dallas/
-10. Z's Florist | trust 0.0 | Z's Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/zs-florist-dallas/
+1. Presch Petals | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Presch Petals is a florist in Dallas, TX at 1212 Oak Lawn Avenue #111, Dallas, TX 75207. Phone: +12142888601. Website: https://preschpetals.com/. | https://dingalinged-cpu.github.io/registry/c/presch-petals-dallas/
+2. Petals and Stems Florist | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Petals and Stems Florist is a florist in Dallas, TX at 13319 Montfort Dr., Dallas, TX 75240. Website: https://petalsandstems.com/. | https://dingalinged-cpu.github.io/registry/c/petals-and-stems-florist-dallas/
+3. Estrella’s Flower Shop | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | Estrella’s Flower Shop is a florist in Dallas, TX at 13021 Coit Road #107, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/estrella-s-flower-shop-dallas/
+4. Dirt | Organic #4 | Pulse Score 58.7/100 (Unrated, #4 in city) | Dirt is a florist in Dallas, TX at 417 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/dirt-dallas/
+5. Lake Highlands Flowers | Organic #5 | Pulse Score 56.6/100 (Unrated, #5 in city) | Lake Highlands Flowers is a florist in Dallas, TX at 9661 Audelia Road #118, Dallas, TX 75238. | https://dingalinged-cpu.github.io/registry/c/lake-highlands-flowers-dallas/
+6. Estrella's | Organic #6 | Pulse Score 56.1/100 (Unrated, #6 in city) | Estrella's is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/estrellas-dallas/
+7. McShan Florist | Organic #7 | Pulse Score 55.5/100 (Unrated, #7 in city) | McShan Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/mcshan-florist-dallas/
+8. Roses & More Florist | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Roses & More Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/roses-and-more-florist-dallas/
+9. Z's Florist | Organic #9 | Pulse Score 54.6/100 (Unrated, #9 in city) | Z's Florist is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/zs-florist-dallas/
+10. In Bloom | Organic #10 | Pulse Score 41.9/100 (Unrated, #10 in city) | In Bloom is a florist in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/in-bloom-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist dallas tx | category: Events & weddings | industry benchmark: Personal Services

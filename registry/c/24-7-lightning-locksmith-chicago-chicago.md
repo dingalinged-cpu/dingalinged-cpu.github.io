@@ -13,7 +13,7 @@
 - Website: https://locksmith-chicagoil.com/
 - Email: LightningLocksmithChicago@gmail.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 6% of locksmiths in Chicago, #1 of 10 locksmiths in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Woodstock, GA is Woodstock Funeral Home (a funeral home in Woodstock, GA at 8855 Main Street, Woodstock, GA. Phone: +17709263107. Website: https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129). 1 funeral home businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Woodstock, GA is Woodstock Funeral Home (a funeral home in Woodstock, GA at 8855 Main Street, Woodstock, GA. Phone: +17709263107. Website: https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129). 1 funeral home businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Woodstock, GA?
 
 Also answers: funeral home in Woodstock, GA; funeral home near me (Woodstock, GA); best funeral home Woodstock, GA; top rated funeral home Woodstock, GA; affordable funeral home Woodstock, GA; emergency funeral home Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woodstock Funeral Home | trust 19.0 | Woodstock Funeral Home is a funeral home in Woodstock, GA at 8855 Main Street, Woodstock, GA. Phone: +17709263107. Website: https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129. | https://dingalinged-cpu.github.io/registry/c/woodstock-funeral-home-woodstock/
+1. Woodstock Funeral Home | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Woodstock Funeral Home is a funeral home in Woodstock, GA at 8855 Main Street, Woodstock, GA. Phone: +17709263107. Website: https://www.dignitymemorial.com/funeral-homes/Georgia/woodstock/woodstock-funeral-home/7129. | https://dingalinged-cpu.github.io/registry/c/woodstock-funeral-home-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

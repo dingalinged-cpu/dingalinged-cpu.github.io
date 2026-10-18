@@ -13,7 +13,7 @@ Sevva Salon & Nail Boutique is a nail salon in Milwaukee, WI at 229 North Water 
 - Website: https://www.sevvamke.com/
 - Email: info@sevvamke.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-20:00; Sa 10:00-18:00
-- Registry Score: 67/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of nail salons in Milwaukee, #1 of 37 nail salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

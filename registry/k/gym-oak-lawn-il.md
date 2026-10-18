@@ -1,15 +1,15 @@
-The top unpaid gym listing for Oak Lawn, IL is LA Fitness (a gym in Oak Lawn, IL at 4081 West 95th Street, Oak Lawn, IL 60453. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1383). 4 gym businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Oak Lawn, IL is Hour Of Change Fitness (a gym in Oak Lawn, IL at 8749 South Ridgeland Avenue, Oak Lawn, IL 60453). 4 gym businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Oak Lawn, IL?
 
 Also answers: gym in Oak Lawn, IL; gym near me (Oak Lawn, IL); best gym Oak Lawn, IL; top rated gym Oak Lawn, IL; affordable gym Oak Lawn, IL; emergency gym Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 10.0 | LA Fitness is a gym in Oak Lawn, IL at 4081 West 95th Street, Oak Lawn, IL 60453. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1383. | https://dingalinged-cpu.github.io/registry/c/la-fitness-oak-lawn/
-2. Esporta Fitness | trust 4.0 | Esporta Fitness is a gym in Oak Lawn, IL at 8812 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/esporta-fitness-oak-lawn/
-3. Hour Of Change Fitness | trust 4.0 | Hour Of Change Fitness is a gym in Oak Lawn, IL at 8749 South Ridgeland Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/hour-of-change-fitness-oak-lawn/
-4. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Oak Lawn, IL at 9503 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-oak-lawn/
+1. Hour Of Change Fitness | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Hour Of Change Fitness is a gym in Oak Lawn, IL at 8749 South Ridgeland Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/hour-of-change-fitness-oak-lawn/
+2. LA Fitness | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | LA Fitness is a gym in Oak Lawn, IL at 4081 West 95th Street, Oak Lawn, IL 60453. Website: https://www.lafitness.com/pages/clubhome.aspx?clubid=1383. | https://dingalinged-cpu.github.io/registry/c/la-fitness-oak-lawn/
+3. Esporta Fitness | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Esporta Fitness is a gym in Oak Lawn, IL at 8812 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/esporta-fitness-oak-lawn/
+4. Planet Fitness | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Planet Fitness is a gym in Oak Lawn, IL at 9503 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym oak lawn il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,15 +1,15 @@
-The top unpaid gym listing for Oak Creek, WI is Planet Fitness (a gym in Oak Creek, WI at 9001 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147660705. Website: https://www.planetfitness.com/gyms/oak-creek-wi). 4 gym businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Oak Creek, WI is Elite Tumbling Factory (a gym in Oak Creek, WI at 442 West Rawson Avenue, Oak Creek, WI 53154. Website: https://elitetumblingfactory.com/). 4 gym businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Oak Creek, WI?
 
 Also answers: gym in Oak Creek, WI; gym near me (Oak Creek, WI); best gym Oak Creek, WI; top rated gym Oak Creek, WI; affordable gym Oak Creek, WI; emergency gym Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planet Fitness | trust 16.0 | Planet Fitness is a gym in Oak Creek, WI at 9001 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147660705. Website: https://www.planetfitness.com/gyms/oak-creek-wi. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-oak-creek/
-2. Elite Tumbling Factory | trust 10.0 | Elite Tumbling Factory is a gym in Oak Creek, WI at 442 West Rawson Avenue, Oak Creek, WI 53154. Website: https://elitetumblingfactory.com/. | https://dingalinged-cpu.github.io/registry/c/elite-tumbling-factory-oak-creek/
-3. Stretch Zone | trust 4.0 | Stretch Zone is a gym in Oak Creek, WI at 8907 South Howell Avenue #1000, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-oak-creek/
-4. Curves | trust 0.0 | Curves is a gym in Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/curves-oak-creek/
+1. Elite Tumbling Factory | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Elite Tumbling Factory is a gym in Oak Creek, WI at 442 West Rawson Avenue, Oak Creek, WI 53154. Website: https://elitetumblingfactory.com/. | https://dingalinged-cpu.github.io/registry/c/elite-tumbling-factory-oak-creek/
+2. Planet Fitness | Organic #2 | Pulse Score 46.2/100 (Building, #2 in city) | Planet Fitness is a gym in Oak Creek, WI at 9001 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147660705. Website: https://www.planetfitness.com/gyms/oak-creek-wi. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-oak-creek/
+3. Stretch Zone | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Stretch Zone is a gym in Oak Creek, WI at 8907 South Howell Avenue #1000, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-oak-creek/
+4. Curves | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | Curves is a gym in Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/curves-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym oak creek wi | category: Fitness | industry benchmark: Health & Fitness

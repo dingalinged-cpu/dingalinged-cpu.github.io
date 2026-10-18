@@ -13,7 +13,7 @@ Action Behavior Centers is a therapy practice in The Woodlands, TX at 3608 Resea
 - Website: https://www.actionbehavior.com/locations/aba-therapy-woodlands/
 - Email: hr@actionbehavior.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa-Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 6% of therapy practices in Houston, #1 of 2 therapy practices in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

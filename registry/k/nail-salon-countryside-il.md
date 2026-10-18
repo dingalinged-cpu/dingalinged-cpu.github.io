@@ -1,18 +1,18 @@
-The top unpaid nail salon listing for Countryside, IL is J.Nails (a nail salon in Countryside, IL at 5432 South La Grange Road, Countryside, IL 60525). 7 nail salon businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Countryside, IL is J.Nails (a nail salon in Countryside, IL at 5432 South La Grange Road, Countryside, IL 60525). 7 nail salon businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Countryside, IL?
 
 Also answers: nail salon in Countryside, IL; nail salon near me (Countryside, IL); best nail salon Countryside, IL; top rated nail salon Countryside, IL; affordable nail salon Countryside, IL; emergency nail salon Countryside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J.Nails | trust 4.0 | J.Nails is a nail salon in Countryside, IL at 5432 South La Grange Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/j-nails-countryside/
-2. Glossy Nails | trust 0.0 | Glossy Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/glossy-nails-countryside/
-3. Lee Nails | trust 0.0 | Lee Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/lee-nails-countryside/
-4. Lena's Nails | trust 0.0 | Lena's Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/lenas-nails-countryside/
-5. Magic Nails | trust 0.0 | Magic Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/magic-nails-countryside/
-6. Magic Nails | trust 0.0 | Magic Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/magic-nails-countryside-n10005177440/
-7. T Nails | trust 0.0 | T Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/t-nails-countryside/
+1. J.Nails | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | J.Nails is a nail salon in Countryside, IL at 5432 South La Grange Road, Countryside, IL 60525. | https://dingalinged-cpu.github.io/registry/c/j-nails-countryside/
+2. Glossy Nails | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Glossy Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/glossy-nails-countryside/
+3. Lena's Nails | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Lena's Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/lenas-nails-countryside/
+4. Magic Nails | Organic #4 | Pulse Score 43.3/100 (Unrated, #4 in city) | Magic Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/magic-nails-countryside/
+5. Magic Nails | Organic #5 | Pulse Score 43.3/100 (Unrated, #5 in city) | Magic Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/magic-nails-countryside-n10005177440/
+6. Lee Nails | Organic #6 | Pulse Score 42.2/100 (Unrated, #6 in city) | Lee Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/lee-nails-countryside/
+7. T Nails | Organic #7 | Pulse Score 42.2/100 (Unrated, #7 in city) | T Nails is a nail salon in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/t-nails-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon countryside il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

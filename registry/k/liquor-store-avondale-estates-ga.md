@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Avondale Estates, GA is The Beer Growler (a liquor store in Avondale Estates, GA at 38A North Avondale Road, Avondale Estates, GA 30002). 2 liquor store businesses are listed for Avondale Estates, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Avondale Estates, GA is The Beer Growler (a liquor store in Avondale Estates, GA at 38A North Avondale Road, Avondale Estates, GA 30002). 2 liquor store businesses are listed for Avondale Estates, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Avondale Estates, GA?
 
 Also answers: liquor store in Avondale Estates, GA; liquor store near me (Avondale Estates, GA); best liquor store Avondale Estates, GA; top rated liquor store Avondale Estates, GA; affordable liquor store Avondale Estates, GA; emergency liquor store Avondale Estates, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Beer Growler | trust 8.0 | The Beer Growler is a liquor store in Avondale Estates, GA at 38A North Avondale Road, Avondale Estates, GA 30002. | https://dingalinged-cpu.github.io/registry/c/the-beer-growler-avondale-estates/
-2. Jax Package | trust 0.0 | Jax Package is a liquor store in Avondale Estates, GA. | https://dingalinged-cpu.github.io/registry/c/jax-package-avondale-estates/
+1. The Beer Growler | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | The Beer Growler is a liquor store in Avondale Estates, GA at 38A North Avondale Road, Avondale Estates, GA 30002. | https://dingalinged-cpu.github.io/registry/c/the-beer-growler-avondale-estates/
+2. Jax Package | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Jax Package is a liquor store in Avondale Estates, GA. | https://dingalinged-cpu.github.io/registry/c/jax-package-avondale-estates/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store avondale estates ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

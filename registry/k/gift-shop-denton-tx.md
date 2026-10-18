@@ -1,13 +1,13 @@
-The top unpaid gift shop listing for Denton, TX is The Sleeping Lizard (a gift shop in Denton, TX at 424 North Elm Street, Denton, TX 76201. Phone: +19404844056. Website: https://www.sleepinglizzard.com/). 2 gift shop businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Denton, TX is The Sleeping Lizard (a gift shop in Denton, TX at 424 North Elm Street, Denton, TX 76201. Phone: +19404844056. Website: https://www.sleepinglizzard.com/). 2 gift shop businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Denton, TX?
 
 Also answers: gift shop in Denton, TX; gift shop near me (Denton, TX); best gift shop Denton, TX; top rated gift shop Denton, TX; affordable gift shop Denton, TX; emergency gift shop Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Sleeping Lizard | trust 20.0 | The Sleeping Lizard is a gift shop in Denton, TX at 424 North Elm Street, Denton, TX 76201. Phone: +19404844056. Website: https://www.sleepinglizzard.com/. | https://dingalinged-cpu.github.io/registry/c/the-sleeping-lizard-denton/
-2. 3 Wishes Gifts | trust 3.0 | 3 Wishes Gifts is a gift shop in Denton, TX at 108 West Oak Street #101, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/3-wishes-gifts-denton/
+1. The Sleeping Lizard | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | The Sleeping Lizard is a gift shop in Denton, TX at 424 North Elm Street, Denton, TX 76201. Phone: +19404844056. Website: https://www.sleepinglizzard.com/. | https://dingalinged-cpu.github.io/registry/c/the-sleeping-lizard-denton/
+2. 3 Wishes Gifts | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | 3 Wishes Gifts is a gift shop in Denton, TX at 108 West Oak Street #101, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/3-wishes-gifts-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop denton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

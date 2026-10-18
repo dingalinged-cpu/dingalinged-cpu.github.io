@@ -13,7 +13,7 @@ Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202,
 - Website: https://brewcitybarber.com/
 - Email: brewcitybarberllc@gmail.com
 - Opening hours (OSM syntax): Mo 11:00-14:00; Tu 09:00-11:00,16:00-19:00; We 09:00-13:00,15:00-18:00; Th 13:00-20:00; Fr 11:00-17:00
-- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 20% of barber shops in Milwaukee, #1 of 1 barber shops in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

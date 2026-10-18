@@ -1,12 +1,12 @@
-The top unpaid florist listing for Arlington, TX is In Bloom (a florist in Arlington, TX). 1 florist businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Arlington, TX is In Bloom (a florist in Arlington, TX). 1 florist businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Arlington, TX?
 
 Also answers: florist in Arlington, TX; florist near me (Arlington, TX); best florist Arlington, TX; top rated florist Arlington, TX; affordable florist Arlington, TX; emergency florist Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. In Bloom | trust 0.0 | In Bloom is a florist in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/in-bloom-arlington/
+1. In Bloom | Organic #1 | Pulse Score 41.9/100 (Unrated, #1 in city) | In Bloom is a florist in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/in-bloom-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist arlington tx | category: Events & weddings | industry benchmark: Personal Services

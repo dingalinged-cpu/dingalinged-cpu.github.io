@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Southlake, TX is The Gents Place (a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092). 6 hair salon businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Southlake, TX is The Gents Place (a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092). 6 hair salon businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Southlake, TX?
 
 Also answers: hair salon in Southlake, TX; hair salon near me (Southlake, TX); best hair salon Southlake, TX; top rated hair salon Southlake, TX; affordable hair salon Southlake, TX; emergency hair salon Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Gents Place | trust 4.0 | The Gents Place is a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/the-gents-place-southlake/
-2. Boardroom Salon | trust 0.0 | Boardroom Salon is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-southlake/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-southlake/
-4. Hair Bar | trust 0.0 | Hair Bar is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/hair-bar-southlake/
-5. Old World Salon | trust 0.0 | Old World Salon is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/old-world-salon-southlake/
-6. Toni & Guy | trust 0.0 | Toni & Guy is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/toni-and-guy-southlake/
+1. The Gents Place | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | The Gents Place is a hair salon in Southlake, TX at 1201 East Northwest Parkway #130, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/the-gents-place-southlake/
+2. Boardroom Salon | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Boardroom Salon is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-southlake/
+3. Hair Bar | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Hair Bar is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/hair-bar-southlake/
+4. Old World Salon | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Old World Salon is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/old-world-salon-southlake/
+5. Great Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Great Clips is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-southlake/
+6. Toni & Guy | Organic #6 | Pulse Score 42.2/100 (Building, #6 in city) | Toni & Guy is a hair salon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/toni-and-guy-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon southlake tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

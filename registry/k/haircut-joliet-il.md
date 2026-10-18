@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Joliet, IL is The Golden Touch Studios (a hair salon in Joliet, IL at 151 Springfield Avenue #8H, Joliet, IL 60435. Phone: +17088647707. Website: https://thegoldentouchstudiosil.com/). 3 haircut businesses are listed for Joliet, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Joliet, IL is The Golden Touch Studios (a hair salon in Joliet, IL at 151 Springfield Avenue #8H, Joliet, IL 60435. Phone: +17088647707. Website: https://thegoldentouchstudiosil.com/). 3 haircut businesses are listed for Joliet, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Joliet, IL?
 
 Also answers: haircut in Joliet, IL; haircut near me (Joliet, IL); best haircut Joliet, IL; top rated haircut Joliet, IL; affordable haircut Joliet, IL; emergency haircut Joliet, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Golden Touch Studios | trust 20.0 | The Golden Touch Studios is a hair salon in Joliet, IL at 151 Springfield Avenue #8H, Joliet, IL 60435. Phone: +17088647707. Website: https://thegoldentouchstudiosil.com/. | https://dingalinged-cpu.github.io/registry/c/the-golden-touch-studios-joliet/
-2. Kenneth Stone Salon | trust 0.0 | Kenneth Stone Salon is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/kenneth-stone-salon-joliet/
-3. Rockzorz Salon & Spa | trust 0.0 | Rockzorz Salon & Spa is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/rockzorz-salon-and-spa-joliet/
+1. The Golden Touch Studios | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | The Golden Touch Studios is a hair salon in Joliet, IL at 151 Springfield Avenue #8H, Joliet, IL 60435. Phone: +17088647707. Website: https://thegoldentouchstudiosil.com/. | https://dingalinged-cpu.github.io/registry/c/the-golden-touch-studios-joliet/
+2. Kenneth Stone Salon | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Kenneth Stone Salon is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/kenneth-stone-salon-joliet/
+3. Rockzorz Salon & Spa | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rockzorz Salon & Spa is a hair salon in Joliet, IL. | https://dingalinged-cpu.github.io/registry/c/rockzorz-salon-and-spa-joliet/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut joliet il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

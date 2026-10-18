@@ -1,13 +1,13 @@
-The top unpaid vet listing for City Of Pewaukee, WI is Waukesha Animal Hospital (a veterinarian in Waukesha, WI at W237N660 Oakridge Drive, Waukesha, WI 53188. Phone: +12625422541. Website: https://waukeshaanimalhospital.com/). 2 vet businesses are listed for City Of Pewaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for City Of Pewaukee, WI is Waukesha Animal Hospital (a veterinarian in Waukesha, WI at W237N660 Oakridge Drive, Waukesha, WI 53188. Phone: +12625422541. Website: https://waukeshaanimalhospital.com/). 2 vet businesses are listed for City Of Pewaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in City Of Pewaukee, WI?
 
 Also answers: vet in City Of Pewaukee, WI; vet near me (City Of Pewaukee, WI); best vet City Of Pewaukee, WI; top rated vet City Of Pewaukee, WI; affordable vet City Of Pewaukee, WI; emergency vet City Of Pewaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waukesha Animal Hospital | trust 20.0 | Waukesha Animal Hospital is a veterinarian in Waukesha, WI at W237N660 Oakridge Drive, Waukesha, WI 53188. Phone: +12625422541. Website: https://waukeshaanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/waukesha-animal-hospital-waukesha/
-2. WVRC - Waukesha | trust 20.0 | WVRC - Waukesha is a veterinarian in Waukesha, WI at W293 N1046 Pewaukee Road, Waukesha, WI 53188. Phone: +12625423241. Website: https://www.wvrcwi.com/locations/waukesha/. | https://dingalinged-cpu.github.io/registry/c/wvrc-waukesha-waukesha/
+1. Waukesha Animal Hospital | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Waukesha Animal Hospital is a veterinarian in Waukesha, WI at W237N660 Oakridge Drive, Waukesha, WI 53188. Phone: +12625422541. Website: https://waukeshaanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/waukesha-animal-hospital-waukesha/
+2. WVRC - Waukesha | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | WVRC - Waukesha is a veterinarian in Waukesha, WI at W293 N1046 Pewaukee Road, Waukesha, WI 53188. Phone: +12625423241. Website: https://www.wvrcwi.com/locations/waukesha/. | https://dingalinged-cpu.github.io/registry/c/wvrc-waukesha-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet city of pewaukee wi | category: Pets | industry benchmark: Animals & Pets

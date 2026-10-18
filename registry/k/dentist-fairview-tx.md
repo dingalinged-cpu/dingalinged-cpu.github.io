@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Fairview, TX is Sloan Creek Dental (a dentist in Fairview, TX at 115 Whistlestop Way, Fairview, TX 75069. Website: https://sloancreekdental.com/). 1 dentist businesses are listed for Fairview, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fairview, TX is Sloan Creek Dental (a dentist in Fairview, TX at 115 Whistlestop Way, Fairview, TX 75069. Website: https://sloancreekdental.com/). 1 dentist businesses are listed for Fairview, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fairview, TX?
 
 Also answers: dentist in Fairview, TX; dentist near me (Fairview, TX); best dentist Fairview, TX; top rated dentist Fairview, TX; affordable dentist Fairview, TX; emergency dentist Fairview, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sloan Creek Dental | trust 14.0 | Sloan Creek Dental is a dentist in Fairview, TX at 115 Whistlestop Way, Fairview, TX 75069. Website: https://sloancreekdental.com/. | https://dingalinged-cpu.github.io/registry/c/sloan-creek-dental-fairview/
+1. Sloan Creek Dental | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Sloan Creek Dental is a dentist in Fairview, TX at 115 Whistlestop Way, Fairview, TX 75069. Website: https://sloancreekdental.com/. | https://dingalinged-cpu.github.io/registry/c/sloan-creek-dental-fairview/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fairview tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

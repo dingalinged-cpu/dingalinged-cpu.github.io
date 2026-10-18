@@ -1,13 +1,13 @@
-The top unpaid family doctor listing for Peachtree City, GA is MinuteClinic (a family medicine practice in Peachtree City, GA). 2 family doctor businesses are listed for Peachtree City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Peachtree City, GA is Peachtree City Urgent Care (a family medicine practice in Peachtree City, GA). 2 family doctor businesses are listed for Peachtree City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Peachtree City, GA?
 
 Also answers: family doctor in Peachtree City, GA; family doctor near me (Peachtree City, GA); best family doctor Peachtree City, GA; top rated family doctor Peachtree City, GA; affordable family doctor Peachtree City, GA; emergency family doctor Peachtree City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MinuteClinic | trust 0.0 | MinuteClinic is a family medicine practice in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/minuteclinic-peachtree-city/
-2. Peachtree City Urgent Care | trust 0.0 | Peachtree City Urgent Care is a family medicine practice in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-city-urgent-care-peachtree-city/
+1. Peachtree City Urgent Care | Organic #1 | Pulse Score 53.5/100 (Unrated, #1 in city) | Peachtree City Urgent Care is a family medicine practice in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-city-urgent-care-peachtree-city/
+2. MinuteClinic | Organic #2 | Pulse Score 41.2/100 (Unrated, #2 in city) | MinuteClinic is a family medicine practice in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/minuteclinic-peachtree-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor peachtree city ga | category: Health & medical | industry benchmark: Physicians & Surgeons

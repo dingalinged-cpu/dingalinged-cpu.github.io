@@ -1,16 +1,16 @@
-The top unpaid jewelry store listing for Maplewood, MN is Goodman Jewelers (a jewelry store in Maplewood, MN). 5 jewelry store businesses are listed for Maplewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Maplewood, MN is Goodman Jewelers (a jewelry store in Maplewood, MN). 5 jewelry store businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Maplewood, MN?
 
 Also answers: jewelry store in Maplewood, MN; jewelry store near me (Maplewood, MN); best jewelry store Maplewood, MN; top rated jewelry store Maplewood, MN; affordable jewelry store Maplewood, MN; emergency jewelry store Maplewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodman Jewelers | trust 0.0 | Goodman Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/goodman-jewelers-maplewood/
-2. Helzberg Jewelers | trust 0.0 | Helzberg Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-jewelers-maplewood/
-3. Hoff Diamonds | trust 0.0 | Hoff Diamonds is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/hoff-diamonds-maplewood/
-4. Jared | trust 0.0 | Jared is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/jared-maplewood/
-5. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-maplewood/
+1. Goodman Jewelers | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Goodman Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/goodman-jewelers-maplewood/
+2. Helzberg Jewelers | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Helzberg Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/helzberg-jewelers-maplewood/
+3. Hoff Diamonds | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Hoff Diamonds is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/hoff-diamonds-maplewood/
+4. Jared | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Jared is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/jared-maplewood/
+5. Kay Jewelers | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Kay Jewelers is a jewelry store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store maplewood mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

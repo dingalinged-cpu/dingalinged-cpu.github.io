@@ -13,7 +13,7 @@ Aaron's is a furniture store in Denton, TX at 910 West University Drive, Denton,
 - Website: https://locations.aarons.com/us/tx/denton/910-w-university-dr
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
-- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 59% of furniture stores in Dallas–Fort Worth, #2 of 5 furniture stores in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Andriusis Law Office is a lawyer in Milwaukee, WI at 985 West Oklahoma Avenue, M
 - Website: https://abogadomilwaukee.com/
 - Email: abogado747@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa, Su off
-- Registry Score: 64.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 2% of lawyers in Milwaukee, #1 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

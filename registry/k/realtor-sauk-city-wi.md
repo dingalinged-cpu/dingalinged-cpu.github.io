@@ -1,12 +1,12 @@
-The top unpaid realtor listing for Sauk City, WI is NextHome Elite Real Estate (a real estate agency in Sauk City, WI). 1 realtor businesses are listed for Sauk City, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Sauk City, WI is NextHome Elite Real Estate (a real estate agency in Sauk City, WI). 1 realtor businesses are listed for Sauk City, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Sauk City, WI?
 
 Also answers: realtor in Sauk City, WI; realtor near me (Sauk City, WI); best realtor Sauk City, WI; top rated realtor Sauk City, WI; affordable realtor Sauk City, WI; emergency realtor Sauk City, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NextHome Elite Real Estate | trust 0.0 | NextHome Elite Real Estate is a real estate agency in Sauk City, WI. | https://dingalinged-cpu.github.io/registry/c/nexthome-elite-real-estate-sauk-city/
+1. NextHome Elite Real Estate | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | NextHome Elite Real Estate is a real estate agency in Sauk City, WI. | https://dingalinged-cpu.github.io/registry/c/nexthome-elite-real-estate-sauk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor sauk city wi | category: real_estate | industry benchmark: Real Estate

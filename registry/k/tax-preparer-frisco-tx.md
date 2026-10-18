@@ -1,14 +1,14 @@
-The top unpaid tax preparer listing for Frisco, TX is H&R Block (a tax preparation service in Frisco, TX at 8161 FM 423 #220, Frisco, TX). 3 tax preparer businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Frisco, TX is H&R Block (a tax preparation service in Frisco, TX at 6500 Preston Road, Frisco, TX). 3 tax preparer businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Frisco, TX?
 
 Also answers: tax preparer in Frisco, TX; tax preparer near me (Frisco, TX); best tax preparer Frisco, TX; top rated tax preparer Frisco, TX; affordable tax preparer Frisco, TX; emergency tax preparer Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 3.0 | H&R Block is a tax preparation service in Frisco, TX at 8161 FM 423 #220, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco/
-2. H&R Block | trust 3.0 | H&R Block is a tax preparation service in Frisco, TX at 6500 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco-n13328534062/
-3. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco-w919025322/
+1. H&R Block | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Frisco, TX at 6500 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco-n13328534062/
+2. H&R Block | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | H&R Block is a tax preparation service in Frisco, TX at 8161 FM 423 #220, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco/
+3. H&R Block | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | H&R Block is a tax preparation service in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-frisco-w919025322/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer frisco tx | category: professional_accounting | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Johns Creek, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 72% of gyms in Atlanta, #6 of 9 gyms in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

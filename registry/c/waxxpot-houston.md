@@ -13,7 +13,7 @@ Waxxpot is a waxing salon in Houston, TX at 209b Heights Boulevard, Houston, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu-Fr 10:00-20:00; Sa 10:00-18:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 20% of waxing salons in Houston, #3 of 13 waxing salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

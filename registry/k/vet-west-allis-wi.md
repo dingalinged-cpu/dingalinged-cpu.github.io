@@ -1,12 +1,12 @@
-The top unpaid vet listing for West Allis, WI is Spirit of 76th Veterinary Clinic (a veterinarian in West Allis, WI at 7606 South 76th Street, West Allis, WI 53219. Phone: +14145460750. Website: https://spiritof76thveterinaryclinic.com/). 1 vet businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for West Allis, WI is Spirit of 76th Veterinary Clinic (a veterinarian in West Allis, WI at 7606 South 76th Street, West Allis, WI 53219. Phone: +14145460750. Website: https://spiritof76thveterinaryclinic.com/). 1 vet businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in West Allis, WI?
 
 Also answers: vet in West Allis, WI; vet near me (West Allis, WI); best vet West Allis, WI; top rated vet West Allis, WI; affordable vet West Allis, WI; emergency vet West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spirit of 76th Veterinary Clinic | trust 20.0 | Spirit of 76th Veterinary Clinic is a veterinarian in West Allis, WI at 7606 South 76th Street, West Allis, WI 53219. Phone: +14145460750. Website: https://spiritof76thveterinaryclinic.com/. | https://dingalinged-cpu.github.io/registry/c/spirit-of-76th-veterinary-clinic-west-allis/
+1. Spirit of 76th Veterinary Clinic | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Spirit of 76th Veterinary Clinic is a veterinarian in West Allis, WI at 7606 South 76th Street, West Allis, WI 53219. Phone: +14145460750. Website: https://spiritof76thveterinaryclinic.com/. | https://dingalinged-cpu.github.io/registry/c/spirit-of-76th-veterinary-clinic-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet west allis wi | category: Pets | industry benchmark: Animals & Pets

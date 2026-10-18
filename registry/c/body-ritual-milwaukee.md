@@ -13,7 +13,7 @@ Body Ritual is a tattoo shop in Milwaukee, WI at 1459 North Farwell Avenue, Milw
 - Website: n/a
 - Email: 1459bodyritual@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-22:00; Su 12:00-17:00
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 12% of tattoo shops in Milwaukee, #4 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

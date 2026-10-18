@@ -13,7 +13,7 @@ P-D-Q Dry Clean City is a dry cleaner in North Richland Hills, TX at 8401 Davis 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:00-15:00
-- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of dry cleaners in Dallas–Fort Worth, #1 of 1 dry cleaners in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 63.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

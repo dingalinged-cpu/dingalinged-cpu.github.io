@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Bayside, WI is Nature Preschool (a preschool in Bayside, WI. Phone: +14143522880. Website: https://www.schlitzaudubon.org/learn/nature-preschool/). 1 preschool businesses are listed for Bayside, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Bayside, WI is Nature Preschool (a preschool in Bayside, WI. Phone: +14143522880. Website: https://www.schlitzaudubon.org/learn/nature-preschool/). 1 preschool businesses are listed for Bayside, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Bayside, WI?
 
 Also answers: preschool in Bayside, WI; preschool near me (Bayside, WI); best preschool Bayside, WI; top rated preschool Bayside, WI; affordable preschool Bayside, WI; emergency preschool Bayside, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nature Preschool | trust 16.0 | Nature Preschool is a preschool in Bayside, WI. Phone: +14143522880. Website: https://www.schlitzaudubon.org/learn/nature-preschool/. | https://dingalinged-cpu.github.io/registry/c/nature-preschool-bayside/
+1. Nature Preschool | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Nature Preschool is a preschool in Bayside, WI. Phone: +14143522880. Website: https://www.schlitzaudubon.org/learn/nature-preschool/. | https://dingalinged-cpu.github.io/registry/c/nature-preschool-bayside/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool bayside wi | category: Education & childcare | industry benchmark: Education & Instruction

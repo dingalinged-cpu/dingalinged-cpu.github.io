@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Glendale, WI is Nailz By Luvy (a nail salon in Glendale, WI at 6803 North Green Bay Avenue #1, Glendale, WI 53209. Phone: +14145029114. Website: https://nailzbyluvy.as.me/schedule/9554b0e3). 3 nail salon businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Glendale, WI is Nailz By Luvy (a nail salon in Glendale, WI at 6803 North Green Bay Avenue #1, Glendale, WI 53209. Phone: +14145029114. Website: https://nailzbyluvy.as.me/schedule/9554b0e3). 3 nail salon businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Glendale, WI?
 
 Also answers: nail salon in Glendale, WI; nail salon near me (Glendale, WI); best nail salon Glendale, WI; top rated nail salon Glendale, WI; affordable nail salon Glendale, WI; emergency nail salon Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nailz By Luvy | trust 20.0 | Nailz By Luvy is a nail salon in Glendale, WI at 6803 North Green Bay Avenue #1, Glendale, WI 53209. Phone: +14145029114. Website: https://nailzbyluvy.as.me/schedule/9554b0e3. | https://dingalinged-cpu.github.io/registry/c/nailz-by-luvy-glendale/
-2. Ly Ly Nails & Spa | trust 3.0 | Ly Ly Nails & Spa is a nail salon in Glendale, WI at 480 West Silver Spring Drive, Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/ly-ly-nails-and-spa-glendale/
-3. Nails & Spa | trust 0.0 | Nails & Spa is a nail salon in Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/nails-and-spa-glendale/
+1. Nailz By Luvy | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Nailz By Luvy is a nail salon in Glendale, WI at 6803 North Green Bay Avenue #1, Glendale, WI 53209. Phone: +14145029114. Website: https://nailzbyluvy.as.me/schedule/9554b0e3. | https://dingalinged-cpu.github.io/registry/c/nailz-by-luvy-glendale/
+2. Ly Ly Nails & Spa | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Ly Ly Nails & Spa is a nail salon in Glendale, WI at 480 West Silver Spring Drive, Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/ly-ly-nails-and-spa-glendale/
+3. Nails & Spa | Organic #3 | Pulse Score 41/100 (Unrated, #3 in city) | Nails & Spa is a nail salon in Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/nails-and-spa-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon glendale wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

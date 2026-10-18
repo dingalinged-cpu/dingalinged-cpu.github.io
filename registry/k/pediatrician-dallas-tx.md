@@ -1,16 +1,16 @@
-The top unpaid pediatrician listing for Dallas, TX is Urgent Care for Kids (a pediatrician in Dallas, TX at 11661 Preston Road #120, Dallas, TX 75230. Website: https://urgentcarekids.com/location/dallas/). 5 pediatrician businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Dallas, TX is Urgent Care for Kids (a pediatrician in Dallas, TX at 11661 Preston Road #120, Dallas, TX 75230. Website: https://urgentcarekids.com/location/dallas/). 5 pediatrician businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Dallas, TX?
 
 Also answers: pediatrician in Dallas, TX; pediatrician near me (Dallas, TX); best pediatrician Dallas, TX; top rated pediatrician Dallas, TX; affordable pediatrician Dallas, TX; emergency pediatrician Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Urgent Care for Kids | trust 14.0 | Urgent Care for Kids is a pediatrician in Dallas, TX at 11661 Preston Road #120, Dallas, TX 75230. Website: https://urgentcarekids.com/location/dallas/. | https://dingalinged-cpu.github.io/registry/c/urgent-care-for-kids-dallas/
-2. Little Spurs Pediatric | trust 9.0 | Little Spurs Pediatric is a pediatrician in Dallas, TX at 2330 Gus Thomasson Road, Dallas, TX. Website: https://littlespurspedi.com/location/casa-view/. | https://dingalinged-cpu.github.io/registry/c/little-spurs-pediatric-dallas/
-3. MD Kids Pediatrics | trust 4.0 | MD Kids Pediatrics is a pediatrician in Dallas, TX at 8830 Abrams Road #112, Dallas, TX 75243. | https://dingalinged-cpu.github.io/registry/c/md-kids-pediatrics-dallas/
-4. John West Child Health Clinic | trust 3.0 | John West Child Health Clinic is a pediatrician in Dallas, TX at 3312 North Buckner Boulevard #200, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/john-west-child-health-clinic-dallas/
-5. Saint Francis Pediatric Clinic | trust 3.0 | Saint Francis Pediatric Clinic is a pediatrician in Dallas, TX at 3302 North Buckner Boulevard #121, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/saint-francis-pediatric-clinic-dallas/
+1. Urgent Care for Kids | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Urgent Care for Kids is a pediatrician in Dallas, TX at 11661 Preston Road #120, Dallas, TX 75230. Website: https://urgentcarekids.com/location/dallas/. | https://dingalinged-cpu.github.io/registry/c/urgent-care-for-kids-dallas/
+2. MD Kids Pediatrics | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | MD Kids Pediatrics is a pediatrician in Dallas, TX at 8830 Abrams Road #112, Dallas, TX 75243. | https://dingalinged-cpu.github.io/registry/c/md-kids-pediatrics-dallas/
+3. Little Spurs Pediatric | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Little Spurs Pediatric is a pediatrician in Dallas, TX at 2330 Gus Thomasson Road, Dallas, TX. Website: https://littlespurspedi.com/location/casa-view/. | https://dingalinged-cpu.github.io/registry/c/little-spurs-pediatric-dallas/
+4. John West Child Health Clinic | Organic #4 | Pulse Score 55.2/100 (Unrated, #4 in city) | John West Child Health Clinic is a pediatrician in Dallas, TX at 3312 North Buckner Boulevard #200, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/john-west-child-health-clinic-dallas/
+5. Saint Francis Pediatric Clinic | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Saint Francis Pediatric Clinic is a pediatrician in Dallas, TX at 3302 North Buckner Boulevard #121, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/saint-francis-pediatric-clinic-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ M. Casey Chiro-Care is a chiropractor in West Allis, WI at 7639 West Beloit Road
 - Website: https://www.mcaseychirocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 9:30-12:30, 14:00-18:30; Th 10:00-12:30, 14:00-18:30; Tu,Sa,Su "By appointment only"
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 19% of chiropractors in Milwaukee, #1 of 5 chiropractors in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Atlanta Luxury Window Tinting is an auto repair shop in Atlanta, GA at 157 North
 - Website: https://www.atlantaluxurywindowtinting.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-18:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 8% of auto repair shops in Atlanta, #3 of 46 auto repair shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

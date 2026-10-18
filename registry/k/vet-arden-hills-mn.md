@@ -1,13 +1,13 @@
-The top unpaid vet listing for Arden Hills, MN is Arden Shoreview Animal Hospital (a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112). 2 vet businesses are listed for Arden Hills, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Arden Hills, MN is Arden Shoreview Animal Hospital (a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112). 2 vet businesses are listed for Arden Hills, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Arden Hills, MN?
 
 Also answers: vet in Arden Hills, MN; vet near me (Arden Hills, MN); best vet Arden Hills, MN; top rated vet Arden Hills, MN; affordable vet Arden Hills, MN; emergency vet Arden Hills, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arden Shoreview Animal Hospital | trust 4.0 | Arden Shoreview Animal Hospital is a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112. | https://dingalinged-cpu.github.io/registry/c/arden-shoreview-animal-hospital-saint-paul/
-2. BluePearl | trust 4.0 | BluePearl is a veterinarian in Arden Hills, MN at 1285 Grey Fox Road, Arden Hills, MN 55112. | https://dingalinged-cpu.github.io/registry/c/bluepearl-arden-hills/
+1. Arden Shoreview Animal Hospital | Organic #1 | Pulse Score 56.3/100 (Unrated, #5 in city) | Arden Shoreview Animal Hospital is a veterinarian in Saint Paul, MN at 1261 County Road E West, Saint Paul, MN 55112. | https://dingalinged-cpu.github.io/registry/c/arden-shoreview-animal-hospital-saint-paul/
+2. BluePearl | Organic #2 | Pulse Score 44.1/100 (Building, #1 in city) | BluePearl is a veterinarian in Arden Hills, MN at 1285 Grey Fox Road, Arden Hills, MN 55112. | https://dingalinged-cpu.github.io/registry/c/bluepearl-arden-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet arden hills mn | category: Pets | industry benchmark: Animals & Pets

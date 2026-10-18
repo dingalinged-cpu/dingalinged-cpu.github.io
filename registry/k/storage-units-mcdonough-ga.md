@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Mcdonough, GA is Storage Xxtra (a self-storage facility in McDonough, GA at 6 Farris Drive, McDonough, GA 30253). 3 storage units businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Mcdonough, GA is Storage Xxtra (a self-storage facility in McDonough, GA at 6 Farris Drive, McDonough, GA 30253). 3 storage units businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Mcdonough, GA?
 
 Also answers: storage units in Mcdonough, GA; storage units near me (Mcdonough, GA); best storage units Mcdonough, GA; top rated storage units Mcdonough, GA; affordable storage units Mcdonough, GA; emergency storage units Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Storage Xxtra | trust 8.0 | Storage Xxtra is a self-storage facility in McDonough, GA at 6 Farris Drive, McDonough, GA 30253. | https://dingalinged-cpu.github.io/registry/c/storage-xxtra-mcdonough/
-2. Storage Xxtra - Westridge | trust 8.0 | Storage Xxtra - Westridge is a self-storage facility in McDonough, GA at 155 Westridge Parkway, McDonough, GA 30253. | https://dingalinged-cpu.github.io/registry/c/storage-xxtra-westridge-mcdonough/
-3. SecurCare Self Storage | trust 0.0 | SecurCare Self Storage is a self-storage facility in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-mcdonough/
+1. Storage Xxtra | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Storage Xxtra is a self-storage facility in McDonough, GA at 6 Farris Drive, McDonough, GA 30253. | https://dingalinged-cpu.github.io/registry/c/storage-xxtra-mcdonough/
+2. Storage Xxtra - Westridge | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Storage Xxtra - Westridge is a self-storage facility in McDonough, GA at 155 Westridge Parkway, McDonough, GA 30253. | https://dingalinged-cpu.github.io/registry/c/storage-xxtra-westridge-mcdonough/
+3. SecurCare Self Storage | Organic #3 | Pulse Score 42.2/100 (Unrated, #3 in city) | SecurCare Self Storage is a self-storage facility in McDonough, GA. | https://dingalinged-cpu.github.io/registry/c/securcare-self-storage-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units mcdonough ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

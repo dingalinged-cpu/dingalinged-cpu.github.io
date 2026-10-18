@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Oak Creek, WI is Ascension Martial Arts (a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/). 3 martial arts businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Oak Creek, WI is Ascension Martial Arts (a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/). 3 martial arts businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Oak Creek, WI?
 
 Also answers: martial arts in Oak Creek, WI; martial arts near me (Oak Creek, WI); best martial arts Oak Creek, WI; top rated martial arts Oak Creek, WI; affordable martial arts Oak Creek, WI; emergency martial arts Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ascension Martial Arts | trust 16.0 | Ascension Martial Arts is a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/. | https://dingalinged-cpu.github.io/registry/c/ascension-martial-arts-oak-creek/
-2. Nova Gyms Martial Arts & Fitness | trust 16.0 | Nova Gyms Martial Arts & Fitness is a martial arts school in Oak Creek, WI at 6508 South 27th Street, Oak Creek, WI 53154. Phone: +14143014133. Website: https://www.novagyms.com/. | https://dingalinged-cpu.github.io/registry/c/nova-gyms-martial-arts-and-fitness-oak-creek/
-3. Championship Martial Arts | trust 3.0 | Championship Martial Arts is a martial arts school in Oak Creek, WI at 8641 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/championship-martial-arts-oak-creek/
+1. Ascension Martial Arts | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Ascension Martial Arts is a martial arts school in Oak Creek, WI at 200 East Oak Street, Oak Creek, WI 53154. Phone: +14148569100. Website: https://ascensionma.com/. | https://dingalinged-cpu.github.io/registry/c/ascension-martial-arts-oak-creek/
+2. Nova Gyms Martial Arts & Fitness | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Nova Gyms Martial Arts & Fitness is a martial arts school in Oak Creek, WI at 6508 South 27th Street, Oak Creek, WI 53154. Phone: +14143014133. Website: https://www.novagyms.com/. | https://dingalinged-cpu.github.io/registry/c/nova-gyms-martial-arts-and-fitness-oak-creek/
+3. Championship Martial Arts | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Championship Martial Arts is a martial arts school in Oak Creek, WI at 8641 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/championship-martial-arts-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts oak creek wi | category: Fitness | industry benchmark: Health & Fitness

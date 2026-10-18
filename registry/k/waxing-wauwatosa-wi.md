@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Wauwatosa, WI is Paulina Esthetics Boutique (a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/). 2 waxing businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Wauwatosa, WI is Paulina Esthetics Boutique (a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/). 2 waxing businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Wauwatosa, WI?
 
 Also answers: waxing in Wauwatosa, WI; waxing near me (Wauwatosa, WI); best waxing Wauwatosa, WI; top rated waxing Wauwatosa, WI; affordable waxing Wauwatosa, WI; emergency waxing Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paulina Esthetics Boutique | trust 19.0 | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://dingalinged-cpu.github.io/registry/c/paulina-esthetics-boutique-wauwatosa/
-2. Smitten Kitten Wax & Beauty | trust 16.0 | Smitten Kitten Wax & Beauty is a waxing salon in Wauwatosa, WI at 7259 West North Avenue, Wauwatosa, WI 53213. Phone: +14149300008. Website: https://www.smittenkittenwax.com/. | https://dingalinged-cpu.github.io/registry/c/smitten-kitten-wax-and-beauty-wauwatosa/
+1. Paulina Esthetics Boutique | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://dingalinged-cpu.github.io/registry/c/paulina-esthetics-boutique-wauwatosa/
+2. Smitten Kitten Wax & Beauty | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Smitten Kitten Wax & Beauty is a waxing salon in Wauwatosa, WI at 7259 West North Avenue, Wauwatosa, WI 53213. Phone: +14149300008. Website: https://www.smittenkittenwax.com/. | https://dingalinged-cpu.github.io/registry/c/smitten-kitten-wax-and-beauty-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing wauwatosa wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

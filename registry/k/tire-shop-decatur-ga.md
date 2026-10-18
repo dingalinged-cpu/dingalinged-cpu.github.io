@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Decatur, GA is Express Oil Change & Tire Engineers (a tire shop in Decatur, GA at 2555 Candler Road, Decatur, GA 30032. Phone: +14042411094. Website: https://www.expressoil.com/stores/decatur/ga/0507/). 2 tire shop businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Decatur, GA is Good Discount Tires (a tire shop in Decatur, GA at 4856 Covington Highway, Decatur, GA 30035. Phone: +14042842774. Website: https://gooddiscounttiresllc.com/). 2 tire shop businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Decatur, GA?
 
 Also answers: tire shop in Decatur, GA; tire shop near me (Decatur, GA); best tire shop Decatur, GA; top rated tire shop Decatur, GA; affordable tire shop Decatur, GA; emergency tire shop Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Decatur, GA at 2555 Candler Road, Decatur, GA 30032. Phone: +14042411094. Website: https://www.expressoil.com/stores/decatur/ga/0507/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-decatur/
-2. Good Discount Tires | trust 20.0 | Good Discount Tires is a tire shop in Decatur, GA at 4856 Covington Highway, Decatur, GA 30035. Phone: +14042842774. Website: https://gooddiscounttiresllc.com/. | https://dingalinged-cpu.github.io/registry/c/good-discount-tires-decatur/
+1. Good Discount Tires | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Good Discount Tires is a tire shop in Decatur, GA at 4856 Covington Highway, Decatur, GA 30035. Phone: +14042842774. Website: https://gooddiscounttiresllc.com/. | https://dingalinged-cpu.github.io/registry/c/good-discount-tires-decatur/
+2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.3/100 (Building, #2 in city) | Express Oil Change & Tire Engineers is a tire shop in Decatur, GA at 2555 Candler Road, Decatur, GA 30032. Phone: +14042411094. Website: https://www.expressoil.com/stores/decatur/ga/0507/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop decatur ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

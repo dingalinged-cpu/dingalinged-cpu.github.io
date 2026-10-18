@@ -1,16 +1,16 @@
-The top unpaid tailor listing for Irving, TX is GQ Tailor | Tailoring & Alterations (a tailor in Irving, TX at 5220 North O'Connor Boulevard #106, Irving, TX 75039. Phone: +19724018999. Website: https://gqtailorirving.com/). 5 tailor businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Irving, TX is Hun’s Tailor (a tailor in Irving, TX at 4000 North MacArthur Boulevard #130, Irving, TX 75038. Phone: +19726501867. Website: https://hunstailor.com/). 5 tailor businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Irving, TX?
 
 Also answers: tailor in Irving, TX; tailor near me (Irving, TX); best tailor Irving, TX; top rated tailor Irving, TX; affordable tailor Irving, TX; emergency tailor Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GQ Tailor | Tailoring & Alterations | trust 20.0 | GQ Tailor | Tailoring & Alterations is a tailor in Irving, TX at 5220 North O'Connor Boulevard #106, Irving, TX 75039. Phone: +19724018999. Website: https://gqtailorirving.com/. | https://dingalinged-cpu.github.io/registry/c/gq-tailor-tailoring-and-alterations-irving/
-2. Hun’s Tailor | trust 20.0 | Hun’s Tailor is a tailor in Irving, TX at 4000 North MacArthur Boulevard #130, Irving, TX 75038. Phone: +19726501867. Website: https://hunstailor.com/. | https://dingalinged-cpu.github.io/registry/c/hun-s-tailor-irving/
-3. Jane's Tailor | trust 13.0 | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://dingalinged-cpu.github.io/registry/c/janes-tailor-irving/
-4. Kathy's Alterations | trust 4.0 | Kathy's Alterations is a tailor in Irving, TX at 1813 West Pioneer Drive, Irving, TX 75061. | https://dingalinged-cpu.github.io/registry/c/kathys-alterations-irving/
-5. Lisa's Alterations | trust 4.0 | Lisa's Alterations is a tailor in Irving, TX at 403 West Rochelle Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/lisas-alterations-irving/
+1. Hun’s Tailor | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Hun’s Tailor is a tailor in Irving, TX at 4000 North MacArthur Boulevard #130, Irving, TX 75038. Phone: +19726501867. Website: https://hunstailor.com/. | https://dingalinged-cpu.github.io/registry/c/hun-s-tailor-irving/
+2. Jane's Tailor | Organic #2 | Pulse Score 64/100 (Good, #2 in city) | Jane's Tailor is a tailor in Irving, TX at 7447 North MacArthur Boulevard #110, Irving, TX. Phone: +19723730900. | https://dingalinged-cpu.github.io/registry/c/janes-tailor-irving/
+3. Kathy's Alterations | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Kathy's Alterations is a tailor in Irving, TX at 1813 West Pioneer Drive, Irving, TX 75061. | https://dingalinged-cpu.github.io/registry/c/kathys-alterations-irving/
+4. Lisa's Alterations | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Lisa's Alterations is a tailor in Irving, TX at 403 West Rochelle Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/lisas-alterations-irving/
+5. GQ Tailor | Tailoring & Alterations | Organic #5 | Pulse Score 53/100 (Unrated, #5 in city) | GQ Tailor | Tailoring & Alterations is a tailor in Irving, TX at 5220 North O'Connor Boulevard #106, Irving, TX 75039. Phone: +19724018999. Website: https://gqtailorirving.com/. | https://dingalinged-cpu.github.io/registry/c/gq-tailor-tailoring-and-alterations-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance

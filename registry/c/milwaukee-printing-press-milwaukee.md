@@ -13,7 +13,7 @@ Milwaukee Printing Press is a printing service in Milwaukee, WI at 541 North Bro
 - Website: https://www.milwaukeeprintingpress.com/
 - Email: info@MkePP.com
 - Opening hours (OSM syntax): Mo-Th 09:30-16:00; Fr 09:30-15:00
-- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 10% of printing services in Milwaukee, #3 of 16 printing services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

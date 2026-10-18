@@ -13,7 +13,7 @@ The UPS Store is a printing service in Marietta, GA at 3605 Sandy Plains Road No
 - Website: https://locations.theupsstore.com/ga/marietta/3605-sandy-plains-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 37% of printing services in Atlanta, #5 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

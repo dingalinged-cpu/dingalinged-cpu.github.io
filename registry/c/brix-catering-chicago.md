@@ -13,7 +13,7 @@ Brix Catering is a caterer in Chicago, IL at 1463 West Leland Avenue, Chicago, I
 - Website: https://www.brixcatering.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.7/100 — Unrated (not enough evidence yet) — top 43% of caterers in Chicago, #2 of 5 caterers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 49.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

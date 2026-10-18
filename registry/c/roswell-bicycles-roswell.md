@@ -13,7 +13,7 @@ Roswell Bicycles is a bike shop in Roswell, GA. Phone: +17706424057. Website: ht
 - Website: https://www.roswellbicycles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-18:00;Su 12:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 52% of bike shops in Atlanta, #1 of 3 bike shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

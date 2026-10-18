@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Conroe, TX is Live Oak Cleaners (a dry cleaner in Conroe, TX at 1801 North Loop 336 West, Conroe, TX 77304). 1 dry cleaners businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Conroe, TX is Live Oak Cleaners (a dry cleaner in Conroe, TX at 1801 North Loop 336 West, Conroe, TX 77304). 1 dry cleaners businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Conroe, TX?
 
 Also answers: dry cleaners in Conroe, TX; dry cleaners near me (Conroe, TX); best dry cleaners Conroe, TX; top rated dry cleaners Conroe, TX; affordable dry cleaners Conroe, TX; emergency dry cleaners Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Live Oak Cleaners | trust 4.0 | Live Oak Cleaners is a dry cleaner in Conroe, TX at 1801 North Loop 336 West, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/live-oak-cleaners-conroe/
+1. Live Oak Cleaners | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Live Oak Cleaners is a dry cleaner in Conroe, TX at 1801 North Loop 336 West, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/live-oak-cleaners-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners conroe tx | category: Professional & financial services | industry benchmark: Finance & Insurance

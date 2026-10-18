@@ -1,13 +1,13 @@
-The top unpaid staffing agency listing for Carrollton, TX is KP Staffing (a staffing agency in Carrollton, TX at 2145 North Josey Lane #100, Carrollton, TX 75006). 2 staffing agency businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Carrollton, TX is KP Staffing (a staffing agency in Carrollton, TX at 2145 North Josey Lane #100, Carrollton, TX 75006). 2 staffing agency businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Carrollton, TX?
 
 Also answers: staffing agency in Carrollton, TX; staffing agency near me (Carrollton, TX); best staffing agency Carrollton, TX; top rated staffing agency Carrollton, TX; affordable staffing agency Carrollton, TX; emergency staffing agency Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KP Staffing | trust 4.0 | KP Staffing is a staffing agency in Carrollton, TX at 2145 North Josey Lane #100, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/kp-staffing-carrollton/
-2. BPI Staffing | trust 0.0 | BPI Staffing is a staffing agency in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/bpi-staffing-carrollton/
+1. KP Staffing | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | KP Staffing is a staffing agency in Carrollton, TX at 2145 North Josey Lane #100, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/kp-staffing-carrollton/
+2. BPI Staffing | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | BPI Staffing is a staffing agency in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/bpi-staffing-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency carrollton tx | category: b2b_services | industry benchmark: Business Services

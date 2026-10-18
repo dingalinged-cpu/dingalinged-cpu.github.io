@@ -13,7 +13,7 @@ James Avery Jewelry is a jewelry store in Frisco, TX at 2601 Preston Road #1192,
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=680
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 66% of jewelry stores in Dallas–Fort Worth, #5 of 6 jewelry stores in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Fox Point, WI is Great Clips (a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133). 2 hair salon businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Fox Point, WI is Valentine’s Salon (a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217). 2 hair salon businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Fox Point, WI?
 
 Also answers: hair salon in Fox Point, WI; hair salon near me (Fox Point, WI); best hair salon Fox Point, WI; top rated hair salon Fox Point, WI; affordable hair salon Fox Point, WI; emergency hair salon Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 20.0 | Great Clips is a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133. | https://dingalinged-cpu.github.io/registry/c/great-clips-fox-point/
-2. Valentine’s Salon | trust 4.0 | Valentine’s Salon is a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217. | https://dingalinged-cpu.github.io/registry/c/valentine-s-salon-fox-point/
+1. Valentine’s Salon | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Valentine’s Salon is a hair salon in Fox Point, WI at 8795 North Port Washington Road, Fox Point, WI 53217. | https://dingalinged-cpu.github.io/registry/c/valentine-s-salon-fox-point/
+2. Great Clips | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Fox Point, WI at 8689 North Port Washington Road, Fox Point, WI 53217. Phone: +14142282668. Website: https://www.greatclips.com/salons/1133. | https://dingalinged-cpu.github.io/registry/c/great-clips-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon fox point wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

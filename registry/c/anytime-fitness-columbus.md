@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Columbus, WI at 201 Industrial Drive, Columbus, WI 5
 - Website: https://www.anytimefitness.com/gyms/3507/columbus-wi-53925/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 61% of gyms in Madison, #1 of 1 gyms in Columbus (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

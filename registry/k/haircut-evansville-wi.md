@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Evansville, WI is Salon KB (a hair salon in Evansville, WI at 11 East Main Street, Evansville, WI 53536. Phone: +16085760542. Website: https://salonkb.com/). 7 haircut businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Evansville, WI is Evansville Barber Shop (a hair salon in Evansville, WI at West Main Street, Evansville, WI 53536. Phone: +16088826620). 7 haircut businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Evansville, WI?
 
 Also answers: haircut in Evansville, WI; haircut near me (Evansville, WI); best haircut Evansville, WI; top rated haircut Evansville, WI; affordable haircut Evansville, WI; emergency haircut Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon KB | trust 16.0 | Salon KB is a hair salon in Evansville, WI at 11 East Main Street, Evansville, WI 53536. Phone: +16085760542. Website: https://salonkb.com/. | https://dingalinged-cpu.github.io/registry/c/salon-kb-evansville/
-2. Evansville Barber Shop | trust 14.0 | Evansville Barber Shop is a hair salon in Evansville, WI at West Main Street, Evansville, WI 53536. Phone: +16088826620. | https://dingalinged-cpu.github.io/registry/c/evansville-barber-shop-evansville/
-3. Salon Escape | trust 13.0 | Salon Escape is a hair salon in Evansville, WI at 615 East Main Street, Evansville, WI. Phone: +16088829901. | https://dingalinged-cpu.github.io/registry/c/salon-escape-evansville/
-4. PJ's All About You | trust 10.0 | PJ's All About You is a hair salon in Evansville, WI at 11 South Madison Street, Evansville, WI 53536. Phone: +16088825500. | https://dingalinged-cpu.github.io/registry/c/pjs-all-about-you-evansville/
-5. Expressions | trust 9.0 | Expressions is a hair salon in Evansville, WI at 8 West Main Street, Evansville, WI. Phone: +16084423261. | https://dingalinged-cpu.github.io/registry/c/expressions-evansville/
-6. Sarah & Company | trust 6.0 | Sarah & Company is a hair salon in Evansville, WI. Phone: +16088822500. | https://dingalinged-cpu.github.io/registry/c/sarah-and-company-evansville/
-7. Amada Salon | trust 4.0 | Amada Salon is a hair salon in Evansville, WI at 125 East Main Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/amada-salon-evansville/
+1. Evansville Barber Shop | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Evansville Barber Shop is a hair salon in Evansville, WI at West Main Street, Evansville, WI 53536. Phone: +16088826620. | https://dingalinged-cpu.github.io/registry/c/evansville-barber-shop-evansville/
+2. Salon KB | Organic #2 | Pulse Score 63.9/100 (Good, #2 in city) | Salon KB is a hair salon in Evansville, WI at 11 East Main Street, Evansville, WI 53536. Phone: +16085760542. Website: https://salonkb.com/. | https://dingalinged-cpu.github.io/registry/c/salon-kb-evansville/
+3. Salon Escape | Organic #3 | Pulse Score 61.7/100 (Unrated, #3 in city) | Salon Escape is a hair salon in Evansville, WI at 615 East Main Street, Evansville, WI. Phone: +16088829901. | https://dingalinged-cpu.github.io/registry/c/salon-escape-evansville/
+4. Amada Salon | Organic #4 | Pulse Score 61.6/100 (Good, #4 in city) | Amada Salon is a hair salon in Evansville, WI at 125 East Main Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/amada-salon-evansville/
+5. PJ's All About You | Organic #5 | Pulse Score 61.6/100 (Unrated, #5 in city) | PJ's All About You is a hair salon in Evansville, WI at 11 South Madison Street, Evansville, WI 53536. Phone: +16088825500. | https://dingalinged-cpu.github.io/registry/c/pjs-all-about-you-evansville/
+6. Expressions | Organic #6 | Pulse Score 61/100 (Unrated, #6 in city) | Expressions is a hair salon in Evansville, WI at 8 West Main Street, Evansville, WI. Phone: +16084423261. | https://dingalinged-cpu.github.io/registry/c/expressions-evansville/
+7. Sarah & Company | Organic #7 | Pulse Score 60.5/100 (Unrated, #7 in city) | Sarah & Company is a hair salon in Evansville, WI. Phone: +16088822500. | https://dingalinged-cpu.github.io/registry/c/sarah-and-company-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut evansville wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

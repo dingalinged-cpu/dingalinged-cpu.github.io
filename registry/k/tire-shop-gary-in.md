@@ -1,17 +1,17 @@
-The top unpaid tire shop listing for Gary, IN is New & Used Tires On Broadway (a tire shop in Gary, IN at 1976 Broadway, Gary, IN 46407. Phone: +12198828473. Website: https://newandusedtiresgary.com/). 6 tire shop businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Gary, IN is New & Used Tires On Broadway (a tire shop in Gary, IN at 1976 Broadway, Gary, IN 46407. Phone: +12198828473. Website: https://newandusedtiresgary.com/). 6 tire shop businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Gary, IN?
 
 Also answers: tire shop in Gary, IN; tire shop near me (Gary, IN); best tire shop Gary, IN; top rated tire shop Gary, IN; affordable tire shop Gary, IN; emergency tire shop Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New & Used Tires On Broadway | trust 16.0 | New & Used Tires On Broadway is a tire shop in Gary, IN at 1976 Broadway, Gary, IN 46407. Phone: +12198828473. Website: https://newandusedtiresgary.com/. | https://dingalinged-cpu.github.io/registry/c/new-and-used-tires-on-broadway-gary/
-2. Tires Enterprises Corp. | trust 9.0 | Tires Enterprises Corp. is a tire shop in Gary, IN at 3716 West Ridge Road, Gary, IN. Phone: +18668074930. | https://dingalinged-cpu.github.io/registry/c/tires-enterprises-corp-gary/
-3. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Gary, IN at 2539 Burr Street, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/goodyear-gary/
-4. Puebla Tire Shop | trust 4.0 | Puebla Tire Shop is a tire shop in Gary, IN at 6178 West 25th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/puebla-tire-shop-gary/
-5. Burn Rubber Tire | trust 0.0 | Burn Rubber Tire is a tire shop in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/burn-rubber-tire-gary/
-6. Haki's Tires | trust 0.0 | Haki's Tires is a tire shop in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/hakis-tires-gary/
+1. New & Used Tires On Broadway | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | New & Used Tires On Broadway is a tire shop in Gary, IN at 1976 Broadway, Gary, IN 46407. Phone: +12198828473. Website: https://newandusedtiresgary.com/. | https://dingalinged-cpu.github.io/registry/c/new-and-used-tires-on-broadway-gary/
+2. Tires Enterprises Corp. | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Tires Enterprises Corp. is a tire shop in Gary, IN at 3716 West Ridge Road, Gary, IN. Phone: +18668074930. | https://dingalinged-cpu.github.io/registry/c/tires-enterprises-corp-gary/
+3. Puebla Tire Shop | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Puebla Tire Shop is a tire shop in Gary, IN at 6178 West 25th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/puebla-tire-shop-gary/
+4. Burn Rubber Tire | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Burn Rubber Tire is a tire shop in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/burn-rubber-tire-gary/
+5. Haki's Tires | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Haki's Tires is a tire shop in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/hakis-tires-gary/
+6. Goodyear | Organic #6 | Pulse Score 44.7/100 (Building, #23 in city) | Goodyear is an auto repair shop in Gary, IN at 2539 Burr Street, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/goodyear-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop gary in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

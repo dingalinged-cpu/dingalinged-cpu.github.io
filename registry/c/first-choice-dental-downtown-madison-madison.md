@@ -13,7 +13,7 @@ First Choice Dental - Downtown Madison is a dentist in Madison, WI at 612 South 
 - Website: https://www.firstchoicedental.com/locations/madison-downtown/
 - Email: downtown@firstchoicedental.com
 - Opening hours (OSM syntax): Mo-Th 07:00-17:00; Fr 07:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of dentists in Madison, #2 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

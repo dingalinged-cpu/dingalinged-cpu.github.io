@@ -1,12 +1,12 @@
-The top unpaid insurance agents listing for Clarkston, GA is Shanelle Horton State Farm Insurance (an insurance agent in Clarkston, GA at 997 North Indian Creek Drive, Clarkston, GA 30021. Phone: +14043433440). 1 insurance agents businesses are listed for Clarkston, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Clarkston, GA is Shanelle Horton State Farm Insurance (an insurance agent in Clarkston, GA at 997 North Indian Creek Drive, Clarkston, GA 30021. Phone: +14043433440). 1 insurance agents businesses are listed for Clarkston, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Clarkston, GA?
 
 Also answers: insurance agents in Clarkston, GA; insurance agents near me (Clarkston, GA); best insurance agents Clarkston, GA; top rated insurance agents Clarkston, GA; affordable insurance agents Clarkston, GA; emergency insurance agents Clarkston, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shanelle Horton State Farm Insurance | trust 10.0 | Shanelle Horton State Farm Insurance is an insurance agent in Clarkston, GA at 997 North Indian Creek Drive, Clarkston, GA 30021. Phone: +14043433440. | https://dingalinged-cpu.github.io/registry/c/shanelle-horton-state-farm-insurance-clarkston/
+1. Shanelle Horton State Farm Insurance | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Shanelle Horton State Farm Insurance is an insurance agent in Clarkston, GA at 997 North Indian Creek Drive, Clarkston, GA 30021. Phone: +14043433440. | https://dingalinged-cpu.github.io/registry/c/shanelle-horton-state-farm-insurance-clarkston/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents clarkston ga | category: insurance | industry benchmark: Finance & Insurance

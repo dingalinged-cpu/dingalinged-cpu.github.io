@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Brazoria County, TX is Circle K (a car wash in Brazoria County, TX). 1 car wash businesses are listed for Brazoria County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Brazoria County, TX is Circle K (a car wash in Brazoria County, TX). 1 car wash businesses are listed for Brazoria County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Brazoria County, TX?
 
 Also answers: car wash in Brazoria County, TX; car wash near me (Brazoria County, TX); best car wash Brazoria County, TX; top rated car wash Brazoria County, TX; affordable car wash Brazoria County, TX; emergency car wash Brazoria County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Circle K | trust 0.0 | Circle K is a car wash in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-brazoria-county/
+1. Circle K | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Circle K is a car wash in Brazoria County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-brazoria-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash brazoria county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

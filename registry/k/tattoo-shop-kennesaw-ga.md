@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for Kennesaw, GA is Empire Ink Tattoo Studio (a tattoo shop in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +14709903549. Website: https://empireinkstudio.com/). 2 tattoo shop businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Kennesaw, GA is Empire Ink Tattoo Studio (a tattoo shop in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +14709903549. Website: https://empireinkstudio.com/). 2 tattoo shop businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Kennesaw, GA?
 
 Also answers: tattoo shop in Kennesaw, GA; tattoo shop near me (Kennesaw, GA); best tattoo shop Kennesaw, GA; top rated tattoo shop Kennesaw, GA; affordable tattoo shop Kennesaw, GA; emergency tattoo shop Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Empire Ink Tattoo Studio | trust 20.0 | Empire Ink Tattoo Studio is a tattoo shop in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +14709903549. Website: https://empireinkstudio.com/. | https://dingalinged-cpu.github.io/registry/c/empire-ink-tattoo-studio-kennesaw/
-2. Planet Ink Tattoos | trust 15.0 | Planet Ink Tattoos is a tattoo shop in Kennesaw, GA at 2655 Cobb Parkway #101, Kennesaw, GA. Phone: +17704226887. Website: https://www.planetinktattoos.com/. | https://dingalinged-cpu.github.io/registry/c/planet-ink-tattoos-kennesaw/
+1. Empire Ink Tattoo Studio | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Empire Ink Tattoo Studio is a tattoo shop in Kennesaw, GA at 3055 North Main Street, Kennesaw, GA 30144. Phone: +14709903549. Website: https://empireinkstudio.com/. | https://dingalinged-cpu.github.io/registry/c/empire-ink-tattoo-studio-kennesaw/
+2. Planet Ink Tattoos | Organic #2 | Pulse Score 58.5/100 (Fair, #2 in city) | Planet Ink Tattoos is a tattoo shop in Kennesaw, GA at 2655 Cobb Parkway #101, Kennesaw, GA. Phone: +17704226887. Website: https://www.planetinktattoos.com/. | https://dingalinged-cpu.github.io/registry/c/planet-ink-tattoos-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop kennesaw ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

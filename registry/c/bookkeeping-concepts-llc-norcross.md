@@ -13,7 +13,7 @@ Bookkeeping Concepts LLC is an accountant in Norcross, GA at 2030 Beaver Ruin Ro
 - Website: https://bookkeepingconcepts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 25% of accountants in Atlanta, #1 of 1 accountants in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

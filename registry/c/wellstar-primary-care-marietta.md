@@ -13,7 +13,7 @@ Wellstar Primary Care is a family medicine practice in Marietta, GA at 780 Churc
 - Website: https://www.wellstar.org/locations/medical-practice/primary-care-marietta-780-church-street-suite-1105
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 72% of family medicine practices in Atlanta, #5 of 6 family medicine practices in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

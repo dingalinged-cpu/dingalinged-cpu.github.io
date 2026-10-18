@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Golden Valley, MN is Shop for Change (a thrift store in Golden Valley, MN at 1220 Zane Avenue North, Golden Valley, MN. Website: https://prismmpls.org/program-overview/shop-for-change-thrift-shop/). 1 thrift store businesses are listed for Golden Valley, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Golden Valley, MN is Shop for Change (a thrift store in Golden Valley, MN at 1220 Zane Avenue North, Golden Valley, MN. Website: https://prismmpls.org/program-overview/shop-for-change-thrift-shop/). 1 thrift store businesses are listed for Golden Valley, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Golden Valley, MN?
 
 Also answers: thrift store in Golden Valley, MN; thrift store near me (Golden Valley, MN); best thrift store Golden Valley, MN; top rated thrift store Golden Valley, MN; affordable thrift store Golden Valley, MN; emergency thrift store Golden Valley, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shop for Change | trust 9.0 | Shop for Change is a thrift store in Golden Valley, MN at 1220 Zane Avenue North, Golden Valley, MN. Website: https://prismmpls.org/program-overview/shop-for-change-thrift-shop/. | https://dingalinged-cpu.github.io/registry/c/shop-for-change-golden-valley/
+1. Shop for Change | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Shop for Change is a thrift store in Golden Valley, MN at 1220 Zane Avenue North, Golden Valley, MN. Website: https://prismmpls.org/program-overview/shop-for-change-thrift-shop/. | https://dingalinged-cpu.github.io/registry/c/shop-for-change-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store golden valley mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

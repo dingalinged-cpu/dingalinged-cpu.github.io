@@ -1,12 +1,12 @@
-The top unpaid brake repair listing for Naperville, IL is Firestone (an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/). 1 brake repair businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Naperville, IL is Firestone (an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/). 1 brake repair businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Naperville, IL?
 
 Also answers: brake repair in Naperville, IL; brake repair near me (Naperville, IL); best brake repair Naperville, IL; top rated brake repair Naperville, IL; affordable brake repair Naperville, IL; emergency brake repair Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | trust 20.0 | Firestone is an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/. | https://dingalinged-cpu.github.io/registry/c/firestone-naperville/
+1. Firestone | Organic #1 | Pulse Score 49.7/100 (Building, #26 in city) | Firestone is an auto repair shop in Naperville, IL at 44 West Gartner Road #112, Naperville, IL 60540. Phone: +13312132589. Website: https://local.firestonecompleteautocare.com/illinois/naperville/44-w-gartner-rd-ste-112/. | https://dingalinged-cpu.github.io/registry/c/firestone-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair naperville il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

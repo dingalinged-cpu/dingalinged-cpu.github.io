@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Prosper, TX is LoveSac (a furniture store in Prosper, TX). 1 furniture store businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Prosper, TX is LoveSac (a furniture store in Prosper, TX). 1 furniture store businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Prosper, TX?
 
 Also answers: furniture store in Prosper, TX; furniture store near me (Prosper, TX); best furniture store Prosper, TX; top rated furniture store Prosper, TX; affordable furniture store Prosper, TX; emergency furniture store Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LoveSac | trust 0.0 | LoveSac is a furniture store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/lovesac-prosper/
+1. LoveSac | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | LoveSac is a furniture store in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/lovesac-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store prosper tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

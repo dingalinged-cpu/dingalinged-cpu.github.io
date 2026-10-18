@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Acworth, GA is Brenn Images Salon (a hair salon in Acworth, GA at 4805 South Main Street, Acworth, GA 30101). 4 hair salon businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Acworth, GA is Brenn Images Salon (a hair salon in Acworth, GA at 4805 South Main Street, Acworth, GA 30101). 4 hair salon businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Acworth, GA?
 
 Also answers: hair salon in Acworth, GA; hair salon near me (Acworth, GA); best hair salon Acworth, GA; top rated hair salon Acworth, GA; affordable hair salon Acworth, GA; emergency hair salon Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brenn Images Salon | trust 4.0 | Brenn Images Salon is a hair salon in Acworth, GA at 4805 South Main Street, Acworth, GA 30101. | https://dingalinged-cpu.github.io/registry/c/brenn-images-salon-acworth/
-2. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-acworth/
-3. Supercuts | trust 0.0 | Supercuts is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-acworth/
-4. Supercuts | trust 0.0 | Supercuts is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-acworth-n9174483637/
+1. Brenn Images Salon | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Brenn Images Salon is a hair salon in Acworth, GA at 4805 South Main Street, Acworth, GA 30101. | https://dingalinged-cpu.github.io/registry/c/brenn-images-salon-acworth/
+2. Fantastic Sams | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Fantastic Sams is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-acworth/
+3. Supercuts | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Supercuts is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-acworth/
+4. Supercuts | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Supercuts is a hair salon in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-acworth-n9174483637/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon acworth ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

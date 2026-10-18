@@ -1,12 +1,12 @@
-The top unpaid plumber listing for Wauwatosa, WI is Vince Incgilli & Sons Plumbing (a plumber in Wauwatosa, WI at 6734 West Wells Street, Wauwatosa, WI). 1 plumber businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Wauwatosa, WI is Vince Incgilli & Sons Plumbing (a plumber in Wauwatosa, WI at 6734 West Wells Street, Wauwatosa, WI). 1 plumber businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Wauwatosa, WI?
 
 Also answers: plumber in Wauwatosa, WI; plumber near me (Wauwatosa, WI); best plumber Wauwatosa, WI; top rated plumber Wauwatosa, WI; affordable plumber Wauwatosa, WI; emergency plumber Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vince Incgilli & Sons Plumbing | trust 7.0 | Vince Incgilli & Sons Plumbing is a plumber in Wauwatosa, WI at 6734 West Wells Street, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/vince-incgilli-and-sons-plumbing-wauwatosa/
+1. Vince Incgilli & Sons Plumbing | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Vince Incgilli & Sons Plumbing is a plumber in Wauwatosa, WI at 6734 West Wells Street, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/vince-incgilli-and-sons-plumbing-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber wauwatosa wi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

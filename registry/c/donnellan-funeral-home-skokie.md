@@ -13,7 +13,7 @@ Donnellan Funeral Home is a funeral home in Skokie, IL at 10045 Skokie Boulevard
 - Website: https://www.donnellanfuneral.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 34% of funeral homes in Chicago, #3 of 3 funeral homes in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Darien, IL is Pro Nails (a nail salon in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16302978087. Website: https://pronailsdarien.com/). 4 nail salon businesses are listed for Darien, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Darien, IL is CT Nails Ltd (a nail salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16304273492). 4 nail salon businesses are listed for Darien, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Darien, IL?
 
 Also answers: nail salon in Darien, IL; nail salon near me (Darien, IL); best nail salon Darien, IL; top rated nail salon Darien, IL; affordable nail salon Darien, IL; emergency nail salon Darien, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pro Nails | trust 16.0 | Pro Nails is a nail salon in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16302978087. Website: https://pronailsdarien.com/. | https://dingalinged-cpu.github.io/registry/c/pro-nails-darien/
-2. CT Nails Ltd | trust 10.0 | CT Nails Ltd is a nail salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16304273492. | https://dingalinged-cpu.github.io/registry/c/ct-nails-ltd-darien/
-3. TT Nails | trust 10.0 | TT Nails is a nail salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16303227928. | https://dingalinged-cpu.github.io/registry/c/tt-nails-darien/
-4. C.J Nails | trust 4.0 | C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561. | https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/
+1. CT Nails Ltd | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | CT Nails Ltd is a nail salon in Darien, IL at 2445 75th Street, Darien, IL 60561. Phone: +16304273492. | https://dingalinged-cpu.github.io/registry/c/ct-nails-ltd-darien/
+2. TT Nails | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | TT Nails is a nail salon in Darien, IL at 7516 South Cass Avenue, Darien, IL 60561. Phone: +16303227928. | https://dingalinged-cpu.github.io/registry/c/tt-nails-darien/
+3. C.J Nails | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | C.J Nails is a nail salon in Darien, IL at 7511 Lemont Road, Darien, IL 60561. | https://dingalinged-cpu.github.io/registry/c/c-j-nails-darien/
+4. Pro Nails | Organic #4 | Pulse Score 48.9/100 (Unrated, #4 in city) | Pro Nails is a nail salon in Darien, IL at 7533 South Cass Avenue, Darien, IL 60561. Phone: +16302978087. Website: https://pronailsdarien.com/. | https://dingalinged-cpu.github.io/registry/c/pro-nails-darien/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon darien il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Sugar Land, TX is Tiger-Rock Martial Arts (a martial arts school in Sugar Land, TX at 3163 State Highway 6 South, Sugar Land, TX 77478. Phone: +12814914949. Website: https://trmatexas.com/locations/sugar-land/). 2 martial arts businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Sugar Land, TX is Kim's World Taekwondo (a martial arts school in Sugar Land, TX at 4520 State Highway 6 South, Sugar Land, TX). 2 martial arts businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Sugar Land, TX?
 
 Also answers: martial arts in Sugar Land, TX; martial arts near me (Sugar Land, TX); best martial arts Sugar Land, TX; top rated martial arts Sugar Land, TX; affordable martial arts Sugar Land, TX; emergency martial arts Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiger-Rock Martial Arts | trust 20.0 | Tiger-Rock Martial Arts is a martial arts school in Sugar Land, TX at 3163 State Highway 6 South, Sugar Land, TX 77478. Phone: +12814914949. Website: https://trmatexas.com/locations/sugar-land/. | https://dingalinged-cpu.github.io/registry/c/tiger-rock-martial-arts-sugar-land/
-2. Kim's World Taekwondo | trust 3.0 | Kim's World Taekwondo is a martial arts school in Sugar Land, TX at 4520 State Highway 6 South, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kims-world-taekwondo-sugar-land/
+1. Kim's World Taekwondo | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Kim's World Taekwondo is a martial arts school in Sugar Land, TX at 4520 State Highway 6 South, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kims-world-taekwondo-sugar-land/
+2. Tiger-Rock Martial Arts | Organic #2 | Pulse Score 52.1/100 (Fair, #2 in city) | Tiger-Rock Martial Arts is a martial arts school in Sugar Land, TX at 3163 State Highway 6 South, Sugar Land, TX 77478. Phone: +12814914949. Website: https://trmatexas.com/locations/sugar-land/. | https://dingalinged-cpu.github.io/registry/c/tiger-rock-martial-arts-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts sugar land tx | category: Fitness | industry benchmark: Health & Fitness

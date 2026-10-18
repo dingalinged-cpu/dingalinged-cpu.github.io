@@ -1,14 +1,14 @@
-The top unpaid chiropractor listing for Shakopee, MN is Canterbury Chiropractic (a chiropractor in Shakopee, MN at 135 1st Avenue East, Shakopee, MN 55379. Phone: +19523781813. Website: https://www.canterburychiropractic.com/). 3 chiropractor businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Shakopee, MN is Canterbury Chiropractic (a chiropractor in Shakopee, MN at 135 1st Avenue East, Shakopee, MN 55379. Phone: +19523781813. Website: https://www.canterburychiropractic.com/). 3 chiropractor businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Shakopee, MN?
 
 Also answers: chiropractor in Shakopee, MN; chiropractor near me (Shakopee, MN); best chiropractor Shakopee, MN; top rated chiropractor Shakopee, MN; affordable chiropractor Shakopee, MN; emergency chiropractor Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Canterbury Chiropractic | trust 16.0 | Canterbury Chiropractic is a chiropractor in Shakopee, MN at 135 1st Avenue East, Shakopee, MN 55379. Phone: +19523781813. Website: https://www.canterburychiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/canterbury-chiropractic-shakopee/
-2. Zager Family Chiropractic | trust 16.0 | Zager Family Chiropractic is a chiropractor in Shakopee, MN at 1164 Vierling Drive East, Shakopee, MN 55379. Phone: +19522978840. Website: https://www.zagerfamilychiro.com/. | https://dingalinged-cpu.github.io/registry/c/zager-family-chiropractic-shakopee/
-3. Holtz Family Chiropractic | trust 10.0 | Holtz Family Chiropractic is a chiropractor in Shakopee, MN at 140 Holmes Street South, Shakopee, MN 55379. Phone: +19524459382. | https://dingalinged-cpu.github.io/registry/c/holtz-family-chiropractic-shakopee/
+1. Canterbury Chiropractic | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Canterbury Chiropractic is a chiropractor in Shakopee, MN at 135 1st Avenue East, Shakopee, MN 55379. Phone: +19523781813. Website: https://www.canterburychiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/canterbury-chiropractic-shakopee/
+2. Zager Family Chiropractic | Organic #2 | Pulse Score 59.6/100 (Unrated, #2 in city) | Zager Family Chiropractic is a chiropractor in Shakopee, MN at 1164 Vierling Drive East, Shakopee, MN 55379. Phone: +19522978840. Website: https://www.zagerfamilychiro.com/. | https://dingalinged-cpu.github.io/registry/c/zager-family-chiropractic-shakopee/
+3. Holtz Family Chiropractic | Organic #3 | Pulse Score 57.9/100 (Unrated, #3 in city) | Holtz Family Chiropractic is a chiropractor in Shakopee, MN at 140 Holmes Street South, Shakopee, MN 55379. Phone: +19524459382. | https://dingalinged-cpu.github.io/registry/c/holtz-family-chiropractic-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor shakopee mn | category: Health & medical | industry benchmark: Physicians & Surgeons

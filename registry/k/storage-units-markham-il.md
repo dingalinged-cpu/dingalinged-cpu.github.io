@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Markham, IL is Public Storage (a self-storage facility in Markham, IL at 3835 West 159th Place, Markham, IL 60428. Website: https://www.publicstorage.com/self-storage-il-markham/1419.html). 3 storage units businesses are listed for Markham, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Markham, IL is Public Storage (a self-storage facility in Markham, IL at 3835 West 159th Place, Markham, IL 60428. Website: https://www.publicstorage.com/self-storage-il-markham/1419.html). 3 storage units businesses are listed for Markham, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Markham, IL?
 
 Also answers: storage units in Markham, IL; storage units near me (Markham, IL); best storage units Markham, IL; top rated storage units Markham, IL; affordable storage units Markham, IL; emergency storage units Markham, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | trust 10.0 | Public Storage is a self-storage facility in Markham, IL at 3835 West 159th Place, Markham, IL 60428. Website: https://www.publicstorage.com/self-storage-il-markham/1419.html. | https://dingalinged-cpu.github.io/registry/c/public-storage-markham/
-2. U-Haul | trust 4.0 | U-Haul is a self-storage facility in Markham, IL at 2915 West 159th Street, Markham, IL 60428. | https://dingalinged-cpu.github.io/registry/c/u-haul-markham-w1334375470/
-3. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Markham, IL. | https://dingalinged-cpu.github.io/registry/c/u-haul-markham/
+1. Public Storage | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Public Storage is a self-storage facility in Markham, IL at 3835 West 159th Place, Markham, IL 60428. Website: https://www.publicstorage.com/self-storage-il-markham/1419.html. | https://dingalinged-cpu.github.io/registry/c/public-storage-markham/
+2. U-Haul | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | U-Haul is a self-storage facility in Markham, IL at 2915 West 159th Street, Markham, IL 60428. | https://dingalinged-cpu.github.io/registry/c/u-haul-markham-w1334375470/
+3. U-Haul | Organic #3 | Pulse Score 41/100 (Building, #3 in city) | U-Haul is a self-storage facility in Markham, IL. | https://dingalinged-cpu.github.io/registry/c/u-haul-markham/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units markham il | category: Home services - Moving | industry benchmark: Home & Home Improvement

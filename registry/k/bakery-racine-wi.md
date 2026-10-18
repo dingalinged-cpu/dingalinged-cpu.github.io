@@ -1,16 +1,16 @@
-The top unpaid bakery listing for Racine, WI is O&H Danish Bakery (a bakery in Racine, WI at 4006 Durand Avenue, Racine, WI 53405). 5 bakery businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Racine, WI is Bendtsen's Bakery (a bakery in Racine, WI at 3200 Washington Avenue, Racine, WI). 5 bakery businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Racine, WI?
 
 Also answers: bakery in Racine, WI; bakery near me (Racine, WI); best bakery Racine, WI; top rated bakery Racine, WI; affordable bakery Racine, WI; emergency bakery Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. O&H Danish Bakery | trust 4.0 | O&H Danish Bakery is a bakery in Racine, WI at 4006 Durand Avenue, Racine, WI 53405. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-bakery-racine/
-2. Bendtsen's Bakery | trust 3.0 | Bendtsen's Bakery is a bakery in Racine, WI at 3200 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bendtsens-bakery-racine/
-3. Larsen Bakery | trust 3.0 | Larsen Bakery is a bakery in Racine, WI at 3311 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/larsen-bakery-racine/
-4. Lopez Bakery | trust 3.0 | Lopez Bakery is a bakery in Racine, WI at 1667 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lopez-bakery-racine/
-5. Main Street Bakery | trust 3.0 | Main Street Bakery is a bakery in Racine, WI at 328 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/main-street-bakery-racine/
+1. Bendtsen's Bakery | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Bendtsen's Bakery is a bakery in Racine, WI at 3200 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bendtsens-bakery-racine/
+2. Larsen Bakery | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Larsen Bakery is a bakery in Racine, WI at 3311 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/larsen-bakery-racine/
+3. Lopez Bakery | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Lopez Bakery is a bakery in Racine, WI at 1667 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lopez-bakery-racine/
+4. Main Street Bakery | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Main Street Bakery is a bakery in Racine, WI at 328 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/main-street-bakery-racine/
+5. O&H Danish Bakery | Organic #5 | Pulse Score 44.2/100 (Unrated, #5 in city) | O&H Danish Bakery is a bakery in Racine, WI at 4006 Durand Avenue, Racine, WI 53405. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-bakery-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery racine wi | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Ryan's Cleaners is a dry cleaner in Porter, TX at 23741 Eastex Freeway #9, Porte
 - Website: https://www.ryanscleaners.com/
 - Email: cs@ryanscleaners.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 3% of dry cleaners in Houston, #1 of 1 dry cleaners in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ William Schultz Counselling is a therapy practice in Saint Paul, MN at 6 5th Str
 - Website: https://www.williamschultzcounseling.com/
 - Email: william@williamschultzcounselling.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-22:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of therapy practices in Minneapolis–St. Paul, #1 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

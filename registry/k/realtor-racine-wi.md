@@ -1,17 +1,17 @@
-The top unpaid realtor listing for Racine, WI is FirstWeber (a real estate agency in Racine, WI at 1100 North Main Street, Racine, WI 53402). 6 realtor businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Racine, WI is FirstWeber (a real estate agency in Racine, WI at 1100 North Main Street, Racine, WI 53402). 6 realtor businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Racine, WI?
 
 Also answers: realtor in Racine, WI; realtor near me (Racine, WI); best realtor Racine, WI; top rated realtor Racine, WI; affordable realtor Racine, WI; emergency realtor Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FirstWeber | trust 4.0 | FirstWeber is a real estate agency in Racine, WI at 1100 North Main Street, Racine, WI 53402. | https://dingalinged-cpu.github.io/registry/c/firstweber-racine/
-2. Hinsman Realty | trust 3.0 | Hinsman Realty is a real estate agency in Racine, WI at 1242 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/hinsman-realty-racine/
-3. Kelley and Associates | trust 3.0 | Kelley and Associates is a real estate agency in Racine, WI at 3215 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/kelley-and-associates-racine/
-4. Lincoln Management | trust 3.0 | Lincoln Management is a real estate agency in Racine, WI at 222 State Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lincoln-management-racine/
-5. Racine Board of Realtors | trust 3.0 | Racine Board of Realtors is a real estate agency in Racine, WI at 900 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/racine-board-of-realtors-racine/
-6. RE/MAX - Newport Realty | trust 3.0 | RE/MAX - Newport Realty is a real estate agency in Racine, WI at 1020 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/re-max-newport-realty-racine/
+1. FirstWeber | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | FirstWeber is a real estate agency in Racine, WI at 1100 North Main Street, Racine, WI 53402. | https://dingalinged-cpu.github.io/registry/c/firstweber-racine/
+2. Hinsman Realty | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Hinsman Realty is a real estate agency in Racine, WI at 1242 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/hinsman-realty-racine/
+3. Kelley and Associates | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Kelley and Associates is a real estate agency in Racine, WI at 3215 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/kelley-and-associates-racine/
+4. Lincoln Management | Organic #4 | Pulse Score 55.8/100 (Unrated, #4 in city) | Lincoln Management is a real estate agency in Racine, WI at 222 State Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lincoln-management-racine/
+5. Racine Board of Realtors | Organic #5 | Pulse Score 55.8/100 (Unrated, #5 in city) | Racine Board of Realtors is a real estate agency in Racine, WI at 900 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/racine-board-of-realtors-racine/
+6. RE/MAX - Newport Realty | Organic #6 | Pulse Score 55.8/100 (Unrated, #6 in city) | RE/MAX - Newport Realty is a real estate agency in Racine, WI at 1020 West Boulevard, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/re-max-newport-realty-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor racine wi | category: real_estate | industry benchmark: Real Estate

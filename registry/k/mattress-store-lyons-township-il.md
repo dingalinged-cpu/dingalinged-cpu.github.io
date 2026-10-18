@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Lyons Township, IL is Green Mattress (a mattress store in Lyons Township, IL). 1 mattress store businesses are listed for Lyons Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Lyons Township, IL is Green Mattress (a mattress store in Lyons Township, IL). 1 mattress store businesses are listed for Lyons Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Lyons Township, IL?
 
 Also answers: mattress store in Lyons Township, IL; mattress store near me (Lyons Township, IL); best mattress store Lyons Township, IL; top rated mattress store Lyons Township, IL; affordable mattress store Lyons Township, IL; emergency mattress store Lyons Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Green Mattress | trust 0.0 | Green Mattress is a mattress store in Lyons Township, IL. | https://dingalinged-cpu.github.io/registry/c/green-mattress-lyons-township/
+1. Green Mattress | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Green Mattress is a mattress store in Lyons Township, IL. | https://dingalinged-cpu.github.io/registry/c/green-mattress-lyons-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store lyons township il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

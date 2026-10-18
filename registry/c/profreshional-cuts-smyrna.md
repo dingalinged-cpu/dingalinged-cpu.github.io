@@ -13,7 +13,7 @@ Profreshional Cuts is a hair salon in Smyrna, GA at 2620 Cobb Parkway South #H, 
 - Website: https://profreshionalcuts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu, We 09:00-19:00; Th, Fr 08:00-19:00; Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 24% of hair salons in Atlanta, #1 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

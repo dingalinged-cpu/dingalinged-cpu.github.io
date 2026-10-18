@@ -13,7 +13,7 @@ Fitness Formula Clubs is a gym in Chicago, IL at 1151 South State Street, Chicag
 - Website: https://www.ffc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 15% of gyms in Chicago, #33 of 165 gyms in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

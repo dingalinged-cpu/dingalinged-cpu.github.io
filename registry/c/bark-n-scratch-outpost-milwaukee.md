@@ -13,7 +13,7 @@ Bark n' Scratch Outpost is a pet store in Milwaukee, WI at 5835 West Bluemound R
 - Website: https://milwaukeepetfood.com/
 - Email: barknscratch@gmail.com
 - Opening hours (OSM syntax): Mo, We-Fr 10:00-18:00, Tu 10:00-19:00, Sa 10:00-16:30, Su 11:00-15:30
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 3% of pet stores in Milwaukee, #1 of 4 pet stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

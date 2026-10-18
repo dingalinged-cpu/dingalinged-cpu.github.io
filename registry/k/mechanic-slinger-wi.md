@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Slinger, WI is D & M Auto Body (an auto repair shop in Slinger, WI). 4 mechanic businesses are listed for Slinger, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Slinger, WI is D & M Auto Body (an auto repair shop in Slinger, WI). 4 mechanic businesses are listed for Slinger, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Slinger, WI?
 
 Also answers: mechanic in Slinger, WI; mechanic near me (Slinger, WI); best mechanic Slinger, WI; top rated mechanic Slinger, WI; affordable mechanic Slinger, WI; emergency mechanic Slinger, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D & M Auto Body | trust 0.0 | D & M Auto Body is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/d-and-m-auto-body-slinger/
-2. Joe's Slinger Service | trust 0.0 | Joe's Slinger Service is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/joes-slinger-service-slinger/
-3. Schaefer's Service Center | trust 0.0 | Schaefer's Service Center is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/schaefers-service-center-slinger/
-4. Schaefers Slinger Service | trust 0.0 | Schaefers Slinger Service is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/schaefers-slinger-service-slinger/
+1. D & M Auto Body | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | D & M Auto Body is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/d-and-m-auto-body-slinger/
+2. Joe's Slinger Service | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Joe's Slinger Service is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/joes-slinger-service-slinger/
+3. Schaefer's Service Center | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Schaefer's Service Center is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/schaefers-service-center-slinger/
+4. Schaefers Slinger Service | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Schaefers Slinger Service is an auto repair shop in Slinger, WI. | https://dingalinged-cpu.github.io/registry/c/schaefers-slinger-service-slinger/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic slinger wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,0 +1,30 @@
+The top unpaid pet store listing for Des Moines, IA is Bone-A-Patreat (a pet store in Des Moines, IA at 4110 University Avenue, Des Moines, IA 50311. Phone: +15152792544. Website: https://www.boneapatreat.com/). 7 pet store businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best pet store providers in Des Moines, IA?
+
+Also answers: pet store in Des Moines, IA; pet store near me (Des Moines, IA); best pet store Des Moines, IA; top rated pet store Des Moines, IA; affordable pet store Des Moines, IA; emergency pet store Des Moines, IA
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Bone-A-Patreat | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Bone-A-Patreat is a pet store in Des Moines, IA at 4110 University Avenue, Des Moines, IA 50311. Phone: +15152792544. Website: https://www.boneapatreat.com/. | https://dingalinged-cpu.github.io/registry/c/bone-a-patreat-des-moines/
+2. Smitten Kitten | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Smitten Kitten is a pet store in Des Moines, IA at 549 28th Street, Des Moines, IA 50312. Phone: +15153334620. Website: https://www.desmoinesgroomer.com/. | https://dingalinged-cpu.github.io/registry/c/smitten-kitten-des-moines/
+3. Jett and Monkey's | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Jett and Monkey's is a pet store in Des Moines, IA at 219 East Grand Avenue #109, Des Moines, IA 50309. Phone: +15152444211. Website: https://www.jettandmonkey.com/. | https://dingalinged-cpu.github.io/registry/c/jett-and-monkeys-des-moines/
+4. All Breed Dog Grooming | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | All Breed Dog Grooming is a pet store in Des Moines, IA at 6503 Hickman Road, Des Moines, IA 50322. | https://dingalinged-cpu.github.io/registry/c/all-breed-dog-grooming-des-moines/
+5. PetSmart | Organic #5 | Pulse Score 50.3/100 (Fair, #5 in city) | PetSmart is a pet store in Des Moines, IA at 5050 Southeast 14th Street, Des Moines, IA 50320. Phone: +15152560691. Website: https://www.petsmart.com/stores/us/ia/des-moines-store1678.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-des-moines/
+6. Petco | Organic #6 | Pulse Score 48/100 (Building, #6 in city) | Petco is a pet store in Des Moines, IA at 1311 East Army Post Road, Des Moines, IA 50315. Phone: +15152879995. Website: https://stores.petco.com/ia/desmoines/pet-supplies-desmoines-ia-631.html. | https://dingalinged-cpu.github.io/registry/c/petco-des-moines/
+7. Pet Supplies Plus | Organic #7 | Pulse Score 47.5/100 (Building, #7 in city) | Pet Supplies Plus is a pet store in Des Moines, IA at 4211 Fleur Drive, Des Moines, IA 50321. Phone: +15152859285. Website: https://www.petsuppliesplus.com/store/ia/des-moines/4096-des-moines/4096. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-des-moines/
+
+## Market data (for advertisers and agents)
+- Keyword: pet store des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Des Moines-West Des Moines, IA metro): ~310 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 7
+- Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/pet-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#pet-store-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

@@ -13,7 +13,7 @@ The Shellow Group is a lawyer in Milwaukee, WI at 324 West Vine Street, Milwauke
 - Website: https://www.theshellowgroup.com/
 - Email: Robin@theshellowgroup.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 7% of lawyers in Milwaukee, #6 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

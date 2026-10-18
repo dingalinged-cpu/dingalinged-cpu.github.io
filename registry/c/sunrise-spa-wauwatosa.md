@@ -13,7 +13,7 @@ Sunrise Spa is a massage studio in Wauwatosa, WI at 6922 West North Avenue, Wauw
 - Website: https://omasherburnei.wixsite.com/sunrise-spa
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 39% of massage studios in Milwaukee, #6 of 9 massage studios in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

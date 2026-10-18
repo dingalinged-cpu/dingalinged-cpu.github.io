@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Wylie, TX is Discount Tire (a tire shop in Wylie, TX at 3401 FM 544, Wylie, TX 75098). 3 tire shop businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Wylie, TX is Tire Hub & Lube (a tire shop in Wylie, TX at 403 South State Highway 78, Wylie, TX). 3 tire shop businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Wylie, TX?
 
 Also answers: tire shop in Wylie, TX; tire shop near me (Wylie, TX); best tire shop Wylie, TX; top rated tire shop Wylie, TX; affordable tire shop Wylie, TX; emergency tire shop Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 8.0 | Discount Tire is a tire shop in Wylie, TX at 3401 FM 544, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/discount-tire-wylie/
-2. Tire Hub & Lube | trust 3.0 | Tire Hub & Lube is a tire shop in Wylie, TX at 403 South State Highway 78, Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/tire-hub-and-lube-wylie/
-3. Wylie Tire Shop | trust 3.0 | Wylie Tire Shop is a tire shop in Wylie, TX at 207 North State Highway 78, Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/wylie-tire-shop-wylie/
+1. Tire Hub & Lube | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Tire Hub & Lube is a tire shop in Wylie, TX at 403 South State Highway 78, Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/tire-hub-and-lube-wylie/
+2. Wylie Tire Shop | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Wylie Tire Shop is a tire shop in Wylie, TX at 207 North State Highway 78, Wylie, TX. | https://dingalinged-cpu.github.io/registry/c/wylie-tire-shop-wylie/
+3. Discount Tire | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Discount Tire is a tire shop in Wylie, TX at 3401 FM 544, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/discount-tire-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop wylie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

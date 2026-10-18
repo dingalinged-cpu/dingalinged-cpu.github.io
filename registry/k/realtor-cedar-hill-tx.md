@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Cedar Hill, TX is Remax (a real estate agency in Cedar Hill, TX at 140 West FM 1382 #110, Cedar Hill, TX 75104. Phone: +19722934550). 2 realtor businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Cedar Hill, TX is Remax (a real estate agency in Cedar Hill, TX at 140 West FM 1382 #110, Cedar Hill, TX 75104. Phone: +19722934550). 2 realtor businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Cedar Hill, TX?
 
 Also answers: realtor in Cedar Hill, TX; realtor near me (Cedar Hill, TX); best realtor Cedar Hill, TX; top rated realtor Cedar Hill, TX; affordable realtor Cedar Hill, TX; emergency realtor Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Remax | trust 14.0 | Remax is a real estate agency in Cedar Hill, TX at 140 West FM 1382 #110, Cedar Hill, TX 75104. Phone: +19722934550. | https://dingalinged-cpu.github.io/registry/c/remax-cedar-hill/
-2. Century 21 | trust 4.0 | Century 21 is a real estate agency in Cedar Hill, TX at 1421 North Highway 67, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/century-21-cedar-hill/
+1. Remax | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Remax is a real estate agency in Cedar Hill, TX at 140 West FM 1382 #110, Cedar Hill, TX 75104. Phone: +19722934550. | https://dingalinged-cpu.github.io/registry/c/remax-cedar-hill/
+2. Century 21 | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | Century 21 is a real estate agency in Cedar Hill, TX at 1421 North Highway 67, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/century-21-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor cedar hill tx | category: real_estate | industry benchmark: Real Estate

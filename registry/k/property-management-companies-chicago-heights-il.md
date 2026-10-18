@@ -1,12 +1,12 @@
-The top unpaid property management companies listing for Chicago Heights, IL is Housing Authority of Cook County;Central Management Office (a property management company in Chicago Heights, IL at 1710 East End Avenue, Chicago Heights, IL 60411). 1 property management companies businesses are listed for Chicago Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management companies listing for Chicago Heights, IL is Housing Authority of Cook County;Central Management Office (a property management company in Chicago Heights, IL at 1710 East End Avenue, Chicago Heights, IL 60411). 1 property management companies businesses are listed for Chicago Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management companies providers in Chicago Heights, IL?
 
 Also answers: property management companies in Chicago Heights, IL; property management companies near me (Chicago Heights, IL); best property management companies Chicago Heights, IL; top rated property management companies Chicago Heights, IL; affordable property management companies Chicago Heights, IL; emergency property management companies Chicago Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Housing Authority of Cook County;Central Management Office | trust 4.0 | Housing Authority of Cook County;Central Management Office is a property management company in Chicago Heights, IL at 1710 East End Avenue, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/housing-authority-of-cook-county-central-management-office-chicago-heights/
+1. Housing Authority of Cook County;Central Management Office | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Housing Authority of Cook County;Central Management Office is a property management company in Chicago Heights, IL at 1710 East End Avenue, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/housing-authority-of-cook-county-central-management-office-chicago-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management companies chicago heights il | category: real_estate | industry benchmark: Real Estate

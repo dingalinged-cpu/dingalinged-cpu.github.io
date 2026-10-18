@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for New Brighton, MN is American Family Insurance (an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr). 2 insurance agents businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for New Brighton, MN is American Family Insurance (an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr). 2 insurance agents businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in New Brighton, MN?
 
 Also answers: insurance agents in New Brighton, MN; insurance agents near me (New Brighton, MN); best insurance agents New Brighton, MN; top rated insurance agents New Brighton, MN; affordable insurance agents New Brighton, MN; emergency insurance agents New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | trust 15.0 | American Family Insurance is an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-new-brighton/
-2. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-new-brighton/
+1. American Family Insurance | Organic #1 | Pulse Score 46.2/100 (Building, #1 in city) | American Family Insurance is an insurance agent in New Brighton, MN at 201 Silver Lake Road Northwest #B, New Brighton, MN. Phone: +16512550015. Website: https://www.amfam.com/agents/minnesota/new-brighton/adam-mohr. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-new-brighton/
+2. Farmers Insurance | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | Farmers Insurance is an insurance agent in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents new brighton mn | category: insurance | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Richardson, TX is Sigel's (a liquor store in Richardson, TX at 538 Centennial Boulevard, Richardson, TX 75081. Phone: +19727059800. Website: https://www.sigels.com/). 2 liquor store businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Richardson, TX is Sigel's (a liquor store in Richardson, TX at 538 Centennial Boulevard, Richardson, TX 75081. Phone: +19727059800. Website: https://www.sigels.com/). 2 liquor store businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Richardson, TX?
 
 Also answers: liquor store in Richardson, TX; liquor store near me (Richardson, TX); best liquor store Richardson, TX; top rated liquor store Richardson, TX; affordable liquor store Richardson, TX; emergency liquor store Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sigel's | trust 20.0 | Sigel's is a liquor store in Richardson, TX at 538 Centennial Boulevard, Richardson, TX 75081. Phone: +19727059800. Website: https://www.sigels.com/. | https://dingalinged-cpu.github.io/registry/c/sigels-richardson/
-2. Richardson Beer and Wine | trust 7.0 | Richardson Beer and Wine is a liquor store in Richardson, TX at 515 West Campbell Road #105, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/richardson-beer-and-wine-richardson/
+1. Sigel's | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Sigel's is a liquor store in Richardson, TX at 538 Centennial Boulevard, Richardson, TX 75081. Phone: +19727059800. Website: https://www.sigels.com/. | https://dingalinged-cpu.github.io/registry/c/sigels-richardson/
+2. Richardson Beer and Wine | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Richardson Beer and Wine is a liquor store in Richardson, TX at 515 West Campbell Road #105, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/richardson-beer-and-wine-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store richardson tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

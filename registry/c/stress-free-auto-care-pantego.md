@@ -13,7 +13,7 @@ Stress-Free Auto Care is an auto repair shop in Pantego, TX at 3201 West Pioneer
 - Website: https://www.stressfree.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 09:00-17:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Dallas–Fort Worth, #1 of 2 auto repair shops in Pantego (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

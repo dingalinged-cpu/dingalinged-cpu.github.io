@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Carrollton, TX is Retreat at Carrollton (an assisted living facility in Carrollton, TX at 4010 Nazarene Drive, Carrollton, TX 75010. Phone: +19724400546. Website: https://retreatatcarrollton.com/). 1 assisted living businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Carrollton, TX is Retreat at Carrollton (an assisted living facility in Carrollton, TX at 4010 Nazarene Drive, Carrollton, TX 75010. Phone: +19724400546. Website: https://retreatatcarrollton.com/). 1 assisted living businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Carrollton, TX?
 
 Also answers: assisted living in Carrollton, TX; assisted living near me (Carrollton, TX); best assisted living Carrollton, TX; top rated assisted living Carrollton, TX; affordable assisted living Carrollton, TX; emergency assisted living Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Retreat at Carrollton | trust 20.0 | Retreat at Carrollton is an assisted living facility in Carrollton, TX at 4010 Nazarene Drive, Carrollton, TX 75010. Phone: +19724400546. Website: https://retreatatcarrollton.com/. | https://dingalinged-cpu.github.io/registry/c/retreat-at-carrollton-carrollton/
+1. Retreat at Carrollton | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Retreat at Carrollton is an assisted living facility in Carrollton, TX at 4010 Nazarene Drive, Carrollton, TX 75010. Phone: +19724400546. Website: https://retreatatcarrollton.com/. | https://dingalinged-cpu.github.io/registry/c/retreat-at-carrollton-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living carrollton tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

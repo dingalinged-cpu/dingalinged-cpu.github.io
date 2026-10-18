@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Crestwood, IL is Belle Tire (a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il). 2 tire shop businesses are listed for Crestwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Crestwood, IL is Belle Tire (a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il). 2 tire shop businesses are listed for Crestwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Crestwood, IL?
 
 Also answers: tire shop in Crestwood, IL; tire shop near me (Crestwood, IL); best tire shop Crestwood, IL; top rated tire shop Crestwood, IL; affordable tire shop Crestwood, IL; emergency tire shop Crestwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Belle Tire | trust 10.0 | Belle Tire is a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-crestwood/
-2. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Crestwood, IL at 13550 Cicero Avenue, Crestwood, IL 60445. | https://dingalinged-cpu.github.io/registry/c/discount-tire-crestwood/
+1. Belle Tire | Organic #1 | Pulse Score 46.7/100 (Building, #1 in city) | Belle Tire is a tire shop in Crestwood, IL at 14066 Cicero Avenue, Crestwood, IL 60445. Website: https://www.belletire.com/stores/detail/184/belle-tire-crestwood-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-crestwood/
+2. Discount Tire | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Discount Tire is a tire shop in Crestwood, IL at 13550 Cicero Avenue, Crestwood, IL 60445. | https://dingalinged-cpu.github.io/registry/c/discount-tire-crestwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop crestwood il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

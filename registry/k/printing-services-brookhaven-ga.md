@@ -1,14 +1,14 @@
-The top unpaid printing services listing for Brookhaven, GA is The UPS Store (a printing service in Brookhaven, GA at 3408 Clairmont Road Northeast, Brookhaven, GA 30319). 3 printing services businesses are listed for Brookhaven, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Brookhaven, GA is Preprint (a printing service in Brookhaven, GA). 3 printing services businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Brookhaven, GA?
 
 Also answers: printing services in Brookhaven, GA; printing services near me (Brookhaven, GA); best printing services Brookhaven, GA; top rated printing services Brookhaven, GA; affordable printing services Brookhaven, GA; emergency printing services Brookhaven, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 4.0 | The UPS Store is a printing service in Brookhaven, GA at 3408 Clairmont Road Northeast, Brookhaven, GA 30319. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-brookhaven-n11632457104/
-2. Preprint | trust 0.0 | Preprint is a printing service in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/preprint-brookhaven/
-3. The UPS Store | trust 0.0 | The UPS Store is a printing service in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-brookhaven/
+1. Preprint | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Preprint is a printing service in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/preprint-brookhaven/
+2. The UPS Store | Organic #2 | Pulse Score 44.5/100 (Building, #2 in city) | The UPS Store is a printing service in Brookhaven, GA at 3408 Clairmont Road Northeast, Brookhaven, GA 30319. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-brookhaven-n11632457104/
+3. The UPS Store | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | The UPS Store is a printing service in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-brookhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services brookhaven ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,14 +1,14 @@
-The top unpaid dry cleaners listing for Dekalb County, GA is Shallowford Cleaners (a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986). 3 dry cleaners businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Dekalb County, GA is Shallowford Cleaners (a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986). 3 dry cleaners businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Dekalb County, GA?
 
 Also answers: dry cleaners in Dekalb County, GA; dry cleaners near me (Dekalb County, GA); best dry cleaners Dekalb County, GA; top rated dry cleaners Dekalb County, GA; affordable dry cleaners Dekalb County, GA; emergency dry cleaners Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shallowford Cleaners | trust 13.0 | Shallowford Cleaners is a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986. | https://dingalinged-cpu.github.io/registry/c/shallowford-cleaners-dekalb-county/
-2. Perfect Stitches | trust 0.0 | Perfect Stitches is a dry cleaner in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/perfect-stitches-dekalb-county/
-3. Pinckard & Morgan Cleaners | trust 0.0 | Pinckard & Morgan Cleaners is a dry cleaner in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/pinckard-and-morgan-cleaners-dekalb-county/
+1. Shallowford Cleaners | Organic #1 | Pulse Score 63.2/100 (Good, #1 in city) | Shallowford Cleaners is a dry cleaner in DeKalb County, GA at 2566 Shallowford Road Northeast #101, DeKalb County, GA. Phone: +14043201986. | https://dingalinged-cpu.github.io/registry/c/shallowford-cleaners-dekalb-county/
+2. Perfect Stitches | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Perfect Stitches is a dry cleaner in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/perfect-stitches-dekalb-county/
+3. Pinckard & Morgan Cleaners | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Pinckard & Morgan Cleaners is a dry cleaner in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/pinckard-and-morgan-cleaners-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners dekalb county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

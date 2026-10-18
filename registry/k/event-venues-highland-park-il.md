@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Highland Park, IL is Ravinia Festival (an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/). 1 event venues businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Highland Park, IL is Ravinia Festival (an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/). 1 event venues businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Highland Park, IL?
 
 Also answers: event venues in Highland Park, IL; event venues near me (Highland Park, IL); best event venues Highland Park, IL; top rated event venues Highland Park, IL; affordable event venues Highland Park, IL; emergency event venues Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ravinia Festival | trust 10.0 | Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/. | https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/
+1. Ravinia Festival | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Ravinia Festival is an event venue in Highland Park, IL at 418 Sheridan Road, Highland Park, IL 60035. Website: https://www.ravinia.org/. | https://dingalinged-cpu.github.io/registry/c/ravinia-festival-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues highland park il | category: Events & weddings | industry benchmark: Personal Services

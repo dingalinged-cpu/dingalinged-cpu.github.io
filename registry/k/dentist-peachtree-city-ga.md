@@ -1,24 +1,24 @@
-The top unpaid dentist listing for Peachtree City, GA is Aesthetic Restorative Dentistry (a dentist in Peachtree City, GA at 5000 Shakerag Hill, Peachtree City, GA 30269. Phone: +17706310044. Website: https://peachtreecitydentist.com/). 13 dentist businesses are listed for Peachtree City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Peachtree City, GA is Aesthetic Restorative Dentistry (a dentist in Peachtree City, GA at 5000 Shakerag Hill, Peachtree City, GA 30269. Phone: +17706310044. Website: https://peachtreecitydentist.com/). 13 dentist businesses are listed for Peachtree City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Peachtree City, GA?
 
 Also answers: dentist in Peachtree City, GA; dentist near me (Peachtree City, GA); best dentist Peachtree City, GA; top rated dentist Peachtree City, GA; affordable dentist Peachtree City, GA; emergency dentist Peachtree City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aesthetic Restorative Dentistry | trust 20.0 | Aesthetic Restorative Dentistry is a dentist in Peachtree City, GA at 5000 Shakerag Hill, Peachtree City, GA 30269. Phone: +17706310044. Website: https://peachtreecitydentist.com/. | https://dingalinged-cpu.github.io/registry/c/aesthetic-restorative-dentistry-peachtree-city/
-2. Coast Dental | trust 0.0 | Coast Dental is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/coast-dental-peachtree-city/
-3. Dentistry for Children | trust 0.0 | Dentistry for Children is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/dentistry-for-children-peachtree-city/
-4. Flat Creek Family Dentistry | trust 0.0 | Flat Creek Family Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/flat-creek-family-dentistry-peachtree-city/
-5. Great Expressions | trust 0.0 | Great Expressions is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/great-expressions-peachtree-city/
-6. Parkside Dental Practice | trust 0.0 | Parkside Dental Practice is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/parkside-dental-practice-peachtree-city/
-7. Peachtree City Dentistry | trust 0.0 | Peachtree City Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-city-dentistry-peachtree-city/
-8. Peachtree Dental Group | trust 0.0 | Peachtree Dental Group is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-dental-group-peachtree-city/
-9. Peachtree Pediatric Dentistry | trust 0.0 | Peachtree Pediatric Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-pediatric-dentistry-peachtree-city/
-10. Peachtree Periodontics and Dental Implants | trust 0.0 | Peachtree Periodontics and Dental Implants is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-periodontics-and-dental-implants-peachtree-city/
-11. Prime Implants and Periodontics | trust 0.0 | Prime Implants and Periodontics is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/prime-implants-and-periodontics-peachtree-city/
-12. South OMS | trust 0.0 | South OMS is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/south-oms-peachtree-city/
-13. Vassey Dental Partners | trust 0.0 | Vassey Dental Partners is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/vassey-dental-partners-peachtree-city/
+1. Aesthetic Restorative Dentistry | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Aesthetic Restorative Dentistry is a dentist in Peachtree City, GA at 5000 Shakerag Hill, Peachtree City, GA 30269. Phone: +17706310044. Website: https://peachtreecitydentist.com/. | https://dingalinged-cpu.github.io/registry/c/aesthetic-restorative-dentistry-peachtree-city/
+2. Dentistry for Children | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Dentistry for Children is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/dentistry-for-children-peachtree-city/
+3. Flat Creek Family Dentistry | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Flat Creek Family Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/flat-creek-family-dentistry-peachtree-city/
+4. Great Expressions | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Great Expressions is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/great-expressions-peachtree-city/
+5. Parkside Dental Practice | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Parkside Dental Practice is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/parkside-dental-practice-peachtree-city/
+6. Peachtree City Dentistry | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Peachtree City Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-city-dentistry-peachtree-city/
+7. Peachtree Dental Group | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Peachtree Dental Group is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-dental-group-peachtree-city/
+8. Peachtree Pediatric Dentistry | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | Peachtree Pediatric Dentistry is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-pediatric-dentistry-peachtree-city/
+9. Peachtree Periodontics and Dental Implants | Organic #9 | Pulse Score 54.4/100 (Unrated, #9 in city) | Peachtree Periodontics and Dental Implants is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/peachtree-periodontics-and-dental-implants-peachtree-city/
+10. Prime Implants and Periodontics | Organic #10 | Pulse Score 54.4/100 (Unrated, #10 in city) | Prime Implants and Periodontics is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/prime-implants-and-periodontics-peachtree-city/
+11. South OMS | Organic #11 | Pulse Score 54.4/100 (Unrated, #11 in city) | South OMS is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/south-oms-peachtree-city/
+12. Vassey Dental Partners | Organic #12 | Pulse Score 54.4/100 (Unrated, #12 in city) | Vassey Dental Partners is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/vassey-dental-partners-peachtree-city/
+13. Coast Dental | Organic #13 | Pulse Score 42.8/100 (Unrated, #13 in city) | Coast Dental is a dentist in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/coast-dental-peachtree-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist peachtree city ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

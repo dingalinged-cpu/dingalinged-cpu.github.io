@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Minneapolis, MN at 2718 University Avenue Southeast,
 - Website: https://www.anytimefitness.com/gyms/326/minneapolis-mn-55414/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 45% of gyms in Minneapolis–St. Paul, #29 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

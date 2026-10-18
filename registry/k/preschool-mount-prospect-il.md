@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Mount Prospect, IL is Early Learning Center (a preschool in Mount Prospect, IL). 3 preschool businesses are listed for Mount Prospect, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Mount Prospect, IL is Prairie Trails School (a preschool in Mount Prospect, IL). 3 preschool businesses are listed for Mount Prospect, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Mount Prospect, IL?
 
 Also answers: preschool in Mount Prospect, IL; preschool near me (Mount Prospect, IL); best preschool Mount Prospect, IL; top rated preschool Mount Prospect, IL; affordable preschool Mount Prospect, IL; emergency preschool Mount Prospect, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Early Learning Center | trust 0.0 | Early Learning Center is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/early-learning-center-mount-prospect/
-2. KinderCare | trust 0.0 | KinderCare is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-mount-prospect/
-3. Prairie Trails School | trust 0.0 | Prairie Trails School is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/prairie-trails-school-mount-prospect/
+1. Prairie Trails School | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Prairie Trails School is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/prairie-trails-school-mount-prospect/
+2. Early Learning Center | Organic #2 | Pulse Score 44/100 (Unrated, #2 in city) | Early Learning Center is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/early-learning-center-mount-prospect/
+3. KinderCare | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | KinderCare is a preschool in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/kindercare-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool mount prospect il | category: Education & childcare | industry benchmark: Education & Instruction

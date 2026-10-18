@@ -1,12 +1,12 @@
-The top unpaid transmission repair listing for Racine, WI is Govednik Automotive, inc. (an auto repair shop in Racine, WI at 3724 Durand Avenue, Racine, WI 53405. Website: https://www.goautoracine.com/). 1 transmission repair businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid transmission repair listing for Racine, WI is Govednik Automotive, inc. (an auto repair shop in Racine, WI at 3724 Durand Avenue, Racine, WI 53405. Website: https://www.goautoracine.com/). 1 transmission repair businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best transmission repair providers in Racine, WI?
 
 Also answers: transmission repair in Racine, WI; transmission repair near me (Racine, WI); best transmission repair Racine, WI; top rated transmission repair Racine, WI; affordable transmission repair Racine, WI; emergency transmission repair Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Govednik Automotive, inc. | trust 14.0 | Govednik Automotive, inc. is an auto repair shop in Racine, WI at 3724 Durand Avenue, Racine, WI 53405. Website: https://www.goautoracine.com/. | https://dingalinged-cpu.github.io/registry/c/govednik-automotive-inc-racine/
+1. Govednik Automotive, inc. | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Govednik Automotive, inc. is an auto repair shop in Racine, WI at 3724 Durand Avenue, Racine, WI 53405. Website: https://www.goautoracine.com/. | https://dingalinged-cpu.github.io/registry/c/govednik-automotive-inc-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: transmission repair racine wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

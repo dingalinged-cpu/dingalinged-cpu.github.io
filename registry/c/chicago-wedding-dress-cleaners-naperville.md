@@ -13,7 +13,7 @@ Chicago Wedding Dress Cleaners is a dry cleaner in Naperville, IL at 1809 Wehrli
 - Website: https://chicagoweddingdresscleaners.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00; Sa 08:00-15:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 5% of dry cleaners in Chicago, #1 of 7 dry cleaners in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

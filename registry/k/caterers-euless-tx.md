@@ -1,14 +1,14 @@
-The top unpaid caterers listing for Euless, TX is Gate Gourmet (a caterer in Dallas, TX at 3301 South 22nd Avenue, Dallas, TX 75261). 3 caterers businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Euless, TX is Gate Gourmet (a caterer in Dallas, TX at 3301 South 22nd Avenue, Dallas, TX 75261). 3 caterers businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Euless, TX?
 
 Also answers: caterers in Euless, TX; caterers near me (Euless, TX); best caterers Euless, TX; top rated caterers Euless, TX; affordable caterers Euless, TX; emergency caterers Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gate Gourmet | trust 4.0 | Gate Gourmet is a caterer in Dallas, TX at 3301 South 22nd Avenue, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/gate-gourmet-dallas/
-2. LSG Sky Chefs Inc - DFI A | trust 4.0 | LSG Sky Chefs Inc - DFI A is a caterer in Dallas, TX at 2120 West 33rd Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-a-dallas/
-3. LSG Sky Chefs Inc - DFI B | trust 4.0 | LSG Sky Chefs Inc - DFI B is a caterer in Dallas, TX at 2100 West 34th Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-b-dallas/
+1. Gate Gourmet | Organic #1 | Pulse Score 55/100 (Unrated, #2 in city) | Gate Gourmet is a caterer in Dallas, TX at 3301 South 22nd Avenue, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/gate-gourmet-dallas/
+2. LSG Sky Chefs Inc - DFI A | Organic #2 | Pulse Score 55/100 (Unrated, #3 in city) | LSG Sky Chefs Inc - DFI A is a caterer in Dallas, TX at 2120 West 33rd Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-a-dallas/
+3. LSG Sky Chefs Inc - DFI B | Organic #3 | Pulse Score 55/100 (Unrated, #4 in city) | LSG Sky Chefs Inc - DFI B is a caterer in Dallas, TX at 2100 West 34th Street, Dallas, TX 75261. | https://dingalinged-cpu.github.io/registry/c/lsg-sky-chefs-inc-dfi-b-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers euless tx | category: Events & weddings | industry benchmark: Personal Services

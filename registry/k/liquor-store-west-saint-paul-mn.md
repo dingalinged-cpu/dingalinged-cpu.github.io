@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for West Saint Paul, MN is Smith Liquors (a liquor store in West Saint Paul, MN at 985 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514574567). 3 liquor store businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for West Saint Paul, MN is Mgm Liquor (a liquor store in West Saint Paul, MN at 1690 Robert Street South, West Saint Paul, MN 55118). 3 liquor store businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in West Saint Paul, MN?
 
 Also answers: liquor store in West Saint Paul, MN; liquor store near me (West Saint Paul, MN); best liquor store West Saint Paul, MN; top rated liquor store West Saint Paul, MN; affordable liquor store West Saint Paul, MN; emergency liquor store West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smith Liquors | trust 10.0 | Smith Liquors is a liquor store in West Saint Paul, MN at 985 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514574567. | https://dingalinged-cpu.github.io/registry/c/smith-liquors-west-saint-paul/
-2. Mgm Liquor | trust 8.0 | Mgm Liquor is a liquor store in West Saint Paul, MN at 1690 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/mgm-liquor-west-saint-paul/
-3. Southview Liquor | trust 4.0 | Southview Liquor is a liquor store in West Saint Paul, MN at 1963 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/southview-liquor-west-saint-paul/
+1. Mgm Liquor | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Mgm Liquor is a liquor store in West Saint Paul, MN at 1690 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/mgm-liquor-west-saint-paul/
+2. Smith Liquors | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | Smith Liquors is a liquor store in West Saint Paul, MN at 985 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514574567. | https://dingalinged-cpu.github.io/registry/c/smith-liquors-west-saint-paul/
+3. Southview Liquor | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Southview Liquor is a liquor store in West Saint Paul, MN at 1963 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/southview-liquor-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store west saint paul mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

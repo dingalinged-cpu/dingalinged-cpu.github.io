@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Wauwatosa, WI is Birch (an event venue in Wauwatosa, WI at 6610 West North Avenue, Wauwatosa, WI 53213. Phone: +14149020065. Website: https://www.birchmke.com/). 2 event venues businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Wauwatosa, WI is Birch (an event venue in Wauwatosa, WI at 6610 West North Avenue, Wauwatosa, WI 53213. Phone: +14149020065. Website: https://www.birchmke.com/). 2 event venues businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Wauwatosa, WI?
 
 Also answers: event venues in Wauwatosa, WI; event venues near me (Wauwatosa, WI); best event venues Wauwatosa, WI; top rated event venues Wauwatosa, WI; affordable event venues Wauwatosa, WI; emergency event venues Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Birch | trust 16.0 | Birch is an event venue in Wauwatosa, WI at 6610 West North Avenue, Wauwatosa, WI 53213. Phone: +14149020065. Website: https://www.birchmke.com/. | https://dingalinged-cpu.github.io/registry/c/birch-wauwatosa/
-2. Jacobus Pavilion | trust 4.0 | Jacobus Pavilion is an event venue in Wauwatosa, WI at 6501 Hillside Lane, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/jacobus-pavilion-wauwatosa/
+1. Birch | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Birch is an event venue in Wauwatosa, WI at 6610 West North Avenue, Wauwatosa, WI 53213. Phone: +14149020065. Website: https://www.birchmke.com/. | https://dingalinged-cpu.github.io/registry/c/birch-wauwatosa/
+2. Jacobus Pavilion | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Jacobus Pavilion is an event venue in Wauwatosa, WI at 6501 Hillside Lane, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/jacobus-pavilion-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues wauwatosa wi | category: Events & weddings | industry benchmark: Personal Services

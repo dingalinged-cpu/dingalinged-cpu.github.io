@@ -1,22 +1,22 @@
-The top unpaid jewelry store listing for Plano, TX is Another Time & Place (a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/). 11 jewelry store businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Plano, TX is Another Time & Place (a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/). 11 jewelry store businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Plano, TX?
 
 Also answers: jewelry store in Plano, TX; jewelry store near me (Plano, TX); best jewelry store Plano, TX; top rated jewelry store Plano, TX; affordable jewelry store Plano, TX; emergency jewelry store Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Another Time & Place | trust 20.0 | Another Time & Place is a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/. | https://dingalinged-cpu.github.io/registry/c/another-time-and-place-plano/
-2. Solitaires | trust 20.0 | Solitaires is a jewelry store in Plano, TX at 7140 Bishop Road #1112, Plano, TX 75024. Phone: +14692410590. Website: https://solitairesonline.com/. | https://dingalinged-cpu.github.io/registry/c/solitaires-plano/
-3. James Avery Jewelry | trust 16.0 | James Avery Jewelry is a jewelry store in Plano, TX at 1900 Preston Road #221, Plano, TX 75093. Phone: +19726129933. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=700. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-plano/
-4. Gold & Silver Jewelry Exchange | trust 3.0 | Gold & Silver Jewelry Exchange is a jewelry store in Plano, TX at 3242 Preston Road #140, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/gold-and-silver-jewelry-exchange-plano/
-5. David Yurman | trust 0.0 | David Yurman is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/david-yurman-plano/
-6. Gorjana | trust 0.0 | Gorjana is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/gorjana-plano/
-7. Jalin Jewelers | trust 0.0 | Jalin Jewelers is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/jalin-jewelers-plano/
-8. Kendra Scott | trust 0.0 | Kendra Scott is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-plano/
-9. Lapidary Arts Jewelery | trust 0.0 | Lapidary Arts Jewelery is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/lapidary-arts-jewelery-plano/
-10. Splendor Jewels Exchange | trust 0.0 | Splendor Jewels Exchange is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/splendor-jewels-exchange-plano/
-11. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-plano/
+1. Another Time & Place | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Another Time & Place is a jewelry store in Plano, TX at 5760 Legacy Drive #B2, Plano, TX 75024. Phone: +19723980101. Website: https://www.atplegacy.com/. | https://dingalinged-cpu.github.io/registry/c/another-time-and-place-plano/
+2. Solitaires | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Solitaires is a jewelry store in Plano, TX at 7140 Bishop Road #1112, Plano, TX 75024. Phone: +14692410590. Website: https://solitairesonline.com/. | https://dingalinged-cpu.github.io/registry/c/solitaires-plano/
+3. Gold & Silver Jewelry Exchange | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Gold & Silver Jewelry Exchange is a jewelry store in Plano, TX at 3242 Preston Road #140, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/gold-and-silver-jewelry-exchange-plano/
+4. Lapidary Arts Jewelery | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Lapidary Arts Jewelery is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/lapidary-arts-jewelery-plano/
+5. Jalin Jewelers | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Jalin Jewelers is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/jalin-jewelers-plano/
+6. Splendor Jewels Exchange | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Splendor Jewels Exchange is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/splendor-jewels-exchange-plano/
+7. James Avery Jewelry | Organic #7 | Pulse Score 49.6/100 (Building, #7 in city) | James Avery Jewelry is a jewelry store in Plano, TX at 1900 Preston Road #221, Plano, TX 75093. Phone: +19726129933. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=700. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-plano/
+8. Tiffany & Company | Organic #8 | Pulse Score 45.3/100 (Building, #8 in city) | Tiffany & Company is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-plano/
+9. Kendra Scott | Organic #9 | Pulse Score 45.2/100 (Building, #9 in city) | Kendra Scott is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-plano/
+10. Gorjana | Organic #10 | Pulse Score 45/100 (Building, #10 in city) | Gorjana is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/gorjana-plano/
+11. David Yurman | Organic #11 | Pulse Score 44.9/100 (Building, #11 in city) | David Yurman is a jewelry store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/david-yurman-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store plano tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

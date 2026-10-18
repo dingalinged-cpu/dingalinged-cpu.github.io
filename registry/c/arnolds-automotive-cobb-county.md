@@ -13,7 +13,7 @@ Arnold's Automotive is an auto repair shop in Cobb County, GA at 64 Shawnee Trai
 - Website: https://www.arnoldsautomotiverepair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 7% of auto repair shops in Atlanta, #9 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

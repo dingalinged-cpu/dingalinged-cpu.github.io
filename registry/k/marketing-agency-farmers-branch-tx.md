@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Farmers Branch, TX is Miller Ad Agency (a marketing agency in Farmers Branch, TX at 2711 Valley View Lane #101, Farmers Branch, TX 75234. Website: https://www.milleradagency.com/). 1 marketing agency businesses are listed for Farmers Branch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Farmers Branch, TX is Miller Ad Agency (a marketing agency in Farmers Branch, TX at 2711 Valley View Lane #101, Farmers Branch, TX 75234. Website: https://www.milleradagency.com/). 1 marketing agency businesses are listed for Farmers Branch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Farmers Branch, TX?
 
 Also answers: marketing agency in Farmers Branch, TX; marketing agency near me (Farmers Branch, TX); best marketing agency Farmers Branch, TX; top rated marketing agency Farmers Branch, TX; affordable marketing agency Farmers Branch, TX; emergency marketing agency Farmers Branch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miller Ad Agency | trust 10.0 | Miller Ad Agency is a marketing agency in Farmers Branch, TX at 2711 Valley View Lane #101, Farmers Branch, TX 75234. Website: https://www.milleradagency.com/. | https://dingalinged-cpu.github.io/registry/c/miller-ad-agency-farmers-branch/
+1. Miller Ad Agency | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Miller Ad Agency is a marketing agency in Farmers Branch, TX at 2711 Valley View Lane #101, Farmers Branch, TX 75234. Website: https://www.milleradagency.com/. | https://dingalinged-cpu.github.io/registry/c/miller-ad-agency-farmers-branch/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency farmers branch tx | category: Professional & financial services | industry benchmark: Finance & Insurance

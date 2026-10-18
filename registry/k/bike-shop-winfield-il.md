@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Winfield, IL is Prairie Path Cycles (a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190). 1 bike shop businesses are listed for Winfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Winfield, IL is Prairie Path Cycles (a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190). 1 bike shop businesses are listed for Winfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Winfield, IL?
 
 Also answers: bike shop in Winfield, IL; bike shop near me (Winfield, IL); best bike shop Winfield, IL; top rated bike shop Winfield, IL; affordable bike shop Winfield, IL; emergency bike shop Winfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prairie Path Cycles | trust 4.0 | Prairie Path Cycles is a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190. | https://dingalinged-cpu.github.io/registry/c/prairie-path-cycles-winfield/
+1. Prairie Path Cycles | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Prairie Path Cycles is a bike shop in Winfield, IL at 27W181 Geneva #Road, Winfield, IL 60190. | https://dingalinged-cpu.github.io/registry/c/prairie-path-cycles-winfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop winfield il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

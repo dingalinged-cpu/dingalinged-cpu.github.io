@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Fox Point, WI is Fox Point Dental Studio (a dentist in Fox Point, WI at 333 West Brown Deer Road #A, Fox Point, WI 53217. Phone: +14142365885. Website: https://www.foxpointdentalstudio.com/). 1 dentist businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fox Point, WI is Fox Point Dental Studio (a dentist in Fox Point, WI at 333 West Brown Deer Road #A, Fox Point, WI 53217. Phone: +14142365885. Website: https://www.foxpointdentalstudio.com/). 1 dentist businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fox Point, WI?
 
 Also answers: dentist in Fox Point, WI; dentist near me (Fox Point, WI); best dentist Fox Point, WI; top rated dentist Fox Point, WI; affordable dentist Fox Point, WI; emergency dentist Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fox Point Dental Studio | trust 20.0 | Fox Point Dental Studio is a dentist in Fox Point, WI at 333 West Brown Deer Road #A, Fox Point, WI 53217. Phone: +14142365885. Website: https://www.foxpointdentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/fox-point-dental-studio-fox-point/
+1. Fox Point Dental Studio | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Fox Point Dental Studio is a dentist in Fox Point, WI at 333 West Brown Deer Road #A, Fox Point, WI 53217. Phone: +14142365885. Website: https://www.foxpointdentalstudio.com/. | https://dingalinged-cpu.github.io/registry/c/fox-point-dental-studio-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fox point wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

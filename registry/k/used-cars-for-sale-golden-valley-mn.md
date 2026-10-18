@@ -1,13 +1,13 @@
-The top unpaid used cars for sale listing for Golden Valley, MN is Import Auto Sales (an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/). 2 used cars for sale businesses are listed for Golden Valley, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Golden Valley, MN is Import Auto Sales (an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/). 2 used cars for sale businesses are listed for Golden Valley, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Golden Valley, MN?
 
 Also answers: used cars for sale in Golden Valley, MN; used cars for sale near me (Golden Valley, MN); best used cars for sale Golden Valley, MN; top rated used cars for sale Golden Valley, MN; affordable used cars for sale Golden Valley, MN; emergency used cars for sale Golden Valley, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Import Auto Sales | trust 16.0 | Import Auto Sales is an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/. | https://dingalinged-cpu.github.io/registry/c/import-auto-sales-golden-valley/
-2. Poquet Auto Sales, Inc. | trust 16.0 | Poquet Auto Sales, Inc. is an used car dealer in Golden Valley, MN at 800 Lilac Drive North, Golden Valley, MN 55422. Phone: +17635222000. Website: https://www.poquetauto.com/. | https://dingalinged-cpu.github.io/registry/c/poquet-auto-sales-inc-golden-valley/
+1. Import Auto Sales | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Import Auto Sales is an used car dealer in Golden Valley, MN at 730 Florida Avenue South, Golden Valley, MN 55426. Phone: +19525911797. Website: https://www.carsmn.com/. | https://dingalinged-cpu.github.io/registry/c/import-auto-sales-golden-valley/
+2. Poquet Auto Sales, Inc. | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Poquet Auto Sales, Inc. is an used car dealer in Golden Valley, MN at 800 Lilac Drive North, Golden Valley, MN 55422. Phone: +17635222000. Website: https://www.poquetauto.com/. | https://dingalinged-cpu.github.io/registry/c/poquet-auto-sales-inc-golden-valley/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale golden valley mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

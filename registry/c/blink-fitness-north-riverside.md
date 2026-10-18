@@ -13,7 +13,7 @@ Blink Fitness is a gym in North Riverside, IL at 7509 Cermak Road, North Riversi
 - Website: https://locations.blinkfitness.com/il/riverside/7509-west-cermak-road
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 67% of gyms in Chicago, #1 of 2 gyms in North Riverside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

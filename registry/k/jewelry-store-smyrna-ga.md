@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Smyrna, GA is Addington Jewelers (a jewelry store in Smyrna, GA). 1 jewelry store businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Smyrna, GA is Addington Jewelers (a jewelry store in Smyrna, GA). 1 jewelry store businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Smyrna, GA?
 
 Also answers: jewelry store in Smyrna, GA; jewelry store near me (Smyrna, GA); best jewelry store Smyrna, GA; top rated jewelry store Smyrna, GA; affordable jewelry store Smyrna, GA; emergency jewelry store Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Addington Jewelers | trust 0.0 | Addington Jewelers is a jewelry store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/addington-jewelers-smyrna/
+1. Addington Jewelers | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Addington Jewelers is a jewelry store in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/addington-jewelers-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store smyrna ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

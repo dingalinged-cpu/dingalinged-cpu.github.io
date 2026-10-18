@@ -1,14 +1,14 @@
-The top unpaid vet listing for Oak Creek, WI is BluePearl (a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Creek, WI 53154. Phone: +14147616333. Website: https://bluepearlvet.com/hospital/oak-creek-wi/). 3 vet businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Oak Creek, WI is Oak Creek Veterinary Care (a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113). 3 vet businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Oak Creek, WI?
 
 Also answers: vet in Oak Creek, WI; vet near me (Oak Creek, WI); best vet Oak Creek, WI; top rated vet Oak Creek, WI; affordable vet Oak Creek, WI; emergency vet Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BluePearl | trust 16.0 | BluePearl is a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Creek, WI 53154. Phone: +14147616333. Website: https://bluepearlvet.com/hospital/oak-creek-wi/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-oak-creek/
-2. Oak Creek Veterinary Care | trust 10.0 | Oak Creek Veterinary Care is a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113. | https://dingalinged-cpu.github.io/registry/c/oak-creek-veterinary-care-oak-creek/
-3. Brentwood Animal Hospital | trust 4.0 | Brentwood Animal Hospital is a veterinarian in Oak Creek, WI at 318 West Ryan Road, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/brentwood-animal-hospital-oak-creek/
+1. Oak Creek Veterinary Care | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Oak Creek Veterinary Care is a veterinarian in Oak Creek, WI at 8000 South Howell Avenue, Oak Creek, WI 53154. Phone: +14143019113. | https://dingalinged-cpu.github.io/registry/c/oak-creek-veterinary-care-oak-creek/
+2. Brentwood Animal Hospital | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Brentwood Animal Hospital is a veterinarian in Oak Creek, WI at 318 West Ryan Road, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/brentwood-animal-hospital-oak-creek/
+3. BluePearl | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | BluePearl is a veterinarian in Oak Creek, WI at 9472 South 27th Street, Oak Creek, WI 53154. Phone: +14147616333. Website: https://bluepearlvet.com/hospital/oak-creek-wi/. | https://dingalinged-cpu.github.io/registry/c/bluepearl-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet oak creek wi | category: Pets | industry benchmark: Animals & Pets

@@ -1,13 +1,13 @@
-The top unpaid massage listing for Westmont, IL is Enjoying Massage Spa (a massage studio in Westmont, IL). 2 massage businesses are listed for Westmont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Westmont, IL is Enjoying Massage Spa (a massage studio in Westmont, IL). 2 massage businesses are listed for Westmont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Westmont, IL?
 
 Also answers: massage in Westmont, IL; massage near me (Westmont, IL); best massage Westmont, IL; top rated massage Westmont, IL; affordable massage Westmont, IL; emergency massage Westmont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Enjoying Massage Spa | trust 0.0 | Enjoying Massage Spa is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/enjoying-massage-spa-westmont/
-2. Setox Foot Massage | trust 0.0 | Setox Foot Massage is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/setox-foot-massage-westmont/
+1. Enjoying Massage Spa | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Enjoying Massage Spa is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/enjoying-massage-spa-westmont/
+2. Setox Foot Massage | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Setox Foot Massage is a massage studio in Westmont, IL. | https://dingalinged-cpu.github.io/registry/c/setox-foot-massage-westmont/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage westmont il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

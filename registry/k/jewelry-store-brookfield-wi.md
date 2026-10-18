@@ -1,14 +1,14 @@
-The top unpaid jewelry store listing for Brookfield, WI is Jared (a jewelry store in Brookfield, WI). 3 jewelry store businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Brookfield, WI is Kesslers (a jewelry store in Brookfield, WI). 3 jewelry store businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Brookfield, WI?
 
 Also answers: jewelry store in Brookfield, WI; jewelry store near me (Brookfield, WI); best jewelry store Brookfield, WI; top rated jewelry store Brookfield, WI; affordable jewelry store Brookfield, WI; emergency jewelry store Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jared | trust 0.0 | Jared is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/jared-brookfield/
-2. Kesslers | trust 0.0 | Kesslers is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kesslers-brookfield/
-3. Robert Haack Diamonds | trust 0.0 | Robert Haack Diamonds is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/robert-haack-diamonds-brookfield/
+1. Kesslers | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Kesslers is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/kesslers-brookfield/
+2. Robert Haack Diamonds | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Robert Haack Diamonds is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/robert-haack-diamonds-brookfield/
+3. Jared | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Jared is a jewelry store in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/jared-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store brookfield wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

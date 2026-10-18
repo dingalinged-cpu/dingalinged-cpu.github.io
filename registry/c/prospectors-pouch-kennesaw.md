@@ -13,7 +13,7 @@ Prospector's Pouch is a jewelry store in Kennesaw, GA at 2850 Cobb Parkway, Kenn
 - Website: https://prospectorspouch.com/
 - Email: prospectorspouch1970@gmail.com
 - Opening hours (OSM syntax): Sa 09:15-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 14% of jewelry stores in Atlanta, #2 of 4 jewelry stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Habitat for Humanity ReStore is a thrift store in Oak Forest, IL at 15411 Cicero
 - Website: https://gohabitatrestore.com/shop-oak-forest/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 61% of thrift stores in Chicago, #1 of 1 thrift stores in Oak Forest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 51.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

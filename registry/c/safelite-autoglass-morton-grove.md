@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Morton Grove, IL at North Waukegan 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Building — top 81% of auto repair shops in Chicago, #5 of 7 auto repair shops in Morton Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

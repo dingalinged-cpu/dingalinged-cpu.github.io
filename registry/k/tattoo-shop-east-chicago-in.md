@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for East Chicago, IN is La Familia Tattoo (a tattoo shop in East Chicago, IN at 529 West Chicago Avenue, East Chicago, IN 46312. Phone: +12192002326. Website: https://lafatattoo.com/). 1 tattoo shop businesses are listed for East Chicago, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for East Chicago, IN is La Familia Tattoo (a tattoo shop in East Chicago, IN at 529 West Chicago Avenue, East Chicago, IN 46312. Phone: +12192002326. Website: https://lafatattoo.com/). 1 tattoo shop businesses are listed for East Chicago, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in East Chicago, IN?
 
 Also answers: tattoo shop in East Chicago, IN; tattoo shop near me (East Chicago, IN); best tattoo shop East Chicago, IN; top rated tattoo shop East Chicago, IN; affordable tattoo shop East Chicago, IN; emergency tattoo shop East Chicago, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Familia Tattoo | trust 20.0 | La Familia Tattoo is a tattoo shop in East Chicago, IN at 529 West Chicago Avenue, East Chicago, IN 46312. Phone: +12192002326. Website: https://lafatattoo.com/. | https://dingalinged-cpu.github.io/registry/c/la-familia-tattoo-east-chicago/
+1. La Familia Tattoo | Organic #1 | Pulse Score 64.8/100 (Good, #1 in city) | La Familia Tattoo is a tattoo shop in East Chicago, IN at 529 West Chicago Avenue, East Chicago, IN 46312. Phone: +12192002326. Website: https://lafatattoo.com/. | https://dingalinged-cpu.github.io/registry/c/la-familia-tattoo-east-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop east chicago in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

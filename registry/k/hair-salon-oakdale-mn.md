@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Oakdale, MN is Jadé Salon (a hair salon in Oakdale, MN at 5711 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517797447. Website: https://jadesalonmn.com/). 1 hair salon businesses are listed for Oakdale, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Oakdale, MN is Jadé Salon (a hair salon in Oakdale, MN at 5711 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517797447. Website: https://jadesalonmn.com/). 1 hair salon businesses are listed for Oakdale, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Oakdale, MN?
 
 Also answers: hair salon in Oakdale, MN; hair salon near me (Oakdale, MN); best hair salon Oakdale, MN; top rated hair salon Oakdale, MN; affordable hair salon Oakdale, MN; emergency hair salon Oakdale, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jadé Salon | trust 20.0 | Jadé Salon is a hair salon in Oakdale, MN at 5711 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517797447. Website: https://jadesalonmn.com/. | https://dingalinged-cpu.github.io/registry/c/jad-salon-oakdale/
+1. Jadé Salon | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Jadé Salon is a hair salon in Oakdale, MN at 5711 Hadley Avenue North, Oakdale, MN 55128. Phone: +16517797447. Website: https://jadesalonmn.com/. | https://dingalinged-cpu.github.io/registry/c/jad-salon-oakdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon oakdale mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

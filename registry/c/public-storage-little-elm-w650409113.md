@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Little Elm, TX at 26740 University 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.2/100 — Building — top 73% of self-storage facilitys in Dallas–Fort Worth, #3 of 4 self-storage facilitys in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.2, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

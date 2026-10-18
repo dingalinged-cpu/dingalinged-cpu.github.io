@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Missouri City, TX is American Mini Storage (a self-storage facility in Missouri City, TX at 2604 Murphy Road, Missouri City, TX 77459). 1 storage units businesses are listed for Missouri City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Missouri City, TX is American Mini Storage (a self-storage facility in Missouri City, TX at 2604 Murphy Road, Missouri City, TX 77459). 1 storage units businesses are listed for Missouri City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Missouri City, TX?
 
 Also answers: storage units in Missouri City, TX; storage units near me (Missouri City, TX); best storage units Missouri City, TX; top rated storage units Missouri City, TX; affordable storage units Missouri City, TX; emergency storage units Missouri City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Mini Storage | trust 4.0 | American Mini Storage is a self-storage facility in Missouri City, TX at 2604 Murphy Road, Missouri City, TX 77459. | https://dingalinged-cpu.github.io/registry/c/american-mini-storage-missouri-city/
+1. American Mini Storage | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | American Mini Storage is a self-storage facility in Missouri City, TX at 2604 Murphy Road, Missouri City, TX 77459. | https://dingalinged-cpu.github.io/registry/c/american-mini-storage-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units missouri city tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

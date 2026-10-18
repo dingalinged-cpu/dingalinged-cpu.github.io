@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Village Of Germantown, WI is Automatic Transmission Design, Inc. (an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/). 1 mechanic businesses are listed for Village Of Germantown, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Village Of Germantown, WI is Automatic Transmission Design, Inc. (an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/). 1 mechanic businesses are listed for Village Of Germantown, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Village Of Germantown, WI?
 
 Also answers: mechanic in Village Of Germantown, WI; mechanic near me (Village Of Germantown, WI); best mechanic Village Of Germantown, WI; top rated mechanic Village Of Germantown, WI; affordable mechanic Village Of Germantown, WI; emergency mechanic Village Of Germantown, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Automatic Transmission Design, Inc. | trust 20.0 | Automatic Transmission Design, Inc. is an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/. | https://dingalinged-cpu.github.io/registry/c/automatic-transmission-design-inc-village-of-germantown/
+1. Automatic Transmission Design, Inc. | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Automatic Transmission Design, Inc. is an auto repair shop in Village of Germantown, WI at W140N10145 Fond du Lac Avenue, Village of Germantown, WI 53022. Phone: +12622517777. Website: https://www.autotransdesign.com/. | https://dingalinged-cpu.github.io/registry/c/automatic-transmission-design-inc-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic village of germantown wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

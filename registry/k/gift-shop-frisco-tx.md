@@ -1,16 +1,16 @@
-The top unpaid gift shop listing for Frisco, TX is Heart's Desire (a gift shop in Frisco, TX at 4760 Preston Road #200, Frisco, TX 75034. Phone: +19723351800. Website: https://heartsdesirefrisco.business.site/). 5 gift shop businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Frisco, TX is Heart's Desire (a gift shop in Frisco, TX at 4760 Preston Road #200, Frisco, TX 75034. Phone: +19723351800. Website: https://heartsdesirefrisco.business.site/). 5 gift shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Frisco, TX?
 
 Also answers: gift shop in Frisco, TX; gift shop near me (Frisco, TX); best gift shop Frisco, TX; top rated gift shop Frisco, TX; affordable gift shop Frisco, TX; emergency gift shop Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heart's Desire | trust 16.0 | Heart's Desire is a gift shop in Frisco, TX at 4760 Preston Road #200, Frisco, TX 75034. Phone: +19723351800. Website: https://heartsdesirefrisco.business.site/. | https://dingalinged-cpu.github.io/registry/c/hearts-desire-frisco/
-2. Fu11mart | trust 3.0 | Fu11mart is a gift shop in Frisco, TX at 9351 Warren Parkway #115, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fu11mart-frisco/
-3. Treasure Box | trust 3.0 | Treasure Box is a gift shop in Frisco, TX at 9250 Dallas Parkway #170, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/treasure-box-frisco/
-4. Cowboy's Pro Shop | trust 0.0 | Cowboy's Pro Shop is a gift shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/cowboys-pro-shop-frisco/
-5. Hallmark | trust 0.0 | Hallmark is a gift shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-frisco/
+1. Heart's Desire | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Heart's Desire is a gift shop in Frisco, TX at 4760 Preston Road #200, Frisco, TX 75034. Phone: +19723351800. Website: https://heartsdesirefrisco.business.site/. | https://dingalinged-cpu.github.io/registry/c/hearts-desire-frisco/
+2. Treasure Box | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Treasure Box is a gift shop in Frisco, TX at 9250 Dallas Parkway #170, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/treasure-box-frisco/
+3. Fu11mart | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Fu11mart is a gift shop in Frisco, TX at 9351 Warren Parkway #115, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/fu11mart-frisco/
+4. Cowboy's Pro Shop | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Cowboy's Pro Shop is a gift shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/cowboys-pro-shop-frisco/
+5. Hallmark | Organic #5 | Pulse Score 43.7/100 (Building, #5 in city) | Hallmark is a gift shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

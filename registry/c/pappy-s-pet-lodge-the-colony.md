@@ -13,7 +13,7 @@ Pappy’s Pet Lodge is a dog boarding facility in The Colony, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 97% of dog boarding facilitys in Dallas–Fort Worth, #1 of 1 dog boarding facilitys in The Colony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 40.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

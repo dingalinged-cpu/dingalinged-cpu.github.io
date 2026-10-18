@@ -1,15 +1,15 @@
-The top unpaid storage units listing for Richmond, TX is All Star Storage Richmond (a self-storage facility in Richmond, TX at 2122 East US Highway 90A, Richmond, TX 77406. Phone: +12813417867. Website: https://www.allstar-richmond.com/). 4 storage units businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Richmond, TX is Steer It Store It (a self-storage facility in Richmond, TX at 1610 Settegast Ranch Road, Richmond, TX 77406. Phone: +18324655222. Website: https://bigboatstorage.com/). 4 storage units businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Richmond, TX?
 
 Also answers: storage units in Richmond, TX; storage units near me (Richmond, TX); best storage units Richmond, TX; top rated storage units Richmond, TX; affordable storage units Richmond, TX; emergency storage units Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Star Storage Richmond | trust 20.0 | All Star Storage Richmond is a self-storage facility in Richmond, TX at 2122 East US Highway 90A, Richmond, TX 77406. Phone: +12813417867. Website: https://www.allstar-richmond.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-storage-richmond-richmond/
-2. Steer It Store It | trust 20.0 | Steer It Store It is a self-storage facility in Richmond, TX at 1610 Settegast Ranch Road, Richmond, TX 77406. Phone: +18324655222. Website: https://bigboatstorage.com/. | https://dingalinged-cpu.github.io/registry/c/steer-it-store-it-richmond/
-3. Lok-Tite | trust 4.0 | Lok-Tite is a self-storage facility in Richmond, TX at 1609 FM 359, Richmond, TX 77469. | https://dingalinged-cpu.github.io/registry/c/lok-tite-richmond/
-4. Stick It & Store It | trust 4.0 | Stick It & Store It is a self-storage facility in Richmond, TX at 228 Fm 359, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/stick-it-and-store-it-richmond/
+1. Steer It Store It | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Steer It Store It is a self-storage facility in Richmond, TX at 1610 Settegast Ranch Road, Richmond, TX 77406. Phone: +18324655222. Website: https://bigboatstorage.com/. | https://dingalinged-cpu.github.io/registry/c/steer-it-store-it-richmond/
+2. All Star Storage Richmond | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | All Star Storage Richmond is a self-storage facility in Richmond, TX at 2122 East US Highway 90A, Richmond, TX 77406. Phone: +12813417867. Website: https://www.allstar-richmond.com/. | https://dingalinged-cpu.github.io/registry/c/all-star-storage-richmond-richmond/
+3. Lok-Tite | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Lok-Tite is a self-storage facility in Richmond, TX at 1609 FM 359, Richmond, TX 77469. | https://dingalinged-cpu.github.io/registry/c/lok-tite-richmond/
+4. Stick It & Store It | Organic #4 | Pulse Score 58.3/100 (Unrated, #4 in city) | Stick It & Store It is a self-storage facility in Richmond, TX at 228 Fm 359, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/stick-it-and-store-it-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units richmond tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

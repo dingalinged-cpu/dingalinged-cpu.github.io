@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Deer Park, IL is LoveSac (a furniture store in Deer Park, IL). 3 furniture store businesses are listed for Deer Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Deer Park, IL is Teak+Plus (a furniture store in Deer Park, IL). 3 furniture store businesses are listed for Deer Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Deer Park, IL?
 
 Also answers: furniture store in Deer Park, IL; furniture store near me (Deer Park, IL); best furniture store Deer Park, IL; top rated furniture store Deer Park, IL; affordable furniture store Deer Park, IL; emergency furniture store Deer Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LoveSac | trust 0.0 | LoveSac is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-deer-park/
-2. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-deer-park/
-3. Teak+Plus | trust 0.0 | Teak+Plus is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/teak-plus-deer-park/
+1. Teak+Plus | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Teak+Plus is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/teak-plus-deer-park/
+2. LoveSac | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | LoveSac is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-deer-park/
+3. Pottery Barn | Organic #3 | Pulse Score 43.1/100 (Building, #3 in city) | Pottery Barn is a furniture store in Deer Park, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-deer-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store deer park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

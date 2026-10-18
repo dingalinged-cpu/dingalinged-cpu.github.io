@@ -13,7 +13,7 @@ Anthony's Furniture Restoration is a furniture store in Minneapolis, MN at 4553 
 - Website: https://anthonystc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 17% of furniture stores in Minneapolis–St. Paul, #4 of 14 furniture stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

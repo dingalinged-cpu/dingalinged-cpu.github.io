@@ -1,12 +1,12 @@
-The top unpaid driving school listing for Atlanta, GA is Porsche Experience Center Atlanta (a driving school in Atlanta, GA. Phone: +18882047474. Website: https://www.porschedriving.com/contact?venue=atlanta). 1 driving school businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Atlanta, GA is Porsche Experience Center Atlanta (a driving school in Atlanta, GA. Phone: +18882047474. Website: https://www.porschedriving.com/contact?venue=atlanta). 1 driving school businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Atlanta, GA?
 
 Also answers: driving school in Atlanta, GA; driving school near me (Atlanta, GA); best driving school Atlanta, GA; top rated driving school Atlanta, GA; affordable driving school Atlanta, GA; emergency driving school Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Porsche Experience Center Atlanta | trust 16.0 | Porsche Experience Center Atlanta is a driving school in Atlanta, GA. Phone: +18882047474. Website: https://www.porschedriving.com/contact?venue=atlanta. | https://dingalinged-cpu.github.io/registry/c/porsche-experience-center-atlanta-atlanta/
+1. Porsche Experience Center Atlanta | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Porsche Experience Center Atlanta is a driving school in Atlanta, GA. Phone: +18882047474. Website: https://www.porschedriving.com/contact?venue=atlanta. | https://dingalinged-cpu.github.io/registry/c/porsche-experience-center-atlanta-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school atlanta ga | category: Education & childcare | industry benchmark: Education & Instruction

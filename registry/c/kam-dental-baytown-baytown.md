@@ -13,7 +13,7 @@ Kam Dental - Baytown is a dentist in Baytown, TX at 6920 Garth Road, Baytown, TX
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa-Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 27% of dentists in Houston, #1 of 1 dentists in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

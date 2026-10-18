@@ -1,19 +1,19 @@
-The top unpaid massage listing for Lewisville, TX is Lemon Massage (a massage studio in Lewisville, TX at West FM 3040 #400, Lewisville, TX 75067. Phone: +12144884554). 8 massage businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Lewisville, TX is Lemon Massage (a massage studio in Lewisville, TX at West FM 3040 #400, Lewisville, TX 75067. Phone: +12144884554). 8 massage businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Lewisville, TX?
 
 Also answers: massage in Lewisville, TX; massage near me (Lewisville, TX); best massage Lewisville, TX; top rated massage Lewisville, TX; affordable massage Lewisville, TX; emergency massage Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lemon Massage | trust 14.0 | Lemon Massage is a massage studio in Lewisville, TX at West FM 3040 #400, Lewisville, TX 75067. Phone: +12144884554. | https://dingalinged-cpu.github.io/registry/c/lemon-massage-lewisville/
-2. Corner Spa Massage | trust 10.0 | Corner Spa Massage is a massage studio in Lewisville, TX. Phone: +19452411311. | https://dingalinged-cpu.github.io/registry/c/corner-spa-massage-lewisville/
-3. Foot Spa | trust 10.0 | Foot Spa is a massage studio in Lewisville, TX. Phone: +19723158880. | https://dingalinged-cpu.github.io/registry/c/foot-spa-lewisville/
-4. Massage | trust 10.0 | Massage is a massage studio in Lewisville, TX. Phone: +15802383417. | https://dingalinged-cpu.github.io/registry/c/massage-lewisville/
-5. Hot Stone Massage | trust 4.0 | Hot Stone Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hot-stone-massage-lewisville/
-6. Massage Aces | trust 4.0 | Massage Aces is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/massage-aces-lewisville/
-7. Royal Massage | trust 4.0 | Royal Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/royal-massage-lewisville/
-8. Angel Massage | trust 0.0 | Angel Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/angel-massage-lewisville/
+1. Lemon Massage | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Lemon Massage is a massage studio in Lewisville, TX at West FM 3040 #400, Lewisville, TX 75067. Phone: +12144884554. | https://dingalinged-cpu.github.io/registry/c/lemon-massage-lewisville/
+2. Massage Aces | Organic #2 | Pulse Score 61/100 (Good, #2 in city) | Massage Aces is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/massage-aces-lewisville/
+3. Hot Stone Massage | Organic #3 | Pulse Score 60.8/100 (Good, #3 in city) | Hot Stone Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hot-stone-massage-lewisville/
+4. Corner Spa Massage | Organic #4 | Pulse Score 60.4/100 (Unrated, #4 in city) | Corner Spa Massage is a massage studio in Lewisville, TX. Phone: +19452411311. | https://dingalinged-cpu.github.io/registry/c/corner-spa-massage-lewisville/
+5. Angel Massage | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Angel Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/angel-massage-lewisville/
+6. Foot Spa | Organic #6 | Pulse Score 47.6/100 (Unrated, #6 in city) | Foot Spa is a massage studio in Lewisville, TX. Phone: +19723158880. | https://dingalinged-cpu.github.io/registry/c/foot-spa-lewisville/
+7. Massage | Organic #7 | Pulse Score 47.6/100 (Unrated, #7 in city) | Massage is a massage studio in Lewisville, TX. Phone: +15802383417. | https://dingalinged-cpu.github.io/registry/c/massage-lewisville/
+8. Royal Massage | Organic #8 | Pulse Score 45.7/100 (Unrated, #8 in city) | Royal Massage is a massage studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/royal-massage-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

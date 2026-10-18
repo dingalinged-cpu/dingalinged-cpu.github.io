@@ -1,22 +1,22 @@
-The top unpaid hair salon listing for Dekalb County, GA is Hair Images (a hair salon in DeKalb County, GA at 1622 Woodcliff Drive Northeast #K, DeKalb County, GA. Phone: +14042480446. Website: https://www.hairimages.com/). 11 hair salon businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Dekalb County, GA is Hair Images (a hair salon in DeKalb County, GA at 1622 Woodcliff Drive Northeast #K, DeKalb County, GA. Phone: +14042480446. Website: https://www.hairimages.com/). 11 hair salon businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Dekalb County, GA?
 
 Also answers: hair salon in Dekalb County, GA; hair salon near me (Dekalb County, GA); best hair salon Dekalb County, GA; top rated hair salon Dekalb County, GA; affordable hair salon Dekalb County, GA; emergency hair salon Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Images | trust 19.0 | Hair Images is a hair salon in DeKalb County, GA at 1622 Woodcliff Drive Northeast #K, DeKalb County, GA. Phone: +14042480446. Website: https://www.hairimages.com/. | https://dingalinged-cpu.github.io/registry/c/hair-images-dekalb-county/
-2. Haircut Dream | trust 13.0 | Haircut Dream is a hair salon in DeKalb County, GA at 2566 Shallowford Road Northeast #106, DeKalb County, GA. Phone: +14043277699. | https://dingalinged-cpu.github.io/registry/c/haircut-dream-dekalb-county/
-3. CS Salon | trust 9.0 | CS Salon is a hair salon in DeKalb County, GA at 1248 Clairmont Road #4A, DeKalb County, GA. Phone: +14042282246. | https://dingalinged-cpu.github.io/registry/c/cs-salon-dekalb-county/
-4. Toco Classic Barbers | trust 6.0 | Toco Classic Barbers is a hair salon in DeKalb County, GA. Website: https://tococlassicbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/toco-classic-barbers-dekalb-county/
-5. Lee Cobb Hair Design | trust 3.0 | Lee Cobb Hair Design is a hair salon in DeKalb County, GA at 1248 Clairmont Road #2C, DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/lee-cobb-hair-design-dekalb-county/
-6. Tutor | trust 3.0 | Tutor is a hair salon in DeKalb County, GA at 1581, DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/tutor-dekalb-county/
-7. Embrace Wax & Thread | trust 0.0 | Embrace Wax & Thread is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/embrace-wax-and-thread-dekalb-county/
-8. Jon Van Hair Salon | trust 0.0 | Jon Van Hair Salon is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/jon-van-hair-salon-dekalb-county/
-9. Soge Hair Salon | trust 0.0 | Soge Hair Salon is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/soge-hair-salon-dekalb-county/
-10. Supercuts | trust 0.0 | Supercuts is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-dekalb-county/
-11. Vista Barber Shop | trust 0.0 | Vista Barber Shop is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/vista-barber-shop-dekalb-county/
+1. Hair Images | Organic #1 | Pulse Score 62.2/100 (Good, #1 in city) | Hair Images is a hair salon in DeKalb County, GA at 1622 Woodcliff Drive Northeast #K, DeKalb County, GA. Phone: +14042480446. Website: https://www.hairimages.com/. | https://dingalinged-cpu.github.io/registry/c/hair-images-dekalb-county/
+2. Haircut Dream | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | Haircut Dream is a hair salon in DeKalb County, GA at 2566 Shallowford Road Northeast #106, DeKalb County, GA. Phone: +14043277699. | https://dingalinged-cpu.github.io/registry/c/haircut-dream-dekalb-county/
+3. CS Salon | Organic #3 | Pulse Score 60.4/100 (Good, #3 in city) | CS Salon is a hair salon in DeKalb County, GA at 1248 Clairmont Road #4A, DeKalb County, GA. Phone: +14042282246. | https://dingalinged-cpu.github.io/registry/c/cs-salon-dekalb-county/
+4. Lee Cobb Hair Design | Organic #4 | Pulse Score 59.4/100 (Fair, #4 in city) | Lee Cobb Hair Design is a hair salon in DeKalb County, GA at 1248 Clairmont Road #2C, DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/lee-cobb-hair-design-dekalb-county/
+5. Toco Classic Barbers | Organic #5 | Pulse Score 58.3/100 (Unrated, #5 in city) | Toco Classic Barbers is a hair salon in DeKalb County, GA. Website: https://tococlassicbarbers.com/. | https://dingalinged-cpu.github.io/registry/c/toco-classic-barbers-dekalb-county/
+6. Jon Van Hair Salon | Organic #6 | Pulse Score 56.5/100 (Unrated, #6 in city) | Jon Van Hair Salon is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/jon-van-hair-salon-dekalb-county/
+7. Tutor | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | Tutor is a hair salon in DeKalb County, GA at 1581, DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/tutor-dekalb-county/
+8. Embrace Wax & Thread | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Embrace Wax & Thread is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/embrace-wax-and-thread-dekalb-county/
+9. Soge Hair Salon | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Soge Hair Salon is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/soge-hair-salon-dekalb-county/
+10. Vista Barber Shop | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | Vista Barber Shop is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/vista-barber-shop-dekalb-county/
+11. Supercuts | Organic #11 | Pulse Score 42.3/100 (Building, #11 in city) | Supercuts is a hair salon in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon dekalb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

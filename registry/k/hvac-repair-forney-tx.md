@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Forney, TX is Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services (a HVAC contractor in Forney, TX at 11808 South Profit Row, Forney, TX 75126. Phone: +14697204440. Website: https://copelandairtexas.com/). 2 hvac repair businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Forney, TX is Willard Heating and Air Conditioning (a HVAC contractor in Forney, TX at 207 East US Highway 80, Forney, TX 75126). 2 hvac repair businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Forney, TX?
 
 Also answers: hvac repair in Forney, TX; hvac repair near me (Forney, TX); best hvac repair Forney, TX; top rated hvac repair Forney, TX; affordable hvac repair Forney, TX; emergency hvac repair Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services | trust 20.0 | Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services is a HVAC contractor in Forney, TX at 11808 South Profit Row, Forney, TX 75126. Phone: +14697204440. Website: https://copelandairtexas.com/. | https://dingalinged-cpu.github.io/registry/c/copeland-heating-air-conditioning-plumbing-and-electrical-repair-services-forney/
-2. Willard Heating and Air Conditioning | trust 4.0 | Willard Heating and Air Conditioning is a HVAC contractor in Forney, TX at 207 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/willard-heating-and-air-conditioning-forney/
+1. Willard Heating and Air Conditioning | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Willard Heating and Air Conditioning is a HVAC contractor in Forney, TX at 207 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/willard-heating-and-air-conditioning-forney/
+2. Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services | Organic #2 | Pulse Score 51.4/100 (Unrated, #2 in city) | Copeland Heating, Air Conditioning, Plumbing, and Electrical Repair Services is a HVAC contractor in Forney, TX at 11808 South Profit Row, Forney, TX 75126. Phone: +14697204440. Website: https://copelandairtexas.com/. | https://dingalinged-cpu.github.io/registry/c/copeland-heating-air-conditioning-plumbing-and-electrical-repair-services-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair forney tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

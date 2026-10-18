@@ -1,16 +1,16 @@
-The top unpaid thrift store listing for Lewisville, TX is Goodwill (a thrift store in Lewisville, TX at 919 West Main Street, Lewisville, TX. Phone: +19724363181. Website: https://www.goodwilldallas.org/). 5 thrift store businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Lewisville, TX is Lisa's Resale Gone Upscale (a thrift store in Lewisville, TX at 1165 South Stemmons Freeway #100, Lewisville, TX. Phone: +12144257505. Website: https://lisasresale.com/). 5 thrift store businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Lewisville, TX?
 
 Also answers: thrift store in Lewisville, TX; thrift store near me (Lewisville, TX); best thrift store Lewisville, TX; top rated thrift store Lewisville, TX; affordable thrift store Lewisville, TX; emergency thrift store Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 19.0 | Goodwill is a thrift store in Lewisville, TX at 919 West Main Street, Lewisville, TX. Phone: +19724363181. Website: https://www.goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-lewisville/
-2. Lisa's Resale Gone Upscale | trust 19.0 | Lisa's Resale Gone Upscale is a thrift store in Lewisville, TX at 1165 South Stemmons Freeway #100, Lewisville, TX. Phone: +12144257505. Website: https://lisasresale.com/. | https://dingalinged-cpu.github.io/registry/c/lisas-resale-gone-upscale-lewisville/
-3. Goodwill | trust 14.0 | Goodwill is a thrift store in Lewisville, TX at 919 West Round Grove Road, Lewisville, TX 75067. Phone: +19724363181. | https://dingalinged-cpu.github.io/registry/c/goodwill-lewisville-w1078370921/
-4. Thrift Giant | trust 8.0 | Thrift Giant is a thrift store in Lewisville, TX at 2202 South Business 121, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/thrift-giant-lewisville/
-5. The Salvation Army | trust 7.0 | The Salvation Army is a thrift store in Lewisville, TX at 602 East Round Grove Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-lewisville/
+1. Lisa's Resale Gone Upscale | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Lisa's Resale Gone Upscale is a thrift store in Lewisville, TX at 1165 South Stemmons Freeway #100, Lewisville, TX. Phone: +12144257505. Website: https://lisasresale.com/. | https://dingalinged-cpu.github.io/registry/c/lisas-resale-gone-upscale-lewisville/
+2. Goodwill | Organic #2 | Pulse Score 50/100 (Fair, #2 in city) | Goodwill is a thrift store in Lewisville, TX at 919 West Main Street, Lewisville, TX. Phone: +19724363181. Website: https://www.goodwilldallas.org/. | https://dingalinged-cpu.github.io/registry/c/goodwill-lewisville/
+3. Goodwill | Organic #3 | Pulse Score 49.8/100 (Building, #3 in city) | Goodwill is a thrift store in Lewisville, TX at 919 West Round Grove Road, Lewisville, TX 75067. Phone: +19724363181. | https://dingalinged-cpu.github.io/registry/c/goodwill-lewisville-w1078370921/
+4. Thrift Giant | Organic #4 | Pulse Score 49.8/100 (Building, #4 in city) | Thrift Giant is a thrift store in Lewisville, TX at 2202 South Business 121, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/thrift-giant-lewisville/
+5. The Salvation Army | Organic #5 | Pulse Score 45.5/100 (Building, #5 in city) | The Salvation Army is a thrift store in Lewisville, TX at 602 East Round Grove Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store lewisville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid vet listing for Barrington, IL is Barrington Animal Hospital (a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010). 1 vet businesses are listed for Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Barrington, IL is Barrington Animal Hospital (a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010). 1 vet businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Barrington, IL?
 
 Also answers: vet in Barrington, IL; vet near me (Barrington, IL); best vet Barrington, IL; top rated vet Barrington, IL; affordable vet Barrington, IL; emergency vet Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrington Animal Hospital | trust 4.0 | Barrington Animal Hospital is a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/barrington-animal-hospital-barrington/
+1. Barrington Animal Hospital | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Barrington Animal Hospital is a veterinarian in Barrington, IL at 216 South Northwest Highway, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/barrington-animal-hospital-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet barrington il | category: Pets | industry benchmark: Animals & Pets

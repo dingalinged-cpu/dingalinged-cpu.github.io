@@ -1,16 +1,16 @@
-The top unpaid gym listing for Countryside, IL is CTX (a gym in Countryside, IL). 5 gym businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Countryside, IL is CTX (a gym in Countryside, IL). 5 gym businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Countryside, IL?
 
 Also answers: gym in Countryside, IL; gym near me (Countryside, IL); best gym Countryside, IL; top rated gym Countryside, IL; affordable gym Countryside, IL; emergency gym Countryside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CTX | trust 0.0 | CTX is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/ctx-countryside/
-2. Functional Athlete | trust 0.0 | Functional Athlete is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/functional-athlete-countryside/
-3. Grind Fitness | trust 0.0 | Grind Fitness is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/grind-fitness-countryside/
-4. I Noah Training | trust 0.0 | I Noah Training is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/i-noah-training-countryside/
-5. LA Fitness | trust 0.0 | LA Fitness is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-countryside/
+1. CTX | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | CTX is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/ctx-countryside/
+2. Functional Athlete | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | Functional Athlete is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/functional-athlete-countryside/
+3. Grind Fitness | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Grind Fitness is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/grind-fitness-countryside/
+4. I Noah Training | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | I Noah Training is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/i-noah-training-countryside/
+5. LA Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | LA Fitness is a gym in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym countryside il | category: Fitness | industry benchmark: Health & Fitness

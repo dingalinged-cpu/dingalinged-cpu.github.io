@@ -1,15 +1,15 @@
-The top unpaid spa listing for Frisco, TX is Maroc Hamam Spa (a spa in Frisco, TX at 2552 Stonebrook Parkway #730, Frisco, TX 75034. Phone: +14698035833. Website: https://marochamamspa.com/). 4 spa businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Frisco, TX is Frisco Chic Nails & Spa (a nail salon in Frisco, TX at 10710 Eldorado Parkway #120, Frisco, TX 75035. Phone: +19723772181. Website: https://friscochicnailsandspa.com/). 4 spa businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Frisco, TX?
 
 Also answers: spa in Frisco, TX; spa near me (Frisco, TX); best spa Frisco, TX; top rated spa Frisco, TX; affordable spa Frisco, TX; emergency spa Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maroc Hamam Spa | trust 20.0 | Maroc Hamam Spa is a spa in Frisco, TX at 2552 Stonebrook Parkway #730, Frisco, TX 75034. Phone: +14698035833. Website: https://marochamamspa.com/. | https://dingalinged-cpu.github.io/registry/c/maroc-hamam-spa-frisco/
-2. Stonebriar Spa | trust 19.0 | Stonebriar Spa is a spa in Frisco, TX at 1221 Legacy Drive #75034, Frisco, TX. Phone: +19726686108. Website: https://stonebriarspa.com/. | https://dingalinged-cpu.github.io/registry/c/stonebriar-spa-frisco/
-3. Frisco Chic Nails & Spa | trust 16.0 | Frisco Chic Nails & Spa is a nail salon in Frisco, TX at 10710 Eldorado Parkway #120, Frisco, TX 75035. Phone: +19723772181. Website: https://friscochicnailsandspa.com/. | https://dingalinged-cpu.github.io/registry/c/frisco-chic-nails-and-spa-frisco/
-4. LZ Foot Spa | trust 10.0 | LZ Foot Spa is a spa in Frisco, TX at 7151 Preston Road #421D, Frisco, TX 75034. Website: https://www.lzfootspa.business/home. | https://dingalinged-cpu.github.io/registry/c/lz-foot-spa-frisco/
+1. Frisco Chic Nails & Spa | Organic #1 | Pulse Score 62.9/100 (Unrated, #2 in city) | Frisco Chic Nails & Spa is a nail salon in Frisco, TX at 10710 Eldorado Parkway #120, Frisco, TX 75035. Phone: +19723772181. Website: https://friscochicnailsandspa.com/. | https://dingalinged-cpu.github.io/registry/c/frisco-chic-nails-and-spa-frisco/
+2. Maroc Hamam Spa | Organic #2 | Pulse Score 62.7/100 (Unrated, #1 in city) | Maroc Hamam Spa is a spa in Frisco, TX at 2552 Stonebrook Parkway #730, Frisco, TX 75034. Phone: +14698035833. Website: https://marochamamspa.com/. | https://dingalinged-cpu.github.io/registry/c/maroc-hamam-spa-frisco/
+3. Stonebriar Spa | Organic #3 | Pulse Score 61.8/100 (Unrated, #2 in city) | Stonebriar Spa is a spa in Frisco, TX at 1221 Legacy Drive #75034, Frisco, TX. Phone: +19726686108. Website: https://stonebriarspa.com/. | https://dingalinged-cpu.github.io/registry/c/stonebriar-spa-frisco/
+4. LZ Foot Spa | Organic #4 | Pulse Score 58.2/100 (Fair, #3 in city) | LZ Foot Spa is a spa in Frisco, TX at 7151 Preston Road #421D, Frisco, TX 75034. Website: https://www.lzfootspa.business/home. | https://dingalinged-cpu.github.io/registry/c/lz-foot-spa-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa frisco tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

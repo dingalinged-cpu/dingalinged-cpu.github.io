@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for The Woodlands, TX is Complete Car Care (an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428). 1 tire shop businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for The Woodlands, TX is Complete Car Care (an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428). 1 tire shop businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in The Woodlands, TX?
 
 Also answers: tire shop in The Woodlands, TX; tire shop near me (The Woodlands, TX); best tire shop The Woodlands, TX; top rated tire shop The Woodlands, TX; affordable tire shop The Woodlands, TX; emergency tire shop The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Complete Car Care | trust 16.0 | Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428. | https://dingalinged-cpu.github.io/registry/c/complete-car-care-the-woodlands/
+1. Complete Car Care | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428. | https://dingalinged-cpu.github.io/registry/c/complete-car-care-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop the woodlands tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

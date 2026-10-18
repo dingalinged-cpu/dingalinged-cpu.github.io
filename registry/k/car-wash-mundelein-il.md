@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Mundelein, IL is Dream Clean Auto Wash (a car wash in Mundelein, IL at 228 Oak Creek Plaza, Mundelein, IL 60060). 4 car wash businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Mundelein, IL is Brothers Hand Wash and Auto Detail (a car wash in Mundelein, IL at 1274 Townline Road, Mundelein, IL). 4 car wash businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Mundelein, IL?
 
 Also answers: car wash in Mundelein, IL; car wash near me (Mundelein, IL); best car wash Mundelein, IL; top rated car wash Mundelein, IL; affordable car wash Mundelein, IL; emergency car wash Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dream Clean Auto Wash | trust 8.0 | Dream Clean Auto Wash is a car wash in Mundelein, IL at 228 Oak Creek Plaza, Mundelein, IL 60060. | https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-mundelein/
-2. Brothers Hand Wash and Auto Detail | trust 3.0 | Brothers Hand Wash and Auto Detail is a car wash in Mundelein, IL at 1274 Townline Road, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/brothers-hand-wash-and-auto-detail-mundelein/
-3. Shell | trust 0.0 | Shell is a car wash in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/shell-mundelein/
-4. The Ultimate Car Wash | trust 0.0 | The Ultimate Car Wash is a car wash in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/the-ultimate-car-wash-mundelein/
+1. Brothers Hand Wash and Auto Detail | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Brothers Hand Wash and Auto Detail is a car wash in Mundelein, IL at 1274 Townline Road, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/brothers-hand-wash-and-auto-detail-mundelein/
+2. The Ultimate Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | The Ultimate Car Wash is a car wash in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/the-ultimate-car-wash-mundelein/
+3. Dream Clean Auto Wash | Organic #3 | Pulse Score 50.8/100 (Unrated, #3 in city) | Dream Clean Auto Wash is a car wash in Mundelein, IL at 228 Oak Creek Plaza, Mundelein, IL 60060. | https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-mundelein/
+4. Shell | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Shell is a car wash in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/shell-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash mundelein il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

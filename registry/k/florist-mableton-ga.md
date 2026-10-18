@@ -1,12 +1,12 @@
-The top unpaid florist listing for Mableton, GA is Same Day Flower Delivery Atlanta GA - Send Flowers (a florist in Atlanta, GA at 5 w W Wesley Ridge, Atlanta, GA 30327. Phone: +16787374178. Website: https://samedayflowerdeliveryatlanta.com/). 1 florist businesses are listed for Mableton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Mableton, GA is Same Day Flower Delivery Atlanta GA - Send Flowers (a florist in Atlanta, GA at 5 w W Wesley Ridge, Atlanta, GA 30327. Phone: +16787374178. Website: https://samedayflowerdeliveryatlanta.com/). 1 florist businesses are listed for Mableton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Mableton, GA?
 
 Also answers: florist in Mableton, GA; florist near me (Mableton, GA); best florist Mableton, GA; top rated florist Mableton, GA; affordable florist Mableton, GA; emergency florist Mableton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Same Day Flower Delivery Atlanta GA - Send Flowers | trust 16.0 | Same Day Flower Delivery Atlanta GA - Send Flowers is a florist in Atlanta, GA at 5 w W Wesley Ridge, Atlanta, GA 30327. Phone: +16787374178. Website: https://samedayflowerdeliveryatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/same-day-flower-delivery-atlanta-ga-send-flowers-atlanta/
+1. Same Day Flower Delivery Atlanta GA - Send Flowers | Organic #1 | Pulse Score 59.4/100 (Unrated, #4 in city) | Same Day Flower Delivery Atlanta GA - Send Flowers is a florist in Atlanta, GA at 5 w W Wesley Ridge, Atlanta, GA 30327. Phone: +16787374178. Website: https://samedayflowerdeliveryatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/same-day-flower-delivery-atlanta-ga-send-flowers-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist mableton ga | category: Events & weddings | industry benchmark: Personal Services

@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Harris County, TX is Sterling Ridge Orthopaedics & Sports Medicine Center (a physical therapy clinic in Harris County, TX. Phone: +18326980111. Website: https://www.srosm.com/). 2 physical therapy businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Harris County, TX is Sterling Ridge Orthopaedics & Sports Medicine Center (a physical therapy clinic in Harris County, TX. Phone: +18326980111. Website: https://www.srosm.com/). 2 physical therapy businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Harris County, TX?
 
 Also answers: physical therapy in Harris County, TX; physical therapy near me (Harris County, TX); best physical therapy Harris County, TX; top rated physical therapy Harris County, TX; affordable physical therapy Harris County, TX; emergency physical therapy Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Ridge Orthopaedics & Sports Medicine Center | trust 12.0 | Sterling Ridge Orthopaedics & Sports Medicine Center is a physical therapy clinic in Harris County, TX. Phone: +18326980111. Website: https://www.srosm.com/. | https://dingalinged-cpu.github.io/registry/c/sterling-ridge-orthopaedics-and-sports-medicine-center-harris-county/
-2. Spero Rehab | trust 0.0 | Spero Rehab is a physical therapy clinic in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/spero-rehab-harris-county/
+1. Sterling Ridge Orthopaedics & Sports Medicine Center | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Sterling Ridge Orthopaedics & Sports Medicine Center is a physical therapy clinic in Harris County, TX. Phone: +18326980111. Website: https://www.srosm.com/. | https://dingalinged-cpu.github.io/registry/c/sterling-ridge-orthopaedics-and-sports-medicine-center-harris-county/
+2. Spero Rehab | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Spero Rehab is a physical therapy clinic in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/spero-rehab-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy harris county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

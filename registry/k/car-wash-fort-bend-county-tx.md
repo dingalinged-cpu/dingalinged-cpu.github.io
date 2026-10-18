@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Fort Bend County, TX is Buc-ee's (a car wash in Fort Bend County, TX). 5 car wash businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Fort Bend County, TX is Buc-ee's (a car wash in Fort Bend County, TX). 5 car wash businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Fort Bend County, TX?
 
 Also answers: car wash in Fort Bend County, TX; car wash near me (Fort Bend County, TX); best car wash Fort Bend County, TX; top rated car wash Fort Bend County, TX; affordable car wash Fort Bend County, TX; emergency car wash Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buc-ee's | trust 4.0 | Buc-ee's is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/buc-ees-fort-bend-county/
-2. iShine Express | trust 0.0 | iShine Express is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ishine-express-fort-bend-county/
-3. Rich's Car Wash | trust 0.0 | Rich's Car Wash is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/richs-car-wash-fort-bend-county/
-4. Shell | trust 0.0 | Shell is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-fort-bend-county/
-5. Wash n Run | trust 0.0 | Wash n Run is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/wash-n-run-fort-bend-county/
+1. Buc-ee's | Organic #1 | Pulse Score 46.4/100 (Unrated, #1 in city) | Buc-ee's is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/buc-ees-fort-bend-county/
+2. Wash n Run | Organic #2 | Pulse Score 43.2/100 (Unrated, #2 in city) | Wash n Run is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/wash-n-run-fort-bend-county/
+3. Shell | Organic #3 | Pulse Score 43/100 (Building, #3 in city) | Shell is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-fort-bend-county/
+4. iShine Express | Organic #4 | Pulse Score 42.9/100 (Unrated, #4 in city) | iShine Express is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ishine-express-fort-bend-county/
+5. Rich's Car Wash | Organic #5 | Pulse Score 42.1/100 (Unrated, #5 in city) | Rich's Car Wash is a car wash in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/richs-car-wash-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash fort bend county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

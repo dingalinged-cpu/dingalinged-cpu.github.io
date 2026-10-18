@@ -1,13 +1,13 @@
-The top unpaid dentist listing for League City, TX is Dental etc (a dentist in League City, TX at 2945 South Gulf Freeway #D, League City, TX). 2 dentist businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for League City, TX is Dental etc (a dentist in League City, TX at 2945 South Gulf Freeway #D, League City, TX). 2 dentist businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in League City, TX?
 
 Also answers: dentist in League City, TX; dentist near me (League City, TX); best dentist League City, TX; top rated dentist League City, TX; affordable dentist League City, TX; emergency dentist League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental etc | trust 3.0 | Dental etc is a dentist in League City, TX at 2945 South Gulf Freeway #D, League City, TX. | https://dingalinged-cpu.github.io/registry/c/dental-etc-league-city/
-2. League City Pediatric Dentistry | trust 0.0 | League City Pediatric Dentistry is a dentist in League City, TX. | https://dingalinged-cpu.github.io/registry/c/league-city-pediatric-dentistry-league-city/
+1. Dental etc | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Dental etc is a dentist in League City, TX at 2945 South Gulf Freeway #D, League City, TX. | https://dingalinged-cpu.github.io/registry/c/dental-etc-league-city/
+2. League City Pediatric Dentistry | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | League City Pediatric Dentistry is a dentist in League City, TX. | https://dingalinged-cpu.github.io/registry/c/league-city-pediatric-dentistry-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist league city tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

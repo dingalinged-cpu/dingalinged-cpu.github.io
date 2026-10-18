@@ -1,13 +1,13 @@
-The top unpaid dentist listing for The Colony, TX is Dental Depot (a dentist in The Colony, TX at 5014 Main Street, The Colony, TX 75056. Phone: +14692786775. Website: https://dentaldepotdfw.com/locations/the-colony/). 2 dentist businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for The Colony, TX is Ridgepointe Dental (a dentist in The Colony, TX). 2 dentist businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in The Colony, TX?
 
 Also answers: dentist in The Colony, TX; dentist near me (The Colony, TX); best dentist The Colony, TX; top rated dentist The Colony, TX; affordable dentist The Colony, TX; emergency dentist The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental Depot | trust 20.0 | Dental Depot is a dentist in The Colony, TX at 5014 Main Street, The Colony, TX 75056. Phone: +14692786775. Website: https://dentaldepotdfw.com/locations/the-colony/. | https://dingalinged-cpu.github.io/registry/c/dental-depot-the-colony/
-2. Ridgepointe Dental | trust 0.0 | Ridgepointe Dental is a dentist in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/ridgepointe-dental-the-colony/
+1. Ridgepointe Dental | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Ridgepointe Dental is a dentist in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/ridgepointe-dental-the-colony/
+2. Dental Depot | Organic #2 | Pulse Score 50.6/100 (Unrated, #2 in city) | Dental Depot is a dentist in The Colony, TX at 5014 Main Street, The Colony, TX 75056. Phone: +14692786775. Website: https://dentaldepotdfw.com/locations/the-colony/. | https://dingalinged-cpu.github.io/registry/c/dental-depot-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist the colony tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

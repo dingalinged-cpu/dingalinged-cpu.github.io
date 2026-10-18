@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Minneapolis, MN at 1220 West Lake Stree
 - Website: https://www.floydsbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 9:00-19:00; Su 11:00-17:00
-- Registry Score: 52.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 78% of hair salons in Minneapolis–St. Paul, #97 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

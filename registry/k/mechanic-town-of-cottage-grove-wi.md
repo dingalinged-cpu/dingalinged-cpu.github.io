@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Town Of Cottage Grove, WI is Graham's Auto (an auto repair shop in Town of Cottage Grove, WI). 2 mechanic businesses are listed for Town Of Cottage Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Town Of Cottage Grove, WI is Graham's Auto (an auto repair shop in Town of Cottage Grove, WI). 2 mechanic businesses are listed for Town Of Cottage Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Town Of Cottage Grove, WI?
 
 Also answers: mechanic in Town Of Cottage Grove, WI; mechanic near me (Town Of Cottage Grove, WI); best mechanic Town Of Cottage Grove, WI; top rated mechanic Town Of Cottage Grove, WI; affordable mechanic Town Of Cottage Grove, WI; emergency mechanic Town Of Cottage Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Graham's Auto | trust 0.0 | Graham's Auto is an auto repair shop in Town of Cottage Grove, WI. | https://dingalinged-cpu.github.io/registry/c/grahams-auto-town-of-cottage-grove/
-2. Nelson's Bus Service | trust 0.0 | Nelson's Bus Service is an auto repair shop in Town of Cottage Grove, WI. | https://dingalinged-cpu.github.io/registry/c/nelsons-bus-service-town-of-cottage-grove/
+1. Graham's Auto | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Graham's Auto is an auto repair shop in Town of Cottage Grove, WI. | https://dingalinged-cpu.github.io/registry/c/grahams-auto-town-of-cottage-grove/
+2. Nelson's Bus Service | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Nelson's Bus Service is an auto repair shop in Town of Cottage Grove, WI. | https://dingalinged-cpu.github.io/registry/c/nelsons-bus-service-town-of-cottage-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic town of cottage grove wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

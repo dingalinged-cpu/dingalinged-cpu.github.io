@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Shorewood, WI is The Atrium (an event venue in Shorewood, WI at 2107 East Capitol Drive, Shorewood, WI 53211. Phone: +14149020065. Website: https://www.theatriummke.com/). 1 event venues businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Shorewood, WI is The Atrium (an event venue in Shorewood, WI at 2107 East Capitol Drive, Shorewood, WI 53211. Phone: +14149020065. Website: https://www.theatriummke.com/). 1 event venues businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Shorewood, WI?
 
 Also answers: event venues in Shorewood, WI; event venues near me (Shorewood, WI); best event venues Shorewood, WI; top rated event venues Shorewood, WI; affordable event venues Shorewood, WI; emergency event venues Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Atrium | trust 16.0 | The Atrium is an event venue in Shorewood, WI at 2107 East Capitol Drive, Shorewood, WI 53211. Phone: +14149020065. Website: https://www.theatriummke.com/. | https://dingalinged-cpu.github.io/registry/c/the-atrium-shorewood/
+1. The Atrium | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | The Atrium is an event venue in Shorewood, WI at 2107 East Capitol Drive, Shorewood, WI 53211. Phone: +14149020065. Website: https://www.theatriummke.com/. | https://dingalinged-cpu.github.io/registry/c/the-atrium-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues shorewood wi | category: Events & weddings | industry benchmark: Personal Services

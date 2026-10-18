@@ -13,7 +13,7 @@ FedEx Office is a printing service in Cobb County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su 10:00-20:00; Mo-Fr 07:00-22:00; Sa 08:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.5/100 — Building — top 53% of printing services in Atlanta, #5 of 8 printing services in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Neighbor Self Storage is a self-storage facility in Addison, TX at 3850 Vitruvia
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Unrated (not enough evidence yet) — top 36% of self-storage facilitys in Dallas–Fort Worth, #4 of 6 self-storage facilitys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

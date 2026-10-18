@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Alvarado, TX is Alvarado Self Storage (a self-storage facility in Alvarado, TX at 600 East US Highway 67, Alvarado, TX 76009. Phone: +18177907770. Website: https://alvaradoselfstorage.com/). 1 storage units businesses are listed for Alvarado, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Alvarado, TX is Alvarado Self Storage (a self-storage facility in Alvarado, TX at 600 East US Highway 67, Alvarado, TX 76009. Phone: +18177907770. Website: https://alvaradoselfstorage.com/). 1 storage units businesses are listed for Alvarado, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Alvarado, TX?
 
 Also answers: storage units in Alvarado, TX; storage units near me (Alvarado, TX); best storage units Alvarado, TX; top rated storage units Alvarado, TX; affordable storage units Alvarado, TX; emergency storage units Alvarado, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alvarado Self Storage | trust 16.0 | Alvarado Self Storage is a self-storage facility in Alvarado, TX at 600 East US Highway 67, Alvarado, TX 76009. Phone: +18177907770. Website: https://alvaradoselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/alvarado-self-storage-alvarado/
+1. Alvarado Self Storage | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Alvarado Self Storage is a self-storage facility in Alvarado, TX at 600 East US Highway 67, Alvarado, TX 76009. Phone: +18177907770. Website: https://alvaradoselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/alvarado-self-storage-alvarado/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units alvarado tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Smyrna, GA is Giving Tree Yoga Center (a yoga studio in Smyrna, GA at 1295 West Spring Street #200, Smyrna, GA. Phone: +17706261559. Website: https://www.givingtreeyogasmyrna.com/). 2 yoga classes businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Smyrna, GA is Giving Tree Yoga Center (a yoga studio in Smyrna, GA at 1295 West Spring Street #200, Smyrna, GA. Phone: +17706261559. Website: https://www.givingtreeyogasmyrna.com/). 2 yoga classes businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Smyrna, GA?
 
 Also answers: yoga classes in Smyrna, GA; yoga classes near me (Smyrna, GA); best yoga classes Smyrna, GA; top rated yoga classes Smyrna, GA; affordable yoga classes Smyrna, GA; emergency yoga classes Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Giving Tree Yoga Center | trust 15.0 | Giving Tree Yoga Center is a yoga studio in Smyrna, GA at 1295 West Spring Street #200, Smyrna, GA. Phone: +17706261559. Website: https://www.givingtreeyogasmyrna.com/. | https://dingalinged-cpu.github.io/registry/c/giving-tree-yoga-center-smyrna/
-2. DDP YOGA Performance Center | trust 4.0 | DDP YOGA Performance Center is a yoga studio in Smyrna, GA at 1239 Concord Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/ddp-yoga-performance-center-smyrna/
+1. Giving Tree Yoga Center | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Giving Tree Yoga Center is a yoga studio in Smyrna, GA at 1295 West Spring Street #200, Smyrna, GA. Phone: +17706261559. Website: https://www.givingtreeyogasmyrna.com/. | https://dingalinged-cpu.github.io/registry/c/giving-tree-yoga-center-smyrna/
+2. DDP YOGA Performance Center | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | DDP YOGA Performance Center is a yoga studio in Smyrna, GA at 1239 Concord Road Southeast, Smyrna, GA 30080. | https://dingalinged-cpu.github.io/registry/c/ddp-yoga-performance-center-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes smyrna ga | category: Fitness | industry benchmark: Health & Fitness

@@ -1,14 +1,14 @@
-The top unpaid facial listing for Woodstock, GA is Bailey Cosmetic Med Spa (a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/). 3 facial businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Woodstock, GA is Bailey Cosmetic Med Spa (a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/). 3 facial businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Woodstock, GA?
 
 Also answers: facial in Woodstock, GA; facial near me (Woodstock, GA); best facial Woodstock, GA; top rated facial Woodstock, GA; affordable facial Woodstock, GA; emergency facial Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bailey Cosmetic Med Spa | trust 20.0 | Bailey Cosmetic Med Spa is a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/. | https://dingalinged-cpu.github.io/registry/c/bailey-cosmetic-med-spa-woodstock/
-2. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Woodstock, GA at 124 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784940081. Website: https://www.ulta.com/stores/woodstock-ga-105. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-woodstock/
-3. Ingrid's Spa & Wellness | trust 19.0 | Ingrid's Spa & Wellness is a skin care studio in Woodstock, GA at 8720 Main Street #120, Woodstock, GA. Phone: +17707712481. Website: https://ingridwellness.com/. | https://dingalinged-cpu.github.io/registry/c/ingrids-spa-and-wellness-woodstock/
+1. Bailey Cosmetic Med Spa | Organic #1 | Pulse Score 63.5/100 (Good, #1 in city) | Bailey Cosmetic Med Spa is a skin care studio in Woodstock, GA at 9236 Main Street #3C, Woodstock, GA 30188. Phone: +14042207689. Website: https://www.baileycosmetic.com/. | https://dingalinged-cpu.github.io/registry/c/bailey-cosmetic-med-spa-woodstock/
+2. Ingrid's Spa & Wellness | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | Ingrid's Spa & Wellness is a skin care studio in Woodstock, GA at 8720 Main Street #120, Woodstock, GA. Phone: +17707712481. Website: https://ingridwellness.com/. | https://dingalinged-cpu.github.io/registry/c/ingrids-spa-and-wellness-woodstock/
+3. Ulta Beauty | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Woodstock, GA at 124 Woodstock Square Avenue, Woodstock, GA 30189. Phone: +16784940081. Website: https://www.ulta.com/stores/woodstock-ga-105. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial woodstock ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

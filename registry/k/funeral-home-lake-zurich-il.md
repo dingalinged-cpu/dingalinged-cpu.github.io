@@ -1,13 +1,13 @@
-The top unpaid funeral home listing for Lake Zurich, IL is Ahlgrim Family Funeral Services (a funeral home in Lake Zurich, IL at 415 South Buesching Road, Lake Zurich, IL 60047). 2 funeral home businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Lake Zurich, IL is Ahlgrim Family Funeral Services (a funeral home in Lake Zurich, IL at 415 South Buesching Road, Lake Zurich, IL 60047). 2 funeral home businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Lake Zurich, IL?
 
 Also answers: funeral home in Lake Zurich, IL; funeral home near me (Lake Zurich, IL); best funeral home Lake Zurich, IL; top rated funeral home Lake Zurich, IL; affordable funeral home Lake Zurich, IL; emergency funeral home Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ahlgrim Family Funeral Services | trust 4.0 | Ahlgrim Family Funeral Services is a funeral home in Lake Zurich, IL at 415 South Buesching Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/ahlgrim-family-funeral-services-lake-zurich/
-2. Davenport Family Funeral Homes and Crematory | trust 4.0 | Davenport Family Funeral Homes and Crematory is a funeral home in Lake Zurich, IL at 941 South Old Rand Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/davenport-family-funeral-homes-and-crematory-lake-zurich/
+1. Ahlgrim Family Funeral Services | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Ahlgrim Family Funeral Services is a funeral home in Lake Zurich, IL at 415 South Buesching Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/ahlgrim-family-funeral-services-lake-zurich/
+2. Davenport Family Funeral Homes and Crematory | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Davenport Family Funeral Homes and Crematory is a funeral home in Lake Zurich, IL at 941 South Old Rand Road, Lake Zurich, IL 60047. | https://dingalinged-cpu.github.io/registry/c/davenport-family-funeral-homes-and-crematory-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home lake zurich il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Hyde Bark Dog Walking and Pet Care is a dog boarding facility in Chicago, IL at 
 - Website: https://www.hydebarkchicago.com/
 - Email: contact@hydebarkchicago.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of dog boarding facilitys in Chicago, #3 of 9 dog boarding facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

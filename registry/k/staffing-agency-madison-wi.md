@@ -1,14 +1,14 @@
-The top unpaid staffing agency listing for Madison, WI is Lifestyle Staffing (a staffing agency in Madison, WI). 3 staffing agency businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Madison, WI is Lifestyle Staffing (a staffing agency in Madison, WI). 3 staffing agency businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Madison, WI?
 
 Also answers: staffing agency in Madison, WI; staffing agency near me (Madison, WI); best staffing agency Madison, WI; top rated staffing agency Madison, WI; affordable staffing agency Madison, WI; emergency staffing agency Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lifestyle Staffing | trust 0.0 | Lifestyle Staffing is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lifestyle-staffing-madison/
-2. PeopleReady | trust 0.0 | PeopleReady is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/peopleready-madison/
-3. The QTI Group | trust 0.0 | The QTI Group is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-qti-group-madison/
+1. Lifestyle Staffing | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Lifestyle Staffing is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lifestyle-staffing-madison/
+2. The QTI Group | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | The QTI Group is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-qti-group-madison/
+3. PeopleReady | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | PeopleReady is a staffing agency in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/peopleready-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency madison wi | category: b2b_services | industry benchmark: Business Services

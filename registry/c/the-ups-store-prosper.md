@@ -13,7 +13,7 @@ The UPS Store is a printing service in Prosper, TX at 4261 East University Drive
 - Website: n/a
 - Email: store6736@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su 11:00-16:00
-- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 39% of printing services in Dallas–Fort Worth, #1 of 1 printing services in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

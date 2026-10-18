@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Saint Anthony, MN is St. Anthony Cleaners (a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/). 2 dry cleaners businesses are listed for Saint Anthony, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Saint Anthony, MN is St. Anthony Cleaners (a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/). 2 dry cleaners businesses are listed for Saint Anthony, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Saint Anthony, MN?
 
 Also answers: dry cleaners in Saint Anthony, MN; dry cleaners near me (Saint Anthony, MN); best dry cleaners Saint Anthony, MN; top rated dry cleaners Saint Anthony, MN; affordable dry cleaners Saint Anthony, MN; emergency dry cleaners Saint Anthony, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Anthony Cleaners | trust 19.0 | St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/
-2. Clean'n'Press | trust 10.0 | Clean'n'Press is a dry cleaner in Saint Anthony, MN. Website: https://cleannpress.com/st-anthony-dry-cleaner/. | https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-anthony/
+1. St. Anthony Cleaners | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | St. Anthony Cleaners is a dry cleaner in Saint Anthony, MN at 3007 37th Avenue Northeast, Saint Anthony, MN. Phone: +16129102890. Website: https://stanthonycleaners.com/. | https://dingalinged-cpu.github.io/registry/c/st-anthony-cleaners-saint-anthony/
+2. Clean'n'Press | Organic #2 | Pulse Score 47.2/100 (Unrated, #2 in city) | Clean'n'Press is a dry cleaner in Saint Anthony, MN. Website: https://cleannpress.com/st-anthony-dry-cleaner/. | https://dingalinged-cpu.github.io/registry/c/cleannpress-saint-anthony/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners saint anthony mn | category: Professional & financial services | industry benchmark: Finance & Insurance

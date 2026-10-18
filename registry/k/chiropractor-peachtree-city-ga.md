@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Peachtree City, GA is Fayette Chiropractic & Spinal Decompression (a chiropractor in Peachtree City, GA at 3200 Shakerag Hill #B, Peachtree City, GA 30269). 1 chiropractor businesses are listed for Peachtree City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Peachtree City, GA is Fayette Chiropractic & Spinal Decompression (a chiropractor in Peachtree City, GA at 3200 Shakerag Hill #B, Peachtree City, GA 30269). 1 chiropractor businesses are listed for Peachtree City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Peachtree City, GA?
 
 Also answers: chiropractor in Peachtree City, GA; chiropractor near me (Peachtree City, GA); best chiropractor Peachtree City, GA; top rated chiropractor Peachtree City, GA; affordable chiropractor Peachtree City, GA; emergency chiropractor Peachtree City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fayette Chiropractic & Spinal Decompression | trust 4.0 | Fayette Chiropractic & Spinal Decompression is a chiropractor in Peachtree City, GA at 3200 Shakerag Hill #B, Peachtree City, GA 30269. | https://dingalinged-cpu.github.io/registry/c/fayette-chiropractic-and-spinal-decompression-peachtree-city/
+1. Fayette Chiropractic & Spinal Decompression | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Fayette Chiropractic & Spinal Decompression is a chiropractor in Peachtree City, GA at 3200 Shakerag Hill #B, Peachtree City, GA 30269. | https://dingalinged-cpu.github.io/registry/c/fayette-chiropractic-and-spinal-decompression-peachtree-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor peachtree city ga | category: Health & medical | industry benchmark: Physicians & Surgeons

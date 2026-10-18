@@ -13,7 +13,7 @@ Starz Preschool is a preschool in Douglas County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.9/100 — Unrated (not enough evidence yet) — top 69% of preschools in Atlanta, #2 of 2 preschools in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58, Trust 39.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

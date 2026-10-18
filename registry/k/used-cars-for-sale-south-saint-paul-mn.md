@@ -1,13 +1,13 @@
-The top unpaid used cars for sale listing for South Saint Paul, MN is Northern Lights Auto Sales (an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075). 2 used cars for sale businesses are listed for South Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for South Saint Paul, MN is Northern Lights Auto Sales (an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075). 2 used cars for sale businesses are listed for South Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in South Saint Paul, MN?
 
 Also answers: used cars for sale in South Saint Paul, MN; used cars for sale near me (South Saint Paul, MN); best used cars for sale South Saint Paul, MN; top rated used cars for sale South Saint Paul, MN; affordable used cars for sale South Saint Paul, MN; emergency used cars for sale South Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northern Lights Auto Sales | trust 4.0 | Northern Lights Auto Sales is an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/northern-lights-auto-sales-south-saint-paul/
-2. Walser Subaru | trust 4.0 | Walser Subaru is an used car dealer in South Saint Paul, MN at 740 Concord Street South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/walser-subaru-south-saint-paul/
+1. Northern Lights Auto Sales | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Northern Lights Auto Sales is an used car dealer in South Saint Paul, MN at 144 Concord Exchange South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/northern-lights-auto-sales-south-saint-paul/
+2. Walser Subaru | Organic #2 | Pulse Score 45.2/100 (Building, #2 in city) | Walser Subaru is an used car dealer in South Saint Paul, MN at 740 Concord Street South, South Saint Paul, MN 55075. | https://dingalinged-cpu.github.io/registry/c/walser-subaru-south-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale south saint paul mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

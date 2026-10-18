@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Melrose Park, IL is Riley Heating & Cooling (a HVAC contractor in Melrose Park, IL at 16 North 9th Avenue, Melrose Park, IL 60160. Phone: +17085512303. Website: https://rileyhc.com/). 1 heating and air businesses are listed for Melrose Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Melrose Park, IL is Riley Heating & Cooling (a HVAC contractor in Melrose Park, IL at 16 North 9th Avenue, Melrose Park, IL 60160. Phone: +17085512303. Website: https://rileyhc.com/). 1 heating and air businesses are listed for Melrose Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Melrose Park, IL?
 
 Also answers: heating and air in Melrose Park, IL; heating and air near me (Melrose Park, IL); best heating and air Melrose Park, IL; top rated heating and air Melrose Park, IL; affordable heating and air Melrose Park, IL; emergency heating and air Melrose Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riley Heating & Cooling | trust 16.0 | Riley Heating & Cooling is a HVAC contractor in Melrose Park, IL at 16 North 9th Avenue, Melrose Park, IL 60160. Phone: +17085512303. Website: https://rileyhc.com/. | https://dingalinged-cpu.github.io/registry/c/riley-heating-and-cooling-melrose-park/
+1. Riley Heating & Cooling | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Riley Heating & Cooling is a HVAC contractor in Melrose Park, IL at 16 North 9th Avenue, Melrose Park, IL 60160. Phone: +17085512303. Website: https://rileyhc.com/. | https://dingalinged-cpu.github.io/registry/c/riley-heating-and-cooling-melrose-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air melrose park il | category: Home Services | industry benchmark: Home & Home Improvement

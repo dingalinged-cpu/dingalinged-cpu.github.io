@@ -1,12 +1,12 @@
-The top unpaid facial listing for Pearland, TX is Ulta Beauty (a skin care studio in Pearland, TX at 3133 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134366955. Website: https://www.ulta.com/stores/pearland-tx-165). 1 facial businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Pearland, TX is Ulta Beauty (a skin care studio in Pearland, TX at 3133 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134366955. Website: https://www.ulta.com/stores/pearland-tx-165). 1 facial businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Pearland, TX?
 
 Also answers: facial in Pearland, TX; facial near me (Pearland, TX); best facial Pearland, TX; top rated facial Pearland, TX; affordable facial Pearland, TX; emergency facial Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Pearland, TX at 3133 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134366955. Website: https://www.ulta.com/stores/pearland-tx-165. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-pearland/
+1. Ulta Beauty | Organic #1 | Pulse Score 44.8/100 (Building, #1 in city) | Ulta Beauty is a skin care studio in Pearland, TX at 3133 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134366955. Website: https://www.ulta.com/stores/pearland-tx-165. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial pearland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

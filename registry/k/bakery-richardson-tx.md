@@ -1,17 +1,17 @@
-The top unpaid bakery listing for Richardson, TX is Ramallah Bakery (a bakery in Richardson, TX at 705 Sherman Street, Richardson, TX 75081. Phone: +14696106243). 6 bakery businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Richardson, TX is Ramallah Bakery (a bakery in Richardson, TX at 705 Sherman Street, Richardson, TX 75081. Phone: +14696106243). 6 bakery businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Richardson, TX?
 
 Also answers: bakery in Richardson, TX; bakery near me (Richardson, TX); best bakery Richardson, TX; top rated bakery Richardson, TX; affordable bakery Richardson, TX; emergency bakery Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ramallah Bakery | trust 14.0 | Ramallah Bakery is a bakery in Richardson, TX at 705 Sherman Street, Richardson, TX 75081. Phone: +14696106243. | https://dingalinged-cpu.github.io/registry/c/ramallah-bakery-richardson/
-2. Bella Flan Bakery & Cafe | trust 4.0 | Bella Flan Bakery & Cafe is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/bella-flan-bakery-and-cafe-richardson/
-3. Chocolate Angel Bakery & To-Go | trust 4.0 | Chocolate Angel Bakery & To-Go is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/chocolate-angel-bakery-and-to-go-richardson/
-4. Selda Bakery | trust 4.0 | Selda Bakery is a bakery in Richardson, TX at 101 South Coit Road, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/selda-bakery-richardson/
-5. Sugarless deLite | trust 3.0 | Sugarless deLite is a bakery in Richardson, TX at 1389 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/sugarless-delite-richardson/
-6. Cinnaholic | trust 0.0 | Cinnaholic is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/cinnaholic-richardson/
+1. Ramallah Bakery | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Ramallah Bakery is a bakery in Richardson, TX at 705 Sherman Street, Richardson, TX 75081. Phone: +14696106243. | https://dingalinged-cpu.github.io/registry/c/ramallah-bakery-richardson/
+2. Chocolate Angel Bakery & To-Go | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Chocolate Angel Bakery & To-Go is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/chocolate-angel-bakery-and-to-go-richardson/
+3. Bella Flan Bakery & Cafe | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Bella Flan Bakery & Cafe is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/bella-flan-bakery-and-cafe-richardson/
+4. Selda Bakery | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Selda Bakery is a bakery in Richardson, TX at 101 South Coit Road, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/selda-bakery-richardson/
+5. Sugarless deLite | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Sugarless deLite is a bakery in Richardson, TX at 1389 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/sugarless-delite-richardson/
+6. Cinnaholic | Organic #6 | Pulse Score 42.5/100 (Unrated, #6 in city) | Cinnaholic is a bakery in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/cinnaholic-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery richardson tx | category: Events & weddings | industry benchmark: Personal Services

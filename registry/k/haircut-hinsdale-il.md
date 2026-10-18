@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Hinsdale, IL is Dying Breed Barbershop (a hair salon in Hinsdale, IL). 2 haircut businesses are listed for Hinsdale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Hinsdale, IL is Dying Breed Barbershop (a hair salon in Hinsdale, IL). 2 haircut businesses are listed for Hinsdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Hinsdale, IL?
 
 Also answers: haircut in Hinsdale, IL; haircut near me (Hinsdale, IL); best haircut Hinsdale, IL; top rated haircut Hinsdale, IL; affordable haircut Hinsdale, IL; emergency haircut Hinsdale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dying Breed Barbershop | trust 0.0 | Dying Breed Barbershop is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/dying-breed-barbershop-hinsdale/
-2. Salon Lofts | trust 0.0 | Salon Lofts is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-hinsdale/
+1. Dying Breed Barbershop | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Dying Breed Barbershop is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/dying-breed-barbershop-hinsdale/
+2. Salon Lofts | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Salon Lofts is a hair salon in Hinsdale, IL. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-hinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut hinsdale il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

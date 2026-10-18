@@ -13,7 +13,7 @@ Spring Creek Dentistry is a dentist in Spring, TX at 17285 Stuebner Airline Road
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-16:00; Fr 07:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of dentists in Houston, #10 of 16 dentists in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

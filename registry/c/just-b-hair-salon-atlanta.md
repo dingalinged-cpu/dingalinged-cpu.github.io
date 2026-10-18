@@ -13,7 +13,7 @@ Just b. Hair Salon is a hair salon in Atlanta, GA at 1831 Peachtree Street North
 - Website: https://www.justbhairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): "By Appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 14% of hair salons in Atlanta, #18 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

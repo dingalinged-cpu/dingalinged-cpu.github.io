@@ -13,7 +13,7 @@ Best Choice Resale Tax & Multiservice is a tax preparation service in Houston, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 11% of tax preparation services in Houston, #6 of 44 tax preparation services in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

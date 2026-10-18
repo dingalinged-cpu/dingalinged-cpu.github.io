@@ -13,7 +13,7 @@ Smile Craft Dental is a dentist in Flower Mound, TX. Phone: +12142852455. Websit
 - Website: https://smilecraftdentistflowermound.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 08:00-17:00; PH closed; We closed "By appointment only"; Sa 09:00-13:00
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 12% of dentists in Dallas–Fort Worth, #10 of 34 dentists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

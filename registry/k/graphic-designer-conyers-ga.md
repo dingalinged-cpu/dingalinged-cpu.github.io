@@ -1,12 +1,12 @@
-The top unpaid graphic designer listing for Conyers, GA is Eyecon Performance Graphics (a graphic designer in Conyers, GA at 2056 Sigman Road Northwest, Conyers, GA 30012). 1 graphic designer businesses are listed for Conyers, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for Conyers, GA is Eyecon Performance Graphics (a graphic designer in Conyers, GA at 2056 Sigman Road Northwest, Conyers, GA 30012). 1 graphic designer businesses are listed for Conyers, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in Conyers, GA?
 
 Also answers: graphic designer in Conyers, GA; graphic designer near me (Conyers, GA); best graphic designer Conyers, GA; top rated graphic designer Conyers, GA; affordable graphic designer Conyers, GA; emergency graphic designer Conyers, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eyecon Performance Graphics | trust 8.0 | Eyecon Performance Graphics is a graphic designer in Conyers, GA at 2056 Sigman Road Northwest, Conyers, GA 30012. | https://dingalinged-cpu.github.io/registry/c/eyecon-performance-graphics-conyers/
+1. Eyecon Performance Graphics | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Eyecon Performance Graphics is a graphic designer in Conyers, GA at 2056 Sigman Road Northwest, Conyers, GA 30012. | https://dingalinged-cpu.github.io/registry/c/eyecon-performance-graphics-conyers/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer conyers ga | category: professional_marketing | industry benchmark: Business Services

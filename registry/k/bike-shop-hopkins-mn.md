@@ -1,13 +1,13 @@
-The top unpaid bike shop listing for Hopkins, MN is Tonka Cycle & Ski (a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/). 2 bike shop businesses are listed for Hopkins, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Hopkins, MN is Tonka Cycle & Ski (a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/). 2 bike shop businesses are listed for Hopkins, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Hopkins, MN?
 
 Also answers: bike shop in Hopkins, MN; bike shop near me (Hopkins, MN); best bike shop Hopkins, MN; top rated bike shop Hopkins, MN; affordable bike shop Hopkins, MN; emergency bike shop Hopkins, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tonka Cycle & Ski | trust 20.0 | Tonka Cycle & Ski is a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/. | https://dingalinged-cpu.github.io/registry/c/tonka-cycle-and-ski-hopkins/
-2. Jonny Rock Bikes | trust 0.0 | Jonny Rock Bikes is a bike shop in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-hopkins/
+1. Tonka Cycle & Ski | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Tonka Cycle & Ski is a bike shop in Hopkins, MN at 416 11th Avenue South, Hopkins, MN 55343. Phone: +19529388336. Website: https://www.tonkacycleandski.com/. | https://dingalinged-cpu.github.io/registry/c/tonka-cycle-and-ski-hopkins/
+2. Jonny Rock Bikes | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Jonny Rock Bikes is a bike shop in Hopkins, MN. | https://dingalinged-cpu.github.io/registry/c/jonny-rock-bikes-hopkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop hopkins mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

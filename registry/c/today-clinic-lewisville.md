@@ -13,7 +13,7 @@ Today Clinic is a family medicine practice in Lewisville, TX at 1318A West Main 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-14:00 open "Call to schedule an appointment."; Sa open "By appointment. Virtual only."; PH closed
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 15% of family medicine practices in Dallas–Fort Worth, #2 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

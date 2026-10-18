@@ -13,7 +13,7 @@ Tilak Jewelers is a jewelry store in Irving, TX at 8300 North MacArthur Boulevar
 - Website: https://tilakjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Sa 11:00-19:00, Mo 11:00-19:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of jewelry stores in Dallas–Fort Worth, #2 of 6 jewelry stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

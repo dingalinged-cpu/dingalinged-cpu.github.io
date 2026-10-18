@@ -13,7 +13,7 @@ Jared is a jewelry store in Texas City, TX at 5885 Gulf Freeway #780, Texas City
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 46% of jewelry stores in Houston, #1 of 1 jewelry stores in Texas City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

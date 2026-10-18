@@ -1,14 +1,14 @@
-The top unpaid gym listing for Mendota Heights, MN is Boltz Tae Kwon Do (a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota Heights, MN 55120). 3 gym businesses are listed for Mendota Heights, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mendota Heights, MN is Boltz Tae Kwon Do (a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota Heights, MN 55120). 3 gym businesses are listed for Mendota Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mendota Heights, MN?
 
 Also answers: gym in Mendota Heights, MN; gym near me (Mendota Heights, MN); best gym Mendota Heights, MN; top rated gym Mendota Heights, MN; affordable gym Mendota Heights, MN; emergency gym Mendota Heights, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Boltz Tae Kwon Do | trust 4.0 | Boltz Tae Kwon Do is a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota Heights, MN 55120. | https://dingalinged-cpu.github.io/registry/c/boltz-tae-kwon-do-mendota-heights/
-2. Curves | trust 4.0 | Curves is a gym in Mendota Heights, MN at 790 Plaza Drive, Mendota Heights, MN 55120. | https://dingalinged-cpu.github.io/registry/c/curves-mendota-heights/
-3. Anytime Fitness | trust 0.0 | Anytime Fitness is a gym in Mendota Heights, MN. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mendota-heights/
+1. Boltz Tae Kwon Do | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Boltz Tae Kwon Do is a gym in Mendota Heights, MN at 780 Plaza Drive, Mendota Heights, MN 55120. | https://dingalinged-cpu.github.io/registry/c/boltz-tae-kwon-do-mendota-heights/
+2. Curves | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Curves is a gym in Mendota Heights, MN at 790 Plaza Drive, Mendota Heights, MN 55120. | https://dingalinged-cpu.github.io/registry/c/curves-mendota-heights/
+3. Anytime Fitness | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | Anytime Fitness is a gym in Mendota Heights, MN. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mendota-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mendota heights mn | category: Fitness | industry benchmark: Health & Fitness

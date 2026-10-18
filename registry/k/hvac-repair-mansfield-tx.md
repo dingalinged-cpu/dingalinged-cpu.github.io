@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Mansfield, TX is Cool Hand Heating & AC Repair (a HVAC contractor in Mansfield, TX at 600 Strada Circle ##218, Mansfield, TX 76063. Phone: +14698427412. Website: https://coolhandelectric.com/areas/ac-repair-mansfield-tx/). 1 hvac repair businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Mansfield, TX is Cool Hand Heating & AC Repair (a HVAC contractor in Mansfield, TX at 600 Strada Circle ##218, Mansfield, TX 76063. Phone: +14698427412. Website: https://coolhandelectric.com/areas/ac-repair-mansfield-tx/). 1 hvac repair businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Mansfield, TX?
 
 Also answers: hvac repair in Mansfield, TX; hvac repair near me (Mansfield, TX); best hvac repair Mansfield, TX; top rated hvac repair Mansfield, TX; affordable hvac repair Mansfield, TX; emergency hvac repair Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cool Hand Heating & AC Repair | trust 20.0 | Cool Hand Heating & AC Repair is a HVAC contractor in Mansfield, TX at 600 Strada Circle ##218, Mansfield, TX 76063. Phone: +14698427412. Website: https://coolhandelectric.com/areas/ac-repair-mansfield-tx/. | https://dingalinged-cpu.github.io/registry/c/cool-hand-heating-and-ac-repair-mansfield/
+1. Cool Hand Heating & AC Repair | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Cool Hand Heating & AC Repair is a HVAC contractor in Mansfield, TX at 600 Strada Circle ##218, Mansfield, TX 76063. Phone: +14698427412. Website: https://coolhandelectric.com/areas/ac-repair-mansfield-tx/. | https://dingalinged-cpu.github.io/registry/c/cool-hand-heating-and-ac-repair-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair mansfield tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

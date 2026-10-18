@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Little Elm, TX is Elevated Roofing, LLC (a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/). 1 roofer businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Little Elm, TX is Elevated Roofing, LLC (a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/). 1 roofer businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Little Elm, TX?
 
 Also answers: roofer in Little Elm, TX; roofer near me (Little Elm, TX); best roofer Little Elm, TX; top rated roofer Little Elm, TX; affordable roofer Little Elm, TX; emergency roofer Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elevated Roofing, LLC | trust 20.0 | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://dingalinged-cpu.github.io/registry/c/elevated-roofing-llc-frisco/
+1. Elevated Roofing, LLC | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Elevated Roofing, LLC is a roofer in Frisco, TX at 15222 King Road #402, Frisco, TX 75034. Phone: +14693050010. Website: https://elevatedroofing.com/. | https://dingalinged-cpu.github.io/registry/c/elevated-roofing-llc-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer little elm tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

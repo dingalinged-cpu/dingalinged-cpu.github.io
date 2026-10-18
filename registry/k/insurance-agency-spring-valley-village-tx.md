@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Spring Valley Village, TX is Freeway Insurance (an insurance agent in Spring Valley Village, TX at 8420 Katy Freeway #510, Spring Valley Village, TX). 1 insurance agency businesses are listed for Spring Valley Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Spring Valley Village, TX is Freeway Insurance (an insurance agent in Spring Valley Village, TX at 8420 Katy Freeway #510, Spring Valley Village, TX). 1 insurance agency businesses are listed for Spring Valley Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Spring Valley Village, TX?
 
 Also answers: insurance agency in Spring Valley Village, TX; insurance agency near me (Spring Valley Village, TX); best insurance agency Spring Valley Village, TX; top rated insurance agency Spring Valley Village, TX; affordable insurance agency Spring Valley Village, TX; emergency insurance agency Spring Valley Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Freeway Insurance | trust 7.0 | Freeway Insurance is an insurance agent in Spring Valley Village, TX at 8420 Katy Freeway #510, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/freeway-insurance-spring-valley-village/
+1. Freeway Insurance | Organic #1 | Pulse Score 45.8/100 (Unrated, #1 in city) | Freeway Insurance is an insurance agent in Spring Valley Village, TX at 8420 Katy Freeway #510, Spring Valley Village, TX. | https://dingalinged-cpu.github.io/registry/c/freeway-insurance-spring-valley-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency spring valley village tx | category: insurance | industry benchmark: Finance & Insurance

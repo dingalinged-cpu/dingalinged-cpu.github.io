@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Arlington, TX is Oaks Cleaners (a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/). 4 dry cleaners businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Arlington, TX is Oaks Cleaners (a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/). 4 dry cleaners businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Arlington, TX?
 
 Also answers: dry cleaners in Arlington, TX; dry cleaners near me (Arlington, TX); best dry cleaners Arlington, TX; top rated dry cleaners Arlington, TX; affordable dry cleaners Arlington, TX; emergency dry cleaners Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oaks Cleaners | trust 20.0 | Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/oaks-cleaners-arlington/
-2. Bond One Hour Cleaners & Laundry | trust 14.0 | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://dingalinged-cpu.github.io/registry/c/bond-one-hour-cleaners-and-laundry-arlington/
-3. Lone Star Cleaners | trust 0.0 | Lone Star Cleaners is a dry cleaner in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-cleaners-arlington/
-4. Y-Pay More | trust 0.0 | Y-Pay More is a dry cleaner in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/y-pay-more-arlington/
+1. Oaks Cleaners | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Oaks Cleaners is a dry cleaner in Arlington, TX at 1112 North Fielder Road, Arlington, TX 76012. Phone: +18172748729. Website: https://www.oakscleaners.com/. | https://dingalinged-cpu.github.io/registry/c/oaks-cleaners-arlington/
+2. Bond One Hour Cleaners & Laundry | Organic #2 | Pulse Score 63.7/100 (Unrated, #2 in city) | Bond One Hour Cleaners & Laundry is a dry cleaner in Arlington, TX at 138 South Bowen Road, Arlington, TX 76012. Phone: +18172770121. | https://dingalinged-cpu.github.io/registry/c/bond-one-hour-cleaners-and-laundry-arlington/
+3. Lone Star Cleaners | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Lone Star Cleaners is a dry cleaner in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-cleaners-arlington/
+4. Y-Pay More | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Y-Pay More is a dry cleaner in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/y-pay-more-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners arlington tx | category: Professional & financial services | industry benchmark: Finance & Insurance

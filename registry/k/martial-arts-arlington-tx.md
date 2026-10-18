@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Arlington, TX is Elzie Odom Athletic Center (a martial arts school in Arlington, TX at 1601 NE Green Oaks Boulevard, Arlington, TX 76006). 1 martial arts businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Arlington, TX is Elzie Odom Athletic Center (a martial arts school in Arlington, TX at 1601 NE Green Oaks Boulevard, Arlington, TX 76006). 1 martial arts businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Arlington, TX?
 
 Also answers: martial arts in Arlington, TX; martial arts near me (Arlington, TX); best martial arts Arlington, TX; top rated martial arts Arlington, TX; affordable martial arts Arlington, TX; emergency martial arts Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elzie Odom Athletic Center | trust 8.0 | Elzie Odom Athletic Center is a martial arts school in Arlington, TX at 1601 NE Green Oaks Boulevard, Arlington, TX 76006. | https://dingalinged-cpu.github.io/registry/c/elzie-odom-athletic-center-arlington/
+1. Elzie Odom Athletic Center | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Elzie Odom Athletic Center is a martial arts school in Arlington, TX at 1601 NE Green Oaks Boulevard, Arlington, TX 76006. | https://dingalinged-cpu.github.io/registry/c/elzie-odom-athletic-center-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts arlington tx | category: Fitness | industry benchmark: Health & Fitness

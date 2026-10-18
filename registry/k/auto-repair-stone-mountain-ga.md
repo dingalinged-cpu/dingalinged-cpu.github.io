@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Stone Mountain, GA is Brownlee Automotive (an auto repair shop in Stone Mountain, GA at 6573 James B Rivers Memorial Drive, Stone Mountain, GA 30083). 4 auto repair businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Stone Mountain, GA is Mike's Body Shop (an auto repair shop in Stone Mountain, GA at 6610 James B Rivers Memorial Drive, Stone Mountain, GA 30083). 4 auto repair businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Stone Mountain, GA?
 
 Also answers: auto repair in Stone Mountain, GA; auto repair near me (Stone Mountain, GA); best auto repair Stone Mountain, GA; top rated auto repair Stone Mountain, GA; affordable auto repair Stone Mountain, GA; emergency auto repair Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brownlee Automotive | trust 4.0 | Brownlee Automotive is an auto repair shop in Stone Mountain, GA at 6573 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/brownlee-automotive-stone-mountain/
-2. K & S Automotive | trust 4.0 | K & S Automotive is an auto repair shop in Stone Mountain, GA at 6565 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/k-and-s-automotive-stone-mountain/
-3. Mike's Body Shop | trust 4.0 | Mike's Body Shop is an auto repair shop in Stone Mountain, GA at 6610 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/mikes-body-shop-stone-mountain/
-4. Stone Mountain Body Shop | trust 4.0 | Stone Mountain Body Shop is an auto repair shop in Stone Mountain, GA at 6565 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/stone-mountain-body-shop-stone-mountain/
+1. Mike's Body Shop | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Mike's Body Shop is an auto repair shop in Stone Mountain, GA at 6610 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/mikes-body-shop-stone-mountain/
+2. Brownlee Automotive | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Brownlee Automotive is an auto repair shop in Stone Mountain, GA at 6573 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/brownlee-automotive-stone-mountain/
+3. K & S Automotive | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | K & S Automotive is an auto repair shop in Stone Mountain, GA at 6565 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/k-and-s-automotive-stone-mountain/
+4. Stone Mountain Body Shop | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Stone Mountain Body Shop is an auto repair shop in Stone Mountain, GA at 6565 James B Rivers Memorial Drive, Stone Mountain, GA 30083. | https://dingalinged-cpu.github.io/registry/c/stone-mountain-body-shop-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair stone mountain ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

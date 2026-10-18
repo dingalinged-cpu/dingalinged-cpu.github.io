@@ -1,16 +1,16 @@
-The top unpaid boutique listing for Dallas, TX is {neighborhood} design bar + 56 foot wall (a boutique in Dallas, TX at 411 North Bishop Avenue, Dallas, TX 75208. Website: https://neighborhood-store-design-bar.myshopify.com/). 5 boutique businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Dallas, TX is {neighborhood} design bar + 56 foot wall (a boutique in Dallas, TX at 411 North Bishop Avenue, Dallas, TX 75208. Website: https://neighborhood-store-design-bar.myshopify.com/). 5 boutique businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Dallas, TX?
 
 Also answers: boutique in Dallas, TX; boutique near me (Dallas, TX); best boutique Dallas, TX; top rated boutique Dallas, TX; affordable boutique Dallas, TX; emergency boutique Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. {neighborhood} design bar + 56 foot wall | trust 14.0 | {neighborhood} design bar + 56 foot wall is a boutique in Dallas, TX at 411 North Bishop Avenue, Dallas, TX 75208. Website: https://neighborhood-store-design-bar.myshopify.com/. | https://dingalinged-cpu.github.io/registry/c/neighborhood-design-bar-56-foot-wall-dallas/
-2. Bishop Street Market | trust 4.0 | Bishop Street Market is a boutique in Dallas, TX at 419 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/bishop-street-market-dallas/
-3. epiphany boutique for men | trust 4.0 | epiphany boutique for men is a boutique in Dallas, TX at 413 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/epiphany-boutique-for-men-dallas/
-4. epiphany unique lifestyle boutique | trust 4.0 | epiphany unique lifestyle boutique is a boutique in Dallas, TX at 412 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/epiphany-unique-lifestyle-boutique-dallas/
-5. Léa-Léa's Vibe | trust 4.0 | Léa-Léa's Vibe is a boutique in Dallas, TX at 19009A Preston Road #117, Dallas, TX 75252. | https://dingalinged-cpu.github.io/registry/c/l-a-l-as-vibe-dallas/
+1. {neighborhood} design bar + 56 foot wall | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | {neighborhood} design bar + 56 foot wall is a boutique in Dallas, TX at 411 North Bishop Avenue, Dallas, TX 75208. Website: https://neighborhood-store-design-bar.myshopify.com/. | https://dingalinged-cpu.github.io/registry/c/neighborhood-design-bar-56-foot-wall-dallas/
+2. Bishop Street Market | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Bishop Street Market is a boutique in Dallas, TX at 419 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/bishop-street-market-dallas/
+3. epiphany boutique for men | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | epiphany boutique for men is a boutique in Dallas, TX at 413 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/epiphany-boutique-for-men-dallas/
+4. epiphany unique lifestyle boutique | Organic #4 | Pulse Score 57.7/100 (Unrated, #4 in city) | epiphany unique lifestyle boutique is a boutique in Dallas, TX at 412 North Bishop Avenue, Dallas, TX 75208. | https://dingalinged-cpu.github.io/registry/c/epiphany-unique-lifestyle-boutique-dallas/
+5. Léa-Léa's Vibe | Organic #5 | Pulse Score 57.7/100 (Unrated, #5 in city) | Léa-Léa's Vibe is a boutique in Dallas, TX at 19009A Preston Road #117, Dallas, TX 75252. | https://dingalinged-cpu.github.io/registry/c/l-a-l-as-vibe-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique dallas tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

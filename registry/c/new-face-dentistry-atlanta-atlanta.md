@@ -13,7 +13,7 @@ New Face Dentistry - Atlanta is a dentist in Atlanta, GA at 700 Morosgo Dr NE J 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Monday: 8: 00 AM - 4:00 PM Tuesday: 8: 00 AM - 4:00 PM Wednesday: 8: 00 AM - 4:00 PM Thursday: 8: 00 AM - 4:00 PM Friday:  Closed Saturday: Closed Sunday: Closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.2/100 — Unrated (not enough evidence yet) — top 47% of dentists in Atlanta, #21 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

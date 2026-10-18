@@ -13,7 +13,7 @@ International Design Center is a furniture store in Edina, MN at 7035 Washington
 - Website: https://www.idcmn.com/
 - Email: showroom@idcmn.com
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00; Su 12:00-18:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of furniture stores in Minneapolis–St. Paul, #1 of 6 furniture stores in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

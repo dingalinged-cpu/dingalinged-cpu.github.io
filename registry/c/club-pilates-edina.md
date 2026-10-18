@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Edina, MN. Website: https://www.clubpilates.
 - Website: https://www.clubpilates.com/location/edina
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-20:00; Fr-Su 06:00-13:00
-- Registry Score: 44.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.8/100 — Building — top 63% of pilates studios in Minneapolis–St. Paul, #1 of 1 pilates studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

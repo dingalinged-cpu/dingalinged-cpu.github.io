@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Denton, TX is The Crouch Group (a marketing agency in Denton, TX at 620 West Hickory Street, Denton, TX. Phone: +19403831990. Website: https://thecrouchgroup.com/). 1 marketing agency businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Denton, TX is The Crouch Group (a marketing agency in Denton, TX at 620 West Hickory Street, Denton, TX. Phone: +19403831990. Website: https://thecrouchgroup.com/). 1 marketing agency businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Denton, TX?
 
 Also answers: marketing agency in Denton, TX; marketing agency near me (Denton, TX); best marketing agency Denton, TX; top rated marketing agency Denton, TX; affordable marketing agency Denton, TX; emergency marketing agency Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Crouch Group | trust 19.0 | The Crouch Group is a marketing agency in Denton, TX at 620 West Hickory Street, Denton, TX. Phone: +19403831990. Website: https://thecrouchgroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-crouch-group-denton/
+1. The Crouch Group | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | The Crouch Group is a marketing agency in Denton, TX at 620 West Hickory Street, Denton, TX. Phone: +19403831990. Website: https://thecrouchgroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-crouch-group-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency denton tx | category: Professional & financial services | industry benchmark: Finance & Insurance

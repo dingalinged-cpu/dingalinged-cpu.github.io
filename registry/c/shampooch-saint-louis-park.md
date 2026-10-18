@@ -13,7 +13,7 @@ Shampooch is a dog groomer in Saint Louis Park, MN at 8140 Minnetonka Boulevard,
 - Website: https://shampooch-salon.edan.io/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 45% of dog groomers in Minneapolis–St. Paul, #3 of 4 dog groomers in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Lemon Massage is a massage studio in Lewisville, TX at West FM 3040 #400, Lewisv
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Sa-Su 10:00-22:00
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 2% of massage studios in Dallas–Fort Worth, #1 of 8 massage studios in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

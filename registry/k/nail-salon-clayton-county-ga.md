@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Clayton County, GA is Chan & Bay (a nail salon in Clayton County, GA). 6 nail salon businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Clayton County, GA is Chan & Bay (a nail salon in Clayton County, GA). 6 nail salon businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Clayton County, GA?
 
 Also answers: nail salon in Clayton County, GA; nail salon near me (Clayton County, GA); best nail salon Clayton County, GA; top rated nail salon Clayton County, GA; affordable nail salon Clayton County, GA; emergency nail salon Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chan & Bay | trust 0.0 | Chan & Bay is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-clayton-county/
-2. Chan & Bay Nail Spa | trust 0.0 | Chan & Bay Nail Spa is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-nail-spa-clayton-county/
-3. M&B Nails | trust 0.0 | M&B Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/m-and-b-nails-clayton-county/
-4. Salon | trust 0.0 | Salon is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-clayton-county/
-5. Spa Nails | trust 0.0 | Spa Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/spa-nails-clayton-county/
-6. Star Nails | trust 0.0 | Star Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/star-nails-clayton-county/
+1. Chan & Bay | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Chan & Bay is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-clayton-county/
+2. Chan & Bay Nail Spa | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Chan & Bay Nail Spa is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/chan-and-bay-nail-spa-clayton-county/
+3. M&B Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | M&B Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/m-and-b-nails-clayton-county/
+4. Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Salon is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-clayton-county/
+5. Spa Nails | Organic #5 | Pulse Score 42/100 (Unrated, #5 in city) | Spa Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/spa-nails-clayton-county/
+6. Star Nails | Organic #6 | Pulse Score 42/100 (Unrated, #6 in city) | Star Nails is a nail salon in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/star-nails-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon clayton county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

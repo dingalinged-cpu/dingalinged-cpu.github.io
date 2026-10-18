@@ -1,12 +1,12 @@
-The top unpaid gym listing for Harwood Heights, IL is Orangetheory Fitness (a gym in Harwood Heights, IL at 4747 North Harlem Avenue #G, Harwood Heights, IL 60706. Phone: +17084008648. Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/). 1 gym businesses are listed for Harwood Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Harwood Heights, IL is Orangetheory Fitness (a gym in Harwood Heights, IL at 4747 North Harlem Avenue #G, Harwood Heights, IL 60706. Phone: +17084008648. Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/). 1 gym businesses are listed for Harwood Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Harwood Heights, IL?
 
 Also answers: gym in Harwood Heights, IL; gym near me (Harwood Heights, IL); best gym Harwood Heights, IL; top rated gym Harwood Heights, IL; affordable gym Harwood Heights, IL; emergency gym Harwood Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orangetheory Fitness | trust 16.0 | Orangetheory Fitness is a gym in Harwood Heights, IL at 4747 North Harlem Avenue #G, Harwood Heights, IL 60706. Phone: +17084008648. Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-harwood-heights/
+1. Orangetheory Fitness | Organic #1 | Pulse Score 48.1/100 (Building, #1 in city) | Orangetheory Fitness is a gym in Harwood Heights, IL at 4747 North Harlem Avenue #G, Harwood Heights, IL 60706. Phone: +17084008648. Website: https://www.orangetheory.com/en-us/locations/illinois/harwood-heights/4747-n-harlem-ave-suite-1115-a/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-harwood-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym harwood heights il | category: Fitness | industry benchmark: Health & Fitness

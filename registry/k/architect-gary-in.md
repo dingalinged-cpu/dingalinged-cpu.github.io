@@ -1,13 +1,13 @@
-The top unpaid architect listing for Gary, IN is Powers And Sons Construction Co. (an architect in Gary, IN at 2636 West 15th Avenue, Gary, IN 46404. Phone: +12199493100. Website: https://powersandsons.com/). 2 architect businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Gary, IN is Powers And Sons Construction Co. (an architect in Gary, IN at 2636 West 15th Avenue, Gary, IN 46404. Phone: +12199493100. Website: https://powersandsons.com/). 2 architect businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Gary, IN?
 
 Also answers: architect in Gary, IN; architect near me (Gary, IN); best architect Gary, IN; top rated architect Gary, IN; affordable architect Gary, IN; emergency architect Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Powers And Sons Construction Co. | trust 20.0 | Powers And Sons Construction Co. is an architect in Gary, IN at 2636 West 15th Avenue, Gary, IN 46404. Phone: +12199493100. Website: https://powersandsons.com/. | https://dingalinged-cpu.github.io/registry/c/powers-and-sons-construction-co-gary/
-2. Orbesen Construction Company, Inc. | trust 0.0 | Orbesen Construction Company, Inc. is an architect in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/orbesen-construction-company-inc-gary/
+1. Powers And Sons Construction Co. | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Powers And Sons Construction Co. is an architect in Gary, IN at 2636 West 15th Avenue, Gary, IN 46404. Phone: +12199493100. Website: https://powersandsons.com/. | https://dingalinged-cpu.github.io/registry/c/powers-and-sons-construction-co-gary/
+2. Orbesen Construction Company, Inc. | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | Orbesen Construction Company, Inc. is an architect in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/orbesen-construction-company-inc-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect gary in | category: Home services - Design | industry benchmark: Home & Home Improvement

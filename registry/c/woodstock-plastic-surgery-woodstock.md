@@ -13,7 +13,7 @@ Woodstock Plastic Surgery is a plastic surgeon in Woodstock, GA at 9236 Main Str
 - Website: https://www.woodstockplasticsurgery.com/
 - Email: info@woodstockplasticsurgery.com
 - Opening hours (OSM syntax): Mo-Th 09:00-17:00; Fr 09:00-15:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 8% of plastic surgeons in Atlanta, #1 of 1 plastic surgeons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

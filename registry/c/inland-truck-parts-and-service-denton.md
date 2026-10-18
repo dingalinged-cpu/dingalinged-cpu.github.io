@@ -13,7 +13,7 @@ Inland Truck Parts & Service is an auto repair shop in Denton, TX at 4321 North 
 - Website: https://www.inlandtruck.com/locations/texas/denton/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Dallas–Fort Worth, #7 of 38 auto repair shops in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

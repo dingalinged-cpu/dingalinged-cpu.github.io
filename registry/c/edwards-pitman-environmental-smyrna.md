@@ -13,7 +13,7 @@ Edwards-Pitman Environmental is a business consultant in Smyrna, GA at 1250 Winc
 - Website: https://www.edwards-pitman.com/
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 29% of business consultants in Atlanta, #1 of 3 business consultants in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

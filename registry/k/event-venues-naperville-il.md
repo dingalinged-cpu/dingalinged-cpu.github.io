@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Naperville, IL is Royal Palace Banquet (an event venue in Naperville, IL at 1570 West Ogden Avenue, Naperville, IL 60540. Phone: +16308573161. Website: https://www.royalpalacebanquet.net/). 2 event venues businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Naperville, IL is Royal Palace Banquet (an event venue in Naperville, IL at 1570 West Ogden Avenue, Naperville, IL 60540. Phone: +16308573161. Website: https://www.royalpalacebanquet.net/). 2 event venues businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Naperville, IL?
 
 Also answers: event venues in Naperville, IL; event venues near me (Naperville, IL); best event venues Naperville, IL; top rated event venues Naperville, IL; affordable event venues Naperville, IL; emergency event venues Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royal Palace Banquet | trust 16.0 | Royal Palace Banquet is an event venue in Naperville, IL at 1570 West Ogden Avenue, Naperville, IL 60540. Phone: +16308573161. Website: https://www.royalpalacebanquet.net/. | https://dingalinged-cpu.github.io/registry/c/royal-palace-banquet-naperville/
-2. Elements at Water Street | trust 6.0 | Elements at Water Street is an event venue in Naperville, IL. Website: https://www.elementsnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/elements-at-water-street-naperville/
+1. Royal Palace Banquet | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Royal Palace Banquet is an event venue in Naperville, IL at 1570 West Ogden Avenue, Naperville, IL 60540. Phone: +16308573161. Website: https://www.royalpalacebanquet.net/. | https://dingalinged-cpu.github.io/registry/c/royal-palace-banquet-naperville/
+2. Elements at Water Street | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Elements at Water Street is an event venue in Naperville, IL. Website: https://www.elementsnaperville.com/. | https://dingalinged-cpu.github.io/registry/c/elements-at-water-street-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues naperville il | category: Events & weddings | industry benchmark: Personal Services

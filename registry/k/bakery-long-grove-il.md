@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Long Grove, IL is Sorelle Italian Market (a bakery in Long Grove, IL at 3976 Main Street, Long Grove, IL 60047. Website: https://sorelleitalian.com/). 1 bakery businesses are listed for Long Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Long Grove, IL is Sorelle Italian Market (a bakery in Long Grove, IL at 3976 Main Street, Long Grove, IL 60047. Website: https://sorelleitalian.com/). 1 bakery businesses are listed for Long Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Long Grove, IL?
 
 Also answers: bakery in Long Grove, IL; bakery near me (Long Grove, IL); best bakery Long Grove, IL; top rated bakery Long Grove, IL; affordable bakery Long Grove, IL; emergency bakery Long Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sorelle Italian Market | trust 10.0 | Sorelle Italian Market is a bakery in Long Grove, IL at 3976 Main Street, Long Grove, IL 60047. Website: https://sorelleitalian.com/. | https://dingalinged-cpu.github.io/registry/c/sorelle-italian-market-long-grove/
+1. Sorelle Italian Market | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Sorelle Italian Market is a bakery in Long Grove, IL at 3976 Main Street, Long Grove, IL 60047. Website: https://sorelleitalian.com/. | https://dingalinged-cpu.github.io/registry/c/sorelle-italian-market-long-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery long grove il | category: Events & weddings | industry benchmark: Personal Services

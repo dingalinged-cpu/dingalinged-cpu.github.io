@@ -1,21 +1,21 @@
-The top unpaid gym listing for Southlake, TX is Southlake Strength & Fitness (a gym in Southlake, TX at 280 Commerce Street #Suite 130, Southlake, TX 76092. Phone: +18176592956. Website: https://southlakestrength.com/). 10 gym businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Southlake, TX is Southlake Strength & Fitness (a gym in Southlake, TX at 280 Commerce Street #Suite 130, Southlake, TX 76092. Phone: +18176592956. Website: https://southlakestrength.com/). 10 gym businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Southlake, TX?
 
 Also answers: gym in Southlake, TX; gym near me (Southlake, TX); best gym Southlake, TX; top rated gym Southlake, TX; affordable gym Southlake, TX; emergency gym Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southlake Strength & Fitness | trust 20.0 | Southlake Strength & Fitness is a gym in Southlake, TX at 280 Commerce Street #Suite 130, Southlake, TX 76092. Phone: +18176592956. Website: https://southlakestrength.com/. | https://dingalinged-cpu.github.io/registry/c/southlake-strength-and-fitness-southlake/
-2. Utopia Food & Fitness | trust 20.0 | Utopia Food & Fitness is a gym in Southlake, TX at 2777 East Southlake Boulevard #130, Southlake, TX 76092. Phone: +18173291888. Website: https://www.utopiaff.com/. | https://dingalinged-cpu.github.io/registry/c/utopia-food-and-fitness-southlake/
-3. Texan Fitness | trust 16.0 | Texan Fitness is a gym in Southlake, TX at 1611 Hart Street, Southlake, TX 76092. Phone: +18173296420. Website: https://texanfit.com/. | https://dingalinged-cpu.github.io/registry/c/texan-fitness-southlake/
-4. Collective MVMT | trust 14.0 | Collective MVMT is a gym in Southlake, TX at 2251 East Southlake Boulevard #100, Southlake, TX 76092. Phone: +18174102060. | https://dingalinged-cpu.github.io/registry/c/collective-mvmt-southlake/
-5. The Athletic DFW | trust 10.0 | The Athletic DFW is a gym in Southlake, TX at 1215 Brumlow Avenue, Southlake, TX 76092. Website: https://theathletedfw.com/. | https://dingalinged-cpu.github.io/registry/c/the-athletic-dfw-southlake/
-6. Charlie Stalcup Indoor Complex | trust 0.0 | Charlie Stalcup Indoor Complex is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charlie-stalcup-indoor-complex-southlake/
-7. CYCLEBAR | trust 0.0 | CYCLEBAR is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/cyclebar-southlake/
-8. Fury Athletics | trust 0.0 | Fury Athletics is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fury-athletics-southlake/
-9. Gracie Barra | trust 0.0 | Gracie Barra is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/gracie-barra-southlake/
-10. Impact Performance & Fitness | trust 0.0 | Impact Performance & Fitness is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/impact-performance-and-fitness-southlake/
+1. Southlake Strength & Fitness | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Southlake Strength & Fitness is a gym in Southlake, TX at 280 Commerce Street #Suite 130, Southlake, TX 76092. Phone: +18176592956. Website: https://southlakestrength.com/. | https://dingalinged-cpu.github.io/registry/c/southlake-strength-and-fitness-southlake/
+2. Utopia Food & Fitness | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Utopia Food & Fitness is a gym in Southlake, TX at 2777 East Southlake Boulevard #130, Southlake, TX 76092. Phone: +18173291888. Website: https://www.utopiaff.com/. | https://dingalinged-cpu.github.io/registry/c/utopia-food-and-fitness-southlake/
+3. Texan Fitness | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Texan Fitness is a gym in Southlake, TX at 1611 Hart Street, Southlake, TX 76092. Phone: +18173296420. Website: https://texanfit.com/. | https://dingalinged-cpu.github.io/registry/c/texan-fitness-southlake/
+4. Collective MVMT | Organic #4 | Pulse Score 60.6/100 (Unrated, #4 in city) | Collective MVMT is a gym in Southlake, TX at 2251 East Southlake Boulevard #100, Southlake, TX 76092. Phone: +18174102060. | https://dingalinged-cpu.github.io/registry/c/collective-mvmt-southlake/
+5. The Athletic DFW | Organic #5 | Pulse Score 59.2/100 (Unrated, #5 in city) | The Athletic DFW is a gym in Southlake, TX at 1215 Brumlow Avenue, Southlake, TX 76092. Website: https://theathletedfw.com/. | https://dingalinged-cpu.github.io/registry/c/the-athletic-dfw-southlake/
+6. Charlie Stalcup Indoor Complex | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Charlie Stalcup Indoor Complex is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charlie-stalcup-indoor-complex-southlake/
+7. Fury Athletics | Organic #7 | Pulse Score 54.3/100 (Unrated, #7 in city) | Fury Athletics is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fury-athletics-southlake/
+8. Gracie Barra | Organic #8 | Pulse Score 54.3/100 (Unrated, #8 in city) | Gracie Barra is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/gracie-barra-southlake/
+9. Impact Performance & Fitness | Organic #9 | Pulse Score 54.3/100 (Unrated, #9 in city) | Impact Performance & Fitness is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/impact-performance-and-fitness-southlake/
+10. CYCLEBAR | Organic #10 | Pulse Score 41.5/100 (Unrated, #10 in city) | CYCLEBAR is a gym in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/cyclebar-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym southlake tx | category: Fitness | industry benchmark: Health & Fitness

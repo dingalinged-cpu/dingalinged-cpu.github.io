@@ -1,84 +1,84 @@
-The top unpaid dentist listing for Harris County, TX is Atascocita Modern Dentistry and Orthodontics (a dentist in Harris County, TX at 7315 FM-1960 W Humble, TX, Harris County, TX 77346. Phone: +12818127550. Website: https://www.atascocitamoderndentistry.com/). 73 dentist businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Harris County, TX is Safari Family Dental (a dentist in Harris County, TX. Phone: +18325532123). 73 dentist businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Harris County, TX?
 
 Also answers: dentist in Harris County, TX; dentist near me (Harris County, TX); best dentist Harris County, TX; top rated dentist Harris County, TX; affordable dentist Harris County, TX; emergency dentist Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atascocita Modern Dentistry and Orthodontics | trust 20.0 | Atascocita Modern Dentistry and Orthodontics is a dentist in Harris County, TX at 7315 FM-1960 W Humble, TX, Harris County, TX 77346. Phone: +12818127550. Website: https://www.atascocitamoderndentistry.com/. | https://dingalinged-cpu.github.io/registry/c/atascocita-modern-dentistry-and-orthodontics-harris-county/
-2. My Kid's Dentist and Orthodontics | trust 12.0 | My Kid's Dentist and Orthodontics is a dentist in Harris County, TX. Phone: +12812042320. Website: https://www.mkdspringklein.com/. | https://dingalinged-cpu.github.io/registry/c/my-kids-dentist-and-orthodontics-harris-county/
-3. Safari Family Dental | trust 10.0 | Safari Family Dental is a dentist in Harris County, TX. Phone: +18325532123. | https://dingalinged-cpu.github.io/registry/c/safari-family-dental-harris-county/
-4. Park Lakes Dental Care | trust 8.0 | Park Lakes Dental Care is a dentist in Harris County, TX at 4801 Wilson Road #200, Harris County, TX 77396. | https://dingalinged-cpu.github.io/registry/c/park-lakes-dental-care-harris-county/
-5. A-1 Dental | trust 6.0 | A-1 Dental is a dentist in Harris County, TX. Phone: +12818615127. | https://dingalinged-cpu.github.io/registry/c/a-1-dental-harris-county/
-6. Emmy Dental | trust 4.0 | Emmy Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/emmy-dental-harris-county/
-7. Alder Trails Dental | trust 3.0 | Alder Trails Dental is a dentist in Harris County, TX at 11403 Barker Cypress Road #1300, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alder-trails-dental-harris-county/
-8. Brident | trust 3.0 | Brident is a dentist in Harris County, TX at 13327 Tomball Parkway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brident-harris-county/
-9. Issy Dental | trust 3.0 | Issy Dental is a dentist in Harris County, TX at 8420 North Highway 6, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/issy-dental-harris-county/
-10. Ace Dental | trust 0.0 | Ace Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ace-dental-harris-county/
-11. Advantage Dentists | trust 0.0 | Advantage Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/advantage-dentists-harris-county/
-12. Apple Dentists | trust 0.0 | Apple Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/apple-dentists-harris-county/
-13. Aroma Dental | trust 0.0 | Aroma Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aroma-dental-harris-county/
-14. Asthetic Dentistry | trust 0.0 | Asthetic Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/asthetic-dentistry-harris-county/
-15. Atascocita Dentistry | trust 0.0 | Atascocita Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dentistry-harris-county/
-16. Atascocita Family Smiles | trust 0.0 | Atascocita Family Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-family-smiles-harris-county/
-17. Brident Dental | trust 0.0 | Brident Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brident-dental-harris-county/
-18. Brighter Day Dental | trust 0.0 | Brighter Day Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brighter-day-dental-harris-county/
-19. Briter Dental | trust 0.0 | Briter Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/briter-dental-harris-county/
-20. Cabo Dental | trust 0.0 | Cabo Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cabo-dental-harris-county/
-21. Carus Dental | trust 0.0 | Carus Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/carus-dental-harris-county/
-22. Carus Dental | trust 0.0 | Carus Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/carus-dental-harris-county-n13885885923/
-23. Castle Dental | trust 0.0 | Castle Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/castle-dental-harris-county/
-24. Clay Dental | trust 0.0 | Clay Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clay-dental-harris-county/
-25. Complete Dental Care | trust 0.0 | Complete Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/complete-dental-care-harris-county/
-26. Contemporary Orthodontics | trust 0.0 | Contemporary Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/contemporary-orthodontics-harris-county/
-27. Cornerstone Orthodontics | trust 0.0 | Cornerstone Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cornerstone-orthodontics-harris-county/
-28. Cypress Dentists | trust 0.0 | Cypress Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-dentists-harris-county/
-29. Cypress Mill Dental | trust 0.0 | Cypress Mill Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-mill-dental-harris-county/
-30. Cypress Orthodontic & Pediatric Dentistry | trust 0.0 | Cypress Orthodontic & Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-orthodontic-and-pediatric-dentistry-harris-county/
-31. Dental | trust 0.0 | Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dental-harris-county/
-32. Dentality Family Dentistry | trust 0.0 | Dentality Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dentality-family-dentistry-harris-county/
-33. Element Dental | trust 0.0 | Element Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/element-dental-harris-county/
-34. Ellis & Satchell, D.D.S. | trust 0.0 | Ellis & Satchell, D.D.S. is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ellis-and-satchell-d-d-s-harris-county/
-35. Fair Lakes Family Dentistry | trust 0.0 | Fair Lakes Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fair-lakes-family-dentistry-harris-county/
-36. GMS Dental Center | trust 0.0 | GMS Dental Center is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gms-dental-center-harris-county/
-37. Goodlahd Dentistry | trust 0.0 | Goodlahd Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodlahd-dentistry-harris-county/
-38. Greater Houston Pediatric Dentistry | trust 0.0 | Greater Houston Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-harris-county/
-39. Greater Houston Pediatric Dentistry | trust 0.0 | Greater Houston Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-harris-county-n13893067303/
-40. Huffman Smiles | trust 0.0 | Huffman Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/huffman-smiles-harris-county/
-41. Ideal Dental | trust 0.0 | Ideal Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-harris-county/
-42. Jefferson Dental Care | trust 0.0 | Jefferson Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jefferson-dental-care-harris-county/
-43. Jefferson Dental Clinic | trust 0.0 | Jefferson Dental Clinic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jefferson-dental-clinic-harris-county/
-44. Katy Dental | trust 0.0 | Katy Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-dental-harris-county/
-45. Kings Oak Dental Care | trust 0.0 | Kings Oak Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kings-oak-dental-care-harris-county/
-46. KSF Orthodontic | trust 0.0 | KSF Orthodontic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ksf-orthodontic-harris-county/
-47. La Michoacana Dental & Medical Clinic | trust 0.0 | La Michoacana Dental & Medical Clinic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/la-michoacana-dental-and-medical-clinic-harris-county/
-48. Lake houston endodontics | trust 0.0 | Lake houston endodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lake-houston-endodontics-harris-county/
-49. Lakeside Family Dentistry | trust 0.0 | Lakeside Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lakeside-family-dentistry-harris-county/
-50. Madison Dental | trust 0.0 | Madison Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/madison-dental-harris-county/
-51. Methodist Dental | trust 0.0 | Methodist Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/methodist-dental-harris-county/
-52. Moderna Dentistry | trust 0.0 | Moderna Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/moderna-dentistry-harris-county/
-53. My Dentist | trust 0.0 | My Dentist is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-dentist-harris-county/
-54. NW General Dentistry | trust 0.0 | NW General Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/nw-general-dentistry-harris-county/
-55. Pure Smiles | trust 0.0 | Pure Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pure-smiles-harris-county/
-56. Rodeo Braces | trust 0.0 | Rodeo Braces is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rodeo-braces-harris-county/
-57. Rodeo Dental | trust 0.0 | Rodeo Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rodeo-dental-harris-county/
-58. Seenty Dental | trust 0.0 | Seenty Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/seenty-dental-harris-county/
-59. Signature Smiles | trust 0.0 | Signature Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/signature-smiles-harris-county/
-60. Smile Rite Dental | trust 0.0 | Smile Rite Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-rite-dental-harris-county/
-61. Smile Squad | trust 0.0 | Smile Squad is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-squad-harris-county/
-62. Smiles Dentistry & Orthodontics | trust 0.0 | Smiles Dentistry & Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smiles-dentistry-and-orthodontics-harris-county/
-63. Spring Pearl Dental | trust 0.0 | Spring Pearl Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/spring-pearl-dental-harris-county/
-64. Studio One | trust 0.0 | Studio One is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/studio-one-harris-county/
-65. Sunrise Pediatric & Family Dentistry | trust 0.0 | Sunrise Pediatric & Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sunrise-pediatric-and-family-dentistry-harris-county/
-66. TeethWise Dental | trust 0.0 | TeethWise Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/teethwise-dental-harris-county/
-67. Timber Springs Dental | trust 0.0 | Timber Springs Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/timber-springs-dental-harris-county/
-68. TLC Dental | trust 0.0 | TLC Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tlc-dental-harris-county/
-69. Trinity Dental | trust 0.0 | Trinity Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-dental-harris-county/
-70. Unique Dental | trust 0.0 | Unique Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/unique-dental-harris-county/
-71. Veterans Dental Center | trust 0.0 | Veterans Dental Center is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-dental-center-harris-county/
-72. Vivid Dental | trust 0.0 | Vivid Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vivid-dental-harris-county/
-73. West Houston Dentistry | trust 0.0 | West Houston Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/west-houston-dentistry-harris-county/
+1. Safari Family Dental | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | Safari Family Dental is a dentist in Harris County, TX. Phone: +18325532123. | https://dingalinged-cpu.github.io/registry/c/safari-family-dental-harris-county/
+2. Atascocita Modern Dentistry and Orthodontics | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Atascocita Modern Dentistry and Orthodontics is a dentist in Harris County, TX at 7315 FM-1960 W Humble, TX, Harris County, TX 77346. Phone: +12818127550. Website: https://www.atascocitamoderndentistry.com/. | https://dingalinged-cpu.github.io/registry/c/atascocita-modern-dentistry-and-orthodontics-harris-county/
+3. Park Lakes Dental Care | Organic #3 | Pulse Score 60.5/100 (Unrated, #3 in city) | Park Lakes Dental Care is a dentist in Harris County, TX at 4801 Wilson Road #200, Harris County, TX 77396. | https://dingalinged-cpu.github.io/registry/c/park-lakes-dental-care-harris-county/
+4. My Kid's Dentist and Orthodontics | Organic #4 | Pulse Score 60.5/100 (Unrated, #4 in city) | My Kid's Dentist and Orthodontics is a dentist in Harris County, TX. Phone: +12812042320. Website: https://www.mkdspringklein.com/. | https://dingalinged-cpu.github.io/registry/c/my-kids-dentist-and-orthodontics-harris-county/
+5. A-1 Dental | Organic #5 | Pulse Score 59.1/100 (Unrated, #5 in city) | A-1 Dental is a dentist in Harris County, TX. Phone: +12818615127. | https://dingalinged-cpu.github.io/registry/c/a-1-dental-harris-county/
+6. Contemporary Orthodontics | Organic #6 | Pulse Score 58.1/100 (Unrated, #6 in city) | Contemporary Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/contemporary-orthodontics-harris-county/
+7. Emmy Dental | Organic #7 | Pulse Score 57.9/100 (Unrated, #7 in city) | Emmy Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/emmy-dental-harris-county/
+8. Trinity Dental | Organic #8 | Pulse Score 57.6/100 (Unrated, #8 in city) | Trinity Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-dental-harris-county/
+9. Pure Smiles | Organic #9 | Pulse Score 57.5/100 (Unrated, #9 in city) | Pure Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/pure-smiles-harris-county/
+10. Cornerstone Orthodontics | Organic #10 | Pulse Score 57.5/100 (Unrated, #10 in city) | Cornerstone Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cornerstone-orthodontics-harris-county/
+11. Smiles Dentistry & Orthodontics | Organic #11 | Pulse Score 57.3/100 (Unrated, #11 in city) | Smiles Dentistry & Orthodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smiles-dentistry-and-orthodontics-harris-county/
+12. Brighter Day Dental | Organic #12 | Pulse Score 57/100 (Unrated, #12 in city) | Brighter Day Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brighter-day-dental-harris-county/
+13. Moderna Dentistry | Organic #13 | Pulse Score 56.9/100 (Unrated, #13 in city) | Moderna Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/moderna-dentistry-harris-county/
+14. Sunrise Pediatric & Family Dentistry | Organic #14 | Pulse Score 56.7/100 (Unrated, #14 in city) | Sunrise Pediatric & Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sunrise-pediatric-and-family-dentistry-harris-county/
+15. Vivid Dental | Organic #15 | Pulse Score 56.7/100 (Unrated, #15 in city) | Vivid Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vivid-dental-harris-county/
+16. Smile Rite Dental | Organic #16 | Pulse Score 56.6/100 (Unrated, #16 in city) | Smile Rite Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-rite-dental-harris-county/
+17. Alder Trails Dental | Organic #17 | Pulse Score 56.6/100 (Unrated, #17 in city) | Alder Trails Dental is a dentist in Harris County, TX at 11403 Barker Cypress Road #1300, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alder-trails-dental-harris-county/
+18. Issy Dental | Organic #18 | Pulse Score 56.6/100 (Unrated, #18 in city) | Issy Dental is a dentist in Harris County, TX at 8420 North Highway 6, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/issy-dental-harris-county/
+19. Smile Squad | Organic #19 | Pulse Score 56.5/100 (Unrated, #19 in city) | Smile Squad is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-squad-harris-county/
+20. Brident Dental | Organic #20 | Pulse Score 55.6/100 (Unrated, #20 in city) | Brident Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brident-dental-harris-county/
+21. Cypress Orthodontic & Pediatric Dentistry | Organic #21 | Pulse Score 55.6/100 (Unrated, #21 in city) | Cypress Orthodontic & Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-orthodontic-and-pediatric-dentistry-harris-county/
+22. KSF Orthodontic | Organic #22 | Pulse Score 55.6/100 (Unrated, #22 in city) | KSF Orthodontic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ksf-orthodontic-harris-county/
+23. Ace Dental | Organic #23 | Pulse Score 54.7/100 (Unrated, #23 in city) | Ace Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ace-dental-harris-county/
+24. Advantage Dentists | Organic #24 | Pulse Score 54.7/100 (Unrated, #24 in city) | Advantage Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/advantage-dentists-harris-county/
+25. Aroma Dental | Organic #25 | Pulse Score 54.7/100 (Unrated, #25 in city) | Aroma Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aroma-dental-harris-county/
+26. Asthetic Dentistry | Organic #26 | Pulse Score 54.7/100 (Unrated, #26 in city) | Asthetic Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/asthetic-dentistry-harris-county/
+27. Atascocita Dentistry | Organic #27 | Pulse Score 54.7/100 (Unrated, #27 in city) | Atascocita Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dentistry-harris-county/
+28. Atascocita Family Smiles | Organic #28 | Pulse Score 54.7/100 (Unrated, #28 in city) | Atascocita Family Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-family-smiles-harris-county/
+29. Briter Dental | Organic #29 | Pulse Score 54.7/100 (Unrated, #29 in city) | Briter Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/briter-dental-harris-county/
+30. Cabo Dental | Organic #30 | Pulse Score 54.7/100 (Unrated, #30 in city) | Cabo Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cabo-dental-harris-county/
+31. Clay Dental | Organic #31 | Pulse Score 54.7/100 (Unrated, #31 in city) | Clay Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clay-dental-harris-county/
+32. Cypress Dentists | Organic #32 | Pulse Score 54.7/100 (Unrated, #32 in city) | Cypress Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-dentists-harris-county/
+33. Cypress Mill Dental | Organic #33 | Pulse Score 54.7/100 (Unrated, #33 in city) | Cypress Mill Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cypress-mill-dental-harris-county/
+34. Dental | Organic #34 | Pulse Score 54.7/100 (Unrated, #34 in city) | Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dental-harris-county/
+35. Dentality Family Dentistry | Organic #35 | Pulse Score 54.7/100 (Unrated, #35 in city) | Dentality Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dentality-family-dentistry-harris-county/
+36. Element Dental | Organic #36 | Pulse Score 54.7/100 (Unrated, #36 in city) | Element Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/element-dental-harris-county/
+37. Ellis & Satchell, D.D.S. | Organic #37 | Pulse Score 54.7/100 (Unrated, #37 in city) | Ellis & Satchell, D.D.S. is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ellis-and-satchell-d-d-s-harris-county/
+38. Fair Lakes Family Dentistry | Organic #38 | Pulse Score 54.7/100 (Unrated, #38 in city) | Fair Lakes Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fair-lakes-family-dentistry-harris-county/
+39. GMS Dental Center | Organic #39 | Pulse Score 54.7/100 (Unrated, #39 in city) | GMS Dental Center is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gms-dental-center-harris-county/
+40. Goodlahd Dentistry | Organic #40 | Pulse Score 54.7/100 (Unrated, #40 in city) | Goodlahd Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodlahd-dentistry-harris-county/
+41. Huffman Smiles | Organic #41 | Pulse Score 54.7/100 (Unrated, #41 in city) | Huffman Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/huffman-smiles-harris-county/
+42. Jefferson Dental Care | Organic #42 | Pulse Score 54.7/100 (Unrated, #42 in city) | Jefferson Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jefferson-dental-care-harris-county/
+43. Katy Dental | Organic #43 | Pulse Score 54.7/100 (Unrated, #43 in city) | Katy Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/katy-dental-harris-county/
+44. Kings Oak Dental Care | Organic #44 | Pulse Score 54.7/100 (Unrated, #44 in city) | Kings Oak Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kings-oak-dental-care-harris-county/
+45. La Michoacana Dental & Medical Clinic | Organic #45 | Pulse Score 54.7/100 (Unrated, #45 in city) | La Michoacana Dental & Medical Clinic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/la-michoacana-dental-and-medical-clinic-harris-county/
+46. Lake houston endodontics | Organic #46 | Pulse Score 54.7/100 (Unrated, #46 in city) | Lake houston endodontics is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lake-houston-endodontics-harris-county/
+47. Lakeside Family Dentistry | Organic #47 | Pulse Score 54.7/100 (Unrated, #47 in city) | Lakeside Family Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lakeside-family-dentistry-harris-county/
+48. Madison Dental | Organic #48 | Pulse Score 54.7/100 (Unrated, #48 in city) | Madison Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/madison-dental-harris-county/
+49. Methodist Dental | Organic #49 | Pulse Score 54.7/100 (Unrated, #49 in city) | Methodist Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/methodist-dental-harris-county/
+50. My Dentist | Organic #50 | Pulse Score 54.7/100 (Unrated, #50 in city) | My Dentist is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-dentist-harris-county/
+51. NW General Dentistry | Organic #51 | Pulse Score 54.7/100 (Unrated, #51 in city) | NW General Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/nw-general-dentistry-harris-county/
+52. Rodeo Braces | Organic #52 | Pulse Score 54.7/100 (Unrated, #52 in city) | Rodeo Braces is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rodeo-braces-harris-county/
+53. Seenty Dental | Organic #53 | Pulse Score 54.7/100 (Unrated, #53 in city) | Seenty Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/seenty-dental-harris-county/
+54. Signature Smiles | Organic #54 | Pulse Score 54.7/100 (Unrated, #54 in city) | Signature Smiles is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/signature-smiles-harris-county/
+55. Spring Pearl Dental | Organic #55 | Pulse Score 54.7/100 (Unrated, #55 in city) | Spring Pearl Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/spring-pearl-dental-harris-county/
+56. Studio One | Organic #56 | Pulse Score 54.7/100 (Unrated, #56 in city) | Studio One is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/studio-one-harris-county/
+57. TeethWise Dental | Organic #57 | Pulse Score 54.7/100 (Unrated, #57 in city) | TeethWise Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/teethwise-dental-harris-county/
+58. Timber Springs Dental | Organic #58 | Pulse Score 54.7/100 (Unrated, #58 in city) | Timber Springs Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/timber-springs-dental-harris-county/
+59. TLC Dental | Organic #59 | Pulse Score 54.7/100 (Unrated, #59 in city) | TLC Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tlc-dental-harris-county/
+60. Unique Dental | Organic #60 | Pulse Score 54.7/100 (Unrated, #60 in city) | Unique Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/unique-dental-harris-county/
+61. Veterans Dental Center | Organic #61 | Pulse Score 54.7/100 (Unrated, #61 in city) | Veterans Dental Center is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-dental-center-harris-county/
+62. West Houston Dentistry | Organic #62 | Pulse Score 54.7/100 (Unrated, #62 in city) | West Houston Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/west-houston-dentistry-harris-county/
+63. Brident | Organic #63 | Pulse Score 45.2/100 (Building, #63 in city) | Brident is a dentist in Harris County, TX at 13327 Tomball Parkway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brident-harris-county/
+64. Carus Dental | Organic #64 | Pulse Score 43.9/100 (Unrated, #64 in city) | Carus Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/carus-dental-harris-county/
+65. Apple Dentists | Organic #65 | Pulse Score 43/100 (Unrated, #65 in city) | Apple Dentists is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/apple-dentists-harris-county/
+66. Carus Dental | Organic #66 | Pulse Score 43/100 (Unrated, #66 in city) | Carus Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/carus-dental-harris-county-n13885885923/
+67. Greater Houston Pediatric Dentistry | Organic #67 | Pulse Score 43/100 (Unrated, #67 in city) | Greater Houston Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-harris-county/
+68. Greater Houston Pediatric Dentistry | Organic #68 | Pulse Score 43/100 (Unrated, #68 in city) | Greater Houston Pediatric Dentistry is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-harris-county-n13893067303/
+69. Castle Dental | Organic #69 | Pulse Score 42.8/100 (Building, #69 in city) | Castle Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/castle-dental-harris-county/
+70. Complete Dental Care | Organic #70 | Pulse Score 41.9/100 (Unrated, #70 in city) | Complete Dental Care is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/complete-dental-care-harris-county/
+71. Ideal Dental | Organic #71 | Pulse Score 41.9/100 (Unrated, #71 in city) | Ideal Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-harris-county/
+72. Jefferson Dental Clinic | Organic #72 | Pulse Score 41.9/100 (Unrated, #72 in city) | Jefferson Dental Clinic is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jefferson-dental-clinic-harris-county/
+73. Rodeo Dental | Organic #73 | Pulse Score 41.9/100 (Unrated, #73 in city) | Rodeo Dental is a dentist in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rodeo-dental-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist harris county tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

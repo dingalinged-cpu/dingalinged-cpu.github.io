@@ -1,12 +1,12 @@
-The top unpaid primary care physician listing for Farmersville, TX is Doctor Gloria Gamboa (a family medicine practice in Farmersville, TX at 103 McKinney Street, Farmersville, TX 75442). 1 primary care physician businesses are listed for Farmersville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Farmersville, TX is Doctor Gloria Gamboa (a family medicine practice in Farmersville, TX at 103 McKinney Street, Farmersville, TX 75442). 1 primary care physician businesses are listed for Farmersville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Farmersville, TX?
 
 Also answers: primary care physician in Farmersville, TX; primary care physician near me (Farmersville, TX); best primary care physician Farmersville, TX; top rated primary care physician Farmersville, TX; affordable primary care physician Farmersville, TX; emergency primary care physician Farmersville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doctor Gloria Gamboa | trust 4.0 | Doctor Gloria Gamboa is a family medicine practice in Farmersville, TX at 103 McKinney Street, Farmersville, TX 75442. | https://dingalinged-cpu.github.io/registry/c/doctor-gloria-gamboa-farmersville/
+1. Doctor Gloria Gamboa | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Doctor Gloria Gamboa is a family medicine practice in Farmersville, TX at 103 McKinney Street, Farmersville, TX 75442. | https://dingalinged-cpu.github.io/registry/c/doctor-gloria-gamboa-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician farmersville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,16 +1,16 @@
-The top unpaid haircut listing for Glenview, IL is Sport Clips (a hair salon in Glenview, IL at 45 Waukegan Road, Glenview, IL 60025. Website: https://sportclips.com/us-il-glenview-il171). 5 haircut businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Glenview, IL is Greg's Barber Shop (a hair salon in Glenview, IL at 1013 Harlem Avenue, Glenview, IL 60025). 5 haircut businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Glenview, IL?
 
 Also answers: haircut in Glenview, IL; haircut near me (Glenview, IL); best haircut Glenview, IL; top rated haircut Glenview, IL; affordable haircut Glenview, IL; emergency haircut Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 10.0 | Sport Clips is a hair salon in Glenview, IL at 45 Waukegan Road, Glenview, IL 60025. Website: https://sportclips.com/us-il-glenview-il171. | https://dingalinged-cpu.github.io/registry/c/sport-clips-glenview/
-2. Greg's Barber Shop | trust 4.0 | Greg's Barber Shop is a hair salon in Glenview, IL at 1013 Harlem Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/gregs-barber-shop-glenview/
-3. Salon 2010 | trust 4.0 | Salon 2010 is a hair salon in Northbrook, IL at Milwaukee Avenue, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/salon-2010-northbrook/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-glenview/
-5. Supercuts | trust 0.0 | Supercuts is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-glenview/
+1. Greg's Barber Shop | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Greg's Barber Shop is a hair salon in Glenview, IL at 1013 Harlem Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/gregs-barber-shop-glenview/
+2. Salon 2010 | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Salon 2010 is a hair salon in Northbrook, IL at Milwaukee Avenue, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/salon-2010-northbrook/
+3. Sport Clips | Organic #3 | Pulse Score 47/100 (Building, #2 in city) | Sport Clips is a hair salon in Glenview, IL at 45 Waukegan Road, Glenview, IL 60025. Website: https://sportclips.com/us-il-glenview-il171. | https://dingalinged-cpu.github.io/registry/c/sport-clips-glenview/
+4. Great Clips | Organic #4 | Pulse Score 42.5/100 (Building, #3 in city) | Great Clips is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-glenview/
+5. Supercuts | Organic #5 | Pulse Score 42.5/100 (Building, #4 in city) | Supercuts is a hair salon in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/supercuts-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut glenview il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,15 +1,15 @@
-The top unpaid therapist listing for Lewisville, TX is The Helm ABA (a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/). 4 therapist businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Lewisville, TX is The Helm ABA (a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/). 4 therapist businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Lewisville, TX?
 
 Also answers: therapist in Lewisville, TX; therapist near me (Lewisville, TX); best therapist Lewisville, TX; top rated therapist Lewisville, TX; affordable therapist Lewisville, TX; emergency therapist Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Helm ABA | trust 16.0 | The Helm ABA is a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/. | https://dingalinged-cpu.github.io/registry/c/the-helm-aba-lewisville/
-2. Counseling Center of Lewisville | trust 6.0 | Counseling Center of Lewisville is a therapy practice in Lewisville, TX. Phone: +19403877517. | https://dingalinged-cpu.github.io/registry/c/counseling-center-of-lewisville-lewisville/
-3. Just Be You. Psychiatry | trust 3.0 | Just Be You. Psychiatry is a therapy practice in Lewisville, TX at 118 North Edna Avenue #602, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/just-be-you-psychiatry-lewisville/
-4. Compassion Counseling Collaborative | trust 0.0 | Compassion Counseling Collaborative is a therapy practice in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/compassion-counseling-collaborative-lewisville/
+1. The Helm ABA | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Helm ABA is a therapy practice in Lewisville, TX. Phone: +14694586832. Website: https://www.thehelaba.com/. | https://dingalinged-cpu.github.io/registry/c/the-helm-aba-lewisville/
+2. Just Be You. Psychiatry | Organic #2 | Pulse Score 57.9/100 (Fair, #2 in city) | Just Be You. Psychiatry is a therapy practice in Lewisville, TX at 118 North Edna Avenue #602, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/just-be-you-psychiatry-lewisville/
+3. Counseling Center of Lewisville | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Counseling Center of Lewisville is a therapy practice in Lewisville, TX. Phone: +19403877517. | https://dingalinged-cpu.github.io/registry/c/counseling-center-of-lewisville-lewisville/
+4. Compassion Counseling Collaborative | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Compassion Counseling Collaborative is a therapy practice in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/compassion-counseling-collaborative-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist lewisville tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Magnolia, TX is Cuts & Etc (a hair salon in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355). 2 hair salon businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Magnolia, TX is Cuts & Etc (a hair salon in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355). 2 hair salon businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Magnolia, TX?
 
 Also answers: hair salon in Magnolia, TX; hair salon near me (Magnolia, TX); best hair salon Magnolia, TX; top rated hair salon Magnolia, TX; affordable hair salon Magnolia, TX; emergency hair salon Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cuts & Etc | trust 4.0 | Cuts & Etc is a hair salon in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/cuts-and-etc-magnolia/
-2. Locker Room Haircuts | trust 4.0 | Locker Room Haircuts is a hair salon in Magnolia, TX at 6531 FM 1488 #313, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/locker-room-haircuts-magnolia/
+1. Cuts & Etc | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Cuts & Etc is a hair salon in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/cuts-and-etc-magnolia/
+2. Locker Room Haircuts | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Locker Room Haircuts is a hair salon in Magnolia, TX at 6531 FM 1488 #313, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/locker-room-haircuts-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon magnolia tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

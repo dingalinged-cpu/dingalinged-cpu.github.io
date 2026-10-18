@@ -13,7 +13,7 @@ Pink Tiger Hair Studio is a hair salon in Wauwatosa, WI at 6528 West North Avenu
 - Website: https://www.pinktigerhair.com/
 - Email: annagpwalker@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Fr 11:00-17:00; Sa 11:00-15:00; Su off
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Milwaukee, #3 of 16 hair salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

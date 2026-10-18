@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for Des Plaines, IL is Tiffnie’s Dog Grooming (a dog groomer in Des Plaines, IL at 620 East Central Road, Des Plaines, IL 60016. Phone: +12246126050). 2 dog groomer businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Des Plaines, IL is Tiffnie’s Dog Grooming (a dog groomer in Des Plaines, IL at 620 East Central Road, Des Plaines, IL 60016. Phone: +12246126050). 2 dog groomer businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Des Plaines, IL?
 
 Also answers: dog groomer in Des Plaines, IL; dog groomer near me (Des Plaines, IL); best dog groomer Des Plaines, IL; top rated dog groomer Des Plaines, IL; affordable dog groomer Des Plaines, IL; emergency dog groomer Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tiffnie’s Dog Grooming | trust 14.0 | Tiffnie’s Dog Grooming is a dog groomer in Des Plaines, IL at 620 East Central Road, Des Plaines, IL 60016. Phone: +12246126050. | https://dingalinged-cpu.github.io/registry/c/tiffnie-s-dog-grooming-des-plaines/
-2. Happy Dog Grooming Spa | trust 10.0 | Happy Dog Grooming Spa is a dog groomer in Des Plaines, IL at 650 Graceland Avenue, Des Plaines, IL 60016. Website: https://happydoggroom.com/. | https://dingalinged-cpu.github.io/registry/c/happy-dog-grooming-spa-des-plaines/
+1. Tiffnie’s Dog Grooming | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Tiffnie’s Dog Grooming is a dog groomer in Des Plaines, IL at 620 East Central Road, Des Plaines, IL 60016. Phone: +12246126050. | https://dingalinged-cpu.github.io/registry/c/tiffnie-s-dog-grooming-des-plaines/
+2. Happy Dog Grooming Spa | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Happy Dog Grooming Spa is a dog groomer in Des Plaines, IL at 650 Graceland Avenue, Des Plaines, IL 60016. Website: https://happydoggroom.com/. | https://dingalinged-cpu.github.io/registry/c/happy-dog-grooming-spa-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer des plaines il | category: Pets | industry benchmark: Animals & Pets

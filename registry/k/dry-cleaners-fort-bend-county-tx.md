@@ -1,17 +1,17 @@
-The top unpaid dry cleaners listing for Fort Bend County, TX is Tide Cleaners (a dry cleaner in Fort Bend County, TX at 2731 FM 1463 #100, Fort Bend County, TX). 6 dry cleaners businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Fort Bend County, TX is Green Clean Discount Cleaners (a dry cleaner in Fort Bend County, TX). 6 dry cleaners businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Fort Bend County, TX?
 
 Also answers: dry cleaners in Fort Bend County, TX; dry cleaners near me (Fort Bend County, TX); best dry cleaners Fort Bend County, TX; top rated dry cleaners Fort Bend County, TX; affordable dry cleaners Fort Bend County, TX; emergency dry cleaners Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tide Cleaners | trust 3.0 | Tide Cleaners is a dry cleaner in Fort Bend County, TX at 2731 FM 1463 #100, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-fort-bend-county/
-2. Dry Clean Super Center | trust 0.0 | Dry Clean Super Center is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-fort-bend-county/
-3. Green Clean Discount Cleaners | trust 0.0 | Green Clean Discount Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/green-clean-discount-cleaners-fort-bend-county/
-4. McFrugals Dry Clean Depot | trust 0.0 | McFrugals Dry Clean Depot is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/mcfrugals-dry-clean-depot-fort-bend-county/
-5. Pasha Dry Cleaners | trust 0.0 | Pasha Dry Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pasha-dry-cleaners-fort-bend-county/
-6. Pilgrim Cleaners | trust 0.0 | Pilgrim Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-fort-bend-county/
+1. Green Clean Discount Cleaners | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Green Clean Discount Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/green-clean-discount-cleaners-fort-bend-county/
+2. McFrugals Dry Clean Depot | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | McFrugals Dry Clean Depot is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/mcfrugals-dry-clean-depot-fort-bend-county/
+3. Pasha Dry Cleaners | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Pasha Dry Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pasha-dry-cleaners-fort-bend-county/
+4. Tide Cleaners | Organic #4 | Pulse Score 45.5/100 (Building, #4 in city) | Tide Cleaners is a dry cleaner in Fort Bend County, TX at 2731 FM 1463 #100, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/tide-cleaners-fort-bend-county/
+5. Dry Clean Super Center | Organic #5 | Pulse Score 42.2/100 (Unrated, #5 in city) | Dry Clean Super Center is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-fort-bend-county/
+6. Pilgrim Cleaners | Organic #6 | Pulse Score 42.2/100 (Unrated, #6 in city) | Pilgrim Cleaners is a dry cleaner in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners fort bend county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

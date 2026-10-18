@@ -1,14 +1,14 @@
-The top unpaid realtor listing for Sun Prairie, WI is Century 21 (a real estate agency in Sun Prairie, WI). 3 realtor businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Sun Prairie, WI is HOMETEAM4U (a real estate agency in Sun Prairie, WI). 3 realtor businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Sun Prairie, WI?
 
 Also answers: realtor in Sun Prairie, WI; realtor near me (Sun Prairie, WI); best realtor Sun Prairie, WI; top rated realtor Sun Prairie, WI; affordable realtor Sun Prairie, WI; emergency realtor Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Century 21 | trust 0.0 | Century 21 is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/century-21-sun-prairie/
-2. HOMETEAM4U | trust 0.0 | HOMETEAM4U is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hometeam4u-sun-prairie/
-3. Restaino Realtors | trust 0.0 | Restaino Realtors is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/restaino-realtors-sun-prairie/
+1. HOMETEAM4U | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | HOMETEAM4U is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/hometeam4u-sun-prairie/
+2. Restaino Realtors | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Restaino Realtors is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/restaino-realtors-sun-prairie/
+3. Century 21 | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Century 21 is a real estate agency in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/century-21-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor sun prairie wi | category: real_estate | industry benchmark: Real Estate

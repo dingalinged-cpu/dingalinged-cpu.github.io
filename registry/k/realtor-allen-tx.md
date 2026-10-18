@@ -1,12 +1,12 @@
-The top unpaid realtor listing for Allen, TX is Coldwell Banker Apex (a real estate agency in Allen, TX at 1778 West McDermott Drive #101, Allen, TX 75013). 1 realtor businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Allen, TX is Coldwell Banker Apex (a real estate agency in Allen, TX at 1778 West McDermott Drive #101, Allen, TX 75013). 1 realtor businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Allen, TX?
 
 Also answers: realtor in Allen, TX; realtor near me (Allen, TX); best realtor Allen, TX; top rated realtor Allen, TX; affordable realtor Allen, TX; emergency realtor Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Coldwell Banker Apex | trust 4.0 | Coldwell Banker Apex is a real estate agency in Allen, TX at 1778 West McDermott Drive #101, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-apex-allen/
+1. Coldwell Banker Apex | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Coldwell Banker Apex is a real estate agency in Allen, TX at 1778 West McDermott Drive #101, Allen, TX 75013. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-apex-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor allen tx | category: real_estate | industry benchmark: Real Estate

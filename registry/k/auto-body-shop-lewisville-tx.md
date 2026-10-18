@@ -1,14 +1,14 @@
-The top unpaid auto body shop listing for Lewisville, TX is Caliber Collision (an auto repair shop in Lewisville, TX at 1230 Justin Road, Lewisville, TX 75077. Phone: +19723170493. Website: https://www.caliber.com/find-a-location/flower-mound). 3 auto body shop businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Lewisville, TX is Hale's Collision Center (an auto repair shop in Lewisville, TX). 3 auto body shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Lewisville, TX?
 
 Also answers: auto body shop in Lewisville, TX; auto body shop near me (Lewisville, TX); best auto body shop Lewisville, TX; top rated auto body shop Lewisville, TX; affordable auto body shop Lewisville, TX; emergency auto body shop Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | trust 20.0 | Caliber Collision is an auto repair shop in Lewisville, TX at 1230 Justin Road, Lewisville, TX 75077. Phone: +19723170493. Website: https://www.caliber.com/find-a-location/flower-mound. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-lewisville/
-2. Crash Champions | trust 16.0 | Crash Champions is an auto repair shop in Lewisville, TX at 2765 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19723156505. Website: https://crashchampions.com/locations/crash-champions-lewisville. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lewisville/
-3. Hale's Collision Center | trust 0.0 | Hale's Collision Center is an auto repair shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hales-collision-center-lewisville/
+1. Hale's Collision Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #11 in city) | Hale's Collision Center is an auto repair shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hales-collision-center-lewisville/
+2. Caliber Collision | Organic #2 | Pulse Score 50.3/100 (Fair, #17 in city) | Caliber Collision is an auto repair shop in Lewisville, TX at 1230 Justin Road, Lewisville, TX 75077. Phone: +19723170493. Website: https://www.caliber.com/find-a-location/flower-mound. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-lewisville/
+3. Crash Champions | Organic #3 | Pulse Score 48.5/100 (Building, #23 in city) | Crash Champions is an auto repair shop in Lewisville, TX at 2765 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19723156505. Website: https://crashchampions.com/locations/crash-champions-lewisville. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop lewisville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

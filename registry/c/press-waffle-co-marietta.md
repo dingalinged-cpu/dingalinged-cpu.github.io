@@ -13,7 +13,7 @@ Press Waffle Co. is a bakery in Marietta, GA at 4475 Roswell Road #1810, Mariett
 - Website: https://avenueeastcobb.com/directory/press-waffle-co/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 16% of bakerys in Atlanta, #5 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

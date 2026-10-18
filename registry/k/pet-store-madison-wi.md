@@ -1,23 +1,23 @@
-The top unpaid pet store listing for Madison, WI is PetSmart (a pet store in Madison, WI at 8210 Plaza Drive, Madison, WI 53719. Phone: +16088336446. Website: https://www.petsmart.com/stores/us/wi/madison-store0605.html). 12 pet store businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Madison, WI is Tabby & Jack's Pet Supplies and Grooming (a pet store in Madison, WI at 1892 East Washington Avenue, Madison, WI 53704). 12 pet store businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Madison, WI?
 
 Also answers: pet store in Madison, WI; pet store near me (Madison, WI); best pet store Madison, WI; top rated pet store Madison, WI; affordable pet store Madison, WI; emergency pet store Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Madison, WI at 8210 Plaza Drive, Madison, WI 53719. Phone: +16088336446. Website: https://www.petsmart.com/stores/us/wi/madison-store0605.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-madison/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Madison, WI at 2216 East Springs Drive, Madison, WI 53704. Phone: +16082460813. Website: https://www.petsmart.com/stores/us/wi/madison-store0604.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-madison-w105681451/
-3. Tabby & Jack's Pet Supplies and Grooming | trust 8.0 | Tabby & Jack's Pet Supplies and Grooming is a pet store in Madison, WI at 1892 East Washington Avenue, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/tabby-and-jacks-pet-supplies-and-grooming-madison/
-4. bad dog frida | trust 7.0 | bad dog frida is a pet store in Madison, WI at 2094 Atwood Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bad-dog-frida-madison/
-5. Wild Birds Unlimited | trust 4.0 | Wild Birds Unlimited is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-madison/
-6. Animart | trust 0.0 | Animart is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/animart-madison/
-7. Mad Cat Pet Supplies | trust 0.0 | Mad Cat Pet Supplies is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mad-cat-pet-supplies-madison/
-8. MadCat Pet Supplies | trust 0.0 | MadCat Pet Supplies is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/madcat-pet-supplies-madison/
-9. Mounds Pet Food Warehouse | trust 0.0 | Mounds Pet Food Warehouse is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mounds-pet-food-warehouse-madison/
-10. Nutzy Mutz & Crazy Catz | trust 0.0 | Nutzy Mutz & Crazy Catz is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nutzy-mutz-and-crazy-catz-madison/
-11. Red Fish Blue Fish Aquatics | trust 0.0 | Red Fish Blue Fish Aquatics is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/red-fish-blue-fish-aquatics-madison/
-12. Tabby and Jacks | trust 0.0 | Tabby and Jacks is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tabby-and-jacks-madison/
+1. Tabby & Jack's Pet Supplies and Grooming | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Tabby & Jack's Pet Supplies and Grooming is a pet store in Madison, WI at 1892 East Washington Avenue, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/tabby-and-jacks-pet-supplies-and-grooming-madison/
+2. bad dog frida | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | bad dog frida is a pet store in Madison, WI at 2094 Atwood Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bad-dog-frida-madison/
+3. Animart | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Animart is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/animart-madison/
+4. Mad Cat Pet Supplies | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Mad Cat Pet Supplies is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mad-cat-pet-supplies-madison/
+5. MadCat Pet Supplies | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | MadCat Pet Supplies is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/madcat-pet-supplies-madison/
+6. Nutzy Mutz & Crazy Catz | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Nutzy Mutz & Crazy Catz is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/nutzy-mutz-and-crazy-catz-madison/
+7. Red Fish Blue Fish Aquatics | Organic #7 | Pulse Score 55.4/100 (Unrated, #7 in city) | Red Fish Blue Fish Aquatics is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/red-fish-blue-fish-aquatics-madison/
+8. Tabby and Jacks | Organic #8 | Pulse Score 55.4/100 (Unrated, #8 in city) | Tabby and Jacks is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tabby-and-jacks-madison/
+9. PetSmart | Organic #9 | Pulse Score 50.1/100 (Fair, #9 in city) | PetSmart is a pet store in Madison, WI at 8210 Plaza Drive, Madison, WI 53719. Phone: +16088336446. Website: https://www.petsmart.com/stores/us/wi/madison-store0605.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-madison/
+10. PetSmart | Organic #10 | Pulse Score 50.1/100 (Fair, #10 in city) | PetSmart is a pet store in Madison, WI at 2216 East Springs Drive, Madison, WI 53704. Phone: +16082460813. Website: https://www.petsmart.com/stores/us/wi/madison-store0604.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-madison-w105681451/
+11. Mounds Pet Food Warehouse | Organic #11 | Pulse Score 45.8/100 (Unrated, #11 in city) | Mounds Pet Food Warehouse is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mounds-pet-food-warehouse-madison/
+12. Wild Birds Unlimited | Organic #12 | Pulse Score 45.4/100 (Building, #12 in city) | Wild Birds Unlimited is a pet store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

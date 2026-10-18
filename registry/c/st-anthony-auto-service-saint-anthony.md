@@ -13,7 +13,7 @@ St. Anthony Auto Service is an auto repair shop in Saint Anthony, MN at 2700 Ken
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 07:30-17:00
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Minneapolis–St. Paul, #2 of 5 auto repair shops in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

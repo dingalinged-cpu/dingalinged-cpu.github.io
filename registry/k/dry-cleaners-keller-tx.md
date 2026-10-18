@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Keller, TX is The Cleaners of Keller (a dry cleaner in Keller, TX). 1 dry cleaners businesses are listed for Keller, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Keller, TX is The Cleaners of Keller (a dry cleaner in Keller, TX). 1 dry cleaners businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Keller, TX?
 
 Also answers: dry cleaners in Keller, TX; dry cleaners near me (Keller, TX); best dry cleaners Keller, TX; top rated dry cleaners Keller, TX; affordable dry cleaners Keller, TX; emergency dry cleaners Keller, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Cleaners of Keller | trust 0.0 | The Cleaners of Keller is a dry cleaner in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/the-cleaners-of-keller-keller/
+1. The Cleaners of Keller | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | The Cleaners of Keller is a dry cleaner in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/the-cleaners-of-keller-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners keller tx | category: Professional & financial services | industry benchmark: Finance & Insurance

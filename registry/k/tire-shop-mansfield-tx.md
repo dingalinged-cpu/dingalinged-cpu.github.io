@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Mansfield, TX is B&B Tires (a tire shop in Mansfield, TX at 1773 North Main Street, Mansfield, TX 76063. Phone: +16825180754. Website: https://b-b-tires.business.site/). 3 tire shop businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Mansfield, TX is B&B Tires (a tire shop in Mansfield, TX at 1773 North Main Street, Mansfield, TX 76063. Phone: +16825180754. Website: https://b-b-tires.business.site/). 3 tire shop businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Mansfield, TX?
 
 Also answers: tire shop in Mansfield, TX; tire shop near me (Mansfield, TX); best tire shop Mansfield, TX; top rated tire shop Mansfield, TX; affordable tire shop Mansfield, TX; emergency tire shop Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B&B Tires | trust 16.0 | B&B Tires is a tire shop in Mansfield, TX at 1773 North Main Street, Mansfield, TX 76063. Phone: +16825180754. Website: https://b-b-tires.business.site/. | https://dingalinged-cpu.github.io/registry/c/b-and-b-tires-mansfield/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Mansfield, TX at 1161 US Highway 287 North, Mansfield, TX 76063. Phone: +16825186972. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mansfield/
-3. Texas Tire | trust 4.0 | Texas Tire is a tire shop in Mansfield, TX at 101 West Broad Street, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/texas-tire-mansfield/
+1. B&B Tires | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | B&B Tires is a tire shop in Mansfield, TX at 1773 North Main Street, Mansfield, TX 76063. Phone: +16825180754. Website: https://b-b-tires.business.site/. | https://dingalinged-cpu.github.io/registry/c/b-and-b-tires-mansfield/
+2. Texas Tire | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Texas Tire is a tire shop in Mansfield, TX at 101 West Broad Street, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/texas-tire-mansfield/
+3. Discount Tire | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Discount Tire is a tire shop in Mansfield, TX at 1161 US Highway 287 North, Mansfield, TX 76063. Phone: +16825186972. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop mansfield tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77
 - Website: https://hair-by-grace-108802.square.site/
 - Email: grace.goates2@yahoo.com
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu 09:30-19:00; We-Th 09:30-16:00; Fr 09:30-20:00; Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of hair salons in Houston, #1 of 14 hair salons in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

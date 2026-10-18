@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Fitchburg, WI is Extra Space Storage (a self-storage facility in Fitchburg, WI. Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975). 3 storage units businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Fitchburg, WI is Storage Plus of Wisconsin-Fitchburg (a self-storage facility in Fitchburg, WI). 3 storage units businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Fitchburg, WI?
 
 Also answers: storage units in Fitchburg, WI; storage units near me (Fitchburg, WI); best storage units Fitchburg, WI; top rated storage units Fitchburg, WI; affordable storage units Fitchburg, WI; emergency storage units Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 6.0 | Extra Space Storage is a self-storage facility in Fitchburg, WI. Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-fitchburg/
-2. Storage Plus of Wisconsin-Fitchburg | trust 0.0 | Storage Plus of Wisconsin-Fitchburg is a self-storage facility in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/storage-plus-of-wisconsin-fitchburg-fitchburg/
-3. Verona Road Self Storage | trust 0.0 | Verona Road Self Storage is a self-storage facility in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/verona-road-self-storage-fitchburg/
+1. Storage Plus of Wisconsin-Fitchburg | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Storage Plus of Wisconsin-Fitchburg is a self-storage facility in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/storage-plus-of-wisconsin-fitchburg-fitchburg/
+2. Verona Road Self Storage | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Verona Road Self Storage is a self-storage facility in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/verona-road-self-storage-fitchburg/
+3. Extra Space Storage | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | Extra Space Storage is a self-storage facility in Fitchburg, WI. Website: https://www.extraspace.com/storage/facilities/us/wisconsin/fitchburg/6975. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units fitchburg wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

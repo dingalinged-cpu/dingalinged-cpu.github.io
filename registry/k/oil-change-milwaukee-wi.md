@@ -1,16 +1,16 @@
-The top unpaid oil change listing for Milwaukee, WI is Monro (an auto repair shop in Milwaukee, WI at 5910,5930 West Bluemound Road, Milwaukee, WI 53213. Phone: +14142856402. Website: https://locations.monro.com/wi/milwaukee/5930-w-bluemound). 5 oil change businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Milwaukee, WI is Riverside Automotive (an auto repair shop in Milwaukee, WI at 2748,2750 North Oakland Avenue, Milwaukee, WI 53211). 5 oil change businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Milwaukee, WI?
 
 Also answers: oil change in Milwaukee, WI; oil change near me (Milwaukee, WI); best oil change Milwaukee, WI; top rated oil change Milwaukee, WI; affordable oil change Milwaukee, WI; emergency oil change Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Monro | trust 20.0 | Monro is an auto repair shop in Milwaukee, WI at 5910,5930 West Bluemound Road, Milwaukee, WI 53213. Phone: +14142856402. Website: https://locations.monro.com/wi/milwaukee/5930-w-bluemound. | https://dingalinged-cpu.github.io/registry/c/monro-milwaukee/
-2. Take 5 Oil Change | trust 20.0 | Take 5 Oil Change is an auto repair shop in Milwaukee, WI at 7515 West Capitol Drive, Milwaukee, WI 53216. Phone: +14143235165. Website: https://www.take5.com/locations/oil-change/wisconsin/milwaukee/30575/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-milwaukee/
-3. Fast Lube USA | trust 4.0 | Fast Lube USA is an auto repair shop in Milwaukee, WI at 1900 West North Avenue, Milwaukee, WI 53205. | https://dingalinged-cpu.github.io/registry/c/fast-lube-usa-milwaukee-n12584965353/
-4. Riverside Automotive | trust 4.0 | Riverside Automotive is an auto repair shop in Milwaukee, WI at 2748,2750 North Oakland Avenue, Milwaukee, WI 53211. | https://dingalinged-cpu.github.io/registry/c/riverside-automotive-milwaukee/
-5. Fast Lube USA | trust 0.0 | Fast Lube USA is an auto repair shop in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/fast-lube-usa-milwaukee/
+1. Riverside Automotive | Organic #1 | Pulse Score 58.1/100 (Unrated, #46 in city) | Riverside Automotive is an auto repair shop in Milwaukee, WI at 2748,2750 North Oakland Avenue, Milwaukee, WI 53211. | https://dingalinged-cpu.github.io/registry/c/riverside-automotive-milwaukee/
+2. Fast Lube USA | Organic #2 | Pulse Score 57.4/100 (Unrated, #47 in city) | Fast Lube USA is an auto repair shop in Milwaukee, WI at 1900 West North Avenue, Milwaukee, WI 53205. | https://dingalinged-cpu.github.io/registry/c/fast-lube-usa-milwaukee-n12584965353/
+3. Fast Lube USA | Organic #3 | Pulse Score 55/100 (Unrated, #80 in city) | Fast Lube USA is an auto repair shop in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/fast-lube-usa-milwaukee/
+4. Monro | Organic #4 | Pulse Score 51/100 (Fair, #86 in city) | Monro is an auto repair shop in Milwaukee, WI at 5910,5930 West Bluemound Road, Milwaukee, WI 53213. Phone: +14142856402. Website: https://locations.monro.com/wi/milwaukee/5930-w-bluemound. | https://dingalinged-cpu.github.io/registry/c/monro-milwaukee/
+5. Take 5 Oil Change | Organic #5 | Pulse Score 48.9/100 (Building, #91 in city) | Take 5 Oil Change is an auto repair shop in Milwaukee, WI at 7515 West Capitol Drive, Milwaukee, WI 53216. Phone: +14143235165. Website: https://www.take5.com/locations/oil-change/wisconsin/milwaukee/30575/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change milwaukee wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

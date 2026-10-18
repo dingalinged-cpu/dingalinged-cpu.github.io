@@ -13,7 +13,7 @@ Action Behavior Centers - ABA Therapy for Autism is a therapy practice in Frankf
 - Website: https://www.actionbehavior.com/locations/frankfort-il/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 78% of therapy practices in Chicago, #1 of 1 therapy practices in Frankfort (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

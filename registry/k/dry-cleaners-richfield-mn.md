@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Richfield, MN is Pilgrim Cleaners (a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/). 1 dry cleaners businesses are listed for Richfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Richfield, MN is Pilgrim Cleaners (a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/). 1 dry cleaners businesses are listed for Richfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Richfield, MN?
 
 Also answers: dry cleaners in Richfield, MN; dry cleaners near me (Richfield, MN); best dry cleaners Richfield, MN; top rated dry cleaners Richfield, MN; affordable dry cleaners Richfield, MN; emergency dry cleaners Richfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pilgrim Cleaners | trust 16.0 | Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/
+1. Pilgrim Cleaners | Organic #1 | Pulse Score 48.2/100 (Unrated, #1 in city) | Pilgrim Cleaners is a dry cleaner in Richfield, MN at 2901 West 66th Street, Richfield, MN 55423. Phone: +16128611697. Website: https://mypilgrimcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/pilgrim-cleaners-richfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners richfield mn | category: Professional & financial services | industry benchmark: Finance & Insurance

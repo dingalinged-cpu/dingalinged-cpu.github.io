@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Dallas, TX at 4640 Harry Hines
 - Website: https://www.extraspace.com/storage/facilities/us/texas/dallas/3185/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 51% of self-storage facilitys in Dallas–Fort Worth, #21 of 39 self-storage facilitys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Harris County, TX is European Wax Center (a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/katy/katy-fry-road-0258.html). 2 waxing businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Harris County, TX is European Wax Center (a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/katy/katy-fry-road-0258.html). 2 waxing businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Harris County, TX?
 
 Also answers: waxing in Harris County, TX; waxing near me (Harris County, TX); best waxing Harris County, TX; top rated waxing Harris County, TX; affordable waxing Harris County, TX; emergency waxing Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 6.0 | European Wax Center is a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/katy/katy-fry-road-0258.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-harris-county/
-2. European Wax Center | trust 6.0 | European Wax Center is a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/spring/spring-0260.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-harris-county-n11393317156/
+1. European Wax Center | Organic #1 | Pulse Score 44/100 (Building, #1 in city) | European Wax Center is a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/katy/katy-fry-road-0258.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-harris-county/
+2. European Wax Center | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | European Wax Center is a waxing salon in Harris County, TX. Website: https://locations.waxcenter.com/tx/spring/spring-0260.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-harris-county-n11393317156/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

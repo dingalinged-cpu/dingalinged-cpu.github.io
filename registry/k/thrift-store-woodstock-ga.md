@@ -1,16 +1,16 @@
-The top unpaid thrift store listing for Woodstock, GA is Seeds Thrift Store (a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/). 5 thrift store businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Woodstock, GA is Seeds Thrift Store (a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/). 5 thrift store businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Woodstock, GA?
 
 Also answers: thrift store in Woodstock, GA; thrift store near me (Woodstock, GA); best thrift store Woodstock, GA; top rated thrift store Woodstock, GA; affordable thrift store Woodstock, GA; emergency thrift store Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Seeds Thrift Store | trust 20.0 | Seeds Thrift Store is a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/. | https://dingalinged-cpu.github.io/registry/c/seeds-thrift-store-woodstock/
-2. Park Avenue Thrift | trust 16.0 | Park Avenue Thrift is a thrift store in Woodstock, GA at 9740 Main Street, Woodstock, GA 30188. Phone: +17709311787. Website: https://parkavethrift.com/. | https://dingalinged-cpu.github.io/registry/c/park-avenue-thrift-woodstock/
-3. Bascomb Mission Thrift Store | trust 13.0 | Bascomb Mission Thrift Store is a thrift store in Woodstock, GA at 9550 Main Street #170, Woodstock, GA. Phone: +16783247937. | https://dingalinged-cpu.github.io/registry/c/bascomb-mission-thrift-store-woodstock/
-4. Goodwill | trust 4.0 | Goodwill is a thrift store in Woodstock, GA at 9425 Highway 92, Woodstock, GA 30188. | https://dingalinged-cpu.github.io/registry/c/goodwill-woodstock/
-5. Thrift Store | trust 4.0 | Thrift Store is a thrift store in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/thrift-store-woodstock/
+1. Seeds Thrift Store | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Seeds Thrift Store is a thrift store in Woodstock, GA at 295 Molly Lane #110, Woodstock, GA 30189. Phone: +17705174450. Website: https://www.seedsthriftstore.com/. | https://dingalinged-cpu.github.io/registry/c/seeds-thrift-store-woodstock/
+2. Bascomb Mission Thrift Store | Organic #2 | Pulse Score 62.9/100 (Good, #2 in city) | Bascomb Mission Thrift Store is a thrift store in Woodstock, GA at 9550 Main Street #170, Woodstock, GA. Phone: +16783247937. | https://dingalinged-cpu.github.io/registry/c/bascomb-mission-thrift-store-woodstock/
+3. Park Avenue Thrift | Organic #3 | Pulse Score 60.5/100 (Good, #3 in city) | Park Avenue Thrift is a thrift store in Woodstock, GA at 9740 Main Street, Woodstock, GA 30188. Phone: +17709311787. Website: https://parkavethrift.com/. | https://dingalinged-cpu.github.io/registry/c/park-avenue-thrift-woodstock/
+4. Thrift Store | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Thrift Store is a thrift store in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/thrift-store-woodstock/
+5. Goodwill | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Goodwill is a thrift store in Woodstock, GA at 9425 Highway 92, Woodstock, GA 30188. | https://dingalinged-cpu.github.io/registry/c/goodwill-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store woodstock ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

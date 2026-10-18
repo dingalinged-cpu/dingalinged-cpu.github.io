@@ -1,19 +1,19 @@
-The top unpaid haircut listing for New Berlin, WI is Men's Hair House (a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/). 8 haircut businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for New Berlin, WI is Men's Hair House (a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/). 8 haircut businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in New Berlin, WI?
 
 Also answers: haircut in New Berlin, WI; haircut near me (New Berlin, WI); best haircut New Berlin, WI; top rated haircut New Berlin, WI; affordable haircut New Berlin, WI; emergency haircut New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Men's Hair House | trust 20.0 | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-new-berlin/
-2. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in New Berlin, WI at 15431 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-new-berlin/
-3. Great Clips | trust 4.0 | Great Clips is a hair salon in New Berlin, WI at 15440 West Beloit Road #300, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/great-clips-new-berlin/
-4. Phenix Salon Suites | trust 4.0 | Phenix Salon Suites is a hair salon in New Berlin, WI at 15421 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-new-berlin/
-5. The Barbershop | trust 4.0 | The Barbershop is a hair salon in New Berlin, WI at 15409 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-new-berlin/
-6. The New Berlin Barber | trust 4.0 | The New Berlin Barber is a barber shop in New Berlin, WI at 15700 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-new-berlin-barber-new-berlin/
-7. Sola Salon | trust 3.0 | Sola Salon is a hair salon in New Berlin, WI at 15345 West National Avenue, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/sola-salon-new-berlin/
-8. Hair Solutions | trust 0.0 | Hair Solutions is a hair salon in New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-new-berlin/
+1. Men's Hair House | Organic #1 | Pulse Score 67/100 (Good, #1 in city) | Men's Hair House is a barber shop in New Berlin, WI at 3608 South Moorland Road, New Berlin, WI 53151. Phone: +12624399163. Website: https://menshairhouse.com/new-berlin-wi/. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-new-berlin/
+2. Sola Salon | Organic #2 | Pulse Score 55.7/100 (Unrated, #1 in city) | Sola Salon is a hair salon in New Berlin, WI at 15345 West National Avenue, New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/sola-salon-new-berlin/
+3. The New Berlin Barber | Organic #3 | Pulse Score 55.3/100 (Unrated, #2 in city) | The New Berlin Barber is a barber shop in New Berlin, WI at 15700 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-new-berlin-barber-new-berlin/
+4. Hair Solutions | Organic #4 | Pulse Score 54.1/100 (Unrated, #2 in city) | Hair Solutions is a hair salon in New Berlin, WI. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-new-berlin/
+5. Cost Cutters | Organic #5 | Pulse Score 44.6/100 (Building, #3 in city) | Cost Cutters is a hair salon in New Berlin, WI at 15431 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-new-berlin/
+6. Phenix Salon Suites | Organic #6 | Pulse Score 44.5/100 (Unrated, #4 in city) | Phenix Salon Suites is a hair salon in New Berlin, WI at 15421 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/phenix-salon-suites-new-berlin/
+7. The Barbershop | Organic #7 | Pulse Score 44.5/100 (Unrated, #5 in city) | The Barbershop is a hair salon in New Berlin, WI at 15409 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-new-berlin/
+8. Great Clips | Organic #8 | Pulse Score 44.4/100 (Building, #6 in city) | Great Clips is a hair salon in New Berlin, WI at 15440 West Beloit Road #300, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/great-clips-new-berlin/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut new berlin wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Villa Park, IL is Legendary Fades (a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/). 2 hair salon businesses are listed for Villa Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Villa Park, IL is Legendary Fades (a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/). 2 hair salon businesses are listed for Villa Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Villa Park, IL?
 
 Also answers: hair salon in Villa Park, IL; hair salon near me (Villa Park, IL); best hair salon Villa Park, IL; top rated hair salon Villa Park, IL; affordable hair salon Villa Park, IL; emergency hair salon Villa Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legendary Fades | trust 20.0 | Legendary Fades is a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/. | https://dingalinged-cpu.github.io/registry/c/legendary-fades-villa-park/
-2. Betty Q Beauty Salon | trust 10.0 | Betty Q Beauty Salon is a hair salon in Villa Park, IL at 352 North Ardmore Avenue, Villa Park, IL 60181. Phone: +16303595417. | https://dingalinged-cpu.github.io/registry/c/betty-q-beauty-salon-villa-park/
+1. Legendary Fades | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Legendary Fades is a hair salon in Villa Park, IL at 1019 North Avenue, Villa Park, IL 60181. Phone: +16307856972. Website: https://www.legendaryfades.com/. | https://dingalinged-cpu.github.io/registry/c/legendary-fades-villa-park/
+2. Betty Q Beauty Salon | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Betty Q Beauty Salon is a hair salon in Villa Park, IL at 352 North Ardmore Avenue, Villa Park, IL 60181. Phone: +16303595417. | https://dingalinged-cpu.github.io/registry/c/betty-q-beauty-salon-villa-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon villa park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

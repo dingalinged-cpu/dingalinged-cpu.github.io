@@ -1,13 +1,13 @@
-The top unpaid painters listing for Naperville, IL is Jung Family Painting Inc. (a painting contractor in Naperville, IL at 1109 East Bailey Road, Naperville, IL 60565. Phone: +16305279990. Website: https://jungfamilypainting.com/). 2 painters businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Naperville, IL is Jung Family Painting Inc. (a painting contractor in Naperville, IL at 1109 East Bailey Road, Naperville, IL 60565. Phone: +16305279990. Website: https://jungfamilypainting.com/). 2 painters businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Naperville, IL?
 
 Also answers: painters in Naperville, IL; painters near me (Naperville, IL); best painters Naperville, IL; top rated painters Naperville, IL; affordable painters Naperville, IL; emergency painters Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jung Family Painting Inc. | trust 20.0 | Jung Family Painting Inc. is a painting contractor in Naperville, IL at 1109 East Bailey Road, Naperville, IL 60565. Phone: +16305279990. Website: https://jungfamilypainting.com/. | https://dingalinged-cpu.github.io/registry/c/jung-family-painting-inc-naperville/
-2. Jalapeno Paint Werx | trust 16.0 | Jalapeno Paint Werx is a painting contractor in Naperville, IL at 304 East Ogden Avenue, Naperville, IL 60563. Phone: +16305271829. Website: https://www.jalapenopaintwerx.com/. | https://dingalinged-cpu.github.io/registry/c/jalapeno-paint-werx-naperville/
+1. Jung Family Painting Inc. | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Jung Family Painting Inc. is a painting contractor in Naperville, IL at 1109 East Bailey Road, Naperville, IL 60565. Phone: +16305279990. Website: https://jungfamilypainting.com/. | https://dingalinged-cpu.github.io/registry/c/jung-family-painting-inc-naperville/
+2. Jalapeno Paint Werx | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Jalapeno Paint Werx is a painting contractor in Naperville, IL at 304 East Ogden Avenue, Naperville, IL 60563. Phone: +16305271829. Website: https://www.jalapenopaintwerx.com/. | https://dingalinged-cpu.github.io/registry/c/jalapeno-paint-werx-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters naperville il | category: Home services - Painting | industry benchmark: Home & Home Improvement

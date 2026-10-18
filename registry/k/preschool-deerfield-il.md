@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Deerfield, IL is Deerfield Montessori School (a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/). 2 preschool businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Deerfield, IL is Deerfield Montessori School (a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/). 2 preschool businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Deerfield, IL?
 
 Also answers: preschool in Deerfield, IL; preschool near me (Deerfield, IL); best preschool Deerfield, IL; top rated preschool Deerfield, IL; affordable preschool Deerfield, IL; emergency preschool Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Deerfield Montessori School | trust 20.0 | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-montessori-school-deerfield/
-2. Bright Horizons | trust 4.0 | Bright Horizons is a preschool in Deerfield, IL at 1 Horizon Way, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-deerfield/
+1. Deerfield Montessori School | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue, Deerfield, IL 60015. Phone: +18479457580. Website: https://montessori-schools.com/. | https://dingalinged-cpu.github.io/registry/c/deerfield-montessori-school-deerfield/
+2. Bright Horizons | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Bright Horizons is a preschool in Deerfield, IL at 1 Horizon Way, Deerfield, IL 60015. | https://dingalinged-cpu.github.io/registry/c/bright-horizons-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool deerfield il | category: Education & childcare | industry benchmark: Education & Instruction

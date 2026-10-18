@@ -13,7 +13,7 @@ Magnolia Bakery is a bakery in Chicago, IL at 108 North State Street, Chicago, I
 - Website: https://www.magnoliabakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): 11:00-20:00
-- Registry Score: 66.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 1% of bakerys in Chicago, #2 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

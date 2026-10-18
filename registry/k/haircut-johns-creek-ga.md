@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Johns Creek, GA is Mario's Hair Designers (a hair salon in Johns Creek, GA at 6000 Medlock Bridge Road #A400, Johns Creek, GA. Phone: +17704760030. Website: https://www.marioshairdesigners.com/). 7 haircut businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Johns Creek, GA is Mario's Hair Designers (a hair salon in Johns Creek, GA at 6000 Medlock Bridge Road #A400, Johns Creek, GA. Phone: +17704760030. Website: https://www.marioshairdesigners.com/). 7 haircut businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Johns Creek, GA?
 
 Also answers: haircut in Johns Creek, GA; haircut near me (Johns Creek, GA); best haircut Johns Creek, GA; top rated haircut Johns Creek, GA; affordable haircut Johns Creek, GA; emergency haircut Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mario's Hair Designers | trust 19.0 | Mario's Hair Designers is a hair salon in Johns Creek, GA at 6000 Medlock Bridge Road #A400, Johns Creek, GA. Phone: +17704760030. Website: https://www.marioshairdesigners.com/. | https://dingalinged-cpu.github.io/registry/c/marios-hair-designers-johns-creek/
-2. Creative Hair Salon | trust 4.0 | Creative Hair Salon is a hair salon in Johns Creek, GA at 11950 Jones Bridge Road, Johns Creek, GA 30005. | https://dingalinged-cpu.github.io/registry/c/creative-hair-salon-johns-creek/
-3. Hair Impressions | trust 4.0 | Hair Impressions is a hair salon in Alpharetta, GA at 8465 Holcomb Bridge Road #110, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/hair-impressions-alpharetta/
-4. JJ's Barber Shop | trust 4.0 | JJ's Barber Shop is a hair salon in Johns Creek, GA at 9850 Nesbit Ferry Road #15, Johns Creek, GA 30022. | https://dingalinged-cpu.github.io/registry/c/jjs-barber-shop-johns-creek/
-5. Free Spirit Salon | trust 0.0 | Free Spirit Salon is a hair salon in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/free-spirit-salon-johns-creek/
-6. JonPaul Men's grooming | trust 0.0 | JonPaul Men's grooming is a barber shop in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/jonpaul-mens-grooming-johns-creek/
-7. Supercuts | trust 0.0 | Supercuts is a hair salon in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-johns-creek/
+1. Mario's Hair Designers | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Mario's Hair Designers is a hair salon in Johns Creek, GA at 6000 Medlock Bridge Road #A400, Johns Creek, GA. Phone: +17704760030. Website: https://www.marioshairdesigners.com/. | https://dingalinged-cpu.github.io/registry/c/marios-hair-designers-johns-creek/
+2. Creative Hair Salon | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Creative Hair Salon is a hair salon in Johns Creek, GA at 11950 Jones Bridge Road, Johns Creek, GA 30005. | https://dingalinged-cpu.github.io/registry/c/creative-hair-salon-johns-creek/
+3. Hair Impressions | Organic #3 | Pulse Score 57/100 (Unrated, #7 in city) | Hair Impressions is a hair salon in Alpharetta, GA at 8465 Holcomb Bridge Road #110, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/hair-impressions-alpharetta/
+4. JJ's Barber Shop | Organic #4 | Pulse Score 57/100 (Unrated, #3 in city) | JJ's Barber Shop is a hair salon in Johns Creek, GA at 9850 Nesbit Ferry Road #15, Johns Creek, GA 30022. | https://dingalinged-cpu.github.io/registry/c/jjs-barber-shop-johns-creek/
+5. Free Spirit Salon | Organic #5 | Pulse Score 54.8/100 (Unrated, #4 in city) | Free Spirit Salon is a hair salon in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/free-spirit-salon-johns-creek/
+6. JonPaul Men's grooming | Organic #6 | Pulse Score 54.2/100 (Unrated, #1 in city) | JonPaul Men's grooming is a barber shop in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/jonpaul-mens-grooming-johns-creek/
+7. Supercuts | Organic #7 | Pulse Score 42.3/100 (Building, #5 in city) | Supercuts is a hair salon in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/supercuts-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut johns creek ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

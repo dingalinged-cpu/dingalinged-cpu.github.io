@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Lake Zurich, IL is Shake Guys (a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/). 1 roofer businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Lake Zurich, IL is Shake Guys (a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/). 1 roofer businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Lake Zurich, IL?
 
 Also answers: roofer in Lake Zurich, IL; roofer near me (Lake Zurich, IL); best roofer Lake Zurich, IL; top rated roofer Lake Zurich, IL; affordable roofer Lake Zurich, IL; emergency roofer Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shake Guys | trust 20.0 | Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/. | https://dingalinged-cpu.github.io/registry/c/shake-guys-lake-zurich/
+1. Shake Guys | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Shake Guys is a roofer in Lake Zurich, IL at 550 IL-22, Lake Zurich, IL 60047. Phone: +18472782272. Website: https://shakeguys.com/. | https://dingalinged-cpu.github.io/registry/c/shake-guys-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer lake zurich il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

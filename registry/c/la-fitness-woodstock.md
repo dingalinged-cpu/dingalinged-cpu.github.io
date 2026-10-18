@@ -13,7 +13,7 @@ LA Fitness is a gym in Woodstock, GA at 2060 Eagle Drive, Woodstock, GA 30189. P
 - Website: https://lafitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 69% of gyms in Atlanta, #10 of 11 gyms in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

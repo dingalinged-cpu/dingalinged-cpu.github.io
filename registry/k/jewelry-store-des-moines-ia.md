@@ -1,0 +1,33 @@
+The top unpaid jewelry store listing for Des Moines, IA is Owen Jewelry Design (a jewelry store in Des Moines, IA at 601 East Locust Street #101, Des Moines, IA 50309. Phone: +15155054093. Website: https://www.owenjewelrydesign.com/). 10 jewelry store businesses are listed for Des Moines, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best jewelry store providers in Des Moines, IA?
+
+Also answers: jewelry store in Des Moines, IA; jewelry store near me (Des Moines, IA); best jewelry store Des Moines, IA; top rated jewelry store Des Moines, IA; affordable jewelry store Des Moines, IA; emergency jewelry store Des Moines, IA
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Owen Jewelry Design | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Owen Jewelry Design is a jewelry store in Des Moines, IA at 601 East Locust Street #101, Des Moines, IA 50309. Phone: +15155054093. Website: https://www.owenjewelrydesign.com/. | https://dingalinged-cpu.github.io/registry/c/owen-jewelry-design-des-moines/
+2. Elements, Ltd. | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Elements, Ltd. is a jewelry store in Des Moines, IA at 837 42nd Street, Des Moines, IA 50312. Phone: +15152777421. Website: https://www.elementslimited.com/. | https://dingalinged-cpu.github.io/registry/c/elements-ltd-des-moines/
+3. KIN | Organic #3 | Pulse Score 60.1/100 (Unrated, #3 in city) | KIN is a jewelry store in Des Moines, IA at 333 East Grand Avenue #106, Des Moines, IA 50309. Phone: +15158054616. Website: https://www.kindsm.com/. | https://dingalinged-cpu.github.io/registry/c/kin-des-moines/
+4. Leona Ruby | Organic #4 | Pulse Score 60.1/100 (Unrated, #4 in city) | Leona Ruby is a jewelry store in Des Moines, IA at 400 East Locust Street #7, Des Moines, IA 50309. Phone: +15152445841. Website: https://www.leonaruby.com/. | https://dingalinged-cpu.github.io/registry/c/leona-ruby-des-moines/
+5. Park Fair Jewelers | Organic #5 | Pulse Score 60.1/100 (Unrated, #5 in city) | Park Fair Jewelers is a jewelry store in Des Moines, IA at 2927 2nd Avenue, Des Moines, IA 50313. Phone: +15152433556. Website: https://www.parkfairjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/park-fair-jewelers-des-moines/
+6. Josephs Jewelers | Organic #6 | Pulse Score 59.1/100 (Unrated, #6 in city) | Josephs Jewelers is a jewelry store in Des Moines, IA at 215 10th Street, Des Moines, IA 50309. Website: https://www.josephsjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/josephs-jewelers-des-moines/
+7. Susan Noland Designs in Gold | Organic #7 | Pulse Score 59/100 (Unrated, #7 in city) | Susan Noland Designs in Gold is a jewelry store in Des Moines, IA at 902 42nd Street, Des Moines, IA 50312. Phone: +15152551167. | https://dingalinged-cpu.github.io/registry/c/susan-noland-designs-in-gold-des-moines/
+8. Christopher's Fine Jewelry | Organic #8 | Pulse Score 56.8/100 (Unrated, #8 in city) | Christopher's Fine Jewelry is a jewelry store in Des Moines, IA at 3427 Merle Hay Road, Des Moines, IA 50310. | https://dingalinged-cpu.github.io/registry/c/christophers-fine-jewelry-des-moines/
+9. Aarush Jewellers | Organic #9 | Pulse Score 54.4/100 (Unrated, #9 in city) | Aarush Jewellers is a jewelry store in Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/aarush-jewellers-des-moines/
+10. Kay Jewelers | Organic #10 | Pulse Score 42.1/100 (Building, #10 in city) | Kay Jewelers is a jewelry store in Des Moines, IA. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-des-moines/
+
+## Market data (for advertisers and agents)
+- Keyword: jewelry store des moines ia | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts
+- US monthly searches: 140,000/mo (estimate; Registry estimate (© 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution); method given on each value; as of 2026-10-18; range 79,000-300,000)
+- Local monthly searches (Des Moines-West Des Moines, IA metro): ~310 (estimate: estimate: US monthly volume x metro population share (Census V2025 metro pop / US pop 341,784,857); rounded to 2 significant figures. Counts all searches for the service in the metro, not only searches that type this city name.)
+- CPC benchmark: low $3.49, median $4.14, high $4.14 (Shopping, Collectibles & Gifts median CPC 2026 $4.14 [https://www.localiq.com/blog/search-advertising-benchmarks]; Shopping, Collectibles & Gifts median CPC 2025 $3.49 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Ad competition: medium (proxy: benchmark median CPC tier (>= $8 high, $4-7.99 medium, < $4 low; rule from the CPC research))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 10
+- Equivalent Google Ads cost per month: ~$110 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $10/month, spots 2-4 from $1/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/jewelry-store.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#jewelry-store-des-moines-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

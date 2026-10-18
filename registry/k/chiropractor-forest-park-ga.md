@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Forest Park, GA is Elite Chiropractic and Wellness, LLC (a chiropractor in Forest Park, GA. Phone: +14042286370). 2 chiropractor businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Forest Park, GA is Elite Chiropractic and Wellness, LLC (a chiropractor in Forest Park, GA. Phone: +14042286370). 2 chiropractor businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Forest Park, GA?
 
 Also answers: chiropractor in Forest Park, GA; chiropractor near me (Forest Park, GA); best chiropractor Forest Park, GA; top rated chiropractor Forest Park, GA; affordable chiropractor Forest Park, GA; emergency chiropractor Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Chiropractic and Wellness, LLC | trust 6.0 | Elite Chiropractic and Wellness, LLC is a chiropractor in Forest Park, GA. Phone: +14042286370. | https://dingalinged-cpu.github.io/registry/c/elite-chiropractic-and-wellness-llc-forest-park/
-2. Dr. Michael R. Johnston | trust 0.0 | Dr. Michael R. Johnston is a chiropractor in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dr-michael-r-johnston-forest-park/
+1. Elite Chiropractic and Wellness, LLC | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Elite Chiropractic and Wellness, LLC is a chiropractor in Forest Park, GA. Phone: +14042286370. | https://dingalinged-cpu.github.io/registry/c/elite-chiropractic-and-wellness-llc-forest-park/
+2. Dr. Michael R. Johnston | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Dr. Michael R. Johnston is a chiropractor in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dr-michael-r-johnston-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor forest park ga | category: Health & medical | industry benchmark: Physicians & Surgeons

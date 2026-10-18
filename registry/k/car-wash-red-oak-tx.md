@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Red Oak, TX is Red Oak Car Wash (a car wash in Red Oak, TX at 311 East Ovilla Road, Red Oak, TX 75154). 1 car wash businesses are listed for Red Oak, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Red Oak, TX is Red Oak Car Wash (a car wash in Red Oak, TX at 311 East Ovilla Road, Red Oak, TX 75154). 1 car wash businesses are listed for Red Oak, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Red Oak, TX?
 
 Also answers: car wash in Red Oak, TX; car wash near me (Red Oak, TX); best car wash Red Oak, TX; top rated car wash Red Oak, TX; affordable car wash Red Oak, TX; emergency car wash Red Oak, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Red Oak Car Wash | trust 4.0 | Red Oak Car Wash is a car wash in Red Oak, TX at 311 East Ovilla Road, Red Oak, TX 75154. | https://dingalinged-cpu.github.io/registry/c/red-oak-car-wash-red-oak/
+1. Red Oak Car Wash | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Red Oak Car Wash is a car wash in Red Oak, TX at 311 East Ovilla Road, Red Oak, TX 75154. | https://dingalinged-cpu.github.io/registry/c/red-oak-car-wash-red-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash red oak tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,14 +1,14 @@
-The top unpaid attorney listing for Oak Brook, IL is Gabrielle S. Davis, P.C. (a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, Oak Brook, IL 60523. Phone: +16302885000. Website: https://gabrielledavis.com/). 3 attorney businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Oak Brook, IL is Gabrielle S. Davis, P.C. (a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, Oak Brook, IL 60523. Phone: +16302885000. Website: https://gabrielledavis.com/). 3 attorney businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Oak Brook, IL?
 
 Also answers: attorney in Oak Brook, IL; attorney near me (Oak Brook, IL); best attorney Oak Brook, IL; top rated attorney Oak Brook, IL; affordable attorney Oak Brook, IL; emergency attorney Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gabrielle S. Davis, P.C. | trust 20.0 | Gabrielle S. Davis, P.C. is a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, Oak Brook, IL 60523. Phone: +16302885000. Website: https://gabrielledavis.com/. | https://dingalinged-cpu.github.io/registry/c/gabrielle-s-davis-p-c-oak-brook/
-2. Shakfeh Law LLC | trust 20.0 | Shakfeh Law LLC is a lawyer in Oak Brook, IL at 2021 Midwest Road #200, Oak Brook, IL 60523. Phone: +16305175529. Website: https://www.shakfehlaw.com/. | https://dingalinged-cpu.github.io/registry/c/shakfeh-law-llc-oak-brook/
-3. Sever Storey, LLP | trust 16.0 | Sever Storey, LLP is a lawyer in Oak Brook, IL at 18W140 Butterfield Road #1500, Oak Brook, IL 60181. Phone: +13126460840. Website: https://landownerattorneys.com/. | https://dingalinged-cpu.github.io/registry/c/sever-storey-llp-oak-brook/
+1. Gabrielle S. Davis, P.C. | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Gabrielle S. Davis, P.C. is a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, Oak Brook, IL 60523. Phone: +16302885000. Website: https://gabrielledavis.com/. | https://dingalinged-cpu.github.io/registry/c/gabrielle-s-davis-p-c-oak-brook/
+2. Shakfeh Law LLC | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Shakfeh Law LLC is a lawyer in Oak Brook, IL at 2021 Midwest Road #200, Oak Brook, IL 60523. Phone: +16305175529. Website: https://www.shakfehlaw.com/. | https://dingalinged-cpu.github.io/registry/c/shakfeh-law-llc-oak-brook/
+3. Sever Storey, LLP | Organic #3 | Pulse Score 59.8/100 (Unrated, #3 in city) | Sever Storey, LLP is a lawyer in Oak Brook, IL at 18W140 Butterfield Road #1500, Oak Brook, IL 60181. Phone: +13126460840. Website: https://landownerattorneys.com/. | https://dingalinged-cpu.github.io/registry/c/sever-storey-llp-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney oak brook il | category: professional_legal | industry benchmark: Attorneys & Legal Services

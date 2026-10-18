@@ -13,7 +13,7 @@ Reach Chiropractic is a chiropractor in Cobb County, GA at 501 Roberts Court #6,
 - Website: https://reachchiropractor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 10:00-12:00,15:00-06:00; We off; Fr-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Fair — top 46% of chiropractors in Atlanta, #7 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 49.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

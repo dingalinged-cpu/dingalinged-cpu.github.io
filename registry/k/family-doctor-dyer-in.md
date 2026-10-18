@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Dyer, IN is Medina Health Care - Huma T. Mulk M.D. (a family medicine practice in Dyer, IN at 932 Richard Road, Dyer, IN 46311. Phone: +12195152148. Website: https://drhumatmulk.com/). 1 family doctor businesses are listed for Dyer, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Dyer, IN is Medina Health Care - Huma T. Mulk M.D. (a family medicine practice in Dyer, IN at 932 Richard Road, Dyer, IN 46311. Phone: +12195152148. Website: https://drhumatmulk.com/). 1 family doctor businesses are listed for Dyer, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Dyer, IN?
 
 Also answers: family doctor in Dyer, IN; family doctor near me (Dyer, IN); best family doctor Dyer, IN; top rated family doctor Dyer, IN; affordable family doctor Dyer, IN; emergency family doctor Dyer, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medina Health Care - Huma T. Mulk M.D. | trust 20.0 | Medina Health Care - Huma T. Mulk M.D. is a family medicine practice in Dyer, IN at 932 Richard Road, Dyer, IN 46311. Phone: +12195152148. Website: https://drhumatmulk.com/. | https://dingalinged-cpu.github.io/registry/c/medina-health-care-huma-t-mulk-m-d-dyer/
+1. Medina Health Care - Huma T. Mulk M.D. | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Medina Health Care - Huma T. Mulk M.D. is a family medicine practice in Dyer, IN at 932 Richard Road, Dyer, IN 46311. Phone: +12195152148. Website: https://drhumatmulk.com/. | https://dingalinged-cpu.github.io/registry/c/medina-health-care-huma-t-mulk-m-d-dyer/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor dyer in | category: Health & medical | industry benchmark: Physicians & Surgeons

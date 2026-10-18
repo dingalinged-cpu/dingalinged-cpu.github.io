@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Gary, IN is Goodwill (a thrift store in Gary, IN). 2 thrift store businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Gary, IN is Mama's Resale Shop (a thrift store in Gary, IN). 2 thrift store businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Gary, IN?
 
 Also answers: thrift store in Gary, IN; thrift store near me (Gary, IN); best thrift store Gary, IN; top rated thrift store Gary, IN; affordable thrift store Gary, IN; emergency thrift store Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 0.0 | Goodwill is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/goodwill-gary/
-2. Mama's Resale Shop | trust 0.0 | Mama's Resale Shop is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/mamas-resale-shop-gary/
+1. Mama's Resale Shop | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Mama's Resale Shop is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/mamas-resale-shop-gary/
+2. Goodwill | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | Goodwill is a thrift store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/goodwill-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store gary in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

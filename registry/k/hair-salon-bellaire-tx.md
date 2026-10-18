@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Bellaire, TX is Salon Stephan (a hair salon in Bellaire, TX at 5200 Bissonnet Street #8, Bellaire, TX 77401. Phone: +17136613111. Website: https://salonstephan.com/). 1 hair salon businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Bellaire, TX is Salon Stephan (a hair salon in Bellaire, TX at 5200 Bissonnet Street #8, Bellaire, TX 77401. Phone: +17136613111. Website: https://salonstephan.com/). 1 hair salon businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Bellaire, TX?
 
 Also answers: hair salon in Bellaire, TX; hair salon near me (Bellaire, TX); best hair salon Bellaire, TX; top rated hair salon Bellaire, TX; affordable hair salon Bellaire, TX; emergency hair salon Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Salon Stephan | trust 20.0 | Salon Stephan is a hair salon in Bellaire, TX at 5200 Bissonnet Street #8, Bellaire, TX 77401. Phone: +17136613111. Website: https://salonstephan.com/. | https://dingalinged-cpu.github.io/registry/c/salon-stephan-bellaire/
+1. Salon Stephan | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Salon Stephan is a hair salon in Bellaire, TX at 5200 Bissonnet Street #8, Bellaire, TX 77401. Phone: +17136613111. Website: https://salonstephan.com/. | https://dingalinged-cpu.github.io/registry/c/salon-stephan-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon bellaire tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

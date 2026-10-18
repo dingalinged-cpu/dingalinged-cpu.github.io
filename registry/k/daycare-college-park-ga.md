@@ -1,12 +1,12 @@
-The top unpaid daycare listing for College Park, GA is Jeannette Cathy Children's Center (a daycare in Atlanta, GA at 5180 Buffington Road, Atlanta, GA 30349). 1 daycare businesses are listed for College Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for College Park, GA is Jeannette Cathy Children's Center (a daycare in Atlanta, GA at 5180 Buffington Road, Atlanta, GA 30349). 1 daycare businesses are listed for College Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in College Park, GA?
 
 Also answers: daycare in College Park, GA; daycare near me (College Park, GA); best daycare College Park, GA; top rated daycare College Park, GA; affordable daycare College Park, GA; emergency daycare College Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jeannette Cathy Children's Center | trust 8.0 | Jeannette Cathy Children's Center is a daycare in Atlanta, GA at 5180 Buffington Road, Atlanta, GA 30349. | https://dingalinged-cpu.github.io/registry/c/jeannette-cathy-childrens-center-atlanta/
+1. Jeannette Cathy Children's Center | Organic #1 | Pulse Score 59.4/100 (Unrated, #4 in city) | Jeannette Cathy Children's Center is a daycare in Atlanta, GA at 5180 Buffington Road, Atlanta, GA 30349. | https://dingalinged-cpu.github.io/registry/c/jeannette-cathy-childrens-center-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare college park ga | category: Education & childcare | industry benchmark: Education & Instruction

@@ -1,12 +1,12 @@
-The top unpaid driving school listing for Waxahachie, TX is Waxahachie Driving School (a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165). 1 driving school businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Waxahachie, TX is Waxahachie Driving School (a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165). 1 driving school businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Waxahachie, TX?
 
 Also answers: driving school in Waxahachie, TX; driving school near me (Waxahachie, TX); best driving school Waxahachie, TX; top rated driving school Waxahachie, TX; affordable driving school Waxahachie, TX; emergency driving school Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waxahachie Driving School | trust 4.0 | Waxahachie Driving School is a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-driving-school-waxahachie/
+1. Waxahachie Driving School | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Waxahachie Driving School is a driving school in Waxahachie, TX at 106 South Jackson Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-driving-school-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school waxahachie tx | category: Education & childcare | industry benchmark: Education & Instruction

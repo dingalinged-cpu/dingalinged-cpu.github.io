@@ -13,7 +13,7 @@ Easy Street SEO is an IT support company in Milwaukee, WI at 2350 East Fernwood 
 - Website: https://easystreetseo.com/
 - Email: info@easystreetseo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 37% of IT support companys in Milwaukee, #1 of 8 IT support companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

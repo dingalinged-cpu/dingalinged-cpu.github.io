@@ -1,13 +1,13 @@
-The top unpaid roofer listing for Wauconda, IL is Style Exteriors (a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/). 2 roofer businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Wauconda, IL is Style Exteriors (a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/). 2 roofer businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Wauconda, IL?
 
 Also answers: roofer in Wauconda, IL; roofer near me (Wauconda, IL); best roofer Wauconda, IL; top rated roofer Wauconda, IL; affordable roofer Wauconda, IL; emergency roofer Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Style Exteriors | trust 20.0 | Style Exteriors is a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/style-exteriors-wauconda/
-2. Prate Roofing | trust 16.0 | Prate Roofing is a roofer in Wauconda, IL at 368 West Liberty Street #F, Wauconda, IL 60084. Phone: +18475266402. Website: https://prateroofing.com/. | https://dingalinged-cpu.github.io/registry/c/prate-roofing-wauconda/
+1. Style Exteriors | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Style Exteriors is a roofer in Wauconda, IL at 388 West Liberty Street, Wauconda, IL 60084. Phone: +18472623678. Website: https://www.styleexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/style-exteriors-wauconda/
+2. Prate Roofing | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Prate Roofing is a roofer in Wauconda, IL at 368 West Liberty Street #F, Wauconda, IL 60084. Phone: +18475266402. Website: https://prateroofing.com/. | https://dingalinged-cpu.github.io/registry/c/prate-roofing-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer wauconda il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

@@ -1,15 +1,15 @@
-The top unpaid funeral home listing for Lewisville, TX is Carrillo Funeral Home (a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas). 4 funeral home businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Lewisville, TX is Carrillo Funeral Home (a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas). 4 funeral home businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Lewisville, TX?
 
 Also answers: funeral home in Lewisville, TX; funeral home near me (Lewisville, TX); best funeral home Lewisville, TX; top rated funeral home Lewisville, TX; affordable funeral home Lewisville, TX; emergency funeral home Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carrillo Funeral Home | trust 16.0 | Carrillo Funeral Home is a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas. | https://dingalinged-cpu.github.io/registry/c/carrillo-funeral-home-lewisville/
-2. Thrash Funeral Chapel | trust 3.0 | Thrash Funeral Chapel is a funeral home in Lewisville, TX at 150 Bellaire Boulevard, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/thrash-funeral-chapel-lewisville/
-3. Furnales-USA | trust 0.0 | Furnales-USA is a funeral home in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/furnales-usa-lewisville/
-4. Mulkey Mason Funeral Home | trust 0.0 | Mulkey Mason Funeral Home is a funeral home in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/mulkey-mason-funeral-home-lewisville/
+1. Carrillo Funeral Home | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Carrillo Funeral Home is a funeral home in Lewisville, TX at 697 South Stemmons Freeway, Lewisville, TX 75067. Phone: +19724600460. Website: https://www.carrillofuneralhomes.com/about/lewisville-texas. | https://dingalinged-cpu.github.io/registry/c/carrillo-funeral-home-lewisville/
+2. Furnales-USA | Organic #2 | Pulse Score 58.1/100 (Fair, #2 in city) | Furnales-USA is a funeral home in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/furnales-usa-lewisville/
+3. Thrash Funeral Chapel | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Thrash Funeral Chapel is a funeral home in Lewisville, TX at 150 Bellaire Boulevard, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/thrash-funeral-chapel-lewisville/
+4. Mulkey Mason Funeral Home | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Mulkey Mason Funeral Home is a funeral home in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/mulkey-mason-funeral-home-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

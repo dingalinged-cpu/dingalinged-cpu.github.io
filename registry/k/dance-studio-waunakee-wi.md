@@ -1,13 +1,13 @@
-The top unpaid dance studio listing for Waunakee, WI is Dynamic Dance Company (a dance studio in Waunakee, WI). 2 dance studio businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Waunakee, WI is Dynamic Dance Company (a dance studio in Waunakee, WI). 2 dance studio businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Waunakee, WI?
 
 Also answers: dance studio in Waunakee, WI; dance studio near me (Waunakee, WI); best dance studio Waunakee, WI; top rated dance studio Waunakee, WI; affordable dance studio Waunakee, WI; emergency dance studio Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dynamic Dance Company | trust 0.0 | Dynamic Dance Company is a dance studio in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/dynamic-dance-company-waunakee/
-2. Midwest Performing Arts | trust 0.0 | Midwest Performing Arts is a dance studio in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-performing-arts-waunakee/
+1. Dynamic Dance Company | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Dynamic Dance Company is a dance studio in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/dynamic-dance-company-waunakee/
+2. Midwest Performing Arts | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Midwest Performing Arts is a dance studio in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-performing-arts-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio waunakee wi | category: Fitness | industry benchmark: Health & Fitness

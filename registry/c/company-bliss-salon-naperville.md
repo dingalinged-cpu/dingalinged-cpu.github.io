@@ -13,7 +13,7 @@ Company Bliss Salon is a hair salon in Naperville, IL at 1160 East Ogden Avenue 
 - Website: https://www.companyblisssalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Su off; Tu-Th 09:00-21:00; Fr 09:00-17:00; Sa 08:00-16:00
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of hair salons in Chicago, #6 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

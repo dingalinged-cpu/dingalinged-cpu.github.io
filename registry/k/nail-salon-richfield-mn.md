@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Richfield, MN is Red Nails & Spa (a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423). 2 nail salon businesses are listed for Richfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Richfield, MN is Lyndale Nails (a nail salon in Richfield, MN at 6553 Lyndale Avenue South, Richfield, MN 55423). 2 nail salon businesses are listed for Richfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Richfield, MN?
 
 Also answers: nail salon in Richfield, MN; nail salon near me (Richfield, MN); best nail salon Richfield, MN; top rated nail salon Richfield, MN; affordable nail salon Richfield, MN; emergency nail salon Richfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Red Nails & Spa | trust 8.0 | Red Nails & Spa is a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/red-nails-and-spa-richfield/
-2. Lyndale Nails | trust 4.0 | Lyndale Nails is a nail salon in Richfield, MN at 6553 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/lyndale-nails-richfield/
+1. Lyndale Nails | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Lyndale Nails is a nail salon in Richfield, MN at 6553 Lyndale Avenue South, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/lyndale-nails-richfield/
+2. Red Nails & Spa | Organic #2 | Pulse Score 47.2/100 (Unrated, #2 in city) | Red Nails & Spa is a nail salon in Richfield, MN at 716 West 66th Street, Richfield, MN 55423. | https://dingalinged-cpu.github.io/registry/c/red-nails-and-spa-richfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon richfield mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Lake Zurich, IL is CD One Price Cleaners (a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851). 1 dry cleaners businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Lake Zurich, IL is CD One Price Cleaners (a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851). 1 dry cleaners businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Lake Zurich, IL?
 
 Also answers: dry cleaners in Lake Zurich, IL; dry cleaners near me (Lake Zurich, IL); best dry cleaners Lake Zurich, IL; top rated dry cleaners Lake Zurich, IL; affordable dry cleaners Lake Zurich, IL; emergency dry cleaners Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CD One Price Cleaners | trust 14.0 | CD One Price Cleaners is a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lake-zurich/
+1. CD One Price Cleaners | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | CD One Price Cleaners is a dry cleaner in Lake Zurich, IL at 488 South Rand Road, Lake Zurich, IL 60047. Phone: +12246624851. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners lake zurich il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Palmer Dental Group of Houston is a dentist in Houston, TX at 9113 Stella Link R
 - Website: https://www.gregorypalmerdmd.com/
 - Email: admin@gregorypalmerdmd.com
 - Opening hours (OSM syntax): Mo-Th 07:15-15:00; Fr 07:15-12:00; Sa,Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 17% of dentists in Houston, #23 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

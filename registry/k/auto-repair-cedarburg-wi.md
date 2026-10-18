@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Cedarburg, WI is Cedarburg Auto Repair and Service, Inc. (an auto repair shop in Cedarburg, WI at N133W6400 Pioneer Road, Cedarburg, WI 53012. Phone: +12623778485). 1 auto repair businesses are listed for Cedarburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Cedarburg, WI is Cedarburg Auto Repair and Service, Inc. (an auto repair shop in Cedarburg, WI at N133W6400 Pioneer Road, Cedarburg, WI 53012. Phone: +12623778485). 1 auto repair businesses are listed for Cedarburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Cedarburg, WI?
 
 Also answers: auto repair in Cedarburg, WI; auto repair near me (Cedarburg, WI); best auto repair Cedarburg, WI; top rated auto repair Cedarburg, WI; affordable auto repair Cedarburg, WI; emergency auto repair Cedarburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cedarburg Auto Repair and Service, Inc. | trust 10.0 | Cedarburg Auto Repair and Service, Inc. is an auto repair shop in Cedarburg, WI at N133W6400 Pioneer Road, Cedarburg, WI 53012. Phone: +12623778485. | https://dingalinged-cpu.github.io/registry/c/cedarburg-auto-repair-and-service-inc-cedarburg/
+1. Cedarburg Auto Repair and Service, Inc. | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Cedarburg Auto Repair and Service, Inc. is an auto repair shop in Cedarburg, WI at N133W6400 Pioneer Road, Cedarburg, WI 53012. Phone: +12623778485. | https://dingalinged-cpu.github.io/registry/c/cedarburg-auto-repair-and-service-inc-cedarburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair cedarburg wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

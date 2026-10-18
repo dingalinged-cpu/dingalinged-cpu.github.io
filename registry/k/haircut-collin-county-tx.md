@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Collin County, TX is Sharkey’s Cuts for Kids (a hair salon in Collin County, TX at 1640 West Frontier Parkway #110, Collin County, TX). 1 haircut businesses are listed for Collin County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Collin County, TX is Sharkey’s Cuts for Kids (a hair salon in Collin County, TX at 1640 West Frontier Parkway #110, Collin County, TX). 1 haircut businesses are listed for Collin County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Collin County, TX?
 
 Also answers: haircut in Collin County, TX; haircut near me (Collin County, TX); best haircut Collin County, TX; top rated haircut Collin County, TX; affordable haircut Collin County, TX; emergency haircut Collin County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sharkey’s Cuts for Kids | trust 3.0 | Sharkey’s Cuts for Kids is a hair salon in Collin County, TX at 1640 West Frontier Parkway #110, Collin County, TX. | https://dingalinged-cpu.github.io/registry/c/sharkey-s-cuts-for-kids-collin-county/
+1. Sharkey’s Cuts for Kids | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Sharkey’s Cuts for Kids is a hair salon in Collin County, TX at 1640 West Frontier Parkway #110, Collin County, TX. | https://dingalinged-cpu.github.io/registry/c/sharkey-s-cuts-for-kids-collin-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut collin county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

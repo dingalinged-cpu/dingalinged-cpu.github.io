@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Irving, TX is UPS Store (a printing service in Irving, TX at 3341, Irving, TX). 2 printing services businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Irving, TX is UPS Store (a printing service in Irving, TX at 3341, Irving, TX). 2 printing services businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Irving, TX?
 
 Also answers: printing services in Irving, TX; printing services near me (Irving, TX); best printing services Irving, TX; top rated printing services Irving, TX; affordable printing services Irving, TX; emergency printing services Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. UPS Store | trust 3.0 | UPS Store is a printing service in Irving, TX at 3341, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/ups-store-irving/
-2. The UPS Store | trust 0.0 | The UPS Store is a printing service in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-irving/
+1. UPS Store | Organic #1 | Pulse Score 43.1/100 (Building, #1 in city) | UPS Store is a printing service in Irving, TX at 3341, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/ups-store-irving/
+2. The UPS Store | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | The UPS Store is a printing service in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services irving tx | category: Professional & financial services | industry benchmark: Finance & Insurance

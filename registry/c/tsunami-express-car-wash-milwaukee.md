@@ -13,7 +13,7 @@ Tsunami Express Car Wash is a car wash in Milwaukee, WI at 5209 West Fond Du Lac
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 12% of car washes in Milwaukee, #4 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

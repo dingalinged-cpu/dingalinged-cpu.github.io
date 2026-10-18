@@ -1,13 +1,13 @@
-The top unpaid assisted living listing for Frisco, TX is Evergreen Assisted Living & Memory Care (an assisted living facility in Frisco, TX at 2828 Nature Way, Frisco, TX. Website: https://evergreenassistedcare.com/). 2 assisted living businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Frisco, TX is Evergreen Assisted Living & Memory Care (an assisted living facility in Frisco, TX at 2828 Nature Way, Frisco, TX. Website: https://evergreenassistedcare.com/). 2 assisted living businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Frisco, TX?
 
 Also answers: assisted living in Frisco, TX; assisted living near me (Frisco, TX); best assisted living Frisco, TX; top rated assisted living Frisco, TX; affordable assisted living Frisco, TX; emergency assisted living Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evergreen Assisted Living & Memory Care | trust 9.0 | Evergreen Assisted Living & Memory Care is an assisted living facility in Frisco, TX at 2828 Nature Way, Frisco, TX. Website: https://evergreenassistedcare.com/. | https://dingalinged-cpu.github.io/registry/c/evergreen-assisted-living-and-memory-care-frisco/
-2. Saddlebrook Oxford Memory Care | trust 3.0 | Saddlebrook Oxford Memory Care is an assisted living facility in Frisco, TX at 9966 Legacy Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/saddlebrook-oxford-memory-care-frisco/
+1. Evergreen Assisted Living & Memory Care | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Evergreen Assisted Living & Memory Care is an assisted living facility in Frisco, TX at 2828 Nature Way, Frisco, TX. Website: https://evergreenassistedcare.com/. | https://dingalinged-cpu.github.io/registry/c/evergreen-assisted-living-and-memory-care-frisco/
+2. Saddlebrook Oxford Memory Care | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Saddlebrook Oxford Memory Care is an assisted living facility in Frisco, TX at 9966 Legacy Drive, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/saddlebrook-oxford-memory-care-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living frisco tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

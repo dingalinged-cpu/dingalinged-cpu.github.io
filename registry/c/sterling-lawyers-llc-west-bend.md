@@ -13,7 +13,7 @@ Sterling Lawyers, LLC is a lawyer in West Bend, WI at 139 N Main St ##107, West 
 - Website: https://www.sterlinglawyers.com/wisconsin/locations/west-bend/
 - Email: office@sterlinglawyers.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 97% of lawyers in Milwaukee, #1 of 1 lawyers in West Bend (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

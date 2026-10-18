@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Naperville, IL at 1432 West Og
 - Website: https://www.extraspace.com/storage/facilities/us/illinois/naperville/900176
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 12% of self-storage facilitys in Chicago, #4 of 5 self-storage facilitys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

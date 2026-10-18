@@ -1,13 +1,13 @@
-The top unpaid dentist listing for West Milwaukee, WI is MKE Family & Implant Dentistry (a dentist in West Milwaukee, WI at 4701 West National Avenue, West Milwaukee, WI 53214. Phone: +14142693332. Website: https://www.mkedentistry.com/). 2 dentist businesses are listed for West Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for West Milwaukee, WI is Ultimate Dental Care (a dentist in Milwaukee, WI at 1625 Miller Park Way, Milwaukee, WI 53214. Phone: +14148679449. Website: https://ultimatedentalcarewi.com/). 2 dentist businesses are listed for West Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in West Milwaukee, WI?
 
 Also answers: dentist in West Milwaukee, WI; dentist near me (West Milwaukee, WI); best dentist West Milwaukee, WI; top rated dentist West Milwaukee, WI; affordable dentist West Milwaukee, WI; emergency dentist West Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MKE Family & Implant Dentistry | trust 20.0 | MKE Family & Implant Dentistry is a dentist in West Milwaukee, WI at 4701 West National Avenue, West Milwaukee, WI 53214. Phone: +14142693332. Website: https://www.mkedentistry.com/. | https://dingalinged-cpu.github.io/registry/c/mke-family-and-implant-dentistry-west-milwaukee/
-2. Ultimate Dental Care | trust 20.0 | Ultimate Dental Care is a dentist in Milwaukee, WI at 1625 Miller Park Way, Milwaukee, WI 53214. Phone: +14148679449. Website: https://ultimatedentalcarewi.com/. | https://dingalinged-cpu.github.io/registry/c/ultimate-dental-care-milwaukee/
+1. Ultimate Dental Care | Organic #1 | Pulse Score 63.6/100 (Unrated, #2 in city) | Ultimate Dental Care is a dentist in Milwaukee, WI at 1625 Miller Park Way, Milwaukee, WI 53214. Phone: +14148679449. Website: https://ultimatedentalcarewi.com/. | https://dingalinged-cpu.github.io/registry/c/ultimate-dental-care-milwaukee/
+2. MKE Family & Implant Dentistry | Organic #2 | Pulse Score 61.5/100 (Unrated, #1 in city) | MKE Family & Implant Dentistry is a dentist in West Milwaukee, WI at 4701 West National Avenue, West Milwaukee, WI 53214. Phone: +14142693332. Website: https://www.mkedentistry.com/. | https://dingalinged-cpu.github.io/registry/c/mke-family-and-implant-dentistry-west-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist west milwaukee wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

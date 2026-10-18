@@ -13,7 +13,7 @@ Allstate Insurance Agent - Sunday Fajemisin is an insurance agent in Kennesaw, G
 - Website: https://agents.allstate.com/sunday-a-fajemisin-kennesaw-ga.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa-Su "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 47% of insurance agents in Atlanta, #4 of 6 insurance agents in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.9, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

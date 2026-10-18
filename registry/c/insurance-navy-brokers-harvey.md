@@ -13,7 +13,7 @@ Insurance Navy Brokers is an insurance agent in Harvey, IL at 123 West 159th Str
 - Website: https://www.insurancenavy.com/locations/il/harvey/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 38% of insurance agents in Chicago, #1 of 1 insurance agents in Harvey (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

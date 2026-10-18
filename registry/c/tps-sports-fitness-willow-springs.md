@@ -13,7 +13,7 @@ TPS Sports+Fitness is a gym in Willow Springs, IL at 8300 Wolf Road, Willow Spri
 - Website: https://tpsfit.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-21:00; Sa-Su 08:00-18:00
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 5% of gyms in Chicago, #1 of 1 gyms in Willow Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

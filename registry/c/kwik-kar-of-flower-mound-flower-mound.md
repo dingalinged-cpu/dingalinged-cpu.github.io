@@ -13,7 +13,7 @@ Kwik Kar of Flower Mound is an auto repair shop in Flower Mound, TX at 1045 Cros
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 2% of auto repair shops in Dallas–Fort Worth, #1 of 11 auto repair shops in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

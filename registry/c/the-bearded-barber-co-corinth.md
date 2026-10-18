@@ -13,7 +13,7 @@ The Bearded Barber Co is a hair salon in Corinth, TX at 3901 Swisher Road, Corin
 - Website: https://www.thebeardedbarberco.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-16:00
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Dallas–Fort Worth, #1 of 3 hair salons in Corinth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

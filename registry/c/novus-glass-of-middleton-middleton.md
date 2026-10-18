@@ -13,7 +13,7 @@ Novus Glass of Middleton is an auto repair shop in Middleton, WI at 2225 Eagle D
 - Website: https://www.novusglass.com/en-us/shop/madison/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 68% of auto repair shops in Madison, #6 of 6 auto repair shops in Middleton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

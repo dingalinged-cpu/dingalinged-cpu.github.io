@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Willow Springs, IL is Zarzycki Manor Chapels (a funeral home in Willow Springs, IL at 8999 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.zarzyckimanorchapels.com/contact/willow-springs). 1 funeral home businesses are listed for Willow Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Willow Springs, IL is Zarzycki Manor Chapels (a funeral home in Willow Springs, IL at 8999 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.zarzyckimanorchapels.com/contact/willow-springs). 1 funeral home businesses are listed for Willow Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Willow Springs, IL?
 
 Also answers: funeral home in Willow Springs, IL; funeral home near me (Willow Springs, IL); best funeral home Willow Springs, IL; top rated funeral home Willow Springs, IL; affordable funeral home Willow Springs, IL; emergency funeral home Willow Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zarzycki Manor Chapels | trust 10.0 | Zarzycki Manor Chapels is a funeral home in Willow Springs, IL at 8999 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.zarzyckimanorchapels.com/contact/willow-springs. | https://dingalinged-cpu.github.io/registry/c/zarzycki-manor-chapels-willow-springs/
+1. Zarzycki Manor Chapels | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Zarzycki Manor Chapels is a funeral home in Willow Springs, IL at 8999 South Archer Avenue, Willow Springs, IL 60480. Website: https://www.zarzyckimanorchapels.com/contact/willow-springs. | https://dingalinged-cpu.github.io/registry/c/zarzycki-manor-chapels-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home willow springs il | category: Professional & financial services | industry benchmark: Finance & Insurance

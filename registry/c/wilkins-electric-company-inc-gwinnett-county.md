@@ -13,7 +13,7 @@ Wilkins Electric Company, Inc. is an electrician in Gwinnett County, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 100% of electricians in Atlanta, #2 of 2 electricians in Gwinnett County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 38.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

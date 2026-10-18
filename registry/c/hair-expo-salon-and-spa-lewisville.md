@@ -13,7 +13,7 @@ Hair Expo Salon & Spa is a skin care studio in Lewisville, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 48% of skin care studios in Dallas–Fort Worth, #2 of 3 skin care studios in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 38.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

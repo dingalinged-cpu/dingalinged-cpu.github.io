@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Alpharetta, GA is Little Creek Academy (a preschool in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17707534449. Website: https://www.littlecreekacademy.com/). 2 preschool businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Alpharetta, GA is Little Creek Academy (a preschool in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17707534449. Website: https://www.littlecreekacademy.com/). 2 preschool businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Alpharetta, GA?
 
 Also answers: preschool in Alpharetta, GA; preschool near me (Alpharetta, GA); best preschool Alpharetta, GA; top rated preschool Alpharetta, GA; affordable preschool Alpharetta, GA; emergency preschool Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Creek Academy | trust 16.0 | Little Creek Academy is a preschool in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17707534449. Website: https://www.littlecreekacademy.com/. | https://dingalinged-cpu.github.io/registry/c/little-creek-academy-alpharetta/
-2. The Goddard School | trust 4.0 | The Goddard School is a preschool in Alpharetta, GA at 2710 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-alpharetta/
+1. Little Creek Academy | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Little Creek Academy is a preschool in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +17707534449. Website: https://www.littlecreekacademy.com/. | https://dingalinged-cpu.github.io/registry/c/little-creek-academy-alpharetta/
+2. The Goddard School | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | The Goddard School is a preschool in Alpharetta, GA at 2710 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool alpharetta ga | category: Education & childcare | industry benchmark: Education & Instruction

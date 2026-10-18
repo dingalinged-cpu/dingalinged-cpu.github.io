@@ -1,13 +1,13 @@
-The top unpaid oil change listing for Madison, WI is Valvoline Instant Oil Change (an auto repair shop in Madison, WI at 5522 University Avenue, Madison, WI 53705. Website: https://store.vioc.com/wi/madison/oil-change-gr0032.html). 2 oil change businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Madison, WI is Valvoline Instant Oil Change (an auto repair shop in Madison, WI at 5522 University Avenue, Madison, WI 53705. Website: https://store.vioc.com/wi/madison/oil-change-gr0032.html). 2 oil change businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Madison, WI?
 
 Also answers: oil change in Madison, WI; oil change near me (Madison, WI); best oil change Madison, WI; top rated oil change Madison, WI; affordable oil change Madison, WI; emergency oil change Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline Instant Oil Change | trust 10.0 | Valvoline Instant Oil Change is an auto repair shop in Madison, WI at 5522 University Avenue, Madison, WI 53705. Website: https://store.vioc.com/wi/madison/oil-change-gr0032.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-madison/
-2. Valvoline | trust 0.0 | Valvoline is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-madison-w37783999/
+1. Valvoline Instant Oil Change | Organic #1 | Pulse Score 48.6/100 (Building, #36 in city) | Valvoline Instant Oil Change is an auto repair shop in Madison, WI at 5522 University Avenue, Madison, WI 53705. Website: https://store.vioc.com/wi/madison/oil-change-gr0032.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-madison/
+2. Valvoline | Organic #2 | Pulse Score 43.5/100 (Building, #49 in city) | Valvoline is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/valvoline-madison-w37783999/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change madison wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

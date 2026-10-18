@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Brookfield, WI is iLoveKickboxing.com (a martial arts school in Brookfield, WI at 2405 North 124th Street, Brookfield, WI 53005). 1 martial arts businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Brookfield, WI is iLoveKickboxing.com (a martial arts school in Brookfield, WI at 2405 North 124th Street, Brookfield, WI 53005). 1 martial arts businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Brookfield, WI?
 
 Also answers: martial arts in Brookfield, WI; martial arts near me (Brookfield, WI); best martial arts Brookfield, WI; top rated martial arts Brookfield, WI; affordable martial arts Brookfield, WI; emergency martial arts Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. iLoveKickboxing.com | trust 4.0 | iLoveKickboxing.com is a martial arts school in Brookfield, WI at 2405 North 124th Street, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/ilovekickboxing-com-brookfield/
+1. iLoveKickboxing.com | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | iLoveKickboxing.com is a martial arts school in Brookfield, WI at 2405 North 124th Street, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/ilovekickboxing-com-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts brookfield wi | category: Fitness | industry benchmark: Health & Fitness

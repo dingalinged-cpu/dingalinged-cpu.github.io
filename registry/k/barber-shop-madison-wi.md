@@ -1,15 +1,15 @@
-The top unpaid barber shop listing for Madison, WI is Leopold Men's Salon (a barber shop in Madison, WI at 124 South Carroll Street, Madison, WI). 4 barber shop businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Madison, WI is Leopold Men's Salon (a barber shop in Madison, WI at 124 South Carroll Street, Madison, WI). 4 barber shop businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Madison, WI?
 
 Also answers: barber shop in Madison, WI; barber shop near me (Madison, WI); best barber shop Madison, WI; top rated barber shop Madison, WI; affordable barber shop Madison, WI; emergency barber shop Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leopold Men's Salon | trust 3.0 | Leopold Men's Salon is a barber shop in Madison, WI at 124 South Carroll Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/leopold-mens-salon-madison/
-2. Capital City Barbers | trust 0.0 | Capital City Barbers is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/capital-city-barbers-madison/
-3. Country Clips | trust 0.0 | Country Clips is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/country-clips-madison/
-4. Headquarters Madison | trust 0.0 | Headquarters Madison is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/headquarters-madison-madison/
+1. Leopold Men's Salon | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Leopold Men's Salon is a barber shop in Madison, WI at 124 South Carroll Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/leopold-mens-salon-madison/
+2. Capital City Barbers | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Capital City Barbers is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/capital-city-barbers-madison/
+3. Country Clips | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Country Clips is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/country-clips-madison/
+4. Headquarters Madison | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Headquarters Madison is a barber shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/headquarters-madison-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop madison wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

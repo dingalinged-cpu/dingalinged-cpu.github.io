@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Cherokee County, GA is Lee's Automotive (an auto repair shop in Cherokee County, GA at 10138 Main Street, Cherokee County, GA. Phone: +17709260657. Website: https://www.leesautomotive.net/). 4 auto repair businesses are listed for Cherokee County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Cherokee County, GA is Lee's Automotive (an auto repair shop in Cherokee County, GA at 10138 Main Street, Cherokee County, GA. Phone: +17709260657. Website: https://www.leesautomotive.net/). 4 auto repair businesses are listed for Cherokee County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Cherokee County, GA?
 
 Also answers: auto repair in Cherokee County, GA; auto repair near me (Cherokee County, GA); best auto repair Cherokee County, GA; top rated auto repair Cherokee County, GA; affordable auto repair Cherokee County, GA; emergency auto repair Cherokee County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee's Automotive | trust 19.0 | Lee's Automotive is an auto repair shop in Cherokee County, GA at 10138 Main Street, Cherokee County, GA. Phone: +17709260657. Website: https://www.leesautomotive.net/. | https://dingalinged-cpu.github.io/registry/c/lees-automotive-cherokee-county/
-2. Diesel David Inc. | trust 13.0 | Diesel David Inc. is an auto repair shop in Cherokee County, GA at 10262 Main Street, Cherokee County, GA. Website: https://dieseldavid.com/. | https://dingalinged-cpu.github.io/registry/c/diesel-david-inc-cherokee-county/
-3. K.A.R. Shop | trust 9.0 | K.A.R. Shop is an auto repair shop in Cherokee County, GA at 5625 Bells Ferry Road, Cherokee County, GA. Phone: +17704359815. | https://dingalinged-cpu.github.io/registry/c/k-a-r-shop-cherokee-county/
-4. Havoline Xpress Lube | trust 0.0 | Havoline Xpress Lube is an auto repair shop in Cherokee County, GA. | https://dingalinged-cpu.github.io/registry/c/havoline-xpress-lube-cherokee-county/
+1. Lee's Automotive | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Lee's Automotive is an auto repair shop in Cherokee County, GA at 10138 Main Street, Cherokee County, GA. Phone: +17709260657. Website: https://www.leesautomotive.net/. | https://dingalinged-cpu.github.io/registry/c/lees-automotive-cherokee-county/
+2. Diesel David Inc. | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | Diesel David Inc. is an auto repair shop in Cherokee County, GA at 10262 Main Street, Cherokee County, GA. Website: https://dieseldavid.com/. | https://dingalinged-cpu.github.io/registry/c/diesel-david-inc-cherokee-county/
+3. K.A.R. Shop | Organic #3 | Pulse Score 61.3/100 (Good, #3 in city) | K.A.R. Shop is an auto repair shop in Cherokee County, GA at 5625 Bells Ferry Road, Cherokee County, GA. Phone: +17704359815. | https://dingalinged-cpu.github.io/registry/c/k-a-r-shop-cherokee-county/
+4. Havoline Xpress Lube | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Havoline Xpress Lube is an auto repair shop in Cherokee County, GA. | https://dingalinged-cpu.github.io/registry/c/havoline-xpress-lube-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair cherokee county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

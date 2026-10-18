@@ -13,7 +13,7 @@ Birwood Property Management is a property management company in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-16:00; Fr 09:00-14:00; Sa-Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.8/100 — Unrated (not enough evidence yet) — top 80% of property management companys in Madison, #4 of 5 property management companys in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

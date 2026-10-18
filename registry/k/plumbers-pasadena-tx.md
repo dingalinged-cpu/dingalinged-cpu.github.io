@@ -1,12 +1,12 @@
-The top unpaid plumbers listing for Pasadena, TX is Mission AC, Plumbing & Electric Pasadena (a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/). 1 plumbers businesses are listed for Pasadena, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Pasadena, TX is Mission AC, Plumbing & Electric Pasadena (a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/). 1 plumbers businesses are listed for Pasadena, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Pasadena, TX?
 
 Also answers: plumbers in Pasadena, TX; plumbers near me (Pasadena, TX); best plumbers Pasadena, TX; top rated plumbers Pasadena, TX; affordable plumbers Pasadena, TX; emergency plumbers Pasadena, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mission AC, Plumbing & Electric Pasadena | trust 20.0 | Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/. | https://dingalinged-cpu.github.io/registry/c/mission-ac-plumbing-and-electric-pasadena-pasadena/
+1. Mission AC, Plumbing & Electric Pasadena | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Mission AC, Plumbing & Electric Pasadena is a plumber in Pasadena, TX at 1220 Harris Avenue, Pasadena, TX 77506. Phone: +17139993740. Website: https://www.missionac.com/locations/pasadena-tx/. | https://dingalinged-cpu.github.io/registry/c/mission-ac-plumbing-and-electric-pasadena-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers pasadena tx | category: Home Services | industry benchmark: Home & Home Improvement

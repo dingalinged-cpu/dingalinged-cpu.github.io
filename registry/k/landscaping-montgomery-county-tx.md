@@ -1,12 +1,12 @@
-The top unpaid landscaping listing for Montgomery County, TX is Texas Timber Resources (a landscaping company in Montgomery County, TX). 1 landscaping businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Montgomery County, TX is Texas Timber Resources (a landscaping company in Montgomery County, TX). 1 landscaping businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Montgomery County, TX?
 
 Also answers: landscaping in Montgomery County, TX; landscaping near me (Montgomery County, TX); best landscaping Montgomery County, TX; top rated landscaping Montgomery County, TX; affordable landscaping Montgomery County, TX; emergency landscaping Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Timber Resources | trust 0.0 | Texas Timber Resources is a landscaping company in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-timber-resources-montgomery-county/
+1. Texas Timber Resources | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Texas Timber Resources is a landscaping company in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-timber-resources-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping montgomery county tx | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

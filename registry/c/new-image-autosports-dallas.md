@@ -13,7 +13,7 @@ New Image Autosports is an auto repair shop in Dallas, TX at 10236 Garland Road,
 - Website: https://www.newimageautosports.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 17% of auto repair shops in Dallas–Fort Worth, #20 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

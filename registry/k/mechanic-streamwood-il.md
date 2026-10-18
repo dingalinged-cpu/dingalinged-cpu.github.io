@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for Streamwood, IL is AW Auto Repair Inc (an auto repair shop in Streamwood, IL at 1540 Burgundy Parkway, Streamwood, IL 60107). 6 mechanic businesses are listed for Streamwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Streamwood, IL is AW Auto Repair Inc (an auto repair shop in Streamwood, IL at 1540 Burgundy Parkway, Streamwood, IL 60107). 6 mechanic businesses are listed for Streamwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Streamwood, IL?
 
 Also answers: mechanic in Streamwood, IL; mechanic near me (Streamwood, IL); best mechanic Streamwood, IL; top rated mechanic Streamwood, IL; affordable mechanic Streamwood, IL; emergency mechanic Streamwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AW Auto Repair Inc | trust 4.0 | AW Auto Repair Inc is an auto repair shop in Streamwood, IL at 1540 Burgundy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/aw-auto-repair-inc-streamwood/
-2. Barrington Shins Auto Inc | trust 4.0 | Barrington Shins Auto Inc is an auto repair shop in Streamwood, IL at 1539 Burgundy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/barrington-shins-auto-inc-streamwood/
-3. Eugene's Auto Services | trust 4.0 | Eugene's Auto Services is an auto repair shop in Streamwood, IL at 1550 Brandy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/eugenes-auto-services-streamwood/
-4. Lord's Auto Care Service | trust 4.0 | Lord's Auto Care Service is an auto repair shop in Streamwood, IL at 265 East Irving Park Road, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/lords-auto-care-service-streamwood/
-5. Mak's Auto Repair | trust 0.0 | Mak's Auto Repair is an auto repair shop in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/maks-auto-repair-streamwood/
-6. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/pep-boys-streamwood/
+1. AW Auto Repair Inc | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | AW Auto Repair Inc is an auto repair shop in Streamwood, IL at 1540 Burgundy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/aw-auto-repair-inc-streamwood/
+2. Barrington Shins Auto Inc | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Barrington Shins Auto Inc is an auto repair shop in Streamwood, IL at 1539 Burgundy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/barrington-shins-auto-inc-streamwood/
+3. Eugene's Auto Services | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Eugene's Auto Services is an auto repair shop in Streamwood, IL at 1550 Brandy Parkway, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/eugenes-auto-services-streamwood/
+4. Lord's Auto Care Service | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Lord's Auto Care Service is an auto repair shop in Streamwood, IL at 265 East Irving Park Road, Streamwood, IL 60107. | https://dingalinged-cpu.github.io/registry/c/lords-auto-care-service-streamwood/
+5. Mak's Auto Repair | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Mak's Auto Repair is an auto repair shop in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/maks-auto-repair-streamwood/
+6. Pep Boys | Organic #6 | Pulse Score 41.7/100 (Building, #6 in city) | Pep Boys is an auto repair shop in Streamwood, IL. | https://dingalinged-cpu.github.io/registry/c/pep-boys-streamwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic streamwood il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

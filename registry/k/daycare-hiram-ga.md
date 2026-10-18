@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Hiram, GA is Childcare Network (a daycare in Hiram, GA). 1 daycare businesses are listed for Hiram, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Hiram, GA is Childcare Network (a daycare in Hiram, GA). 1 daycare businesses are listed for Hiram, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Hiram, GA?
 
 Also answers: daycare in Hiram, GA; daycare near me (Hiram, GA); best daycare Hiram, GA; top rated daycare Hiram, GA; affordable daycare Hiram, GA; emergency daycare Hiram, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Childcare Network | trust 0.0 | Childcare Network is a daycare in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/childcare-network-hiram/
+1. Childcare Network | Organic #1 | Pulse Score 42.3/100 (Unrated, #1 in city) | Childcare Network is a daycare in Hiram, GA. | https://dingalinged-cpu.github.io/registry/c/childcare-network-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare hiram ga | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Spenga is a gym in Marietta, GA at 1311 Johnson Ferry Road Northeast #150, Marie
 - Website: https://mariettaeastcobb.spenga.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:15-19:00; Sa-Su 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.9/100 — Fair — top 49% of gyms in Atlanta, #12 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.3, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

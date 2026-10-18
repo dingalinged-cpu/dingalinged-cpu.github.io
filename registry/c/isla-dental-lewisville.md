@@ -13,7 +13,7 @@ Isla Dental is a dentist in Lewisville, TX. Phone: +19452500530. Website: https:
 - Website: https://www.islafd.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 09:30-14:30; PH off
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 2% of dentists in Dallas–Fort Worth, #2 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

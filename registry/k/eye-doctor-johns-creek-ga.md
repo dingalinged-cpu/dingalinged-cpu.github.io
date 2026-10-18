@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Johns Creek, GA is Marietta Eye Clinic - Johns Creek (an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/). 2 eye doctor businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Johns Creek, GA is Marietta Eye Clinic - Johns Creek (an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/). 2 eye doctor businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Johns Creek, GA?
 
 Also answers: eye doctor in Johns Creek, GA; eye doctor near me (Johns Creek, GA); best eye doctor Johns Creek, GA; top rated eye doctor Johns Creek, GA; affordable eye doctor Johns Creek, GA; emergency eye doctor Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marietta Eye Clinic - Johns Creek | trust 20.0 | Marietta Eye Clinic - Johns Creek is an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/. | https://dingalinged-cpu.github.io/registry/c/marietta-eye-clinic-johns-creek-johns-creek/
-2. Johns Creek Eyecare | trust 0.0 | Johns Creek Eyecare is an eye care practice in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/johns-creek-eyecare-johns-creek/
+1. Marietta Eye Clinic - Johns Creek | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Marietta Eye Clinic - Johns Creek is an eye care practice in Johns Creek, GA at 4025 Johns Creek Court #200, Johns Creek, GA 30024. Phone: +16784392451. Website: https://www.mariettaeye.com/our-locations/johns-creek/. | https://dingalinged-cpu.github.io/registry/c/marietta-eye-clinic-johns-creek-johns-creek/
+2. Johns Creek Eyecare | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Johns Creek Eyecare is an eye care practice in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/johns-creek-eyecare-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor johns creek ga | category: Health & medical | industry benchmark: Physicians & Surgeons

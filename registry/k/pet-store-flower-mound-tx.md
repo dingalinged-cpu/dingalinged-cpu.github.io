@@ -1,16 +1,16 @@
-The top unpaid pet store listing for Flower Mound, TX is Dallas Parrots (a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/). 5 pet store businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Flower Mound, TX is Dallas Parrots (a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/). 5 pet store businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Flower Mound, TX?
 
 Also answers: pet store in Flower Mound, TX; pet store near me (Flower Mound, TX); best pet store Flower Mound, TX; top rated pet store Flower Mound, TX; affordable pet store Flower Mound, TX; emergency pet store Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dallas Parrots | trust 16.0 | Dallas Parrots is a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-parrots-flower-mound/
-2. CityVet | trust 13.0 | CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flower Mound, TX. Phone: +19723552124. | https://dingalinged-cpu.github.io/registry/c/cityvet-flower-mound/
-3. Hollywood Feed | trust 10.0 | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-flower-mound/
-4. Petbar | trust 3.0 | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-flower-mound/
-5. PetSmart | trust 0.0 | PetSmart is a pet store in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-flower-mound/
+1. Dallas Parrots | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Dallas Parrots is a pet store in Flower Mound, TX. Phone: +14697060972. Website: https://www.dallasparrots.com/. | https://dingalinged-cpu.github.io/registry/c/dallas-parrots-flower-mound/
+2. CityVet | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | CityVet is a pet store in Flower Mound, TX at 1221-2 Flower Mound Road #319, Flower Mound, TX. Phone: +19723552124. | https://dingalinged-cpu.github.io/registry/c/cityvet-flower-mound/
+3. Hollywood Feed | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Hollywood Feed is a pet store in Flower Mound, TX. Website: https://www.hollywoodfeed.com/. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-flower-mound/
+4. Petbar | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Petbar is a pet store in Flower Mound, TX at 4610 Long Prairie Rd, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petbar-flower-mound/
+5. PetSmart | Organic #5 | Pulse Score 41.1/100 (Building, #5 in city) | PetSmart is a pet store in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/petsmart-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store flower mound tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

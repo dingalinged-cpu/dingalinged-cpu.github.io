@@ -13,7 +13,7 @@ Salon Sen is a hair salon in Chicago, IL at 3740 North Halsted Street, Chicago, 
 - Website: https://www.salonsen.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; We 11:00-09:00; Sa 08:00-05:00; Su off
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Chicago, #9 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

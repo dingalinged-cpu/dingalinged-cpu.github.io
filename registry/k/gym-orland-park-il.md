@@ -1,15 +1,15 @@
-The top unpaid gym listing for Orland Park, IL is Life Time (a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park, IL 60467. Phone: +17083640300. Website: https://www.lifetime.life/life-time-locations/il-orland-park.html). 4 gym businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Orland Park, IL is Sportsplex (a gym in Orland Park, IL at 11351 West 159th Street, Orland Park, IL 60467. Phone: +17084035000. Website: https://orlandpark.org/). 4 gym businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Orland Park, IL?
 
 Also answers: gym in Orland Park, IL; gym near me (Orland Park, IL); best gym Orland Park, IL; top rated gym Orland Park, IL; affordable gym Orland Park, IL; emergency gym Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 20.0 | Life Time is a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park, IL 60467. Phone: +17083640300. Website: https://www.lifetime.life/life-time-locations/il-orland-park.html. | https://dingalinged-cpu.github.io/registry/c/life-time-orland-park/
-2. Sportsplex | trust 20.0 | Sportsplex is a gym in Orland Park, IL at 11351 West 159th Street, Orland Park, IL 60467. Phone: +17084035000. Website: https://orlandpark.org/. | https://dingalinged-cpu.github.io/registry/c/sportsplex-orland-park/
-3. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Orland Park, IL at 15200 South LaGrange Road, Orland Park, IL 60462. Phone: +17088608292. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-orland-park/
-4. F45 Training | trust 4.0 | F45 Training is a gym in Orland Park, IL at 15762 South La Grange Road, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/f45-training-orland-park/
+1. Sportsplex | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Sportsplex is a gym in Orland Park, IL at 11351 West 159th Street, Orland Park, IL 60467. Phone: +17084035000. Website: https://orlandpark.org/. | https://dingalinged-cpu.github.io/registry/c/sportsplex-orland-park/
+2. Life Time | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Life Time is a gym in Orland Park, IL at 16333 South La Grange Road, Orland Park, IL 60467. Phone: +17083640300. Website: https://www.lifetime.life/life-time-locations/il-orland-park.html. | https://dingalinged-cpu.github.io/registry/c/life-time-orland-park/
+3. Orangetheory Fitness | Organic #3 | Pulse Score 47/100 (Building, #3 in city) | Orangetheory Fitness is a gym in Orland Park, IL at 15200 South LaGrange Road, Orland Park, IL 60462. Phone: +17088608292. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-orland-park/
+4. F45 Training | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | F45 Training is a gym in Orland Park, IL at 15762 South La Grange Road, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/f45-training-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym orland park il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,12 +1,12 @@
-The top unpaid orthopedic surgeon listing for Forest Park, GA is Barbour Orthopaedics (an orthopedic surgeon in Forest Park, GA). 1 orthopedic surgeon businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Forest Park, GA is Barbour Orthopaedics (an orthopedic surgeon in Forest Park, GA). 1 orthopedic surgeon businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Forest Park, GA?
 
 Also answers: orthopedic surgeon in Forest Park, GA; orthopedic surgeon near me (Forest Park, GA); best orthopedic surgeon Forest Park, GA; top rated orthopedic surgeon Forest Park, GA; affordable orthopedic surgeon Forest Park, GA; emergency orthopedic surgeon Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barbour Orthopaedics | trust 0.0 | Barbour Orthopaedics is an orthopedic surgeon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/barbour-orthopaedics-forest-park/
+1. Barbour Orthopaedics | Organic #1 | Pulse Score 53.5/100 (Unrated, #1 in city) | Barbour Orthopaedics is an orthopedic surgeon in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/barbour-orthopaedics-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon forest park ga | category: Health & medical | industry benchmark: Physicians & Surgeons

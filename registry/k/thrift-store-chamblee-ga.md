@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Chamblee, GA is A Simple Find Consignment Designer Outlet Mall (a thrift store in Chamblee, GA). 1 thrift store businesses are listed for Chamblee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Chamblee, GA is A Simple Find Consignment Designer Outlet Mall (a thrift store in Chamblee, GA). 1 thrift store businesses are listed for Chamblee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Chamblee, GA?
 
 Also answers: thrift store in Chamblee, GA; thrift store near me (Chamblee, GA); best thrift store Chamblee, GA; top rated thrift store Chamblee, GA; affordable thrift store Chamblee, GA; emergency thrift store Chamblee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Simple Find Consignment Designer Outlet Mall | trust 0.0 | A Simple Find Consignment Designer Outlet Mall is a thrift store in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/a-simple-find-consignment-designer-outlet-mall-chamblee/
+1. A Simple Find Consignment Designer Outlet Mall | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | A Simple Find Consignment Designer Outlet Mall is a thrift store in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/a-simple-find-consignment-designer-outlet-mall-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store chamblee ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

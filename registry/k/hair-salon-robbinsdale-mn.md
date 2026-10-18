@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Robbinsdale, MN is Changez Barbershop (a hair salon in Robbinsdale, MN at 3747 West Broadway Avenue, Robbinsdale, MN 55422). 3 hair salon businesses are listed for Robbinsdale, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Robbinsdale, MN is Changez Barbershop (a hair salon in Robbinsdale, MN at 3747 West Broadway Avenue, Robbinsdale, MN 55422). 3 hair salon businesses are listed for Robbinsdale, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Robbinsdale, MN?
 
 Also answers: hair salon in Robbinsdale, MN; hair salon near me (Robbinsdale, MN); best hair salon Robbinsdale, MN; top rated hair salon Robbinsdale, MN; affordable hair salon Robbinsdale, MN; emergency hair salon Robbinsdale, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Changez Barbershop | trust 4.0 | Changez Barbershop is a hair salon in Robbinsdale, MN at 3747 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/changez-barbershop-robbinsdale/
-2. Dulce Salon | trust 4.0 | Dulce Salon is a hair salon in Robbinsdale, MN at 3754 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/dulce-salon-robbinsdale/
-3. Salon HALO | trust 0.0 | Salon HALO is a hair salon in Robbinsdale, MN. | https://dingalinged-cpu.github.io/registry/c/salon-halo-robbinsdale/
+1. Changez Barbershop | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Changez Barbershop is a hair salon in Robbinsdale, MN at 3747 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/changez-barbershop-robbinsdale/
+2. Dulce Salon | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Dulce Salon is a hair salon in Robbinsdale, MN at 3754 West Broadway Avenue, Robbinsdale, MN 55422. | https://dingalinged-cpu.github.io/registry/c/dulce-salon-robbinsdale/
+3. Salon HALO | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Salon HALO is a hair salon in Robbinsdale, MN. | https://dingalinged-cpu.github.io/registry/c/salon-halo-robbinsdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon robbinsdale mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Baytown, TX is Geoffrey Guill, Attorney At Law (a lawyer in Baytown, TX at 4721 Garth Road #Suite B-200, Baytown, TX 77521. Phone: +12814224995. Website: https://www.guill-law.com/). 1 attorney businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Baytown, TX is Geoffrey Guill, Attorney At Law (a lawyer in Baytown, TX at 4721 Garth Road #Suite B-200, Baytown, TX 77521. Phone: +12814224995. Website: https://www.guill-law.com/). 1 attorney businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Baytown, TX?
 
 Also answers: attorney in Baytown, TX; attorney near me (Baytown, TX); best attorney Baytown, TX; top rated attorney Baytown, TX; affordable attorney Baytown, TX; emergency attorney Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Geoffrey Guill, Attorney At Law | trust 20.0 | Geoffrey Guill, Attorney At Law is a lawyer in Baytown, TX at 4721 Garth Road #Suite B-200, Baytown, TX 77521. Phone: +12814224995. Website: https://www.guill-law.com/. | https://dingalinged-cpu.github.io/registry/c/geoffrey-guill-attorney-at-law-baytown/
+1. Geoffrey Guill, Attorney At Law | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Geoffrey Guill, Attorney At Law is a lawyer in Baytown, TX at 4721 Garth Road #Suite B-200, Baytown, TX 77521. Phone: +12814224995. Website: https://www.guill-law.com/. | https://dingalinged-cpu.github.io/registry/c/geoffrey-guill-attorney-at-law-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney baytown tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

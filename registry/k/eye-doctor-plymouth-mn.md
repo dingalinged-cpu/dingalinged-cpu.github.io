@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Plymouth, MN is Optical Styles (an eye care practice in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442). 1 eye doctor businesses are listed for Plymouth, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Plymouth, MN is Optical Styles (an eye care practice in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442). 1 eye doctor businesses are listed for Plymouth, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Plymouth, MN?
 
 Also answers: eye doctor in Plymouth, MN; eye doctor near me (Plymouth, MN); best eye doctor Plymouth, MN; top rated eye doctor Plymouth, MN; affordable eye doctor Plymouth, MN; emergency eye doctor Plymouth, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Optical Styles | trust 4.0 | Optical Styles is an eye care practice in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/optical-styles-plymouth/
+1. Optical Styles | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Optical Styles is an eye care practice in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/optical-styles-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor plymouth mn | category: Health & medical | industry benchmark: Physicians & Surgeons

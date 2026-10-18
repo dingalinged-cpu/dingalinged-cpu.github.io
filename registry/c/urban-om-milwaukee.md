@@ -13,7 +13,7 @@ Urban Om is a yoga studio in Milwaukee, WI at 2410 North Farwell Avenue, Milwauk
 - Website: https://www.urbanommke.com/
 - Email: yoga@urbanommke.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 23% of yoga studios in Milwaukee, #4 of 9 yoga studios in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

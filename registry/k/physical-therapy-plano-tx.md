@@ -1,15 +1,15 @@
-The top unpaid physical therapy listing for Plano, TX is ATI Physical Therapy (a physical therapy clinic in Plano, TX at 9613 Coit Road #110, Plano, TX 75024. Phone: +19455444792). 4 physical therapy businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Plano, TX is Clair Physical Therapy (a physical therapy clinic in Plano, TX at 4621 West Park Boulevard #102, Plano, TX 75093). 4 physical therapy businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Plano, TX?
 
 Also answers: physical therapy in Plano, TX; physical therapy near me (Plano, TX); best physical therapy Plano, TX; top rated physical therapy Plano, TX; affordable physical therapy Plano, TX; emergency physical therapy Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Physical Therapy | trust 10.0 | ATI Physical Therapy is a physical therapy clinic in Plano, TX at 9613 Coit Road #110, Plano, TX 75024. Phone: +19455444792. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-plano/
-2. Clair Physical Therapy | trust 4.0 | Clair Physical Therapy is a physical therapy clinic in Plano, TX at 4621 West Park Boulevard #102, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/clair-physical-therapy-plano/
-3. Covenant Hand Therapy | trust 4.0 | Covenant Hand Therapy is a physical therapy clinic in Plano, TX at 1101 Ohio Drive #105, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/covenant-hand-therapy-plano/
-4. Sullivan Chiropractic Center | trust 4.0 | Sullivan Chiropractic Center is a physical therapy clinic in Plano, TX at 428 Maplelawn Drive #100, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/sullivan-chiropractic-center-plano/
+1. Clair Physical Therapy | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Clair Physical Therapy is a physical therapy clinic in Plano, TX at 4621 West Park Boulevard #102, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/clair-physical-therapy-plano/
+2. Covenant Hand Therapy | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Covenant Hand Therapy is a physical therapy clinic in Plano, TX at 1101 Ohio Drive #105, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/covenant-hand-therapy-plano/
+3. Sullivan Chiropractic Center | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Sullivan Chiropractic Center is a physical therapy clinic in Plano, TX at 428 Maplelawn Drive #100, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/sullivan-chiropractic-center-plano/
+4. ATI Physical Therapy | Organic #4 | Pulse Score 47.3/100 (Building, #4 in city) | ATI Physical Therapy is a physical therapy clinic in Plano, TX at 9613 Coit Road #110, Plano, TX 75024. Phone: +19455444792. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy plano tx | category: Health & medical | industry benchmark: Physicians & Surgeons

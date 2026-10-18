@@ -1,22 +1,22 @@
-The top unpaid hair salon listing for Eden Prairie, MN is The Hair District (a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/). 11 hair salon businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Eden Prairie, MN is The Hair District (a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/). 11 hair salon businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Eden Prairie, MN?
 
 Also answers: hair salon in Eden Prairie, MN; hair salon near me (Eden Prairie, MN); best hair salon Eden Prairie, MN; top rated hair salon Eden Prairie, MN; affordable hair salon Eden Prairie, MN; emergency hair salon Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hair District | trust 20.0 | The Hair District is a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/. | https://dingalinged-cpu.github.io/registry/c/the-hair-district-eden-prairie/
-2. Gent Cuts and Grooming | trust 8.0 | Gent Cuts and Grooming is a hair salon in Eden Prairie, MN at 12900 Technology Drive #180, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/gent-cuts-and-grooming-eden-prairie/
-3. Kong's Beauty | trust 8.0 | Kong's Beauty is a hair salon in Eden Prairie, MN at 12160 Technology Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/kongs-beauty-eden-prairie/
-4. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Eden Prairie, MN at 10165 Hennepin Town Road #107, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-eden-prairie/
-5. Salon Lofts | trust 4.0 | Salon Lofts is a hair salon in Eden Prairie, MN at 8030 Glen Lane, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-eden-prairie/
-6. Sola Salons | trust 4.0 | Sola Salons is a hair salon in Eden Prairie, MN at 10260 Viking Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sola-salons-eden-prairie/
-7. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Eden Prairie, MN at 8045 Flying Cloud Drive #120, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sport-clips-eden-prairie/
-8. Dick's Sports Barbers | trust 0.0 | Dick's Sports Barbers is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-eden-prairie/
-9. Flagship Salon | trust 0.0 | Flagship Salon is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/flagship-salon-eden-prairie/
-10. GiVan's Salon & Spa | trust 0.0 | GiVan's Salon & Spa is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/givans-salon-and-spa-eden-prairie/
-11. Great Clips | trust 0.0 | Great Clips is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-eden-prairie/
+1. The Hair District | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | The Hair District is a hair salon in Eden Prairie, MN at 12573 Castlemoor Drive, Eden Prairie, MN 55344. Phone: +19529035353. Website: https://www.thehairdistrict.com/. | https://dingalinged-cpu.github.io/registry/c/the-hair-district-eden-prairie/
+2. Gent Cuts and Grooming | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Gent Cuts and Grooming is a hair salon in Eden Prairie, MN at 12900 Technology Drive #180, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/gent-cuts-and-grooming-eden-prairie/
+3. Kong's Beauty | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Kong's Beauty is a hair salon in Eden Prairie, MN at 12160 Technology Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/kongs-beauty-eden-prairie/
+4. Dick's Sports Barbers | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Dick's Sports Barbers is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/dicks-sports-barbers-eden-prairie/
+5. Flagship Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Flagship Salon is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/flagship-salon-eden-prairie/
+6. GiVan's Salon & Spa | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | GiVan's Salon & Spa is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/givans-salon-and-spa-eden-prairie/
+7. Fantastic Sams | Organic #7 | Pulse Score 45.2/100 (Building, #7 in city) | Fantastic Sams is a hair salon in Eden Prairie, MN at 10165 Hennepin Town Road #107, Eden Prairie, MN 55347. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-eden-prairie/
+8. Sport Clips | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Sport Clips is a hair salon in Eden Prairie, MN at 8045 Flying Cloud Drive #120, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sport-clips-eden-prairie/
+9. Salon Lofts | Organic #9 | Pulse Score 43.7/100 (Unrated, #9 in city) | Salon Lofts is a hair salon in Eden Prairie, MN at 8030 Glen Lane, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/salon-lofts-eden-prairie/
+10. Sola Salons | Organic #10 | Pulse Score 43.7/100 (Unrated, #10 in city) | Sola Salons is a hair salon in Eden Prairie, MN at 10260 Viking Drive, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/sola-salons-eden-prairie/
+11. Great Clips | Organic #11 | Pulse Score 42.3/100 (Building, #11 in city) | Great Clips is a hair salon in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon eden prairie mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

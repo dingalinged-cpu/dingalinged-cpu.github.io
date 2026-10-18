@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Glenwood, IL is Delta Sonic Car Wash (a car wash in Glenwood, IL at 18225 Halsted Street, Glenwood, IL 60425). 1 car wash businesses are listed for Glenwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Glenwood, IL is Delta Sonic Car Wash (a car wash in Glenwood, IL at 18225 Halsted Street, Glenwood, IL 60425). 1 car wash businesses are listed for Glenwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Glenwood, IL?
 
 Also answers: car wash in Glenwood, IL; car wash near me (Glenwood, IL); best car wash Glenwood, IL; top rated car wash Glenwood, IL; affordable car wash Glenwood, IL; emergency car wash Glenwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Delta Sonic Car Wash | trust 4.0 | Delta Sonic Car Wash is a car wash in Glenwood, IL at 18225 Halsted Street, Glenwood, IL 60425. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-glenwood/
+1. Delta Sonic Car Wash | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | Delta Sonic Car Wash is a car wash in Glenwood, IL at 18225 Halsted Street, Glenwood, IL 60425. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-glenwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash glenwood il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

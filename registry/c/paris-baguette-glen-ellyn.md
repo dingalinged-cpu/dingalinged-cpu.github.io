@@ -13,7 +13,7 @@ Paris Baguette is a bakery in Glen Ellyn, IL at 549 Roosevelt Road, Glen Ellyn, 
 - Website: https://parisbaguette.com/locations/il/glen-ellyn/549-roosevelt-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 91% of bakerys in Chicago, #1 of 1 bakerys in Glen Ellyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

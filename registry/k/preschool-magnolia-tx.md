@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Magnolia, TX is The Academy - Early Learning Center (a preschool in Magnolia, TX at 5620 FM 1488, Magnolia, TX 77354. Phone: +19363218458). 2 preschool businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Magnolia, TX is The Academy - Early Learning Center (a preschool in Magnolia, TX at 5620 FM 1488, Magnolia, TX 77354. Phone: +19363218458). 2 preschool businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Magnolia, TX?
 
 Also answers: preschool in Magnolia, TX; preschool near me (Magnolia, TX); best preschool Magnolia, TX; top rated preschool Magnolia, TX; affordable preschool Magnolia, TX; emergency preschool Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Academy - Early Learning Center | trust 10.0 | The Academy - Early Learning Center is a preschool in Magnolia, TX at 5620 FM 1488, Magnolia, TX 77354. Phone: +19363218458. | https://dingalinged-cpu.github.io/registry/c/the-academy-early-learning-center-magnolia/
-2. Children's Universe | trust 3.0 | Children's Universe is a preschool in Magnolia, TX at 32915 FM 2978, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/childrens-universe-magnolia/
+1. The Academy - Early Learning Center | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | The Academy - Early Learning Center is a preschool in Magnolia, TX at 5620 FM 1488, Magnolia, TX 77354. Phone: +19363218458. | https://dingalinged-cpu.github.io/registry/c/the-academy-early-learning-center-magnolia/
+2. Children's Universe | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Children's Universe is a preschool in Magnolia, TX at 32915 FM 2978, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/childrens-universe-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool magnolia tx | category: Education & childcare | industry benchmark: Education & Instruction

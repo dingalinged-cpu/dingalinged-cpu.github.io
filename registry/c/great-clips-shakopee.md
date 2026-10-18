@@ -13,7 +13,7 @@ Great Clips is a hair salon in Shakopee, MN at 1172, Shakopee, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-21:00; Sa 8:00-18:00; Su 9:00-16:00
-- Registry Score: 45.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.6/100 — Building — top 84% of hair salons in Minneapolis–St. Paul, #2 of 4 hair salons in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 51. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Excelsior, MN is Bird House Inn (an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/). 1 event venues businesses are listed for Excelsior, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Excelsior, MN is Bird House Inn (an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/). 1 event venues businesses are listed for Excelsior, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Excelsior, MN?
 
 Also answers: event venues in Excelsior, MN; event venues near me (Excelsior, MN); best event venues Excelsior, MN; top rated event venues Excelsior, MN; affordable event venues Excelsior, MN; emergency event venues Excelsior, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bird House Inn | trust 10.0 | Bird House Inn is an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/. | https://dingalinged-cpu.github.io/registry/c/bird-house-inn-excelsior/
+1. Bird House Inn | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Bird House Inn is an event venue in Excelsior, MN at 371 Water Street, Excelsior, MN 55331. Website: https://www.birdhouseinn.com/. | https://dingalinged-cpu.github.io/registry/c/bird-house-inn-excelsior/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues excelsior mn | category: Events & weddings | industry benchmark: Personal Services

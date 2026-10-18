@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Lewisville, TX is Cell Phone Repair (a phone repair shop in Lewisville, TX. Phone: +19723152060). 1 phone repair businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Lewisville, TX is Cell Phone Repair (a phone repair shop in Lewisville, TX. Phone: +19723152060). 1 phone repair businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Lewisville, TX?
 
 Also answers: phone repair in Lewisville, TX; phone repair near me (Lewisville, TX); best phone repair Lewisville, TX; top rated phone repair Lewisville, TX; affordable phone repair Lewisville, TX; emergency phone repair Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | trust 10.0 | Cell Phone Repair is a phone repair shop in Lewisville, TX. Phone: +19723152060. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-lewisville/
+1. Cell Phone Repair | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Lewisville, TX. Phone: +19723152060. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair lewisville tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

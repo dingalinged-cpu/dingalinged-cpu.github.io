@@ -1,12 +1,12 @@
-The top unpaid florist listing for Spring Park, MN is Bayside Just Because...Floral and Gifts (a florist in Spring Park, MN at 4310 Shoreline Drive, Spring Park, MN 55384. Phone: +19524718409). 1 florist businesses are listed for Spring Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Spring Park, MN is Bayside Just Because...Floral and Gifts (a florist in Spring Park, MN at 4310 Shoreline Drive, Spring Park, MN 55384. Phone: +19524718409). 1 florist businesses are listed for Spring Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Spring Park, MN?
 
 Also answers: florist in Spring Park, MN; florist near me (Spring Park, MN); best florist Spring Park, MN; top rated florist Spring Park, MN; affordable florist Spring Park, MN; emergency florist Spring Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bayside Just Because...Floral and Gifts | trust 10.0 | Bayside Just Because...Floral and Gifts is a florist in Spring Park, MN at 4310 Shoreline Drive, Spring Park, MN 55384. Phone: +19524718409. | https://dingalinged-cpu.github.io/registry/c/bayside-just-because-floral-and-gifts-spring-park/
+1. Bayside Just Because...Floral and Gifts | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Bayside Just Because...Floral and Gifts is a florist in Spring Park, MN at 4310 Shoreline Drive, Spring Park, MN 55384. Phone: +19524718409. | https://dingalinged-cpu.github.io/registry/c/bayside-just-because-floral-and-gifts-spring-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist spring park mn | category: Events & weddings | industry benchmark: Personal Services

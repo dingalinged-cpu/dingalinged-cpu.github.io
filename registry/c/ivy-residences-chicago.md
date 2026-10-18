@@ -13,7 +13,7 @@ Ivy Residences is a real estate agency in Chicago, IL at 1421 East 53rd Street #
 - Website: https://rentivy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-17:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 11% of real estate agencys in Chicago, #9 of 69 real estate agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

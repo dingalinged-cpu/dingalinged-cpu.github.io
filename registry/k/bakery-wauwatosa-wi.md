@@ -1,15 +1,15 @@
-The top unpaid bakery listing for Wauwatosa, WI is Rocket Baby Bakery (a bakery in Wauwatosa, WI at 6822 West North Avenue, Wauwatosa, WI 53213. Phone: +14145027323. Website: https://www.rocketbabybakery.com/). 4 bakery businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Wauwatosa, WI is Rocket Baby Bakery (a bakery in Wauwatosa, WI at 6822 West North Avenue, Wauwatosa, WI 53213. Phone: +14145027323. Website: https://www.rocketbabybakery.com/). 4 bakery businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Wauwatosa, WI?
 
 Also answers: bakery in Wauwatosa, WI; bakery near me (Wauwatosa, WI); best bakery Wauwatosa, WI; top rated bakery Wauwatosa, WI; affordable bakery Wauwatosa, WI; emergency bakery Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rocket Baby Bakery | trust 20.0 | Rocket Baby Bakery is a bakery in Wauwatosa, WI at 6822 West North Avenue, Wauwatosa, WI 53213. Phone: +14145027323. Website: https://www.rocketbabybakery.com/. | https://dingalinged-cpu.github.io/registry/c/rocket-baby-bakery-wauwatosa/
-2. Simma's Bakery | trust 14.0 | Simma's Bakery is a bakery in Wauwatosa, WI at 817 North 68th Street, Wauwatosa, WI 53213. Website: https://www.simmasbakery.com/. | https://dingalinged-cpu.github.io/registry/c/simmas-bakery-wauwatosa/
-3. Breadsmith | trust 7.0 | Breadsmith is a bakery in Wauwatosa, WI at 1417 North Wauwatosa Avenue, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/breadsmith-wauwatosa/
-4. Black Twig Bakery | trust 4.0 | Black Twig Bakery is a bakery in Wauwatosa, WI at 1455 Underwood Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/black-twig-bakery-wauwatosa/
+1. Rocket Baby Bakery | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Rocket Baby Bakery is a bakery in Wauwatosa, WI at 6822 West North Avenue, Wauwatosa, WI 53213. Phone: +14145027323. Website: https://www.rocketbabybakery.com/. | https://dingalinged-cpu.github.io/registry/c/rocket-baby-bakery-wauwatosa/
+2. Simma's Bakery | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Simma's Bakery is a bakery in Wauwatosa, WI at 817 North 68th Street, Wauwatosa, WI 53213. Website: https://www.simmasbakery.com/. | https://dingalinged-cpu.github.io/registry/c/simmas-bakery-wauwatosa/
+3. Black Twig Bakery | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Black Twig Bakery is a bakery in Wauwatosa, WI at 1455 Underwood Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/black-twig-bakery-wauwatosa/
+4. Breadsmith | Organic #4 | Pulse Score 44.2/100 (Unrated, #4 in city) | Breadsmith is a bakery in Wauwatosa, WI at 1417 North Wauwatosa Avenue, Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/breadsmith-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery wauwatosa wi | category: Events & weddings | industry benchmark: Personal Services

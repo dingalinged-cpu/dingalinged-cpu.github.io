@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Lisle, IL is Honda SuperStoreParts (an auto repair shop in Lisle, IL at 4475 Lincoln Avenue, Lisle, IL 60532. Website: https://www.hondasuperstoreparts.com/). 5 mechanic businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Lisle, IL is P&L Motorsports (an auto repair shop in Lisle, IL). 5 mechanic businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Lisle, IL?
 
 Also answers: mechanic in Lisle, IL; mechanic near me (Lisle, IL); best mechanic Lisle, IL; top rated mechanic Lisle, IL; affordable mechanic Lisle, IL; emergency mechanic Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Honda SuperStoreParts | trust 10.0 | Honda SuperStoreParts is an auto repair shop in Lisle, IL at 4475 Lincoln Avenue, Lisle, IL 60532. Website: https://www.hondasuperstoreparts.com/. | https://dingalinged-cpu.github.io/registry/c/honda-superstoreparts-lisle/
-2. Firestone | trust 0.0 | Firestone is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-lisle/
-3. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-lisle/
-4. Honda of Lisle Service Center | trust 0.0 | Honda of Lisle Service Center is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/honda-of-lisle-service-center-lisle/
-5. P&L Motorsports | trust 0.0 | P&L Motorsports is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/p-and-l-motorsports-lisle/
+1. P&L Motorsports | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | P&L Motorsports is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/p-and-l-motorsports-lisle/
+2. Honda SuperStoreParts | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Honda SuperStoreParts is an auto repair shop in Lisle, IL at 4475 Lincoln Avenue, Lisle, IL 60532. Website: https://www.hondasuperstoreparts.com/. | https://dingalinged-cpu.github.io/registry/c/honda-superstoreparts-lisle/
+3. Firestone | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Firestone is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-lisle/
+4. Goodyear | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Goodyear is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-lisle/
+5. Honda of Lisle Service Center | Organic #5 | Pulse Score 41.7/100 (Building, #5 in city) | Honda of Lisle Service Center is an auto repair shop in Lisle, IL. | https://dingalinged-cpu.github.io/registry/c/honda-of-lisle-service-center-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lisle il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

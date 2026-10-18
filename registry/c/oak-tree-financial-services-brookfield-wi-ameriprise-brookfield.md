@@ -13,7 +13,7 @@ Oak Tree Financial Services - Brookfield, WI: Ameriprise is a financial advisor 
 - Website: https://www.ameripriseadvisors.com/team/oak-tree-financial-services/
 - Email: brad.olson@ampf.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 65.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 3% of financial advisors in Milwaukee, #1 of 6 financial advisors in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

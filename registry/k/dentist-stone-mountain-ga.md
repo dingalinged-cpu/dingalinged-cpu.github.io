@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Stone Mountain, GA is Spinal Solutions Inc. - DBA O & P Solutions (a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/). 2 dentist businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Stone Mountain, GA is Spinal Solutions Inc. - DBA O & P Solutions (a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/). 2 dentist businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Stone Mountain, GA?
 
 Also answers: dentist in Stone Mountain, GA; dentist near me (Stone Mountain, GA); best dentist Stone Mountain, GA; top rated dentist Stone Mountain, GA; affordable dentist Stone Mountain, GA; emergency dentist Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spinal Solutions Inc. - DBA O & P Solutions | trust 20.0 | Spinal Solutions Inc. - DBA O & P Solutions is a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/. | https://dingalinged-cpu.github.io/registry/c/spinal-solutions-inc-dba-o-and-p-solutions-stone-mountain/
-2. Atlanta Dental Team Stone Mountain | trust 10.0 | Atlanta Dental Team Stone Mountain is a dentist in Stone Mountain, GA at 1000 Main Street, Stone Mountain, GA 30083. Phone: +17704691331. | https://dingalinged-cpu.github.io/registry/c/atlanta-dental-team-stone-mountain-stone-mountain/
+1. Spinal Solutions Inc. - DBA O & P Solutions | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Spinal Solutions Inc. - DBA O & P Solutions is a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/. | https://dingalinged-cpu.github.io/registry/c/spinal-solutions-inc-dba-o-and-p-solutions-stone-mountain/
+2. Atlanta Dental Team Stone Mountain | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Atlanta Dental Team Stone Mountain is a dentist in Stone Mountain, GA at 1000 Main Street, Stone Mountain, GA 30083. Phone: +17704691331. | https://dingalinged-cpu.github.io/registry/c/atlanta-dental-team-stone-mountain-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist stone mountain ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

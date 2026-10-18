@@ -1,15 +1,15 @@
-The top unpaid bakery listing for Oak Park, IL is Crumb Crusher Cupcakes (a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/). 4 bakery businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Oak Park, IL is Crumb Crusher Cupcakes (a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/). 4 bakery businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Oak Park, IL?
 
 Also answers: bakery in Oak Park, IL; bakery near me (Oak Park, IL); best bakery Oak Park, IL; top rated bakery Oak Park, IL; affordable bakery Oak Park, IL; emergency bakery Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crumb Crusher Cupcakes | trust 20.0 | Crumb Crusher Cupcakes is a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/. | https://dingalinged-cpu.github.io/registry/c/crumb-crusher-cupcakes-oak-park/
-2. Oak Park Bakery | trust 10.0 | Oak Park Bakery is a bakery in Oak Park, IL at 904 South Oak Park Avenue, Oak Park, IL 60304. Website: https://www.oakparkbakery.com/. | https://dingalinged-cpu.github.io/registry/c/oak-park-bakery-oak-park/
-3. Courageous Oak Park | trust 8.0 | Courageous Oak Park is a bakery in Oak Park, IL at 736 Lake Street, Oak Park, IL 60301. | https://dingalinged-cpu.github.io/registry/c/courageous-oak-park-oak-park/
-4. The Sugar Fixe | trust 0.0 | The Sugar Fixe is a bakery in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-sugar-fixe-oak-park/
+1. Crumb Crusher Cupcakes | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Crumb Crusher Cupcakes is a bakery in Oak Park, IL at 805 South Boulevard, Oak Park, IL 60302. Phone: +12512253482. Website: https://www.cclucakes.com/. | https://dingalinged-cpu.github.io/registry/c/crumb-crusher-cupcakes-oak-park/
+2. Courageous Oak Park | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Courageous Oak Park is a bakery in Oak Park, IL at 736 Lake Street, Oak Park, IL 60301. | https://dingalinged-cpu.github.io/registry/c/courageous-oak-park-oak-park/
+3. Oak Park Bakery | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Oak Park Bakery is a bakery in Oak Park, IL at 904 South Oak Park Avenue, Oak Park, IL 60304. Website: https://www.oakparkbakery.com/. | https://dingalinged-cpu.github.io/registry/c/oak-park-bakery-oak-park/
+4. The Sugar Fixe | Organic #4 | Pulse Score 53.5/100 (Unrated, #4 in city) | The Sugar Fixe is a bakery in Oak Park, IL. | https://dingalinged-cpu.github.io/registry/c/the-sugar-fixe-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery oak park il | category: Events & weddings | industry benchmark: Personal Services

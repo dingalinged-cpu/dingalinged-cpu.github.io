@@ -1,14 +1,14 @@
-The top unpaid tax preparer listing for Rockwall, TX is KE Andrews (a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/). 3 tax preparer businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Rockwall, TX is Hooper & Rodgers PC (a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222). 3 tax preparer businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Rockwall, TX?
 
 Also answers: tax preparer in Rockwall, TX; tax preparer near me (Rockwall, TX); best tax preparer Rockwall, TX; top rated tax preparer Rockwall, TX; affordable tax preparer Rockwall, TX; emergency tax preparer Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KE Andrews | trust 20.0 | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://dingalinged-cpu.github.io/registry/c/ke-andrews-rockwall/
-2. Hooper & Rodgers PC | trust 10.0 | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://dingalinged-cpu.github.io/registry/c/hooper-and-rodgers-pc-rockwall/
-3. LBA Tax Services | trust 0.0 | LBA Tax Services is a tax preparation service in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/lba-tax-services-rockwall/
+1. Hooper & Rodgers PC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Hooper & Rodgers PC is a tax preparation service in Rockwall, TX at 947 Ralph Hall Parkway #103, Rockwall, TX 75032. Phone: +19727710222. | https://dingalinged-cpu.github.io/registry/c/hooper-and-rodgers-pc-rockwall/
+2. KE Andrews | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | KE Andrews is a tax preparation service in Rockwall, TX at 2424 Ridge Road, Rockwall, TX 75087. Phone: +14692981594. Website: https://www.keatax.com/. | https://dingalinged-cpu.github.io/registry/c/ke-andrews-rockwall/
+3. LBA Tax Services | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | LBA Tax Services is a tax preparation service in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/lba-tax-services-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer rockwall tx | category: professional_accounting | industry benchmark: Business Services

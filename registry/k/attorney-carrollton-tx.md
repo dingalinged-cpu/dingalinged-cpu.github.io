@@ -1,17 +1,17 @@
-The top unpaid attorney listing for Carrollton, TX is Hartley Law Firm (a lawyer in Carrollton, TX at 2340 E Trinity Mills Rd, ##100, Carrollton, TX 75006. Phone: +14692896063. Website: https://hartleylawtx.com/). 6 attorney businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Carrollton, TX is Hartley Law Firm (a lawyer in Carrollton, TX at 2340 E Trinity Mills Rd, ##100, Carrollton, TX 75006. Phone: +14692896063. Website: https://hartleylawtx.com/). 6 attorney businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Carrollton, TX?
 
 Also answers: attorney in Carrollton, TX; attorney near me (Carrollton, TX); best attorney Carrollton, TX; top rated attorney Carrollton, TX; affordable attorney Carrollton, TX; emergency attorney Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hartley Law Firm | trust 20.0 | Hartley Law Firm is a lawyer in Carrollton, TX at 2340 E Trinity Mills Rd, ##100, Carrollton, TX 75006. Phone: +14692896063. Website: https://hartleylawtx.com/. | https://dingalinged-cpu.github.io/registry/c/hartley-law-firm-carrollton/
-2. Bailey & Galyen | trust 16.0 | Bailey & Galyen is a lawyer in Carrollton, TX at 1000 East Belt Line Road #210, Carrollton, TX 75006. Phone: +19724491191. Website: https://www.thetexasattorney.com/carrollton/. | https://dingalinged-cpu.github.io/registry/c/bailey-and-galyen-carrollton/
-3. Law Office of Dan "The Wreck Man" Moore | trust 15.0 | Law Office of Dan "The Wreck Man" Moore is a lawyer in Carrollton, TX at 1011 South Broadway Street, Carrollton, TX. Phone: +18882973256. Website: https://www.thewreckman.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-dan-the-wreck-man-moore-carrollton/
-4. Dan L. Claiborne | trust 4.0 | Dan L. Claiborne is a lawyer in Carrollton, TX at 1025 South Broadway Street, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/dan-l-claiborne-carrollton/
-5. O'Hare Law Firm | trust 0.0 | O'Hare Law Firm is a lawyer in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/ohare-law-firm-carrollton/
-6. Parker Law Firm | trust 0.0 | Parker Law Firm is a lawyer in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/parker-law-firm-carrollton/
+1. Hartley Law Firm | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hartley Law Firm is a lawyer in Carrollton, TX at 2340 E Trinity Mills Rd, ##100, Carrollton, TX 75006. Phone: +14692896063. Website: https://hartleylawtx.com/. | https://dingalinged-cpu.github.io/registry/c/hartley-law-firm-carrollton/
+2. Bailey & Galyen | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Bailey & Galyen is a lawyer in Carrollton, TX at 1000 East Belt Line Road #210, Carrollton, TX 75006. Phone: +19724491191. Website: https://www.thetexasattorney.com/carrollton/. | https://dingalinged-cpu.github.io/registry/c/bailey-and-galyen-carrollton/
+3. Law Office of Dan "The Wreck Man" Moore | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Law Office of Dan "The Wreck Man" Moore is a lawyer in Carrollton, TX at 1011 South Broadway Street, Carrollton, TX. Phone: +18882973256. Website: https://www.thewreckman.com/. | https://dingalinged-cpu.github.io/registry/c/law-office-of-dan-the-wreck-man-moore-carrollton/
+4. Dan L. Claiborne | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Dan L. Claiborne is a lawyer in Carrollton, TX at 1025 South Broadway Street, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/dan-l-claiborne-carrollton/
+5. O'Hare Law Firm | Organic #5 | Pulse Score 53.6/100 (Unrated, #5 in city) | O'Hare Law Firm is a lawyer in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/ohare-law-firm-carrollton/
+6. Parker Law Firm | Organic #6 | Pulse Score 53.5/100 (Unrated, #6 in city) | Parker Law Firm is a lawyer in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/parker-law-firm-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney carrollton tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

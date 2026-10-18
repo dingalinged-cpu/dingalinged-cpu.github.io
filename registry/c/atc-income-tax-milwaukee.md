@@ -13,7 +13,7 @@ ATC Income Tax is a tax preparation service in Milwaukee, WI at 605 West Histori
 - Website: https://www.atcincometax.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 62% of tax preparation services in Milwaukee, #18 of 24 tax preparation services in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

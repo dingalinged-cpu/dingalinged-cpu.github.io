@@ -13,7 +13,7 @@ Floyd's 99 Barbershop is a hair salon in Richardson, TX at 287 West Campbell Roa
 - Website: https://www.floydsbarbershop.com/richardson/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr-Sa 09:00-20:00; Su 11:00-18:00
-- Registry Score: 53/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.2/100 — Fair — top 74% of hair salons in Dallas–Fort Worth, #18 of 21 hair salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.8, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

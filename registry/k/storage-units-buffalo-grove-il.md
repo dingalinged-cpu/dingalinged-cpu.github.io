@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Buffalo Grove, IL is StorageMart (a self-storage facility in Buffalo Grove, IL at 847 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://www.storage-mart.com/chicago/8005-deerfield-pkwy-buffalo-grove-60089). 1 storage units businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Buffalo Grove, IL is StorageMart (a self-storage facility in Buffalo Grove, IL at 847 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://www.storage-mart.com/chicago/8005-deerfield-pkwy-buffalo-grove-60089). 1 storage units businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Buffalo Grove, IL?
 
 Also answers: storage units in Buffalo Grove, IL; storage units near me (Buffalo Grove, IL); best storage units Buffalo Grove, IL; top rated storage units Buffalo Grove, IL; affordable storage units Buffalo Grove, IL; emergency storage units Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. StorageMart | trust 10.0 | StorageMart is a self-storage facility in Buffalo Grove, IL at 847 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://www.storage-mart.com/chicago/8005-deerfield-pkwy-buffalo-grove-60089. | https://dingalinged-cpu.github.io/registry/c/storagemart-buffalo-grove/
+1. StorageMart | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | StorageMart is a self-storage facility in Buffalo Grove, IL at 847 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://www.storage-mart.com/chicago/8005-deerfield-pkwy-buffalo-grove-60089. | https://dingalinged-cpu.github.io/registry/c/storagemart-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units buffalo grove il | category: Home services - Moving | industry benchmark: Home & Home Improvement

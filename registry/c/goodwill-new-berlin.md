@@ -13,7 +13,7 @@ Goodwill is a thrift store in New Berlin, WI at 3540 South Moorland Road, New Be
 - Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/new-berlin-store-and-donation-center
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 09:00-19:00
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 42% of thrift stores in Milwaukee, #1 of 1 thrift stores in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Marietta, GA at 1725 Roswell R
 - Website: https://www.extraspace.com/storage/facilities/us/georgia/marietta/3107/
 - Email: n/a
 - Opening hours (OSM syntax): 06:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 22% of self-storage facilitys in Atlanta, #9 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

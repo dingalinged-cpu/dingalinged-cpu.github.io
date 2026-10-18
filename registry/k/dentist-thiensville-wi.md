@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Thiensville, WI is Lux Dental (a dentist in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622057115. Website: https://www.luxdentalwi.com/). 1 dentist businesses are listed for Thiensville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Thiensville, WI is Lux Dental (a dentist in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622057115. Website: https://www.luxdentalwi.com/). 1 dentist businesses are listed for Thiensville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Thiensville, WI?
 
 Also answers: dentist in Thiensville, WI; dentist near me (Thiensville, WI); best dentist Thiensville, WI; top rated dentist Thiensville, WI; affordable dentist Thiensville, WI; emergency dentist Thiensville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lux Dental | trust 20.0 | Lux Dental is a dentist in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622057115. Website: https://www.luxdentalwi.com/. | https://dingalinged-cpu.github.io/registry/c/lux-dental-thiensville/
+1. Lux Dental | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Lux Dental is a dentist in Thiensville, WI at 108 East Freistadt Road, Thiensville, WI 53092. Phone: +12622057115. Website: https://www.luxdentalwi.com/. | https://dingalinged-cpu.github.io/registry/c/lux-dental-thiensville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist thiensville wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

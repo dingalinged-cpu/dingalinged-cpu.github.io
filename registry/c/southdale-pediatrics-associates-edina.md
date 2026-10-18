@@ -13,7 +13,7 @@ Southdale Pediatrics Associates is a pediatrician in Edina, MN at 3955 Parklawn 
 - Website: https://www.southdalepeds.com/locations/edina/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Fair — top 34% of pediatricians in Minneapolis–St. Paul, #1 of 1 pediatricians in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

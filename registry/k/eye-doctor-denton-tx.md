@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Denton, TX is Denton Optometry (an eye care practice in Denton, TX at 2430 South Interstate 35E #Suite 156, Denton, TX 76205. Phone: +19404848857. Website: https://dentonoptometry.com/). 4 eye doctor businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Denton, TX is Denton Optometry (an eye care practice in Denton, TX at 2430 South Interstate 35E #Suite 156, Denton, TX 76205. Phone: +19404848857. Website: https://dentonoptometry.com/). 4 eye doctor businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Denton, TX?
 
 Also answers: eye doctor in Denton, TX; eye doctor near me (Denton, TX); best eye doctor Denton, TX; top rated eye doctor Denton, TX; affordable eye doctor Denton, TX; emergency eye doctor Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Denton Optometry | trust 16.0 | Denton Optometry is an eye care practice in Denton, TX at 2430 South Interstate 35E #Suite 156, Denton, TX 76205. Phone: +19404848857. Website: https://dentonoptometry.com/. | https://dingalinged-cpu.github.io/registry/c/denton-optometry-denton/
-2. Eye Care Associates of Denton | trust 4.0 | Eye Care Associates of Denton is an eye care practice in Denton, TX at 3311 Unicorn Lake Boulevard #Suite 181, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/eye-care-associates-of-denton-denton/
-3. Retina Institute of Texas | trust 4.0 | Retina Institute of Texas is an eye care practice in Denton, TX at 3331 Unicorn Lake Boulevard, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/retina-institute-of-texas-denton/
-4. Total Eyecare & Eyewear Gallery | trust 4.0 | Total Eyecare & Eyewear Gallery is an eye care practice in Denton, TX at 3111 Unicorn Lake Boulevard #Suite 100, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/total-eyecare-and-eyewear-gallery-denton/
+1. Denton Optometry | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Denton Optometry is an eye care practice in Denton, TX at 2430 South Interstate 35E #Suite 156, Denton, TX 76205. Phone: +19404848857. Website: https://dentonoptometry.com/. | https://dingalinged-cpu.github.io/registry/c/denton-optometry-denton/
+2. Eye Care Associates of Denton | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Eye Care Associates of Denton is an eye care practice in Denton, TX at 3311 Unicorn Lake Boulevard #Suite 181, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/eye-care-associates-of-denton-denton/
+3. Retina Institute of Texas | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Retina Institute of Texas is an eye care practice in Denton, TX at 3331 Unicorn Lake Boulevard, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/retina-institute-of-texas-denton/
+4. Total Eyecare & Eyewear Gallery | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Total Eyecare & Eyewear Gallery is an eye care practice in Denton, TX at 3111 Unicorn Lake Boulevard #Suite 100, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/total-eyecare-and-eyewear-gallery-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor denton tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Royse City, TX is Donutland (a bakery in Royse City, TX at 574 West Interstate 30, Royse City, TX 75189. Website: https://m.facebook.com/donutlandrc/). 1 bakery businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Royse City, TX is Donutland (a bakery in Royse City, TX at 574 West Interstate 30, Royse City, TX 75189. Website: https://m.facebook.com/donutlandrc/). 1 bakery businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Royse City, TX?
 
 Also answers: bakery in Royse City, TX; bakery near me (Royse City, TX); best bakery Royse City, TX; top rated bakery Royse City, TX; affordable bakery Royse City, TX; emergency bakery Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Donutland | trust 14.0 | Donutland is a bakery in Royse City, TX at 574 West Interstate 30, Royse City, TX 75189. Website: https://m.facebook.com/donutlandrc/. | https://dingalinged-cpu.github.io/registry/c/donutland-royse-city/
+1. Donutland | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Donutland is a bakery in Royse City, TX at 574 West Interstate 30, Royse City, TX 75189. Website: https://m.facebook.com/donutlandrc/. | https://dingalinged-cpu.github.io/registry/c/donutland-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery royse city tx | category: Events & weddings | industry benchmark: Personal Services

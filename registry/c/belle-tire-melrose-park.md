@@ -13,7 +13,7 @@ Belle Tire is a tire shop in Melrose Park, IL at 3225 North Avenue, Melrose Park
 - Website: https://www.belletire.com/stores/detail/177/belle-tire-melrose-park-il
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 55% of tire shops in Chicago, #1 of 2 tire shops in Melrose Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

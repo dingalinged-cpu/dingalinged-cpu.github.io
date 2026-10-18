@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Webster, TX is Galaxy Drive Garage (an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/). 4 mechanic businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Webster, TX is Galaxy Drive Garage (an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/). 4 mechanic businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Webster, TX?
 
 Also answers: mechanic in Webster, TX; mechanic near me (Webster, TX); best mechanic Webster, TX; top rated mechanic Webster, TX; affordable mechanic Webster, TX; emergency mechanic Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Galaxy Drive Garage | trust 20.0 | Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/. | https://dingalinged-cpu.github.io/registry/c/galaxy-drive-garage-webster/
-2. Crash Champions | trust 12.0 | Crash Champions is an auto repair shop in Webster, TX. Phone: +12812125000. Website: https://crashchampions.com/locations/crash-champions-clear-lake. | https://dingalinged-cpu.github.io/registry/c/crash-champions-webster/
-3. NTB | trust 0.0 | NTB is an auto repair shop in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/ntb-webster/
-4. Stuerhk's | trust 0.0 | Stuerhk's is an auto repair shop in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/stuerhks-webster/
+1. Galaxy Drive Garage | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Galaxy Drive Garage is an auto repair shop in Webster, TX at 18004 State Highway 3, Webster, TX 77598. Phone: +18325576388. Website: https://www.galaxydrivegaragetx.com/. | https://dingalinged-cpu.github.io/registry/c/galaxy-drive-garage-webster/
+2. Stuerhk's | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Stuerhk's is an auto repair shop in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/stuerhks-webster/
+3. Crash Champions | Organic #3 | Pulse Score 48.3/100 (Building, #3 in city) | Crash Champions is an auto repair shop in Webster, TX. Phone: +12812125000. Website: https://crashchampions.com/locations/crash-champions-clear-lake. | https://dingalinged-cpu.github.io/registry/c/crash-champions-webster/
+4. NTB | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | NTB is an auto repair shop in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/ntb-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic webster tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

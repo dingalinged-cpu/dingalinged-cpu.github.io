@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Berwyn, IL is Tortilleria El Rey (a bakery in Berwyn, IL at 6311 West Cermak Road, Berwyn, IL 60402. Phone: +17087494866. Website: https://tortilleriaelrey.com/). 2 bakery businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Berwyn, IL is Tortilleria El Rey (a bakery in Berwyn, IL at 6311 West Cermak Road, Berwyn, IL 60402. Phone: +17087494866. Website: https://tortilleriaelrey.com/). 2 bakery businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Berwyn, IL?
 
 Also answers: bakery in Berwyn, IL; bakery near me (Berwyn, IL); best bakery Berwyn, IL; top rated bakery Berwyn, IL; affordable bakery Berwyn, IL; emergency bakery Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tortilleria El Rey | trust 20.0 | Tortilleria El Rey is a bakery in Berwyn, IL at 6311 West Cermak Road, Berwyn, IL 60402. Phone: +17087494866. Website: https://tortilleriaelrey.com/. | https://dingalinged-cpu.github.io/registry/c/tortilleria-el-rey-berwyn/
-2. Cake Bros. | trust 16.0 | Cake Bros. is a bakery in Berwyn, IL at 6737 West 26th Street, Berwyn, IL 60402. Phone: +17087492504. Website: https://www.cakebros.com/. | https://dingalinged-cpu.github.io/registry/c/cake-bros-berwyn/
+1. Tortilleria El Rey | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Tortilleria El Rey is a bakery in Berwyn, IL at 6311 West Cermak Road, Berwyn, IL 60402. Phone: +17087494866. Website: https://tortilleriaelrey.com/. | https://dingalinged-cpu.github.io/registry/c/tortilleria-el-rey-berwyn/
+2. Cake Bros. | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Cake Bros. is a bakery in Berwyn, IL at 6737 West 26th Street, Berwyn, IL 60402. Phone: +17087492504. Website: https://www.cakebros.com/. | https://dingalinged-cpu.github.io/registry/c/cake-bros-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery berwyn il | category: Events & weddings | industry benchmark: Personal Services

@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Maplewood, MN is Ashley HomeStore (a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/). 4 furniture store businesses are listed for Maplewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Maplewood, MN is Becker Furniture (a furniture store in Maplewood, MN). 4 furniture store businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Maplewood, MN?
 
 Also answers: furniture store in Maplewood, MN; furniture store near me (Maplewood, MN); best furniture store Maplewood, MN; top rated furniture store Maplewood, MN; affordable furniture store Maplewood, MN; emergency furniture store Maplewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-maplewood/
-2. Becker Furniture | trust 0.0 | Becker Furniture is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/becker-furniture-maplewood/
-3. Slumberland | trust 0.0 | Slumberland is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/slumberland-maplewood/
-4. The Original Mattress Factory | trust 0.0 | The Original Mattress Factory is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-maplewood/
+1. Becker Furniture | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Becker Furniture is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/becker-furniture-maplewood/
+2. Ashley HomeStore | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D East, Maplewood, MN 55109. Phone: +16513250200. Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-maplewood/
+3. Slumberland | Organic #3 | Pulse Score 41.6/100 (Unrated, #3 in city) | Slumberland is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/slumberland-maplewood/
+4. The Original Mattress Factory | Organic #4 | Pulse Score 41.6/100 (Unrated, #4 in city) | The Original Mattress Factory is a furniture store in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/the-original-mattress-factory-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store maplewood mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid caterers listing for Lewisville, TX is The Lahore Bistro (a caterer in Lewisville, TX. Phone: +14692009049. Website: https://www.thelahorebistro.com/). 2 caterers businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Lewisville, TX is The Lahore Bistro (a caterer in Lewisville, TX. Phone: +14692009049. Website: https://www.thelahorebistro.com/). 2 caterers businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Lewisville, TX?
 
 Also answers: caterers in Lewisville, TX; caterers near me (Lewisville, TX); best caterers Lewisville, TX; top rated caterers Lewisville, TX; affordable caterers Lewisville, TX; emergency caterers Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Lahore Bistro | trust 16.0 | The Lahore Bistro is a caterer in Lewisville, TX. Phone: +14692009049. Website: https://www.thelahorebistro.com/. | https://dingalinged-cpu.github.io/registry/c/the-lahore-bistro-lewisville/
-2. Seven Loaves Catering & Events | trust 12.0 | Seven Loaves Catering & Events is a caterer in Lewisville, TX. Phone: +19722935111. Website: https://www.sevenloavescatering.com/. | https://dingalinged-cpu.github.io/registry/c/seven-loaves-catering-and-events-lewisville/
+1. The Lahore Bistro | Organic #1 | Pulse Score 62.4/100 (Good, #1 in city) | The Lahore Bistro is a caterer in Lewisville, TX. Phone: +14692009049. Website: https://www.thelahorebistro.com/. | https://dingalinged-cpu.github.io/registry/c/the-lahore-bistro-lewisville/
+2. Seven Loaves Catering & Events | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Seven Loaves Catering & Events is a caterer in Lewisville, TX. Phone: +19722935111. Website: https://www.sevenloavescatering.com/. | https://dingalinged-cpu.github.io/registry/c/seven-loaves-catering-and-events-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers lewisville tx | category: Events & weddings | industry benchmark: Personal Services

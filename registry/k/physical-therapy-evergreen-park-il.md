@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Evergreen Park, IL is Athletico Physical Therapy (a physical therapy clinic in Evergreen Park, IL at 2500 West 94th Street, Evergreen Park, IL 60805. Website: https://www.athletico.com/locations/evergreen-park/). 1 physical therapy businesses are listed for Evergreen Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Evergreen Park, IL is Athletico Physical Therapy (a physical therapy clinic in Evergreen Park, IL at 2500 West 94th Street, Evergreen Park, IL 60805. Website: https://www.athletico.com/locations/evergreen-park/). 1 physical therapy businesses are listed for Evergreen Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Evergreen Park, IL?
 
 Also answers: physical therapy in Evergreen Park, IL; physical therapy near me (Evergreen Park, IL); best physical therapy Evergreen Park, IL; top rated physical therapy Evergreen Park, IL; affordable physical therapy Evergreen Park, IL; emergency physical therapy Evergreen Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athletico Physical Therapy | trust 10.0 | Athletico Physical Therapy is a physical therapy clinic in Evergreen Park, IL at 2500 West 94th Street, Evergreen Park, IL 60805. Website: https://www.athletico.com/locations/evergreen-park/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-evergreen-park/
+1. Athletico Physical Therapy | Organic #1 | Pulse Score 47.4/100 (Building, #1 in city) | Athletico Physical Therapy is a physical therapy clinic in Evergreen Park, IL at 2500 West 94th Street, Evergreen Park, IL 60805. Website: https://www.athletico.com/locations/evergreen-park/. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-evergreen-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy evergreen park il | category: Health & medical | industry benchmark: Physicians & Surgeons

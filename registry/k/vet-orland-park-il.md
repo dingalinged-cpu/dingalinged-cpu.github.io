@@ -1,12 +1,12 @@
-The top unpaid vet listing for Orland Park, IL is Animal Medical Center (a veterinarian in Orland Park, IL). 1 vet businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Orland Park, IL is Animal Medical Center (a veterinarian in Orland Park, IL). 1 vet businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Orland Park, IL?
 
 Also answers: vet in Orland Park, IL; vet near me (Orland Park, IL); best vet Orland Park, IL; top rated vet Orland Park, IL; affordable vet Orland Park, IL; emergency vet Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Medical Center | trust 0.0 | Animal Medical Center is a veterinarian in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-orland-park/
+1. Animal Medical Center | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Animal Medical Center is a veterinarian in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet orland park il | category: Pets | industry benchmark: Animals & Pets

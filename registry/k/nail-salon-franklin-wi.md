@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Franklin, WI is CN Nails (a nail salon in Franklin, WI at 7612 West Rawson Avenue, Franklin, WI 53132. Phone: +14144251388. Website: https://cnnailspafranklin.com/). 6 nail salon businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Franklin, WI is CN Nails (a nail salon in Franklin, WI at 7612 West Rawson Avenue, Franklin, WI 53132. Phone: +14144251388. Website: https://cnnailspafranklin.com/). 6 nail salon businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Franklin, WI?
 
 Also answers: nail salon in Franklin, WI; nail salon near me (Franklin, WI); best nail salon Franklin, WI; top rated nail salon Franklin, WI; affordable nail salon Franklin, WI; emergency nail salon Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CN Nails | trust 20.0 | CN Nails is a nail salon in Franklin, WI at 7612 West Rawson Avenue, Franklin, WI 53132. Phone: +14144251388. Website: https://cnnailspafranklin.com/. | https://dingalinged-cpu.github.io/registry/c/cn-nails-franklin/
-2. Chic Nail Spa & Hair Salon | trust 4.0 | Chic Nail Spa & Hair Salon is a nail salon in Franklin, WI at 6524 South Lovers Lane Road, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/chic-nail-spa-and-hair-salon-franklin/
-3. Epic Nail Spa | trust 4.0 | Epic Nail Spa is a nail salon in Franklin, WI at 7013 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/epic-nail-spa-franklin/
-4. Glitz Nail Boutique | trust 4.0 | Glitz Nail Boutique is a nail salon in Franklin, WI at 7720 South Lovers Lane Road #230, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/glitz-nail-boutique-franklin/
-5. P&A Nail Spa | trust 4.0 | P&A Nail Spa is a nail salon in Franklin, WI at 7121 South 76th Street #B, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/p-and-a-nail-spa-franklin/
-6. Q Nail Spa | trust 4.0 | Q Nail Spa is a nail salon in Franklin, WI at 7166 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/q-nail-spa-franklin/
+1. CN Nails | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | CN Nails is a nail salon in Franklin, WI at 7612 West Rawson Avenue, Franklin, WI 53132. Phone: +14144251388. Website: https://cnnailspafranklin.com/. | https://dingalinged-cpu.github.io/registry/c/cn-nails-franklin/
+2. Chic Nail Spa & Hair Salon | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Chic Nail Spa & Hair Salon is a nail salon in Franklin, WI at 6524 South Lovers Lane Road, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/chic-nail-spa-and-hair-salon-franklin/
+3. Epic Nail Spa | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Epic Nail Spa is a nail salon in Franklin, WI at 7013 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/epic-nail-spa-franklin/
+4. Glitz Nail Boutique | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Glitz Nail Boutique is a nail salon in Franklin, WI at 7720 South Lovers Lane Road #230, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/glitz-nail-boutique-franklin/
+5. P&A Nail Spa | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | P&A Nail Spa is a nail salon in Franklin, WI at 7121 South 76th Street #B, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/p-and-a-nail-spa-franklin/
+6. Q Nail Spa | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Q Nail Spa is a nail salon in Franklin, WI at 7166 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/q-nail-spa-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon franklin wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Hermanos Acosta Auto Repair is an auto repair shop in Milwaukee, WI at 902 West 
 - Website: https://hermanos-acosta-auto-repair.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:30; Su off
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Milwaukee, #11 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

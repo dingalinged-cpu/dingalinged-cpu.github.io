@@ -1,13 +1,13 @@
-The top unpaid massage listing for Little Elm, TX is Elegant Massage (a massage studio in Little Elm, TX). 2 massage businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Little Elm, TX is Lucky Foot (a massage studio in Little Elm, TX). 2 massage businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Little Elm, TX?
 
 Also answers: massage in Little Elm, TX; massage near me (Little Elm, TX); best massage Little Elm, TX; top rated massage Little Elm, TX; affordable massage Little Elm, TX; emergency massage Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elegant Massage | trust 0.0 | Elegant Massage is a massage studio in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-massage-little-elm/
-2. Lucky Foot | trust 0.0 | Lucky Foot is a massage studio in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/lucky-foot-little-elm/
+1. Lucky Foot | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Lucky Foot is a massage studio in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/lucky-foot-little-elm/
+2. Elegant Massage | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Elegant Massage is a massage studio in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-massage-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage little elm tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

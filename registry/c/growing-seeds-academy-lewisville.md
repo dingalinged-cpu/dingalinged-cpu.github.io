@@ -13,7 +13,7 @@ Growing Seeds Academy is a preschool in Lewisville, TX. Phone: +12142225430.
 - Website: n/a
 - Email: info@growingseedsacademy.com
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30; Sa-Su off
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 4% of preschools in Dallas–Fort Worth, #1 of 5 preschools in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

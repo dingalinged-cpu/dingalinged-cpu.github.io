@@ -13,7 +13,7 @@ Selph Marketing is a marketing agency in Roanoke, TX at 104 Houston Street #103,
 - Website: https://www.selphmarketing.com/
 - Email: info@selphmarketing.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-16:00; Sa-Su off
-- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 25% of marketing agencys in Dallas–Fort Worth, #1 of 1 marketing agencys in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

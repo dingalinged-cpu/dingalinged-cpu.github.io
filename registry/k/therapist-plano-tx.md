@@ -1,16 +1,16 @@
-The top unpaid therapist listing for Plano, TX is Planned Parenthood (a therapy practice in Plano, TX at 600 North Central Expressway #601, Plano, TX 75074. Phone: +19724246311. Website: https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620). 5 therapist businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Plano, TX is Slim4Life (a therapy practice in Plano, TX at 308 Coit Road #300, Plano, TX 75075). 5 therapist businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Plano, TX?
 
 Also answers: therapist in Plano, TX; therapist near me (Plano, TX); best therapist Plano, TX; top rated therapist Plano, TX; affordable therapist Plano, TX; emergency therapist Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planned Parenthood | trust 20.0 | Planned Parenthood is a therapy practice in Plano, TX at 600 North Central Expressway #601, Plano, TX 75074. Phone: +19724246311. Website: https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-plano/
-2. Jenny Craig | trust 4.0 | Jenny Craig is a therapy practice in Plano, TX at 4801 West Park Boulevard #413, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-plano-n8252573076/
-3. Slim4Life | trust 4.0 | Slim4Life is a therapy practice in Plano, TX at 308 Coit Road #300, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/slim4life-plano/
-4. Jenny Craig | trust 0.0 | Jenny Craig is a therapy practice in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-plano/
-5. Salience Health | trust 0.0 | Salience Health is a therapy practice in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/salience-health-plano/
+1. Slim4Life | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Slim4Life is a therapy practice in Plano, TX at 308 Coit Road #300, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/slim4life-plano/
+2. Salience Health | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Salience Health is a therapy practice in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/salience-health-plano/
+3. Planned Parenthood | Organic #3 | Pulse Score 51.5/100 (Fair, #3 in city) | Planned Parenthood is a therapy practice in Plano, TX at 600 North Central Expressway #601, Plano, TX 75074. Phone: +19724246311. Website: https://www.plannedparenthood.org/health-center/texas/plano/75074/plano-health-center-4193-91620. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-plano/
+4. Jenny Craig | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Jenny Craig is a therapy practice in Plano, TX at 4801 West Park Boulevard #413, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-plano-n8252573076/
+5. Jenny Craig | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Jenny Craig is a therapy practice in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/jenny-craig-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist plano tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

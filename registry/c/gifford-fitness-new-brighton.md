@@ -13,7 +13,7 @@ Gifford Fitness is a gym in New Brighton, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54/100 — Unrated (not enough evidence yet) — top 33% of gyms in Minneapolis–St. Paul, #1 of 2 gyms in New Brighton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.6, Trust 39.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

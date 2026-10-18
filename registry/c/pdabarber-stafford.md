@@ -13,7 +13,7 @@ Pdabarber is a barber shop in Stafford, TX at 2339 South Main Street, Stafford, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 44% of barber shops in Houston, #1 of 1 barber shops in Stafford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

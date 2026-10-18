@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Missouri City, TX is Heart Cru Boutique (a gift shop in Missouri City, TX at 3340 Murphy Road #140, Missouri City, TX 77459. Phone: +12819697605. Website: https://heartcru.com/). 1 gift shop businesses are listed for Missouri City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Missouri City, TX is Heart Cru Boutique (a gift shop in Missouri City, TX at 3340 Murphy Road #140, Missouri City, TX 77459. Phone: +12819697605. Website: https://heartcru.com/). 1 gift shop businesses are listed for Missouri City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Missouri City, TX?
 
 Also answers: gift shop in Missouri City, TX; gift shop near me (Missouri City, TX); best gift shop Missouri City, TX; top rated gift shop Missouri City, TX; affordable gift shop Missouri City, TX; emergency gift shop Missouri City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heart Cru Boutique | trust 20.0 | Heart Cru Boutique is a gift shop in Missouri City, TX at 3340 Murphy Road #140, Missouri City, TX 77459. Phone: +12819697605. Website: https://heartcru.com/. | https://dingalinged-cpu.github.io/registry/c/heart-cru-boutique-missouri-city/
+1. Heart Cru Boutique | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Heart Cru Boutique is a gift shop in Missouri City, TX at 3340 Murphy Road #140, Missouri City, TX 77459. Phone: +12819697605. Website: https://heartcru.com/. | https://dingalinged-cpu.github.io/registry/c/heart-cru-boutique-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop missouri city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

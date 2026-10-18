@@ -1,18 +1,18 @@
-The top unpaid auto repair listing for Richmond, TX is Jiffy Lube (an auto repair shop in Richmond, TX at 18434 West Airport Boulevard, Richmond, TX 77407. Phone: +13462682112). 7 auto repair businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Richmond, TX is Integrity Tire & Auto Repair (an auto repair shop in Richmond, TX. Website: https://integrity-tire.com/). 7 auto repair businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Richmond, TX?
 
 Also answers: auto repair in Richmond, TX; auto repair near me (Richmond, TX); best auto repair Richmond, TX; top rated auto repair Richmond, TX; affordable auto repair Richmond, TX; emergency auto repair Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiffy Lube | trust 10.0 | Jiffy Lube is an auto repair shop in Richmond, TX at 18434 West Airport Boulevard, Richmond, TX 77407. Phone: +13462682112. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-richmond/
-2. Integrity Tire & Auto Repair | trust 6.0 | Integrity Tire & Auto Repair is an auto repair shop in Richmond, TX. Website: https://integrity-tire.com/. | https://dingalinged-cpu.github.io/registry/c/integrity-tire-and-auto-repair-richmond/
-3. Car Care USA | trust 4.0 | Car Care USA is an auto repair shop in Richmond, TX at 21028 West Bellfort Street, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/car-care-usa-richmond/
-4. Express Oil Change | trust 4.0 | Express Oil Change is an auto repair shop in Richmond, TX at 10705 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-richmond/
-5. Kwik Kar and Lube | trust 4.0 | Kwik Kar and Lube is an auto repair shop in Richmond, TX at 1832 Fm 359, Richmond, TX 77469. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-and-lube-richmond/
-6. Long Meadow Car Care | trust 4.0 | Long Meadow Car Care is an auto repair shop in Richmond, TX at 20941 West Bellfort Street, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/long-meadow-car-care-richmond/
-7. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Richmond, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-richmond/
+1. Integrity Tire & Auto Repair | Organic #1 | Pulse Score 57.6/100 (Unrated, #3 in city) | Integrity Tire & Auto Repair is an auto repair shop in Richmond, TX. Website: https://integrity-tire.com/. | https://dingalinged-cpu.github.io/registry/c/integrity-tire-and-auto-repair-richmond/
+2. Car Care USA | Organic #2 | Pulse Score 57.6/100 (Unrated, #1 in city) | Car Care USA is an auto repair shop in Richmond, TX at 21028 West Bellfort Street, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/car-care-usa-richmond/
+3. Express Oil Change | Organic #3 | Pulse Score 57.6/100 (Unrated, #2 in city) | Express Oil Change is an auto repair shop in Richmond, TX at 10705 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-richmond/
+4. Kwik Kar and Lube | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Kwik Kar and Lube is an auto repair shop in Richmond, TX at 1832 Fm 359, Richmond, TX 77469. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-and-lube-richmond/
+5. Long Meadow Car Care | Organic #5 | Pulse Score 57.6/100 (Unrated, #5 in city) | Long Meadow Car Care is an auto repair shop in Richmond, TX at 20941 West Bellfort Street, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/long-meadow-car-care-richmond/
+6. Jiffy Lube | Organic #6 | Pulse Score 47.6/100 (Building, #6 in city) | Jiffy Lube is an auto repair shop in Richmond, TX at 18434 West Airport Boulevard, Richmond, TX 77407. Phone: +13462682112. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-richmond/
+7. Caliber Collision | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Caliber Collision is an auto repair shop in Richmond, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair richmond tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

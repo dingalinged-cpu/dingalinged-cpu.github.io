@@ -13,7 +13,7 @@ Just Unique is a thrift store in Arlington Heights, IL at 628 East Golf Road, Ar
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 10:00-16:00
-- Registry Score: 60.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 13% of thrift stores in Chicago, #2 of 7 thrift stores in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

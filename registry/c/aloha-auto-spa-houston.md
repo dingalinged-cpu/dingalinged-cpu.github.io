@@ -13,7 +13,7 @@ Aloha Auto Spa is a car wash in Houston, TX at 700 West 11th Street, Houston, TX
 - Website: https://www.alohahtx.com/
 - Email: aloha@alohahtx.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-17:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of car washes in Houston, #1 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

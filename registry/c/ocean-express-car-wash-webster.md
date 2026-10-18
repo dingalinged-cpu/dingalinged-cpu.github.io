@@ -13,7 +13,7 @@ Ocean Express Car Wash is a car wash in Webster, TX at 3000 FM 528, Webster, TX 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 10% of car washes in Houston, #1 of 3 car washes in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.8, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

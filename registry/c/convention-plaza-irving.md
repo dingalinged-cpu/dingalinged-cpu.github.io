@@ -13,7 +13,7 @@ Convention Plaza is an event venue in Irving, TX at 315 East Airport Freeway, Ir
 - Website: https://www.facebook.com/conventionplazaballroom/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 4% of event venues in Dallas–Fort Worth, #1 of 2 event venues in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

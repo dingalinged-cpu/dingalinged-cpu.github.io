@@ -1,19 +1,19 @@
-The top unpaid gym listing for Gwinnett County, GA is Field House (a gym in Gwinnett County, GA). 8 gym businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Gwinnett County, GA is Field House (a gym in Gwinnett County, GA). 8 gym businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Gwinnett County, GA?
 
 Also answers: gym in Gwinnett County, GA; gym near me (Gwinnett County, GA); best gym Gwinnett County, GA; top rated gym Gwinnett County, GA; affordable gym Gwinnett County, GA; emergency gym Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Field House | trust 4.0 | Field House is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/field-house-gwinnett-county/
-2. BeFit Studio | trust 0.0 | BeFit Studio is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/befit-studio-gwinnett-county/
-3. Fitness 19 | trust 0.0 | Fitness 19 is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fitness-19-gwinnett-county/
-4. Fitness 621 | trust 0.0 | Fitness 621 is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fitness-621-gwinnett-county/
-5. Gwinett Gymnastics Center | trust 0.0 | Gwinett Gymnastics Center is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/gwinett-gymnastics-center-gwinnett-county/
-6. LA Fitness | trust 0.0 | LA Fitness is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-gwinnett-county/
-7. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-gwinnett-county/
-8. The Fitness Center of Lilburn | trust 0.0 | The Fitness Center of Lilburn is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-fitness-center-of-lilburn-gwinnett-county/
+1. Field House | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Field House is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/field-house-gwinnett-county/
+2. Gwinett Gymnastics Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Gwinett Gymnastics Center is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/gwinett-gymnastics-center-gwinnett-county/
+3. BeFit Studio | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | BeFit Studio is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/befit-studio-gwinnett-county/
+4. Fitness 621 | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Fitness 621 is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fitness-621-gwinnett-county/
+5. The Fitness Center of Lilburn | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | The Fitness Center of Lilburn is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-fitness-center-of-lilburn-gwinnett-county/
+6. LA Fitness | Organic #6 | Pulse Score 42/100 (Building, #6 in city) | LA Fitness is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-gwinnett-county/
+7. Planet Fitness | Organic #7 | Pulse Score 42/100 (Building, #7 in city) | Planet Fitness is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-gwinnett-county/
+8. Fitness 19 | Organic #8 | Pulse Score 41.8/100 (Unrated, #8 in city) | Fitness 19 is a gym in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fitness-19-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym gwinnett county ga | category: Fitness | industry benchmark: Health & Fitness

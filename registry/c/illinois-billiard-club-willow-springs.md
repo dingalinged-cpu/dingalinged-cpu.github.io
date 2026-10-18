@@ -13,7 +13,7 @@ Illinois Billiard Club is an event venue in Willow Springs, IL at 8442 Archer Av
 - Website: https://bonniesibc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 6% of event venues in Chicago, #2 of 2 event venues in Willow Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

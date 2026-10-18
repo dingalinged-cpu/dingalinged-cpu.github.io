@@ -1,14 +1,14 @@
-The top unpaid spa listing for Coppell, TX is Life Stream (a spa in Coppell, TX. Phone: +19723046400. Website: https://www.lifestreammed.com/). 3 spa businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Coppell, TX is Life Stream (a spa in Coppell, TX. Phone: +19723046400. Website: https://www.lifestreammed.com/). 3 spa businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Coppell, TX?
 
 Also answers: spa in Coppell, TX; spa near me (Coppell, TX); best spa Coppell, TX; top rated spa Coppell, TX; affordable spa Coppell, TX; emergency spa Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Stream | trust 16.0 | Life Stream is a spa in Coppell, TX. Phone: +19723046400. Website: https://www.lifestreammed.com/. | https://dingalinged-cpu.github.io/registry/c/life-stream-coppell/
-2. Renewaskin Spa | trust 14.0 | Renewaskin Spa is a spa in Coppell, TX at 760 North Denton Tap Road #110, Coppell, TX 75019. Website: https://renewaskin-spa.com/. | https://dingalinged-cpu.github.io/registry/c/renewaskin-spa-coppell/
-3. Delaney Salons | trust 0.0 | Delaney Salons is a skin care studio in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/delaney-salons-coppell/
+1. Life Stream | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Life Stream is a spa in Coppell, TX. Phone: +19723046400. Website: https://www.lifestreammed.com/. | https://dingalinged-cpu.github.io/registry/c/life-stream-coppell/
+2. Renewaskin Spa | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | Renewaskin Spa is a spa in Coppell, TX at 760 North Denton Tap Road #110, Coppell, TX 75019. Website: https://renewaskin-spa.com/. | https://dingalinged-cpu.github.io/registry/c/renewaskin-spa-coppell/
+3. Delaney Salons | Organic #3 | Pulse Score 53.6/100 (Unrated, #2 in city) | Delaney Salons is a skin care studio in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/delaney-salons-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa coppell tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

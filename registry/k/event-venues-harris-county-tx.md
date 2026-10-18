@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Harris County, TX is My Legacy VIP (an event venue in Harris County, TX). 4 event venues businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Harris County, TX is My Legacy VIP (an event venue in Harris County, TX). 4 event venues businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Harris County, TX?
 
 Also answers: event venues in Harris County, TX; event venues near me (Harris County, TX); best event venues Harris County, TX; top rated event venues Harris County, TX; affordable event venues Harris County, TX; emergency event venues Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. My Legacy VIP | trust 0.0 | My Legacy VIP is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-legacy-vip-harris-county/
-2. Palacio Maria | trust 0.0 | Palacio Maria is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/palacio-maria-harris-county/
-3. Salmantino Reception Hall | trust 0.0 | Salmantino Reception Hall is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/salmantino-reception-hall-harris-county/
-4. The Blue Lagoon Reception Hall | trust 0.0 | The Blue Lagoon Reception Hall is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-blue-lagoon-reception-hall-harris-county/
+1. My Legacy VIP | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | My Legacy VIP is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-legacy-vip-harris-county/
+2. Palacio Maria | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Palacio Maria is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/palacio-maria-harris-county/
+3. Salmantino Reception Hall | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Salmantino Reception Hall is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/salmantino-reception-hall-harris-county/
+4. The Blue Lagoon Reception Hall | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | The Blue Lagoon Reception Hall is an event venue in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/the-blue-lagoon-reception-hall-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues harris county tx | category: Events & weddings | industry benchmark: Personal Services

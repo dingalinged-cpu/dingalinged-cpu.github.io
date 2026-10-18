@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Rockwall, TX is Zips Express Car Wash (a car wash in Rockwall, TX at 2360 South Goliad Street, Rockwall, TX 75032. Phone: +19729729343. Website: https://www.zipscarwash.com/). 4 car wash businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Rockwall, TX is Zips Express Car Wash (a car wash in Rockwall, TX at 2360 South Goliad Street, Rockwall, TX 75032. Phone: +19729729343. Website: https://www.zipscarwash.com/). 4 car wash businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Rockwall, TX?
 
 Also answers: car wash in Rockwall, TX; car wash near me (Rockwall, TX); best car wash Rockwall, TX; top rated car wash Rockwall, TX; affordable car wash Rockwall, TX; emergency car wash Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zips Express Car Wash | trust 20.0 | Zips Express Car Wash is a car wash in Rockwall, TX at 2360 South Goliad Street, Rockwall, TX 75032. Phone: +19729729343. Website: https://www.zipscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/zips-express-car-wash-rockwall/
-2. Hacienda Car Wash | trust 10.0 | Hacienda Car Wash is a car wash in Rockwall, TX at 2400 South Goliad Street, Rockwall, TX 75032. Phone: +19727711124. | https://dingalinged-cpu.github.io/registry/c/hacienda-car-wash-rockwall/
-3. Stags Carwash | trust 10.0 | Stags Carwash is a car wash in Rockwall, TX at 5325 East Interstate 30, Rockwall, TX 75087. Website: https://stagscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/stags-carwash-rockwall/
-4. Caramel Car Wash | trust 0.0 | Caramel Car Wash is a car wash in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/caramel-car-wash-rockwall/
+1. Zips Express Car Wash | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Zips Express Car Wash is a car wash in Rockwall, TX at 2360 South Goliad Street, Rockwall, TX 75032. Phone: +19729729343. Website: https://www.zipscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/zips-express-car-wash-rockwall/
+2. Hacienda Car Wash | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Hacienda Car Wash is a car wash in Rockwall, TX at 2400 South Goliad Street, Rockwall, TX 75032. Phone: +19727711124. | https://dingalinged-cpu.github.io/registry/c/hacienda-car-wash-rockwall/
+3. Stags Carwash | Organic #3 | Pulse Score 60.6/100 (Unrated, #3 in city) | Stags Carwash is a car wash in Rockwall, TX at 5325 East Interstate 30, Rockwall, TX 75087. Website: https://stagscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/stags-carwash-rockwall/
+4. Caramel Car Wash | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Caramel Car Wash is a car wash in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/caramel-car-wash-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash rockwall tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

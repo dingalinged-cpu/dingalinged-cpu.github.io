@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Forsyth County, GA is Inspire Chiropractic (a chiropractor in Forsyth County, GA). 1 chiropractor businesses are listed for Forsyth County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Forsyth County, GA is Inspire Chiropractic (a chiropractor in Forsyth County, GA). 1 chiropractor businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Forsyth County, GA?
 
 Also answers: chiropractor in Forsyth County, GA; chiropractor near me (Forsyth County, GA); best chiropractor Forsyth County, GA; top rated chiropractor Forsyth County, GA; affordable chiropractor Forsyth County, GA; emergency chiropractor Forsyth County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Inspire Chiropractic | trust 0.0 | Inspire Chiropractic is a chiropractor in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/inspire-chiropractic-forsyth-county/
+1. Inspire Chiropractic | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Inspire Chiropractic is a chiropractor in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/inspire-chiropractic-forsyth-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor forsyth county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

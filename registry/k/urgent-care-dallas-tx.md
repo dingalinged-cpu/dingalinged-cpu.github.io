@@ -1,13 +1,13 @@
-The top unpaid urgent care listing for Dallas, TX is CareNow (an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/). 2 urgent care businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Dallas, TX is CareNow (an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/). 2 urgent care businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Dallas, TX?
 
 Also answers: urgent care in Dallas, TX; urgent care near me (Dallas, TX); best urgent care Dallas, TX; top rated urgent care Dallas, TX; affordable urgent care Dallas, TX; emergency urgent care Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CareNow | trust 16.0 | CareNow is an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/. | https://dingalinged-cpu.github.io/registry/c/carenow-dallas/
-2. CareNOW | trust 3.0 | CareNOW is an urgent care clinic in Dallas, TX at 9540 Garland Road #408, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/carenow-dallas-n13887660653/
+1. CareNow | Organic #1 | Pulse Score 45.4/100 (Building, #1 in city) | CareNow is an urgent care clinic in Dallas, TX at 39769 I-20, Dallas, TX 75237. Phone: +19727800802. Website: https://www.carenow.com/locations/dallas-fort-worth/i-20-and-wheatland/. | https://dingalinged-cpu.github.io/registry/c/carenow-dallas/
+2. CareNOW | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | CareNOW is an urgent care clinic in Dallas, TX at 9540 Garland Road #408, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/carenow-dallas-n13887660653/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

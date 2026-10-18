@@ -13,7 +13,7 @@ Ellie K Salon is a hair salon in Frisco, TX at 2552 Stonebrook Parkway #200, Fri
 - Website: https://ellieksalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu-Th 09:00-21:00; Fr,Sa 09:00-18:00
-- Registry Score: 66.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 2% of hair salons in Dallas–Fort Worth, #2 of 24 hair salons in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

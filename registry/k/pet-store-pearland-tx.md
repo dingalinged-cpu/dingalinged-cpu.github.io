@@ -1,12 +1,12 @@
-The top unpaid pet store listing for Pearland, TX is PetSmart (a pet store in Pearland, TX at 3119 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134365481. Website: https://www.petsmart.com/stores/us/tx/pearland-store1121.html). 1 pet store businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Pearland, TX is PetSmart (a pet store in Pearland, TX at 3119 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134365481. Website: https://www.petsmart.com/stores/us/tx/pearland-store1121.html). 1 pet store businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Pearland, TX?
 
 Also answers: pet store in Pearland, TX; pet store near me (Pearland, TX); best pet store Pearland, TX; top rated pet store Pearland, TX; affordable pet store Pearland, TX; emergency pet store Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Pearland, TX at 3119 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134365481. Website: https://www.petsmart.com/stores/us/tx/pearland-store1121.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-pearland/
+1. PetSmart | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | PetSmart is a pet store in Pearland, TX at 3119 Silverlake Village Drive, Pearland, TX 77584. Phone: +17134365481. Website: https://www.petsmart.com/stores/us/tx/pearland-store1121.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store pearland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,15 +1,15 @@
-The top unpaid vet listing for The Woodlands, TX is Animal Clinics Of The Woodlands - Alden Bridge (a veterinarian in The Woodlands, TX at 8000 Research Forest Drive #125, The Woodlands, TX 77382). 4 vet businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for The Woodlands, TX is Animal Clinics Of The Woodlands - Alden Bridge (a veterinarian in The Woodlands, TX at 8000 Research Forest Drive #125, The Woodlands, TX 77382). 4 vet businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in The Woodlands, TX?
 
 Also answers: vet in The Woodlands, TX; vet near me (The Woodlands, TX); best vet The Woodlands, TX; top rated vet The Woodlands, TX; affordable vet The Woodlands, TX; emergency vet The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Clinics Of The Woodlands - Alden Bridge | trust 4.0 | Animal Clinics Of The Woodlands - Alden Bridge is a veterinarian in The Woodlands, TX at 8000 Research Forest Drive #125, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/animal-clinics-of-the-woodlands-alden-bridge-the-woodlands/
-2. Animal Clinic | trust 0.0 | Animal Clinic is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/animal-clinic-the-woodlands/
-3. Bear Branch Animal Hospital | trust 0.0 | Bear Branch Animal Hospital is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/bear-branch-animal-hospital-the-woodlands/
-4. The Village Vet Animal Medical & Surgical Center | trust 0.0 | The Village Vet Animal Medical & Surgical Center is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-village-vet-animal-medical-and-surgical-center-the-woodlands/
+1. Animal Clinics Of The Woodlands - Alden Bridge | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Animal Clinics Of The Woodlands - Alden Bridge is a veterinarian in The Woodlands, TX at 8000 Research Forest Drive #125, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/animal-clinics-of-the-woodlands-alden-bridge-the-woodlands/
+2. Bear Branch Animal Hospital | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Bear Branch Animal Hospital is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/bear-branch-animal-hospital-the-woodlands/
+3. The Village Vet Animal Medical & Surgical Center | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | The Village Vet Animal Medical & Surgical Center is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/the-village-vet-animal-medical-and-surgical-center-the-woodlands/
+4. Animal Clinic | Organic #4 | Pulse Score 41.9/100 (Unrated, #4 in city) | Animal Clinic is a veterinarian in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/animal-clinic-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet the woodlands tx | category: Pets | industry benchmark: Animals & Pets

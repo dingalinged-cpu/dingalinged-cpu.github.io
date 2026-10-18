@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Maine Township, IL is Meineke (an auto repair shop in Des Plaines, IL at 9401 Golf Road, Des Plaines, IL 60016. Website: https://www.meineke.com/locations/il/des-plaines-871/). 1 mechanic businesses are listed for Maine Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Maine Township, IL is Meineke (an auto repair shop in Des Plaines, IL at 9401 Golf Road, Des Plaines, IL 60016. Website: https://www.meineke.com/locations/il/des-plaines-871/). 1 mechanic businesses are listed for Maine Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Maine Township, IL?
 
 Also answers: mechanic in Maine Township, IL; mechanic near me (Maine Township, IL); best mechanic Maine Township, IL; top rated mechanic Maine Township, IL; affordable mechanic Maine Township, IL; emergency mechanic Maine Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meineke | trust 10.0 | Meineke is an auto repair shop in Des Plaines, IL at 9401 Golf Road, Des Plaines, IL 60016. Website: https://www.meineke.com/locations/il/des-plaines-871/. | https://dingalinged-cpu.github.io/registry/c/meineke-des-plaines/
+1. Meineke | Organic #1 | Pulse Score 47.1/100 (Building, #10 in city) | Meineke is an auto repair shop in Des Plaines, IL at 9401 Golf Road, Des Plaines, IL 60016. Website: https://www.meineke.com/locations/il/des-plaines-871/. | https://dingalinged-cpu.github.io/registry/c/meineke-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic maine township il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

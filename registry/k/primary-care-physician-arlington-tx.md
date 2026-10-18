@@ -1,13 +1,13 @@
-The top unpaid primary care physician listing for Arlington, TX is First Primary Care (a family medicine practice in Arlington, TX at 1216 Florida Drive #120, Arlington, TX 76015. Phone: +18177610338. Website: https://www.firstprimarycare.com/). 2 primary care physician businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Arlington, TX is Medico M.D. (a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/). 2 primary care physician businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Arlington, TX?
 
 Also answers: primary care physician in Arlington, TX; primary care physician near me (Arlington, TX); best primary care physician Arlington, TX; top rated primary care physician Arlington, TX; affordable primary care physician Arlington, TX; emergency primary care physician Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Primary Care | trust 20.0 | First Primary Care is a family medicine practice in Arlington, TX at 1216 Florida Drive #120, Arlington, TX 76015. Phone: +18177610338. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-arlington/
-2. Medico M.D. | trust 15.0 | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://dingalinged-cpu.github.io/registry/c/medico-m-d-arlington/
+1. Medico M.D. | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://dingalinged-cpu.github.io/registry/c/medico-m-d-arlington/
+2. First Primary Care | Organic #2 | Pulse Score 50/100 (Fair, #2 in city) | First Primary Care is a family medicine practice in Arlington, TX at 1216 Florida Drive #120, Arlington, TX 76015. Phone: +18177610338. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician arlington tx | category: Health & medical | industry benchmark: Physicians & Surgeons

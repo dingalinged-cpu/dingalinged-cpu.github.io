@@ -1,15 +1,15 @@
-The top unpaid daycare listing for Evansville, WI is Kids & Kids (a daycare in Evansville, WI at 457 West Main Street, Evansville, WI 53536. Phone: +16088821279). 4 daycare businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Evansville, WI is Kids Korner (a daycare in Evansville, WI at 264 Lincoln Street, Evansville, WI 53536. Phone: +16088826672). 4 daycare businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Evansville, WI?
 
 Also answers: daycare in Evansville, WI; daycare near me (Evansville, WI); best daycare Evansville, WI; top rated daycare Evansville, WI; affordable daycare Evansville, WI; emergency daycare Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kids & Kids | trust 10.0 | Kids & Kids is a daycare in Evansville, WI at 457 West Main Street, Evansville, WI 53536. Phone: +16088821279. | https://dingalinged-cpu.github.io/registry/c/kids-and-kids-evansville/
-2. Kids Korner | trust 10.0 | Kids Korner is a daycare in Evansville, WI at 264 Lincoln Street, Evansville, WI 53536. Phone: +16088826672. | https://dingalinged-cpu.github.io/registry/c/kids-korner-evansville/
-3. Kids & Kids | trust 9.0 | Kids & Kids is a daycare in Evansville, WI at 295 South Union Street, Evansville, WI. Phone: +16083332189. | https://dingalinged-cpu.github.io/registry/c/kids-and-kids-evansville-w1305841502/
-4. Wee Ones | trust 4.0 | Wee Ones is a daycare in Evansville, WI at 618 West Porter Road, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/wee-ones-evansville/
+1. Kids Korner | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Kids Korner is a daycare in Evansville, WI at 264 Lincoln Street, Evansville, WI 53536. Phone: +16088826672. | https://dingalinged-cpu.github.io/registry/c/kids-korner-evansville/
+2. Kids & Kids | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Kids & Kids is a daycare in Evansville, WI at 457 West Main Street, Evansville, WI 53536. Phone: +16088821279. | https://dingalinged-cpu.github.io/registry/c/kids-and-kids-evansville/
+3. Kids & Kids | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Kids & Kids is a daycare in Evansville, WI at 295 South Union Street, Evansville, WI. Phone: +16083332189. | https://dingalinged-cpu.github.io/registry/c/kids-and-kids-evansville-w1305841502/
+4. Wee Ones | Organic #4 | Pulse Score 56.6/100 (Unrated, #4 in city) | Wee Ones is a daycare in Evansville, WI at 618 West Porter Road, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/wee-ones-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare evansville wi | category: Education & childcare | industry benchmark: Education & Instruction

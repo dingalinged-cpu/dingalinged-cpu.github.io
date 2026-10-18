@@ -1,18 +1,18 @@
-The top unpaid auto repair listing for Sandy Springs, GA is McCullough NAPA Auto Care (an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/). 7 auto repair businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Sandy Springs, GA is McCullough NAPA Auto Care (an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/). 7 auto repair businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Sandy Springs, GA?
 
 Also answers: auto repair in Sandy Springs, GA; auto repair near me (Sandy Springs, GA); best auto repair Sandy Springs, GA; top rated auto repair Sandy Springs, GA; affordable auto repair Sandy Springs, GA; emergency auto repair Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. McCullough NAPA Auto Care | trust 16.0 | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://dingalinged-cpu.github.io/registry/c/mccullough-napa-auto-care-atlanta/
-2. Pep Boys | trust 16.0 | Pep Boys is an auto repair shop in Sandy Springs, GA at 224 Hammond Drive Northeast, Sandy Springs, GA 30328. Phone: +14042564195. Website: https://www.pepboys.com/. | https://dingalinged-cpu.github.io/registry/c/pep-boys-sandy-springs/
-3. Jiffy Lube | trust 3.0 | Jiffy Lube is an auto repair shop in Atlanta, GA at 7505 Roswell Road, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-atlanta/
-4. Abra Auto Body & Glass | trust 0.0 | Abra Auto Body & Glass is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/abra-auto-body-and-glass-sandy-springs/
-5. Firestone | trust 0.0 | Firestone is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-sandy-springs/
-6. Nalley Ford | trust 0.0 | Nalley Ford is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/nalley-ford-sandy-springs/
-7. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-sandy-springs-w289321406/
+1. McCullough NAPA Auto Care | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | McCullough NAPA Auto Care is an auto repair shop in Atlanta, GA at 5810 Roswell Road, Atlanta, GA 30328. Phone: +14042523014. Website: https://www.napacarcare.com/. | https://dingalinged-cpu.github.io/registry/c/mccullough-napa-auto-care-atlanta/
+2. Pep Boys | Organic #2 | Pulse Score 47.2/100 (Building, #1 in city) | Pep Boys is an auto repair shop in Sandy Springs, GA at 224 Hammond Drive Northeast, Sandy Springs, GA 30328. Phone: +14042564195. Website: https://www.pepboys.com/. | https://dingalinged-cpu.github.io/registry/c/pep-boys-sandy-springs/
+3. Jiffy Lube | Organic #3 | Pulse Score 44.1/100 (Building, #44 in city) | Jiffy Lube is an auto repair shop in Atlanta, GA at 7505 Roswell Road, Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-atlanta/
+4. Firestone | Organic #4 | Pulse Score 42.9/100 (Building, #2 in city) | Firestone is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-sandy-springs/
+5. Nalley Ford | Organic #5 | Pulse Score 42.7/100 (Building, #3 in city) | Nalley Ford is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/nalley-ford-sandy-springs/
+6. Pep Boys | Organic #6 | Pulse Score 42.4/100 (Building, #4 in city) | Pep Boys is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-sandy-springs-w289321406/
+7. Abra Auto Body & Glass | Organic #7 | Pulse Score 42.1/100 (Unrated, #5 in city) | Abra Auto Body & Glass is an auto repair shop in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/abra-auto-body-and-glass-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair sandy springs ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

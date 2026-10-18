@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Markham, IL at 2915 West 159th Street, Mark
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.6/100 — Building — top 81% of self-storage facilitys in Chicago, #2 of 3 self-storage facilitys in Markham (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.9, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

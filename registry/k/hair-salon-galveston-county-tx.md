@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Galveston County, TX is Angel's Barber Shop (a hair salon in Galveston County, TX). 3 hair salon businesses are listed for Galveston County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Galveston County, TX is Angel's Barber Shop (a hair salon in Galveston County, TX). 3 hair salon businesses are listed for Galveston County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Galveston County, TX?
 
 Also answers: hair salon in Galveston County, TX; hair salon near me (Galveston County, TX); best hair salon Galveston County, TX; top rated hair salon Galveston County, TX; affordable hair salon Galveston County, TX; emergency hair salon Galveston County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angel's Barber Shop | trust 0.0 | Angel's Barber Shop is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/angels-barber-shop-galveston-county/
-2. Mary Rose Haircut | trust 0.0 | Mary Rose Haircut is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/mary-rose-haircut-galveston-county/
-3. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-galveston-county/
+1. Angel's Barber Shop | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Angel's Barber Shop is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/angels-barber-shop-galveston-county/
+2. Mary Rose Haircut | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mary Rose Haircut is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/mary-rose-haircut-galveston-county/
+3. Sport Clips | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | Sport Clips is a hair salon in Galveston County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-galveston-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon galveston county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

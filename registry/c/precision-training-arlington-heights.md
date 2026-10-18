@@ -13,7 +13,7 @@ Precision Training is a gym in Arlington Heights, IL at 652 East Golf Road, Arli
 - Website: https://www.precisiontrainingpt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 06:00-21:00; Fr 06:00-19:00; Sa 06:00-16:00
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 7% of gyms in Chicago, #1 of 9 gyms in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

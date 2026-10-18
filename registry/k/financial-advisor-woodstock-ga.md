@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Woodstock, GA is Chase (a financial advisor in Woodstock, GA at 9859 Highway 92, Woodstock, GA 30188. Phone: +16782850040. Website: https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92). 2 financial advisor businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Woodstock, GA is Chase (a financial advisor in Woodstock, GA at 9859 Highway 92, Woodstock, GA 30188. Phone: +16782850040. Website: https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92). 2 financial advisor businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Woodstock, GA?
 
 Also answers: financial advisor in Woodstock, GA; financial advisor near me (Woodstock, GA); best financial advisor Woodstock, GA; top rated financial advisor Woodstock, GA; affordable financial advisor Woodstock, GA; emergency financial advisor Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chase | trust 20.0 | Chase is a financial advisor in Woodstock, GA at 9859 Highway 92, Woodstock, GA 30188. Phone: +16782850040. Website: https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92. | https://dingalinged-cpu.github.io/registry/c/chase-woodstock/
-2. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/edward-jones-woodstock/
+1. Chase | Organic #1 | Pulse Score 50.6/100 (Unrated, #1 in city) | Chase is a financial advisor in Woodstock, GA at 9859 Highway 92, Woodstock, GA 30188. Phone: +16782850040. Website: https://www.chase.com/locator/banking/us/ga/woodstock/9859-highway-92. | https://dingalinged-cpu.github.io/registry/c/chase-woodstock/
+2. Edward Jones | Organic #2 | Pulse Score 44/100 (Building, #2 in city) | Edward Jones is a financial advisor in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/edward-jones-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

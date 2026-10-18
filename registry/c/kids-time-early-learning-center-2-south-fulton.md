@@ -13,7 +13,7 @@ Kid's Time Early Learning Center #2 is a preschool in South Fulton, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.8/100 — Unrated (not enough evidence yet) — top 56% of preschools in Atlanta, #1 of 1 preschools in South Fulton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.2, Trust 41.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

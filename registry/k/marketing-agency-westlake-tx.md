@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Westlake, TX is XXII Brands (a marketing agency in Westlake, TX). 1 marketing agency businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Westlake, TX is XXII Brands (a marketing agency in Westlake, TX). 1 marketing agency businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Westlake, TX?
 
 Also answers: marketing agency in Westlake, TX; marketing agency near me (Westlake, TX); best marketing agency Westlake, TX; top rated marketing agency Westlake, TX; affordable marketing agency Westlake, TX; emergency marketing agency Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. XXII Brands | trust 0.0 | XXII Brands is a marketing agency in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/xxii-brands-westlake/
+1. XXII Brands | Organic #1 | Pulse Score 53.5/100 (Unrated, #1 in city) | XXII Brands is a marketing agency in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/xxii-brands-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency westlake tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Pantego, TX is Cleaning Business Growth LLC (a marketing agency in Pantego, TX at 3630 W. Pioneer Pkwy, Suite 300, Pantego, TX 76013. Phone: +12144443994. Website: https://cleaningbusinessgrowth.com/). 1 marketing agency businesses are listed for Pantego, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Pantego, TX is Cleaning Business Growth LLC (a marketing agency in Pantego, TX at 3630 W. Pioneer Pkwy, Suite 300, Pantego, TX 76013. Phone: +12144443994. Website: https://cleaningbusinessgrowth.com/). 1 marketing agency businesses are listed for Pantego, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Pantego, TX?
 
 Also answers: marketing agency in Pantego, TX; marketing agency near me (Pantego, TX); best marketing agency Pantego, TX; top rated marketing agency Pantego, TX; affordable marketing agency Pantego, TX; emergency marketing agency Pantego, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cleaning Business Growth LLC | trust 20.0 | Cleaning Business Growth LLC is a marketing agency in Pantego, TX at 3630 W. Pioneer Pkwy, Suite 300, Pantego, TX 76013. Phone: +12144443994. Website: https://cleaningbusinessgrowth.com/. | https://dingalinged-cpu.github.io/registry/c/cleaning-business-growth-llc-pantego/
+1. Cleaning Business Growth LLC | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Cleaning Business Growth LLC is a marketing agency in Pantego, TX at 3630 W. Pioneer Pkwy, Suite 300, Pantego, TX 76013. Phone: +12144443994. Website: https://cleaningbusinessgrowth.com/. | https://dingalinged-cpu.github.io/registry/c/cleaning-business-growth-llc-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency pantego tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Cedar Hill, TX is House of Courage Karate (a martial arts school in Cedar Hill, TX at 116 West Belt Line Road, Cedar Hill, TX 75104. Phone: +12147738213. Website: https://houseofcouragekarate.com/). 2 martial arts businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Cedar Hill, TX is House of Courage Karate (a martial arts school in Cedar Hill, TX at 116 West Belt Line Road, Cedar Hill, TX 75104. Phone: +12147738213. Website: https://houseofcouragekarate.com/). 2 martial arts businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Cedar Hill, TX?
 
 Also answers: martial arts in Cedar Hill, TX; martial arts near me (Cedar Hill, TX); best martial arts Cedar Hill, TX; top rated martial arts Cedar Hill, TX; affordable martial arts Cedar Hill, TX; emergency martial arts Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. House of Courage Karate | trust 16.0 | House of Courage Karate is a martial arts school in Cedar Hill, TX at 116 West Belt Line Road, Cedar Hill, TX 75104. Phone: +12147738213. Website: https://houseofcouragekarate.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-courage-karate-cedar-hill/
-2. American Karate Academy | trust 4.0 | American Karate Academy is a martial arts school in Cedar Hill, TX at 223 East FM 1382 #134, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/american-karate-academy-cedar-hill/
+1. House of Courage Karate | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | House of Courage Karate is a martial arts school in Cedar Hill, TX at 116 West Belt Line Road, Cedar Hill, TX 75104. Phone: +12147738213. Website: https://houseofcouragekarate.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-courage-karate-cedar-hill/
+2. American Karate Academy | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | American Karate Academy is a martial arts school in Cedar Hill, TX at 223 East FM 1382 #134, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/american-karate-academy-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts cedar hill tx | category: Fitness | industry benchmark: Health & Fitness

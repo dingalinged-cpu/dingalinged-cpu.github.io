@@ -13,7 +13,7 @@ The UPS Store is a printing service in Richardson, TX at 224 West Campbell Road,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-15:00
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Building — top 26% of printing services in Dallas–Fort Worth, #3 of 10 printing services in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

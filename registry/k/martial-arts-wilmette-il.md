@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Wilmette, IL is Traditional Karate Center (a martial arts school in Wilmette, IL at 3545 Lake Avenue, Wilmette, IL 60091. Phone: +18472511600. Website: https://www.traditionalkaratecenter.com/). 1 martial arts businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Wilmette, IL is Traditional Karate Center (a martial arts school in Wilmette, IL at 3545 Lake Avenue, Wilmette, IL 60091. Phone: +18472511600. Website: https://www.traditionalkaratecenter.com/). 1 martial arts businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Wilmette, IL?
 
 Also answers: martial arts in Wilmette, IL; martial arts near me (Wilmette, IL); best martial arts Wilmette, IL; top rated martial arts Wilmette, IL; affordable martial arts Wilmette, IL; emergency martial arts Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Traditional Karate Center | trust 16.0 | Traditional Karate Center is a martial arts school in Wilmette, IL at 3545 Lake Avenue, Wilmette, IL 60091. Phone: +18472511600. Website: https://www.traditionalkaratecenter.com/. | https://dingalinged-cpu.github.io/registry/c/traditional-karate-center-wilmette/
+1. Traditional Karate Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Traditional Karate Center is a martial arts school in Wilmette, IL at 3545 Lake Avenue, Wilmette, IL 60091. Phone: +18472511600. Website: https://www.traditionalkaratecenter.com/. | https://dingalinged-cpu.github.io/registry/c/traditional-karate-center-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts wilmette il | category: Fitness | industry benchmark: Health & Fitness

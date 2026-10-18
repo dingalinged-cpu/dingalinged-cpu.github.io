@@ -13,7 +13,7 @@ Grease Monkey is an auto repair shop in Lawrenceville, GA at 910 Herrington Road
 - Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 10:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 72% of auto repair shops in Atlanta, #1 of 1 auto repair shops in Lawrenceville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

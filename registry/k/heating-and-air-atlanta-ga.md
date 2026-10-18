@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Atlanta, GA is Hunter Heating And Air Conditioning (a HVAC contractor in Atlanta, GA at 2021 Manchester Street Northeast, Atlanta, GA. Phone: +14048767700. Website: https://www.hunterhvac.net/). 1 heating and air businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Atlanta, GA is Hunter Heating And Air Conditioning (a HVAC contractor in Atlanta, GA at 2021 Manchester Street Northeast, Atlanta, GA. Phone: +14048767700. Website: https://www.hunterhvac.net/). 1 heating and air businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Atlanta, GA?
 
 Also answers: heating and air in Atlanta, GA; heating and air near me (Atlanta, GA); best heating and air Atlanta, GA; top rated heating and air Atlanta, GA; affordable heating and air Atlanta, GA; emergency heating and air Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hunter Heating And Air Conditioning | trust 19.0 | Hunter Heating And Air Conditioning is a HVAC contractor in Atlanta, GA at 2021 Manchester Street Northeast, Atlanta, GA. Phone: +14048767700. Website: https://www.hunterhvac.net/. | https://dingalinged-cpu.github.io/registry/c/hunter-heating-and-air-conditioning-atlanta/
+1. Hunter Heating And Air Conditioning | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | Hunter Heating And Air Conditioning is a HVAC contractor in Atlanta, GA at 2021 Manchester Street Northeast, Atlanta, GA. Phone: +14048767700. Website: https://www.hunterhvac.net/. | https://dingalinged-cpu.github.io/registry/c/hunter-heating-and-air-conditioning-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air atlanta ga | category: Home Services | industry benchmark: Home & Home Improvement

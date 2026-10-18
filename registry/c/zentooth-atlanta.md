@@ -13,7 +13,7 @@ Zentooth is a dentist in Atlanta, GA at 999 Peachtree Street Northeast #705, Atl
 - Website: https://www.zentooth.com/
 - Email: office@zentooth.com
 - Opening hours (OSM syntax): Mo-Th 08:00-16:00; Fr 07:30-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 8% of dentists in Atlanta, #3 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

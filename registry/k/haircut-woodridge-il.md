@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Woodridge, IL is A&O Hair Braiding (a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/). 4 haircut businesses are listed for Woodridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Woodridge, IL is A&O Hair Braiding (a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/). 4 haircut businesses are listed for Woodridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Woodridge, IL?
 
 Also answers: haircut in Woodridge, IL; haircut near me (Woodridge, IL); best haircut Woodridge, IL; top rated haircut Woodridge, IL; affordable haircut Woodridge, IL; emergency haircut Woodridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A&O Hair Braiding | trust 20.0 | A&O Hair Braiding is a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-o-hair-braiding-woodridge/
-2. Barbers | trust 4.0 | Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/barbers-woodridge/
-3. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-woodridge/
-4. Village Barbers | trust 0.0 | Village Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/village-barbers-woodridge/
+1. A&O Hair Braiding | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | A&O Hair Braiding is a hair salon in Woodridge, IL at 8276 Janes Avenue, Woodridge, IL 60517. Phone: +16306997607. Website: https://aobraidingshop.com/. | https://dingalinged-cpu.github.io/registry/c/a-and-o-hair-braiding-woodridge/
+2. Barbers | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/barbers-woodridge/
+3. Village Barbers | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Village Barbers is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/village-barbers-woodridge/
+4. Sport Clips | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Sport Clips is a hair salon in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut woodridge il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

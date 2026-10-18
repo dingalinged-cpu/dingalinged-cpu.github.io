@@ -13,7 +13,7 @@ Roosevelt Cleaners is a dry cleaner in Chicago, IL at 734 South Dearborn Street,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:30; Sa 09:00-17:00
-- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 4% of dry cleaners in Chicago, #6 of 97 dry cleaners in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 63.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

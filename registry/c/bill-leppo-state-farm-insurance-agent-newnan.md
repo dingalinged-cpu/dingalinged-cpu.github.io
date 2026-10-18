@@ -13,7 +13,7 @@ Bill Leppo - State Farm Insurance Agent is an insurance agent in Newnan, GA at 2
 - Website: https://www.insurecoweta.com/
 - Email: bill.leppo.g74z@statefarm.com
 - Opening hours (OSM syntax): Monday-Friday: 8:30 am-5:00 pm; Saturday and Sunday: Closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 5% of insurance agents in Atlanta, #1 of 2 insurance agents in Newnan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

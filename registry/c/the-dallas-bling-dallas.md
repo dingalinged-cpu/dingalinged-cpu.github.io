@@ -13,7 +13,7 @@ The Dallas Bling is a jewelry store in Dallas, TX at 8500 North Stemmons Freeway
 - Website: https://dallasbling.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment only"
-- Registry Score: 67.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 1% of jewelry stores in Dallas–Fort Worth, #1 of 35 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 64. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

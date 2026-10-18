@@ -13,7 +13,7 @@ IKEA is a furniture store in Oak Creek, WI at 7500 South Ikea Way, Oak Creek, WI
 - Website: https://www.ikea.com/us/en/stores/oak-creek/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 10:00-18:00
-- Registry Score: 48.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 75% of furniture stores in Milwaukee, #3 of 4 furniture stores in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

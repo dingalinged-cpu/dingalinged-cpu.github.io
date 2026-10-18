@@ -13,7 +13,7 @@ west elm is a furniture store in Plano, TX. Website: https://westelm.com/.
 - Website: https://westelm.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 12:00-18:00
-- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 60% of furniture stores in Dallas–Fort Worth, #6 of 12 furniture stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

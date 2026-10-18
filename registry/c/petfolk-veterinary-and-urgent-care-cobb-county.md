@@ -13,7 +13,7 @@ Petfolk Veterinary & Urgent Care is a veterinarian in Cobb County, GA at 1155 Er
 - Website: https://petfolk.com/locations/atlanta-ga/vet-clinics/kennesaw
 - Email: n/a
 - Opening hours (OSM syntax): 08:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 40% of veterinarians in Atlanta, #9 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

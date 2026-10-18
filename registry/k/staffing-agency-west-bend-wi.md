@@ -1,13 +1,13 @@
-The top unpaid staffing agency listing for West Bend, WI is Alliance Services (a staffing agency in West Bend, WI). 2 staffing agency businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for West Bend, WI is Alliance Services (a staffing agency in West Bend, WI). 2 staffing agency businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in West Bend, WI?
 
 Also answers: staffing agency in West Bend, WI; staffing agency near me (West Bend, WI); best staffing agency West Bend, WI; top rated staffing agency West Bend, WI; affordable staffing agency West Bend, WI; emergency staffing agency West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alliance Services | trust 0.0 | Alliance Services is a staffing agency in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/alliance-services-west-bend/
-2. SEEK | trust 0.0 | SEEK is a staffing agency in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/seek-west-bend/
+1. Alliance Services | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Alliance Services is a staffing agency in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/alliance-services-west-bend/
+2. SEEK | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | SEEK is a staffing agency in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/seek-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency west bend wi | category: b2b_services | industry benchmark: Business Services

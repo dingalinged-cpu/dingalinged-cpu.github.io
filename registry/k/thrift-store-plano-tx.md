@@ -1,17 +1,17 @@
-The top unpaid thrift store listing for Plano, TX is Hope's Door (a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store). 6 thrift store businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Plano, TX is Hope's Door (a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store). 6 thrift store businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Plano, TX?
 
 Also answers: thrift store in Plano, TX; thrift store near me (Plano, TX); best thrift store Plano, TX; top rated thrift store Plano, TX; affordable thrift store Plano, TX; emergency thrift store Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hope's Door | trust 20.0 | Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store. | https://dingalinged-cpu.github.io/registry/c/hopes-door-plano/
-2. Plaza Thrift | trust 14.0 | Plaza Thrift is a thrift store in Plano, TX at 3115 West Parker Road, Plano, TX 75023. Website: https://plazathrift.com/. | https://dingalinged-cpu.github.io/registry/c/plaza-thrift-plano/
-3. The Plaid Tag | trust 14.0 | The Plaid Tag is a thrift store in Plano, TX at 2436 K Avenue, Plano, TX 75074. Website: https://theplaidtag.com/. | https://dingalinged-cpu.github.io/registry/c/the-plaid-tag-plano/
-4. Family Thrift Outlett | trust 8.0 | Family Thrift Outlett is a thrift store in Plano, TX at 2430 K Avenue, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/family-thrift-outlett-plano/
-5. Goodwill | trust 0.0 | Goodwill is a thrift store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-plano/
-6. The Salvation Army | trust 0.0 | The Salvation Army is a thrift store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-plano/
+1. Hope's Door | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano, TX 75023. Phone: +19727690610. Website: https://hdnbc.org/resale-store. | https://dingalinged-cpu.github.io/registry/c/hopes-door-plano/
+2. Plaza Thrift | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Plaza Thrift is a thrift store in Plano, TX at 3115 West Parker Road, Plano, TX 75023. Website: https://plazathrift.com/. | https://dingalinged-cpu.github.io/registry/c/plaza-thrift-plano/
+3. The Plaid Tag | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | The Plaid Tag is a thrift store in Plano, TX at 2436 K Avenue, Plano, TX 75074. Website: https://theplaidtag.com/. | https://dingalinged-cpu.github.io/registry/c/the-plaid-tag-plano/
+4. Family Thrift Outlett | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Family Thrift Outlett is a thrift store in Plano, TX at 2430 K Avenue, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/family-thrift-outlett-plano/
+5. Goodwill | Organic #5 | Pulse Score 42.1/100 (Building, #5 in city) | Goodwill is a thrift store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-plano/
+6. The Salvation Army | Organic #6 | Pulse Score 41.4/100 (Building, #6 in city) | The Salvation Army is a thrift store in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store plano tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

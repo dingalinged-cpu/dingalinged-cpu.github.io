@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Highland Park, IL is Walled Lake Planning & Wealth Management (a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/). 2 financial advisor businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Highland Park, IL is Walled Lake Planning & Wealth Management (a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/). 2 financial advisor businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Highland Park, IL?
 
 Also answers: financial advisor in Highland Park, IL; financial advisor near me (Highland Park, IL); best financial advisor Highland Park, IL; top rated financial advisor Highland Park, IL; affordable financial advisor Highland Park, IL; emergency financial advisor Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Walled Lake Planning & Wealth Management | trust 20.0 | Walled Lake Planning & Wealth Management is a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/. | https://dingalinged-cpu.github.io/registry/c/walled-lake-planning-and-wealth-management-highland-park/
-2. Fidelity Investments | trust 8.0 | Fidelity Investments is a financial advisor in Highland Park, IL at 1 Skokie Valley Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-highland-park/
+1. Walled Lake Planning & Wealth Management | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Walled Lake Planning & Wealth Management is a financial advisor in Highland Park, IL at 600 Elm Place, Highland Park, IL 60035. Phone: +18476162590. Website: https://wlpwm.com/. | https://dingalinged-cpu.github.io/registry/c/walled-lake-planning-and-wealth-management-highland-park/
+2. Fidelity Investments | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Fidelity Investments is a financial advisor in Highland Park, IL at 1 Skokie Valley Road, Highland Park, IL 60035. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor highland park il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,14 +1,14 @@
-The top unpaid car inspection listing for Atlanta, GA is DEKRA Emissions & Safety (a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/). 3 car inspection businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Atlanta, GA is All Season Emission (a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657). 3 car inspection businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Atlanta, GA?
 
 Also answers: car inspection in Atlanta, GA; car inspection near me (Atlanta, GA); best car inspection Atlanta, GA; top rated car inspection Atlanta, GA; affordable car inspection Atlanta, GA; emergency car inspection Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DEKRA Emissions & Safety | trust 19.0 | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-atlanta/
-2. All Season Emission | trust 10.0 | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://dingalinged-cpu.github.io/registry/c/all-season-emission-atlanta/
-3. Emissions | trust 0.0 | Emissions is a vehicle inspection station in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/emissions-atlanta/
+1. All Season Emission | Organic #1 | Pulse Score 57.6/100 (Fair, #1 in city) | All Season Emission is a vehicle inspection station in Atlanta, GA at 157 North Avenue Northeast, Atlanta, GA 30308. Phone: +14048490657. | https://dingalinged-cpu.github.io/registry/c/all-season-emission-atlanta/
+2. Emissions | Organic #2 | Pulse Score 56.2/100 (Fair, #2 in city) | Emissions is a vehicle inspection station in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/emissions-atlanta/
+3. DEKRA Emissions & Safety | Organic #3 | Pulse Score 48.7/100 (Building, #3 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Atlanta, GA at 1180 Collier Road Northwest, Atlanta, GA. Phone: +14043513062. Website: https://www.dekra.us/en/georgia/atlanta-1180-collier-rd/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection atlanta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

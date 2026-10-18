@@ -1,13 +1,13 @@
-The top unpaid dermatologist listing for Marietta, GA is Atlanta MediSpa (a dermatologist in Marietta, GA at 1232 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16782132220. Website: https://www.atlantamedispas.org/). 2 dermatologist businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Marietta, GA is Atlanta MediSpa (a dermatologist in Marietta, GA at 1232 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16782132220. Website: https://www.atlantamedispas.org/). 2 dermatologist businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Marietta, GA?
 
 Also answers: dermatologist in Marietta, GA; dermatologist near me (Marietta, GA); best dermatologist Marietta, GA; top rated dermatologist Marietta, GA; affordable dermatologist Marietta, GA; emergency dermatologist Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta MediSpa | trust 20.0 | Atlanta MediSpa is a dermatologist in Marietta, GA at 1232 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16782132220. Website: https://www.atlantamedispas.org/. | https://dingalinged-cpu.github.io/registry/c/atlanta-medispa-marietta/
-2. Dermatology Consultants | trust 8.0 | Dermatology Consultants is a dermatologist in Marietta, GA at 4800 Olde Towne Parkway Northeast #250, Marietta, GA 30068. | https://dingalinged-cpu.github.io/registry/c/dermatology-consultants-marietta/
+1. Atlanta MediSpa | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Atlanta MediSpa is a dermatologist in Marietta, GA at 1232 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16782132220. Website: https://www.atlantamedispas.org/. | https://dingalinged-cpu.github.io/registry/c/atlanta-medispa-marietta/
+2. Dermatology Consultants | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Dermatology Consultants is a dermatologist in Marietta, GA at 4800 Olde Towne Parkway Northeast #250, Marietta, GA 30068. | https://dingalinged-cpu.github.io/registry/c/dermatology-consultants-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist marietta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

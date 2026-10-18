@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Brookfield, WI is Brew City Barber (a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/). 10 haircut businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Brookfield, WI is Brew City Barber (a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/). 10 haircut businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Brookfield, WI?
 
 Also answers: haircut in Brookfield, WI; haircut near me (Brookfield, WI); best haircut Brookfield, WI; top rated haircut Brookfield, WI; affordable haircut Brookfield, WI; emergency haircut Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brew City Barber | trust 20.0 | Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/. | https://dingalinged-cpu.github.io/registry/c/brew-city-barber-brookfield/
-2. Cheveux Salon | trust 4.0 | Cheveux Salon is a hair salon in Brookfield, WI at 2425 North 124th Street, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/cheveux-salon-brookfield/
-3. Great Clips | trust 4.0 | Great Clips is a hair salon in Brookfield, WI at 12455 West Capitol Drive #D, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield-n10828078159/
-4. From Hair On | trust 0.0 | From Hair On is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/from-hair-on-brookfield/
-5. Great Clips | trust 0.0 | Great Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield/
-6. Men's Hair House | trust 0.0 | Men's Hair House is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-brookfield/
-7. Pigtails and Crewcuts | trust 0.0 | Pigtails and Crewcuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/pigtails-and-crewcuts-brookfield/
-8. Salon Suites | trust 0.0 | Salon Suites is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/salon-suites-brookfield/
-9. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-brookfield/
-10. Supercuts | trust 0.0 | Supercuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-brookfield/
+1. Brew City Barber | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Brew City Barber is a barber shop in Brookfield, WI at 14625 Capitol Drive #202, Brookfield, WI 53005. Phone: +14144121155. Website: https://brewcitybarber.com/. | https://dingalinged-cpu.github.io/registry/c/brew-city-barber-brookfield/
+2. Cheveux Salon | Organic #2 | Pulse Score 57.3/100 (Unrated, #1 in city) | Cheveux Salon is a hair salon in Brookfield, WI at 2425 North 124th Street, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/cheveux-salon-brookfield/
+3. From Hair On | Organic #3 | Pulse Score 54.1/100 (Unrated, #2 in city) | From Hair On is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/from-hair-on-brookfield/
+4. Pigtails and Crewcuts | Organic #4 | Pulse Score 54.1/100 (Unrated, #3 in city) | Pigtails and Crewcuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/pigtails-and-crewcuts-brookfield/
+5. Salon Suites | Organic #5 | Pulse Score 54.1/100 (Unrated, #4 in city) | Salon Suites is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/salon-suites-brookfield/
+6. Great Clips | Organic #6 | Pulse Score 44/100 (Building, #5 in city) | Great Clips is a hair salon in Brookfield, WI at 12455 West Capitol Drive #D, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield-n10828078159/
+7. Men's Hair House | Organic #7 | Pulse Score 43/100 (Unrated, #6 in city) | Men's Hair House is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-brookfield/
+8. Great Clips | Organic #8 | Pulse Score 41.8/100 (Building, #7 in city) | Great Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookfield/
+9. Sport Clips | Organic #9 | Pulse Score 41.8/100 (Building, #8 in city) | Sport Clips is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-brookfield/
+10. Supercuts | Organic #10 | Pulse Score 41.8/100 (Building, #9 in city) | Supercuts is a hair salon in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut brookfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

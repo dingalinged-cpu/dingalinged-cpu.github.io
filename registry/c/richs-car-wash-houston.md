@@ -13,7 +13,7 @@ Rich's Car Wash is a car wash in Houston, TX at 16111 Space Center Boulevard, Ho
 - Website: https://www.richscarwash.com/space-center-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Unrated (not enough evidence yet) — top 47% of car washes in Houston, #43 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.9, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

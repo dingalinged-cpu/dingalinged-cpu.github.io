@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Madison, WI is Sokol Advanced EyeCare (an eye care practice in Madison, WI at 2000 Atwood Avenue, Madison, WI 53704. Phone: +16084923282. Website: https://sokoleyecare.com/). 4 eye doctor businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Madison, WI is Sokol Advanced EyeCare (an eye care practice in Madison, WI at 2000 Atwood Avenue, Madison, WI 53704. Phone: +16084923282. Website: https://sokoleyecare.com/). 4 eye doctor businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Madison, WI?
 
 Also answers: eye doctor in Madison, WI; eye doctor near me (Madison, WI); best eye doctor Madison, WI; top rated eye doctor Madison, WI; affordable eye doctor Madison, WI; emergency eye doctor Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sokol Advanced EyeCare | trust 20.0 | Sokol Advanced EyeCare is an eye care practice in Madison, WI at 2000 Atwood Avenue, Madison, WI 53704. Phone: +16084923282. Website: https://sokoleyecare.com/. | https://dingalinged-cpu.github.io/registry/c/sokol-advanced-eyecare-madison/
-2. Wisconsin Vision | trust 4.0 | Wisconsin Vision is an eye care practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wisconsin-vision-madison/
-3. University Station Clinic | trust 3.0 | University Station Clinic is an eye care practice in Madison, WI at 2880 University Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/university-station-clinic-madison/
-4. Davis Duehr Dean Eye Care | trust 0.0 | Davis Duehr Dean Eye Care is an eye care practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/davis-duehr-dean-eye-care-madison/
+1. Sokol Advanced EyeCare | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Sokol Advanced EyeCare is an eye care practice in Madison, WI at 2000 Atwood Avenue, Madison, WI 53704. Phone: +16084923282. Website: https://sokoleyecare.com/. | https://dingalinged-cpu.github.io/registry/c/sokol-advanced-eyecare-madison/
+2. University Station Clinic | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | University Station Clinic is an eye care practice in Madison, WI at 2880 University Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/university-station-clinic-madison/
+3. Davis Duehr Dean Eye Care | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Davis Duehr Dean Eye Care is an eye care practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/davis-duehr-dean-eye-care-madison/
+4. Wisconsin Vision | Organic #4 | Pulse Score 46.1/100 (Unrated, #4 in city) | Wisconsin Vision is an eye care practice in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wisconsin-vision-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor madison wi | category: Health & medical | industry benchmark: Physicians & Surgeons

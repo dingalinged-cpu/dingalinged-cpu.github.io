@@ -1,13 +1,13 @@
-The top unpaid assisted living listing for Blaine, MN is Visiting Angels Senior Home Care (an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home). 2 assisted living businesses are listed for Blaine, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Blaine, MN is Edgewood (an assisted living facility in Blaine, MN). 2 assisted living businesses are listed for Blaine, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Blaine, MN?
 
 Also answers: assisted living in Blaine, MN; assisted living near me (Blaine, MN); best assisted living Blaine, MN; top rated assisted living Blaine, MN; affordable assisted living Blaine, MN; emergency assisted living Blaine, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Visiting Angels Senior Home Care | trust 20.0 | Visiting Angels Senior Home Care is an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home. | https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-blaine/
-2. Edgewood | trust 0.0 | Edgewood is an assisted living facility in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/edgewood-blaine/
+1. Edgewood | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Edgewood is an assisted living facility in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/edgewood-blaine/
+2. Visiting Angels Senior Home Care | Organic #2 | Pulse Score 50.6/100 (Fair, #2 in city) | Visiting Angels Senior Home Care is an assisted living facility in Blaine, MN at 12760 Aberdeen Street Northeast #316, Blaine, MN 55449. Phone: +19528918000. Website: https://www.visitingangels.com/blaine/home. | https://dingalinged-cpu.github.io/registry/c/visiting-angels-senior-home-care-blaine/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living blaine mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

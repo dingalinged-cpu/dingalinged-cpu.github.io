@@ -13,7 +13,7 @@ Urban Body Fitness is a gym in Atlanta, GA at 500 Amsterdam Avenue Northeast, At
 - Website: https://urbanbodyfitness.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-22:00; Sa 05:30-21:00; Su 08:00-17:00; PH off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 6% of gyms in Atlanta, #2 of 43 gyms in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

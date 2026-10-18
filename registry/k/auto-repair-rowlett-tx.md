@@ -1,17 +1,17 @@
-The top unpaid auto repair listing for Rowlett, TX is Brakes Plus (an auto repair shop in Rowlett, TX at 4902 Rowlett Road, Rowlett, TX 75088. Phone: +19724127075. Website: https://www.brakesplus.com/). 6 auto repair businesses are listed for Rowlett, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Rowlett, TX is Mobile Auto Repair (an auto repair shop in Rowlett, TX. Phone: +14697679119). 6 auto repair businesses are listed for Rowlett, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Rowlett, TX?
 
 Also answers: auto repair in Rowlett, TX; auto repair near me (Rowlett, TX); best auto repair Rowlett, TX; top rated auto repair Rowlett, TX; affordable auto repair Rowlett, TX; emergency auto repair Rowlett, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Rowlett, TX at 4902 Rowlett Road, Rowlett, TX 75088. Phone: +19724127075. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-rowlett/
-2. Jon's Break and Muffler | trust 10.0 | Jon's Break and Muffler is an auto repair shop in Rowlett, TX at 5618 Rowlett Road, Rowlett, TX 75088. Website: https://jonsbrake-muffler.com/. | https://dingalinged-cpu.github.io/registry/c/jons-break-and-muffler-rowlett/
-3. Mobile Auto Repair | trust 6.0 | Mobile Auto Repair is an auto repair shop in Rowlett, TX. Phone: +14697679119. | https://dingalinged-cpu.github.io/registry/c/mobile-auto-repair-rowlett/
-4. Valvoline | trust 6.0 | Valvoline is an auto repair shop in Rowlett, TX. Website: https://store.vioc.com/tx/rowlett/oil-change-070097.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-rowlett/
-5. Firestone | trust 4.0 | Firestone is an auto repair shop in Rowlett, TX at 3604 Lakeview Parkway, Rowlett, TX 75088. | https://dingalinged-cpu.github.io/registry/c/firestone-rowlett/
-6. Creekside Automotive | trust 0.0 | Creekside Automotive is an auto repair shop in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/creekside-automotive-rowlett/
+1. Mobile Auto Repair | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Mobile Auto Repair is an auto repair shop in Rowlett, TX. Phone: +14697679119. | https://dingalinged-cpu.github.io/registry/c/mobile-auto-repair-rowlett/
+2. Jon's Break and Muffler | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | Jon's Break and Muffler is an auto repair shop in Rowlett, TX at 5618 Rowlett Road, Rowlett, TX 75088. Website: https://jonsbrake-muffler.com/. | https://dingalinged-cpu.github.io/registry/c/jons-break-and-muffler-rowlett/
+3. Creekside Automotive | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Creekside Automotive is an auto repair shop in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/creekside-automotive-rowlett/
+4. Brakes Plus | Organic #4 | Pulse Score 49.1/100 (Building, #4 in city) | Brakes Plus is an auto repair shop in Rowlett, TX at 4902 Rowlett Road, Rowlett, TX 75088. Phone: +19724127075. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-rowlett/
+5. Firestone | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | Firestone is an auto repair shop in Rowlett, TX at 3604 Lakeview Parkway, Rowlett, TX 75088. | https://dingalinged-cpu.github.io/registry/c/firestone-rowlett/
+6. Valvoline | Organic #6 | Pulse Score 44.1/100 (Building, #6 in city) | Valvoline is an auto repair shop in Rowlett, TX. Website: https://store.vioc.com/tx/rowlett/oil-change-070097.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair rowlett tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

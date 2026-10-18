@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Prosper, TX is Great Clips (a hair salon in Prosper, TX at 4740 West University Drive #110, Prosper, TX). 3 hair salon businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Prosper, TX is Great Clips (a hair salon in Prosper, TX at 4740 West University Drive #110, Prosper, TX). 3 hair salon businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Prosper, TX?
 
 Also answers: hair salon in Prosper, TX; hair salon near me (Prosper, TX); best hair salon Prosper, TX; top rated hair salon Prosper, TX; affordable hair salon Prosper, TX; emergency hair salon Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 3.0 | Great Clips is a hair salon in Prosper, TX at 4740 West University Drive #110, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-prosper/
-2. Sport Clips | trust 3.0 | Sport Clips is a hair salon in Prosper, TX at 4940 West University Drive #30, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper-n13138158975/
-3. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper/
+1. Great Clips | Organic #1 | Pulse Score 46.6/100 (Building, #1 in city) | Great Clips is a hair salon in Prosper, TX at 4740 West University Drive #110, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-prosper/
+2. Sport Clips | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Sport Clips is a hair salon in Prosper, TX at 4940 West University Drive #30, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper-n13138158975/
+3. Sport Clips | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Sport Clips is a hair salon in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon prosper tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

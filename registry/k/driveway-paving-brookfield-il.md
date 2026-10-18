@@ -1,12 +1,12 @@
-The top unpaid driveway paving listing for Brookfield, IL is Western Suburbs Concrete (a paving contractor in Brookfield, IL). 1 driveway paving businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driveway paving listing for Brookfield, IL is Western Suburbs Concrete (a paving contractor in Brookfield, IL). 1 driveway paving businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driveway paving providers in Brookfield, IL?
 
 Also answers: driveway paving in Brookfield, IL; driveway paving near me (Brookfield, IL); best driveway paving Brookfield, IL; top rated driveway paving Brookfield, IL; affordable driveway paving Brookfield, IL; emergency driveway paving Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Western Suburbs Concrete | trust 0.0 | Western Suburbs Concrete is a paving contractor in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/western-suburbs-concrete-brookfield/
+1. Western Suburbs Concrete | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Western Suburbs Concrete is a paving contractor in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/western-suburbs-concrete-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: driveway paving brookfield il | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

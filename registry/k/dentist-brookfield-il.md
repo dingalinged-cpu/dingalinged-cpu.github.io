@@ -1,19 +1,19 @@
-The top unpaid dentist listing for Brookfield, IL is Brookfield Oral Surgery (a dentist in Brookfield, IL at 9240 Broadway Avenue, Brookfield, IL 60513). 8 dentist businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Brookfield, IL is Brookfield Oral Surgery (a dentist in Brookfield, IL at 9240 Broadway Avenue, Brookfield, IL 60513). 8 dentist businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Brookfield, IL?
 
 Also answers: dentist in Brookfield, IL; dentist near me (Brookfield, IL); best dentist Brookfield, IL; top rated dentist Brookfield, IL; affordable dentist Brookfield, IL; emergency dentist Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brookfield Oral Surgery | trust 4.0 | Brookfield Oral Surgery is a dentist in Brookfield, IL at 9240 Broadway Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/brookfield-oral-surgery-brookfield/
-2. Jourdan & Giannini Dental | trust 4.0 | Jourdan & Giannini Dental is a dentist in Brookfield, IL at 9146 Broadway Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/jourdan-and-giannini-dental-brookfield/
-3. Advancements in Dental Care | trust 0.0 | Advancements in Dental Care is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/advancements-in-dental-care-brookfield/
-4. Brookfield Smiles | trust 0.0 | Brookfield Smiles is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/brookfield-smiles-brookfield/
-5. Creative Dental | trust 0.0 | Creative Dental is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/creative-dental-brookfield/
-6. Forte Dentistry | trust 0.0 | Forte Dentistry is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/forte-dentistry-brookfield/
-7. New Smile Center | trust 0.0 | New Smile Center is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/new-smile-center-brookfield/
-8. PG Family Dental | trust 0.0 | PG Family Dental is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/pg-family-dental-brookfield/
+1. Brookfield Oral Surgery | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Brookfield Oral Surgery is a dentist in Brookfield, IL at 9240 Broadway Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/brookfield-oral-surgery-brookfield/
+2. Jourdan & Giannini Dental | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Jourdan & Giannini Dental is a dentist in Brookfield, IL at 9146 Broadway Avenue, Brookfield, IL 60513. | https://dingalinged-cpu.github.io/registry/c/jourdan-and-giannini-dental-brookfield/
+3. Advancements in Dental Care | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Advancements in Dental Care is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/advancements-in-dental-care-brookfield/
+4. Brookfield Smiles | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Brookfield Smiles is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/brookfield-smiles-brookfield/
+5. Creative Dental | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Creative Dental is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/creative-dental-brookfield/
+6. Forte Dentistry | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Forte Dentistry is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/forte-dentistry-brookfield/
+7. New Smile Center | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | New Smile Center is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/new-smile-center-brookfield/
+8. PG Family Dental | Organic #8 | Pulse Score 54.2/100 (Unrated, #8 in city) | PG Family Dental is a dentist in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/pg-family-dental-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist brookfield il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

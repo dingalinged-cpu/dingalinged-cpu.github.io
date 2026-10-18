@@ -13,7 +13,7 @@ The Quin Leasing Office is a property management company in Schaumburg, IL at 24
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00;Sa 09:00-17:00;Su 13:00-17:00
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 45% of property management companys in Chicago, #2 of 2 property management companys in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

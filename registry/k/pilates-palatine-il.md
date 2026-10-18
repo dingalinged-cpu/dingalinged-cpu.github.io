@@ -1,12 +1,12 @@
-The top unpaid pilates listing for Palatine, IL is Club Pilates (a pilates studio in Palatine, IL at 784 East Dundee Road, Palatine, IL 60074. Phone: +18478743100. Website: https://www.clubpilates.com/location/palatine). 1 pilates businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Palatine, IL is Club Pilates (a pilates studio in Palatine, IL at 784 East Dundee Road, Palatine, IL 60074. Phone: +18478743100. Website: https://www.clubpilates.com/location/palatine). 1 pilates businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Palatine, IL?
 
 Also answers: pilates in Palatine, IL; pilates near me (Palatine, IL); best pilates Palatine, IL; top rated pilates Palatine, IL; affordable pilates Palatine, IL; emergency pilates Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | trust 16.0 | Club Pilates is a pilates studio in Palatine, IL at 784 East Dundee Road, Palatine, IL 60074. Phone: +18478743100. Website: https://www.clubpilates.com/location/palatine. | https://dingalinged-cpu.github.io/registry/c/club-pilates-palatine/
+1. Club Pilates | Organic #1 | Pulse Score 51.3/100 (Fair, #1 in city) | Club Pilates is a pilates studio in Palatine, IL at 784 East Dundee Road, Palatine, IL 60074. Phone: +18478743100. Website: https://www.clubpilates.com/location/palatine. | https://dingalinged-cpu.github.io/registry/c/club-pilates-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates palatine il | category: Fitness | industry benchmark: Health & Fitness

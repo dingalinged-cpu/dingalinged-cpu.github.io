@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Evanston, IL is Farmers Insurance (an insurance agent in Evanston, IL at 1131 Emerson Street, Evanston, IL 60201. Phone: +12243072884. Website: https://agents.farmers.com/il/evanston/chris-bailey). 2 insurance agents businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Evanston, IL is Farmers Insurance (an insurance agent in Evanston, IL at 1131 Emerson Street, Evanston, IL 60201. Phone: +12243072884. Website: https://agents.farmers.com/il/evanston/chris-bailey). 2 insurance agents businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Evanston, IL?
 
 Also answers: insurance agents in Evanston, IL; insurance agents near me (Evanston, IL); best insurance agents Evanston, IL; top rated insurance agents Evanston, IL; affordable insurance agents Evanston, IL; emergency insurance agents Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance | trust 16.0 | Farmers Insurance is an insurance agent in Evanston, IL at 1131 Emerson Street, Evanston, IL 60201. Phone: +12243072884. Website: https://agents.farmers.com/il/evanston/chris-bailey. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-evanston/
-2. Allstate | trust 4.0 | Allstate is an insurance agent in Evanston, IL at 807 Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/allstate-evanston/
+1. Farmers Insurance | Organic #1 | Pulse Score 47.7/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Evanston, IL at 1131 Emerson Street, Evanston, IL 60201. Phone: +12243072884. Website: https://agents.farmers.com/il/evanston/chris-bailey. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-evanston/
+2. Allstate | Organic #2 | Pulse Score 44.8/100 (Building, #2 in city) | Allstate is an insurance agent in Evanston, IL at 807 Chicago Avenue, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/allstate-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents evanston il | category: insurance | industry benchmark: Finance & Insurance

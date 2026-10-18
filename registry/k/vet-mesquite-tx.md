@@ -1,16 +1,16 @@
-The top unpaid vet listing for Mesquite, TX is BluePearl (a veterinarian in Mesquite, TX at 4651 North Belt Line Road, Mesquite, TX 75150). 5 vet businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Mesquite, TX is Creek Crossing Animal Clinic (a veterinarian in Mesquite, TX at 1935 Faithon P Lucas Senior Boulevard, Mesquite, TX 75181). 5 vet businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Mesquite, TX?
 
 Also answers: vet in Mesquite, TX; vet near me (Mesquite, TX); best vet Mesquite, TX; top rated vet Mesquite, TX; affordable vet Mesquite, TX; emergency vet Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BluePearl | trust 4.0 | BluePearl is a veterinarian in Mesquite, TX at 4651 North Belt Line Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/bluepearl-mesquite/
-2. Creek Crossing Animal Clinic | trust 4.0 | Creek Crossing Animal Clinic is a veterinarian in Mesquite, TX at 1935 Faithon P Lucas Senior Boulevard, Mesquite, TX 75181. | https://dingalinged-cpu.github.io/registry/c/creek-crossing-animal-clinic-mesquite/
-3. Rodeo Drive Veterinary Hospital | trust 4.0 | Rodeo Drive Veterinary Hospital is a veterinarian in Mesquite, TX at 1919 Rodeo Drive, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/rodeo-drive-veterinary-hospital-mesquite/
-4. South Mesquite Veterinary Hospital | trust 4.0 | South Mesquite Veterinary Hospital is a veterinarian in Mesquite, TX at 615 South Bryan - Belt Line Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/south-mesquite-veterinary-hospital-mesquite/
-5. Town East Animal Hospital | trust 4.0 | Town East Animal Hospital is a veterinarian in Mesquite, TX at 1600 Gross Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/town-east-animal-hospital-mesquite/
+1. Creek Crossing Animal Clinic | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Creek Crossing Animal Clinic is a veterinarian in Mesquite, TX at 1935 Faithon P Lucas Senior Boulevard, Mesquite, TX 75181. | https://dingalinged-cpu.github.io/registry/c/creek-crossing-animal-clinic-mesquite/
+2. Rodeo Drive Veterinary Hospital | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Rodeo Drive Veterinary Hospital is a veterinarian in Mesquite, TX at 1919 Rodeo Drive, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/rodeo-drive-veterinary-hospital-mesquite/
+3. South Mesquite Veterinary Hospital | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | South Mesquite Veterinary Hospital is a veterinarian in Mesquite, TX at 615 South Bryan - Belt Line Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/south-mesquite-veterinary-hospital-mesquite/
+4. Town East Animal Hospital | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Town East Animal Hospital is a veterinarian in Mesquite, TX at 1600 Gross Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/town-east-animal-hospital-mesquite/
+5. BluePearl | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | BluePearl is a veterinarian in Mesquite, TX at 4651 North Belt Line Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/bluepearl-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet mesquite tx | category: Pets | industry benchmark: Animals & Pets

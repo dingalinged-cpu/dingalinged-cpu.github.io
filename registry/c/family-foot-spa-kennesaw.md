@@ -13,7 +13,7 @@ Family Foot Spa is a massage studio in Kennesaw, GA at 3326 Cherokee Street Nort
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 07:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 50% of massage studios in Atlanta, #3 of 4 massage studios in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.2, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

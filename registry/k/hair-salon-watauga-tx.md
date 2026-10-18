@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Watauga, TX is Great Clips (a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga, TX 76148. Phone: +18177880342. Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr). 2 hair salon businesses are listed for Watauga, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Watauga, TX is TX Barber Cartel (a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/). 2 hair salon businesses are listed for Watauga, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Watauga, TX?
 
 Also answers: hair salon in Watauga, TX; hair salon near me (Watauga, TX); best hair salon Watauga, TX; top rated hair salon Watauga, TX; affordable hair salon Watauga, TX; emergency hair salon Watauga, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 20.0 | Great Clips is a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga, TX 76148. Phone: +18177880342. Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr. | https://dingalinged-cpu.github.io/registry/c/great-clips-watauga/
-2. TX Barber Cartel | trust 15.0 | TX Barber Cartel is a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/. | https://dingalinged-cpu.github.io/registry/c/tx-barber-cartel-watauga/
+1. TX Barber Cartel | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | TX Barber Cartel is a hair salon in Watauga, TX at 6539 Watauga Road, Watauga, TX. Phone: +16822890103. Website: https://www.txbarbercartel.com/. | https://dingalinged-cpu.github.io/registry/c/tx-barber-cartel-watauga/
+2. Great Clips | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Great Clips is a hair salon in Watauga, TX at 6801 Rufe Snow Drive #204, Watauga, TX 76148. Phone: +18177880342. Website: https://salons.greatclips.com/us/tx/watauga/6801-rufe-snow-dr. | https://dingalinged-cpu.github.io/registry/c/great-clips-watauga/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon watauga tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

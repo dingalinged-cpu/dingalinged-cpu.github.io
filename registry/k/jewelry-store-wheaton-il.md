@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Wheaton, IL is Altobello Fine Jewelers (a jewelry store in Wheaton, IL). 2 jewelry store businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Wheaton, IL is Altobello Fine Jewelers (a jewelry store in Wheaton, IL). 2 jewelry store businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Wheaton, IL?
 
 Also answers: jewelry store in Wheaton, IL; jewelry store near me (Wheaton, IL); best jewelry store Wheaton, IL; top rated jewelry store Wheaton, IL; affordable jewelry store Wheaton, IL; emergency jewelry store Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Altobello Fine Jewelers | trust 4.0 | Altobello Fine Jewelers is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/
-2. Stones Jewerly | trust 0.0 | Stones Jewerly is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/stones-jewerly-wheaton/
+1. Altobello Fine Jewelers | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Altobello Fine Jewelers is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/altobello-fine-jewelers-wheaton/
+2. Stones Jewerly | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Stones Jewerly is a jewelry store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/stones-jewerly-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store wheaton il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

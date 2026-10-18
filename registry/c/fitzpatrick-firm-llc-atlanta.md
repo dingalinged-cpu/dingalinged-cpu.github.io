@@ -13,7 +13,7 @@ Fitzpatrick Firm, LLC is a lawyer in Atlanta, GA at 14 Lenox Pointe Northeast, A
 - Website: https://personalinjuryatl.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 34% of lawyers in Atlanta, #18 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

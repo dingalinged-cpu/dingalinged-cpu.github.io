@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Buffalo Grove, IL is Mobil (a car wash in Buffalo Grove, IL at 10 West Dundee Road, Buffalo Grove, IL 60089). 5 car wash businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Buffalo Grove, IL is Woodman's Car Wash (a car wash in Buffalo Grove, IL at 1550 Deerfield Parkway, Buffalo Grove, IL 60089). 5 car wash businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Buffalo Grove, IL?
 
 Also answers: car wash in Buffalo Grove, IL; car wash near me (Buffalo Grove, IL); best car wash Buffalo Grove, IL; top rated car wash Buffalo Grove, IL; affordable car wash Buffalo Grove, IL; emergency car wash Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mobil | trust 4.0 | Mobil is a car wash in Buffalo Grove, IL at 10 West Dundee Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/mobil-buffalo-grove/
-2. Royal Touch Car Wash & Detailing | trust 4.0 | Royal Touch Car Wash & Detailing is a car wash in Buffalo Grove, IL at 1701 North Weiland Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/royal-touch-car-wash-and-detailing-buffalo-grove/
-3. Shell | trust 4.0 | Shell is a car wash in Buffalo Grove, IL at 1200 North Arlington Heights Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/shell-buffalo-grove/
-4. Woodman's Car Wash | trust 4.0 | Woodman's Car Wash is a car wash in Buffalo Grove, IL at 1550 Deerfield Parkway, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/woodmans-car-wash-buffalo-grove/
-5. Ricky Rocket's Car Wash | trust 0.0 | Ricky Rocket's Car Wash is a car wash in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ricky-rockets-car-wash-buffalo-grove/
+1. Woodman's Car Wash | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Woodman's Car Wash is a car wash in Buffalo Grove, IL at 1550 Deerfield Parkway, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/woodmans-car-wash-buffalo-grove/
+2. Royal Touch Car Wash & Detailing | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Royal Touch Car Wash & Detailing is a car wash in Buffalo Grove, IL at 1701 North Weiland Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/royal-touch-car-wash-and-detailing-buffalo-grove/
+3. Ricky Rocket's Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Ricky Rocket's Car Wash is a car wash in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ricky-rockets-car-wash-buffalo-grove/
+4. Mobil | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Mobil is a car wash in Buffalo Grove, IL at 10 West Dundee Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/mobil-buffalo-grove/
+5. Shell | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Shell is a car wash in Buffalo Grove, IL at 1200 North Arlington Heights Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/shell-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash buffalo grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

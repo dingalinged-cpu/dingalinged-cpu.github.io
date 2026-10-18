@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for West Bend, WI is Sterling Lawyers, LLC (a lawyer in West Bend, WI at 139 N Main St ##107, West Bend, WI 53095. Phone: +12626655470. Website: https://www.sterlinglawyers.com/wisconsin/locations/west-bend/). 1 lawyer businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for West Bend, WI is Sterling Lawyers, LLC (a lawyer in West Bend, WI at 139 N Main St ##107, West Bend, WI 53095. Phone: +12626655470. Website: https://www.sterlinglawyers.com/wisconsin/locations/west-bend/). 1 lawyer businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in West Bend, WI?
 
 Also answers: lawyer in West Bend, WI; lawyer near me (West Bend, WI); best lawyer West Bend, WI; top rated lawyer West Bend, WI; affordable lawyer West Bend, WI; emergency lawyer West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sterling Lawyers, LLC | trust 20.0 | Sterling Lawyers, LLC is a lawyer in West Bend, WI at 139 N Main St ##107, West Bend, WI 53095. Phone: +12626655470. Website: https://www.sterlinglawyers.com/wisconsin/locations/west-bend/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-west-bend/
+1. Sterling Lawyers, LLC | Organic #1 | Pulse Score 49.2/100 (Unrated, #1 in city) | Sterling Lawyers, LLC is a lawyer in West Bend, WI at 139 N Main St ##107, West Bend, WI 53095. Phone: +12626655470. Website: https://www.sterlinglawyers.com/wisconsin/locations/west-bend/. | https://dingalinged-cpu.github.io/registry/c/sterling-lawyers-llc-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer west bend wi | category: Legal | industry benchmark: Attorneys & Legal Services

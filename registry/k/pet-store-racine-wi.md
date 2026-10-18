@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Racine, WI is Petland (a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406). 3 pet store businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Racine, WI is Avenue Pet Shoppe (a pet store in Racine, WI at 3222 Washington Avenue, Racine, WI). 3 pet store businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Racine, WI?
 
 Also answers: pet store in Racine, WI; pet store near me (Racine, WI); best pet store Racine, WI; top rated pet store Racine, WI; affordable pet store Racine, WI; emergency pet store Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petland | trust 4.0 | Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/petland-mount-pleasant/
-2. Avenue Pet Shoppe | trust 3.0 | Avenue Pet Shoppe is a pet store in Racine, WI at 3222 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/avenue-pet-shoppe-racine/
-3. Copy Cat Music | trust 3.0 | Copy Cat Music is a pet store in Racine, WI at 3205 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/copy-cat-music-racine/
+1. Avenue Pet Shoppe | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Avenue Pet Shoppe is a pet store in Racine, WI at 3222 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/avenue-pet-shoppe-racine/
+2. Copy Cat Music | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Copy Cat Music is a pet store in Racine, WI at 3205 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/copy-cat-music-racine/
+3. Petland | Organic #3 | Pulse Score 43.3/100 (Building, #4 in city) | Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/petland-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store racine wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

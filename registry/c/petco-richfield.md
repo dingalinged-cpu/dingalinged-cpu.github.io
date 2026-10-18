@@ -13,7 +13,7 @@ Petco is a pet store in Richfield, MN at 710 West 66th Street, Richfield, MN 554
 - Website: https://stores.petco.com/mn/richfield/pet-supplies-richfield-mn-608.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 72% of pet stores in Minneapolis–St. Paul, #2 of 2 pet stores in Richfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 58.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

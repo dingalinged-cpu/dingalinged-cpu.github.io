@@ -1,48 +1,48 @@
-The top unpaid liquor store listing for Harris County, TX is Spec's Wines, Spirits & Finer Foods (a liquor store in Harris County, TX at 14650 Woodforest Boulevard, Harris County, TX 77015. Phone: +17136377327. Website: https://specsonline.com/liquor-stores/houston/woodforest-020/). 37 liquor store businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Harris County, TX is Alco Liquor (a liquor store in Harris County, TX at 2919 Barker Cypress Road #K, Harris County, TX). 37 liquor store businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Harris County, TX?
 
 Also answers: liquor store in Harris County, TX; liquor store near me (Harris County, TX); best liquor store Harris County, TX; top rated liquor store Harris County, TX; affordable liquor store Harris County, TX; emergency liquor store Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's Wines, Spirits & Finer Foods | trust 20.0 | Spec's Wines, Spirits & Finer Foods is a liquor store in Harris County, TX at 14650 Woodforest Boulevard, Harris County, TX 77015. Phone: +17136377327. Website: https://specsonline.com/liquor-stores/houston/woodforest-020/. | https://dingalinged-cpu.github.io/registry/c/specs-wines-spirits-and-finer-foods-harris-county/
-2. Twin Liquors | trust 20.0 | Twin Liquors is a liquor store in Harris County, TX at Unit 202 FM 1960 East, Harris County, TX 77346. Phone: +13463954588. Website: https://twinliquors.com/shop. | https://dingalinged-cpu.github.io/registry/c/twin-liquors-harris-county/
-3. Alco Liquor | trust 7.0 | Alco Liquor is a liquor store in Harris County, TX at 2919 Barker Cypress Road #K, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alco-liquor-harris-county/
-4. Eskimo Hut Daquiris To Go | trust 7.0 | Eskimo Hut Daquiris To Go is a liquor store in Harris County, TX at 10701c North Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/eskimo-hut-daquiris-to-go-harris-county/
-5. Grand Parkway Liquor | trust 4.0 | Grand Parkway Liquor is a liquor store in Harris County, TX at 1555 Grand Parkway North, Harris County, TX 77493. | https://dingalinged-cpu.github.io/registry/c/grand-parkway-liquor-harris-county/
-6. Liquor & Liquors | trust 4.0 | Liquor & Liquors is a liquor store in Harris County, TX at 6340 North Eldridge Parkway, Harris County, TX 77041. | https://dingalinged-cpu.github.io/registry/c/liquor-and-liquors-harris-county/
-7. Uno Mas Liquor | trust 4.0 | Uno Mas Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/uno-mas-liquor-harris-county/
-8. Blind Pig Liquor | trust 3.0 | Blind Pig Liquor is a liquor store in Harris County, TX at 10100e West Road, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blind-pig-liquor-harris-county/
-9. Fairbanks Liquor | trust 3.0 | Fairbanks Liquor is a liquor store in Harris County, TX at 7410 Fairbanks North Houston Road #E, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-liquor-harris-county/
-10. AR's Liquor | trust 0.0 | AR's Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ars-liquor-harris-county/
-11. Crown Liquors | trust 0.0 | Crown Liquors is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/crown-liquors-harris-county/
-12. Cy Fair Wine & Spirits | trust 0.0 | Cy Fair Wine & Spirits is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cy-fair-wine-and-spirits-harris-county/
-13. Daiquiri House | trust 0.0 | Daiquiri House is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daiquiri-house-harris-county/
-14. Daiquiris ToGo | trust 0.0 | Daiquiris ToGo is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daiquiris-togo-harris-county/
-15. Daniel Liquor | trust 0.0 | Daniel Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daniel-liquor-harris-county/
-16. Dillon Liquor | trust 0.0 | Dillon Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dillon-liquor-harris-county/
-17. Exclusive Wine & Liquor | trust 0.0 | Exclusive Wine & Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exclusive-wine-and-liquor-harris-county/
-18. Jr.'s Liquor | trust 0.0 | Jr.'s Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jr-s-liquor-harris-county/
-19. Liquor | trust 0.0 | Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-harris-county/
-20. Ma's Liquor | trust 0.0 | Ma's Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mas-liquor-harris-county/
-21. Mr.Liquor | trust 0.0 | Mr.Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mr-liquor-harris-county/
-22. Party Pantry Liqors & Fine Wines | trust 0.0 | Party Pantry Liqors & Fine Wines is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/party-pantry-liqors-and-fine-wines-harris-county/
-23. Road Stop Liquor | trust 0.0 | Road Stop Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/road-stop-liquor-harris-county/
-24. Sky Liquors Cigars and | trust 0.0 | Sky Liquors Cigars and is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sky-liquors-cigars-and-harris-county/
-25. Space liquor | trust 0.0 | Space liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/space-liquor-harris-county/
-26. Spec's | trust 0.0 | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county/
-27. Spec's | trust 0.0 | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n12967044724/
-28. Spec's | trust 0.0 | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n13581752920/
-29. Spec's | trust 0.0 | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n13885851271/
-30. Spec's | trust 0.0 | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n5249628353/
-31. Stagecoach | trust 0.0 | Stagecoach is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/stagecoach-harris-county/
-32. Star Liquor | trust 0.0 | Star Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/star-liquor-harris-county/
-33. Sunnys Liquor & Cigars | trust 0.0 | Sunnys Liquor & Cigars is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sunnys-liquor-and-cigars-harris-county/
-34. Tiger Liquor | trust 0.0 | Tiger Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tiger-liquor-harris-county/
-35. Value Discount Liquor | trust 0.0 | Value Discount Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/value-discount-liquor-harris-county/
-36. Victory Liquor | trust 0.0 | Victory Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/victory-liquor-harris-county/
-37. Zipps | trust 0.0 | Zipps is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-harris-county/
+1. Alco Liquor | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Alco Liquor is a liquor store in Harris County, TX at 2919 Barker Cypress Road #K, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/alco-liquor-harris-county/
+2. Eskimo Hut Daquiris To Go | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Eskimo Hut Daquiris To Go is a liquor store in Harris County, TX at 10701c North Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/eskimo-hut-daquiris-to-go-harris-county/
+3. Grand Parkway Liquor | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Grand Parkway Liquor is a liquor store in Harris County, TX at 1555 Grand Parkway North, Harris County, TX 77493. | https://dingalinged-cpu.github.io/registry/c/grand-parkway-liquor-harris-county/
+4. Liquor & Liquors | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Liquor & Liquors is a liquor store in Harris County, TX at 6340 North Eldridge Parkway, Harris County, TX 77041. | https://dingalinged-cpu.github.io/registry/c/liquor-and-liquors-harris-county/
+5. Ma's Liquor | Organic #5 | Pulse Score 57.7/100 (Unrated, #5 in city) | Ma's Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mas-liquor-harris-county/
+6. Exclusive Wine & Liquor | Organic #6 | Pulse Score 57.5/100 (Unrated, #6 in city) | Exclusive Wine & Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/exclusive-wine-and-liquor-harris-county/
+7. Sunnys Liquor & Cigars | Organic #7 | Pulse Score 57.4/100 (Unrated, #7 in city) | Sunnys Liquor & Cigars is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sunnys-liquor-and-cigars-harris-county/
+8. Daniel Liquor | Organic #8 | Pulse Score 57.3/100 (Unrated, #8 in city) | Daniel Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daniel-liquor-harris-county/
+9. Blind Pig Liquor | Organic #9 | Pulse Score 57.3/100 (Unrated, #9 in city) | Blind Pig Liquor is a liquor store in Harris County, TX at 10100e West Road, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blind-pig-liquor-harris-county/
+10. Fairbanks Liquor | Organic #10 | Pulse Score 57.3/100 (Unrated, #10 in city) | Fairbanks Liquor is a liquor store in Harris County, TX at 7410 Fairbanks North Houston Road #E, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-liquor-harris-county/
+11. AR's Liquor | Organic #11 | Pulse Score 55.1/100 (Unrated, #11 in city) | AR's Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/ars-liquor-harris-county/
+12. Crown Liquors | Organic #12 | Pulse Score 55.1/100 (Unrated, #12 in city) | Crown Liquors is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/crown-liquors-harris-county/
+13. Cy Fair Wine & Spirits | Organic #13 | Pulse Score 55.1/100 (Unrated, #13 in city) | Cy Fair Wine & Spirits is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cy-fair-wine-and-spirits-harris-county/
+14. Daiquiri House | Organic #14 | Pulse Score 55.1/100 (Unrated, #14 in city) | Daiquiri House is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daiquiri-house-harris-county/
+15. Daiquiris ToGo | Organic #15 | Pulse Score 55.1/100 (Unrated, #15 in city) | Daiquiris ToGo is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/daiquiris-togo-harris-county/
+16. Dillon Liquor | Organic #16 | Pulse Score 55.1/100 (Unrated, #16 in city) | Dillon Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/dillon-liquor-harris-county/
+17. Jr.'s Liquor | Organic #17 | Pulse Score 55.1/100 (Unrated, #17 in city) | Jr.'s Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/jr-s-liquor-harris-county/
+18. Liquor | Organic #18 | Pulse Score 55.1/100 (Unrated, #18 in city) | Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-harris-county/
+19. Mr.Liquor | Organic #19 | Pulse Score 55.1/100 (Unrated, #19 in city) | Mr.Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mr-liquor-harris-county/
+20. Party Pantry Liqors & Fine Wines | Organic #20 | Pulse Score 55.1/100 (Unrated, #20 in city) | Party Pantry Liqors & Fine Wines is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/party-pantry-liqors-and-fine-wines-harris-county/
+21. Road Stop Liquor | Organic #21 | Pulse Score 55.1/100 (Unrated, #21 in city) | Road Stop Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/road-stop-liquor-harris-county/
+22. Sky Liquors Cigars and | Organic #22 | Pulse Score 55.1/100 (Unrated, #22 in city) | Sky Liquors Cigars and is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sky-liquors-cigars-and-harris-county/
+23. Space liquor | Organic #23 | Pulse Score 55.1/100 (Unrated, #23 in city) | Space liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/space-liquor-harris-county/
+24. Stagecoach | Organic #24 | Pulse Score 55.1/100 (Unrated, #24 in city) | Stagecoach is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/stagecoach-harris-county/
+25. Tiger Liquor | Organic #25 | Pulse Score 55.1/100 (Unrated, #25 in city) | Tiger Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tiger-liquor-harris-county/
+26. Value Discount Liquor | Organic #26 | Pulse Score 55.1/100 (Unrated, #26 in city) | Value Discount Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/value-discount-liquor-harris-county/
+27. Victory Liquor | Organic #27 | Pulse Score 55.1/100 (Unrated, #27 in city) | Victory Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/victory-liquor-harris-county/
+28. Zipps | Organic #28 | Pulse Score 55.1/100 (Unrated, #28 in city) | Zipps is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/zipps-harris-county/
+29. Spec's Wines, Spirits & Finer Foods | Organic #29 | Pulse Score 53/100 (Fair, #29 in city) | Spec's Wines, Spirits & Finer Foods is a liquor store in Harris County, TX at 14650 Woodforest Boulevard, Harris County, TX 77015. Phone: +17136377327. Website: https://specsonline.com/liquor-stores/houston/woodforest-020/. | https://dingalinged-cpu.github.io/registry/c/specs-wines-spirits-and-finer-foods-harris-county/
+30. Twin Liquors | Organic #30 | Pulse Score 49.4/100 (Building, #30 in city) | Twin Liquors is a liquor store in Harris County, TX at Unit 202 FM 1960 East, Harris County, TX 77346. Phone: +13463954588. Website: https://twinliquors.com/shop. | https://dingalinged-cpu.github.io/registry/c/twin-liquors-harris-county/
+31. Uno Mas Liquor | Organic #31 | Pulse Score 47.3/100 (Unrated, #31 in city) | Uno Mas Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/uno-mas-liquor-harris-county/
+32. Spec's | Organic #32 | Pulse Score 45/100 (Building, #32 in city) | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n12967044724/
+33. Spec's | Organic #33 | Pulse Score 43.4/100 (Building, #33 in city) | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county/
+34. Spec's | Organic #34 | Pulse Score 43.2/100 (Building, #34 in city) | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n13581752920/
+35. Spec's | Organic #35 | Pulse Score 43.2/100 (Building, #35 in city) | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n13885851271/
+36. Spec's | Organic #36 | Pulse Score 43.2/100 (Building, #36 in city) | Spec's is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-harris-county-n5249628353/
+37. Star Liquor | Organic #37 | Pulse Score 42.4/100 (Unrated, #37 in city) | Star Liquor is a liquor store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/star-liquor-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store harris county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

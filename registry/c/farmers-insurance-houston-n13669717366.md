@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Houston, TX. Phone: +12815680044. Web
 - Website: https://farmersagent.com/tthai
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 09:00-15:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 57% of insurance agents in Houston, #63 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

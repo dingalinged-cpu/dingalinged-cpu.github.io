@@ -13,7 +13,7 @@ Real Gem Jewelers is a jewelry store in Shakopee, MN at 108 1st Avenue East, Sha
 - Website: https://www.realgemjewelers.com/
 - Email: realgemsales@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:30; Sa 10:00-14:00
-- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 17% of jewelry stores in Minneapolis–St. Paul, #1 of 1 jewelry stores in Shakopee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

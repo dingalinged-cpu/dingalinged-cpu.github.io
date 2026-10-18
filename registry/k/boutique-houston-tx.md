@@ -1,19 +1,19 @@
-The top unpaid boutique listing for Houston, TX is Lucy's Boutique & Gifts (a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/). 8 boutique businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Houston, TX is Lucy's Boutique & Gifts (a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/). 8 boutique businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Houston, TX?
 
 Also answers: boutique in Houston, TX; boutique near me (Houston, TX); best boutique Houston, TX; top rated boutique Houston, TX; affordable boutique Houston, TX; emergency boutique Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy's Boutique & Gifts | trust 14.0 | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-boutique-and-gifts-houston/
-2. Enstyle Boutique | trust 3.0 | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/enstyle-boutique-houston/
-3. Nena's Boutique | trust 3.0 | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nenas-boutique-houston/
-4. Paulina's Fashion Boutique | trust 3.0 | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/paulinas-fashion-boutique-houston/
-5. Adelaide's Boutique | trust 0.0 | Adelaide's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/adelaides-boutique-houston/
-6. Elegant Affairs by Mary | trust 0.0 | Elegant Affairs by Mary is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-affairs-by-mary-houston/
-7. Phylicia's Boutique | trust 0.0 | Phylicia's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/phylicias-boutique-houston/
-8. Urban Layce Boutique | trust 0.0 | Urban Layce Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/urban-layce-boutique-houston/
+1. Lucy's Boutique & Gifts | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lucy's Boutique & Gifts is a boutique in Houston, TX at 915f North Shepherd Drive, Houston, TX 77008. Website: https://ilovelucys.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-boutique-and-gifts-houston/
+2. Enstyle Boutique | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Enstyle Boutique is a boutique in Houston, TX at 5901 Westheimer Road #F, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/enstyle-boutique-houston/
+3. Nena's Boutique | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nenas-boutique-houston/
+4. Paulina's Fashion Boutique | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Paulina's Fashion Boutique is a boutique in Houston, TX at 7640 Airline Drive #K, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/paulinas-fashion-boutique-houston/
+5. Adelaide's Boutique | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Adelaide's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/adelaides-boutique-houston/
+6. Elegant Affairs by Mary | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Elegant Affairs by Mary is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/elegant-affairs-by-mary-houston/
+7. Phylicia's Boutique | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Phylicia's Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/phylicias-boutique-houston/
+8. Urban Layce Boutique | Organic #8 | Pulse Score 55.2/100 (Unrated, #8 in city) | Urban Layce Boutique is a boutique in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/urban-layce-boutique-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique houston tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

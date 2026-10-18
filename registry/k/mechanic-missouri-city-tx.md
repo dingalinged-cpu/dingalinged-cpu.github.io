@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Missouri City, TX is Christian Brothers Automotive (an auto repair shop in Missouri City, TX at 7240 Knights Court, Missouri City, TX). 2 mechanic businesses are listed for Missouri City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Missouri City, TX is Missouri Car Care (an auto repair shop in Missouri City, TX at 1653 Cartwright Road, Missouri City, TX 77489). 2 mechanic businesses are listed for Missouri City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Missouri City, TX?
 
 Also answers: mechanic in Missouri City, TX; mechanic near me (Missouri City, TX); best mechanic Missouri City, TX; top rated mechanic Missouri City, TX; affordable mechanic Missouri City, TX; emergency mechanic Missouri City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Brothers Automotive | trust 7.0 | Christian Brothers Automotive is an auto repair shop in Missouri City, TX at 7240 Knights Court, Missouri City, TX. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-missouri-city/
-2. Missouri Car Care | trust 4.0 | Missouri Car Care is an auto repair shop in Missouri City, TX at 1653 Cartwright Road, Missouri City, TX 77489. | https://dingalinged-cpu.github.io/registry/c/missouri-car-care-missouri-city/
+1. Missouri Car Care | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Missouri Car Care is an auto repair shop in Missouri City, TX at 1653 Cartwright Road, Missouri City, TX 77489. | https://dingalinged-cpu.github.io/registry/c/missouri-car-care-missouri-city/
+2. Christian Brothers Automotive | Organic #2 | Pulse Score 46.4/100 (Unrated, #2 in city) | Christian Brothers Automotive is an auto repair shop in Missouri City, TX at 7240 Knights Court, Missouri City, TX. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-missouri-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic missouri city tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

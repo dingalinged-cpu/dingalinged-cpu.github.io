@@ -13,7 +13,7 @@ The Modern Luxury Gathering Suite is an event venue in Atlanta, GA at 5076 Winte
 - Website: https://www.themodernatl.com/
 - Email: info@themodernatl.com
 - Opening hours (OSM syntax): Sa-Su 09:00-18:00 "by appointment only"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 5% of event venues in Atlanta, #3 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

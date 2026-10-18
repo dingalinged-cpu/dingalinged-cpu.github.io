@@ -1,14 +1,14 @@
-The top unpaid daycare listing for Sunnyvale, TX is Eden's Play Cafe (a daycare in Sunnyvale, TX at 400 South Paschal Road #200, Sunnyvale, TX 75182). 3 daycare businesses are listed for Sunnyvale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Sunnyvale, TX is Little Ponderosa Child Care (a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182). 3 daycare businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Sunnyvale, TX?
 
 Also answers: daycare in Sunnyvale, TX; daycare near me (Sunnyvale, TX); best daycare Sunnyvale, TX; top rated daycare Sunnyvale, TX; affordable daycare Sunnyvale, TX; emergency daycare Sunnyvale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eden's Play Cafe | trust 4.0 | Eden's Play Cafe is a daycare in Sunnyvale, TX at 400 South Paschal Road #200, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/edens-play-cafe-sunnyvale/
-2. Handprints Academy | trust 4.0 | Handprints Academy is a daycare in Sunnyvale, TX at 2763 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-sunnyvale/
-3. Little Ponderosa Child Care | trust 4.0 | Little Ponderosa Child Care is a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/little-ponderosa-child-care-sunnyvale/
+1. Little Ponderosa Child Care | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Little Ponderosa Child Care is a daycare in Sunnyvale, TX at 3131 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/little-ponderosa-child-care-sunnyvale/
+2. Eden's Play Cafe | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Eden's Play Cafe is a daycare in Sunnyvale, TX at 400 South Paschal Road #200, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/edens-play-cafe-sunnyvale/
+3. Handprints Academy | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | Handprints Academy is a daycare in Sunnyvale, TX at 2763 North Belt Line Road, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/handprints-academy-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare sunnyvale tx | category: Education & childcare | industry benchmark: Education & Instruction

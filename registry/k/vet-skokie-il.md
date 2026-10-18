@@ -1,17 +1,17 @@
-The top unpaid vet listing for Skokie, IL is Animal Medical Center (a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/). 6 vet businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Skokie, IL is Animal Medical Center (a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/). 6 vet businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Skokie, IL?
 
 Also answers: vet in Skokie, IL; vet near me (Skokie, IL); best vet Skokie, IL; top rated vet Skokie, IL; affordable vet Skokie, IL; emergency vet Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Medical Center | trust 10.0 | Animal Medical Center is a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-skokie/
-2. Riser Animal Hospital | trust 10.0 | Riser Animal Hospital is a veterinarian in Skokie, IL at 5335 West Touhy Avenue, Skokie, IL 60077. Website: https://www.riserah.com/. | https://dingalinged-cpu.github.io/registry/c/riser-animal-hospital-skokie/
-3. Animal 911 | trust 4.0 | Animal 911 is a veterinarian in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/animal-911-skokie/
-4. Banfield Pet Hospital | trust 4.0 | Banfield Pet Hospital is a veterinarian in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-skokie/
-5. Chicago Exotics Animal Hospital | trust 4.0 | Chicago Exotics Animal Hospital is a veterinarian in Skokie, IL at 3757 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/chicago-exotics-animal-hospital-skokie/
-6. Skokie Animal Hospital | trust 4.0 | Skokie Animal Hospital is a veterinarian in Skokie, IL at 7550 Lincoln Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/skokie-animal-hospital-skokie/
+1. Animal Medical Center | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Animal Medical Center is a veterinarian in Skokie, IL at 8343 Skokie Boulevard, Skokie, IL 60077. Website: https://www.amcskokie.com/. | https://dingalinged-cpu.github.io/registry/c/animal-medical-center-skokie/
+2. Riser Animal Hospital | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Riser Animal Hospital is a veterinarian in Skokie, IL at 5335 West Touhy Avenue, Skokie, IL 60077. Website: https://www.riserah.com/. | https://dingalinged-cpu.github.io/registry/c/riser-animal-hospital-skokie/
+3. Animal 911 | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Animal 911 is a veterinarian in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/animal-911-skokie/
+4. Chicago Exotics Animal Hospital | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Chicago Exotics Animal Hospital is a veterinarian in Skokie, IL at 3757 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/chicago-exotics-animal-hospital-skokie/
+5. Skokie Animal Hospital | Organic #5 | Pulse Score 56.1/100 (Unrated, #5 in city) | Skokie Animal Hospital is a veterinarian in Skokie, IL at 7550 Lincoln Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/skokie-animal-hospital-skokie/
+6. Banfield Pet Hospital | Organic #6 | Pulse Score 43.8/100 (Building, #6 in city) | Banfield Pet Hospital is a veterinarian in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/banfield-pet-hospital-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet skokie il | category: Pets | industry benchmark: Animals & Pets

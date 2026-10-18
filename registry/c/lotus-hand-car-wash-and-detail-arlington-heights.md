@@ -13,7 +13,7 @@ Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu-Fr 09:00-17:30; Sa 10:30-17:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of car washes in Chicago, #1 of 5 car washes in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

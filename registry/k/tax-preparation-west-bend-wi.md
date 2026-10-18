@@ -1,12 +1,12 @@
-The top unpaid tax preparation listing for West Bend, WI is H&R Block (a tax preparation service in West Bend, WI). 1 tax preparation businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for West Bend, WI is H&R Block (a tax preparation service in West Bend, WI). 1 tax preparation businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in West Bend, WI?
 
 Also answers: tax preparation in West Bend, WI; tax preparation near me (West Bend, WI); best tax preparation West Bend, WI; top rated tax preparation West Bend, WI; affordable tax preparation West Bend, WI; emergency tax preparation West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 0.0 | H&R Block is a tax preparation service in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-west-bend/
+1. H&R Block | Organic #1 | Pulse Score 41.2/100 (Building, #1 in city) | H&R Block is a tax preparation service in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation west bend wi | category: Professional & financial services | industry benchmark: Finance & Insurance

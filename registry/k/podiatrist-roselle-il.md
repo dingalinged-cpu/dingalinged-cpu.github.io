@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for Roselle, IL is AFP Podiatry/ Dr. Phillip Forni (a podiatrist in Roselle, IL at 825 North Roselle Road, Roselle, IL 60172. Phone: +16305821100. Website: https://www.drforni.com/). 1 podiatrist businesses are listed for Roselle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Roselle, IL is AFP Podiatry/ Dr. Phillip Forni (a podiatrist in Roselle, IL at 825 North Roselle Road, Roselle, IL 60172. Phone: +16305821100. Website: https://www.drforni.com/). 1 podiatrist businesses are listed for Roselle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Roselle, IL?
 
 Also answers: podiatrist in Roselle, IL; podiatrist near me (Roselle, IL); best podiatrist Roselle, IL; top rated podiatrist Roselle, IL; affordable podiatrist Roselle, IL; emergency podiatrist Roselle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFP Podiatry/ Dr. Phillip Forni | trust 16.0 | AFP Podiatry/ Dr. Phillip Forni is a podiatrist in Roselle, IL at 825 North Roselle Road, Roselle, IL 60172. Phone: +16305821100. Website: https://www.drforni.com/. | https://dingalinged-cpu.github.io/registry/c/afp-podiatry-dr-phillip-forni-roselle/
+1. AFP Podiatry/ Dr. Phillip Forni | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | AFP Podiatry/ Dr. Phillip Forni is a podiatrist in Roselle, IL at 825 North Roselle Road, Roselle, IL 60172. Phone: +16305821100. Website: https://www.drforni.com/. | https://dingalinged-cpu.github.io/registry/c/afp-podiatry-dr-phillip-forni-roselle/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist roselle il | category: Health & medical | industry benchmark: Physicians & Surgeons

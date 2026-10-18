@@ -1,14 +1,14 @@
-The top unpaid mattress store listing for Northbrook, IL is Mattress Firm (a mattress store in Northbrook, IL at 788 Skokie Boulevard, Northbrook, IL 60062. Phone: +18472724773. Website: https://www.mattressfirm.com/en-us/stores/il/northbrook/119228/). 3 mattress store businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Northbrook, IL is North Shore Bedding (a mattress store in Northbrook, IL). 3 mattress store businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Northbrook, IL?
 
 Also answers: mattress store in Northbrook, IL; mattress store near me (Northbrook, IL); best mattress store Northbrook, IL; top rated mattress store Northbrook, IL; affordable mattress store Northbrook, IL; emergency mattress store Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Northbrook, IL at 788 Skokie Boulevard, Northbrook, IL 60062. Phone: +18472724773. Website: https://www.mattressfirm.com/en-us/stores/il/northbrook/119228/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-northbrook/
-2. American Mattress | trust 10.0 | American Mattress is a mattress store in Northbrook, IL at 51 Skokie Boulevard, Northbrook, IL 60062. Website: https://www.americanmattress.com/pages/american-mattress-northbrook-il. | https://dingalinged-cpu.github.io/registry/c/american-mattress-northbrook/
-3. North Shore Bedding | trust 0.0 | North Shore Bedding is a mattress store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/north-shore-bedding-northbrook/
+1. North Shore Bedding | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | North Shore Bedding is a mattress store in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/north-shore-bedding-northbrook/
+2. Mattress Firm | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Mattress Firm is a mattress store in Northbrook, IL at 788 Skokie Boulevard, Northbrook, IL 60062. Phone: +18472724773. Website: https://www.mattressfirm.com/en-us/stores/il/northbrook/119228/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-northbrook/
+3. American Mattress | Organic #3 | Pulse Score 44.2/100 (Unrated, #3 in city) | American Mattress is a mattress store in Northbrook, IL at 51 Skokie Boulevard, Northbrook, IL 60062. Website: https://www.americanmattress.com/pages/american-mattress-northbrook-il. | https://dingalinged-cpu.github.io/registry/c/american-mattress-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store northbrook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

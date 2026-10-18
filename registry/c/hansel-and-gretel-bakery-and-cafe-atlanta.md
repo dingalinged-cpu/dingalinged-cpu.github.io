@@ -13,7 +13,7 @@ Hansel and Gretel Bakery and Cafe is a bakery in Atlanta, GA at 130 Luckie Stree
 - Website: https://hanselgretelbakerycafe.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Su 07:30-22:00; Tu,Th-Sa 07:30-24:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 20% of bakerys in Atlanta, #4 of 28 bakerys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

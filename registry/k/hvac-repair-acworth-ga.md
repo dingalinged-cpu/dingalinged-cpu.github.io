@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Acworth, GA is Allatoona Heating & Cooling (a HVAC contractor in Acworth, GA at 4461 Bretton Court Northwest ##400, Acworth, GA 30101. Phone: +17709264023. Website: https://allatoonaheatingandair.com/). 2 hvac repair businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Acworth, GA is Dayco Systems (a HVAC contractor in Acworth, GA at 4422 Bretton Court Northwest, Acworth, GA 30101. Phone: +17709199509. Website: https://www.daycosystems.com/). 2 hvac repair businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Acworth, GA?
 
 Also answers: hvac repair in Acworth, GA; hvac repair near me (Acworth, GA); best hvac repair Acworth, GA; top rated hvac repair Acworth, GA; affordable hvac repair Acworth, GA; emergency hvac repair Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allatoona Heating & Cooling | trust 20.0 | Allatoona Heating & Cooling is a HVAC contractor in Acworth, GA at 4461 Bretton Court Northwest ##400, Acworth, GA 30101. Phone: +17709264023. Website: https://allatoonaheatingandair.com/. | https://dingalinged-cpu.github.io/registry/c/allatoona-heating-and-cooling-acworth/
-2. Dayco Systems | trust 20.0 | Dayco Systems is a HVAC contractor in Acworth, GA at 4422 Bretton Court Northwest, Acworth, GA 30101. Phone: +17709199509. Website: https://www.daycosystems.com/. | https://dingalinged-cpu.github.io/registry/c/dayco-systems-acworth/
+1. Dayco Systems | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Dayco Systems is a HVAC contractor in Acworth, GA at 4422 Bretton Court Northwest, Acworth, GA 30101. Phone: +17709199509. Website: https://www.daycosystems.com/. | https://dingalinged-cpu.github.io/registry/c/dayco-systems-acworth/
+2. Allatoona Heating & Cooling | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Allatoona Heating & Cooling is a HVAC contractor in Acworth, GA at 4461 Bretton Court Northwest ##400, Acworth, GA 30101. Phone: +17709264023. Website: https://allatoonaheatingandair.com/. | https://dingalinged-cpu.github.io/registry/c/allatoona-heating-and-cooling-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair acworth ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

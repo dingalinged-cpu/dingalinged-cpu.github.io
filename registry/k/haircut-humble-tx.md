@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Humble, TX is Born Cutterz Barbershop (a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/). 10 haircut businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Humble, TX is Born Cutterz Barbershop (a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/). 10 haircut businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Humble, TX?
 
 Also answers: haircut in Humble, TX; haircut near me (Humble, TX); best haircut Humble, TX; top rated haircut Humble, TX; affordable haircut Humble, TX; emergency haircut Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Born Cutterz Barbershop | trust 20.0 | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
-2. Sharp Cuts & Styles by Nuvia | trust 16.0 | Sharp Cuts & Styles by Nuvia is a hair salon in Humble, TX at 5444 Atascocita Road, Humble, TX 77346. Phone: +18324475671. Website: https://sharpcutsandstyles.square.site/. | https://dingalinged-cpu.github.io/registry/c/sharp-cuts-and-styles-by-nuvia-humble/
-3. Hair Masters | trust 9.0 | Hair Masters is a hair salon in Humble, TX at 5311 Humble–Huffman Road, Humble, TX. Website: https://hairmasterstx.com/. | https://dingalinged-cpu.github.io/registry/c/hair-masters-humble/
-4. Supercuts | trust 4.0 | Supercuts is a hair salon in Humble, TX at 202 FM 1960 Bypass Road East #A2, Humble, TX 77338. | https://dingalinged-cpu.github.io/registry/c/supercuts-humble/
-5. Diana's Beauty Salon | trust 3.0 | Diana's Beauty Salon is a hair salon in Humble, TX at 122 Atascocita Road #D, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dianas-beauty-salon-humble/
-6. Diva Style Hair | trust 3.0 | Diva Style Hair is a hair salon in Humble, TX at 8840 Will Clayton Parkway #I, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/diva-style-hair-humble/
-7. Nola Hair Studio / Barber Shop | trust 3.0 | Nola Hair Studio / Barber Shop is a hair salon in Humble, TX at 8998 Will Clayton Parkway #D, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/nola-hair-studio-barber-shop-humble/
-8. D Dominican Beauty Salon | trust 0.0 | D Dominican Beauty Salon is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/d-dominican-beauty-salon-humble/
-9. Dee's Hair Design | trust 0.0 | Dee's Hair Design is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dees-hair-design-humble/
-10. Laura's Fashion | trust 0.0 | Laura's Fashion is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/lauras-fashion-humble/
+1. Born Cutterz Barbershop | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Born Cutterz Barbershop is a hair salon in Humble, TX at 802 #300 1st Street, Humble, TX 77338. Phone: +13466168200. Website: https://borncutterz.com/. | https://dingalinged-cpu.github.io/registry/c/born-cutterz-barbershop-humble/
+2. Sharp Cuts & Styles by Nuvia | Organic #2 | Pulse Score 63.4/100 (Unrated, #2 in city) | Sharp Cuts & Styles by Nuvia is a hair salon in Humble, TX at 5444 Atascocita Road, Humble, TX 77346. Phone: +18324475671. Website: https://sharpcutsandstyles.square.site/. | https://dingalinged-cpu.github.io/registry/c/sharp-cuts-and-styles-by-nuvia-humble/
+3. Hair Masters | Organic #3 | Pulse Score 60.8/100 (Unrated, #3 in city) | Hair Masters is a hair salon in Humble, TX at 5311 Humble–Huffman Road, Humble, TX. Website: https://hairmasterstx.com/. | https://dingalinged-cpu.github.io/registry/c/hair-masters-humble/
+4. Diana's Beauty Salon | Organic #4 | Pulse Score 57.7/100 (Unrated, #4 in city) | Diana's Beauty Salon is a hair salon in Humble, TX at 122 Atascocita Road #D, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dianas-beauty-salon-humble/
+5. Nola Hair Studio / Barber Shop | Organic #5 | Pulse Score 57.7/100 (Unrated, #5 in city) | Nola Hair Studio / Barber Shop is a hair salon in Humble, TX at 8998 Will Clayton Parkway #D, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/nola-hair-studio-barber-shop-humble/
+6. Diva Style Hair | Organic #6 | Pulse Score 57/100 (Unrated, #6 in city) | Diva Style Hair is a hair salon in Humble, TX at 8840 Will Clayton Parkway #I, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/diva-style-hair-humble/
+7. D Dominican Beauty Salon | Organic #7 | Pulse Score 56.9/100 (Unrated, #7 in city) | D Dominican Beauty Salon is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/d-dominican-beauty-salon-humble/
+8. Dee's Hair Design | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Dee's Hair Design is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dees-hair-design-humble/
+9. Laura's Fashion | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Laura's Fashion is a hair salon in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/lauras-fashion-humble/
+10. Supercuts | Organic #10 | Pulse Score 46.2/100 (Building, #10 in city) | Supercuts is a hair salon in Humble, TX at 202 FM 1960 Bypass Road East #A2, Humble, TX 77338. | https://dingalinged-cpu.github.io/registry/c/supercuts-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut humble tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

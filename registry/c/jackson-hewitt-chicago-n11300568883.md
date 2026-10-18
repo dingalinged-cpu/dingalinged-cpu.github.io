@@ -13,7 +13,7 @@ Jackson Hewitt is a tax preparation service in Chicago, IL at 6800 South Stony I
 - Website: https://office.jacksonhewitt.com/tax-preparation-services-locations/en/il/chicago/6800-s-stony-island-ave/19668
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 34% of tax preparation services in Chicago, #27 of 87 tax preparation services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue N
 - Website: https://www.arthursjewelers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 11:00-17:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 5% of jewelry stores in Minneapolis–St. Paul, #1 of 7 jewelry stores in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

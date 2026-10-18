@@ -13,7 +13,7 @@ Gearty-Delmore Funeral Chapel is a funeral home in Plymouth, MN at 15800 37th Av
 - Website: https://www.gearty-delmore.com/about-us/tucson-funeral-chapel
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 38% of funeral homes in Minneapolis–St. Paul, #1 of 1 funeral homes in Plymouth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

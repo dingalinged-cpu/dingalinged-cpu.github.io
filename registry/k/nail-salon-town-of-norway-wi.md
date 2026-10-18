@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Town Of Norway, WI is Nailhairissues (a nail salon in Town of Norway, WI). 1 nail salon businesses are listed for Town Of Norway, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Town Of Norway, WI is Nailhairissues (a nail salon in Town of Norway, WI). 1 nail salon businesses are listed for Town Of Norway, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Town Of Norway, WI?
 
 Also answers: nail salon in Town Of Norway, WI; nail salon near me (Town Of Norway, WI); best nail salon Town Of Norway, WI; top rated nail salon Town Of Norway, WI; affordable nail salon Town Of Norway, WI; emergency nail salon Town Of Norway, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nailhairissues | trust 0.0 | Nailhairissues is a nail salon in Town of Norway, WI. | https://dingalinged-cpu.github.io/registry/c/nailhairissues-town-of-norway/
+1. Nailhairissues | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Nailhairissues is a nail salon in Town of Norway, WI. | https://dingalinged-cpu.github.io/registry/c/nailhairissues-town-of-norway/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon town of norway wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

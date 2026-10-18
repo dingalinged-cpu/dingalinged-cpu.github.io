@@ -1,13 +1,13 @@
-The top unpaid family doctor listing for Tomball, TX is First Primary Care (a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/). 2 family doctor businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Tomball, TX is Feray Family Practice (a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/). 2 family doctor businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Tomball, TX?
 
 Also answers: family doctor in Tomball, TX; family doctor near me (Tomball, TX); best family doctor Tomball, TX; top rated family doctor Tomball, TX; affordable family doctor Tomball, TX; emergency family doctor Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Primary Care | trust 20.0 | First Primary Care is a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-tomball/
-2. Feray Family Practice | trust 14.0 | Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/. | https://dingalinged-cpu.github.io/registry/c/feray-family-practice-tomball/
+1. Feray Family Practice | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Feray Family Practice is a family medicine practice in Tomball, TX at 720 Lawrence Street, Tomball, TX 77375. Website: https://www.drferay.com/. | https://dingalinged-cpu.github.io/registry/c/feray-family-practice-tomball/
+2. First Primary Care | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | First Primary Care is a family medicine practice in Tomball, TX at 12426 Spring Cypress Road #C, Tomball, TX 77377. Phone: +18322199414. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor tomball tx | category: Health & medical | industry benchmark: Physicians & Surgeons

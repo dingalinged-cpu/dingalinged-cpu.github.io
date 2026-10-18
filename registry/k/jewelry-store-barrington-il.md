@@ -1,14 +1,14 @@
-The top unpaid jewelry store listing for Barrington, IL is MJ Miller & Co (a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010). 3 jewelry store businesses are listed for Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Barrington, IL is MJ Miller & Co (a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010). 3 jewelry store businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Barrington, IL?
 
 Also answers: jewelry store in Barrington, IL; jewelry store near me (Barrington, IL); best jewelry store Barrington, IL; top rated jewelry store Barrington, IL; affordable jewelry store Barrington, IL; emergency jewelry store Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MJ Miller & Co | trust 4.0 | MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/
-2. Catchpenny | trust 0.0 | Catchpenny is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/catchpenny-barrington/
-3. Long & Company Jewelers | trust 0.0 | Long & Company Jewelers is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/long-and-company-jewelers-barrington/
+1. MJ Miller & Co | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | MJ Miller & Co is a jewelry store in Barrington, IL at 123 West Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/mj-miller-and-co-barrington/
+2. Catchpenny | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Catchpenny is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/catchpenny-barrington/
+3. Long & Company Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Long & Company Jewelers is a jewelry store in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/long-and-company-jewelers-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store barrington il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,28 +1,28 @@
-The top unpaid furniture store listing for Madison, WI is Ashley HomeStore (a furniture store in Madison, WI at 2302 East Springs Drive, Madison, WI 53704. Phone: +16082440222. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/madison/7710000489/). 17 furniture store businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Madison, WI is Henricksen (a furniture store in Madison, WI. Phone: +16082441400). 17 furniture store businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Madison, WI?
 
 Also answers: furniture store in Madison, WI; furniture store near me (Madison, WI); best furniture store Madison, WI; top rated furniture store Madison, WI; affordable furniture store Madison, WI; emergency furniture store Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Madison, WI at 2302 East Springs Drive, Madison, WI 53704. Phone: +16082440222. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/madison/7710000489/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-madison/
-2. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Madison, WI at 2404 West Beltline Highway, Madison, WI 53713. Phone: +16082777700. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/madison/7710000490/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-madison-w419944240/
-3. A1 Furniture Clearance Warehouse | trust 12.0 | A1 Furniture Clearance Warehouse is a furniture store in Madison, WI. Phone: +18006711889. Website: https://driveoscar.com/locations/madison-south. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-clearance-warehouse-madison/
-4. Henricksen | trust 10.0 | Henricksen is a furniture store in Madison, WI. Phone: +16082441400. | https://dingalinged-cpu.github.io/registry/c/henricksen-madison/
-5. Penny Mustard Furnishings | trust 6.0 | Penny Mustard Furnishings is a furniture store in Madison, WI. Website: https://pennymustard.com/. | https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-madison/
-6. At Home | trust 4.0 | At Home is a furniture store in Madison, WI at 7050 Watts Road, Madison, WI 53719. | https://dingalinged-cpu.github.io/registry/c/at-home-madison/
-7. Don's Home Furniture | trust 4.0 | Don's Home Furniture is a furniture store in Madison, WI at 2121 West Beltline Highway, Madison, WI 53713. | https://dingalinged-cpu.github.io/registry/c/dons-home-furniture-madison/
-8. A1 Furniture & Mattress | trust 0.0 | A1 Furniture & Mattress is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-and-mattress-madison/
-9. Bob's Discount Furniture | trust 0.0 | Bob's Discount Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-madison/
-10. La-Z-Boy | trust 0.0 | La-Z-Boy is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-madison/
-11. LoveSac | trust 0.0 | LoveSac is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lovesac-madison/
-12. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-madison/
-13. Rubin's R-Lifestyle | trust 0.0 | Rubin's R-Lifestyle is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rubins-r-lifestyle-madison/
-14. Slumberland Furniture | trust 0.0 | Slumberland Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-madison/
-15. Steinhafels | trust 0.0 | Steinhafels is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/steinhafels-madison/
-16. Wisco Home Goods | trust 0.0 | Wisco Home Goods is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wisco-home-goods-madison/
-17. Woodworks Furniture | trust 0.0 | Woodworks Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/woodworks-furniture-madison/
+1. Henricksen | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Henricksen is a furniture store in Madison, WI. Phone: +16082441400. | https://dingalinged-cpu.github.io/registry/c/henricksen-madison/
+2. Don's Home Furniture | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Don's Home Furniture is a furniture store in Madison, WI at 2121 West Beltline Highway, Madison, WI 53713. | https://dingalinged-cpu.github.io/registry/c/dons-home-furniture-madison/
+3. A1 Furniture & Mattress | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | A1 Furniture & Mattress is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-and-mattress-madison/
+4. Rubin's R-Lifestyle | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Rubin's R-Lifestyle is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/rubins-r-lifestyle-madison/
+5. Wisco Home Goods | Organic #5 | Pulse Score 55.5/100 (Unrated, #5 in city) | Wisco Home Goods is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wisco-home-goods-madison/
+6. Woodworks Furniture | Organic #6 | Pulse Score 55.5/100 (Unrated, #6 in city) | Woodworks Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/woodworks-furniture-madison/
+7. Ashley HomeStore | Organic #7 | Pulse Score 49.1/100 (Building, #7 in city) | Ashley HomeStore is a furniture store in Madison, WI at 2302 East Springs Drive, Madison, WI 53704. Phone: +16082440222. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/madison/7710000489/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-madison/
+8. Ashley HomeStore | Organic #8 | Pulse Score 49.1/100 (Building, #8 in city) | Ashley HomeStore is a furniture store in Madison, WI at 2404 West Beltline Highway, Madison, WI 53713. Phone: +16082777700. Website: https://stores.ashleyfurniture.com/store/us/wisconsin/madison/7710000490/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-madison-w419944240/
+9. A1 Furniture Clearance Warehouse | Organic #9 | Pulse Score 49.1/100 (Unrated, #9 in city) | A1 Furniture Clearance Warehouse is a furniture store in Madison, WI. Phone: +18006711889. Website: https://driveoscar.com/locations/madison-south. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-clearance-warehouse-madison/
+10. At Home | Organic #10 | Pulse Score 46.8/100 (Unrated, #10 in city) | At Home is a furniture store in Madison, WI at 7050 Watts Road, Madison, WI 53719. | https://dingalinged-cpu.github.io/registry/c/at-home-madison/
+11. Penny Mustard Furnishings | Organic #11 | Pulse Score 46.2/100 (Unrated, #11 in city) | Penny Mustard Furnishings is a furniture store in Madison, WI. Website: https://pennymustard.com/. | https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-madison/
+12. LoveSac | Organic #12 | Pulse Score 45.2/100 (Building, #12 in city) | LoveSac is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lovesac-madison/
+13. Bob's Discount Furniture | Organic #13 | Pulse Score 43.4/100 (Building, #13 in city) | Bob's Discount Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-madison/
+14. La-Z-Boy | Organic #14 | Pulse Score 43.4/100 (Building, #14 in city) | La-Z-Boy is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-madison/
+15. Pottery Barn | Organic #15 | Pulse Score 43.4/100 (Building, #15 in city) | Pottery Barn is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-madison/
+16. Slumberland Furniture | Organic #16 | Pulse Score 42.7/100 (Unrated, #16 in city) | Slumberland Furniture is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/slumberland-furniture-madison/
+17. Steinhafels | Organic #17 | Pulse Score 42.7/100 (Unrated, #17 in city) | Steinhafels is a furniture store in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/steinhafels-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Vadnais Heights, MN is MGM Wine & Spirits (a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127). 2 liquor store businesses are listed for Vadnais Heights, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Vadnais Heights, MN is MGM Wine & Spirits (a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127). 2 liquor store businesses are listed for Vadnais Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Vadnais Heights, MN?
 
 Also answers: liquor store in Vadnais Heights, MN; liquor store near me (Vadnais Heights, MN); best liquor store Vadnais Heights, MN; top rated liquor store Vadnais Heights, MN; affordable liquor store Vadnais Heights, MN; emergency liquor store Vadnais Heights, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MGM Wine & Spirits | trust 4.0 | MGM Wine & Spirits is a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127. | https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-vadnais-heights/
-2. Top Ten Liquors | trust 0.0 | Top Ten Liquors is a liquor store in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-vadnais-heights/
+1. MGM Wine & Spirits | Organic #1 | Pulse Score 45.3/100 (Unrated, #1 in city) | MGM Wine & Spirits is a liquor store in Vadnais Heights, MN at 1050 Highway 96, Vadnais Heights, MN 55127. | https://dingalinged-cpu.github.io/registry/c/mgm-wine-and-spirits-vadnais-heights/
+2. Top Ten Liquors | Organic #2 | Pulse Score 43.1/100 (Unrated, #2 in city) | Top Ten Liquors is a liquor store in Vadnais Heights, MN. | https://dingalinged-cpu.github.io/registry/c/top-ten-liquors-vadnais-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store vadnais heights mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ BE Fit Modern Pilates - DTX Lovers Lane is a pilates studio in Dallas, TX at 550
 - Website: https://www.befitmp.com/
 - Email: info@befitmp.com
 - Opening hours (OSM syntax): Mo-Th 05:00-20:00, Fr 05:00-18:00, Sa 07:00-13:00, Su 08:00-14:00,16:00-18:00
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.4/100 — Good — top 6% of pilates studios in Dallas–Fort Worth, #1 of 5 pilates studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 68.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

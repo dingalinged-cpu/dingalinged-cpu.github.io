@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Pantego, TX is Bill's Boot & Shoe Repair (a shoe repair in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174600600). 1 shoe repair businesses are listed for Pantego, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Pantego, TX is Bill's Boot & Shoe Repair (a shoe repair in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174600600). 1 shoe repair businesses are listed for Pantego, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Pantego, TX?
 
 Also answers: shoe repair in Pantego, TX; shoe repair near me (Pantego, TX); best shoe repair Pantego, TX; top rated shoe repair Pantego, TX; affordable shoe repair Pantego, TX; emergency shoe repair Pantego, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bill's Boot & Shoe Repair | trust 10.0 | Bill's Boot & Shoe Repair is a shoe repair in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174600600. | https://dingalinged-cpu.github.io/registry/c/bills-boot-and-shoe-repair-pantego/
+1. Bill's Boot & Shoe Repair | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Bill's Boot & Shoe Repair is a shoe repair in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18174600600. | https://dingalinged-cpu.github.io/registry/c/bills-boot-and-shoe-repair-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair pantego tx | category: Professional & financial services | industry benchmark: Finance & Insurance

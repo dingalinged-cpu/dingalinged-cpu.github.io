@@ -1,13 +1,13 @@
-The top unpaid gift shop listing for Smyrna, GA is Jonquies (a gift shop in Smyrna, GA at 1260 West Spring Street #D, Smyrna, GA). 2 gift shop businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Smyrna, GA is Jonquies (a gift shop in Smyrna, GA at 1260 West Spring Street #D, Smyrna, GA). 2 gift shop businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Smyrna, GA?
 
 Also answers: gift shop in Smyrna, GA; gift shop near me (Smyrna, GA); best gift shop Smyrna, GA; top rated gift shop Smyrna, GA; affordable gift shop Smyrna, GA; emergency gift shop Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jonquies | trust 7.0 | Jonquies is a gift shop in Smyrna, GA at 1260 West Spring Street #D, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/jonquies-smyrna/
-2. Gifting Tree & the Secret Garden Nursery | trust 3.0 | Gifting Tree & the Secret Garden Nursery is a gift shop in Smyrna, GA at 1275 Medlin Street, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/gifting-tree-and-the-secret-garden-nursery-smyrna/
+1. Jonquies | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Jonquies is a gift shop in Smyrna, GA at 1260 West Spring Street #D, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/jonquies-smyrna/
+2. Gifting Tree & the Secret Garden Nursery | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Gifting Tree & the Secret Garden Nursery is a gift shop in Smyrna, GA at 1275 Medlin Street, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/gifting-tree-and-the-secret-garden-nursery-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop smyrna ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

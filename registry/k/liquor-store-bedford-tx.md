@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Bedford, TX is Spec's (a liquor store in Bedford, TX at 1520 Airport Freeway, Bedford, TX. Phone: +18175084490. Website: https://specsonline.com/liquor-stores/dallas/bedford-211/). 4 liquor store businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Bedford, TX is My Beer Store #8 (a liquor store in Bedford, TX at 2101 Pipeline Road, Bedford, TX 76022. Phone: +16825034874). 4 liquor store businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Bedford, TX?
 
 Also answers: liquor store in Bedford, TX; liquor store near me (Bedford, TX); best liquor store Bedford, TX; top rated liquor store Bedford, TX; affordable liquor store Bedford, TX; emergency liquor store Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's | trust 19.0 | Spec's is a liquor store in Bedford, TX at 1520 Airport Freeway, Bedford, TX. Phone: +18175084490. Website: https://specsonline.com/liquor-stores/dallas/bedford-211/. | https://dingalinged-cpu.github.io/registry/c/specs-bedford/
-2. My Beer Store #8 | trust 10.0 | My Beer Store #8 is a liquor store in Bedford, TX at 2101 Pipeline Road, Bedford, TX 76022. Phone: +16825034874. | https://dingalinged-cpu.github.io/registry/c/my-beer-store-8-bedford/
-3. Goody Goody Liquor | trust 4.0 | Goody Goody Liquor is a liquor store in Bedford, TX at 1612 Airport Freeway, Bedford, TX 76022. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-bedford/
-4. Liquor Depot | trust 0.0 | Liquor Depot is a liquor store in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-depot-bedford/
+1. My Beer Store #8 | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | My Beer Store #8 is a liquor store in Bedford, TX at 2101 Pipeline Road, Bedford, TX 76022. Phone: +16825034874. | https://dingalinged-cpu.github.io/registry/c/my-beer-store-8-bedford/
+2. Spec's | Organic #2 | Pulse Score 50.5/100 (Fair, #2 in city) | Spec's is a liquor store in Bedford, TX at 1520 Airport Freeway, Bedford, TX. Phone: +18175084490. Website: https://specsonline.com/liquor-stores/dallas/bedford-211/. | https://dingalinged-cpu.github.io/registry/c/specs-bedford/
+3. Goody Goody Liquor | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | Goody Goody Liquor is a liquor store in Bedford, TX at 1612 Airport Freeway, Bedford, TX 76022. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-bedford/
+4. Liquor Depot | Organic #4 | Pulse Score 41.5/100 (Unrated, #4 in city) | Liquor Depot is a liquor store in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/liquor-depot-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store bedford tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Deerfield Montessori School is a preschool in Deerfield, IL at 760 North Avenue,
 - Website: https://montessori-schools.com/
 - Email: info@montessori-schools.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:30
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 2% of preschools in Chicago, #1 of 2 preschools in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

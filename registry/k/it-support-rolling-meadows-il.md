@@ -1,12 +1,12 @@
-The top unpaid it support listing for Rolling Meadows, IL is RAM Communications (an IT support company in Rolling Meadows, IL at 1841 Hicks Road, Rolling Meadows, IL 60008. Phone: +18662141122. Website: https://www.ramcomminc.com/). 1 it support businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Rolling Meadows, IL is RAM Communications (an IT support company in Rolling Meadows, IL at 1841 Hicks Road, Rolling Meadows, IL 60008. Phone: +18662141122. Website: https://www.ramcomminc.com/). 1 it support businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Rolling Meadows, IL?
 
 Also answers: it support in Rolling Meadows, IL; it support near me (Rolling Meadows, IL); best it support Rolling Meadows, IL; top rated it support Rolling Meadows, IL; affordable it support Rolling Meadows, IL; emergency it support Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RAM Communications | trust 16.0 | RAM Communications is an IT support company in Rolling Meadows, IL at 1841 Hicks Road, Rolling Meadows, IL 60008. Phone: +18662141122. Website: https://www.ramcomminc.com/. | https://dingalinged-cpu.github.io/registry/c/ram-communications-rolling-meadows/
+1. RAM Communications | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | RAM Communications is an IT support company in Rolling Meadows, IL at 1841 Hicks Road, Rolling Meadows, IL 60008. Phone: +18662141122. Website: https://www.ramcomminc.com/. | https://dingalinged-cpu.github.io/registry/c/ram-communications-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support rolling meadows il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

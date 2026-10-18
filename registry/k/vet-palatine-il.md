@@ -1,12 +1,12 @@
-The top unpaid vet listing for Palatine, IL is Harper Animal Hospital (a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/). 1 vet businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Palatine, IL is Harper Animal Hospital (a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/). 1 vet businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Palatine, IL?
 
 Also answers: vet in Palatine, IL; vet near me (Palatine, IL); best vet Palatine, IL; top rated vet Palatine, IL; affordable vet Palatine, IL; emergency vet Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harper Animal Hospital | trust 16.0 | Harper Animal Hospital is a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/harper-animal-hospital-palatine/
+1. Harper Animal Hospital | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Harper Animal Hospital is a veterinarian in Palatine, IL at 1460 West Algonquin Road, Palatine, IL 60067. Phone: +18473586767. Website: https://harperanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/harper-animal-hospital-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet palatine il | category: Pets | industry benchmark: Animals & Pets

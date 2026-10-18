@@ -1,13 +1,13 @@
-The top unpaid dance studio listing for Kennesaw, GA is Dance Tech & Talent (a dance studio in Kennesaw, GA at 2851 Cobb Parkway #101, Kennesaw, GA. Phone: +17708812333. Website: https://www.dancetechandtalent.com/). 2 dance studio businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Kennesaw, GA is Dance Tech & Talent (a dance studio in Kennesaw, GA at 2851 Cobb Parkway #101, Kennesaw, GA. Phone: +17708812333. Website: https://www.dancetechandtalent.com/). 2 dance studio businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Kennesaw, GA?
 
 Also answers: dance studio in Kennesaw, GA; dance studio near me (Kennesaw, GA); best dance studio Kennesaw, GA; top rated dance studio Kennesaw, GA; affordable dance studio Kennesaw, GA; emergency dance studio Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dance Tech & Talent | trust 19.0 | Dance Tech & Talent is a dance studio in Kennesaw, GA at 2851 Cobb Parkway #101, Kennesaw, GA. Phone: +17708812333. Website: https://www.dancetechandtalent.com/. | https://dingalinged-cpu.github.io/registry/c/dance-tech-and-talent-kennesaw/
-2. Atlanta Academy of Ballet and Dance | trust 15.0 | Atlanta Academy of Ballet and Dance is a dance studio in Kennesaw, GA at 2255 McCollum Parkway #109, Kennesaw, GA. Phone: +16782248931. Website: https://www.aabdstudios.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-academy-of-ballet-and-dance-kennesaw/
+1. Dance Tech & Talent | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Dance Tech & Talent is a dance studio in Kennesaw, GA at 2851 Cobb Parkway #101, Kennesaw, GA. Phone: +17708812333. Website: https://www.dancetechandtalent.com/. | https://dingalinged-cpu.github.io/registry/c/dance-tech-and-talent-kennesaw/
+2. Atlanta Academy of Ballet and Dance | Organic #2 | Pulse Score 60.7/100 (Good, #2 in city) | Atlanta Academy of Ballet and Dance is a dance studio in Kennesaw, GA at 2255 McCollum Parkway #109, Kennesaw, GA. Phone: +16782248931. Website: https://www.aabdstudios.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-academy-of-ballet-and-dance-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio kennesaw ga | category: Fitness | industry benchmark: Health & Fitness

@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Royse City, TX is Royse City Auto Care (an auto repair shop in Royse City, TX at 306 East Main Street, Royse City, TX 75189. Phone: +14698918703). 4 auto repair businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Royse City, TX is Royse City Auto Care (an auto repair shop in Royse City, TX at 306 East Main Street, Royse City, TX 75189. Phone: +14698918703). 4 auto repair businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Royse City, TX?
 
 Also answers: auto repair in Royse City, TX; auto repair near me (Royse City, TX); best auto repair Royse City, TX; top rated auto repair Royse City, TX; affordable auto repair Royse City, TX; emergency auto repair Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Royse City Auto Care | trust 10.0 | Royse City Auto Care is an auto repair shop in Royse City, TX at 306 East Main Street, Royse City, TX 75189. Phone: +14698918703. | https://dingalinged-cpu.github.io/registry/c/royse-city-auto-care-royse-city/
-2. Kwik Kar | trust 8.0 | Kwik Kar is an auto repair shop in Royse City, TX at 672 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-royse-city/
-3. Royse City Tire | trust 4.0 | Royse City Tire is an auto repair shop in Royse City, TX at 124 East Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/royse-city-tire-royse-city/
-4. Scooters Oil & Lube | trust 4.0 | Scooters Oil & Lube is an auto repair shop in Royse City, TX at 612 South Elm Street, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/scooters-oil-and-lube-royse-city/
+1. Royse City Auto Care | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Royse City Auto Care is an auto repair shop in Royse City, TX at 306 East Main Street, Royse City, TX 75189. Phone: +14698918703. | https://dingalinged-cpu.github.io/registry/c/royse-city-auto-care-royse-city/
+2. Royse City Tire | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Royse City Tire is an auto repair shop in Royse City, TX at 124 East Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/royse-city-tire-royse-city/
+3. Scooters Oil & Lube | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Scooters Oil & Lube is an auto repair shop in Royse City, TX at 612 South Elm Street, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/scooters-oil-and-lube-royse-city/
+4. Kwik Kar | Organic #4 | Pulse Score 46.4/100 (Unrated, #4 in city) | Kwik Kar is an auto repair shop in Royse City, TX at 672 West Interstate 30, Royse City, TX 75189. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair royse city tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

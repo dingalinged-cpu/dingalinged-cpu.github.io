@@ -13,7 +13,7 @@ FIT Lab is a yoga studio in Falcon Heights, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.8/100 — Unrated (not enough evidence yet) — top 70% of yoga studios in Minneapolis–St. Paul, #1 of 1 yoga studios in Falcon Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 38.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

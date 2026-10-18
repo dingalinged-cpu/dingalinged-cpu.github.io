@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Forsyth County, GA is California Hand Wash (a car wash in Forsyth County, GA at 4085 Johns Creek Parkway, Forsyth County, GA). 3 car wash businesses are listed for Forsyth County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Forsyth County, GA is California Hand Wash (a car wash in Forsyth County, GA at 4085 Johns Creek Parkway, Forsyth County, GA). 3 car wash businesses are listed for Forsyth County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Forsyth County, GA?
 
 Also answers: car wash in Forsyth County, GA; car wash near me (Forsyth County, GA); best car wash Forsyth County, GA; top rated car wash Forsyth County, GA; affordable car wash Forsyth County, GA; emergency car wash Forsyth County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. California Hand Wash | trust 3.0 | California Hand Wash is a car wash in Forsyth County, GA at 4085 Johns Creek Parkway, Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/california-hand-wash-forsyth-county/
-2. Aloha Car Wash | trust 0.0 | Aloha Car Wash is a car wash in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/aloha-car-wash-forsyth-county/
-3. Mr Clean Car Wash | trust 0.0 | Mr Clean Car Wash is a car wash in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/mr-clean-car-wash-forsyth-county/
+1. California Hand Wash | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | California Hand Wash is a car wash in Forsyth County, GA at 4085 Johns Creek Parkway, Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/california-hand-wash-forsyth-county/
+2. Aloha Car Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Aloha Car Wash is a car wash in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/aloha-car-wash-forsyth-county/
+3. Mr Clean Car Wash | Organic #3 | Pulse Score 43/100 (Unrated, #3 in city) | Mr Clean Car Wash is a car wash in Forsyth County, GA. | https://dingalinged-cpu.github.io/registry/c/mr-clean-car-wash-forsyth-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash forsyth county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

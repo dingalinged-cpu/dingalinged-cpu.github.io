@@ -13,7 +13,7 @@ On Demand Barbering is a barber shop in Grand Prairie, TX at 2985 South Watson R
 - Website: https://on-demand-barbering.square.site/
 - Email: kylesshaun2@gmail.com
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Registry Score: 66.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.2/100 — Good — top 2% of barber shops in Dallas–Fort Worth, #1 of 1 barber shops in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 71. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

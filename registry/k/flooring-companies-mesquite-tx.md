@@ -1,14 +1,14 @@
-The top unpaid flooring companies listing for Mesquite, TX is All About Floors (a flooring company in Forney, TX at 6491 FM 741, Forney, TX 75126). 3 flooring companies businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Mesquite, TX is All About Floors (a flooring company in Forney, TX at 6491 FM 741, Forney, TX 75126). 3 flooring companies businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Mesquite, TX?
 
 Also answers: flooring companies in Mesquite, TX; flooring companies near me (Mesquite, TX); best flooring companies Mesquite, TX; top rated flooring companies Mesquite, TX; affordable flooring companies Mesquite, TX; emergency flooring companies Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All About Floors | trust 4.0 | All About Floors is a flooring company in Forney, TX at 6491 FM 741, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/all-about-floors-forney/
-2. Floor & Decor | trust 4.0 | Floor & Decor is a flooring company in Mesquite, TX at 1330 North Town East Boulevard #100, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-mesquite/
-3. Lumber Liquidators | trust 4.0 | Lumber Liquidators is a flooring company in Mesquite, TX at 3301 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-mesquite/
+1. All About Floors | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | All About Floors is a flooring company in Forney, TX at 6491 FM 741, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/all-about-floors-forney/
+2. Floor & Decor | Organic #2 | Pulse Score 44.4/100 (Building, #1 in city) | Floor & Decor is a flooring company in Mesquite, TX at 1330 North Town East Boulevard #100, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-mesquite/
+3. Lumber Liquidators | Organic #3 | Pulse Score 44.4/100 (Building, #2 in city) | Lumber Liquidators is a flooring company in Mesquite, TX at 3301 Interstate 30, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/lumber-liquidators-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies mesquite tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

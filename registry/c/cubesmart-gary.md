@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Gary, IN at 855 Taft Street, Gary, IN 46
 - Website: https://www.cubesmart.com/indiana-self-storage/gary-self-storage/4796.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:30-17:00
-- Registry Score: 54.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.3/100 — Fair — top 7% of self-storage facilitys in Chicago, #2 of 2 self-storage facilitys in Gary (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 68.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

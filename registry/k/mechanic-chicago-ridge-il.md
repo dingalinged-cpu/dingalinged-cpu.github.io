@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Chicago Ridge, IL is Pep Boys (an auto repair shop in Chicago Ridge, IL at 10100 South Ridgeland Avenue, Chicago Ridge, IL 60415. Website: https://pepboys.com/stores/il/chicago-ridge/10100-s-ridgeland-ave). 4 mechanic businesses are listed for Chicago Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Chicago Ridge, IL is Walsh's Service Station Inc (an auto repair shop in Chicago Ridge, IL). 4 mechanic businesses are listed for Chicago Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Chicago Ridge, IL?
 
 Also answers: mechanic in Chicago Ridge, IL; mechanic near me (Chicago Ridge, IL); best mechanic Chicago Ridge, IL; top rated mechanic Chicago Ridge, IL; affordable mechanic Chicago Ridge, IL; emergency mechanic Chicago Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys | trust 10.0 | Pep Boys is an auto repair shop in Chicago Ridge, IL at 10100 South Ridgeland Avenue, Chicago Ridge, IL 60415. Website: https://pepboys.com/stores/il/chicago-ridge/10100-s-ridgeland-ave. | https://dingalinged-cpu.github.io/registry/c/pep-boys-chicago-ridge/
-2. CarStar Automotive | trust 4.0 | CarStar Automotive is an auto repair shop in Chicago Ridge, IL at South Ridgeland Avenue, Chicago Ridge, IL 60415. | https://dingalinged-cpu.github.io/registry/c/carstar-automotive-chicago-ridge/
-3. John's Automotive | trust 0.0 | John's Automotive is an auto repair shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/johns-automotive-chicago-ridge/
-4. Walsh's Service Station Inc | trust 0.0 | Walsh's Service Station Inc is an auto repair shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/walshs-service-station-inc-chicago-ridge/
+1. Walsh's Service Station Inc | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Walsh's Service Station Inc is an auto repair shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/walshs-service-station-inc-chicago-ridge/
+2. John's Automotive | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | John's Automotive is an auto repair shop in Chicago Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/johns-automotive-chicago-ridge/
+3. Pep Boys | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Pep Boys is an auto repair shop in Chicago Ridge, IL at 10100 South Ridgeland Avenue, Chicago Ridge, IL 60415. Website: https://pepboys.com/stores/il/chicago-ridge/10100-s-ridgeland-ave. | https://dingalinged-cpu.github.io/registry/c/pep-boys-chicago-ridge/
+4. CarStar Automotive | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | CarStar Automotive is an auto repair shop in Chicago Ridge, IL at South Ridgeland Avenue, Chicago Ridge, IL 60415. | https://dingalinged-cpu.github.io/registry/c/carstar-automotive-chicago-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic chicago ridge il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

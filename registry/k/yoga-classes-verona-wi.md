@@ -1,12 +1,12 @@
-The top unpaid yoga classes listing for Verona, WI is Dragonfly Hot Yoga (a yoga studio in Verona, WI. Phone: +16082039000. Website: https://www.dragonflyhotyoga.com/locations/verona/). 1 yoga classes businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Verona, WI is Dragonfly Hot Yoga (a yoga studio in Verona, WI. Phone: +16082039000. Website: https://www.dragonflyhotyoga.com/locations/verona/). 1 yoga classes businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Verona, WI?
 
 Also answers: yoga classes in Verona, WI; yoga classes near me (Verona, WI); best yoga classes Verona, WI; top rated yoga classes Verona, WI; affordable yoga classes Verona, WI; emergency yoga classes Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dragonfly Hot Yoga | trust 12.0 | Dragonfly Hot Yoga is a yoga studio in Verona, WI. Phone: +16082039000. Website: https://www.dragonflyhotyoga.com/locations/verona/. | https://dingalinged-cpu.github.io/registry/c/dragonfly-hot-yoga-verona/
+1. Dragonfly Hot Yoga | Organic #1 | Pulse Score 47.7/100 (Unrated, #1 in city) | Dragonfly Hot Yoga is a yoga studio in Verona, WI. Phone: +16082039000. Website: https://www.dragonflyhotyoga.com/locations/verona/. | https://dingalinged-cpu.github.io/registry/c/dragonfly-hot-yoga-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes verona wi | category: Fitness | industry benchmark: Health & Fitness

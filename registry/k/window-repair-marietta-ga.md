@@ -1,14 +1,14 @@
-The top unpaid window repair listing for Marietta, GA is D & S Glass (a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/). 3 window repair businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window repair listing for Marietta, GA is D & S Glass (a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/). 3 window repair businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window repair providers in Marietta, GA?
 
 Also answers: window repair in Marietta, GA; window repair near me (Marietta, GA); best window repair Marietta, GA; top rated window repair Marietta, GA; affordable window repair Marietta, GA; emergency window repair Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D & S Glass | trust 19.0 | D & S Glass is a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/. | https://dingalinged-cpu.github.io/registry/c/d-and-s-glass-marietta/
-2. Great Dane Glass & Mirror | trust 19.0 | Great Dane Glass & Mirror is a window repair service in Marietta, GA at 1951 Canton Road Northeast #140, Marietta, GA. Phone: +16787564452. Website: https://glassshopmarietta.com/. | https://dingalinged-cpu.github.io/registry/c/great-dane-glass-and-mirror-marietta/
-3. Binswanger Glass | trust 0.0 | Binswanger Glass is a window repair service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/binswanger-glass-marietta/
+1. D & S Glass | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | D & S Glass is a window repair service in Marietta, GA at 580 Cobb Parkway North, Marietta, GA. Phone: +17704199292. Website: https://www.dandsglass.com/. | https://dingalinged-cpu.github.io/registry/c/d-and-s-glass-marietta/
+2. Great Dane Glass & Mirror | Organic #2 | Pulse Score 60.5/100 (Good, #2 in city) | Great Dane Glass & Mirror is a window repair service in Marietta, GA at 1951 Canton Road Northeast #140, Marietta, GA. Phone: +16787564452. Website: https://glassshopmarietta.com/. | https://dingalinged-cpu.github.io/registry/c/great-dane-glass-and-mirror-marietta/
+3. Binswanger Glass | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Binswanger Glass is a window repair service in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/binswanger-glass-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair marietta ga | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

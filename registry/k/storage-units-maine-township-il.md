@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Maine Township, IL is Public Storage (a self-storage facility in Niles, IL at 8790 West Golf Road, Niles, IL 60714). 1 storage units businesses are listed for Maine Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Maine Township, IL is Public Storage (a self-storage facility in Niles, IL at 8790 West Golf Road, Niles, IL 60714). 1 storage units businesses are listed for Maine Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Maine Township, IL?
 
 Also answers: storage units in Maine Township, IL; storage units near me (Maine Township, IL); best storage units Maine Township, IL; top rated storage units Maine Township, IL; affordable storage units Maine Township, IL; emergency storage units Maine Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Public Storage | trust 4.0 | Public Storage is a self-storage facility in Niles, IL at 8790 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/public-storage-niles-w797329606/
+1. Public Storage | Organic #1 | Pulse Score 43.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in Niles, IL at 8790 West Golf Road, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/public-storage-niles-w797329606/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units maine township il | category: Home services - Moving | industry benchmark: Home & Home Improvement

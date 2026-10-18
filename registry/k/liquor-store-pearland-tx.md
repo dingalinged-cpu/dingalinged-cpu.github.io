@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Pearland, TX is Liquor Pot (a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008). 1 liquor store businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Pearland, TX is Liquor Pot (a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008). 1 liquor store businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Pearland, TX?
 
 Also answers: liquor store in Pearland, TX; liquor store near me (Pearland, TX); best liquor store Pearland, TX; top rated liquor store Pearland, TX; affordable liquor store Pearland, TX; emergency liquor store Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liquor Pot | trust 14.0 | Liquor Pot is a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008. | https://dingalinged-cpu.github.io/registry/c/liquor-pot-pearland/
+1. Liquor Pot | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Liquor Pot is a liquor store in Pearland, TX at 160 South Main Street, Pearland, TX 77581. Phone: +17138751008. | https://dingalinged-cpu.github.io/registry/c/liquor-pot-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store pearland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

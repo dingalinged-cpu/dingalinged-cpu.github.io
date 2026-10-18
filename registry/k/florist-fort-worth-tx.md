@@ -1,12 +1,12 @@
-The top unpaid florist listing for Fort Worth, TX is Florería Reyes (a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth, TX 76112. Phone: +16822870074). 1 florist businesses are listed for Fort Worth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Fort Worth, TX is Florería Reyes (a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth, TX 76112. Phone: +16822870074). 1 florist businesses are listed for Fort Worth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Fort Worth, TX?
 
 Also answers: florist in Fort Worth, TX; florist near me (Fort Worth, TX); best florist Fort Worth, TX; top rated florist Fort Worth, TX; affordable florist Fort Worth, TX; emergency florist Fort Worth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Florería Reyes | trust 14.0 | Florería Reyes is a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth, TX 76112. Phone: +16822870074. | https://dingalinged-cpu.github.io/registry/c/florer-a-reyes-fort-worth/
+1. Florería Reyes | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Florería Reyes is a florist in Fort Worth, TX at 2617 Handley Drive, Fort Worth, TX 76112. Phone: +16822870074. | https://dingalinged-cpu.github.io/registry/c/florer-a-reyes-fort-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist fort worth tx | category: Events & weddings | industry benchmark: Personal Services

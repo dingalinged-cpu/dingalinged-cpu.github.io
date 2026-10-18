@@ -13,7 +13,7 @@ Mister Car Wash - Greenfield is a car wash in Milwaukee, WI. Website: https://ww
 - Website: https://www.way.com/carwashdetails/6313681/Mister-Car-Wash-Greenfield
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 27% of car washes in Milwaukee, #13 of 23 car washes in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

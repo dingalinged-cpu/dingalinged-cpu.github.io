@@ -1,19 +1,19 @@
-The top unpaid dentist listing for Conroe, TX is Montgomery Park Dental (a dentist in Conroe, TX at 2016 North Loop 336 West, Conroe, TX 77304. Website: https://montgomeryparkdentalcare.com/). 8 dentist businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Conroe, TX is Trinity Dental Center (a dentist in Conroe, TX at 1304 West Davis Street #A, Conroe, TX). 8 dentist businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Conroe, TX?
 
 Also answers: dentist in Conroe, TX; dentist near me (Conroe, TX); best dentist Conroe, TX; top rated dentist Conroe, TX; affordable dentist Conroe, TX; emergency dentist Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Montgomery Park Dental | trust 10.0 | Montgomery Park Dental is a dentist in Conroe, TX at 2016 North Loop 336 West, Conroe, TX 77304. Website: https://montgomeryparkdentalcare.com/. | https://dingalinged-cpu.github.io/registry/c/montgomery-park-dental-conroe/
-2. Conroe Comprehensive Dental Center | trust 8.0 | Conroe Comprehensive Dental Center is a dentist in Conroe, TX at 2210 North Frazier Street ##120, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/conroe-comprehensive-dental-center-conroe/
-3. Trinity Dental Center | trust 3.0 | Trinity Dental Center is a dentist in Conroe, TX at 1304 West Davis Street #A, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-dental-center-conroe/
-4. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-conroe/
-5. GRAND CENTRAL DENTISTRY OF CONROE | trust 0.0 | GRAND CENTRAL DENTISTRY OF CONROE is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/grand-central-dentistry-of-conroe-conroe/
-6. Greater Houston Pediatric Dentistry | trust 0.0 | Greater Houston Pediatric Dentistry is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-conroe/
-7. Ideal Dental | trust 0.0 | Ideal Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-conroe/
-8. Lovett Dental | trust 0.0 | Lovett Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/lovett-dental-conroe/
+1. Trinity Dental Center | Organic #1 | Pulse Score 61.4/100 (Good, #1 in city) | Trinity Dental Center is a dentist in Conroe, TX at 1304 West Davis Street #A, Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-dental-center-conroe/
+2. Montgomery Park Dental | Organic #2 | Pulse Score 59.7/100 (Unrated, #3 in city) | Montgomery Park Dental is a dentist in Conroe, TX at 2016 North Loop 336 West, Conroe, TX 77304. Website: https://montgomeryparkdentalcare.com/. | https://dingalinged-cpu.github.io/registry/c/montgomery-park-dental-conroe/
+3. Conroe Comprehensive Dental Center | Organic #3 | Pulse Score 59.7/100 (Unrated, #2 in city) | Conroe Comprehensive Dental Center is a dentist in Conroe, TX at 2210 North Frazier Street ##120, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/conroe-comprehensive-dental-center-conroe/
+4. GRAND CENTRAL DENTISTRY OF CONROE | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | GRAND CENTRAL DENTISTRY OF CONROE is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/grand-central-dentistry-of-conroe-conroe/
+5. Lovett Dental | Organic #5 | Pulse Score 44.8/100 (Unrated, #5 in city) | Lovett Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/lovett-dental-conroe/
+6. Greater Houston Pediatric Dentistry | Organic #6 | Pulse Score 43/100 (Unrated, #6 in city) | Greater Houston Pediatric Dentistry is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/greater-houston-pediatric-dentistry-conroe/
+7. Aspen Dental | Organic #7 | Pulse Score 42.8/100 (Building, #7 in city) | Aspen Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-conroe/
+8. Ideal Dental | Organic #8 | Pulse Score 41.9/100 (Unrated, #8 in city) | Ideal Dental is a dentist in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist conroe tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,17 +1,17 @@
-The top unpaid haircut listing for Mount Pleasant, WI is Sport Clips (a barber shop in Mount Pleasant, WI. Phone: +12626344247. Website: https://sportclips.com/us-wi-racine-wi107). 6 haircut businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Mount Pleasant, WI is NEW IMAGE BARBER SHOP (a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406). 6 haircut businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Mount Pleasant, WI?
 
 Also answers: haircut in Mount Pleasant, WI; haircut near me (Mount Pleasant, WI); best haircut Mount Pleasant, WI; top rated haircut Mount Pleasant, WI; affordable haircut Mount Pleasant, WI; emergency haircut Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 16.0 | Sport Clips is a barber shop in Mount Pleasant, WI. Phone: +12626344247. Website: https://sportclips.com/us-wi-racine-wi107. | https://dingalinged-cpu.github.io/registry/c/sport-clips-mount-pleasant/
-2. The Barbershop | trust 14.0 | The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Mount Pleasant, WI 53177. Website: https://thebarbershops.com/racine/. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-mount-pleasant/
-3. NEW IMAGE BARBER SHOP | trust 4.0 | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
-4. Cost Cutters | trust 3.0 | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/
-5. Cost Cutters | trust 3.0 | Cost Cutters is a hair salon in Mount Pleasant, WI at 5500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant-w362345235/
-6. Supercuts | trust 3.0 | Supercuts is a hair salon in Mount Pleasant, WI at 5360 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-mount-pleasant/
+1. NEW IMAGE BARBER SHOP | Organic #1 | Pulse Score 56.3/100 (Unrated, #2 in city) | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
+2. The Barbershop | Organic #2 | Pulse Score 46.9/100 (Unrated, #1 in city) | The Barbershop is a hair salon in Mount Pleasant, WI at 7115 Durand Avenue, Mount Pleasant, WI 53177. Website: https://thebarbershops.com/racine/. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-mount-pleasant/
+3. Sport Clips | Organic #3 | Pulse Score 46.4/100 (Building, #1 in city) | Sport Clips is a barber shop in Mount Pleasant, WI. Phone: +12626344247. Website: https://sportclips.com/us-wi-racine-wi107. | https://dingalinged-cpu.github.io/registry/c/sport-clips-mount-pleasant/
+4. Cost Cutters | Organic #4 | Pulse Score 43.2/100 (Building, #2 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 5500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant-w362345235/
+5. Cost Cutters | Organic #5 | Pulse Score 42.8/100 (Building, #3 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/
+6. Supercuts | Organic #6 | Pulse Score 42.8/100 (Building, #4 in city) | Supercuts is a hair salon in Mount Pleasant, WI at 5360 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut mount pleasant wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

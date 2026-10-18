@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Orland Park, IL at 15820 South 94th 
 - Website: https://www.binnys.com/store-locator/orland-park/
 - Email: orlandpark@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 90% of liquor stores in Chicago, #1 of 1 liquor stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

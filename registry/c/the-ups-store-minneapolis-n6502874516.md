@@ -13,7 +13,7 @@ The UPS Store is a printing service in Minneapolis, MN at 2801 Hennepin Avenue S
 - Website: https://locations.theupsstore.com/mn/minneapolis/2801-hennepin-ave-s
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su 10:00-15:00
-- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 48% of printing services in Minneapolis–St. Paul, #6 of 12 printing services in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

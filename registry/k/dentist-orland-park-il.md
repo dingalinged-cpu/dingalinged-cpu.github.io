@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Orland Park, IL is Anne Solus Gaffney, DDS (a dentist in Orland Park, IL at 15717 Wolf Road, Orland Park, IL 60467. Phone: +17083497232. Website: https://www.orlandparkfamilydental.com/). 4 dentist businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Orland Park, IL is Anne Solus Gaffney, DDS (a dentist in Orland Park, IL at 15717 Wolf Road, Orland Park, IL 60467. Phone: +17083497232. Website: https://www.orlandparkfamilydental.com/). 4 dentist businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Orland Park, IL?
 
 Also answers: dentist in Orland Park, IL; dentist near me (Orland Park, IL); best dentist Orland Park, IL; top rated dentist Orland Park, IL; affordable dentist Orland Park, IL; emergency dentist Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anne Solus Gaffney, DDS | trust 20.0 | Anne Solus Gaffney, DDS is a dentist in Orland Park, IL at 15717 Wolf Road, Orland Park, IL 60467. Phone: +17083497232. Website: https://www.orlandparkfamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/anne-solus-gaffney-dds-orland-park/
-2. Orland Smiles | trust 20.0 | Orland Smiles is a dentist in Orland Park, IL at 62 Orland Square Drive #104, Orland Park, IL 60462. Phone: +17084607440. Website: https://orlandsmiles.com/. | https://dingalinged-cpu.github.io/registry/c/orland-smiles-orland-park/
-3. Chicago Dental Implants & Oral Surgery | trust 4.0 | Chicago Dental Implants & Oral Surgery is a dentist in Orland Park, IL at 10713 West 159th Street, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/chicago-dental-implants-and-oral-surgery-orland-park/
-4. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-orland-park/
+1. Anne Solus Gaffney, DDS | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Anne Solus Gaffney, DDS is a dentist in Orland Park, IL at 15717 Wolf Road, Orland Park, IL 60467. Phone: +17083497232. Website: https://www.orlandparkfamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/anne-solus-gaffney-dds-orland-park/
+2. Orland Smiles | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Orland Smiles is a dentist in Orland Park, IL at 62 Orland Square Drive #104, Orland Park, IL 60462. Phone: +17084607440. Website: https://orlandsmiles.com/. | https://dingalinged-cpu.github.io/registry/c/orland-smiles-orland-park/
+3. Chicago Dental Implants & Oral Surgery | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Chicago Dental Implants & Oral Surgery is a dentist in Orland Park, IL at 10713 West 159th Street, Orland Park, IL 60467. | https://dingalinged-cpu.github.io/registry/c/chicago-dental-implants-and-oral-surgery-orland-park/
+4. Aspen Dental | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Aspen Dental is a dentist in Orland Park, IL. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist orland park il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

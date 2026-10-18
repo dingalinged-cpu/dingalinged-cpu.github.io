@@ -13,7 +13,7 @@ The Doan Law Firm is a lawyer in Houston, TX at 1 Riverway Drive #2500, Houston,
 - Website: https://www.thedoanlawfirm.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 22% of lawyers in Houston, #18 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

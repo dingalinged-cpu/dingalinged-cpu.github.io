@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Edina, MN is LABB Collective (a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/). 2 waxing businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Edina, MN is LABB Collective (a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/). 2 waxing businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Edina, MN?
 
 Also answers: waxing in Edina, MN; waxing near me (Edina, MN); best waxing Edina, MN; top rated waxing Edina, MN; affordable waxing Edina, MN; emergency waxing Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LABB Collective | trust 20.0 | LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/. | https://dingalinged-cpu.github.io/registry/c/labb-collective-edina/
-2. European Wax Center | trust 4.0 | European Wax Center is a waxing salon in Edina, MN at 7101 France Avenue South #Suite 108, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-edina/
+1. LABB Collective | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | LABB Collective is a waxing salon in Edina, MN at 3941 Market Street, Edina, MN 55424. Phone: +16126055304. Website: https://labbcollective.com/. | https://dingalinged-cpu.github.io/registry/c/labb-collective-edina/
+2. European Wax Center | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | European Wax Center is a waxing salon in Edina, MN at 7101 France Avenue South #Suite 108, Edina, MN 55435. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing edina mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

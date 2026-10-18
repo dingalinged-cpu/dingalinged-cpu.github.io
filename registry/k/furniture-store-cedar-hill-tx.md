@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Cedar Hill, TX is Home Zone Furniture (a furniture store in Cedar Hill, TX at 229 East Farm-to-Market Road 1382 #A, Cedar Hill, TX 75104. Phone: +19722938000. Website: https://homezonefurniture.com/locations-cedar-hill-texas). 2 furniture store businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Cedar Hill, TX is Decor Market (a furniture store in Cedar Hill, TX). 2 furniture store businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Cedar Hill, TX?
 
 Also answers: furniture store in Cedar Hill, TX; furniture store near me (Cedar Hill, TX); best furniture store Cedar Hill, TX; top rated furniture store Cedar Hill, TX; affordable furniture store Cedar Hill, TX; emergency furniture store Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Home Zone Furniture | trust 20.0 | Home Zone Furniture is a furniture store in Cedar Hill, TX at 229 East Farm-to-Market Road 1382 #A, Cedar Hill, TX 75104. Phone: +19722938000. Website: https://homezonefurniture.com/locations-cedar-hill-texas. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-cedar-hill/
-2. Decor Market | trust 0.0 | Decor Market is a furniture store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/decor-market-cedar-hill/
+1. Decor Market | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Decor Market is a furniture store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/decor-market-cedar-hill/
+2. Home Zone Furniture | Organic #2 | Pulse Score 50.3/100 (Unrated, #2 in city) | Home Zone Furniture is a furniture store in Cedar Hill, TX at 229 East Farm-to-Market Road 1382 #A, Cedar Hill, TX 75104. Phone: +19722938000. Website: https://homezonefurniture.com/locations-cedar-hill-texas. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store cedar hill tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

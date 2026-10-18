@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Richardson, TX is Home Zone Furniture (a furniture store in Richardson, TX at 110 West Campbell Road #200, Richardson, TX. Phone: +14693042080. Website: https://homezonefurniture.com/). 3 furniture store businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Richardson, TX is The Benefit Store (a furniture store in Richardson, TX at 561 West Campbell Road #201, Richardson, TX 75080. Website: https://thebenefitstore.org/). 3 furniture store businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Richardson, TX?
 
 Also answers: furniture store in Richardson, TX; furniture store near me (Richardson, TX); best furniture store Richardson, TX; top rated furniture store Richardson, TX; affordable furniture store Richardson, TX; emergency furniture store Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Home Zone Furniture | trust 19.0 | Home Zone Furniture is a furniture store in Richardson, TX at 110 West Campbell Road #200, Richardson, TX. Phone: +14693042080. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-richardson/
-2. The Benefit Store | trust 14.0 | The Benefit Store is a furniture store in Richardson, TX at 561 West Campbell Road #201, Richardson, TX 75080. Website: https://thebenefitstore.org/. | https://dingalinged-cpu.github.io/registry/c/the-benefit-store-richardson/
-3. Aaron's | trust 0.0 | Aaron's is a furniture store in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-richardson/
+1. The Benefit Store | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | The Benefit Store is a furniture store in Richardson, TX at 561 West Campbell Road #201, Richardson, TX 75080. Website: https://thebenefitstore.org/. | https://dingalinged-cpu.github.io/registry/c/the-benefit-store-richardson/
+2. Home Zone Furniture | Organic #2 | Pulse Score 50.9/100 (Unrated, #2 in city) | Home Zone Furniture is a furniture store in Richardson, TX at 110 West Campbell Road #200, Richardson, TX. Phone: +14693042080. Website: https://homezonefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/home-zone-furniture-richardson/
+3. Aaron's | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Aaron's is a furniture store in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store richardson tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

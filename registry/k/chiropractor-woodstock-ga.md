@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Woodstock, GA is 100% Chiropractic (a chiropractor in Woodstock, GA at 2990 Eagle Drive #102, Woodstock, GA. Phone: +16789197788. Website: https://www.100percentchiropractic.com/locations/woodstock-ga). 2 chiropractor businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Woodstock, GA is 100% Chiropractic (a chiropractor in Woodstock, GA at 2990 Eagle Drive #102, Woodstock, GA. Phone: +16789197788. Website: https://www.100percentchiropractic.com/locations/woodstock-ga). 2 chiropractor businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Woodstock, GA?
 
 Also answers: chiropractor in Woodstock, GA; chiropractor near me (Woodstock, GA); best chiropractor Woodstock, GA; top rated chiropractor Woodstock, GA; affordable chiropractor Woodstock, GA; emergency chiropractor Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 100% Chiropractic | trust 19.0 | 100% Chiropractic is a chiropractor in Woodstock, GA at 2990 Eagle Drive #102, Woodstock, GA. Phone: +16789197788. Website: https://www.100percentchiropractic.com/locations/woodstock-ga. | https://dingalinged-cpu.github.io/registry/c/100-chiropractic-woodstock/
-2. The Joint Chiropractic | trust 19.0 | The Joint Chiropractic is a chiropractor in Woodstock, GA at 1428 Towne Lake Parkway #102, Woodstock, GA. Phone: +17708093818. Website: https://www.thejoint.com/georgia/woodstock/woodstock-04031. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-woodstock/
+1. 100% Chiropractic | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | 100% Chiropractic is a chiropractor in Woodstock, GA at 2990 Eagle Drive #102, Woodstock, GA. Phone: +16789197788. Website: https://www.100percentchiropractic.com/locations/woodstock-ga. | https://dingalinged-cpu.github.io/registry/c/100-chiropractic-woodstock/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Woodstock, GA at 1428 Towne Lake Parkway #102, Woodstock, GA. Phone: +17708093818. Website: https://www.thejoint.com/georgia/woodstock/woodstock-04031. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor woodstock ga | category: Health & medical | industry benchmark: Physicians & Surgeons

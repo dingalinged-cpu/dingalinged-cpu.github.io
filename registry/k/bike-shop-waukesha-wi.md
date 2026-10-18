@@ -1,13 +1,13 @@
-The top unpaid bike shop listing for Waukesha, WI is Mokros Cycle (a bike shop in Waukesha, WI at N6W23757 Bluemound Road, Waukesha, WI 53188. Phone: +12625211300). 2 bike shop businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Waukesha, WI is Mokros Cycle (a bike shop in Waukesha, WI at N6W23757 Bluemound Road, Waukesha, WI 53188. Phone: +12625211300). 2 bike shop businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Waukesha, WI?
 
 Also answers: bike shop in Waukesha, WI; bike shop near me (Waukesha, WI); best bike shop Waukesha, WI; top rated bike shop Waukesha, WI; affordable bike shop Waukesha, WI; emergency bike shop Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mokros Cycle | trust 10.0 | Mokros Cycle is a bike shop in Waukesha, WI at N6W23757 Bluemound Road, Waukesha, WI 53188. Phone: +12625211300. | https://dingalinged-cpu.github.io/registry/c/mokros-cycle-waukesha/
-2. Fox River Sports | trust 4.0 | Fox River Sports is a bike shop in Waukesha, WI at 143 East North Street, Waukesha, WI 53188. | https://dingalinged-cpu.github.io/registry/c/fox-river-sports-waukesha/
+1. Mokros Cycle | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Mokros Cycle is a bike shop in Waukesha, WI at N6W23757 Bluemound Road, Waukesha, WI 53188. Phone: +12625211300. | https://dingalinged-cpu.github.io/registry/c/mokros-cycle-waukesha/
+2. Fox River Sports | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Fox River Sports is a bike shop in Waukesha, WI at 143 East North Street, Waukesha, WI 53188. | https://dingalinged-cpu.github.io/registry/c/fox-river-sports-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop waukesha wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

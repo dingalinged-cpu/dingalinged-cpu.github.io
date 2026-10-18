@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Centerville, MN is Corner Express Car Wash (a car wash in Centerville, MN). 1 car wash businesses are listed for Centerville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Centerville, MN is Corner Express Car Wash (a car wash in Centerville, MN). 1 car wash businesses are listed for Centerville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Centerville, MN?
 
 Also answers: car wash in Centerville, MN; car wash near me (Centerville, MN); best car wash Centerville, MN; top rated car wash Centerville, MN; affordable car wash Centerville, MN; emergency car wash Centerville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corner Express Car Wash | trust 0.0 | Corner Express Car Wash is a car wash in Centerville, MN. | https://dingalinged-cpu.github.io/registry/c/corner-express-car-wash-centerville/
+1. Corner Express Car Wash | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Corner Express Car Wash is a car wash in Centerville, MN. | https://dingalinged-cpu.github.io/registry/c/corner-express-car-wash-centerville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash centerville mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

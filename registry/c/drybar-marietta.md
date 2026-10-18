@@ -13,7 +13,7 @@ Drybar is a hair salon in Marietta, GA at 4475 Roswell Road #930, Marietta, GA 3
 - Website: https://avenueeastcobb.com/directory/drybar-salon-blowouts-avenue-east-cobb-marietta-georgia/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-20:00; Su 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 84% of hair salons in Atlanta, #38 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Minnetonka, MN is Strong Liquors (a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305). 5 liquor store businesses are listed for Minnetonka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Minnetonka, MN is Strong Liquors (a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305). 5 liquor store businesses are listed for Minnetonka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Minnetonka, MN?
 
 Also answers: liquor store in Minnetonka, MN; liquor store near me (Minnetonka, MN); best liquor store Minnetonka, MN; top rated liquor store Minnetonka, MN; affordable liquor store Minnetonka, MN; emergency liquor store Minnetonka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Strong Liquors | trust 4.0 | Strong Liquors is a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305. | https://dingalinged-cpu.github.io/registry/c/strong-liquors-minnetonka/
-2. Lunds & Byerlys Wines & Spirits | trust 0.0 | Lunds & Byerlys Wines & Spirits is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/lunds-and-byerlys-wines-and-spirits-minnetonka/
-3. MGM Liquors Minnetonka | trust 0.0 | MGM Liquors Minnetonka is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/mgm-liquors-minnetonka-minnetonka/
-4. The Wine Shop | trust 0.0 | The Wine Shop is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/the-wine-shop-minnetonka/
-5. Tonka Bottle Shop | trust 0.0 | Tonka Bottle Shop is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/tonka-bottle-shop-minnetonka/
+1. Strong Liquors | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Strong Liquors is a liquor store in Minnetonka, MN at 11048 Cedar Lake Road, Minnetonka, MN 55305. | https://dingalinged-cpu.github.io/registry/c/strong-liquors-minnetonka/
+2. Lunds & Byerlys Wines & Spirits | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Lunds & Byerlys Wines & Spirits is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/lunds-and-byerlys-wines-and-spirits-minnetonka/
+3. The Wine Shop | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | The Wine Shop is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/the-wine-shop-minnetonka/
+4. Tonka Bottle Shop | Organic #4 | Pulse Score 55.5/100 (Unrated, #4 in city) | Tonka Bottle Shop is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/tonka-bottle-shop-minnetonka/
+5. MGM Liquors Minnetonka | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | MGM Liquors Minnetonka is a liquor store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/mgm-liquors-minnetonka-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store minnetonka mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

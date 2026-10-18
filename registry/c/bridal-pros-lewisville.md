@@ -13,7 +13,7 @@ Bridal Pros is a nail salon in Lewisville, TX. Phone: +14694300589.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Sa "By appointment only"
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 3% of nail salons in Dallas–Fort Worth, #1 of 14 nail salons in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.8, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

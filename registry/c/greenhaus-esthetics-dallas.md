@@ -13,7 +13,7 @@ GreenHaus Esthetics is a hair salon in Dallas, TX at 1910 Summit Avenue, Dallas,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-19:00
-- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 3% of hair salons in Dallas–Fort Worth, #4 of 90 hair salons in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

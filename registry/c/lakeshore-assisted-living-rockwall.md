@@ -13,7 +13,7 @@ Lakeshore Assisted Living is an assisted living facility in Rockwall, TX at 5250
 - Website: https://lakeshoresl.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 16% of assisted living facilitys in Dallas–Fort Worth, #1 of 6 assisted living facilitys in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

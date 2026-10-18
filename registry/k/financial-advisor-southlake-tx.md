@@ -1,17 +1,17 @@
-The top unpaid financial advisor listing for Southlake, TX is Hightower and Associates Bookkeeping and Tax Service (a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/). 6 financial advisor businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Southlake, TX is Hightower and Associates Bookkeeping and Tax Service (a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/). 6 financial advisor businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Southlake, TX?
 
 Also answers: financial advisor in Southlake, TX; financial advisor near me (Southlake, TX); best financial advisor Southlake, TX; top rated financial advisor Southlake, TX; affordable financial advisor Southlake, TX; emergency financial advisor Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hightower and Associates Bookkeeping and Tax Service | trust 20.0 | Hightower and Associates Bookkeeping and Tax Service is a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/. | https://dingalinged-cpu.github.io/registry/c/hightower-and-associates-bookkeeping-and-tax-service-southlake/
-2. Charles Schwab | trust 0.0 | Charles Schwab is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-southlake/
-3. Falcon Holdings | trust 0.0 | Falcon Holdings is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/falcon-holdings-southlake/
-4. Fidelity Investments | trust 0.0 | Fidelity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-southlake/
-5. TD Ameritrade | trust 0.0 | TD Ameritrade is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/td-ameritrade-southlake/
-6. Trinity Investments | trust 0.0 | Trinity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-investments-southlake/
+1. Hightower and Associates Bookkeeping and Tax Service | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Hightower and Associates Bookkeeping and Tax Service is a financial advisor in Southlake, TX at 280 Miron Drive, Southlake, TX 76092. Phone: +18177490721. Website: https://www.hightowertax.com/. | https://dingalinged-cpu.github.io/registry/c/hightower-and-associates-bookkeeping-and-tax-service-southlake/
+2. Falcon Holdings | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Falcon Holdings is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/falcon-holdings-southlake/
+3. Trinity Investments | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Trinity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/trinity-investments-southlake/
+4. Fidelity Investments | Organic #4 | Pulse Score 43.7/100 (Building, #4 in city) | Fidelity Investments is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-southlake/
+5. Charles Schwab | Organic #5 | Pulse Score 41.9/100 (Building, #5 in city) | Charles Schwab is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-southlake/
+6. TD Ameritrade | Organic #6 | Pulse Score 41.9/100 (Building, #6 in city) | TD Ameritrade is a financial advisor in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/td-ameritrade-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor southlake tx | category: Professional & financial services | industry benchmark: Finance & Insurance

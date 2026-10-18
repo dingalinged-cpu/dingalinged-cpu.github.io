@@ -13,7 +13,7 @@ Cities Management is a property management company in Minneapolis, MN at 1331 No
 - Website: https://www.citiesmanagement.com/
 - Email: info@citiesmamagement.com
 - Opening hours (OSM syntax): Mo-Th 08:30-16:30; Fr 08:30-12:00
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 8% of property management companys in Minneapolis–St. Paul, #1 of 9 property management companys in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 66. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

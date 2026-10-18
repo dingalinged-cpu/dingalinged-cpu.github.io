@@ -13,7 +13,7 @@ NTB is an auto repair shop in McKinney, TX at 4901 Eldorado Parkway, McKinney, T
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr 08:00-18:00; Th 08:00-20:30; Sa 08:00-17:00; Su 09:00-17:00
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 68% of auto repair shops in Dallas–Fort Worth, #15 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

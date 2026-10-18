@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Richton Park, IL is Richton Square School (a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/). 1 preschool businesses are listed for Richton Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Richton Park, IL is Richton Square School (a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/). 1 preschool businesses are listed for Richton Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Richton Park, IL?
 
 Also answers: preschool in Richton Park, IL; preschool near me (Richton Park, IL); best preschool Richton Park, IL; top rated preschool Richton Park, IL; affordable preschool Richton Park, IL; emergency preschool Richton Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Richton Square School | trust 16.0 | Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/. | https://dingalinged-cpu.github.io/registry/c/richton-square-school-richton-park/
+1. Richton Square School | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Richton Square School is a preschool in Richton Park, IL at 22700 Richton Square Road, Richton Park, IL 60471. Phone: +17082832706. Website: https://richton.sd162.org/. | https://dingalinged-cpu.github.io/registry/c/richton-square-school-richton-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool richton park il | category: Education & childcare | industry benchmark: Education & Instruction

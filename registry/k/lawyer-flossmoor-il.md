@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Flossmoor, IL is Vasilatos Injury Law (a lawyer in Flossmoor, IL at 19801 Governors Highway, Flossmoor, IL 60422. Phone: +17082830600. Website: https://www.vcinjurylaw.com/contact/flossmoor/). 1 lawyer businesses are listed for Flossmoor, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Flossmoor, IL is Vasilatos Injury Law (a lawyer in Flossmoor, IL at 19801 Governors Highway, Flossmoor, IL 60422. Phone: +17082830600. Website: https://www.vcinjurylaw.com/contact/flossmoor/). 1 lawyer businesses are listed for Flossmoor, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Flossmoor, IL?
 
 Also answers: lawyer in Flossmoor, IL; lawyer near me (Flossmoor, IL); best lawyer Flossmoor, IL; top rated lawyer Flossmoor, IL; affordable lawyer Flossmoor, IL; emergency lawyer Flossmoor, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vasilatos Injury Law | trust 20.0 | Vasilatos Injury Law is a lawyer in Flossmoor, IL at 19801 Governors Highway, Flossmoor, IL 60422. Phone: +17082830600. Website: https://www.vcinjurylaw.com/contact/flossmoor/. | https://dingalinged-cpu.github.io/registry/c/vasilatos-injury-law-flossmoor/
+1. Vasilatos Injury Law | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Vasilatos Injury Law is a lawyer in Flossmoor, IL at 19801 Governors Highway, Flossmoor, IL 60422. Phone: +17082830600. Website: https://www.vcinjurylaw.com/contact/flossmoor/. | https://dingalinged-cpu.github.io/registry/c/vasilatos-injury-law-flossmoor/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer flossmoor il | category: Legal | industry benchmark: Attorneys & Legal Services

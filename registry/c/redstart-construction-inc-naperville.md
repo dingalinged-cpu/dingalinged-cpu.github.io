@@ -13,7 +13,7 @@ Redstart Construction Inc. is a general contractor in Naperville, IL at 109 West
 - Website: https://redstartconstruction.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 73% of general contractors in Chicago, #7 of 9 general contractors in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

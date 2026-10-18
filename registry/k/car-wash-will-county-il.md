@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Will County, IL is BP (a car wash in Will County, IL). 3 car wash businesses are listed for Will County, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Will County, IL is Gas N Wash (a car wash in Will County, IL). 3 car wash businesses are listed for Will County, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Will County, IL?
 
 Also answers: car wash in Will County, IL; car wash near me (Will County, IL); best car wash Will County, IL; top rated car wash Will County, IL; affordable car wash Will County, IL; emergency car wash Will County, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BP | trust 0.0 | BP is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/bp-will-county/
-2. Gas N Wash | trust 0.0 | Gas N Wash is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/gas-n-wash-will-county/
-3. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-will-county/
+1. Gas N Wash | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Gas N Wash is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/gas-n-wash-will-county/
+2. BP | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | BP is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/bp-will-county/
+3. Speedy Wash | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Speedy Wash is a car wash in Will County, IL. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-will-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash will county il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

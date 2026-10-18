@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Murphy, TX is The Full Spectrum (a hair salon in Murphy, TX at 141 North Murphy Road, Murphy, TX 75094. Phone: +19725091565. Website: https://www.thefullspectrum.us/). 4 hair salon businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Murphy, TX is The Full Spectrum (a hair salon in Murphy, TX at 141 North Murphy Road, Murphy, TX 75094. Phone: +19725091565. Website: https://www.thefullspectrum.us/). 4 hair salon businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Murphy, TX?
 
 Also answers: hair salon in Murphy, TX; hair salon near me (Murphy, TX); best hair salon Murphy, TX; top rated hair salon Murphy, TX; affordable hair salon Murphy, TX; emergency hair salon Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Full Spectrum | trust 20.0 | The Full Spectrum is a hair salon in Murphy, TX at 141 North Murphy Road, Murphy, TX 75094. Phone: +19725091565. Website: https://www.thefullspectrum.us/. | https://dingalinged-cpu.github.io/registry/c/the-full-spectrum-murphy/
-2. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/sport-clips-murphy/
-3. Supercuts | trust 4.0 | Supercuts is a hair salon in Murphy, TX at 121 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/supercuts-murphy/
-4. B-H-B Hair Salon | trust 0.0 | B-H-B Hair Salon is a hair salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/b-h-b-hair-salon-murphy/
+1. The Full Spectrum | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | The Full Spectrum is a hair salon in Murphy, TX at 141 North Murphy Road, Murphy, TX 75094. Phone: +19725091565. Website: https://www.thefullspectrum.us/. | https://dingalinged-cpu.github.io/registry/c/the-full-spectrum-murphy/
+2. B-H-B Hair Salon | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | B-H-B Hair Salon is a hair salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/b-h-b-hair-salon-murphy/
+3. Supercuts | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | Supercuts is a hair salon in Murphy, TX at 121 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/supercuts-murphy/
+4. Sport Clips | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Sport Clips is a hair salon in Murphy, TX at 120 E FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/sport-clips-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon murphy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

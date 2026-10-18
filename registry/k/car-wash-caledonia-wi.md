@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Caledonia, WI is Blue Beacon (a car wash in Caledonia, WI. Website: https://bluebeacon.com/locations/listing/milwaukee-wi). 2 car wash businesses are listed for Caledonia, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Caledonia, WI is Happy Car Wash (a car wash in Caledonia, WI at 4534 Douglas Avenue, Caledonia, WI). 2 car wash businesses are listed for Caledonia, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Caledonia, WI?
 
 Also answers: car wash in Caledonia, WI; car wash near me (Caledonia, WI); best car wash Caledonia, WI; top rated car wash Caledonia, WI; affordable car wash Caledonia, WI; emergency car wash Caledonia, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Beacon | trust 6.0 | Blue Beacon is a car wash in Caledonia, WI. Website: https://bluebeacon.com/locations/listing/milwaukee-wi. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-caledonia/
-2. Happy Car Wash | trust 3.0 | Happy Car Wash is a car wash in Caledonia, WI at 4534 Douglas Avenue, Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/happy-car-wash-caledonia/
+1. Happy Car Wash | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Happy Car Wash is a car wash in Caledonia, WI at 4534 Douglas Avenue, Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/happy-car-wash-caledonia/
+2. Blue Beacon | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Blue Beacon is a car wash in Caledonia, WI. Website: https://bluebeacon.com/locations/listing/milwaukee-wi. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-caledonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash caledonia wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

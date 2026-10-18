@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Texas City, TX is Jared (a jewelry store in Texas City, TX at 5885 Gulf Freeway #780, Texas City, TX 77591. Phone: +12813371912). 1 jewelry store businesses are listed for Texas City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Texas City, TX is Jared (a jewelry store in Texas City, TX at 5885 Gulf Freeway #780, Texas City, TX 77591. Phone: +12813371912). 1 jewelry store businesses are listed for Texas City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Texas City, TX?
 
 Also answers: jewelry store in Texas City, TX; jewelry store near me (Texas City, TX); best jewelry store Texas City, TX; top rated jewelry store Texas City, TX; affordable jewelry store Texas City, TX; emergency jewelry store Texas City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jared | trust 14.0 | Jared is a jewelry store in Texas City, TX at 5885 Gulf Freeway #780, Texas City, TX 77591. Phone: +12813371912. | https://dingalinged-cpu.github.io/registry/c/jared-texas-city/
+1. Jared | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Jared is a jewelry store in Texas City, TX at 5885 Gulf Freeway #780, Texas City, TX 77591. Phone: +12813371912. | https://dingalinged-cpu.github.io/registry/c/jared-texas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store texas city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

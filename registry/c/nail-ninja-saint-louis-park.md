@@ -13,7 +13,7 @@ Nail Ninja is a nail salon in Saint Louis Park, MN at 4815 Minnetonka Boulevard,
 - Website: https://www.nailninjampls.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of nail salons in Minneapolis–St. Paul, #3 of 11 nail salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

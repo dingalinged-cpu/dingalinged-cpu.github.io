@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Cedarburg, WI is Stecker & Associates Inc. (a tax preparation service in Cedarburg, WI at N144W6166 Pioneer Road, Cedarburg, WI 53012. Phone: +12623774777. Website: https://www.steckerandassociates.com/). 1 tax preparer businesses are listed for Cedarburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Cedarburg, WI is Stecker & Associates Inc. (a tax preparation service in Cedarburg, WI at N144W6166 Pioneer Road, Cedarburg, WI 53012. Phone: +12623774777. Website: https://www.steckerandassociates.com/). 1 tax preparer businesses are listed for Cedarburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Cedarburg, WI?
 
 Also answers: tax preparer in Cedarburg, WI; tax preparer near me (Cedarburg, WI); best tax preparer Cedarburg, WI; top rated tax preparer Cedarburg, WI; affordable tax preparer Cedarburg, WI; emergency tax preparer Cedarburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stecker & Associates Inc. | trust 16.0 | Stecker & Associates Inc. is a tax preparation service in Cedarburg, WI at N144W6166 Pioneer Road, Cedarburg, WI 53012. Phone: +12623774777. Website: https://www.steckerandassociates.com/. | https://dingalinged-cpu.github.io/registry/c/stecker-and-associates-inc-cedarburg/
+1. Stecker & Associates Inc. | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Stecker & Associates Inc. is a tax preparation service in Cedarburg, WI at N144W6166 Pioneer Road, Cedarburg, WI 53012. Phone: +12623774777. Website: https://www.steckerandassociates.com/. | https://dingalinged-cpu.github.io/registry/c/stecker-and-associates-inc-cedarburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer cedarburg wi | category: professional_accounting | industry benchmark: Business Services

@@ -1,16 +1,16 @@
-The top unpaid storage units listing for Forest Park, GA is Forest Park Self Storage (a self-storage facility in Forest Park, GA). 5 storage units businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Forest Park, GA is Forest Park Self Storage (a self-storage facility in Forest Park, GA). 5 storage units businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Forest Park, GA?
 
 Also answers: storage units in Forest Park, GA; storage units near me (Forest Park, GA); best storage units Forest Park, GA; top rated storage units Forest Park, GA; affordable storage units Forest Park, GA; emergency storage units Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forest Park Self Storage | trust 0.0 | Forest Park Self Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/forest-park-self-storage-forest-park/
-2. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park/
-3. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n8967697491/
-4. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n8967697515/
-5. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n9680475990/
+1. Forest Park Self Storage | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Forest Park Self Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/forest-park-self-storage-forest-park/
+2. Public Storage | Organic #2 | Pulse Score 42.6/100 (Building, #2 in city) | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park/
+3. Public Storage | Organic #3 | Pulse Score 42.6/100 (Building, #3 in city) | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n8967697491/
+4. Public Storage | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n8967697515/
+5. Public Storage | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | Public Storage is a self-storage facility in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-forest-park-n9680475990/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units forest park ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -1,20 +1,20 @@
-The top unpaid haircut listing for Waukesha, WI is The Barbershop (a hair salon in Waukesha, WI at 204 East Sunset Drive, Waukesha, WI 53189. Phone: +12624082133. Website: https://thebarbershops.com/waukesha/). 9 haircut businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Waukesha, WI is Charlie’s East Coast Hair Designs (a hair salon in Waukesha, WI). 9 haircut businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Waukesha, WI?
 
 Also answers: haircut in Waukesha, WI; haircut near me (Waukesha, WI); best haircut Waukesha, WI; top rated haircut Waukesha, WI; affordable haircut Waukesha, WI; emergency haircut Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Barbershop | trust 20.0 | The Barbershop is a hair salon in Waukesha, WI at 204 East Sunset Drive, Waukesha, WI 53189. Phone: +12624082133. Website: https://thebarbershops.com/waukesha/. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-waukesha/
-2. Charlie’s East Coast Hair Designs | trust 0.0 | Charlie’s East Coast Hair Designs is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/charlie-s-east-coast-hair-designs-waukesha/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-waukesha/
-4. Men's Hairhouse | trust 0.0 | Men's Hairhouse is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hairhouse-waukesha/
-5. Nirvana Hair Studio | trust 0.0 | Nirvana Hair Studio is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/nirvana-hair-studio-waukesha/
-6. Signature Salon & Spa | trust 0.0 | Signature Salon & Spa is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/signature-salon-and-spa-waukesha/
-7. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-waukesha/
-8. Supercuts | trust 0.0 | Supercuts is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha/
-9. Supercuts | trust 0.0 | Supercuts is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha-n9559496833/
+1. Charlie’s East Coast Hair Designs | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Charlie’s East Coast Hair Designs is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/charlie-s-east-coast-hair-designs-waukesha/
+2. Men's Hairhouse | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Men's Hairhouse is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hairhouse-waukesha/
+3. Nirvana Hair Studio | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Nirvana Hair Studio is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/nirvana-hair-studio-waukesha/
+4. Signature Salon & Spa | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Signature Salon & Spa is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/signature-salon-and-spa-waukesha/
+5. The Barbershop | Organic #5 | Pulse Score 48.8/100 (Unrated, #5 in city) | The Barbershop is a hair salon in Waukesha, WI at 204 East Sunset Drive, Waukesha, WI 53189. Phone: +12624082133. Website: https://thebarbershops.com/waukesha/. | https://dingalinged-cpu.github.io/registry/c/the-barbershop-waukesha/
+6. Great Clips | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | Great Clips is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-waukesha/
+7. Sport Clips | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Sport Clips is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-waukesha/
+8. Supercuts | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Supercuts is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha/
+9. Supercuts | Organic #9 | Pulse Score 41.8/100 (Building, #9 in city) | Supercuts is a hair salon in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-waukesha-n9559496833/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut waukesha wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Oak Creek, WI is Goodwill (a thrift store in Oak Creek, WI at 8201 South Howell Avenue #Suite 100, Oak Creek, WI 53154. Phone: +14145630134. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/oak-creek-store-and-donation-center). 2 thrift store businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Oak Creek, WI is Cutest Kids Consignment (a thrift store in Oak Creek, WI at 8509A South Howell Avenue, Oak Creek, WI). 2 thrift store businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Oak Creek, WI?
 
 Also answers: thrift store in Oak Creek, WI; thrift store near me (Oak Creek, WI); best thrift store Oak Creek, WI; top rated thrift store Oak Creek, WI; affordable thrift store Oak Creek, WI; emergency thrift store Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 20.0 | Goodwill is a thrift store in Oak Creek, WI at 8201 South Howell Avenue #Suite 100, Oak Creek, WI 53154. Phone: +14145630134. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/oak-creek-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-oak-creek/
-2. Cutest Kids Consignment | trust 3.0 | Cutest Kids Consignment is a thrift store in Oak Creek, WI at 8509A South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/cutest-kids-consignment-oak-creek/
+1. Cutest Kids Consignment | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Cutest Kids Consignment is a thrift store in Oak Creek, WI at 8509A South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/cutest-kids-consignment-oak-creek/
+2. Goodwill | Organic #2 | Pulse Score 49.8/100 (Building, #2 in city) | Goodwill is a thrift store in Oak Creek, WI at 8201 South Howell Avenue #Suite 100, Oak Creek, WI 53154. Phone: +14145630134. Website: https://www.goodwillgreatermc.org/contact/all-locations/location-details/oak-creek-store-and-donation-center. | https://dingalinged-cpu.github.io/registry/c/goodwill-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

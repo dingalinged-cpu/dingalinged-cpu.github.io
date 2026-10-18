@@ -13,7 +13,7 @@ Harold W. Conick & Associates Ltd. is an insurance agent in Lisle, IL at 1001 Wa
 - Website: https://conicklaw.com/
 - Email: hal@conicklaw.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-12:00
-- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 2% of insurance agents in Chicago, #1 of 2 insurance agents in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

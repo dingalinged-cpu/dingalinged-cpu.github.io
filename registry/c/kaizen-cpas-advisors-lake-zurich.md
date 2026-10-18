@@ -13,7 +13,7 @@ Kaizen CPAs + Advisors is an accountant in Lake Zurich, IL at 765 Ela Rd #310, L
 - Website: https://www.kaizencpas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 9:00-18:00
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 100% of accountants in Chicago, #3 of 3 accountants in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 59.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

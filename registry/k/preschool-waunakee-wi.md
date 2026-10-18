@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Waunakee, WI is KinderCare (a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 53597. Phone: +16088507298. Website: https://www.kindercare.com/our-centers/waunakee/wi/). 2 preschool businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Waunakee, WI is KinderCare (a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 53597. Phone: +16088507298. Website: https://www.kindercare.com/our-centers/waunakee/wi/). 2 preschool businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Waunakee, WI?
 
 Also answers: preschool in Waunakee, WI; preschool near me (Waunakee, WI); best preschool Waunakee, WI; top rated preschool Waunakee, WI; affordable preschool Waunakee, WI; emergency preschool Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KinderCare | trust 16.0 | KinderCare is a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 53597. Phone: +16088507298. Website: https://www.kindercare.com/our-centers/waunakee/wi/. | https://dingalinged-cpu.github.io/registry/c/kindercare-waunakee/
-2. La Petite Academy | trust 0.0 | La Petite Academy is a preschool in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-waunakee/
+1. KinderCare | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | KinderCare is a preschool in Waunakee, WI at 1100 Connery Cove, Waunakee, WI 53597. Phone: +16088507298. Website: https://www.kindercare.com/our-centers/waunakee/wi/. | https://dingalinged-cpu.github.io/registry/c/kindercare-waunakee/
+2. La Petite Academy | Organic #2 | Pulse Score 43/100 (Building, #2 in city) | La Petite Academy is a preschool in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool waunakee wi | category: Education & childcare | industry benchmark: Education & Instruction

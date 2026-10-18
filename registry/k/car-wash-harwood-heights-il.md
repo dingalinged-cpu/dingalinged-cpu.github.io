@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Harwood Heights, IL is Fullers Car Wash (a car wash in Harwood Heights, IL at 4800 North Nagle Avenue, Harwood Heights, IL 60706). 2 car wash businesses are listed for Harwood Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Harwood Heights, IL is Shell (a car wash in Harwood Heights, IL at 7455 West Lawrence Avenue, Harwood Heights, IL 60706). 2 car wash businesses are listed for Harwood Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Harwood Heights, IL?
 
 Also answers: car wash in Harwood Heights, IL; car wash near me (Harwood Heights, IL); best car wash Harwood Heights, IL; top rated car wash Harwood Heights, IL; affordable car wash Harwood Heights, IL; emergency car wash Harwood Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fullers Car Wash | trust 4.0 | Fullers Car Wash is a car wash in Harwood Heights, IL at 4800 North Nagle Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-harwood-heights/
-2. Shell | trust 4.0 | Shell is a car wash in Harwood Heights, IL at 7455 West Lawrence Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/shell-harwood-heights/
+1. Shell | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Shell is a car wash in Harwood Heights, IL at 7455 West Lawrence Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/shell-harwood-heights/
+2. Fullers Car Wash | Organic #2 | Pulse Score 45.9/100 (Unrated, #2 in city) | Fullers Car Wash is a car wash in Harwood Heights, IL at 4800 North Nagle Avenue, Harwood Heights, IL 60706. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-harwood-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash harwood heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

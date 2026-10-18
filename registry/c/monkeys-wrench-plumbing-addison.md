@@ -13,7 +13,7 @@ Monkey's Wrench Plumbing is a plumber in Addison, IL at 1001 Republic Drive #STE
 - Website: https://www.monkeyswrenchplumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 30% of plumbers in Chicago, #1 of 1 plumbers in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

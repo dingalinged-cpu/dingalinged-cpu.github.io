@@ -1,13 +1,13 @@
-The top unpaid gym listing for Joliet, IL is Body Tech Total Fitness (a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, IL 60431. Phone: +18154399900. Website: https://bodytechtotalfitness.com/). 2 gym businesses are listed for Joliet, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Joliet, IL is Body Tech Total Fitness (a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, IL 60431. Phone: +18154399900. Website: https://bodytechtotalfitness.com/). 2 gym businesses are listed for Joliet, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Joliet, IL?
 
 Also answers: gym in Joliet, IL; gym near me (Joliet, IL); best gym Joliet, IL; top rated gym Joliet, IL; affordable gym Joliet, IL; emergency gym Joliet, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Body Tech Total Fitness | trust 16.0 | Body Tech Total Fitness is a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, IL 60431. Phone: +18154399900. Website: https://bodytechtotalfitness.com/. | https://dingalinged-cpu.github.io/registry/c/body-tech-total-fitness-joliet/
-2. VASA Fitness | trust 10.0 | VASA Fitness is a gym in Joliet, IL at 1590 North Larkin Avenue, Joliet, IL 60435. Website: https://vasafitness.com/locations/il/joliet/. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-joliet/
+1. Body Tech Total Fitness | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Body Tech Total Fitness is a gym in Joliet, IL at 3585 Hennepin Drive, Joliet, IL 60431. Phone: +18154399900. Website: https://bodytechtotalfitness.com/. | https://dingalinged-cpu.github.io/registry/c/body-tech-total-fitness-joliet/
+2. VASA Fitness | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | VASA Fitness is a gym in Joliet, IL at 1590 North Larkin Avenue, Joliet, IL 60435. Website: https://vasafitness.com/locations/il/joliet/. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-joliet/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym joliet il | category: Fitness | industry benchmark: Health & Fitness

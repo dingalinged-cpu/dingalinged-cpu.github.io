@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Des Plaines, IL is Mi Tierrita Colombia (a bakery in Des Plaines, IL at 1942 East Touhy Avenue, Des Plaines, IL. Phone: +17089388668). 2 bakery businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Des Plaines, IL is Mi Tierrita Colombia (a bakery in Des Plaines, IL at 1942 East Touhy Avenue, Des Plaines, IL. Phone: +17089388668). 2 bakery businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Des Plaines, IL?
 
 Also answers: bakery in Des Plaines, IL; bakery near me (Des Plaines, IL); best bakery Des Plaines, IL; top rated bakery Des Plaines, IL; affordable bakery Des Plaines, IL; emergency bakery Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mi Tierrita Colombia | trust 13.0 | Mi Tierrita Colombia is a bakery in Des Plaines, IL at 1942 East Touhy Avenue, Des Plaines, IL. Phone: +17089388668. | https://dingalinged-cpu.github.io/registry/c/mi-tierrita-colombia-des-plaines/
-2. B's Sweet Bites | trust 0.0 | B's Sweet Bites is a bakery in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/bs-sweet-bites-des-plaines/
+1. Mi Tierrita Colombia | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Mi Tierrita Colombia is a bakery in Des Plaines, IL at 1942 East Touhy Avenue, Des Plaines, IL. Phone: +17089388668. | https://dingalinged-cpu.github.io/registry/c/mi-tierrita-colombia-des-plaines/
+2. B's Sweet Bites | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | B's Sweet Bites is a bakery in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/bs-sweet-bites-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery des plaines il | category: Events & weddings | industry benchmark: Personal Services

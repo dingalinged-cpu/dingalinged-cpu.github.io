@@ -13,7 +13,7 @@ Mister Car Wash is a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, C
 - Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 69% of car washes in Milwaukee, #1 of 1 car washes in Cudahy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

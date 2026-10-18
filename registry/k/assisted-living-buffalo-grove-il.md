@@ -1,12 +1,12 @@
-The top unpaid assisted living listing for Buffalo Grove, IL is Symphony of Buffalo Grove (an assisted living facility in Buffalo Grove, IL at 150 Weiland Road, Buffalo Grove, IL 60089. Website: https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/). 1 assisted living businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Buffalo Grove, IL is Symphony of Buffalo Grove (an assisted living facility in Buffalo Grove, IL at 150 Weiland Road, Buffalo Grove, IL 60089. Website: https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/). 1 assisted living businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Buffalo Grove, IL?
 
 Also answers: assisted living in Buffalo Grove, IL; assisted living near me (Buffalo Grove, IL); best assisted living Buffalo Grove, IL; top rated assisted living Buffalo Grove, IL; affordable assisted living Buffalo Grove, IL; emergency assisted living Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Symphony of Buffalo Grove | trust 10.0 | Symphony of Buffalo Grove is an assisted living facility in Buffalo Grove, IL at 150 Weiland Road, Buffalo Grove, IL 60089. Website: https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/. | https://dingalinged-cpu.github.io/registry/c/symphony-of-buffalo-grove-buffalo-grove/
+1. Symphony of Buffalo Grove | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Symphony of Buffalo Grove is an assisted living facility in Buffalo Grove, IL at 150 Weiland Road, Buffalo Grove, IL 60089. Website: https://www.assistedlivingcenter.com/facilities/il/buffalo-grove/symphony-buffalo-grove-60089/. | https://dingalinged-cpu.github.io/registry/c/symphony-of-buffalo-grove-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living buffalo grove il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

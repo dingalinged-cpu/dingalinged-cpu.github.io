@@ -1,15 +1,15 @@
-The top unpaid accounting services listing for Gwinnett County, GA is SK Tax Group (an accountant in Gwinnett County, GA. Phone: +17708816682. Website: https://www.sktaxgroup.com/). 4 accounting services businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Gwinnett County, GA is SK Tax Group (an accountant in Gwinnett County, GA. Phone: +17708816682. Website: https://www.sktaxgroup.com/). 4 accounting services businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Gwinnett County, GA?
 
 Also answers: accounting services in Gwinnett County, GA; accounting services near me (Gwinnett County, GA); best accounting services Gwinnett County, GA; top rated accounting services Gwinnett County, GA; affordable accounting services Gwinnett County, GA; emergency accounting services Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SK Tax Group | trust 12.0 | SK Tax Group is an accountant in Gwinnett County, GA. Phone: +17708816682. Website: https://www.sktaxgroup.com/. | https://dingalinged-cpu.github.io/registry/c/sk-tax-group-gwinnett-county/
-2. Aarth Accounting | trust 6.0 | Aarth Accounting is an accountant in Gwinnett County, GA. Phone: +14044889160. | https://dingalinged-cpu.github.io/registry/c/aarth-accounting-gwinnett-county/
-3. McGregor Bookkeeping | trust 0.0 | McGregor Bookkeeping is an accountant in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/mcgregor-bookkeeping-gwinnett-county/
-4. Multiservices | trust 0.0 | Multiservices is an accountant in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/multiservices-gwinnett-county/
+1. SK Tax Group | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | SK Tax Group is an accountant in Gwinnett County, GA. Phone: +17708816682. Website: https://www.sktaxgroup.com/. | https://dingalinged-cpu.github.io/registry/c/sk-tax-group-gwinnett-county/
+2. Aarth Accounting | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Aarth Accounting is an accountant in Gwinnett County, GA. Phone: +14044889160. | https://dingalinged-cpu.github.io/registry/c/aarth-accounting-gwinnett-county/
+3. McGregor Bookkeeping | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | McGregor Bookkeeping is an accountant in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/mcgregor-bookkeeping-gwinnett-county/
+4. Multiservices | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Multiservices is an accountant in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/multiservices-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services gwinnett county ga | category: professional_accounting | industry benchmark: Business Services

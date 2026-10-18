@@ -13,7 +13,7 @@ The UPS Store is a printing service in Riverwoods, IL at 203 North Milwaukee Ave
 - Website: https://locations.theupsstore.com/il/riverwoods/2033-n-milwaukee-ave
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 43% of printing services in Chicago, #1 of 1 printing services in Riverwoods (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.6, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

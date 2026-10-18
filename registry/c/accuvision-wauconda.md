@@ -13,7 +13,7 @@ Accuvision is an eye care practice in Wauconda, IL at 345 West Mill Street, Wauc
 - Website: https://www.accuvision.com/AboutUs/eye-doctor/wauconda/index.aspx
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 10:00-18:00; Th 10:00-19:00; Fr 10:00-17:00; Sa 09:00-15:00
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of eye care practices in Chicago, #1 of 1 eye care practices in Wauconda (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

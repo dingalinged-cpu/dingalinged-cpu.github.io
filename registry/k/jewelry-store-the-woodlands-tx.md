@@ -1,23 +1,23 @@
-The top unpaid jewelry store listing for The Woodlands, TX is James Avery Jewelry (a jewelry store in The Woodlands, TX at 1201 Lake Woodlands Drive #400, The Woodlands, TX 77380. Phone: +12813639300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799). 12 jewelry store businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for The Woodlands, TX is Robichau's Jewelry (a jewelry store in The Woodlands, TX at 4775 West Panther Creek Drive #B-245, The Woodlands, TX 77381. Phone: +12813677807. Website: https://www.robichausjewelry.com/). 12 jewelry store businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in The Woodlands, TX?
 
 Also answers: jewelry store in The Woodlands, TX; jewelry store near me (The Woodlands, TX); best jewelry store The Woodlands, TX; top rated jewelry store The Woodlands, TX; affordable jewelry store The Woodlands, TX; emergency jewelry store The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in The Woodlands, TX at 1201 Lake Woodlands Drive #400, The Woodlands, TX 77380. Phone: +12813639300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-the-woodlands/
-2. Robichau's Jewelry | trust 20.0 | Robichau's Jewelry is a jewelry store in The Woodlands, TX at 4775 West Panther Creek Drive #B-245, The Woodlands, TX 77381. Phone: +12813677807. Website: https://www.robichausjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/robichaus-jewelry-the-woodlands/
-3. Shannon Fine Jewelry | trust 3.0 | Shannon Fine Jewelry is a jewelry store in The Woodlands, TX at 1440 Lake Woodlands Drive #I, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/shannon-fine-jewelry-the-woodlands/
-4. Thomas Markle Jewelers | trust 3.0 | Thomas Markle Jewelers is a jewelry store in The Woodlands, TX at 9595 Market Street #950, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/thomas-markle-jewelers-the-woodlands/
-5. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-the-woodlands/
-6. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-the-woodlands/
-7. Pandora | trust 0.0 | Pandora is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-the-woodlands/
-8. Samuels Jewelers | trust 0.0 | Samuels Jewelers is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/samuels-jewelers-the-woodlands/
-9. Swarovski | trust 0.0 | Swarovski is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-the-woodlands/
-10. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-the-woodlands/
-11. Zales | trust 0.0 | Zales is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/zales-the-woodlands/
-12. €J | trust 0.0 | €J is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/j-the-woodlands/
+1. Robichau's Jewelry | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Robichau's Jewelry is a jewelry store in The Woodlands, TX at 4775 West Panther Creek Drive #B-245, The Woodlands, TX 77381. Phone: +12813677807. Website: https://www.robichausjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/robichaus-jewelry-the-woodlands/
+2. Shannon Fine Jewelry | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Shannon Fine Jewelry is a jewelry store in The Woodlands, TX at 1440 Lake Woodlands Drive #I, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/shannon-fine-jewelry-the-woodlands/
+3. Thomas Markle Jewelers | Organic #3 | Pulse Score 57.1/100 (Unrated, #3 in city) | Thomas Markle Jewelers is a jewelry store in The Woodlands, TX at 9595 Market Street #950, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/thomas-markle-jewelers-the-woodlands/
+4. Samuels Jewelers | Organic #4 | Pulse Score 54.7/100 (Unrated, #5 in city) | Samuels Jewelers is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/samuels-jewelers-the-woodlands/
+5. €J | Organic #5 | Pulse Score 54.7/100 (Unrated, #4 in city) | €J is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/j-the-woodlands/
+6. James Avery Jewelry | Organic #6 | Pulse Score 49.1/100 (Building, #6 in city) | James Avery Jewelry is a jewelry store in The Woodlands, TX at 1201 Lake Woodlands Drive #400, The Woodlands, TX 77380. Phone: +12813639300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-the-woodlands/
+7. Tiffany & Company | Organic #7 | Pulse Score 44.9/100 (Building, #7 in city) | Tiffany & Company is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-the-woodlands/
+8. Kay Jewelers | Organic #8 | Pulse Score 43.4/100 (Building, #8 in city) | Kay Jewelers is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-the-woodlands/
+9. Zales | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Zales is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/zales-the-woodlands/
+10. Helzberg Diamonds | Organic #10 | Pulse Score 42.3/100 (Building, #10 in city) | Helzberg Diamonds is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-the-woodlands/
+11. Pandora | Organic #11 | Pulse Score 42.3/100 (Building, #11 in city) | Pandora is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-the-woodlands/
+12. Swarovski | Organic #12 | Pulse Score 42.3/100 (Building, #12 in city) | Swarovski is a jewelry store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store the woodlands tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

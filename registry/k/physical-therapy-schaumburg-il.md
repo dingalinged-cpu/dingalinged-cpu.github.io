@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Schaumburg, IL is ATI Physical Therapy (a physical therapy clinic in Schaumburg, IL at 2562 Schaumburg Road, Schaumburg, IL 60194). 1 physical therapy businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Schaumburg, IL is ATI Physical Therapy (a physical therapy clinic in Schaumburg, IL at 2562 Schaumburg Road, Schaumburg, IL 60194). 1 physical therapy businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Schaumburg, IL?
 
 Also answers: physical therapy in Schaumburg, IL; physical therapy near me (Schaumburg, IL); best physical therapy Schaumburg, IL; top rated physical therapy Schaumburg, IL; affordable physical therapy Schaumburg, IL; emergency physical therapy Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATI Physical Therapy | trust 4.0 | ATI Physical Therapy is a physical therapy clinic in Schaumburg, IL at 2562 Schaumburg Road, Schaumburg, IL 60194. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-schaumburg/
+1. ATI Physical Therapy | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | ATI Physical Therapy is a physical therapy clinic in Schaumburg, IL at 2562 Schaumburg Road, Schaumburg, IL 60194. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy schaumburg il | category: Health & medical | industry benchmark: Physicians & Surgeons

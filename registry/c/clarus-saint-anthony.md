@@ -13,7 +13,7 @@ Clarus is a dermatologist in Saint Anthony, MN at 2603 39th Avenue Northeast #D2
 - Website: https://clarusdermatology.com/st-anthony-office/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Fair — top 63% of dermatologists in Minneapolis–St. Paul, #1 of 1 dermatologists in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 46.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

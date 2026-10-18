@@ -1,17 +1,17 @@
-The top unpaid it support listing for Westlake, TX is Avodah Inc (an IT support company in Westlake, TX at 1600 Solana Boulevard #8110, Westlake, TX 76262). 6 it support businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Westlake, TX is Avodah Inc (an IT support company in Westlake, TX at 1600 Solana Boulevard #8110, Westlake, TX 76262). 6 it support businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Westlake, TX?
 
 Also answers: it support in Westlake, TX; it support near me (Westlake, TX); best it support Westlake, TX; top rated it support Westlake, TX; affordable it support Westlake, TX; emergency it support Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avodah Inc | trust 4.0 | Avodah Inc is an IT support company in Westlake, TX at 1600 Solana Boulevard #8110, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/avodah-inc-westlake/
-2. defi SOLUTIONS | trust 4.0 | defi SOLUTIONS is an IT support company in Westlake, TX at 1600 Solana Boulevard #8120, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/defi-solutions-westlake/
-3. ECI Solutions | trust 4.0 | ECI Solutions is an IT support company in Westlake, TX at 1500 Solana Boulevard #3200, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/eci-solutions-westlake/
-4. Computex | trust 0.0 | Computex is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/computex-westlake/
-5. Dynamic Action | trust 0.0 | Dynamic Action is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/dynamic-action-westlake/
-6. Verizon | trust 0.0 | Verizon is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/verizon-westlake/
+1. Avodah Inc | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Avodah Inc is an IT support company in Westlake, TX at 1600 Solana Boulevard #8110, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/avodah-inc-westlake/
+2. defi SOLUTIONS | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | defi SOLUTIONS is an IT support company in Westlake, TX at 1600 Solana Boulevard #8120, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/defi-solutions-westlake/
+3. ECI Solutions | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | ECI Solutions is an IT support company in Westlake, TX at 1500 Solana Boulevard #3200, Westlake, TX 76262. | https://dingalinged-cpu.github.io/registry/c/eci-solutions-westlake/
+4. Computex | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Computex is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/computex-westlake/
+5. Dynamic Action | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Dynamic Action is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/dynamic-action-westlake/
+6. Verizon | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Verizon is an IT support company in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/verizon-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support westlake tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

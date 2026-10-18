@@ -1,12 +1,12 @@
-The top unpaid realtor listing for Woodbranch, TX is Lilliput Farms Sales Office (a real estate agency in Woodbranch, TX at Lilliput Lane, Woodbranch, TX 77357). 1 realtor businesses are listed for Woodbranch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Woodbranch, TX is Lilliput Farms Sales Office (a real estate agency in Woodbranch, TX at Lilliput Lane, Woodbranch, TX 77357). 1 realtor businesses are listed for Woodbranch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Woodbranch, TX?
 
 Also answers: realtor in Woodbranch, TX; realtor near me (Woodbranch, TX); best realtor Woodbranch, TX; top rated realtor Woodbranch, TX; affordable realtor Woodbranch, TX; emergency realtor Woodbranch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lilliput Farms Sales Office | trust 4.0 | Lilliput Farms Sales Office is a real estate agency in Woodbranch, TX at Lilliput Lane, Woodbranch, TX 77357. | https://dingalinged-cpu.github.io/registry/c/lilliput-farms-sales-office-woodbranch/
+1. Lilliput Farms Sales Office | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Lilliput Farms Sales Office is a real estate agency in Woodbranch, TX at Lilliput Lane, Woodbranch, TX 77357. | https://dingalinged-cpu.github.io/registry/c/lilliput-farms-sales-office-woodbranch/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor woodbranch tx | category: real_estate | industry benchmark: Real Estate

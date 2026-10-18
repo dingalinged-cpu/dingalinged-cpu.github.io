@@ -1,12 +1,12 @@
-The top unpaid electrician listing for Eden Prairie, MN is Gunnar Electric (an electrician in Eden Prairie, MN at 14850 Martin Drive, Eden Prairie, MN 55344. Website: https://gunnarelectric.com/). 1 electrician businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Eden Prairie, MN is Gunnar Electric (an electrician in Eden Prairie, MN at 14850 Martin Drive, Eden Prairie, MN 55344. Website: https://gunnarelectric.com/). 1 electrician businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Eden Prairie, MN?
 
 Also answers: electrician in Eden Prairie, MN; electrician near me (Eden Prairie, MN); best electrician Eden Prairie, MN; top rated electrician Eden Prairie, MN; affordable electrician Eden Prairie, MN; emergency electrician Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gunnar Electric | trust 10.0 | Gunnar Electric is an electrician in Eden Prairie, MN at 14850 Martin Drive, Eden Prairie, MN 55344. Website: https://gunnarelectric.com/. | https://dingalinged-cpu.github.io/registry/c/gunnar-electric-eden-prairie/
+1. Gunnar Electric | Organic #1 | Pulse Score 56.7/100 (Fair, #1 in city) | Gunnar Electric is an electrician in Eden Prairie, MN at 14850 Martin Drive, Eden Prairie, MN 55344. Website: https://gunnarelectric.com/. | https://dingalinged-cpu.github.io/registry/c/gunnar-electric-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician eden prairie mn | category: Home services - Electrical | industry benchmark: Home & Home Improvement

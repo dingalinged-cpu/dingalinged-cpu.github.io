@@ -13,7 +13,7 @@ Life Time is a gym in Houston, TX at 7717 Willow Chase Boulevard, Houston, TX 77
 - Website: https://www.lifetime.life/life-time-locations/tx-houston-champions.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 48% of gyms in Houston, #35 of 81 gyms in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

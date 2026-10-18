@@ -13,7 +13,7 @@ TheRoyal Den is a hair salon in Atlanta, GA at 144 Moreland Avenue Northeast #14
 - Website: https://www.thegoddez1.com/
 - Email: Iam@thegoddez1.com
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00; Sa 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 10% of hair salons in Atlanta, #14 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

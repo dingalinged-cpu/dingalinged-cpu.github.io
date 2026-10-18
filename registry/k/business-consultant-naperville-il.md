@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Naperville, IL is Reveal (a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/). 1 business consultant businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Naperville, IL is Reveal (a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/). 1 business consultant businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Naperville, IL?
 
 Also answers: business consultant in Naperville, IL; business consultant near me (Naperville, IL); best business consultant Naperville, IL; top rated business consultant Naperville, IL; affordable business consultant Naperville, IL; emergency business consultant Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reveal | trust 16.0 | Reveal is a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/. | https://dingalinged-cpu.github.io/registry/c/reveal-naperville/
+1. Reveal | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Reveal is a business consultant in Naperville, IL at 230 West Diehl Road, Naperville, IL 60563. Phone: +16305711730. Website: https://www.revealvalue.com/. | https://dingalinged-cpu.github.io/registry/c/reveal-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant naperville il | category: b2b_services | industry benchmark: Business Services

@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Deerfield, IL at 9 North Waukegan Road, Deer
 - Website: https://www.petsuppliesplus.com/Store/IL/Deerfield/Deerfield/237
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.7/100 — Building — top 83% of pet stores in Chicago, #1 of 1 pet stores in Deerfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.1, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

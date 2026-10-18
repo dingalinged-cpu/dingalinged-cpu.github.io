@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Stone Mountain, GA is Aztec Cycles (a bike shop in Stone Mountain, GA at 901 Main Street, Stone Mountain, GA 30083. Phone: +16786369043). 1 bike shop businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Stone Mountain, GA is Aztec Cycles (a bike shop in Stone Mountain, GA at 901 Main Street, Stone Mountain, GA 30083. Phone: +16786369043). 1 bike shop businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Stone Mountain, GA?
 
 Also answers: bike shop in Stone Mountain, GA; bike shop near me (Stone Mountain, GA); best bike shop Stone Mountain, GA; top rated bike shop Stone Mountain, GA; affordable bike shop Stone Mountain, GA; emergency bike shop Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aztec Cycles | trust 10.0 | Aztec Cycles is a bike shop in Stone Mountain, GA at 901 Main Street, Stone Mountain, GA 30083. Phone: +16786369043. | https://dingalinged-cpu.github.io/registry/c/aztec-cycles-stone-mountain/
+1. Aztec Cycles | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Aztec Cycles is a bike shop in Stone Mountain, GA at 901 Main Street, Stone Mountain, GA 30083. Phone: +16786369043. | https://dingalinged-cpu.github.io/registry/c/aztec-cycles-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop stone mountain ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

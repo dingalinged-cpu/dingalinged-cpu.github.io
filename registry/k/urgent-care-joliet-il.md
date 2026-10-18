@@ -1,12 +1,12 @@
-The top unpaid urgent care listing for Joliet, IL is Silver Cross Urgent Care (an urgent care clinic in Joliet, IL at 1051 Essington Road #Suite 100, Joliet, IL 60435. Phone: +18153002273. Website: https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++). 1 urgent care businesses are listed for Joliet, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Joliet, IL is Silver Cross Urgent Care (an urgent care clinic in Joliet, IL at 1051 Essington Road #Suite 100, Joliet, IL 60435. Phone: +18153002273. Website: https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++). 1 urgent care businesses are listed for Joliet, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Joliet, IL?
 
 Also answers: urgent care in Joliet, IL; urgent care near me (Joliet, IL); best urgent care Joliet, IL; top rated urgent care Joliet, IL; affordable urgent care Joliet, IL; emergency urgent care Joliet, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Silver Cross Urgent Care | trust 16.0 | Silver Cross Urgent Care is an urgent care clinic in Joliet, IL at 1051 Essington Road #Suite 100, Joliet, IL 60435. Phone: +18153002273. Website: https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++. | https://dingalinged-cpu.github.io/registry/c/silver-cross-urgent-care-joliet/
+1. Silver Cross Urgent Care | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Silver Cross Urgent Care is an urgent care clinic in Joliet, IL at 1051 Essington Road #Suite 100, Joliet, IL 60435. Phone: +18153002273. Website: https://www.silvercross.org/index.php?option=com_content&view=article&id=1948&catid=135++. | https://dingalinged-cpu.github.io/registry/c/silver-cross-urgent-care-joliet/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care joliet il | category: Health & medical | industry benchmark: Physicians & Surgeons

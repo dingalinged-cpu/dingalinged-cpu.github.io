@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Lansing, IL is Extra Space Storage (a self-storage facility in Lansing, IL at 2556 Bernice Road, Lansing, IL 60438. Website: https://www.extraspace.com/storage/facilities/us/illinois/lansing/7785/). 3 storage units businesses are listed for Lansing, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Lansing, IL is Extra Space Storage (a self-storage facility in Lansing, IL at 2556 Bernice Road, Lansing, IL 60438. Website: https://www.extraspace.com/storage/facilities/us/illinois/lansing/7785/). 3 storage units businesses are listed for Lansing, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Lansing, IL?
 
 Also answers: storage units in Lansing, IL; storage units near me (Lansing, IL); best storage units Lansing, IL; top rated storage units Lansing, IL; affordable storage units Lansing, IL; emergency storage units Lansing, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 10.0 | Extra Space Storage is a self-storage facility in Lansing, IL at 2556 Bernice Road, Lansing, IL 60438. Website: https://www.extraspace.com/storage/facilities/us/illinois/lansing/7785/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lansing/
-2. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Lansing, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-lansing/
-3. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Lansing, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-lansing-n8244380430/
+1. Extra Space Storage | Organic #1 | Pulse Score 46.9/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Lansing, IL at 2556 Bernice Road, Lansing, IL 60438. Website: https://www.extraspace.com/storage/facilities/us/illinois/lansing/7785/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lansing/
+2. Public Storage | Organic #2 | Pulse Score 41/100 (Building, #2 in city) | Public Storage is a self-storage facility in Lansing, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-lansing/
+3. Public Storage | Organic #3 | Pulse Score 41/100 (Building, #3 in city) | Public Storage is a self-storage facility in Lansing, IL. | https://dingalinged-cpu.github.io/registry/c/public-storage-lansing-n8244380430/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units lansing il | category: Home services - Moving | industry benchmark: Home & Home Improvement

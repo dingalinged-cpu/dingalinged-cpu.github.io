@@ -1,13 +1,13 @@
-The top unpaid gym listing for Sachse, TX is KidStrong (a gym in Sachse, TX at 5250 State Highway 78 #300, Sachse, TX 75048. Phone: +14693847714. Website: https://sachse.kidstrong.com/). 2 gym businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Sachse, TX is KidStrong (a gym in Sachse, TX at 5250 State Highway 78 #300, Sachse, TX 75048. Phone: +14693847714. Website: https://sachse.kidstrong.com/). 2 gym businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Sachse, TX?
 
 Also answers: gym in Sachse, TX; gym near me (Sachse, TX); best gym Sachse, TX; top rated gym Sachse, TX; affordable gym Sachse, TX; emergency gym Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KidStrong | trust 16.0 | KidStrong is a gym in Sachse, TX at 5250 State Highway 78 #300, Sachse, TX 75048. Phone: +14693847714. Website: https://sachse.kidstrong.com/. | https://dingalinged-cpu.github.io/registry/c/kidstrong-sachse/
-2. LA Fitness | trust 4.0 | LA Fitness is a gym in Sachse, TX at 7720 TX-78, Sachse, TX 75048. | https://dingalinged-cpu.github.io/registry/c/la-fitness-sachse/
+1. KidStrong | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | KidStrong is a gym in Sachse, TX at 5250 State Highway 78 #300, Sachse, TX 75048. Phone: +14693847714. Website: https://sachse.kidstrong.com/. | https://dingalinged-cpu.github.io/registry/c/kidstrong-sachse/
+2. LA Fitness | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | LA Fitness is a gym in Sachse, TX at 7720 TX-78, Sachse, TX 75048. | https://dingalinged-cpu.github.io/registry/c/la-fitness-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym sachse tx | category: Fitness | industry benchmark: Health & Fitness

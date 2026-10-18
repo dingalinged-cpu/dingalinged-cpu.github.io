@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Maplewood, MN is North Star Auto Body (an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886). 4 auto repair businesses are listed for Maplewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Maplewood, MN is North Star Auto Body (an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886). 4 auto repair businesses are listed for Maplewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Maplewood, MN?
 
 Also answers: auto repair in Maplewood, MN; auto repair near me (Maplewood, MN); best auto repair Maplewood, MN; top rated auto repair Maplewood, MN; affordable auto repair Maplewood, MN; emergency auto repair Maplewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Star Auto Body | trust 14.0 | North Star Auto Body is an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886. | https://dingalinged-cpu.github.io/registry/c/north-star-auto-body-maplewood/
-2. Firestone | trust 0.0 | Firestone is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/firestone-maplewood/
-3. LaMettrey's | trust 0.0 | LaMettrey's is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/lamettreys-maplewood/
-4. Larson's Auto | trust 0.0 | Larson's Auto is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/larsons-auto-maplewood/
+1. North Star Auto Body | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | North Star Auto Body is an auto repair shop in Maplewood, MN at 2672 Maplewood Drive North, Maplewood, MN 55109. Phone: +18336512886. | https://dingalinged-cpu.github.io/registry/c/north-star-auto-body-maplewood/
+2. LaMettrey's | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | LaMettrey's is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/lamettreys-maplewood/
+3. Larson's Auto | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Larson's Auto is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/larsons-auto-maplewood/
+4. Firestone | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | Firestone is an auto repair shop in Maplewood, MN. | https://dingalinged-cpu.github.io/registry/c/firestone-maplewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair maplewood mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

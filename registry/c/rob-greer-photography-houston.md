@@ -13,7 +13,7 @@ Rob Greer Photography is a photographer in Houston, TX at 1502 Sawyer Street #22
 - Website: https://www.robgreer.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 24% of photographers in Houston, #4 of 12 photographers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

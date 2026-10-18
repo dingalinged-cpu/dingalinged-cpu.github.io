@@ -1,16 +1,16 @@
-The top unpaid tax preparation listing for Gwinnett County, GA is H&R Block (a tax preparation service in Gwinnett County, GA). 5 tax preparation businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Gwinnett County, GA is iTax (a tax preparation service in Gwinnett County, GA). 5 tax preparation businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Gwinnett County, GA?
 
 Also answers: tax preparation in Gwinnett County, GA; tax preparation near me (Gwinnett County, GA); best tax preparation Gwinnett County, GA; top rated tax preparation Gwinnett County, GA; affordable tax preparation Gwinnett County, GA; emergency tax preparation Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-gwinnett-county/
-2. iTax | trust 0.0 | iTax is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/itax-gwinnett-county/
-3. Pro Tax Service | trust 0.0 | Pro Tax Service is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/pro-tax-service-gwinnett-county/
-4. Tax Office | trust 0.0 | Tax Office is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tax-office-gwinnett-county/
-5. The Green Group | trust 0.0 | The Green Group is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-green-group-gwinnett-county/
+1. iTax | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | iTax is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/itax-gwinnett-county/
+2. Pro Tax Service | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Pro Tax Service is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/pro-tax-service-gwinnett-county/
+3. Tax Office | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Tax Office is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tax-office-gwinnett-county/
+4. The Green Group | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | The Green Group is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-green-group-gwinnett-county/
+5. H&R Block | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | H&R Block is a tax preparation service in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation gwinnett county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

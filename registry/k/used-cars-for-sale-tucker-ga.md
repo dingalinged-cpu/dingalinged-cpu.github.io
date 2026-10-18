@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for Tucker, GA is Antep Auto Sales (an used car dealer in Tucker, GA). 1 used cars for sale businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Tucker, GA is Antep Auto Sales (an used car dealer in Tucker, GA). 1 used cars for sale businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Tucker, GA?
 
 Also answers: used cars for sale in Tucker, GA; used cars for sale near me (Tucker, GA); best used cars for sale Tucker, GA; top rated used cars for sale Tucker, GA; affordable used cars for sale Tucker, GA; emergency used cars for sale Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Antep Auto Sales | trust 0.0 | Antep Auto Sales is an used car dealer in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/antep-auto-sales-tucker/
+1. Antep Auto Sales | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Antep Auto Sales is an used car dealer in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/antep-auto-sales-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale tucker ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

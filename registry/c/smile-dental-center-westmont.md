@@ -13,7 +13,7 @@ Smile Dental Center is a dentist in Westmont, IL at 411 North Cass Avenue, Westm
 - Website: https://www.smiledentalcenterwestmont.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 12:00-18:30; We 10:00-14:00; Th-Sa 09:00-17:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 19% of dentists in Chicago, #2 of 3 dentists in Westmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Tailor N' You is a tailor in Crystal, MN at 6414 Bass Lake Road, Crystal, MN 554
 - Website: https://tailornyou.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of tailors in Minneapolis–St. Paul, #1 of 2 tailors in Crystal (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

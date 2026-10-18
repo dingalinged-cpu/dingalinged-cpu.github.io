@@ -1,17 +1,17 @@
-The top unpaid gym listing for Pearland, TX is Anytime Fitness (a gym in Pearland, TX at 8703 West Broadway Street #101, Pearland, TX 77584. Phone: +18327369150. Website: https://www.anytimefitness.com/gyms/3071/pearland-tx-77584/). 6 gym businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Pearland, TX is Wellbeing T50 Fitness (a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/). 6 gym businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Pearland, TX?
 
 Also answers: gym in Pearland, TX; gym near me (Pearland, TX); best gym Pearland, TX; top rated gym Pearland, TX; affordable gym Pearland, TX; emergency gym Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Pearland, TX at 8703 West Broadway Street #101, Pearland, TX 77584. Phone: +18327369150. Website: https://www.anytimefitness.com/gyms/3071/pearland-tx-77584/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-pearland/
-2. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Pearland, TX at 12573 West Broadway Street, Pearland, TX 77584. Phone: +18327363654. Website: https://www.anytimefitness.com/gyms/4404/pearland-tx-77584/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-pearland-w589008445/
-3. Wellbeing T50 Fitness | trust 9.0 | Wellbeing T50 Fitness is a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/. | https://dingalinged-cpu.github.io/registry/c/wellbeing-t50-fitness-pearland/
-4. iLoveKickboxing | trust 3.0 | iLoveKickboxing is a gym in Pearland, TX at 11200 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/ilovekickboxing-pearland/
-5. F45 Training | trust 0.0 | F45 Training is a gym in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-pearland/
-6. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-pearland/
+1. Wellbeing T50 Fitness | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Wellbeing T50 Fitness is a gym in Pearland, TX at 12801 West Broadway Street, Pearland, TX. Website: https://www.t50fitness.com/. | https://dingalinged-cpu.github.io/registry/c/wellbeing-t50-fitness-pearland/
+2. iLoveKickboxing | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | iLoveKickboxing is a gym in Pearland, TX at 11200 West Broadway Street, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/ilovekickboxing-pearland/
+3. Anytime Fitness | Organic #3 | Pulse Score 50.3/100 (Fair, #3 in city) | Anytime Fitness is a gym in Pearland, TX at 8703 West Broadway Street #101, Pearland, TX 77584. Phone: +18327369150. Website: https://www.anytimefitness.com/gyms/3071/pearland-tx-77584/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-pearland/
+4. Anytime Fitness | Organic #4 | Pulse Score 50.3/100 (Fair, #4 in city) | Anytime Fitness is a gym in Pearland, TX at 12573 West Broadway Street, Pearland, TX 77584. Phone: +18327363654. Website: https://www.anytimefitness.com/gyms/4404/pearland-tx-77584/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-pearland-w589008445/
+5. F45 Training | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | F45 Training is a gym in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-pearland/
+6. Planet Fitness | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Planet Fitness is a gym in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym pearland tx | category: Fitness | industry benchmark: Health & Fitness

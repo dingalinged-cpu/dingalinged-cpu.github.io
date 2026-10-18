@@ -13,7 +13,7 @@ Chiro Health Clinic VA is a chiropractor in Saint Paul, MN at 1132 Arcade Street
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We,Fr 09:00-18:00
-- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.4/100 — Unrated (not enough evidence yet) — top 54% of chiropractors in Minneapolis–St. Paul, #11 of 19 chiropractors in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 48.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid massage listing for Austell, GA is Moonlight Spa (a massage studio in Austell, GA at 10140 Veterans Memorial Highway, Austell, GA 30168). 1 massage businesses are listed for Austell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Austell, GA is Moonlight Spa (a massage studio in Austell, GA at 10140 Veterans Memorial Highway, Austell, GA 30168). 1 massage businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Austell, GA?
 
 Also answers: massage in Austell, GA; massage near me (Austell, GA); best massage Austell, GA; top rated massage Austell, GA; affordable massage Austell, GA; emergency massage Austell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moonlight Spa | trust 4.0 | Moonlight Spa is a massage studio in Austell, GA at 10140 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/moonlight-spa-austell/
+1. Moonlight Spa | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Moonlight Spa is a massage studio in Austell, GA at 10140 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/moonlight-spa-austell/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage austell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

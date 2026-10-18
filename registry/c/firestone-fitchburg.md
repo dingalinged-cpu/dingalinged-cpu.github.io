@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Fitchburg, WI at 6265 McKee Road, Fitchburg,
 - Website: https://www.firestonecompleteautocare.com/wisconsin/fitchburg/6265-mckee-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 67% of auto repair shops in Madison, #2 of 3 auto repair shops in Fitchburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

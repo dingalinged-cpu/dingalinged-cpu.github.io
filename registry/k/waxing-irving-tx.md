@@ -1,13 +1,13 @@
-The top unpaid waxing listing for Irving, TX is Radiant Waxing (a waxing salon in Irving, TX at 6751 North MacArthur Boulevard #Suite 100, Irving, TX 75039. Phone: +14693991044. Website: https://www.radiantwaxing.com/tx-las-colinas-shops-at-macarthur-hills/). 2 waxing businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Irving, TX is Radiant Waxing (a waxing salon in Irving, TX at 6751 North MacArthur Boulevard #Suite 100, Irving, TX 75039. Phone: +14693991044. Website: https://www.radiantwaxing.com/tx-las-colinas-shops-at-macarthur-hills/). 2 waxing businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Irving, TX?
 
 Also answers: waxing in Irving, TX; waxing near me (Irving, TX); best waxing Irving, TX; top rated waxing Irving, TX; affordable waxing Irving, TX; emergency waxing Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Radiant Waxing | trust 20.0 | Radiant Waxing is a waxing salon in Irving, TX at 6751 North MacArthur Boulevard #Suite 100, Irving, TX 75039. Phone: +14693991044. Website: https://www.radiantwaxing.com/tx-las-colinas-shops-at-macarthur-hills/. | https://dingalinged-cpu.github.io/registry/c/radiant-waxing-irving/
-2. European Wax Center | trust 6.0 | European Wax Center is a waxing salon in Irving, TX. Website: https://locations.waxcenter.com/tx/irving/irving-las-colinas-0068.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-irving/
+1. Radiant Waxing | Organic #1 | Pulse Score 52.5/100 (Fair, #1 in city) | Radiant Waxing is a waxing salon in Irving, TX at 6751 North MacArthur Boulevard #Suite 100, Irving, TX 75039. Phone: +14693991044. Website: https://www.radiantwaxing.com/tx-las-colinas-shops-at-macarthur-hills/. | https://dingalinged-cpu.github.io/registry/c/radiant-waxing-irving/
+2. European Wax Center | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | European Wax Center is a waxing salon in Irving, TX. Website: https://locations.waxcenter.com/tx/irving/irving-las-colinas-0068.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Cohen & Sinowski, P.C. is a lawyer in Marietta, GA at 30 Trammell Street Southwe
 - Website: https://www.cohensinowski.com/
 - Email: Info@candspc.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 1% of lawyers in Atlanta, #1 of 14 lawyers in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

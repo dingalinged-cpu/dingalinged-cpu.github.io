@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Woodstock, GA is Park View Childcare and Montessori School (a preschool in Woodstock, GA at 6689 Bells Ferry Road, Woodstock, GA 30189. Phone: +17709260044. Website: https://www.parkviewmontessorischool.com/). 3 preschool businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Woodstock, GA is Park View Childcare and Montessori School (a preschool in Woodstock, GA at 6689 Bells Ferry Road, Woodstock, GA 30189. Phone: +17709260044. Website: https://www.parkviewmontessorischool.com/). 3 preschool businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Woodstock, GA?
 
 Also answers: preschool in Woodstock, GA; preschool near me (Woodstock, GA); best preschool Woodstock, GA; top rated preschool Woodstock, GA; affordable preschool Woodstock, GA; emergency preschool Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Park View Childcare and Montessori School | trust 16.0 | Park View Childcare and Montessori School is a preschool in Woodstock, GA at 6689 Bells Ferry Road, Woodstock, GA 30189. Phone: +17709260044. Website: https://www.parkviewmontessorischool.com/. | https://dingalinged-cpu.github.io/registry/c/park-view-childcare-and-montessori-school-woodstock/
-2. Discovery Point | trust 4.0 | Discovery Point is a preschool in Woodstock, GA at 12055 GA-92, Woodstock, GA 30188. | https://dingalinged-cpu.github.io/registry/c/discovery-point-woodstock/
-3. Woodhaven Academy | trust 0.0 | Woodhaven Academy is a preschool in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/woodhaven-academy-woodstock/
+1. Park View Childcare and Montessori School | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Park View Childcare and Montessori School is a preschool in Woodstock, GA at 6689 Bells Ferry Road, Woodstock, GA 30189. Phone: +17709260044. Website: https://www.parkviewmontessorischool.com/. | https://dingalinged-cpu.github.io/registry/c/park-view-childcare-and-montessori-school-woodstock/
+2. Woodhaven Academy | Organic #2 | Pulse Score 56.6/100 (Fair, #2 in city) | Woodhaven Academy is a preschool in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/woodhaven-academy-woodstock/
+3. Discovery Point | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Discovery Point is a preschool in Woodstock, GA at 12055 GA-92, Woodstock, GA 30188. | https://dingalinged-cpu.github.io/registry/c/discovery-point-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool woodstock ga | category: Education & childcare | industry benchmark: Education & Instruction

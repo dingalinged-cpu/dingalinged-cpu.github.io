@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Chamblee, GA is Lewis Global Karate (a martial arts school in Chamblee, GA at 5522 New Peachtree Road #103, Chamblee, GA 30341. Phone: +17702201876). 1 martial arts businesses are listed for Chamblee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Chamblee, GA is Lewis Global Karate (a martial arts school in Chamblee, GA at 5522 New Peachtree Road #103, Chamblee, GA 30341. Phone: +17702201876). 1 martial arts businesses are listed for Chamblee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Chamblee, GA?
 
 Also answers: martial arts in Chamblee, GA; martial arts near me (Chamblee, GA); best martial arts Chamblee, GA; top rated martial arts Chamblee, GA; affordable martial arts Chamblee, GA; emergency martial arts Chamblee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lewis Global Karate | trust 10.0 | Lewis Global Karate is a martial arts school in Chamblee, GA at 5522 New Peachtree Road #103, Chamblee, GA 30341. Phone: +17702201876. | https://dingalinged-cpu.github.io/registry/c/lewis-global-karate-chamblee/
+1. Lewis Global Karate | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Lewis Global Karate is a martial arts school in Chamblee, GA at 5522 New Peachtree Road #103, Chamblee, GA 30341. Phone: +17702201876. | https://dingalinged-cpu.github.io/registry/c/lewis-global-karate-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts chamblee ga | category: Fitness | industry benchmark: Health & Fitness

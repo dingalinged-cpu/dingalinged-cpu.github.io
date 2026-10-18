@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Matteson, IL at 4163 Lincoln Highway, 
 - Website: https://www.hrblock.com/tax-office-near-me/illinois/matteson/12670/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 29% of tax preparation services in Chicago, #1 of 2 tax preparation services in Matteson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

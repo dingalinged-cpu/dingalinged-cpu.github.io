@@ -13,7 +13,7 @@ KinderCare is a preschool in Maple Grove, MN at 13380 Grove Drive North, Maple G
 - Website: https://www.kindercare.com/our-centers/maple-grove/mn/301287
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Registry Score: 52.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 46% of preschools in Minneapolis–St. Paul, #2 of 4 preschools in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

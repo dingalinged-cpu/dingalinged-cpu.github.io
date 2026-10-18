@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Mounds View, MN is Mounds View Family Dental (a dentist in Mounds View, MN at 2436 Mounds View Boulevard #110, Mounds View, MN 55112). 1 dentist businesses are listed for Mounds View, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Mounds View, MN is Mounds View Family Dental (a dentist in Mounds View, MN at 2436 Mounds View Boulevard #110, Mounds View, MN 55112). 1 dentist businesses are listed for Mounds View, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Mounds View, MN?
 
 Also answers: dentist in Mounds View, MN; dentist near me (Mounds View, MN); best dentist Mounds View, MN; top rated dentist Mounds View, MN; affordable dentist Mounds View, MN; emergency dentist Mounds View, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mounds View Family Dental | trust 4.0 | Mounds View Family Dental is a dentist in Mounds View, MN at 2436 Mounds View Boulevard #110, Mounds View, MN 55112. | https://dingalinged-cpu.github.io/registry/c/mounds-view-family-dental-mounds-view/
+1. Mounds View Family Dental | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Mounds View Family Dental is a dentist in Mounds View, MN at 2436 Mounds View Boulevard #110, Mounds View, MN 55112. | https://dingalinged-cpu.github.io/registry/c/mounds-view-family-dental-mounds-view/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist mounds view mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

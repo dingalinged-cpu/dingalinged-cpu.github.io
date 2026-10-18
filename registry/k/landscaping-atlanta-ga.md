@@ -1,13 +1,13 @@
-The top unpaid landscaping listing for Atlanta, GA is Mosley Architecture & Gardens (a landscaping company in Atlanta, GA at 2374 Virginia Place Northeast, Atlanta, GA 30305. Phone: +14048157077. Website: https://mosleyag.com/). 2 landscaping businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Atlanta, GA is Mosley Architecture & Gardens (a landscaping company in Atlanta, GA at 2374 Virginia Place Northeast, Atlanta, GA 30305. Phone: +14048157077. Website: https://mosleyag.com/). 2 landscaping businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Atlanta, GA?
 
 Also answers: landscaping in Atlanta, GA; landscaping near me (Atlanta, GA); best landscaping Atlanta, GA; top rated landscaping Atlanta, GA; affordable landscaping Atlanta, GA; emergency landscaping Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mosley Architecture & Gardens | trust 20.0 | Mosley Architecture & Gardens is a landscaping company in Atlanta, GA at 2374 Virginia Place Northeast, Atlanta, GA 30305. Phone: +14048157077. Website: https://mosleyag.com/. | https://dingalinged-cpu.github.io/registry/c/mosley-architecture-and-gardens-atlanta/
-2. Atlanta Landscape Life Saver Designer | trust 17.0 | Atlanta Landscape Life Saver Designer is a landscaping company in Atlanta, GA. Phone: +17706373549. Website: https://atlantalandscapelifesaverdesigner.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-landscape-life-saver-designer-atlanta/
+1. Mosley Architecture & Gardens | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Mosley Architecture & Gardens is a landscaping company in Atlanta, GA at 2374 Virginia Place Northeast, Atlanta, GA 30305. Phone: +14048157077. Website: https://mosleyag.com/. | https://dingalinged-cpu.github.io/registry/c/mosley-architecture-and-gardens-atlanta/
+2. Atlanta Landscape Life Saver Designer | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Atlanta Landscape Life Saver Designer is a landscaping company in Atlanta, GA. Phone: +17706373549. Website: https://atlantalandscapelifesaverdesigner.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-landscape-life-saver-designer-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping atlanta ga | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

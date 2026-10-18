@@ -1,16 +1,16 @@
-The top unpaid florist listing for Lewisville, TX is Andy's Floral Events (a florist in Lewisville, TX at 200 West Main Street, Lewisville, TX. Phone: +19724204652. Website: https://www.andysfloralevents.com/). 5 florist businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Lewisville, TX is Andy's Floral Events (a florist in Lewisville, TX at 200 West Main Street, Lewisville, TX. Phone: +19724204652. Website: https://www.andysfloralevents.com/). 5 florist businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Lewisville, TX?
 
 Also answers: florist in Lewisville, TX; florist near me (Lewisville, TX); best florist Lewisville, TX; top rated florist Lewisville, TX; affordable florist Lewisville, TX; emergency florist Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Andy's Floral Events | trust 19.0 | Andy's Floral Events is a florist in Lewisville, TX at 200 West Main Street, Lewisville, TX. Phone: +19724204652. Website: https://www.andysfloralevents.com/. | https://dingalinged-cpu.github.io/registry/c/andys-floral-events-lewisville/
-2. DJ Flowers & Gifts | trust 16.0 | DJ Flowers & Gifts is a florist in Lewisville, TX. Phone: +19724595828. Website: https://www.djflowers.biz/. | https://dingalinged-cpu.github.io/registry/c/dj-flowers-and-gifts-lewisville/
-3. We + You | trust 16.0 | We + You is a florist in Lewisville, TX at 135 West Main Street, Lewisville, TX 75057. Phone: +19724360800. Website: https://weplusyoustudios.com/. | https://dingalinged-cpu.github.io/registry/c/we-you-lewisville/
-4. Flourish | trust 7.0 | Flourish is a florist in Lewisville, TX at 156 West Main Street, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/flourish-lewisville/
-5. Mickey's Florist | trust 6.0 | Mickey's Florist is a florist in Lewisville, TX. Phone: +19724364041. | https://dingalinged-cpu.github.io/registry/c/mickeys-florist-lewisville/
+1. Andy's Floral Events | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Andy's Floral Events is a florist in Lewisville, TX at 200 West Main Street, Lewisville, TX. Phone: +19724204652. Website: https://www.andysfloralevents.com/. | https://dingalinged-cpu.github.io/registry/c/andys-floral-events-lewisville/
+2. DJ Flowers & Gifts | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | DJ Flowers & Gifts is a florist in Lewisville, TX. Phone: +19724595828. Website: https://www.djflowers.biz/. | https://dingalinged-cpu.github.io/registry/c/dj-flowers-and-gifts-lewisville/
+3. Flourish | Organic #3 | Pulse Score 61/100 (Good, #3 in city) | Flourish is a florist in Lewisville, TX at 156 West Main Street, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/flourish-lewisville/
+4. We + You | Organic #4 | Pulse Score 60.5/100 (Unrated, #4 in city) | We + You is a florist in Lewisville, TX at 135 West Main Street, Lewisville, TX 75057. Phone: +19724360800. Website: https://weplusyoustudios.com/. | https://dingalinged-cpu.github.io/registry/c/we-you-lewisville/
+5. Mickey's Florist | Organic #5 | Pulse Score 58.7/100 (Unrated, #5 in city) | Mickey's Florist is a florist in Lewisville, TX. Phone: +19724364041. | https://dingalinged-cpu.github.io/registry/c/mickeys-florist-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist lewisville tx | category: Events & weddings | industry benchmark: Personal Services

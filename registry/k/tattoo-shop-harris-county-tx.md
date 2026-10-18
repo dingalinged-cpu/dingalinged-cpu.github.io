@@ -1,17 +1,17 @@
-The top unpaid tattoo shop listing for Harris County, TX is La Catrina Tattoo Parlor (a tattoo shop in Harris County, TX. Website: https://la-catrina-tattoo-parlor.business.site/?m=true). 6 tattoo shop businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Harris County, TX is La Catrina Tattoo Parlor (a tattoo shop in Harris County, TX. Website: https://la-catrina-tattoo-parlor.business.site/?m=true). 6 tattoo shop businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Harris County, TX?
 
 Also answers: tattoo shop in Harris County, TX; tattoo shop near me (Harris County, TX); best tattoo shop Harris County, TX; top rated tattoo shop Harris County, TX; affordable tattoo shop Harris County, TX; emergency tattoo shop Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. La Catrina Tattoo Parlor | trust 6.0 | La Catrina Tattoo Parlor is a tattoo shop in Harris County, TX. Website: https://la-catrina-tattoo-parlor.business.site/?m=true. | https://dingalinged-cpu.github.io/registry/c/la-catrina-tattoo-parlor-harris-county/
-2. A Touch of Ink | trust 3.0 | A Touch of Ink is a tattoo shop in Harris County, TX at 4028 FM 1960 East #C, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/a-touch-of-ink-harris-county/
-3. Hari Ato Tattoo | trust 0.0 | Hari Ato Tattoo is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hari-ato-tattoo-harris-county/
-4. Hitlist Ink | trust 0.0 | Hitlist Ink is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hitlist-ink-harris-county/
-5. MeraLab | trust 0.0 | MeraLab is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/meralab-harris-county/
-6. Tattoos and Piercing | trust 0.0 | Tattoos and Piercing is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tattoos-and-piercing-harris-county/
+1. La Catrina Tattoo Parlor | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | La Catrina Tattoo Parlor is a tattoo shop in Harris County, TX. Website: https://la-catrina-tattoo-parlor.business.site/?m=true. | https://dingalinged-cpu.github.io/registry/c/la-catrina-tattoo-parlor-harris-county/
+2. A Touch of Ink | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | A Touch of Ink is a tattoo shop in Harris County, TX at 4028 FM 1960 East #C, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/a-touch-of-ink-harris-county/
+3. Hari Ato Tattoo | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Hari Ato Tattoo is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hari-ato-tattoo-harris-county/
+4. Hitlist Ink | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Hitlist Ink is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hitlist-ink-harris-county/
+5. MeraLab | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | MeraLab is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/meralab-harris-county/
+6. Tattoos and Piercing | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Tattoos and Piercing is a tattoo shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/tattoos-and-piercing-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop harris county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

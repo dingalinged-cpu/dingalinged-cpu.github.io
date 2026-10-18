@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Midlothian, TX is Hardesty Law Office, PLLC (a lawyer in Midlothian, TX at 229 South 9th Street, Midlothian, TX 76065. Phone: +12146019462. Website: https://hardestylawoffice.com/). 1 attorney businesses are listed for Midlothian, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Midlothian, TX is Hardesty Law Office, PLLC (a lawyer in Midlothian, TX at 229 South 9th Street, Midlothian, TX 76065. Phone: +12146019462. Website: https://hardestylawoffice.com/). 1 attorney businesses are listed for Midlothian, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Midlothian, TX?
 
 Also answers: attorney in Midlothian, TX; attorney near me (Midlothian, TX); best attorney Midlothian, TX; top rated attorney Midlothian, TX; affordable attorney Midlothian, TX; emergency attorney Midlothian, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hardesty Law Office, PLLC | trust 20.0 | Hardesty Law Office, PLLC is a lawyer in Midlothian, TX at 229 South 9th Street, Midlothian, TX 76065. Phone: +12146019462. Website: https://hardestylawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/hardesty-law-office-pllc-midlothian/
+1. Hardesty Law Office, PLLC | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Hardesty Law Office, PLLC is a lawyer in Midlothian, TX at 229 South 9th Street, Midlothian, TX 76065. Phone: +12146019462. Website: https://hardestylawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/hardesty-law-office-pllc-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney midlothian tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

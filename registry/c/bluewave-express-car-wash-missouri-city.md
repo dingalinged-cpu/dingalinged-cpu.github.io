@@ -13,7 +13,7 @@ BlueWave Express Car Wash is a car wash in Missouri City, TX at 10120 State High
 - Website: https://bluewaveexpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of car washes in Houston, #1 of 3 car washes in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

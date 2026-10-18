@@ -1,19 +1,19 @@
-The top unpaid haircut listing for West Bend, WI is A Touch of Class (a hair salon in West Bend, WI). 8 haircut businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for West Bend, WI is A Touch of Class (a hair salon in West Bend, WI). 8 haircut businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in West Bend, WI?
 
 Also answers: haircut in West Bend, WI; haircut near me (West Bend, WI); best haircut West Bend, WI; top rated haircut West Bend, WI; affordable haircut West Bend, WI; emergency haircut West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Touch of Class | trust 0.0 | A Touch of Class is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/a-touch-of-class-west-bend/
-2. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-west-bend/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-west-bend/
-4. Men's Hair House | trust 0.0 | Men's Hair House is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-west-bend/
-5. Pure Artistry | trust 0.0 | Pure Artistry is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pure-artistry-west-bend/
-6. SmartStyle | trust 0.0 | SmartStyle is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/smartstyle-west-bend/
-7. Sport Clips | trust 0.0 | Sport Clips is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-west-bend/
-8. Supercuts | trust 0.0 | Supercuts is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-west-bend/
+1. A Touch of Class | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | A Touch of Class is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/a-touch-of-class-west-bend/
+2. Pure Artistry | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Pure Artistry is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/pure-artistry-west-bend/
+3. Men's Hair House | Organic #3 | Pulse Score 43/100 (Unrated, #3 in city) | Men's Hair House is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-west-bend/
+4. SmartStyle | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | SmartStyle is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/smartstyle-west-bend/
+5. Sport Clips | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Sport Clips is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-west-bend/
+6. Cost Cutters | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | Cost Cutters is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-west-bend/
+7. Great Clips | Organic #7 | Pulse Score 41.8/100 (Building, #7 in city) | Great Clips is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-west-bend/
+8. Supercuts | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Supercuts is a hair salon in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/supercuts-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut west bend wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

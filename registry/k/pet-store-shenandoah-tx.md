@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Shenandoah, TX is PetSmart (a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html). 2 pet store businesses are listed for Shenandoah, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Shenandoah, TX is PetSmart (a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html). 2 pet store businesses are listed for Shenandoah, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Shenandoah, TX?
 
 Also answers: pet store in Shenandoah, TX; pet store near me (Shenandoah, TX); best pet store Shenandoah, TX; top rated pet store Shenandoah, TX; affordable pet store Shenandoah, TX; emergency pet store Shenandoah, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/
-2. Petland Woodlands | trust 15.0 | Petland Woodlands is a pet store in Shenandoah, TX at I-45, Shenandoah, TX. Phone: +18322950892. Website: https://www.petlandwoodlands.com/. | https://dingalinged-cpu.github.io/registry/c/petland-woodlands-shenandoah/
+1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/
+2. Petland Woodlands | Organic #2 | Pulse Score 44.5/100 (Unrated, #1 in city) | Petland Woodlands is a pet store in Shenandoah, TX at I-45, Shenandoah, TX. Phone: +18322950892. Website: https://www.petlandwoodlands.com/. | https://dingalinged-cpu.github.io/registry/c/petland-woodlands-shenandoah/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store shenandoah tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

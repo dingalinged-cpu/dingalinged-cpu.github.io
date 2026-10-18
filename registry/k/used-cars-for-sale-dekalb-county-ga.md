@@ -1,20 +1,20 @@
-The top unpaid used cars for sale listing for Dekalb County, GA is AutoDeals (an used car dealer in DeKalb County, GA. Phone: +16789054591. Website: https://www.autodealsga.net/). 9 used cars for sale businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Dekalb County, GA is AutoDeals (an used car dealer in DeKalb County, GA. Phone: +16789054591. Website: https://www.autodealsga.net/). 9 used cars for sale businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Dekalb County, GA?
 
 Also answers: used cars for sale in Dekalb County, GA; used cars for sale near me (Dekalb County, GA); best used cars for sale Dekalb County, GA; top rated used cars for sale Dekalb County, GA; affordable used cars for sale Dekalb County, GA; emergency used cars for sale Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AutoDeals | trust 12.0 | AutoDeals is an used car dealer in DeKalb County, GA. Phone: +16789054591. Website: https://www.autodealsga.net/. | https://dingalinged-cpu.github.io/registry/c/autodeals-dekalb-county/
-2. America's Truck Source | trust 0.0 | America's Truck Source is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/americas-truck-source-dekalb-county/
-3. Bless Auto | trust 0.0 | Bless Auto is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/bless-auto-dekalb-county/
-4. C2G Motorsports | trust 0.0 | C2G Motorsports is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/c2g-motorsports-dekalb-county/
-5. DriveTime | trust 0.0 | DriveTime is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/drivetime-dekalb-county/
-6. King of Auto Sales | trust 0.0 | King of Auto Sales is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/king-of-auto-sales-dekalb-county/
-7. Nesh | trust 0.0 | Nesh is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/nesh-dekalb-county/
-8. Olympic Auto Sales | trust 0.0 | Olympic Auto Sales is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/olympic-auto-sales-dekalb-county/
-9. Regency Auto | trust 0.0 | Regency Auto is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/regency-auto-dekalb-county/
+1. AutoDeals | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | AutoDeals is an used car dealer in DeKalb County, GA. Phone: +16789054591. Website: https://www.autodealsga.net/. | https://dingalinged-cpu.github.io/registry/c/autodeals-dekalb-county/
+2. America's Truck Source | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | America's Truck Source is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/americas-truck-source-dekalb-county/
+3. Bless Auto | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Bless Auto is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/bless-auto-dekalb-county/
+4. C2G Motorsports | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | C2G Motorsports is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/c2g-motorsports-dekalb-county/
+5. King of Auto Sales | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | King of Auto Sales is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/king-of-auto-sales-dekalb-county/
+6. Nesh | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Nesh is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/nesh-dekalb-county/
+7. Olympic Auto Sales | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | Olympic Auto Sales is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/olympic-auto-sales-dekalb-county/
+8. Regency Auto | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Regency Auto is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/regency-auto-dekalb-county/
+9. DriveTime | Organic #9 | Pulse Score 42.4/100 (Building, #9 in city) | DriveTime is an used car dealer in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/drivetime-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale dekalb county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

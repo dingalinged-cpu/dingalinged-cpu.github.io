@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Needville, TX at 13400 TX-36 #106, Nee
 - Website: https://www.hrblock.com/local-tax-offices/texas/needville/13400-hwy-36/66388/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 48% of tax preparation services in Houston, #1 of 1 tax preparation services in Needville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

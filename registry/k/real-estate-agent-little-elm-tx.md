@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Little Elm, TX is Brentwood by Pulte Homes (a real estate agency in Little Elm, TX at 2205 Olivia Lane, Little Elm, TX 75068). 1 real estate agent businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Little Elm, TX is Brentwood by Pulte Homes (a real estate agency in Little Elm, TX at 2205 Olivia Lane, Little Elm, TX 75068). 1 real estate agent businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Little Elm, TX?
 
 Also answers: real estate agent in Little Elm, TX; real estate agent near me (Little Elm, TX); best real estate agent Little Elm, TX; top rated real estate agent Little Elm, TX; affordable real estate agent Little Elm, TX; emergency real estate agent Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brentwood by Pulte Homes | trust 4.0 | Brentwood by Pulte Homes is a real estate agency in Little Elm, TX at 2205 Olivia Lane, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/brentwood-by-pulte-homes-little-elm/
+1. Brentwood by Pulte Homes | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Brentwood by Pulte Homes is a real estate agency in Little Elm, TX at 2205 Olivia Lane, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/brentwood-by-pulte-homes-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent little elm tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Suwanee, GA is Judson T. Connell, DMD (a dentist in Suwanee, GA at 3895 Johns Creek Parkway #Suite A, Suwanee, GA 30024. Phone: +17706238877. Website: https://www.judsontconnelldmd.com/). 4 dentist businesses are listed for Suwanee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Suwanee, GA is Judson T. Connell, DMD (a dentist in Suwanee, GA at 3895 Johns Creek Parkway #Suite A, Suwanee, GA 30024. Phone: +17706238877. Website: https://www.judsontconnelldmd.com/). 4 dentist businesses are listed for Suwanee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Suwanee, GA?
 
 Also answers: dentist in Suwanee, GA; dentist near me (Suwanee, GA); best dentist Suwanee, GA; top rated dentist Suwanee, GA; affordable dentist Suwanee, GA; emergency dentist Suwanee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Judson T. Connell, DMD | trust 20.0 | Judson T. Connell, DMD is a dentist in Suwanee, GA at 3895 Johns Creek Parkway #Suite A, Suwanee, GA 30024. Phone: +17706238877. Website: https://www.judsontconnelldmd.com/. | https://dingalinged-cpu.github.io/registry/c/judson-t-connell-dmd-suwanee/
-2. Peach State Laser Periodontics & Implants | trust 14.0 | Peach State Laser Periodontics & Implants is a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822. | https://dingalinged-cpu.github.io/registry/c/peach-state-laser-periodontics-and-implants-suwanee/
-3. Orchard Family Dental of Suwanee | trust 4.0 | Orchard Family Dental of Suwanee is a dentist in Suwanee, GA at 8010 McGinnis Ferry Road Trail #F, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/orchard-family-dental-of-suwanee-suwanee/
-4. Imagix Dental | trust 0.0 | Imagix Dental is a dentist in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/imagix-dental-suwanee/
+1. Judson T. Connell, DMD | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Judson T. Connell, DMD is a dentist in Suwanee, GA at 3895 Johns Creek Parkway #Suite A, Suwanee, GA 30024. Phone: +17706238877. Website: https://www.judsontconnelldmd.com/. | https://dingalinged-cpu.github.io/registry/c/judson-t-connell-dmd-suwanee/
+2. Peach State Laser Periodontics & Implants | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Peach State Laser Periodontics & Implants is a dentist in Suwanee, GA at 4300 Westbrook Road ##F, Suwanee, GA 30024. Phone: +17703107822. | https://dingalinged-cpu.github.io/registry/c/peach-state-laser-periodontics-and-implants-suwanee/
+3. Orchard Family Dental of Suwanee | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Orchard Family Dental of Suwanee is a dentist in Suwanee, GA at 8010 McGinnis Ferry Road Trail #F, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/orchard-family-dental-of-suwanee-suwanee/
+4. Imagix Dental | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Imagix Dental is a dentist in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/imagix-dental-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist suwanee ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

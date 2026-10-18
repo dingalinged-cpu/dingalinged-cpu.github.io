@@ -1,21 +1,21 @@
-The top unpaid oil change listing for Dallas, TX is Brakes Plus (an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, TX 75254. Website: https://www.brakesplus.com/stores/dallas/tx/0341/). 10 oil change businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Dallas, TX is Express Lube & Tune (an auto repair shop in Dallas, TX at 10404 Garland Road, Dallas, TX). 10 oil change businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Dallas, TX?
 
 Also answers: oil change in Dallas, TX; oil change near me (Dallas, TX); best oil change Dallas, TX; top rated oil change Dallas, TX; affordable oil change Dallas, TX; emergency oil change Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brakes Plus | trust 14.0 | Brakes Plus is an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, TX 75254. Website: https://www.brakesplus.com/stores/dallas/tx/0341/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-dallas/
-2. Take 5 Oil Change | trust 14.0 | Take 5 Oil Change is an auto repair shop in Dallas, TX at 6190 Belt Line Road, Dallas, TX 75254. Website: https://www.take5.com/locations/oil-change/texas/dallas/30067/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w470754430/
-3. Take 5 Oil Change | trust 4.0 | Take 5 Oil Change is an auto repair shop in Dallas, TX at 4004 Lemmon Avenue, Dallas, TX 75219. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas/
-4. Express Lube & Tune | trust 3.0 | Express Lube & Tune is an auto repair shop in Dallas, TX at 10404 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/express-lube-and-tune-dallas/
-5. Express Oil Change | trust 3.0 | Express Oil Change is an auto repair shop in Dallas, TX at 2806 North Buckner Boulevard, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-dallas/
-6. Take 5 | trust 3.0 | Take 5 is an auto repair shop in Dallas, TX at 17638 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-dallas/
-7. Take 5 Oil Change | trust 3.0 | Take 5 Oil Change is an auto repair shop in Dallas, TX at 3022 Inwood Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w465060679/
-8. Take 5 Oil Change | trust 3.0 | Take 5 Oil Change is an auto repair shop in Dallas, TX at 9707 Plano Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w468095784/
-9. J.T. Automotive | trust 0.0 | J.T. Automotive is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/j-t-automotive-dallas/
-10. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w1410788115/
+1. Express Lube & Tune | Organic #1 | Pulse Score 55.9/100 (Unrated, #50 in city) | Express Lube & Tune is an auto repair shop in Dallas, TX at 10404 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/express-lube-and-tune-dallas/
+2. Express Oil Change | Organic #2 | Pulse Score 55.9/100 (Unrated, #51 in city) | Express Oil Change is an auto repair shop in Dallas, TX at 2806 North Buckner Boulevard, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-dallas/
+3. J.T. Automotive | Organic #3 | Pulse Score 55.5/100 (Unrated, #55 in city) | J.T. Automotive is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/j-t-automotive-dallas/
+4. Brakes Plus | Organic #4 | Pulse Score 47.9/100 (Building, #89 in city) | Brakes Plus is an auto repair shop in Dallas, TX at 6161 Alexis Drive, Dallas, TX 75254. Website: https://www.brakesplus.com/stores/dallas/tx/0341/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-dallas/
+5. Take 5 Oil Change | Organic #5 | Pulse Score 47.7/100 (Building, #90 in city) | Take 5 Oil Change is an auto repair shop in Dallas, TX at 6190 Belt Line Road, Dallas, TX 75254. Website: https://www.take5.com/locations/oil-change/texas/dallas/30067/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w470754430/
+6. Take 5 Oil Change | Organic #6 | Pulse Score 44.8/100 (Building, #99 in city) | Take 5 Oil Change is an auto repair shop in Dallas, TX at 4004 Lemmon Avenue, Dallas, TX 75219. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas/
+7. Take 5 Oil Change | Organic #7 | Pulse Score 43.3/100 (Building, #106 in city) | Take 5 Oil Change is an auto repair shop in Dallas, TX at 3022 Inwood Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w465060679/
+8. Take 5 Oil Change | Organic #8 | Pulse Score 43.3/100 (Building, #107 in city) | Take 5 Oil Change is an auto repair shop in Dallas, TX at 9707 Plano Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w468095784/
+9. Take 5 | Organic #9 | Pulse Score 43.1/100 (Unrated, #109 in city) | Take 5 is an auto repair shop in Dallas, TX at 17638 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-dallas/
+10. Take 5 Oil Change | Organic #10 | Pulse Score 42.2/100 (Building, #119 in city) | Take 5 Oil Change is an auto repair shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-dallas-w1410788115/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

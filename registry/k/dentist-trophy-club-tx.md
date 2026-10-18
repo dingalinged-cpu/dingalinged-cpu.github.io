@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Trophy Club, TX is Trophy Smile Studio (a dentist in Trophy Club, TX at 301 Trophy Lake Drive #120, Trophy Club, TX 76262. Phone: +18172104049. Website: https://trophysmilestudio.com/). 4 dentist businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Trophy Club, TX is Trophy Smile Studio (a dentist in Trophy Club, TX at 301 Trophy Lake Drive #120, Trophy Club, TX 76262. Phone: +18172104049. Website: https://trophysmilestudio.com/). 4 dentist businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Trophy Club, TX?
 
 Also answers: dentist in Trophy Club, TX; dentist near me (Trophy Club, TX); best dentist Trophy Club, TX; top rated dentist Trophy Club, TX; affordable dentist Trophy Club, TX; emergency dentist Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trophy Smile Studio | trust 16.0 | Trophy Smile Studio is a dentist in Trophy Club, TX at 301 Trophy Lake Drive #120, Trophy Club, TX 76262. Phone: +18172104049. Website: https://trophysmilestudio.com/. | https://dingalinged-cpu.github.io/registry/c/trophy-smile-studio-trophy-club/
-2. Complete Dentistry | trust 0.0 | Complete Dentistry is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/complete-dentistry-trophy-club/
-3. Genuine Smiles | trust 0.0 | Genuine Smiles is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/genuine-smiles-trophy-club/
-4. Summit Dental | trust 0.0 | Summit Dental is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/summit-dental-trophy-club/
+1. Trophy Smile Studio | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Trophy Smile Studio is a dentist in Trophy Club, TX at 301 Trophy Lake Drive #120, Trophy Club, TX 76262. Phone: +18172104049. Website: https://trophysmilestudio.com/. | https://dingalinged-cpu.github.io/registry/c/trophy-smile-studio-trophy-club/
+2. Complete Dentistry | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Complete Dentistry is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/complete-dentistry-trophy-club/
+3. Genuine Smiles | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Genuine Smiles is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/genuine-smiles-trophy-club/
+4. Summit Dental | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Summit Dental is a dentist in Trophy Club, TX. | https://dingalinged-cpu.github.io/registry/c/summit-dental-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist trophy club tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

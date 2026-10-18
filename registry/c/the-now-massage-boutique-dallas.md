@@ -13,7 +13,7 @@ The Now Massage Boutique is a massage studio in Dallas, TX at 11661 Preston Road
 - Website: https://www.thenowmassage.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-08:00; Sa 09:00-20:00; Su 10:00-18:00
-- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 4% of massage studios in Dallas–Fort Worth, #2 of 33 massage studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

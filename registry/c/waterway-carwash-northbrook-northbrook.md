@@ -13,7 +13,7 @@ Waterway Carwash Northbrook is a car wash in Northbrook, IL at 2300 Waukegan Roa
 - Website: https://www.waterway.com/locations/northbrook
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of car washes in Chicago, #1 of 4 car washes in Northbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Providence Village, TX is Cell Phone Repair (a phone repair shop in Providence Village, TX). 1 phone repair businesses are listed for Providence Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Providence Village, TX is Cell Phone Repair (a phone repair shop in Providence Village, TX). 1 phone repair businesses are listed for Providence Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Providence Village, TX?
 
 Also answers: phone repair in Providence Village, TX; phone repair near me (Providence Village, TX); best phone repair Providence Village, TX; top rated phone repair Providence Village, TX; affordable phone repair Providence Village, TX; emergency phone repair Providence Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cell Phone Repair | trust 0.0 | Cell Phone Repair is a phone repair shop in Providence Village, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-providence-village/
+1. Cell Phone Repair | Organic #1 | Pulse Score 41.6/100 (Building, #1 in city) | Cell Phone Repair is a phone repair shop in Providence Village, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-providence-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair providence village tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

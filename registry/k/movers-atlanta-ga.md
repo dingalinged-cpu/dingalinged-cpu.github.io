@@ -1,13 +1,13 @@
-The top unpaid movers listing for Atlanta, GA is Atlanta Furniture Taxi Moving Company (a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/). 2 movers businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid movers listing for Atlanta, GA is HAPPY LABOR (a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/). 2 movers businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best movers providers in Atlanta, GA?
 
 Also answers: movers in Atlanta, GA; movers near me (Atlanta, GA); best movers Atlanta, GA; top rated movers Atlanta, GA; affordable movers Atlanta, GA; emergency movers Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Furniture Taxi Moving Company | trust 20.0 | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-furniture-taxi-moving-company-atlanta/
-2. HAPPY LABOR | trust 20.0 | HAPPY LABOR is a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/. | https://dingalinged-cpu.github.io/registry/c/happy-labor-atlanta/
+1. HAPPY LABOR | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | HAPPY LABOR is a moving company in Atlanta, GA at 1100 Peachtree Street Northeast #STE 200, Atlanta, GA 30309. Phone: +14706260011. Website: https://www.happylaborllc.com/. | https://dingalinged-cpu.github.io/registry/c/happy-labor-atlanta/
+2. Atlanta Furniture Taxi Moving Company | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | Atlanta Furniture Taxi Moving Company is a moving company in Atlanta, GA at 2340 Chamblee Tucker Road, Atlanta, GA 30341. Phone: +14042287404. Website: https://www.atlantafurnituremovers.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-furniture-taxi-moving-company-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: movers atlanta ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

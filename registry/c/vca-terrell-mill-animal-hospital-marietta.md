@@ -13,7 +13,7 @@ VCA Terrell Mill Animal Hospital is a veterinarian in Marietta, GA at 1315 Power
 - Website: https://www.vcahospitals.com/terrell-mill
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 1% of veterinarians in Atlanta, #1 of 15 veterinarians in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

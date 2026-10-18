@@ -13,7 +13,7 @@ Dominion Properties is a real estate agency in Milwaukee, WI at 2025 North Summi
 - Website: https://dominion-properties.com/
 - Email: postmaster@dominionproperties.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 2% of real estate agencys in Milwaukee, #1 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

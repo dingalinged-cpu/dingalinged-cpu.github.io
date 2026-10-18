@@ -1,26 +1,26 @@
-The top unpaid jewelry store listing for Sugar Land, TX is James Avery Jewelry (a jewelry store in Sugar Land, TX at 16535 Southwest Freeway #T2008, Sugar Land, TX 77479. Phone: +12815652500. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=720). 15 jewelry store businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Sugar Land, TX is J. Wedemeier Jewelers (a jewelry store in Sugar Land, TX at 13574 University Boulevard #400, Sugar Land, TX). 15 jewelry store businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Sugar Land, TX?
 
 Also answers: jewelry store in Sugar Land, TX; jewelry store near me (Sugar Land, TX); best jewelry store Sugar Land, TX; top rated jewelry store Sugar Land, TX; affordable jewelry store Sugar Land, TX; emergency jewelry store Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16535 Southwest Freeway #T2008, Sugar Land, TX 77479. Phone: +12815652500. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=720. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land/
-2. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16517 Southwest Freeway, Sugar Land, TX 77479. Phone: +12819808300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=936. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land-n5004352310/
-3. J. Wedemeier Jewelers | trust 3.0 | J. Wedemeier Jewelers is a jewelry store in Sugar Land, TX at 13574 University Boulevard #400, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/j-wedemeier-jewelers-sugar-land/
-4. Daniel's | trust 0.0 | Daniel's is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/daniels-sugar-land/
-5. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-sugar-land/
-6. Impression & Co. | trust 0.0 | Impression & Co. is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/impression-and-co-sugar-land/
-7. JA Jewelers | trust 0.0 | JA Jewelers is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/ja-jewelers-sugar-land/
-8. Jared | trust 0.0 | Jared is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/jared-sugar-land/
-9. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-sugar-land/
-10. Kendra Scott | trust 0.0 | Kendra Scott is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-sugar-land/
-11. Lovisa | trust 0.0 | Lovisa is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/lovisa-sugar-land/
-12. Pandora | trust 0.0 | Pandora is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-sugar-land/
-13. Swarovski | trust 0.0 | Swarovski is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-sugar-land/
-14. The Inspiration Co. | trust 0.0 | The Inspiration Co. is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/the-inspiration-co-sugar-land/
-15. Zales | trust 0.0 | Zales is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/zales-sugar-land/
+1. J. Wedemeier Jewelers | Organic #1 | Pulse Score 61.8/100 (Good, #1 in city) | J. Wedemeier Jewelers is a jewelry store in Sugar Land, TX at 13574 University Boulevard #400, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/j-wedemeier-jewelers-sugar-land/
+2. Impression & Co. | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Impression & Co. is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/impression-and-co-sugar-land/
+3. JA Jewelers | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | JA Jewelers is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/ja-jewelers-sugar-land/
+4. The Inspiration Co. | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | The Inspiration Co. is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/the-inspiration-co-sugar-land/
+5. James Avery Jewelry | Organic #5 | Pulse Score 49.1/100 (Building, #5 in city) | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16517 Southwest Freeway, Sugar Land, TX 77479. Phone: +12819808300. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=936. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land-n5004352310/
+6. James Avery Jewelry | Organic #6 | Pulse Score 48.9/100 (Building, #6 in city) | James Avery Jewelry is a jewelry store in Sugar Land, TX at 16535 Southwest Freeway #T2008, Sugar Land, TX 77479. Phone: +12815652500. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=720. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-sugar-land/
+7. Zales | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | Zales is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/zales-sugar-land/
+8. Helzberg Diamonds | Organic #8 | Pulse Score 44.8/100 (Building, #8 in city) | Helzberg Diamonds is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-sugar-land/
+9. Jared | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Jared is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/jared-sugar-land/
+10. Daniel's | Organic #10 | Pulse Score 42.3/100 (Building, #10 in city) | Daniel's is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/daniels-sugar-land/
+11. Kay Jewelers | Organic #11 | Pulse Score 42.3/100 (Building, #11 in city) | Kay Jewelers is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-sugar-land/
+12. Lovisa | Organic #12 | Pulse Score 42.3/100 (Building, #12 in city) | Lovisa is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/lovisa-sugar-land/
+13. Pandora | Organic #13 | Pulse Score 42.3/100 (Building, #13 in city) | Pandora is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/pandora-sugar-land/
+14. Swarovski | Organic #14 | Pulse Score 42.3/100 (Building, #14 in city) | Swarovski is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/swarovski-sugar-land/
+15. Kendra Scott | Organic #15 | Pulse Score 41.9/100 (Unrated, #15 in city) | Kendra Scott is a jewelry store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store sugar land tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

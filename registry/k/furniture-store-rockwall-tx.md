@@ -1,17 +1,17 @@
-The top unpaid furniture store listing for Rockwall, TX is Restoration Marketplace (a furniture store in Rockwall, TX at 939 East Interstate 30, Rockwall, TX 75087. Phone: +14693141259. Website: https://www.therestorationmarketplace.com/). 6 furniture store businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Rockwall, TX is Restoration Marketplace (a furniture store in Rockwall, TX at 939 East Interstate 30, Rockwall, TX 75087. Phone: +14693141259. Website: https://www.therestorationmarketplace.com/). 6 furniture store businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Rockwall, TX?
 
 Also answers: furniture store in Rockwall, TX; furniture store near me (Rockwall, TX); best furniture store Rockwall, TX; top rated furniture store Rockwall, TX; affordable furniture store Rockwall, TX; emergency furniture store Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Restoration Marketplace | trust 20.0 | Restoration Marketplace is a furniture store in Rockwall, TX at 939 East Interstate 30, Rockwall, TX 75087. Phone: +14693141259. Website: https://www.therestorationmarketplace.com/. | https://dingalinged-cpu.github.io/registry/c/restoration-marketplace-rockwall/
-2. Furniture & Mattress Outlet | trust 4.0 | Furniture & Mattress Outlet is a furniture store in Rockwall, TX at 1401 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/furniture-and-mattress-outlet-rockwall/
-3. La-Z-Boy | trust 4.0 | La-Z-Boy is a furniture store in Rockwall, TX at 1154 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-rockwall/
-4. Rooms To Go | trust 4.0 | Rooms To Go is a furniture store in Rockwall, TX at 920 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-rockwall/
-5. IKEA | trust 3.0 | IKEA is a furniture store in Rockwall, TX at 1805 East Interstate 30, Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/ikea-rockwall/
-6. Rustic Warehouse | trust 0.0 | Rustic Warehouse is a furniture store in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/rustic-warehouse-rockwall/
+1. Restoration Marketplace | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Restoration Marketplace is a furniture store in Rockwall, TX at 939 East Interstate 30, Rockwall, TX 75087. Phone: +14693141259. Website: https://www.therestorationmarketplace.com/. | https://dingalinged-cpu.github.io/registry/c/restoration-marketplace-rockwall/
+2. Furniture & Mattress Outlet | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Furniture & Mattress Outlet is a furniture store in Rockwall, TX at 1401 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/furniture-and-mattress-outlet-rockwall/
+3. Rustic Warehouse | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rustic Warehouse is a furniture store in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/rustic-warehouse-rockwall/
+4. IKEA | Organic #4 | Pulse Score 47/100 (Building, #4 in city) | IKEA is a furniture store in Rockwall, TX at 1805 East Interstate 30, Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/ikea-rockwall/
+5. La-Z-Boy | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | La-Z-Boy is a furniture store in Rockwall, TX at 1154 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-rockwall/
+6. Rooms To Go | Organic #6 | Pulse Score 45/100 (Building, #6 in city) | Rooms To Go is a furniture store in Rockwall, TX at 920 East Interstate 30, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

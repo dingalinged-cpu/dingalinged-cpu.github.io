@@ -13,7 +13,7 @@ Honda Town is a motorcycle repair shop in Minneapolis, MN at 4215 East Lake Stre
 - Website: https://www.hondatown.net/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 10:00-18:00, Fr 10:00-17:00, Sa 09:00-15:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.2/100 — Good — top 34% of motorcycle repair shops in Minneapolis–St. Paul, #1 of 1 motorcycle repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

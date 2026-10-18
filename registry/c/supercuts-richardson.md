@@ -13,7 +13,7 @@ Supercuts is a hair salon in Richardson, TX at 3501 Custer Parkway #101, Richard
 - Website: https://www.supercuts.com/locations/nearme/haircut/tx/richardson/3501-custer-pkwy-ste-101/81222
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-18:00
-- Registry Score: 53/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 74% of hair salons in Dallas–Fort Worth, #17 of 21 hair salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

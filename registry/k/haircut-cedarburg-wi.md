@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Cedarburg, WI is Jett Vance Salon (a hair salon in Cedarburg, WI). 1 haircut businesses are listed for Cedarburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Cedarburg, WI is Jett Vance Salon (a hair salon in Cedarburg, WI). 1 haircut businesses are listed for Cedarburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Cedarburg, WI?
 
 Also answers: haircut in Cedarburg, WI; haircut near me (Cedarburg, WI); best haircut Cedarburg, WI; top rated haircut Cedarburg, WI; affordable haircut Cedarburg, WI; emergency haircut Cedarburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jett Vance Salon | trust 0.0 | Jett Vance Salon is a hair salon in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/jett-vance-salon-cedarburg/
+1. Jett Vance Salon | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Jett Vance Salon is a hair salon in Cedarburg, WI. | https://dingalinged-cpu.github.io/registry/c/jett-vance-salon-cedarburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut cedarburg wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

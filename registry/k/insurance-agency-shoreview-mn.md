@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Shoreview, MN is JWT Insurance (an insurance agent in Shoreview, MN). 1 insurance agency businesses are listed for Shoreview, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Shoreview, MN is JWT Insurance (an insurance agent in Shoreview, MN). 1 insurance agency businesses are listed for Shoreview, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Shoreview, MN?
 
 Also answers: insurance agency in Shoreview, MN; insurance agency near me (Shoreview, MN); best insurance agency Shoreview, MN; top rated insurance agency Shoreview, MN; affordable insurance agency Shoreview, MN; emergency insurance agency Shoreview, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JWT Insurance | trust 0.0 | JWT Insurance is an insurance agent in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/jwt-insurance-shoreview/
+1. JWT Insurance | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | JWT Insurance is an insurance agent in Shoreview, MN. | https://dingalinged-cpu.github.io/registry/c/jwt-insurance-shoreview/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency shoreview mn | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Goodwill is a thrift store in Houston, TX at 9606 Hillcroft Avenue, Houston, TX 
 - Website: https://goodwillhouston.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 44% of thrift stores in Houston, #17 of 44 thrift stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

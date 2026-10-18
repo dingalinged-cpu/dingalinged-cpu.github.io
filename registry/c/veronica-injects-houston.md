@@ -13,7 +13,7 @@ Veronica Injects is a dermatologist in Houston, TX at 2401 North Shepherd Drive 
 - Website: https://veronicainjects.com/
 - Email: info@veronicainjects.com
 - Opening hours (OSM syntax): Tu-We 11:00-15:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 9% of dermatologists in Houston, #1 of 7 dermatologists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

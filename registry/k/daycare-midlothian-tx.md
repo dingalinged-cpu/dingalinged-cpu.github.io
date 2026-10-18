@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Midlothian, TX is Discovery Childrens Academy (a daycare in Midlothian, TX at 111 Roundabout Drive, Midlothian, TX 76065). 1 daycare businesses are listed for Midlothian, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Midlothian, TX is Discovery Childrens Academy (a daycare in Midlothian, TX at 111 Roundabout Drive, Midlothian, TX 76065). 1 daycare businesses are listed for Midlothian, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Midlothian, TX?
 
 Also answers: daycare in Midlothian, TX; daycare near me (Midlothian, TX); best daycare Midlothian, TX; top rated daycare Midlothian, TX; affordable daycare Midlothian, TX; emergency daycare Midlothian, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discovery Childrens Academy | trust 4.0 | Discovery Childrens Academy is a daycare in Midlothian, TX at 111 Roundabout Drive, Midlothian, TX 76065. | https://dingalinged-cpu.github.io/registry/c/discovery-childrens-academy-midlothian/
+1. Discovery Childrens Academy | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Discovery Childrens Academy is a daycare in Midlothian, TX at 111 Roundabout Drive, Midlothian, TX 76065. | https://dingalinged-cpu.github.io/registry/c/discovery-childrens-academy-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare midlothian tx | category: Education & childcare | industry benchmark: Education & Instruction

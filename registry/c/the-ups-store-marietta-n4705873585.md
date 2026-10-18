@@ -13,7 +13,7 @@ The UPS Store is a printing service in Marietta, GA at 2146 Roswell Road, Mariet
 - Website: https://locations.theupsstore.com/ga/marietta/2146-roswell-rd-ne
 - Email: store0302@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 11:00-16:00; PH off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.5/100 — Fair — top 23% of printing services in Atlanta, #3 of 7 printing services in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 65.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

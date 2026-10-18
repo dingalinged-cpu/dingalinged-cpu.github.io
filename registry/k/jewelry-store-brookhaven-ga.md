@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Brookhaven, GA is El Diamante Jewelry (a jewelry store in Atlanta, GA at 3406 Clairmont Road, Atlanta, GA 30319. Phone: +17704514638. Website: https://eldiamanteatlanta.com/). 1 jewelry store businesses are listed for Brookhaven, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Brookhaven, GA is El Diamante Jewelry (a jewelry store in Atlanta, GA at 3406 Clairmont Road, Atlanta, GA 30319. Phone: +17704514638. Website: https://eldiamanteatlanta.com/). 1 jewelry store businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Brookhaven, GA?
 
 Also answers: jewelry store in Brookhaven, GA; jewelry store near me (Brookhaven, GA); best jewelry store Brookhaven, GA; top rated jewelry store Brookhaven, GA; affordable jewelry store Brookhaven, GA; emergency jewelry store Brookhaven, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. El Diamante Jewelry | trust 16.0 | El Diamante Jewelry is a jewelry store in Atlanta, GA at 3406 Clairmont Road, Atlanta, GA 30319. Phone: +17704514638. Website: https://eldiamanteatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/el-diamante-jewelry-atlanta/
+1. El Diamante Jewelry | Organic #1 | Pulse Score 60/100 (Unrated, #2 in city) | El Diamante Jewelry is a jewelry store in Atlanta, GA at 3406 Clairmont Road, Atlanta, GA 30319. Phone: +17704514638. Website: https://eldiamanteatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/el-diamante-jewelry-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store brookhaven ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

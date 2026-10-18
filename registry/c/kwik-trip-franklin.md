@@ -13,7 +13,7 @@ Kwik Trip is a car wash in Franklin, WI at 10750 West Speedway Drive, Franklin, 
 - Website: https://www.kwiktrip.com/locator/store?id=857
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.9/100 — Building — top 50% of car washes in Milwaukee, #2 of 3 car washes in Franklin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 63.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

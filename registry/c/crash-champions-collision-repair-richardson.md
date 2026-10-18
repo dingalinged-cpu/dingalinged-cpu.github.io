@@ -13,7 +13,7 @@ Crash Champions Collision Repair is an auto repair shop in Richardson, TX at 810
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa 09:00-12:00
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 69% of auto repair shops in Dallas–Fort Worth, #13 of 16 auto repair shops in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Precision Tune Auto Care is an auto repair shop in Coon Rapids, MN at 2831 Coon 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.9/100 — Unrated (not enough evidence yet) — top 85% of auto repair shops in Minneapolis–St. Paul, #3 of 3 auto repair shops in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.8, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Matteson, IL is Hirsch West End Chapel (a funeral home in Matteson, IL at 3501 Lincoln Highway, Matteson, IL 60443). 1 funeral home businesses are listed for Matteson, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Matteson, IL is Hirsch West End Chapel (a funeral home in Matteson, IL at 3501 Lincoln Highway, Matteson, IL 60443). 1 funeral home businesses are listed for Matteson, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Matteson, IL?
 
 Also answers: funeral home in Matteson, IL; funeral home near me (Matteson, IL); best funeral home Matteson, IL; top rated funeral home Matteson, IL; affordable funeral home Matteson, IL; emergency funeral home Matteson, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hirsch West End Chapel | trust 4.0 | Hirsch West End Chapel is a funeral home in Matteson, IL at 3501 Lincoln Highway, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/hirsch-west-end-chapel-matteson/
+1. Hirsch West End Chapel | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Hirsch West End Chapel is a funeral home in Matteson, IL at 3501 Lincoln Highway, Matteson, IL 60443. | https://dingalinged-cpu.github.io/registry/c/hirsch-west-end-chapel-matteson/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home matteson il | category: Professional & financial services | industry benchmark: Finance & Insurance

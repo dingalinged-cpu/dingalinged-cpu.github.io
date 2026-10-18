@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Arlington, TX is A&M Wellness Center Chiropractic (a chiropractor in Arlington, TX). 2 chiropractor businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Arlington, TX is Alexander Tuấn Phạm (a chiropractor in Arlington, TX). 2 chiropractor businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Arlington, TX?
 
 Also answers: chiropractor in Arlington, TX; chiropractor near me (Arlington, TX); best chiropractor Arlington, TX; top rated chiropractor Arlington, TX; affordable chiropractor Arlington, TX; emergency chiropractor Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A&M Wellness Center Chiropractic | trust 0.0 | A&M Wellness Center Chiropractic is a chiropractor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/a-and-m-wellness-center-chiropractic-arlington/
-2. Alexander Tuấn Phạm | trust 0.0 | Alexander Tuấn Phạm is a chiropractor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/alexander-tu-n-ph-m-arlington/
+1. Alexander Tuấn Phạm | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Alexander Tuấn Phạm is a chiropractor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/alexander-tu-n-ph-m-arlington/
+2. A&M Wellness Center Chiropractic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | A&M Wellness Center Chiropractic is a chiropractor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/a-and-m-wellness-center-chiropractic-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor arlington tx | category: Health & medical | industry benchmark: Physicians & Surgeons

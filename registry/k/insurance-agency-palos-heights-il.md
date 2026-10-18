@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Palos Heights, IL is Legacy Insurance Enterprises LLC (an insurance agent in Palos Heights, IL at 12726 South Harlem Avenue, Palos Heights, IL 60463. Phone: +18884128510. Website: https://www.legacyinsuranceent.com/). 1 insurance agency businesses are listed for Palos Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Palos Heights, IL is Legacy Insurance Enterprises LLC (an insurance agent in Palos Heights, IL at 12726 South Harlem Avenue, Palos Heights, IL 60463. Phone: +18884128510. Website: https://www.legacyinsuranceent.com/). 1 insurance agency businesses are listed for Palos Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Palos Heights, IL?
 
 Also answers: insurance agency in Palos Heights, IL; insurance agency near me (Palos Heights, IL); best insurance agency Palos Heights, IL; top rated insurance agency Palos Heights, IL; affordable insurance agency Palos Heights, IL; emergency insurance agency Palos Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legacy Insurance Enterprises LLC | trust 20.0 | Legacy Insurance Enterprises LLC is an insurance agent in Palos Heights, IL at 12726 South Harlem Avenue, Palos Heights, IL 60463. Phone: +18884128510. Website: https://www.legacyinsuranceent.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-insurance-enterprises-llc-palos-heights/
+1. Legacy Insurance Enterprises LLC | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Legacy Insurance Enterprises LLC is an insurance agent in Palos Heights, IL at 12726 South Harlem Avenue, Palos Heights, IL 60463. Phone: +18884128510. Website: https://www.legacyinsuranceent.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-insurance-enterprises-llc-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency palos heights il | category: insurance | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Chandler Place is an assisted living facility in Saint Anthony, MN at 3701 Chand
 - Website: https://chandlerplacesenior.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 12% of assisted living facilitys in Minneapolis–St. Paul, #1 of 1 assisted living facilitys in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

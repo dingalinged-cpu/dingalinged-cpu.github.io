@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Forest Park, IL is Silverland Bakery (a bakery in Forest Park, IL at 439 Des Plaines Avenue, Forest Park, IL 60130). 2 bakery businesses are listed for Forest Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Forest Park, IL is Silverland Bakery (a bakery in Forest Park, IL at 439 Des Plaines Avenue, Forest Park, IL 60130). 2 bakery businesses are listed for Forest Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Forest Park, IL?
 
 Also answers: bakery in Forest Park, IL; bakery near me (Forest Park, IL); best bakery Forest Park, IL; top rated bakery Forest Park, IL; affordable bakery Forest Park, IL; emergency bakery Forest Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Silverland Bakery | trust 4.0 | Silverland Bakery is a bakery in Forest Park, IL at 439 Des Plaines Avenue, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/silverland-bakery-forest-park/
-2. Kay's Bakery | trust 0.0 | Kay's Bakery is a bakery in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/kays-bakery-forest-park/
+1. Silverland Bakery | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Silverland Bakery is a bakery in Forest Park, IL at 439 Des Plaines Avenue, Forest Park, IL 60130. | https://dingalinged-cpu.github.io/registry/c/silverland-bakery-forest-park/
+2. Kay's Bakery | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | Kay's Bakery is a bakery in Forest Park, IL. | https://dingalinged-cpu.github.io/registry/c/kays-bakery-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery forest park il | category: Events & weddings | industry benchmark: Personal Services

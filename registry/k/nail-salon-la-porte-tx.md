@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for La Porte, TX is Nails Club (a nail salon in La Porte, TX at 9001 Spencer Highway, La Porte, TX 77571). 1 nail salon businesses are listed for La Porte, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for La Porte, TX is Nails Club (a nail salon in La Porte, TX at 9001 Spencer Highway, La Porte, TX 77571). 1 nail salon businesses are listed for La Porte, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in La Porte, TX?
 
 Also answers: nail salon in La Porte, TX; nail salon near me (La Porte, TX); best nail salon La Porte, TX; top rated nail salon La Porte, TX; affordable nail salon La Porte, TX; emergency nail salon La Porte, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nails Club | trust 4.0 | Nails Club is a nail salon in La Porte, TX at 9001 Spencer Highway, La Porte, TX 77571. | https://dingalinged-cpu.github.io/registry/c/nails-club-la-porte/
+1. Nails Club | Organic #1 | Pulse Score 46.9/100 (Unrated, #1 in city) | Nails Club is a nail salon in La Porte, TX at 9001 Spencer Highway, La Porte, TX 77571. | https://dingalinged-cpu.github.io/registry/c/nails-club-la-porte/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon la porte tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

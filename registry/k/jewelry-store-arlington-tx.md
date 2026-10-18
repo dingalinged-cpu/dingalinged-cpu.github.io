@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Arlington, TX is Robbin's Brothers (a jewelry store in Arlington, TX at 127 East Interstate 20, Arlington, TX 76018. Phone: +18174662860. Website: https://www.robbinsbrothers.com/). 2 jewelry store businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Arlington, TX is Robbin's Brothers (a jewelry store in Arlington, TX at 127 East Interstate 20, Arlington, TX 76018. Phone: +18174662860. Website: https://www.robbinsbrothers.com/). 2 jewelry store businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Arlington, TX?
 
 Also answers: jewelry store in Arlington, TX; jewelry store near me (Arlington, TX); best jewelry store Arlington, TX; top rated jewelry store Arlington, TX; affordable jewelry store Arlington, TX; emergency jewelry store Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robbin's Brothers | trust 20.0 | Robbin's Brothers is a jewelry store in Arlington, TX at 127 East Interstate 20, Arlington, TX 76018. Phone: +18174662860. Website: https://www.robbinsbrothers.com/. | https://dingalinged-cpu.github.io/registry/c/robbins-brothers-arlington/
-2. Arlington Jewelry Exchange | trust 4.0 | Arlington Jewelry Exchange is a jewelry store in Arlington, TX at 4621 South Cooper Street, Arlington, TX 76017. | https://dingalinged-cpu.github.io/registry/c/arlington-jewelry-exchange-arlington/
+1. Robbin's Brothers | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Robbin's Brothers is a jewelry store in Arlington, TX at 127 East Interstate 20, Arlington, TX 76018. Phone: +18174662860. Website: https://www.robbinsbrothers.com/. | https://dingalinged-cpu.github.io/registry/c/robbins-brothers-arlington/
+2. Arlington Jewelry Exchange | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Arlington Jewelry Exchange is a jewelry store in Arlington, TX at 4621 South Cooper Street, Arlington, TX 76017. | https://dingalinged-cpu.github.io/registry/c/arlington-jewelry-exchange-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store arlington tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

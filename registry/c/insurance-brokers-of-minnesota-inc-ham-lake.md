@@ -13,7 +13,7 @@ Insurance Brokers of Minnesota Inc. is an insurance agent in Ham Lake, MN at 136
 - Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 9% of insurance agents in Minneapolis–St. Paul, #1 of 1 insurance agents in Ham Lake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

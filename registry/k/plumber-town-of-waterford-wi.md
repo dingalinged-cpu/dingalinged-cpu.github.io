@@ -1,12 +1,12 @@
-The top unpaid plumber listing for Town Of Waterford, WI is Floyd's Plumbing (a plumber in Town of Waterford, WI). 1 plumber businesses are listed for Town Of Waterford, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Town Of Waterford, WI is Floyd's Plumbing (a plumber in Town of Waterford, WI). 1 plumber businesses are listed for Town Of Waterford, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Town Of Waterford, WI?
 
 Also answers: plumber in Town Of Waterford, WI; plumber near me (Town Of Waterford, WI); best plumber Town Of Waterford, WI; top rated plumber Town Of Waterford, WI; affordable plumber Town Of Waterford, WI; emergency plumber Town Of Waterford, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floyd's Plumbing | trust 0.0 | Floyd's Plumbing is a plumber in Town of Waterford, WI. | https://dingalinged-cpu.github.io/registry/c/floyds-plumbing-town-of-waterford/
+1. Floyd's Plumbing | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Floyd's Plumbing is a plumber in Town of Waterford, WI. | https://dingalinged-cpu.github.io/registry/c/floyds-plumbing-town-of-waterford/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber town of waterford wi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

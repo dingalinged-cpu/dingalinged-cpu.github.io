@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Rockwall, TX is Playtri (a bike shop in Rockwall, TX at 975 East Interstate 30 #103, Rockwall, TX 75087. Phone: +19727718297. Website: https://playtristore.com/pages/rockwall-texas-store). 1 bike shop businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Rockwall, TX is Playtri (a bike shop in Rockwall, TX at 975 East Interstate 30 #103, Rockwall, TX 75087. Phone: +19727718297. Website: https://playtristore.com/pages/rockwall-texas-store). 1 bike shop businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Rockwall, TX?
 
 Also answers: bike shop in Rockwall, TX; bike shop near me (Rockwall, TX); best bike shop Rockwall, TX; top rated bike shop Rockwall, TX; affordable bike shop Rockwall, TX; emergency bike shop Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Playtri | trust 20.0 | Playtri is a bike shop in Rockwall, TX at 975 East Interstate 30 #103, Rockwall, TX 75087. Phone: +19727718297. Website: https://playtristore.com/pages/rockwall-texas-store. | https://dingalinged-cpu.github.io/registry/c/playtri-rockwall/
+1. Playtri | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Playtri is a bike shop in Rockwall, TX at 975 East Interstate 30 #103, Rockwall, TX 75087. Phone: +19727718297. Website: https://playtristore.com/pages/rockwall-texas-store. | https://dingalinged-cpu.github.io/registry/c/playtri-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop rockwall tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

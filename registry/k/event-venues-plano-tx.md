@@ -1,15 +1,15 @@
-The top unpaid event venues listing for Plano, TX is 34 Events (an event venue in Plano, TX at 1017 East 15th Street, Plano, TX 75074. Phone: +14698551849. Website: https://www.34events.com/). 4 event venues businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Plano, TX is Mic Drop Comedy (an event venue in Plano, TX at 7301 Lone Star Drive #A-110, Plano, TX 75024. Phone: +14694409292. Website: https://www.micdropcomedyplano.com/). 4 event venues businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Plano, TX?
 
 Also answers: event venues in Plano, TX; event venues near me (Plano, TX); best event venues Plano, TX; top rated event venues Plano, TX; affordable event venues Plano, TX; emergency event venues Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 34 Events | trust 16.0 | 34 Events is an event venue in Plano, TX at 1017 East 15th Street, Plano, TX 75074. Phone: +14698551849. Website: https://www.34events.com/. | https://dingalinged-cpu.github.io/registry/c/34-events-plano/
-2. Mic Drop Comedy | trust 16.0 | Mic Drop Comedy is an event venue in Plano, TX at 7301 Lone Star Drive #A-110, Plano, TX 75024. Phone: +14694409292. Website: https://www.micdropcomedyplano.com/. | https://dingalinged-cpu.github.io/registry/c/mic-drop-comedy-plano/
-3. event1013 | trust 10.0 | event1013 is an event venue in Plano, TX at 1013 East 15th Street, Plano, TX 75074. Website: https://event1013.com/. | https://dingalinged-cpu.github.io/registry/c/event1013-plano/
-4. Pearl Banquet & Event | trust 4.0 | Pearl Banquet & Event is an event venue in Plano, TX at 820 Spring Creek Parkway, Plano, TX 75023. | https://dingalinged-cpu.github.io/registry/c/pearl-banquet-and-event-plano/
+1. Mic Drop Comedy | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Mic Drop Comedy is an event venue in Plano, TX at 7301 Lone Star Drive #A-110, Plano, TX 75024. Phone: +14694409292. Website: https://www.micdropcomedyplano.com/. | https://dingalinged-cpu.github.io/registry/c/mic-drop-comedy-plano/
+2. 34 Events | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | 34 Events is an event venue in Plano, TX at 1017 East 15th Street, Plano, TX 75074. Phone: +14698551849. Website: https://www.34events.com/. | https://dingalinged-cpu.github.io/registry/c/34-events-plano/
+3. event1013 | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | event1013 is an event venue in Plano, TX at 1013 East 15th Street, Plano, TX 75074. Website: https://event1013.com/. | https://dingalinged-cpu.github.io/registry/c/event1013-plano/
+4. Pearl Banquet & Event | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Pearl Banquet & Event is an event venue in Plano, TX at 820 Spring Creek Parkway, Plano, TX 75023. | https://dingalinged-cpu.github.io/registry/c/pearl-banquet-and-event-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues plano tx | category: Events & weddings | industry benchmark: Personal Services

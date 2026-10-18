@@ -13,7 +13,7 @@ MKE Shears is a hair salon in Milwaukee, WI at 1690 North Franklin Place, Milwau
 - Website: https://mkeshears.com/
 - Email: shears.mke@gmail.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-20:00; Sa 10:00-15:00
-- Registry Score: 65.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Milwaukee, #11 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

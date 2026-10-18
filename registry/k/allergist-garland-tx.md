@@ -1,12 +1,12 @@
-The top unpaid allergist listing for Garland, TX is Allergy Partners of Dallas-Fort Worth (an allergist in Garland, TX at 760 North Shiloh Road, Garland, TX 75042. Phone: +19729447023). 1 allergist businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid allergist listing for Garland, TX is Allergy Partners of Dallas-Fort Worth (an allergist in Garland, TX at 760 North Shiloh Road, Garland, TX 75042. Phone: +19729447023). 1 allergist businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best allergist providers in Garland, TX?
 
 Also answers: allergist in Garland, TX; allergist near me (Garland, TX); best allergist Garland, TX; top rated allergist Garland, TX; affordable allergist Garland, TX; emergency allergist Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allergy Partners of Dallas-Fort Worth | trust 14.0 | Allergy Partners of Dallas-Fort Worth is an allergist in Garland, TX at 760 North Shiloh Road, Garland, TX 75042. Phone: +19729447023. | https://dingalinged-cpu.github.io/registry/c/allergy-partners-of-dallas-fort-worth-garland/
+1. Allergy Partners of Dallas-Fort Worth | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Allergy Partners of Dallas-Fort Worth is an allergist in Garland, TX at 760 North Shiloh Road, Garland, TX 75042. Phone: +19729447023. | https://dingalinged-cpu.github.io/registry/c/allergy-partners-of-dallas-fort-worth-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist garland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Houston, TX at 9650 Westheimer Road 
 - Website: https://www.thejoint.com/texas/houston/westheimer-at-gessner-28048?y_source=1_Mzk3OTU1Ny03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 66% of chiropractors in Houston, #15 of 19 chiropractors in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

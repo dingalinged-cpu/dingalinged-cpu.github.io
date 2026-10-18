@@ -1,12 +1,12 @@
-The top unpaid dentist listing for South Barrington, IL is Poldek Family Dental of South Barrington (a dentist in South Barrington, IL at 100 West Higgins Road #L75, South Barrington, IL 60010). 1 dentist businesses are listed for South Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for South Barrington, IL is Poldek Family Dental of South Barrington (a dentist in South Barrington, IL at 100 West Higgins Road #L75, South Barrington, IL 60010). 1 dentist businesses are listed for South Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in South Barrington, IL?
 
 Also answers: dentist in South Barrington, IL; dentist near me (South Barrington, IL); best dentist South Barrington, IL; top rated dentist South Barrington, IL; affordable dentist South Barrington, IL; emergency dentist South Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Poldek Family Dental of South Barrington | trust 4.0 | Poldek Family Dental of South Barrington is a dentist in South Barrington, IL at 100 West Higgins Road #L75, South Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/poldek-family-dental-of-south-barrington-south-barrington/
+1. Poldek Family Dental of South Barrington | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Poldek Family Dental of South Barrington is a dentist in South Barrington, IL at 100 West Higgins Road #L75, South Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/poldek-family-dental-of-south-barrington-south-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist south barrington il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

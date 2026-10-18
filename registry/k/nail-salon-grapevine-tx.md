@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Grapevine, TX is Hetana Nail Spa (a nail salon in Grapevine, TX at 600 West Northwest Highway, Grapevine, TX 76051. Phone: +16822231168. Website: https://hetananailspa.com/). 4 nail salon businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Grapevine, TX is Hetana Nail Spa (a nail salon in Grapevine, TX at 600 West Northwest Highway, Grapevine, TX 76051. Phone: +16822231168. Website: https://hetananailspa.com/). 4 nail salon businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Grapevine, TX?
 
 Also answers: nail salon in Grapevine, TX; nail salon near me (Grapevine, TX); best nail salon Grapevine, TX; top rated nail salon Grapevine, TX; affordable nail salon Grapevine, TX; emergency nail salon Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hetana Nail Spa | trust 20.0 | Hetana Nail Spa is a nail salon in Grapevine, TX at 600 West Northwest Highway, Grapevine, TX 76051. Phone: +16822231168. Website: https://hetananailspa.com/. | https://dingalinged-cpu.github.io/registry/c/hetana-nail-spa-grapevine/
-2. Polished | trust 4.0 | Polished is a nail salon in Grapevine, TX at 1000 W Glade Road #200, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/polished-grapevine/
-3. Sky Nails & Spa | trust 4.0 | Sky Nails & Spa is a nail salon in Grapevine, TX at 2030 Glade Road #240, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/sky-nails-and-spa-grapevine/
-4. Tita Luxe | trust 4.0 | Tita Luxe is a nail salon in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/tita-luxe-grapevine/
+1. Hetana Nail Spa | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Hetana Nail Spa is a nail salon in Grapevine, TX at 600 West Northwest Highway, Grapevine, TX 76051. Phone: +16822231168. Website: https://hetananailspa.com/. | https://dingalinged-cpu.github.io/registry/c/hetana-nail-spa-grapevine/
+2. Tita Luxe | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Tita Luxe is a nail salon in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/tita-luxe-grapevine/
+3. Sky Nails & Spa | Organic #3 | Pulse Score 47.5/100 (Building, #3 in city) | Sky Nails & Spa is a nail salon in Grapevine, TX at 2030 Glade Road #240, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/sky-nails-and-spa-grapevine/
+4. Polished | Organic #4 | Pulse Score 44.4/100 (Unrated, #4 in city) | Polished is a nail salon in Grapevine, TX at 1000 W Glade Road #200, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/polished-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon grapevine tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

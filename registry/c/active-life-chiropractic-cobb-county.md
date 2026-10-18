@@ -13,7 +13,7 @@ Active Life Chiropractic is a chiropractor in Cobb County, GA at 4390 Bells Ferr
 - Website: https://activelifechiropractor.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:30-13:00,15:00-18:30; Tu 12:00-13:00; Th,Su off; Fr 10:00-13:00,15:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Good — top 17% of chiropractors in Atlanta, #2 of 16 chiropractors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

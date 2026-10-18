@@ -1,12 +1,12 @@
-The top unpaid massage listing for Wheeling, IL is Massage Therapy (a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090). 1 massage businesses are listed for Wheeling, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Wheeling, IL is Massage Therapy (a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090). 1 massage businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Wheeling, IL?
 
 Also answers: massage in Wheeling, IL; massage near me (Wheeling, IL); best massage Wheeling, IL; top rated massage Wheeling, IL; affordable massage Wheeling, IL; emergency massage Wheeling, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Therapy | trust 4.0 | Massage Therapy is a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/massage-therapy-wheeling/
+1. Massage Therapy | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Massage Therapy is a massage studio in Wheeling, IL at 765C West Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/massage-therapy-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage wheeling il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

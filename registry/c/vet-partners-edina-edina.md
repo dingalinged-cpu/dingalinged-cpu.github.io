@@ -13,7 +13,7 @@ Vet Partners Edina is a veterinarian in Edina, MN at 7101 France Avenue South #S
 - Website: https://myvetpartners.com/edina-2/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.2/100 — Unrated (not enough evidence yet) — top 37% of veterinarians in Minneapolis–St. Paul, #1 of 2 veterinarians in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

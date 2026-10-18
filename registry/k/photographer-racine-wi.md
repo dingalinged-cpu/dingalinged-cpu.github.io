@@ -1,13 +1,13 @@
-The top unpaid photographer listing for Racine, WI is Photographic Design Gallery & Framing (a photographer in Racine, WI at 411 6th Street, Racine, WI). 2 photographer businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Racine, WI is Photographic Design Gallery & Framing (a photographer in Racine, WI at 411 6th Street, Racine, WI). 2 photographer businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Racine, WI?
 
 Also answers: photographer in Racine, WI; photographer near me (Racine, WI); best photographer Racine, WI; top rated photographer Racine, WI; affordable photographer Racine, WI; emergency photographer Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Photographic Design Gallery & Framing | trust 3.0 | Photographic Design Gallery & Framing is a photographer in Racine, WI at 411 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/photographic-design-gallery-and-framing-racine/
-2. Studio 237 Photography | trust 3.0 | Studio 237 Photography is a photographer in Racine, WI at 237 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/studio-237-photography-racine/
+1. Photographic Design Gallery & Framing | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Photographic Design Gallery & Framing is a photographer in Racine, WI at 411 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/photographic-design-gallery-and-framing-racine/
+2. Studio 237 Photography | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Studio 237 Photography is a photographer in Racine, WI at 237 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/studio-237-photography-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer racine wi | category: Events & weddings | industry benchmark: Personal Services

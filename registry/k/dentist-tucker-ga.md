@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Tucker, GA is Spinal Solutions Inc. - DBA O & P Solutions (a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/). 1 dentist businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Tucker, GA is Spinal Solutions Inc. - DBA O & P Solutions (a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/). 1 dentist businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Tucker, GA?
 
 Also answers: dentist in Tucker, GA; dentist near me (Tucker, GA); best dentist Tucker, GA; top rated dentist Tucker, GA; affordable dentist Tucker, GA; emergency dentist Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spinal Solutions Inc. - DBA O & P Solutions | trust 20.0 | Spinal Solutions Inc. - DBA O & P Solutions is a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/. | https://dingalinged-cpu.github.io/registry/c/spinal-solutions-inc-dba-o-and-p-solutions-stone-mountain/
+1. Spinal Solutions Inc. - DBA O & P Solutions | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Spinal Solutions Inc. - DBA O & P Solutions is a dentist in Stone Mountain, GA at 1625 Rock Mountain Blvd, #H-J, Stone Mountain, GA 30083. Phone: +18009225155. Website: https://spinal.solutions/. | https://dingalinged-cpu.github.io/registry/c/spinal-solutions-inc-dba-o-and-p-solutions-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist tucker ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

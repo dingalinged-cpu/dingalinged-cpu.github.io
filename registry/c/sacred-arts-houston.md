@@ -13,7 +13,7 @@ Sacred Arts is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road,
 - Website: https://www.sacredartshtx.com/
 - Email: sacredartshtx@gmail.com
 - Opening hours (OSM syntax): Mo-Su 14:00-24:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 9% of tattoo shops in Houston, #2 of 22 tattoo shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 64. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

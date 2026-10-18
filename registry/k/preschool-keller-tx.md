@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Keller, TX is Children's Learning Adventure (a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/). 3 preschool businesses are listed for Keller, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Keller, TX is Southlake Early Care and Education (a preschool in Keller, TX). 3 preschool businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Keller, TX?
 
 Also answers: preschool in Keller, TX; preschool near me (Keller, TX); best preschool Keller, TX; top rated preschool Keller, TX; affordable preschool Keller, TX; emergency preschool Keller, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Children's Learning Adventure | trust 16.0 | Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/. | https://dingalinged-cpu.github.io/registry/c/childrens-learning-adventure-keller/
-2. Primrose School | trust 8.0 | Primrose School is a preschool in Keller, TX at Bear Creek Parkway, Keller, TX 76248. | https://dingalinged-cpu.github.io/registry/c/primrose-school-keller/
-3. Southlake Early Care and Education | trust 0.0 | Southlake Early Care and Education is a preschool in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/southlake-early-care-and-education-keller/
+1. Southlake Early Care and Education | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Southlake Early Care and Education is a preschool in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/southlake-early-care-and-education-keller/
+2. Children's Learning Adventure | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Drive, Keller, TX 76248. Phone: +16825931178. Website: https://www.childrenslearningadventure.com/. | https://dingalinged-cpu.github.io/registry/c/childrens-learning-adventure-keller/
+3. Primrose School | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Primrose School is a preschool in Keller, TX at Bear Creek Parkway, Keller, TX 76248. | https://dingalinged-cpu.github.io/registry/c/primrose-school-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool keller tx | category: Education & childcare | industry benchmark: Education & Instruction

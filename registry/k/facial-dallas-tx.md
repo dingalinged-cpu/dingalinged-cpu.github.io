@@ -1,16 +1,16 @@
-The top unpaid facial listing for Dallas, TX is L Streets Salon (a skin care studio in Dallas, TX at 10233 East Northwest Highway #424, Dallas, TX 75238. Phone: +12148012424. Website: https://www.lstreetssalon.com/). 5 facial businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Dallas, TX is L Streets Salon (a skin care studio in Dallas, TX at 10233 East Northwest Highway #424, Dallas, TX 75238. Phone: +12148012424. Website: https://www.lstreetssalon.com/). 5 facial businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Dallas, TX?
 
 Also answers: facial in Dallas, TX; facial near me (Dallas, TX); best facial Dallas, TX; top rated facial Dallas, TX; affordable facial Dallas, TX; emergency facial Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L Streets Salon | trust 20.0 | L Streets Salon is a skin care studio in Dallas, TX at 10233 East Northwest Highway #424, Dallas, TX 75238. Phone: +12148012424. Website: https://www.lstreetssalon.com/. | https://dingalinged-cpu.github.io/registry/c/l-streets-salon-dallas/
-2. Ulta Beauty | trust 20.0 | Ulta Beauty is a skin care studio in Dallas, TX at 13710 Dallas Parkway #D, Dallas, TX 75240. Phone: +14699068745. Website: https://www.ulta.com/stores/dallas-tx-1611. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-dallas/
-3. Edith Sapir Cosmetic Center | trust 3.0 | Edith Sapir Cosmetic Center is a skin care studio in Dallas, TX at 18816 #100, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/edith-sapir-cosmetic-center-dallas/
-4. Skin Laundry | trust 0.0 | Skin Laundry is a skin care studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/skin-laundry-dallas/
-5. Sola Salons | trust 0.0 | Sola Salons is a nail salon in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sola-salons-dallas/
+1. L Streets Salon | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | L Streets Salon is a skin care studio in Dallas, TX at 10233 East Northwest Highway #424, Dallas, TX 75238. Phone: +12148012424. Website: https://www.lstreetssalon.com/. | https://dingalinged-cpu.github.io/registry/c/l-streets-salon-dallas/
+2. Edith Sapir Cosmetic Center | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Edith Sapir Cosmetic Center is a skin care studio in Dallas, TX at 18816 #100, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/edith-sapir-cosmetic-center-dallas/
+3. Ulta Beauty | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Ulta Beauty is a skin care studio in Dallas, TX at 13710 Dallas Parkway #D, Dallas, TX 75240. Phone: +14699068745. Website: https://www.ulta.com/stores/dallas-tx-1611. | https://dingalinged-cpu.github.io/registry/c/ulta-beauty-dallas/
+4. Sola Salons | Organic #4 | Pulse Score 42.6/100 (Building, #50 in city) | Sola Salons is a nail salon in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sola-salons-dallas/
+5. Skin Laundry | Organic #5 | Pulse Score 41.2/100 (Unrated, #4 in city) | Skin Laundry is a skin care studio in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/skin-laundry-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial dallas tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

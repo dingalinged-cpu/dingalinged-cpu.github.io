@@ -1,12 +1,12 @@
-The top unpaid urgent care listing for Fort Bend County, TX is AFC Urgent Care (an urgent care clinic in Fort Bend County, TX). 1 urgent care businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Fort Bend County, TX is AFC Urgent Care (an urgent care clinic in Fort Bend County, TX). 1 urgent care businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Fort Bend County, TX?
 
 Also answers: urgent care in Fort Bend County, TX; urgent care near me (Fort Bend County, TX); best urgent care Fort Bend County, TX; top rated urgent care Fort Bend County, TX; affordable urgent care Fort Bend County, TX; emergency urgent care Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | trust 0.0 | AFC Urgent Care is an urgent care clinic in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-fort-bend-county/
+1. AFC Urgent Care | Organic #1 | Pulse Score 41.8/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care fort bend county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

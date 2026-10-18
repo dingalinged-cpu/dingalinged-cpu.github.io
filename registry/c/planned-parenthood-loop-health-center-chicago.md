@@ -13,7 +13,7 @@ Planned Parenthood - Loop Health Center is a therapy practice in Chicago, IL at 
 - Website: https://plannedparenthood.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Unrated (not enough evidence yet) — top 83% of therapy practices in Chicago, #29 of 33 therapy practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 46.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

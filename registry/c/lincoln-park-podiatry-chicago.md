@@ -13,7 +13,7 @@ Lincoln Park Podiatry is a podiatrist in Chicago, IL at 1617 North Clybourn Aven
 - Website: https://www.lincolnparkpodiatry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 54% of podiatrists in Chicago, #3 of 7 podiatrists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.8, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

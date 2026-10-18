@@ -13,7 +13,7 @@ PetSmart is a pet store in Houston, TX at 1907 Taylor Street, Houston, TX 77007.
 - Website: https://www.petsmart.com/stores/us/tx/houston-store1780.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 19% of pet stores in Houston, #10 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

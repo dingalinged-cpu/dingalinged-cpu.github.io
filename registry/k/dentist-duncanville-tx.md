@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Duncanville, TX is Artico Dental + Kids (a dentist in Duncanville, TX at 330 South Cedar Ridge Drive, Duncanville, TX 75116. Website: https://articodental.com/duncanville/). 5 dentist businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Duncanville, TX is Artico Dental + Kids (a dentist in Duncanville, TX at 330 South Cedar Ridge Drive, Duncanville, TX 75116. Website: https://articodental.com/duncanville/). 5 dentist businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Duncanville, TX?
 
 Also answers: dentist in Duncanville, TX; dentist near me (Duncanville, TX); best dentist Duncanville, TX; top rated dentist Duncanville, TX; affordable dentist Duncanville, TX; emergency dentist Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Artico Dental + Kids | trust 14.0 | Artico Dental + Kids is a dentist in Duncanville, TX at 330 South Cedar Ridge Drive, Duncanville, TX 75116. Website: https://articodental.com/duncanville/. | https://dingalinged-cpu.github.io/registry/c/artico-dental-kids-duncanville/
-2. Endodontic Associates of Dallas | trust 6.0 | Endodontic Associates of Dallas is a dentist in Duncanville, TX. Website: https://eaofdallas.com/. | https://dingalinged-cpu.github.io/registry/c/endodontic-associates-of-dallas-duncanville/
-3. Duncanville Dental Center | trust 4.0 | Duncanville Dental Center is a dentist in Duncanville, TX at 715 West Wheatland Road, Duncanville, TX 75116. | https://dingalinged-cpu.github.io/registry/c/duncanville-dental-center-duncanville/
-4. Henderson Orthodontics | trust 4.0 | Henderson Orthodontics is a dentist in Duncanville, TX at 415 East Highway 67, Duncanville, TX 75137. | https://dingalinged-cpu.github.io/registry/c/henderson-orthodontics-duncanville/
-5. Just For Kids Dental | trust 0.0 | Just For Kids Dental is a dentist in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/just-for-kids-dental-duncanville/
+1. Artico Dental + Kids | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Artico Dental + Kids is a dentist in Duncanville, TX at 330 South Cedar Ridge Drive, Duncanville, TX 75116. Website: https://articodental.com/duncanville/. | https://dingalinged-cpu.github.io/registry/c/artico-dental-kids-duncanville/
+2. Duncanville Dental Center | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Duncanville Dental Center is a dentist in Duncanville, TX at 715 West Wheatland Road, Duncanville, TX 75116. | https://dingalinged-cpu.github.io/registry/c/duncanville-dental-center-duncanville/
+3. Endodontic Associates of Dallas | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Endodontic Associates of Dallas is a dentist in Duncanville, TX. Website: https://eaofdallas.com/. | https://dingalinged-cpu.github.io/registry/c/endodontic-associates-of-dallas-duncanville/
+4. Henderson Orthodontics | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Henderson Orthodontics is a dentist in Duncanville, TX at 415 East Highway 67, Duncanville, TX 75137. | https://dingalinged-cpu.github.io/registry/c/henderson-orthodontics-duncanville/
+5. Just For Kids Dental | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Just For Kids Dental is a dentist in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/just-for-kids-dental-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist duncanville tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Euless, TX is H-E-B/Grapevine Martial Arts (a martial arts school in Euless, TX at 2501 North Main Street #130, Euless, TX 76039). 3 martial arts businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Euless, TX is H-E-B/Grapevine Martial Arts (a martial arts school in Euless, TX at 2501 North Main Street #130, Euless, TX 76039). 3 martial arts businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Euless, TX?
 
 Also answers: martial arts in Euless, TX; martial arts near me (Euless, TX); best martial arts Euless, TX; top rated martial arts Euless, TX; affordable martial arts Euless, TX; emergency martial arts Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H-E-B/Grapevine Martial Arts | trust 4.0 | H-E-B/Grapevine Martial Arts is a martial arts school in Euless, TX at 2501 North Main Street #130, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-grapevine-martial-arts-euless/
-2. Sloth Jiu-Jitsu | trust 4.0 | Sloth Jiu-Jitsu is a martial arts school in Euless, TX at 218 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/sloth-jiu-jitsu-euless/
-3. Top Leaders Martial Arts | trust 4.0 | Top Leaders Martial Arts is a martial arts school in Euless, TX at 1311 Chisholm Trail #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/top-leaders-martial-arts-euless/
+1. H-E-B/Grapevine Martial Arts | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | H-E-B/Grapevine Martial Arts is a martial arts school in Euless, TX at 2501 North Main Street #130, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-grapevine-martial-arts-euless/
+2. Sloth Jiu-Jitsu | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Sloth Jiu-Jitsu is a martial arts school in Euless, TX at 218 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/sloth-jiu-jitsu-euless/
+3. Top Leaders Martial Arts | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Top Leaders Martial Arts is a martial arts school in Euless, TX at 1311 Chisholm Trail #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/top-leaders-martial-arts-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts euless tx | category: Fitness | industry benchmark: Health & Fitness

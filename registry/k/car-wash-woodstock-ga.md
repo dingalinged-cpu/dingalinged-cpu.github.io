@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Woodstock, GA is Castillo Hand Car Wash (a car wash in Woodstock, GA at 5195 Towne Lake Parkway, Woodstock, GA 30189. Phone: +16784125203). 3 car wash businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Woodstock, GA is Double Brush Car Wash (a car wash in Woodstock, GA at 8964 Main Street, Woodstock, GA). 3 car wash businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Woodstock, GA?
 
 Also answers: car wash in Woodstock, GA; car wash near me (Woodstock, GA); best car wash Woodstock, GA; top rated car wash Woodstock, GA; affordable car wash Woodstock, GA; emergency car wash Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Castillo Hand Car Wash | trust 10.0 | Castillo Hand Car Wash is a car wash in Woodstock, GA at 5195 Towne Lake Parkway, Woodstock, GA 30189. Phone: +16784125203. | https://dingalinged-cpu.github.io/registry/c/castillo-hand-car-wash-woodstock/
-2. Double Brush Car Wash | trust 3.0 | Double Brush Car Wash is a car wash in Woodstock, GA at 8964 Main Street, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/double-brush-car-wash-woodstock/
-3. Polished Peach Car Wash | trust 3.0 | Polished Peach Car Wash is a car wash in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/polished-peach-car-wash-woodstock/
+1. Double Brush Car Wash | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Double Brush Car Wash is a car wash in Woodstock, GA at 8964 Main Street, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/double-brush-car-wash-woodstock/
+2. Polished Peach Car Wash | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | Polished Peach Car Wash is a car wash in Woodstock, GA at 1490 Towne Lake Parkway, Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/polished-peach-car-wash-woodstock/
+3. Castillo Hand Car Wash | Organic #3 | Pulse Score 60.4/100 (Unrated, #3 in city) | Castillo Hand Car Wash is a car wash in Woodstock, GA at 5195 Towne Lake Parkway, Woodstock, GA 30189. Phone: +16784125203. | https://dingalinged-cpu.github.io/registry/c/castillo-hand-car-wash-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash woodstock ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

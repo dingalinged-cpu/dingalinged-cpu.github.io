@@ -1,26 +1,26 @@
-The top unpaid haircut listing for Racine, WI is The Main Credentials (a hair salon in Racine, WI at 245 Main Street, Racine, WI). 15 haircut businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Racine, WI is The Main Credentials (a hair salon in Racine, WI at 245 Main Street, Racine, WI). 15 haircut businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Racine, WI?
 
 Also answers: haircut in Racine, WI; haircut near me (Racine, WI); best haircut Racine, WI; top rated haircut Racine, WI; affordable haircut Racine, WI; emergency haircut Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Main Credentials | trust 7.0 | The Main Credentials is a hair salon in Racine, WI at 245 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-main-credentials-racine/
-2. NEW IMAGE BARBER SHOP | trust 4.0 | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
-3. Bob's on Washington | trust 3.0 | Bob's on Washington is a hair salon in Racine, WI at 3213 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-on-washington-racine/
-4. Catrine's Barber Shop | trust 3.0 | Catrine's Barber Shop is a hair salon in Racine, WI at 1653 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/catrines-barber-shop-racine/
-5. Cost Cutters | trust 3.0 | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/
-6. Cost Cutters | trust 3.0 | Cost Cutters is a hair salon in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-racine/
-7. Headlines Hair Design Studio | trust 3.0 | Headlines Hair Design Studio is a hair salon in Racine, WI at 1139 Blaine Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/headlines-hair-design-studio-racine/
-8. Headquarters Barber Shop | trust 3.0 | Headquarters Barber Shop is a hair salon in Racine, WI at 3122 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/headquarters-barber-shop-racine/
-9. Niecey's Hair Salon | trust 3.0 | Niecey's Hair Salon is a hair salon in Racine, WI at 304 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/nieceys-hair-salon-racine/
-10. Quick Time Hair Salon | trust 3.0 | Quick Time Hair Salon is a hair salon in Racine, WI at 1236 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/quick-time-hair-salon-racine/
-11. Shear Madness | trust 3.0 | Shear Madness is a hair salon in Racine, WI at 232 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/shear-madness-racine/
-12. Tangles Salon Studio | trust 3.0 | Tangles Salon Studio is a hair salon in Racine, WI at 304 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/tangles-salon-studio-racine/
-13. The Executive Barbershop | trust 3.0 | The Executive Barbershop is a hair salon in Racine, WI at 1116 Grove Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-executive-barbershop-racine/
-14. Upscale Hair Studio | trust 3.0 | Upscale Hair Studio is a hair salon in Racine, WI at 413 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/upscale-hair-studio-racine/
-15. View on 5 Salon | trust 0.0 | View on 5 Salon is a hair salon in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/view-on-5-salon-racine/
+1. The Main Credentials | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | The Main Credentials is a hair salon in Racine, WI at 245 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-main-credentials-racine/
+2. NEW IMAGE BARBER SHOP | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | NEW IMAGE BARBER SHOP is a hair salon in Racine, WI at 5201 Washington Avenue #F, Racine, WI 53406. | https://dingalinged-cpu.github.io/registry/c/new-image-barber-shop-racine/
+3. Bob's on Washington | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Bob's on Washington is a hair salon in Racine, WI at 3213 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-on-washington-racine/
+4. Catrine's Barber Shop | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Catrine's Barber Shop is a hair salon in Racine, WI at 1653 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/catrines-barber-shop-racine/
+5. Headlines Hair Design Studio | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Headlines Hair Design Studio is a hair salon in Racine, WI at 1139 Blaine Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/headlines-hair-design-studio-racine/
+6. Headquarters Barber Shop | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Headquarters Barber Shop is a hair salon in Racine, WI at 3122 Washington Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/headquarters-barber-shop-racine/
+7. Niecey's Hair Salon | Organic #7 | Pulse Score 55.1/100 (Unrated, #7 in city) | Niecey's Hair Salon is a hair salon in Racine, WI at 304 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/nieceys-hair-salon-racine/
+8. Quick Time Hair Salon | Organic #8 | Pulse Score 55.1/100 (Unrated, #8 in city) | Quick Time Hair Salon is a hair salon in Racine, WI at 1236 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/quick-time-hair-salon-racine/
+9. Shear Madness | Organic #9 | Pulse Score 55.1/100 (Unrated, #9 in city) | Shear Madness is a hair salon in Racine, WI at 232 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/shear-madness-racine/
+10. Tangles Salon Studio | Organic #10 | Pulse Score 55.1/100 (Unrated, #10 in city) | Tangles Salon Studio is a hair salon in Racine, WI at 304 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/tangles-salon-studio-racine/
+11. The Executive Barbershop | Organic #11 | Pulse Score 55.1/100 (Unrated, #11 in city) | The Executive Barbershop is a hair salon in Racine, WI at 1116 Grove Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/the-executive-barbershop-racine/
+12. Upscale Hair Studio | Organic #12 | Pulse Score 55.1/100 (Unrated, #12 in city) | Upscale Hair Studio is a hair salon in Racine, WI at 413 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/upscale-hair-studio-racine/
+13. View on 5 Salon | Organic #13 | Pulse Score 54.1/100 (Unrated, #13 in city) | View on 5 Salon is a hair salon in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/view-on-5-salon-racine/
+14. Cost Cutters | Organic #14 | Pulse Score 42.8/100 (Building, #3 in city) | Cost Cutters is a hair salon in Mount Pleasant, WI at 6104 Regency West Drive, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-mount-pleasant/
+15. Cost Cutters | Organic #15 | Pulse Score 42.8/100 (Building, #14 in city) | Cost Cutters is a hair salon in Racine, WI at 5131 Douglas Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut racine wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

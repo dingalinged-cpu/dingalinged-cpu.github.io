@@ -1,23 +1,23 @@
-The top unpaid hair salon listing for La Grange, IL is Floyd's 99 Barbershop (a hair salon in La Grange, IL at 71 South La Grange Road, La Grange, IL 60525. Website: https://www.floydsbarbershop.com/). 12 hair salon businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for La Grange, IL is Color Couture (a hair salon in La Grange, IL). 12 hair salon businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in La Grange, IL?
 
 Also answers: hair salon in La Grange, IL; hair salon near me (La Grange, IL); best hair salon La Grange, IL; top rated hair salon La Grange, IL; affordable hair salon La Grange, IL; emergency hair salon La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floyd's 99 Barbershop | trust 10.0 | Floyd's 99 Barbershop is a hair salon in La Grange, IL at 71 South La Grange Road, La Grange, IL 60525. Website: https://www.floydsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-la-grange/
-2. Color Couture | trust 0.0 | Color Couture is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/color-couture-la-grange/
-3. D'Amici Salon & Style | trust 0.0 | D'Amici Salon & Style is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/damici-salon-and-style-la-grange/
-4. Duo Hair | trust 0.0 | Duo Hair is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/duo-hair-la-grange/
-5. Great Clips | trust 0.0 | Great Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-la-grange/
-6. HLB Salon | trust 0.0 | HLB Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hlb-salon-la-grange/
-7. Mod salon | trust 0.0 | Mod salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/mod-salon-la-grange/
-8. Salon 180 | trust 0.0 | Salon 180 is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/salon-180-la-grange/
-9. Sean Patricks Hair Salon | trust 0.0 | Sean Patricks Hair Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sean-patricks-hair-salon-la-grange/
-10. Silvermoon Salon | trust 0.0 | Silvermoon Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/silvermoon-salon-la-grange/
-11. Sport Clips | trust 0.0 | Sport Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-la-grange/
-12. Taylor Trimmers | trust 0.0 | Taylor Trimmers is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/taylor-trimmers-la-grange/
+1. Color Couture | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Color Couture is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/color-couture-la-grange/
+2. D'Amici Salon & Style | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | D'Amici Salon & Style is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/damici-salon-and-style-la-grange/
+3. Duo Hair | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Duo Hair is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/duo-hair-la-grange/
+4. HLB Salon | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | HLB Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/hlb-salon-la-grange/
+5. Mod salon | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Mod salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/mod-salon-la-grange/
+6. Salon 180 | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Salon 180 is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/salon-180-la-grange/
+7. Sean Patricks Hair Salon | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Sean Patricks Hair Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sean-patricks-hair-salon-la-grange/
+8. Silvermoon Salon | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Silvermoon Salon is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/silvermoon-salon-la-grange/
+9. Taylor Trimmers | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Taylor Trimmers is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/taylor-trimmers-la-grange/
+10. Floyd's 99 Barbershop | Organic #10 | Pulse Score 47/100 (Building, #10 in city) | Floyd's 99 Barbershop is a hair salon in La Grange, IL at 71 South La Grange Road, La Grange, IL 60525. Website: https://www.floydsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/floyds-99-barbershop-la-grange/
+11. Sport Clips | Organic #11 | Pulse Score 43/100 (Building, #11 in city) | Sport Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-la-grange/
+12. Great Clips | Organic #12 | Pulse Score 42.5/100 (Building, #12 in city) | Great Clips is a hair salon in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon la grange il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

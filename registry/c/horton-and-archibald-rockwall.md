@@ -13,7 +13,7 @@ Horton & Archibald is a lawyer in Rockwall, TX at 965 Ralph Hall Parkway #103, R
 - Website: https://www.hortonarchibald.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 63% of lawyers in Dallas–Fort Worth, #8 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

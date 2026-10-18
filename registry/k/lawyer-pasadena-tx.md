@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Pasadena, TX is Ghuneim Law Firm (a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929). 1 lawyer businesses are listed for Pasadena, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Pasadena, TX is Ghuneim Law Firm (a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929). 1 lawyer businesses are listed for Pasadena, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Pasadena, TX?
 
 Also answers: lawyer in Pasadena, TX; lawyer near me (Pasadena, TX); best lawyer Pasadena, TX; top rated lawyer Pasadena, TX; affordable lawyer Pasadena, TX; emergency lawyer Pasadena, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ghuneim Law Firm | trust 9.0 | Ghuneim Law Firm is a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929. | https://dingalinged-cpu.github.io/registry/c/ghuneim-law-firm-pasadena/
+1. Ghuneim Law Firm | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Ghuneim Law Firm is a lawyer in Pasadena, TX at 3115 Preston Road, Pasadena, TX. Phone: +12814878929. | https://dingalinged-cpu.github.io/registry/c/ghuneim-law-firm-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer pasadena tx | category: Legal | industry benchmark: Attorneys & Legal Services

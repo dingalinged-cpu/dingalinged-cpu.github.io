@@ -1,18 +1,18 @@
-The top unpaid furniture store listing for Sugar Land, TX is Ashley HomeStore (a furniture store in Sugar Land, TX at 16762 Southwest Freeway, Sugar Land, TX 77479. Phone: +17132214040. Website: https://stores.ashleyfurniture.com/store/us/texas/sugar-land/7710000440/). 7 furniture store businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Sugar Land, TX is Modern Luxury (a furniture store in Sugar Land, TX). 7 furniture store businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Sugar Land, TX?
 
 Also answers: furniture store in Sugar Land, TX; furniture store near me (Sugar Land, TX); best furniture store Sugar Land, TX; top rated furniture store Sugar Land, TX; affordable furniture store Sugar Land, TX; emergency furniture store Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Sugar Land, TX at 16762 Southwest Freeway, Sugar Land, TX 77479. Phone: +17132214040. Website: https://stores.ashleyfurniture.com/store/us/texas/sugar-land/7710000440/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-sugar-land/
-2. LoveSac | trust 4.0 | LoveSac is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/lovesac-sugar-land/
-3. Bel Furniture | trust 0.0 | Bel Furniture is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/bel-furniture-sugar-land/
-4. La-Z-Boy | trust 0.0 | La-Z-Boy is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-sugar-land/
-5. Modern Luxury | trust 0.0 | Modern Luxury is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/modern-luxury-sugar-land/
-6. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-sugar-land/
-7. Star Furniture | trust 0.0 | Star Furniture is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/star-furniture-sugar-land/
+1. Modern Luxury | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Modern Luxury is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/modern-luxury-sugar-land/
+2. Ashley HomeStore | Organic #2 | Pulse Score 48.7/100 (Building, #2 in city) | Ashley HomeStore is a furniture store in Sugar Land, TX at 16762 Southwest Freeway, Sugar Land, TX 77479. Phone: +17132214040. Website: https://stores.ashleyfurniture.com/store/us/texas/sugar-land/7710000440/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-sugar-land/
+3. LoveSac | Organic #3 | Pulse Score 46.1/100 (Building, #3 in city) | LoveSac is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/lovesac-sugar-land/
+4. Bel Furniture | Organic #4 | Pulse Score 43.2/100 (Unrated, #4 in city) | Bel Furniture is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/bel-furniture-sugar-land/
+5. Star Furniture | Organic #5 | Pulse Score 43.2/100 (Unrated, #5 in city) | Star Furniture is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/star-furniture-sugar-land/
+6. La-Z-Boy | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | La-Z-Boy is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-sugar-land/
+7. Pottery Barn | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Pottery Barn is a furniture store in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store sugar land tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

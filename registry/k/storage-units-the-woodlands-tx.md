@@ -1,14 +1,14 @@
-The top unpaid storage units listing for The Woodlands, TX is SmartStop Self Storage (a self-storage facility in The Woodlands, TX at 3750 FM 1488, The Woodlands, TX 77384). 3 storage units businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for The Woodlands, TX is SmartStop Self Storage (a self-storage facility in The Woodlands, TX at 3750 FM 1488, The Woodlands, TX 77384). 3 storage units businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in The Woodlands, TX?
 
 Also answers: storage units in The Woodlands, TX; storage units near me (The Woodlands, TX); best storage units The Woodlands, TX; top rated storage units The Woodlands, TX; affordable storage units The Woodlands, TX; emergency storage units The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SmartStop Self Storage | trust 8.0 | SmartStop Self Storage is a self-storage facility in The Woodlands, TX at 3750 FM 1488, The Woodlands, TX 77384. | https://dingalinged-cpu.github.io/registry/c/smartstop-self-storage-the-woodlands/
-2. CubeSmart | trust 3.0 | CubeSmart is a self-storage facility in The Woodlands, TX at 32010 Conroe Hufsmith Road, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-the-woodlands/
-3. Life Storage | trust 0.0 | Life Storage is a self-storage facility in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/life-storage-the-woodlands/
+1. SmartStop Self Storage | Organic #1 | Pulse Score 47.1/100 (Unrated, #1 in city) | SmartStop Self Storage is a self-storage facility in The Woodlands, TX at 3750 FM 1488, The Woodlands, TX 77384. | https://dingalinged-cpu.github.io/registry/c/smartstop-self-storage-the-woodlands/
+2. CubeSmart | Organic #2 | Pulse Score 44.5/100 (Unrated, #2 in city) | CubeSmart is a self-storage facility in The Woodlands, TX at 32010 Conroe Hufsmith Road, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-the-woodlands/
+3. Life Storage | Organic #3 | Pulse Score 42.7/100 (Unrated, #3 in city) | Life Storage is a self-storage facility in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/life-storage-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units the woodlands tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

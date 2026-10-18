@@ -13,7 +13,7 @@ Fade Fast is a tattoo shop in Dallas, TX at 2928 Main Street #100, Dallas, TX 75
 - Website: https://fadefast.com/
 - Email: tattoo@fadefast.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 7% of tattoo shops in Dallas–Fort Worth, #2 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

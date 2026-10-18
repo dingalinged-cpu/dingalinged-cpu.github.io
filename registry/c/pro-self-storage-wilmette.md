@@ -13,7 +13,7 @@ Pro Self Storage is a self-storage facility in Wilmette, IL at 3626 Lake Avenue,
 - Website: https://proself-storage.com/self-storage/wilmette-il-60091
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 1% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

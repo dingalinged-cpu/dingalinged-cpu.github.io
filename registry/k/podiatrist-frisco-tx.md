@@ -1,14 +1,14 @@
-The top unpaid podiatrist listing for Frisco, TX is Premier Foot & Ankle (a podiatrist in Frisco, TX at 9359 Legacy Drive #300B, Frisco, TX). 3 podiatrist businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Frisco, TX is RNV Podiatry (a podiatrist in Frisco, TX at 7044 Lebanon Road #102, Frisco, TX). 3 podiatrist businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Frisco, TX?
 
 Also answers: podiatrist in Frisco, TX; podiatrist near me (Frisco, TX); best podiatrist Frisco, TX; top rated podiatrist Frisco, TX; affordable podiatrist Frisco, TX; emergency podiatrist Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premier Foot & Ankle | trust 3.0 | Premier Foot & Ankle is a podiatrist in Frisco, TX at 9359 Legacy Drive #300B, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/premier-foot-and-ankle-frisco/
-2. RNV Podiatry | trust 3.0 | RNV Podiatry is a podiatrist in Frisco, TX at 7044 Lebanon Road #102, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/rnv-podiatry-frisco/
-3. Anadel | trust 0.0 | Anadel is a podiatrist in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/anadel-frisco/
+1. RNV Podiatry | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | RNV Podiatry is a podiatrist in Frisco, TX at 7044 Lebanon Road #102, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/rnv-podiatry-frisco/
+2. Premier Foot & Ankle | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Premier Foot & Ankle is a podiatrist in Frisco, TX at 9359 Legacy Drive #300B, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/premier-foot-and-ankle-frisco/
+3. Anadel | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Anadel is a podiatrist in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/anadel-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

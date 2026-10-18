@@ -13,7 +13,7 @@ Scales Advertising is a marketing agency in Saint Paul, MN at 2303 Wycliff Stree
 - Website: https://www.scalesadvertising.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Unrated (not enough evidence yet) — top 56% of marketing agencys in Minneapolis–St. Paul, #4 of 6 marketing agencys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

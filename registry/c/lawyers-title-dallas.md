@@ -13,7 +13,7 @@ Lawyers Title is an insurance agent in Dallas, TX at 6333 East Mockingbird Lane 
 - Website: https://dfw.ltic.com/lakewood
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 14% of insurance agents in Dallas–Fort Worth, #10 of 47 insurance agents in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Keller, TX is Geode Health - Keller (a therapy practice in Keller, TX). 1 therapist businesses are listed for Keller, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Keller, TX is Geode Health - Keller (a therapy practice in Keller, TX). 1 therapist businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Keller, TX?
 
 Also answers: therapist in Keller, TX; therapist near me (Keller, TX); best therapist Keller, TX; top rated therapist Keller, TX; affordable therapist Keller, TX; emergency therapist Keller, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Geode Health - Keller | trust 0.0 | Geode Health - Keller is a therapy practice in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/geode-health-keller-keller/
+1. Geode Health - Keller | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Geode Health - Keller is a therapy practice in Keller, TX. | https://dingalinged-cpu.github.io/registry/c/geode-health-keller-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist keller tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

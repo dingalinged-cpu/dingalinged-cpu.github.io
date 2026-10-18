@@ -1,12 +1,12 @@
-The top unpaid daycare listing for West Saint Paul, MN is Peaceful Heights (a daycare in West Saint Paul, MN at 375 Marie Avenue East, West Saint Paul, MN 55118). 1 daycare businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for West Saint Paul, MN is Peaceful Heights (a daycare in West Saint Paul, MN at 375 Marie Avenue East, West Saint Paul, MN 55118). 1 daycare businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in West Saint Paul, MN?
 
 Also answers: daycare in West Saint Paul, MN; daycare near me (West Saint Paul, MN); best daycare West Saint Paul, MN; top rated daycare West Saint Paul, MN; affordable daycare West Saint Paul, MN; emergency daycare West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peaceful Heights | trust 4.0 | Peaceful Heights is a daycare in West Saint Paul, MN at 375 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/peaceful-heights-west-saint-paul/
+1. Peaceful Heights | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Peaceful Heights is a daycare in West Saint Paul, MN at 375 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/peaceful-heights-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare west saint paul mn | category: Education & childcare | industry benchmark: Education & Instruction

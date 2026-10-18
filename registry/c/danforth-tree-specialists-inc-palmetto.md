@@ -13,7 +13,7 @@ Danforth Tree Specialists Inc. is a landscaping company in Palmetto, GA at 197 M
 - Website: https://www.danfrothtreespecialistsinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 13% of landscaping companys in Atlanta, #1 of 1 landscaping companys in Palmetto (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

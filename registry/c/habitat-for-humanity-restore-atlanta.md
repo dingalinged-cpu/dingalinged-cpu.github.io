@@ -13,7 +13,7 @@ Habitat for Humanity ReStore is a thrift store in Atlanta, GA at 271 Chester Ave
 - Website: https://atlantahabitat.org/restore/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 49% of thrift stores in Atlanta, #6 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid brake repair listing for Richardson, TX is N. B. Exxon (an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/). 2 brake repair businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Richardson, TX is N. B. Exxon (an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/). 2 brake repair businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Richardson, TX?
 
 Also answers: brake repair in Richardson, TX; brake repair near me (Richardson, TX); best brake repair Richardson, TX; top rated brake repair Richardson, TX; affordable brake repair Richardson, TX; emergency brake repair Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. N. B. Exxon | trust 20.0 | N. B. Exxon is an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/. | https://dingalinged-cpu.github.io/registry/c/n-b-exxon-richardson/
-2. Christensen Tire & Automotive | trust 14.0 | Christensen Tire & Automotive is an auto repair shop in Richardson, TX at 2161 East Arapaho Road, Richardson, TX 75081. Phone: +19724379677. | https://dingalinged-cpu.github.io/registry/c/christensen-tire-and-automotive-richardson-w598175997/
+1. N. B. Exxon | Organic #1 | Pulse Score 64.2/100 (Unrated, #1 in city) | N. B. Exxon is an auto repair shop in Richardson, TX at 1702 East Belt Line Road, Richardson, TX 75081. Phone: +19722341762. Website: https://nb-exxon.com/. | https://dingalinged-cpu.github.io/registry/c/n-b-exxon-richardson/
+2. Christensen Tire & Automotive | Organic #2 | Pulse Score 49.7/100 (Unrated, #12 in city) | Christensen Tire & Automotive is an auto repair shop in Richardson, TX at 2161 East Arapaho Road, Richardson, TX 75081. Phone: +19724379677. | https://dingalinged-cpu.github.io/registry/c/christensen-tire-and-automotive-richardson-w598175997/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair richardson tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

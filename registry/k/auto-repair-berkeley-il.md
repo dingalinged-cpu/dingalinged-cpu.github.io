@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Berkeley, IL is GTO Automotive (an auto repair shop in Berkeley, IL). 1 auto repair businesses are listed for Berkeley, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Berkeley, IL is GTO Automotive (an auto repair shop in Berkeley, IL). 1 auto repair businesses are listed for Berkeley, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Berkeley, IL?
 
 Also answers: auto repair in Berkeley, IL; auto repair near me (Berkeley, IL); best auto repair Berkeley, IL; top rated auto repair Berkeley, IL; affordable auto repair Berkeley, IL; emergency auto repair Berkeley, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GTO Automotive | trust 0.0 | GTO Automotive is an auto repair shop in Berkeley, IL. | https://dingalinged-cpu.github.io/registry/c/gto-automotive-berkeley/
+1. GTO Automotive | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | GTO Automotive is an auto repair shop in Berkeley, IL. | https://dingalinged-cpu.github.io/registry/c/gto-automotive-berkeley/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair berkeley il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

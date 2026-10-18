@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Cobb County, GA at 2955 Cobb Parkway South, Cobb 
 - Website: https://sportclips.com/us-ga-atlanta-ga143
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 84% of hair salons in Atlanta, #64 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

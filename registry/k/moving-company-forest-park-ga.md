@@ -1,12 +1,12 @@
-The top unpaid moving company listing for Forest Park, GA is Moore Machinery Movers (a moving company in Forest Park, GA). 1 moving company businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Forest Park, GA is Moore Machinery Movers (a moving company in Forest Park, GA). 1 moving company businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Forest Park, GA?
 
 Also answers: moving company in Forest Park, GA; moving company near me (Forest Park, GA); best moving company Forest Park, GA; top rated moving company Forest Park, GA; affordable moving company Forest Park, GA; emergency moving company Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Moore Machinery Movers | trust 0.0 | Moore Machinery Movers is a moving company in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/moore-machinery-movers-forest-park/
+1. Moore Machinery Movers | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Moore Machinery Movers is a moving company in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/moore-machinery-movers-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company forest park ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

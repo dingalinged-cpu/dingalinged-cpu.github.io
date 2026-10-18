@@ -13,7 +13,7 @@ Petco is a pet store in Keller, TX at 1006 Keller Parkway #103, Keller, TX 76248
 - Website: https://stores.petco.com/tx/keller/pet-supplies-keller-tx-5407.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 53% of pet stores in Dallas–Fort Worth, #1 of 1 pet stores in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.3, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

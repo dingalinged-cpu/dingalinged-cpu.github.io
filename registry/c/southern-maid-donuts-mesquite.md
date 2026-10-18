@@ -13,7 +13,7 @@ Southern Maid Donuts is a bakery in Mesquite, TX at 500 North Galloway Avenue #6
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Unrated (not enough evidence yet) — top 90% of bakerys in Dallas–Fort Worth, #3 of 3 bakerys in Mesquite (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

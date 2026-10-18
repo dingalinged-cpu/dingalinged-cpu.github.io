@@ -1,14 +1,14 @@
-The top unpaid painters listing for Roswell, GA is New Aspects Painting (a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/). 3 painters businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Roswell, GA is New Aspects Painting (a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/). 3 painters businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Roswell, GA?
 
 Also answers: painters in Roswell, GA; painters near me (Roswell, GA); best painters Roswell, GA; top rated painters Roswell, GA; affordable painters Roswell, GA; emergency painters Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Aspects Painting | trust 20.0 | New Aspects Painting is a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/. | https://dingalinged-cpu.github.io/registry/c/new-aspects-painting-roswell/
-2. Atlanta Painting Company | trust 19.0 | Atlanta Painting Company is a painting contractor in Roswell, GA at 210 West Crossville Road, Roswell, GA. Phone: +14044460611. Website: https://www.atlantapaintingcompany.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-painting-company-roswell/
-3. Dependable Painting & Remodeling | trust 12.0 | Dependable Painting & Remodeling is a painting contractor in Roswell, GA. Phone: +14706553997. Website: https://www.dependablepaint.net/. | https://dingalinged-cpu.github.io/registry/c/dependable-painting-and-remodeling-roswell/
+1. New Aspects Painting | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | New Aspects Painting is a painting contractor in Roswell, GA at 365 Sea Holly Circle, Roswell, GA 30076. Phone: +14705990799. Website: https://newaspectspainting.com/. | https://dingalinged-cpu.github.io/registry/c/new-aspects-painting-roswell/
+2. Atlanta Painting Company | Organic #2 | Pulse Score 61.7/100 (Good, #2 in city) | Atlanta Painting Company is a painting contractor in Roswell, GA at 210 West Crossville Road, Roswell, GA. Phone: +14044460611. Website: https://www.atlantapaintingcompany.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-painting-company-roswell/
+3. Dependable Painting & Remodeling | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | Dependable Painting & Remodeling is a painting contractor in Roswell, GA. Phone: +14706553997. Website: https://www.dependablepaint.net/. | https://dingalinged-cpu.github.io/registry/c/dependable-painting-and-remodeling-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters roswell ga | category: Home services - Painting | industry benchmark: Home & Home Improvement

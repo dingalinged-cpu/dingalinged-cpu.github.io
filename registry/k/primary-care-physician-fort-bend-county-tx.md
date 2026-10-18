@@ -1,13 +1,13 @@
-The top unpaid primary care physician listing for Fort Bend County, TX is Baylor St. Luke's Medical Group (a family medicine practice in Fort Bend County, TX at 10615, Fort Bend County, TX). 2 primary care physician businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Fort Bend County, TX is Lifetime Primary Care (a family medicine practice in Fort Bend County, TX). 2 primary care physician businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Fort Bend County, TX?
 
 Also answers: primary care physician in Fort Bend County, TX; primary care physician near me (Fort Bend County, TX); best primary care physician Fort Bend County, TX; top rated primary care physician Fort Bend County, TX; affordable primary care physician Fort Bend County, TX; emergency primary care physician Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baylor St. Luke's Medical Group | trust 3.0 | Baylor St. Luke's Medical Group is a family medicine practice in Fort Bend County, TX at 10615, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/baylor-st-lukes-medical-group-fort-bend-county/
-2. Lifetime Primary Care | trust 0.0 | Lifetime Primary Care is a family medicine practice in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/lifetime-primary-care-fort-bend-county/
+1. Lifetime Primary Care | Organic #1 | Pulse Score 58.6/100 (Fair, #1 in city) | Lifetime Primary Care is a family medicine practice in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/lifetime-primary-care-fort-bend-county/
+2. Baylor St. Luke's Medical Group | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Baylor St. Luke's Medical Group is a family medicine practice in Fort Bend County, TX at 10615, Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/baylor-st-lukes-medical-group-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician fort bend county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Thomas d. Bruss, DDS is a dentist in Minneapolis, MN at 4201 Minnehaha Avenue, M
 - Website: https://brussdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58/100 — Fair — top 50% of dentists in Minneapolis–St. Paul, #30 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 50.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

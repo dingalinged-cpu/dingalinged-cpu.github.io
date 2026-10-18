@@ -13,7 +13,7 @@ Diamond And Gold Exchange is a jewelry store in Lewisville, TX. Phone: +19724367
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa off; Su 13:00-17:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 4% of jewelry stores in Dallas–Fort Worth, #2 of 7 jewelry stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

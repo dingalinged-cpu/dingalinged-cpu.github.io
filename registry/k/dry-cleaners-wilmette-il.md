@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Wilmette, IL is Kenny The Kleener (a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wilmette, IL 60091. Website: https://kennythekleener.com/). 1 dry cleaners businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Wilmette, IL is Kenny The Kleener (a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wilmette, IL 60091. Website: https://kennythekleener.com/). 1 dry cleaners businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Wilmette, IL?
 
 Also answers: dry cleaners in Wilmette, IL; dry cleaners near me (Wilmette, IL); best dry cleaners Wilmette, IL; top rated dry cleaners Wilmette, IL; affordable dry cleaners Wilmette, IL; emergency dry cleaners Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kenny The Kleener | trust 10.0 | Kenny The Kleener is a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wilmette, IL 60091. Website: https://kennythekleener.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-wilmette/
+1. Kenny The Kleener | Organic #1 | Pulse Score 48.6/100 (Unrated, #1 in city) | Kenny The Kleener is a dry cleaner in Wilmette, IL at 3520 Lake Avenue #101, Wilmette, IL 60091. Website: https://kennythekleener.com/. | https://dingalinged-cpu.github.io/registry/c/kenny-the-kleener-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners wilmette il | category: Professional & financial services | industry benchmark: Finance & Insurance

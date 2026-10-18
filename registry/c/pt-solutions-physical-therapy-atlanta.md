@@ -13,7 +13,7 @@ PT Solutions Physical Therapy is a physical therapy clinic in Atlanta, GA at 549
 - Website: https://ptsolutions.com/find-a-clinic/ga/atlanta/atlanta-morningside/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 42% of physical therapy clinics in Atlanta, #8 of 10 physical therapy clinics in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.3, Trust 59. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

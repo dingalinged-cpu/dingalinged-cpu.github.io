@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Dunwoody, GA is The Modern Luxury Gathering Suite (an event venue in Atlanta, GA at 5076 Winters Chapel Road #300, Atlanta, GA 30360. Phone: +14708068106. Website: https://www.themodernatl.com/). 1 event venues businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Dunwoody, GA is The Modern Luxury Gathering Suite (an event venue in Atlanta, GA at 5076 Winters Chapel Road #300, Atlanta, GA 30360. Phone: +14708068106. Website: https://www.themodernatl.com/). 1 event venues businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Dunwoody, GA?
 
 Also answers: event venues in Dunwoody, GA; event venues near me (Dunwoody, GA); best event venues Dunwoody, GA; top rated event venues Dunwoody, GA; affordable event venues Dunwoody, GA; emergency event venues Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Modern Luxury Gathering Suite | trust 20.0 | The Modern Luxury Gathering Suite is an event venue in Atlanta, GA at 5076 Winters Chapel Road #300, Atlanta, GA 30360. Phone: +14708068106. Website: https://www.themodernatl.com/. | https://dingalinged-cpu.github.io/registry/c/the-modern-luxury-gathering-suite-atlanta/
+1. The Modern Luxury Gathering Suite | Organic #1 | Pulse Score 64.5/100 (Good, #3 in city) | The Modern Luxury Gathering Suite is an event venue in Atlanta, GA at 5076 Winters Chapel Road #300, Atlanta, GA 30360. Phone: +14708068106. Website: https://www.themodernatl.com/. | https://dingalinged-cpu.github.io/registry/c/the-modern-luxury-gathering-suite-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues dunwoody ga | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Willowbrook, IL at 7605 South 
 - Website: https://www.lifestorage.com/storage-units/illinois/chicago/60527/8236-in-willowbrook/
 - Email: selfstorage@lifestorage.com
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 12:00-16:00
-- Registry Score: 53.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 12% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in Willowbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.6, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

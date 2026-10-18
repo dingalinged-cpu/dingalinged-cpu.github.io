@@ -13,7 +13,7 @@ The Brown Elephant is a thrift store in Chicago, IL at 5404 North Clark Street, 
 - Website: https://howardbrown.org/get-involved/brown-elephant/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 11:00-19:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 2% of thrift stores in Chicago, #1 of 45 thrift stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 69. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

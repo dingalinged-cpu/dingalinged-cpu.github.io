@@ -13,7 +13,7 @@ Discover Strength is a gym in Minneapolis, MN at 5041 France Avenue South #Suite
 - Website: https://www.discoverstrength.com/edina
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:30-20:00; Sa,Su 07:30-14:30
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Unrated (not enough evidence yet) — top 64% of gyms in Minneapolis–St. Paul, #33 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.4, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

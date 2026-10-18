@@ -1,12 +1,12 @@
-The top unpaid moving company listing for Marietta, GA is Around The Town Moving & Storage (a self-storage facility in Marietta, GA at 1666 Roswell Road #100, Marietta, GA. Phone: +17703784708). 1 moving company businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Marietta, GA is Around The Town Moving & Storage (a self-storage facility in Marietta, GA at 1666 Roswell Road #100, Marietta, GA. Phone: +17703784708). 1 moving company businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Marietta, GA?
 
 Also answers: moving company in Marietta, GA; moving company near me (Marietta, GA); best moving company Marietta, GA; top rated moving company Marietta, GA; affordable moving company Marietta, GA; emergency moving company Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Around The Town Moving & Storage | trust 13.0 | Around The Town Moving & Storage is a self-storage facility in Marietta, GA at 1666 Roswell Road #100, Marietta, GA. Phone: +17703784708. | https://dingalinged-cpu.github.io/registry/c/around-the-town-moving-and-storage-marietta/
+1. Around The Town Moving & Storage | Organic #1 | Pulse Score 62.2/100 (Unrated, #3 in city) | Around The Town Moving & Storage is a self-storage facility in Marietta, GA at 1666 Roswell Road #100, Marietta, GA. Phone: +17703784708. | https://dingalinged-cpu.github.io/registry/c/around-the-town-moving-and-storage-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company marietta ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ San Martin is a bakery in Dallas, TX at 5407 Belt Line Road, Dallas, TX 75254. W
 - Website: https://www.workshopdallas.com/dining-beverage/san-martin-artisan-bakery-%26-restaurant
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 07:00-21:00; Fr-Sa 07:00-22:00
-- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of bakerys in Dallas–Fort Worth, #9 of 23 bakerys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

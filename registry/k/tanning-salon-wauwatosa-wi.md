@@ -1,14 +1,14 @@
-The top unpaid tanning salon listing for Wauwatosa, WI is SunSeekers (a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/). 3 tanning salon businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Wauwatosa, WI is SunSeekers (a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/). 3 tanning salon businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Wauwatosa, WI?
 
 Also answers: tanning salon in Wauwatosa, WI; tanning salon near me (Wauwatosa, WI); best tanning salon Wauwatosa, WI; top rated tanning salon Wauwatosa, WI; affordable tanning salon Wauwatosa, WI; emergency tanning salon Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SunSeekers | trust 20.0 | SunSeekers is a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/. | https://dingalinged-cpu.github.io/registry/c/sunseekers-wauwatosa/
-2. Paulina Esthetics Boutique | trust 19.0 | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://dingalinged-cpu.github.io/registry/c/paulina-esthetics-boutique-wauwatosa/
-3. Beach Bum Tan | trust 4.0 | Beach Bum Tan is a tanning salon in Wauwatosa, WI at 6528 West North Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/beach-bum-tan-wauwatosa/
+1. SunSeekers | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | SunSeekers is a tanning salon in Wauwatosa, WI at 8853 West North Avenue, Wauwatosa, WI 53226. Phone: +14142102375. Website: https://sunseekerstan.com/. | https://dingalinged-cpu.github.io/registry/c/sunseekers-wauwatosa/
+2. Paulina Esthetics Boutique | Organic #2 | Pulse Score 60.8/100 (Unrated, #1 in city) | Paulina Esthetics Boutique is a waxing salon in Wauwatosa, WI at 7601 Harwood Avenue, Wauwatosa, WI. Phone: +14147746996. Website: https://paulinaestheticsboutique.com/. | https://dingalinged-cpu.github.io/registry/c/paulina-esthetics-boutique-wauwatosa/
+3. Beach Bum Tan | Organic #3 | Pulse Score 57.2/100 (Unrated, #2 in city) | Beach Bum Tan is a tanning salon in Wauwatosa, WI at 6528 West North Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/beach-bum-tan-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon wauwatosa wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

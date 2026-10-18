@@ -13,7 +13,7 @@ Acosta's Home Consignment is a furniture store in Lake Zurich, IL at 540 Cortlan
 - Website: https://acostashome.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 16% of furniture stores in Chicago, #1 of 1 furniture stores in Lake Zurich (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

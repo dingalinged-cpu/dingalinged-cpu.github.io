@@ -13,7 +13,7 @@ Electric Ryder .co is a bike shop in Carrollton, TX at 1014 South Broadway Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa 11:00-17:00; Su-Mo off
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.4/100 — Unrated (not enough evidence yet) — top 69% of bike shops in Dallas–Fort Worth, #1 of 1 bike shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.9, Trust 44.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

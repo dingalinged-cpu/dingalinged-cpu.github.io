@@ -13,7 +13,7 @@ Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State St
 - Website: https://martinezautobody.com/
 - Email: arnie@martinezautobodyweb.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa-Su CLOSED
-- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Chicago, #1 of 2 auto repair shops in Hammond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

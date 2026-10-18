@@ -1,17 +1,17 @@
-The top unpaid physical therapy listing for Frisco, TX is Athletico Physical Therapy (a physical therapy clinic in Frisco, TX at 2552 Eldorado Parkway #530, Frisco, TX). 6 physical therapy businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Frisco, TX is Pro Sport Performance Therapy (a physical therapy clinic in Frisco, TX at 7511 Main Street #170, Frisco, TX). 6 physical therapy businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Frisco, TX?
 
 Also answers: physical therapy in Frisco, TX; physical therapy near me (Frisco, TX); best physical therapy Frisco, TX; top rated physical therapy Frisco, TX; affordable physical therapy Frisco, TX; emergency physical therapy Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athletico Physical Therapy | trust 3.0 | Athletico Physical Therapy is a physical therapy clinic in Frisco, TX at 2552 Eldorado Parkway #530, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-frisco/
-2. ATI Physical Therapy | trust 3.0 | ATI Physical Therapy is a physical therapy clinic in Frisco, TX at 1555 US Hwy 380 #900, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-frisco/
-3. Doc Physical Therapy | trust 3.0 | Doc Physical Therapy is a physical therapy clinic in Frisco, TX at 8501 Wade Boulevard ##6, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/doc-physical-therapy-frisco/
-4. Pro Sport Performance Therapy | trust 3.0 | Pro Sport Performance Therapy is a physical therapy clinic in Frisco, TX at 7511 Main Street #170, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pro-sport-performance-therapy-frisco/
-5. PT Solutions Physical Therapy | trust 3.0 | PT Solutions Physical Therapy is a physical therapy clinic in Frisco, TX at 9560 Legacy Drive #210, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pt-solutions-physical-therapy-frisco/
-6. Osteostrong | trust 0.0 | Osteostrong is a physical therapy clinic in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/osteostrong-frisco/
+1. Pro Sport Performance Therapy | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Pro Sport Performance Therapy is a physical therapy clinic in Frisco, TX at 7511 Main Street #170, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pro-sport-performance-therapy-frisco/
+2. Doc Physical Therapy | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Doc Physical Therapy is a physical therapy clinic in Frisco, TX at 8501 Wade Boulevard ##6, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/doc-physical-therapy-frisco/
+3. Osteostrong | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Osteostrong is a physical therapy clinic in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/osteostrong-frisco/
+4. Athletico Physical Therapy | Organic #4 | Pulse Score 44/100 (Building, #4 in city) | Athletico Physical Therapy is a physical therapy clinic in Frisco, TX at 2552 Eldorado Parkway #530, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-frisco/
+5. ATI Physical Therapy | Organic #5 | Pulse Score 43.9/100 (Building, #5 in city) | ATI Physical Therapy is a physical therapy clinic in Frisco, TX at 1555 US Hwy 380 #900, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/ati-physical-therapy-frisco/
+6. PT Solutions Physical Therapy | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | PT Solutions Physical Therapy is a physical therapy clinic in Frisco, TX at 9560 Legacy Drive #210, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pt-solutions-physical-therapy-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

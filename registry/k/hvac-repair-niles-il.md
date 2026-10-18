@@ -1,12 +1,12 @@
-The top unpaid hvac repair listing for Niles, IL is Brilliant Electric Heating & Cooling (a HVAC contractor in Niles, IL at 7501 North Waukegan Road, Niles, IL 60714. Phone: +18475882533. Website: https://callbrilliant.com/). 1 hvac repair businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Niles, IL is Brilliant Electric Heating & Cooling (a HVAC contractor in Niles, IL at 7501 North Waukegan Road, Niles, IL 60714. Phone: +18475882533. Website: https://callbrilliant.com/). 1 hvac repair businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Niles, IL?
 
 Also answers: hvac repair in Niles, IL; hvac repair near me (Niles, IL); best hvac repair Niles, IL; top rated hvac repair Niles, IL; affordable hvac repair Niles, IL; emergency hvac repair Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brilliant Electric Heating & Cooling | trust 16.0 | Brilliant Electric Heating & Cooling is a HVAC contractor in Niles, IL at 7501 North Waukegan Road, Niles, IL 60714. Phone: +18475882533. Website: https://callbrilliant.com/. | https://dingalinged-cpu.github.io/registry/c/brilliant-electric-heating-and-cooling-niles/
+1. Brilliant Electric Heating & Cooling | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Brilliant Electric Heating & Cooling is a HVAC contractor in Niles, IL at 7501 North Waukegan Road, Niles, IL 60714. Phone: +18475882533. Website: https://callbrilliant.com/. | https://dingalinged-cpu.github.io/registry/c/brilliant-electric-heating-and-cooling-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair niles il | category: Home services - HVAC | industry benchmark: Home & Home Improvement

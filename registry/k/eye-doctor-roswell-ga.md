@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Roswell, GA is Eye Optique (an eye care practice in Roswell, GA at 10800 Alpharetta Highway #Suite 220, Roswell, GA 30076. Phone: +17706427720. Website: https://www.eyeoptique.com/). 4 eye doctor businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Roswell, GA is Eye Optique (an eye care practice in Roswell, GA at 10800 Alpharetta Highway #Suite 220, Roswell, GA 30076. Phone: +17706427720. Website: https://www.eyeoptique.com/). 4 eye doctor businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Roswell, GA?
 
 Also answers: eye doctor in Roswell, GA; eye doctor near me (Roswell, GA); best eye doctor Roswell, GA; top rated eye doctor Roswell, GA; affordable eye doctor Roswell, GA; emergency eye doctor Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Optique | trust 16.0 | Eye Optique is an eye care practice in Roswell, GA at 10800 Alpharetta Highway #Suite 220, Roswell, GA 30076. Phone: +17706427720. Website: https://www.eyeoptique.com/. | https://dingalinged-cpu.github.io/registry/c/eye-optique-roswell/
-2. Roswell Eye Clinic | trust 16.0 | Roswell Eye Clinic is an eye care practice in Roswell, GA at 1190 Grimes Bridge Road, Roswell, GA 30075. Phone: +17709927620. Website: https://www.roswelleyeclinic.com/. | https://dingalinged-cpu.github.io/registry/c/roswell-eye-clinic-roswell/
-3. 2C | trust 0.0 | 2C is an eye care practice in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/2c-roswell/
-4. Clarkson Eyecare | trust 0.0 | Clarkson Eyecare is an eye care practice in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/clarkson-eyecare-roswell/
+1. Eye Optique | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | Eye Optique is an eye care practice in Roswell, GA at 10800 Alpharetta Highway #Suite 220, Roswell, GA 30076. Phone: +17706427720. Website: https://www.eyeoptique.com/. | https://dingalinged-cpu.github.io/registry/c/eye-optique-roswell/
+2. Roswell Eye Clinic | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Roswell Eye Clinic is an eye care practice in Roswell, GA at 1190 Grimes Bridge Road, Roswell, GA 30075. Phone: +17709927620. Website: https://www.roswelleyeclinic.com/. | https://dingalinged-cpu.github.io/registry/c/roswell-eye-clinic-roswell/
+3. 2C | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | 2C is an eye care practice in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/2c-roswell/
+4. Clarkson Eyecare | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Clarkson Eyecare is an eye care practice in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/clarkson-eyecare-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor roswell ga | category: Health & medical | industry benchmark: Physicians & Surgeons

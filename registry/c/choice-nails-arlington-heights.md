@@ -13,7 +13,7 @@ Choice Nails is a nail salon in Arlington Heights, IL at 30 S Dunton Ave, Arling
 - Website: https://choicenailsah.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00, Sa 09:00-18:00, Su 10:00-17:00
-- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 6% of nail salons in Chicago, #2 of 6 nail salons in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

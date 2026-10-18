@@ -13,7 +13,7 @@ Wheeler & Wheeler, P.C. is a lawyer in Rockwall, TX at 965 Ralph Hall Parkway #1
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 81% of lawyers in Dallas–Fort Worth, #12 of 13 lawyers in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 42.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Waxahachie, TX is Secure More Storage (a self-storage facility in Waxahachie, TX at 602 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165). 2 storage units businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Waxahachie, TX is Secure More Storage (a self-storage facility in Waxahachie, TX at 602 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165). 2 storage units businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Waxahachie, TX?
 
 Also answers: storage units in Waxahachie, TX; storage units near me (Waxahachie, TX); best storage units Waxahachie, TX; top rated storage units Waxahachie, TX; affordable storage units Waxahachie, TX; emergency storage units Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Secure More Storage | trust 4.0 | Secure More Storage is a self-storage facility in Waxahachie, TX at 602 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/secure-more-storage-waxahachie/
-2. Macho Self Storage | trust 3.0 | Macho Self Storage is a self-storage facility in Waxahachie, TX at 3467 North US Highway 77, Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/macho-self-storage-waxahachie/
+1. Secure More Storage | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Secure More Storage is a self-storage facility in Waxahachie, TX at 602 Farm-to-Market 1446, Cantrell Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/secure-more-storage-waxahachie/
+2. Macho Self Storage | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Macho Self Storage is a self-storage facility in Waxahachie, TX at 3467 North US Highway 77, Waxahachie, TX. | https://dingalinged-cpu.github.io/registry/c/macho-self-storage-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units waxahachie tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

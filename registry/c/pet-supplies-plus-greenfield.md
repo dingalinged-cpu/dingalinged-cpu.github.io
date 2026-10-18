@@ -13,7 +13,7 @@ Pet Supplies Plus is a pet store in Greenfield, WI at 4505 South 76th Street, Gr
 - Website: https://www.petsuppliesplus.com/store/wi/greenfield/81-greenfield/81
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 81% of pet stores in Milwaukee, #4 of 4 pet stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.7, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Lyons, IL is Maksimovich & Associates PC (a lawyer in Lyons, IL). 1 attorney businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Lyons, IL is Maksimovich & Associates PC (a lawyer in Lyons, IL). 1 attorney businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Lyons, IL?
 
 Also answers: attorney in Lyons, IL; attorney near me (Lyons, IL); best attorney Lyons, IL; top rated attorney Lyons, IL; affordable attorney Lyons, IL; emergency attorney Lyons, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maksimovich & Associates PC | trust 0.0 | Maksimovich & Associates PC is a lawyer in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/maksimovich-and-associates-pc-lyons/
+1. Maksimovich & Associates PC | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Maksimovich & Associates PC is a lawyer in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/maksimovich-and-associates-pc-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney lyons il | category: professional_legal | industry benchmark: Attorneys & Legal Services

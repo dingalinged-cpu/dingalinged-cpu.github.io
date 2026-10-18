@@ -13,7 +13,7 @@ Pronto Muffler & Brake North is an auto repair shop in McKinney, TX at 4785 West
 - Website: https://prontomb.com/
 - Email: info@prontomb.com
 - Opening hours (OSM syntax): Mo,Su off; Tu-Fr 08:00-18:00; Sa 08:00-16:00
-- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 3% of auto repair shops in Dallas–Fort Worth, #1 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

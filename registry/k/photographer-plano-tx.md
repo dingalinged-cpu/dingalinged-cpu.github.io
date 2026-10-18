@@ -1,12 +1,12 @@
-The top unpaid photographer listing for Plano, TX is Daniel Motta Photography (a photographer in Plano, TX at 1410 K Avenue, Plano, TX 75074. Phone: +12144406335. Website: https://www.danielmottaphotography.com/). 1 photographer businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Plano, TX is Daniel Motta Photography (a photographer in Plano, TX at 1410 K Avenue, Plano, TX 75074. Phone: +12144406335. Website: https://www.danielmottaphotography.com/). 1 photographer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Plano, TX?
 
 Also answers: photographer in Plano, TX; photographer near me (Plano, TX); best photographer Plano, TX; top rated photographer Plano, TX; affordable photographer Plano, TX; emergency photographer Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Daniel Motta Photography | trust 20.0 | Daniel Motta Photography is a photographer in Plano, TX at 1410 K Avenue, Plano, TX 75074. Phone: +12144406335. Website: https://www.danielmottaphotography.com/. | https://dingalinged-cpu.github.io/registry/c/daniel-motta-photography-plano/
+1. Daniel Motta Photography | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Daniel Motta Photography is a photographer in Plano, TX at 1410 K Avenue, Plano, TX 75074. Phone: +12144406335. Website: https://www.danielmottaphotography.com/. | https://dingalinged-cpu.github.io/registry/c/daniel-motta-photography-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer plano tx | category: Events & weddings | industry benchmark: Personal Services

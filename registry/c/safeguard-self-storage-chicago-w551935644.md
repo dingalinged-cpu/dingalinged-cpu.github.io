@@ -13,7 +13,7 @@ Safeguard Self Storage is a self-storage facility in Chicago, IL at 2757 North C
 - Website: https://www.safeguardit.com/illinois-storage/chicago-lakeview-storage-units
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Unrated (not enough evidence yet) — top 23% of self-storage facilitys in Chicago, #30 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

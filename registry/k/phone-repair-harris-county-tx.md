@@ -1,15 +1,15 @@
-The top unpaid phone repair listing for Harris County, TX is uBreakiFix (a phone repair shop in Harris County, TX at 19250 West Lake Houston Parkway, Harris County, TX 77346. Phone: +12813187763. Website: https://ubreakifix.com/). 4 phone repair businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Harris County, TX is Gadget Repair (a phone repair shop in Harris County, TX). 4 phone repair businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Harris County, TX?
 
 Also answers: phone repair in Harris County, TX; phone repair near me (Harris County, TX); best phone repair Harris County, TX; top rated phone repair Harris County, TX; affordable phone repair Harris County, TX; emergency phone repair Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. uBreakiFix | trust 20.0 | uBreakiFix is a phone repair shop in Harris County, TX at 19250 West Lake Houston Parkway, Harris County, TX 77346. Phone: +12813187763. Website: https://ubreakifix.com/. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-harris-county/
-2. Cell Phone Repair | trust 0.0 | Cell Phone Repair is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-harris-county/
-3. Fix My Phone | trust 0.0 | Fix My Phone is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fix-my-phone-harris-county/
-4. Gadget Repair | trust 0.0 | Gadget Repair is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gadget-repair-harris-county/
+1. Gadget Repair | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Gadget Repair is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gadget-repair-harris-county/
+2. Fix My Phone | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Fix My Phone is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fix-my-phone-harris-county/
+3. uBreakiFix | Organic #3 | Pulse Score 51/100 (Fair, #3 in city) | uBreakiFix is a phone repair shop in Harris County, TX at 19250 West Lake Houston Parkway, Harris County, TX 77346. Phone: +12813187763. Website: https://ubreakifix.com/. | https://dingalinged-cpu.github.io/registry/c/ubreakifix-harris-county/
+4. Cell Phone Repair | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Cell Phone Repair is a phone repair shop in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cell-phone-repair-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair harris county tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

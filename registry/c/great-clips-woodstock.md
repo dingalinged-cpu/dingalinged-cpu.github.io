@@ -13,7 +13,7 @@ Great Clips is a hair salon in Woodstock, GA at 12050 GA-92 #132, Woodstock, GA 
 - Website: https://www.greatclips.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 88% of hair salons in Atlanta, #13 of 14 hair salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

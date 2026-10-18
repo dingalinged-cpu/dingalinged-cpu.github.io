@@ -1,16 +1,16 @@
-The top unpaid hair salon listing for Oak Creek, WI is Affordable Cuts (a hair salon in Oak Creek, WI at 145 West Ryan Road, Oak Creek, WI 53154). 5 hair salon businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Oak Creek, WI is Affordable Cuts (a hair salon in Oak Creek, WI at 145 West Ryan Road, Oak Creek, WI 53154). 5 hair salon businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Oak Creek, WI?
 
 Also answers: hair salon in Oak Creek, WI; hair salon near me (Oak Creek, WI); best hair salon Oak Creek, WI; top rated hair salon Oak Creek, WI; affordable hair salon Oak Creek, WI; emergency hair salon Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Cuts | trust 4.0 | Affordable Cuts is a hair salon in Oak Creek, WI at 145 West Ryan Road, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/affordable-cuts-oak-creek/
-2. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in Oak Creek, WI at 8907 South Howell Avenue #200, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-oak-creek/
-3. Great Clips | trust 4.0 | Great Clips is a hair salon in Oak Creek, WI at 8770 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/great-clips-oak-creek/
-4. Great Clips | trust 4.0 | Great Clips is a hair salon in Oak Creek, WI at 2345 West Ryan Road #C, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/great-clips-oak-creek-w1177928272/
-5. Jean's Hair Odyssey Family Hair Care | trust 3.0 | Jean's Hair Odyssey Family Hair Care is a hair salon in Oak Creek, WI at 9555 South Howell Avenue #550, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/jeans-hair-odyssey-family-hair-care-oak-creek/
+1. Affordable Cuts | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Affordable Cuts is a hair salon in Oak Creek, WI at 145 West Ryan Road, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/affordable-cuts-oak-creek/
+2. Jean's Hair Odyssey Family Hair Care | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Jean's Hair Odyssey Family Hair Care is a hair salon in Oak Creek, WI at 9555 South Howell Avenue #550, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/jeans-hair-odyssey-family-hair-care-oak-creek/
+3. Cost Cutters | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | Cost Cutters is a hair salon in Oak Creek, WI at 8907 South Howell Avenue #200, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-oak-creek/
+4. Great Clips | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | Great Clips is a hair salon in Oak Creek, WI at 2345 West Ryan Road #C, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/great-clips-oak-creek-w1177928272/
+5. Great Clips | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Great Clips is a hair salon in Oak Creek, WI at 8770 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/great-clips-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon oak creek wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

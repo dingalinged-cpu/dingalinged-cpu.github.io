@@ -13,7 +13,7 @@ Positive Outlook Clinical Services LLC is a therapy practice in Milwaukee, WI. P
 - Website: https://www.positiveoutlook2006.com/
 - Email: positiveoutlook2006@yahoo.com
 - Opening hours (OSM syntax): Mo-Th 10:00-20:00; Fr 10:00-18:00; Sa,Su off
-- Registry Score: 58.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 36% of therapy practices in Milwaukee, #10 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 54.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

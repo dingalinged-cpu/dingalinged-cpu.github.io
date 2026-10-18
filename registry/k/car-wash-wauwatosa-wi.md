@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Wauwatosa, WI is Mobil (a car wash in Wauwatosa, WI at 12331 West North Avenue, Wauwatosa, WI 53226). 3 car wash businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Wauwatosa, WI is Peebles Car Wash (a car wash in Wauwatosa, WI). 3 car wash businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Wauwatosa, WI?
 
 Also answers: car wash in Wauwatosa, WI; car wash near me (Wauwatosa, WI); best car wash Wauwatosa, WI; top rated car wash Wauwatosa, WI; affordable car wash Wauwatosa, WI; emergency car wash Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mobil | trust 4.0 | Mobil is a car wash in Wauwatosa, WI at 12331 West North Avenue, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/mobil-wauwatosa/
-2. Peebles Car Wash | trust 0.0 | Peebles Car Wash is a car wash in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/peebles-car-wash-wauwatosa/
-3. Wash Brite Car Wash | trust 0.0 | Wash Brite Car Wash is a car wash in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/wash-brite-car-wash-wauwatosa/
+1. Peebles Car Wash | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Peebles Car Wash is a car wash in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/peebles-car-wash-wauwatosa/
+2. Wash Brite Car Wash | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Wash Brite Car Wash is a car wash in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/wash-brite-car-wash-wauwatosa/
+3. Mobil | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | Mobil is a car wash in Wauwatosa, WI at 12331 West North Avenue, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/mobil-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash wauwatosa wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Des Plaines, IL is Benedict's Barber Shop (a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774). 1 barber shop businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Des Plaines, IL is Benedict's Barber Shop (a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774). 1 barber shop businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Des Plaines, IL?
 
 Also answers: barber shop in Des Plaines, IL; barber shop near me (Des Plaines, IL); best barber shop Des Plaines, IL; top rated barber shop Des Plaines, IL; affordable barber shop Des Plaines, IL; emergency barber shop Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benedict's Barber Shop | trust 13.0 | Benedict's Barber Shop is a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774. | https://dingalinged-cpu.github.io/registry/c/benedicts-barber-shop-des-plaines/
+1. Benedict's Barber Shop | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Benedict's Barber Shop is a barber shop in Des Plaines, IL at 1938 East Touhy Avenue, Des Plaines, IL. Phone: +18472972774. | https://dingalinged-cpu.github.io/registry/c/benedicts-barber-shop-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop des plaines il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

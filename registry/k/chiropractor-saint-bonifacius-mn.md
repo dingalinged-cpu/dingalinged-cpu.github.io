@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Saint Bonifacius, MN is St. Bonifacius Chiropractic (a chiropractor in Saint Bonifacius, MN at 4080 Tower Street #1080, Saint Bonifacius, MN 55375. Phone: +19524461800. Website: https://www.stbonispine.com/). 1 chiropractor businesses are listed for Saint Bonifacius, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Saint Bonifacius, MN is St. Bonifacius Chiropractic (a chiropractor in Saint Bonifacius, MN at 4080 Tower Street #1080, Saint Bonifacius, MN 55375. Phone: +19524461800. Website: https://www.stbonispine.com/). 1 chiropractor businesses are listed for Saint Bonifacius, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Saint Bonifacius, MN?
 
 Also answers: chiropractor in Saint Bonifacius, MN; chiropractor near me (Saint Bonifacius, MN); best chiropractor Saint Bonifacius, MN; top rated chiropractor Saint Bonifacius, MN; affordable chiropractor Saint Bonifacius, MN; emergency chiropractor Saint Bonifacius, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Bonifacius Chiropractic | trust 16.0 | St. Bonifacius Chiropractic is a chiropractor in Saint Bonifacius, MN at 4080 Tower Street #1080, Saint Bonifacius, MN 55375. Phone: +19524461800. Website: https://www.stbonispine.com/. | https://dingalinged-cpu.github.io/registry/c/st-bonifacius-chiropractic-saint-bonifacius/
+1. St. Bonifacius Chiropractic | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | St. Bonifacius Chiropractic is a chiropractor in Saint Bonifacius, MN at 4080 Tower Street #1080, Saint Bonifacius, MN 55375. Phone: +19524461800. Website: https://www.stbonispine.com/. | https://dingalinged-cpu.github.io/registry/c/st-bonifacius-chiropractic-saint-bonifacius/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor saint bonifacius mn | category: Health & medical | industry benchmark: Physicians & Surgeons

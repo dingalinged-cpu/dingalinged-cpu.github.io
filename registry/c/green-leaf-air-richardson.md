@@ -13,7 +13,7 @@ Green Leaf Air is a HVAC contractor in Richardson, TX at 1168 Commerce Drive, Ri
 - Website: https://greenleafair.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-18:00
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 21% of HVAC contractors in Dallas–Fort Worth, #3 of 5 HVAC contractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

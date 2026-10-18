@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Sugar Land, TX is The Joint Chiropractic (a chiropractor in Sugar Land, TX at 15870 Southwest Freeway #100, Sugar Land, TX 77478. Phone: +12817710409. Website: https://www.thejoint.com/texas/sugar-land/sugar-land-28035). 2 chiropractor businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Sugar Land, TX is The Joint Chiropractic (a chiropractor in Sugar Land, TX at 15870 Southwest Freeway #100, Sugar Land, TX 77478. Phone: +12817710409. Website: https://www.thejoint.com/texas/sugar-land/sugar-land-28035). 2 chiropractor businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Sugar Land, TX?
 
 Also answers: chiropractor in Sugar Land, TX; chiropractor near me (Sugar Land, TX); best chiropractor Sugar Land, TX; top rated chiropractor Sugar Land, TX; affordable chiropractor Sugar Land, TX; emergency chiropractor Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Joint Chiropractic | trust 20.0 | The Joint Chiropractic is a chiropractor in Sugar Land, TX at 15870 Southwest Freeway #100, Sugar Land, TX 77478. Phone: +12817710409. Website: https://www.thejoint.com/texas/sugar-land/sugar-land-28035. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-land-n12710705620/
-2. The Joint Chiropractic | trust 4.0 | The Joint Chiropractic is a chiropractor in Sugar Land, TX at 18841 University Boulevard #410, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-land/
+1. The Joint Chiropractic | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | The Joint Chiropractic is a chiropractor in Sugar Land, TX at 15870 Southwest Freeway #100, Sugar Land, TX 77478. Phone: +12817710409. Website: https://www.thejoint.com/texas/sugar-land/sugar-land-28035. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-land-n12710705620/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Sugar Land, TX at 18841 University Boulevard #410, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

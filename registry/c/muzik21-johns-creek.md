@@ -13,7 +13,7 @@ muzik21 is a music school in Johns Creek, GA at 10700 State Bridge Road #12, Joh
 - Website: https://musik21.com/
 - Email: info@muzik21.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 50% of music schools in Atlanta, #1 of 3 music schools in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

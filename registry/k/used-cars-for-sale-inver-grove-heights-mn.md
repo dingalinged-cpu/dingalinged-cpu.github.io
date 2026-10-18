@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for Inver Grove Heights, MN is Morries Mazda (an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/). 1 used cars for sale businesses are listed for Inver Grove Heights, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Inver Grove Heights, MN is Morries Mazda (an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/). 1 used cars for sale businesses are listed for Inver Grove Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Inver Grove Heights, MN?
 
 Also answers: used cars for sale in Inver Grove Heights, MN; used cars for sale near me (Inver Grove Heights, MN); best used cars for sale Inver Grove Heights, MN; top rated used cars for sale Inver Grove Heights, MN; affordable used cars for sale Inver Grove Heights, MN; emergency used cars for sale Inver Grove Heights, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Morries Mazda | trust 20.0 | Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/. | https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/
+1. Morries Mazda | Organic #1 | Pulse Score 50.8/100 (Fair, #1 in city) | Morries Mazda is an used car dealer in Inver Grove Heights, MN at 10 Mendota Road East, Inver Grove Heights, MN 55077. Phone: +16516914672. Website: https://www.morriesinvergrovemazda.com/. | https://dingalinged-cpu.github.io/registry/c/morries-mazda-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale inver grove heights mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

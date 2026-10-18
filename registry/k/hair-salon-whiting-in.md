@@ -1,16 +1,16 @@
-The top unpaid hair salon listing for Whiting, IN is Ana's Beauty Salon (a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394). 5 hair salon businesses are listed for Whiting, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Whiting, IN is Ana's Beauty Salon (a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394). 5 hair salon businesses are listed for Whiting, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Whiting, IN?
 
 Also answers: hair salon in Whiting, IN; hair salon near me (Whiting, IN); best hair salon Whiting, IN; top rated hair salon Whiting, IN; affordable hair salon Whiting, IN; emergency hair salon Whiting, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ana's Beauty Salon | trust 4.0 | Ana's Beauty Salon is a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/anas-beauty-salon-whiting/
-2. Lakeside Barber Studio | trust 4.0 | Lakeside Barber Studio is a hair salon in Whiting, IN at 1426 119th Street #1, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/lakeside-barber-studio-whiting/
-3. Muneca Salon | trust 4.0 | Muneca Salon is a hair salon in Whiting, IN at 1921 Clark Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/muneca-salon-whiting/
-4. Rebecca's Hair Care | trust 4.0 | Rebecca's Hair Care is a hair salon in Whiting, IN at 1544 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/rebeccas-hair-care-whiting/
-5. The Mustache Lounge | trust 4.0 | The Mustache Lounge is a hair salon in Whiting, IN at 1242 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/the-mustache-lounge-whiting/
+1. Ana's Beauty Salon | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Ana's Beauty Salon is a hair salon in Whiting, IN at 1440 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/anas-beauty-salon-whiting/
+2. Lakeside Barber Studio | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Lakeside Barber Studio is a hair salon in Whiting, IN at 1426 119th Street #1, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/lakeside-barber-studio-whiting/
+3. Muneca Salon | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Muneca Salon is a hair salon in Whiting, IN at 1921 Clark Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/muneca-salon-whiting/
+4. Rebecca's Hair Care | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Rebecca's Hair Care is a hair salon in Whiting, IN at 1544 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/rebeccas-hair-care-whiting/
+5. The Mustache Lounge | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | The Mustache Lounge is a hair salon in Whiting, IN at 1242 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/the-mustache-lounge-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon whiting in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

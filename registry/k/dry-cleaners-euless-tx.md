@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Euless, TX is Dry Clean Super Center (a dry cleaner in Euless, TX at 1301 North Main Street, Euless, TX 76039). 4 dry cleaners businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Euless, TX is Millers Custom Cleaners (a dry cleaner in Euless, TX at 109 West Harwood Road, Euless, TX 76039). 4 dry cleaners businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Euless, TX?
 
 Also answers: dry cleaners in Euless, TX; dry cleaners near me (Euless, TX); best dry cleaners Euless, TX; top rated dry cleaners Euless, TX; affordable dry cleaners Euless, TX; emergency dry cleaners Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dry Clean Super Center | trust 4.0 | Dry Clean Super Center is a dry cleaner in Euless, TX at 1301 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-euless/
-2. Millers Custom Cleaners | trust 4.0 | Millers Custom Cleaners is a dry cleaner in Euless, TX at 109 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/millers-custom-cleaners-euless/
-3. Silver Cleaners | trust 4.0 | Silver Cleaners is a dry cleaner in Euless, TX at 606 North Industrial Boulevard #C, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/silver-cleaners-euless/
-4. Town & Country Cleaners | trust 4.0 | Town & Country Cleaners is a dry cleaner in Euless, TX at 101 W Glade Road #110, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/town-and-country-cleaners-euless/
+1. Millers Custom Cleaners | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Millers Custom Cleaners is a dry cleaner in Euless, TX at 109 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/millers-custom-cleaners-euless/
+2. Silver Cleaners | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Silver Cleaners is a dry cleaner in Euless, TX at 606 North Industrial Boulevard #C, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/silver-cleaners-euless/
+3. Town & Country Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Town & Country Cleaners is a dry cleaner in Euless, TX at 101 W Glade Road #110, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/town-and-country-cleaners-euless/
+4. Dry Clean Super Center | Organic #4 | Pulse Score 44.8/100 (Unrated, #4 in city) | Dry Clean Super Center is a dry cleaner in Euless, TX at 1301 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners euless tx | category: Professional & financial services | industry benchmark: Finance & Insurance

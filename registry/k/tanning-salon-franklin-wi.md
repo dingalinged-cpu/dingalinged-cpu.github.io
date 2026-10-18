@@ -1,13 +1,13 @@
-The top unpaid tanning salon listing for Franklin, WI is Caribbean Oasis Tanning Salon (a tanning salon in Franklin, WI at 7224 South 76th Street, Franklin, WI 53132). 2 tanning salon businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Franklin, WI is Caribbean Oasis Tanning Salon (a tanning salon in Franklin, WI at 7224 South 76th Street, Franklin, WI 53132). 2 tanning salon businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Franklin, WI?
 
 Also answers: tanning salon in Franklin, WI; tanning salon near me (Franklin, WI); best tanning salon Franklin, WI; top rated tanning salon Franklin, WI; affordable tanning salon Franklin, WI; emergency tanning salon Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caribbean Oasis Tanning Salon | trust 4.0 | Caribbean Oasis Tanning Salon is a tanning salon in Franklin, WI at 7224 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caribbean-oasis-tanning-salon-franklin/
-2. Lectric Beach Wellness & Sun Club | trust 4.0 | Lectric Beach Wellness & Sun Club is a tanning salon in Franklin, WI at 7229 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/lectric-beach-wellness-and-sun-club-franklin/
+1. Caribbean Oasis Tanning Salon | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Caribbean Oasis Tanning Salon is a tanning salon in Franklin, WI at 7224 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/caribbean-oasis-tanning-salon-franklin/
+2. Lectric Beach Wellness & Sun Club | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Lectric Beach Wellness & Sun Club is a tanning salon in Franklin, WI at 7229 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/lectric-beach-wellness-and-sun-club-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon franklin wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

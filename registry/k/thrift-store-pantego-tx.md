@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Pantego, TX is Nu2U Resale (a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale). 1 thrift store businesses are listed for Pantego, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Pantego, TX is Nu2U Resale (a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale). 1 thrift store businesses are listed for Pantego, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Pantego, TX?
 
 Also answers: thrift store in Pantego, TX; thrift store near me (Pantego, TX); best thrift store Pantego, TX; top rated thrift store Pantego, TX; affordable thrift store Pantego, TX; emergency thrift store Pantego, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nu2U Resale | trust 20.0 | Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale. | https://dingalinged-cpu.github.io/registry/c/nu2u-resale-arlington/
+1. Nu2U Resale | Organic #1 | Pulse Score 61.7/100 (Unrated, #2 in city) | Nu2U Resale is a thrift store in Arlington, TX at 2220 West Park Row Drive #B, Arlington, TX 76013. Phone: +18177956379. Website: https://arlingtonurbanministries.org/nu2u-resale. | https://dingalinged-cpu.github.io/registry/c/nu2u-resale-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store pantego tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

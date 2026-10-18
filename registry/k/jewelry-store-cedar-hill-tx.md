@@ -1,15 +1,15 @@
-The top unpaid jewelry store listing for Cedar Hill, TX is James Avery Jewelry (a jewelry store in Cedar Hill, TX at 305 W Fm 1382 Ste 610 #610, Cedar Hill, TX 75104. Phone: +19722918627. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=704). 4 jewelry store businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Cedar Hill, TX is The Jewelry Box (a jewelry store in Cedar Hill, TX at 104 West Belt Line Road #8, Cedar Hill, TX 75104. Phone: +19722910223). 4 jewelry store businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Cedar Hill, TX?
 
 Also answers: jewelry store in Cedar Hill, TX; jewelry store near me (Cedar Hill, TX); best jewelry store Cedar Hill, TX; top rated jewelry store Cedar Hill, TX; affordable jewelry store Cedar Hill, TX; emergency jewelry store Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 16.0 | James Avery Jewelry is a jewelry store in Cedar Hill, TX at 305 W Fm 1382 Ste 610 #610, Cedar Hill, TX 75104. Phone: +19722918627. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=704. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-cedar-hill/
-2. The Jewelry Box | trust 14.0 | The Jewelry Box is a jewelry store in Cedar Hill, TX at 104 West Belt Line Road #8, Cedar Hill, TX 75104. Phone: +19722910223. | https://dingalinged-cpu.github.io/registry/c/the-jewelry-box-cedar-hill/
-3. Kay Jewelers | trust 0.0 | Kay Jewelers is a jewelry store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-cedar-hill/
-4. Zales | trust 0.0 | Zales is a jewelry store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/zales-cedar-hill/
+1. The Jewelry Box | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | The Jewelry Box is a jewelry store in Cedar Hill, TX at 104 West Belt Line Road #8, Cedar Hill, TX 75104. Phone: +19722910223. | https://dingalinged-cpu.github.io/registry/c/the-jewelry-box-cedar-hill/
+2. James Avery Jewelry | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | James Avery Jewelry is a jewelry store in Cedar Hill, TX at 305 W Fm 1382 Ste 610 #610, Cedar Hill, TX 75104. Phone: +19722918627. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=704. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-cedar-hill/
+3. Kay Jewelers | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | Kay Jewelers is a jewelry store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-cedar-hill/
+4. Zales | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Zales is a jewelry store in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/zales-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store cedar hill tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

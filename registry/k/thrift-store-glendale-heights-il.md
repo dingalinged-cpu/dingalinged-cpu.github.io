@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Glendale Heights, IL is Goodwill (a thrift store in Glendale Heights, IL at 543 North Avenue, Glendale Heights, IL 60139). 1 thrift store businesses are listed for Glendale Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Glendale Heights, IL is Goodwill (a thrift store in Glendale Heights, IL at 543 North Avenue, Glendale Heights, IL 60139). 1 thrift store businesses are listed for Glendale Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Glendale Heights, IL?
 
 Also answers: thrift store in Glendale Heights, IL; thrift store near me (Glendale Heights, IL); best thrift store Glendale Heights, IL; top rated thrift store Glendale Heights, IL; affordable thrift store Glendale Heights, IL; emergency thrift store Glendale Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 8.0 | Goodwill is a thrift store in Glendale Heights, IL at 543 North Avenue, Glendale Heights, IL 60139. | https://dingalinged-cpu.github.io/registry/c/goodwill-glendale-heights/
+1. Goodwill | Organic #1 | Pulse Score 47.8/100 (Building, #1 in city) | Goodwill is a thrift store in Glendale Heights, IL at 543 North Avenue, Glendale Heights, IL 60139. | https://dingalinged-cpu.github.io/registry/c/goodwill-glendale-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store glendale heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

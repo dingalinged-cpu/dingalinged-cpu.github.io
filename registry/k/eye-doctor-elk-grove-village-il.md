@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Elk Grove Village, IL is Elk Grove Optical (an eye care practice in Elk Grove Village, IL). 1 eye doctor businesses are listed for Elk Grove Village, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Elk Grove Village, IL is Elk Grove Optical (an eye care practice in Elk Grove Village, IL). 1 eye doctor businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Elk Grove Village, IL?
 
 Also answers: eye doctor in Elk Grove Village, IL; eye doctor near me (Elk Grove Village, IL); best eye doctor Elk Grove Village, IL; top rated eye doctor Elk Grove Village, IL; affordable eye doctor Elk Grove Village, IL; emergency eye doctor Elk Grove Village, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elk Grove Optical | trust 0.0 | Elk Grove Optical is an eye care practice in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/elk-grove-optical-elk-grove-village/
+1. Elk Grove Optical | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Elk Grove Optical is an eye care practice in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/elk-grove-optical-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor elk grove village il | category: Health & medical | industry benchmark: Physicians & Surgeons

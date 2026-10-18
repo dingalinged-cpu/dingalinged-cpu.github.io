@@ -1,13 +1,13 @@
-The top unpaid driving school listing for Naperville, IL is Excel Driving School (a driving school in Naperville, IL at 412 West 5th Avenue, Naperville, IL 60563. Phone: +16309839235. Website: https://www.exceldrivingschool.com/statics/location?id=1). 2 driving school businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Naperville, IL is Excel Driving School (a driving school in Naperville, IL at 412 West 5th Avenue, Naperville, IL 60563. Phone: +16309839235. Website: https://www.exceldrivingschool.com/statics/location?id=1). 2 driving school businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Naperville, IL?
 
 Also answers: driving school in Naperville, IL; driving school near me (Naperville, IL); best driving school Naperville, IL; top rated driving school Naperville, IL; affordable driving school Naperville, IL; emergency driving school Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Excel Driving School | trust 16.0 | Excel Driving School is a driving school in Naperville, IL at 412 West 5th Avenue, Naperville, IL 60563. Phone: +16309839235. Website: https://www.exceldrivingschool.com/statics/location?id=1. | https://dingalinged-cpu.github.io/registry/c/excel-driving-school-naperville/
-2. Top Driver | trust 16.0 | Top Driver is a driving school in Naperville, IL at 1013 West Ogden Avenue #B, Naperville, IL 60563. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/naperville/. | https://dingalinged-cpu.github.io/registry/c/top-driver-naperville/
+1. Excel Driving School | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Excel Driving School is a driving school in Naperville, IL at 412 West 5th Avenue, Naperville, IL 60563. Phone: +16309839235. Website: https://www.exceldrivingschool.com/statics/location?id=1. | https://dingalinged-cpu.github.io/registry/c/excel-driving-school-naperville/
+2. Top Driver | Organic #2 | Pulse Score 50.8/100 (Unrated, #2 in city) | Top Driver is a driving school in Naperville, IL at 1013 West Ogden Avenue #B, Naperville, IL 60563. Phone: +18003748373. Website: https://www.topdriver.com/driving-school/naperville/. | https://dingalinged-cpu.github.io/registry/c/top-driver-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school naperville il | category: Education & childcare | industry benchmark: Education & Instruction

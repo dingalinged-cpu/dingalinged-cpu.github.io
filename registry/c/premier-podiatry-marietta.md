@@ -13,7 +13,7 @@ Premier Podiatry is a podiatrist in Marietta, GA at 1200 Johnson Ferry Road Nort
 - Website: https://www.wellstar.org/locations/medical-practice/premier-podiatry-marietta-1200-johnson-ferry-road-suite-150
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 31% of podiatrists in Atlanta, #2 of 3 podiatrists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.7, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in New Hope, MN at 7305 42nd Avenue North, New 
 - Website: https://store.vioc.com/mn/newhope/oil-change-010049.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 84% of auto repair shops in Minneapolis–St. Paul, #2 of 5 auto repair shops in New Hope (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 51.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

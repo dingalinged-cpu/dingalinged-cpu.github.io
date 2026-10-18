@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Henry County, GA is Tidal Wave Auto Spa (a car wash in Henry County, GA). 1 car wash businesses are listed for Henry County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Henry County, GA is Tidal Wave Auto Spa (a car wash in Henry County, GA). 1 car wash businesses are listed for Henry County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Henry County, GA?
 
 Also answers: car wash in Henry County, GA; car wash near me (Henry County, GA); best car wash Henry County, GA; top rated car wash Henry County, GA; affordable car wash Henry County, GA; emergency car wash Henry County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tidal Wave Auto Spa | trust 0.0 | Tidal Wave Auto Spa is a car wash in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-henry-county/
+1. Tidal Wave Auto Spa | Organic #1 | Pulse Score 42.5/100 (Building, #1 in city) | Tidal Wave Auto Spa is a car wash in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-henry-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash henry county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

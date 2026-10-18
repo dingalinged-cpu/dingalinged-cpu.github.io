@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Humble, TX is MP Nails Spa (a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396). 3 nail salon businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Humble, TX is MP Nails Spa (a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396). 3 nail salon businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Humble, TX?
 
 Also answers: nail salon in Humble, TX; nail salon near me (Humble, TX); best nail salon Humble, TX; top rated nail salon Humble, TX; affordable nail salon Humble, TX; emergency nail salon Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MP Nails Spa | trust 8.0 | MP Nails Spa is a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/mp-nails-spa-humble/
-2. Humble Nails | trust 3.0 | Humble Nails is a nail salon in Humble, TX at 19759 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-nails-humble/
-3. Nail Boss | trust 3.0 | Nail Boss is a nail salon in Humble, TX at 9910 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/nail-boss-humble/
+1. MP Nails Spa | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | MP Nails Spa is a nail salon in Humble, TX at 4801 Wilson Road #300, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/mp-nails-spa-humble/
+2. Nail Boss | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Nail Boss is a nail salon in Humble, TX at 9910 FM 1960 Bypass Road West, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/nail-boss-humble/
+3. Humble Nails | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Humble Nails is a nail salon in Humble, TX at 19759 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-nails-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon humble tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

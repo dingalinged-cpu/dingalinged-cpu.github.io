@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for Crestwood, IL is Firehouse Tattoos (a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, Crestwood, IL 60418. Phone: +17083858282. Website: https://www.firehousetattoos.com/). 2 tattoo shop businesses are listed for Crestwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Crestwood, IL is Firehouse Tattoos (a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, Crestwood, IL 60418. Phone: +17083858282. Website: https://www.firehousetattoos.com/). 2 tattoo shop businesses are listed for Crestwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Crestwood, IL?
 
 Also answers: tattoo shop in Crestwood, IL; tattoo shop near me (Crestwood, IL); best tattoo shop Crestwood, IL; top rated tattoo shop Crestwood, IL; affordable tattoo shop Crestwood, IL; emergency tattoo shop Crestwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firehouse Tattoos | trust 20.0 | Firehouse Tattoos is a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, Crestwood, IL 60418. Phone: +17083858282. Website: https://www.firehousetattoos.com/. | https://dingalinged-cpu.github.io/registry/c/firehouse-tattoos-crestwood/
-2. To The Point Tattoo Studio | trust 4.0 | To The Point Tattoo Studio is a tattoo shop in Crestwood, IL at 14142 Cicero Avenue, Crestwood, IL 60445. | https://dingalinged-cpu.github.io/registry/c/to-the-point-tattoo-studio-crestwood/
+1. Firehouse Tattoos | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Firehouse Tattoos is a tattoo shop in Crestwood, IL at 12740 West Cal Sag Road, Crestwood, IL 60418. Phone: +17083858282. Website: https://www.firehousetattoos.com/. | https://dingalinged-cpu.github.io/registry/c/firehouse-tattoos-crestwood/
+2. To The Point Tattoo Studio | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | To The Point Tattoo Studio is a tattoo shop in Crestwood, IL at 14142 Cicero Avenue, Crestwood, IL 60445. | https://dingalinged-cpu.github.io/registry/c/to-the-point-tattoo-studio-crestwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop crestwood il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

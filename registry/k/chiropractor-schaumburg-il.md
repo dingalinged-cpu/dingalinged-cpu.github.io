@@ -1,14 +1,14 @@
-The top unpaid chiropractor listing for Schaumburg, IL is The Center For Physical Health (a chiropractor in Schaumburg, IL at 2201 W Schaumburg Rd, Schaumburg, IL 60194. Phone: +18473018585. Website: https://drcliffordkearnsblog.com/). 3 chiropractor businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Schaumburg, IL is The Center For Physical Health (a chiropractor in Schaumburg, IL at 2201 W Schaumburg Rd, Schaumburg, IL 60194. Phone: +18473018585. Website: https://drcliffordkearnsblog.com/). 3 chiropractor businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Schaumburg, IL?
 
 Also answers: chiropractor in Schaumburg, IL; chiropractor near me (Schaumburg, IL); best chiropractor Schaumburg, IL; top rated chiropractor Schaumburg, IL; affordable chiropractor Schaumburg, IL; emergency chiropractor Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Center For Physical Health | trust 16.0 | The Center For Physical Health is a chiropractor in Schaumburg, IL at 2201 W Schaumburg Rd, Schaumburg, IL 60194. Phone: +18473018585. Website: https://drcliffordkearnsblog.com/. | https://dingalinged-cpu.github.io/registry/c/the-center-for-physical-health-schaumburg/
-2. Blum Chiropractic | trust 10.0 | Blum Chiropractic is a chiropractor in Schaumburg, IL at 877 South Roselle Road, Schaumburg, IL 60193. Phone: +16303514700. | https://dingalinged-cpu.github.io/registry/c/blum-chiropractic-schaumburg/
-3. Family Chiropractic | trust 0.0 | Family Chiropractic is a chiropractor in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/family-chiropractic-schaumburg/
+1. The Center For Physical Health | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | The Center For Physical Health is a chiropractor in Schaumburg, IL at 2201 W Schaumburg Rd, Schaumburg, IL 60194. Phone: +18473018585. Website: https://drcliffordkearnsblog.com/. | https://dingalinged-cpu.github.io/registry/c/the-center-for-physical-health-schaumburg/
+2. Blum Chiropractic | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Blum Chiropractic is a chiropractor in Schaumburg, IL at 877 South Roselle Road, Schaumburg, IL 60193. Phone: +16303514700. | https://dingalinged-cpu.github.io/registry/c/blum-chiropractic-schaumburg/
+3. Family Chiropractic | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Family Chiropractic is a chiropractor in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/family-chiropractic-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor schaumburg il | category: Health & medical | industry benchmark: Physicians & Surgeons

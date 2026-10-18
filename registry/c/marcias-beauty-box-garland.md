@@ -13,7 +13,7 @@ Marcia's Beauty Box is a hair salon in Garland, TX at 609 Main Street, Garland, 
 - Website: https://marciasbeautybox.placeweb.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Dallas–Fort Worth, #3 of 8 hair salons in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

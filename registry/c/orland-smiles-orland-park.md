@@ -13,7 +13,7 @@ Orland Smiles is a dentist in Orland Park, IL at 62 Orland Square Drive #104, Or
 - Website: https://orlandsmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-20:00; Tu 10:00-19:00; We 09:00-17:00; Fr 08:00-17:00; Sa 08:00-13:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 18% of dentists in Chicago, #2 of 4 dentists in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

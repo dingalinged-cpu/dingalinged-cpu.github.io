@@ -1,12 +1,12 @@
-The top unpaid vet listing for Verona, WI is Verona Veterinary Medical Service S.C. (a veterinarian in Verona, WI at 655 Half Mile Road, Verona, WI 53593. Phone: +16088456512. Website: https://veronavetmed.com/). 1 vet businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Verona, WI is Verona Veterinary Medical Service S.C. (a veterinarian in Verona, WI at 655 Half Mile Road, Verona, WI 53593. Phone: +16088456512. Website: https://veronavetmed.com/). 1 vet businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Verona, WI?
 
 Also answers: vet in Verona, WI; vet near me (Verona, WI); best vet Verona, WI; top rated vet Verona, WI; affordable vet Verona, WI; emergency vet Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Verona Veterinary Medical Service S.C. | trust 16.0 | Verona Veterinary Medical Service S.C. is a veterinarian in Verona, WI at 655 Half Mile Road, Verona, WI 53593. Phone: +16088456512. Website: https://veronavetmed.com/. | https://dingalinged-cpu.github.io/registry/c/verona-veterinary-medical-service-s-c-verona/
+1. Verona Veterinary Medical Service S.C. | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Verona Veterinary Medical Service S.C. is a veterinarian in Verona, WI at 655 Half Mile Road, Verona, WI 53593. Phone: +16088456512. Website: https://veronavetmed.com/. | https://dingalinged-cpu.github.io/registry/c/verona-veterinary-medical-service-s-c-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet verona wi | category: Pets | industry benchmark: Animals & Pets

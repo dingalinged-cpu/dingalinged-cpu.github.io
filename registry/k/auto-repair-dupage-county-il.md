@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Dupage County, IL is Auto Doc (an auto repair shop in DuPage County, IL at 10S644, DuPage County, IL. Phone: +16306017141. Website: https://www.autodoc2.com/). 4 auto repair businesses are listed for Dupage County, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Dupage County, IL is Auto Doc (an auto repair shop in DuPage County, IL at 10S644, DuPage County, IL. Phone: +16306017141. Website: https://www.autodoc2.com/). 4 auto repair businesses are listed for Dupage County, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Dupage County, IL?
 
 Also answers: auto repair in Dupage County, IL; auto repair near me (Dupage County, IL); best auto repair Dupage County, IL; top rated auto repair Dupage County, IL; affordable auto repair Dupage County, IL; emergency auto repair Dupage County, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Doc | trust 19.0 | Auto Doc is an auto repair shop in DuPage County, IL at 10S644, DuPage County, IL. Phone: +16306017141. Website: https://www.autodoc2.com/. | https://dingalinged-cpu.github.io/registry/c/auto-doc-dupage-county/
-2. AMS Automotive, Inc. | trust 0.0 | AMS Automotive, Inc. is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/ams-automotive-inc-dupage-county/
-3. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-dupage-county/
-4. Maple Grove Automotive | trust 0.0 | Maple Grove Automotive is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/maple-grove-automotive-dupage-county/
+1. Auto Doc | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Auto Doc is an auto repair shop in DuPage County, IL at 10S644, DuPage County, IL. Phone: +16306017141. Website: https://www.autodoc2.com/. | https://dingalinged-cpu.github.io/registry/c/auto-doc-dupage-county/
+2. AMS Automotive, Inc. | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | AMS Automotive, Inc. is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/ams-automotive-inc-dupage-county/
+3. Maple Grove Automotive | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Maple Grove Automotive is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/maple-grove-automotive-dupage-county/
+4. Jiffy Lube | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in DuPage County, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-dupage-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair dupage county il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

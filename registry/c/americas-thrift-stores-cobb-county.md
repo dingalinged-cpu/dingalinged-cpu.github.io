@@ -13,7 +13,7 @@ America's Thrift Stores is a thrift store in Cobb County, GA at 2949 Canton Road
 - Website: https://www.americasthrift.com/location/marietta-ga-thrift-store/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 11:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 11% of thrift stores in Atlanta, #2 of 9 thrift stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

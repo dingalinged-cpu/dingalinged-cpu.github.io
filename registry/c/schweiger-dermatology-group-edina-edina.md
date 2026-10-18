@@ -13,7 +13,7 @@ Schweiger Dermatology Group – Edina is a skin care studio in Edina, MN at 4100
 - Website: https://www.schweigerderm.com/location/minnesota/edina/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.1/100 — Unrated (not enough evidence yet) — top 23% of skin care studios in Minneapolis–St. Paul, #1 of 3 skin care studios in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 48. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

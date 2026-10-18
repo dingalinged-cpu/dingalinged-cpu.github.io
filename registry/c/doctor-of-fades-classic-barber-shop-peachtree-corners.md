@@ -13,7 +13,7 @@ Doctor Of Fades Classic Barber Shop is a barber shop in Peachtree Corners, GA at
 - Website: https://doctoroffadesclassicbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 10:00-19:00; We 09:00-17:00; Th-Fr 10:00-19:00; Sa 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 22% of barber shops in Atlanta, #2 of 5 barber shops in Peachtree Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

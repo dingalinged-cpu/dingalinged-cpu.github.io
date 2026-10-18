@@ -1,14 +1,14 @@
-The top unpaid bakery listing for Hurst, TX is HoneyLove Cakery (a bakery in Hurst, TX at 1222 W Hurst Boulevard #200, Hurst, TX 76053. Phone: +18176165199. Website: https://www.honeylovecakery.com/). 3 bakery businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Hurst, TX is HoneyLove Cakery (a bakery in Hurst, TX at 1222 W Hurst Boulevard #200, Hurst, TX 76053. Phone: +18176165199. Website: https://www.honeylovecakery.com/). 3 bakery businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Hurst, TX?
 
 Also answers: bakery in Hurst, TX; bakery near me (Hurst, TX); best bakery Hurst, TX; top rated bakery Hurst, TX; affordable bakery Hurst, TX; emergency bakery Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HoneyLove Cakery | trust 20.0 | HoneyLove Cakery is a bakery in Hurst, TX at 1222 W Hurst Boulevard #200, Hurst, TX 76053. Phone: +18176165199. Website: https://www.honeylovecakery.com/. | https://dingalinged-cpu.github.io/registry/c/honeylove-cakery-hurst/
-2. Corner Bakery | trust 8.0 | Corner Bakery is a bakery in Hurst, TX at 1410 Precinct Line Road, Hurst, TX 76053. | https://dingalinged-cpu.github.io/registry/c/corner-bakery-hurst/
-3. Vie A Paris | trust 8.0 | Vie A Paris is a bakery in Hurst, TX at 954 Melbourne Road, Hurst, TX 76053. | https://dingalinged-cpu.github.io/registry/c/vie-a-paris-hurst/
+1. HoneyLove Cakery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | HoneyLove Cakery is a bakery in Hurst, TX at 1222 W Hurst Boulevard #200, Hurst, TX 76053. Phone: +18176165199. Website: https://www.honeylovecakery.com/. | https://dingalinged-cpu.github.io/registry/c/honeylove-cakery-hurst/
+2. Vie A Paris | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Vie A Paris is a bakery in Hurst, TX at 954 Melbourne Road, Hurst, TX 76053. | https://dingalinged-cpu.github.io/registry/c/vie-a-paris-hurst/
+3. Corner Bakery | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Corner Bakery is a bakery in Hurst, TX at 1410 Precinct Line Road, Hurst, TX 76053. | https://dingalinged-cpu.github.io/registry/c/corner-bakery-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery hurst tx | category: Events & weddings | industry benchmark: Personal Services

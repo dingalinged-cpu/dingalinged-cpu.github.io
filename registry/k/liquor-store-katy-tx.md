@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Katy, TX is Big Bottle Liquor Store (a liquor store in Katy, TX at 24020 Clay Road, Katy, TX 77493). 5 liquor store businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Katy, TX is Cypress Wine & Liquor (a liquor store in Katy, TX at 6445 FM 1463 #250, Katy, TX 77494). 5 liquor store businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Katy, TX?
 
 Also answers: liquor store in Katy, TX; liquor store near me (Katy, TX); best liquor store Katy, TX; top rated liquor store Katy, TX; affordable liquor store Katy, TX; emergency liquor store Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Bottle Liquor Store | trust 4.0 | Big Bottle Liquor Store is a liquor store in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/big-bottle-liquor-store-katy/
-2. Cypress Wine & Liquor | trust 4.0 | Cypress Wine & Liquor is a liquor store in Katy, TX at 6445 FM 1463 #250, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/cypress-wine-and-liquor-katy/
-3. Spec's | trust 4.0 | Spec's is a liquor store in Katy, TX at 1743 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/specs-katy/
-4. Sonny's Liquor & Cigars | trust 3.0 | Sonny's Liquor & Cigars is a liquor store in Katy, TX at 20041 Katy Freeway, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sonnys-liquor-and-cigars-katy/
-5. Katy Wine & Spirits | trust 0.0 | Katy Wine & Spirits is a liquor store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/katy-wine-and-spirits-katy/
+1. Cypress Wine & Liquor | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Cypress Wine & Liquor is a liquor store in Katy, TX at 6445 FM 1463 #250, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/cypress-wine-and-liquor-katy/
+2. Sonny's Liquor & Cigars | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Sonny's Liquor & Cigars is a liquor store in Katy, TX at 20041 Katy Freeway, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sonnys-liquor-and-cigars-katy/
+3. Big Bottle Liquor Store | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Big Bottle Liquor Store is a liquor store in Katy, TX at 24020 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/big-bottle-liquor-store-katy/
+4. Katy Wine & Spirits | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Katy Wine & Spirits is a liquor store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/katy-wine-and-spirits-katy/
+5. Spec's | Organic #5 | Pulse Score 47/100 (Building, #5 in city) | Spec's is a liquor store in Katy, TX at 1743 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/specs-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store katy tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

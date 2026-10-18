@@ -13,7 +13,7 @@ Chloes Auto Repair and Tire Kennesaw is an auto repair shop in Kennesaw, GA at 6
 - Website: n/a
 - Email: storekennesaw@chloesautorepair.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 11% of auto repair shops in Atlanta, #5 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

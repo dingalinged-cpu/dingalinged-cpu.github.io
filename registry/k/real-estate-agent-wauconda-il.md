@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Wauconda, IL is Konnerth Reality Group (a real estate agency in Wauconda, IL at North Main Street, Wauconda, IL 60084. Phone: +18473548601. Website: https://www.konnerthrealtygroup.com/). 2 real estate agent businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Wauconda, IL is Ryan & Company Realtors (a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/). 2 real estate agent businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Wauconda, IL?
 
 Also answers: real estate agent in Wauconda, IL; real estate agent near me (Wauconda, IL); best real estate agent Wauconda, IL; top rated real estate agent Wauconda, IL; affordable real estate agent Wauconda, IL; emergency real estate agent Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Konnerth Reality Group | trust 16.0 | Konnerth Reality Group is a real estate agency in Wauconda, IL at North Main Street, Wauconda, IL 60084. Phone: +18473548601. Website: https://www.konnerthrealtygroup.com/. | https://dingalinged-cpu.github.io/registry/c/konnerth-reality-group-wauconda/
-2. Ryan & Company Realtors | trust 16.0 | Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/. | https://dingalinged-cpu.github.io/registry/c/ryan-and-company-realtors-wauconda/
+1. Ryan & Company Realtors | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Ryan & Company Realtors is a real estate agency in Wauconda, IL at 206 North Main Street, Wauconda, IL 60084. Phone: +18475260300. Website: https://ryanrealtors.com/. | https://dingalinged-cpu.github.io/registry/c/ryan-and-company-realtors-wauconda/
+2. Konnerth Reality Group | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Konnerth Reality Group is a real estate agency in Wauconda, IL at North Main Street, Wauconda, IL 60084. Phone: +18473548601. Website: https://www.konnerthrealtygroup.com/. | https://dingalinged-cpu.github.io/registry/c/konnerth-reality-group-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent wauconda il | category: Professional & financial services | industry benchmark: Finance & Insurance

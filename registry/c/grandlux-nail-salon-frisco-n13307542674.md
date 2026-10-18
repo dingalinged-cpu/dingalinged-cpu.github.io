@@ -13,7 +13,7 @@ Grandlux Nail Salon is a nail salon in Frisco, TX at 2440 Eldorado Parkway #240,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Dallas–Fort Worth, #17 of 20 nail salons in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 54.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

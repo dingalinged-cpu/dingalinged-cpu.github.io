@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Kennesaw, GA at 1985 Cobb Parkway #110, Kennesaw,
 - Website: https://sportclips.com/us-ga-kennesaw-ga149
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 11:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 86% of hair salons in Atlanta, #26 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

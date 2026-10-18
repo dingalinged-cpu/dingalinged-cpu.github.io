@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Northbrook, IL is Waterway Carwash Northbrook (a car wash in Northbrook, IL at 2300 Waukegan Road, Northbrook, IL 60062. Website: https://www.waterway.com/locations/northbrook). 4 car wash businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Northbrook, IL is Waterway Carwash Northbrook (a car wash in Northbrook, IL at 2300 Waukegan Road, Northbrook, IL 60062. Website: https://www.waterway.com/locations/northbrook). 4 car wash businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Northbrook, IL?
 
 Also answers: car wash in Northbrook, IL; car wash near me (Northbrook, IL); best car wash Northbrook, IL; top rated car wash Northbrook, IL; affordable car wash Northbrook, IL; emergency car wash Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waterway Carwash Northbrook | trust 10.0 | Waterway Carwash Northbrook is a car wash in Northbrook, IL at 2300 Waukegan Road, Northbrook, IL 60062. Website: https://www.waterway.com/locations/northbrook. | https://dingalinged-cpu.github.io/registry/c/waterway-carwash-northbrook-northbrook/
-2. BP | trust 4.0 | BP is a car wash in Northbrook, IL at 4095 Dundee Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook/
-3. BP | trust 4.0 | BP is a car wash in Northbrook, IL at Willow Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook-w1333922852/
-4. TRIO carwash | trust 4.0 | TRIO carwash is a car wash in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/trio-carwash-northbrook/
+1. Waterway Carwash Northbrook | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Waterway Carwash Northbrook is a car wash in Northbrook, IL at 2300 Waukegan Road, Northbrook, IL 60062. Website: https://www.waterway.com/locations/northbrook. | https://dingalinged-cpu.github.io/registry/c/waterway-carwash-northbrook-northbrook/
+2. TRIO carwash | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | TRIO carwash is a car wash in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/trio-carwash-northbrook/
+3. BP | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | BP is a car wash in Northbrook, IL at 4095 Dundee Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook/
+4. BP | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | BP is a car wash in Northbrook, IL at Willow Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/bp-northbrook-w1333922852/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash northbrook il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

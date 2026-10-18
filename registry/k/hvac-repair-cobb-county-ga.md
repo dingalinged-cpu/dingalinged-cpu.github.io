@@ -1,14 +1,14 @@
-The top unpaid hvac repair listing for Cobb County, GA is Cool Air Mechanical (a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/). 3 hvac repair businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Cobb County, GA is Cool Air Mechanical (a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/). 3 hvac repair businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Cobb County, GA?
 
 Also answers: hvac repair in Cobb County, GA; hvac repair near me (Cobb County, GA); best hvac repair Cobb County, GA; top rated hvac repair Cobb County, GA; affordable hvac repair Cobb County, GA; emergency hvac repair Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cool Air Mechanical | trust 19.0 | Cool Air Mechanical is a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/. | https://dingalinged-cpu.github.io/registry/c/cool-air-mechanical-cobb-county/
-2. Scarangello Heating & AC | trust 15.0 | Scarangello Heating & AC is a HVAC contractor in Cobb County, GA at 2389 Canton Road, Cobb County, GA. Phone: +16782246718. Website: https://scarangellohvac.com/. | https://dingalinged-cpu.github.io/registry/c/scarangello-heating-and-ac-cobb-county/
-3. Accutemp Heating And Cooling | trust 0.0 | Accutemp Heating And Cooling is a HVAC contractor in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/accutemp-heating-and-cooling-cobb-county/
+1. Cool Air Mechanical | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | Cool Air Mechanical is a HVAC contractor in Cobb County, GA at 1950 Guffin Lane, Cobb County, GA. Phone: +14705315480. Website: https://www.770coolair.com/. | https://dingalinged-cpu.github.io/registry/c/cool-air-mechanical-cobb-county/
+2. Scarangello Heating & AC | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Scarangello Heating & AC is a HVAC contractor in Cobb County, GA at 2389 Canton Road, Cobb County, GA. Phone: +16782246718. Website: https://scarangellohvac.com/. | https://dingalinged-cpu.github.io/registry/c/scarangello-heating-and-ac-cobb-county/
+3. Accutemp Heating And Cooling | Organic #3 | Pulse Score 53.5/100 (Unrated, #3 in city) | Accutemp Heating And Cooling is a HVAC contractor in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/accutemp-heating-and-cooling-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair cobb county ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

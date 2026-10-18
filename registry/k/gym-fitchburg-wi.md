@@ -1,17 +1,17 @@
-The top unpaid gym listing for Fitchburg, WI is Anytime Fitness (a gym in Fitchburg, WI at 2980 Cahill Main #112, Fitchburg, WI 53711. Phone: +16082989898. Website: https://www.anytimefitness.com/gyms/3025/fitchburg-wi-53711/). 6 gym businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Fitchburg, WI is Great State CrossFit (a gym in Fitchburg, WI. Phone: +16083388016. Website: https://greatstatecrossfit.com/). 6 gym businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Fitchburg, WI?
 
 Also answers: gym in Fitchburg, WI; gym near me (Fitchburg, WI); best gym Fitchburg, WI; top rated gym Fitchburg, WI; affordable gym Fitchburg, WI; emergency gym Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Fitchburg, WI at 2980 Cahill Main #112, Fitchburg, WI 53711. Phone: +16082989898. Website: https://www.anytimefitness.com/gyms/3025/fitchburg-wi-53711/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-fitchburg/
-2. Anytime Fitness | trust 16.0 | Anytime Fitness is a gym in Fitchburg, WI at 6250 Nesbitt Road #600, Fitchburg, WI 53719. Phone: +16082709500. Website: https://www.anytimefitness.com/gyms/690/fitchburg-wi-53719/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-fitchburg-n6904292568/
-3. Great State CrossFit | trust 12.0 | Great State CrossFit is a gym in Fitchburg, WI. Phone: +16083388016. Website: https://greatstatecrossfit.com/. | https://dingalinged-cpu.github.io/registry/c/great-state-crossfit-fitchburg/
-4. Pinnacle Health + Fitness | trust 9.0 | Pinnacle Health + Fitness is a gym in Fitchburg, WI at 5973 Executive Drive, Fitchburg, WI. Website: https://www.phfitness.com/. | https://dingalinged-cpu.github.io/registry/c/pinnacle-health-fitness-fitchburg/
-5. Princeton Club | trust 7.0 | Princeton Club is a gym in Fitchburg, WI at 2920 Hardrock Road, Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/princeton-club-fitchburg/
-6. Gymfinity | trust 0.0 | Gymfinity is a gym in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/gymfinity-fitchburg/
+1. Great State CrossFit | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Great State CrossFit is a gym in Fitchburg, WI. Phone: +16083388016. Website: https://greatstatecrossfit.com/. | https://dingalinged-cpu.github.io/registry/c/great-state-crossfit-fitchburg/
+2. Pinnacle Health + Fitness | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Pinnacle Health + Fitness is a gym in Fitchburg, WI at 5973 Executive Drive, Fitchburg, WI. Website: https://www.phfitness.com/. | https://dingalinged-cpu.github.io/registry/c/pinnacle-health-fitness-fitchburg/
+3. Gymfinity | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | Gymfinity is a gym in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/gymfinity-fitchburg/
+4. Anytime Fitness | Organic #4 | Pulse Score 50.8/100 (Fair, #4 in city) | Anytime Fitness is a gym in Fitchburg, WI at 2980 Cahill Main #112, Fitchburg, WI 53711. Phone: +16082989898. Website: https://www.anytimefitness.com/gyms/3025/fitchburg-wi-53711/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-fitchburg/
+5. Anytime Fitness | Organic #5 | Pulse Score 49/100 (Building, #5 in city) | Anytime Fitness is a gym in Fitchburg, WI at 6250 Nesbitt Road #600, Fitchburg, WI 53719. Phone: +16082709500. Website: https://www.anytimefitness.com/gyms/690/fitchburg-wi-53719/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-fitchburg-n6904292568/
+6. Princeton Club | Organic #6 | Pulse Score 46.2/100 (Building, #6 in city) | Princeton Club is a gym in Fitchburg, WI at 2920 Hardrock Road, Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/princeton-club-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym fitchburg wi | category: Fitness | industry benchmark: Health & Fitness

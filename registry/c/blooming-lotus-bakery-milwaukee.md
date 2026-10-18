@@ -13,7 +13,7 @@ Blooming Lotus Bakery is a bakery in Milwaukee, WI at 2215 East North Avenue, Mi
 - Website: https://www.blbmke.com/
 - Email: info@blbmke.com
 - Opening hours (OSM syntax): Mo-Fr 07:30-13:00; Sa 08:00-13:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 7% of bakerys in Milwaukee, #1 of 17 bakerys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

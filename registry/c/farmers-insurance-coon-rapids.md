@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Coon Rapids, MN at 11490 Hanson Boule
 - Website: https://agents.farmers.com/mn/coon-rapids/kevin-krejsa
 - Email: kkrejsa@farmersagent.com
 - Opening hours (OSM syntax): Mo-Fr 8:30-17:00
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 47% of insurance agents in Minneapolis–St. Paul, #3 of 5 insurance agents in Coon Rapids (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

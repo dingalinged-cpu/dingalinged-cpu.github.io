@@ -13,7 +13,7 @@ Carfect is an used car dealer in Chicago, IL at 4530 South Archer Avenue, Chicag
 - Website: https://carfect.com/chicago-used-car-dealers/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 9% of used car dealers in Chicago, #4 of 13 used car dealers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

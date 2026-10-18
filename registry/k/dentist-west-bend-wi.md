@@ -1,14 +1,14 @@
-The top unpaid dentist listing for West Bend, WI is Aspen Dental (a dentist in West Bend, WI). 3 dentist businesses are listed for West Bend, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for West Bend, WI is Oakbrook Dental (a dentist in West Bend, WI). 3 dentist businesses are listed for West Bend, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in West Bend, WI?
 
 Also answers: dentist in West Bend, WI; dentist near me (West Bend, WI); best dentist West Bend, WI; top rated dentist West Bend, WI; affordable dentist West Bend, WI; emergency dentist West Bend, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-west-bend/
-2. Oakbrook Dental | trust 0.0 | Oakbrook Dental is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/oakbrook-dental-west-bend/
-3. Today's Dentistry | trust 0.0 | Today's Dentistry is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/todays-dentistry-west-bend/
+1. Oakbrook Dental | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Oakbrook Dental is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/oakbrook-dental-west-bend/
+2. Today's Dentistry | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Today's Dentistry is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/todays-dentistry-west-bend/
+3. Aspen Dental | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Aspen Dental is a dentist in West Bend, WI. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-west-bend/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist west bend wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

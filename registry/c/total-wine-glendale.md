@@ -13,7 +13,7 @@ Total Wine is a liquor store in Glendale, WI at 5850 North Bayshore Drive, Glend
 - Website: https://www.totalwine.com/store-info/1904
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 53.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 98% of liquor stores in Milwaukee, #2 of 2 liquor stores in Glendale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

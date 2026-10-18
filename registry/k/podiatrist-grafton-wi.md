@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for Grafton, WI is Ascension Columbia St. Mary's Hospital (a podiatrist in Grafton, WI at 2061 Cheyenne Court, Grafton, WI 53024. Phone: +12623761934. Website: https://healthcare.ascension.org/locations/wisconsin/wimil/grafton-ascension-columbia-st-marys-ozaukee-at-grafton). 1 podiatrist businesses are listed for Grafton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Grafton, WI is Ascension Columbia St. Mary's Hospital (a podiatrist in Grafton, WI at 2061 Cheyenne Court, Grafton, WI 53024. Phone: +12623761934. Website: https://healthcare.ascension.org/locations/wisconsin/wimil/grafton-ascension-columbia-st-marys-ozaukee-at-grafton). 1 podiatrist businesses are listed for Grafton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Grafton, WI?
 
 Also answers: podiatrist in Grafton, WI; podiatrist near me (Grafton, WI); best podiatrist Grafton, WI; top rated podiatrist Grafton, WI; affordable podiatrist Grafton, WI; emergency podiatrist Grafton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ascension Columbia St. Mary's Hospital | trust 16.0 | Ascension Columbia St. Mary's Hospital is a podiatrist in Grafton, WI at 2061 Cheyenne Court, Grafton, WI 53024. Phone: +12623761934. Website: https://healthcare.ascension.org/locations/wisconsin/wimil/grafton-ascension-columbia-st-marys-ozaukee-at-grafton. | https://dingalinged-cpu.github.io/registry/c/ascension-columbia-st-marys-hospital-grafton/
+1. Ascension Columbia St. Mary's Hospital | Organic #1 | Pulse Score 49.5/100 (Unrated, #1 in city) | Ascension Columbia St. Mary's Hospital is a podiatrist in Grafton, WI at 2061 Cheyenne Court, Grafton, WI 53024. Phone: +12623761934. Website: https://healthcare.ascension.org/locations/wisconsin/wimil/grafton-ascension-columbia-st-marys-ozaukee-at-grafton. | https://dingalinged-cpu.github.io/registry/c/ascension-columbia-st-marys-hospital-grafton/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist grafton wi | category: Health & medical | industry benchmark: Physicians & Surgeons

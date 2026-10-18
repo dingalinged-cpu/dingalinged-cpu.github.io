@@ -1,14 +1,14 @@
-The top unpaid shoe repair listing for Cobb County, GA is All One Stop Shoe Repair And More (a shoe repair in Cobb County, GA at 3015 Canton Road, Cobb County, GA. Phone: +17706727294). 3 shoe repair businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Cobb County, GA is All One Stop Shoe Repair And More (a shoe repair in Cobb County, GA at 3015 Canton Road, Cobb County, GA. Phone: +17706727294). 3 shoe repair businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Cobb County, GA?
 
 Also answers: shoe repair in Cobb County, GA; shoe repair near me (Cobb County, GA); best shoe repair Cobb County, GA; top rated shoe repair Cobb County, GA; affordable shoe repair Cobb County, GA; emergency shoe repair Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All One Stop Shoe Repair And More | trust 13.0 | All One Stop Shoe Repair And More is a shoe repair in Cobb County, GA at 3015 Canton Road, Cobb County, GA. Phone: +17706727294. | https://dingalinged-cpu.github.io/registry/c/all-one-stop-shoe-repair-and-more-cobb-county/
-2. Instant Shoe Repair | trust 7.0 | Instant Shoe Repair is a shoe repair in Cobb County, GA at 3162 Johnson Ferry Road #125, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/instant-shoe-repair-cobb-county/
-3. Parkaire Shoe Repair | trust 0.0 | Parkaire Shoe Repair is a shoe repair in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/parkaire-shoe-repair-cobb-county/
+1. All One Stop Shoe Repair And More | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | All One Stop Shoe Repair And More is a shoe repair in Cobb County, GA at 3015 Canton Road, Cobb County, GA. Phone: +17706727294. | https://dingalinged-cpu.github.io/registry/c/all-one-stop-shoe-repair-and-more-cobb-county/
+2. Instant Shoe Repair | Organic #2 | Pulse Score 61.8/100 (Good, #2 in city) | Instant Shoe Repair is a shoe repair in Cobb County, GA at 3162 Johnson Ferry Road #125, Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/instant-shoe-repair-cobb-county/
+3. Parkaire Shoe Repair | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Parkaire Shoe Repair is a shoe repair in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/parkaire-shoe-repair-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair cobb county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

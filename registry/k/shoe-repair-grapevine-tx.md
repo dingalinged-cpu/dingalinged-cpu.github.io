@@ -1,13 +1,13 @@
-The top unpaid shoe repair listing for Grapevine, TX is Shoe Polisher (a shoe repair in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051). 2 shoe repair businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Grapevine, TX is Shoe Polisher (a shoe repair in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051). 2 shoe repair businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Grapevine, TX?
 
 Also answers: shoe repair in Grapevine, TX; shoe repair near me (Grapevine, TX); best shoe repair Grapevine, TX; top rated shoe repair Grapevine, TX; affordable shoe repair Grapevine, TX; emergency shoe repair Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shoe Polisher | trust 4.0 | Shoe Polisher is a shoe repair in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/shoe-polisher-grapevine/
-2. Messina’s Shoe Repair | trust 0.0 | Messina’s Shoe Repair is a shoe repair in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/messina-s-shoe-repair-grapevine/
+1. Shoe Polisher | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Shoe Polisher is a shoe repair in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/shoe-polisher-grapevine/
+2. Messina’s Shoe Repair | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Messina’s Shoe Repair is a shoe repair in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/messina-s-shoe-repair-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair grapevine tx | category: Professional & financial services | industry benchmark: Finance & Insurance

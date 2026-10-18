@@ -13,7 +13,7 @@ Kauffman Tire is an auto repair shop in Norcross, GA at 5570 Peachtree Industria
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 78% of auto repair shops in Atlanta, #2 of 3 auto repair shops in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

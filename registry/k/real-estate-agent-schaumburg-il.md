@@ -1,14 +1,14 @@
-The top unpaid real estate agent listing for Schaumburg, IL is Berkshire Hathway Home Services (a real estate agency in Schaumburg, IL). 3 real estate agent businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Schaumburg, IL is Berkshire Hathway Home Services (a real estate agency in Schaumburg, IL). 3 real estate agent businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Schaumburg, IL?
 
 Also answers: real estate agent in Schaumburg, IL; real estate agent near me (Schaumburg, IL); best real estate agent Schaumburg, IL; top rated real estate agent Schaumburg, IL; affordable real estate agent Schaumburg, IL; emergency real estate agent Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Berkshire Hathway Home Services | trust 0.0 | Berkshire Hathway Home Services is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/berkshire-hathway-home-services-schaumburg/
-2. Century 21 | trust 0.0 | Century 21 is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/century-21-schaumburg/
-3. Mortgage Services LLC | trust 0.0 | Mortgage Services LLC is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/mortgage-services-llc-schaumburg/
+1. Berkshire Hathway Home Services | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Berkshire Hathway Home Services is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/berkshire-hathway-home-services-schaumburg/
+2. Mortgage Services LLC | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Mortgage Services LLC is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/mortgage-services-llc-schaumburg/
+3. Century 21 | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Century 21 is a real estate agency in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/century-21-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent schaumburg il | category: Professional & financial services | industry benchmark: Finance & Insurance

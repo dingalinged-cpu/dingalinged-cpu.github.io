@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Norridge, IL is Northwest Lube (an auto repair shop in Norridge, IL at 4928 North Cumberland Avenue, Norridge, IL 60706). 1 oil change businesses are listed for Norridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Norridge, IL is Northwest Lube (an auto repair shop in Norridge, IL at 4928 North Cumberland Avenue, Norridge, IL 60706). 1 oil change businesses are listed for Norridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Norridge, IL?
 
 Also answers: oil change in Norridge, IL; oil change near me (Norridge, IL); best oil change Norridge, IL; top rated oil change Norridge, IL; affordable oil change Norridge, IL; emergency oil change Norridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwest Lube | trust 4.0 | Northwest Lube is an auto repair shop in Norridge, IL at 4928 North Cumberland Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/northwest-lube-norridge/
+1. Northwest Lube | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Northwest Lube is an auto repair shop in Norridge, IL at 4928 North Cumberland Avenue, Norridge, IL 60706. | https://dingalinged-cpu.github.io/registry/c/northwest-lube-norridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change norridge il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

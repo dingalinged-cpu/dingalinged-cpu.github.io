@@ -1,13 +1,13 @@
-The top unpaid architect listing for Westlake, TX is Benefit Architects (an architect in Westlake, TX). 2 architect businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Westlake, TX is Benefit Architects (an architect in Westlake, TX). 2 architect businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Westlake, TX?
 
 Also answers: architect in Westlake, TX; architect near me (Westlake, TX); best architect Westlake, TX; top rated architect Westlake, TX; affordable architect Westlake, TX; emergency architect Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Benefit Architects | trust 0.0 | Benefit Architects is an architect in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/benefit-architects-westlake/
-2. BRNS Design | trust 0.0 | BRNS Design is an architect in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/brns-design-westlake/
+1. Benefit Architects | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Benefit Architects is an architect in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/benefit-architects-westlake/
+2. BRNS Design | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | BRNS Design is an architect in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/brns-design-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect westlake tx | category: Home services - Design | industry benchmark: Home & Home Improvement

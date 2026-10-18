@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Chamblee, GA is Blue Ridge Automotive (an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/). 3 tire shop businesses are listed for Chamblee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Chamblee, GA is Blue Ridge Automotive (an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/). 3 tire shop businesses are listed for Chamblee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Chamblee, GA?
 
 Also answers: tire shop in Chamblee, GA; tire shop near me (Chamblee, GA); best tire shop Chamblee, GA; top rated tire shop Chamblee, GA; affordable tire shop Chamblee, GA; emergency tire shop Chamblee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Ridge Automotive | trust 20.0 | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-chamblee/
-2. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Chamblee, GA at 5722 Peachtree Industrial Boulevard, Chamblee, GA 30341. Phone: +17704512414. Website: https://www.expressoil.com/stores/chamblee/ga/1324/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-chamblee/
-3. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/discount-tire-chamblee/
+1. Blue Ridge Automotive | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Blue Ridge Automotive is an auto repair shop in Chamblee, GA at 3733 North Peachtree Road, Chamblee, GA 30341. Phone: +17702168474. Website: https://blueridgeauto.co/car-repair-shop-chamblee-ga/. | https://dingalinged-cpu.github.io/registry/c/blue-ridge-automotive-chamblee/
+2. Express Oil Change & Tire Engineers | Organic #2 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Chamblee, GA at 5722 Peachtree Industrial Boulevard, Chamblee, GA 30341. Phone: +17704512414. Website: https://www.expressoil.com/stores/chamblee/ga/1324/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-chamblee/
+3. Discount Tire | Organic #3 | Pulse Score 42.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Chamblee, GA. | https://dingalinged-cpu.github.io/registry/c/discount-tire-chamblee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop chamblee ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

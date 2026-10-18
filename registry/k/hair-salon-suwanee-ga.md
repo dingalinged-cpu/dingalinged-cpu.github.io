@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Suwanee, GA is Modnier Hair Inc (a hair salon in Suwanee, GA at 1299 Old Peachtree Road Northwest #107, Suwanee, GA 30024). 3 hair salon businesses are listed for Suwanee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Suwanee, GA is Modnier Hair Inc (a hair salon in Suwanee, GA at 1299 Old Peachtree Road Northwest #107, Suwanee, GA 30024). 3 hair salon businesses are listed for Suwanee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Suwanee, GA?
 
 Also answers: hair salon in Suwanee, GA; hair salon near me (Suwanee, GA); best hair salon Suwanee, GA; top rated hair salon Suwanee, GA; affordable hair salon Suwanee, GA; emergency hair salon Suwanee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modnier Hair Inc | trust 4.0 | Modnier Hair Inc is a hair salon in Suwanee, GA at 1299 Old Peachtree Road Northwest #107, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/modnier-hair-inc-suwanee/
-2. Venus Hair Salon | trust 4.0 | Venus Hair Salon is a hair salon in Suwanee, GA at 1295 Old Peachtree Road Northwest #170, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/venus-hair-salon-suwanee/
-3. Hair Fusion Salon | trust 0.0 | Hair Fusion Salon is a hair salon in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/hair-fusion-salon-suwanee/
+1. Modnier Hair Inc | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Modnier Hair Inc is a hair salon in Suwanee, GA at 1299 Old Peachtree Road Northwest #107, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/modnier-hair-inc-suwanee/
+2. Venus Hair Salon | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Venus Hair Salon is a hair salon in Suwanee, GA at 1295 Old Peachtree Road Northwest #170, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/venus-hair-salon-suwanee/
+3. Hair Fusion Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Hair Fusion Salon is a hair salon in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/hair-fusion-salon-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon suwanee ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Bellaire, TX is Saint Vincent de Paul Thrift Store (a thrift store in Bellaire, TX at 5236 Cedar Street, Bellaire, TX 77401). 2 thrift store businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Bellaire, TX is Sunshine Resale Shop (a thrift store in Bellaire, TX at 5413 Bellaire Boulevard, Bellaire, TX 77401). 2 thrift store businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Bellaire, TX?
 
 Also answers: thrift store in Bellaire, TX; thrift store near me (Bellaire, TX); best thrift store Bellaire, TX; top rated thrift store Bellaire, TX; affordable thrift store Bellaire, TX; emergency thrift store Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Saint Vincent de Paul Thrift Store | trust 4.0 | Saint Vincent de Paul Thrift Store is a thrift store in Bellaire, TX at 5236 Cedar Street, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-bellaire/
-2. Sunshine Resale Shop | trust 4.0 | Sunshine Resale Shop is a thrift store in Bellaire, TX at 5413 Bellaire Boulevard, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/sunshine-resale-shop-bellaire/
+1. Sunshine Resale Shop | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Sunshine Resale Shop is a thrift store in Bellaire, TX at 5413 Bellaire Boulevard, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/sunshine-resale-shop-bellaire/
+2. Saint Vincent de Paul Thrift Store | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | Saint Vincent de Paul Thrift Store is a thrift store in Bellaire, TX at 5236 Cedar Street, Bellaire, TX 77401. | https://dingalinged-cpu.github.io/registry/c/saint-vincent-de-paul-thrift-store-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store bellaire tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

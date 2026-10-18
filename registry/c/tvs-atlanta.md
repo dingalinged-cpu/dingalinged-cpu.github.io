@@ -13,7 +13,7 @@ TVS is an architect in Atlanta, GA at 1200 Peachtree Street Northeast #200, Atla
 - Website: https://www.tvsdesign.com/
 - Email: tvsdesign@tvsdesign.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 24% of architects in Atlanta, #2 of 8 architects in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

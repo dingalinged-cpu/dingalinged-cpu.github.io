@@ -1,19 +1,19 @@
-The top unpaid hair salon listing for Fort Bend County, TX is Beauty Cuts (a hair salon in Fort Bend County, TX). 8 hair salon businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Fort Bend County, TX is Beauty Cuts (a hair salon in Fort Bend County, TX). 8 hair salon businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Fort Bend County, TX?
 
 Also answers: hair salon in Fort Bend County, TX; hair salon near me (Fort Bend County, TX); best hair salon Fort Bend County, TX; top rated hair salon Fort Bend County, TX; affordable hair salon Fort Bend County, TX; emergency hair salon Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beauty Cuts | trust 0.0 | Beauty Cuts is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/beauty-cuts-fort-bend-county/
-2. Blow & Glow | trust 0.0 | Blow & Glow is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blow-and-glow-fort-bend-county/
-3. Derma Hair Salon | trust 0.0 | Derma Hair Salon is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/derma-hair-salon-fort-bend-county/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-fort-bend-county/
-5. Hair Tyme Beauty Lounge | trust 0.0 | Hair Tyme Beauty Lounge is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/hair-tyme-beauty-lounge-fort-bend-county/
-6. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-fort-bend-county/
-7. Supercuts | trust 0.0 | Supercuts is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-fort-bend-county/
-8. Uplift Hair Studio | trust 0.0 | Uplift Hair Studio is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/uplift-hair-studio-fort-bend-county/
+1. Beauty Cuts | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Beauty Cuts is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/beauty-cuts-fort-bend-county/
+2. Blow & Glow | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Blow & Glow is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blow-and-glow-fort-bend-county/
+3. Derma Hair Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Derma Hair Salon is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/derma-hair-salon-fort-bend-county/
+4. Hair Tyme Beauty Lounge | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Hair Tyme Beauty Lounge is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/hair-tyme-beauty-lounge-fort-bend-county/
+5. Uplift Hair Studio | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Uplift Hair Studio is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/uplift-hair-studio-fort-bend-county/
+6. Great Clips | Organic #6 | Pulse Score 42.7/100 (Building, #6 in city) | Great Clips is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-fort-bend-county/
+7. Sport Clips | Organic #7 | Pulse Score 42.7/100 (Building, #7 in city) | Sport Clips is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-fort-bend-county/
+8. Supercuts | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Supercuts is a hair salon in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon fort bend county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

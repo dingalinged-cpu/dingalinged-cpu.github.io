@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Mont Belvieu, TX is Supercuts (a hair salon in Mont Belvieu, TX). 1 hair salon businesses are listed for Mont Belvieu, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Mont Belvieu, TX is Supercuts (a hair salon in Mont Belvieu, TX). 1 hair salon businesses are listed for Mont Belvieu, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Mont Belvieu, TX?
 
 Also answers: hair salon in Mont Belvieu, TX; hair salon near me (Mont Belvieu, TX); best hair salon Mont Belvieu, TX; top rated hair salon Mont Belvieu, TX; affordable hair salon Mont Belvieu, TX; emergency hair salon Mont Belvieu, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Supercuts | trust 0.0 | Supercuts is a hair salon in Mont Belvieu, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-mont-belvieu/
+1. Supercuts | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Supercuts is a hair salon in Mont Belvieu, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-mont-belvieu/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon mont belvieu tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

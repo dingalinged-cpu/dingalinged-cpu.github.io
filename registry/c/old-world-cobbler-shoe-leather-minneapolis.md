@@ -13,7 +13,7 @@ Old World Cobbler Shoe Leather is a shoe repair in Minneapolis, MN at 3015 Lynda
 - Website: https://oldworldcobbler.wordpress.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment only"
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 10% of shoe repairs in Minneapolis–St. Paul, #1 of 4 shoe repairs in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 68.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

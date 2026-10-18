@@ -1,13 +1,13 @@
-The top unpaid mattress store listing for Brookhaven, GA is Mattress Firm (a mattress store in Atlanta, GA at 3944 Peachtree Road NorthEast #B, Atlanta, GA 30319. Phone: +14048411528. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007067/). 2 mattress store businesses are listed for Brookhaven, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Brookhaven, GA is Mattress Firm (a mattress store in Atlanta, GA at 2562 Briarcliff Road, Atlanta, GA 30329. Phone: +14044869647. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007112/). 2 mattress store businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Brookhaven, GA?
 
 Also answers: mattress store in Brookhaven, GA; mattress store near me (Brookhaven, GA); best mattress store Brookhaven, GA; top rated mattress store Brookhaven, GA; affordable mattress store Brookhaven, GA; emergency mattress store Brookhaven, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Atlanta, GA at 3944 Peachtree Road NorthEast #B, Atlanta, GA 30319. Phone: +14048411528. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007067/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-atlanta/
-2. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Atlanta, GA at 2562 Briarcliff Road, Atlanta, GA 30329. Phone: +14044869647. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007112/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-atlanta-n2992702733/
+1. Mattress Firm | Organic #1 | Pulse Score 46.8/100 (Building, #2 in city) | Mattress Firm is a mattress store in Atlanta, GA at 2562 Briarcliff Road, Atlanta, GA 30329. Phone: +14044869647. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007112/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-atlanta-n2992702733/
+2. Mattress Firm | Organic #2 | Pulse Score 46.3/100 (Building, #4 in city) | Mattress Firm is a mattress store in Atlanta, GA at 3944 Peachtree Road NorthEast #B, Atlanta, GA 30319. Phone: +14048411528. Website: https://www.mattressfirm.com/en-us/stores/ga/atlanta/007067/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store brookhaven ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

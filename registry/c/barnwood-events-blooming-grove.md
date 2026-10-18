@@ -13,7 +13,7 @@ Barnwood Events is an event venue in Blooming Grove, WI. Website: https://www.ba
 - Website: https://www.barnwoodeventswi.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 67% of event venues in Madison, #1 of 1 event venues in Blooming Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.3, Trust 42.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Webster, TX at 20798 Gulf Freeway #10, Webs
 - Website: https://www.mattressfirm.com/en-us/stores/tx/webster/001005/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 55% of mattress stores in Houston, #1 of 2 mattress stores in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

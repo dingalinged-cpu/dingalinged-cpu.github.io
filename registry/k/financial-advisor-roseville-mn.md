@@ -1,12 +1,12 @@
-The top unpaid financial advisor listing for Roseville, MN is Edward Jones (a financial advisor in Roseville, MN at 1751 Lexington Avenue North, Roseville, MN 55113. Phone: +16514890158. Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=w4m%2B7spQgqE%2FYpDb5HqE4TJ0boXrTGmStlqhAxrMuo7xsLQi7Jg3MOPLMX2vnbGL). 1 financial advisor businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Roseville, MN is Edward Jones (a financial advisor in Roseville, MN at 1751 Lexington Avenue North, Roseville, MN 55113. Phone: +16514890158. Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=w4m%2B7spQgqE%2FYpDb5HqE4TJ0boXrTGmStlqhAxrMuo7xsLQi7Jg3MOPLMX2vnbGL). 1 financial advisor businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Roseville, MN?
 
 Also answers: financial advisor in Roseville, MN; financial advisor near me (Roseville, MN); best financial advisor Roseville, MN; top rated financial advisor Roseville, MN; affordable financial advisor Roseville, MN; emergency financial advisor Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 16.0 | Edward Jones is a financial advisor in Roseville, MN at 1751 Lexington Avenue North, Roseville, MN 55113. Phone: +16514890158. Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=w4m%2B7spQgqE%2FYpDb5HqE4TJ0boXrTGmStlqhAxrMuo7xsLQi7Jg3MOPLMX2vnbGL. | https://dingalinged-cpu.github.io/registry/c/edward-jones-roseville/
+1. Edward Jones | Organic #1 | Pulse Score 50/100 (Fair, #1 in city) | Edward Jones is a financial advisor in Roseville, MN at 1751 Lexington Avenue North, Roseville, MN 55113. Phone: +16514890158. Website: https://www.edwardjones.com/financial-advisor/index.html?CIRN=w4m%2B7spQgqE%2FYpDb5HqE4TJ0boXrTGmStlqhAxrMuo7xsLQi7Jg3MOPLMX2vnbGL. | https://dingalinged-cpu.github.io/registry/c/edward-jones-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor roseville mn | category: Professional & financial services | industry benchmark: Finance & Insurance

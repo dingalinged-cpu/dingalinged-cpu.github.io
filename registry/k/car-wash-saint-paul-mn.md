@@ -1,20 +1,20 @@
-The top unpaid car wash listing for Saint Paul, MN is Midway Express Car Wash (a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/). 9 car wash businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Saint Paul, MN is Midway Express Car Wash (a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/). 9 car wash businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Saint Paul, MN?
 
 Also answers: car wash in Saint Paul, MN; car wash near me (Saint Paul, MN); best car wash Saint Paul, MN; top rated car wash Saint Paul, MN; affordable car wash Saint Paul, MN; emergency car wash Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midway Express Car Wash | trust 19.0 | Midway Express Car Wash is a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/. | https://dingalinged-cpu.github.io/registry/c/midway-express-car-wash-saint-paul/
-2. Mister Car Wash | trust 19.0 | Mister Car Wash is a car wash in Saint Paul, MN at East 7th Street, Saint Paul, MN. Phone: +16512227045. Website: https://mistercarwash.com/location/downtowner/. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-saint-paul/
-3. Boler Car Wash Detail Center | trust 4.0 | Boler Car Wash Detail Center is a car wash in Saint Paul, MN at 1635 White Bear Avenue North, Saint Paul, MN 55109. | https://dingalinged-cpu.github.io/registry/c/boler-car-wash-detail-center-saint-paul/
-4. BP Car Wash | trust 4.0 | BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126. | https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/
-5. The Car Wash Co. | trust 3.0 | The Car Wash Co. is a car wash in Saint Paul, MN at 351 Robert Street South, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-car-wash-co-saint-paul/
-6. BP | trust 0.0 | BP is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/bp-saint-paul/
-7. Holiday | trust 0.0 | Holiday is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/holiday-saint-paul/
-8. Scrubbys | trust 0.0 | Scrubbys is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/scrubbys-saint-paul/
-9. Soapy Joe's Car Wash | trust 0.0 | Soapy Joe's Car Wash is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/soapy-joes-car-wash-saint-paul/
+1. Midway Express Car Wash | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Midway Express Car Wash is a car wash in Saint Paul, MN at 1610 Energy Park Drive, Saint Paul, MN. Phone: +16516460429. Website: https://metroexpresscarwash.wordpress.com/. | https://dingalinged-cpu.github.io/registry/c/midway-express-car-wash-saint-paul/
+2. Boler Car Wash Detail Center | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Boler Car Wash Detail Center is a car wash in Saint Paul, MN at 1635 White Bear Avenue North, Saint Paul, MN 55109. | https://dingalinged-cpu.github.io/registry/c/boler-car-wash-detail-center-saint-paul/
+3. BP Car Wash | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | BP Car Wash is a car wash in Saint Paul, MN at 5990 Hodgson Road, Saint Paul, MN 55126. | https://dingalinged-cpu.github.io/registry/c/bp-car-wash-saint-paul/
+4. The Car Wash Co. | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | The Car Wash Co. is a car wash in Saint Paul, MN at 351 Robert Street South, Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/the-car-wash-co-saint-paul/
+5. Holiday | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | Holiday is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/holiday-saint-paul/
+6. Scrubbys | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Scrubbys is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/scrubbys-saint-paul/
+7. Soapy Joe's Car Wash | Organic #7 | Pulse Score 55.4/100 (Unrated, #7 in city) | Soapy Joe's Car Wash is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/soapy-joes-car-wash-saint-paul/
+8. Mister Car Wash | Organic #8 | Pulse Score 49.3/100 (Unrated, #8 in city) | Mister Car Wash is a car wash in Saint Paul, MN at East 7th Street, Saint Paul, MN. Phone: +16512227045. Website: https://mistercarwash.com/location/downtowner/. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-saint-paul/
+9. BP | Organic #9 | Pulse Score 43.2/100 (Building, #9 in city) | BP is a car wash in Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/bp-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash saint paul mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

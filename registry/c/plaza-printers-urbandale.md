@@ -1,0 +1,24 @@
+Plaza Printers is a printing service in Urbandale, IA at 6762 Douglas Avenue, Urbandale, IA 50322.
+
+# Plaza Printers
+
+- Category: printing services
+- Services: printing services
+- Address: 6762 Douglas Avenue, Urbandale, IA 50322
+- City: Urbandale
+- State: IA
+- ZIP: 50322
+- Coordinates: 41.6291249, -93.70931
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.1/100 — Unrated (not enough evidence yet) — top 24% of printing services in Des Moines, IA, #1 of 3 printing services in Urbandale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/plaza-printers-urbandale/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/plaza-printers-urbandale.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/134491925 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

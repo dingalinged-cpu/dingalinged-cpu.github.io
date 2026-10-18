@@ -1,0 +1,58 @@
+Keyword market for Johnston, IA: 40 service keywords with search volume, CPC and sponsored-spot prices as of 2026-10-18. Local searches are registry estimates for the Des Moines-West Des Moines, IA metro (US volume x population share).
+
+# Top keywords in Johnston, IA
+
+Values: searches/mo = US monthly searches (national) or registry estimate for the metro/state (local); CPC = keyword top-of-page low bid where published, else industry benchmark median; value = searches x CPC (search value index, not revenue); Google Ads equiv = searches x industry CTR x CPC. '(est)' marks registry estimates. Volume and value rankings include only keywords whose US volume is published; keywords with estimated volume are on their keyword pages. Methods and sources: https://dingalinged-cpu.github.io/registry/api/market/index.json
+
+## By monthly searches
+1. massage johnston ia | searches/mo 11,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $51,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-johnston-ia/
+2. car wash johnston ia | searches/mo 4,100 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-johnston-ia/
+3. dentist johnston ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-johnston-ia/
+4. gym johnston ia | searches/mo 4,100 (est) | CPC $1.67 | value $6,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-johnston-ia/
+5. hair salon johnston ia | searches/mo 3,300 (est) | CPC $0.55 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-johnston-ia/
+6. nail salon johnston ia | searches/mo 2,200 (est) | CPC $0.61 | value $1,300 | Google Ads equiv $77.00/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/nail-salon-johnston-ia/
+7. mechanic johnston ia | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-johnston-ia/
+8. vet johnston ia | searches/mo 1,200 (est) | CPC $4.06 | value $4,900 | Google Ads equiv $320/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-johnston-ia/
+9. haircut johnston ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-johnston-ia/
+10. auto repair johnston ia | searches/mo 670 (est) | CPC $4.35 | value $2,900 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-johnston-ia/
+11. chiropractor johnston ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-johnston-ia/
+12. financial advisor johnston ia | searches/mo 550 (est) | CPC $3.39 | value $1,900 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-johnston-ia/
+13. real estate agent johnston ia | searches/mo 450 (est) | CPC $3.61 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-johnston-ia/
+14. insurance agency johnston ia | searches/mo 200 (est) | CPC $3.39 | value $680 | Google Ads equiv $56.00/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/insurance-agency-johnston-ia/
+15. realtor johnston ia | searches/mo 200 (est) | CPC $3.70 | value $740 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-johnston-ia/
+
+## By CPC
+1. dance studio johnston ia | searches/mo 89.00 (est) | CPC $6.17 | value $550 | Google Ads equiv $39.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dance-studio-johnston-ia/
+2. staffing agency johnston ia | searches/mo 310 (est) | CPC $5.87 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/staffing-agency-johnston-ia/
+3. tax preparer johnston ia | searches/mo 130 (est) | CPC $5.87 | value $760 | Google Ads equiv $43.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-johnston-ia/
+4. general contractor johnston ia | searches/mo 40.00 (est) | CPC $5.31 | value $210 | Google Ads equiv $14.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/general-contractor-johnston-ia/
+5. daycare johnston ia | searches/mo 490 (est) | CPC $4.81 | value $2,400 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/daycare-johnston-ia/
+6. preschool johnston ia | searches/mo 490 (est) | CPC $4.81 | value $2,400 | Google Ads equiv $140/mo | our featured min $20/mo | registry competitors 6 | https://dingalinged-cpu.github.io/registry/k/preschool-johnston-ia/
+7. assisted living johnston ia | searches/mo 490 (est) | CPC $4.76 | value $2,300 | Google Ads equiv $160/mo | our featured min $100/mo | registry competitors 4 | https://dingalinged-cpu.github.io/registry/k/assisted-living-johnston-ia/
+8. chiropractor johnston ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-johnston-ia/
+9. dermatologist johnston ia | searches/mo 490 (est) | CPC $4.76 | value $2,300 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/dermatologist-johnston-ia/
+10. orthopedic surgeon johnston ia | searches/mo 73.00 (est) | CPC $4.76 | value $350 | Google Ads equiv $23.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/orthopedic-surgeon-johnston-ia/
+11. therapist johnston ia | searches/mo 490 (est) | CPC $4.76 | value $2,300 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/therapist-johnston-ia/
+12. dentist johnston ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-johnston-ia/
+13. haircut johnston ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-johnston-ia/
+14. massage johnston ia | searches/mo 11,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $51,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-johnston-ia/
+15. tanning salon johnston ia | searches/mo 67.00 (est) | CPC $4.62 | value $310 | Google Ads equiv $18.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tanning-salon-johnston-ia/
+
+## By value (searches x CPC)
+1. massage johnston ia | searches/mo 11,000 (est) [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $51,000 | Google Ads equiv $2,900/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/massage-johnston-ia/
+2. dentist johnston ia | searches/mo 4,100 (est) | CPC $4.70 | value $19,000 | Google Ads equiv $1,000/mo | our featured min $100/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/dentist-johnston-ia/
+3. car wash johnston ia | searches/mo 4,100 (est) | CPC $4.35 | value $18,000 | Google Ads equiv $990/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/car-wash-johnston-ia/
+4. gym johnston ia | searches/mo 4,100 (est) | CPC $1.67 | value $6,800 | Google Ads equiv $490/mo | our featured min $50/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/gym-johnston-ia/
+5. mechanic johnston ia | searches/mo 1,500 (est) | CPC $4.35 | value $6,500 | Google Ads equiv $360/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/mechanic-johnston-ia/
+6. vet johnston ia | searches/mo 1,200 (est) | CPC $4.06 | value $4,900 | Google Ads equiv $320/mo | our featured min $20/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/vet-johnston-ia/
+7. haircut johnston ia | searches/mo 820 (est) | CPC $4.62 | value $3,800 | Google Ads equiv $220/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/haircut-johnston-ia/
+8. auto repair johnston ia | searches/mo 670 (est) | CPC $4.35 | value $2,900 | Google Ads equiv $160/mo | our featured min $20/mo | registry competitors 2 | https://dingalinged-cpu.github.io/registry/k/auto-repair-johnston-ia/
+9. chiropractor johnston ia | searches/mo 550 (est) | CPC $4.76 | value $2,600 | Google Ads equiv $180/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/chiropractor-johnston-ia/
+10. financial advisor johnston ia | searches/mo 550 (est) | CPC $3.39 | value $1,900 | Google Ads equiv $160/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/financial-advisor-johnston-ia/
+11. hair salon johnston ia | searches/mo 3,300 (est) | CPC $0.55 | value $1,800 | Google Ads equiv $100/mo | our featured min $50/mo | registry competitors 7 | https://dingalinged-cpu.github.io/registry/k/hair-salon-johnston-ia/
+12. real estate agent johnston ia | searches/mo 450 (est) | CPC $3.61 | value $1,600 | Google Ads equiv $140/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/real-estate-agent-johnston-ia/
+13. nail salon johnston ia | searches/mo 2,200 (est) | CPC $0.61 | value $1,300 | Google Ads equiv $77.00/mo | our featured min $50/mo | registry competitors 3 | https://dingalinged-cpu.github.io/registry/k/nail-salon-johnston-ia/
+14. tax preparer johnston ia | searches/mo 130 (est) | CPC $5.87 | value $760 | Google Ads equiv $43.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/tax-preparer-johnston-ia/
+15. realtor johnston ia | searches/mo 200 (est) | CPC $3.70 | value $740 | Google Ads equiv $62.00/mo | our featured min $50/mo | registry competitors 1 | https://dingalinged-cpu.github.io/registry/k/realtor-johnston-ia/
+
+All market data: https://dingalinged-cpu.github.io/registry/market/ | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html

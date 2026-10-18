@@ -13,7 +13,7 @@ Blue Ribbon Grooming is a dog groomer in Oakdale, MN at 5679 Geneva Avenue North
 - Website: https://www.facebook.com/brgrooming/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Good — top 11% of dog groomers in Minneapolis–St. Paul, #1 of 1 dog groomers in Oakdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

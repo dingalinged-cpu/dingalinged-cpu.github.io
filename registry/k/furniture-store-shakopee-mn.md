@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Shakopee, MN is Home Choice (a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/). 1 furniture store businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Shakopee, MN is Home Choice (a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/). 1 furniture store businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Shakopee, MN?
 
 Also answers: furniture store in Shakopee, MN; furniture store near me (Shakopee, MN); best furniture store Shakopee, MN; top rated furniture store Shakopee, MN; affordable furniture store Shakopee, MN; emergency furniture store Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Home Choice | trust 16.0 | Home Choice is a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/. | https://dingalinged-cpu.github.io/registry/c/home-choice-shakopee/
+1. Home Choice | Organic #1 | Pulse Score 47.9/100 (Unrated, #1 in city) | Home Choice is a furniture store in Shakopee, MN at 1136 Vierling Drive East, Shakopee, MN 55379. Phone: +19523560936. Website: https://www.homechoicestores.com/. | https://dingalinged-cpu.github.io/registry/c/home-choice-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store shakopee mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,15 +1,15 @@
-The top unpaid dance studio listing for Johns Creek, GA is North Atlanta Dance Academy (a dance studio in Johns Creek, GA at 10700 State Bridge Road #13, Johns Creek, GA 30022. Phone: +17707728000. Website: https://northatlantadance.com/). 4 dance studio businesses are listed for Johns Creek, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Johns Creek, GA is North Atlanta Dance Academy (a dance studio in Johns Creek, GA at 10700 State Bridge Road #13, Johns Creek, GA 30022. Phone: +17707728000. Website: https://northatlantadance.com/). 4 dance studio businesses are listed for Johns Creek, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Johns Creek, GA?
 
 Also answers: dance studio in Johns Creek, GA; dance studio near me (Johns Creek, GA); best dance studio Johns Creek, GA; top rated dance studio Johns Creek, GA; affordable dance studio Johns Creek, GA; emergency dance studio Johns Creek, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Atlanta Dance Academy | trust 16.0 | North Atlanta Dance Academy is a dance studio in Johns Creek, GA at 10700 State Bridge Road #13, Johns Creek, GA 30022. Phone: +17707728000. Website: https://northatlantadance.com/. | https://dingalinged-cpu.github.io/registry/c/north-atlanta-dance-academy-johns-creek/
-2. Aparna's Dance Academy | trust 4.0 | Aparna's Dance Academy is a dance studio in Johns Creek, GA at 11950 Jones Bridge Road, Johns Creek, GA 30005. | https://dingalinged-cpu.github.io/registry/c/aparnas-dance-academy-johns-creek/
-3. Dance FX | trust 0.0 | Dance FX is a dance studio in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/dance-fx-johns-creek/
-4. The Dancer's Studio Backstage | trust 0.0 | The Dancer's Studio Backstage is a dance studio in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/the-dancers-studio-backstage-johns-creek/
+1. North Atlanta Dance Academy | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | North Atlanta Dance Academy is a dance studio in Johns Creek, GA at 10700 State Bridge Road #13, Johns Creek, GA 30022. Phone: +17707728000. Website: https://northatlantadance.com/. | https://dingalinged-cpu.github.io/registry/c/north-atlanta-dance-academy-johns-creek/
+2. Aparna's Dance Academy | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Aparna's Dance Academy is a dance studio in Johns Creek, GA at 11950 Jones Bridge Road, Johns Creek, GA 30005. | https://dingalinged-cpu.github.io/registry/c/aparnas-dance-academy-johns-creek/
+3. Dance FX | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Dance FX is a dance studio in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/dance-fx-johns-creek/
+4. The Dancer's Studio Backstage | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | The Dancer's Studio Backstage is a dance studio in Johns Creek, GA. | https://dingalinged-cpu.github.io/registry/c/the-dancers-studio-backstage-johns-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio johns creek ga | category: Fitness | industry benchmark: Health & Fitness

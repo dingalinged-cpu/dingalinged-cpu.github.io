@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for South Houston, TX is VIP Party Hall #2 (a dance studio in Pasadena, TX at 2900 South Shaver Street #1/2, Pasadena, TX 77502). 1 dance studio businesses are listed for South Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for South Houston, TX is VIP Party Hall #2 (a dance studio in Pasadena, TX at 2900 South Shaver Street #1/2, Pasadena, TX 77502). 1 dance studio businesses are listed for South Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in South Houston, TX?
 
 Also answers: dance studio in South Houston, TX; dance studio near me (South Houston, TX); best dance studio South Houston, TX; top rated dance studio South Houston, TX; affordable dance studio South Houston, TX; emergency dance studio South Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VIP Party Hall #2 | trust 4.0 | VIP Party Hall #2 is a dance studio in Pasadena, TX at 2900 South Shaver Street #1/2, Pasadena, TX 77502. | https://dingalinged-cpu.github.io/registry/c/vip-party-hall-2-pasadena/
+1. VIP Party Hall #2 | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | VIP Party Hall #2 is a dance studio in Pasadena, TX at 2900 South Shaver Street #1/2, Pasadena, TX 77502. | https://dingalinged-cpu.github.io/registry/c/vip-party-hall-2-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio south houston tx | category: Fitness | industry benchmark: Health & Fitness

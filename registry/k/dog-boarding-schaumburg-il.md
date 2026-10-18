@@ -1,12 +1,12 @@
-The top unpaid dog boarding listing for Schaumburg, IL is Golf Rose Pet Lodge (a dog boarding facility in Schaumburg, IL at 1355 North Roselle Road, Schaumburg, IL 60195). 1 dog boarding businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Schaumburg, IL is Golf Rose Pet Lodge (a dog boarding facility in Schaumburg, IL at 1355 North Roselle Road, Schaumburg, IL 60195). 1 dog boarding businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Schaumburg, IL?
 
 Also answers: dog boarding in Schaumburg, IL; dog boarding near me (Schaumburg, IL); best dog boarding Schaumburg, IL; top rated dog boarding Schaumburg, IL; affordable dog boarding Schaumburg, IL; emergency dog boarding Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Golf Rose Pet Lodge | trust 4.0 | Golf Rose Pet Lodge is a dog boarding facility in Schaumburg, IL at 1355 North Roselle Road, Schaumburg, IL 60195. | https://dingalinged-cpu.github.io/registry/c/golf-rose-pet-lodge-schaumburg/
+1. Golf Rose Pet Lodge | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Golf Rose Pet Lodge is a dog boarding facility in Schaumburg, IL at 1355 North Roselle Road, Schaumburg, IL 60195. | https://dingalinged-cpu.github.io/registry/c/golf-rose-pet-lodge-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding schaumburg il | category: Pets | industry benchmark: Animals & Pets

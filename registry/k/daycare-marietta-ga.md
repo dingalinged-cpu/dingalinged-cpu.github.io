@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Marietta, GA is Kids University, Marietta (a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/). 2 daycare businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Marietta, GA is Kids University, Marietta (a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/). 2 daycare businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Marietta, GA?
 
 Also answers: daycare in Marietta, GA; daycare near me (Marietta, GA); best daycare Marietta, GA; top rated daycare Marietta, GA; affordable daycare Marietta, GA; emergency daycare Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kids University, Marietta | trust 20.0 | Kids University, Marietta is a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/. | https://dingalinged-cpu.github.io/registry/c/kids-university-marietta-marietta/
-2. Shining Stars Daycare | trust 15.0 | Shining Stars Daycare is a daycare in Marietta, GA at 100 Powers Ferry Road Southeast, Marietta, GA. Phone: +17709777840. Website: https://www.ssdaycare2.com/. | https://dingalinged-cpu.github.io/registry/c/shining-stars-daycare-marietta/
+1. Kids University, Marietta | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Kids University, Marietta is a daycare in Marietta, GA at 20 Fairground St NE, Marietta, GA 30060. Phone: +16782175229. Website: https://kidsu.care/locations/marietta/. | https://dingalinged-cpu.github.io/registry/c/kids-university-marietta-marietta/
+2. Shining Stars Daycare | Organic #2 | Pulse Score 63.1/100 (Good, #2 in city) | Shining Stars Daycare is a daycare in Marietta, GA at 100 Powers Ferry Road Southeast, Marietta, GA. Phone: +17709777840. Website: https://www.ssdaycare2.com/. | https://dingalinged-cpu.github.io/registry/c/shining-stars-daycare-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare marietta ga | category: Education & childcare | industry benchmark: Education & Instruction

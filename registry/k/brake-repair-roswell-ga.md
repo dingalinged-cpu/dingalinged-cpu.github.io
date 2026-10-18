@@ -1,12 +1,12 @@
-The top unpaid brake repair listing for Roswell, GA is Chloe's Auto Repair (an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/). 1 brake repair businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Roswell, GA is Chloe's Auto Repair (an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/). 1 brake repair businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Roswell, GA?
 
 Also answers: brake repair in Roswell, GA; brake repair near me (Roswell, GA); best brake repair Roswell, GA; top rated brake repair Roswell, GA; affordable brake repair Roswell, GA; emergency brake repair Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chloe's Auto Repair | trust 19.0 | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-roswell/
+1. Chloe's Auto Repair | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Chloe's Auto Repair is an auto repair shop in Roswell, GA at 4750 Alabama Road, Roswell, GA. Phone: +17706417400. Website: https://www.chloesautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/chloes-auto-repair-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair roswell ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

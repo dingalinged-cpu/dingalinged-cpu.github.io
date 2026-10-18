@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Wheaton, IL is Cute Nails (a nail salon in Wheaton, IL at 322 West Liberty Drive, Wheaton, IL 60187. Phone: +16304800497). 4 nail salon businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Wheaton, IL is Cute Nails (a nail salon in Wheaton, IL at 322 West Liberty Drive, Wheaton, IL 60187. Phone: +16304800497). 4 nail salon businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Wheaton, IL?
 
 Also answers: nail salon in Wheaton, IL; nail salon near me (Wheaton, IL); best nail salon Wheaton, IL; top rated nail salon Wheaton, IL; affordable nail salon Wheaton, IL; emergency nail salon Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cute Nails | trust 10.0 | Cute Nails is a nail salon in Wheaton, IL at 322 West Liberty Drive, Wheaton, IL 60187. Phone: +16304800497. | https://dingalinged-cpu.github.io/registry/c/cute-nails-wheaton/
-2. Celine Nail Spa | trust 0.0 | Celine Nail Spa is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/celine-nail-spa-wheaton/
-3. Classy Nails & Spa | trust 0.0 | Classy Nails & Spa is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-wheaton/
-4. Prose Nails | trust 0.0 | Prose Nails is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/prose-nails-wheaton/
+1. Cute Nails | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Cute Nails is a nail salon in Wheaton, IL at 322 West Liberty Drive, Wheaton, IL 60187. Phone: +16304800497. | https://dingalinged-cpu.github.io/registry/c/cute-nails-wheaton/
+2. Celine Nail Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Celine Nail Spa is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/celine-nail-spa-wheaton/
+3. Classy Nails & Spa | Organic #3 | Pulse Score 45.3/100 (Unrated, #3 in city) | Classy Nails & Spa is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/classy-nails-and-spa-wheaton/
+4. Prose Nails | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Prose Nails is a nail salon in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/prose-nails-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon wheaton il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

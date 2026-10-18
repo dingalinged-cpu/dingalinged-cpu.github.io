@@ -1,17 +1,17 @@
-The top unpaid used cars for sale listing for Clayton County, GA is CarMax (an used car dealer in Clayton County, GA. Website: https://www.carmax.com/stores/7117). 6 used cars for sale businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Clayton County, GA is US Auto Sales (an used car dealer in Clayton County, GA). 6 used cars for sale businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Clayton County, GA?
 
 Also answers: used cars for sale in Clayton County, GA; used cars for sale near me (Clayton County, GA); best used cars for sale Clayton County, GA; top rated used cars for sale Clayton County, GA; affordable used cars for sale Clayton County, GA; emergency used cars for sale Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarMax | trust 6.0 | CarMax is an used car dealer in Clayton County, GA. Website: https://www.carmax.com/stores/7117. | https://dingalinged-cpu.github.io/registry/c/carmax-clayton-county/
-2. DriveTime | trust 0.0 | DriveTime is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/drivetime-clayton-county/
-3. Lake City Auto Sales | trust 0.0 | Lake City Auto Sales is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/lake-city-auto-sales-clayton-county/
-4. Paradise Auto | trust 0.0 | Paradise Auto is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/paradise-auto-clayton-county/
-5. R&H Motors | trust 0.0 | R&H Motors is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/r-and-h-motors-clayton-county/
-6. US Auto Sales | trust 0.0 | US Auto Sales is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/us-auto-sales-clayton-county/
+1. US Auto Sales | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | US Auto Sales is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/us-auto-sales-clayton-county/
+2. Lake City Auto Sales | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Lake City Auto Sales is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/lake-city-auto-sales-clayton-county/
+3. Paradise Auto | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Paradise Auto is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/paradise-auto-clayton-county/
+4. R&H Motors | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | R&H Motors is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/r-and-h-motors-clayton-county/
+5. CarMax | Organic #5 | Pulse Score 44.6/100 (Building, #5 in city) | CarMax is an used car dealer in Clayton County, GA. Website: https://www.carmax.com/stores/7117. | https://dingalinged-cpu.github.io/registry/c/carmax-clayton-county/
+6. DriveTime | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | DriveTime is an used car dealer in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/drivetime-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale clayton county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

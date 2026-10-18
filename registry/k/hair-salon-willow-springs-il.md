@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Willow Springs, IL is Willow Springs Barbershop (a hair salon in Willow Springs, IL at 8695 Archer Avenue #25, Willow Springs, IL 60480). 2 hair salon businesses are listed for Willow Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Willow Springs, IL is Willow Springs Barbershop (a hair salon in Willow Springs, IL at 8695 Archer Avenue #25, Willow Springs, IL 60480). 2 hair salon businesses are listed for Willow Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Willow Springs, IL?
 
 Also answers: hair salon in Willow Springs, IL; hair salon near me (Willow Springs, IL); best hair salon Willow Springs, IL; top rated hair salon Willow Springs, IL; affordable hair salon Willow Springs, IL; emergency hair salon Willow Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Willow Springs Barbershop | trust 4.0 | Willow Springs Barbershop is a hair salon in Willow Springs, IL at 8695 Archer Avenue #25, Willow Springs, IL 60480. | https://dingalinged-cpu.github.io/registry/c/willow-springs-barbershop-willow-springs/
-2. Fanaberia Hair Salon & Day Spa | trust 0.0 | Fanaberia Hair Salon & Day Spa is a hair salon in Willow Springs, IL. | https://dingalinged-cpu.github.io/registry/c/fanaberia-hair-salon-and-day-spa-willow-springs/
+1. Willow Springs Barbershop | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Willow Springs Barbershop is a hair salon in Willow Springs, IL at 8695 Archer Avenue #25, Willow Springs, IL 60480. | https://dingalinged-cpu.github.io/registry/c/willow-springs-barbershop-willow-springs/
+2. Fanaberia Hair Salon & Day Spa | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Fanaberia Hair Salon & Day Spa is a hair salon in Willow Springs, IL. | https://dingalinged-cpu.github.io/registry/c/fanaberia-hair-salon-and-day-spa-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon willow springs il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

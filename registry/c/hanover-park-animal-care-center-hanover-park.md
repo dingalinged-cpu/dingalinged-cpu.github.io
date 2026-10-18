@@ -13,7 +13,7 @@ Hanover Park Animal Care Center is a veterinarian in Hanover Park, IL at 1920 On
 - Website: https://www.hanoverparkvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 22% of veterinarians in Chicago, #1 of 1 veterinarians in Hanover Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

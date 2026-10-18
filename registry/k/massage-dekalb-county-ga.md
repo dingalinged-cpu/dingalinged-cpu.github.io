@@ -1,13 +1,13 @@
-The top unpaid massage listing for Dekalb County, GA is Iwin Foot Massage (a massage studio in DeKalb County, GA at 2566 Shallowford Road Northeast #108, DeKalb County, GA. Phone: +16786702357. Website: https://iwinfootmassage.wixsite.com/30345). 2 massage businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Dekalb County, GA is Iwin Foot Massage (a massage studio in DeKalb County, GA at 2566 Shallowford Road Northeast #108, DeKalb County, GA. Phone: +16786702357. Website: https://iwinfootmassage.wixsite.com/30345). 2 massage businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Dekalb County, GA?
 
 Also answers: massage in Dekalb County, GA; massage near me (Dekalb County, GA); best massage Dekalb County, GA; top rated massage Dekalb County, GA; affordable massage Dekalb County, GA; emergency massage Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Iwin Foot Massage | trust 19.0 | Iwin Foot Massage is a massage studio in DeKalb County, GA at 2566 Shallowford Road Northeast #108, DeKalb County, GA. Phone: +16786702357. Website: https://iwinfootmassage.wixsite.com/30345. | https://dingalinged-cpu.github.io/registry/c/iwin-foot-massage-dekalb-county/
-2. I Heart Massage | trust 9.0 | I Heart Massage is a massage studio in DeKalb County, GA at 1248 Clairmont Road #3A,3B, DeKalb County, GA. Phone: +16787051902. | https://dingalinged-cpu.github.io/registry/c/i-heart-massage-dekalb-county/
+1. Iwin Foot Massage | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Iwin Foot Massage is a massage studio in DeKalb County, GA at 2566 Shallowford Road Northeast #108, DeKalb County, GA. Phone: +16786702357. Website: https://iwinfootmassage.wixsite.com/30345. | https://dingalinged-cpu.github.io/registry/c/iwin-foot-massage-dekalb-county/
+2. I Heart Massage | Organic #2 | Pulse Score 59/100 (Fair, #2 in city) | I Heart Massage is a massage studio in DeKalb County, GA at 1248 Clairmont Road #3A,3B, DeKalb County, GA. Phone: +16787051902. | https://dingalinged-cpu.github.io/registry/c/i-heart-massage-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage dekalb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

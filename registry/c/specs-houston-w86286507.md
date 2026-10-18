@@ -13,7 +13,7 @@ Spec's is a liquor store in Houston, TX at 2410 Smith Street, Houston, TX 77006.
 - Website: https://www.specsonline.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.8/100 — Fair — top 77% of liquor stores in Houston, #70 of 86 liquor stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 71. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

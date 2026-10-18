@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Sugar Hill, GA is Goodyear Auto Service Center (an auto repair shop in Sugar Hill, GA at 100 Peachtree Industrial Boulevard, Sugar Hill, GA 30518). 2 mechanic businesses are listed for Sugar Hill, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Sugar Hill, GA is Goodyear Auto Service Center (an auto repair shop in Sugar Hill, GA at 100 Peachtree Industrial Boulevard, Sugar Hill, GA 30518). 2 mechanic businesses are listed for Sugar Hill, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Sugar Hill, GA?
 
 Also answers: mechanic in Sugar Hill, GA; mechanic near me (Sugar Hill, GA); best mechanic Sugar Hill, GA; top rated mechanic Sugar Hill, GA; affordable mechanic Sugar Hill, GA; emergency mechanic Sugar Hill, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodyear Auto Service Center | trust 4.0 | Goodyear Auto Service Center is an auto repair shop in Sugar Hill, GA at 100 Peachtree Industrial Boulevard, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/goodyear-auto-service-center-sugar-hill/
-2. Sugar Hill Automotive | trust 4.0 | Sugar Hill Automotive is an auto repair shop in Sugar Hill, GA at 105 Peachtree Industrial Boulevard, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/sugar-hill-automotive-sugar-hill/
+1. Goodyear Auto Service Center | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Goodyear Auto Service Center is an auto repair shop in Sugar Hill, GA at 100 Peachtree Industrial Boulevard, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/goodyear-auto-service-center-sugar-hill/
+2. Sugar Hill Automotive | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Sugar Hill Automotive is an auto repair shop in Sugar Hill, GA at 105 Peachtree Industrial Boulevard, Sugar Hill, GA 30518. | https://dingalinged-cpu.github.io/registry/c/sugar-hill-automotive-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic sugar hill ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

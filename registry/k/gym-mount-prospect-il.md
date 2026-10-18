@@ -1,15 +1,15 @@
-The top unpaid gym listing for Mount Prospect, IL is Anytime Fitness (a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Prospect, IL 60056. Phone: +18473768887. Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/). 4 gym businesses are listed for Mount Prospect, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mount Prospect, IL is Anytime Fitness (a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Prospect, IL 60056. Phone: +18473768887. Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/). 4 gym businesses are listed for Mount Prospect, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mount Prospect, IL?
 
 Also answers: gym in Mount Prospect, IL; gym near me (Mount Prospect, IL); best gym Mount Prospect, IL; top rated gym Mount Prospect, IL; affordable gym Mount Prospect, IL; emergency gym Mount Prospect, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Prospect, IL 60056. Phone: +18473768887. Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mount-prospect/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Mount Prospect, IL at 1032 Center Drive, Mount Prospect, IL 60056. Phone: +18477375584. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-mount-prospect/
-3. LA Fitness | trust 4.0 | LA Fitness is a gym in Mount Prospect, IL at 1145 Mount Prospect Plaza, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/la-fitness-mount-prospect/
-4. Crunch Fitness | trust 0.0 | Crunch Fitness is a gym in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-mount-prospect/
+1. Anytime Fitness | Organic #1 | Pulse Score 51.1/100 (Fair, #1 in city) | Anytime Fitness is a gym in Mount Prospect, IL at 1317 North Wolf Road, Mount Prospect, IL 60056. Phone: +18473768887. Website: https://www.anytimefitness.com/gyms/3334/mt-prospect-il-60056/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-mount-prospect/
+2. Orangetheory Fitness | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Mount Prospect, IL at 1032 Center Drive, Mount Prospect, IL 60056. Phone: +18477375584. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-mount-prospect/
+3. LA Fitness | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | LA Fitness is a gym in Mount Prospect, IL at 1145 Mount Prospect Plaza, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/la-fitness-mount-prospect/
+4. Crunch Fitness | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Crunch Fitness is a gym in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mount prospect il | category: Fitness | industry benchmark: Health & Fitness

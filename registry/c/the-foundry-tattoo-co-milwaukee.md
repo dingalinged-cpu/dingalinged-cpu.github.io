@@ -13,7 +13,7 @@ The Foundry Tattoo Co. is a tattoo shop in Milwaukee, WI at 105 East Mitchell St
 - Website: https://www.thefoundrytattoocompany.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 11:00-20:00
-- Registry Score: 61.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 32% of tattoo shops in Milwaukee, #11 of 23 tattoo shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

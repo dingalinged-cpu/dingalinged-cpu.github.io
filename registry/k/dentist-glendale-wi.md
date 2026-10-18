@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Glendale, WI is Dental Associates (a dentist in Glendale, WI). 1 dentist businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Glendale, WI is Dental Associates (a dentist in Glendale, WI). 1 dentist businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Glendale, WI?
 
 Also answers: dentist in Glendale, WI; dentist near me (Glendale, WI); best dentist Glendale, WI; top rated dentist Glendale, WI; affordable dentist Glendale, WI; emergency dentist Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental Associates | trust 0.0 | Dental Associates is a dentist in Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/dental-associates-glendale/
+1. Dental Associates | Organic #1 | Pulse Score 42.7/100 (Unrated, #1 in city) | Dental Associates is a dentist in Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/dental-associates-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist glendale wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

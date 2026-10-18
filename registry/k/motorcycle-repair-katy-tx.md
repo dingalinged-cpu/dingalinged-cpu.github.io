@@ -1,12 +1,12 @@
-The top unpaid motorcycle repair listing for Katy, TX is Cycle Gear (a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/). 1 motorcycle repair businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Katy, TX is Cycle Gear (a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/). 1 motorcycle repair businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Katy, TX?
 
 Also answers: motorcycle repair in Katy, TX; motorcycle repair near me (Katy, TX); best motorcycle repair Katy, TX; top rated motorcycle repair Katy, TX; affordable motorcycle repair Katy, TX; emergency motorcycle repair Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cycle Gear | trust 20.0 | Cycle Gear is a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-katy/
+1. Cycle Gear | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Cycle Gear is a motorcycle repair shop in Katy, TX at 24727 Katy Freeway, Katy, TX 77494. Phone: +12817697055. Website: https://cyclegear.com/. | https://dingalinged-cpu.github.io/registry/c/cycle-gear-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair katy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

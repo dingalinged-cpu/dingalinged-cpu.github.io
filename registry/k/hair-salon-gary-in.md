@@ -1,29 +1,29 @@
-The top unpaid hair salon listing for Gary, IN is Simpli Gorgeous Salon (a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251). 18 hair salon businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Gary, IN is Simpli Gorgeous Salon (a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251). 18 hair salon businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Gary, IN?
 
 Also answers: hair salon in Gary, IN; hair salon near me (Gary, IN); best hair salon Gary, IN; top rated hair salon Gary, IN; affordable hair salon Gary, IN; emergency hair salon Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simpli Gorgeous Salon | trust 14.0 | Simpli Gorgeous Salon is a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251. | https://dingalinged-cpu.github.io/registry/c/simpli-gorgeous-salon-gary/
-2. Another Dimension | trust 10.0 | Another Dimension is a hair salon in Gary, IN at 4153 Broadway, Gary, IN 46409. Phone: +12198842550. | https://dingalinged-cpu.github.io/registry/c/another-dimension-gary/
-3. Billco Barber Shop | trust 10.0 | Billco Barber Shop is a hair salon in Gary, IN at 2448 Broadway, Gary, IN 46407. Phone: +12198861483. | https://dingalinged-cpu.github.io/registry/c/billco-barber-shop-gary/
-4. Charmgurl Beauty Bar | trust 10.0 | Charmgurl Beauty Bar is a hair salon in Gary, IN at 1974 Grant Street, Gary, IN 46404. Phone: +12192392211. | https://dingalinged-cpu.github.io/registry/c/charmgurl-beauty-bar-gary/
-5. CJ Barbers Shop | trust 10.0 | CJ Barbers Shop is a hair salon in Gary, IN at 4444 Broadway #A3, Gary, IN 46408. Phone: +12199801204. | https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/
-6. Lackey's Barbershop | trust 10.0 | Lackey's Barbershop is a hair salon in Gary, IN at 2057 Grant Street, Gary, IN 46404. Phone: +12199440515. | https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/
-7. No Limit Cutts & Creations | trust 10.0 | No Limit Cutts & Creations is a hair salon in Gary, IN at 3121 West 15th Avenue, Gary, IN 46404. Phone: +12199447741. | https://dingalinged-cpu.github.io/registry/c/no-limit-cutts-and-creations-gary/
-8. Sadots Barbershop | trust 10.0 | Sadots Barbershop is a hair salon in Gary, IN at 3940 Broadway, Gary, IN 46408. Phone: +12198889850. | https://dingalinged-cpu.github.io/registry/c/sadots-barbershop-gary/
-9. Aetna Barber | trust 4.0 | Aetna Barber is a hair salon in Gary, IN at 935 Aetna Street, Gary, IN 46403. | https://dingalinged-cpu.github.io/registry/c/aetna-barber-gary/
-10. La Chateau Beauty Salon | trust 4.0 | La Chateau Beauty Salon is a hair salon in Gary, IN at 4981 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/
-11. Playboy Barber Shop | trust 4.0 | Playboy Barber Shop is a hair salon in Gary, IN at 4683 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/playboy-barber-shop-gary/
-12. PHD Professional Hair Designers | trust 3.0 | PHD Professional Hair Designers is a hair salon in Gary, IN at 1046, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/phd-professional-hair-designers-gary/
-13. BJ's, Barber Shop | trust 0.0 | BJ's, Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bjs-barber-shop-gary/
-14. Bourgeois Beauty LLC | trust 0.0 | Bourgeois Beauty LLC is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bourgeois-beauty-llc-gary/
-15. Fatou Africa Hair Braiding | trust 0.0 | Fatou Africa Hair Braiding is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/fatou-africa-hair-braiding-gary/
-16. Marley's Barber Shop | trust 0.0 | Marley's Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marleys-barber-shop-gary/
-17. Martha's Clip and Curl Salon | trust 0.0 | Martha's Clip and Curl Salon is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marthas-clip-and-curl-salon-gary/
-18. Studio One | trust 0.0 | Studio One is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/studio-one-gary/
+1. Simpli Gorgeous Salon | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Simpli Gorgeous Salon is a hair salon in Gary, IN at 5100 West 5th Avenue, Gary, IN 46406. Phone: +12199397251. | https://dingalinged-cpu.github.io/registry/c/simpli-gorgeous-salon-gary/
+2. CJ Barbers Shop | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | CJ Barbers Shop is a hair salon in Gary, IN at 4444 Broadway #A3, Gary, IN 46408. Phone: +12199801204. | https://dingalinged-cpu.github.io/registry/c/cj-barbers-shop-gary/
+3. Another Dimension | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Another Dimension is a hair salon in Gary, IN at 4153 Broadway, Gary, IN 46409. Phone: +12198842550. | https://dingalinged-cpu.github.io/registry/c/another-dimension-gary/
+4. Billco Barber Shop | Organic #4 | Pulse Score 59.9/100 (Unrated, #4 in city) | Billco Barber Shop is a hair salon in Gary, IN at 2448 Broadway, Gary, IN 46407. Phone: +12198861483. | https://dingalinged-cpu.github.io/registry/c/billco-barber-shop-gary/
+5. Charmgurl Beauty Bar | Organic #5 | Pulse Score 59.9/100 (Unrated, #5 in city) | Charmgurl Beauty Bar is a hair salon in Gary, IN at 1974 Grant Street, Gary, IN 46404. Phone: +12192392211. | https://dingalinged-cpu.github.io/registry/c/charmgurl-beauty-bar-gary/
+6. Lackey's Barbershop | Organic #6 | Pulse Score 59.9/100 (Unrated, #6 in city) | Lackey's Barbershop is a hair salon in Gary, IN at 2057 Grant Street, Gary, IN 46404. Phone: +12199440515. | https://dingalinged-cpu.github.io/registry/c/lackeys-barbershop-gary/
+7. No Limit Cutts & Creations | Organic #7 | Pulse Score 59.9/100 (Unrated, #7 in city) | No Limit Cutts & Creations is a hair salon in Gary, IN at 3121 West 15th Avenue, Gary, IN 46404. Phone: +12199447741. | https://dingalinged-cpu.github.io/registry/c/no-limit-cutts-and-creations-gary/
+8. Sadots Barbershop | Organic #8 | Pulse Score 59.9/100 (Unrated, #8 in city) | Sadots Barbershop is a hair salon in Gary, IN at 3940 Broadway, Gary, IN 46408. Phone: +12198889850. | https://dingalinged-cpu.github.io/registry/c/sadots-barbershop-gary/
+9. Aetna Barber | Organic #9 | Pulse Score 57.3/100 (Unrated, #9 in city) | Aetna Barber is a hair salon in Gary, IN at 935 Aetna Street, Gary, IN 46403. | https://dingalinged-cpu.github.io/registry/c/aetna-barber-gary/
+10. La Chateau Beauty Salon | Organic #10 | Pulse Score 57.3/100 (Unrated, #10 in city) | La Chateau Beauty Salon is a hair salon in Gary, IN at 4981 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/la-chateau-beauty-salon-gary/
+11. Playboy Barber Shop | Organic #11 | Pulse Score 57.3/100 (Unrated, #11 in city) | Playboy Barber Shop is a hair salon in Gary, IN at 4683 Broadway, Gary, IN 46409. | https://dingalinged-cpu.github.io/registry/c/playboy-barber-shop-gary/
+12. PHD Professional Hair Designers | Organic #12 | Pulse Score 56.1/100 (Unrated, #12 in city) | PHD Professional Hair Designers is a hair salon in Gary, IN at 1046, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/phd-professional-hair-designers-gary/
+13. BJ's, Barber Shop | Organic #13 | Pulse Score 54.7/100 (Unrated, #13 in city) | BJ's, Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bjs-barber-shop-gary/
+14. Bourgeois Beauty LLC | Organic #14 | Pulse Score 54.7/100 (Unrated, #14 in city) | Bourgeois Beauty LLC is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/bourgeois-beauty-llc-gary/
+15. Fatou Africa Hair Braiding | Organic #15 | Pulse Score 54.7/100 (Unrated, #15 in city) | Fatou Africa Hair Braiding is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/fatou-africa-hair-braiding-gary/
+16. Marley's Barber Shop | Organic #16 | Pulse Score 54.7/100 (Unrated, #16 in city) | Marley's Barber Shop is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marleys-barber-shop-gary/
+17. Martha's Clip and Curl Salon | Organic #17 | Pulse Score 54.7/100 (Unrated, #17 in city) | Martha's Clip and Curl Salon is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/marthas-clip-and-curl-salon-gary/
+18. Studio One | Organic #18 | Pulse Score 54.7/100 (Unrated, #18 in city) | Studio One is a hair salon in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/studio-one-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon gary in | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

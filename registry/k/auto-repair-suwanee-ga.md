@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Suwanee, GA is AAA Car Care Plus (an auto repair shop in Suwanee, GA at 7150 McGinnis Ferry Road, Suwanee, GA 30024). 5 auto repair businesses are listed for Suwanee, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Suwanee, GA is Japanese Auto Repair (an auto repair shop in Suwanee, GA). 5 auto repair businesses are listed for Suwanee, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Suwanee, GA?
 
 Also answers: auto repair in Suwanee, GA; auto repair near me (Suwanee, GA); best auto repair Suwanee, GA; top rated auto repair Suwanee, GA; affordable auto repair Suwanee, GA; emergency auto repair Suwanee, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Car Care Plus | trust 4.0 | AAA Car Care Plus is an auto repair shop in Suwanee, GA at 7150 McGinnis Ferry Road, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/aaa-car-care-plus-suwanee/
-2. Caliber Collision | trust 4.0 | Caliber Collision is an auto repair shop in Suwanee, GA at 3268 Peachtree Parkway, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-suwanee/
-3. Japanese Auto Repair | trust 4.0 | Japanese Auto Repair is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/japanese-auto-repair-suwanee/
-4. Kauffman Tire | trust 0.0 | Kauffman Tire is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/kauffman-tire-suwanee/
-5. Service Center | trust 0.0 | Service Center is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/service-center-suwanee/
+1. Japanese Auto Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Japanese Auto Repair is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/japanese-auto-repair-suwanee/
+2. Service Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Service Center is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/service-center-suwanee/
+3. AAA Car Care Plus | Organic #3 | Pulse Score 45.2/100 (Building, #3 in city) | AAA Car Care Plus is an auto repair shop in Suwanee, GA at 7150 McGinnis Ferry Road, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/aaa-car-care-plus-suwanee/
+4. Caliber Collision | Organic #4 | Pulse Score 44.9/100 (Building, #4 in city) | Caliber Collision is an auto repair shop in Suwanee, GA at 3268 Peachtree Parkway, Suwanee, GA 30024. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-suwanee/
+5. Kauffman Tire | Organic #5 | Pulse Score 43.2/100 (Unrated, #5 in city) | Kauffman Tire is an auto repair shop in Suwanee, GA. | https://dingalinged-cpu.github.io/registry/c/kauffman-tire-suwanee/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair suwanee ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

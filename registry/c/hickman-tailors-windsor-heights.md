@@ -1,0 +1,24 @@
+Hickman Tailors is a tailor in Windsor Heights, IA at 6720 Hickman Road, Windsor Heights, IA 50324.
+
+# Hickman Tailors
+
+- Category: tailor
+- Services: tailor
+- Address: 6720 Hickman Road, Windsor Heights, IA 50324
+- City: Windsor Heights
+- State: IA
+- ZIP: 50324
+- Coordinates: 41.6145577, -93.7094493
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 40% of tailors in Des Moines, IA, #1 of 2 tailors in Windsor Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 51.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/hickman-tailors-windsor-heights/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/hickman-tailors-windsor-heights.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/115431015 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

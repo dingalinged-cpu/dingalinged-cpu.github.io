@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Grapevine, TX is J.E Foust & Son Funeral Home (a funeral home in Grapevine, TX). 1 funeral home businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Grapevine, TX is J.E Foust & Son Funeral Home (a funeral home in Grapevine, TX). 1 funeral home businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Grapevine, TX?
 
 Also answers: funeral home in Grapevine, TX; funeral home near me (Grapevine, TX); best funeral home Grapevine, TX; top rated funeral home Grapevine, TX; affordable funeral home Grapevine, TX; emergency funeral home Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J.E Foust & Son Funeral Home | trust 0.0 | J.E Foust & Son Funeral Home is a funeral home in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/j-e-foust-and-son-funeral-home-grapevine/
+1. J.E Foust & Son Funeral Home | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | J.E Foust & Son Funeral Home is a funeral home in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/j-e-foust-and-son-funeral-home-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home grapevine tx | category: Professional & financial services | industry benchmark: Finance & Insurance

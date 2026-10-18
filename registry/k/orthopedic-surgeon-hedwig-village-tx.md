@@ -1,12 +1,12 @@
-The top unpaid orthopedic surgeon listing for Hedwig Village, TX is Dr. Wame Waggenspack (an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024). 1 orthopedic surgeon businesses are listed for Hedwig Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Hedwig Village, TX is Dr. Wame Waggenspack (an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024). 1 orthopedic surgeon businesses are listed for Hedwig Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Hedwig Village, TX?
 
 Also answers: orthopedic surgeon in Hedwig Village, TX; orthopedic surgeon near me (Hedwig Village, TX); best orthopedic surgeon Hedwig Village, TX; top rated orthopedic surgeon Hedwig Village, TX; affordable orthopedic surgeon Hedwig Village, TX; emergency orthopedic surgeon Hedwig Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Wame Waggenspack | trust 4.0 | Dr. Wame Waggenspack is an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024. | https://dingalinged-cpu.github.io/registry/c/dr-wame-waggenspack-houston/
+1. Dr. Wame Waggenspack | Organic #1 | Pulse Score 54.9/100 (Unrated, #2 in city) | Dr. Wame Waggenspack is an orthopedic surgeon in Houston, TX at 8731 Katy Freeway #110, Houston, TX 77024. | https://dingalinged-cpu.github.io/registry/c/dr-wame-waggenspack-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon hedwig village tx | category: Health & medical | industry benchmark: Physicians & Surgeons

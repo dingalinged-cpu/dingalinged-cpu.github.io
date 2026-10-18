@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Eden Prairie, MN is Petco (a pet store in Eden Prairie, MN at 8020 Glen Lane, Eden Prairie, MN 55344. Phone: +19528298808. Website: https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html). 3 pet store businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Eden Prairie, MN is PetSmart (a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden Prairie, MN 55344. Phone: +19529414660. Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html). 3 pet store businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Eden Prairie, MN?
 
 Also answers: pet store in Eden Prairie, MN; pet store near me (Eden Prairie, MN); best pet store Eden Prairie, MN; top rated pet store Eden Prairie, MN; affordable pet store Eden Prairie, MN; emergency pet store Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Eden Prairie, MN at 8020 Glen Lane, Eden Prairie, MN 55344. Phone: +19528298808. Website: https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html. | https://dingalinged-cpu.github.io/registry/c/petco-eden-prairie/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden Prairie, MN 55344. Phone: +19529414660. Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-eden-prairie/
-3. Chuck & Don's | trust 4.0 | Chuck & Don's is a pet store in Eden Prairie, MN at 8022 Den Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eden-prairie/
+1. PetSmart | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | PetSmart is a pet store in Eden Prairie, MN at 11200 Prairie Lakes Drive, Eden Prairie, MN 55344. Phone: +19529414660. Website: https://www.petsmart.com/stores/us/mn/eden-prairie-store0458.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-eden-prairie/
+2. Petco | Organic #2 | Pulse Score 48.1/100 (Building, #2 in city) | Petco is a pet store in Eden Prairie, MN at 8020 Glen Lane, Eden Prairie, MN 55344. Phone: +19528298808. Website: https://stores.petco.com/mn/edenprairie/pet-supplies-edenprairie-mn-606.html. | https://dingalinged-cpu.github.io/registry/c/petco-eden-prairie/
+3. Chuck & Don's | Organic #3 | Pulse Score 44.1/100 (Unrated, #3 in city) | Chuck & Don's is a pet store in Eden Prairie, MN at 8022 Den Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store eden prairie mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

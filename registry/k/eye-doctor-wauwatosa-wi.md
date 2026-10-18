@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Wauwatosa, WI is Eye Care Vision Center of Wauwatosa (an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/). 2 eye doctor businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Wauwatosa, WI is Eye Care Vision Center of Wauwatosa (an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/). 2 eye doctor businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Wauwatosa, WI?
 
 Also answers: eye doctor in Wauwatosa, WI; eye doctor near me (Wauwatosa, WI); best eye doctor Wauwatosa, WI; top rated eye doctor Wauwatosa, WI; affordable eye doctor Wauwatosa, WI; emergency eye doctor Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Care Vision Center of Wauwatosa | trust 20.0 | Eye Care Vision Center of Wauwatosa is an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/. | https://dingalinged-cpu.github.io/registry/c/eye-care-vision-center-of-wauwatosa-wauwatosa/
-2. Summit Eye Care | trust 0.0 | Summit Eye Care is an eye care practice in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/summit-eye-care-wauwatosa/
+1. Eye Care Vision Center of Wauwatosa | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Eye Care Vision Center of Wauwatosa is an eye care practice in Wauwatosa, WI at 6412 West North Avenue, Wauwatosa, WI 53213. Phone: +14142969400. Website: https://www.eyecarevisioncenter.com/. | https://dingalinged-cpu.github.io/registry/c/eye-care-vision-center-of-wauwatosa-wauwatosa/
+2. Summit Eye Care | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Summit Eye Care is an eye care practice in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/summit-eye-care-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor wauwatosa wi | category: Health & medical | industry benchmark: Physicians & Surgeons

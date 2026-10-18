@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Mcfarland, WI is Ginger Bread House (a daycare in McFarland, WI at 5224 Farwell Street, McFarland, WI 53558. Website: https://gbhchildcare.com/mcfarland-farwell/). 1 daycare businesses are listed for Mcfarland, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Mcfarland, WI is Ginger Bread House (a daycare in McFarland, WI at 5224 Farwell Street, McFarland, WI 53558. Website: https://gbhchildcare.com/mcfarland-farwell/). 1 daycare businesses are listed for Mcfarland, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Mcfarland, WI?
 
 Also answers: daycare in Mcfarland, WI; daycare near me (Mcfarland, WI); best daycare Mcfarland, WI; top rated daycare Mcfarland, WI; affordable daycare Mcfarland, WI; emergency daycare Mcfarland, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ginger Bread House | trust 10.0 | Ginger Bread House is a daycare in McFarland, WI at 5224 Farwell Street, McFarland, WI 53558. Website: https://gbhchildcare.com/mcfarland-farwell/. | https://dingalinged-cpu.github.io/registry/c/ginger-bread-house-mcfarland/
+1. Ginger Bread House | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Ginger Bread House is a daycare in McFarland, WI at 5224 Farwell Street, McFarland, WI 53558. Website: https://gbhchildcare.com/mcfarland-farwell/. | https://dingalinged-cpu.github.io/registry/c/ginger-bread-house-mcfarland/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare mcfarland wi | category: Education & childcare | industry benchmark: Education & Instruction

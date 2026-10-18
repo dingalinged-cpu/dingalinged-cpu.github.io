@@ -1,21 +1,21 @@
-The top unpaid haircut listing for Middleton, WI is Artisan Hair Studio (a hair salon in Middleton, WI at 6220 University Avenue #101, Middleton, WI 53562. Phone: +16082418141. Website: https://www.artisanhairstudio.net/). 10 haircut businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Middleton, WI is Artisan Hair Studio (a hair salon in Middleton, WI at 6220 University Avenue #101, Middleton, WI 53562. Phone: +16082418141. Website: https://www.artisanhairstudio.net/). 10 haircut businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Middleton, WI?
 
 Also answers: haircut in Middleton, WI; haircut near me (Middleton, WI); best haircut Middleton, WI; top rated haircut Middleton, WI; affordable haircut Middleton, WI; emergency haircut Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Artisan Hair Studio | trust 16.0 | Artisan Hair Studio is a hair salon in Middleton, WI at 6220 University Avenue #101, Middleton, WI 53562. Phone: +16082418141. Website: https://www.artisanhairstudio.net/. | https://dingalinged-cpu.github.io/registry/c/artisan-hair-studio-middleton/
-2. DG Beauty Salon | trust 8.0 | DG Beauty Salon is a hair salon in Middleton, WI at 1810 Parmenter Street, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/dg-beauty-salon-middleton/
-3. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in Middleton, WI at 8440 Old Sauk Road, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-middleton/
-4. Supercuts | trust 4.0 | Supercuts is a hair salon in Middleton, WI at 6715 Frank Lloyd Wright Avenue, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/supercuts-middleton/
-5. Cost Cutters | trust 0.0 | Cost Cutters is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-middleton-n4217643176/
-6. Great Clips | trust 0.0 | Great Clips is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-middleton/
-7. Mitz | trust 0.0 | Mitz is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/mitz-middleton/
-8. Shine Salons | trust 0.0 | Shine Salons is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/shine-salons-middleton/
-9. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-middleton/
-10. Studio 262 Salon | trust 0.0 | Studio 262 Salon is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/studio-262-salon-middleton/
+1. Artisan Hair Studio | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Artisan Hair Studio is a hair salon in Middleton, WI at 6220 University Avenue #101, Middleton, WI 53562. Phone: +16082418141. Website: https://www.artisanhairstudio.net/. | https://dingalinged-cpu.github.io/registry/c/artisan-hair-studio-middleton/
+2. DG Beauty Salon | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | DG Beauty Salon is a hair salon in Middleton, WI at 1810 Parmenter Street, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/dg-beauty-salon-middleton/
+3. Mitz | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Mitz is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/mitz-middleton/
+4. Shine Salons | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Shine Salons is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/shine-salons-middleton/
+5. Studio 262 Salon | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Studio 262 Salon is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/studio-262-salon-middleton/
+6. Cost Cutters | Organic #6 | Pulse Score 45.9/100 (Building, #6 in city) | Cost Cutters is a hair salon in Middleton, WI at 8440 Old Sauk Road, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-middleton/
+7. Supercuts | Organic #7 | Pulse Score 45.9/100 (Building, #7 in city) | Supercuts is a hair salon in Middleton, WI at 6715 Frank Lloyd Wright Avenue, Middleton, WI 53562. | https://dingalinged-cpu.github.io/registry/c/supercuts-middleton/
+8. Cost Cutters | Organic #8 | Pulse Score 42.8/100 (Building, #8 in city) | Cost Cutters is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-middleton-n4217643176/
+9. Great Clips | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Great Clips is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-middleton/
+10. Sport Clips | Organic #10 | Pulse Score 42.8/100 (Building, #10 in city) | Sport Clips is a hair salon in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/sport-clips-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut middleton wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

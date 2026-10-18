@@ -13,7 +13,7 @@ Prosper Plastic Surgery is a plastic surgeon in Prosper, TX at 240 South Preston
 - Website: https://www.prosperplasticsurgery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 23% of plastic surgeons in Dallas–Fort Worth, #1 of 1 plastic surgeons in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

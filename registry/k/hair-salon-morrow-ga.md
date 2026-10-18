@@ -1,19 +1,19 @@
-The top unpaid hair salon listing for Morrow, GA is Lala's Hair Branding (a hair salon in Morrow, GA at 6163 Reynolds Road, Morrow, GA. Phone: +14044573488. Website: https://lalashairbraiding.com/). 8 hair salon businesses are listed for Morrow, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Morrow, GA is Lala's Hair Branding (a hair salon in Morrow, GA at 6163 Reynolds Road, Morrow, GA. Phone: +14044573488. Website: https://lalashairbraiding.com/). 8 hair salon businesses are listed for Morrow, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Morrow, GA?
 
 Also answers: hair salon in Morrow, GA; hair salon near me (Morrow, GA); best hair salon Morrow, GA; top rated hair salon Morrow, GA; affordable hair salon Morrow, GA; emergency hair salon Morrow, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lala's Hair Branding | trust 15.0 | Lala's Hair Branding is a hair salon in Morrow, GA at 6163 Reynolds Road, Morrow, GA. Phone: +14044573488. Website: https://lalashairbraiding.com/. | https://dingalinged-cpu.github.io/registry/c/lalas-hair-branding-morrow/
-2. Barber | trust 0.0 | Barber is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/barber-morrow/
-3. Barber Shop | trust 0.0 | Barber Shop is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/barber-shop-morrow/
-4. Hair Braiding | trust 0.0 | Hair Braiding is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/hair-braiding-morrow/
-5. Jessica Hair Salon | trust 0.0 | Jessica Hair Salon is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/jessica-hair-salon-morrow/
-6. Salon Barber | trust 0.0 | Salon Barber is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/salon-barber-morrow/
-7. The Virgin Hair | trust 0.0 | The Virgin Hair is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/the-virgin-hair-morrow/
-8. XClusive Cuts | trust 0.0 | XClusive Cuts is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/xclusive-cuts-morrow/
+1. Lala's Hair Branding | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Lala's Hair Branding is a hair salon in Morrow, GA at 6163 Reynolds Road, Morrow, GA. Phone: +14044573488. Website: https://lalashairbraiding.com/. | https://dingalinged-cpu.github.io/registry/c/lalas-hair-branding-morrow/
+2. Barber | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Barber is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/barber-morrow/
+3. Hair Braiding | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Hair Braiding is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/hair-braiding-morrow/
+4. Jessica Hair Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Jessica Hair Salon is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/jessica-hair-salon-morrow/
+5. Salon Barber | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Salon Barber is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/salon-barber-morrow/
+6. The Virgin Hair | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | The Virgin Hair is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/the-virgin-hair-morrow/
+7. XClusive Cuts | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | XClusive Cuts is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/xclusive-cuts-morrow/
+8. Barber Shop | Organic #8 | Pulse Score 42/100 (Unrated, #8 in city) | Barber Shop is a hair salon in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/barber-shop-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon morrow ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

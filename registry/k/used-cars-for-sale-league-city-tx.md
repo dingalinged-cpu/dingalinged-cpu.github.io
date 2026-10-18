@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for League City, TX is League City Chrysler Jeep Dodge RAM (an used car dealer in League City, TX at 3535 Gulf Freeway South, League City, TX 77573. Phone: +12814884060). 1 used cars for sale businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for League City, TX is League City Chrysler Jeep Dodge RAM (an used car dealer in League City, TX at 3535 Gulf Freeway South, League City, TX 77573. Phone: +12814884060). 1 used cars for sale businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in League City, TX?
 
 Also answers: used cars for sale in League City, TX; used cars for sale near me (League City, TX); best used cars for sale League City, TX; top rated used cars for sale League City, TX; affordable used cars for sale League City, TX; emergency used cars for sale League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. League City Chrysler Jeep Dodge RAM | trust 14.0 | League City Chrysler Jeep Dodge RAM is an used car dealer in League City, TX at 3535 Gulf Freeway South, League City, TX 77573. Phone: +12814884060. | https://dingalinged-cpu.github.io/registry/c/league-city-chrysler-jeep-dodge-ram-league-city/
+1. League City Chrysler Jeep Dodge RAM | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | League City Chrysler Jeep Dodge RAM is an used car dealer in League City, TX at 3535 Gulf Freeway South, League City, TX 77573. Phone: +12814884060. | https://dingalinged-cpu.github.io/registry/c/league-city-chrysler-jeep-dodge-ram-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale league city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

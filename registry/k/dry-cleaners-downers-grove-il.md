@@ -1,14 +1,14 @@
-The top unpaid dry cleaners listing for Downers Grove, IL is Express Cleaners (a dry cleaner in Downers Grove, IL). 3 dry cleaners businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Downers Grove, IL is Fair Oaks Cleaners (a dry cleaner in Downers Grove, IL). 3 dry cleaners businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Downers Grove, IL?
 
 Also answers: dry cleaners in Downers Grove, IL; dry cleaners near me (Downers Grove, IL); best dry cleaners Downers Grove, IL; top rated dry cleaners Downers Grove, IL; affordable dry cleaners Downers Grove, IL; emergency dry cleaners Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Cleaners | trust 0.0 | Express Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/express-cleaners-downers-grove/
-2. Fair Oaks Cleaners | trust 0.0 | Fair Oaks Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/fair-oaks-cleaners-downers-grove/
-3. Hof Cleaners | trust 0.0 | Hof Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hof-cleaners-downers-grove/
+1. Fair Oaks Cleaners | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Fair Oaks Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/fair-oaks-cleaners-downers-grove/
+2. Hof Cleaners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Hof Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hof-cleaners-downers-grove/
+3. Express Cleaners | Organic #3 | Pulse Score 42.1/100 (Unrated, #3 in city) | Express Cleaners is a dry cleaner in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/express-cleaners-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners downers grove il | category: Professional & financial services | industry benchmark: Finance & Insurance

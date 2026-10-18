@@ -13,7 +13,7 @@ The Good Dog Shoppe is a pet store in Cobb County, GA at 4200 Wade Green Road No
 - Website: https://www.thegooddogco-atl.com/
 - Email: info.thegooddogshoppe@gmail.com
 - Opening hours (OSM syntax): Mo off; Tu-Sa 10:00-19:00; Su 11:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 8% of pet stores in Atlanta, #1 of 5 pet stores in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.3, Trust 50.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

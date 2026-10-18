@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Bolingbrook, IL is DuAll Heating & Cooling (a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/). 2 heating and air businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Bolingbrook, IL is Windy City HVAC Repair (a HVAC contractor in Bolingbrook, IL at 400 North Schmidt Road #211, Bolingbrook, IL 60440. Phone: +13125004822. Website: https://hvacchicago.com/). 2 heating and air businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Bolingbrook, IL?
 
 Also answers: heating and air in Bolingbrook, IL; heating and air near me (Bolingbrook, IL); best heating and air Bolingbrook, IL; top rated heating and air Bolingbrook, IL; affordable heating and air Bolingbrook, IL; emergency heating and air Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DuAll Heating & Cooling | trust 16.0 | DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/. | https://dingalinged-cpu.github.io/registry/c/duall-heating-and-cooling-bolingbrook/
-2. Windy City HVAC Repair | trust 16.0 | Windy City HVAC Repair is a HVAC contractor in Bolingbrook, IL at 400 North Schmidt Road #211, Bolingbrook, IL 60440. Phone: +13125004822. Website: https://hvacchicago.com/. | https://dingalinged-cpu.github.io/registry/c/windy-city-hvac-repair-bolingbrook/
+1. Windy City HVAC Repair | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Windy City HVAC Repair is a HVAC contractor in Bolingbrook, IL at 400 North Schmidt Road #211, Bolingbrook, IL 60440. Phone: +13125004822. Website: https://hvacchicago.com/. | https://dingalinged-cpu.github.io/registry/c/windy-city-hvac-repair-bolingbrook/
+2. DuAll Heating & Cooling | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | DuAll Heating & Cooling is a HVAC contractor in Bolingbrook, IL at 419 Foxborough Trail, Bolingbrook, IL 60440. Phone: +16302471720. Website: https://www.duallheating.com/. | https://dingalinged-cpu.github.io/registry/c/duall-heating-and-cooling-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air bolingbrook il | category: Home Services | industry benchmark: Home & Home Improvement

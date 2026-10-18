@@ -1,13 +1,13 @@
-The top unpaid pediatrician listing for Wauwatosa, WI is Tosa Pediatrics (a pediatrician in Wauwatosa, WI at 8651 West North Avenue, Wauwatosa, WI 53226. Phone: +14147749200. Website: https://www.tosapediatrics.com/). 2 pediatrician businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Wauwatosa, WI is Zarminali Pediatrics & Urgent Care (a pediatrician in Wauwatosa, WI at 800 North Mayfair Road #200, Wauwatosa, WI 53226. Phone: +14142628835. Website: https://zarminali.com/find-care/location/260100). 2 pediatrician businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Wauwatosa, WI?
 
 Also answers: pediatrician in Wauwatosa, WI; pediatrician near me (Wauwatosa, WI); best pediatrician Wauwatosa, WI; top rated pediatrician Wauwatosa, WI; affordable pediatrician Wauwatosa, WI; emergency pediatrician Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tosa Pediatrics | trust 20.0 | Tosa Pediatrics is a pediatrician in Wauwatosa, WI at 8651 West North Avenue, Wauwatosa, WI 53226. Phone: +14147749200. Website: https://www.tosapediatrics.com/. | https://dingalinged-cpu.github.io/registry/c/tosa-pediatrics-wauwatosa/
-2. Zarminali Pediatrics & Urgent Care | trust 20.0 | Zarminali Pediatrics & Urgent Care is a pediatrician in Wauwatosa, WI at 800 North Mayfair Road #200, Wauwatosa, WI 53226. Phone: +14142628835. Website: https://zarminali.com/find-care/location/260100. | https://dingalinged-cpu.github.io/registry/c/zarminali-pediatrics-and-urgent-care-wauwatosa/
+1. Zarminali Pediatrics & Urgent Care | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Zarminali Pediatrics & Urgent Care is a pediatrician in Wauwatosa, WI at 800 North Mayfair Road #200, Wauwatosa, WI 53226. Phone: +14142628835. Website: https://zarminali.com/find-care/location/260100. | https://dingalinged-cpu.github.io/registry/c/zarminali-pediatrics-and-urgent-care-wauwatosa/
+2. Tosa Pediatrics | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Tosa Pediatrics is a pediatrician in Wauwatosa, WI at 8651 West North Avenue, Wauwatosa, WI 53226. Phone: +14147749200. Website: https://www.tosapediatrics.com/. | https://dingalinged-cpu.github.io/registry/c/tosa-pediatrics-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician wauwatosa wi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Gabrielle S. Davis, P.C. is a lawyer in Oak Brook, IL at 700 Commerce Dr, #500, 
 - Website: https://gabrielledavis.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30, Sa 08:30-15:00
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 24% of lawyers in Chicago, #1 of 3 lawyers in Oak Brook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

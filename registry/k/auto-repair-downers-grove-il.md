@@ -1,17 +1,17 @@
-The top unpaid auto repair listing for Downers Grove, IL is Bob Carter's Auto Body Inc (an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/). 6 auto repair businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Downers Grove, IL is Bob Carter's Auto Body Inc (an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/). 6 auto repair businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Downers Grove, IL?
 
 Also answers: auto repair in Downers Grove, IL; auto repair near me (Downers Grove, IL); best auto repair Downers Grove, IL; top rated auto repair Downers Grove, IL; affordable auto repair Downers Grove, IL; emergency auto repair Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob Carter's Auto Body Inc | trust 20.0 | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/
-2. Diehl Auto Repair | trust 20.0 | Diehl Auto Repair is an auto repair shop in Downers Grove, IL at 660 Ogden Avenue, Downers Grove, IL 60515. Phone: +16309686889. Website: https://www.diehlautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/diehl-auto-repair-downers-grove/
-3. ATec | trust 7.0 | ATec is an auto repair shop in Downers Grove, IL at 1711 Ogden Avenue, Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/atec-downers-grove/
-4. Helmut & Vito's | trust 0.0 | Helmut & Vito's is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/helmut-and-vitos-downers-grove/
-5. Midas | trust 0.0 | Midas is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/midas-downers-grove/
-6. NTB | trust 0.0 | NTB is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ntb-downers-grove/
+1. Bob Carter's Auto Body Inc | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Bob Carter's Auto Body Inc is an auto repair shop in Downers Grove, IL at 4309 Fairview Avenue, Downers Grove, IL 60515. Phone: +16308523578. Website: https://bobcartersautobody.com/. | https://dingalinged-cpu.github.io/registry/c/bob-carters-auto-body-inc-downers-grove/
+2. Diehl Auto Repair | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Diehl Auto Repair is an auto repair shop in Downers Grove, IL at 660 Ogden Avenue, Downers Grove, IL 60515. Phone: +16309686889. Website: https://www.diehlautorepair.com/. | https://dingalinged-cpu.github.io/registry/c/diehl-auto-repair-downers-grove/
+3. ATec | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | ATec is an auto repair shop in Downers Grove, IL at 1711 Ogden Avenue, Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/atec-downers-grove/
+4. Helmut & Vito's | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Helmut & Vito's is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/helmut-and-vitos-downers-grove/
+5. NTB | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | NTB is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/ntb-downers-grove/
+6. Midas | Organic #6 | Pulse Score 41.7/100 (Building, #6 in city) | Midas is an auto repair shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/midas-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair downers grove il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

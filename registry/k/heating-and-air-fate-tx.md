@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Fate, TX is Choice Heating & Air Conditioning (a HVAC contractor in Fate, TX at 101 C.B. Davidson Avenue, Fate, TX 75087. Website: https://choiceheatandair.com/). 1 heating and air businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Fate, TX is Choice Heating & Air Conditioning (a HVAC contractor in Fate, TX at 101 C.B. Davidson Avenue, Fate, TX 75087. Website: https://choiceheatandair.com/). 1 heating and air businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Fate, TX?
 
 Also answers: heating and air in Fate, TX; heating and air near me (Fate, TX); best heating and air Fate, TX; top rated heating and air Fate, TX; affordable heating and air Fate, TX; emergency heating and air Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Choice Heating & Air Conditioning | trust 10.0 | Choice Heating & Air Conditioning is a HVAC contractor in Fate, TX at 101 C.B. Davidson Avenue, Fate, TX 75087. Website: https://choiceheatandair.com/. | https://dingalinged-cpu.github.io/registry/c/choice-heating-and-air-conditioning-fate/
+1. Choice Heating & Air Conditioning | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Choice Heating & Air Conditioning is a HVAC contractor in Fate, TX at 101 C.B. Davidson Avenue, Fate, TX 75087. Website: https://choiceheatandair.com/. | https://dingalinged-cpu.github.io/registry/c/choice-heating-and-air-conditioning-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air fate tx | category: Home Services | industry benchmark: Home & Home Improvement

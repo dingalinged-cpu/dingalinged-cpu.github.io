@@ -1,24 +1,24 @@
-The top unpaid gift shop listing for Dallas, TX is Jade & Clover (a gift shop in Dallas, TX at 2633 Main Street #150, Dallas, TX 75226. Phone: +14697302264. Website: https://jadeandclover.com/). 13 gift shop businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Dallas, TX is Yuyu (a gift shop in Dallas, TX at 369 West Jefferson Boulevard, Dallas, TX 75208. Phone: +12147339705. Website: https://yuyuculturalshop.com/). 13 gift shop businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Dallas, TX?
 
 Also answers: gift shop in Dallas, TX; gift shop near me (Dallas, TX); best gift shop Dallas, TX; top rated gift shop Dallas, TX; affordable gift shop Dallas, TX; emergency gift shop Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jade & Clover | trust 20.0 | Jade & Clover is a gift shop in Dallas, TX at 2633 Main Street #150, Dallas, TX 75226. Phone: +14697302264. Website: https://jadeandclover.com/. | https://dingalinged-cpu.github.io/registry/c/jade-and-clover-dallas/
-2. Yuyu | trust 20.0 | Yuyu is a gift shop in Dallas, TX at 369 West Jefferson Boulevard, Dallas, TX 75208. Phone: +12147339705. Website: https://yuyuculturalshop.com/. | https://dingalinged-cpu.github.io/registry/c/yuyu-dallas/
-3. Edible Arrangements | trust 16.0 | Edible Arrangements is a gift shop in Dallas, TX. Phone: +12143618600. Website: https://www.ediblearrangements.com/stores/10455-n-central-expy-ste-103-dallas-tx-75231. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas-n13252351571/
-4. Betty Lou | trust 13.0 | Betty Lou is a gift shop in Dallas, TX at 6465 East Mockingbird Lane #312, Dallas, TX. Phone: +12145225867. | https://dingalinged-cpu.github.io/registry/c/betty-lou-dallas/
-5. Dowdy Designs & Gift Shop | trust 9.0 | Dowdy Designs & Gift Shop is a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/. | https://dingalinged-cpu.github.io/registry/c/dowdy-designs-and-gift-shop-dallas/
-6. Guile Retail | trust 8.0 | Guile Retail is a gift shop in Dallas, TX at 4515 Village Fair Drive #B11, Dallas, TX 75224. | https://dingalinged-cpu.github.io/registry/c/guile-retail-dallas/
-7. Sample House | trust 3.0 | Sample House is a gift shop in Dallas, TX at 9440 #122, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sample-house-dallas/
-8. BoxLunch | trust 0.0 | BoxLunch is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/boxlunch-dallas/
-9. Discovery Store | trust 0.0 | Discovery Store is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/discovery-store-dallas/
-10. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas/
-11. Spencer's | trust 0.0 | Spencer's is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-dallas/
-12. Wild Bill's Western Store | trust 0.0 | Wild Bill's Western Store is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wild-bills-western-store-dallas/
-13. Wild Wild West | trust 0.0 | Wild Wild West is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wild-wild-west-dallas/
+1. Yuyu | Organic #1 | Pulse Score 64.6/100 (Good, #1 in city) | Yuyu is a gift shop in Dallas, TX at 369 West Jefferson Boulevard, Dallas, TX 75208. Phone: +12147339705. Website: https://yuyuculturalshop.com/. | https://dingalinged-cpu.github.io/registry/c/yuyu-dallas/
+2. Betty Lou | Organic #2 | Pulse Score 63.2/100 (Unrated, #2 in city) | Betty Lou is a gift shop in Dallas, TX at 6465 East Mockingbird Lane #312, Dallas, TX. Phone: +12145225867. | https://dingalinged-cpu.github.io/registry/c/betty-lou-dallas/
+3. Guile Retail | Organic #3 | Pulse Score 62.9/100 (Unrated, #3 in city) | Guile Retail is a gift shop in Dallas, TX at 4515 Village Fair Drive #B11, Dallas, TX 75224. | https://dingalinged-cpu.github.io/registry/c/guile-retail-dallas/
+4. Jade & Clover | Organic #4 | Pulse Score 62.6/100 (Unrated, #4 in city) | Jade & Clover is a gift shop in Dallas, TX at 2633 Main Street #150, Dallas, TX 75226. Phone: +14697302264. Website: https://jadeandclover.com/. | https://dingalinged-cpu.github.io/registry/c/jade-and-clover-dallas/
+5. Dowdy Designs & Gift Shop | Organic #5 | Pulse Score 62.1/100 (Good, #5 in city) | Dowdy Designs & Gift Shop is a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/. | https://dingalinged-cpu.github.io/registry/c/dowdy-designs-and-gift-shop-dallas/
+6. Sample House | Organic #6 | Pulse Score 57.9/100 (Unrated, #6 in city) | Sample House is a gift shop in Dallas, TX at 9440 #122, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/sample-house-dallas/
+7. Discovery Store | Organic #7 | Pulse Score 55.6/100 (Unrated, #7 in city) | Discovery Store is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/discovery-store-dallas/
+8. Wild Bill's Western Store | Organic #8 | Pulse Score 55.6/100 (Unrated, #8 in city) | Wild Bill's Western Store is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wild-bills-western-store-dallas/
+9. Wild Wild West | Organic #9 | Pulse Score 55.6/100 (Unrated, #9 in city) | Wild Wild West is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wild-wild-west-dallas/
+10. Edible Arrangements | Organic #10 | Pulse Score 48.8/100 (Building, #10 in city) | Edible Arrangements is a gift shop in Dallas, TX. Phone: +12143618600. Website: https://www.ediblearrangements.com/stores/10455-n-central-expy-ste-103-dallas-tx-75231. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas-n13252351571/
+11. Spencer's | Organic #11 | Pulse Score 44.2/100 (Building, #11 in city) | Spencer's is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-dallas/
+12. BoxLunch | Organic #12 | Pulse Score 44.1/100 (Building, #12 in city) | BoxLunch is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/boxlunch-dallas/
+13. Edible Arrangements | Organic #13 | Pulse Score 43.7/100 (Building, #13 in city) | Edible Arrangements is a gift shop in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop dallas tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

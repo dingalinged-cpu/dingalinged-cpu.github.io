@@ -1,13 +1,13 @@
-The top unpaid plastic surgeon listing for Pearland, TX is Leo Lapuerta, MD (a plastic surgeon in Pearland, TX at 2360 County Rd 94, #104, Pearland, TX 77584. Website: https://lookyounger.net/). 2 plastic surgeon businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plastic surgeon listing for Pearland, TX is Leo Lapuerta, MD (a plastic surgeon in Pearland, TX at 2360 County Rd 94, #104, Pearland, TX 77584. Website: https://lookyounger.net/). 2 plastic surgeon businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plastic surgeon providers in Pearland, TX?
 
 Also answers: plastic surgeon in Pearland, TX; plastic surgeon near me (Pearland, TX); best plastic surgeon Pearland, TX; top rated plastic surgeon Pearland, TX; affordable plastic surgeon Pearland, TX; emergency plastic surgeon Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leo Lapuerta, MD | trust 14.0 | Leo Lapuerta, MD is a plastic surgeon in Pearland, TX at 2360 County Rd 94, #104, Pearland, TX 77584. Website: https://lookyounger.net/. | https://dingalinged-cpu.github.io/registry/c/leo-lapuerta-md-pearland/
-2. Chiq Estheitq Med Spa & Laser Center | trust 0.0 | Chiq Estheitq Med Spa & Laser Center is a plastic surgeon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/chiq-estheitq-med-spa-and-laser-center-pearland/
+1. Leo Lapuerta, MD | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Leo Lapuerta, MD is a plastic surgeon in Pearland, TX at 2360 County Rd 94, #104, Pearland, TX 77584. Website: https://lookyounger.net/. | https://dingalinged-cpu.github.io/registry/c/leo-lapuerta-md-pearland/
+2. Chiq Estheitq Med Spa & Laser Center | Organic #2 | Pulse Score 53.4/100 (Unrated, #2 in city) | Chiq Estheitq Med Spa & Laser Center is a plastic surgeon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/chiq-estheitq-med-spa-and-laser-center-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon pearland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

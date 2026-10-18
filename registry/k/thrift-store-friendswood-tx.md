@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Friendswood, TX is Blue Monkey Thrift Shop (a thrift store in Friendswood, TX). 1 thrift store businesses are listed for Friendswood, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Friendswood, TX is Blue Monkey Thrift Shop (a thrift store in Friendswood, TX). 1 thrift store businesses are listed for Friendswood, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Friendswood, TX?
 
 Also answers: thrift store in Friendswood, TX; thrift store near me (Friendswood, TX); best thrift store Friendswood, TX; top rated thrift store Friendswood, TX; affordable thrift store Friendswood, TX; emergency thrift store Friendswood, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Monkey Thrift Shop | trust 0.0 | Blue Monkey Thrift Shop is a thrift store in Friendswood, TX. | https://dingalinged-cpu.github.io/registry/c/blue-monkey-thrift-shop-friendswood/
+1. Blue Monkey Thrift Shop | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Blue Monkey Thrift Shop is a thrift store in Friendswood, TX. | https://dingalinged-cpu.github.io/registry/c/blue-monkey-thrift-shop-friendswood/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store friendswood tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

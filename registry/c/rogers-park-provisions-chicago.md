@@ -13,7 +13,7 @@ Rogers Park Provisions is a gift shop in Chicago, IL at 6928 North Glenwood Aven
 - Website: https://provisionschicago.square.site/
 - Email: info@rogersparkprovisions.com
 - Opening hours (OSM syntax): Tu-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 11:00-18:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 9% of gift shops in Chicago, #7 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

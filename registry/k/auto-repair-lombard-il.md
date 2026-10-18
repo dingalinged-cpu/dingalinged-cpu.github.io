@@ -1,24 +1,24 @@
-The top unpaid auto repair listing for Lombard, IL is Mike More Miles (an auto repair shop in Lombard, IL at 234 West Roosevelt Road, Lombard, IL 60148. Phone: +16304952700. Website: https://www.mikemoremiles.com/MikeMoreMilesLombard.html). 13 auto repair businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Lombard, IL is Mike More Miles (an auto repair shop in Lombard, IL at 234 West Roosevelt Road, Lombard, IL 60148. Phone: +16304952700. Website: https://www.mikemoremiles.com/MikeMoreMilesLombard.html). 13 auto repair businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Lombard, IL?
 
 Also answers: auto repair in Lombard, IL; auto repair near me (Lombard, IL); best auto repair Lombard, IL; top rated auto repair Lombard, IL; affordable auto repair Lombard, IL; emergency auto repair Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mike More Miles | trust 20.0 | Mike More Miles is an auto repair shop in Lombard, IL at 234 West Roosevelt Road, Lombard, IL 60148. Phone: +16304952700. Website: https://www.mikemoremiles.com/MikeMoreMilesLombard.html. | https://dingalinged-cpu.github.io/registry/c/mike-more-miles-lombard/
-2. JT window tinting service | trust 10.0 | JT window tinting service is an auto repair shop in Lombard, IL. Phone: +16305061034. | https://dingalinged-cpu.github.io/registry/c/jt-window-tinting-service-lombard/
-3. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Lombard, IL at 1204 East Roosevelt Road, Lombard, IL 60148. Website: https://store.vioc.com/il/lombard/oil-change-gr0037.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-lombard/
-4. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Lombard, IL at 1200 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/goodyear-lombard/
-5. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Lombard, IL at 1 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lombard/
-6. Midas | trust 4.0 | Midas is an auto repair shop in Lombard, IL at 832 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/midas-lombard/
-7. NTB | trust 4.0 | NTB is an auto repair shop in Lombard, IL at 1102 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/ntb-lombard/
-8. Pep Boys | trust 4.0 | Pep Boys is an auto repair shop in Lombard, IL at 851 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lombard/
-9. 3D Complete Car Care | trust 0.0 | 3D Complete Car Care is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/3d-complete-car-care-lombard/
-10. Cassidy Tire and Service | trust 0.0 | Cassidy Tire and Service is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-lombard/
-11. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard/
-12. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard-w1326178607/
-13. Firestone | trust 0.0 | Firestone is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-lombard/
+1. Mike More Miles | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Mike More Miles is an auto repair shop in Lombard, IL at 234 West Roosevelt Road, Lombard, IL 60148. Phone: +16304952700. Website: https://www.mikemoremiles.com/MikeMoreMilesLombard.html. | https://dingalinged-cpu.github.io/registry/c/mike-more-miles-lombard/
+2. JT window tinting service | Organic #2 | Pulse Score 60.1/100 (Unrated, #2 in city) | JT window tinting service is an auto repair shop in Lombard, IL. Phone: +16305061034. | https://dingalinged-cpu.github.io/registry/c/jt-window-tinting-service-lombard/
+3. 3D Complete Car Care | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | 3D Complete Car Care is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/3d-complete-car-care-lombard/
+4. Valvoline | Organic #4 | Pulse Score 47.4/100 (Building, #4 in city) | Valvoline is an auto repair shop in Lombard, IL at 1204 East Roosevelt Road, Lombard, IL 60148. Website: https://store.vioc.com/il/lombard/oil-change-gr0037.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-lombard/
+5. NTB | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | NTB is an auto repair shop in Lombard, IL at 1102 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/ntb-lombard/
+6. Goodyear | Organic #6 | Pulse Score 44.2/100 (Building, #6 in city) | Goodyear is an auto repair shop in Lombard, IL at 1200 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/goodyear-lombard/
+7. Jiffy Lube | Organic #7 | Pulse Score 44.2/100 (Building, #7 in city) | Jiffy Lube is an auto repair shop in Lombard, IL at 1 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lombard/
+8. Midas | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Midas is an auto repair shop in Lombard, IL at 832 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/midas-lombard/
+9. Pep Boys | Organic #9 | Pulse Score 44.2/100 (Building, #9 in city) | Pep Boys is an auto repair shop in Lombard, IL at 851 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lombard/
+10. Crash Champions | Organic #10 | Pulse Score 42.8/100 (Building, #10 in city) | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard-w1326178607/
+11. Cassidy Tire and Service | Organic #11 | Pulse Score 42.5/100 (Unrated, #11 in city) | Cassidy Tire and Service is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/cassidy-tire-and-service-lombard/
+12. Crash Champions | Organic #12 | Pulse Score 42.2/100 (Building, #12 in city) | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard/
+13. Firestone | Organic #13 | Pulse Score 42.2/100 (Building, #13 in city) | Firestone is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair lombard il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

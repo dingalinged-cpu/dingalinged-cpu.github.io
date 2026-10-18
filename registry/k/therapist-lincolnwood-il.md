@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Lincolnwood, IL is Ambitions ABA (a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/). 1 therapist businesses are listed for Lincolnwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Lincolnwood, IL is Ambitions ABA (a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/). 1 therapist businesses are listed for Lincolnwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Lincolnwood, IL?
 
 Also answers: therapist in Lincolnwood, IL; therapist near me (Lincolnwood, IL); best therapist Lincolnwood, IL; top rated therapist Lincolnwood, IL; affordable therapist Lincolnwood, IL; emergency therapist Lincolnwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ambitions ABA | trust 20.0 | Ambitions ABA is a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/. | https://dingalinged-cpu.github.io/registry/c/ambitions-aba-lincolnwood/
+1. Ambitions ABA | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Ambitions ABA is a therapy practice in Lincolnwood, IL at 6633 North Lincoln Avenue, Lincolnwood, IL 60712. Phone: +18479204441. Website: https://www.ambitionsaba.com/. | https://dingalinged-cpu.github.io/registry/c/ambitions-aba-lincolnwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist lincolnwood il | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

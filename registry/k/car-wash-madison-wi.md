@@ -1,25 +1,25 @@
-The top unpaid car wash listing for Madison, WI is Kwik Trip (a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=960). 14 car wash businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Madison, WI is Mr. Splash (a car wash in Madison, WI). 14 car wash businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Madison, WI?
 
 Also answers: car wash in Madison, WI; car wash near me (Madison, WI); best car wash Madison, WI; top rated car wash Madison, WI; affordable car wash Madison, WI; emergency car wash Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=960. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison/
-2. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=961. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w1007428904/
-3. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=953. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w396107750/
-4. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=950. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w438087588/
-5. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=952. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w662266661/
-6. Mermaid Car Wash | trust 3.0 | Mermaid Car Wash is a car wash in Madison, WI at 526 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mermaid-car-wash-madison/
-7. Mister Car Wash | trust 3.0 | Mister Car Wash is a car wash in Madison, WI at East Washington Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison-w385773233/
-8. BP | trust 0.0 | BP is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bp-madison/
-9. Bubble Time Car Wash | trust 0.0 | Bubble Time Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bubble-time-car-wash-madison/
-10. Kwik Trip | trust 0.0 | Kwik Trip is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w105682528/
-11. Mister Car Wash | trust 0.0 | Mister Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison/
-12. Mister Car Wash | trust 0.0 | Mister Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison-w355219499/
-13. Mr. Splash | trust 0.0 | Mr. Splash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mr-splash-madison/
-14. Woodman's Car Wash | trust 0.0 | Woodman's Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/woodmans-car-wash-madison/
+1. Mr. Splash | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Mr. Splash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mr-splash-madison/
+2. Woodman's Car Wash | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Woodman's Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/woodmans-car-wash-madison/
+3. Mermaid Car Wash | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Mermaid Car Wash is a car wash in Madison, WI at 526 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mermaid-car-wash-madison/
+4. Bubble Time Car Wash | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Bubble Time Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bubble-time-car-wash-madison/
+5. Kwik Trip | Organic #5 | Pulse Score 49.2/100 (Building, #5 in city) | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=953. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w396107750/
+6. Kwik Trip | Organic #6 | Pulse Score 48.9/100 (Building, #6 in city) | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=960. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison/
+7. Kwik Trip | Organic #7 | Pulse Score 48.4/100 (Building, #7 in city) | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=961. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w1007428904/
+8. Kwik Trip | Organic #8 | Pulse Score 48.4/100 (Building, #8 in city) | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=950. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w438087588/
+9. Kwik Trip | Organic #9 | Pulse Score 48.4/100 (Building, #9 in city) | Kwik Trip is a car wash in Madison, WI. Website: https://www.kwiktrip.com/locator/store?id=952. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w662266661/
+10. Mister Car Wash | Organic #10 | Pulse Score 44.9/100 (Building, #10 in city) | Mister Car Wash is a car wash in Madison, WI at East Washington Avenue, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison-w385773233/
+11. Mister Car Wash | Organic #11 | Pulse Score 43.2/100 (Building, #11 in city) | Mister Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison-w355219499/
+12. BP | Organic #12 | Pulse Score 42.1/100 (Building, #12 in city) | BP is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/bp-madison/
+13. Kwik Trip | Organic #13 | Pulse Score 42.1/100 (Building, #13 in city) | Kwik Trip is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-madison-w105682528/
+14. Mister Car Wash | Organic #14 | Pulse Score 42.1/100 (Building, #14 in city) | Mister Car Wash is a car wash in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash madison wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

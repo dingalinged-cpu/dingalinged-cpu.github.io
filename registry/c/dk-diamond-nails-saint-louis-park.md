@@ -13,7 +13,7 @@ DK Diamond Nails is a nail salon in Saint Louis Park, MN at 7109 Cedar Lake Road
 - Website: https://www.facebook.com/DKDiamondNails/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 5% of nail salons in Minneapolis–St. Paul, #1 of 11 nail salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Zeba Hair Salon is a hair salon in Marietta, GA at 1401 Johnson Ferry Road North
 - Website: https://na01.envisiongo.com/a/zebahairsalonoriginal/index.aspx
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 09:00-19:00; We 09:00-17:00; Th-Fr 09:00-19:00; Sa 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 14% of hair salons in Atlanta, #12 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

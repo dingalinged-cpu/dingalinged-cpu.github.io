@@ -1,20 +1,20 @@
-The top unpaid dentist listing for Des Plaines, IL is Partridge Dental (a dentist in Des Plaines, IL at 690 South 1st Avenue ##1R, Des Plaines, IL 60016. Website: https://www.partridgedental.com/). 9 dentist businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Des Plaines, IL is Partridge Dental (a dentist in Des Plaines, IL at 690 South 1st Avenue ##1R, Des Plaines, IL 60016. Website: https://www.partridgedental.com/). 9 dentist businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Des Plaines, IL?
 
 Also answers: dentist in Des Plaines, IL; dentist near me (Des Plaines, IL); best dentist Des Plaines, IL; top rated dentist Des Plaines, IL; affordable dentist Des Plaines, IL; emergency dentist Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Partridge Dental | trust 10.0 | Partridge Dental is a dentist in Des Plaines, IL at 690 South 1st Avenue ##1R, Des Plaines, IL 60016. Website: https://www.partridgedental.com/. | https://dingalinged-cpu.github.io/registry/c/partridge-dental-des-plaines/
-2. Brite Bite Dental | trust 4.0 | Brite Bite Dental is a dentist in Des Plaines, IL at Lee Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/brite-bite-dental-des-plaines/
-3. Gentle Dental | trust 4.0 | Gentle Dental is a dentist in Des Plaines, IL at 640 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/gentle-dental-des-plaines/
-4. Smile Care | trust 4.0 | Smile Care is a dentist in Des Plaines, IL at 634 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/smile-care-des-plaines/
-5. Dental Vue | trust 0.0 | Dental Vue is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/dental-vue-des-plaines/
-6. Dr. John S. Zanoni, DDS | trust 0.0 | Dr. John S. Zanoni, DDS is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/dr-john-s-zanoni-dds-des-plaines/
-7. Graceland Prairie Dental | trust 0.0 | Graceland Prairie Dental is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/graceland-prairie-dental-des-plaines/
-8. John C. Kaminski General Dentistry | trust 0.0 | John C. Kaminski General Dentistry is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/john-c-kaminski-general-dentistry-des-plaines/
-9. JT Family Dental | trust 0.0 | JT Family Dental is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/jt-family-dental-des-plaines/
+1. Partridge Dental | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Partridge Dental is a dentist in Des Plaines, IL at 690 South 1st Avenue ##1R, Des Plaines, IL 60016. Website: https://www.partridgedental.com/. | https://dingalinged-cpu.github.io/registry/c/partridge-dental-des-plaines/
+2. Brite Bite Dental | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Brite Bite Dental is a dentist in Des Plaines, IL at Lee Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/brite-bite-dental-des-plaines/
+3. Smile Care | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Smile Care is a dentist in Des Plaines, IL at 634 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/smile-care-des-plaines/
+4. Dental Vue | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Dental Vue is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/dental-vue-des-plaines/
+5. Dr. John S. Zanoni, DDS | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Dr. John S. Zanoni, DDS is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/dr-john-s-zanoni-dds-des-plaines/
+6. Graceland Prairie Dental | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Graceland Prairie Dental is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/graceland-prairie-dental-des-plaines/
+7. John C. Kaminski General Dentistry | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | John C. Kaminski General Dentistry is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/john-c-kaminski-general-dentistry-des-plaines/
+8. JT Family Dental | Organic #8 | Pulse Score 54.2/100 (Unrated, #8 in city) | JT Family Dental is a dentist in Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/jt-family-dental-des-plaines/
+9. Gentle Dental | Organic #9 | Pulse Score 44.5/100 (Building, #9 in city) | Gentle Dental is a dentist in Des Plaines, IL at 640 West Algonquin Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/gentle-dental-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist des plaines il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -13,7 +13,7 @@ Deerfield's Bakery is a bakery in Buffalo Grove, IL at 201 Buffalo Grove Road, B
 - Website: https://deerfieldsbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Su 07:00-14:00; Tu-Fr 06:00-17:00; Sa 07:00-17:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 39% of bakerys in Chicago, #2 of 2 bakerys in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

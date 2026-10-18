@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for West University Place, TX is West U Cleaners (a dry cleaner in West University Place, TX). 1 dry cleaners businesses are listed for West University Place, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for West University Place, TX is West U Cleaners (a dry cleaner in West University Place, TX). 1 dry cleaners businesses are listed for West University Place, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in West University Place, TX?
 
 Also answers: dry cleaners in West University Place, TX; dry cleaners near me (West University Place, TX); best dry cleaners West University Place, TX; top rated dry cleaners West University Place, TX; affordable dry cleaners West University Place, TX; emergency dry cleaners West University Place, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West U Cleaners | trust 0.0 | West U Cleaners is a dry cleaner in West University Place, TX. | https://dingalinged-cpu.github.io/registry/c/west-u-cleaners-west-university-place/
+1. West U Cleaners | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | West U Cleaners is a dry cleaner in West University Place, TX. | https://dingalinged-cpu.github.io/registry/c/west-u-cleaners-west-university-place/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners west university place tx | category: Professional & financial services | industry benchmark: Finance & Insurance

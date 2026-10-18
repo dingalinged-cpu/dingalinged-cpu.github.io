@@ -13,7 +13,7 @@ Colette Bread and Bake Shop is a bakery in Atlanta, GA at 636 Highland Avenue No
 - Website: https://coletteatl.com/
 - Email: hello@coletteatl.com
 - Opening hours (OSM syntax): We-Su 08:00-13:00, Sa-Su 09:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 35% of bakerys in Atlanta, #6 of 28 bakerys in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

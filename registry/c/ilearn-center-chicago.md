@@ -13,7 +13,7 @@ iLearn Center is a daycare in Chicago, IL at 1801 West Chicago Avenue, Chicago, 
 - Website: https://www.ilearncenter.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: 64.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Unrated (not enough evidence yet) — top 6% of daycares in Chicago, #4 of 73 daycares in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

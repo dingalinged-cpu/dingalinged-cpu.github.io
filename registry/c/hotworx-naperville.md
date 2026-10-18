@@ -13,7 +13,7 @@ Hotworx is a gym in Naperville, IL at 924 West 75th Street #128, Naperville, IL 
 - Website: https://www.hotworx.net/studio/naperville-75thst
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Building — top 64% of gyms in Chicago, #14 of 14 gyms in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

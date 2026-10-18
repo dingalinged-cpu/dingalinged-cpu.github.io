@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Stoughton, WI is T&T Nails (a nail salon in Stoughton, WI). 1 nail salon businesses are listed for Stoughton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Stoughton, WI is T&T Nails (a nail salon in Stoughton, WI). 1 nail salon businesses are listed for Stoughton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Stoughton, WI?
 
 Also answers: nail salon in Stoughton, WI; nail salon near me (Stoughton, WI); best nail salon Stoughton, WI; top rated nail salon Stoughton, WI; affordable nail salon Stoughton, WI; emergency nail salon Stoughton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. T&T Nails | trust 0.0 | T&T Nails is a nail salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-stoughton/
+1. T&T Nails | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | T&T Nails is a nail salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/t-and-t-nails-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon stoughton wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

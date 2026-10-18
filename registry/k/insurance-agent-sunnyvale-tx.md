@@ -1,14 +1,14 @@
-The top unpaid insurance agent listing for Sunnyvale, TX is Charales Insurance (an insurance agent in Sunnyvale, TX at 3630 North Belt Line Road #100, Sunnyvale, TX 75182). 3 insurance agent businesses are listed for Sunnyvale, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Sunnyvale, TX is Charales Insurance (an insurance agent in Sunnyvale, TX at 3630 North Belt Line Road #100, Sunnyvale, TX 75182). 3 insurance agent businesses are listed for Sunnyvale, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Sunnyvale, TX?
 
 Also answers: insurance agent in Sunnyvale, TX; insurance agent near me (Sunnyvale, TX); best insurance agent Sunnyvale, TX; top rated insurance agent Sunnyvale, TX; affordable insurance agent Sunnyvale, TX; emergency insurance agent Sunnyvale, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charales Insurance | trust 4.0 | Charales Insurance is an insurance agent in Sunnyvale, TX at 3630 North Belt Line Road #100, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/charales-insurance-sunnyvale/
-2. State Farm | trust 4.0 | State Farm is an insurance agent in Sunnyvale, TX at 400 South Paschal Road #300, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/state-farm-sunnyvale/
-3. Houston Tullos - State Farm Insurance Agent | trust 0.0 | Houston Tullos - State Farm Insurance Agent is an insurance agent in Sunnyvale, TX. | https://dingalinged-cpu.github.io/registry/c/houston-tullos-state-farm-insurance-agent-sunnyvale/
+1. Charales Insurance | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Charales Insurance is an insurance agent in Sunnyvale, TX at 3630 North Belt Line Road #100, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/charales-insurance-sunnyvale/
+2. Houston Tullos - State Farm Insurance Agent | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Houston Tullos - State Farm Insurance Agent is an insurance agent in Sunnyvale, TX. | https://dingalinged-cpu.github.io/registry/c/houston-tullos-state-farm-insurance-agent-sunnyvale/
+3. State Farm | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | State Farm is an insurance agent in Sunnyvale, TX at 400 South Paschal Road #300, Sunnyvale, TX 75182. | https://dingalinged-cpu.github.io/registry/c/state-farm-sunnyvale/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent sunnyvale tx | category: Professional & financial services | industry benchmark: Finance & Insurance

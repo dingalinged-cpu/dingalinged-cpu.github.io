@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Richardson, TX is Lone Chimney Mercantile (a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/). 3 gift shop businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Richardson, TX is Lone Chimney Mercantile (a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/). 3 gift shop businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Richardson, TX?
 
 Also answers: gift shop in Richardson, TX; gift shop near me (Richardson, TX); best gift shop Richardson, TX; top rated gift shop Richardson, TX; affordable gift shop Richardson, TX; emergency gift shop Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lone Chimney Mercantile | trust 20.0 | Lone Chimney Mercantile is a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/. | https://dingalinged-cpu.github.io/registry/c/lone-chimney-mercantile-richardson/
-2. Indian Fashion & Gifts | trust 14.0 | Indian Fashion & Gifts is a gift shop in Richardson, TX at 524 West Belt Line Road, Richardson, TX 75080. Phone: +19722389055. | https://dingalinged-cpu.github.io/registry/c/indian-fashion-and-gifts-richardson/
-3. Beaucoup | trust 4.0 | Beaucoup is a gift shop in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/beaucoup-richardson/
+1. Lone Chimney Mercantile | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Lone Chimney Mercantile is a gift shop in Richardson, TX at 205 West Main Street, Richardson, TX 75081. Phone: +12147348691. Website: https://www.lonechimneymercantile.com/. | https://dingalinged-cpu.github.io/registry/c/lone-chimney-mercantile-richardson/
+2. Indian Fashion & Gifts | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Indian Fashion & Gifts is a gift shop in Richardson, TX at 524 West Belt Line Road, Richardson, TX 75080. Phone: +19722389055. | https://dingalinged-cpu.github.io/registry/c/indian-fashion-and-gifts-richardson/
+3. Beaucoup | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Beaucoup is a gift shop in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/beaucoup-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop richardson tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

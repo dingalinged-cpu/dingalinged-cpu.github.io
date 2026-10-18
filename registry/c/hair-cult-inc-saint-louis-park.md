@@ -13,7 +13,7 @@ Hair Cult Inc is a hair salon in Saint Louis Park, MN at 5704 36th Street West, 
 - Website: https://www.haircultinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Minneapolis–St. Paul, #7 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

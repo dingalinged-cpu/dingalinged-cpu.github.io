@@ -13,7 +13,7 @@ Crossroads Veterinary Hospital is a veterinarian in Woodstock, GA at 9500 Main S
 - Website: https://www.mycrossvethospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 07:00-18:30; We 07:00-13:00; Sa 08:00-13:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 14% of veterinarians in Atlanta, #1 of 6 veterinarians in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

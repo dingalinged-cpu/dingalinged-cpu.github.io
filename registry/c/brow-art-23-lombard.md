@@ -13,7 +13,7 @@ Brow Art 23 is a skin care studio in Lombard, IL at 157G Yorktown Shopping Cente
 - Website: https://browart23.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 48% of skin care studios in Chicago, #1 of 1 skin care studios in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

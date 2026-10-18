@@ -1,12 +1,12 @@
-The top unpaid yoga classes listing for Sandy Springs, GA is Peachtree Yoga Center (a yoga studio in Sandy Springs, GA at 6050 Sandy Springs Circle, Sandy Springs, GA 30328. Phone: +14048479642. Website: https://peachtreeyoga.com/). 1 yoga classes businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Sandy Springs, GA is Peachtree Yoga Center (a yoga studio in Sandy Springs, GA at 6050 Sandy Springs Circle, Sandy Springs, GA 30328. Phone: +14048479642. Website: https://peachtreeyoga.com/). 1 yoga classes businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Sandy Springs, GA?
 
 Also answers: yoga classes in Sandy Springs, GA; yoga classes near me (Sandy Springs, GA); best yoga classes Sandy Springs, GA; top rated yoga classes Sandy Springs, GA; affordable yoga classes Sandy Springs, GA; emergency yoga classes Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peachtree Yoga Center | trust 16.0 | Peachtree Yoga Center is a yoga studio in Sandy Springs, GA at 6050 Sandy Springs Circle, Sandy Springs, GA 30328. Phone: +14048479642. Website: https://peachtreeyoga.com/. | https://dingalinged-cpu.github.io/registry/c/peachtree-yoga-center-sandy-springs/
+1. Peachtree Yoga Center | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Peachtree Yoga Center is a yoga studio in Sandy Springs, GA at 6050 Sandy Springs Circle, Sandy Springs, GA 30328. Phone: +14048479642. Website: https://peachtreeyoga.com/. | https://dingalinged-cpu.github.io/registry/c/peachtree-yoga-center-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes sandy springs ga | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Specialized is a bike shop in Chicago, IL at 925 West Lake Street, Chicago, IL 6
 - Website: https://specializedchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-18:00; Sa 10:00-17:00; Su 11:00-16:00
-- Registry Score: 54.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 91% of bike shops in Chicago, #65 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

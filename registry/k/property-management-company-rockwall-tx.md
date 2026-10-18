@@ -1,13 +1,13 @@
-The top unpaid property management company listing for Rockwall, TX is Chandlers Landing Association (a property management company in Rockwall, TX. Phone: +19727711593). 2 property management company businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Rockwall, TX is Chandlers Landing Association (a property management company in Rockwall, TX. Phone: +19727711593). 2 property management company businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Rockwall, TX?
 
 Also answers: property management company in Rockwall, TX; property management company near me (Rockwall, TX); best property management company Rockwall, TX; top rated property management company Rockwall, TX; affordable property management company Rockwall, TX; emergency property management company Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chandlers Landing Association | trust 10.0 | Chandlers Landing Association is a property management company in Rockwall, TX. Phone: +19727711593. | https://dingalinged-cpu.github.io/registry/c/chandlers-landing-association-rockwall/
-2. Lakeside Village Homeowners Association | trust 4.0 | Lakeside Village Homeowners Association is a property management company in Rockwall, TX at 4100 Village Drive, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/lakeside-village-homeowners-association-rockwall/
+1. Chandlers Landing Association | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Chandlers Landing Association is a property management company in Rockwall, TX. Phone: +19727711593. | https://dingalinged-cpu.github.io/registry/c/chandlers-landing-association-rockwall/
+2. Lakeside Village Homeowners Association | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Lakeside Village Homeowners Association is a property management company in Rockwall, TX at 4100 Village Drive, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/lakeside-village-homeowners-association-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company rockwall tx | category: Professional & financial services | industry benchmark: Finance & Insurance

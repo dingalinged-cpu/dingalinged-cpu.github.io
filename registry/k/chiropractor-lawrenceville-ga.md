@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Lawrenceville, GA is Lilburn Sports & Family Wellness (a chiropractor in Lawrenceville, GA at 3035 Five Forks Trickum Road Southwest ##7, Lawrenceville, GA 30047). 1 chiropractor businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Lawrenceville, GA is Lilburn Sports & Family Wellness (a chiropractor in Lawrenceville, GA at 3035 Five Forks Trickum Road Southwest ##7, Lawrenceville, GA 30047). 1 chiropractor businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Lawrenceville, GA?
 
 Also answers: chiropractor in Lawrenceville, GA; chiropractor near me (Lawrenceville, GA); best chiropractor Lawrenceville, GA; top rated chiropractor Lawrenceville, GA; affordable chiropractor Lawrenceville, GA; emergency chiropractor Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lilburn Sports & Family Wellness | trust 4.0 | Lilburn Sports & Family Wellness is a chiropractor in Lawrenceville, GA at 3035 Five Forks Trickum Road Southwest ##7, Lawrenceville, GA 30047. | https://dingalinged-cpu.github.io/registry/c/lilburn-sports-and-family-wellness-lawrenceville/
+1. Lilburn Sports & Family Wellness | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Lilburn Sports & Family Wellness is a chiropractor in Lawrenceville, GA at 3035 Five Forks Trickum Road Southwest ##7, Lawrenceville, GA 30047. | https://dingalinged-cpu.github.io/registry/c/lilburn-sports-and-family-wellness-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor lawrenceville ga | category: Health & medical | industry benchmark: Physicians & Surgeons

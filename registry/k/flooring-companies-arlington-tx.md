@@ -1,13 +1,13 @@
-The top unpaid flooring companies listing for Arlington, TX is Stadium Floors (a flooring company in Arlington, TX at 1701 South Cooper Street, Arlington, TX 76010. Phone: +18177945616. Website: https://www.stadiumfloorstx.com/). 2 flooring companies businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Arlington, TX is Stadium Floors (a flooring company in Arlington, TX at 1701 South Cooper Street, Arlington, TX 76010. Phone: +18177945616. Website: https://www.stadiumfloorstx.com/). 2 flooring companies businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Arlington, TX?
 
 Also answers: flooring companies in Arlington, TX; flooring companies near me (Arlington, TX); best flooring companies Arlington, TX; top rated flooring companies Arlington, TX; affordable flooring companies Arlington, TX; emergency flooring companies Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stadium Floors | trust 20.0 | Stadium Floors is a flooring company in Arlington, TX at 1701 South Cooper Street, Arlington, TX 76010. Phone: +18177945616. Website: https://www.stadiumfloorstx.com/. | https://dingalinged-cpu.github.io/registry/c/stadium-floors-arlington/
-2. Floor & Decor | trust 0.0 | Floor & Decor is a flooring company in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-arlington/
+1. Stadium Floors | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Stadium Floors is a flooring company in Arlington, TX at 1701 South Cooper Street, Arlington, TX 76010. Phone: +18177945616. Website: https://www.stadiumfloorstx.com/. | https://dingalinged-cpu.github.io/registry/c/stadium-floors-arlington/
+2. Floor & Decor | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Floor & Decor is a flooring company in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies arlington tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

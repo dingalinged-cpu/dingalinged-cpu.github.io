@@ -1,16 +1,16 @@
-The top unpaid jewelry store listing for Katy, TX is James Avery Jewelry (a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690). 5 jewelry store businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Katy, TX is James Avery Jewelry (a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690). 5 jewelry store businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Katy, TX?
 
 Also answers: jewelry store in Katy, TX; jewelry store near me (Katy, TX); best jewelry store Katy, TX; top rated jewelry store Katy, TX; affordable jewelry store Katy, TX; emergency jewelry store Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-katy/
-2. Pandora | trust 4.0 | Pandora is a jewelry store in Katy, TX at 23501 Cinco Ranch Boulevard #E140, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/pandora-katy/
-3. Kendra Scott | trust 3.0 | Kendra Scott is a jewelry store in Katy, TX at 23510 Cinco Ranch Boulevard #D130, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-katy/
-4. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-katy/
-5. Jared Vault | trust 0.0 | Jared Vault is a jewelry store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/jared-vault-katy/
+1. James Avery Jewelry | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Katy, TX at 20260d Katy Fwy, Katy, TX 77449. Phone: +12815786118. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=690. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-katy/
+2. Pandora | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Pandora is a jewelry store in Katy, TX at 23501 Cinco Ranch Boulevard #E140, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/pandora-katy/
+3. Kendra Scott | Organic #3 | Pulse Score 46.5/100 (Building, #3 in city) | Kendra Scott is a jewelry store in Katy, TX at 23510 Cinco Ranch Boulevard #D130, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/kendra-scott-katy/
+4. Helzberg Diamonds | Organic #4 | Pulse Score 45.8/100 (Building, #4 in city) | Helzberg Diamonds is a jewelry store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-katy/
+5. Jared Vault | Organic #5 | Pulse Score 45.8/100 (Building, #5 in city) | Jared Vault is a jewelry store in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/jared-vault-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store katy tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

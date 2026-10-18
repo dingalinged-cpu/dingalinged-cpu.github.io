@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Blaine, MN is TNT Nails (a nail salon in Blaine, MN). 2 nail salon businesses are listed for Blaine, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Blaine, MN is TNT Nails (a nail salon in Blaine, MN). 2 nail salon businesses are listed for Blaine, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Blaine, MN?
 
 Also answers: nail salon in Blaine, MN; nail salon near me (Blaine, MN); best nail salon Blaine, MN; top rated nail salon Blaine, MN; affordable nail salon Blaine, MN; emergency nail salon Blaine, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. TNT Nails | trust 0.0 | TNT Nails is a nail salon in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/tnt-nails-blaine/
-2. TU Nails | trust 0.0 | TU Nails is a nail salon in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/tu-nails-blaine/
+1. TNT Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | TNT Nails is a nail salon in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/tnt-nails-blaine/
+2. TU Nails | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | TU Nails is a nail salon in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/tu-nails-blaine/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon blaine mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

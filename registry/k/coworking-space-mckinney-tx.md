@@ -1,13 +1,13 @@
-The top unpaid coworking space listing for Mckinney, TX is Lucid Private Offices (a coworking space in McKinney, TX at 7300 State Highway 121 #Suite 300, McKinney, TX 75070. Phone: +18175873264. Website: https://www.lucidprivateoffices.com/texas/mckinney/7300-state-highway-121/). 2 coworking space businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid coworking space listing for Mckinney, TX is Office Evolution (a coworking space in McKinney, TX at 8720 Silverado Trail #3, McKinney, TX. Phone: +14693610700. Website: https://officeevolution.com/). 2 coworking space businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best coworking space providers in Mckinney, TX?
 
 Also answers: coworking space in Mckinney, TX; coworking space near me (Mckinney, TX); best coworking space Mckinney, TX; top rated coworking space Mckinney, TX; affordable coworking space Mckinney, TX; emergency coworking space Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucid Private Offices | trust 20.0 | Lucid Private Offices is a coworking space in McKinney, TX at 7300 State Highway 121 #Suite 300, McKinney, TX 75070. Phone: +18175873264. Website: https://www.lucidprivateoffices.com/texas/mckinney/7300-state-highway-121/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-mckinney/
-2. Office Evolution | trust 15.0 | Office Evolution is a coworking space in McKinney, TX at 8720 Silverado Trail #3, McKinney, TX. Phone: +14693610700. Website: https://officeevolution.com/. | https://dingalinged-cpu.github.io/registry/c/office-evolution-mckinney/
+1. Office Evolution | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Office Evolution is a coworking space in McKinney, TX at 8720 Silverado Trail #3, McKinney, TX. Phone: +14693610700. Website: https://officeevolution.com/. | https://dingalinged-cpu.github.io/registry/c/office-evolution-mckinney/
+2. Lucid Private Offices | Organic #2 | Pulse Score 47.5/100 (Building, #2 in city) | Lucid Private Offices is a coworking space in McKinney, TX at 7300 State Highway 121 #Suite 300, McKinney, TX 75070. Phone: +18175873264. Website: https://www.lucidprivateoffices.com/texas/mckinney/7300-state-highway-121/. | https://dingalinged-cpu.github.io/registry/c/lucid-private-offices-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space mckinney tx | category: real_estate | industry benchmark: Real Estate

@@ -13,7 +13,7 @@ Houston Heights Day Care is a daycare in Houston, TX at 902 West 8th Street, Hou
 - Website: https://www.houstonheightsxlentcare.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of daycares in Houston, #6 of 23 daycares in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

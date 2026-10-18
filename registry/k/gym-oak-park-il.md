@@ -1,13 +1,13 @@
-The top unpaid gym listing for Oak Park, IL is Orangetheory Fitness (a gym in Oak Park, IL at 7121 West North Avenue, Oak Park, IL 60302. Phone: +17087939219). 2 gym businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Oak Park, IL is Orangetheory Fitness (a gym in Oak Park, IL at 7121 West North Avenue, Oak Park, IL 60302. Phone: +17087939219). 2 gym businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Oak Park, IL?
 
 Also answers: gym in Oak Park, IL; gym near me (Oak Park, IL); best gym Oak Park, IL; top rated gym Oak Park, IL; affordable gym Oak Park, IL; emergency gym Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Oak Park, IL at 7121 West North Avenue, Oak Park, IL 60302. Phone: +17087939219. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-oak-park/
-2. Midtown Athletic Club | trust 4.0 | Midtown Athletic Club is a gym in Oak Park, IL at 1135 North Harlem Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/midtown-athletic-club-oak-park/
+1. Orangetheory Fitness | Organic #1 | Pulse Score 47.5/100 (Building, #1 in city) | Orangetheory Fitness is a gym in Oak Park, IL at 7121 West North Avenue, Oak Park, IL 60302. Phone: +17087939219. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-oak-park/
+2. Midtown Athletic Club | Organic #2 | Pulse Score 44.9/100 (Unrated, #2 in city) | Midtown Athletic Club is a gym in Oak Park, IL at 1135 North Harlem Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/midtown-athletic-club-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym oak park il | category: Fitness | industry benchmark: Health & Fitness

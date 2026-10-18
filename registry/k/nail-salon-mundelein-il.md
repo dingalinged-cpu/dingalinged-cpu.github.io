@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Mundelein, IL is Vegas Nails (a nail salon in Mundelein, IL at 424, Mundelein, IL). 1 nail salon businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Mundelein, IL is Vegas Nails (a nail salon in Mundelein, IL at 424, Mundelein, IL). 1 nail salon businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Mundelein, IL?
 
 Also answers: nail salon in Mundelein, IL; nail salon near me (Mundelein, IL); best nail salon Mundelein, IL; top rated nail salon Mundelein, IL; affordable nail salon Mundelein, IL; emergency nail salon Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vegas Nails | trust 3.0 | Vegas Nails is a nail salon in Mundelein, IL at 424, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/vegas-nails-mundelein/
+1. Vegas Nails | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Vegas Nails is a nail salon in Mundelein, IL at 424, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/vegas-nails-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon mundelein il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

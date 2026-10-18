@@ -13,7 +13,7 @@ Primrose School of Kingwood at Oakhurst is a preschool in Houston, TX at 19514 N
 - Website: https://www.primroseschools.com/schools/kingwood-at-oakhurst/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 68% of preschools in Houston, #9 of 17 preschools in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Lockport, IL is Farmers Insurance (an insurance agent in Lockport, IL at 1000 South State Street, Lockport, IL 60441. Phone: +18152936644. Website: https://agents.farmers.com/il/lockport/scott-johnson). 1 insurance agent businesses are listed for Lockport, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Lockport, IL is Farmers Insurance (an insurance agent in Lockport, IL at 1000 South State Street, Lockport, IL 60441. Phone: +18152936644. Website: https://agents.farmers.com/il/lockport/scott-johnson). 1 insurance agent businesses are listed for Lockport, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Lockport, IL?
 
 Also answers: insurance agent in Lockport, IL; insurance agent near me (Lockport, IL); best insurance agent Lockport, IL; top rated insurance agent Lockport, IL; affordable insurance agent Lockport, IL; emergency insurance agent Lockport, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance | trust 20.0 | Farmers Insurance is an insurance agent in Lockport, IL at 1000 South State Street, Lockport, IL 60441. Phone: +18152936644. Website: https://agents.farmers.com/il/lockport/scott-johnson. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-lockport/
+1. Farmers Insurance | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Farmers Insurance is an insurance agent in Lockport, IL at 1000 South State Street, Lockport, IL 60441. Phone: +18152936644. Website: https://agents.farmers.com/il/lockport/scott-johnson. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-lockport/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent lockport il | category: Professional & financial services | industry benchmark: Finance & Insurance

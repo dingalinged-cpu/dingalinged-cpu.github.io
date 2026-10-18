@@ -13,7 +13,7 @@ The Center For Physical Health is a chiropractor in Schaumburg, IL at 2201 W Sch
 - Website: https://drcliffordkearnsblog.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 32% of chiropractors in Chicago, #1 of 3 chiropractors in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

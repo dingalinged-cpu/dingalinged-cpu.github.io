@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Waukesha, WI is Today's Lifestyle Solutions, LLC (a business consultant in Waukesha, WI at 303 Sentry Drive #100, Waukesha, WI 53186). 1 business consultant businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Waukesha, WI is Today's Lifestyle Solutions, LLC (a business consultant in Waukesha, WI at 303 Sentry Drive #100, Waukesha, WI 53186). 1 business consultant businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Waukesha, WI?
 
 Also answers: business consultant in Waukesha, WI; business consultant near me (Waukesha, WI); best business consultant Waukesha, WI; top rated business consultant Waukesha, WI; affordable business consultant Waukesha, WI; emergency business consultant Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Today's Lifestyle Solutions, LLC | trust 8.0 | Today's Lifestyle Solutions, LLC is a business consultant in Waukesha, WI at 303 Sentry Drive #100, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/todays-lifestyle-solutions-llc-waukesha/
+1. Today's Lifestyle Solutions, LLC | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Today's Lifestyle Solutions, LLC is a business consultant in Waukesha, WI at 303 Sentry Drive #100, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/todays-lifestyle-solutions-llc-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant waukesha wi | category: b2b_services | industry benchmark: Business Services

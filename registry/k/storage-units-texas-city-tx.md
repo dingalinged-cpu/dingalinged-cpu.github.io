@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Texas City, TX is Smart Self Storage (a self-storage facility in Texas City, TX at 2701 FM 2004, Texas City, TX 77591). 2 storage units businesses are listed for Texas City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Texas City, TX is Smart Self Storage (a self-storage facility in Texas City, TX at 2701 FM 2004, Texas City, TX 77591). 2 storage units businesses are listed for Texas City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Texas City, TX?
 
 Also answers: storage units in Texas City, TX; storage units near me (Texas City, TX); best storage units Texas City, TX; top rated storage units Texas City, TX; affordable storage units Texas City, TX; emergency storage units Texas City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Smart Self Storage | trust 4.0 | Smart Self Storage is a self-storage facility in Texas City, TX at 2701 FM 2004, Texas City, TX 77591. | https://dingalinged-cpu.github.io/registry/c/smart-self-storage-texas-city/
-2. SmartStop Self Storage | trust 4.0 | SmartStop Self Storage is a self-storage facility in Texas City, TX at 3730 Emmett F Lowry Expressway, Texas City, TX 77590. | https://dingalinged-cpu.github.io/registry/c/smartstop-self-storage-texas-city/
+1. Smart Self Storage | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Smart Self Storage is a self-storage facility in Texas City, TX at 2701 FM 2004, Texas City, TX 77591. | https://dingalinged-cpu.github.io/registry/c/smart-self-storage-texas-city/
+2. SmartStop Self Storage | Organic #2 | Pulse Score 45.5/100 (Unrated, #2 in city) | SmartStop Self Storage is a self-storage facility in Texas City, TX at 3730 Emmett F Lowry Expressway, Texas City, TX 77590. | https://dingalinged-cpu.github.io/registry/c/smartstop-self-storage-texas-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units texas city tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

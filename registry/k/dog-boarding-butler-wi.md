@@ -1,12 +1,12 @@
-The top unpaid dog boarding listing for Butler, WI is Animal Motel (a dog boarding facility in Butler, WI at 13175 West Silver Spring Road, Butler, WI 53007. Phone: +12627815200. Website: https://animalmotel.net/). 1 dog boarding businesses are listed for Butler, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Butler, WI is Animal Motel (a dog boarding facility in Butler, WI at 13175 West Silver Spring Road, Butler, WI 53007. Phone: +12627815200. Website: https://animalmotel.net/). 1 dog boarding businesses are listed for Butler, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Butler, WI?
 
 Also answers: dog boarding in Butler, WI; dog boarding near me (Butler, WI); best dog boarding Butler, WI; top rated dog boarding Butler, WI; affordable dog boarding Butler, WI; emergency dog boarding Butler, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Motel | trust 20.0 | Animal Motel is a dog boarding facility in Butler, WI at 13175 West Silver Spring Road, Butler, WI 53007. Phone: +12627815200. Website: https://animalmotel.net/. | https://dingalinged-cpu.github.io/registry/c/animal-motel-butler/
+1. Animal Motel | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Animal Motel is a dog boarding facility in Butler, WI at 13175 West Silver Spring Road, Butler, WI 53007. Phone: +12627815200. Website: https://animalmotel.net/. | https://dingalinged-cpu.github.io/registry/c/animal-motel-butler/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding butler wi | category: Pets | industry benchmark: Animals & Pets

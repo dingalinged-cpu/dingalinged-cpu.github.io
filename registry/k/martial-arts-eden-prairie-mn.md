@@ -1,15 +1,15 @@
-The top unpaid martial arts listing for Eden Prairie, MN is Farrell's Extreme Bodyshaping (a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/). 4 martial arts businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Eden Prairie, MN is Dojo Karate (a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344). 4 martial arts businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Eden Prairie, MN?
 
 Also answers: martial arts in Eden Prairie, MN; martial arts near me (Eden Prairie, MN); best martial arts Eden Prairie, MN; top rated martial arts Eden Prairie, MN; affordable martial arts Eden Prairie, MN; emergency martial arts Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farrell's Extreme Bodyshaping | trust 10.0 | Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/. | https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-eden-prairie/
-2. Dojo Karate | trust 4.0 | Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/dojo-karate-eden-prairie/
-3. National Karate | trust 4.0 | National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/national-karate-eden-prairie/
-4. 9 Round Fitness | trust 0.0 | 9 Round Fitness is a martial arts school in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/9-round-fitness-eden-prairie/
+1. Dojo Karate | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Dojo Karate is a martial arts school in Eden Prairie, MN at 7916 Mitchell Road, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/dojo-karate-eden-prairie/
+2. 9 Round Fitness | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | 9 Round Fitness is a martial arts school in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/9-round-fitness-eden-prairie/
+3. Farrell's Extreme Bodyshaping | Organic #3 | Pulse Score 46.1/100 (Unrated, #3 in city) | Farrell's Extreme Bodyshaping is a martial arts school in Eden Prairie, MN at 9627 Anderson Lakes Parkway, Eden Prairie, MN 55344. Website: https://fxbedenprairie.com/. | https://dingalinged-cpu.github.io/registry/c/farrells-extreme-bodyshaping-eden-prairie/
+4. National Karate | Organic #4 | Pulse Score 44.2/100 (Unrated, #4 in city) | National Karate is a martial arts school in Eden Prairie, MN at 8423 Joiner Way, Eden Prairie, MN 55344. | https://dingalinged-cpu.github.io/registry/c/national-karate-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts eden prairie mn | category: Fitness | industry benchmark: Health & Fitness

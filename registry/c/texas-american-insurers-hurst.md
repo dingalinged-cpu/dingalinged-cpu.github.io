@@ -13,7 +13,7 @@ Texas American Insurers is an insurance agent in Hurst, TX at 669 Airport Freewa
 - Website: https://txam.com/
 - Email: cshannon@txam.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa,Su off
-- Registry Score: 66.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 1% of insurance agents in Dallas–Fort Worth, #1 of 3 insurance agents in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

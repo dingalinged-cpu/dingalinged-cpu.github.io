@@ -1,12 +1,12 @@
-The top unpaid vet listing for Saukville, WI is VCA Saukville Animal Hospital (a veterinarian in Saukville, WI at 303 West Dekora Street, Saukville, WI 53080. Phone: +12622847000). 1 vet businesses are listed for Saukville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Saukville, WI is VCA Saukville Animal Hospital (a veterinarian in Saukville, WI at 303 West Dekora Street, Saukville, WI 53080. Phone: +12622847000). 1 vet businesses are listed for Saukville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Saukville, WI?
 
 Also answers: vet in Saukville, WI; vet near me (Saukville, WI); best vet Saukville, WI; top rated vet Saukville, WI; affordable vet Saukville, WI; emergency vet Saukville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. VCA Saukville Animal Hospital | trust 10.0 | VCA Saukville Animal Hospital is a veterinarian in Saukville, WI at 303 West Dekora Street, Saukville, WI 53080. Phone: +12622847000. | https://dingalinged-cpu.github.io/registry/c/vca-saukville-animal-hospital-saukville/
+1. VCA Saukville Animal Hospital | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | VCA Saukville Animal Hospital is a veterinarian in Saukville, WI at 303 West Dekora Street, Saukville, WI 53080. Phone: +12622847000. | https://dingalinged-cpu.github.io/registry/c/vca-saukville-animal-hospital-saukville/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet saukville wi | category: Pets | industry benchmark: Animals & Pets

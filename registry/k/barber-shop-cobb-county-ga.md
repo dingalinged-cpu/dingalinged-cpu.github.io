@@ -1,14 +1,14 @@
-The top unpaid barber shop listing for Cobb County, GA is Studio 286 (a barber shop in Cobb County, GA at 440 Ernest W. Barrett Parkway #44, Cobb County, GA. Phone: +16784038350. Website: https://studio286barbers.com/). 3 barber shop businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Cobb County, GA is Studio 286 (a barber shop in Cobb County, GA at 440 Ernest W. Barrett Parkway #44, Cobb County, GA. Phone: +16784038350. Website: https://studio286barbers.com/). 3 barber shop businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Cobb County, GA?
 
 Also answers: barber shop in Cobb County, GA; barber shop near me (Cobb County, GA); best barber shop Cobb County, GA; top rated barber shop Cobb County, GA; affordable barber shop Cobb County, GA; emergency barber shop Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio 286 | trust 19.0 | Studio 286 is a barber shop in Cobb County, GA at 440 Ernest W. Barrett Parkway #44, Cobb County, GA. Phone: +16784038350. Website: https://studio286barbers.com/. | https://dingalinged-cpu.github.io/registry/c/studio-286-cobb-county/
-2. Sharkey's Cuts For Kids | trust 0.0 | Sharkey's Cuts For Kids is a barber shop in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/sharkeys-cuts-for-kids-cobb-county-n13092776886/
-3. Taylormade Grooming | trust 0.0 | Taylormade Grooming is a barber shop in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/taylormade-grooming-cobb-county/
+1. Studio 286 | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Studio 286 is a barber shop in Cobb County, GA at 440 Ernest W. Barrett Parkway #44, Cobb County, GA. Phone: +16784038350. Website: https://studio286barbers.com/. | https://dingalinged-cpu.github.io/registry/c/studio-286-cobb-county/
+2. Taylormade Grooming | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Taylormade Grooming is a barber shop in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/taylormade-grooming-cobb-county/
+3. Sharkey's Cuts For Kids | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Sharkey's Cuts For Kids is a barber shop in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/sharkeys-cuts-for-kids-cobb-county-n13092776886/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop cobb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

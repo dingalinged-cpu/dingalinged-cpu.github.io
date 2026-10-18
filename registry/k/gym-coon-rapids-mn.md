@@ -1,12 +1,12 @@
-The top unpaid gym listing for Coon Rapids, MN is Life Time - Coon Rapids (a gym in Coon Rapids, MN at 2100 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637679000. Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html). 1 gym businesses are listed for Coon Rapids, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Coon Rapids, MN is Life Time - Coon Rapids (a gym in Coon Rapids, MN at 2100 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637679000. Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html). 1 gym businesses are listed for Coon Rapids, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Coon Rapids, MN?
 
 Also answers: gym in Coon Rapids, MN; gym near me (Coon Rapids, MN); best gym Coon Rapids, MN; top rated gym Coon Rapids, MN; affordable gym Coon Rapids, MN; emergency gym Coon Rapids, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time - Coon Rapids | trust 20.0 | Life Time - Coon Rapids is a gym in Coon Rapids, MN at 2100 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637679000. Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html. | https://dingalinged-cpu.github.io/registry/c/life-time-coon-rapids-coon-rapids/
+1. Life Time - Coon Rapids | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Life Time - Coon Rapids is a gym in Coon Rapids, MN at 2100 Northdale Boulevard Northwest, Coon Rapids, MN 55433. Phone: +17637679000. Website: https://www.lifetime.life/life-time-locations/mn-coon-rapids.html. | https://dingalinged-cpu.github.io/registry/c/life-time-coon-rapids-coon-rapids/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym coon rapids mn | category: Fitness | industry benchmark: Health & Fitness

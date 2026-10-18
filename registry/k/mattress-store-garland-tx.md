@@ -1,13 +1,13 @@
-The top unpaid mattress store listing for Garland, TX is Mattress Firm (a mattress store in Garland, TX at 5435 North Garland Avenue #100, Garland, TX 75040. Phone: +12142275583. Website: https://www.mattressfirm.com/en-us/stores/tx/garland/002040/). 2 mattress store businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Garland, TX is Mattress Firm (a mattress store in Garland, TX at 5435 North Garland Avenue #100, Garland, TX 75040. Phone: +12142275583. Website: https://www.mattressfirm.com/en-us/stores/tx/garland/002040/). 2 mattress store businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Garland, TX?
 
 Also answers: mattress store in Garland, TX; mattress store near me (Garland, TX); best mattress store Garland, TX; top rated mattress store Garland, TX; affordable mattress store Garland, TX; emergency mattress store Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Garland, TX at 5435 North Garland Avenue #100, Garland, TX 75040. Phone: +12142275583. Website: https://www.mattressfirm.com/en-us/stores/tx/garland/002040/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-garland/
-2. Sleep Experts | trust 4.0 | Sleep Experts is a mattress store in Garland, TX at 3315 North President George Bush Highway #200, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/sleep-experts-garland/
+1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in Garland, TX at 5435 North Garland Avenue #100, Garland, TX 75040. Phone: +12142275583. Website: https://www.mattressfirm.com/en-us/stores/tx/garland/002040/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-garland/
+2. Sleep Experts | Organic #2 | Pulse Score 44.1/100 (Building, #2 in city) | Sleep Experts is a mattress store in Garland, TX at 3315 North President George Bush Highway #200, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/sleep-experts-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store garland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

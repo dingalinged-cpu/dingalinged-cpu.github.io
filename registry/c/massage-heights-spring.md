@@ -13,7 +13,7 @@ Massage Heights is a massage studio in Spring, TX at 21334 Kuykendahl Road #C, S
 - Website: https://www.massageheights.com/spring-town-center/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 78% of massage studios in Houston, #8 of 8 massage studios in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

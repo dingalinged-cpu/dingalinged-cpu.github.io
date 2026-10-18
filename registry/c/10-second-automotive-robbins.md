@@ -13,7 +13,7 @@
 - Website: https://www.facebook.com/10secondautomotive
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 4% of auto repair shops in Chicago, #1 of 1 auto repair shops in Robbins (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 67.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

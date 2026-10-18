@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Lavon, TX is Lavon Tire Service (a tire shop in Lavon, TX at 11001 State Highway 205, Lavon, TX 75166. Phone: +19727718099. Website: https://www.lavontireservice.com/). 1 tire shop businesses are listed for Lavon, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Lavon, TX is Lavon Tire Service (a tire shop in Lavon, TX at 11001 State Highway 205, Lavon, TX 75166. Phone: +19727718099. Website: https://www.lavontireservice.com/). 1 tire shop businesses are listed for Lavon, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Lavon, TX?
 
 Also answers: tire shop in Lavon, TX; tire shop near me (Lavon, TX); best tire shop Lavon, TX; top rated tire shop Lavon, TX; affordable tire shop Lavon, TX; emergency tire shop Lavon, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lavon Tire Service | trust 20.0 | Lavon Tire Service is a tire shop in Lavon, TX at 11001 State Highway 205, Lavon, TX 75166. Phone: +19727718099. Website: https://www.lavontireservice.com/. | https://dingalinged-cpu.github.io/registry/c/lavon-tire-service-lavon/
+1. Lavon Tire Service | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Lavon Tire Service is a tire shop in Lavon, TX at 11001 State Highway 205, Lavon, TX 75166. Phone: +19727718099. Website: https://www.lavontireservice.com/. | https://dingalinged-cpu.github.io/registry/c/lavon-tire-service-lavon/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop lavon tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

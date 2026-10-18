@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Little Elm, TX is Black Tie Liquor (a liquor store in Little Elm, TX at 26411 University Drive, Little Elm, TX 76227. Phone: +19404406530. Website: https://blacktieliquor.com/). 3 liquor store businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Little Elm, TX is Shax's Liquor (a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX). 3 liquor store businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Little Elm, TX?
 
 Also answers: liquor store in Little Elm, TX; liquor store near me (Little Elm, TX); best liquor store Little Elm, TX; top rated liquor store Little Elm, TX; affordable liquor store Little Elm, TX; emergency liquor store Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Tie Liquor | trust 16.0 | Black Tie Liquor is a liquor store in Little Elm, TX at 26411 University Drive, Little Elm, TX 76227. Phone: +19404406530. Website: https://blacktieliquor.com/. | https://dingalinged-cpu.github.io/registry/c/black-tie-liquor-little-elm/
-2. Goody Goody Liquor | trust 4.0 | Goody Goody Liquor is a liquor store in Little Elm, TX at 103 Farm-to-Market Road 423, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-little-elm/
-3. Shax's Liquor | trust 3.0 | Shax's Liquor is a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/shaxs-liquor-little-elm/
+1. Shax's Liquor | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Shax's Liquor is a liquor store in Little Elm, TX at 26730 US Highway 380 East #200, Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/shaxs-liquor-little-elm/
+2. Black Tie Liquor | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Black Tie Liquor is a liquor store in Little Elm, TX at 26411 University Drive, Little Elm, TX 76227. Phone: +19404406530. Website: https://blacktieliquor.com/. | https://dingalinged-cpu.github.io/registry/c/black-tie-liquor-little-elm/
+3. Goody Goody Liquor | Organic #3 | Pulse Score 46/100 (Unrated, #3 in city) | Goody Goody Liquor is a liquor store in Little Elm, TX at 103 Farm-to-Market Road 423, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store little elm tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

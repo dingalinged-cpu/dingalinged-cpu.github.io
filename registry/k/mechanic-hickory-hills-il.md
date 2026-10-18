@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Hickory Hills, IL is Mobil 1 Lube Express (an auto repair shop in Hickory Hills, IL). 1 mechanic businesses are listed for Hickory Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hickory Hills, IL is Mobil 1 Lube Express (an auto repair shop in Hickory Hills, IL). 1 mechanic businesses are listed for Hickory Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hickory Hills, IL?
 
 Also answers: mechanic in Hickory Hills, IL; mechanic near me (Hickory Hills, IL); best mechanic Hickory Hills, IL; top rated mechanic Hickory Hills, IL; affordable mechanic Hickory Hills, IL; emergency mechanic Hickory Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mobil 1 Lube Express | trust 0.0 | Mobil 1 Lube Express is an auto repair shop in Hickory Hills, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-1-lube-express-hickory-hills/
+1. Mobil 1 Lube Express | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Mobil 1 Lube Express is an auto repair shop in Hickory Hills, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-1-lube-express-hickory-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hickory hills il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

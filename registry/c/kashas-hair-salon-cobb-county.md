@@ -13,7 +13,7 @@ Kasha's Hair Salon is a hair salon in Cobb County, GA at 2520 Shallowford Road N
 - Website: https://www.kashashairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu 10:00-16:00; We 10:00-18:00; Th-Sa 10:00-17:00; Su,Mo off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Good — top 14% of hair salons in Atlanta, #22 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Addison, TX is Addison Car Wash (a car wash in Addison, TX at 15209 Addison Road, Addison, TX 75001). 1 car wash businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Addison, TX is Addison Car Wash (a car wash in Addison, TX at 15209 Addison Road, Addison, TX 75001). 1 car wash businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Addison, TX?
 
 Also answers: car wash in Addison, TX; car wash near me (Addison, TX); best car wash Addison, TX; top rated car wash Addison, TX; affordable car wash Addison, TX; emergency car wash Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Addison Car Wash | trust 4.0 | Addison Car Wash is a car wash in Addison, TX at 15209 Addison Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/addison-car-wash-addison/
+1. Addison Car Wash | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Addison Car Wash is a car wash in Addison, TX at 15209 Addison Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/addison-car-wash-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash addison tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

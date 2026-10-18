@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Chanhassen, MN is Metro Dentalcare Chanhassen (a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/). 2 nail salon businesses are listed for Chanhassen, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Chanhassen, MN is US Nails (a nail salon in Chanhassen, MN at 2449 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524016620). 2 nail salon businesses are listed for Chanhassen, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Chanhassen, MN?
 
 Also answers: nail salon in Chanhassen, MN; nail salon near me (Chanhassen, MN); best nail salon Chanhassen, MN; top rated nail salon Chanhassen, MN; affordable nail salon Chanhassen, MN; emergency nail salon Chanhassen, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Metro Dentalcare Chanhassen | trust 16.0 | Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/. | https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/
-2. US Nails | trust 14.0 | US Nails is a nail salon in Chanhassen, MN at 2449 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524016620. | https://dingalinged-cpu.github.io/registry/c/us-nails-chanhassen/
+1. US Nails | Organic #1 | Pulse Score 62.7/100 (Good, #1 in city) | US Nails is a nail salon in Chanhassen, MN at 2449 Minnesota State Highway 7, Chanhassen, MN 55331. Phone: +19524016620. | https://dingalinged-cpu.github.io/registry/c/us-nails-chanhassen/
+2. Metro Dentalcare Chanhassen | Organic #2 | Pulse Score 61.4/100 (Unrated, #2 in city) | Metro Dentalcare Chanhassen is a nail salon in Chanhassen, MN at 7806 Market Boulevard, Chanhassen, MN 55317. Phone: +19529491083. Website: https://www.mdchanhassen.com/. | https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-chanhassen-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon chanhassen mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

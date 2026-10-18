@@ -1,20 +1,20 @@
-The top unpaid hair salon listing for Cedar Hill, TX is Kris Koffee Beauty (a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/). 9 hair salon businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Cedar Hill, TX is Kris Koffee Beauty (a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/). 9 hair salon businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Cedar Hill, TX?
 
 Also answers: hair salon in Cedar Hill, TX; hair salon near me (Cedar Hill, TX); best hair salon Cedar Hill, TX; top rated hair salon Cedar Hill, TX; affordable hair salon Cedar Hill, TX; emergency hair salon Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kris Koffee Beauty | trust 20.0 | Kris Koffee Beauty is a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/kris-koffee-beauty-cedar-hill/
-2. Miss K Braids | trust 14.0 | Miss K Braids is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #N, Cedar Hill, TX 75104. Phone: +16822273533. | https://dingalinged-cpu.github.io/registry/c/miss-k-braids-cedar-hill/
-3. Supercuts | trust 14.0 | Supercuts is a hair salon in Cedar Hill, TX at 140 West Farm-to-Market Road 1382 #170, Cedar Hill, TX 75104. Phone: +19726985841. | https://dingalinged-cpu.github.io/registry/c/supercuts-cedar-hill/
-4. Christelle Hair Braiding | trust 10.0 | Christelle Hair Braiding is a hair salon in Cedar Hill, TX at 125 North Clark Road #114, Cedar Hill, TX 75104. Phone: +14698204972. | https://dingalinged-cpu.github.io/registry/c/christelle-hair-braiding-cedar-hill/
-5. Black Diamond Cutz | trust 8.0 | Black Diamond Cutz is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #L, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/black-diamond-cutz-cedar-hill/
-6. Blade Kings III | trust 4.0 | Blade Kings III is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/blade-kings-iii-cedar-hill/
-7. Cedar Hill Barbers | trust 4.0 | Cedar Hill Barbers is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-barbers-cedar-hill/
-8. Great Clips | trust 0.0 | Great Clips is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-cedar-hill/
-9. Next Level Barbershop | trust 0.0 | Next Level Barbershop is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/next-level-barbershop-cedar-hill/
+1. Kris Koffee Beauty | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Kris Koffee Beauty is a hair salon in Cedar Hill, TX at 223 East FM 1382 #113, Cedar Hill, TX 75104. Phone: +14694546091. Website: https://kriskoffeebeauty.com/. | https://dingalinged-cpu.github.io/registry/c/kris-koffee-beauty-cedar-hill/
+2. Christelle Hair Braiding | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Christelle Hair Braiding is a hair salon in Cedar Hill, TX at 125 North Clark Road #114, Cedar Hill, TX 75104. Phone: +14698204972. | https://dingalinged-cpu.github.io/registry/c/christelle-hair-braiding-cedar-hill/
+3. Miss K Braids | Organic #3 | Pulse Score 61.4/100 (Unrated, #3 in city) | Miss K Braids is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #N, Cedar Hill, TX 75104. Phone: +16822273533. | https://dingalinged-cpu.github.io/registry/c/miss-k-braids-cedar-hill/
+4. Black Diamond Cutz | Organic #4 | Pulse Score 60.1/100 (Unrated, #4 in city) | Black Diamond Cutz is a hair salon in Cedar Hill, TX at 103 East Belt Line Road #L, Cedar Hill, TX 75104. | https://dingalinged-cpu.github.io/registry/c/black-diamond-cutz-cedar-hill/
+5. Blade Kings III | Organic #5 | Pulse Score 57.5/100 (Unrated, #5 in city) | Blade Kings III is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/blade-kings-iii-cedar-hill/
+6. Cedar Hill Barbers | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | Cedar Hill Barbers is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/cedar-hill-barbers-cedar-hill/
+7. Next Level Barbershop | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Next Level Barbershop is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/next-level-barbershop-cedar-hill/
+8. Supercuts | Organic #8 | Pulse Score 48.3/100 (Building, #8 in city) | Supercuts is a hair salon in Cedar Hill, TX at 140 West Farm-to-Market Road 1382 #170, Cedar Hill, TX 75104. Phone: +19726985841. | https://dingalinged-cpu.github.io/registry/c/supercuts-cedar-hill/
+9. Great Clips | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | Great Clips is a hair salon in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon cedar hill tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

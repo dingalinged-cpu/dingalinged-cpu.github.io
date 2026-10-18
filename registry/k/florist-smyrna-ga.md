@@ -1,13 +1,13 @@
-The top unpaid florist listing for Smyrna, GA is Floral Creations (a florist in Smyrna, GA). 2 florist businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Smyrna, GA is Floral Creations (a florist in Smyrna, GA). 2 florist businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Smyrna, GA?
 
 Also answers: florist in Smyrna, GA; florist near me (Smyrna, GA); best florist Smyrna, GA; top rated florist Smyrna, GA; affordable florist Smyrna, GA; emergency florist Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floral Creations | trust 0.0 | Floral Creations is a florist in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/floral-creations-smyrna/
-2. Village Green Flowers & Gifts | trust 0.0 | Village Green Flowers & Gifts is a florist in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-green-flowers-and-gifts-smyrna/
+1. Floral Creations | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Floral Creations is a florist in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/floral-creations-smyrna/
+2. Village Green Flowers & Gifts | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Village Green Flowers & Gifts is a florist in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/village-green-flowers-and-gifts-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist smyrna ga | category: Events & weddings | industry benchmark: Personal Services

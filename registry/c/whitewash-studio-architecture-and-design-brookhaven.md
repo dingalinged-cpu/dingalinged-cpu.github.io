@@ -13,7 +13,7 @@ Whitewash Studio Architecture & Design is an architect in Brookhaven, GA. Websit
 - Website: https://whitewashstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 70% of architects in Atlanta, #1 of 1 architects in Brookhaven (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 44.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

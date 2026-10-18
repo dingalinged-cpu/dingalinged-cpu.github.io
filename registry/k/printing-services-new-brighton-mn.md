@@ -1,15 +1,15 @@
-The top unpaid printing services listing for New Brighton, MN is Modern Press (a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/). 4 printing services businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for New Brighton, MN is Modern Press (a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/). 4 printing services businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in New Brighton, MN?
 
 Also answers: printing services in New Brighton, MN; printing services near me (New Brighton, MN); best printing services New Brighton, MN; top rated printing services New Brighton, MN; affordable printing services New Brighton, MN; emergency printing services New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Modern Press | trust 15.0 | Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/. | https://dingalinged-cpu.github.io/registry/c/modern-press-new-brighton/
-2. Lee Collins Ltd | trust 3.0 | Lee Collins Ltd is a printing service in New Brighton, MN at 564 Old Highway 8, New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/lee-collins-ltd-new-brighton/
-3. Minuteman Press | trust 0.0 | Minuteman Press is a printing service in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-new-brighton/
-4. Printer Sales Service | trust 0.0 | Printer Sales Service is a printing service in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/printer-sales-service-new-brighton/
+1. Modern Press | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Modern Press is a printing service in New Brighton, MN at 808 1st Street Southwest, New Brighton, MN. Phone: +16516334000. Website: https://superprinter.com/. | https://dingalinged-cpu.github.io/registry/c/modern-press-new-brighton/
+2. Lee Collins Ltd | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Lee Collins Ltd is a printing service in New Brighton, MN at 564 Old Highway 8, New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/lee-collins-ltd-new-brighton/
+3. Printer Sales Service | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Printer Sales Service is a printing service in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/printer-sales-service-new-brighton/
+4. Minuteman Press | Organic #4 | Pulse Score 41.6/100 (Building, #4 in city) | Minuteman Press is a printing service in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/minuteman-press-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services new brighton mn | category: Professional & financial services | industry benchmark: Finance & Insurance

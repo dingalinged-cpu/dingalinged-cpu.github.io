@@ -13,7 +13,7 @@ Nancy Roozen & Associates, LLC: Allstate Insurance is an insurance agent in Wauk
 - Website: https://agents.allstate.com/nancy-roozen--associates-llc-waukesha-wi.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 13% of insurance agents in Milwaukee, #1 of 4 insurance agents in Waukesha (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

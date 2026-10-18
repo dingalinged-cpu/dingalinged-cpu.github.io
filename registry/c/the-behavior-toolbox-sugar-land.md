@@ -13,7 +13,7 @@ The Behavior Toolbox is a therapy practice in Sugar Land, TX at 4502 State Highw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 54% of therapy practices in Houston, #1 of 2 therapy practices in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.5, Trust 40.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

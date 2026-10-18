@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Hickory Creek, TX is Adventure Car Wash (a car wash in Hickory Creek, TX at 1045 Hickory Creek Boulevard, Hickory Creek, TX 75065). 2 car wash businesses are listed for Hickory Creek, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Hickory Creek, TX is Adventure Car Wash (a car wash in Hickory Creek, TX at 1045 Hickory Creek Boulevard, Hickory Creek, TX 75065). 2 car wash businesses are listed for Hickory Creek, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Hickory Creek, TX?
 
 Also answers: car wash in Hickory Creek, TX; car wash near me (Hickory Creek, TX); best car wash Hickory Creek, TX; top rated car wash Hickory Creek, TX; affordable car wash Hickory Creek, TX; emergency car wash Hickory Creek, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adventure Car Wash | trust 8.0 | Adventure Car Wash is a car wash in Hickory Creek, TX at 1045 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/adventure-car-wash-hickory-creek/
-2. Clean & Green Car Wash | trust 4.0 | Clean & Green Car Wash is a car wash in Hickory Creek, TX at 3950 Swisher Road, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/clean-and-green-car-wash-hickory-creek/
+1. Adventure Car Wash | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Adventure Car Wash is a car wash in Hickory Creek, TX at 1045 Hickory Creek Boulevard, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/adventure-car-wash-hickory-creek/
+2. Clean & Green Car Wash | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Clean & Green Car Wash is a car wash in Hickory Creek, TX at 3950 Swisher Road, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/clean-and-green-car-wash-hickory-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash hickory creek tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

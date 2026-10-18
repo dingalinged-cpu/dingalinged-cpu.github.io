@@ -13,7 +13,7 @@ Midas is an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Ar
 - Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 08:30-16:00; 
-- Registry Score: 52.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 53% of auto repair shops in Chicago, #5 of 6 auto repair shops in Arlington Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

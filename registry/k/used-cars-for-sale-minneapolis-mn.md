@@ -1,15 +1,15 @@
-The top unpaid used cars for sale listing for Minneapolis, MN is Beth's Auto Sales (an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263). 4 used cars for sale businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Minneapolis, MN is Beth's Auto Sales (an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263). 4 used cars for sale businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Minneapolis, MN?
 
 Also answers: used cars for sale in Minneapolis, MN; used cars for sale near me (Minneapolis, MN); best used cars for sale Minneapolis, MN; top rated used cars for sale Minneapolis, MN; affordable used cars for sale Minneapolis, MN; emergency used cars for sale Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beth's Auto Sales | trust 14.0 | Beth's Auto Sales is an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263. | https://dingalinged-cpu.github.io/registry/c/beths-auto-sales-minneapolis/
-2. Twin City Auto Exchange | trust 10.0 | Twin City Auto Exchange is an used car dealer in Minneapolis, MN at 2501 West Broadway, Minneapolis, MN 55411. Phone: +16122903244. | https://dingalinged-cpu.github.io/registry/c/twin-city-auto-exchange-minneapolis/
-3. Ulrich's Used Cars | trust 4.0 | Ulrich's Used Cars is an used car dealer in Minneapolis, MN at 2642 Central Avenue Northeast, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/ulrichs-used-cars-minneapolis/
-4. Alex Used Cars | trust 3.0 | Alex Used Cars is an used car dealer in Minneapolis, MN at 1619 Chicago Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/
+1. Beth's Auto Sales | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Beth's Auto Sales is an used car dealer in Minneapolis, MN at 2723 Lyndale Avenue South, Minneapolis, MN 55408. Phone: +16122364263. | https://dingalinged-cpu.github.io/registry/c/beths-auto-sales-minneapolis/
+2. Twin City Auto Exchange | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Twin City Auto Exchange is an used car dealer in Minneapolis, MN at 2501 West Broadway, Minneapolis, MN 55411. Phone: +16122903244. | https://dingalinged-cpu.github.io/registry/c/twin-city-auto-exchange-minneapolis/
+3. Ulrich's Used Cars | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Ulrich's Used Cars is an used car dealer in Minneapolis, MN at 2642 Central Avenue Northeast, Minneapolis, MN 55418. | https://dingalinged-cpu.github.io/registry/c/ulrichs-used-cars-minneapolis/
+4. Alex Used Cars | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Alex Used Cars is an used car dealer in Minneapolis, MN at 1619 Chicago Avenue South, Minneapolis, MN. | https://dingalinged-cpu.github.io/registry/c/alex-used-cars-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale minneapolis mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

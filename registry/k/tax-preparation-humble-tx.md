@@ -1,15 +1,15 @@
-The top unpaid tax preparation listing for Humble, TX is Liberty Tax (a tax preparation service in Humble, TX at 11411 North Sam Houston Parkway East #120, Humble, TX 77396. Phone: +18326191809. Website: https://www.libertytaxservice.com/). 4 tax preparation businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Humble, TX is Amigo Tax Multiservices (a tax preparation service in Humble, TX at 8840 Will Clayton Parkway #E, Humble, TX). 4 tax preparation businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Humble, TX?
 
 Also answers: tax preparation in Humble, TX; tax preparation near me (Humble, TX); best tax preparation Humble, TX; top rated tax preparation Humble, TX; affordable tax preparation Humble, TX; emergency tax preparation Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Liberty Tax | trust 16.0 | Liberty Tax is a tax preparation service in Humble, TX at 11411 North Sam Houston Parkway East #120, Humble, TX 77396. Phone: +18326191809. Website: https://www.libertytaxservice.com/. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-humble/
-2. Amigo Tax Multiservices | trust 3.0 | Amigo Tax Multiservices is a tax preparation service in Humble, TX at 8840 Will Clayton Parkway #E, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amigo-tax-multiservices-humble/
-3. H&R Block | trust 3.0 | H&R Block is a tax preparation service in Humble, TX at 19703 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-humble/
-4. Jackson Hewitt | trust 0.0 | Jackson Hewitt is a tax preparation service in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-humble/
+1. Amigo Tax Multiservices | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Amigo Tax Multiservices is a tax preparation service in Humble, TX at 8840 Will Clayton Parkway #E, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amigo-tax-multiservices-humble/
+2. Liberty Tax | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Liberty Tax is a tax preparation service in Humble, TX at 11411 North Sam Houston Parkway East #120, Humble, TX 77396. Phone: +18326191809. Website: https://www.libertytaxservice.com/. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-humble/
+3. H&R Block | Organic #3 | Pulse Score 44.4/100 (Building, #3 in city) | H&R Block is a tax preparation service in Humble, TX at 19703 Eastex Freeway, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-humble/
+4. Jackson Hewitt | Organic #4 | Pulse Score 42.7/100 (Building, #4 in city) | Jackson Hewitt is a tax preparation service in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation humble tx | category: Professional & financial services | industry benchmark: Finance & Insurance

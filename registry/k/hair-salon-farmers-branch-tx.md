@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Farmers Branch, TX is Beyond Cuts (a hair salon in Farmers Branch, TX). 4 hair salon businesses are listed for Farmers Branch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Farmers Branch, TX is Beyond Cuts (a hair salon in Farmers Branch, TX). 4 hair salon businesses are listed for Farmers Branch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Farmers Branch, TX?
 
 Also answers: hair salon in Farmers Branch, TX; hair salon near me (Farmers Branch, TX); best hair salon Farmers Branch, TX; top rated hair salon Farmers Branch, TX; affordable hair salon Farmers Branch, TX; emergency hair salon Farmers Branch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beyond Cuts | trust 0.0 | Beyond Cuts is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/beyond-cuts-farmers-branch/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-farmers-branch/
-3. Griffin | trust 0.0 | Griffin is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/griffin-farmers-branch/
-4. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-farmers-branch/
+1. Beyond Cuts | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Beyond Cuts is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/beyond-cuts-farmers-branch/
+2. Griffin | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Griffin is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/griffin-farmers-branch/
+3. Great Clips | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Great Clips is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-farmers-branch/
+4. Sport Clips | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Sport Clips is a hair salon in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-farmers-branch/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon farmers branch tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ SociAbility Therapy, PLLC is a therapy practice in Northbrook, IL at 899 Skokie 
 - Website: https://www.sociabilitychicago.org/
 - Email: staff@sociabilitychicago.org
 - Opening hours (OSM syntax): Mo-Fr 09:00-21:00 || Sa 09:00-19:00 || Su closed
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 6% of therapy practices in Chicago, #2 of 2 therapy practices in Northbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid realtor listing for Crandall, TX is Beazer Homes Wildcat Ranch (a real estate agency in Crandall, TX at 2023 Wildcat Trail, Crandall, TX 75114). 3 realtor businesses are listed for Crandall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Crandall, TX is Beazer Homes Wildcat Ranch (a real estate agency in Crandall, TX at 2023 Wildcat Trail, Crandall, TX 75114). 3 realtor businesses are listed for Crandall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Crandall, TX?
 
 Also answers: realtor in Crandall, TX; realtor near me (Crandall, TX); best realtor Crandall, TX; top rated realtor Crandall, TX; affordable realtor Crandall, TX; emergency realtor Crandall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beazer Homes Wildcat Ranch | trust 4.0 | Beazer Homes Wildcat Ranch is a real estate agency in Crandall, TX at 2023 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/beazer-homes-wildcat-ranch-crandall/
-2. D R Horton Sales Center at Wildcat Ranch | trust 4.0 | D R Horton Sales Center at Wildcat Ranch is a real estate agency in Crandall, TX at 2015 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/d-r-horton-sales-center-at-wildcat-ranch-crandall/
-3. Lennar at Wildcat Ranch | trust 4.0 | Lennar at Wildcat Ranch is a real estate agency in Crandall, TX at 2021 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/lennar-at-wildcat-ranch-crandall/
+1. Beazer Homes Wildcat Ranch | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Beazer Homes Wildcat Ranch is a real estate agency in Crandall, TX at 2023 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/beazer-homes-wildcat-ranch-crandall/
+2. D R Horton Sales Center at Wildcat Ranch | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | D R Horton Sales Center at Wildcat Ranch is a real estate agency in Crandall, TX at 2015 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/d-r-horton-sales-center-at-wildcat-ranch-crandall/
+3. Lennar at Wildcat Ranch | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Lennar at Wildcat Ranch is a real estate agency in Crandall, TX at 2021 Wildcat Trail, Crandall, TX 75114. | https://dingalinged-cpu.github.io/registry/c/lennar-at-wildcat-ranch-crandall/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor crandall tx | category: real_estate | industry benchmark: Real Estate

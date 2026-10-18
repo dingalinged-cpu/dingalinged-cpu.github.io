@@ -13,7 +13,7 @@ Earthwise Pet Supply, Grooming, & Self Wash is a dog groomer in Shorewood Hills,
 - Website: https://www.frommfamily.com/r/8214
 - Email: n/a
 - Opening hours (OSM syntax): Mo
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 50% of dog groomers in Madison, #1 of 1 dog groomers in Shorewood Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

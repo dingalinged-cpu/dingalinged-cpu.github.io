@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Saint Bonifacius, MN is Spokes (a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/). 1 bike shop businesses are listed for Saint Bonifacius, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Saint Bonifacius, MN is Spokes (a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/). 1 bike shop businesses are listed for Saint Bonifacius, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Saint Bonifacius, MN?
 
 Also answers: bike shop in Saint Bonifacius, MN; bike shop near me (Saint Bonifacius, MN); best bike shop Saint Bonifacius, MN; top rated bike shop Saint Bonifacius, MN; affordable bike shop Saint Bonifacius, MN; emergency bike shop Saint Bonifacius, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spokes | trust 16.0 | Spokes is a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/. | https://dingalinged-cpu.github.io/registry/c/spokes-saint-bonifacius/
+1. Spokes | Organic #1 | Pulse Score 57.5/100 (Fair, #1 in city) | Spokes is a bike shop in Saint Bonifacius, MN at 8850 Glacier Road, Saint Bonifacius, MN 55375. Phone: +19524461666. Website: https://www.spokesmn.com/. | https://dingalinged-cpu.github.io/registry/c/spokes-saint-bonifacius/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop saint bonifacius mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

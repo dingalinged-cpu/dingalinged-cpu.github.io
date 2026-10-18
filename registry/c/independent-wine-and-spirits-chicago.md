@@ -13,7 +13,7 @@ Independent Wine & Spirits is a liquor store in Chicago, IL at 5947 North Broadw
 - Website: https://shop.independentspiritsinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 7% of liquor stores in Chicago, #10 of 124 liquor stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

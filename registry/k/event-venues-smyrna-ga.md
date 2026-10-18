@@ -1,14 +1,14 @@
-The top unpaid event venues listing for Smyrna, GA is The Little Cottage (an event venue in Smyrna, GA at 652 Concord Road Southeast, Smyrna, GA 30082. Phone: +14045049044. Website: https://www.littlecottageatl.com/). 3 event venues businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Smyrna, GA is The Little Cottage (an event venue in Smyrna, GA at 652 Concord Road Southeast, Smyrna, GA 30082. Phone: +14045049044. Website: https://www.littlecottageatl.com/). 3 event venues businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Smyrna, GA?
 
 Also answers: event venues in Smyrna, GA; event venues near me (Smyrna, GA); best event venues Smyrna, GA; top rated event venues Smyrna, GA; affordable event venues Smyrna, GA; emergency event venues Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Little Cottage | trust 16.0 | The Little Cottage is an event venue in Smyrna, GA at 652 Concord Road Southeast, Smyrna, GA 30082. Phone: +14045049044. Website: https://www.littlecottageatl.com/. | https://dingalinged-cpu.github.io/registry/c/the-little-cottage-smyrna/
-2. Buddy's Playhouse | trust 0.0 | Buddy's Playhouse is an event venue in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/buddys-playhouse-smyrna/
-3. Old Smyrna Firehouse | trust 0.0 | Old Smyrna Firehouse is an event venue in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/old-smyrna-firehouse-smyrna/
+1. The Little Cottage | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | The Little Cottage is an event venue in Smyrna, GA at 652 Concord Road Southeast, Smyrna, GA 30082. Phone: +14045049044. Website: https://www.littlecottageatl.com/. | https://dingalinged-cpu.github.io/registry/c/the-little-cottage-smyrna/
+2. Buddy's Playhouse | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Buddy's Playhouse is an event venue in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/buddys-playhouse-smyrna/
+3. Old Smyrna Firehouse | Organic #3 | Pulse Score 53.8/100 (Unrated, #3 in city) | Old Smyrna Firehouse is an event venue in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/old-smyrna-firehouse-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues smyrna ga | category: Events & weddings | industry benchmark: Personal Services

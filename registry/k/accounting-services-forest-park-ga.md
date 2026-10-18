@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Forest Park, GA is 1st Choice Tax & Financial Services (an accountant in Forest Park, GA). 1 accounting services businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Forest Park, GA is 1st Choice Tax & Financial Services (an accountant in Forest Park, GA). 1 accounting services businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Forest Park, GA?
 
 Also answers: accounting services in Forest Park, GA; accounting services near me (Forest Park, GA); best accounting services Forest Park, GA; top rated accounting services Forest Park, GA; affordable accounting services Forest Park, GA; emergency accounting services Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1st Choice Tax & Financial Services | trust 0.0 | 1st Choice Tax & Financial Services is an accountant in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/1st-choice-tax-and-financial-services-forest-park/
+1. 1st Choice Tax & Financial Services | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | 1st Choice Tax & Financial Services is an accountant in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/1st-choice-tax-and-financial-services-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services forest park ga | category: professional_accounting | industry benchmark: Business Services

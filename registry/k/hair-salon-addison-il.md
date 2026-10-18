@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Addison, IL is Sport Clips (a hair salon in Addison, IL at 1072 North Rohlwing Road, Addison, IL 60101). 2 hair salon businesses are listed for Addison, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Addison, IL is Sport Clips (a hair salon in Addison, IL at 1072 North Rohlwing Road, Addison, IL 60101). 2 hair salon businesses are listed for Addison, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Addison, IL?
 
 Also answers: hair salon in Addison, IL; hair salon near me (Addison, IL); best hair salon Addison, IL; top rated hair salon Addison, IL; affordable hair salon Addison, IL; emergency hair salon Addison, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 8.0 | Sport Clips is a hair salon in Addison, IL at 1072 North Rohlwing Road, Addison, IL 60101. | https://dingalinged-cpu.github.io/registry/c/sport-clips-addison/
-2. Great Clips | trust 3.0 | Great Clips is a hair salon in Addison, IL at 1450 West Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-addison/
+1. Sport Clips | Organic #1 | Pulse Score 47.3/100 (Building, #1 in city) | Sport Clips is a hair salon in Addison, IL at 1072 North Rohlwing Road, Addison, IL 60101. | https://dingalinged-cpu.github.io/registry/c/sport-clips-addison/
+2. Great Clips | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Great Clips is a hair salon in Addison, IL at 1450 West Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon addison il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

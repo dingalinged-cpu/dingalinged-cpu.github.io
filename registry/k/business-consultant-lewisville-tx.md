@@ -1,13 +1,13 @@
-The top unpaid business consultant listing for Lewisville, TX is Slim4Life (a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/). 2 business consultant businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Lewisville, TX is Slim4Life (a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/). 2 business consultant businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Lewisville, TX?
 
 Also answers: business consultant in Lewisville, TX; business consultant near me (Lewisville, TX); best business consultant Lewisville, TX; top rated business consultant Lewisville, TX; affordable business consultant Lewisville, TX; emergency business consultant Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Slim4Life | trust 16.0 | Slim4Life is a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/. | https://dingalinged-cpu.github.io/registry/c/slim4life-lewisville/
-2. Paramount Consulting | trust 3.0 | Paramount Consulting is a business consultant in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #602, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/paramount-consulting-lewisville/
+1. Slim4Life | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Slim4Life is a business consultant in Lewisville, TX. Phone: +12144887700. Website: https://www.slimdfw.com/. | https://dingalinged-cpu.github.io/registry/c/slim4life-lewisville/
+2. Paramount Consulting | Organic #2 | Pulse Score 57.2/100 (Fair, #2 in city) | Paramount Consulting is a business consultant in Lewisville, TX at 2600 - BLD 6 MacArthur Boulevard #602, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/paramount-consulting-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant lewisville tx | category: b2b_services | industry benchmark: Business Services

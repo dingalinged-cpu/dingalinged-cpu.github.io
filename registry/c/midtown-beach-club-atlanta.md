@@ -13,7 +13,7 @@ Midtown Beach Club is an event venue in Atlanta, GA at 1150 Crescent Avenue Nort
 - Website: https://www.midtownbeach.com/
 - Email: info@graeatl.com
 - Opening hours (OSM syntax): Th 08:00-02:00; Fr 10:00-03:00; Sa 12:00-03:00; Su 12:00-24:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 20% of event venues in Atlanta, #7 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

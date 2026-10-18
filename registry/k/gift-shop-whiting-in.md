@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Whiting, IN is Sun Catchers (a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394). 1 gift shop businesses are listed for Whiting, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Whiting, IN is Sun Catchers (a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394). 1 gift shop businesses are listed for Whiting, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Whiting, IN?
 
 Also answers: gift shop in Whiting, IN; gift shop near me (Whiting, IN); best gift shop Whiting, IN; top rated gift shop Whiting, IN; affordable gift shop Whiting, IN; emergency gift shop Whiting, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sun Catchers | trust 4.0 | Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/
+1. Sun Catchers | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Sun Catchers is a gift shop in Whiting, IN at 1348 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/sun-catchers-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop whiting in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

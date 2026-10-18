@@ -13,7 +13,7 @@ Sideline Sports is a gym in Rowlett, TX at 3806 Melcer Drive, Rowlett, TX 75088.
 - Website: https://sidelinesports.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 16% of gyms in Dallas–Fort Worth, #1 of 2 gyms in Rowlett (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

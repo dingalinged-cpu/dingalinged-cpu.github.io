@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Fate, TX is Great Clips (a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30). 4 hair salon businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Fate, TX is Amy Foster Hair Salon (a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310). 4 hair salon businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Fate, TX?
 
 Also answers: hair salon in Fate, TX; hair salon near me (Fate, TX); best hair salon Fate, TX; top rated hair salon Fate, TX; affordable hair salon Fate, TX; emergency hair salon Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 20.0 | Great Clips is a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30. | https://dingalinged-cpu.github.io/registry/c/great-clips-fate/
-2. Amy Foster Hair Salon | trust 10.0 | Amy Foster Hair Salon is a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310. | https://dingalinged-cpu.github.io/registry/c/amy-foster-hair-salon-fate/
-3. Fate's Beauty Salon | trust 8.0 | Fate's Beauty Salon is a hair salon in Fate, TX at 101 West Fate Main Place #E, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/fates-beauty-salon-fate/
-4. Hustle & Glow | trust 4.0 | Hustle & Glow is a hair salon in Fate, TX at 111 Fate Main Place, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/hustle-and-glow-fate/
+1. Amy Foster Hair Salon | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Amy Foster Hair Salon is a hair salon in Fate, TX at 102 Fate Main Place, Fate, TX 75087. Phone: +19727222310. | https://dingalinged-cpu.github.io/registry/c/amy-foster-hair-salon-fate/
+2. Fate's Beauty Salon | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | Fate's Beauty Salon is a hair salon in Fate, TX at 101 West Fate Main Place #E, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/fates-beauty-salon-fate/
+3. Hustle & Glow | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Hustle & Glow is a hair salon in Fate, TX at 111 Fate Main Place, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/hustle-and-glow-fate/
+4. Great Clips | Organic #4 | Pulse Score 48.9/100 (Building, #4 in city) | Great Clips is a hair salon in Fate, TX at 4970 East Interstate 30 #110, Fate, TX 75189. Phone: +14693385376. Website: https://salons.greatclips.com/us/tx/fate/4970-e-i-30. | https://dingalinged-cpu.github.io/registry/c/great-clips-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon fate tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

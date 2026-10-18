@@ -1,15 +1,15 @@
-The top unpaid insurance agent listing for Palatine, IL is C. Insurance Agency (an insurance agent in Palatine, IL at 1858 North Rand Road, Palatine, IL 60074. Phone: +18479079282). 4 insurance agent businesses are listed for Palatine, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Palatine, IL is C. Insurance Agency (an insurance agent in Palatine, IL at 1858 North Rand Road, Palatine, IL 60074. Phone: +18479079282). 4 insurance agent businesses are listed for Palatine, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Palatine, IL?
 
 Also answers: insurance agent in Palatine, IL; insurance agent near me (Palatine, IL); best insurance agent Palatine, IL; top rated insurance agent Palatine, IL; affordable insurance agent Palatine, IL; emergency insurance agent Palatine, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. C. Insurance Agency | trust 10.0 | C. Insurance Agency is an insurance agent in Palatine, IL at 1858 North Rand Road, Palatine, IL 60074. Phone: +18479079282. | https://dingalinged-cpu.github.io/registry/c/c-insurance-agency-palatine/
-2. Illinois State Insurance Agency, INC. | trust 10.0 | Illinois State Insurance Agency, INC. is an insurance agent in Palatine, IL at 1717 North Rand Road, Palatine, IL 60074. Phone: +18473584800. | https://dingalinged-cpu.github.io/registry/c/illinois-state-insurance-agency-inc-palatine/
-3. NCR INSURANCE GROUP, INC. | trust 4.0 | NCR INSURANCE GROUP, INC. is an insurance agent in Palatine, IL at 1180 East Dundee Road, Palatine, IL 60074. | https://dingalinged-cpu.github.io/registry/c/ncr-insurance-group-inc-palatine/
-4. Allstate | trust 0.0 | Allstate is an insurance agent in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-palatine/
+1. C. Insurance Agency | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | C. Insurance Agency is an insurance agent in Palatine, IL at 1858 North Rand Road, Palatine, IL 60074. Phone: +18479079282. | https://dingalinged-cpu.github.io/registry/c/c-insurance-agency-palatine/
+2. Illinois State Insurance Agency, INC. | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Illinois State Insurance Agency, INC. is an insurance agent in Palatine, IL at 1717 North Rand Road, Palatine, IL 60074. Phone: +18473584800. | https://dingalinged-cpu.github.io/registry/c/illinois-state-insurance-agency-inc-palatine/
+3. NCR INSURANCE GROUP, INC. | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | NCR INSURANCE GROUP, INC. is an insurance agent in Palatine, IL at 1180 East Dundee Road, Palatine, IL 60074. | https://dingalinged-cpu.github.io/registry/c/ncr-insurance-group-inc-palatine/
+4. Allstate | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | Allstate is an insurance agent in Palatine, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-palatine/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent palatine il | category: Professional & financial services | industry benchmark: Finance & Insurance

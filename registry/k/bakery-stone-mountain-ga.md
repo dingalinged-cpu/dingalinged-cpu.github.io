@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Stone Mountain, GA is Sweet Aroma Bakery (a bakery in Stone Mountain, GA at 975 Suite B Main Street, Stone Mountain, GA 30083. Phone: +16783369732). 1 bakery businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Stone Mountain, GA is Sweet Aroma Bakery (a bakery in Stone Mountain, GA at 975 Suite B Main Street, Stone Mountain, GA 30083. Phone: +16783369732). 1 bakery businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Stone Mountain, GA?
 
 Also answers: bakery in Stone Mountain, GA; bakery near me (Stone Mountain, GA); best bakery Stone Mountain, GA; top rated bakery Stone Mountain, GA; affordable bakery Stone Mountain, GA; emergency bakery Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sweet Aroma Bakery | trust 10.0 | Sweet Aroma Bakery is a bakery in Stone Mountain, GA at 975 Suite B Main Street, Stone Mountain, GA 30083. Phone: +16783369732. | https://dingalinged-cpu.github.io/registry/c/sweet-aroma-bakery-stone-mountain/
+1. Sweet Aroma Bakery | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Sweet Aroma Bakery is a bakery in Stone Mountain, GA at 975 Suite B Main Street, Stone Mountain, GA 30083. Phone: +16783369732. | https://dingalinged-cpu.github.io/registry/c/sweet-aroma-bakery-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery stone mountain ga | category: Events & weddings | industry benchmark: Personal Services

@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Sandy Springs, GA is LaDart Creative Office (a marketing agency in Atlanta, GA at 1215 Hightower Trail, Atlanta, GA 30350. Phone: +16788376425. Website: https://ladartcreative.com/). 1 marketing agency businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Sandy Springs, GA is LaDart Creative Office (a marketing agency in Atlanta, GA at 1215 Hightower Trail, Atlanta, GA 30350. Phone: +16788376425. Website: https://ladartcreative.com/). 1 marketing agency businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Sandy Springs, GA?
 
 Also answers: marketing agency in Sandy Springs, GA; marketing agency near me (Sandy Springs, GA); best marketing agency Sandy Springs, GA; top rated marketing agency Sandy Springs, GA; affordable marketing agency Sandy Springs, GA; emergency marketing agency Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LaDart Creative Office | trust 16.0 | LaDart Creative Office is a marketing agency in Atlanta, GA at 1215 Hightower Trail, Atlanta, GA 30350. Phone: +16788376425. Website: https://ladartcreative.com/. | https://dingalinged-cpu.github.io/registry/c/ladart-creative-office-atlanta/
+1. LaDart Creative Office | Organic #1 | Pulse Score 58.6/100 (Unrated, #7 in city) | LaDart Creative Office is a marketing agency in Atlanta, GA at 1215 Hightower Trail, Atlanta, GA 30350. Phone: +16788376425. Website: https://ladartcreative.com/. | https://dingalinged-cpu.github.io/registry/c/ladart-creative-office-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency sandy springs ga | category: Professional & financial services | industry benchmark: Finance & Insurance

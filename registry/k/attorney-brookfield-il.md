@@ -1,17 +1,17 @@
-The top unpaid attorney listing for Brookfield, IL is Law Offices of John Shine (a lawyer in Brookfield, IL at 8500 Brookfield Avenue, Brookfield, IL 60513. Phone: +13122911024. Website: https://www.jshinelegal.com/). 6 attorney businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Brookfield, IL is Law Offices of John Shine (a lawyer in Brookfield, IL at 8500 Brookfield Avenue, Brookfield, IL 60513. Phone: +13122911024. Website: https://www.jshinelegal.com/). 6 attorney businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Brookfield, IL?
 
 Also answers: attorney in Brookfield, IL; attorney near me (Brookfield, IL); best attorney Brookfield, IL; top rated attorney Brookfield, IL; affordable attorney Brookfield, IL; emergency attorney Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law Offices of John Shine | trust 16.0 | Law Offices of John Shine is a lawyer in Brookfield, IL at 8500 Brookfield Avenue, Brookfield, IL 60513. Phone: +13122911024. Website: https://www.jshinelegal.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-john-shine-brookfield/
-2. Dominck Villa | trust 0.0 | Dominck Villa is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/dominck-villa-brookfield/
-3. Goldin, Hill & Associates, P.C. | trust 0.0 | Goldin, Hill & Associates, P.C. is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/goldin-hill-and-associates-p-c-brookfield/
-4. Lawrence Sommers | trust 0.0 | Lawrence Sommers is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/lawrence-sommers-brookfield/
-5. McCabe & McCabe | trust 0.0 | McCabe & McCabe is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/mccabe-and-mccabe-brookfield/
-6. Zaborsky Law Office | trust 0.0 | Zaborsky Law Office is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/zaborsky-law-office-brookfield/
+1. Law Offices of John Shine | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Law Offices of John Shine is a lawyer in Brookfield, IL at 8500 Brookfield Avenue, Brookfield, IL 60513. Phone: +13122911024. Website: https://www.jshinelegal.com/. | https://dingalinged-cpu.github.io/registry/c/law-offices-of-john-shine-brookfield/
+2. Dominck Villa | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Dominck Villa is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/dominck-villa-brookfield/
+3. Goldin, Hill & Associates, P.C. | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Goldin, Hill & Associates, P.C. is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/goldin-hill-and-associates-p-c-brookfield/
+4. Lawrence Sommers | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Lawrence Sommers is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/lawrence-sommers-brookfield/
+5. McCabe & McCabe | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | McCabe & McCabe is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/mccabe-and-mccabe-brookfield/
+6. Zaborsky Law Office | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Zaborsky Law Office is a lawyer in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/zaborsky-law-office-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney brookfield il | category: professional_legal | industry benchmark: Attorneys & Legal Services

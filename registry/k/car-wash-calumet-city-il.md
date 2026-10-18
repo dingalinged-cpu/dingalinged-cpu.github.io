@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Calumet City, IL is Calumet City Car Wash (a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/). 4 car wash businesses are listed for Calumet City, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Calumet City, IL is Calumet City Car Wash (a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/). 4 car wash businesses are listed for Calumet City, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Calumet City, IL?
 
 Also answers: car wash in Calumet City, IL; car wash near me (Calumet City, IL); best car wash Calumet City, IL; top rated car wash Calumet City, IL; affordable car wash Calumet City, IL; emergency car wash Calumet City, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Calumet City Car Wash | trust 20.0 | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://dingalinged-cpu.github.io/registry/c/calumet-city-car-wash-calumet-city/
-2. Buddy Bear Car Wash | trust 4.0 | Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-calumet-city/
-3. Mobil | trust 4.0 | Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city/
-4. Mobil | trust 4.0 | Mobil is a car wash in Calumet City, IL at 2074 Sibley Boulevard, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city-w1331500004/
+1. Calumet City Car Wash | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Calumet City Car Wash is a car wash in Calumet City, IL at 671 River Oaks Drive, Calumet City, IL 60409. Phone: +17088680077. Website: https://calumetcitycarwash.com/. | https://dingalinged-cpu.github.io/registry/c/calumet-city-car-wash-calumet-city/
+2. Mobil | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Mobil is a car wash in Calumet City, IL at 2074 Sibley Boulevard, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city-w1331500004/
+3. Buddy Bear Car Wash | Organic #3 | Pulse Score 46.3/100 (Unrated, #3 in city) | Buddy Bear Car Wash is a car wash in Calumet City, IL at 382 Torrence Avenue, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/buddy-bear-car-wash-calumet-city/
+4. Mobil | Organic #4 | Pulse Score 45.3/100 (Building, #4 in city) | Mobil is a car wash in Calumet City, IL at 1401 River Oaks Drive, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/mobil-calumet-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash calumet city il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

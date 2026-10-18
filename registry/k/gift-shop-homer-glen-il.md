@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Homer Glen, IL is Hallmark (a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local). 1 gift shop businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Homer Glen, IL is Hallmark (a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local). 1 gift shop businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Homer Glen, IL?
 
 Also answers: gift shop in Homer Glen, IL; gift shop near me (Homer Glen, IL); best gift shop Homer Glen, IL; top rated gift shop Homer Glen, IL; affordable gift shop Homer Glen, IL; emergency gift shop Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallmark | trust 20.0 | Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-homer-glen/
+1. Hallmark | Organic #1 | Pulse Score 49.2/100 (Building, #1 in city) | Hallmark is a gift shop in Homer Glen, IL at 14154 South Bell Road, Homer Glen, IL 60491. Phone: +17083013402. Website: https://stores.hallmark.com/il/homerglen/amys-hallmark-shop-homerglen-il-061762.html?mc=T_P_G_NA_NA_ED_NA_GC_RIO-local. | https://dingalinged-cpu.github.io/registry/c/hallmark-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop homer glen il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

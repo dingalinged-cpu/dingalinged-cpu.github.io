@@ -1,13 +1,13 @@
-The top unpaid property management company listing for Maine Township, IL is Courtland Square Homeowners Association (a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714). 2 property management company businesses are listed for Maine Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Maine Township, IL is Courtland Square Homeowners Association (a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714). 2 property management company businesses are listed for Maine Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Maine Township, IL?
 
 Also answers: property management company in Maine Township, IL; property management company near me (Maine Township, IL); best property management company Maine Township, IL; top rated property management company Maine Township, IL; affordable property management company Maine Township, IL; emergency property management company Maine Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Courtland Square Homeowners Association | trust 4.0 | Courtland Square Homeowners Association is a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714. | https://dingalinged-cpu.github.io/registry/c/courtland-square-homeowners-association-des-plaines/
-2. Coventry Place Condominium | trust 0.0 | Coventry Place Condominium is a property management company in Maine Township, IL. | https://dingalinged-cpu.github.io/registry/c/coventry-place-condominium-maine-township/
+1. Courtland Square Homeowners Association | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Courtland Square Homeowners Association is a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714. | https://dingalinged-cpu.github.io/registry/c/courtland-square-homeowners-association-des-plaines/
+2. Coventry Place Condominium | Organic #2 | Pulse Score 53.9/100 (Unrated, #1 in city) | Coventry Place Condominium is a property management company in Maine Township, IL. | https://dingalinged-cpu.github.io/registry/c/coventry-place-condominium-maine-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company maine township il | category: Professional & financial services | industry benchmark: Finance & Insurance

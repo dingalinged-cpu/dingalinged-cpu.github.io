@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Murphy, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 37.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 40.8/100 — Building — top 100% of pilates studios in Dallas–Fort Worth, #1 of 1 pilates studios in Murphy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.9, Trust 38.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

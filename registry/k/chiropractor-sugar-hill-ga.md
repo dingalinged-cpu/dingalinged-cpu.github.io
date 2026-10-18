@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Sugar Hill, GA is The Joint Chiropractic (a chiropractor in Sugar Hill, GA. Phone: +14706646516). 1 chiropractor businesses are listed for Sugar Hill, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Sugar Hill, GA is The Joint Chiropractic (a chiropractor in Sugar Hill, GA. Phone: +14706646516). 1 chiropractor businesses are listed for Sugar Hill, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Sugar Hill, GA?
 
 Also answers: chiropractor in Sugar Hill, GA; chiropractor near me (Sugar Hill, GA); best chiropractor Sugar Hill, GA; top rated chiropractor Sugar Hill, GA; affordable chiropractor Sugar Hill, GA; emergency chiropractor Sugar Hill, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Joint Chiropractic | trust 6.0 | The Joint Chiropractic is a chiropractor in Sugar Hill, GA. Phone: +14706646516. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-hill/
+1. The Joint Chiropractic | Organic #1 | Pulse Score 43.2/100 (Building, #1 in city) | The Joint Chiropractic is a chiropractor in Sugar Hill, GA. Phone: +14706646516. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-sugar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor sugar hill ga | category: Health & medical | industry benchmark: Physicians & Surgeons

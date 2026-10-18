@@ -1,15 +1,15 @@
-The top unpaid auto repair listing for Barrington, IL is Motor Werks Honda Service (an auto repair shop in Barrington, IL at 1475 South Barrington Road, Barrington, IL 60010. Phone: +18336184486. Website: https://www.motorwerkshonda.com/service/). 4 auto repair businesses are listed for Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Barrington, IL is Motor Werks Honda Service (an auto repair shop in Barrington, IL at 1475 South Barrington Road, Barrington, IL 60010. Phone: +18336184486. Website: https://www.motorwerkshonda.com/service/). 4 auto repair businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Barrington, IL?
 
 Also answers: auto repair in Barrington, IL; auto repair near me (Barrington, IL); best auto repair Barrington, IL; top rated auto repair Barrington, IL; affordable auto repair Barrington, IL; emergency auto repair Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Motor Werks Honda Service | trust 16.0 | Motor Werks Honda Service is an auto repair shop in Barrington, IL at 1475 South Barrington Road, Barrington, IL 60010. Phone: +18336184486. Website: https://www.motorwerkshonda.com/service/. | https://dingalinged-cpu.github.io/registry/c/motor-werks-honda-service-barrington/
-2. Hollis Brother's Services | trust 4.0 | Hollis Brother's Services is an auto repair shop in Barrington, IL at 250 East Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/hollis-brothers-services-barrington/
-3. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Barrington, IL at 563 North Hough Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-barrington/
-4. Midas | trust 4.0 | Midas is an auto repair shop in Barrington, IL at 110 West Northwest Highway, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/midas-barrington/
+1. Motor Werks Honda Service | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Motor Werks Honda Service is an auto repair shop in Barrington, IL at 1475 South Barrington Road, Barrington, IL 60010. Phone: +18336184486. Website: https://www.motorwerkshonda.com/service/. | https://dingalinged-cpu.github.io/registry/c/motor-werks-honda-service-barrington/
+2. Hollis Brother's Services | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Hollis Brother's Services is an auto repair shop in Barrington, IL at 250 East Main Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/hollis-brothers-services-barrington/
+3. Jiffy Lube | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Barrington, IL at 563 North Hough Street, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-barrington/
+4. Midas | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Midas is an auto repair shop in Barrington, IL at 110 West Northwest Highway, Barrington, IL 60010. | https://dingalinged-cpu.github.io/registry/c/midas-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair barrington il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

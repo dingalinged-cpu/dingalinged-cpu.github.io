@@ -13,7 +13,7 @@ Estrella Insurance is an insurance agent in Houston, TX at 5730 Cypress Creek Pa
 - Website: https://agents.estrellainsurance.com/es-us/tx/houston/443.html
 - Email: manager443@estrellainsurance.com
 - Opening hours (OSM syntax): 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 43% of insurance agents in Houston, #50 of 111 insurance agents in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

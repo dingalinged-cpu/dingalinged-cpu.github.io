@@ -13,7 +13,7 @@ Goldman & Associates is a lawyer in Chicago, IL at 180 North LaSalle Street #365
 - Website: https://www.criminallawyer-chicago.com/
 - Email: info@criminallawyer-chicago.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 2% of lawyers in Chicago, #1 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 66.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

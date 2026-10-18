@@ -1,14 +1,14 @@
-The top unpaid electrician listing for Madison, WI is Graybar Electric Supply (an electrician in Madison, WI). 3 electrician businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Madison, WI is Hill Electric (an electrician in Madison, WI). 3 electrician businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Madison, WI?
 
 Also answers: electrician in Madison, WI; electrician near me (Madison, WI); best electrician Madison, WI; top rated electrician Madison, WI; affordable electrician Madison, WI; emergency electrician Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Graybar Electric Supply | trust 0.0 | Graybar Electric Supply is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/graybar-electric-supply-madison/
-2. Hill Electric | trust 0.0 | Hill Electric is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/hill-electric-madison/
-3. SunPeak | trust 0.0 | SunPeak is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunpeak-madison/
+1. Hill Electric | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Hill Electric is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/hill-electric-madison/
+2. SunPeak | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | SunPeak is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/sunpeak-madison/
+3. Graybar Electric Supply | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Graybar Electric Supply is an electrician in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/graybar-electric-supply-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician madison wi | category: Home services - Electrical | industry benchmark: Home & Home Improvement

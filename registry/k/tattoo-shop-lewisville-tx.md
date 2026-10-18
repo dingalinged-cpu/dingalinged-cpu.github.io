@@ -1,15 +1,15 @@
-The top unpaid tattoo shop listing for Lewisville, TX is Aura Tattoo Studios (a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/). 4 tattoo shop businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Lewisville, TX is Aura Tattoo Studios (a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/). 4 tattoo shop businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Lewisville, TX?
 
 Also answers: tattoo shop in Lewisville, TX; tattoo shop near me (Lewisville, TX); best tattoo shop Lewisville, TX; top rated tattoo shop Lewisville, TX; affordable tattoo shop Lewisville, TX; emergency tattoo shop Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aura Tattoo Studios | trust 20.0 | Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/. | https://dingalinged-cpu.github.io/registry/c/aura-tattoo-studios-lewisville/
-2. Rebel Muse Tattoo | trust 16.0 | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-lewisville/
-3. Tattoo | trust 16.0 | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://dingalinged-cpu.github.io/registry/c/tattoo-lewisville/
-4. Love Hate Tattoos | trust 0.0 | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/love-hate-tattoos-lewisville/
+1. Aura Tattoo Studios | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Aura Tattoo Studios is a tattoo shop in Lewisville, TX at 880 Hebron Parkway #130, Lewisville, TX 75057. Phone: +12142225364. Website: https://www.auratattoostudios.com/. | https://dingalinged-cpu.github.io/registry/c/aura-tattoo-studios-lewisville/
+2. Rebel Muse Tattoo | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Rebel Muse Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724209666. Website: https://www.rebelmusetattoo.com/. | https://dingalinged-cpu.github.io/registry/c/rebel-muse-tattoo-lewisville/
+3. Love Hate Tattoos | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Love Hate Tattoos is a tattoo shop in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/love-hate-tattoos-lewisville/
+4. Tattoo | Organic #4 | Pulse Score 49.8/100 (Building, #4 in city) | Tattoo is a tattoo shop in Lewisville, TX. Phone: +19724363450. Website: https://www.abettertattoo.com/. | https://dingalinged-cpu.github.io/registry/c/tattoo-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

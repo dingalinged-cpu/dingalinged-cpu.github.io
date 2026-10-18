@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Hunters Creek Village, TX is The Cromeens Law Firm (a lawyer in Houston, TX at 8431 Katy Freeway, Houston, TX 77024. Website: https://thecromeenslawfirm.com/). 1 attorney businesses are listed for Hunters Creek Village, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Hunters Creek Village, TX is The Cromeens Law Firm (a lawyer in Houston, TX at 8431 Katy Freeway, Houston, TX 77024. Website: https://thecromeenslawfirm.com/). 1 attorney businesses are listed for Hunters Creek Village, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Hunters Creek Village, TX?
 
 Also answers: attorney in Hunters Creek Village, TX; attorney near me (Hunters Creek Village, TX); best attorney Hunters Creek Village, TX; top rated attorney Hunters Creek Village, TX; affordable attorney Hunters Creek Village, TX; emergency attorney Hunters Creek Village, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Cromeens Law Firm | trust 10.0 | The Cromeens Law Firm is a lawyer in Houston, TX at 8431 Katy Freeway, Houston, TX 77024. Website: https://thecromeenslawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-cromeens-law-firm-houston/
+1. The Cromeens Law Firm | Organic #1 | Pulse Score 55.9/100 (Unrated, #53 in city) | The Cromeens Law Firm is a lawyer in Houston, TX at 8431 Katy Freeway, Houston, TX 77024. Website: https://thecromeenslawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-cromeens-law-firm-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney hunters creek village tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

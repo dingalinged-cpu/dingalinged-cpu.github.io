@@ -1,14 +1,14 @@
-The top unpaid daycare listing for Alpharetta, GA is Joyful Praise Academy (a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/). 3 daycare businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Alpharetta, GA is Joyful Praise Academy (a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/). 3 daycare businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Alpharetta, GA?
 
 Also answers: daycare in Alpharetta, GA; daycare near me (Alpharetta, GA); best daycare Alpharetta, GA; top rated daycare Alpharetta, GA; affordable daycare Alpharetta, GA; emergency daycare Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joyful Praise Academy | trust 20.0 | Joyful Praise Academy is a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/. | https://dingalinged-cpu.github.io/registry/c/joyful-praise-academy-alpharetta/
-2. Carrington Academy | trust 4.0 | Carrington Academy is a daycare in Alpharetta, GA at 6670 Shiloh Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/carrington-academy-alpharetta/
-3. Kids 'R' Kids | trust 4.0 | Kids 'R' Kids is a daycare in Alpharetta, GA at 4780 West Morton Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-alpharetta/
+1. Joyful Praise Academy | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Joyful Praise Academy is a daycare in Alpharetta, GA at 2965 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +17705948300. Website: https://jpcacademy.com/. | https://dingalinged-cpu.github.io/registry/c/joyful-praise-academy-alpharetta/
+2. Carrington Academy | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Carrington Academy is a daycare in Alpharetta, GA at 6670 Shiloh Road, Alpharetta, GA 30005. | https://dingalinged-cpu.github.io/registry/c/carrington-academy-alpharetta/
+3. Kids 'R' Kids | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Alpharetta, GA at 4780 West Morton Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare alpharetta ga | category: Education & childcare | industry benchmark: Education & Instruction

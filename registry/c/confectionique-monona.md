@@ -13,7 +13,7 @@ Confectionique is a gift shop in Monona, WI at 4201 Monona Drive, Monona, WI 537
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "Irregular hours, open for events"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.8/100 — Unrated (not enough evidence yet) — top 42% of gift shops in Madison, #1 of 1 gift shops in Monona (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 54. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

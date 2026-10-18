@@ -13,7 +13,7 @@ Dekra is an auto repair shop in Plano, TX at 3140 Independence Parkway, Plano, T
 - Website: https://www.dekra.us/en/texas/plano-3140-independence-pky/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su 11:00-17:00
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.3/100 — Unrated (not enough evidence yet) — top 61% of auto repair shops in Dallas–Fort Worth, #25 of 41 auto repair shops in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

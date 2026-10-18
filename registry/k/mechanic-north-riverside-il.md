@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for North Riverside, IL is 26th Street Garage (an auto repair shop in North Riverside, IL). 1 mechanic businesses are listed for North Riverside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for North Riverside, IL is 26th Street Garage (an auto repair shop in North Riverside, IL). 1 mechanic businesses are listed for North Riverside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in North Riverside, IL?
 
 Also answers: mechanic in North Riverside, IL; mechanic near me (North Riverside, IL); best mechanic North Riverside, IL; top rated mechanic North Riverside, IL; affordable mechanic North Riverside, IL; emergency mechanic North Riverside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 26th Street Garage | trust 0.0 | 26th Street Garage is an auto repair shop in North Riverside, IL. | https://dingalinged-cpu.github.io/registry/c/26th-street-garage-north-riverside/
+1. 26th Street Garage | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | 26th Street Garage is an auto repair shop in North Riverside, IL. | https://dingalinged-cpu.github.io/registry/c/26th-street-garage-north-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic north riverside il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Marjen Furniture of Chicago is a furniture store in Chicago, IL at 1536 West Dev
 - Website: https://marjenofchicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:30-19:00, Sa 10:00-18:00, Su 11:00-17:00
-- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of furniture stores in Chicago, #1 of 57 furniture stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

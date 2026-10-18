@@ -1,15 +1,15 @@
-The top unpaid yoga classes listing for Mckinney, TX is Apex Centre (a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre). 4 yoga classes businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Mckinney, TX is Apex Centre (a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre). 4 yoga classes businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Mckinney, TX?
 
 Also answers: yoga classes in Mckinney, TX; yoga classes near me (Mckinney, TX); best yoga classes Mckinney, TX; top rated yoga classes Mckinney, TX; affordable yoga classes Mckinney, TX; emergency yoga classes Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Apex Centre | trust 20.0 | Apex Centre is a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre. | https://dingalinged-cpu.github.io/registry/c/apex-centre-mckinney/
-2. Pryme Yoga | trust 4.0 | Pryme Yoga is a yoga studio in McKinney, TX at 7710 Stacy Road #800, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/pryme-yoga-mckinney/
-3. YogaSix | trust 3.0 | YogaSix is a yoga studio in McKinney, TX at 3041 South Custer Road #500, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/yogasix-mckinney/
-4. YogaSix | trust 3.0 | YogaSix is a yoga studio in McKinney, TX at 1620 North Hardin Boulevard #600, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/yogasix-mckinney-n13636479917/
+1. Apex Centre | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Apex Centre is a yoga studio in McKinney, TX at 3003 Alma Road, McKinney, TX 75070. Phone: +19725472739. Website: https://www.mckinneytexas.org/1315/Apex-Centre. | https://dingalinged-cpu.github.io/registry/c/apex-centre-mckinney/
+2. Pryme Yoga | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Pryme Yoga is a yoga studio in McKinney, TX at 7710 Stacy Road #800, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/pryme-yoga-mckinney/
+3. YogaSix | Organic #3 | Pulse Score 44.6/100 (Building, #3 in city) | YogaSix is a yoga studio in McKinney, TX at 1620 North Hardin Boulevard #600, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/yogasix-mckinney-n13636479917/
+4. YogaSix | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | YogaSix is a yoga studio in McKinney, TX at 3041 South Custer Road #500, McKinney, TX. | https://dingalinged-cpu.github.io/registry/c/yogasix-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes mckinney tx | category: Fitness | industry benchmark: Health & Fitness

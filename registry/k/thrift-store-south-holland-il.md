@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for South Holland, IL is The Salvation Army (a thrift store in South Holland, IL at 800 East 162nd Street, South Holland, IL 60473). 1 thrift store businesses are listed for South Holland, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for South Holland, IL is The Salvation Army (a thrift store in South Holland, IL at 800 East 162nd Street, South Holland, IL 60473). 1 thrift store businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in South Holland, IL?
 
 Also answers: thrift store in South Holland, IL; thrift store near me (South Holland, IL); best thrift store South Holland, IL; top rated thrift store South Holland, IL; affordable thrift store South Holland, IL; emergency thrift store South Holland, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Salvation Army | trust 4.0 | The Salvation Army is a thrift store in South Holland, IL at 800 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-south-holland/
+1. The Salvation Army | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | The Salvation Army is a thrift store in South Holland, IL at 800 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-south-holland/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store south holland il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

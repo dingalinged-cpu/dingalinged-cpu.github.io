@@ -13,7 +13,7 @@ DJC Law is a lawyer in Chicago, IL at 140 South Dearborn Street #1610, Chicago, 
 - Website: https://teamjustice.com/chicago-personal-injury-lawyers/
 - Email: info@teamjustice.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 28% of lawyers in Chicago, #24 of 69 lawyers in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

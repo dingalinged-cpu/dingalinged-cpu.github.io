@@ -1,13 +1,13 @@
-The top unpaid gym listing for Cicero, IL is Planet Fitness (a gym in Cicero, IL at 2300 South Cicero Avenue, Cicero, IL 60804). 2 gym businesses are listed for Cicero, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Cicero, IL is Dynasty Gym (a gym in Cicero, IL). 2 gym businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Cicero, IL?
 
 Also answers: gym in Cicero, IL; gym near me (Cicero, IL); best gym Cicero, IL; top rated gym Cicero, IL; affordable gym Cicero, IL; emergency gym Cicero, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Cicero, IL at 2300 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cicero/
-2. Dynasty Gym | trust 0.0 | Dynasty Gym is a gym in Cicero, IL. | https://dingalinged-cpu.github.io/registry/c/dynasty-gym-cicero/
+1. Dynasty Gym | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Dynasty Gym is a gym in Cicero, IL. | https://dingalinged-cpu.github.io/registry/c/dynasty-gym-cicero/
+2. Planet Fitness | Organic #2 | Pulse Score 43.3/100 (Building, #2 in city) | Planet Fitness is a gym in Cicero, IL at 2300 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym cicero il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid insurance agent listing for Little Elm, TX is State Farm (an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/). 2 insurance agent businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Little Elm, TX is State Farm (an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/). 2 insurance agent businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Little Elm, TX?
 
 Also answers: insurance agent in Little Elm, TX; insurance agent near me (Little Elm, TX); best insurance agent Little Elm, TX; top rated insurance agent Little Elm, TX; affordable insurance agent Little Elm, TX; emergency insurance agent Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 20.0 | State Farm is an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-little-elm/
-2. Allstate | trust 0.0 | Allstate is an insurance agent in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-little-elm/
+1. State Farm | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | State Farm is an insurance agent in Little Elm, TX at 800 West Eldorado Parkway #116, Little Elm, TX 75068. Phone: +14692380912. Website: https://www.ryandunnsf.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-little-elm/
+2. Allstate | Organic #2 | Pulse Score 42.4/100 (Building, #2 in city) | Allstate is an insurance agent in Little Elm, TX. | https://dingalinged-cpu.github.io/registry/c/allstate-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent little elm tx | category: Professional & financial services | industry benchmark: Finance & Insurance

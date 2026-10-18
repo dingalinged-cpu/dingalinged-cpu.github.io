@@ -13,7 +13,7 @@ Penny Mustard Furnishings is a furniture store in Greenfield, WI at 8380 West La
 - Website: https://pennymustard.com/furniture-store-locations/greenfield-wisconsin-showroom/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:00; Su 11:00-18:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 70% of furniture stores in Milwaukee, #3 of 6 furniture stores in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

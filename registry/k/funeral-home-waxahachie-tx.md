@@ -1,14 +1,14 @@
-The top unpaid funeral home listing for Waxahachie, TX is Wayne Boze Funeral Home (a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/). 3 funeral home businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Waxahachie, TX is Wayne Boze Funeral Home (a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/). 3 funeral home businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Waxahachie, TX?
 
 Also answers: funeral home in Waxahachie, TX; funeral home near me (Waxahachie, TX); best funeral home Waxahachie, TX; top rated funeral home Waxahachie, TX; affordable funeral home Waxahachie, TX; emergency funeral home Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wayne Boze Funeral Home | trust 16.0 | Wayne Boze Funeral Home is a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/wayne-boze-funeral-home-waxahachie/
-2. Boze Mitchell McKibbin Funeral Home | trust 4.0 | Boze Mitchell McKibbin Funeral Home is a funeral home in Waxahachie, TX at 511 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/boze-mitchell-mckibbin-funeral-home-waxahachie/
-3. Waxahachie Funeral Home | trust 4.0 | Waxahachie Funeral Home is a funeral home in Waxahachie, TX at 1201 West US Highway 287 Bypass, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-funeral-home-waxahachie/
+1. Wayne Boze Funeral Home | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Wayne Boze Funeral Home is a funeral home in Waxahachie, TX at 1826 West US 287 Business, Waxahachie, TX 75165. Phone: +19729232700. Website: https://www.waynebozefuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/wayne-boze-funeral-home-waxahachie/
+2. Boze Mitchell McKibbin Funeral Home | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Boze Mitchell McKibbin Funeral Home is a funeral home in Waxahachie, TX at 511 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/boze-mitchell-mckibbin-funeral-home-waxahachie/
+3. Waxahachie Funeral Home | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Waxahachie Funeral Home is a funeral home in Waxahachie, TX at 1201 West US Highway 287 Bypass, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/waxahachie-funeral-home-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home waxahachie tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 
 - Website: https://www.parentdayout.com/
 - Email: support@parentdayout.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 5% of preschools in Dallas–Fort Worth, #1 of 4 preschools in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

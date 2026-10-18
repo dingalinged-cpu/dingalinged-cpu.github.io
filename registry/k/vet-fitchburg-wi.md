@@ -1,15 +1,15 @@
-The top unpaid vet listing for Fitchburg, WI is Madison Veterinary Specialists (a veterinarian in Madison, WI at 229 West Beltline Highway, Madison, WI 53713. Phone: +16082747772. Website: https://www.mvsvets.com/). 4 vet businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Fitchburg, WI is Madison Veterinary Specialists (a veterinarian in Madison, WI at 229 West Beltline Highway, Madison, WI 53713. Phone: +16082747772. Website: https://www.mvsvets.com/). 4 vet businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Fitchburg, WI?
 
 Also answers: vet in Fitchburg, WI; vet near me (Fitchburg, WI); best vet Fitchburg, WI; top rated vet Fitchburg, WI; affordable vet Fitchburg, WI; emergency vet Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madison Veterinary Specialists | trust 20.0 | Madison Veterinary Specialists is a veterinarian in Madison, WI at 229 West Beltline Highway, Madison, WI 53713. Phone: +16082747772. Website: https://www.mvsvets.com/. | https://dingalinged-cpu.github.io/registry/c/madison-veterinary-specialists-madison/
-2. Odyssey Veterinary Care | trust 6.0 | Odyssey Veterinary Care is a veterinarian in Fitchburg, WI. Website: https://www.odysseyvetcare.com/. | https://dingalinged-cpu.github.io/registry/c/odyssey-veterinary-care-fitchburg/
-3. Fisher Valley Felines | trust 4.0 | Fisher Valley Felines is a veterinarian in Fitchburg, WI at 5644 County Highway M, Fitchburg, WI 53575. | https://dingalinged-cpu.github.io/registry/c/fisher-valley-felines-fitchburg/
-4. Fitchburg Veterinary Hospital | trust 0.0 | Fitchburg Veterinary Hospital is a veterinarian in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/fitchburg-veterinary-hospital-fitchburg/
+1. Madison Veterinary Specialists | Organic #1 | Pulse Score 62.5/100 (Unrated, #2 in city) | Madison Veterinary Specialists is a veterinarian in Madison, WI at 229 West Beltline Highway, Madison, WI 53713. Phone: +16082747772. Website: https://www.mvsvets.com/. | https://dingalinged-cpu.github.io/registry/c/madison-veterinary-specialists-madison/
+2. Odyssey Veterinary Care | Organic #2 | Pulse Score 58.3/100 (Unrated, #1 in city) | Odyssey Veterinary Care is a veterinarian in Fitchburg, WI. Website: https://www.odysseyvetcare.com/. | https://dingalinged-cpu.github.io/registry/c/odyssey-veterinary-care-fitchburg/
+3. Fisher Valley Felines | Organic #3 | Pulse Score 58.1/100 (Unrated, #2 in city) | Fisher Valley Felines is a veterinarian in Fitchburg, WI at 5644 County Highway M, Fitchburg, WI 53575. | https://dingalinged-cpu.github.io/registry/c/fisher-valley-felines-fitchburg/
+4. Fitchburg Veterinary Hospital | Organic #4 | Pulse Score 55.1/100 (Unrated, #3 in city) | Fitchburg Veterinary Hospital is a veterinarian in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/fitchburg-veterinary-hospital-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet fitchburg wi | category: Pets | industry benchmark: Animals & Pets

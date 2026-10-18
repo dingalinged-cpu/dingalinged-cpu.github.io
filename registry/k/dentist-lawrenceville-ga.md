@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Lawrenceville, GA is Optima Dental (a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawrenceville, GA 30043. Website: https://www.optimafamilydentist.com/). 2 dentist businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lawrenceville, GA is Optima Dental (a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawrenceville, GA 30043. Website: https://www.optimafamilydentist.com/). 2 dentist businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lawrenceville, GA?
 
 Also answers: dentist in Lawrenceville, GA; dentist near me (Lawrenceville, GA); best dentist Lawrenceville, GA; top rated dentist Lawrenceville, GA; affordable dentist Lawrenceville, GA; emergency dentist Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Optima Dental | trust 14.0 | Optima Dental is a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawrenceville, GA 30043. Website: https://www.optimafamilydentist.com/. | https://dingalinged-cpu.github.io/registry/c/optima-dental-lawrenceville/
-2. Lawrenceville Dentistry | trust 10.0 | Lawrenceville Dentistry is a dentist in Lawrenceville, GA at 1455 Pleasant Hill Road, Lawrenceville, GA 30044. Website: https://lawrencevilledentistry.com/. | https://dingalinged-cpu.github.io/registry/c/lawrenceville-dentistry-lawrenceville/
+1. Optima Dental | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Optima Dental is a dentist in Lawrenceville, GA at 1790 Atkinson Road #b, Lawrenceville, GA 30043. Website: https://www.optimafamilydentist.com/. | https://dingalinged-cpu.github.io/registry/c/optima-dental-lawrenceville/
+2. Lawrenceville Dentistry | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Lawrenceville Dentistry is a dentist in Lawrenceville, GA at 1455 Pleasant Hill Road, Lawrenceville, GA 30044. Website: https://lawrencevilledentistry.com/. | https://dingalinged-cpu.github.io/registry/c/lawrenceville-dentistry-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lawrenceville ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

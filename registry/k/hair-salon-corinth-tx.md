@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Corinth, TX is The Bearded Barber Co (a hair salon in Corinth, TX at 3901 Swisher Road, Corinth, TX 76210. Phone: +19404982337. Website: https://www.thebeardedbarberco.com/). 3 hair salon businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Corinth, TX is The Bearded Barber Co (a hair salon in Corinth, TX at 3901 Swisher Road, Corinth, TX 76210. Phone: +19404982337. Website: https://www.thebeardedbarberco.com/). 3 hair salon businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Corinth, TX?
 
 Also answers: hair salon in Corinth, TX; hair salon near me (Corinth, TX); best hair salon Corinth, TX; top rated hair salon Corinth, TX; affordable hair salon Corinth, TX; emergency hair salon Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Bearded Barber Co | trust 20.0 | The Bearded Barber Co is a hair salon in Corinth, TX at 3901 Swisher Road, Corinth, TX 76210. Phone: +19404982337. Website: https://www.thebeardedbarberco.com/. | https://dingalinged-cpu.github.io/registry/c/the-bearded-barber-co-corinth/
-2. Great Clips | trust 4.0 | Great Clips is a hair salon in Corinth, TX at 4451 Swisher Road #Suite 115, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/great-clips-corinth/
-3. Great Cuts | trust 4.0 | Great Cuts is a hair salon in Corinth, TX at 7650 South Interstate 35E #Suite 116, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/great-cuts-corinth/
+1. The Bearded Barber Co | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | The Bearded Barber Co is a hair salon in Corinth, TX at 3901 Swisher Road, Corinth, TX 76210. Phone: +19404982337. Website: https://www.thebeardedbarberco.com/. | https://dingalinged-cpu.github.io/registry/c/the-bearded-barber-co-corinth/
+2. Great Cuts | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Great Cuts is a hair salon in Corinth, TX at 7650 South Interstate 35E #Suite 116, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/great-cuts-corinth/
+3. Great Clips | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Great Clips is a hair salon in Corinth, TX at 4451 Swisher Road #Suite 115, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/great-clips-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon corinth tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

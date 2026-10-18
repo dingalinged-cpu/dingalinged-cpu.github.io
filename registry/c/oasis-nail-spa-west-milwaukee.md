@@ -13,7 +13,7 @@ Oasis Nail Spa is a nail salon in West Milwaukee, WI at 1631 Miller Park Way, We
 - Website: https://mkeoasisnailspa.com/
 - Email: myanhtr93@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00, Sa 09:00-18:00, Su 11:00-16:00
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 8% of nail salons in Milwaukee, #1 of 1 nail salons in West Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

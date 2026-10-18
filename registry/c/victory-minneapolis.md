@@ -13,7 +13,7 @@ Victory is an accountant in Minneapolis, MN at 2839 Lyndale Avenue South, Minnea
 - Website: https://www.victorybusinesssolutions.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 42% of accountants in Minneapolis–St. Paul, #3 of 6 accountants in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Star Nails is a nail salon in Plano, TX at 4801 West Park Boulevard #429, Plano,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.4/100 — Unrated (not enough evidence yet) — top 96% of nail salons in Dallas–Fort Worth, #16 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.5, Trust 49.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

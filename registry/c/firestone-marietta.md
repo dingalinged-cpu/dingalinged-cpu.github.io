@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Marietta, GA at 2075 Roswell Road, Marietta,
 - Website: https://local.firestonecompleteautocare.com/georgia/marietta/2075-roswell-rd/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 65% of auto repair shops in Atlanta, #56 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 64.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

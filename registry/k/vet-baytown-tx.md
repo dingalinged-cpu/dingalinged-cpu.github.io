@@ -1,12 +1,12 @@
-The top unpaid vet listing for Baytown, TX is Baytown Animal Hospital (a veterinarian in Baytown, TX). 1 vet businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Baytown, TX is Baytown Animal Hospital (a veterinarian in Baytown, TX). 1 vet businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Baytown, TX?
 
 Also answers: vet in Baytown, TX; vet near me (Baytown, TX); best vet Baytown, TX; top rated vet Baytown, TX; affordable vet Baytown, TX; emergency vet Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baytown Animal Hospital | trust 0.0 | Baytown Animal Hospital is a veterinarian in Baytown, TX. | https://dingalinged-cpu.github.io/registry/c/baytown-animal-hospital-baytown/
+1. Baytown Animal Hospital | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Baytown Animal Hospital is a veterinarian in Baytown, TX. | https://dingalinged-cpu.github.io/registry/c/baytown-animal-hospital-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet baytown tx | category: Pets | industry benchmark: Animals & Pets

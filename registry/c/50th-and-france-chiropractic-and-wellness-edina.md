@@ -13,7 +13,7 @@
 - Website: https://edinachiropractic.com/
 - Email: 50thandfrancechiropractic@gmail.com
 - Opening hours (OSM syntax): Mo 08:00-17:00; Tu 09:00-14:00; We 08:00-17:30; Th 09:00-12:00; Fr 08:00-15:30
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 4% of chiropractors in Minneapolis–St. Paul, #1 of 2 chiropractors in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

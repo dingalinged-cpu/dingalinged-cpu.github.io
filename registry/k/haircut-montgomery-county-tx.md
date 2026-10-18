@@ -1,20 +1,20 @@
-The top unpaid haircut listing for Montgomery County, TX is Great Clips (a hair salon in Montgomery County, TX at 20306 Eastex Freeway #B, Montgomery County, TX). 9 haircut businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Montgomery County, TX is Galindo's (a hair salon in Montgomery County, TX). 9 haircut businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Montgomery County, TX?
 
 Also answers: haircut in Montgomery County, TX; haircut near me (Montgomery County, TX); best haircut Montgomery County, TX; top rated haircut Montgomery County, TX; affordable haircut Montgomery County, TX; emergency haircut Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 3.0 | Great Clips is a hair salon in Montgomery County, TX at 20306 Eastex Freeway #B, Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county-n10634748127/
-2. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-montgomery-county/
-3. Galindo's | trust 0.0 | Galindo's is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/galindos-montgomery-county/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county/
-5. Mastercuts | trust 0.0 | Mastercuts is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-montgomery-county/
-6. Parks Barber Shop | trust 0.0 | Parks Barber Shop is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/parks-barber-shop-montgomery-county/
-7. Rick's Barber Shop | trust 0.0 | Rick's Barber Shop is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/ricks-barber-shop-montgomery-county/
-8. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-montgomery-county/
-9. Supercuts | trust 0.0 | Supercuts is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-montgomery-county/
+1. Galindo's | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Galindo's is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/galindos-montgomery-county/
+2. Parks Barber Shop | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Parks Barber Shop is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/parks-barber-shop-montgomery-county/
+3. Rick's Barber Shop | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Rick's Barber Shop is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/ricks-barber-shop-montgomery-county/
+4. Great Clips | Organic #4 | Pulse Score 46/100 (Building, #4 in city) | Great Clips is a hair salon in Montgomery County, TX at 20306 Eastex Freeway #B, Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county-n10634748127/
+5. Fantastic Sams | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Fantastic Sams is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-montgomery-county/
+6. Mastercuts | Organic #6 | Pulse Score 43.2/100 (Building, #6 in city) | Mastercuts is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-montgomery-county/
+7. Supercuts | Organic #7 | Pulse Score 43.2/100 (Building, #7 in city) | Supercuts is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-montgomery-county/
+8. Great Clips | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Great Clips is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-montgomery-county/
+9. Sport Clips | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Sport Clips is a hair salon in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut montgomery county tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

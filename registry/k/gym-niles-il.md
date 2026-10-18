@@ -1,16 +1,16 @@
-The top unpaid gym listing for Niles, IL is Anytime Fitness (a gym in Niles, IL at 7900 North Milwaukee Avenue, Niles, IL 60714. Phone: +18474303132. Website: https://www.anytimefitness.com/gyms/5005/niles-il-60714/). 5 gym businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Niles, IL is LevelUp Health & Fitness (a gym in Niles, IL at 7025-7029 North Milwaukee Avenue, Niles, IL 60714). 5 gym businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Niles, IL?
 
 Also answers: gym in Niles, IL; gym near me (Niles, IL); best gym Niles, IL; top rated gym Niles, IL; affordable gym Niles, IL; emergency gym Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Niles, IL at 7900 North Milwaukee Avenue, Niles, IL 60714. Phone: +18474303132. Website: https://www.anytimefitness.com/gyms/5005/niles-il-60714/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-niles/
-2. F45 Training | trust 4.0 | F45 Training is a gym in Niles, IL at 5663 West Touhy Avenue #148, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/f45-training-niles/
-3. LA Fitness | trust 4.0 | LA Fitness is a gym in Niles, IL at 5701 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/la-fitness-niles/
-4. LA Fitness | trust 4.0 | LA Fitness is a gym in Niles, IL at 9210 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/la-fitness-niles-w33195216/
-5. LevelUp Health & Fitness | trust 4.0 | LevelUp Health & Fitness is a gym in Niles, IL at 7025-7029 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/levelup-health-and-fitness-niles/
+1. LevelUp Health & Fitness | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | LevelUp Health & Fitness is a gym in Niles, IL at 7025-7029 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/levelup-health-and-fitness-niles/
+2. Anytime Fitness | Organic #2 | Pulse Score 51.1/100 (Fair, #2 in city) | Anytime Fitness is a gym in Niles, IL at 7900 North Milwaukee Avenue, Niles, IL 60714. Phone: +18474303132. Website: https://www.anytimefitness.com/gyms/5005/niles-il-60714/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-niles/
+3. F45 Training | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | F45 Training is a gym in Niles, IL at 5663 West Touhy Avenue #148, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/f45-training-niles/
+4. LA Fitness | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | LA Fitness is a gym in Niles, IL at 9210 North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/la-fitness-niles-w33195216/
+5. LA Fitness | Organic #5 | Pulse Score 43.3/100 (Building, #5 in city) | LA Fitness is a gym in Niles, IL at 5701 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/la-fitness-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym niles il | category: Fitness | industry benchmark: Health & Fitness

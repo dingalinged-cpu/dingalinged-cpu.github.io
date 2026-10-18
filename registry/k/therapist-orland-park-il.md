@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Orland Park, IL is Planned Parenthood (a therapy practice in Orland Park, IL at 14470 South La Grange Road, Orland Park, IL 60462. Phone: +17083492227. Website: https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430). 2 therapist businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Orland Park, IL is Planned Parenthood (a therapy practice in Orland Park, IL at 14470 South La Grange Road, Orland Park, IL 60462. Phone: +17083492227. Website: https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430). 2 therapist businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Orland Park, IL?
 
 Also answers: therapist in Orland Park, IL; therapist near me (Orland Park, IL); best therapist Orland Park, IL; top rated therapist Orland Park, IL; affordable therapist Orland Park, IL; emergency therapist Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planned Parenthood | trust 20.0 | Planned Parenthood is a therapy practice in Orland Park, IL at 14470 South La Grange Road, Orland Park, IL 60462. Phone: +17083492227. Website: https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-orland-park/
-2. Vet Center | trust 4.0 | Vet Center is a therapy practice in Orland Park, IL at 8651 West 159th Street #1, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/vet-center-orland-park/
+1. Planned Parenthood | Organic #1 | Pulse Score 48.5/100 (Unrated, #1 in city) | Planned Parenthood is a therapy practice in Orland Park, IL at 14470 South La Grange Road, Orland Park, IL 60462. Phone: +17083492227. Website: https://www.plannedparenthood.org/health-center/illinois/orland-park/60462/orland-park-health-center-3102-90430. | https://dingalinged-cpu.github.io/registry/c/planned-parenthood-orland-park/
+2. Vet Center | Organic #2 | Pulse Score 43.4/100 (Building, #2 in city) | Vet Center is a therapy practice in Orland Park, IL at 8651 West 159th Street #1, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/vet-center-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist orland park il | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

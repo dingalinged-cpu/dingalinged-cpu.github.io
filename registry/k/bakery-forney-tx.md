@@ -1,13 +1,13 @@
-The top unpaid bakery listing for Forney, TX is Latham Bakery (a bakery in Forney, TX at 106 East Main Street, Forney, TX 75126. Phone: +14697204529. Website: https://lathambakery.net/). 2 bakery businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Forney, TX is Latham Bakery (a bakery in Forney, TX at 106 East Main Street, Forney, TX 75126. Phone: +14697204529. Website: https://lathambakery.net/). 2 bakery businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Forney, TX?
 
 Also answers: bakery in Forney, TX; bakery near me (Forney, TX); best bakery Forney, TX; top rated bakery Forney, TX; affordable bakery Forney, TX; emergency bakery Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Latham Bakery | trust 20.0 | Latham Bakery is a bakery in Forney, TX at 106 East Main Street, Forney, TX 75126. Phone: +14697204529. Website: https://lathambakery.net/. | https://dingalinged-cpu.github.io/registry/c/latham-bakery-forney/
-2. Crumbzz | trust 0.0 | Crumbzz is a bakery in Forney, TX. | https://dingalinged-cpu.github.io/registry/c/crumbzz-forney/
+1. Latham Bakery | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Latham Bakery is a bakery in Forney, TX at 106 East Main Street, Forney, TX 75126. Phone: +14697204529. Website: https://lathambakery.net/. | https://dingalinged-cpu.github.io/registry/c/latham-bakery-forney/
+2. Crumbzz | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Crumbzz is a bakery in Forney, TX. | https://dingalinged-cpu.github.io/registry/c/crumbzz-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery forney tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,14 +1,14 @@
-The top unpaid gym listing for Elmhurst, IL is LA Fitness (a gym in Elmhurst, IL at 633 West North Avenue, Elmhurst, IL 60126. Phone: +16305301400). 3 gym businesses are listed for Elmhurst, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Elmhurst, IL is Fitness Formula Clubs Elmhurst (a gym in Elmhurst, IL at 140 North Addison Avenue, Elmhurst, IL 60126). 3 gym businesses are listed for Elmhurst, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Elmhurst, IL?
 
 Also answers: gym in Elmhurst, IL; gym near me (Elmhurst, IL); best gym Elmhurst, IL; top rated gym Elmhurst, IL; affordable gym Elmhurst, IL; emergency gym Elmhurst, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 10.0 | LA Fitness is a gym in Elmhurst, IL at 633 West North Avenue, Elmhurst, IL 60126. Phone: +16305301400. | https://dingalinged-cpu.github.io/registry/c/la-fitness-elmhurst/
-2. Fitness Formula Clubs Elmhurst | trust 4.0 | Fitness Formula Clubs Elmhurst is a gym in Elmhurst, IL at 140 North Addison Avenue, Elmhurst, IL 60126. | https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-elmhurst-elmhurst/
-3. RA Faganel Hall | trust 0.0 | RA Faganel Hall is a gym in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/ra-faganel-hall-elmhurst/
+1. Fitness Formula Clubs Elmhurst | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Fitness Formula Clubs Elmhurst is a gym in Elmhurst, IL at 140 North Addison Avenue, Elmhurst, IL 60126. | https://dingalinged-cpu.github.io/registry/c/fitness-formula-clubs-elmhurst-elmhurst/
+2. RA Faganel Hall | Organic #2 | Pulse Score 53.9/100 (Unrated, #2 in city) | RA Faganel Hall is a gym in Elmhurst, IL. | https://dingalinged-cpu.github.io/registry/c/ra-faganel-hall-elmhurst/
+3. LA Fitness | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | LA Fitness is a gym in Elmhurst, IL at 633 West North Avenue, Elmhurst, IL 60126. Phone: +16305301400. | https://dingalinged-cpu.github.io/registry/c/la-fitness-elmhurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym elmhurst il | category: Fitness | industry benchmark: Health & Fitness

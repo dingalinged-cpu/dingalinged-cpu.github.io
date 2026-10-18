@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Deforest, WI is A Storage (a self-storage facility in DeForest, WI at 4202 Reardon Road, DeForest, WI 53532. Phone: +16088461002. Website: https://www.madisonareaselfstorage.com/). 2 storage units businesses are listed for Deforest, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Deforest, WI is A Storage (a self-storage facility in DeForest, WI at 4202 Reardon Road, DeForest, WI 53532. Phone: +16088461002. Website: https://www.madisonareaselfstorage.com/). 2 storage units businesses are listed for Deforest, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Deforest, WI?
 
 Also answers: storage units in Deforest, WI; storage units near me (Deforest, WI); best storage units Deforest, WI; top rated storage units Deforest, WI; affordable storage units Deforest, WI; emergency storage units Deforest, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Storage | trust 20.0 | A Storage is a self-storage facility in DeForest, WI at 4202 Reardon Road, DeForest, WI 53532. Phone: +16088461002. Website: https://www.madisonareaselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/a-storage-deforest/
-2. Lakestone Storage | trust 16.0 | Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Road, DeForest, WI 53532. Phone: +16087655253. Website: https://www.lakestonestorage.com/. | https://dingalinged-cpu.github.io/registry/c/lakestone-storage-deforest/
+1. A Storage | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | A Storage is a self-storage facility in DeForest, WI at 4202 Reardon Road, DeForest, WI 53532. Phone: +16088461002. Website: https://www.madisonareaselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/a-storage-deforest/
+2. Lakestone Storage | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Lakestone Storage is a self-storage facility in DeForest, WI at 5954 Daentil Road, DeForest, WI 53532. Phone: +16087655253. Website: https://www.lakestonestorage.com/. | https://dingalinged-cpu.github.io/registry/c/lakestone-storage-deforest/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units deforest wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

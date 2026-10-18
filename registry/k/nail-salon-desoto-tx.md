@@ -1,14 +1,14 @@
-The top unpaid nail salon listing for Desoto, TX is Grand Nail Bar (a nail salon in DeSoto, TX). 3 nail salon businesses are listed for Desoto, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Desoto, TX is Grand Nail Bar (a nail salon in DeSoto, TX). 3 nail salon businesses are listed for Desoto, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Desoto, TX?
 
 Also answers: nail salon in Desoto, TX; nail salon near me (Desoto, TX); best nail salon Desoto, TX; top rated nail salon Desoto, TX; affordable nail salon Desoto, TX; emergency nail salon Desoto, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grand Nail Bar | trust 0.0 | Grand Nail Bar is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/grand-nail-bar-desoto/
-2. Hot Nails & Spa | trust 0.0 | Hot Nails & Spa is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/hot-nails-and-spa-desoto/
-3. Top Nails | trust 0.0 | Top Nails is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/top-nails-desoto/
+1. Grand Nail Bar | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Grand Nail Bar is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/grand-nail-bar-desoto/
+2. Hot Nails & Spa | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Hot Nails & Spa is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/hot-nails-and-spa-desoto/
+3. Top Nails | Organic #3 | Pulse Score 41.9/100 (Unrated, #3 in city) | Top Nails is a nail salon in DeSoto, TX. | https://dingalinged-cpu.github.io/registry/c/top-nails-desoto/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon desoto tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

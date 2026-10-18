@@ -1,18 +1,18 @@
-The top unpaid mechanic listing for Montgomery County, TX is Executive Automotive Service & Transmission (an auto repair shop in Montgomery County, TX. Phone: +12816898149). 7 mechanic businesses are listed for Montgomery County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Montgomery County, TX is Tullos Collision (an auto repair shop in Montgomery County, TX. Phone: +12813993903). 7 mechanic businesses are listed for Montgomery County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Montgomery County, TX?
 
 Also answers: mechanic in Montgomery County, TX; mechanic near me (Montgomery County, TX); best mechanic Montgomery County, TX; top rated mechanic Montgomery County, TX; affordable mechanic Montgomery County, TX; emergency mechanic Montgomery County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Executive Automotive Service & Transmission | trust 6.0 | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/
-2. Tullos Collision | trust 6.0 | Tullos Collision is an auto repair shop in Montgomery County, TX. Phone: +12813993903. | https://dingalinged-cpu.github.io/registry/c/tullos-collision-montgomery-county/
-3. Valvoline | trust 6.0 | Valvoline is an auto repair shop in Montgomery County, TX. Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-montgomery-county/
-4. A+ Transmission Specialists | trust 0.0 | A+ Transmission Specialists is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/a-transmission-specialists-montgomery-county/
-5. Offset Kustoms | trust 0.0 | Offset Kustoms is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/offset-kustoms-montgomery-county/
-6. Take 5 oil change | trust 0.0 | Take 5 oil change is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-montgomery-county/
-7. Texas Truck Works | trust 0.0 | Texas Truck Works is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-truck-works-montgomery-county/
+1. Tullos Collision | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Tullos Collision is an auto repair shop in Montgomery County, TX. Phone: +12813993903. | https://dingalinged-cpu.github.io/registry/c/tullos-collision-montgomery-county/
+2. Executive Automotive Service & Transmission | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Executive Automotive Service & Transmission is an auto repair shop in Montgomery County, TX. Phone: +12816898149. | https://dingalinged-cpu.github.io/registry/c/executive-automotive-service-and-transmission-montgomery-county/
+3. A+ Transmission Specialists | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | A+ Transmission Specialists is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/a-transmission-specialists-montgomery-county/
+4. Offset Kustoms | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Offset Kustoms is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/offset-kustoms-montgomery-county/
+5. Texas Truck Works | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Texas Truck Works is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/texas-truck-works-montgomery-county/
+6. Valvoline | Organic #6 | Pulse Score 45.6/100 (Building, #6 in city) | Valvoline is an auto repair shop in Montgomery County, TX. Website: https://store.vioc.com/tx/magnolia/oil-change-070069.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-montgomery-county/
+7. Take 5 oil change | Organic #7 | Pulse Score 41.8/100 (Unrated, #7 in city) | Take 5 oil change is an auto repair shop in Montgomery County, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-montgomery-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic montgomery county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

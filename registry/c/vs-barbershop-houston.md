@@ -13,7 +13,7 @@ V's Barbershop is a hair salon in Houston, TX at 1560 Eldridge Parkway #174, Hou
 - Website: https://vbarbershop.com/locations/houston-energy-corridor/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Unrated (not enough evidence yet) — top 68% of hair salons in Houston, #142 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

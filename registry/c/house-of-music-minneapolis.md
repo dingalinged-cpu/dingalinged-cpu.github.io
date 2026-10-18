@@ -13,7 +13,7 @@ House of Music is a music school in Minneapolis, MN at 4948 Washburn Avenue Sout
 - Website: https://www.lhhouseofmusic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa 08:00-14:00
-- Registry Score: 58.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 30% of music schools in Minneapolis–St. Paul, #3 of 5 music schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

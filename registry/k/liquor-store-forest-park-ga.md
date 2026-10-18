@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Forest Park, GA is Dixie Package (a liquor store in Forest Park, GA). 4 liquor store businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Forest Park, GA is Dixie Package (a liquor store in Forest Park, GA). 4 liquor store businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Forest Park, GA?
 
 Also answers: liquor store in Forest Park, GA; liquor store near me (Forest Park, GA); best liquor store Forest Park, GA; top rated liquor store Forest Park, GA; affordable liquor store Forest Park, GA; emergency liquor store Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dixie Package | trust 0.0 | Dixie Package is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dixie-package-forest-park/
-2. Liberty Package | trust 0.0 | Liberty Package is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/liberty-package-forest-park/
-3. R&R's Liquor Store | trust 0.0 | R&R's Liquor Store is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/r-and-rs-liquor-store-forest-park/
-4. Shopwise Package Store | trust 0.0 | Shopwise Package Store is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/shopwise-package-store-forest-park/
+1. Dixie Package | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Dixie Package is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dixie-package-forest-park/
+2. Liberty Package | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Liberty Package is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/liberty-package-forest-park/
+3. R&R's Liquor Store | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | R&R's Liquor Store is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/r-and-rs-liquor-store-forest-park/
+4. Shopwise Package Store | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Shopwise Package Store is a liquor store in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/shopwise-package-store-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store forest park ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Fit Body Boot Camp is a gym in Richardson, TX at 1310 West Campbell Road #125, R
 - Website: https://fitbodybootcamp.com/locations/richardson-tx/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Unrated (not enough evidence yet) — top 69% of gyms in Dallas–Fort Worth, #9 of 12 gyms in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.9, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

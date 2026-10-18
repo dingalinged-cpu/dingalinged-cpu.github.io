@@ -1,17 +1,17 @@
-The top unpaid real estate agent listing for Roswell, GA is Weichert Realtors (a real estate agency in Roswell, GA. Phone: +16785850122). 6 real estate agent businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Roswell, GA is Weichert Realtors (a real estate agency in Roswell, GA. Phone: +16785850122). 6 real estate agent businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Roswell, GA?
 
 Also answers: real estate agent in Roswell, GA; real estate agent near me (Roswell, GA); best real estate agent Roswell, GA; top rated real estate agent Roswell, GA; affordable real estate agent Roswell, GA; emergency real estate agent Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Weichert Realtors | trust 6.0 | Weichert Realtors is a real estate agency in Roswell, GA. Phone: +16785850122. | https://dingalinged-cpu.github.io/registry/c/weichert-realtors-roswell/
-2. Progress Residential | trust 4.0 | Progress Residential is a real estate agency in Alpharetta, GA at 118 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/progress-residential-alpharetta/
-3. Gronholm Holdings, LLP | trust 0.0 | Gronholm Holdings, LLP is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/gronholm-holdings-llp-roswell/
-4. Metro Brokers | trust 0.0 | Metro Brokers is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/metro-brokers-roswell/
-5. Mexiven Real Estate | trust 0.0 | Mexiven Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/mexiven-real-estate-roswell/
-6. Robinson Real Estate | trust 0.0 | Robinson Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/robinson-real-estate-roswell/
+1. Weichert Realtors | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Weichert Realtors is a real estate agency in Roswell, GA. Phone: +16785850122. | https://dingalinged-cpu.github.io/registry/c/weichert-realtors-roswell/
+2. Progress Residential | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | Progress Residential is a real estate agency in Alpharetta, GA at 118 Holcomb Bridge Road, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/progress-residential-alpharetta/
+3. Gronholm Holdings, LLP | Organic #3 | Pulse Score 54.3/100 (Unrated, #2 in city) | Gronholm Holdings, LLP is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/gronholm-holdings-llp-roswell/
+4. Metro Brokers | Organic #4 | Pulse Score 54.3/100 (Unrated, #3 in city) | Metro Brokers is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/metro-brokers-roswell/
+5. Mexiven Real Estate | Organic #5 | Pulse Score 54.3/100 (Unrated, #4 in city) | Mexiven Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/mexiven-real-estate-roswell/
+6. Robinson Real Estate | Organic #6 | Pulse Score 54.3/100 (Unrated, #5 in city) | Robinson Real Estate is a real estate agency in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/robinson-real-estate-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent roswell ga | category: Professional & financial services | industry benchmark: Finance & Insurance

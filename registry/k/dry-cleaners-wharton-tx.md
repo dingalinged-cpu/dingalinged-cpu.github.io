@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Wharton, TX is Sunshine Dry Cleaners (a dry cleaner in Wharton, TX at 1107 North Alabama Road, Wharton, TX). 1 dry cleaners businesses are listed for Wharton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Wharton, TX is Sunshine Dry Cleaners (a dry cleaner in Wharton, TX at 1107 North Alabama Road, Wharton, TX). 1 dry cleaners businesses are listed for Wharton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Wharton, TX?
 
 Also answers: dry cleaners in Wharton, TX; dry cleaners near me (Wharton, TX); best dry cleaners Wharton, TX; top rated dry cleaners Wharton, TX; affordable dry cleaners Wharton, TX; emergency dry cleaners Wharton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sunshine Dry Cleaners | trust 3.0 | Sunshine Dry Cleaners is a dry cleaner in Wharton, TX at 1107 North Alabama Road, Wharton, TX. | https://dingalinged-cpu.github.io/registry/c/sunshine-dry-cleaners-wharton/
+1. Sunshine Dry Cleaners | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Sunshine Dry Cleaners is a dry cleaner in Wharton, TX at 1107 North Alabama Road, Wharton, TX. | https://dingalinged-cpu.github.io/registry/c/sunshine-dry-cleaners-wharton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners wharton tx | category: Professional & financial services | industry benchmark: Finance & Insurance

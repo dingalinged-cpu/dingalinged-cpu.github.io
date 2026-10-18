@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Allen, TX is Total Wine (a liquor store in Allen, TX at 190 East Stacy Road, Allen, TX 75002. Website: https://www.totalwine.com/store-info/texas-allen/521). 3 liquor store businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Allen, TX is Empire Liquor (a liquor store in Allen, TX at 100 West McDermott Drive, Allen, TX. Website: https://empireliquorallen.wixsite.com/empire-liquor). 3 liquor store businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Allen, TX?
 
 Also answers: liquor store in Allen, TX; liquor store near me (Allen, TX); best liquor store Allen, TX; top rated liquor store Allen, TX; affordable liquor store Allen, TX; emergency liquor store Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 14.0 | Total Wine is a liquor store in Allen, TX at 190 East Stacy Road, Allen, TX 75002. Website: https://www.totalwine.com/store-info/texas-allen/521. | https://dingalinged-cpu.github.io/registry/c/total-wine-allen/
-2. Empire Liquor | trust 13.0 | Empire Liquor is a liquor store in Allen, TX at 100 West McDermott Drive, Allen, TX. Website: https://empireliquorallen.wixsite.com/empire-liquor. | https://dingalinged-cpu.github.io/registry/c/empire-liquor-allen/
-3. Metro Liquors | trust 0.0 | Metro Liquors is a liquor store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/metro-liquors-allen/
+1. Empire Liquor | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Empire Liquor is a liquor store in Allen, TX at 100 West McDermott Drive, Allen, TX. Website: https://empireliquorallen.wixsite.com/empire-liquor. | https://dingalinged-cpu.github.io/registry/c/empire-liquor-allen/
+2. Metro Liquors | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Metro Liquors is a liquor store in Allen, TX. | https://dingalinged-cpu.github.io/registry/c/metro-liquors-allen/
+3. Total Wine | Organic #3 | Pulse Score 49.7/100 (Building, #3 in city) | Total Wine is a liquor store in Allen, TX at 190 East Stacy Road, Allen, TX 75002. Website: https://www.totalwine.com/store-info/texas-allen/521. | https://dingalinged-cpu.github.io/registry/c/total-wine-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store allen tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

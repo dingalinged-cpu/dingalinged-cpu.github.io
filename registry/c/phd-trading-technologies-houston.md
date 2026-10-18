@@ -13,7 +13,7 @@ PHD Trading Technologies is an IT support company in Houston, TX at 23854 Highwa
 - Website: https://phdtt.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.5/100 — Unrated (not enough evidence yet) — top 100% of IT support companys in Houston, #14 of 14 IT support companys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.4, Trust 43.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

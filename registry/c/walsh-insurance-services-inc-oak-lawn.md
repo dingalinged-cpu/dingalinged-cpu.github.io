@@ -13,7 +13,7 @@ Walsh Insurance Services, Inc. is an insurance agent in Oak Lawn, IL at 10730 So
 - Website: https://www.walsh-ins.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.8/100 — Unrated (not enough evidence yet) — top 20% of insurance agents in Chicago, #1 of 2 insurance agents in Oak Lawn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

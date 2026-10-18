@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Tinley Park, IL is Kimberley Heights School (a preschool in Tinley Park, IL). 1 preschool businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Tinley Park, IL is Kimberley Heights School (a preschool in Tinley Park, IL). 1 preschool businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Tinley Park, IL?
 
 Also answers: preschool in Tinley Park, IL; preschool near me (Tinley Park, IL); best preschool Tinley Park, IL; top rated preschool Tinley Park, IL; affordable preschool Tinley Park, IL; emergency preschool Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kimberley Heights School | trust 0.0 | Kimberley Heights School is a preschool in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/kimberley-heights-school-tinley-park/
+1. Kimberley Heights School | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Kimberley Heights School is a preschool in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/kimberley-heights-school-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool tinley park il | category: Education & childcare | industry benchmark: Education & Instruction

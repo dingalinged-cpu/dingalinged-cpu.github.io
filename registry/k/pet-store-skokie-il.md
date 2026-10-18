@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Skokie, IL is Petco (a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html). 3 pet store businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Skokie, IL is Golly Gear (a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077). 3 pet store businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Skokie, IL?
 
 Also answers: pet store in Skokie, IL; pet store near me (Skokie, IL); best pet store Skokie, IL; top rated pet store Skokie, IL; affordable pet store Skokie, IL; emergency pet store Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html. | https://dingalinged-cpu.github.io/registry/c/petco-skokie/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. Phone: +18476744654. Website: https://www.petsmart.com/stores/us/il/skokie-store1139.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-skokie/
-3. Golly Gear | trust 4.0 | Golly Gear is a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/golly-gear-skokie/
+1. Golly Gear | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Golly Gear is a pet store in Skokie, IL at 7951 Babb Avenue, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/golly-gear-skokie/
+2. PetSmart | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | PetSmart is a pet store in Skokie, IL at 5485 West Touhy Avenue #17, Skokie, IL 60077. Phone: +18476744654. Website: https://www.petsmart.com/stores/us/il/skokie-store1139.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-skokie/
+3. Petco | Organic #3 | Pulse Score 47.3/100 (Building, #3 in city) | Petco is a pet store in Skokie, IL at 9645 Skokie Boulevard, Skokie, IL 60077. Phone: +18476742192. Website: https://stores.petco.com/il/skokie/pet-supplies-skokie-il-1940.html. | https://dingalinged-cpu.github.io/registry/c/petco-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store skokie il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

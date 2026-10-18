@@ -1,12 +1,12 @@
-The top unpaid boutique listing for Jacinto City, TX is Nena's Boutique (a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX). 1 boutique businesses are listed for Jacinto City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid boutique listing for Jacinto City, TX is Nena's Boutique (a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX). 1 boutique businesses are listed for Jacinto City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best boutique providers in Jacinto City, TX?
 
 Also answers: boutique in Jacinto City, TX; boutique near me (Jacinto City, TX); best boutique Jacinto City, TX; top rated boutique Jacinto City, TX; affordable boutique Jacinto City, TX; emergency boutique Jacinto City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nena's Boutique | trust 3.0 | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nenas-boutique-houston/
+1. Nena's Boutique | Organic #1 | Pulse Score 57.2/100 (Unrated, #3 in city) | Nena's Boutique is a boutique in Houston, TX at 1609 Holland Avenue #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nenas-boutique-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: boutique jacinto city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Marshall, WI is Little Family DayCare (a preschool in Marshall, WI). 1 preschool businesses are listed for Marshall, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Marshall, WI is Little Family DayCare (a preschool in Marshall, WI). 1 preschool businesses are listed for Marshall, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Marshall, WI?
 
 Also answers: preschool in Marshall, WI; preschool near me (Marshall, WI); best preschool Marshall, WI; top rated preschool Marshall, WI; affordable preschool Marshall, WI; emergency preschool Marshall, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Little Family DayCare | trust 0.0 | Little Family DayCare is a preschool in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/little-family-daycare-marshall/
+1. Little Family DayCare | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Little Family DayCare is a preschool in Marshall, WI. | https://dingalinged-cpu.github.io/registry/c/little-family-daycare-marshall/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool marshall wi | category: Education & childcare | industry benchmark: Education & Instruction

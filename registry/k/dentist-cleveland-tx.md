@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Cleveland, TX is A2Z Dental and Braces (a dentist in Cleveland, TX at 1214 East Houston Street, Cleveland, TX 77327. Website: https://www.a2zdentaltx.com/). 1 dentist businesses are listed for Cleveland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Cleveland, TX is A2Z Dental and Braces (a dentist in Cleveland, TX at 1214 East Houston Street, Cleveland, TX 77327. Website: https://www.a2zdentaltx.com/). 1 dentist businesses are listed for Cleveland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Cleveland, TX?
 
 Also answers: dentist in Cleveland, TX; dentist near me (Cleveland, TX); best dentist Cleveland, TX; top rated dentist Cleveland, TX; affordable dentist Cleveland, TX; emergency dentist Cleveland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A2Z Dental and Braces | trust 10.0 | A2Z Dental and Braces is a dentist in Cleveland, TX at 1214 East Houston Street, Cleveland, TX 77327. Website: https://www.a2zdentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/a2z-dental-and-braces-cleveland/
+1. A2Z Dental and Braces | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | A2Z Dental and Braces is a dentist in Cleveland, TX at 1214 East Houston Street, Cleveland, TX 77327. Website: https://www.a2zdentaltx.com/. | https://dingalinged-cpu.github.io/registry/c/a2z-dental-and-braces-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist cleveland tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

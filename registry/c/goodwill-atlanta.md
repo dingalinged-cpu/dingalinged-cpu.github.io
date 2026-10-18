@@ -13,7 +13,7 @@ Goodwill is a thrift store in Atlanta, GA at 3906 Roswell Road Northeast, Atlant
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.5/100 — Building — top 74% of thrift stores in Atlanta, #10 of 12 thrift stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.6, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

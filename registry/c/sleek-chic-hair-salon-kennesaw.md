@@ -13,7 +13,7 @@ Sleek Chic Hair Salon is a hair salon in Kennesaw, GA at 2690 Summers Street Nor
 - Website: https://www.sleekchichairsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 16% of hair salons in Atlanta, #6 of 28 hair salons in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

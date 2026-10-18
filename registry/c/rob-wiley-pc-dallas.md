@@ -13,7 +13,7 @@ Rob Wiley, PC is a lawyer in Dallas, TX at 2613 Thomas Avenue, Dallas, TX 75204.
 - Website: https://www.robwiley.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa off; Su off; PH off
-- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 24% of lawyers in Dallas–Fort Worth, #16 of 48 lawyers in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

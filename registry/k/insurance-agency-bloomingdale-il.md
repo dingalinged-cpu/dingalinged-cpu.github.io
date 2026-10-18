@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Bloomingdale, IL is State Farm (an insurance agent in Bloomingdale, IL). 1 insurance agency businesses are listed for Bloomingdale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Bloomingdale, IL is State Farm (an insurance agent in Bloomingdale, IL). 1 insurance agency businesses are listed for Bloomingdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Bloomingdale, IL?
 
 Also answers: insurance agency in Bloomingdale, IL; insurance agency near me (Bloomingdale, IL); best insurance agency Bloomingdale, IL; top rated insurance agency Bloomingdale, IL; affordable insurance agency Bloomingdale, IL; emergency insurance agency Bloomingdale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 0.0 | State Farm is an insurance agent in Bloomingdale, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-bloomingdale/
+1. State Farm | Organic #1 | Pulse Score 41.5/100 (Building, #1 in city) | State Farm is an insurance agent in Bloomingdale, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency bloomingdale il | category: insurance | industry benchmark: Finance & Insurance

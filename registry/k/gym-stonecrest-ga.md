@@ -1,12 +1,12 @@
-The top unpaid gym listing for Stonecrest, GA is LA Fitness (a gym in Stonecrest, GA). 1 gym businesses are listed for Stonecrest, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Stonecrest, GA is LA Fitness (a gym in Stonecrest, GA). 1 gym businesses are listed for Stonecrest, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Stonecrest, GA?
 
 Also answers: gym in Stonecrest, GA; gym near me (Stonecrest, GA); best gym Stonecrest, GA; top rated gym Stonecrest, GA; affordable gym Stonecrest, GA; emergency gym Stonecrest, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Fitness | trust 0.0 | LA Fitness is a gym in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-stonecrest/
+1. LA Fitness | Organic #1 | Pulse Score 42/100 (Building, #1 in city) | LA Fitness is a gym in Stonecrest, GA. | https://dingalinged-cpu.github.io/registry/c/la-fitness-stonecrest/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym stonecrest ga | category: Fitness | industry benchmark: Health & Fitness

@@ -1,14 +1,14 @@
-The top unpaid crossfit listing for Atlanta, GA is Crossfit Midtown (a CrossFit gym in Atlanta, GA at 1210 Spring Street Northwest, Atlanta, GA 30309. Phone: +16782233308. Website: https://crossfitmidtown.com/). 3 crossfit businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid crossfit listing for Atlanta, GA is Crossfit Midtown (a CrossFit gym in Atlanta, GA at 1210 Spring Street Northwest, Atlanta, GA 30309. Phone: +16782233308. Website: https://crossfitmidtown.com/). 3 crossfit businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best crossfit providers in Atlanta, GA?
 
 Also answers: crossfit in Atlanta, GA; crossfit near me (Atlanta, GA); best crossfit Atlanta, GA; top rated crossfit Atlanta, GA; affordable crossfit Atlanta, GA; emergency crossfit Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crossfit Midtown | trust 16.0 | Crossfit Midtown is a CrossFit gym in Atlanta, GA at 1210 Spring Street Northwest, Atlanta, GA 30309. Phone: +16782233308. Website: https://crossfitmidtown.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-midtown-atlanta/
-2. CrossFit Downtown Atlanta | trust 4.0 | CrossFit Downtown Atlanta is a CrossFit gym in Atlanta, GA at 215 Chester Avenue Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/crossfit-downtown-atlanta-atlanta/
-3. CrossFit Terminus | trust 4.0 | CrossFit Terminus is a CrossFit gym in Atlanta, GA at 1046 Memorial Drive Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/crossfit-terminus-atlanta/
+1. Crossfit Midtown | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Crossfit Midtown is a CrossFit gym in Atlanta, GA at 1210 Spring Street Northwest, Atlanta, GA 30309. Phone: +16782233308. Website: https://crossfitmidtown.com/. | https://dingalinged-cpu.github.io/registry/c/crossfit-midtown-atlanta/
+2. CrossFit Downtown Atlanta | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | CrossFit Downtown Atlanta is a CrossFit gym in Atlanta, GA at 215 Chester Avenue Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/crossfit-downtown-atlanta-atlanta/
+3. CrossFit Terminus | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | CrossFit Terminus is a CrossFit gym in Atlanta, GA at 1046 Memorial Drive Southeast, Atlanta, GA 30316. | https://dingalinged-cpu.github.io/registry/c/crossfit-terminus-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: crossfit atlanta ga | category: Fitness | industry benchmark: Health & Fitness

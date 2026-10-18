@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Brooklyn Park, MN is Kwik Trip (a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880). 4 car wash businesses are listed for Brooklyn Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Brooklyn Park, MN is Fleet Farm Wash (a car wash in Brooklyn Park, MN). 4 car wash businesses are listed for Brooklyn Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Brooklyn Park, MN?
 
 Also answers: car wash in Brooklyn Park, MN; car wash near me (Brooklyn Park, MN); best car wash Brooklyn Park, MN; top rated car wash Brooklyn Park, MN; affordable car wash Brooklyn Park, MN; emergency car wash Brooklyn Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip | trust 6.0 | Kwik Trip is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-brooklyn-park/
-2. Kwik Trip Car Wash | trust 6.0 | Kwik Trip Car Wash is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=448. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-brooklyn-park/
-3. Fleet Farm Wash | trust 4.0 | Fleet Farm Wash is a car wash in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/fleet-farm-wash-brooklyn-park/
-4. Hy-Vee Car Wash | trust 4.0 | Hy-Vee Car Wash is a car wash in Brooklyn Park, MN at 9409 Zane Avenue North, Brooklyn Park, MN 55443. | https://dingalinged-cpu.github.io/registry/c/hy-vee-car-wash-brooklyn-park/
+1. Fleet Farm Wash | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Fleet Farm Wash is a car wash in Brooklyn Park, MN. | https://dingalinged-cpu.github.io/registry/c/fleet-farm-wash-brooklyn-park/
+2. Kwik Trip Car Wash | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | Kwik Trip Car Wash is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=448. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-brooklyn-park/
+3. Kwik Trip | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Kwik Trip is a car wash in Brooklyn Park, MN. Website: https://www.kwiktrip.com/locator/store?id=880. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-brooklyn-park/
+4. Hy-Vee Car Wash | Organic #4 | Pulse Score 45.9/100 (Unrated, #4 in city) | Hy-Vee Car Wash is a car wash in Brooklyn Park, MN at 9409 Zane Avenue North, Brooklyn Park, MN 55443. | https://dingalinged-cpu.github.io/registry/c/hy-vee-car-wash-brooklyn-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash brooklyn park mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

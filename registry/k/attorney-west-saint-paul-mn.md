@@ -1,12 +1,12 @@
-The top unpaid attorney listing for West Saint Paul, MN is Solem Law Office (a lawyer in West Saint Paul, MN at 295 Marie Avenue East, West Saint Paul, MN 55118). 1 attorney businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for West Saint Paul, MN is Solem Law Office (a lawyer in West Saint Paul, MN at 295 Marie Avenue East, West Saint Paul, MN 55118). 1 attorney businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in West Saint Paul, MN?
 
 Also answers: attorney in West Saint Paul, MN; attorney near me (West Saint Paul, MN); best attorney West Saint Paul, MN; top rated attorney West Saint Paul, MN; affordable attorney West Saint Paul, MN; emergency attorney West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Solem Law Office | trust 4.0 | Solem Law Office is a lawyer in West Saint Paul, MN at 295 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/solem-law-office-west-saint-paul/
+1. Solem Law Office | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Solem Law Office is a lawyer in West Saint Paul, MN at 295 Marie Avenue East, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/solem-law-office-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney west saint paul mn | category: professional_legal | industry benchmark: Attorneys & Legal Services

@@ -13,7 +13,7 @@ Fantastic Sams is a hair salon in Saint Anthony, MN at 2922 Pentagon Drive, Sain
 - Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-anthony-mn-0
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 81% of hair salons in Minneapolis–St. Paul, #2 of 2 hair salons in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

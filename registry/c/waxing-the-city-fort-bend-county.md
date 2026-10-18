@@ -13,7 +13,7 @@ Waxing the City is a waxing salon in Fort Bend County, TX.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 40.9/100 — Building — top 100% of waxing salons in Houston, #2 of 2 waxing salons in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.9, Trust 38.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

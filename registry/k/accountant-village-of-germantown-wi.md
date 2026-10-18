@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Village Of Germantown, WI is James R. Schneider, CPA (an accountant in Village of Germantown, WI at N96W17695 Riversbend Circle West #100, Village of Germantown, WI 53022. Phone: +12622517832. Website: https://jschneidercpa.biz/). 1 accountant businesses are listed for Village Of Germantown, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Village Of Germantown, WI is James R. Schneider, CPA (an accountant in Village of Germantown, WI at N96W17695 Riversbend Circle West #100, Village of Germantown, WI 53022. Phone: +12622517832. Website: https://jschneidercpa.biz/). 1 accountant businesses are listed for Village Of Germantown, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Village Of Germantown, WI?
 
 Also answers: accountant in Village Of Germantown, WI; accountant near me (Village Of Germantown, WI); best accountant Village Of Germantown, WI; top rated accountant Village Of Germantown, WI; affordable accountant Village Of Germantown, WI; emergency accountant Village Of Germantown, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James R. Schneider, CPA | trust 16.0 | James R. Schneider, CPA is an accountant in Village of Germantown, WI at N96W17695 Riversbend Circle West #100, Village of Germantown, WI 53022. Phone: +12622517832. Website: https://jschneidercpa.biz/. | https://dingalinged-cpu.github.io/registry/c/james-r-schneider-cpa-village-of-germantown/
+1. James R. Schneider, CPA | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | James R. Schneider, CPA is an accountant in Village of Germantown, WI at N96W17695 Riversbend Circle West #100, Village of Germantown, WI 53022. Phone: +12622517832. Website: https://jschneidercpa.biz/. | https://dingalinged-cpu.github.io/registry/c/james-r-schneider-cpa-village-of-germantown/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant village of germantown wi | category: professional_accounting | industry benchmark: Business Services

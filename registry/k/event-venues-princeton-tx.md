@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Princeton, TX is Longhorn 2020 Event Center (an event venue in Princeton, TX at 3670 FM-982, Princeton, TX 75407. Phone: +14692880988. Website: https://longhorn2020eventcenter.com/). 2 event venues businesses are listed for Princeton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Princeton, TX is The Cinnamon Barn (an event venue in Princeton, TX at 3663 Farm-to-Market Road 3364, Princeton, TX 75407. Phone: +12143362196. Website: https://thecinnamonbarn.com/). 2 event venues businesses are listed for Princeton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Princeton, TX?
 
 Also answers: event venues in Princeton, TX; event venues near me (Princeton, TX); best event venues Princeton, TX; top rated event venues Princeton, TX; affordable event venues Princeton, TX; emergency event venues Princeton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Longhorn 2020 Event Center | trust 16.0 | Longhorn 2020 Event Center is an event venue in Princeton, TX at 3670 FM-982, Princeton, TX 75407. Phone: +14692880988. Website: https://longhorn2020eventcenter.com/. | https://dingalinged-cpu.github.io/registry/c/longhorn-2020-event-center-princeton/
-2. The Cinnamon Barn | trust 16.0 | The Cinnamon Barn is an event venue in Princeton, TX at 3663 Farm-to-Market Road 3364, Princeton, TX 75407. Phone: +12143362196. Website: https://thecinnamonbarn.com/. | https://dingalinged-cpu.github.io/registry/c/the-cinnamon-barn-princeton/
+1. The Cinnamon Barn | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | The Cinnamon Barn is an event venue in Princeton, TX at 3663 Farm-to-Market Road 3364, Princeton, TX 75407. Phone: +12143362196. Website: https://thecinnamonbarn.com/. | https://dingalinged-cpu.github.io/registry/c/the-cinnamon-barn-princeton/
+2. Longhorn 2020 Event Center | Organic #2 | Pulse Score 61.5/100 (Good, #2 in city) | Longhorn 2020 Event Center is an event venue in Princeton, TX at 3670 FM-982, Princeton, TX 75407. Phone: +14692880988. Website: https://longhorn2020eventcenter.com/. | https://dingalinged-cpu.github.io/registry/c/longhorn-2020-event-center-princeton/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues princeton tx | category: Events & weddings | industry benchmark: Personal Services

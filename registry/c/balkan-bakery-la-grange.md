@@ -13,7 +13,7 @@ Balkan Bakery is a bakery in La Grange, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.5/100 — Unrated (not enough evidence yet) — top 83% of bakerys in Chicago, #3 of 3 bakerys in La Grange (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.3, Trust 37.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

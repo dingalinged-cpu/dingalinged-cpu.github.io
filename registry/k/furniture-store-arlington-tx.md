@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Arlington, TX is Ethan Allen (a furniture store in Arlington, TX at 231 East Interstate 20, Arlington, TX 76018. Phone: +18175575666. Website: https://www.ethanallen.com/arlingtontx). 5 furniture store businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Arlington, TX is Chair King (a furniture store in Arlington, TX). 5 furniture store businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Arlington, TX?
 
 Also answers: furniture store in Arlington, TX; furniture store near me (Arlington, TX); best furniture store Arlington, TX; top rated furniture store Arlington, TX; affordable furniture store Arlington, TX; emergency furniture store Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ethan Allen | trust 20.0 | Ethan Allen is a furniture store in Arlington, TX at 231 East Interstate 20, Arlington, TX 76018. Phone: +18175575666. Website: https://www.ethanallen.com/arlingtontx. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-arlington/
-2. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Arlington, TX at 4650 South Cooper Street #101, Arlington, TX 76017. Phone: +18175578585. Website: https://stores.ashleyfurniture.com/store/us/texas/arlington/7710000401/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-arlington/
-3. La-Z-Boy | trust 4.0 | La-Z-Boy is a furniture store in Arlington, TX at 4515 South Cooper Street, Arlington, TX 76017. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-arlington/
-4. Chair King | trust 0.0 | Chair King is a furniture store in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-arlington/
-5. Havertys | trust 0.0 | Havertys is a furniture store in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-arlington/
+1. Chair King | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Chair King is a furniture store in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/chair-king-arlington/
+2. Ethan Allen | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | Ethan Allen is a furniture store in Arlington, TX at 231 East Interstate 20, Arlington, TX 76018. Phone: +18175575666. Website: https://www.ethanallen.com/arlingtontx. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-arlington/
+3. Ashley HomeStore | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Ashley HomeStore is a furniture store in Arlington, TX at 4650 South Cooper Street #101, Arlington, TX 76017. Phone: +18175578585. Website: https://stores.ashleyfurniture.com/store/us/texas/arlington/7710000401/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-arlington/
+4. La-Z-Boy | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | La-Z-Boy is a furniture store in Arlington, TX at 4515 South Cooper Street, Arlington, TX 76017. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-arlington/
+5. Havertys | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Havertys is a furniture store in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/havertys-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store arlington tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

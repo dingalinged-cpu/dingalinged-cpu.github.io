@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Doraville, GA is Adja Hair Braiding (a hair salon in Doraville, GA). 4 hair salon businesses are listed for Doraville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Doraville, GA is Adja Hair Braiding (a hair salon in Doraville, GA). 4 hair salon businesses are listed for Doraville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Doraville, GA?
 
 Also answers: hair salon in Doraville, GA; hair salon near me (Doraville, GA); best hair salon Doraville, GA; top rated hair salon Doraville, GA; affordable hair salon Doraville, GA; emergency hair salon Doraville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adja Hair Braiding | trust 0.0 | Adja Hair Braiding is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/adja-hair-braiding-doraville/
-2. CEO Hair Salon | trust 0.0 | CEO Hair Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/ceo-hair-salon-doraville/
-3. Le Salon | trust 0.0 | Le Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/le-salon-doraville/
-4. October Silk Beauty Lounge & Salon | trust 0.0 | October Silk Beauty Lounge & Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/october-silk-beauty-lounge-and-salon-doraville/
+1. Adja Hair Braiding | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Adja Hair Braiding is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/adja-hair-braiding-doraville/
+2. CEO Hair Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | CEO Hair Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/ceo-hair-salon-doraville/
+3. Le Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Le Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/le-salon-doraville/
+4. October Silk Beauty Lounge & Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | October Silk Beauty Lounge & Salon is a hair salon in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/october-silk-beauty-lounge-and-salon-doraville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon doraville ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

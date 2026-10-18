@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Brookhaven, GA is Dental Implant and Aesthetic Specialists of Atlanta (a dentist in Brookhaven, GA at 2801 Buford Highway NE #250, Brookhaven, GA 30329. Phone: +14043214588). 3 dentist businesses are listed for Brookhaven, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Brookhaven, GA is Dental Implant and Aesthetic Specialists of Atlanta (a dentist in Brookhaven, GA at 2801 Buford Highway NE #250, Brookhaven, GA 30329. Phone: +14043214588). 3 dentist businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Brookhaven, GA?
 
 Also answers: dentist in Brookhaven, GA; dentist near me (Brookhaven, GA); best dentist Brookhaven, GA; top rated dentist Brookhaven, GA; affordable dentist Brookhaven, GA; emergency dentist Brookhaven, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental Implant and Aesthetic Specialists of Atlanta | trust 14.0 | Dental Implant and Aesthetic Specialists of Atlanta is a dentist in Brookhaven, GA at 2801 Buford Highway NE #250, Brookhaven, GA 30329. Phone: +14043214588. | https://dingalinged-cpu.github.io/registry/c/dental-implant-and-aesthetic-specialists-of-atlanta-brookhaven/
-2. Coast Dental | trust 7.0 | Coast Dental is a dentist in Brookhaven, GA at 2484 Briarcliff Road Northeast #29, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/coast-dental-brookhaven/
-3. Gentle Smiles Dentle | trust 0.0 | Gentle Smiles Dentle is a dentist in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/gentle-smiles-dentle-brookhaven/
+1. Dental Implant and Aesthetic Specialists of Atlanta | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Dental Implant and Aesthetic Specialists of Atlanta is a dentist in Brookhaven, GA at 2801 Buford Highway NE #250, Brookhaven, GA 30329. Phone: +14043214588. | https://dingalinged-cpu.github.io/registry/c/dental-implant-and-aesthetic-specialists-of-atlanta-brookhaven/
+2. Gentle Smiles Dentle | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Gentle Smiles Dentle is a dentist in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/gentle-smiles-dentle-brookhaven/
+3. Coast Dental | Organic #3 | Pulse Score 46.3/100 (Unrated, #3 in city) | Coast Dental is a dentist in Brookhaven, GA at 2484 Briarcliff Road Northeast #29, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/coast-dental-brookhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist brookhaven ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

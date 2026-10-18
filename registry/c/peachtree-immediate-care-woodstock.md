@@ -13,7 +13,7 @@ Peachtree Immediate Care is a family medicine practice in Woodstock, GA at 9670 
 - Website: https://www.peachtreemed.com/location/woodstock/
 - Email: woodstock@peachtreemed.com
 - Opening hours (OSM syntax): 08:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 5% of family medicine practices in Atlanta, #1 of 2 family medicine practices in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.2, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

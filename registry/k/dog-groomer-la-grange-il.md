@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for La Grange, IL is Monica's Superior K-9's (a dog groomer in La Grange, IL). 2 dog groomer businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for La Grange, IL is Monica's Superior K-9's (a dog groomer in La Grange, IL). 2 dog groomer businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in La Grange, IL?
 
 Also answers: dog groomer in La Grange, IL; dog groomer near me (La Grange, IL); best dog groomer La Grange, IL; top rated dog groomer La Grange, IL; affordable dog groomer La Grange, IL; emergency dog groomer La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Monica's Superior K-9's | trust 0.0 | Monica's Superior K-9's is a dog groomer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/monicas-superior-k-9s-la-grange/
-2. Purely Paws | trust 0.0 | Purely Paws is a dog groomer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/purely-paws-la-grange/
+1. Monica's Superior K-9's | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Monica's Superior K-9's is a dog groomer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/monicas-superior-k-9s-la-grange/
+2. Purely Paws | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Purely Paws is a dog groomer in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/purely-paws-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer la grange il | category: Pets | industry benchmark: Animals & Pets

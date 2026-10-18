@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Magnolia, TX is America’s ER Medical Center (a family medicine practice in Magnolia, TX at 32784 FM 2978, Magnolia, TX 77354). 1 family doctor businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Magnolia, TX is America’s ER Medical Center (a family medicine practice in Magnolia, TX at 32784 FM 2978, Magnolia, TX 77354). 1 family doctor businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Magnolia, TX?
 
 Also answers: family doctor in Magnolia, TX; family doctor near me (Magnolia, TX); best family doctor Magnolia, TX; top rated family doctor Magnolia, TX; affordable family doctor Magnolia, TX; emergency family doctor Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. America’s ER Medical Center | trust 4.0 | America’s ER Medical Center is a family medicine practice in Magnolia, TX at 32784 FM 2978, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/america-s-er-medical-center-magnolia/
+1. America’s ER Medical Center | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | America’s ER Medical Center is a family medicine practice in Magnolia, TX at 32784 FM 2978, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/america-s-er-medical-center-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor magnolia tx | category: Health & medical | industry benchmark: Physicians & Surgeons

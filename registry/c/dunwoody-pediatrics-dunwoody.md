@@ -13,7 +13,7 @@ Dunwoody Pediatrics is a pediatrician in Dunwoody, GA at 1428 Dunwoody Village P
 - Website: https://www.dunwoodypediatrics.com/directions_dunwoody.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00; Sa "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 31% of pediatricians in Atlanta, #1 of 1 pediatricians in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

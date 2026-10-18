@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Eagan, MN is Sage Prairie Treatment Center (a therapy practice in Eagan, MN at 1440 Duckwood Drive #300, Eagan, MN). 2 therapist businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Eagan, MN is Sage Prairie Treatment Center (a therapy practice in Eagan, MN at 1440 Duckwood Drive #300, Eagan, MN). 2 therapist businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Eagan, MN?
 
 Also answers: therapist in Eagan, MN; therapist near me (Eagan, MN); best therapist Eagan, MN; top rated therapist Eagan, MN; affordable therapist Eagan, MN; emergency therapist Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sage Prairie Treatment Center | trust 3.0 | Sage Prairie Treatment Center is a therapy practice in Eagan, MN at 1440 Duckwood Drive #300, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/sage-prairie-treatment-center-eagan/
-2. Threads of Hope | trust 3.0 | Threads of Hope is a therapy practice in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/threads-of-hope-eagan/
+1. Sage Prairie Treatment Center | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Sage Prairie Treatment Center is a therapy practice in Eagan, MN at 1440 Duckwood Drive #300, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/sage-prairie-treatment-center-eagan/
+2. Threads of Hope | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Threads of Hope is a therapy practice in Eagan, MN at 3410 Federal Drive, Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/threads-of-hope-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist eagan mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Pearland, TX is Luu Luu Nails & Spa (a nail salon in Pearland, TX at 11200 West Broadway Street #1000, Pearland, TX). 6 nail salon businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Pearland, TX is Q Art Nails & Spa (a nail salon in Pearland, TX at 2975 Kingsley Drive, Pearland, TX). 6 nail salon businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Pearland, TX?
 
 Also answers: nail salon in Pearland, TX; nail salon near me (Pearland, TX); best nail salon Pearland, TX; top rated nail salon Pearland, TX; affordable nail salon Pearland, TX; emergency nail salon Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luu Luu Nails & Spa | trust 3.0 | Luu Luu Nails & Spa is a nail salon in Pearland, TX at 11200 West Broadway Street #1000, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/luu-luu-nails-and-spa-pearland/
-2. Q Art Nails & Spa | trust 3.0 | Q Art Nails & Spa is a nail salon in Pearland, TX at 2975 Kingsley Drive, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/q-art-nails-and-spa-pearland/
-3. cloud nail | trust 0.0 | cloud nail is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/cloud-nail-pearland/
-4. Legendary Nails & Spa | trust 0.0 | Legendary Nails & Spa is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/legendary-nails-and-spa-pearland/
-5. Milano Nail Spa | trust 0.0 | Milano Nail Spa is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/milano-nail-spa-pearland/
-6. Nails of America | trust 0.0 | Nails of America is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/nails-of-america-pearland/
+1. Q Art Nails & Spa | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Q Art Nails & Spa is a nail salon in Pearland, TX at 2975 Kingsley Drive, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/q-art-nails-and-spa-pearland/
+2. Luu Luu Nails & Spa | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Luu Luu Nails & Spa is a nail salon in Pearland, TX at 11200 West Broadway Street #1000, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/luu-luu-nails-and-spa-pearland/
+3. cloud nail | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | cloud nail is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/cloud-nail-pearland/
+4. Legendary Nails & Spa | Organic #4 | Pulse Score 55.1/100 (Unrated, #4 in city) | Legendary Nails & Spa is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/legendary-nails-and-spa-pearland/
+5. Nails of America | Organic #5 | Pulse Score 43.4/100 (Unrated, #5 in city) | Nails of America is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/nails-of-america-pearland/
+6. Milano Nail Spa | Organic #6 | Pulse Score 42.3/100 (Unrated, #6 in city) | Milano Nail Spa is a nail salon in Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/milano-nail-spa-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon pearland tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

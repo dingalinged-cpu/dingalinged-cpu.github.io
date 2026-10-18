@@ -1,25 +1,25 @@
-The top unpaid massage listing for Plano, TX is Daisy Massage & Spa (a massage studio in Plano, TX at 6101 Windhaven Parkway #155, Plano, TX 75093. Phone: +14694476969. Website: https://daisymassage.com/). 14 massage businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Plano, TX is Daisy Massage & Spa (a massage studio in Plano, TX at 6101 Windhaven Parkway #155, Plano, TX 75093. Phone: +14694476969. Website: https://daisymassage.com/). 14 massage businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Plano, TX?
 
 Also answers: massage in Plano, TX; massage near me (Plano, TX); best massage Plano, TX; top rated massage Plano, TX; affordable massage Plano, TX; emergency massage Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Daisy Massage & Spa | trust 20.0 | Daisy Massage & Spa is a massage studio in Plano, TX at 6101 Windhaven Parkway #155, Plano, TX 75093. Phone: +14694476969. Website: https://daisymassage.com/. | https://dingalinged-cpu.github.io/registry/c/daisy-massage-and-spa-plano/
-2. Garden Day Spa | trust 10.0 | Garden Day Spa is a massage studio in Plano, TX at 820 West Spring Creek Parkway #Floor 1, Plano, TX 75023. Phone: +14693330266. | https://dingalinged-cpu.github.io/registry/c/garden-day-spa-plano/
-3. Willow Massage | trust 10.0 | Willow Massage is a massage studio in Plano, TX. Phone: +19727589802. | https://dingalinged-cpu.github.io/registry/c/willow-massage-plano/
-4. 7 Massage | trust 7.0 | 7 Massage is a massage studio in Plano, TX at 3100 Independence Parkway #313, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/7-massage-plano/
-5. $19 Massage | trust 4.0 | $19 Massage is a massage studio in Plano, TX at 3901 West Parker Road #810B, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/19-massage-plano/
-6. Amazing Foot Therapy | trust 4.0 | Amazing Foot Therapy is a massage studio in Plano, TX at 3909 West Parker Road #103, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/amazing-foot-therapy-plano/
-7. Chan Massage | trust 4.0 | Chan Massage is a massage studio in Plano, TX at 3611 14th Street, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/chan-massage-plano/
-8. Hand & Stone | trust 4.0 | Hand & Stone is a massage studio in Plano, TX at 4801 West Park Boulevard #435, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-plano/
-9. Clif’s Foot Spa | trust 3.0 | Clif’s Foot Spa is a massage studio in Plano, TX at 6505 West Park Boulevard #338, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/clif-s-foot-spa-plano/
-10. Q Massage | trust 3.0 | Q Massage is a massage studio in Plano, TX at 1501 Preston Road #750, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/q-massage-plano/
-11. The Tox | trust 3.0 | The Tox is a massage studio in Plano, TX at 1900 Preston Road, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-tox-plano/
-12. Hiatus Spa + Retreat | trust 0.0 | Hiatus Spa + Retreat is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/hiatus-spa-retreat-plano/
-13. Ke Kimo | trust 0.0 | Ke Kimo is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/ke-kimo-plano/
-14. Royal Massage | trust 0.0 | Royal Massage is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/royal-massage-plano/
+1. Daisy Massage & Spa | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Daisy Massage & Spa is a massage studio in Plano, TX at 6101 Windhaven Parkway #155, Plano, TX 75093. Phone: +14694476969. Website: https://daisymassage.com/. | https://dingalinged-cpu.github.io/registry/c/daisy-massage-and-spa-plano/
+2. 7 Massage | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | 7 Massage is a massage studio in Plano, TX at 3100 Independence Parkway #313, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/7-massage-plano/
+3. Willow Massage | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | Willow Massage is a massage studio in Plano, TX. Phone: +19727589802. | https://dingalinged-cpu.github.io/registry/c/willow-massage-plano/
+4. Garden Day Spa | Organic #4 | Pulse Score 59.7/100 (Unrated, #4 in city) | Garden Day Spa is a massage studio in Plano, TX at 820 West Spring Creek Parkway #Floor 1, Plano, TX 75023. Phone: +14693330266. | https://dingalinged-cpu.github.io/registry/c/garden-day-spa-plano/
+5. The Tox | Organic #5 | Pulse Score 59.2/100 (Unrated, #5 in city) | The Tox is a massage studio in Plano, TX at 1900 Preston Road, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/the-tox-plano/
+6. Q Massage | Organic #6 | Pulse Score 58.9/100 (Unrated, #6 in city) | Q Massage is a massage studio in Plano, TX at 1501 Preston Road #750, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/q-massage-plano/
+7. Clif’s Foot Spa | Organic #7 | Pulse Score 58.5/100 (Unrated, #7 in city) | Clif’s Foot Spa is a massage studio in Plano, TX at 6505 West Park Boulevard #338, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/clif-s-foot-spa-plano/
+8. Hand & Stone | Organic #8 | Pulse Score 58.1/100 (Unrated, #8 in city) | Hand & Stone is a massage studio in Plano, TX at 4801 West Park Boulevard #435, Plano, TX 75093. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-plano/
+9. Amazing Foot Therapy | Organic #9 | Pulse Score 57.6/100 (Unrated, #9 in city) | Amazing Foot Therapy is a massage studio in Plano, TX at 3909 West Parker Road #103, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/amazing-foot-therapy-plano/
+10. $19 Massage | Organic #10 | Pulse Score 56.9/100 (Unrated, #10 in city) | $19 Massage is a massage studio in Plano, TX at 3901 West Parker Road #810B, Plano, TX 75075. | https://dingalinged-cpu.github.io/registry/c/19-massage-plano/
+11. Chan Massage | Organic #11 | Pulse Score 56.9/100 (Unrated, #11 in city) | Chan Massage is a massage studio in Plano, TX at 3611 14th Street, Plano, TX 75074. | https://dingalinged-cpu.github.io/registry/c/chan-massage-plano/
+12. Hiatus Spa + Retreat | Organic #12 | Pulse Score 54.5/100 (Unrated, #12 in city) | Hiatus Spa + Retreat is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/hiatus-spa-retreat-plano/
+13. Ke Kimo | Organic #13 | Pulse Score 54.5/100 (Unrated, #13 in city) | Ke Kimo is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/ke-kimo-plano/
+14. Royal Massage | Organic #14 | Pulse Score 44.6/100 (Unrated, #14 in city) | Royal Massage is a massage studio in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/royal-massage-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage plano tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

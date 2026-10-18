@@ -13,7 +13,7 @@ Gnosis Tattoo Studio and Art Gallery is a tattoo shop in Spring, TX at 3425 FM 2
 - Website: https://www.gnosistattoostudio.com/
 - Email: gnosistattoogallery@gmail.com
 - Opening hours (OSM syntax): Su,Mo closed; Tu-Sa 12:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 12% of tattoo shops in Houston, #1 of 2 tattoo shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.5, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Carol Stream, IL is Primrose School (a preschool in Carol Stream, IL). 1 preschool businesses are listed for Carol Stream, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Carol Stream, IL is Primrose School (a preschool in Carol Stream, IL). 1 preschool businesses are listed for Carol Stream, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Carol Stream, IL?
 
 Also answers: preschool in Carol Stream, IL; preschool near me (Carol Stream, IL); best preschool Carol Stream, IL; top rated preschool Carol Stream, IL; affordable preschool Carol Stream, IL; emergency preschool Carol Stream, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Primrose School | trust 0.0 | Primrose School is a preschool in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/primrose-school-carol-stream/
+1. Primrose School | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | Primrose School is a preschool in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/primrose-school-carol-stream/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool carol stream il | category: Education & childcare | industry benchmark: Education & Instruction

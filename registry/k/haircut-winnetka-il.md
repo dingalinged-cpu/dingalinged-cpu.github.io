@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Winnetka, IL is Scissors Edge (a hair salon in Winnetka, IL at Chestnut Street, Winnetka, IL 60093). 1 haircut businesses are listed for Winnetka, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Winnetka, IL is Scissors Edge (a hair salon in Winnetka, IL at Chestnut Street, Winnetka, IL 60093). 1 haircut businesses are listed for Winnetka, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Winnetka, IL?
 
 Also answers: haircut in Winnetka, IL; haircut near me (Winnetka, IL); best haircut Winnetka, IL; top rated haircut Winnetka, IL; affordable haircut Winnetka, IL; emergency haircut Winnetka, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scissors Edge | trust 4.0 | Scissors Edge is a hair salon in Winnetka, IL at Chestnut Street, Winnetka, IL 60093. | https://dingalinged-cpu.github.io/registry/c/scissors-edge-winnetka/
+1. Scissors Edge | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Scissors Edge is a hair salon in Winnetka, IL at Chestnut Street, Winnetka, IL 60093. | https://dingalinged-cpu.github.io/registry/c/scissors-edge-winnetka/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut winnetka il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Children's Learning Adventure is a preschool in Keller, TX at 1841 Rufe Snow Dri
 - Website: https://www.childrenslearningadventure.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 56% of preschools in Dallas–Fort Worth, #2 of 3 preschools in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 59.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

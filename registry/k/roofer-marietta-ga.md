@@ -1,13 +1,13 @@
-The top unpaid roofer listing for Marietta, GA is Nelson Exteriors (a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/). 2 roofer businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Marietta, GA is Nelson Exteriors (a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/). 2 roofer businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Marietta, GA?
 
 Also answers: roofer in Marietta, GA; roofer near me (Marietta, GA); best roofer Marietta, GA; top rated roofer Marietta, GA; affordable roofer Marietta, GA; emergency roofer Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nelson Exteriors | trust 20.0 | Nelson Exteriors is a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/. | https://dingalinged-cpu.github.io/registry/c/nelson-exteriors-marietta/
-2. KBT Family Roofing & Construction, Inc. | trust 9.0 | KBT Family Roofing & Construction, Inc. is a roofer in Marietta, GA at 1951 Canton Road Northeast #220, Marietta, GA. Phone: +16785406823. | https://dingalinged-cpu.github.io/registry/c/kbt-family-roofing-and-construction-inc-marietta/
+1. Nelson Exteriors | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | Nelson Exteriors is a roofer in Marietta, GA at 189 Kipling Drive Northeast, Marietta, GA 30068. Phone: +16782838171. Website: https://www.nelson-exteriors.com/. | https://dingalinged-cpu.github.io/registry/c/nelson-exteriors-marietta/
+2. KBT Family Roofing & Construction, Inc. | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | KBT Family Roofing & Construction, Inc. is a roofer in Marietta, GA at 1951 Canton Road Northeast #220, Marietta, GA. Phone: +16785406823. | https://dingalinged-cpu.github.io/registry/c/kbt-family-roofing-and-construction-inc-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer marietta ga | category: Home services - Roofing | industry benchmark: Home & Home Improvement

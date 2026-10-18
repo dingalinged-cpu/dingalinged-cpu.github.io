@@ -13,7 +13,7 @@ Shen Dental Care is a dentist in Mount Prospect, IL at 325 West Prospect Avenue,
 - Website: https://www.michaelshendds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:00; Fr 09:00-17:00; Sa 08:00-14:00
-- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 8% of dentists in Chicago, #2 of 4 dentists in Mount Prospect (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

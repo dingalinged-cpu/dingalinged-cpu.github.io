@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Midlothian, IL is Mobil (a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 60445). 1 car wash businesses are listed for Midlothian, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Midlothian, IL is Mobil (a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 60445). 1 car wash businesses are listed for Midlothian, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Midlothian, IL?
 
 Also answers: car wash in Midlothian, IL; car wash near me (Midlothian, IL); best car wash Midlothian, IL; top rated car wash Midlothian, IL; affordable car wash Midlothian, IL; emergency car wash Midlothian, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mobil | trust 4.0 | Mobil is a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 60445. | https://dingalinged-cpu.github.io/registry/c/mobil-midlothian/
+1. Mobil | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | Mobil is a car wash in Midlothian, IL at 14640 Cicero Avenue, Midlothian, IL 60445. | https://dingalinged-cpu.github.io/registry/c/mobil-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash midlothian il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

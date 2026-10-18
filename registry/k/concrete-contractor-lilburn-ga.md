@@ -1,12 +1,12 @@
-The top unpaid concrete contractor listing for Lilburn, GA is B&M Stone (a concrete contractor in Lilburn, GA. Phone: +16784499561). 1 concrete contractor businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid concrete contractor listing for Lilburn, GA is B&M Stone (a concrete contractor in Lilburn, GA. Phone: +16784499561). 1 concrete contractor businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best concrete contractor providers in Lilburn, GA?
 
 Also answers: concrete contractor in Lilburn, GA; concrete contractor near me (Lilburn, GA); best concrete contractor Lilburn, GA; top rated concrete contractor Lilburn, GA; affordable concrete contractor Lilburn, GA; emergency concrete contractor Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. B&M Stone | trust 6.0 | B&M Stone is a concrete contractor in Lilburn, GA. Phone: +16784499561. | https://dingalinged-cpu.github.io/registry/c/b-and-m-stone-lilburn/
+1. B&M Stone | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | B&M Stone is a concrete contractor in Lilburn, GA. Phone: +16784499561. | https://dingalinged-cpu.github.io/registry/c/b-and-m-stone-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor lilburn ga | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

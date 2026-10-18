@@ -1,16 +1,16 @@
-The top unpaid gym listing for Downers Grove, IL is Planet Fitness (a gym in Downers Grove, IL at 2055 West 63rd Street, Downers Grove, IL 60516. Phone: +13317774144. Website: https://www.planetfitness.com/gyms/downers-grove-il). 5 gym businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Downers Grove, IL is Esplanade Fitness Center (a gym in Downers Grove, IL). 5 gym businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Downers Grove, IL?
 
 Also answers: gym in Downers Grove, IL; gym near me (Downers Grove, IL); best gym Downers Grove, IL; top rated gym Downers Grove, IL; affordable gym Downers Grove, IL; emergency gym Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planet Fitness | trust 20.0 | Planet Fitness is a gym in Downers Grove, IL at 2055 West 63rd Street, Downers Grove, IL 60516. Phone: +13317774144. Website: https://www.planetfitness.com/gyms/downers-grove-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-downers-grove/
-2. LA Fitness | trust 4.0 | LA Fitness is a gym in Downers Grove, IL at 3200 Finley Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/la-fitness-downers-grove/
-3. Blast Fitness | trust 0.0 | Blast Fitness is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/blast-fitness-downers-grove/
-4. Esplanade Fitness Center | trust 0.0 | Esplanade Fitness Center is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/esplanade-fitness-center-downers-grove/
-5. Spenga | trust 0.0 | Spenga is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/spenga-downers-grove/
+1. Esplanade Fitness Center | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Esplanade Fitness Center is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/esplanade-fitness-center-downers-grove/
+2. Planet Fitness | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Planet Fitness is a gym in Downers Grove, IL at 2055 West 63rd Street, Downers Grove, IL 60516. Phone: +13317774144. Website: https://www.planetfitness.com/gyms/downers-grove-il. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-downers-grove/
+3. LA Fitness | Organic #3 | Pulse Score 43.3/100 (Building, #3 in city) | LA Fitness is a gym in Downers Grove, IL at 3200 Finley Road, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/la-fitness-downers-grove/
+4. Blast Fitness | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Blast Fitness is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/blast-fitness-downers-grove/
+5. Spenga | Organic #5 | Pulse Score 41.1/100 (Unrated, #5 in city) | Spenga is a gym in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/spenga-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym downers grove il | category: Fitness | industry benchmark: Health & Fitness

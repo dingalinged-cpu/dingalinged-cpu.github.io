@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Decatur, GA is Decatur Family Dental (a dentist in Decatur, GA at 814 Church Street, Decatur, GA 30030). 1 dentist businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Decatur, GA is Decatur Family Dental (a dentist in Decatur, GA at 814 Church Street, Decatur, GA 30030). 1 dentist businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Decatur, GA?
 
 Also answers: dentist in Decatur, GA; dentist near me (Decatur, GA); best dentist Decatur, GA; top rated dentist Decatur, GA; affordable dentist Decatur, GA; emergency dentist Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Decatur Family Dental | trust 4.0 | Decatur Family Dental is a dentist in Decatur, GA at 814 Church Street, Decatur, GA 30030. | https://dingalinged-cpu.github.io/registry/c/decatur-family-dental-decatur/
+1. Decatur Family Dental | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Decatur Family Dental is a dentist in Decatur, GA at 814 Church Street, Decatur, GA 30030. | https://dingalinged-cpu.github.io/registry/c/decatur-family-dental-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist decatur ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

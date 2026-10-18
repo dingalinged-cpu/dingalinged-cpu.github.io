@@ -13,7 +13,7 @@ Hot Nails is a nail salon in Cobb County, GA at 3595 Canton Road #324, Cobb Coun
 - Website: https://www.hotnailsmarietta.com/
 - Email: huongle1295@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 9% of nail salons in Atlanta, #3 of 45 nail salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

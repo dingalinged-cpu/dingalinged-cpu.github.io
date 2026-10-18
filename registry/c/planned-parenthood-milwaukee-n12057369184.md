@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Milwaukee, WI at 1710 South 7th Stre
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 80% of therapy practices in Milwaukee, #21 of 24 therapy practices in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.4, Trust 42.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

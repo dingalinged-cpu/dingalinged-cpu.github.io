@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Mount Pleasant, WI is First Call Heating and Cooling (a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/). 1 heating and air businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Mount Pleasant, WI is First Call Heating and Cooling (a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/). 1 heating and air businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Mount Pleasant, WI?
 
 Also answers: heating and air in Mount Pleasant, WI; heating and air near me (Mount Pleasant, WI); best heating and air Mount Pleasant, WI; top rated heating and air Mount Pleasant, WI; affordable heating and air Mount Pleasant, WI; emergency heating and air Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Call Heating and Cooling | trust 20.0 | First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/. | https://dingalinged-cpu.github.io/registry/c/first-call-heating-and-cooling-racine/
+1. First Call Heating and Cooling | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | First Call Heating and Cooling is a HVAC contractor in Racine, WI at 4603 Durand Avenue, Racine, WI 53405. Phone: +12627322273. Website: https://www.firstcallheating.com/city/racine-wi/. | https://dingalinged-cpu.github.io/registry/c/first-call-heating-and-cooling-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air mount pleasant wi | category: Home Services | industry benchmark: Home & Home Improvement

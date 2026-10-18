@@ -1,19 +1,19 @@
-The top unpaid gym listing for Sun Prairie, WI is Infinity Martial Arts (a gym in Sun Prairie, WI at 1620 North Bristol Street, Sun Prairie, WI 53590. Phone: +16083185166. Website: https://infinityma.com/). 8 gym businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Sun Prairie, WI is Paramount Performance (a gym in Sun Prairie, WI). 8 gym businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Sun Prairie, WI?
 
 Also answers: gym in Sun Prairie, WI; gym near me (Sun Prairie, WI); best gym Sun Prairie, WI; top rated gym Sun Prairie, WI; affordable gym Sun Prairie, WI; emergency gym Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Infinity Martial Arts | trust 16.0 | Infinity Martial Arts is a gym in Sun Prairie, WI at 1620 North Bristol Street, Sun Prairie, WI 53590. Phone: +16083185166. Website: https://infinityma.com/. | https://dingalinged-cpu.github.io/registry/c/infinity-martial-arts-sun-prairie/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Sun Prairie, WI at 1261 Cabela Drive, Sun Prairie, WI 53590. Phone: +16082345671. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sun-prairie/
-3. Anytime Fitness | trust 4.0 | Anytime Fitness is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-sun-prairie/
-4. Fit Body Boot Camp | trust 0.0 | Fit Body Boot Camp is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/fit-body-boot-camp-sun-prairie/
-5. Orange Shoe Personal Fitness | trust 0.0 | Orange Shoe Personal Fitness is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/orange-shoe-personal-fitness-sun-prairie/
-6. Paramount Performance | trust 0.0 | Paramount Performance is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/paramount-performance-sun-prairie/
-7. Running Diva Mom | trust 0.0 | Running Diva Mom is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/running-diva-mom-sun-prairie/
-8. StretchLab | trust 0.0 | StretchLab is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/stretchlab-sun-prairie/
+1. Paramount Performance | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Paramount Performance is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/paramount-performance-sun-prairie/
+2. Running Diva Mom | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Running Diva Mom is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/running-diva-mom-sun-prairie/
+3. Infinity Martial Arts | Organic #3 | Pulse Score 48.4/100 (Unrated, #3 in city) | Infinity Martial Arts is a gym in Sun Prairie, WI at 1620 North Bristol Street, Sun Prairie, WI 53590. Phone: +16083185166. Website: https://infinityma.com/. | https://dingalinged-cpu.github.io/registry/c/infinity-martial-arts-sun-prairie/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 46.5/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Sun Prairie, WI at 1261 Cabela Drive, Sun Prairie, WI 53590. Phone: +16082345671. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-sun-prairie/
+5. Anytime Fitness | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Anytime Fitness is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-sun-prairie/
+6. Fit Body Boot Camp | Organic #6 | Pulse Score 42.1/100 (Unrated, #6 in city) | Fit Body Boot Camp is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/fit-body-boot-camp-sun-prairie/
+7. Orange Shoe Personal Fitness | Organic #7 | Pulse Score 42.1/100 (Unrated, #7 in city) | Orange Shoe Personal Fitness is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/orange-shoe-personal-fitness-sun-prairie/
+8. StretchLab | Organic #8 | Pulse Score 42.1/100 (Unrated, #8 in city) | StretchLab is a gym in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/stretchlab-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym sun prairie wi | category: Fitness | industry benchmark: Health & Fitness

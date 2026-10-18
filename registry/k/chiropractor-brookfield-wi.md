@@ -1,15 +1,15 @@
-The top unpaid chiropractor listing for Brookfield, WI is Ascent Chiropractic (a chiropractor in Brookfield, WI at 16620 West Bluemound Road #405, Brookfield, WI 53005. Phone: +12623454166. Website: https://ascentchiropractic.com/). 4 chiropractor businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Brookfield, WI is Ascent Chiropractic (a chiropractor in Brookfield, WI at 16620 West Bluemound Road #405, Brookfield, WI 53005. Phone: +12623454166. Website: https://ascentchiropractic.com/). 4 chiropractor businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Brookfield, WI?
 
 Also answers: chiropractor in Brookfield, WI; chiropractor near me (Brookfield, WI); best chiropractor Brookfield, WI; top rated chiropractor Brookfield, WI; affordable chiropractor Brookfield, WI; emergency chiropractor Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ascent Chiropractic | trust 20.0 | Ascent Chiropractic is a chiropractor in Brookfield, WI at 16620 West Bluemound Road #405, Brookfield, WI 53005. Phone: +12623454166. Website: https://ascentchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/ascent-chiropractic-brookfield/
-2. Brookfield Chiropractic | trust 0.0 | Brookfield Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/brookfield-chiropractic-brookfield/
-3. OneSource Wellness & Chiropractic | trust 0.0 | OneSource Wellness & Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/onesource-wellness-and-chiropractic-brookfield/
-4. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-brookfield/
+1. Ascent Chiropractic | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Ascent Chiropractic is a chiropractor in Brookfield, WI at 16620 West Bluemound Road #405, Brookfield, WI 53005. Phone: +12623454166. Website: https://ascentchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/ascent-chiropractic-brookfield/
+2. Brookfield Chiropractic | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Brookfield Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/brookfield-chiropractic-brookfield/
+3. OneSource Wellness & Chiropractic | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | OneSource Wellness & Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/onesource-wellness-and-chiropractic-brookfield/
+4. The Joint Chiropractic | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor brookfield wi | category: Health & medical | industry benchmark: Physicians & Surgeons

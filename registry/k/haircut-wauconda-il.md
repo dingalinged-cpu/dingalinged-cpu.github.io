@@ -1,17 +1,17 @@
-The top unpaid haircut listing for Wauconda, IL is Great Clips (a hair salon in Wauconda, IL at 563 West Liberty Street, Wauconda, IL 60084. Phone: +18474874177. Website: https://salons.greatclips.com/us/il/wauconda/563-w-liberty-st). 6 haircut businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Wauconda, IL is Rosy's Hair Salon (a hair salon in Wauconda, IL at 453 West Liberty Street, Wauconda, IL 60084. Phone: +18475266605). 6 haircut businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Wauconda, IL?
 
 Also answers: haircut in Wauconda, IL; haircut near me (Wauconda, IL); best haircut Wauconda, IL; top rated haircut Wauconda, IL; affordable haircut Wauconda, IL; emergency haircut Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 20.0 | Great Clips is a hair salon in Wauconda, IL at 563 West Liberty Street, Wauconda, IL 60084. Phone: +18474874177. Website: https://salons.greatclips.com/us/il/wauconda/563-w-liberty-st. | https://dingalinged-cpu.github.io/registry/c/great-clips-wauconda/
-2. Rosy's Hair Salon | trust 14.0 | Rosy's Hair Salon is a hair salon in Wauconda, IL at 453 West Liberty Street, Wauconda, IL 60084. Phone: +18475266605. | https://dingalinged-cpu.github.io/registry/c/rosys-hair-salon-wauconda/
-3. Bevel Salon | trust 8.0 | Bevel Salon is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/bevel-salon-wauconda/
-4. Hair Solutions | trust 4.0 | Hair Solutions is a hair salon in Wauconda, IL at 314 West Liberty Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-wauconda/
-5. Nieka's Hair Studio | trust 4.0 | Nieka's Hair Studio is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/niekas-hair-studio-wauconda/
-6. Tremonte's Barber Shop | trust 4.0 | Tremonte's Barber Shop is a hair salon in Wauconda, IL at 113 North Main Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/tremontes-barber-shop-wauconda/
+1. Rosy's Hair Salon | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Rosy's Hair Salon is a hair salon in Wauconda, IL at 453 West Liberty Street, Wauconda, IL 60084. Phone: +18475266605. | https://dingalinged-cpu.github.io/registry/c/rosys-hair-salon-wauconda/
+2. Nieka's Hair Studio | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Nieka's Hair Studio is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/niekas-hair-studio-wauconda/
+3. Bevel Salon | Organic #3 | Pulse Score 59.4/100 (Unrated, #3 in city) | Bevel Salon is a hair salon in Wauconda, IL at North Main Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/bevel-salon-wauconda/
+4. Hair Solutions | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Hair Solutions is a hair salon in Wauconda, IL at 314 West Liberty Street, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/hair-solutions-wauconda/
+5. Tremonte's Barber Shop | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | Tremonte's Barber Shop is a hair salon in Wauconda, IL at 113 North Main Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/tremontes-barber-shop-wauconda/
+6. Great Clips | Organic #6 | Pulse Score 50.2/100 (Fair, #6 in city) | Great Clips is a hair salon in Wauconda, IL at 563 West Liberty Street, Wauconda, IL 60084. Phone: +18474874177. Website: https://salons.greatclips.com/us/il/wauconda/563-w-liberty-st. | https://dingalinged-cpu.github.io/registry/c/great-clips-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut wauconda il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

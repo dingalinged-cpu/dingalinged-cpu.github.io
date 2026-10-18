@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Grand Prairie, TX is Zoom Performance & Body Shop (an auto repair shop in Grand Prairie, TX at 2100 East Main Street #Suite B, Grand Prairie, TX 75050. Phone: +12146770008. Website: https://www.zoomperformance.shop/). 3 auto repair businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Grand Prairie, TX is Zoom Performance & Body Shop (an auto repair shop in Grand Prairie, TX at 2100 East Main Street #Suite B, Grand Prairie, TX 75050. Phone: +12146770008. Website: https://www.zoomperformance.shop/). 3 auto repair businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Grand Prairie, TX?
 
 Also answers: auto repair in Grand Prairie, TX; auto repair near me (Grand Prairie, TX); best auto repair Grand Prairie, TX; top rated auto repair Grand Prairie, TX; affordable auto repair Grand Prairie, TX; emergency auto repair Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zoom Performance & Body Shop | trust 20.0 | Zoom Performance & Body Shop is an auto repair shop in Grand Prairie, TX at 2100 East Main Street #Suite B, Grand Prairie, TX 75050. Phone: +12146770008. Website: https://www.zoomperformance.shop/. | https://dingalinged-cpu.github.io/registry/c/zoom-performance-and-body-shop-grand-prairie/
-2. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-grand-prairie/
-3. Grand Prairie Ford Service and Auto Repair Center | trust 0.0 | Grand Prairie Ford Service and Auto Repair Center is an auto repair shop in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/grand-prairie-ford-service-and-auto-repair-center-grand-prairie/
+1. Zoom Performance & Body Shop | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Zoom Performance & Body Shop is an auto repair shop in Grand Prairie, TX at 2100 East Main Street #Suite B, Grand Prairie, TX 75050. Phone: +12146770008. Website: https://www.zoomperformance.shop/. | https://dingalinged-cpu.github.io/registry/c/zoom-performance-and-body-shop-grand-prairie/
+2. Grand Prairie Ford Service and Auto Repair Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Grand Prairie Ford Service and Auto Repair Center is an auto repair shop in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/grand-prairie-ford-service-and-auto-repair-center-grand-prairie/
+3. Goodyear | Organic #3 | Pulse Score 41.8/100 (Building, #3 in city) | Goodyear is an auto repair shop in Grand Prairie, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair grand prairie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

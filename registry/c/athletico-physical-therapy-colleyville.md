@@ -13,7 +13,7 @@ Athletico Physical Therapy is a physical therapy clinic in Colleyville, TX at 56
 - Website: https://www.athletico.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-20:00; Fr 07:00-18:30; Sa 07:00-12:00
-- Registry Score: 53.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 55% of physical therapy clinics in Dallas–Fort Worth, #1 of 1 physical therapy clinics in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.4, Trust 61.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

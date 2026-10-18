@@ -1,15 +1,15 @@
-The top unpaid jewelry store listing for Addison, TX is Dr. Gold Jewelry & Diamonds (a jewelry store in Addison, TX at 4151 Belt Line Road #127, Addison, TX 75001. Website: https://www.drgoldjewelry.com/). 4 jewelry store businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Addison, TX is Dr. Gold Jewelry & Diamonds (a jewelry store in Addison, TX at 4151 Belt Line Road #127, Addison, TX 75001. Website: https://www.drgoldjewelry.com/). 4 jewelry store businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Addison, TX?
 
 Also answers: jewelry store in Addison, TX; jewelry store near me (Addison, TX); best jewelry store Addison, TX; top rated jewelry store Addison, TX; affordable jewelry store Addison, TX; emergency jewelry store Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Gold Jewelry & Diamonds | trust 10.0 | Dr. Gold Jewelry & Diamonds is a jewelry store in Addison, TX at 4151 Belt Line Road #127, Addison, TX 75001. Website: https://www.drgoldjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/dr-gold-jewelry-and-diamonds-addison/
-2. Diamontrigue | trust 4.0 | Diamontrigue is a jewelry store in Dallas, TX at 5100 Belt Line Road #818, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/diamontrigue-dallas/
-3. Fuller's Jewelry | trust 0.0 | Fuller's Jewelry is a jewelry store in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/fullers-jewelry-addison/
-4. Gillespie Jewlers | trust 0.0 | Gillespie Jewlers is a jewelry store in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/gillespie-jewlers-addison/
+1. Dr. Gold Jewelry & Diamonds | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Dr. Gold Jewelry & Diamonds is a jewelry store in Addison, TX at 4151 Belt Line Road #127, Addison, TX 75001. Website: https://www.drgoldjewelry.com/. | https://dingalinged-cpu.github.io/registry/c/dr-gold-jewelry-and-diamonds-addison/
+2. Diamontrigue | Organic #2 | Pulse Score 57.6/100 (Unrated, #9 in city) | Diamontrigue is a jewelry store in Dallas, TX at 5100 Belt Line Road #818, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/diamontrigue-dallas/
+3. Fuller's Jewelry | Organic #3 | Pulse Score 54.6/100 (Unrated, #2 in city) | Fuller's Jewelry is a jewelry store in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/fullers-jewelry-addison/
+4. Gillespie Jewlers | Organic #4 | Pulse Score 54.6/100 (Unrated, #3 in city) | Gillespie Jewlers is a jewelry store in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/gillespie-jewlers-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store addison tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

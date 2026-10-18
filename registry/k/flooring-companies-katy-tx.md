@@ -1,13 +1,13 @@
-The top unpaid flooring companies listing for Katy, TX is Garage Force of Katy (a flooring company in Katy, TX at 1260 FM 1463 #500, Katy, TX 77494. Phone: +18324375211. Website: https://katy.garageforce.com/). 2 flooring companies businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Katy, TX is Garage Force of Katy (a flooring company in Katy, TX at 1260 FM 1463 #500, Katy, TX 77494. Phone: +18324375211. Website: https://katy.garageforce.com/). 2 flooring companies businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Katy, TX?
 
 Also answers: flooring companies in Katy, TX; flooring companies near me (Katy, TX); best flooring companies Katy, TX; top rated flooring companies Katy, TX; affordable flooring companies Katy, TX; emergency flooring companies Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garage Force of Katy | trust 20.0 | Garage Force of Katy is a flooring company in Katy, TX at 1260 FM 1463 #500, Katy, TX 77494. Phone: +18324375211. Website: https://katy.garageforce.com/. | https://dingalinged-cpu.github.io/registry/c/garage-force-of-katy-katy/
-2. Lone Star Floors | trust 3.0 | Lone Star Floors is a flooring company in Katy, TX at 873 South Mason Road #300, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-floors-katy/
+1. Garage Force of Katy | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Garage Force of Katy is a flooring company in Katy, TX at 1260 FM 1463 #500, Katy, TX 77494. Phone: +18324375211. Website: https://katy.garageforce.com/. | https://dingalinged-cpu.github.io/registry/c/garage-force-of-katy-katy/
+2. Lone Star Floors | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Lone Star Floors is a flooring company in Katy, TX at 873 South Mason Road #300, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-floors-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies katy tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Euless, TX is H-E-B Car Wash (a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039). 5 car wash businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Euless, TX is Laser Wash (a car wash in Euless, TX at 622 North Industrial Boulevard, Euless, TX 76039). 5 car wash businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Euless, TX?
 
 Also answers: car wash in Euless, TX; car wash near me (Euless, TX); best car wash Euless, TX; top rated car wash Euless, TX; affordable car wash Euless, TX; emergency car wash Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H-E-B Car Wash | trust 4.0 | H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-euless/
-2. Laser Wash | trust 4.0 | Laser Wash is a car wash in Euless, TX at 622 North Industrial Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/laser-wash-euless/
-3. Joan's Self Service Car Wash | trust 0.0 | Joan's Self Service Car Wash is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/joans-self-service-car-wash-euless/
-4. Mr. Wizard's Auto Wash | trust 0.0 | Mr. Wizard's Auto Wash is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/mr-wizards-auto-wash-euless/
-5. Wash Masters Euless | trust 0.0 | Wash Masters Euless is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/wash-masters-euless-euless/
+1. Laser Wash | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Laser Wash is a car wash in Euless, TX at 622 North Industrial Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/laser-wash-euless/
+2. Wash Masters Euless | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Wash Masters Euless is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/wash-masters-euless-euless/
+3. Joan's Self Service Car Wash | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Joan's Self Service Car Wash is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/joans-self-service-car-wash-euless/
+4. Mr. Wizard's Auto Wash | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Mr. Wizard's Auto Wash is a car wash in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/mr-wizards-auto-wash-euless/
+5. H-E-B Car Wash | Organic #5 | Pulse Score 45/100 (Building, #5 in city) | H-E-B Car Wash is a car wash in Euless, TX at 2105 Rio Grande Boulevard, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash euless tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

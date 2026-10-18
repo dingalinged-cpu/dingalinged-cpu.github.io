@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Carrollton, TX is Bright Realty (a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/). 2 real estate agent businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Carrollton, TX is Prestige Texas Properties (a real estate agency in Carrollton, TX at 2550 E Trinity Mills Rd #130, Carrollton, TX 75006. Phone: +19722424442. Website: https://housesolutionshq.com/). 2 real estate agent businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Carrollton, TX?
 
 Also answers: real estate agent in Carrollton, TX; real estate agent near me (Carrollton, TX); best real estate agent Carrollton, TX; top rated real estate agent Carrollton, TX; affordable real estate agent Carrollton, TX; emergency real estate agent Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bright Realty | trust 20.0 | Bright Realty is a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/. | https://dingalinged-cpu.github.io/registry/c/bright-realty-lewisville/
-2. Prestige Texas Properties | trust 20.0 | Prestige Texas Properties is a real estate agency in Carrollton, TX at 2550 E Trinity Mills Rd #130, Carrollton, TX 75006. Phone: +19722424442. Website: https://housesolutionshq.com/. | https://dingalinged-cpu.github.io/registry/c/prestige-texas-properties-carrollton/
+1. Prestige Texas Properties | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Prestige Texas Properties is a real estate agency in Carrollton, TX at 2550 E Trinity Mills Rd #130, Carrollton, TX 75006. Phone: +19722424442. Website: https://housesolutionshq.com/. | https://dingalinged-cpu.github.io/registry/c/prestige-texas-properties-carrollton/
+2. Bright Realty | Organic #2 | Pulse Score 61.1/100 (Unrated, #3 in city) | Bright Realty is a real estate agency in Lewisville, TX at 4400 State Highway 121 #Suite 900, Lewisville, TX 75056. Phone: +18772844968. Website: https://awesometechinc.com/. | https://dingalinged-cpu.github.io/registry/c/bright-realty-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent carrollton tx | category: Professional & financial services | industry benchmark: Finance & Insurance

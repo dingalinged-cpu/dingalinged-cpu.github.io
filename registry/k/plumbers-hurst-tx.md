@@ -1,13 +1,13 @@
-The top unpaid plumbers listing for Hurst, TX is Dean’s Plumbing (a plumber in Hurst, TX at 227 Northeast Loop 820 #suite 163, Hurst, TX 76053. Phone: +19722315509. Website: https://www.deansplumbingtx.com/). 2 plumbers businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Hurst, TX is Dean’s Plumbing (a plumber in Hurst, TX at 227 Northeast Loop 820 #suite 163, Hurst, TX 76053. Phone: +19722315509. Website: https://www.deansplumbingtx.com/). 2 plumbers businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Hurst, TX?
 
 Also answers: plumbers in Hurst, TX; plumbers near me (Hurst, TX); best plumbers Hurst, TX; top rated plumbers Hurst, TX; affordable plumbers Hurst, TX; emergency plumbers Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dean’s Plumbing | trust 20.0 | Dean’s Plumbing is a plumber in Hurst, TX at 227 Northeast Loop 820 #suite 163, Hurst, TX 76053. Phone: +19722315509. Website: https://www.deansplumbingtx.com/. | https://dingalinged-cpu.github.io/registry/c/dean-s-plumbing-hurst/
-2. Aggressive Plumbing | trust 10.0 | Aggressive Plumbing is a plumber in Hurst, TX at 1220 W Hurst Boulevard #Ste 100, Hurst, TX 76053. Phone: +18174261171. | https://dingalinged-cpu.github.io/registry/c/aggressive-plumbing-hurst/
+1. Dean’s Plumbing | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Dean’s Plumbing is a plumber in Hurst, TX at 227 Northeast Loop 820 #suite 163, Hurst, TX 76053. Phone: +19722315509. Website: https://www.deansplumbingtx.com/. | https://dingalinged-cpu.github.io/registry/c/dean-s-plumbing-hurst/
+2. Aggressive Plumbing | Organic #2 | Pulse Score 56.8/100 (Unrated, #2 in city) | Aggressive Plumbing is a plumber in Hurst, TX at 1220 W Hurst Boulevard #Ste 100, Hurst, TX 76053. Phone: +18174261171. | https://dingalinged-cpu.github.io/registry/c/aggressive-plumbing-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers hurst tx | category: Home Services | industry benchmark: Home & Home Improvement

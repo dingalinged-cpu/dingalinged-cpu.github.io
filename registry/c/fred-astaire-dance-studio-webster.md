@@ -13,7 +13,7 @@ Fred Astaire Dance Studio is a dance studio in Webster, TX at 20810 Gulf Freeway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44/100 — Unrated (not enough evidence yet) — top 96% of dance studios in Houston, #1 of 1 dance studios in Webster (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29, Trust 47.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

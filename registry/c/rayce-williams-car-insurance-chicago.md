@@ -13,7 +13,7 @@ Rayce Williams Car Insurance is an insurance agent in Chicago, IL at 191 North W
 - Website: https://cheapcarinsurancechicagoil.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 8% of insurance agents in Chicago, #4 of 108 insurance agents in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

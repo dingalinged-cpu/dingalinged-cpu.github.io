@@ -13,7 +13,7 @@ Comfort Dental Atlanta is a dentist in Atlanta, GA at 587 Virginia Ave NE #Ph5, 
 - Website: https://comfortdentalatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-17:00, Fr 09:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.5/100 — Good — top 1% of dentists in Atlanta, #1 of 34 dentists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.1, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

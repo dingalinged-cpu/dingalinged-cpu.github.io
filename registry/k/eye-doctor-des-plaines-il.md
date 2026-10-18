@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Des Plaines, IL is Best Vision Optometry (an eye care practice in Des Plaines, IL at 865 South Elmhurst Road, Des Plaines, IL 60016). 2 eye doctor businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Des Plaines, IL is Best Vision Optometry (an eye care practice in Des Plaines, IL at 865 South Elmhurst Road, Des Plaines, IL 60016). 2 eye doctor businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Des Plaines, IL?
 
 Also answers: eye doctor in Des Plaines, IL; eye doctor near me (Des Plaines, IL); best eye doctor Des Plaines, IL; top rated eye doctor Des Plaines, IL; affordable eye doctor Des Plaines, IL; emergency eye doctor Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Best Vision Optometry | trust 4.0 | Best Vision Optometry is an eye care practice in Des Plaines, IL at 865 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/best-vision-optometry-des-plaines/
-2. Des Plaines Eye Care Center | trust 3.0 | Des Plaines Eye Care Center is an eye care practice in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/des-plaines-eye-care-center-des-plaines/
+1. Best Vision Optometry | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Best Vision Optometry is an eye care practice in Des Plaines, IL at 865 South Elmhurst Road, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/best-vision-optometry-des-plaines/
+2. Des Plaines Eye Care Center | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Des Plaines Eye Care Center is an eye care practice in Des Plaines, IL at 782 West Oakton Street, Des Plaines, IL. | https://dingalinged-cpu.github.io/registry/c/des-plaines-eye-care-center-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor des plaines il | category: Health & medical | industry benchmark: Physicians & Surgeons

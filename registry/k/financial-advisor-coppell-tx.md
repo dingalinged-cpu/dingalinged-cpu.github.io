@@ -1,14 +1,14 @@
-The top unpaid financial advisor listing for Coppell, TX is Professional Wealth Management Group (a financial advisor in Coppell, TX. Phone: +18173286109). 3 financial advisor businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Coppell, TX is Professional Wealth Management Group (a financial advisor in Coppell, TX. Phone: +18173286109). 3 financial advisor businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Coppell, TX?
 
 Also answers: financial advisor in Coppell, TX; financial advisor near me (Coppell, TX); best financial advisor Coppell, TX; top rated financial advisor Coppell, TX; affordable financial advisor Coppell, TX; emergency financial advisor Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Professional Wealth Management Group | trust 6.0 | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://dingalinged-cpu.github.io/registry/c/professional-wealth-management-group-coppell/
-2. CBS Wealth Management | trust 0.0 | CBS Wealth Management is a financial advisor in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/cbs-wealth-management-coppell/
-3. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-coppell/
+1. Professional Wealth Management Group | Organic #1 | Pulse Score 61.9/100 (Good, #1 in city) | Professional Wealth Management Group is a financial advisor in Coppell, TX. Phone: +18173286109. | https://dingalinged-cpu.github.io/registry/c/professional-wealth-management-group-coppell/
+2. CBS Wealth Management | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | CBS Wealth Management is a financial advisor in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/cbs-wealth-management-coppell/
+3. Edward Jones | Organic #3 | Pulse Score 42.4/100 (Building, #3 in city) | Edward Jones is a financial advisor in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor coppell tx | category: Professional & financial services | industry benchmark: Finance & Insurance

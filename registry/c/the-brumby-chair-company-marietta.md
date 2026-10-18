@@ -13,7 +13,7 @@ The Brumby Chair Company is a furniture store in Marietta, GA at 47 Waddell Stre
 - Website: https://www.brumbyrocker.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 16% of furniture stores in Atlanta, #2 of 9 furniture stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

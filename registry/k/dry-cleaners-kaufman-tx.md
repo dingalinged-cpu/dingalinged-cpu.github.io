@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Kaufman, TX is Lott's Cleaners (a dry cleaner in Kaufman, TX at 112 West Grove Street, Kaufman, TX). 1 dry cleaners businesses are listed for Kaufman, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Kaufman, TX is Lott's Cleaners (a dry cleaner in Kaufman, TX at 112 West Grove Street, Kaufman, TX). 1 dry cleaners businesses are listed for Kaufman, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Kaufman, TX?
 
 Also answers: dry cleaners in Kaufman, TX; dry cleaners near me (Kaufman, TX); best dry cleaners Kaufman, TX; top rated dry cleaners Kaufman, TX; affordable dry cleaners Kaufman, TX; emergency dry cleaners Kaufman, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lott's Cleaners | trust 7.0 | Lott's Cleaners is a dry cleaner in Kaufman, TX at 112 West Grove Street, Kaufman, TX. | https://dingalinged-cpu.github.io/registry/c/lotts-cleaners-kaufman/
+1. Lott's Cleaners | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Lott's Cleaners is a dry cleaner in Kaufman, TX at 112 West Grove Street, Kaufman, TX. | https://dingalinged-cpu.github.io/registry/c/lotts-cleaners-kaufman/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners kaufman tx | category: Professional & financial services | industry benchmark: Finance & Insurance

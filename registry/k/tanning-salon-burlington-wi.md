@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Burlington, WI is Platinum Salon & Spa (a tanning salon in Burlington, WI). 1 tanning salon businesses are listed for Burlington, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Burlington, WI is Platinum Salon & Spa (a tanning salon in Burlington, WI). 1 tanning salon businesses are listed for Burlington, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Burlington, WI?
 
 Also answers: tanning salon in Burlington, WI; tanning salon near me (Burlington, WI); best tanning salon Burlington, WI; top rated tanning salon Burlington, WI; affordable tanning salon Burlington, WI; emergency tanning salon Burlington, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Platinum Salon & Spa | trust 0.0 | Platinum Salon & Spa is a tanning salon in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/platinum-salon-and-spa-burlington/
+1. Platinum Salon & Spa | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Platinum Salon & Spa is a tanning salon in Burlington, WI. | https://dingalinged-cpu.github.io/registry/c/platinum-salon-and-spa-burlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon burlington wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

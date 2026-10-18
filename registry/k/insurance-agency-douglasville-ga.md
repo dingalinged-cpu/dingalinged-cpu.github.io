@@ -1,15 +1,15 @@
-The top unpaid insurance agency listing for Douglasville, GA is Allstate (an insurance agent in Douglasville, GA). 4 insurance agency businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Douglasville, GA is Beachstate Insurance (an insurance agent in Douglasville, GA). 4 insurance agency businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Douglasville, GA?
 
 Also answers: insurance agency in Douglasville, GA; insurance agency near me (Douglasville, GA); best insurance agency Douglasville, GA; top rated insurance agency Douglasville, GA; affordable insurance agency Douglasville, GA; emergency insurance agency Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 0.0 | Allstate is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-douglasville/
-2. Beachstate Insurance | trust 0.0 | Beachstate Insurance is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/beachstate-insurance-douglasville/
-3. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-douglasville/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-douglasville/
+1. Beachstate Insurance | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Beachstate Insurance is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/beachstate-insurance-douglasville/
+2. Allstate | Organic #2 | Pulse Score 42.8/100 (Building, #2 in city) | Allstate is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-douglasville/
+3. Farmers Insurance | Organic #3 | Pulse Score 42.8/100 (Building, #3 in city) | Farmers Insurance is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-douglasville/
+4. State Farm | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | State Farm is an insurance agent in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency douglasville ga | category: insurance | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid family doctor listing for Richardson, TX is Total Men's Primary Care (a family medicine practice in Richardson, TX at 234 West Campbell Road, Richardson, TX 75080. Phone: +19724743221. Website: https://totalmens.com/locations/dallas-fort-worth/total-mens-primary-care-richardson/). 2 family doctor businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Richardson, TX is Texas Primary Care Center (a family medicine practice in Richardson, TX). 2 family doctor businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Richardson, TX?
 
 Also answers: family doctor in Richardson, TX; family doctor near me (Richardson, TX); best family doctor Richardson, TX; top rated family doctor Richardson, TX; affordable family doctor Richardson, TX; emergency family doctor Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Men's Primary Care | trust 20.0 | Total Men's Primary Care is a family medicine practice in Richardson, TX at 234 West Campbell Road, Richardson, TX 75080. Phone: +19724743221. Website: https://totalmens.com/locations/dallas-fort-worth/total-mens-primary-care-richardson/. | https://dingalinged-cpu.github.io/registry/c/total-mens-primary-care-richardson/
-2. Texas Primary Care Center | trust 4.0 | Texas Primary Care Center is a family medicine practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/texas-primary-care-center-richardson/
+1. Texas Primary Care Center | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Texas Primary Care Center is a family medicine practice in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/texas-primary-care-center-richardson/
+2. Total Men's Primary Care | Organic #2 | Pulse Score 49.7/100 (Building, #2 in city) | Total Men's Primary Care is a family medicine practice in Richardson, TX at 234 West Campbell Road, Richardson, TX 75080. Phone: +19724743221. Website: https://totalmens.com/locations/dallas-fort-worth/total-mens-primary-care-richardson/. | https://dingalinged-cpu.github.io/registry/c/total-mens-primary-care-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor richardson tx | category: Health & medical | industry benchmark: Physicians & Surgeons

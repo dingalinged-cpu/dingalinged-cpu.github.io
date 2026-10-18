@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Chanhassen, MN is Valvoline (an auto repair shop in Chanhassen, MN at 335 West 79th Street, Chanhassen, MN 55317. Website: https://store.vioc.com/mn/chanhassen/oil-change-010042.html). 3 auto repair businesses are listed for Chanhassen, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Chanhassen, MN is Brown's Tire & Auto (an auto repair shop in Chanhassen, MN at 275 West 79th Street, Chanhassen, MN 55317). 3 auto repair businesses are listed for Chanhassen, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Chanhassen, MN?
 
 Also answers: auto repair in Chanhassen, MN; auto repair near me (Chanhassen, MN); best auto repair Chanhassen, MN; top rated auto repair Chanhassen, MN; affordable auto repair Chanhassen, MN; emergency auto repair Chanhassen, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Chanhassen, MN at 335 West 79th Street, Chanhassen, MN 55317. Website: https://store.vioc.com/mn/chanhassen/oil-change-010042.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-chanhassen/
-2. Brown's Tire & Auto | trust 4.0 | Brown's Tire & Auto is an auto repair shop in Chanhassen, MN at 275 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/browns-tire-and-auto-chanhassen/
-3. Master Collision Group | trust 4.0 | Master Collision Group is an auto repair shop in Chanhassen, MN at 227 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/master-collision-group-chanhassen/
+1. Brown's Tire & Auto | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Brown's Tire & Auto is an auto repair shop in Chanhassen, MN at 275 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/browns-tire-and-auto-chanhassen/
+2. Master Collision Group | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Master Collision Group is an auto repair shop in Chanhassen, MN at 227 West 79th Street, Chanhassen, MN 55317. | https://dingalinged-cpu.github.io/registry/c/master-collision-group-chanhassen/
+3. Valvoline | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Valvoline is an auto repair shop in Chanhassen, MN at 335 West 79th Street, Chanhassen, MN 55317. Website: https://store.vioc.com/mn/chanhassen/oil-change-010042.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair chanhassen mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

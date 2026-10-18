@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Westchester, IL is David M. Siegel (a lawyer in Westchester, IL). 1 attorney businesses are listed for Westchester, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Westchester, IL is David M. Siegel (a lawyer in Westchester, IL). 1 attorney businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Westchester, IL?
 
 Also answers: attorney in Westchester, IL; attorney near me (Westchester, IL); best attorney Westchester, IL; top rated attorney Westchester, IL; affordable attorney Westchester, IL; emergency attorney Westchester, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. David M. Siegel | trust 0.0 | David M. Siegel is a lawyer in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/david-m-siegel-westchester/
+1. David M. Siegel | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | David M. Siegel is a lawyer in Westchester, IL. | https://dingalinged-cpu.github.io/registry/c/david-m-siegel-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney westchester il | category: professional_legal | industry benchmark: Attorneys & Legal Services

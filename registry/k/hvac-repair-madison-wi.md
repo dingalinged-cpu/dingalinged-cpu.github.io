@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Madison, WI is Gustave A Larson (a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations). 2 hvac repair businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Madison, WI is Gustave A Larson (a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations). 2 hvac repair businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Madison, WI?
 
 Also answers: hvac repair in Madison, WI; hvac repair near me (Madison, WI); best hvac repair Madison, WI; top rated hvac repair Madison, WI; affordable hvac repair Madison, WI; emergency hvac repair Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gustave A Larson | trust 16.0 | Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations. | https://dingalinged-cpu.github.io/registry/c/gustave-a-larson-madison/
-2. Dale's Heating & Air | trust 9.0 | Dale's Heating & Air is a HVAC contractor in Madison, WI at 2003 Freeport Road, Madison, WI. Website: https://www.dalesheating.com/. | https://dingalinged-cpu.github.io/registry/c/dales-heating-and-air-madison/
+1. Gustave A Larson | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Gustave A Larson is a HVAC contractor in Madison, WI at 4537 Pflaum Road, Madison, WI 53718. Phone: +16082213301. Website: https://www.galarson.com/locations. | https://dingalinged-cpu.github.io/registry/c/gustave-a-larson-madison/
+2. Dale's Heating & Air | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Dale's Heating & Air is a HVAC contractor in Madison, WI at 2003 Freeport Road, Madison, WI. Website: https://www.dalesheating.com/. | https://dingalinged-cpu.github.io/registry/c/dales-heating-and-air-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair madison wi | category: Home services - HVAC | industry benchmark: Home & Home Improvement

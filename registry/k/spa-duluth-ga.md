@@ -1,12 +1,12 @@
-The top unpaid spa listing for Duluth, GA is Spa Land Sauna & Resort (a spa in Duluth, GA at 2645 North Berkeley Lake Road #C, Duluth, GA. Phone: +17708649934. Website: https://spalandga.com/). 1 spa businesses are listed for Duluth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Duluth, GA is Spa Land Sauna & Resort (a spa in Duluth, GA at 2645 North Berkeley Lake Road #C, Duluth, GA. Phone: +17708649934. Website: https://spalandga.com/). 1 spa businesses are listed for Duluth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Duluth, GA?
 
 Also answers: spa in Duluth, GA; spa near me (Duluth, GA); best spa Duluth, GA; top rated spa Duluth, GA; affordable spa Duluth, GA; emergency spa Duluth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spa Land Sauna & Resort | trust 19.0 | Spa Land Sauna & Resort is a spa in Duluth, GA at 2645 North Berkeley Lake Road #C, Duluth, GA. Phone: +17708649934. Website: https://spalandga.com/. | https://dingalinged-cpu.github.io/registry/c/spa-land-sauna-and-resort-duluth/
+1. Spa Land Sauna & Resort | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Spa Land Sauna & Resort is a spa in Duluth, GA at 2645 North Berkeley Lake Road #C, Duluth, GA. Phone: +17708649934. Website: https://spalandga.com/. | https://dingalinged-cpu.github.io/registry/c/spa-land-sauna-and-resort-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa duluth ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

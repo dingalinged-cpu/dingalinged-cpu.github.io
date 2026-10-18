@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Dallas, TX at 6190 Belt Line Road, D
 - Website: https://www.take5.com/locations/oil-change/texas/dallas/30067/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-20:00; Su 09:00-17:00
-- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 69% of auto repair shops in Dallas–Fort Worth, #90 of 122 auto repair shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

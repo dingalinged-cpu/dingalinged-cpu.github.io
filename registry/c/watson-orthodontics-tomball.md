@@ -13,7 +13,7 @@ Watson Orthodontics is a dentist in Tomball, TX at 700 West Main Street, Tomball
 - Website: https://smilesarecool.com/tomball-orthodontic-office
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 14% of dentists in Houston, #1 of 7 dentists in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

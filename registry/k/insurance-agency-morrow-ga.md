@@ -1,16 +1,16 @@
-The top unpaid insurance agency listing for Morrow, GA is AAA Insurance (an insurance agent in Morrow, GA). 5 insurance agency businesses are listed for Morrow, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Morrow, GA is First Priority Insurance (an insurance agent in Morrow, GA). 5 insurance agency businesses are listed for Morrow, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Morrow, GA?
 
 Also answers: insurance agency in Morrow, GA; insurance agency near me (Morrow, GA); best insurance agency Morrow, GA; top rated insurance agency Morrow, GA; affordable insurance agency Morrow, GA; emergency insurance agency Morrow, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AAA Insurance | trust 0.0 | AAA Insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-morrow/
-2. First Priority Insurance | trust 0.0 | First Priority Insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/first-priority-insurance-morrow/
-3. Low cost! Auto insurance | trust 0.0 | Low cost! Auto insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/low-cost-auto-insurance-morrow/
-4. Loya Insurance Company | trust 0.0 | Loya Insurance Company is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/loya-insurance-company-morrow/
-5. State Farm | trust 0.0 | State Farm is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-morrow/
+1. First Priority Insurance | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | First Priority Insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/first-priority-insurance-morrow/
+2. Low cost! Auto insurance | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Low cost! Auto insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/low-cost-auto-insurance-morrow/
+3. AAA Insurance | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | AAA Insurance is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/aaa-insurance-morrow/
+4. State Farm | Organic #4 | Pulse Score 42.8/100 (Building, #4 in city) | State Farm is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-morrow/
+5. Loya Insurance Company | Organic #5 | Pulse Score 42.5/100 (Unrated, #5 in city) | Loya Insurance Company is an insurance agent in Morrow, GA. | https://dingalinged-cpu.github.io/registry/c/loya-insurance-company-morrow/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency morrow ga | category: insurance | industry benchmark: Finance & Insurance

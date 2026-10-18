@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Clear Lake Shores, TX is Discount Tire (a tire shop in Clear Lake Shores, TX at 405 Marina Bay Drive, Clear Lake Shores, TX 77565. Phone: +12815389100). 1 tire shop businesses are listed for Clear Lake Shores, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Clear Lake Shores, TX is Discount Tire (a tire shop in Clear Lake Shores, TX at 405 Marina Bay Drive, Clear Lake Shores, TX 77565. Phone: +12815389100). 1 tire shop businesses are listed for Clear Lake Shores, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Clear Lake Shores, TX?
 
 Also answers: tire shop in Clear Lake Shores, TX; tire shop near me (Clear Lake Shores, TX); best tire shop Clear Lake Shores, TX; top rated tire shop Clear Lake Shores, TX; affordable tire shop Clear Lake Shores, TX; emergency tire shop Clear Lake Shores, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Clear Lake Shores, TX at 405 Marina Bay Drive, Clear Lake Shores, TX 77565. Phone: +12815389100. | https://dingalinged-cpu.github.io/registry/c/discount-tire-clear-lake-shores/
+1. Discount Tire | Organic #1 | Pulse Score 46.3/100 (Building, #1 in city) | Discount Tire is a tire shop in Clear Lake Shores, TX at 405 Marina Bay Drive, Clear Lake Shores, TX 77565. Phone: +12815389100. | https://dingalinged-cpu.github.io/registry/c/discount-tire-clear-lake-shores/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop clear lake shores tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,14 +1,14 @@
-The top unpaid daycare listing for Shakopee, MN is River Valley Montessori & Child Care (a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/). 3 daycare businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Shakopee, MN is River Valley Montessori & Child Care (a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/). 3 daycare businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Shakopee, MN?
 
 Also answers: daycare in Shakopee, MN; daycare near me (Shakopee, MN); best daycare Shakopee, MN; top rated daycare Shakopee, MN; affordable daycare Shakopee, MN; emergency daycare Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. River Valley Montessori & Child Care | trust 16.0 | River Valley Montessori & Child Care is a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/. | https://dingalinged-cpu.github.io/registry/c/river-valley-montessori-and-child-care-shakopee/
-2. Alphabet Junction Childcare | trust 10.0 | Alphabet Junction Childcare is a daycare in Shakopee, MN at 1335 10th Avenue East, Shakopee, MN 55379. Website: https://www.alphabetjunctionchildcare.com/. | https://dingalinged-cpu.github.io/registry/c/alphabet-junction-childcare-shakopee/
-3. Universal Child Care | trust 4.0 | Universal Child Care is a daycare in Shakopee, MN at 1208 Shakopee Town Square, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/universal-child-care-shakopee/
+1. River Valley Montessori & Child Care | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | River Valley Montessori & Child Care is a daycare in Shakopee, MN at 110 Prairie Street North, Shakopee, MN 55379. Phone: +19522224044. Website: https://rivervalleymontessori.com/. | https://dingalinged-cpu.github.io/registry/c/river-valley-montessori-and-child-care-shakopee/
+2. Alphabet Junction Childcare | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Alphabet Junction Childcare is a daycare in Shakopee, MN at 1335 10th Avenue East, Shakopee, MN 55379. Website: https://www.alphabetjunctionchildcare.com/. | https://dingalinged-cpu.github.io/registry/c/alphabet-junction-childcare-shakopee/
+3. Universal Child Care | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | Universal Child Care is a daycare in Shakopee, MN at 1208 Shakopee Town Square, Shakopee, MN 55379. | https://dingalinged-cpu.github.io/registry/c/universal-child-care-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare shakopee mn | category: Education & childcare | industry benchmark: Education & Instruction

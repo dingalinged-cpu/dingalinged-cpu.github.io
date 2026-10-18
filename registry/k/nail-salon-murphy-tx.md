@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Murphy, TX is Murphy Nail Spa (a nail salon in Murphy, TX). 4 nail salon businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Murphy, TX is Murphy Nail Spa (a nail salon in Murphy, TX). 4 nail salon businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Murphy, TX?
 
 Also answers: nail salon in Murphy, TX; nail salon near me (Murphy, TX); best nail salon Murphy, TX; top rated nail salon Murphy, TX; affordable nail salon Murphy, TX; emergency nail salon Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Murphy Nail Spa | trust 4.0 | Murphy Nail Spa is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/murphy-nail-spa-murphy/
-2. Nail Spa by heather | trust 4.0 | Nail Spa by heather is a waxing salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/nail-spa-by-heather-murphy/
-3. AZURA Nail Spa | trust 0.0 | AZURA Nail Spa is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/azura-nail-spa-murphy/
-4. Lavender Nails | trust 0.0 | Lavender Nails is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/lavender-nails-murphy/
+1. Murphy Nail Spa | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Murphy Nail Spa is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/murphy-nail-spa-murphy/
+2. Nail Spa by heather | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Nail Spa by heather is a waxing salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/nail-spa-by-heather-murphy/
+3. Lavender Nails | Organic #3 | Pulse Score 56/100 (Unrated, #2 in city) | Lavender Nails is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/lavender-nails-murphy/
+4. AZURA Nail Spa | Organic #4 | Pulse Score 54.6/100 (Unrated, #3 in city) | AZURA Nail Spa is a nail salon in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/azura-nail-spa-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon murphy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

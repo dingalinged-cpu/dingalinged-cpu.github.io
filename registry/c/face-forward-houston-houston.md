@@ -13,7 +13,7 @@ Face Forward Houston is a plastic surgeon in Houston, TX at 427 W 20th Street, S
 - Website: https://www.faceforwardhouston.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-16:00; Tu,Th 09:00-17:00; We 07:30-15:00; Fr 09:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 24% of plastic surgeons in Houston, #2 of 13 plastic surgeons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

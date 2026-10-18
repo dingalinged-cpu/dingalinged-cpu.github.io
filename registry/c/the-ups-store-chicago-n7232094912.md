@@ -13,7 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 1751 West Howard Street #D
 - Website: https://locations.theupsstore.com/il/chicago/1751-w-howard-st
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 30% of printing services in Chicago, #23 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 55.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

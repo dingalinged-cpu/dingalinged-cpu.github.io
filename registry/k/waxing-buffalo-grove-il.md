@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Buffalo Grove, IL is European Wax Center (a waxing salon in Buffalo Grove, IL at 1537 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html). 1 waxing businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Buffalo Grove, IL is European Wax Center (a waxing salon in Buffalo Grove, IL at 1537 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html). 1 waxing businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Buffalo Grove, IL?
 
 Also answers: waxing in Buffalo Grove, IL; waxing near me (Buffalo Grove, IL); best waxing Buffalo Grove, IL; top rated waxing Buffalo Grove, IL; affordable waxing Buffalo Grove, IL; emergency waxing Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Wax Center | trust 10.0 | European Wax Center is a waxing salon in Buffalo Grove, IL at 1537 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-buffalo-grove/
+1. European Wax Center | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | European Wax Center is a waxing salon in Buffalo Grove, IL at 1537 Deerfield Parkway, Buffalo Grove, IL 60089. Website: https://locations.waxcenter.com/il/buffalogrove/buffalo-grove-the-shops-at-buffalo-grove-1316.html. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing buffalo grove il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

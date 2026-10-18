@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Mckinney, TX is Owner Managed Homes (a real estate agency in McKinney, TX at 2150 South Central Expressway ##200, McKinney, TX 75070. Phone: +12145512149. Website: https://www.ownermanagedhomes.com/). 1 real estate agent businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Mckinney, TX is Owner Managed Homes (a real estate agency in McKinney, TX at 2150 South Central Expressway ##200, McKinney, TX 75070. Phone: +12145512149. Website: https://www.ownermanagedhomes.com/). 1 real estate agent businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Mckinney, TX?
 
 Also answers: real estate agent in Mckinney, TX; real estate agent near me (Mckinney, TX); best real estate agent Mckinney, TX; top rated real estate agent Mckinney, TX; affordable real estate agent Mckinney, TX; emergency real estate agent Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Owner Managed Homes | trust 20.0 | Owner Managed Homes is a real estate agency in McKinney, TX at 2150 South Central Expressway ##200, McKinney, TX 75070. Phone: +12145512149. Website: https://www.ownermanagedhomes.com/. | https://dingalinged-cpu.github.io/registry/c/owner-managed-homes-mckinney/
+1. Owner Managed Homes | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Owner Managed Homes is a real estate agency in McKinney, TX at 2150 South Central Expressway ##200, McKinney, TX 75070. Phone: +12145512149. Website: https://www.ownermanagedhomes.com/. | https://dingalinged-cpu.github.io/registry/c/owner-managed-homes-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent mckinney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

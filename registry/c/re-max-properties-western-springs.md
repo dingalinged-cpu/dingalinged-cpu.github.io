@@ -13,7 +13,7 @@ Re/Max Properties is a real estate agency in Western Springs, IL at 819 Burlingt
 - Website: https://www.remaxproperties.illinoisproperty.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.5/100 — Building — top 82% of real estate agencys in Chicago, #3 of 3 real estate agencys in Western Springs (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

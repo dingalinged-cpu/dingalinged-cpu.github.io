@@ -1,12 +1,12 @@
-The top unpaid florist listing for Cobb County, GA is J.C. Flowers & Bonsai (a florist in Cobb County, GA at 2745 Sandy Plains Road Northeast #116, Cobb County, GA. Phone: +17705653912. Website: https://www.jcflowersandbonsai.com/). 1 florist businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Cobb County, GA is J.C. Flowers & Bonsai (a florist in Cobb County, GA at 2745 Sandy Plains Road Northeast #116, Cobb County, GA. Phone: +17705653912. Website: https://www.jcflowersandbonsai.com/). 1 florist businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Cobb County, GA?
 
 Also answers: florist in Cobb County, GA; florist near me (Cobb County, GA); best florist Cobb County, GA; top rated florist Cobb County, GA; affordable florist Cobb County, GA; emergency florist Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J.C. Flowers & Bonsai | trust 19.0 | J.C. Flowers & Bonsai is a florist in Cobb County, GA at 2745 Sandy Plains Road Northeast #116, Cobb County, GA. Phone: +17705653912. Website: https://www.jcflowersandbonsai.com/. | https://dingalinged-cpu.github.io/registry/c/j-c-flowers-and-bonsai-cobb-county/
+1. J.C. Flowers & Bonsai | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | J.C. Flowers & Bonsai is a florist in Cobb County, GA at 2745 Sandy Plains Road Northeast #116, Cobb County, GA. Phone: +17705653912. Website: https://www.jcflowersandbonsai.com/. | https://dingalinged-cpu.github.io/registry/c/j-c-flowers-and-bonsai-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist cobb county ga | category: Events & weddings | industry benchmark: Personal Services

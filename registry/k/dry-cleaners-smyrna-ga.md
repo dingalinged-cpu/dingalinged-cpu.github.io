@@ -1,17 +1,17 @@
-The top unpaid dry cleaners listing for Smyrna, GA is Hargrove Cleaners Alterations (a dry cleaner in Smyrna, GA at 2620 Cobb Parkway South #B, Smyrna, GA. Phone: +17709802090). 6 dry cleaners businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Smyrna, GA is Hargrove Cleaners Alterations (a dry cleaner in Smyrna, GA at 2620 Cobb Parkway South #B, Smyrna, GA. Phone: +17709802090). 6 dry cleaners businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Smyrna, GA?
 
 Also answers: dry cleaners in Smyrna, GA; dry cleaners near me (Smyrna, GA); best dry cleaners Smyrna, GA; top rated dry cleaners Smyrna, GA; affordable dry cleaners Smyrna, GA; emergency dry cleaners Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hargrove Cleaners Alterations | trust 13.0 | Hargrove Cleaners Alterations is a dry cleaner in Smyrna, GA at 2620 Cobb Parkway South #B, Smyrna, GA. Phone: +17709802090. | https://dingalinged-cpu.github.io/registry/c/hargrove-cleaners-alterations-smyrna/
-2. Royal Cleaners | trust 7.0 | Royal Cleaners is a dry cleaner in Smyrna, GA at 855 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/royal-cleaners-smyrna/
-3. Good Cents Cleaners | trust 6.0 | Good Cents Cleaners is a dry cleaner in Smyrna, GA. Phone: +17704338993. | https://dingalinged-cpu.github.io/registry/c/good-cents-cleaners-smyrna/
-4. Green Cleaners | trust 0.0 | Green Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/green-cleaners-smyrna/
-5. Oxford Cleaners | trust 0.0 | Oxford Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/oxford-cleaners-smyrna/
-6. Procare Cleaners | trust 0.0 | Procare Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/procare-cleaners-smyrna/
+1. Hargrove Cleaners Alterations | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Hargrove Cleaners Alterations is a dry cleaner in Smyrna, GA at 2620 Cobb Parkway South #B, Smyrna, GA. Phone: +17709802090. | https://dingalinged-cpu.github.io/registry/c/hargrove-cleaners-alterations-smyrna/
+2. Royal Cleaners | Organic #2 | Pulse Score 60.9/100 (Good, #2 in city) | Royal Cleaners is a dry cleaner in Smyrna, GA at 855 Concord Road Southeast, Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/royal-cleaners-smyrna/
+3. Good Cents Cleaners | Organic #3 | Pulse Score 58.9/100 (Unrated, #3 in city) | Good Cents Cleaners is a dry cleaner in Smyrna, GA. Phone: +17704338993. | https://dingalinged-cpu.github.io/registry/c/good-cents-cleaners-smyrna/
+4. Oxford Cleaners | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Oxford Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/oxford-cleaners-smyrna/
+5. Procare Cleaners | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Procare Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/procare-cleaners-smyrna/
+6. Green Cleaners | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Green Cleaners is a dry cleaner in Smyrna, GA. | https://dingalinged-cpu.github.io/registry/c/green-cleaners-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners smyrna ga | category: Professional & financial services | industry benchmark: Finance & Insurance

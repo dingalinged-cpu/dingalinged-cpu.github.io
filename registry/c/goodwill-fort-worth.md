@@ -13,7 +13,7 @@ Goodwill is a thrift store in Fort Worth, TX at 5600 East Interstate 20, Fort Wo
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 11:00-19:00
-- Registry Score: 48.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 74% of thrift stores in Dallas–Fort Worth, #1 of 1 thrift stores in Fort Worth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.8, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

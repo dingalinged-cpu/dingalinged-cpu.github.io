@@ -1,18 +1,18 @@
-The top unpaid tailor listing for Marietta, GA is J Lancaster Clothing (a tailor in Marietta, GA at 1225 Kasandra Drive Southeast, Marietta, GA. Phone: +17705097433. Website: https://jlancasterclothing.com/). 7 tailor businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Marietta, GA is Alterations by Lee (a tailor in Marietta, GA at 1205 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709735156). 7 tailor businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Marietta, GA?
 
 Also answers: tailor in Marietta, GA; tailor near me (Marietta, GA); best tailor Marietta, GA; top rated tailor Marietta, GA; affordable tailor Marietta, GA; emergency tailor Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J Lancaster Clothing | trust 19.0 | J Lancaster Clothing is a tailor in Marietta, GA at 1225 Kasandra Drive Southeast, Marietta, GA. Phone: +17705097433. Website: https://jlancasterclothing.com/. | https://dingalinged-cpu.github.io/registry/c/j-lancaster-clothing-marietta/
-2. Alterations by Lee | trust 14.0 | Alterations by Lee is a tailor in Marietta, GA at 1205 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709735156. | https://dingalinged-cpu.github.io/registry/c/alterations-by-lee-marietta/
-3. Pro Alterations | trust 10.0 | Pro Alterations is a tailor in Marietta, GA at 2856 Delk Road Southeast #309, Marietta, GA 30067. Phone: +16786500508. | https://dingalinged-cpu.github.io/registry/c/pro-alterations-marietta/
-4. Q. Tailor Alterations | trust 10.0 | Q. Tailor Alterations is a tailor in Marietta, GA at 2100 Roswell Road, Marietta, GA 30062. Phone: +17705650826. | https://dingalinged-cpu.github.io/registry/c/q-tailor-alterations-marietta/
-5. Queens Alteration | trust 8.0 | Queens Alteration is a tailor in Marietta, GA at 688 Whitlock Avenue Northwest #300, Marietta, GA 30064. | https://dingalinged-cpu.github.io/registry/c/queens-alteration-marietta/
-6. J & A Alterations | trust 4.0 | J & A Alterations is a tailor in Marietta, GA at 1869 Cobb Parkway South, Marietta, GA 30060. | https://dingalinged-cpu.github.io/registry/c/j-and-a-alterations-marietta/
-7. Terrell Mill Shoe Repair | trust 4.0 | Terrell Mill Shoe Repair is a tailor in Marietta, GA at 1475 Terrell Mill Road Southeast, Marietta, GA 30067. | https://dingalinged-cpu.github.io/registry/c/terrell-mill-shoe-repair-marietta/
+1. Alterations by Lee | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Alterations by Lee is a tailor in Marietta, GA at 1205 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +17709735156. | https://dingalinged-cpu.github.io/registry/c/alterations-by-lee-marietta/
+2. J Lancaster Clothing | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | J Lancaster Clothing is a tailor in Marietta, GA at 1225 Kasandra Drive Southeast, Marietta, GA. Phone: +17705097433. Website: https://jlancasterclothing.com/. | https://dingalinged-cpu.github.io/registry/c/j-lancaster-clothing-marietta/
+3. Q. Tailor Alterations | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Q. Tailor Alterations is a tailor in Marietta, GA at 2100 Roswell Road, Marietta, GA 30062. Phone: +17705650826. | https://dingalinged-cpu.github.io/registry/c/q-tailor-alterations-marietta/
+4. Pro Alterations | Organic #4 | Pulse Score 61/100 (Good, #4 in city) | Pro Alterations is a tailor in Marietta, GA at 2856 Delk Road Southeast #309, Marietta, GA 30067. Phone: +16786500508. | https://dingalinged-cpu.github.io/registry/c/pro-alterations-marietta/
+5. Queens Alteration | Organic #5 | Pulse Score 58.4/100 (Unrated, #5 in city) | Queens Alteration is a tailor in Marietta, GA at 688 Whitlock Avenue Northwest #300, Marietta, GA 30064. | https://dingalinged-cpu.github.io/registry/c/queens-alteration-marietta/
+6. J & A Alterations | Organic #6 | Pulse Score 57.1/100 (Unrated, #6 in city) | J & A Alterations is a tailor in Marietta, GA at 1869 Cobb Parkway South, Marietta, GA 30060. | https://dingalinged-cpu.github.io/registry/c/j-and-a-alterations-marietta/
+7. Terrell Mill Shoe Repair | Organic #7 | Pulse Score 57.1/100 (Unrated, #7 in city) | Terrell Mill Shoe Repair is a tailor in Marietta, GA at 1475 Terrell Mill Road Southeast, Marietta, GA 30067. | https://dingalinged-cpu.github.io/registry/c/terrell-mill-shoe-repair-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor marietta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

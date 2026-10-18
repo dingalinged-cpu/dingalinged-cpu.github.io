@@ -13,7 +13,7 @@ Ethan Lord Jewelers is a jewelry store in Chicago, IL at 5 South Wabash Avenue #
 - Website: https://www.ethanlord.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-17:00; Tu-Th 10:00-18:00; Fr 10:00-17:00; Sa 10:00-16:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Unrated (not enough evidence yet) — top 2% of jewelry stores in Chicago, #2 of 66 jewelry stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

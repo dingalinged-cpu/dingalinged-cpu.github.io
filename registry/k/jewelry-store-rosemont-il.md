@@ -1,19 +1,19 @@
-The top unpaid jewelry store listing for Rosemont, IL is Helzberg Diamonds (a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018). 8 jewelry store businesses are listed for Rosemont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Rosemont, IL is Gold & Diamond (a jewelry store in Rosemont, IL). 8 jewelry store businesses are listed for Rosemont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Rosemont, IL?
 
 Also answers: jewelry store in Rosemont, IL; jewelry store near me (Rosemont, IL); best jewelry store Rosemont, IL; top rated jewelry store Rosemont, IL; affordable jewelry store Rosemont, IL; emergency jewelry store Rosemont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Helzberg Diamonds | trust 4.0 | Helzberg Diamonds is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-rosemont/
-2. Swarovski | trust 4.0 | Swarovski is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/swarovski-rosemont/
-3. Gold & Diamond | trust 0.0 | Gold & Diamond is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/gold-and-diamond-rosemont/
-4. House of Dubai | trust 0.0 | House of Dubai is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/house-of-dubai-rosemont/
-5. Kipling1 | trust 0.0 | Kipling1 is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/kipling1-rosemont/
-6. Lovisa | trust 0.0 | Lovisa is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/lovisa-rosemont/
-7. Pandora | trust 0.0 | Pandora is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-rosemont/
-8. Silver Corner | trust 0.0 | Silver Corner is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/silver-corner-rosemont/
+1. Gold & Diamond | Organic #1 | Pulse Score 55.8/100 (Unrated, #1 in city) | Gold & Diamond is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/gold-and-diamond-rosemont/
+2. House of Dubai | Organic #2 | Pulse Score 55.8/100 (Unrated, #2 in city) | House of Dubai is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/house-of-dubai-rosemont/
+3. Kipling1 | Organic #3 | Pulse Score 55.8/100 (Unrated, #3 in city) | Kipling1 is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/kipling1-rosemont/
+4. Silver Corner | Organic #4 | Pulse Score 55.8/100 (Unrated, #4 in city) | Silver Corner is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/silver-corner-rosemont/
+5. Helzberg Diamonds | Organic #5 | Pulse Score 46.1/100 (Building, #5 in city) | Helzberg Diamonds is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-rosemont/
+6. Swarovski | Organic #6 | Pulse Score 46.1/100 (Building, #6 in city) | Swarovski is a jewelry store in Rosemont, IL at 5220 Fashion Outlets Way, Rosemont, IL 60018. | https://dingalinged-cpu.github.io/registry/c/swarovski-rosemont/
+7. Lovisa | Organic #7 | Pulse Score 43.4/100 (Building, #7 in city) | Lovisa is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/lovisa-rosemont/
+8. Pandora | Organic #8 | Pulse Score 43.4/100 (Building, #8 in city) | Pandora is a jewelry store in Rosemont, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-rosemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store rosemont il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Hurst, TX is James Avery Jewelry (a jewelry store in Hurst, TX at 1101 Melbourne Road Suite 3074, Hurst, TX 76053. Phone: +16827579133. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=810). 2 jewelry store businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Hurst, TX is Hurst Gold & Silver (a jewelry store in Hurst, TX at 803 Precinct Line Road, Hurst, TX 76053. Phone: +18172820223). 2 jewelry store businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Hurst, TX?
 
 Also answers: jewelry store in Hurst, TX; jewelry store near me (Hurst, TX); best jewelry store Hurst, TX; top rated jewelry store Hurst, TX; affordable jewelry store Hurst, TX; emergency jewelry store Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Hurst, TX at 1101 Melbourne Road Suite 3074, Hurst, TX 76053. Phone: +16827579133. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=810. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-hurst/
-2. Hurst Gold & Silver | trust 14.0 | Hurst Gold & Silver is a jewelry store in Hurst, TX at 803 Precinct Line Road, Hurst, TX 76053. Phone: +18172820223. | https://dingalinged-cpu.github.io/registry/c/hurst-gold-and-silver-hurst/
+1. Hurst Gold & Silver | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Hurst Gold & Silver is a jewelry store in Hurst, TX at 803 Precinct Line Road, Hurst, TX 76053. Phone: +18172820223. | https://dingalinged-cpu.github.io/registry/c/hurst-gold-and-silver-hurst/
+2. James Avery Jewelry | Organic #2 | Pulse Score 49.2/100 (Building, #2 in city) | James Avery Jewelry is a jewelry store in Hurst, TX at 1101 Melbourne Road Suite 3074, Hurst, TX 76053. Phone: +16827579133. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=810. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store hurst tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

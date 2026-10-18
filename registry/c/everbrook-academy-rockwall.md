@@ -13,7 +13,7 @@ Everbrook Academy is a preschool in Rockwall, TX at 320 Dalton Road, Rockwall, T
 - Website: https://www.everbrookacademy.com/our-schools/rockwall-tx-4892/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: 51.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Unrated (not enough evidence yet) — top 52% of preschools in Dallas–Fort Worth, #6 of 6 preschools in Rockwall (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

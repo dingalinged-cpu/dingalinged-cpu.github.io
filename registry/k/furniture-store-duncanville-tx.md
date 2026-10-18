@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Duncanville, TX is Great 4 You Home Store (a furniture store in Duncanville, TX at 803 East Highway 67, Duncanville, TX 75137). 2 furniture store businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Duncanville, TX is Great 4 You Home Store (a furniture store in Duncanville, TX at 803 East Highway 67, Duncanville, TX 75137). 2 furniture store businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Duncanville, TX?
 
 Also answers: furniture store in Duncanville, TX; furniture store near me (Duncanville, TX); best furniture store Duncanville, TX; top rated furniture store Duncanville, TX; affordable furniture store Duncanville, TX; emergency furniture store Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great 4 You Home Store | trust 4.0 | Great 4 You Home Store is a furniture store in Duncanville, TX at 803 East Highway 67, Duncanville, TX 75137. | https://dingalinged-cpu.github.io/registry/c/great-4-you-home-store-duncanville/
-2. Metropolitan American Furnishings | trust 0.0 | Metropolitan American Furnishings is a furniture store in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/metropolitan-american-furnishings-duncanville/
+1. Great 4 You Home Store | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Great 4 You Home Store is a furniture store in Duncanville, TX at 803 East Highway 67, Duncanville, TX 75137. | https://dingalinged-cpu.github.io/registry/c/great-4-you-home-store-duncanville/
+2. Metropolitan American Furnishings | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Metropolitan American Furnishings is a furniture store in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/metropolitan-american-furnishings-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store duncanville tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

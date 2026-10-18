@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Morton Grove, IL is Active Health Spine & Sport (a chiropractor in Morton Grove, IL at 5814 Dempster Street, Morton Grove, IL 60053. Phone: +18478864419. Website: https://www.activehealthchicago.com/). 2 chiropractor businesses are listed for Morton Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Morton Grove, IL is Active Health Spine & Sport (a chiropractor in Morton Grove, IL at 5814 Dempster Street, Morton Grove, IL 60053. Phone: +18478864419. Website: https://www.activehealthchicago.com/). 2 chiropractor businesses are listed for Morton Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Morton Grove, IL?
 
 Also answers: chiropractor in Morton Grove, IL; chiropractor near me (Morton Grove, IL); best chiropractor Morton Grove, IL; top rated chiropractor Morton Grove, IL; affordable chiropractor Morton Grove, IL; emergency chiropractor Morton Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Active Health Spine & Sport | trust 20.0 | Active Health Spine & Sport is a chiropractor in Morton Grove, IL at 5814 Dempster Street, Morton Grove, IL 60053. Phone: +18478864419. Website: https://www.activehealthchicago.com/. | https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-morton-grove/
-2. Orman Chiropractic | trust 0.0 | Orman Chiropractic is a chiropractor in Morton Grove, IL. | https://dingalinged-cpu.github.io/registry/c/orman-chiropractic-morton-grove/
+1. Active Health Spine & Sport | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Active Health Spine & Sport is a chiropractor in Morton Grove, IL at 5814 Dempster Street, Morton Grove, IL 60053. Phone: +18478864419. Website: https://www.activehealthchicago.com/. | https://dingalinged-cpu.github.io/registry/c/active-health-spine-and-sport-morton-grove/
+2. Orman Chiropractic | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Orman Chiropractic is a chiropractor in Morton Grove, IL. | https://dingalinged-cpu.github.io/registry/c/orman-chiropractic-morton-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor morton grove il | category: Health & medical | industry benchmark: Physicians & Surgeons

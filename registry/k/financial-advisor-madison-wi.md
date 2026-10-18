@@ -1,17 +1,17 @@
-The top unpaid financial advisor listing for Madison, WI is Retirement Income Planning LLC (a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/). 6 financial advisor businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Madison, WI is Retirement Income Planning LLC (a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/). 6 financial advisor businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Madison, WI?
 
 Also answers: financial advisor in Madison, WI; financial advisor near me (Madison, WI); best financial advisor Madison, WI; top rated financial advisor Madison, WI; affordable financial advisor Madison, WI; emergency financial advisor Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Retirement Income Planning LLC | trust 20.0 | Retirement Income Planning LLC is a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/. | https://dingalinged-cpu.github.io/registry/c/retirement-income-planning-llc-madison/
-2. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison/
-3. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n12365120471/
-4. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n13959226183/
-5. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n4199661454/
-6. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n4943249753/
+1. Retirement Income Planning LLC | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Retirement Income Planning LLC is a financial advisor in Madison, WI at 2310 Crossroads Drive #4700, Madison, WI 53718. Phone: +16088071100. Website: https://retirementincomeplanningllc.com/. | https://dingalinged-cpu.github.io/registry/c/retirement-income-planning-llc-madison/
+2. Edward Jones | Organic #2 | Pulse Score 43.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison/
+3. Edward Jones | Organic #3 | Pulse Score 43.5/100 (Building, #3 in city) | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n12365120471/
+4. Edward Jones | Organic #4 | Pulse Score 43.5/100 (Building, #4 in city) | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n13959226183/
+5. Edward Jones | Organic #5 | Pulse Score 43.5/100 (Building, #5 in city) | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n4199661454/
+6. Edward Jones | Organic #6 | Pulse Score 43.5/100 (Building, #6 in city) | Edward Jones is a financial advisor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/edward-jones-madison-n4943249753/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor madison wi | category: Professional & financial services | industry benchmark: Finance & Insurance

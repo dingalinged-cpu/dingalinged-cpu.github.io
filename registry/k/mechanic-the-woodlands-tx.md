@@ -1,17 +1,17 @@
-The top unpaid mechanic listing for The Woodlands, TX is Complete Car Care (an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428). 6 mechanic businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for The Woodlands, TX is Complete Car Care (an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428). 6 mechanic businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in The Woodlands, TX?
 
 Also answers: mechanic in The Woodlands, TX; mechanic near me (The Woodlands, TX); best mechanic The Woodlands, TX; top rated mechanic The Woodlands, TX; affordable mechanic The Woodlands, TX; emergency mechanic The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Complete Car Care | trust 16.0 | Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428. | https://dingalinged-cpu.github.io/registry/c/complete-car-care-the-woodlands/
-2. Kwik Kar Lube and Repair | trust 4.0 | Kwik Kar Lube and Repair is an auto repair shop in The Woodlands, TX at 6801 Woodlands Parkway, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-repair-the-woodlands/
-3. Take 5 | trust 3.0 | Take 5 is an auto repair shop in The Woodlands, TX at 7940 Research Forest Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-the-woodlands/
-4. Firestone | trust 0.0 | Firestone is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-the-woodlands/
-5. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-the-woodlands/
-6. Rooster Ridge Car Care | trust 0.0 | Rooster Ridge Car Care is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/rooster-ridge-car-care-the-woodlands/
+1. Complete Car Care | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Complete Car Care is an auto repair shop in The Woodlands, TX at 8181 Kuykendahl Road, The Woodlands, TX 77382. Phone: +12814197333. Website: https://www.goodyear.com/en-US/tire-shop/The+Woodlands+TX+77382+US/000197428. | https://dingalinged-cpu.github.io/registry/c/complete-car-care-the-woodlands/
+2. Kwik Kar Lube and Repair | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Kwik Kar Lube and Repair is an auto repair shop in The Woodlands, TX at 6801 Woodlands Parkway, The Woodlands, TX 77382. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-repair-the-woodlands/
+3. Rooster Ridge Car Care | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Rooster Ridge Car Care is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/rooster-ridge-car-care-the-woodlands/
+4. Take 5 | Organic #4 | Pulse Score 44.2/100 (Unrated, #4 in city) | Take 5 is an auto repair shop in The Woodlands, TX at 7940 Research Forest Drive, The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-the-woodlands/
+5. Firestone | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Firestone is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-the-woodlands/
+6. Jiffy Lube | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Jiffy Lube is an auto repair shop in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic the woodlands tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

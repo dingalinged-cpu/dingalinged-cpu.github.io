@@ -13,7 +13,7 @@ Take 5 Oil Change is an auto repair shop in Palos Heights, IL at 12861 Harlem Av
 - Website: https://www.take5.com/locations/oil-change/illinois/palos-heights/31288/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 60% of auto repair shops in Chicago, #3 of 3 auto repair shops in Palos Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

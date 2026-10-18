@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Riverwoods, IL is The Federal Life Companies (an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015). 2 insurance agents businesses are listed for Riverwoods, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Riverwoods, IL is The Federal Life Companies (an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015). 2 insurance agents businesses are listed for Riverwoods, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Riverwoods, IL?
 
 Also answers: insurance agents in Riverwoods, IL; insurance agents near me (Riverwoods, IL); best insurance agents Riverwoods, IL; top rated insurance agents Riverwoods, IL; affordable insurance agents Riverwoods, IL; emergency insurance agents Riverwoods, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Federal Life Companies | trust 4.0 | The Federal Life Companies is an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015. | https://dingalinged-cpu.github.io/registry/c/the-federal-life-companies-riverwoods/
-2. State Farm | trust 0.0 | State Farm is an insurance agent in Riverwoods, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-riverwoods/
+1. The Federal Life Companies | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | The Federal Life Companies is an insurance agent in Riverwoods, IL at 3756 Deerfield Road, Riverwoods, IL 60015. | https://dingalinged-cpu.github.io/registry/c/the-federal-life-companies-riverwoods/
+2. State Farm | Organic #2 | Pulse Score 41.5/100 (Building, #2 in city) | State Farm is an insurance agent in Riverwoods, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-riverwoods/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents riverwoods il | category: insurance | industry benchmark: Finance & Insurance

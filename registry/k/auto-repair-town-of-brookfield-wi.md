@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Town Of Brookfield, WI is Super Lube (an auto repair shop in Town of Brookfield, WI). 1 auto repair businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Town Of Brookfield, WI is Super Lube (an auto repair shop in Town of Brookfield, WI). 1 auto repair businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Town Of Brookfield, WI?
 
 Also answers: auto repair in Town Of Brookfield, WI; auto repair near me (Town Of Brookfield, WI); best auto repair Town Of Brookfield, WI; top rated auto repair Town Of Brookfield, WI; affordable auto repair Town Of Brookfield, WI; emergency auto repair Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super Lube | trust 0.0 | Super Lube is an auto repair shop in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/super-lube-town-of-brookfield/
+1. Super Lube | Organic #1 | Pulse Score 41.5/100 (Unrated, #1 in city) | Super Lube is an auto repair shop in Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/super-lube-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair town of brookfield wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

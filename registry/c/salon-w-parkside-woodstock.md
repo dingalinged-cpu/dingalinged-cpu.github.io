@@ -13,7 +13,7 @@ Salon W Parkside is a hair salon in Woodstock, GA at 105 East Main Street #130, 
 - Website: https://salonwparkside.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Su off; We-Fr 10:00-19:00; Sa 09:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 4% of hair salons in Atlanta, #2 of 14 hair salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.7, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Conroe, TX is Crowl, Cameron & Associates PLLC (an accountant in Conroe, TX at 303 Longmire Road #Suite 201, Conroe, TX 77304). 1 accounting services businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Conroe, TX is Crowl, Cameron & Associates PLLC (an accountant in Conroe, TX at 303 Longmire Road #Suite 201, Conroe, TX 77304). 1 accounting services businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Conroe, TX?
 
 Also answers: accounting services in Conroe, TX; accounting services near me (Conroe, TX); best accounting services Conroe, TX; top rated accounting services Conroe, TX; affordable accounting services Conroe, TX; emergency accounting services Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crowl, Cameron & Associates PLLC | trust 8.0 | Crowl, Cameron & Associates PLLC is an accountant in Conroe, TX at 303 Longmire Road #Suite 201, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/crowl-cameron-and-associates-pllc-conroe/
+1. Crowl, Cameron & Associates PLLC | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Crowl, Cameron & Associates PLLC is an accountant in Conroe, TX at 303 Longmire Road #Suite 201, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/crowl-cameron-and-associates-pllc-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services conroe tx | category: professional_accounting | industry benchmark: Business Services

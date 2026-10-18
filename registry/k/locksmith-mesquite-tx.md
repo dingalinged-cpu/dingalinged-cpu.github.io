@@ -1,12 +1,12 @@
-The top unpaid locksmith listing for Mesquite, TX is GLC Locksmith Services (a locksmith in Mesquite, TX at 4111 US Highway 80 #208, Mesquite, TX 75150. Phone: +14694586334. Website: https://glclocksmithservice.com/). 1 locksmith businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Mesquite, TX is GLC Locksmith Services (a locksmith in Mesquite, TX at 4111 US Highway 80 #208, Mesquite, TX 75150. Phone: +14694586334. Website: https://glclocksmithservice.com/). 1 locksmith businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Mesquite, TX?
 
 Also answers: locksmith in Mesquite, TX; locksmith near me (Mesquite, TX); best locksmith Mesquite, TX; top rated locksmith Mesquite, TX; affordable locksmith Mesquite, TX; emergency locksmith Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GLC Locksmith Services | trust 20.0 | GLC Locksmith Services is a locksmith in Mesquite, TX at 4111 US Highway 80 #208, Mesquite, TX 75150. Phone: +14694586334. Website: https://glclocksmithservice.com/. | https://dingalinged-cpu.github.io/registry/c/glc-locksmith-services-mesquite/
+1. GLC Locksmith Services | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | GLC Locksmith Services is a locksmith in Mesquite, TX at 4111 US Highway 80 #208, Mesquite, TX 75150. Phone: +14694586334. Website: https://glclocksmithservice.com/. | https://dingalinged-cpu.github.io/registry/c/glc-locksmith-services-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith mesquite tx | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

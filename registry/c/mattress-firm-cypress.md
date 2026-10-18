@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Cypress, TX at 25905 Northwest Freeway #J, 
 - Website: https://www.mattressfirm.com/en-us/stores/tx/cypress/001046/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 70% of mattress stores in Houston, #2 of 2 mattress stores in Cypress (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 48.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

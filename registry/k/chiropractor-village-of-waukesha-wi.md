@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Village Of Waukesha, WI is Badger Health Center (a chiropractor in Waukesha, WI at S31W24757 Sunset Drive, Waukesha, WI 53189. Phone: +12625472250. Website: https://badgerhealth.com/). 1 chiropractor businesses are listed for Village Of Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Village Of Waukesha, WI is Badger Health Center (a chiropractor in Waukesha, WI at S31W24757 Sunset Drive, Waukesha, WI 53189. Phone: +12625472250. Website: https://badgerhealth.com/). 1 chiropractor businesses are listed for Village Of Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Village Of Waukesha, WI?
 
 Also answers: chiropractor in Village Of Waukesha, WI; chiropractor near me (Village Of Waukesha, WI); best chiropractor Village Of Waukesha, WI; top rated chiropractor Village Of Waukesha, WI; affordable chiropractor Village Of Waukesha, WI; emergency chiropractor Village Of Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Badger Health Center | trust 20.0 | Badger Health Center is a chiropractor in Waukesha, WI at S31W24757 Sunset Drive, Waukesha, WI 53189. Phone: +12625472250. Website: https://badgerhealth.com/. | https://dingalinged-cpu.github.io/registry/c/badger-health-center-waukesha/
+1. Badger Health Center | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Badger Health Center is a chiropractor in Waukesha, WI at S31W24757 Sunset Drive, Waukesha, WI 53189. Phone: +12625472250. Website: https://badgerhealth.com/. | https://dingalinged-cpu.github.io/registry/c/badger-health-center-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor village of waukesha wi | category: Health & medical | industry benchmark: Physicians & Surgeons

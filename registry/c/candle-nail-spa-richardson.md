@@ -13,7 +13,7 @@ Candle Nail Spa is a nail salon in Richardson, TX at 3501 Custer Parkway #123, R
 - Website: https://www.candlerichardson.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-19:30; Sa 09:00-19:00; Su 11:30-18:00
-- Registry Score: 64.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 4% of nail salons in Dallas–Fort Worth, #1 of 8 nail salons in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.5, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ BomBon Cafe is a bakery in Chicago, IL at 3748 West 26th Street, Chicago, IL 606
 - Website: https://bomboncakes.com/locations/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 19% of bakerys in Chicago, #65 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid music lessons listing for Brookfield, IL is A Sound Education (a music school in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Phone: +17084855074. Website: https://asoundeducation.com/). 2 music lessons businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Brookfield, IL is A Sound Education (a music school in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Phone: +17084855074. Website: https://asoundeducation.com/). 2 music lessons businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Brookfield, IL?
 
 Also answers: music lessons in Brookfield, IL; music lessons near me (Brookfield, IL); best music lessons Brookfield, IL; top rated music lessons Brookfield, IL; affordable music lessons Brookfield, IL; emergency music lessons Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Sound Education | trust 20.0 | A Sound Education is a music school in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Phone: +17084855074. Website: https://asoundeducation.com/. | https://dingalinged-cpu.github.io/registry/c/a-sound-education-brookfield/
-2. Ms. Clara's Mini Musicians | trust 0.0 | Ms. Clara's Mini Musicians is a music school in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/ms-claras-mini-musicians-brookfield/
+1. A Sound Education | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | A Sound Education is a music school in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Phone: +17084855074. Website: https://asoundeducation.com/. | https://dingalinged-cpu.github.io/registry/c/a-sound-education-brookfield/
+2. Ms. Clara's Mini Musicians | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Ms. Clara's Mini Musicians is a music school in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/ms-claras-mini-musicians-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons brookfield il | category: Education & childcare | industry benchmark: Education & Instruction

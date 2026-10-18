@@ -1,15 +1,15 @@
-The top unpaid storage units listing for Yorkville, WI is Hribar Storage (a self-storage facility in Yorkville, WI). 4 storage units businesses are listed for Yorkville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Yorkville, WI is Hribar Storage (a self-storage facility in Yorkville, WI). 4 storage units businesses are listed for Yorkville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Yorkville, WI?
 
 Also answers: storage units in Yorkville, WI; storage units near me (Yorkville, WI); best storage units Yorkville, WI; top rated storage units Yorkville, WI; affordable storage units Yorkville, WI; emergency storage units Yorkville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hribar Storage | trust 0.0 | Hribar Storage is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/hribar-storage-yorkville/
-2. Red Dot Storage | trust 0.0 | Red Dot Storage is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/red-dot-storage-yorkville/
-3. Storage Authority | trust 0.0 | Storage Authority is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/storage-authority-yorkville/
-4. Storage Authority of Union Grove | trust 0.0 | Storage Authority of Union Grove is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/storage-authority-of-union-grove-yorkville/
+1. Hribar Storage | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Hribar Storage is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/hribar-storage-yorkville/
+2. Red Dot Storage | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Red Dot Storage is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/red-dot-storage-yorkville/
+3. Storage Authority | Organic #3 | Pulse Score 54.6/100 (Unrated, #4 in city) | Storage Authority is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/storage-authority-yorkville/
+4. Storage Authority of Union Grove | Organic #4 | Pulse Score 54.6/100 (Unrated, #3 in city) | Storage Authority of Union Grove is a self-storage facility in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/storage-authority-of-union-grove-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units yorkville wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

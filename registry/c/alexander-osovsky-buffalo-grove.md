@@ -13,7 +13,7 @@ Alexander Osovsky is a dentist in Buffalo Grove, IL at 180 North Milwaukee Avenu
 - Website: https://www.dentalestheticsofbuffalogrove.com/meet-dr-osovsky/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 29% of dentists in Chicago, #1 of 2 dentists in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

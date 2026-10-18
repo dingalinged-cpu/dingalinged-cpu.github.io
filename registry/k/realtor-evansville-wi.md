@@ -1,15 +1,15 @@
-The top unpaid realtor listing for Evansville, WI is Realty Executives (a real estate agency in Evansville, WI at 23 West Main Street, Evansville, WI. Phone: +16082905216. Website: https://katshomesales.com/). 4 realtor businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Evansville, WI is Berg (a real estate agency in Evansville, WI at 102 East Main Street, Evansville, WI 53536. Phone: +16088820897). 4 realtor businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Evansville, WI?
 
 Also answers: realtor in Evansville, WI; realtor near me (Evansville, WI); best realtor Evansville, WI; top rated realtor Evansville, WI; affordable realtor Evansville, WI; emergency realtor Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Realty Executives | trust 15.0 | Realty Executives is a real estate agency in Evansville, WI at 23 West Main Street, Evansville, WI. Phone: +16082905216. Website: https://katshomesales.com/. | https://dingalinged-cpu.github.io/registry/c/realty-executives-evansville/
-2. Berg | trust 10.0 | Berg is a real estate agency in Evansville, WI at 102 East Main Street, Evansville, WI 53536. Phone: +16088820897. | https://dingalinged-cpu.github.io/registry/c/berg-evansville/
-3. Century 21 | trust 10.0 | Century 21 is a real estate agency in Evansville, WI at 7 West Main Street, Evansville, WI 53536. Phone: +16088825216. | https://dingalinged-cpu.github.io/registry/c/century-21-evansville/
-4. Evansville Realty | trust 6.0 | Evansville Realty is a real estate agency in Evansville, WI. Phone: +16088826200. | https://dingalinged-cpu.github.io/registry/c/evansville-realty-evansville/
+1. Berg | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Berg is a real estate agency in Evansville, WI at 102 East Main Street, Evansville, WI 53536. Phone: +16088820897. | https://dingalinged-cpu.github.io/registry/c/berg-evansville/
+2. Evansville Realty | Organic #2 | Pulse Score 59.5/100 (Fair, #2 in city) | Evansville Realty is a real estate agency in Evansville, WI. Phone: +16088826200. | https://dingalinged-cpu.github.io/registry/c/evansville-realty-evansville/
+3. Realty Executives | Organic #3 | Pulse Score 49.4/100 (Building, #3 in city) | Realty Executives is a real estate agency in Evansville, WI at 23 West Main Street, Evansville, WI. Phone: +16082905216. Website: https://katshomesales.com/. | https://dingalinged-cpu.github.io/registry/c/realty-executives-evansville/
+4. Century 21 | Organic #4 | Pulse Score 47.6/100 (Building, #4 in city) | Century 21 is a real estate agency in Evansville, WI at 7 West Main Street, Evansville, WI 53536. Phone: +16088825216. | https://dingalinged-cpu.github.io/registry/c/century-21-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor evansville wi | category: real_estate | industry benchmark: Real Estate

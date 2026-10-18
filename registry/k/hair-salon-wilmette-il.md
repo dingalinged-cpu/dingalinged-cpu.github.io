@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Wilmette, IL is KidSnips (a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette, IL 60091). 2 hair salon businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Wilmette, IL is KidSnips (a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette, IL 60091). 2 hair salon businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Wilmette, IL?
 
 Also answers: hair salon in Wilmette, IL; hair salon near me (Wilmette, IL); best hair salon Wilmette, IL; top rated hair salon Wilmette, IL; affordable hair salon Wilmette, IL; emergency hair salon Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KidSnips | trust 4.0 | KidSnips is a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/kidsnips-wilmette/
-2. Ashour's Barber Shop | trust 0.0 | Ashour's Barber Shop is a hair salon in Wilmette, IL. | https://dingalinged-cpu.github.io/registry/c/ashours-barber-shop-wilmette/
+1. KidSnips | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | KidSnips is a hair salon in Wilmette, IL at 3232 Skokie Boulevard #170, Wilmette, IL 60091. | https://dingalinged-cpu.github.io/registry/c/kidsnips-wilmette/
+2. Ashour's Barber Shop | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Ashour's Barber Shop is a hair salon in Wilmette, IL. | https://dingalinged-cpu.github.io/registry/c/ashours-barber-shop-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon wilmette il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

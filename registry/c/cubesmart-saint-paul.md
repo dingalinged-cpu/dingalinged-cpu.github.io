@@ -13,7 +13,7 @@ CubeSmart is a self-storage facility in Saint Paul, MN at 631 Transfer Road, Sai
 - Website: https://www.cubesmart.com/minnesota-self-storage/saint-paul-self-storage/4006.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa 08:30-17:00; Su 11:00-15:30
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 38% of self-storage facilitys in Minneapolis–St. Paul, #9 of 13 self-storage facilitys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid architect listing for Coppell, TX is Osterberger Design Group (an architect in Coppell, TX. Website: https://www.osterbergergroup.com/). 1 architect businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Coppell, TX is Osterberger Design Group (an architect in Coppell, TX. Website: https://www.osterbergergroup.com/). 1 architect businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Coppell, TX?
 
 Also answers: architect in Coppell, TX; architect near me (Coppell, TX); best architect Coppell, TX; top rated architect Coppell, TX; affordable architect Coppell, TX; emergency architect Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Osterberger Design Group | trust 6.0 | Osterberger Design Group is an architect in Coppell, TX. Website: https://www.osterbergergroup.com/. | https://dingalinged-cpu.github.io/registry/c/osterberger-design-group-coppell/
+1. Osterberger Design Group | Organic #1 | Pulse Score 58.6/100 (Fair, #1 in city) | Osterberger Design Group is an architect in Coppell, TX. Website: https://www.osterbergergroup.com/. | https://dingalinged-cpu.github.io/registry/c/osterberger-design-group-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect coppell tx | category: Home services - Design | industry benchmark: Home & Home Improvement

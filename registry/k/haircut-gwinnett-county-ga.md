@@ -1,38 +1,38 @@
-The top unpaid haircut listing for Gwinnett County, GA is Hair Clinique Hair Salon (a hair salon in Gwinnett County, GA. Website: https://haircaregwinnett.com/). 27 haircut businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Gwinnett County, GA is Hair Clinique Hair Salon (a hair salon in Gwinnett County, GA. Website: https://haircaregwinnett.com/). 27 haircut businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Gwinnett County, GA?
 
 Also answers: haircut in Gwinnett County, GA; haircut near me (Gwinnett County, GA); best haircut Gwinnett County, GA; top rated haircut Gwinnett County, GA; affordable haircut Gwinnett County, GA; emergency haircut Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Clinique Hair Salon | trust 6.0 | Hair Clinique Hair Salon is a hair salon in Gwinnett County, GA. Website: https://haircaregwinnett.com/. | https://dingalinged-cpu.github.io/registry/c/hair-clinique-hair-salon-gwinnett-county/
-2. Joe's Barber Shop | trust 4.0 | Joe's Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/joes-barber-shop-gwinnett-county/
-3. Beauty & Braids Salon | trust 0.0 | Beauty & Braids Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/beauty-and-braids-salon-gwinnett-county/
-4. Chris' Barbershop | trust 0.0 | Chris' Barbershop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/chris-barbershop-gwinnett-county/
-5. D'Cache Salon de Belleza | trust 0.0 | D'Cache Salon de Belleza is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dcache-salon-de-belleza-gwinnett-county/
-6. Divine Grace Hair Braiding | trust 0.0 | Divine Grace Hair Braiding is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/divine-grace-hair-braiding-gwinnett-county/
-7. Dominican Barber Shop | trust 0.0 | Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dominican-barber-shop-gwinnett-county/
-8. El Varón Dominican Barber Shop | trust 0.0 | El Varón Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/el-var-n-dominican-barber-shop-gwinnett-county/
-9. Empire Dominican Barbers | trust 0.0 | Empire Dominican Barbers is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/empire-dominican-barbers-gwinnett-county/
-10. Family haircuts and styles | trust 0.0 | Family haircuts and styles is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/family-haircuts-and-styles-gwinnett-county/
-11. Fine Clipper Hair Salon | trust 0.0 | Fine Clipper Hair Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fine-clipper-hair-salon-gwinnett-county/
-12. Glam Luxe Hair Studio | trust 0.0 | Glam Luxe Hair Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/glam-luxe-hair-studio-gwinnett-county/
-13. Great Clips | trust 0.0 | Great Clips is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-gwinnett-county/
-14. Hair & Beyond | trust 0.0 | Hair & Beyond is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/hair-and-beyond-gwinnett-county/
-15. J.A.C. Hair Salon | trust 0.0 | J.A.C. Hair Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/j-a-c-hair-salon-gwinnett-county/
-16. Jazzles Hair Design | trust 0.0 | Jazzles Hair Design is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/jazzles-hair-design-gwinnett-county/
-17. Junior's Barber Shop | trust 0.0 | Junior's Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/juniors-barber-shop-gwinnett-county/
-18. LA Kutz Barber Shop | trust 0.0 | LA Kutz Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-kutz-barber-shop-gwinnett-county/
-19. La Roka Dominican Barber Shop | trust 0.0 | La Roka Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-roka-dominican-barber-shop-gwinnett-county/
-20. MagicTouch | trust 0.0 | MagicTouch is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/magictouch-gwinnett-county/
-21. New Hair Professionals | trust 0.0 | New Hair Professionals is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/new-hair-professionals-gwinnett-county/
-22. Oh My Hair Studio | trust 0.0 | Oh My Hair Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/oh-my-hair-studio-gwinnett-county/
-23. Onyx | trust 0.0 | Onyx is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/onyx-gwinnett-county/
-24. Salon J. Christian | trust 0.0 | Salon J. Christian is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-j-christian-gwinnett-county/
-25. Salon VII | trust 0.0 | Salon VII is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-vii-gwinnett-county/
-26. SmartStyle | trust 0.0 | SmartStyle is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/smartstyle-gwinnett-county/
-27. Vital Salon Studio | trust 0.0 | Vital Salon Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/vital-salon-studio-gwinnett-county/
+1. Hair Clinique Hair Salon | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Hair Clinique Hair Salon is a hair salon in Gwinnett County, GA. Website: https://haircaregwinnett.com/. | https://dingalinged-cpu.github.io/registry/c/hair-clinique-hair-salon-gwinnett-county/
+2. Joe's Barber Shop | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Joe's Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/joes-barber-shop-gwinnett-county/
+3. Chris' Barbershop | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Chris' Barbershop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/chris-barbershop-gwinnett-county/
+4. Junior's Barber Shop | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Junior's Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/juniors-barber-shop-gwinnett-county/
+5. Salon VII | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Salon VII is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-vii-gwinnett-county/
+6. Beauty & Braids Salon | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Beauty & Braids Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/beauty-and-braids-salon-gwinnett-county/
+7. D'Cache Salon de Belleza | Organic #7 | Pulse Score 54.8/100 (Unrated, #7 in city) | D'Cache Salon de Belleza is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dcache-salon-de-belleza-gwinnett-county/
+8. Divine Grace Hair Braiding | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Divine Grace Hair Braiding is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/divine-grace-hair-braiding-gwinnett-county/
+9. Dominican Barber Shop | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/dominican-barber-shop-gwinnett-county/
+10. El Varón Dominican Barber Shop | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | El Varón Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/el-var-n-dominican-barber-shop-gwinnett-county/
+11. Empire Dominican Barbers | Organic #11 | Pulse Score 54.8/100 (Unrated, #11 in city) | Empire Dominican Barbers is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/empire-dominican-barbers-gwinnett-county/
+12. Family haircuts and styles | Organic #12 | Pulse Score 54.8/100 (Unrated, #12 in city) | Family haircuts and styles is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/family-haircuts-and-styles-gwinnett-county/
+13. Fine Clipper Hair Salon | Organic #13 | Pulse Score 54.8/100 (Unrated, #13 in city) | Fine Clipper Hair Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fine-clipper-hair-salon-gwinnett-county/
+14. Glam Luxe Hair Studio | Organic #14 | Pulse Score 54.8/100 (Unrated, #14 in city) | Glam Luxe Hair Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/glam-luxe-hair-studio-gwinnett-county/
+15. Hair & Beyond | Organic #15 | Pulse Score 54.8/100 (Unrated, #15 in city) | Hair & Beyond is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/hair-and-beyond-gwinnett-county/
+16. J.A.C. Hair Salon | Organic #16 | Pulse Score 54.8/100 (Unrated, #16 in city) | J.A.C. Hair Salon is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/j-a-c-hair-salon-gwinnett-county/
+17. Jazzles Hair Design | Organic #17 | Pulse Score 54.8/100 (Unrated, #17 in city) | Jazzles Hair Design is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/jazzles-hair-design-gwinnett-county/
+18. LA Kutz Barber Shop | Organic #18 | Pulse Score 54.8/100 (Unrated, #18 in city) | LA Kutz Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-kutz-barber-shop-gwinnett-county/
+19. La Roka Dominican Barber Shop | Organic #19 | Pulse Score 54.8/100 (Unrated, #19 in city) | La Roka Dominican Barber Shop is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/la-roka-dominican-barber-shop-gwinnett-county/
+20. MagicTouch | Organic #20 | Pulse Score 54.8/100 (Unrated, #20 in city) | MagicTouch is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/magictouch-gwinnett-county/
+21. New Hair Professionals | Organic #21 | Pulse Score 54.8/100 (Unrated, #21 in city) | New Hair Professionals is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/new-hair-professionals-gwinnett-county/
+22. Oh My Hair Studio | Organic #22 | Pulse Score 54.8/100 (Unrated, #22 in city) | Oh My Hair Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/oh-my-hair-studio-gwinnett-county/
+23. Onyx | Organic #23 | Pulse Score 54.8/100 (Unrated, #23 in city) | Onyx is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/onyx-gwinnett-county/
+24. Salon J. Christian | Organic #24 | Pulse Score 54.8/100 (Unrated, #24 in city) | Salon J. Christian is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/salon-j-christian-gwinnett-county/
+25. Vital Salon Studio | Organic #25 | Pulse Score 54.8/100 (Unrated, #25 in city) | Vital Salon Studio is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/vital-salon-studio-gwinnett-county/
+26. Great Clips | Organic #26 | Pulse Score 42.3/100 (Building, #26 in city) | Great Clips is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-gwinnett-county/
+27. SmartStyle | Organic #27 | Pulse Score 42.3/100 (Building, #27 in city) | SmartStyle is a hair salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/smartstyle-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut gwinnett county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

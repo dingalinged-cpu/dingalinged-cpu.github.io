@@ -13,7 +13,7 @@ Rose Couture Nail Bar is a nail salon in Prosper, TX at 1070 South Preston Road 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 89% of nail salons in Dallas–Fort Worth, #3 of 5 nail salons in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.8, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

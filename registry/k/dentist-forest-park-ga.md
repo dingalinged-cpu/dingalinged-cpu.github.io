@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Forest Park, GA is Dental Logic (a dentist in Forest Park, GA). 1 dentist businesses are listed for Forest Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Forest Park, GA is Dental Logic (a dentist in Forest Park, GA). 1 dentist businesses are listed for Forest Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Forest Park, GA?
 
 Also answers: dentist in Forest Park, GA; dentist near me (Forest Park, GA); best dentist Forest Park, GA; top rated dentist Forest Park, GA; affordable dentist Forest Park, GA; emergency dentist Forest Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dental Logic | trust 0.0 | Dental Logic is a dentist in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dental-logic-forest-park/
+1. Dental Logic | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Dental Logic is a dentist in Forest Park, GA. | https://dingalinged-cpu.github.io/registry/c/dental-logic-forest-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist forest park ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

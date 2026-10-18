@@ -13,7 +13,7 @@ Lewisville Shoe Repair & Alterations is a shoe repair in Lewisville, TX. Phone: 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:00; Sa 09:00-16:00; PH closed
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 32% of shoe repairs in Dallas–Fort Worth, #3 of 3 shoe repairs in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

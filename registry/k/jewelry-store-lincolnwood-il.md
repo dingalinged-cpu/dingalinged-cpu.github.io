@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Lincolnwood, IL is Baladna Jewelry (a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700). 1 jewelry store businesses are listed for Lincolnwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Lincolnwood, IL is Baladna Jewelry (a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700). 1 jewelry store businesses are listed for Lincolnwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Lincolnwood, IL?
 
 Also answers: jewelry store in Lincolnwood, IL; jewelry store near me (Lincolnwood, IL); best jewelry store Lincolnwood, IL; top rated jewelry store Lincolnwood, IL; affordable jewelry store Lincolnwood, IL; emergency jewelry store Lincolnwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Baladna Jewelry | trust 10.0 | Baladna Jewelry is a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700. | https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-lincolnwood/
+1. Baladna Jewelry | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Baladna Jewelry is a jewelry store in Lincolnwood, IL at 4350 West Touhy Avenue, Lincolnwood, IL 60712. Phone: +18476764700. | https://dingalinged-cpu.github.io/registry/c/baladna-jewelry-lincolnwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store lincolnwood il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

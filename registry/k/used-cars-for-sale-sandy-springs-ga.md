@@ -1,12 +1,12 @@
-The top unpaid used cars for sale listing for Sandy Springs, GA is Jim Ellis Ford (an used car dealer in Atlanta, GA at 7555 Roswell Road, Atlanta, GA 30350. Website: https://www.nalleyford.com/). 1 used cars for sale businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Sandy Springs, GA is Jim Ellis Ford (an used car dealer in Atlanta, GA at 7555 Roswell Road, Atlanta, GA 30350. Website: https://www.nalleyford.com/). 1 used cars for sale businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Sandy Springs, GA?
 
 Also answers: used cars for sale in Sandy Springs, GA; used cars for sale near me (Sandy Springs, GA); best used cars for sale Sandy Springs, GA; top rated used cars for sale Sandy Springs, GA; affordable used cars for sale Sandy Springs, GA; emergency used cars for sale Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jim Ellis Ford | trust 10.0 | Jim Ellis Ford is an used car dealer in Atlanta, GA at 7555 Roswell Road, Atlanta, GA 30350. Website: https://www.nalleyford.com/. | https://dingalinged-cpu.github.io/registry/c/jim-ellis-ford-atlanta/
+1. Jim Ellis Ford | Organic #1 | Pulse Score 46.3/100 (Building, #7 in city) | Jim Ellis Ford is an used car dealer in Atlanta, GA at 7555 Roswell Road, Atlanta, GA 30350. Website: https://www.nalleyford.com/. | https://dingalinged-cpu.github.io/registry/c/jim-ellis-ford-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale sandy springs ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

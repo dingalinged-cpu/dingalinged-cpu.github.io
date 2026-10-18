@@ -1,14 +1,14 @@
-The top unpaid bakery listing for Southlake, TX is Peace Love and Little Donuts (a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/). 3 bakery businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Southlake, TX is Peace Love and Little Donuts (a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/). 3 bakery businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Southlake, TX?
 
 Also answers: bakery in Southlake, TX; bakery near me (Southlake, TX); best bakery Southlake, TX; top rated bakery Southlake, TX; affordable bakery Southlake, TX; emergency bakery Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Peace Love and Little Donuts | trust 6.0 | Peace Love and Little Donuts is a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/. | https://dingalinged-cpu.github.io/registry/c/peace-love-and-little-donuts-southlake/
-2. Great Harvest Bread Company | trust 0.0 | Great Harvest Bread Company is a bakery in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-southlake/
-3. Tiff's Treats | trust 0.0 | Tiff's Treats is a bakery in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/tiffs-treats-southlake/
+1. Peace Love and Little Donuts | Organic #1 | Pulse Score 60.5/100 (Good, #1 in city) | Peace Love and Little Donuts is a bakery in Southlake, TX. Website: https://www.peaceloveandlittledonuts.com/. | https://dingalinged-cpu.github.io/registry/c/peace-love-and-little-donuts-southlake/
+2. Great Harvest Bread Company | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Great Harvest Bread Company is a bakery in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bread-company-southlake/
+3. Tiff's Treats | Organic #3 | Pulse Score 41.7/100 (Unrated, #3 in city) | Tiff's Treats is a bakery in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/tiffs-treats-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery southlake tx | category: Events & weddings | industry benchmark: Personal Services

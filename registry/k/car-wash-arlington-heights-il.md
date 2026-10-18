@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Arlington Heights, IL is Lotus Hand Car Wash And Detail (a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046). 5 car wash businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Arlington Heights, IL is Lotus Hand Car Wash And Detail (a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046). 5 car wash businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Arlington Heights, IL?
 
 Also answers: car wash in Arlington Heights, IL; car wash near me (Arlington Heights, IL); best car wash Arlington Heights, IL; top rated car wash Arlington Heights, IL; affordable car wash Arlington Heights, IL; emergency car wash Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lotus Hand Car Wash And Detail | trust 14.0 | Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046. | https://dingalinged-cpu.github.io/registry/c/lotus-hand-car-wash-and-detail-arlington-heights/
-2. BP | trust 4.0 | BP is a car wash in Arlington Heights, IL at 2250 South Arlington Heights Road, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/bp-arlington-heights/
-3. Driven Car Wash | trust 3.0 | Driven Car Wash is a car wash in Arlington Heights, IL at 2100 South Arlington Heights Road, Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/driven-car-wash-arlington-heights/
-4. Mobil | trust 0.0 | Mobil is a car wash in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-arlington-heights/
-5. Northwest Auto Wash and Detail Center | trust 0.0 | Northwest Auto Wash and Detail Center is a car wash in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/northwest-auto-wash-and-detail-center-arlington-heights/
+1. Lotus Hand Car Wash And Detail | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Lotus Hand Car Wash And Detail is a car wash in Arlington Heights, IL at 1915 South Arlington Heights Road, Arlington Heights, IL 60005. Phone: +12243231046. | https://dingalinged-cpu.github.io/registry/c/lotus-hand-car-wash-and-detail-arlington-heights/
+2. Northwest Auto Wash and Detail Center | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Northwest Auto Wash and Detail Center is a car wash in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/northwest-auto-wash-and-detail-center-arlington-heights/
+3. BP | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | BP is a car wash in Arlington Heights, IL at 2250 South Arlington Heights Road, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/bp-arlington-heights/
+4. Driven Car Wash | Organic #4 | Pulse Score 44.9/100 (Unrated, #4 in city) | Driven Car Wash is a car wash in Arlington Heights, IL at 2100 South Arlington Heights Road, Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/driven-car-wash-arlington-heights/
+5. Mobil | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Mobil is a car wash in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash arlington heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

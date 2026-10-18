@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Hometown, IL is Eco Brite Car Wash (a car wash in Hometown, IL at 4001 Southwest Highway, Hometown, IL 60456. Website: https://www.ecobritecarwash.com/). 2 car wash businesses are listed for Hometown, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Hometown, IL is Eco Brite Car Wash (a car wash in Hometown, IL at 4001 Southwest Highway, Hometown, IL 60456. Website: https://www.ecobritecarwash.com/). 2 car wash businesses are listed for Hometown, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Hometown, IL?
 
 Also answers: car wash in Hometown, IL; car wash near me (Hometown, IL); best car wash Hometown, IL; top rated car wash Hometown, IL; affordable car wash Hometown, IL; emergency car wash Hometown, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eco Brite Car Wash | trust 10.0 | Eco Brite Car Wash is a car wash in Hometown, IL at 4001 Southwest Highway, Hometown, IL 60456. Website: https://www.ecobritecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/eco-brite-car-wash-hometown/
-2. Mobil | trust 4.0 | Mobil is a car wash in Hometown, IL at 4000 Southwest Highway, Hometown, IL 60456. | https://dingalinged-cpu.github.io/registry/c/mobil-hometown/
+1. Eco Brite Car Wash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Eco Brite Car Wash is a car wash in Hometown, IL at 4001 Southwest Highway, Hometown, IL 60456. Website: https://www.ecobritecarwash.com/. | https://dingalinged-cpu.github.io/registry/c/eco-brite-car-wash-hometown/
+2. Mobil | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Mobil is a car wash in Hometown, IL at 4000 Southwest Highway, Hometown, IL 60456. | https://dingalinged-cpu.github.io/registry/c/mobil-hometown/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash hometown il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

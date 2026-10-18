@@ -13,7 +13,7 @@ Aspen Dental is a dentist in Bolingbrook, IL at 221 North Weber Road, Bolingbroo
 - Website: https://www.aspendental.com/dentist/il/bolingbrook/221-n-weber-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-13:00; Sa, Su off
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 94% of dentists in Chicago, #6 of 6 dentists in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

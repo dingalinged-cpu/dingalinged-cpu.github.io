@@ -1,15 +1,15 @@
-The top unpaid music lessons listing for Houston, TX is Fundamentally Music (a music school in Houston, TX at 3620 Katy Freeway #B, Houston, TX 77007. Phone: +17134980101. Website: https://www.themusicclass.com/). 4 music lessons businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Houston, TX is Memorial School of Music (a music school in Houston, TX at 14520 Memorial Drive, Houston, TX 77079. Phone: +12814973888. Website: https://www.memorialschoolofmusic.com/). 4 music lessons businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Houston, TX?
 
 Also answers: music lessons in Houston, TX; music lessons near me (Houston, TX); best music lessons Houston, TX; top rated music lessons Houston, TX; affordable music lessons Houston, TX; emergency music lessons Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fundamentally Music | trust 16.0 | Fundamentally Music is a music school in Houston, TX at 3620 Katy Freeway #B, Houston, TX 77007. Phone: +17134980101. Website: https://www.themusicclass.com/. | https://dingalinged-cpu.github.io/registry/c/fundamentally-music-houston/
-2. Memorial School of Music | trust 16.0 | Memorial School of Music is a music school in Houston, TX at 14520 Memorial Drive, Houston, TX 77079. Phone: +12814973888. Website: https://www.memorialschoolofmusic.com/. | https://dingalinged-cpu.github.io/registry/c/memorial-school-of-music-houston/
-3. School of Rock | trust 3.0 | School of Rock is a music school in Houston, TX at 742 East 20th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-houston/
-4. The Future Of Music | trust 0.0 | The Future Of Music is a music school in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/the-future-of-music-houston/
+1. Memorial School of Music | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Memorial School of Music is a music school in Houston, TX at 14520 Memorial Drive, Houston, TX 77079. Phone: +12814973888. Website: https://www.memorialschoolofmusic.com/. | https://dingalinged-cpu.github.io/registry/c/memorial-school-of-music-houston/
+2. Fundamentally Music | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Fundamentally Music is a music school in Houston, TX at 3620 Katy Freeway #B, Houston, TX 77007. Phone: +17134980101. Website: https://www.themusicclass.com/. | https://dingalinged-cpu.github.io/registry/c/fundamentally-music-houston/
+3. The Future Of Music | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | The Future Of Music is a music school in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/the-future-of-music-houston/
+4. School of Rock | Organic #4 | Pulse Score 45.7/100 (Building, #4 in city) | School of Rock is a music school in Houston, TX at 742 East 20th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons houston tx | category: Education & childcare | industry benchmark: Education & Instruction

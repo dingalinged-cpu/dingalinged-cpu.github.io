@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Warrenville, IL is First American Title (an insurance agent in Warrenville, IL at 27775 Diehl Road, Warrenville, IL 60563. Phone: +16307997000. Website: https://www.firstam.com/Title/Agency/IL/). 1 insurance agent businesses are listed for Warrenville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Warrenville, IL is First American Title (an insurance agent in Warrenville, IL at 27775 Diehl Road, Warrenville, IL 60563. Phone: +16307997000. Website: https://www.firstam.com/Title/Agency/IL/). 1 insurance agent businesses are listed for Warrenville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Warrenville, IL?
 
 Also answers: insurance agent in Warrenville, IL; insurance agent near me (Warrenville, IL); best insurance agent Warrenville, IL; top rated insurance agent Warrenville, IL; affordable insurance agent Warrenville, IL; emergency insurance agent Warrenville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First American Title | trust 16.0 | First American Title is an insurance agent in Warrenville, IL at 27775 Diehl Road, Warrenville, IL 60563. Phone: +16307997000. Website: https://www.firstam.com/Title/Agency/IL/. | https://dingalinged-cpu.github.io/registry/c/first-american-title-warrenville/
+1. First American Title | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | First American Title is an insurance agent in Warrenville, IL at 27775 Diehl Road, Warrenville, IL 60563. Phone: +16307997000. Website: https://www.firstam.com/Title/Agency/IL/. | https://dingalinged-cpu.github.io/registry/c/first-american-title-warrenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent warrenville il | category: Professional & financial services | industry benchmark: Finance & Insurance

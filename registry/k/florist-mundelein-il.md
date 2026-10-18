@@ -1,13 +1,13 @@
-The top unpaid florist listing for Mundelein, IL is Debbie's Floral Shoppe (a florist in Mundelein, IL). 2 florist businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Mundelein, IL is Debbie's Floral Shoppe (a florist in Mundelein, IL). 2 florist businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Mundelein, IL?
 
 Also answers: florist in Mundelein, IL; florist near me (Mundelein, IL); best florist Mundelein, IL; top rated florist Mundelein, IL; affordable florist Mundelein, IL; emergency florist Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Debbie's Floral Shoppe | trust 0.0 | Debbie's Floral Shoppe is a florist in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/debbies-floral-shoppe-mundelein/
-2. Flowerama | trust 0.0 | Flowerama is a florist in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/flowerama-mundelein/
+1. Debbie's Floral Shoppe | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Debbie's Floral Shoppe is a florist in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/debbies-floral-shoppe-mundelein/
+2. Flowerama | Organic #2 | Pulse Score 41.9/100 (Unrated, #2 in city) | Flowerama is a florist in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/flowerama-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist mundelein il | category: Events & weddings | industry benchmark: Personal Services

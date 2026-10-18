@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for Union Grove, WI is QWerks Complete Automotive Restoration, LLC (an auto repair shop in Union Grove, WI at 4200 Leider Drive, Union Grove, WI). 2 auto repair businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Union Grove, WI is QWerks Complete Automotive Restoration, LLC (an auto repair shop in Union Grove, WI at 4200 Leider Drive, Union Grove, WI). 2 auto repair businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Union Grove, WI?
 
 Also answers: auto repair in Union Grove, WI; auto repair near me (Union Grove, WI); best auto repair Union Grove, WI; top rated auto repair Union Grove, WI; affordable auto repair Union Grove, WI; emergency auto repair Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. QWerks Complete Automotive Restoration, LLC | trust 3.0 | QWerks Complete Automotive Restoration, LLC is an auto repair shop in Union Grove, WI at 4200 Leider Drive, Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/qwerks-complete-automotive-restoration-llc-union-grove/
-2. Bob's Mobil | trust 0.0 | Bob's Mobil is an auto repair shop in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-mobil-union-grove/
+1. QWerks Complete Automotive Restoration, LLC | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | QWerks Complete Automotive Restoration, LLC is an auto repair shop in Union Grove, WI at 4200 Leider Drive, Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/qwerks-complete-automotive-restoration-llc-union-grove/
+2. Bob's Mobil | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Bob's Mobil is an auto repair shop in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/bobs-mobil-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair union grove wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

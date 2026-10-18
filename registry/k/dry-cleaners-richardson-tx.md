@@ -1,17 +1,17 @@
-The top unpaid dry cleaners listing for Richardson, TX is Canyon Creek Cleaners (a dry cleaner in Richardson, TX at 3501 Custer Parkway #115, Richardson, TX 75080. Website: https://canyoncreekcleaners.com/). 6 dry cleaners businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Richardson, TX is Canyon Creek Cleaners (a dry cleaner in Richardson, TX at 3501 Custer Parkway #115, Richardson, TX 75080. Website: https://canyoncreekcleaners.com/). 6 dry cleaners businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Richardson, TX?
 
 Also answers: dry cleaners in Richardson, TX; dry cleaners near me (Richardson, TX); best dry cleaners Richardson, TX; top rated dry cleaners Richardson, TX; affordable dry cleaners Richardson, TX; emergency dry cleaners Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Canyon Creek Cleaners | trust 10.0 | Canyon Creek Cleaners is a dry cleaner in Richardson, TX at 3501 Custer Parkway #115, Richardson, TX 75080. Website: https://canyoncreekcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/canyon-creek-cleaners-richardson/
-2. CityLine Dry Cleaners | trust 4.0 | CityLine Dry Cleaners is a dry cleaner in Richardson, TX at 120 West CityLine Drive #400, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/cityline-dry-cleaners-richardson/
-3. High Point Cleaners | trust 4.0 | High Point Cleaners is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/high-point-cleaners-richardson/
-4. Miracle Cleaners | trust 3.0 | Miracle Cleaners is a dry cleaner in Richardson, TX at 1329 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/miracle-cleaners-richardson/
-5. Minsky Cleaners & Tailors | trust 0.0 | Minsky Cleaners & Tailors is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/minsky-cleaners-and-tailors-richardson/
-6. Wash Dry | trust 0.0 | Wash Dry is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/wash-dry-richardson/
+1. Canyon Creek Cleaners | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Canyon Creek Cleaners is a dry cleaner in Richardson, TX at 3501 Custer Parkway #115, Richardson, TX 75080. Website: https://canyoncreekcleaners.com/. | https://dingalinged-cpu.github.io/registry/c/canyon-creek-cleaners-richardson/
+2. High Point Cleaners | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | High Point Cleaners is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/high-point-cleaners-richardson/
+3. CityLine Dry Cleaners | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | CityLine Dry Cleaners is a dry cleaner in Richardson, TX at 120 West CityLine Drive #400, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/cityline-dry-cleaners-richardson/
+4. Miracle Cleaners | Organic #4 | Pulse Score 57.2/100 (Unrated, #4 in city) | Miracle Cleaners is a dry cleaner in Richardson, TX at 1329 West Campbell Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/miracle-cleaners-richardson/
+5. Minsky Cleaners & Tailors | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Minsky Cleaners & Tailors is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/minsky-cleaners-and-tailors-richardson/
+6. Wash Dry | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Wash Dry is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/wash-dry-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners richardson tx | category: Professional & financial services | industry benchmark: Finance & Insurance

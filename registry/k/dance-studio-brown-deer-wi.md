@@ -1,12 +1,12 @@
-The top unpaid dance studio listing for Brown Deer, WI is Academy Of Dance Arts Of Brown Deer (a dance studio in Brown Deer, WI at 9036 North 51st Street, Brown Deer, WI 53223. Phone: +14143548020. Website: https://adaofwisc.com/). 1 dance studio businesses are listed for Brown Deer, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Brown Deer, WI is Academy Of Dance Arts Of Brown Deer (a dance studio in Brown Deer, WI at 9036 North 51st Street, Brown Deer, WI 53223. Phone: +14143548020. Website: https://adaofwisc.com/). 1 dance studio businesses are listed for Brown Deer, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Brown Deer, WI?
 
 Also answers: dance studio in Brown Deer, WI; dance studio near me (Brown Deer, WI); best dance studio Brown Deer, WI; top rated dance studio Brown Deer, WI; affordable dance studio Brown Deer, WI; emergency dance studio Brown Deer, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Academy Of Dance Arts Of Brown Deer | trust 16.0 | Academy Of Dance Arts Of Brown Deer is a dance studio in Brown Deer, WI at 9036 North 51st Street, Brown Deer, WI 53223. Phone: +14143548020. Website: https://adaofwisc.com/. | https://dingalinged-cpu.github.io/registry/c/academy-of-dance-arts-of-brown-deer-brown-deer/
+1. Academy Of Dance Arts Of Brown Deer | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Academy Of Dance Arts Of Brown Deer is a dance studio in Brown Deer, WI at 9036 North 51st Street, Brown Deer, WI 53223. Phone: +14143548020. Website: https://adaofwisc.com/. | https://dingalinged-cpu.github.io/registry/c/academy-of-dance-arts-of-brown-deer-brown-deer/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio brown deer wi | category: Fitness | industry benchmark: Health & Fitness

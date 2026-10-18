@@ -1,12 +1,12 @@
-The top unpaid moving company listing for Milwaukee, WI is Blue District Logistics & Transportation (a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/). 1 moving company businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Milwaukee, WI is Blue District Logistics & Transportation (a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/). 1 moving company businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Milwaukee, WI?
 
 Also answers: moving company in Milwaukee, WI; moving company near me (Milwaukee, WI); best moving company Milwaukee, WI; top rated moving company Milwaukee, WI; affordable moving company Milwaukee, WI; emergency moving company Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue District Logistics & Transportation | trust 20.0 | Blue District Logistics & Transportation is a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/. | https://dingalinged-cpu.github.io/registry/c/blue-district-logistics-and-transportation-milwaukee/
+1. Blue District Logistics & Transportation | Organic #1 | Pulse Score 59.2/100 (Fair, #1 in city) | Blue District Logistics & Transportation is a moving company in Milwaukee, WI at 11414 West Park Place #202, Milwaukee, WI 53224. Phone: +14148853629. Website: https://bluedist.net/. | https://dingalinged-cpu.github.io/registry/c/blue-district-logistics-and-transportation-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company milwaukee wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

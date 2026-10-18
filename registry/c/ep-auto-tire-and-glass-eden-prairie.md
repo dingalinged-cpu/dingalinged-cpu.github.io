@@ -13,7 +13,7 @@ EP Auto, Tire & Glass is a tire shop in Eden Prairie, MN at 12479 Plaza Drive, E
 - Website: https://lamettrysautotech.com/
 - Email: info@qualitycollisiongroup.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30; Sa,Su off
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 3% of tire shops in Minneapolis–St. Paul, #1 of 1 tire shops in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

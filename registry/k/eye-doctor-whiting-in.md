@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Whiting, IN is Levin Eye Care Center (an eye care practice in Whiting, IN at 1334 119th Street, Whiting, IN 46394). 2 eye doctor businesses are listed for Whiting, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Whiting, IN is Levin Eye Care Center (an eye care practice in Whiting, IN at 1334 119th Street, Whiting, IN 46394). 2 eye doctor businesses are listed for Whiting, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Whiting, IN?
 
 Also answers: eye doctor in Whiting, IN; eye doctor near me (Whiting, IN); best eye doctor Whiting, IN; top rated eye doctor Whiting, IN; affordable eye doctor Whiting, IN; emergency eye doctor Whiting, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Levin Eye Care Center | trust 4.0 | Levin Eye Care Center is an eye care practice in Whiting, IN at 1334 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/levin-eye-care-center-whiting/
-2. Vision One | trust 4.0 | Vision One is an eye care practice in Whiting, IN at 1538 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/vision-one-whiting/
+1. Levin Eye Care Center | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Levin Eye Care Center is an eye care practice in Whiting, IN at 1334 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/levin-eye-care-center-whiting/
+2. Vision One | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Vision One is an eye care practice in Whiting, IN at 1538 119th Street, Whiting, IN 46394. | https://dingalinged-cpu.github.io/registry/c/vision-one-whiting/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor whiting in | category: Health & medical | industry benchmark: Physicians & Surgeons

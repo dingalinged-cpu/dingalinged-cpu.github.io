@@ -13,7 +13,7 @@ Chroma Early Learning Academy is a preschool in Johns Creek, GA at 3580 Old Alab
 - Website: https://www.chromaela.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Good — top 23% of preschools in Atlanta, #1 of 2 preschools in Johns Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

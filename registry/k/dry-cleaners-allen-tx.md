@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Allen, TX is Comet Cleaners (a dry cleaner in Allen, TX at 1608 East Main Street, Allen, TX). 1 dry cleaners businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Allen, TX is Comet Cleaners (a dry cleaner in Allen, TX at 1608 East Main Street, Allen, TX). 1 dry cleaners businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Allen, TX?
 
 Also answers: dry cleaners in Allen, TX; dry cleaners near me (Allen, TX); best dry cleaners Allen, TX; top rated dry cleaners Allen, TX; affordable dry cleaners Allen, TX; emergency dry cleaners Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Comet Cleaners | trust 3.0 | Comet Cleaners is a dry cleaner in Allen, TX at 1608 East Main Street, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-allen/
+1. Comet Cleaners | Organic #1 | Pulse Score 44.9/100 (Unrated, #1 in city) | Comet Cleaners is a dry cleaner in Allen, TX at 1608 East Main Street, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/comet-cleaners-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners allen tx | category: Professional & financial services | industry benchmark: Finance & Insurance

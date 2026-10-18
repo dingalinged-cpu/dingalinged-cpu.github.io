@@ -1,14 +1,14 @@
-The top unpaid preschool listing for The Colony, TX is Angels Christian Preschool and Daycare (a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/). 3 preschool businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for The Colony, TX is Angels Christian Preschool and Daycare (a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/). 3 preschool businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in The Colony, TX?
 
 Also answers: preschool in The Colony, TX; preschool near me (The Colony, TX); best preschool The Colony, TX; top rated preschool The Colony, TX; affordable preschool The Colony, TX; emergency preschool The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angels Christian Preschool and Daycare | trust 16.0 | Angels Christian Preschool and Daycare is a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/. | https://dingalinged-cpu.github.io/registry/c/angels-christian-preschool-and-daycare-the-colony/
-2. La Petite Academy | trust 0.0 | La Petite Academy is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-the-colony/
-3. Legacy Day School | trust 0.0 | Legacy Day School is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-day-school-the-colony/
+1. Angels Christian Preschool and Daycare | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Angels Christian Preschool and Daycare is a preschool in The Colony, TX. Phone: +19726250016. Website: https://www.angelchristianpreschool.com/. | https://dingalinged-cpu.github.io/registry/c/angels-christian-preschool-and-daycare-the-colony/
+2. Legacy Day School | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Legacy Day School is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-day-school-the-colony/
+3. La Petite Academy | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | La Petite Academy is a preschool in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/la-petite-academy-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool the colony tx | category: Education & childcare | industry benchmark: Education & Instruction

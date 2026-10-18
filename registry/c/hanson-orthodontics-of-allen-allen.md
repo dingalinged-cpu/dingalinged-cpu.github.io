@@ -13,7 +13,7 @@ Hanson Orthodontics of Allen is a dentist in Allen, TX at 430 North Allen Drive,
 - Website: https://hansonorthoallen.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of dentists in Dallas–Fort Worth, #2 of 11 dentists in Allen (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Chicago, IL at 5643 North Broadway,
 - Website: https://www.publicstorage.com/self-storage-il-chicago/1229.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-21:00
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 8% of self-storage facilitys in Chicago, #13 of 108 self-storage facilitys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.1, Trust 69.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

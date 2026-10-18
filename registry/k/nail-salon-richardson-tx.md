@@ -1,19 +1,19 @@
-The top unpaid nail salon listing for Richardson, TX is Aria Nail Bar (a nail salon in Richardson, TX at 1250 State Street, Richardson, TX 75082. Phone: +19722381181. Website: https://arianaildtx.com/). 8 nail salon businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Richardson, TX is Candle Nail Spa (a nail salon in Richardson, TX at 3501 Custer Parkway #123, Richardson, TX 75080. Phone: +19723499909. Website: https://www.candlerichardson.com/). 8 nail salon businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Richardson, TX?
 
 Also answers: nail salon in Richardson, TX; nail salon near me (Richardson, TX); best nail salon Richardson, TX; top rated nail salon Richardson, TX; affordable nail salon Richardson, TX; emergency nail salon Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aria Nail Bar | trust 20.0 | Aria Nail Bar is a nail salon in Richardson, TX at 1250 State Street, Richardson, TX 75082. Phone: +19722381181. Website: https://arianaildtx.com/. | https://dingalinged-cpu.github.io/registry/c/aria-nail-bar-richardson/
-2. Candle Nail Spa | trust 20.0 | Candle Nail Spa is a nail salon in Richardson, TX at 3501 Custer Parkway #123, Richardson, TX 75080. Phone: +19723499909. Website: https://www.candlerichardson.com/. | https://dingalinged-cpu.github.io/registry/c/candle-nail-spa-richardson/
-3. Sweet Nail Bar | trust 20.0 | Sweet Nail Bar is a nail salon in Richardson, TX at 336 West Campbell Road, Richardson, TX 75080. Phone: +14694753432. Website: https://sweetnailbarrichardson.com/. | https://dingalinged-cpu.github.io/registry/c/sweet-nail-bar-richardson/
-4. Art Nails | trust 4.0 | Art Nails is a nail salon in Richardson, TX at 2050 North Collins Boulevard #101, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/art-nails-richardson/
-5. Glamour Nails & Spa | trust 3.0 | Glamour Nails & Spa is a nail salon in Richardson, TX at 1930 North Coit Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/glamour-nails-and-spa-richardson/
-6. Luxury Nails | trust 0.0 | Luxury Nails is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/luxury-nails-richardson/
-7. Rose Nails | trust 0.0 | Rose Nails is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/rose-nails-richardson/
-8. Star Nail Salon | trust 0.0 | Star Nail Salon is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/star-nail-salon-richardson/
+1. Candle Nail Spa | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Candle Nail Spa is a nail salon in Richardson, TX at 3501 Custer Parkway #123, Richardson, TX 75080. Phone: +19723499909. Website: https://www.candlerichardson.com/. | https://dingalinged-cpu.github.io/registry/c/candle-nail-spa-richardson/
+2. Sweet Nail Bar | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Sweet Nail Bar is a nail salon in Richardson, TX at 336 West Campbell Road, Richardson, TX 75080. Phone: +14694753432. Website: https://sweetnailbarrichardson.com/. | https://dingalinged-cpu.github.io/registry/c/sweet-nail-bar-richardson/
+3. Art Nails | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Art Nails is a nail salon in Richardson, TX at 2050 North Collins Boulevard #101, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/art-nails-richardson/
+4. Rose Nails | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Rose Nails is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/rose-nails-richardson/
+5. Glamour Nails & Spa | Organic #5 | Pulse Score 56.6/100 (Unrated, #5 in city) | Glamour Nails & Spa is a nail salon in Richardson, TX at 1930 North Coit Road, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/glamour-nails-and-spa-richardson/
+6. Star Nail Salon | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Star Nail Salon is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/star-nail-salon-richardson/
+7. Aria Nail Bar | Organic #7 | Pulse Score 51.7/100 (Unrated, #7 in city) | Aria Nail Bar is a nail salon in Richardson, TX at 1250 State Street, Richardson, TX 75082. Phone: +19722381181. Website: https://arianaildtx.com/. | https://dingalinged-cpu.github.io/registry/c/aria-nail-bar-richardson/
+8. Luxury Nails | Organic #8 | Pulse Score 43.2/100 (Building, #8 in city) | Luxury Nails is a nail salon in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/luxury-nails-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon richardson tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

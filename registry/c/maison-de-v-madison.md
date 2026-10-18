@@ -13,7 +13,7 @@ Maison de V is a hair salon in Madison, WI at 600 Williamson Street #J, Madison,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-21:00; Fr 10:00-18:00; Sa 10:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of hair salons in Madison, #18 of 59 hair salons in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

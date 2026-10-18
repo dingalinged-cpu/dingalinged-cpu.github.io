@@ -13,7 +13,7 @@ Cobble Creek Leasing Office is a property management company in Tomball, TX at 9
 - Website: https://www.cobblecreekliving.com/
 - Email: 22049@newhome1.com
 - Opening hours (OSM syntax): Mo,We-Fr 08:30-17:30; Tu 10:00-17:30; Sa 10:00-17:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 9% of property management companys in Houston, #1 of 1 property management companys in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

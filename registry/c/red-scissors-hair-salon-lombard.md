@@ -13,7 +13,7 @@ Red Scissors Hair Salon is a hair salon in Lombard, IL at 405 West Crescent Boul
 - Website: https://redscissorssalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Chicago, #3 of 6 hair salons in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

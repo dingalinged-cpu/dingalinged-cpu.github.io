@@ -13,7 +13,7 @@ James Avery Jewelry is a jewelry store in The Woodlands, TX at 1201 Lake Woodlan
 - Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=799
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00, Su 12:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 51% of jewelry stores in Houston, #6 of 12 jewelry stores in The Woodlands (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

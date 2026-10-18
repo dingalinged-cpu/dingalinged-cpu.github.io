@@ -1,14 +1,14 @@
-The top unpaid dog groomer listing for Plano, TX is Lakeside Pet Spa (a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/). 3 dog groomer businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Plano, TX is Lakeside Pet Spa (a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/). 3 dog groomer businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Plano, TX?
 
 Also answers: dog groomer in Plano, TX; dog groomer near me (Plano, TX); best dog groomer Plano, TX; top rated dog groomer Plano, TX; affordable dog groomer Plano, TX; emergency dog groomer Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakeside Pet Spa | trust 20.0 | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://dingalinged-cpu.github.io/registry/c/lakeside-pet-spa-plano/
-2. Pet Wants | trust 3.0 | Pet Wants is a dog groomer in Plano, TX at 1501 Preston Road #500, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/pet-wants-plano/
-3. Pat's Pet Grooming | trust 0.0 | Pat's Pet Grooming is a dog groomer in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/pats-pet-grooming-plano/
+1. Lakeside Pet Spa | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Lakeside Pet Spa is a dog groomer in Plano, TX at 4017 Preston Road #545, Plano, TX 75093. Phone: +19724038801. Website: https://www.lakesidepetspa.com/. | https://dingalinged-cpu.github.io/registry/c/lakeside-pet-spa-plano/
+2. Pat's Pet Grooming | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Pat's Pet Grooming is a dog groomer in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/pats-pet-grooming-plano/
+3. Pet Wants | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Pet Wants is a dog groomer in Plano, TX at 1501 Preston Road #500, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/pet-wants-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer plano tx | category: Pets | industry benchmark: Animals & Pets

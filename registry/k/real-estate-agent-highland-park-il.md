@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Highland Park, IL is @ Properties (a real estate agency in Highland Park, IL). 2 real estate agent businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Highland Park, IL is Christie's International Real Estate (a real estate agency in Highland Park, IL). 2 real estate agent businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Highland Park, IL?
 
 Also answers: real estate agent in Highland Park, IL; real estate agent near me (Highland Park, IL); best real estate agent Highland Park, IL; top rated real estate agent Highland Park, IL; affordable real estate agent Highland Park, IL; emergency real estate agent Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. @ Properties | trust 0.0 | @ Properties is a real estate agency in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/properties-highland-park/
-2. Christie's International Real Estate | trust 0.0 | Christie's International Real Estate is a real estate agency in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/christies-international-real-estate-highland-park/
+1. Christie's International Real Estate | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Christie's International Real Estate is a real estate agency in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/christies-international-real-estate-highland-park/
+2. @ Properties | Organic #2 | Pulse Score 42.9/100 (Unrated, #2 in city) | @ Properties is a real estate agency in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/properties-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent highland park il | category: Professional & financial services | industry benchmark: Finance & Insurance

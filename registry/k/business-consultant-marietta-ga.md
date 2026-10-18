@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Marietta, GA is Nimble Design Company (a business consultant in Marietta, GA at 268 Church Street, Marietta, GA. Website: https://www.nimbledesignco.com/). 1 business consultant businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Marietta, GA is Nimble Design Company (a business consultant in Marietta, GA at 268 Church Street, Marietta, GA. Website: https://www.nimbledesignco.com/). 1 business consultant businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Marietta, GA?
 
 Also answers: business consultant in Marietta, GA; business consultant near me (Marietta, GA); best business consultant Marietta, GA; top rated business consultant Marietta, GA; affordable business consultant Marietta, GA; emergency business consultant Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nimble Design Company | trust 9.0 | Nimble Design Company is a business consultant in Marietta, GA at 268 Church Street, Marietta, GA. Website: https://www.nimbledesignco.com/. | https://dingalinged-cpu.github.io/registry/c/nimble-design-company-marietta/
+1. Nimble Design Company | Organic #1 | Pulse Score 59.4/100 (Fair, #1 in city) | Nimble Design Company is a business consultant in Marietta, GA at 268 Church Street, Marietta, GA. Website: https://www.nimbledesignco.com/. | https://dingalinged-cpu.github.io/registry/c/nimble-design-company-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant marietta ga | category: b2b_services | industry benchmark: Business Services

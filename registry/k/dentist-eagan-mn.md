@@ -1,21 +1,21 @@
-The top unpaid dentist listing for Eagan, MN is Gentle Dentistry (a dentist in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 55123. Phone: +16512099999. Website: https://smilemn.com/eagan/). 10 dentist businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Eagan, MN is Zirbel Orthodontics (a dentist in Eagan, MN at 1480 Yankee Doodle Road, Eagan, MN 55121. Phone: +16514523333. Website: https://zirbelorthodontics.com/). 10 dentist businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Eagan, MN?
 
 Also answers: dentist in Eagan, MN; dentist near me (Eagan, MN); best dentist Eagan, MN; top rated dentist Eagan, MN; affordable dentist Eagan, MN; emergency dentist Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gentle Dentistry | trust 20.0 | Gentle Dentistry is a dentist in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 55123. Phone: +16512099999. Website: https://smilemn.com/eagan/. | https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-eagan/
-2. Northwood Dental | trust 20.0 | Northwood Dental is a dentist in Eagan, MN at 1227 Northwood Parkway, Eagan, MN 55121. Phone: +16516870789. Website: https://www.northwooddental.com/. | https://dingalinged-cpu.github.io/registry/c/northwood-dental-eagan/
-3. Zirbel Orthodontics | trust 20.0 | Zirbel Orthodontics is a dentist in Eagan, MN at 1480 Yankee Doodle Road, Eagan, MN 55121. Phone: +16514523333. Website: https://zirbelorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/zirbel-orthodontics-eagan/
-4. Metro Dentalcare | trust 6.0 | Metro Dentalcare is a dentist in Eagan, MN. Phone: +16514524828. | https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-eagan/
-5. Eagan Family Dentistry | trust 4.0 | Eagan Family Dentistry is a dentist in Eagan, MN at 4178 Knob Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/eagan-family-dentistry-eagan/
-6. Metro Dental | trust 4.0 | Metro Dental is a dentist in Eagan, MN at 1905 Plaza Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/metro-dental-eagan/
-7. Midwest Dental | trust 4.0 | Midwest Dental is a dentist in Eagan, MN at 1121 Town Centre Drive, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-eagan/
-8. Apelgren Dental | trust 0.0 | Apelgren Dental is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/apelgren-dental-eagan/
-9. Eagan Dental Care | trust 0.0 | Eagan Dental Care is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-dental-care-eagan/
-10. Eagan Smiles | trust 0.0 | Eagan Smiles is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-smiles-eagan/
+1. Zirbel Orthodontics | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | Zirbel Orthodontics is a dentist in Eagan, MN at 1480 Yankee Doodle Road, Eagan, MN 55121. Phone: +16514523333. Website: https://zirbelorthodontics.com/. | https://dingalinged-cpu.github.io/registry/c/zirbel-orthodontics-eagan/
+2. Northwood Dental | Organic #2 | Pulse Score 62.7/100 (Unrated, #2 in city) | Northwood Dental is a dentist in Eagan, MN at 1227 Northwood Parkway, Eagan, MN 55121. Phone: +16516870789. Website: https://www.northwooddental.com/. | https://dingalinged-cpu.github.io/registry/c/northwood-dental-eagan/
+3. Eagan Family Dentistry | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Eagan Family Dentistry is a dentist in Eagan, MN at 4178 Knob Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/eagan-family-dentistry-eagan/
+4. Metro Dental | Organic #4 | Pulse Score 55.9/100 (Unrated, #4 in city) | Metro Dental is a dentist in Eagan, MN at 1905 Plaza Drive, Eagan, MN 55122. | https://dingalinged-cpu.github.io/registry/c/metro-dental-eagan/
+5. Apelgren Dental | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Apelgren Dental is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/apelgren-dental-eagan/
+6. Eagan Dental Care | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Eagan Dental Care is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-dental-care-eagan/
+7. Eagan Smiles | Organic #7 | Pulse Score 54.1/100 (Unrated, #7 in city) | Eagan Smiles is a dentist in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/eagan-smiles-eagan/
+8. Gentle Dentistry | Organic #8 | Pulse Score 49.9/100 (Building, #8 in city) | Gentle Dentistry is a dentist in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 55123. Phone: +16512099999. Website: https://smilemn.com/eagan/. | https://dingalinged-cpu.github.io/registry/c/gentle-dentistry-eagan/
+9. Metro Dentalcare | Organic #9 | Pulse Score 45.9/100 (Unrated, #9 in city) | Metro Dentalcare is a dentist in Eagan, MN. Phone: +16514524828. | https://dingalinged-cpu.github.io/registry/c/metro-dentalcare-eagan/
+10. Midwest Dental | Organic #10 | Pulse Score 43.9/100 (Building, #10 in city) | Midwest Dental is a dentist in Eagan, MN at 1121 Town Centre Drive, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist eagan mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

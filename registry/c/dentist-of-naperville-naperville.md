@@ -13,7 +13,7 @@ Dentist of Naperville is a dentist in Naperville, IL at 10 East Benton Avenue, N
 - Website: https://dentistofnaperville.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-14:00; Tu, We 08:00-19:00; Th 08:00-14:00; Sa 08:00-13:00
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 13% of dentists in Chicago, #11 of 30 dentists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

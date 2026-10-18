@@ -13,7 +13,7 @@ artofbarbering is a barber shop in Minneapolis, MN at 150 2nd Avenue South, Minn
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 7:30-21:00, Su 9:00-18:00
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 35% of barber shops in Minneapolis–St. Paul, #8 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

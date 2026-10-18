@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Park Ridge, IL is Mattress Firm (a mattress store in Park Ridge, IL at 116 South Northwest Highway, Park Ridge, IL 60068. Phone: +12245050216. Website: https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/). 1 mattress store businesses are listed for Park Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Park Ridge, IL is Mattress Firm (a mattress store in Park Ridge, IL at 116 South Northwest Highway, Park Ridge, IL 60068. Phone: +12245050216. Website: https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/). 1 mattress store businesses are listed for Park Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Park Ridge, IL?
 
 Also answers: mattress store in Park Ridge, IL; mattress store near me (Park Ridge, IL); best mattress store Park Ridge, IL; top rated mattress store Park Ridge, IL; affordable mattress store Park Ridge, IL; emergency mattress store Park Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Park Ridge, IL at 116 South Northwest Highway, Park Ridge, IL 60068. Phone: +12245050216. Website: https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-park-ridge/
+1. Mattress Firm | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Mattress Firm is a mattress store in Park Ridge, IL at 116 South Northwest Highway, Park Ridge, IL 60068. Phone: +12245050216. Website: https://www.mattressfirm.com/en-us/stores/il/park-ridge/119277/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-park-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store park ridge il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

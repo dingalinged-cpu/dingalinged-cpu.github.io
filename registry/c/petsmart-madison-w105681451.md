@@ -13,7 +13,7 @@ PetSmart is a pet store in Madison, WI at 2216 East Springs Drive, Madison, WI 5
 - Website: https://www.petsmart.com/stores/us/wi/madison-store0604.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 77% of pet stores in Madison, #10 of 12 pet stores in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Express Bike Shop is a bike shop in Saint Paul, MN at 1158 Selby Avenue, Saint P
 - Website: https://www.exbike.com/home/
 - Email: n/a
 - Opening hours (OSM syntax): We-Fr 13:00-18:00; Sa 11:00-16:00
-- Registry Score: 59.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 16% of bike shops in Minneapolis–St. Paul, #3 of 9 bike shops in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,15 +1,15 @@
-The top unpaid preschool listing for Dallas, TX is Parent Day Out (a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/). 4 preschool businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Dallas, TX is Parent Day Out (a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/). 4 preschool businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Dallas, TX?
 
 Also answers: preschool in Dallas, TX; preschool near me (Dallas, TX); best preschool Dallas, TX; top rated preschool Dallas, TX; affordable preschool Dallas, TX; emergency preschool Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Parent Day Out | trust 20.0 | Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/. | https://dingalinged-cpu.github.io/registry/c/parent-day-out-dallas/
-2. Primrose School | trust 6.0 | Primrose School is a preschool in Dallas, TX. Website: https://www.primroseschools.com/schools/white-rock. | https://dingalinged-cpu.github.io/registry/c/primrose-school-dallas/
-3. Primrose School | trust 3.0 | Primrose School is a preschool in Dallas, TX at 18601 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-dallas-w469579150/
-4. The Goddard School | trust 3.0 | The Goddard School is a preschool in Dallas, TX at 10622 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-dallas/
+1. Parent Day Out | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Parent Day Out is a preschool in Dallas, TX at 1920 McKinney Avenue, Dallas, TX 75201. Phone: +14154329100. Website: https://www.parentdayout.com/. | https://dingalinged-cpu.github.io/registry/c/parent-day-out-dallas/
+2. Primrose School | Organic #2 | Pulse Score 44.6/100 (Building, #2 in city) | Primrose School is a preschool in Dallas, TX. Website: https://www.primroseschools.com/schools/white-rock. | https://dingalinged-cpu.github.io/registry/c/primrose-school-dallas/
+3. Primrose School | Organic #3 | Pulse Score 43.9/100 (Building, #3 in city) | Primrose School is a preschool in Dallas, TX at 18601 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/primrose-school-dallas-w469579150/
+4. The Goddard School | Organic #4 | Pulse Score 43.9/100 (Building, #4 in city) | The Goddard School is a preschool in Dallas, TX at 10622 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool dallas tx | category: Education & childcare | industry benchmark: Education & Instruction

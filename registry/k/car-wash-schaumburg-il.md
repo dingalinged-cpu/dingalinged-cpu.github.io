@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Schaumburg, IL is Shell (a car wash in Schaumburg, IL at 517 Mall Drive, Schaumburg, IL 60173). 4 car wash businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Schaumburg, IL is Three Oaks Car Wash & Detail Center (a car wash in Schaumburg, IL at 985 West Wise Road, Schaumburg, IL 60193). 4 car wash businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Schaumburg, IL?
 
 Also answers: car wash in Schaumburg, IL; car wash near me (Schaumburg, IL); best car wash Schaumburg, IL; top rated car wash Schaumburg, IL; affordable car wash Schaumburg, IL; emergency car wash Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shell | trust 4.0 | Shell is a car wash in Schaumburg, IL at 517 Mall Drive, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/shell-schaumburg-w1334000329/
-2. Three Oaks Car Wash & Detail Center | trust 4.0 | Three Oaks Car Wash & Detail Center is a car wash in Schaumburg, IL at 985 West Wise Road, Schaumburg, IL 60193. | https://dingalinged-cpu.github.io/registry/c/three-oaks-car-wash-and-detail-center-schaumburg/
-3. Busy Bee | trust 0.0 | Busy Bee is a car wash in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/busy-bee-schaumburg/
-4. Shell | trust 0.0 | Shell is a car wash in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/shell-schaumburg/
+1. Three Oaks Car Wash & Detail Center | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Three Oaks Car Wash & Detail Center is a car wash in Schaumburg, IL at 985 West Wise Road, Schaumburg, IL 60193. | https://dingalinged-cpu.github.io/registry/c/three-oaks-car-wash-and-detail-center-schaumburg/
+2. Busy Bee | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Busy Bee is a car wash in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/busy-bee-schaumburg/
+3. Shell | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Shell is a car wash in Schaumburg, IL at 517 Mall Drive, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/shell-schaumburg-w1334000329/
+4. Shell | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | Shell is a car wash in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/shell-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash schaumburg il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

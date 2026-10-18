@@ -1,0 +1,24 @@
+Goodwill is a thrift store in West Des Moines, IA at 6630 Mills Civic Parkway, West Des Moines, IA 50266.
+
+# Goodwill
+
+- Category: thrift store
+- Services: thrift store
+- Address: 6630 Mills Civic Parkway, West Des Moines, IA 50266
+- City: West Des Moines
+- State: IA
+- ZIP: 50266
+- Coordinates: 41.5605496, -93.7980453
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 44.4/100 — Building — top 86% of thrift stores in Des Moines, IA, #5 of 5 thrift stores in West Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.6, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/goodwill-west-des-moines-w251862204/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/goodwill-west-des-moines-w251862204.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/251862204 (license ODbL-1.0); source data as of 2026-07-24
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

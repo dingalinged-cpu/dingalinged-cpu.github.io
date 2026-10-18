@@ -1,16 +1,16 @@
-The top unpaid event venues listing for Madison, WI is University Club (an event venue in Madison, WI at 803;432 State Street;East Campus Mall, Madison, WI 53703. Phone: +16082625023. Website: https://uclub.wisc.edu/). 5 event venues businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Madison, WI is University Club (an event venue in Madison, WI at 803;432 State Street;East Campus Mall, Madison, WI 53703. Phone: +16082625023. Website: https://uclub.wisc.edu/). 5 event venues businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Madison, WI?
 
 Also answers: event venues in Madison, WI; event venues near me (Madison, WI); best event venues Madison, WI; top rated event venues Madison, WI; affordable event venues Madison, WI; emergency event venues Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. University Club | trust 16.0 | University Club is an event venue in Madison, WI at 803;432 State Street;East Campus Mall, Madison, WI 53703. Phone: +16082625023. Website: https://uclub.wisc.edu/. | https://dingalinged-cpu.github.io/registry/c/university-club-madison/
-2. Local Motive | trust 6.0 | Local Motive is an event venue in Madison, WI. Website: https://madisonlocalmotive.com/. | https://dingalinged-cpu.github.io/registry/c/local-motive-madison/
-3. Aubergine | trust 4.0 | Aubergine is an event venue in Madison, WI at 1226 Williamson Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/aubergine-madison/
-4. The Tinsmith | trust 4.0 | The Tinsmith is an event venue in Madison, WI at 828 East Main Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/the-tinsmith-madison/
-5. The Bur Oak | trust 3.0 | The Bur Oak is an event venue in Madison, WI at 2262 Winnebago Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-bur-oak-madison/
+1. University Club | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | University Club is an event venue in Madison, WI at 803;432 State Street;East Campus Mall, Madison, WI 53703. Phone: +16082625023. Website: https://uclub.wisc.edu/. | https://dingalinged-cpu.github.io/registry/c/university-club-madison/
+2. Aubergine | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Aubergine is an event venue in Madison, WI at 1226 Williamson Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/aubergine-madison/
+3. Local Motive | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Local Motive is an event venue in Madison, WI. Website: https://madisonlocalmotive.com/. | https://dingalinged-cpu.github.io/registry/c/local-motive-madison/
+4. The Tinsmith | Organic #4 | Pulse Score 57.9/100 (Unrated, #4 in city) | The Tinsmith is an event venue in Madison, WI at 828 East Main Street, Madison, WI 53703. | https://dingalinged-cpu.github.io/registry/c/the-tinsmith-madison/
+5. The Bur Oak | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | The Bur Oak is an event venue in Madison, WI at 2262 Winnebago Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-bur-oak-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues madison wi | category: Events & weddings | industry benchmark: Personal Services

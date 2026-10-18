@@ -1,73 +1,73 @@
-The top unpaid gift shop listing for Houston, TX is Gnome Sweet Gnome (a gift shop in Houston, TX at 16 North Main Street, Houston, TX 77339. Phone: +12815704713. Website: https://gnomegiftshop.com/). 62 gift shop businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Houston, TX is Darlene's Flowers & Gifts (a gift shop in Houston, TX at 10570 Northwest Freeway, Houston, TX 77092). 62 gift shop businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Houston, TX?
 
 Also answers: gift shop in Houston, TX; gift shop near me (Houston, TX); best gift shop Houston, TX; top rated gift shop Houston, TX; affordable gift shop Houston, TX; emergency gift shop Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gnome Sweet Gnome | trust 20.0 | Gnome Sweet Gnome is a gift shop in Houston, TX at 16 North Main Street, Houston, TX 77339. Phone: +12815704713. Website: https://gnomegiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/gnome-sweet-gnome-houston/
-2. Painted Tree Boutique | trust 16.0 | Painted Tree Boutique is a gift shop in Houston, TX at 1153 Kingwood Drive, Houston, TX 77339. Phone: +12816234191. Website: https://paintedtree.com/locations/kingwood-texas/. | https://dingalinged-cpu.github.io/registry/c/painted-tree-boutique-houston/
-3. Rothko Chapel Welcome House | trust 16.0 | Rothko Chapel Welcome House is a gift shop in Houston, TX at 1410 Sul Ross Street, Houston, TX 77006. Phone: +17136601401. Website: https://rothkochapel.org/visit/welcome-house/. | https://dingalinged-cpu.github.io/registry/c/rothko-chapel-welcome-house-houston/
-4. Hallmark | trust 14.0 | Hallmark is a gift shop in Houston, TX at 1560 Eldridge Parkway #180, Houston, TX 77077. Phone: +12814976214. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-w834041967/
-5. Space Montrose | trust 14.0 | Space Montrose is a gift shop in Houston, TX at 1706 Westheimer Road, Houston, TX 77098. Website: https://spacemontrose.com/. | https://dingalinged-cpu.github.io/registry/c/space-montrose-houston/
-6. Fabulous Things | trust 10.0 | Fabulous Things is a gift shop in Houston, TX at 15 North Main Street, Houston, TX 77339. Phone: +12813618898. | https://dingalinged-cpu.github.io/registry/c/fabulous-things-houston/
-7. Houston Museum of Natural Science Store | trust 10.0 | Houston Museum of Natural Science Store is a gift shop in Houston, TX at 5555 Hermann Park Drive, Houston, TX 77030. Phone: +17136394665. | https://dingalinged-cpu.github.io/registry/c/houston-museum-of-natural-science-store-houston/
-8. MFAH Gift Shop | trust 8.0 | MFAH Gift Shop is a gift shop in Houston, TX at 5601 Main Street, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/mfah-gift-shop-houston/
-9. Ann's Fine Gifts | trust 4.0 | Ann's Fine Gifts is a gift shop in Houston, TX at 14054 Memorial Drive, Houston, TX 77079. | https://dingalinged-cpu.github.io/registry/c/anns-fine-gifts-houston/
-10. British Isles | trust 4.0 | British Isles is a gift shop in Houston, TX at 2366 Rice Boulevard #B, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/british-isles-houston/
-11. Collector's Shop | trust 4.0 | Collector's Shop is a gift shop in Houston, TX at 5555 Hermann Park Drive, Houston, TX 77030. | https://dingalinged-cpu.github.io/registry/c/collectors-shop-houston/
-12. Darlene's Flowers & Gifts | trust 4.0 | Darlene's Flowers & Gifts is a gift shop in Houston, TX at 10570 Northwest Freeway, Houston, TX 77092. | https://dingalinged-cpu.github.io/registry/c/darlenes-flowers-and-gifts-houston/
-13. Hallmark | trust 4.0 | Hallmark is a gift shop in Houston, TX at 12850 Memorial Drive #1400, Houston, TX 77024. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-n13725704549/
-14. Hallmark | trust 4.0 | Hallmark is a gift shop in Houston, TX at 4315 Kingwood Drive, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-n4310052431/
-15. Houston Zoo Gift Shop | trust 4.0 | Houston Zoo Gift Shop is a gift shop in Houston, TX at 6200 Hermann Park Drive, Houston, TX 77030. | https://dingalinged-cpu.github.io/registry/c/houston-zoo-gift-shop-houston/
-16. Houston! | trust 4.0 | Houston! is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-houston/
-17. Lily Rain | trust 4.0 | Lily Rain is a gift shop in Houston, TX at 2414 University Boulevard #180, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/lily-rain-houston/
-18. Mindworks | trust 4.0 | Mindworks is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/mindworks-houston/
-19. Rachael's Hallmark Shop | trust 4.0 | Rachael's Hallmark Shop is a gift shop in Houston, TX at 724 Kingwood Drive, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/rachaels-hallmark-shop-houston/
-20. SpaceTrader Gift Shop | trust 4.0 | SpaceTrader Gift Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spacetrader-gift-shop-houston/
-21. Tumi | trust 4.0 | Tumi is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tumi-houston/
-22. Attic Salt | trust 3.0 | Attic Salt is a gift shop in Houston, TX at 303 Katy Freeway Frontage Road #202, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/attic-salt-houston-n13535517114/
-23. Coda | trust 3.0 | Coda is a gift shop in Houston, TX at 355 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/coda-houston/
-24. Edible Arrangements | trust 3.0 | Edible Arrangements is a gift shop in Houston, TX at 5750 Woodway Drive #118, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n5924948199/
-25. Edible Arrangements | trust 3.0 | Edible Arrangements is a gift shop in Houston, TX at 9654 Katy Freeway #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n7924498734/
-26. Edible Arrangements | trust 3.0 | Edible Arrangements is a gift shop in Houston, TX at 225 Main Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n9851916027/
-27. Executive Baskets | trust 3.0 | Executive Baskets is a gift shop in Houston, TX at 1101 Uptown Park Boulevard #10, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/executive-baskets-houston/
-28. Hallmark | trust 3.0 | Hallmark is a gift shop in Houston, TX at 4950 Beechnut Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston/
-29. Hallmark Gold Crown | trust 3.0 | Hallmark Gold Crown is a gift shop in Houston, TX at 303 Memorial City Way #834, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-gold-crown-houston/
-30. Texas Treasures | trust 3.0 | Texas Treasures is a gift shop in Houston, TX at 303 Memorial City Way #842, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/texas-treasures-houston/
-31. Americana | trust 0.0 | Americana is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/americana-houston/
-32. Attic Salt | trust 0.0 | Attic Salt is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/attic-salt-houston/
-33. Chanel | trust 0.0 | Chanel is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/chanel-houston/
-34. Collectivo | trust 0.0 | Collectivo is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/collectivo-houston/
-35. Cottage Shop | trust 0.0 | Cottage Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cottage-shop-houston/
-36. Dufry Duty Free | trust 0.0 | Dufry Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dufry-duty-free-houston/
-37. Dufry Duty Free | trust 0.0 | Dufry Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dufry-duty-free-houston-n7031860094/
-38. Duty Free Store | trust 0.0 | Duty Free Store is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/duty-free-store-houston/
-39. Edible Arrangements | trust 0.0 | Edible Arrangements is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston/
-40. Ellicor | trust 0.0 | Ellicor is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ellicor-houston/
-41. Gallery & Gifts | trust 0.0 | Gallery & Gifts is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gallery-and-gifts-houston/
-42. Gift Station | trust 0.0 | Gift Station is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gift-station-houston/
-43. iS | trust 0.0 | iS is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-houston/
-44. iS Duty Free | trust 0.0 | iS Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-duty-free-houston/
-45. IS Duty Free | trust 0.0 | IS Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-duty-free-houston-n7031952887/
-46. Kingwood Medical Center Gift Shop | trust 0.0 | Kingwood Medical Center Gift Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kingwood-medical-center-gift-shop-houston/
-47. KPop Gift | trust 0.0 | KPop Gift is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kpop-gift-houston/
-48. Made: Texas | trust 0.0 | Made: Texas is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/made-texas-houston/
-49. Marye-Kelley | trust 0.0 | Marye-Kelley is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/marye-kelley-houston/
-50. NYS Collection | trust 0.0 | NYS Collection is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nys-collection-houston/
-51. Space Corner | trust 0.0 | Space Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/space-corner-houston/
-52. Space Corner | trust 0.0 | Space Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/space-corner-houston-n7032261485/
-53. Spencer's | trust 0.0 | Spencer's is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-houston/
-54. Spencer's | trust 0.0 | Spencer's is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-houston-n12631041327/
-55. Sports Corner | trust 0.0 | Sports Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/sports-corner-houston/
-56. Stance | trust 0.0 | Stance is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/stance-houston/
-57. Taxco Sterling | trust 0.0 | Taxco Sterling is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/taxco-sterling-houston/
-58. Texas Souvenir & Gifts | trust 0.0 | Texas Souvenir & Gifts is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/texas-souvenir-and-gifts-houston/
-59. Things Remembered | trust 0.0 | Things Remembered is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/things-remembered-houston/
-60. ThinkGeek | trust 0.0 | ThinkGeek is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/thinkgeek-houston/
-61. Tripadvisor | trust 0.0 | Tripadvisor is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tripadvisor-houston/
-62. Univision | trust 0.0 | Univision is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/univision-houston/
+1. Darlene's Flowers & Gifts | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Darlene's Flowers & Gifts is a gift shop in Houston, TX at 10570 Northwest Freeway, Houston, TX 77092. | https://dingalinged-cpu.github.io/registry/c/darlenes-flowers-and-gifts-houston/
+2. Rothko Chapel Welcome House | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rothko Chapel Welcome House is a gift shop in Houston, TX at 1410 Sul Ross Street, Houston, TX 77006. Phone: +17136601401. Website: https://rothkochapel.org/visit/welcome-house/. | https://dingalinged-cpu.github.io/registry/c/rothko-chapel-welcome-house-houston/
+3. Houston Museum of Natural Science Store | Organic #3 | Pulse Score 61.9/100 (Unrated, #3 in city) | Houston Museum of Natural Science Store is a gift shop in Houston, TX at 5555 Hermann Park Drive, Houston, TX 77030. Phone: +17136394665. | https://dingalinged-cpu.github.io/registry/c/houston-museum-of-natural-science-store-houston/
+4. MFAH Gift Shop | Organic #4 | Pulse Score 61.9/100 (Unrated, #4 in city) | MFAH Gift Shop is a gift shop in Houston, TX at 5601 Main Street, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/mfah-gift-shop-houston/
+5. Space Montrose | Organic #5 | Pulse Score 61.7/100 (Unrated, #5 in city) | Space Montrose is a gift shop in Houston, TX at 1706 Westheimer Road, Houston, TX 77098. Website: https://spacemontrose.com/. | https://dingalinged-cpu.github.io/registry/c/space-montrose-houston/
+6. Texas Treasures | Organic #6 | Pulse Score 61.4/100 (Unrated, #6 in city) | Texas Treasures is a gift shop in Houston, TX at 303 Memorial City Way #842, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/texas-treasures-houston/
+7. Tumi | Organic #7 | Pulse Score 60.5/100 (Unrated, #7 in city) | Tumi is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tumi-houston/
+8. Mindworks | Organic #8 | Pulse Score 60.4/100 (Unrated, #8 in city) | Mindworks is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/mindworks-houston/
+9. Houston Zoo Gift Shop | Organic #9 | Pulse Score 60.1/100 (Unrated, #9 in city) | Houston Zoo Gift Shop is a gift shop in Houston, TX at 6200 Hermann Park Drive, Houston, TX 77030. | https://dingalinged-cpu.github.io/registry/c/houston-zoo-gift-shop-houston/
+10. Collector's Shop | Organic #10 | Pulse Score 59.7/100 (Unrated, #10 in city) | Collector's Shop is a gift shop in Houston, TX at 5555 Hermann Park Drive, Houston, TX 77030. | https://dingalinged-cpu.github.io/registry/c/collectors-shop-houston/
+11. Houston! | Organic #11 | Pulse Score 59.6/100 (Unrated, #11 in city) | Houston! is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/houston-houston/
+12. Gnome Sweet Gnome | Organic #12 | Pulse Score 59.6/100 (Unrated, #12 in city) | Gnome Sweet Gnome is a gift shop in Houston, TX at 16 North Main Street, Houston, TX 77339. Phone: +12815704713. Website: https://gnomegiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/gnome-sweet-gnome-houston/
+13. SpaceTrader Gift Shop | Organic #13 | Pulse Score 59.1/100 (Unrated, #13 in city) | SpaceTrader Gift Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spacetrader-gift-shop-houston/
+14. iS Duty Free | Organic #14 | Pulse Score 59/100 (Unrated, #14 in city) | iS Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-duty-free-houston/
+15. Coda | Organic #15 | Pulse Score 58.7/100 (Unrated, #15 in city) | Coda is a gift shop in Houston, TX at 355 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/coda-houston/
+16. Painted Tree Boutique | Organic #16 | Pulse Score 58.7/100 (Unrated, #16 in city) | Painted Tree Boutique is a gift shop in Houston, TX at 1153 Kingwood Drive, Houston, TX 77339. Phone: +12816234191. Website: https://paintedtree.com/locations/kingwood-texas/. | https://dingalinged-cpu.github.io/registry/c/painted-tree-boutique-houston/
+17. Dufry Duty Free | Organic #17 | Pulse Score 58.6/100 (Unrated, #17 in city) | Dufry Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dufry-duty-free-houston/
+18. Made: Texas | Organic #18 | Pulse Score 58.6/100 (Unrated, #18 in city) | Made: Texas is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/made-texas-houston/
+19. Marye-Kelley | Organic #19 | Pulse Score 58.6/100 (Unrated, #19 in city) | Marye-Kelley is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/marye-kelley-houston/
+20. Space Corner | Organic #20 | Pulse Score 58.6/100 (Unrated, #20 in city) | Space Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/space-corner-houston-n7032261485/
+21. Univision | Organic #21 | Pulse Score 58.6/100 (Unrated, #21 in city) | Univision is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/univision-houston/
+22. Ann's Fine Gifts | Organic #22 | Pulse Score 58.6/100 (Unrated, #22 in city) | Ann's Fine Gifts is a gift shop in Houston, TX at 14054 Memorial Drive, Houston, TX 77079. | https://dingalinged-cpu.github.io/registry/c/anns-fine-gifts-houston/
+23. British Isles | Organic #23 | Pulse Score 58.6/100 (Unrated, #23 in city) | British Isles is a gift shop in Houston, TX at 2366 Rice Boulevard #B, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/british-isles-houston/
+24. Lily Rain | Organic #24 | Pulse Score 58.6/100 (Unrated, #24 in city) | Lily Rain is a gift shop in Houston, TX at 2414 University Boulevard #180, Houston, TX 77005. | https://dingalinged-cpu.github.io/registry/c/lily-rain-houston/
+25. Dufry Duty Free | Organic #25 | Pulse Score 58.3/100 (Unrated, #25 in city) | Dufry Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dufry-duty-free-houston-n7031860094/
+26. Chanel | Organic #26 | Pulse Score 58.1/100 (Unrated, #26 in city) | Chanel is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/chanel-houston/
+27. Cottage Shop | Organic #27 | Pulse Score 58/100 (Unrated, #27 in city) | Cottage Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/cottage-shop-houston/
+28. Executive Baskets | Organic #28 | Pulse Score 57.6/100 (Unrated, #28 in city) | Executive Baskets is a gift shop in Houston, TX at 1101 Uptown Park Boulevard #10, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/executive-baskets-houston/
+29. Fabulous Things | Organic #29 | Pulse Score 57.4/100 (Unrated, #29 in city) | Fabulous Things is a gift shop in Houston, TX at 15 North Main Street, Houston, TX 77339. Phone: +12813618898. | https://dingalinged-cpu.github.io/registry/c/fabulous-things-houston/
+30. Space Corner | Organic #30 | Pulse Score 57.3/100 (Unrated, #30 in city) | Space Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/space-corner-houston/
+31. Sports Corner | Organic #31 | Pulse Score 57.3/100 (Unrated, #31 in city) | Sports Corner is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/sports-corner-houston/
+32. Taxco Sterling | Organic #32 | Pulse Score 57.3/100 (Unrated, #32 in city) | Taxco Sterling is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/taxco-sterling-houston/
+33. Rachael's Hallmark Shop | Organic #33 | Pulse Score 55.7/100 (Unrated, #33 in city) | Rachael's Hallmark Shop is a gift shop in Houston, TX at 724 Kingwood Drive, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/rachaels-hallmark-shop-houston/
+34. Gift Station | Organic #34 | Pulse Score 55.6/100 (Unrated, #34 in city) | Gift Station is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gift-station-houston/
+35. iS | Organic #35 | Pulse Score 55.6/100 (Unrated, #35 in city) | iS is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-houston/
+36. Americana | Organic #36 | Pulse Score 55/100 (Unrated, #36 in city) | Americana is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/americana-houston/
+37. Collectivo | Organic #37 | Pulse Score 55/100 (Unrated, #37 in city) | Collectivo is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/collectivo-houston/
+38. Duty Free Store | Organic #38 | Pulse Score 55/100 (Unrated, #38 in city) | Duty Free Store is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/duty-free-store-houston/
+39. Ellicor | Organic #39 | Pulse Score 55/100 (Unrated, #39 in city) | Ellicor is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/ellicor-houston/
+40. Gallery & Gifts | Organic #40 | Pulse Score 55/100 (Unrated, #40 in city) | Gallery & Gifts is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gallery-and-gifts-houston/
+41. IS Duty Free | Organic #41 | Pulse Score 55/100 (Unrated, #41 in city) | IS Duty Free is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/is-duty-free-houston-n7031952887/
+42. Kingwood Medical Center Gift Shop | Organic #42 | Pulse Score 55/100 (Unrated, #42 in city) | Kingwood Medical Center Gift Shop is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kingwood-medical-center-gift-shop-houston/
+43. KPop Gift | Organic #43 | Pulse Score 55/100 (Unrated, #43 in city) | KPop Gift is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/kpop-gift-houston/
+44. NYS Collection | Organic #44 | Pulse Score 55/100 (Unrated, #44 in city) | NYS Collection is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/nys-collection-houston/
+45. Stance | Organic #45 | Pulse Score 55/100 (Unrated, #45 in city) | Stance is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/stance-houston/
+46. Texas Souvenir & Gifts | Organic #46 | Pulse Score 55/100 (Unrated, #46 in city) | Texas Souvenir & Gifts is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/texas-souvenir-and-gifts-houston/
+47. ThinkGeek | Organic #47 | Pulse Score 55/100 (Unrated, #47 in city) | ThinkGeek is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/thinkgeek-houston/
+48. Tripadvisor | Organic #48 | Pulse Score 55/100 (Unrated, #48 in city) | Tripadvisor is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tripadvisor-houston/
+49. Hallmark | Organic #49 | Pulse Score 48.9/100 (Building, #49 in city) | Hallmark is a gift shop in Houston, TX at 1560 Eldridge Parkway #180, Houston, TX 77077. Phone: +12814976214. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-w834041967/
+50. Attic Salt | Organic #50 | Pulse Score 48.7/100 (Building, #50 in city) | Attic Salt is a gift shop in Houston, TX at 303 Katy Freeway Frontage Road #202, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/attic-salt-houston-n13535517114/
+51. Hallmark Gold Crown | Organic #51 | Pulse Score 48.6/100 (Building, #51 in city) | Hallmark Gold Crown is a gift shop in Houston, TX at 303 Memorial City Way #834, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-gold-crown-houston/
+52. Edible Arrangements | Organic #52 | Pulse Score 48/100 (Building, #52 in city) | Edible Arrangements is a gift shop in Houston, TX at 9654 Katy Freeway #A, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n7924498734/
+53. Edible Arrangements | Organic #53 | Pulse Score 46.9/100 (Building, #53 in city) | Edible Arrangements is a gift shop in Houston, TX at 225 Main Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n9851916027/
+54. Hallmark | Organic #54 | Pulse Score 46.4/100 (Building, #54 in city) | Hallmark is a gift shop in Houston, TX at 12850 Memorial Drive #1400, Houston, TX 77024. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-n13725704549/
+55. Hallmark | Organic #55 | Pulse Score 46/100 (Building, #55 in city) | Hallmark is a gift shop in Houston, TX at 4315 Kingwood Drive, Houston, TX 77339. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston-n4310052431/
+56. Edible Arrangements | Organic #56 | Pulse Score 45.4/100 (Building, #56 in city) | Edible Arrangements is a gift shop in Houston, TX at 5750 Woodway Drive #118, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston-n5924948199/
+57. Hallmark | Organic #57 | Pulse Score 45.4/100 (Building, #57 in city) | Hallmark is a gift shop in Houston, TX at 4950 Beechnut Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hallmark-houston/
+58. Spencer's | Organic #58 | Pulse Score 43.3/100 (Building, #58 in city) | Spencer's is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-houston/
+59. Spencer's | Organic #59 | Pulse Score 43.3/100 (Building, #59 in city) | Spencer's is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/spencers-houston-n12631041327/
+60. Attic Salt | Organic #60 | Pulse Score 42.8/100 (Building, #60 in city) | Attic Salt is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/attic-salt-houston/
+61. Edible Arrangements | Organic #61 | Pulse Score 42.8/100 (Building, #61 in city) | Edible Arrangements is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/edible-arrangements-houston/
+62. Things Remembered | Organic #62 | Pulse Score 42.8/100 (Building, #62 in city) | Things Remembered is a gift shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/things-remembered-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop houston tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

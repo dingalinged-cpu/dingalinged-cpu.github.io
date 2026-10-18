@@ -13,7 +13,7 @@ Braeswood Estates Senior Living is an assisted living facility in Houston, TX at
 - Website: https://sinceriseniorliving.com/braeswood-estates
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 7% of assisted living facilitys in Houston, #3 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

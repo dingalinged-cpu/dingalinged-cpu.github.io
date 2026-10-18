@@ -1,13 +1,13 @@
-The top unpaid vet listing for Town Of Burke, WI is Animal Hospital-Sun Prairie (a veterinarian in Town of Burke, WI at 2125 McCoy Rd., Town of Burke, WI 53590. Website: https://www.animalhospitalofsunprairie.com/). 2 vet businesses are listed for Town Of Burke, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Town Of Burke, WI is Animal Hospital-Sun Prairie (a veterinarian in Town of Burke, WI at 2125 McCoy Rd., Town of Burke, WI 53590. Website: https://www.animalhospitalofsunprairie.com/). 2 vet businesses are listed for Town Of Burke, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Town Of Burke, WI?
 
 Also answers: vet in Town Of Burke, WI; vet near me (Town Of Burke, WI); best vet Town Of Burke, WI; top rated vet Town Of Burke, WI; affordable vet Town Of Burke, WI; emergency vet Town Of Burke, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Animal Hospital-Sun Prairie | trust 10.0 | Animal Hospital-Sun Prairie is a veterinarian in Town of Burke, WI at 2125 McCoy Rd., Town of Burke, WI 53590. Website: https://www.animalhospitalofsunprairie.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-sun-prairie-town-of-burke/
-2. Token Creek Veterinary Clinic | trust 0.0 | Token Creek Veterinary Clinic is a veterinarian in Town of Burke, WI. | https://dingalinged-cpu.github.io/registry/c/token-creek-veterinary-clinic-town-of-burke/
+1. Animal Hospital-Sun Prairie | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Animal Hospital-Sun Prairie is a veterinarian in Town of Burke, WI at 2125 McCoy Rd., Town of Burke, WI 53590. Website: https://www.animalhospitalofsunprairie.com/. | https://dingalinged-cpu.github.io/registry/c/animal-hospital-sun-prairie-town-of-burke/
+2. Token Creek Veterinary Clinic | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Token Creek Veterinary Clinic is a veterinarian in Town of Burke, WI. | https://dingalinged-cpu.github.io/registry/c/token-creek-veterinary-clinic-town-of-burke/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet town of burke wi | category: Pets | industry benchmark: Animals & Pets

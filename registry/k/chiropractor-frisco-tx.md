@@ -1,15 +1,15 @@
-The top unpaid chiropractor listing for Frisco, TX is Texas Muscle Activation (a chiropractor in Frisco, TX at 8380 Warren Parkway #702, Frisco, TX 75034. Phone: +12146180203. Website: https://www.texasmuscleactivation.com/). 4 chiropractor businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Frisco, TX is Texas Muscle Activation (a chiropractor in Frisco, TX at 8380 Warren Parkway #702, Frisco, TX 75034. Phone: +12146180203. Website: https://www.texasmuscleactivation.com/). 4 chiropractor businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Frisco, TX?
 
 Also answers: chiropractor in Frisco, TX; chiropractor near me (Frisco, TX); best chiropractor Frisco, TX; top rated chiropractor Frisco, TX; affordable chiropractor Frisco, TX; emergency chiropractor Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Muscle Activation | trust 20.0 | Texas Muscle Activation is a chiropractor in Frisco, TX at 8380 Warren Parkway #702, Frisco, TX 75034. Phone: +12146180203. Website: https://www.texasmuscleactivation.com/. | https://dingalinged-cpu.github.io/registry/c/texas-muscle-activation-frisco/
-2. The Joint Chiropractic | trust 4.0 | The Joint Chiropractic is a chiropractor in Frisco, TX at 3411 Preston Road #6, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-frisco/
-3. Breakaway Chiropractic & Wellness | trust 3.0 | Breakaway Chiropractic & Wellness is a chiropractor in Frisco, TX at 11550 Legacy Drive #480, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/breakaway-chiropractic-and-wellness-frisco/
-4. Complete Chiropractic | trust 3.0 | Complete Chiropractic is a chiropractor in Frisco, TX at 4645 Avon Lane #130B, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/complete-chiropractic-frisco/
+1. Texas Muscle Activation | Organic #1 | Pulse Score 63.9/100 (Good, #1 in city) | Texas Muscle Activation is a chiropractor in Frisco, TX at 8380 Warren Parkway #702, Frisco, TX 75034. Phone: +12146180203. Website: https://www.texasmuscleactivation.com/. | https://dingalinged-cpu.github.io/registry/c/texas-muscle-activation-frisco/
+2. Breakaway Chiropractic & Wellness | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Breakaway Chiropractic & Wellness is a chiropractor in Frisco, TX at 11550 Legacy Drive #480, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/breakaway-chiropractic-and-wellness-frisco/
+3. Complete Chiropractic | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Complete Chiropractic is a chiropractor in Frisco, TX at 4645 Avon Lane #130B, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/complete-chiropractic-frisco/
+4. The Joint Chiropractic | Organic #4 | Pulse Score 45.1/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Frisco, TX at 3411 Preston Road #6, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor frisco tx | category: Health & medical | industry benchmark: Physicians & Surgeons

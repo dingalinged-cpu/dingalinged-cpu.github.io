@@ -1,12 +1,12 @@
-The top unpaid realtor listing for Wheeling, IL is RE/MAX (a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090). 1 realtor businesses are listed for Wheeling, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Wheeling, IL is RE/MAX (a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090). 1 realtor businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Wheeling, IL?
 
 Also answers: realtor in Wheeling, IL; realtor near me (Wheeling, IL); best realtor Wheeling, IL; top rated realtor Wheeling, IL; affordable realtor Wheeling, IL; emergency realtor Wheeling, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RE/MAX | trust 4.0 | RE/MAX is a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/re-max-wheeling/
+1. RE/MAX | Organic #1 | Pulse Score 44.6/100 (Building, #1 in city) | RE/MAX is a real estate agency in Wheeling, IL at 401 South Milwaukee Avenue #130, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/re-max-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor wheeling il | category: real_estate | industry benchmark: Real Estate

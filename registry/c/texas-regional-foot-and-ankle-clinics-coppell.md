@@ -13,7 +13,7 @@ Texas Regional Foot & Ankle Clinics is a podiatrist in Coppell, TX at 660 North 
 - Website: https://www.texasfootclinic.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-12:00,13:30-17:00; Sa-Su off
-- Registry Score: 65.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.2/100 — Good — top 6% of podiatrists in Dallas–Fort Worth, #1 of 2 podiatrists in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 70.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

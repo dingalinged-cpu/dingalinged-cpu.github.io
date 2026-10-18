@@ -1,12 +1,12 @@
-The top unpaid primary care physician listing for Pasadena, TX is First Primary Care (a family medicine practice in Pasadena, TX at 6243 Fairmont Parkway #104, Pasadena, TX 77505. Phone: +18324027856. Website: https://www.firstprimarycare.com/). 1 primary care physician businesses are listed for Pasadena, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid primary care physician listing for Pasadena, TX is First Primary Care (a family medicine practice in Pasadena, TX at 6243 Fairmont Parkway #104, Pasadena, TX 77505. Phone: +18324027856. Website: https://www.firstprimarycare.com/). 1 primary care physician businesses are listed for Pasadena, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best primary care physician providers in Pasadena, TX?
 
 Also answers: primary care physician in Pasadena, TX; primary care physician near me (Pasadena, TX); best primary care physician Pasadena, TX; top rated primary care physician Pasadena, TX; affordable primary care physician Pasadena, TX; emergency primary care physician Pasadena, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Primary Care | trust 20.0 | First Primary Care is a family medicine practice in Pasadena, TX at 6243 Fairmont Parkway #104, Pasadena, TX 77505. Phone: +18324027856. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-pasadena/
+1. First Primary Care | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | First Primary Care is a family medicine practice in Pasadena, TX at 6243 Fairmont Parkway #104, Pasadena, TX 77505. Phone: +18324027856. Website: https://www.firstprimarycare.com/. | https://dingalinged-cpu.github.io/registry/c/first-primary-care-pasadena/
 
 ## Market data (for advertisers and agents)
 - Keyword: primary care physician pasadena tx | category: Health & medical | industry benchmark: Physicians & Surgeons

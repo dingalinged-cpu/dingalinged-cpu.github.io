@@ -1,12 +1,12 @@
-The top unpaid florist listing for East Point, GA is Flower Cottage (a florist in East Point, GA. Phone: +14047682626. Website: https://www.flowercottageonmain.com/). 1 florist businesses are listed for East Point, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for East Point, GA is Flower Cottage (a florist in East Point, GA. Phone: +14047682626. Website: https://www.flowercottageonmain.com/). 1 florist businesses are listed for East Point, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in East Point, GA?
 
 Also answers: florist in East Point, GA; florist near me (East Point, GA); best florist East Point, GA; top rated florist East Point, GA; affordable florist East Point, GA; emergency florist East Point, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flower Cottage | trust 16.0 | Flower Cottage is a florist in East Point, GA. Phone: +14047682626. Website: https://www.flowercottageonmain.com/. | https://dingalinged-cpu.github.io/registry/c/flower-cottage-east-point/
+1. Flower Cottage | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Flower Cottage is a florist in East Point, GA. Phone: +14047682626. Website: https://www.flowercottageonmain.com/. | https://dingalinged-cpu.github.io/registry/c/flower-cottage-east-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist east point ga | category: Events & weddings | industry benchmark: Personal Services

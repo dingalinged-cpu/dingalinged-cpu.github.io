@@ -1,12 +1,12 @@
-The top unpaid pet store listing for Oak Brook, IL is Wet Nose (a pet store in Oak Brook, IL). 1 pet store businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Oak Brook, IL is Wet Nose (a pet store in Oak Brook, IL). 1 pet store businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Oak Brook, IL?
 
 Also answers: pet store in Oak Brook, IL; pet store near me (Oak Brook, IL); best pet store Oak Brook, IL; top rated pet store Oak Brook, IL; affordable pet store Oak Brook, IL; emergency pet store Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wet Nose | trust 0.0 | Wet Nose is a pet store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/wet-nose-oak-brook/
+1. Wet Nose | Organic #1 | Pulse Score 53.7/100 (Unrated, #1 in city) | Wet Nose is a pet store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/wet-nose-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store oak brook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

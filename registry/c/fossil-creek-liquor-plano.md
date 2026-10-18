@@ -13,7 +13,7 @@ Fossil Creek Liquor is a liquor store in Plano, TX at 2240 State Highway 121, Pl
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Dallas–Fort Worth, #14 of 16 liquor stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.2, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

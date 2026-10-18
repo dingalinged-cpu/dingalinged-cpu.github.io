@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Skokie, IL at 3556 West Touhy Avenue, Skoki
 - Website: https://www.mattressfirm.com/stores/il/skokie/mattress-stores-skokie-il-60076-8267.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 59% of mattress stores in Chicago, #3 of 6 mattress stores in Skokie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

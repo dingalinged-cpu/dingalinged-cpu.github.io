@@ -1,13 +1,13 @@
-The top unpaid auto body shop listing for Lombard, IL is Crash Champions (an auto repair shop in Lombard, IL). 2 auto body shop businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Lombard, IL is Crash Champions (an auto repair shop in Lombard, IL). 2 auto body shop businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Lombard, IL?
 
 Also answers: auto body shop in Lombard, IL; auto body shop near me (Lombard, IL); best auto body shop Lombard, IL; top rated auto body shop Lombard, IL; affordable auto body shop Lombard, IL; emergency auto body shop Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard/
-2. Crash Champions | trust 0.0 | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard-w1326178607/
+1. Crash Champions | Organic #1 | Pulse Score 42.8/100 (Building, #10 in city) | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard-w1326178607/
+2. Crash Champions | Organic #2 | Pulse Score 42.2/100 (Building, #12 in city) | Crash Champions is an auto repair shop in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/crash-champions-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop lombard il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

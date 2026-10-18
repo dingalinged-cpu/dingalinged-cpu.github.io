@@ -13,7 +13,7 @@ Carithers Flower Shop is a florist in Marietta, GA at 1708 Powers Ferry Road Sou
 - Website: https://www.carithers.com/pages/Marietta-GA-Florist.htm
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-14:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 9% of florists in Atlanta, #2 of 5 florists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

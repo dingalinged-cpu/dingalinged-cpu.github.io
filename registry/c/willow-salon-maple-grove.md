@@ -13,7 +13,7 @@ Willow Salon is a hair salon in Maple Grove, MN at 13555 Grove Drive North, Mapl
 - Website: https://www.thewillowsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 13:00-21:00;Tu-Th 10:00-21:00;Fr 09:00-18:00;Sa 08:00-16:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of hair salons in Minneapolis–St. Paul, #1 of 10 hair salons in Maple Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

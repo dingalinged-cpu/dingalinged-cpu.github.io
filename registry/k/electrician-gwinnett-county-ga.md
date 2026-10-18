@@ -1,13 +1,13 @@
-The top unpaid electrician listing for Gwinnett County, GA is Titan Electric Georgia (an electrician in Gwinnett County, GA). 2 electrician businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Gwinnett County, GA is Titan Electric Georgia (an electrician in Gwinnett County, GA). 2 electrician businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Gwinnett County, GA?
 
 Also answers: electrician in Gwinnett County, GA; electrician near me (Gwinnett County, GA); best electrician Gwinnett County, GA; top rated electrician Gwinnett County, GA; affordable electrician Gwinnett County, GA; emergency electrician Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Titan Electric Georgia | trust 0.0 | Titan Electric Georgia is an electrician in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/titan-electric-georgia-gwinnett-county/
-2. Wilkins Electric Company, Inc. | trust 0.0 | Wilkins Electric Company, Inc. is an electrician in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/wilkins-electric-company-inc-gwinnett-county/
+1. Titan Electric Georgia | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Titan Electric Georgia is an electrician in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/titan-electric-georgia-gwinnett-county/
+2. Wilkins Electric Company, Inc. | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Wilkins Electric Company, Inc. is an electrician in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/wilkins-electric-company-inc-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician gwinnett county ga | category: Home services - Electrical | industry benchmark: Home & Home Improvement

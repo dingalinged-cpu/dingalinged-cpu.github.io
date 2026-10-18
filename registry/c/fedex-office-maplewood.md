@@ -13,7 +13,7 @@ FedEx Office is a printing service in Maplewood, MN at 2303 White Bear Avenue, M
 - Website: https://local.fedex.com/mn/maplewood/office-0617/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 41% of printing services in Minneapolis–St. Paul, #1 of 2 printing services in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

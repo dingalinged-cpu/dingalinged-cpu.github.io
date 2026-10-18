@@ -13,7 +13,7 @@ Smile365 Dental is a dentist in Marietta, GA at 2100 Roswell Road #2208, Mariett
 - Website: https://www.smile365-dental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th 09:00-17:00; We 11:00-20:00; Fr-Sa 09:00-14:00; Su,PH off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 10% of dentists in Atlanta, #10 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

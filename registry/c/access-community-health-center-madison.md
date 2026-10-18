@@ -13,7 +13,7 @@ Access Community Health Center is a dentist in Madison, WI at 3434 East Washingt
 - Website: https://accesscommunityhealthcenters.org/clinics/william-t-evjue/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-16:00; Sa-Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 16% of dentists in Madison, #6 of 38 dentists in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Hazel Crest, IL at 18232 Kedzie Avenue, Hazel Crest,
 - Website: https://www.anytimefitness.com/gyms/4380/hazel-crest-il-60429/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 43% of gyms in Chicago, #1 of 1 gyms in Hazel Crest (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 68.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

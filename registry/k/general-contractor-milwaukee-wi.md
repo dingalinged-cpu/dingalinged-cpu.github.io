@@ -1,15 +1,15 @@
-The top unpaid general contractor listing for Milwaukee, WI is Sid Grinker Restoration (a general contractor in Milwaukee, WI at 416 West Walnut Street, Milwaukee, WI 53212. Phone: +14142647470. Website: https://www.sidgrinker.com/). 4 general contractor businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid general contractor listing for Milwaukee, WI is Sid Grinker Restoration (a general contractor in Milwaukee, WI at 416 West Walnut Street, Milwaukee, WI 53212. Phone: +14142647470. Website: https://www.sidgrinker.com/). 4 general contractor businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best general contractor providers in Milwaukee, WI?
 
 Also answers: general contractor in Milwaukee, WI; general contractor near me (Milwaukee, WI); best general contractor Milwaukee, WI; top rated general contractor Milwaukee, WI; affordable general contractor Milwaukee, WI; emergency general contractor Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sid Grinker Restoration | trust 16.0 | Sid Grinker Restoration is a general contractor in Milwaukee, WI at 416 West Walnut Street, Milwaukee, WI 53212. Phone: +14142647470. Website: https://www.sidgrinker.com/. | https://dingalinged-cpu.github.io/registry/c/sid-grinker-restoration-milwaukee/
-2. Sazama | trust 10.0 | Sazama is a general contractor in Milwaukee, WI at 635 South 70th Street, Milwaukee, WI 53214. Website: https://www.remodelwithsaz.com/. | https://dingalinged-cpu.github.io/registry/c/sazama-milwaukee/
-3. Empire Home Remodeling | trust 6.0 | Empire Home Remodeling is a general contractor in Milwaukee, WI. Phone: +14148977272. | https://dingalinged-cpu.github.io/registry/c/empire-home-remodeling-milwaukee/
-4. Keystone Builders | trust 0.0 | Keystone Builders is a general contractor in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/keystone-builders-milwaukee/
+1. Sid Grinker Restoration | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Sid Grinker Restoration is a general contractor in Milwaukee, WI at 416 West Walnut Street, Milwaukee, WI 53212. Phone: +14142647470. Website: https://www.sidgrinker.com/. | https://dingalinged-cpu.github.io/registry/c/sid-grinker-restoration-milwaukee/
+2. Sazama | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Sazama is a general contractor in Milwaukee, WI at 635 South 70th Street, Milwaukee, WI 53214. Website: https://www.remodelwithsaz.com/. | https://dingalinged-cpu.github.io/registry/c/sazama-milwaukee/
+3. Empire Home Remodeling | Organic #3 | Pulse Score 56.2/100 (Unrated, #3 in city) | Empire Home Remodeling is a general contractor in Milwaukee, WI. Phone: +14148977272. | https://dingalinged-cpu.github.io/registry/c/empire-home-remodeling-milwaukee/
+4. Keystone Builders | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Keystone Builders is a general contractor in Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/keystone-builders-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor milwaukee wi | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

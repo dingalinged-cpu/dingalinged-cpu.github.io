@@ -1,12 +1,12 @@
-The top unpaid printing services listing for Gary, IN is Gary Printing (a printing service in Gary, IN). 1 printing services businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Gary, IN is Gary Printing (a printing service in Gary, IN). 1 printing services businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Gary, IN?
 
 Also answers: printing services in Gary, IN; printing services near me (Gary, IN); best printing services Gary, IN; top rated printing services Gary, IN; affordable printing services Gary, IN; emergency printing services Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gary Printing | trust 0.0 | Gary Printing is a printing service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/gary-printing-gary/
+1. Gary Printing | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Gary Printing is a printing service in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/gary-printing-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services gary in | category: Professional & financial services | industry benchmark: Finance & Insurance

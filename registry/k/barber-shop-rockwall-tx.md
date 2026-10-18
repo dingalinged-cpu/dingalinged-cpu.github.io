@@ -1,14 +1,14 @@
-The top unpaid barber shop listing for Rockwall, TX is KutitJo (a barber shop in Rockwall, TX at 4314 State Highway 276, Rockwall, TX 75032. Phone: +12145878528). 3 barber shop businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Rockwall, TX is KutitJo (a barber shop in Rockwall, TX at 4314 State Highway 276, Rockwall, TX 75032. Phone: +12145878528). 3 barber shop businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Rockwall, TX?
 
 Also answers: barber shop in Rockwall, TX; barber shop near me (Rockwall, TX); best barber shop Rockwall, TX; top rated barber shop Rockwall, TX; affordable barber shop Rockwall, TX; emergency barber shop Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KutitJo | trust 14.0 | KutitJo is a barber shop in Rockwall, TX at 4314 State Highway 276, Rockwall, TX 75032. Phone: +12145878528. | https://dingalinged-cpu.github.io/registry/c/kutitjo-rockwall/
-2. Randy's Barber Shop | trust 0.0 | Randy's Barber Shop is a barber shop in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/randys-barber-shop-rockwall/
-3. Rockwall Barber | trust 0.0 | Rockwall Barber is a barber shop in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/rockwall-barber-rockwall/
+1. KutitJo | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | KutitJo is a barber shop in Rockwall, TX at 4314 State Highway 276, Rockwall, TX 75032. Phone: +12145878528. | https://dingalinged-cpu.github.io/registry/c/kutitjo-rockwall/
+2. Randy's Barber Shop | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Randy's Barber Shop is a barber shop in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/randys-barber-shop-rockwall/
+3. Rockwall Barber | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Rockwall Barber is a barber shop in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/rockwall-barber-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

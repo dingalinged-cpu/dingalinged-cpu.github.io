@@ -1,12 +1,12 @@
-The top unpaid cabinet installation listing for Naperville, IL is Taylormade Kitchens (a cabinet maker in Naperville, IL at 1007 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16303574732. Website: https://www.kitchensbytaylormade.com/). 1 cabinet installation businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid cabinet installation listing for Naperville, IL is Taylormade Kitchens (a cabinet maker in Naperville, IL at 1007 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16303574732. Website: https://www.kitchensbytaylormade.com/). 1 cabinet installation businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best cabinet installation providers in Naperville, IL?
 
 Also answers: cabinet installation in Naperville, IL; cabinet installation near me (Naperville, IL); best cabinet installation Naperville, IL; top rated cabinet installation Naperville, IL; affordable cabinet installation Naperville, IL; emergency cabinet installation Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Taylormade Kitchens | trust 16.0 | Taylormade Kitchens is a cabinet maker in Naperville, IL at 1007 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16303574732. Website: https://www.kitchensbytaylormade.com/. | https://dingalinged-cpu.github.io/registry/c/taylormade-kitchens-naperville/
+1. Taylormade Kitchens | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Taylormade Kitchens is a cabinet maker in Naperville, IL at 1007 West Ogden Avenue #A, Naperville, IL 60563. Phone: +16303574732. Website: https://www.kitchensbytaylormade.com/. | https://dingalinged-cpu.github.io/registry/c/taylormade-kitchens-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: cabinet installation naperville il | category: Home services - Carpentry | industry benchmark: Home & Home Improvement

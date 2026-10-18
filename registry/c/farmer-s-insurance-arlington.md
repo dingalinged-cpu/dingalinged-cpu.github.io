@@ -13,7 +13,7 @@ Farmer’s Insurance is an insurance agent in Arlington, TX at 1707 South Cooper
 - Website: https://agents.farmers.com/tx/arlington/luma-al-asadi?SourceID=AMPALFYXAG
 - Email: lalasadi@farmersagent.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.5/100 — Building — top 44% of insurance agents in Dallas–Fort Worth, #7 of 11 insurance agents in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Dixie Exterminators, Inc. is a pest control company in Marietta, GA at 893 Churc
 - Website: https://dixiepest.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Fair — top 37% of pest control companys in Atlanta, #3 of 5 pest control companys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

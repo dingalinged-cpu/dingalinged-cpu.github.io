@@ -1,17 +1,17 @@
-The top unpaid nail salon listing for Gwinnett County, GA is I Love Nails (a nail salon in Gwinnett County, GA). 6 nail salon businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Gwinnett County, GA is I Love Nails (a nail salon in Gwinnett County, GA). 6 nail salon businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Gwinnett County, GA?
 
 Also answers: nail salon in Gwinnett County, GA; nail salon near me (Gwinnett County, GA); best nail salon Gwinnett County, GA; top rated nail salon Gwinnett County, GA; affordable nail salon Gwinnett County, GA; emergency nail salon Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. I Love Nails | trust 0.0 | I Love Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/i-love-nails-gwinnett-county/
-2. Mirage Nail Salon | trust 0.0 | Mirage Nail Salon is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/mirage-nail-salon-gwinnett-county/
-3. Nail Charm | trust 0.0 | Nail Charm is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/nail-charm-gwinnett-county/
-4. Regal Nails | trust 0.0 | Regal Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/regal-nails-gwinnett-county/
-5. Tiffany's Nails | trust 0.0 | Tiffany's Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tiffanys-nails-gwinnett-county/
-6. V-Star Nails | trust 0.0 | V-Star Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/v-star-nails-gwinnett-county/
+1. I Love Nails | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | I Love Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/i-love-nails-gwinnett-county/
+2. Mirage Nail Salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Mirage Nail Salon is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/mirage-nail-salon-gwinnett-county/
+3. Nail Charm | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Nail Charm is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/nail-charm-gwinnett-county/
+4. Tiffany's Nails | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Tiffany's Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/tiffanys-nails-gwinnett-county/
+5. V-Star Nails | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | V-Star Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/v-star-nails-gwinnett-county/
+6. Regal Nails | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Regal Nails is a nail salon in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/regal-nails-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon gwinnett county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

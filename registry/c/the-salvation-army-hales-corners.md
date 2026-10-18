@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Hales Corners, WI at 5317 South 108th St
 - Website: https://satruck.org/
 - Email: satruck_milwaukee@usc.salvationarmy.org
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00
-- Registry Score: 49.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 57% of thrift stores in Milwaukee, #1 of 1 thrift stores in Hales Corners (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

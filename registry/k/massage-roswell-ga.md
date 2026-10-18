@@ -1,16 +1,16 @@
-The top unpaid massage listing for Roswell, GA is American Regenerative Bodywork (a massage studio in Roswell, GA at 770 Old Roswell Place #H-500, Roswell, GA 30076. Phone: +16783002259. Website: https://www.massagetherapyga.info/). 5 massage businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Roswell, GA is American Regenerative Bodywork (a massage studio in Roswell, GA at 770 Old Roswell Place #H-500, Roswell, GA 30076. Phone: +16783002259. Website: https://www.massagetherapyga.info/). 5 massage businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Roswell, GA?
 
 Also answers: massage in Roswell, GA; massage near me (Roswell, GA); best massage Roswell, GA; top rated massage Roswell, GA; affordable massage Roswell, GA; emergency massage Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Regenerative Bodywork | trust 16.0 | American Regenerative Bodywork is a massage studio in Roswell, GA at 770 Old Roswell Place #H-500, Roswell, GA 30076. Phone: +16783002259. Website: https://www.massagetherapyga.info/. | https://dingalinged-cpu.github.io/registry/c/american-regenerative-bodywork-roswell/
-2. Massage Envy | trust 14.0 | Massage Envy is a massage studio in Roswell, GA at 2300 Holcomb Bridge Road #302, Roswell, GA 30076. Phone: +17708173689. | https://dingalinged-cpu.github.io/registry/c/massage-envy-roswell/
-3. Mi Ni Massage | trust 13.0 | Mi Ni Massage is a massage studio in Roswell, GA at 4750 Alabama Road #112, Roswell, GA. Phone: +16789861808. | https://dingalinged-cpu.github.io/registry/c/mi-ni-massage-roswell/
-4. Best Day Massage | trust 0.0 | Best Day Massage is a massage studio in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/best-day-massage-roswell/
-5. Wellness Massage | trust 0.0 | Wellness Massage is a massage studio in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/wellness-massage-roswell/
+1. American Regenerative Bodywork | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | American Regenerative Bodywork is a massage studio in Roswell, GA at 770 Old Roswell Place #H-500, Roswell, GA 30076. Phone: +16783002259. Website: https://www.massagetherapyga.info/. | https://dingalinged-cpu.github.io/registry/c/american-regenerative-bodywork-roswell/
+2. Mi Ni Massage | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Mi Ni Massage is a massage studio in Roswell, GA at 4750 Alabama Road #112, Roswell, GA. Phone: +16789861808. | https://dingalinged-cpu.github.io/registry/c/mi-ni-massage-roswell/
+3. Best Day Massage | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Best Day Massage is a massage studio in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/best-day-massage-roswell/
+4. Wellness Massage | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Wellness Massage is a massage studio in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/wellness-massage-roswell/
+5. Massage Envy | Organic #5 | Pulse Score 46.6/100 (Building, #5 in city) | Massage Envy is a massage studio in Roswell, GA at 2300 Holcomb Bridge Road #302, Roswell, GA 30076. Phone: +17708173689. | https://dingalinged-cpu.github.io/registry/c/massage-envy-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage roswell ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

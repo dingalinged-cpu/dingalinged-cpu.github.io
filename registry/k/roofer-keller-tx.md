@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Keller, TX is Texas Select Construction, Roofing & Windows (a roofer in Keller, TX at 1670 Keller Parkway #Suite 255, Keller, TX 76248. Phone: +18177700744. Website: https://www.texasselectconstruction.com/). 1 roofer businesses are listed for Keller, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Keller, TX is Texas Select Construction, Roofing & Windows (a roofer in Keller, TX at 1670 Keller Parkway #Suite 255, Keller, TX 76248. Phone: +18177700744. Website: https://www.texasselectconstruction.com/). 1 roofer businesses are listed for Keller, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Keller, TX?
 
 Also answers: roofer in Keller, TX; roofer near me (Keller, TX); best roofer Keller, TX; top rated roofer Keller, TX; affordable roofer Keller, TX; emergency roofer Keller, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Select Construction, Roofing & Windows | trust 20.0 | Texas Select Construction, Roofing & Windows is a roofer in Keller, TX at 1670 Keller Parkway #Suite 255, Keller, TX 76248. Phone: +18177700744. Website: https://www.texasselectconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/texas-select-construction-roofing-and-windows-keller/
+1. Texas Select Construction, Roofing & Windows | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Texas Select Construction, Roofing & Windows is a roofer in Keller, TX at 1670 Keller Parkway #Suite 255, Keller, TX 76248. Phone: +18177700744. Website: https://www.texasselectconstruction.com/. | https://dingalinged-cpu.github.io/registry/c/texas-select-construction-roofing-and-windows-keller/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer keller tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

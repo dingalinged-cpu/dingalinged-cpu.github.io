@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Southlake, TX is Huckabee Dental (a dentist in Southlake, TX at 505 Lake Crest Drive, Southlake, TX 76092. Phone: +18173294746). 4 dentist businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Southlake, TX is Da Vinci Dentistry (a dentist in Southlake, TX at 100 West Southlake Boulevard #146, Southlake, TX. Phone: +18172519333). 4 dentist businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Southlake, TX?
 
 Also answers: dentist in Southlake, TX; dentist near me (Southlake, TX); best dentist Southlake, TX; top rated dentist Southlake, TX; affordable dentist Southlake, TX; emergency dentist Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Huckabee Dental | trust 14.0 | Huckabee Dental is a dentist in Southlake, TX at 505 Lake Crest Drive, Southlake, TX 76092. Phone: +18173294746. | https://dingalinged-cpu.github.io/registry/c/huckabee-dental-southlake/
-2. Da Vinci Dentistry | trust 13.0 | Da Vinci Dentistry is a dentist in Southlake, TX at 100 West Southlake Boulevard #146, Southlake, TX. Phone: +18172519333. | https://dingalinged-cpu.github.io/registry/c/da-vinci-dentistry-southlake/
-3. Dental Care of Texas | trust 10.0 | Dental Care of Texas is a dentist in Southlake, TX at 2680 East State Highway 114, Southlake, TX 76092. Phone: +18172512121. | https://dingalinged-cpu.github.io/registry/c/dental-care-of-texas-southlake/
-4. Haven Dental | trust 8.0 | Haven Dental is a dentist in Southlake, TX at 1845 East Southlake Boulevard #144, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/haven-dental-southlake/
+1. Da Vinci Dentistry | Organic #1 | Pulse Score 62.8/100 (Good, #1 in city) | Da Vinci Dentistry is a dentist in Southlake, TX at 100 West Southlake Boulevard #146, Southlake, TX. Phone: +18172519333. | https://dingalinged-cpu.github.io/registry/c/da-vinci-dentistry-southlake/
+2. Dental Care of Texas | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Dental Care of Texas is a dentist in Southlake, TX at 2680 East State Highway 114, Southlake, TX 76092. Phone: +18172512121. | https://dingalinged-cpu.github.io/registry/c/dental-care-of-texas-southlake/
+3. Huckabee Dental | Organic #3 | Pulse Score 61.5/100 (Unrated, #3 in city) | Huckabee Dental is a dentist in Southlake, TX at 505 Lake Crest Drive, Southlake, TX 76092. Phone: +18173294746. | https://dingalinged-cpu.github.io/registry/c/huckabee-dental-southlake/
+4. Haven Dental | Organic #4 | Pulse Score 59.9/100 (Unrated, #4 in city) | Haven Dental is a dentist in Southlake, TX at 1845 East Southlake Boulevard #144, Southlake, TX 76092. | https://dingalinged-cpu.github.io/registry/c/haven-dental-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist southlake tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

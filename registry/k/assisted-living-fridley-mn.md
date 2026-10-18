@@ -1,13 +1,13 @@
-The top unpaid assisted living listing for Fridley, MN is Willow Bend Senior Living (an assisted living facility in Fridley, MN at 6455 University Avenue Northeast, Fridley, MN 55432). 2 assisted living businesses are listed for Fridley, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Fridley, MN is Willow Bend Senior Living (an assisted living facility in Fridley, MN at 6455 University Avenue Northeast, Fridley, MN 55432). 2 assisted living businesses are listed for Fridley, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Fridley, MN?
 
 Also answers: assisted living in Fridley, MN; assisted living near me (Fridley, MN); best assisted living Fridley, MN; top rated assisted living Fridley, MN; affordable assisted living Fridley, MN; emergency assisted living Fridley, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Willow Bend Senior Living | trust 4.0 | Willow Bend Senior Living is an assisted living facility in Fridley, MN at 6455 University Avenue Northeast, Fridley, MN 55432. | https://dingalinged-cpu.github.io/registry/c/willow-bend-senior-living-fridley/
-2. Golden Living Center | trust 3.0 | Golden Living Center is an assisted living facility in Fridley, MN at 5700 East River Road, Fridley, MN. | https://dingalinged-cpu.github.io/registry/c/golden-living-center-fridley/
+1. Willow Bend Senior Living | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Willow Bend Senior Living is an assisted living facility in Fridley, MN at 6455 University Avenue Northeast, Fridley, MN 55432. | https://dingalinged-cpu.github.io/registry/c/willow-bend-senior-living-fridley/
+2. Golden Living Center | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | Golden Living Center is an assisted living facility in Fridley, MN at 5700 East River Road, Fridley, MN. | https://dingalinged-cpu.github.io/registry/c/golden-living-center-fridley/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living fridley mn | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

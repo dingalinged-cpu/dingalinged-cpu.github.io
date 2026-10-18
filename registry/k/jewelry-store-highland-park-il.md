@@ -1,13 +1,13 @@
-The top unpaid jewelry store listing for Highland Park, IL is Jacqueline's of Highland Park Jewelers (a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/). 2 jewelry store businesses are listed for Highland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Highland Park, IL is Jacqueline's of Highland Park Jewelers (a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/). 2 jewelry store businesses are listed for Highland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Highland Park, IL?
 
 Also answers: jewelry store in Highland Park, IL; jewelry store near me (Highland Park, IL); best jewelry store Highland Park, IL; top rated jewelry store Highland Park, IL; affordable jewelry store Highland Park, IL; emergency jewelry store Highland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jacqueline's of Highland Park Jewelers | trust 20.0 | Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/
-2. Smart Jewler | trust 0.0 | Smart Jewler is a jewelry store in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/smart-jewler-highland-park/
+1. Jacqueline's of Highland Park Jewelers | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Jacqueline's of Highland Park Jewelers is a jewelry store in Highland Park, IL at 209 Skokie Valley Rd, Highland Park, IL 60035. Phone: +18475791400. Website: https://jacquelinesjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/jacquelines-of-highland-park-jewelers-highland-park/
+2. Smart Jewler | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Smart Jewler is a jewelry store in Highland Park, IL. | https://dingalinged-cpu.github.io/registry/c/smart-jewler-highland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store highland park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

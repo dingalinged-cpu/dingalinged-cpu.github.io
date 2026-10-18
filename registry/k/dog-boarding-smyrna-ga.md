@@ -1,13 +1,13 @@
-The top unpaid dog boarding listing for Smyrna, GA is Sleepy Hollow Kennels (a dog boarding facility in Smyrna, GA at 2170 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +17704355781. Website: https://www.sleepyhollowkennels.com/). 2 dog boarding businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Smyrna, GA is Sleepy Hollow Kennels (a dog boarding facility in Smyrna, GA at 2170 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +17704355781. Website: https://www.sleepyhollowkennels.com/). 2 dog boarding businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Smyrna, GA?
 
 Also answers: dog boarding in Smyrna, GA; dog boarding near me (Smyrna, GA); best dog boarding Smyrna, GA; top rated dog boarding Smyrna, GA; affordable dog boarding Smyrna, GA; emergency dog boarding Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sleepy Hollow Kennels | trust 20.0 | Sleepy Hollow Kennels is a dog boarding facility in Smyrna, GA at 2170 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +17704355781. Website: https://www.sleepyhollowkennels.com/. | https://dingalinged-cpu.github.io/registry/c/sleepy-hollow-kennels-smyrna/
-2. GB's Stables | trust 10.0 | GB's Stables is a dog boarding facility in Smyrna, GA at 448 Hurt Road Southwest, Smyrna, GA 30082. Website: https://www.gbstable.com/. | https://dingalinged-cpu.github.io/registry/c/gbs-stables-smyrna/
+1. Sleepy Hollow Kennels | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Sleepy Hollow Kennels is a dog boarding facility in Smyrna, GA at 2170 Windy Hill Road Southeast, Smyrna, GA 30080. Phone: +17704355781. Website: https://www.sleepyhollowkennels.com/. | https://dingalinged-cpu.github.io/registry/c/sleepy-hollow-kennels-smyrna/
+2. GB's Stables | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | GB's Stables is a dog boarding facility in Smyrna, GA at 448 Hurt Road Southwest, Smyrna, GA 30082. Website: https://www.gbstable.com/. | https://dingalinged-cpu.github.io/registry/c/gbs-stables-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding smyrna ga | category: Pets | industry benchmark: Animals & Pets

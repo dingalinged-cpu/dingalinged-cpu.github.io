@@ -13,7 +13,7 @@ Freeway Insurance is an insurance agent in Marietta, GA at 1809 Canton Road Nort
 - Website: https://locations.freeway.com/auto-insurance-7088-marietta-canton/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.9/100 — Fair — top 42% of insurance agents in Atlanta, #7 of 10 insurance agents in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

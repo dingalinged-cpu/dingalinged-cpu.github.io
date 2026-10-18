@@ -13,7 +13,7 @@ Salon NEXT is a hair salon in Atlanta, GA at 857 Collier Road Northwest #4, Atla
 - Website: https://www.salonnext.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 08:00-17:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 10% of hair salons in Atlanta, #13 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

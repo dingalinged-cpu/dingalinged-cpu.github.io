@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Bedford, TX is SpeeDee Oil Change & Auto Service (an auto repair shop in Bedford, TX. Website: https://www.speedeeoil.com/locations/bedford-tx-2085/). 1 oil change businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Bedford, TX is SpeeDee Oil Change & Auto Service (an auto repair shop in Bedford, TX. Website: https://www.speedeeoil.com/locations/bedford-tx-2085/). 1 oil change businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Bedford, TX?
 
 Also answers: oil change in Bedford, TX; oil change near me (Bedford, TX); best oil change Bedford, TX; top rated oil change Bedford, TX; affordable oil change Bedford, TX; emergency oil change Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SpeeDee Oil Change & Auto Service | trust 6.0 | SpeeDee Oil Change & Auto Service is an auto repair shop in Bedford, TX. Website: https://www.speedeeoil.com/locations/bedford-tx-2085/. | https://dingalinged-cpu.github.io/registry/c/speedee-oil-change-and-auto-service-bedford/
+1. SpeeDee Oil Change & Auto Service | Organic #1 | Pulse Score 57.4/100 (Unrated, #2 in city) | SpeeDee Oil Change & Auto Service is an auto repair shop in Bedford, TX. Website: https://www.speedeeoil.com/locations/bedford-tx-2085/. | https://dingalinged-cpu.github.io/registry/c/speedee-oil-change-and-auto-service-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change bedford tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

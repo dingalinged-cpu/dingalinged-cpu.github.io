@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for West University Place, TX is Luvish Nails Lounge (a nail salon in Houston, TX at 5600 Kirby Drive #S-1, Houston, TX 77005. Website: https://luvishnailslounge.com/). 1 nail salon businesses are listed for West University Place, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for West University Place, TX is Luvish Nails Lounge (a nail salon in Houston, TX at 5600 Kirby Drive #S-1, Houston, TX 77005. Website: https://luvishnailslounge.com/). 1 nail salon businesses are listed for West University Place, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in West University Place, TX?
 
 Also answers: nail salon in West University Place, TX; nail salon near me (West University Place, TX); best nail salon West University Place, TX; top rated nail salon West University Place, TX; affordable nail salon West University Place, TX; emergency nail salon West University Place, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Luvish Nails Lounge | trust 14.0 | Luvish Nails Lounge is a nail salon in Houston, TX at 5600 Kirby Drive #S-1, Houston, TX 77005. Website: https://luvishnailslounge.com/. | https://dingalinged-cpu.github.io/registry/c/luvish-nails-lounge-houston/
+1. Luvish Nails Lounge | Organic #1 | Pulse Score 61.9/100 (Unrated, #17 in city) | Luvish Nails Lounge is a nail salon in Houston, TX at 5600 Kirby Drive #S-1, Houston, TX 77005. Website: https://luvishnailslounge.com/. | https://dingalinged-cpu.github.io/registry/c/luvish-nails-lounge-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon west university place tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

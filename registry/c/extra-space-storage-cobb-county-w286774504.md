@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Cobb County, GA at 1125 Robert
 - Website: https://www.extraspace.com/storage/facilities/us/georgia/kennesaw/3315/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.7/100 — Unrated (not enough evidence yet) — top 45% of self-storage facilitys in Atlanta, #21 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

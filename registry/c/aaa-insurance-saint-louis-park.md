@@ -13,7 +13,7 @@ AAA Insurance is an insurance agent in Saint Louis Park, MN at 5400 Auto Club Wa
 - Website: https://www.aaa.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.5/100 — Building — top 62% of insurance agents in Minneapolis–St. Paul, #5 of 9 insurance agents in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

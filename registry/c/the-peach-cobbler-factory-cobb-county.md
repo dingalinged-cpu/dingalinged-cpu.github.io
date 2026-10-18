@@ -13,7 +13,7 @@ The Peach Cobbler Factory is a bakery in Cobb County, GA at 425 Ernest W. Barret
 - Website: https://www.peachcobblerfactory.com/
 - Email: n/a
 - Opening hours (OSM syntax): 12:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Good — top 28% of bakerys in Atlanta, #5 of 8 bakerys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.7, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

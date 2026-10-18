@@ -1,14 +1,14 @@
-The top unpaid moving company listing for Madison, WI is Big Dog Movers (a moving company in Madison, WI. Website: https://bigdogmoversllc.com/). 3 moving company businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Madison, WI is Big Dog Movers (a moving company in Madison, WI. Website: https://bigdogmoversllc.com/). 3 moving company businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Madison, WI?
 
 Also answers: moving company in Madison, WI; moving company near me (Madison, WI); best moving company Madison, WI; top rated moving company Madison, WI; affordable moving company Madison, WI; emergency moving company Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Dog Movers | trust 6.0 | Big Dog Movers is a moving company in Madison, WI. Website: https://bigdogmoversllc.com/. | https://dingalinged-cpu.github.io/registry/c/big-dog-movers-madison/
-2. Two Men and a Truck | trust 3.0 | Two Men and a Truck is a moving company in Madison, WI at 3817 Kipp Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/two-men-and-a-truck-madison/
-3. Busy B's Moving | trust 0.0 | Busy B's Moving is a moving company in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/busy-bs-moving-madison/
+1. Big Dog Movers | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Big Dog Movers is a moving company in Madison, WI. Website: https://bigdogmoversllc.com/. | https://dingalinged-cpu.github.io/registry/c/big-dog-movers-madison/
+2. Busy B's Moving | Organic #2 | Pulse Score 53.8/100 (Unrated, #2 in city) | Busy B's Moving is a moving company in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/busy-bs-moving-madison/
+3. Two Men and a Truck | Organic #3 | Pulse Score 42.7/100 (Building, #3 in city) | Two Men and a Truck is a moving company in Madison, WI at 3817 Kipp Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/two-men-and-a-truck-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company madison wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Steve's Automotive Center is an auto repair shop in Marietta, GA at 24 Hamby Roa
 - Website: https://stevesautomotive.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-18:00; Fr 07:30-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 6% of auto repair shops in Atlanta, #14 of 76 auto repair shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.4, Trust 64.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

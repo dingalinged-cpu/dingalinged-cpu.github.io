@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Minneapolis, MN is Northwestern Tire Co (a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/). 3 tire shop businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Minneapolis, MN is Northwestern Tire Co (a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/). 3 tire shop businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Minneapolis, MN?
 
 Also answers: tire shop in Minneapolis, MN; tire shop near me (Minneapolis, MN); best tire shop Minneapolis, MN; top rated tire shop Minneapolis, MN; affordable tire shop Minneapolis, MN; emergency tire shop Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Northwestern Tire Co | trust 16.0 | Northwestern Tire Co is a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/. | https://dingalinged-cpu.github.io/registry/c/northwestern-tire-co-minneapolis/
-2. Southwest Tire & Auto | trust 10.0 | Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.swtireauto.com/. | https://dingalinged-cpu.github.io/registry/c/southwest-tire-and-auto-minneapolis/
-3. Tires Plus | trust 8.0 | Tires Plus is a tire shop in Minneapolis, MN at 1103 West Lake Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/tires-plus-minneapolis/
+1. Northwestern Tire Co | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Northwestern Tire Co is a tire shop in Minneapolis, MN at 301 Fremont Avenue North, Minneapolis, MN 55405. Phone: +16123774900. Website: https://www.northwesterntire.net/. | https://dingalinged-cpu.github.io/registry/c/northwestern-tire-co-minneapolis/
+2. Southwest Tire & Auto | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Southwest Tire & Auto is a tire shop in Minneapolis, MN at 5009 Xerxes Avenue South, Minneapolis, MN 55410. Website: https://www.swtireauto.com/. | https://dingalinged-cpu.github.io/registry/c/southwest-tire-and-auto-minneapolis/
+3. Tires Plus | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Tires Plus is a tire shop in Minneapolis, MN at 1103 West Lake Street, Minneapolis, MN 55408. | https://dingalinged-cpu.github.io/registry/c/tires-plus-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop minneapolis mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

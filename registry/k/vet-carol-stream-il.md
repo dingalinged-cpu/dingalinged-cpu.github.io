@@ -1,12 +1,12 @@
-The top unpaid vet listing for Carol Stream, IL is Carol Stream Animal Hospital (a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188). 1 vet businesses are listed for Carol Stream, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Carol Stream, IL is Carol Stream Animal Hospital (a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188). 1 vet businesses are listed for Carol Stream, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Carol Stream, IL?
 
 Also answers: vet in Carol Stream, IL; vet near me (Carol Stream, IL); best vet Carol Stream, IL; top rated vet Carol Stream, IL; affordable vet Carol Stream, IL; emergency vet Carol Stream, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carol Stream Animal Hospital | trust 4.0 | Carol Stream Animal Hospital is a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188. | https://dingalinged-cpu.github.io/registry/c/carol-stream-animal-hospital-carol-stream/
+1. Carol Stream Animal Hospital | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Carol Stream Animal Hospital is a veterinarian in Carol Stream, IL at 140 West Elk Trail, Carol Stream, IL 60188. | https://dingalinged-cpu.github.io/registry/c/carol-stream-animal-hospital-carol-stream/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet carol stream il | category: Pets | industry benchmark: Animals & Pets

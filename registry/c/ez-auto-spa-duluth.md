@@ -13,7 +13,7 @@ EZ Auto Spa is an auto repair shop in Duluth, GA at 3492 Satellite Boulevard #St
 - Website: https://ezautospa.com/locations/ez-auto-duluth/
 - Email: n/a
 - Opening hours (OSM syntax): Monday - Friday: 8:30 AM - 5:00 PM
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Atlanta, #1 of 4 auto repair shops in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

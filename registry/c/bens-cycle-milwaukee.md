@@ -13,7 +13,7 @@ Ben's Cycle is a bike shop in Milwaukee, WI at 1013 West Lincoln Avenue, Milwauk
 - Website: https://www.benscycle.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-16:00; Su 10:00-14:00
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 23% of bike shops in Milwaukee, #5 of 8 bike shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

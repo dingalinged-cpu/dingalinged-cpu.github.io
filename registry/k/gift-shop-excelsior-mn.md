@@ -1,14 +1,14 @@
-The top unpaid gift shop listing for Excelsior, MN is Jewelweed (a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/). 3 gift shop businesses are listed for Excelsior, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Excelsior, MN is Jewelweed (a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/). 3 gift shop businesses are listed for Excelsior, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Excelsior, MN?
 
 Also answers: gift shop in Excelsior, MN; gift shop near me (Excelsior, MN); best gift shop Excelsior, MN; top rated gift shop Excelsior, MN; affordable gift shop Excelsior, MN; emergency gift shop Excelsior, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jewelweed | trust 16.0 | Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/. | https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/
-2. Leipold's Gifts & Antiques | trust 10.0 | Leipold's Gifts & Antiques is a gift shop in Excelsior, MN at 239 Water Street, Excelsior, MN 55331. Phone: +19524745880. | https://dingalinged-cpu.github.io/registry/c/leipolds-gifts-and-antiques-excelsior/
-3. Fleurish LLP | trust 4.0 | Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 55331. | https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/
+1. Jewelweed | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Jewelweed is a gift shop in Excelsior, MN at 223 Water Street, Excelsior, MN 55331. Phone: +19524767631. Website: https://jewelweed.com/. | https://dingalinged-cpu.github.io/registry/c/jewelweed-excelsior/
+2. Leipold's Gifts & Antiques | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Leipold's Gifts & Antiques is a gift shop in Excelsior, MN at 239 Water Street, Excelsior, MN 55331. Phone: +19524745880. | https://dingalinged-cpu.github.io/registry/c/leipolds-gifts-and-antiques-excelsior/
+3. Fleurish LLP | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Fleurish LLP is a gift shop in Excelsior, MN at 261 Water Street, Excelsior, MN 55331. | https://dingalinged-cpu.github.io/registry/c/fleurish-llp-excelsior/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop excelsior mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Motorvation Atlanta is an used car dealer in Atlanta, GA at 1244 Techwood Drive 
 - Website: https://www.motorvationatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 27% of used car dealers in Atlanta, #2 of 7 used car dealers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

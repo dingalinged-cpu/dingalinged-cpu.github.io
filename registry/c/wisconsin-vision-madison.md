@@ -13,7 +13,7 @@ Wisconsin Vision is an eye care practice in Madison, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-15:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Unrated (not enough evidence yet) — top 100% of eye care practices in Madison, #4 of 4 eye care practices in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

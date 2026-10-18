@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Lisle, IL is Orchid Nail (a nail salon in Lisle, IL at 1600 Maple Avenue, Lisle, IL 60532. Phone: +16304359999. Website: https://orchidnailslisle.com/). 2 nail salon businesses are listed for Lisle, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Lisle, IL is Orchid Nail (a nail salon in Lisle, IL at 1600 Maple Avenue, Lisle, IL 60532. Phone: +16304359999. Website: https://orchidnailslisle.com/). 2 nail salon businesses are listed for Lisle, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Lisle, IL?
 
 Also answers: nail salon in Lisle, IL; nail salon near me (Lisle, IL); best nail salon Lisle, IL; top rated nail salon Lisle, IL; affordable nail salon Lisle, IL; emergency nail salon Lisle, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orchid Nail | trust 16.0 | Orchid Nail is a nail salon in Lisle, IL at 1600 Maple Avenue, Lisle, IL 60532. Phone: +16304359999. Website: https://orchidnailslisle.com/. | https://dingalinged-cpu.github.io/registry/c/orchid-nail-lisle/
-2. Liz's Nails | trust 4.0 | Liz's Nails is a nail salon in Lisle, IL at 6466 College Road, Lisle, IL 60532. | https://dingalinged-cpu.github.io/registry/c/lizs-nails-lisle/
+1. Orchid Nail | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Orchid Nail is a nail salon in Lisle, IL at 1600 Maple Avenue, Lisle, IL 60532. Phone: +16304359999. Website: https://orchidnailslisle.com/. | https://dingalinged-cpu.github.io/registry/c/orchid-nail-lisle/
+2. Liz's Nails | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Liz's Nails is a nail salon in Lisle, IL at 6466 College Road, Lisle, IL 60532. | https://dingalinged-cpu.github.io/registry/c/lizs-nails-lisle/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lisle il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,20 +1,20 @@
-The top unpaid car wash listing for Gary, IN is Auto Spa of NWI LLC (a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245). 9 car wash businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Gary, IN is Auto Spa of NWI LLC (a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245). 9 car wash businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Gary, IN?
 
 Also answers: car wash in Gary, IN; car wash near me (Gary, IN); best car wash Gary, IN; top rated car wash Gary, IN; affordable car wash Gary, IN; emergency car wash Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Spa of NWI LLC | trust 20.0 | Auto Spa of NWI LLC is a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245. | https://dingalinged-cpu.github.io/registry/c/auto-spa-of-nwi-llc-gary/
-2. Car Wash | trust 10.0 | Car Wash is a car wash in Gary, IN at 1508 Massachusetts Street, Gary, IN 46407. Phone: +12198851339. | https://dingalinged-cpu.github.io/registry/c/car-wash-gary/
-3. Tsunami Express Car Wash | trust 10.0 | Tsunami Express Car Wash is a car wash in Gary, IN at 3251 Grant Street, Gary, IN 46408. Phone: +12194003700. | https://dingalinged-cpu.github.io/registry/c/tsunami-express-car-wash-gary/
-4. K&B Hand Car Wash & Detailing | trust 6.0 | K&B Hand Car Wash & Detailing is a car wash in Gary, IN. Phone: +12198840631. | https://dingalinged-cpu.github.io/registry/c/k-and-b-hand-car-wash-and-detailing-gary/
-5. Mobil | trust 4.0 | Mobil is a car wash in Gary, IN at 3101 West 5th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/mobil-gary/
-6. Ace Car Care | trust 0.0 | Ace Car Care is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/ace-car-care-gary/
-7. Love's Truck Wash | trust 0.0 | Love's Truck Wash is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/loves-truck-wash-gary/
-8. Rio's Wash Wax & Detail | trust 0.0 | Rio's Wash Wax & Detail is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/rios-wash-wax-and-detail-gary/
-9. Superior Car Wash & Auto Detailing | trust 0.0 | Superior Car Wash & Auto Detailing is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/superior-car-wash-and-auto-detailing-gary/
+1. Auto Spa of NWI LLC | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Auto Spa of NWI LLC is a car wash in Gary, IN at 3117 Broadway, Gary, IN 46409. Phone: +12199811906. Website: https://www.localcarwash.net/Indiana/Auto-Spa-of-Nwi-LLC-2069245. | https://dingalinged-cpu.github.io/registry/c/auto-spa-of-nwi-llc-gary/
+2. Tsunami Express Car Wash | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Tsunami Express Car Wash is a car wash in Gary, IN at 3251 Grant Street, Gary, IN 46408. Phone: +12194003700. | https://dingalinged-cpu.github.io/registry/c/tsunami-express-car-wash-gary/
+3. K&B Hand Car Wash & Detailing | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | K&B Hand Car Wash & Detailing is a car wash in Gary, IN. Phone: +12198840631. | https://dingalinged-cpu.github.io/registry/c/k-and-b-hand-car-wash-and-detailing-gary/
+4. Rio's Wash Wax & Detail | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Rio's Wash Wax & Detail is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/rios-wash-wax-and-detail-gary/
+5. Ace Car Care | Organic #5 | Pulse Score 54.3/100 (Unrated, #5 in city) | Ace Car Care is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/ace-car-care-gary/
+6. Superior Car Wash & Auto Detailing | Organic #6 | Pulse Score 54.3/100 (Unrated, #6 in city) | Superior Car Wash & Auto Detailing is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/superior-car-wash-and-auto-detailing-gary/
+7. Car Wash | Organic #7 | Pulse Score 48.6/100 (Unrated, #7 in city) | Car Wash is a car wash in Gary, IN at 1508 Massachusetts Street, Gary, IN 46407. Phone: +12198851339. | https://dingalinged-cpu.github.io/registry/c/car-wash-gary/
+8. Mobil | Organic #8 | Pulse Score 46.3/100 (Building, #8 in city) | Mobil is a car wash in Gary, IN at 3101 West 5th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/mobil-gary/
+9. Love's Truck Wash | Organic #9 | Pulse Score 42.7/100 (Building, #9 in city) | Love's Truck Wash is a car wash in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/loves-truck-wash-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash gary in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

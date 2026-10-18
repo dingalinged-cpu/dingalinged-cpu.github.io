@@ -13,7 +13,7 @@ Lugo Boxing is a martial arts school in Marietta, GA at 3300 Canton Road #B, Mar
 - Website: https://thelugoboxing.wixsite.com/my-site
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 17:30-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Good — top 9% of martial arts schools in Atlanta, #1 of 3 martial arts schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

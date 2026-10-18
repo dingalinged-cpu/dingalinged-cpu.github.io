@@ -13,7 +13,7 @@ The Right Choice Academy is a preschool in Cherokee County, GA at 6845 Highway 9
 - Website: https://therightchoiceacademy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 6% of preschools in Atlanta, #2 of 3 preschools in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

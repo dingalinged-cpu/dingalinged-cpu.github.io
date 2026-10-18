@@ -13,7 +13,7 @@ Unique Creations Wellness Spa & Salon is a hair salon in McDonough, GA at 303 Jo
 - Website: https://uniquecreationswellnessspaandsalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Atlanta, #1 of 1 hair salons in McDonough (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

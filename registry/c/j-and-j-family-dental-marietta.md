@@ -13,7 +13,7 @@ J&J Family Dental is a dentist in Marietta, GA at 2230 Roswell Road #200, Mariet
 - Website: https://www.mariettadental.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 07:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Good — top 8% of dentists in Atlanta, #7 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

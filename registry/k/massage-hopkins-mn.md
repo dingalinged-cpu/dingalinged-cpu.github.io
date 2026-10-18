@@ -1,12 +1,12 @@
-The top unpaid massage listing for Hopkins, MN is European Massage Therapy (a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343). 1 massage businesses are listed for Hopkins, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Hopkins, MN is European Massage Therapy (a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343). 1 massage businesses are listed for Hopkins, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Hopkins, MN?
 
 Also answers: massage in Hopkins, MN; massage near me (Hopkins, MN); best massage Hopkins, MN; top rated massage Hopkins, MN; affordable massage Hopkins, MN; emergency massage Hopkins, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. European Massage Therapy | trust 4.0 | European Massage Therapy is a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/european-massage-therapy-hopkins/
+1. European Massage Therapy | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | European Massage Therapy is a massage studio in Hopkins, MN at 901 1st Street North, Hopkins, MN 55343. | https://dingalinged-cpu.github.io/registry/c/european-massage-therapy-hopkins/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage hopkins mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

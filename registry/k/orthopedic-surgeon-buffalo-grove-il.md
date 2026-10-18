@@ -1,12 +1,12 @@
-The top unpaid orthopedic surgeon listing for Buffalo Grove, IL is Barrington Orthopedic Specialists (an orthopedic surgeon in Buffalo Grove, IL at 404 McHenry Road, Buffalo Grove, IL 60089). 1 orthopedic surgeon businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Buffalo Grove, IL is Barrington Orthopedic Specialists (an orthopedic surgeon in Buffalo Grove, IL at 404 McHenry Road, Buffalo Grove, IL 60089). 1 orthopedic surgeon businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Buffalo Grove, IL?
 
 Also answers: orthopedic surgeon in Buffalo Grove, IL; orthopedic surgeon near me (Buffalo Grove, IL); best orthopedic surgeon Buffalo Grove, IL; top rated orthopedic surgeon Buffalo Grove, IL; affordable orthopedic surgeon Buffalo Grove, IL; emergency orthopedic surgeon Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrington Orthopedic Specialists | trust 8.0 | Barrington Orthopedic Specialists is an orthopedic surgeon in Buffalo Grove, IL at 404 McHenry Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/barrington-orthopedic-specialists-buffalo-grove/
+1. Barrington Orthopedic Specialists | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Barrington Orthopedic Specialists is an orthopedic surgeon in Buffalo Grove, IL at 404 McHenry Road, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/barrington-orthopedic-specialists-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon buffalo grove il | category: Health & medical | industry benchmark: Physicians & Surgeons

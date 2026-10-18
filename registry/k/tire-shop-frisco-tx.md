@@ -1,15 +1,15 @@
-The top unpaid tire shop listing for Frisco, TX is Christian Brothers Automotive Frisco West (an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/). 4 tire shop businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Frisco, TX is Christian Brothers Automotive Frisco West (an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/). 4 tire shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Frisco, TX?
 
 Also answers: tire shop in Frisco, TX; tire shop near me (Frisco, TX); best tire shop Frisco, TX; top rated tire shop Frisco, TX; affordable tire shop Frisco, TX; emergency tire shop Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christian Brothers Automotive Frisco West | trust 20.0 | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-frisco-west-frisco/
-2. Costco Tire Center | trust 13.0 | Costco Tire Center is a tire shop in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. Website: https://www.costco.com/warehouse-locations/frisco-tx-1097.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-frisco/
-3. Walmart Tire & Lube | trust 6.0 | Walmart Tire & Lube is a tire shop in Frisco, TX. Phone: +14693626317. | https://dingalinged-cpu.github.io/registry/c/walmart-tire-and-lube-frisco/
-4. Goodyear Tires | trust 0.0 | Goodyear Tires is a tire shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-tires-frisco/
+1. Christian Brothers Automotive Frisco West | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Christian Brothers Automotive Frisco West is an auto repair shop in Frisco, TX at 8110 FM 423, Frisco, TX 75034. Phone: +12147053341. Website: https://www.cbac.com/frisco-west/. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-frisco-west-frisco/
+2. Walmart Tire & Lube | Organic #2 | Pulse Score 56.8/100 (Unrated, #1 in city) | Walmart Tire & Lube is a tire shop in Frisco, TX. Phone: +14693626317. | https://dingalinged-cpu.github.io/registry/c/walmart-tire-and-lube-frisco/
+3. Goodyear Tires | Organic #3 | Pulse Score 54.3/100 (Unrated, #2 in city) | Goodyear Tires is a tire shop in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/goodyear-tires-frisco/
+4. Costco Tire Center | Organic #4 | Pulse Score 48.4/100 (Building, #3 in city) | Costco Tire Center is a tire shop in Frisco, TX at 11220 Dallas Parkway, Frisco, TX. Website: https://www.costco.com/warehouse-locations/frisco-tx-1097.html. | https://dingalinged-cpu.github.io/registry/c/costco-tire-center-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop frisco tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

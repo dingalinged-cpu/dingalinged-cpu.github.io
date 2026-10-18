@@ -1,18 +1,18 @@
-The top unpaid eye doctor listing for Harris County, TX is Berkeley eye center (an eye care practice in Harris County, TX). 7 eye doctor businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Harris County, TX is Vision Republic (an eye care practice in Harris County, TX). 7 eye doctor businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Harris County, TX?
 
 Also answers: eye doctor in Harris County, TX; eye doctor near me (Harris County, TX); best eye doctor Harris County, TX; top rated eye doctor Harris County, TX; affordable eye doctor Harris County, TX; emergency eye doctor Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Berkeley eye center | trust 0.0 | Berkeley eye center is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/berkeley-eye-center-harris-county/
-2. Copperfield Vision | trust 0.0 | Copperfield Vision is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-vision-harris-county/
-3. Eyecare For You | trust 0.0 | Eyecare For You is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/eyecare-for-you-harris-county/
-4. Mann Eye 2 - 20/20 Express | trust 0.0 | Mann Eye 2 - 20/20 Express is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mann-eye-2-20-20-express-harris-county/
-5. Today's Vision | trust 0.0 | Today's Vision is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/todays-vision-harris-county/
-6. Vision Care - Gina T. Do, OD | trust 0.0 | Vision Care - Gina T. Do, OD is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-care-gina-t-do-od-harris-county/
-7. Vision Republic | trust 0.0 | Vision Republic is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-republic-harris-county/
+1. Vision Republic | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Vision Republic is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-republic-harris-county/
+2. Berkeley eye center | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Berkeley eye center is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/berkeley-eye-center-harris-county/
+3. Copperfield Vision | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Copperfield Vision is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-vision-harris-county/
+4. Eyecare For You | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Eyecare For You is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/eyecare-for-you-harris-county/
+5. Mann Eye 2 - 20/20 Express | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Mann Eye 2 - 20/20 Express is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mann-eye-2-20-20-express-harris-county/
+6. Today's Vision | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Today's Vision is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/todays-vision-harris-county/
+7. Vision Care - Gina T. Do, OD | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Vision Care - Gina T. Do, OD is an eye care practice in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/vision-care-gina-t-do-od-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor harris county tx | category: Health & medical | industry benchmark: Physicians & Surgeons

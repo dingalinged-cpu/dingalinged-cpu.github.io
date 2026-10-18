@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Bartlett, IL is FTD Auto - Bartlett (an auto repair shop in Bartlett, IL at 213 East Lake Street, Bartlett, IL 60103. Phone: +16308555234. Website: https://www.ftdauto.com/). 1 auto repair businesses are listed for Bartlett, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Bartlett, IL is FTD Auto - Bartlett (an auto repair shop in Bartlett, IL at 213 East Lake Street, Bartlett, IL 60103. Phone: +16308555234. Website: https://www.ftdauto.com/). 1 auto repair businesses are listed for Bartlett, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Bartlett, IL?
 
 Also answers: auto repair in Bartlett, IL; auto repair near me (Bartlett, IL); best auto repair Bartlett, IL; top rated auto repair Bartlett, IL; affordable auto repair Bartlett, IL; emergency auto repair Bartlett, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FTD Auto - Bartlett | trust 20.0 | FTD Auto - Bartlett is an auto repair shop in Bartlett, IL at 213 East Lake Street, Bartlett, IL 60103. Phone: +16308555234. Website: https://www.ftdauto.com/. | https://dingalinged-cpu.github.io/registry/c/ftd-auto-bartlett-bartlett/
+1. FTD Auto - Bartlett | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | FTD Auto - Bartlett is an auto repair shop in Bartlett, IL at 213 East Lake Street, Bartlett, IL 60103. Phone: +16308555234. Website: https://www.ftdauto.com/. | https://dingalinged-cpu.github.io/registry/c/ftd-auto-bartlett-bartlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair bartlett il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Hope's Door is a thrift store in Plano, TX at 2129 West Parker Road #300, Plano,
 - Website: https://hdnbc.org/resale-store
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 11:00-18:00; Su 12:00-18:00
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 8% of thrift stores in Dallas–Fort Worth, #1 of 6 thrift stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Oak Point Heating And Air LLC is a HVAC contractor in Little Elm, TX at 3447 Far
 - Website: https://oakpointhvac.com/
 - Email: oakpointhvac@yahoo.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Unrated (not enough evidence yet) — top 5% of HVAC contractors in Dallas–Fort Worth, #1 of 1 HVAC contractors in Little Elm (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

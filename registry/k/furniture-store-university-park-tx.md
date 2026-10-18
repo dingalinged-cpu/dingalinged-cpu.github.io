@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for University Park, TX is Casa Costa (a furniture store in Dallas, TX at 6611 Hillcrest Avenue, Dallas, TX 75205. Phone: +18179011561). 2 furniture store businesses are listed for University Park, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for University Park, TX is Casa Costa (a furniture store in Dallas, TX at 6611 Hillcrest Avenue, Dallas, TX 75205. Phone: +18179011561). 2 furniture store businesses are listed for University Park, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in University Park, TX?
 
 Also answers: furniture store in University Park, TX; furniture store near me (University Park, TX); best furniture store University Park, TX; top rated furniture store University Park, TX; affordable furniture store University Park, TX; emergency furniture store University Park, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Casa Costa | trust 10.0 | Casa Costa is a furniture store in Dallas, TX at 6611 Hillcrest Avenue, Dallas, TX 75205. Phone: +18179011561. | https://dingalinged-cpu.github.io/registry/c/casa-costa-dallas/
-2. At My Table | trust 0.0 | At My Table is a furniture store in University Park, TX. | https://dingalinged-cpu.github.io/registry/c/at-my-table-university-park/
+1. Casa Costa | Organic #1 | Pulse Score 61.7/100 (Unrated, #2 in city) | Casa Costa is a furniture store in Dallas, TX at 6611 Hillcrest Avenue, Dallas, TX 75205. Phone: +18179011561. | https://dingalinged-cpu.github.io/registry/c/casa-costa-dallas/
+2. At My Table | Organic #2 | Pulse Score 54.7/100 (Unrated, #1 in city) | At My Table is a furniture store in University Park, TX. | https://dingalinged-cpu.github.io/registry/c/at-my-table-university-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store university park tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

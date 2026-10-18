@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Westchester, IL at 3061 South Wolf Road, Westchester
 - Website: https://www.anytimefitness.com/gyms/3714/westchester-il-60154/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.1/100 — Fair — top 45% of gyms in Chicago, #1 of 1 gyms in Westchester (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 68.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

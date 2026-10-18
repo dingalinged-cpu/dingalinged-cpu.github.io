@@ -1,17 +1,17 @@
-The top unpaid insurance agent listing for Brookfield, WI is American Family Insurance - Jeff Van Dam (an insurance agent in Brookfield, WI at 13620 West Capitol Drive #F, Brookfield, WI 53005. Phone: +12627813710. Website: https://jeffvandam.com/). 6 insurance agent businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Brookfield, WI is American Family Insurance - Jeff Van Dam (an insurance agent in Brookfield, WI at 13620 West Capitol Drive #F, Brookfield, WI 53005. Phone: +12627813710. Website: https://jeffvandam.com/). 6 insurance agent businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Brookfield, WI?
 
 Also answers: insurance agent in Brookfield, WI; insurance agent near me (Brookfield, WI); best insurance agent Brookfield, WI; top rated insurance agent Brookfield, WI; affordable insurance agent Brookfield, WI; emergency insurance agent Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance - Jeff Van Dam | trust 20.0 | American Family Insurance - Jeff Van Dam is an insurance agent in Brookfield, WI at 13620 West Capitol Drive #F, Brookfield, WI 53005. Phone: +12627813710. Website: https://jeffvandam.com/. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-jeff-van-dam-brookfield/
-2. David R Murray & Associates, Inc. | trust 3.0 | David R Murray & Associates, Inc. is an insurance agent in Brookfield, WI at 13035 West Bluemound Road, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/david-r-murray-and-associates-inc-brookfield/
-3. Allstate | trust 0.0 | Allstate is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/allstate-brookfield-n9555486255/
-4. G2 Insurance Services, Inc. | trust 0.0 | G2 Insurance Services, Inc. is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/g2-insurance-services-inc-brookfield/
-5. Rachelle Bariola Agency Inc. | trust 0.0 | Rachelle Bariola Agency Inc. is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/rachelle-bariola-agency-inc-brookfield/
-6. Ryan Keena Agency | trust 0.0 | Ryan Keena Agency is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/ryan-keena-agency-brookfield/
+1. American Family Insurance - Jeff Van Dam | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | American Family Insurance - Jeff Van Dam is an insurance agent in Brookfield, WI at 13620 West Capitol Drive #F, Brookfield, WI 53005. Phone: +12627813710. Website: https://jeffvandam.com/. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-jeff-van-dam-brookfield/
+2. David R Murray & Associates, Inc. | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | David R Murray & Associates, Inc. is an insurance agent in Brookfield, WI at 13035 West Bluemound Road, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/david-r-murray-and-associates-inc-brookfield/
+3. G2 Insurance Services, Inc. | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | G2 Insurance Services, Inc. is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/g2-insurance-services-inc-brookfield/
+4. Allstate | Organic #4 | Pulse Score 42.3/100 (Building, #4 in city) | Allstate is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/allstate-brookfield-n9555486255/
+5. Rachelle Bariola Agency Inc. | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Rachelle Bariola Agency Inc. is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/rachelle-bariola-agency-inc-brookfield/
+6. Ryan Keena Agency | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Ryan Keena Agency is an insurance agent in Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/ryan-keena-agency-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent brookfield wi | category: Professional & financial services | industry benchmark: Finance & Insurance

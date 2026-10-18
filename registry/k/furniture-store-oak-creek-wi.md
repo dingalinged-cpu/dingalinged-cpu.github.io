@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Oak Creek, WI is Colder's Furniture and Appliances (a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/). 4 furniture store businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Oak Creek, WI is Colder's Furniture and Appliances (a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/). 4 furniture store businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Oak Creek, WI?
 
 Also answers: furniture store in Oak Creek, WI; furniture store near me (Oak Creek, WI); best furniture store Oak Creek, WI; top rated furniture store Oak Creek, WI; affordable furniture store Oak Creek, WI; emergency furniture store Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Colder's Furniture and Appliances | trust 20.0 | Colder's Furniture and Appliances is a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/. | https://dingalinged-cpu.github.io/registry/c/colders-furniture-and-appliances-oak-creek/
-2. IKEA | trust 14.0 | IKEA is a furniture store in Oak Creek, WI at 7500 South Ikea Way, Oak Creek, WI 53154. Website: https://www.ikea.com/us/en/stores/oak-creek/. | https://dingalinged-cpu.github.io/registry/c/ikea-oak-creek/
-3. Steinhafels Furniture | trust 4.0 | Steinhafels Furniture is a furniture store in Oak Creek, WI at 9191 South 13th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/steinhafels-furniture-oak-creek/
-4. Get It Now! | trust 3.0 | Get It Now! is a furniture store in Oak Creek, WI at 8601 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/get-it-now-oak-creek/
+1. Colder's Furniture and Appliances | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Colder's Furniture and Appliances is a furniture store in Oak Creek, WI at 9725 South 13th Street, Oak Creek, WI 53154. Phone: +14144761574. Website: https://www.colders.com/. | https://dingalinged-cpu.github.io/registry/c/colders-furniture-and-appliances-oak-creek/
+2. Steinhafels Furniture | Organic #2 | Pulse Score 56.2/100 (Unrated, #2 in city) | Steinhafels Furniture is a furniture store in Oak Creek, WI at 9191 South 13th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/steinhafels-furniture-oak-creek/
+3. IKEA | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | IKEA is a furniture store in Oak Creek, WI at 7500 South Ikea Way, Oak Creek, WI 53154. Website: https://www.ikea.com/us/en/stores/oak-creek/. | https://dingalinged-cpu.github.io/registry/c/ikea-oak-creek/
+4. Get It Now! | Organic #4 | Pulse Score 43.9/100 (Unrated, #4 in city) | Get It Now! is a furniture store in Oak Creek, WI at 8601 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/get-it-now-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store oak creek wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

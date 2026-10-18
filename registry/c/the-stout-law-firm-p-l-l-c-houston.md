@@ -13,7 +13,7 @@ The Stout Law Firm P.L.L.C. is a lawyer in Houston, TX at 201 West 16th Street, 
 - Website: https://www.divorcelawyerhouston.pro/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-16:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 30% of lawyers in Houston, #25 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

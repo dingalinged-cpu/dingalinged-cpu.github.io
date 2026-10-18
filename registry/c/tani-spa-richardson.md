@@ -13,7 +13,7 @@ Tani Spa is a massage studio in Richardson, TX at 328 West Campbell Road, Richar
 - Website: https://www.tanispa.com/
 - Email: tanispa.massage@gmail.com
 - Opening hours (OSM syntax): Mo-Su 10:00-21:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 8% of massage studios in Dallas–Fort Worth, #1 of 6 massage studios in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

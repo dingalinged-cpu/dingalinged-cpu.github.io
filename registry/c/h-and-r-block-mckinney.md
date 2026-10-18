@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in McKinney, TX at 4900 Eldorado Parkway 
 - Website: https://www.hrblock.com/tax-office-near-me/texas/mc-kinney/66368/?otppartnerid=9308&campaignid=pw_mcm_9308_9762
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-19:00 Th 12:00-19:00 Fr 10:00-18:00 Sa 10:00-16:00 Su 11:00-17:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 42% of tax preparation services in Dallas–Fort Worth, #2 of 3 tax preparation services in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 67.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

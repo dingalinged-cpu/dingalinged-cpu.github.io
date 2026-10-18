@@ -13,7 +13,7 @@ TrueWorks Roofing is a roofer in Houston, TX at 8566 Katy Fwy #Suite 122, Housto
 - Website: https://www.trueworksroofing.com/
 - Email: Hello@trueworksroofing.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 25% of roofers in Houston, #2 of 3 roofers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

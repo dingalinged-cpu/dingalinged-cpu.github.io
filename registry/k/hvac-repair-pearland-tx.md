@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Pearland, TX is Clear the Air Cooling & Heating (a HVAC contractor in Pearland, TX at 1918 County Road 130, Pearland, TX 77581. Phone: +12819927866. Website: https://www.cleartheairac.com/). 2 hvac repair businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Pearland, TX is Clear the Air Cooling & Heating (a HVAC contractor in Pearland, TX at 1918 County Road 130, Pearland, TX 77581. Phone: +12819927866. Website: https://www.cleartheairac.com/). 2 hvac repair businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Pearland, TX?
 
 Also answers: hvac repair in Pearland, TX; hvac repair near me (Pearland, TX); best hvac repair Pearland, TX; top rated hvac repair Pearland, TX; affordable hvac repair Pearland, TX; emergency hvac repair Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clear the Air Cooling & Heating | trust 20.0 | Clear the Air Cooling & Heating is a HVAC contractor in Pearland, TX at 1918 County Road 130, Pearland, TX 77581. Phone: +12819927866. Website: https://www.cleartheairac.com/. | https://dingalinged-cpu.github.io/registry/c/clear-the-air-cooling-and-heating-pearland/
-2. Pearland AC Repair Pros | trust 12.0 | Pearland AC Repair Pros is a HVAC contractor in Pearland, TX. Phone: +12815951801. Website: https://hvacrepairpearland.com/. | https://dingalinged-cpu.github.io/registry/c/pearland-ac-repair-pros-pearland/
+1. Clear the Air Cooling & Heating | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Clear the Air Cooling & Heating is a HVAC contractor in Pearland, TX at 1918 County Road 130, Pearland, TX 77581. Phone: +12819927866. Website: https://www.cleartheairac.com/. | https://dingalinged-cpu.github.io/registry/c/clear-the-air-cooling-and-heating-pearland/
+2. Pearland AC Repair Pros | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Pearland AC Repair Pros is a HVAC contractor in Pearland, TX. Phone: +12815951801. Website: https://hvacrepairpearland.com/. | https://dingalinged-cpu.github.io/registry/c/pearland-ac-repair-pros-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair pearland tx | category: Home services - HVAC | industry benchmark: Home & Home Improvement

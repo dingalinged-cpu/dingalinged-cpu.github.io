@@ -13,7 +13,7 @@ House of Hands is a massage studio in Chicago, IL at 4500, #3 South Cottage Grov
 - Website: https://www.chicagoswedishmassage.com/
 - Email: houseofhandsmassage@gmail.com
 - Opening hours (OSM syntax): Mo-Tu 07:00-14:00, 19:00-21:00; Th-Fr 16:00-21:00; Sa 08:00-20:00
-- Registry Score: 65.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 5% of massage studios in Chicago, #1 of 26 massage studios in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

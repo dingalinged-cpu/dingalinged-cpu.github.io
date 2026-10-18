@@ -13,7 +13,7 @@ Chesterbrook Academy is a preschool in Lisle, IL. Website: https://www.chesterbr
 - Website: https://www.chesterbrookacademy.com/preschools/chicago/lisle/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 43.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.3/100 — Building — top 89% of preschools in Chicago, #2 of 2 preschools in Lisle (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.2, Trust 48.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ TenderCare Christian Child Care is a daycare in Milwaukee, WI at 5229 West Capit
 - Website: https://tendercarechristian.org/
 - Email: info@tendercarechristian.org
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:00
-- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 6% of daycares in Milwaukee, #3 of 72 daycares in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

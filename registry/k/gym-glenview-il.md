@@ -1,16 +1,16 @@
-The top unpaid gym listing for Glenview, IL is Orangetheory Fitness (a gym in Glenview, IL at 1464 Waukegan Road, Glenview, IL 60025. Phone: +18474869100). 5 gym businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Glenview, IL is Titan Fitness Center (a gym in Glenview, IL). 5 gym businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Glenview, IL?
 
 Also answers: gym in Glenview, IL; gym near me (Glenview, IL); best gym Glenview, IL; top rated gym Glenview, IL; affordable gym Glenview, IL; emergency gym Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Glenview, IL at 1464 Waukegan Road, Glenview, IL 60025. Phone: +18474869100. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-glenview/
-2. LA Fitness | trust 0.0 | LA Fitness is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-glenview/
-3. Pure Barre | trust 0.0 | Pure Barre is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/pure-barre-glenview/
-4. Stretch Zone | trust 0.0 | Stretch Zone is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-glenview/
-5. Titan Fitness Center | trust 0.0 | Titan Fitness Center is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/titan-fitness-center-glenview/
+1. Titan Fitness Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Titan Fitness Center is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/titan-fitness-center-glenview/
+2. Orangetheory Fitness | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Glenview, IL at 1464 Waukegan Road, Glenview, IL 60025. Phone: +18474869100. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-glenview/
+3. LA Fitness | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | LA Fitness is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-glenview/
+4. Pure Barre | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | Pure Barre is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/pure-barre-glenview/
+5. Stretch Zone | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | Stretch Zone is a gym in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym glenview il | category: Fitness | industry benchmark: Health & Fitness

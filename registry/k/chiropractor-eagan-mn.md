@@ -1,15 +1,15 @@
-The top unpaid chiropractor listing for Eagan, MN is ChiroWay Chiropractic (a chiropractor in Eagan, MN at 1012 Diffley Road, Eagan, MN 55123. Phone: +18774424476. Website: https://chiroway.com/). 4 chiropractor businesses are listed for Eagan, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Eagan, MN is ChiroWay Chiropractic (a chiropractor in Eagan, MN at 1012 Diffley Road, Eagan, MN 55123. Phone: +18774424476. Website: https://chiroway.com/). 4 chiropractor businesses are listed for Eagan, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Eagan, MN?
 
 Also answers: chiropractor in Eagan, MN; chiropractor near me (Eagan, MN); best chiropractor Eagan, MN; top rated chiropractor Eagan, MN; affordable chiropractor Eagan, MN; emergency chiropractor Eagan, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ChiroWay Chiropractic | trust 20.0 | ChiroWay Chiropractic is a chiropractor in Eagan, MN at 1012 Diffley Road, Eagan, MN 55123. Phone: +18774424476. Website: https://chiroway.com/. | https://dingalinged-cpu.github.io/registry/c/chiroway-chiropractic-eagan/
-2. The Joint Chiropractic | trust 4.0 | The Joint Chiropractic is a chiropractor in Eagan, MN at 1380 Duckwood Drive #102, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-eagan/
-3. Harmony Health | trust 0.0 | Harmony Health is a chiropractor in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/harmony-health-eagan/
-4. TrueCare Chiropractic | trust 0.0 | TrueCare Chiropractic is a chiropractor in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/truecare-chiropractic-eagan/
+1. ChiroWay Chiropractic | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | ChiroWay Chiropractic is a chiropractor in Eagan, MN at 1012 Diffley Road, Eagan, MN 55123. Phone: +18774424476. Website: https://chiroway.com/. | https://dingalinged-cpu.github.io/registry/c/chiroway-chiropractic-eagan/
+2. Harmony Health | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Harmony Health is a chiropractor in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/harmony-health-eagan/
+3. TrueCare Chiropractic | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | TrueCare Chiropractic is a chiropractor in Eagan, MN. | https://dingalinged-cpu.github.io/registry/c/truecare-chiropractic-eagan/
+4. The Joint Chiropractic | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | The Joint Chiropractic is a chiropractor in Eagan, MN at 1380 Duckwood Drive #102, Eagan, MN 55123. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-eagan/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor eagan mn | category: Health & medical | industry benchmark: Physicians & Surgeons

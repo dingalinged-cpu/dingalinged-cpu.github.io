@@ -13,7 +13,7 @@ Orangetheory Fitness is a gym in Naperville, IL at 24 West Gartner Road #120, Na
 - Website: https://www.orangetheory.com/en-us/locations/illinois/naperville/8-west-gartner-road-suite-120/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 52% of gyms in Chicago, #10 of 14 gyms in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.8, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

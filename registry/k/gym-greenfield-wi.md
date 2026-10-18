@@ -1,13 +1,13 @@
-The top unpaid gym listing for Greenfield, WI is Planet Fitness (a gym in Greenfield, WI at 4478 South 108th Street, Greenfield, WI 53228). 2 gym businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Greenfield, WI is Planet Fitness (a gym in Greenfield, WI at 4478 South 108th Street, Greenfield, WI 53228). 2 gym businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Greenfield, WI?
 
 Also answers: gym in Greenfield, WI; gym near me (Greenfield, WI); best gym Greenfield, WI; top rated gym Greenfield, WI; affordable gym Greenfield, WI; emergency gym Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Greenfield, WI at 4478 South 108th Street, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-greenfield/
-2. Xperience Fitness | trust 4.0 | Xperience Fitness is a gym in Greenfield, WI at 6251 South 27th Street, Greenfield, WI 53221. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-greenfield/
+1. Planet Fitness | Organic #1 | Pulse Score 43.4/100 (Building, #1 in city) | Planet Fitness is a gym in Greenfield, WI at 4478 South 108th Street, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-greenfield/
+2. Xperience Fitness | Organic #2 | Pulse Score 43.3/100 (Unrated, #2 in city) | Xperience Fitness is a gym in Greenfield, WI at 6251 South 27th Street, Greenfield, WI 53221. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym greenfield wi | category: Fitness | industry benchmark: Health & Fitness

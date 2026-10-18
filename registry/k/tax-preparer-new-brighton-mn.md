@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for New Brighton, MN is Pendleton Tax & Accounting (a tax preparation service in New Brighton, MN at 888 County Road D  West #203, New Brighton, MN. Phone: +16123965735. Website: https://www.ptasonlinemn.com/). 1 tax preparer businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for New Brighton, MN is Pendleton Tax & Accounting (a tax preparation service in New Brighton, MN at 888 County Road D  West #203, New Brighton, MN. Phone: +16123965735. Website: https://www.ptasonlinemn.com/). 1 tax preparer businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in New Brighton, MN?
 
 Also answers: tax preparer in New Brighton, MN; tax preparer near me (New Brighton, MN); best tax preparer New Brighton, MN; top rated tax preparer New Brighton, MN; affordable tax preparer New Brighton, MN; emergency tax preparer New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pendleton Tax & Accounting | trust 15.0 | Pendleton Tax & Accounting is a tax preparation service in New Brighton, MN at 888 County Road D  West #203, New Brighton, MN. Phone: +16123965735. Website: https://www.ptasonlinemn.com/. | https://dingalinged-cpu.github.io/registry/c/pendleton-tax-and-accounting-new-brighton/
+1. Pendleton Tax & Accounting | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Pendleton Tax & Accounting is a tax preparation service in New Brighton, MN at 888 County Road D  West #203, New Brighton, MN. Phone: +16123965735. Website: https://www.ptasonlinemn.com/. | https://dingalinged-cpu.github.io/registry/c/pendleton-tax-and-accounting-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer new brighton mn | category: professional_accounting | industry benchmark: Business Services

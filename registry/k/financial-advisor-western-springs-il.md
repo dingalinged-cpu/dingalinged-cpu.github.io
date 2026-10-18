@@ -1,13 +1,13 @@
-The top unpaid financial advisor listing for Western Springs, IL is Edward Jones (a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg). 2 financial advisor businesses are listed for Western Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Western Springs, IL is Edward Jones (a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg). 2 financial advisor businesses are listed for Western Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Western Springs, IL?
 
 Also answers: financial advisor in Western Springs, IL; financial advisor near me (Western Springs, IL); best financial advisor Western Springs, IL; top rated financial advisor Western Springs, IL; affordable financial advisor Western Springs, IL; emergency financial advisor Western Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 16.0 | Edward Jones is a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg. | https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs-n9603258149/
-2. Edward Jones | trust 10.0 | Edward Jones is a financial advisor in Western Springs, IL at 822 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082462802. | https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs/
+1. Edward Jones | Organic #1 | Pulse Score 49/100 (Building, #1 in city) | Edward Jones is a financial advisor in Western Springs, IL at 702 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085054097. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-nyberg. | https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs-n9603258149/
+2. Edward Jones | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Edward Jones is a financial advisor in Western Springs, IL at 822 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17082462802. | https://dingalinged-cpu.github.io/registry/c/edward-jones-western-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor western springs il | category: Professional & financial services | industry benchmark: Finance & Insurance

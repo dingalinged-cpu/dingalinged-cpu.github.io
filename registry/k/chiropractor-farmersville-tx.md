@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Farmersville, TX is Family Care Chriopratic (a chiropractor in Farmersville, TX at 604 South Raymond Street #B, Farmersville, TX 75442. Phone: +19727827707. Website: https://www.chiropracticrockwall.com/). 1 chiropractor businesses are listed for Farmersville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Farmersville, TX is Family Care Chriopratic (a chiropractor in Farmersville, TX at 604 South Raymond Street #B, Farmersville, TX 75442. Phone: +19727827707. Website: https://www.chiropracticrockwall.com/). 1 chiropractor businesses are listed for Farmersville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Farmersville, TX?
 
 Also answers: chiropractor in Farmersville, TX; chiropractor near me (Farmersville, TX); best chiropractor Farmersville, TX; top rated chiropractor Farmersville, TX; affordable chiropractor Farmersville, TX; emergency chiropractor Farmersville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Care Chriopratic | trust 16.0 | Family Care Chriopratic is a chiropractor in Farmersville, TX at 604 South Raymond Street #B, Farmersville, TX 75442. Phone: +19727827707. Website: https://www.chiropracticrockwall.com/. | https://dingalinged-cpu.github.io/registry/c/family-care-chriopratic-farmersville/
+1. Family Care Chriopratic | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Family Care Chriopratic is a chiropractor in Farmersville, TX at 604 South Raymond Street #B, Farmersville, TX 75442. Phone: +19727827707. Website: https://www.chiropracticrockwall.com/. | https://dingalinged-cpu.github.io/registry/c/family-care-chriopratic-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor farmersville tx | category: Health & medical | industry benchmark: Physicians & Surgeons

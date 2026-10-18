@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Denton County, TX is West Argyle Storage (a self-storage facility in Denton County, TX. Website: https://westargylestorage.com/). 2 storage units businesses are listed for Denton County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Denton County, TX is West Argyle Storage (a self-storage facility in Denton County, TX. Website: https://westargylestorage.com/). 2 storage units businesses are listed for Denton County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Denton County, TX?
 
 Also answers: storage units in Denton County, TX; storage units near me (Denton County, TX); best storage units Denton County, TX; top rated storage units Denton County, TX; affordable storage units Denton County, TX; emergency storage units Denton County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. West Argyle Storage | trust 6.0 | West Argyle Storage is a self-storage facility in Denton County, TX. Website: https://westargylestorage.com/. | https://dingalinged-cpu.github.io/registry/c/west-argyle-storage-denton-county/
-2. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in Denton County, TX at 11901 Farm-to-Market Road 423, Denton County, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-denton-county/
+1. West Argyle Storage | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | West Argyle Storage is a self-storage facility in Denton County, TX. Website: https://westargylestorage.com/. | https://dingalinged-cpu.github.io/registry/c/west-argyle-storage-denton-county/
+2. Extra Space Storage | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in Denton County, TX at 11901 Farm-to-Market Road 423, Denton County, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-denton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units denton county tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

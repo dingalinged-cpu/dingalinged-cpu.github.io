@@ -1,13 +1,13 @@
-The top unpaid tanning salon listing for Rockwall, TX is Palm Beach Tan (a tanning salon in Rockwall, TX at 2014 South Goliad Street #118, Rockwall, TX 75087. Phone: +14692645378. Website: https://palmbeachtan.com/locations/tx/rockwall). 2 tanning salon businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Rockwall, TX is Bashful Beauty (a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/). 2 tanning salon businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Rockwall, TX?
 
 Also answers: tanning salon in Rockwall, TX; tanning salon near me (Rockwall, TX); best tanning salon Rockwall, TX; top rated tanning salon Rockwall, TX; affordable tanning salon Rockwall, TX; emergency tanning salon Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | trust 20.0 | Palm Beach Tan is a tanning salon in Rockwall, TX at 2014 South Goliad Street #118, Rockwall, TX 75087. Phone: +14692645378. Website: https://palmbeachtan.com/locations/tx/rockwall. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-rockwall/
-2. Bashful Beauty | trust 16.0 | Bashful Beauty is a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/. | https://dingalinged-cpu.github.io/registry/c/bashful-beauty-rockwall/
+1. Bashful Beauty | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Bashful Beauty is a skin care studio in Rockwall, TX at 502 North Goliad Street, Rockwall, TX 75087. Phone: +14694340155. Website: https://bashfulbeauty.co/. | https://dingalinged-cpu.github.io/registry/c/bashful-beauty-rockwall/
+2. Palm Beach Tan | Organic #2 | Pulse Score 50.8/100 (Fair, #1 in city) | Palm Beach Tan is a tanning salon in Rockwall, TX at 2014 South Goliad Street #118, Rockwall, TX 75087. Phone: +14692645378. Website: https://palmbeachtan.com/locations/tx/rockwall. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

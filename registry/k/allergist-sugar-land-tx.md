@@ -1,12 +1,12 @@
-The top unpaid allergist listing for Sugar Land, TX is Aspire Allergy & Sinus (an allergist in Sugar Land, TX at 16525 Lexington Boulevard #140, Sugar Land, TX 77479. Phone: +17134971102. Website: https://www.aspireallergy.com/location/sugar-land). 1 allergist businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid allergist listing for Sugar Land, TX is Aspire Allergy & Sinus (an allergist in Sugar Land, TX at 16525 Lexington Boulevard #140, Sugar Land, TX 77479. Phone: +17134971102. Website: https://www.aspireallergy.com/location/sugar-land). 1 allergist businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best allergist providers in Sugar Land, TX?
 
 Also answers: allergist in Sugar Land, TX; allergist near me (Sugar Land, TX); best allergist Sugar Land, TX; top rated allergist Sugar Land, TX; affordable allergist Sugar Land, TX; emergency allergist Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aspire Allergy & Sinus | trust 20.0 | Aspire Allergy & Sinus is an allergist in Sugar Land, TX at 16525 Lexington Boulevard #140, Sugar Land, TX 77479. Phone: +17134971102. Website: https://www.aspireallergy.com/location/sugar-land. | https://dingalinged-cpu.github.io/registry/c/aspire-allergy-and-sinus-sugar-land/
+1. Aspire Allergy & Sinus | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Aspire Allergy & Sinus is an allergist in Sugar Land, TX at 16525 Lexington Boulevard #140, Sugar Land, TX 77479. Phone: +17134971102. Website: https://www.aspireallergy.com/location/sugar-land. | https://dingalinged-cpu.github.io/registry/c/aspire-allergy-and-sinus-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

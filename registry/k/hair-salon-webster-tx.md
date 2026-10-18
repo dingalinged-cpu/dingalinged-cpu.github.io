@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Webster, TX is Great Clips (a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080). 2 hair salon businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Webster, TX is Great Clips (a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080). 2 hair salon businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Webster, TX?
 
 Also answers: hair salon in Webster, TX; hair salon near me (Webster, TX); best hair salon Webster, TX; top rated hair salon Webster, TX; affordable hair salon Webster, TX; emergency hair salon Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 10.0 | Great Clips is a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080. | https://dingalinged-cpu.github.io/registry/c/great-clips-webster/
-2. Tune Up | trust 0.0 | Tune Up is a hair salon in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-webster/
+1. Great Clips | Organic #1 | Pulse Score 48.4/100 (Building, #1 in city) | Great Clips is a hair salon in Webster, TX at 1827 West Bay Area Boulevard, Webster, TX 77598. Phone: +12813162080. | https://dingalinged-cpu.github.io/registry/c/great-clips-webster/
+2. Tune Up | Organic #2 | Pulse Score 43.1/100 (Unrated, #2 in city) | Tune Up is a hair salon in Webster, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon webster tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

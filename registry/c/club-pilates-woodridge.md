@@ -13,7 +13,7 @@ Club Pilates is a pilates studio in Woodridge, IL at 1001 75th Street, Woodridge
 - Website: https://www.clubpilates.com/location/woodridge
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 32% of pilates studios in Chicago, #1 of 1 pilates studios in Woodridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

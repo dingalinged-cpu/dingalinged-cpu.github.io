@@ -13,7 +13,7 @@ HairbyLezz is a hair salon in Plano, TX at 2901 N Central Expy #125, Plano, TX 7
 - Website: https://www.vagaro.com/hairbylezz/
 - Email: hairstylezz210@gmail.com
 - Opening hours (OSM syntax): Tu-Sa 10:00-17:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 3% of hair salons in Dallas–Fort Worth, #2 of 19 hair salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

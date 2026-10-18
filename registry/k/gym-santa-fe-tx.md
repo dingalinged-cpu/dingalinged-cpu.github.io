@@ -1,12 +1,12 @@
-The top unpaid gym listing for Santa Fe, TX is Alamo Gym (a gym in Santa Fe, TX at 13306 Highway 6, Santa Fe, TX 77510). 1 gym businesses are listed for Santa Fe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Santa Fe, TX is Alamo Gym (a gym in Santa Fe, TX at 13306 Highway 6, Santa Fe, TX 77510). 1 gym businesses are listed for Santa Fe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Santa Fe, TX?
 
 Also answers: gym in Santa Fe, TX; gym near me (Santa Fe, TX); best gym Santa Fe, TX; top rated gym Santa Fe, TX; affordable gym Santa Fe, TX; emergency gym Santa Fe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alamo Gym | trust 4.0 | Alamo Gym is a gym in Santa Fe, TX at 13306 Highway 6, Santa Fe, TX 77510. | https://dingalinged-cpu.github.io/registry/c/alamo-gym-santa-fe/
+1. Alamo Gym | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Alamo Gym is a gym in Santa Fe, TX at 13306 Highway 6, Santa Fe, TX 77510. | https://dingalinged-cpu.github.io/registry/c/alamo-gym-santa-fe/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym santa fe tx | category: Fitness | industry benchmark: Health & Fitness

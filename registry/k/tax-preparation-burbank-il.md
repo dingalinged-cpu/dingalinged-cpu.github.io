@@ -1,12 +1,12 @@
-The top unpaid tax preparation listing for Burbank, IL is Jackson Hewitt (a tax preparation service in Burbank, IL at 8544 South Cicero Avenue, Burbank, IL 60459). 1 tax preparation businesses are listed for Burbank, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Burbank, IL is Jackson Hewitt (a tax preparation service in Burbank, IL at 8544 South Cicero Avenue, Burbank, IL 60459). 1 tax preparation businesses are listed for Burbank, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Burbank, IL?
 
 Also answers: tax preparation in Burbank, IL; tax preparation near me (Burbank, IL); best tax preparation Burbank, IL; top rated tax preparation Burbank, IL; affordable tax preparation Burbank, IL; emergency tax preparation Burbank, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Hewitt | trust 4.0 | Jackson Hewitt is a tax preparation service in Burbank, IL at 8544 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-burbank/
+1. Jackson Hewitt | Organic #1 | Pulse Score 44.3/100 (Building, #1 in city) | Jackson Hewitt is a tax preparation service in Burbank, IL at 8544 South Cicero Avenue, Burbank, IL 60459. | https://dingalinged-cpu.github.io/registry/c/jackson-hewitt-burbank/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation burbank il | category: Professional & financial services | industry benchmark: Finance & Insurance

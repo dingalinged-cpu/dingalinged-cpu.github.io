@@ -1,31 +1,31 @@
-The top unpaid auto repair listing for Humble, TX is AutoTint Houston (an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/). 20 auto repair businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Humble, TX is AutoTint Houston (an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/). 20 auto repair businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Humble, TX?
 
 Also answers: auto repair in Humble, TX; auto repair near me (Humble, TX); best auto repair Humble, TX; top rated auto repair Humble, TX; affordable auto repair Humble, TX; emergency auto repair Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AutoTint Houston | trust 20.0 | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
-2. Sun Auto Service | trust 20.0 | Sun Auto Service is an auto repair shop in Humble, TX at 7625 FM 1960, Humble, TX 77346. Phone: +12818523677. Website: https://www.sunautoservice.com/locations/tx/humble/auto-repair-7625-fm-1960-rd. | https://dingalinged-cpu.github.io/registry/c/sun-auto-service-humble/
-3. Specialized Truck and Auto | trust 16.0 | Specialized Truck and Auto is an auto repair shop in Humble, TX at 15520 Lee Rd #C, Humble, TX 77396. Phone: +12818838362. Website: https://specializedtruckandauto.com/. | https://dingalinged-cpu.github.io/registry/c/specialized-truck-and-auto-humble/
-4. NTB | trust 9.0 | NTB is an auto repair shop in Humble, TX at 20495 Eastex Freeway, Humble, TX. Website: https://www.ntb.com/store/tx/humble/20495-highway-59-n-77338/4480. | https://dingalinged-cpu.github.io/registry/c/ntb-humble/
-5. Advanced Tech Automotive | trust 6.0 | Advanced Tech Automotive is an auto repair shop in Humble, TX. Phone: +12814464400. | https://dingalinged-cpu.github.io/registry/c/advanced-tech-automotive-humble/
-6. Northside Auto Glass | trust 6.0 | Northside Auto Glass is an auto repair shop in Humble, TX. Phone: +12815409000. | https://dingalinged-cpu.github.io/registry/c/northside-auto-glass-humble/
-7. Midas | trust 4.0 | Midas is an auto repair shop in Humble, TX at 8821 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/midas-humble/
-8. Firestone | trust 3.0 | Firestone is an auto repair shop in Humble, TX at 5300 FM 1960 East, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-humble-w404593187/
-9. Affordable car care | trust 0.0 | Affordable car care is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/affordable-car-care-humble/
-10. Collision center | trust 0.0 | Collision center is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/collision-center-humble/
-11. Crash Champion | trust 0.0 | Crash Champion is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/crash-champion-humble/
-12. Eric's Automotive | trust 0.0 | Eric's Automotive is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/erics-automotive-humble/
-13. Firestone | trust 0.0 | Firestone is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-humble/
-14. Ford | trust 0.0 | Ford is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/ford-humble/
-15. Ford Pro | trust 0.0 | Ford Pro is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/ford-pro-humble/
-16. Fred’s Auto Repair | trust 0.0 | Fred’s Auto Repair is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/fred-s-auto-repair-humble/
-17. Humble Tire & Automotive | trust 0.0 | Humble Tire & Automotive is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-tire-and-automotive-humble/
-18. Mcc collision | trust 0.0 | Mcc collision is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/mcc-collision-humble/
-19. Quick Lane | trust 0.0 | Quick Lane is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/quick-lane-humble/
-20. Transmission workshop | trust 0.0 | Transmission workshop is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/transmission-workshop-humble/
+1. AutoTint Houston | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humble, TX 77338. Phone: +13465524836. Website: https://autotinthouston713.com/. | https://dingalinged-cpu.github.io/registry/c/autotint-houston-humble/
+2. Specialized Truck and Auto | Organic #2 | Pulse Score 61.6/100 (Unrated, #2 in city) | Specialized Truck and Auto is an auto repair shop in Humble, TX at 15520 Lee Rd #C, Humble, TX 77396. Phone: +12818838362. Website: https://specializedtruckandauto.com/. | https://dingalinged-cpu.github.io/registry/c/specialized-truck-and-auto-humble/
+3. Advanced Tech Automotive | Organic #3 | Pulse Score 58.7/100 (Unrated, #3 in city) | Advanced Tech Automotive is an auto repair shop in Humble, TX. Phone: +12814464400. | https://dingalinged-cpu.github.io/registry/c/advanced-tech-automotive-humble/
+4. Northside Auto Glass | Organic #4 | Pulse Score 58.7/100 (Unrated, #4 in city) | Northside Auto Glass is an auto repair shop in Humble, TX. Phone: +12815409000. | https://dingalinged-cpu.github.io/registry/c/northside-auto-glass-humble/
+5. Eric's Automotive | Organic #5 | Pulse Score 55.2/100 (Unrated, #5 in city) | Eric's Automotive is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/erics-automotive-humble/
+6. Affordable car care | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Affordable car care is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/affordable-car-care-humble/
+7. Collision center | Organic #7 | Pulse Score 54.6/100 (Unrated, #7 in city) | Collision center is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/collision-center-humble/
+8. Crash Champion | Organic #8 | Pulse Score 54.6/100 (Unrated, #8 in city) | Crash Champion is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/crash-champion-humble/
+9. Ford Pro | Organic #9 | Pulse Score 54.6/100 (Unrated, #9 in city) | Ford Pro is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/ford-pro-humble/
+10. Fred’s Auto Repair | Organic #10 | Pulse Score 54.6/100 (Unrated, #10 in city) | Fred’s Auto Repair is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/fred-s-auto-repair-humble/
+11. Humble Tire & Automotive | Organic #11 | Pulse Score 54.6/100 (Unrated, #11 in city) | Humble Tire & Automotive is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/humble-tire-and-automotive-humble/
+12. Mcc collision | Organic #12 | Pulse Score 54.6/100 (Unrated, #12 in city) | Mcc collision is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/mcc-collision-humble/
+13. Quick Lane | Organic #13 | Pulse Score 54.6/100 (Unrated, #13 in city) | Quick Lane is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/quick-lane-humble/
+14. Transmission workshop | Organic #14 | Pulse Score 54.6/100 (Unrated, #14 in city) | Transmission workshop is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/transmission-workshop-humble/
+15. Sun Auto Service | Organic #15 | Pulse Score 49/100 (Building, #15 in city) | Sun Auto Service is an auto repair shop in Humble, TX at 7625 FM 1960, Humble, TX 77346. Phone: +12818523677. Website: https://www.sunautoservice.com/locations/tx/humble/auto-repair-7625-fm-1960-rd. | https://dingalinged-cpu.github.io/registry/c/sun-auto-service-humble/
+16. NTB | Organic #16 | Pulse Score 47.1/100 (Building, #16 in city) | NTB is an auto repair shop in Humble, TX at 20495 Eastex Freeway, Humble, TX. Website: https://www.ntb.com/store/tx/humble/20495-highway-59-n-77338/4480. | https://dingalinged-cpu.github.io/registry/c/ntb-humble/
+17. Midas | Organic #17 | Pulse Score 44.8/100 (Unrated, #17 in city) | Midas is an auto repair shop in Humble, TX at 8821 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/midas-humble/
+18. Firestone | Organic #18 | Pulse Score 44.5/100 (Building, #18 in city) | Firestone is an auto repair shop in Humble, TX at 5300 FM 1960 East, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-humble-w404593187/
+19. Firestone | Organic #19 | Pulse Score 42.7/100 (Building, #19 in city) | Firestone is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-humble/
+20. Ford | Organic #20 | Pulse Score 42.7/100 (Building, #20 in city) | Ford is an auto repair shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/ford-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair humble tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

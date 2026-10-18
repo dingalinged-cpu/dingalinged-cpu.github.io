@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for New Lenox, IL is Integrated Physical Medicine of New Lenox (a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html). 1 chiropractor businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for New Lenox, IL is Integrated Physical Medicine of New Lenox (a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html). 1 chiropractor businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in New Lenox, IL?
 
 Also answers: chiropractor in New Lenox, IL; chiropractor near me (New Lenox, IL); best chiropractor New Lenox, IL; top rated chiropractor New Lenox, IL; affordable chiropractor New Lenox, IL; emergency chiropractor New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Integrated Physical Medicine of New Lenox | trust 16.0 | Integrated Physical Medicine of New Lenox is a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html. | https://dingalinged-cpu.github.io/registry/c/integrated-physical-medicine-of-new-lenox-new-lenox/
+1. Integrated Physical Medicine of New Lenox | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Integrated Physical Medicine of New Lenox is a chiropractor in New Lenox, IL at 2499 Joliet Highway, New Lenox, IL 60451. Phone: +18157178355. Website: https://www.ipmhealthcare.com/new-lenox.html. | https://dingalinged-cpu.github.io/registry/c/integrated-physical-medicine-of-new-lenox-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor new lenox il | category: Health & medical | industry benchmark: Physicians & Surgeons

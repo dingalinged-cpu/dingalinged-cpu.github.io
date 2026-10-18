@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Bayside, WI is Otto’s Wine & Spirits (a liquor store in Bayside, WI at 8850 North Port Washington Road #Suite B, Bayside, WI 53217. Phone: +14145401190. Website: https://ottoswineandspirits.com/locations/ottos-bayside-wine-spirits/). 1 liquor store businesses are listed for Bayside, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Bayside, WI is Otto’s Wine & Spirits (a liquor store in Bayside, WI at 8850 North Port Washington Road #Suite B, Bayside, WI 53217. Phone: +14145401190. Website: https://ottoswineandspirits.com/locations/ottos-bayside-wine-spirits/). 1 liquor store businesses are listed for Bayside, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Bayside, WI?
 
 Also answers: liquor store in Bayside, WI; liquor store near me (Bayside, WI); best liquor store Bayside, WI; top rated liquor store Bayside, WI; affordable liquor store Bayside, WI; emergency liquor store Bayside, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Otto’s Wine & Spirits | trust 20.0 | Otto’s Wine & Spirits is a liquor store in Bayside, WI at 8850 North Port Washington Road #Suite B, Bayside, WI 53217. Phone: +14145401190. Website: https://ottoswineandspirits.com/locations/ottos-bayside-wine-spirits/. | https://dingalinged-cpu.github.io/registry/c/otto-s-wine-and-spirits-bayside/
+1. Otto’s Wine & Spirits | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Otto’s Wine & Spirits is a liquor store in Bayside, WI at 8850 North Port Washington Road #Suite B, Bayside, WI 53217. Phone: +14145401190. Website: https://ottoswineandspirits.com/locations/ottos-bayside-wine-spirits/. | https://dingalinged-cpu.github.io/registry/c/otto-s-wine-and-spirits-bayside/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store bayside wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

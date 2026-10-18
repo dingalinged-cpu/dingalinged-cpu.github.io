@@ -1,20 +1,20 @@
-The top unpaid hair salon listing for Niles, IL is BoRics (a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388). 9 hair salon businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Niles, IL is Salon Yangmi (a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/). 9 hair salon businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Niles, IL?
 
 Also answers: hair salon in Niles, IL; hair salon near me (Niles, IL); best hair salon Niles, IL; top rated hair salon Niles, IL; affordable hair salon Niles, IL; emergency hair salon Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BoRics | trust 20.0 | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
-2. Salon Yangmi | trust 20.0 | Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/. | https://dingalinged-cpu.github.io/registry/c/salon-yangmi-niles/
-3. Salon Beauteous | trust 14.0 | Salon Beauteous is a hair salon in Niles, IL at 8303½ West Golf Road, Niles, IL 60714. Phone: +12242574953. | https://dingalinged-cpu.github.io/registry/c/salon-beauteous-niles/
-4. Great Clips | trust 4.0 | Great Clips is a hair salon in Niles, IL at 5624 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/great-clips-niles/
-5. Magic Fingers Hair Salon | trust 4.0 | Magic Fingers Hair Salon is a hair salon in Niles, IL at North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/magic-fingers-hair-salon-niles/
-6. SKB Hair Salon | trust 4.0 | SKB Hair Salon is a hair salon in Niles, IL at 9081 Courtland Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/skb-hair-salon-niles/
-7. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Niles, IL at 5944 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/sport-clips-niles/
-8. Supercuts | trust 4.0 | Supercuts is a hair salon in Niles, IL at 7241 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles/
-9. Supercuts | trust 4.0 | Supercuts is a hair salon in Niles, IL at 5693 West Touhy Avenue #170, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles-w686708813/
+1. Salon Yangmi | Organic #1 | Pulse Score 63.7/100 (Unrated, #1 in city) | Salon Yangmi is a hair salon in Niles, IL at 9620 North Milwaukee Avenue, Niles, IL 60714. Phone: +18478272662. Website: https://www.salonyangmi.com/. | https://dingalinged-cpu.github.io/registry/c/salon-yangmi-niles/
+2. Salon Beauteous | Organic #2 | Pulse Score 63.1/100 (Unrated, #2 in city) | Salon Beauteous is a hair salon in Niles, IL at 8303½ West Golf Road, Niles, IL 60714. Phone: +12242574953. | https://dingalinged-cpu.github.io/registry/c/salon-beauteous-niles/
+3. BoRics | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | BoRics is a hair salon in Niles, IL at 8474 West Golf Road, Niles, IL 60714. Phone: +18474708586. Website: https://www.signaturestyle.com/locations/il/niles/borics-hair-care-golf-road-plaza-haircuts-75388. | https://dingalinged-cpu.github.io/registry/c/borics-niles/
+4. Magic Fingers Hair Salon | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Magic Fingers Hair Salon is a hair salon in Niles, IL at North Milwaukee Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/magic-fingers-hair-salon-niles/
+5. SKB Hair Salon | Organic #5 | Pulse Score 57.3/100 (Unrated, #5 in city) | SKB Hair Salon is a hair salon in Niles, IL at 9081 Courtland Drive, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/skb-hair-salon-niles/
+6. Great Clips | Organic #6 | Pulse Score 45.1/100 (Building, #6 in city) | Great Clips is a hair salon in Niles, IL at 5624 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/great-clips-niles/
+7. Sport Clips | Organic #7 | Pulse Score 45.1/100 (Building, #7 in city) | Sport Clips is a hair salon in Niles, IL at 5944 West Touhy Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/sport-clips-niles/
+8. Supercuts | Organic #8 | Pulse Score 45.1/100 (Building, #8 in city) | Supercuts is a hair salon in Niles, IL at 7241 West Dempster Street, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles/
+9. Supercuts | Organic #9 | Pulse Score 45.1/100 (Building, #9 in city) | Supercuts is a hair salon in Niles, IL at 5693 West Touhy Avenue #170, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/supercuts-niles-w686708813/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon niles il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

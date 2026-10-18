@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for New Lenox, IL is Dragon Fire Karate (a martial arts school in New Lenox, IL at 132 West Illinois Highway, New Lenox, IL 60451. Phone: +17082595409). 1 martial arts businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for New Lenox, IL is Dragon Fire Karate (a martial arts school in New Lenox, IL at 132 West Illinois Highway, New Lenox, IL 60451. Phone: +17082595409). 1 martial arts businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in New Lenox, IL?
 
 Also answers: martial arts in New Lenox, IL; martial arts near me (New Lenox, IL); best martial arts New Lenox, IL; top rated martial arts New Lenox, IL; affordable martial arts New Lenox, IL; emergency martial arts New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dragon Fire Karate | trust 10.0 | Dragon Fire Karate is a martial arts school in New Lenox, IL at 132 West Illinois Highway, New Lenox, IL 60451. Phone: +17082595409. | https://dingalinged-cpu.github.io/registry/c/dragon-fire-karate-new-lenox/
+1. Dragon Fire Karate | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Dragon Fire Karate is a martial arts school in New Lenox, IL at 132 West Illinois Highway, New Lenox, IL 60451. Phone: +17082595409. | https://dingalinged-cpu.github.io/registry/c/dragon-fire-karate-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts new lenox il | category: Fitness | industry benchmark: Health & Fitness

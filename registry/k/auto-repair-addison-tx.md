@@ -1,19 +1,19 @@
-The top unpaid auto repair listing for Addison, TX is Mid Cities Auto Glass (an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/). 8 auto repair businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Addison, TX is Mid Cities Auto Glass (an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/). 8 auto repair businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Addison, TX?
 
 Also answers: auto repair in Addison, TX; auto repair near me (Addison, TX); best auto repair Addison, TX; top rated auto repair Addison, TX; affordable auto repair Addison, TX; emergency auto repair Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mid Cities Auto Glass | trust 20.0 | Mid Cities Auto Glass is an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/mid-cities-auto-glass-addison/
-2. Auto Hans | trust 16.0 | Auto Hans is an auto repair shop in Addison, TX at 15840 Addison Road, Addison, TX 75001. Phone: +19727882043. Website: https://www.autohans.com/. | https://dingalinged-cpu.github.io/registry/c/auto-hans-addison/
-3. Addison Automotive Service | trust 10.0 | Addison Automotive Service is an auto repair shop in Addison, TX at 14375 Inwood Road, Addison, TX 75001. Website: https://addisonautorepairdfw.com/. | https://dingalinged-cpu.github.io/registry/c/addison-automotive-service-addison/
-4. 21st Century Muscle Cars | trust 0.0 | 21st Century Muscle Cars is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/21st-century-muscle-cars-addison/
-5. Addison AutoPlex | trust 0.0 | Addison AutoPlex is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/addison-autoplex-addison/
-6. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-addison/
-7. Patriot Auto Repair | trust 0.0 | Patriot Auto Repair is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/patriot-auto-repair-addison/
-8. T&K Automotive Specialists | trust 0.0 | T&K Automotive Specialists is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/t-and-k-automotive-specialists-addison/
+1. Mid Cities Auto Glass | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Mid Cities Auto Glass is an auto repair shop in Addison, TX at 自動15302 Midway Road, Addison, TX 75001. Phone: +19722208888. Website: https://midcitiesautoglass.com/. | https://dingalinged-cpu.github.io/registry/c/mid-cities-auto-glass-addison/
+2. Auto Hans | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Auto Hans is an auto repair shop in Addison, TX at 15840 Addison Road, Addison, TX 75001. Phone: +19727882043. Website: https://www.autohans.com/. | https://dingalinged-cpu.github.io/registry/c/auto-hans-addison/
+3. Addison Automotive Service | Organic #3 | Pulse Score 59.1/100 (Unrated, #3 in city) | Addison Automotive Service is an auto repair shop in Addison, TX at 14375 Inwood Road, Addison, TX 75001. Website: https://addisonautorepairdfw.com/. | https://dingalinged-cpu.github.io/registry/c/addison-automotive-service-addison/
+4. 21st Century Muscle Cars | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | 21st Century Muscle Cars is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/21st-century-muscle-cars-addison/
+5. Addison AutoPlex | Organic #5 | Pulse Score 54.2/100 (Unrated, #5 in city) | Addison AutoPlex is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/addison-autoplex-addison/
+6. Patriot Auto Repair | Organic #6 | Pulse Score 54.2/100 (Unrated, #6 in city) | Patriot Auto Repair is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/patriot-auto-repair-addison/
+7. T&K Automotive Specialists | Organic #7 | Pulse Score 54.2/100 (Unrated, #7 in city) | T&K Automotive Specialists is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/t-and-k-automotive-specialists-addison/
+8. Caliber Collision | Organic #8 | Pulse Score 42.2/100 (Building, #8 in city) | Caliber Collision is an auto repair shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair addison tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

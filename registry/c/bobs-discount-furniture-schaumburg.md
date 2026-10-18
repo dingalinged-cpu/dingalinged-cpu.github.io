@@ -13,7 +13,7 @@ Bob's Discount Furniture is a furniture store in Schaumburg, IL at 16 East Golf 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:30; Su 11:00-19:00
-- Registry Score: 47.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 65% of furniture stores in Chicago, #4 of 6 furniture stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 54.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

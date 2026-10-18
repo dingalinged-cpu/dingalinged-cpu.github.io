@@ -13,7 +13,7 @@ Clements Electric Texas, LLC is an electrician in Mansfield, TX at 1285 North Ma
 - Website: https://www.clementselectric.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 12:00-24:00
-- Registry Score: 60.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 25% of electricians in Dallas–Fort Worth, #1 of 1 electricians in Mansfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mac N Jac Cleaners is a dry cleaner in Atlanta, GA at 860 Peachtree Street North
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 09:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 14% of dry cleaners in Atlanta, #5 of 24 dry cleaners in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

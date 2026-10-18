@@ -13,7 +13,7 @@ Goody Goody Liquor is a liquor store in McKinney, TX at 3801 South Lake Forest D
 - Website: https://www.goodygoody.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00
-- Registry Score: 51/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Unrated (not enough evidence yet) — top 79% of liquor stores in Dallas–Fort Worth, #9 of 11 liquor stores in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

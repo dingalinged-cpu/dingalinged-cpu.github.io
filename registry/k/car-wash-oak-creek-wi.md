@@ -1,19 +1,19 @@
-The top unpaid car wash listing for Oak Creek, WI is Tsunami Express (a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/). 8 car wash businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Oak Creek, WI is Tsunami Express (a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/). 8 car wash businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Oak Creek, WI?
 
 Also answers: car wash in Oak Creek, WI; car wash near me (Oak Creek, WI); best car wash Oak Creek, WI; top rated car wash Oak Creek, WI; affordable car wash Oak Creek, WI; emergency car wash Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tsunami Express | trust 14.0 | Tsunami Express is a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/. | https://dingalinged-cpu.github.io/registry/c/tsunami-express-oak-creek/
-2. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in Oak Creek, WI at 9535 South 13th Street, Oak Creek, WI 53154. Website: https://www.kwiktrip.com/locator/store?id=422. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek/
-3. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in Oak Creek, WI at 2040 West Ryan Road, Oak Creek, WI 53154. Website: https://www.kwiktrip.com/locator/store?id=576. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek-w437699523/
-4. Blue Beacon | trust 4.0 | Blue Beacon is a car wash in Oak Creek, WI at 9625 South 20th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-oak-creek/
-5. Gold Coin Car Wash | trust 4.0 | Gold Coin Car Wash is a car wash in Oak Creek, WI at 9530 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/gold-coin-car-wash-oak-creek/
-6. Kwik Trip | trust 4.0 | Kwik Trip is a car wash in Oak Creek, WI at 6300 South 27th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek-w450674044/
-7. Super-Splash | trust 4.0 | Super-Splash is a car wash in Oak Creek, WI at 6900 South 27th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/super-splash-oak-creek/
-8. Woodman's | trust 0.0 | Woodman's is a car wash in Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/woodmans-oak-creek/
+1. Tsunami Express | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Tsunami Express is a car wash in Oak Creek, WI at 140 West Puetz Road, Oak Creek, WI 53154. Website: https://www.tsunamiexpress.com/locations/. | https://dingalinged-cpu.github.io/registry/c/tsunami-express-oak-creek/
+2. Gold Coin Car Wash | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Gold Coin Car Wash is a car wash in Oak Creek, WI at 9530 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/gold-coin-car-wash-oak-creek/
+3. Super-Splash | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Super-Splash is a car wash in Oak Creek, WI at 6900 South 27th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/super-splash-oak-creek/
+4. Woodman's | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Woodman's is a car wash in Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/woodmans-oak-creek/
+5. Kwik Trip | Organic #5 | Pulse Score 48.9/100 (Building, #5 in city) | Kwik Trip is a car wash in Oak Creek, WI at 9535 South 13th Street, Oak Creek, WI 53154. Website: https://www.kwiktrip.com/locator/store?id=422. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek/
+6. Kwik Trip | Organic #6 | Pulse Score 48.9/100 (Building, #6 in city) | Kwik Trip is a car wash in Oak Creek, WI at 2040 West Ryan Road, Oak Creek, WI 53154. Website: https://www.kwiktrip.com/locator/store?id=576. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek-w437699523/
+7. Kwik Trip | Organic #7 | Pulse Score 44.9/100 (Building, #7 in city) | Kwik Trip is a car wash in Oak Creek, WI at 6300 South 27th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-oak-creek-w450674044/
+8. Blue Beacon | Organic #8 | Pulse Score 43.8/100 (Building, #8 in city) | Blue Beacon is a car wash in Oak Creek, WI at 9625 South 20th Street, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash oak creek wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

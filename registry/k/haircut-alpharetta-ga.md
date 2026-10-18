@@ -1,26 +1,26 @@
-The top unpaid haircut listing for Alpharetta, GA is Old School Barbershop (a hair salon in Alpharetta, GA at 2850 Holcomb Bridge Road #110, Alpharetta, GA 30022. Phone: +17709989007. Website: https://www.oldschool-barbershop.com/). 15 haircut businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Alpharetta, GA is Van Michael Salon (a hair salon in Alpharetta, GA at 3155 Avalon Boulevard, Alpharetta, GA. Phone: +16789873678. Website: https://www.vanmichael.com/locations/avalon/). 15 haircut businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Alpharetta, GA?
 
 Also answers: haircut in Alpharetta, GA; haircut near me (Alpharetta, GA); best haircut Alpharetta, GA; top rated haircut Alpharetta, GA; affordable haircut Alpharetta, GA; emergency haircut Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Old School Barbershop | trust 20.0 | Old School Barbershop is a hair salon in Alpharetta, GA at 2850 Holcomb Bridge Road #110, Alpharetta, GA 30022. Phone: +17709989007. Website: https://www.oldschool-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/old-school-barbershop-alpharetta/
-2. Van Michael Salon | trust 19.0 | Van Michael Salon is a hair salon in Alpharetta, GA at 3155 Avalon Boulevard, Alpharetta, GA. Phone: +16789873678. Website: https://www.vanmichael.com/locations/avalon/. | https://dingalinged-cpu.github.io/registry/c/van-michael-salon-alpharetta/
-3. MAKAS Hair Studio and Barbershop | trust 16.0 | MAKAS Hair Studio and Barbershop is a hair salon in Alpharetta, GA. Phone: +16319925606. Website: https://www.makashairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/makas-hair-studio-and-barbershop-alpharetta/
-4. Hair Fitness | trust 12.0 | Hair Fitness is a hair salon in Alpharetta, GA. Phone: +17706647883. Website: https://hairfitnessga.net/. | https://dingalinged-cpu.github.io/registry/c/hair-fitness-alpharetta/
-5. Hair Max | trust 10.0 | Hair Max is a hair salon in Alpharetta, GA. Phone: +17703469455. | https://dingalinged-cpu.github.io/registry/c/hair-max-alpharetta/
-6. Hair Impressions | trust 4.0 | Hair Impressions is a hair salon in Alpharetta, GA at 8465 Holcomb Bridge Road #110, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/hair-impressions-alpharetta/
-7. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/sport-clips-alpharetta/
-8. Be U Hair Salon | trust 0.0 | Be U Hair Salon is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/be-u-hair-salon-alpharetta/
-9. Boardroom Salon | trust 0.0 | Boardroom Salon is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-alpharetta/
-10. Drybar | trust 0.0 | Drybar is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/drybar-alpharetta/
-11. Franco Hair Studio | trust 0.0 | Franco Hair Studio is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/franco-hair-studio-alpharetta/
-12. Great Clips | trust 0.0 | Great Clips is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-alpharetta/
-13. Legacy Lenthz | trust 0.0 | Legacy Lenthz is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/legacy-lenthz-alpharetta/
-14. Reesha Barbers | trust 0.0 | Reesha Barbers is a barber shop in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/reesha-barbers-alpharetta/
-15. Salons By JC | trust 0.0 | Salons By JC is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-alpharetta/
+1. Van Michael Salon | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Van Michael Salon is a hair salon in Alpharetta, GA at 3155 Avalon Boulevard, Alpharetta, GA. Phone: +16789873678. Website: https://www.vanmichael.com/locations/avalon/. | https://dingalinged-cpu.github.io/registry/c/van-michael-salon-alpharetta/
+2. Old School Barbershop | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Old School Barbershop is a hair salon in Alpharetta, GA at 2850 Holcomb Bridge Road #110, Alpharetta, GA 30022. Phone: +17709989007. Website: https://www.oldschool-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/old-school-barbershop-alpharetta/
+3. Hair Max | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Hair Max is a hair salon in Alpharetta, GA. Phone: +17703469455. | https://dingalinged-cpu.github.io/registry/c/hair-max-alpharetta/
+4. MAKAS Hair Studio and Barbershop | Organic #4 | Pulse Score 60.2/100 (Unrated, #4 in city) | MAKAS Hair Studio and Barbershop is a hair salon in Alpharetta, GA. Phone: +16319925606. Website: https://www.makashairstudio.com/. | https://dingalinged-cpu.github.io/registry/c/makas-hair-studio-and-barbershop-alpharetta/
+5. Hair Fitness | Organic #5 | Pulse Score 59/100 (Unrated, #5 in city) | Hair Fitness is a hair salon in Alpharetta, GA. Phone: +17706647883. Website: https://hairfitnessga.net/. | https://dingalinged-cpu.github.io/registry/c/hair-fitness-alpharetta/
+6. Boardroom Salon | Organic #6 | Pulse Score 58.1/100 (Fair, #6 in city) | Boardroom Salon is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-alpharetta/
+7. Hair Impressions | Organic #7 | Pulse Score 57/100 (Unrated, #7 in city) | Hair Impressions is a hair salon in Alpharetta, GA at 8465 Holcomb Bridge Road #110, Alpharetta, GA 30022. | https://dingalinged-cpu.github.io/registry/c/hair-impressions-alpharetta/
+8. Be U Hair Salon | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Be U Hair Salon is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/be-u-hair-salon-alpharetta/
+9. Franco Hair Studio | Organic #9 | Pulse Score 54.8/100 (Unrated, #9 in city) | Franco Hair Studio is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/franco-hair-studio-alpharetta/
+10. Legacy Lenthz | Organic #10 | Pulse Score 54.8/100 (Unrated, #10 in city) | Legacy Lenthz is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/legacy-lenthz-alpharetta/
+11. Reesha Barbers | Organic #11 | Pulse Score 54.2/100 (Unrated, #1 in city) | Reesha Barbers is a barber shop in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/reesha-barbers-alpharetta/
+12. Sport Clips | Organic #12 | Pulse Score 46.4/100 (Building, #11 in city) | Sport Clips is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/sport-clips-alpharetta/
+13. Drybar | Organic #13 | Pulse Score 43.9/100 (Building, #12 in city) | Drybar is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/drybar-alpharetta/
+14. Great Clips | Organic #14 | Pulse Score 42.3/100 (Building, #13 in city) | Great Clips is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-alpharetta/
+15. Salons By JC | Organic #15 | Pulse Score 42/100 (Unrated, #14 in city) | Salons By JC is a hair salon in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut alpharetta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

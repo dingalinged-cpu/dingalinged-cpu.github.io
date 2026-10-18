@@ -1,13 +1,13 @@
-The top unpaid barber shop listing for Irving, TX is KCB Braid Barber & Salon (a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX). 2 barber shop businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Irving, TX is KCB Braid Barber & Salon (a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX). 2 barber shop businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Irving, TX?
 
 Also answers: barber shop in Irving, TX; barber shop near me (Irving, TX); best barber shop Irving, TX; top rated barber shop Irving, TX; affordable barber shop Irving, TX; emergency barber shop Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. KCB Braid Barber & Salon | trust 3.0 | KCB Braid Barber & Salon is a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/kcb-braid-barber-and-salon-irving/
-2. The Family Salon & Barbershop | trust 3.0 | The Family Salon & Barbershop is a barber shop in Irving, TX at 3021 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-family-salon-and-barbershop-irving/
+1. KCB Braid Barber & Salon | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | KCB Braid Barber & Salon is a barber shop in Irving, TX at 3031 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/kcb-braid-barber-and-salon-irving/
+2. The Family Salon & Barbershop | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | The Family Salon & Barbershop is a barber shop in Irving, TX at 3021 North Belt Line Road, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/the-family-salon-and-barbershop-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop irving tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

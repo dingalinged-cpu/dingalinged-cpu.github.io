@@ -13,7 +13,7 @@ North Georgia Smiles is a dentist in Cumming, GA at 1595 Peachtree Pkwy ##207, C
 - Website: https://www.northgeorgiasmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.4/100 — Good — top 3% of dentists in Atlanta, #1 of 2 dentists in Cumming (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

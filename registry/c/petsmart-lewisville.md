@@ -13,7 +13,7 @@ PetSmart is a pet store in Lewisville, TX at 4854 Highway 121, Lewisville, TX 75
 - Website: https://www.petsmart.com/stores/us/tx/lewisville-store2128.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-21:00; Su 08:00-19:00
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Building — top 36% of pet stores in Dallas–Fort Worth, #1 of 4 pet stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.8, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

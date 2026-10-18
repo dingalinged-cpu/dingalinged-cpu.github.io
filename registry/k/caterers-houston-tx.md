@@ -1,14 +1,14 @@
-The top unpaid caterers listing for Houston, TX is Tacos Tecos (a caterer in Houston, TX at 17350 State Highway 249 #STE 220 #12230, Houston, TX 77064. Phone: +17132129296. Website: https://tacostecoshtx.square.site/). 3 caterers businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Houston, TX is Tacos Tecos (a caterer in Houston, TX at 17350 State Highway 249 #STE 220 #12230, Houston, TX 77064. Phone: +17132129296. Website: https://tacostecoshtx.square.site/). 3 caterers businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Houston, TX?
 
 Also answers: caterers in Houston, TX; caterers near me (Houston, TX); best caterers Houston, TX; top rated caterers Houston, TX; affordable caterers Houston, TX; emergency caterers Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tacos Tecos | trust 20.0 | Tacos Tecos is a caterer in Houston, TX at 17350 State Highway 249 #STE 220 #12230, Houston, TX 77064. Phone: +17132129296. Website: https://tacostecoshtx.square.site/. | https://dingalinged-cpu.github.io/registry/c/tacos-tecos-houston/
-2. Geo's Catering | trust 10.0 | Geo's Catering is a caterer in Houston, TX at 7335 Dallas Street, Houston, TX 77011. Phone: +18325243907. | https://dingalinged-cpu.github.io/registry/c/geos-catering-houston/
-3. Wolfgang Puck Catering | trust 4.0 | Wolfgang Puck Catering is a caterer in Houston, TX at 1201 Oliver Street #104, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/wolfgang-puck-catering-houston/
+1. Tacos Tecos | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Tacos Tecos is a caterer in Houston, TX at 17350 State Highway 249 #STE 220 #12230, Houston, TX 77064. Phone: +17132129296. Website: https://tacostecoshtx.square.site/. | https://dingalinged-cpu.github.io/registry/c/tacos-tecos-houston/
+2. Geo's Catering | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Geo's Catering is a caterer in Houston, TX at 7335 Dallas Street, Houston, TX 77011. Phone: +18325243907. | https://dingalinged-cpu.github.io/registry/c/geos-catering-houston/
+3. Wolfgang Puck Catering | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Wolfgang Puck Catering is a caterer in Houston, TX at 1201 Oliver Street #104, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/wolfgang-puck-catering-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers houston tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,17 +1,17 @@
-The top unpaid jewelry store listing for Frisco, TX is James Avery Jewelry (a jewelry store in Frisco, TX at 2601 Preston Road #1192, Frisco, TX 75034. Phone: +12143874097. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=680). 6 jewelry store businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Frisco, TX is Seema & Co. Fine Jewelry (a jewelry store in Frisco, TX at 5355 Dallas Parkway #615, Frisco, TX). 6 jewelry store businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Frisco, TX?
 
 Also answers: jewelry store in Frisco, TX; jewelry store near me (Frisco, TX); best jewelry store Frisco, TX; top rated jewelry store Frisco, TX; affordable jewelry store Frisco, TX; emergency jewelry store Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 16.0 | James Avery Jewelry is a jewelry store in Frisco, TX at 2601 Preston Road #1192, Frisco, TX 75034. Phone: +12143874097. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=680. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-frisco/
-2. Jared | trust 3.0 | Jared is a jewelry store in Frisco, TX at 3110 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/jared-frisco/
-3. Markham Fine Jewelers | trust 3.0 | Markham Fine Jewelers is a jewelry store in Frisco, TX at 8355 Gaylord Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/markham-fine-jewelers-frisco/
-4. Seema & Co. Fine Jewelry | trust 3.0 | Seema & Co. Fine Jewelry is a jewelry store in Frisco, TX at 5355 Dallas Parkway #615, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/seema-and-co-fine-jewelry-frisco/
-5. Diamonds Direct Frisco | trust 0.0 | Diamonds Direct Frisco is a jewelry store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/diamonds-direct-frisco-frisco/
-6. Marc Samuels Jewelers | trust 0.0 | Marc Samuels Jewelers is a jewelry store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/marc-samuels-jewelers-frisco/
+1. Seema & Co. Fine Jewelry | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Seema & Co. Fine Jewelry is a jewelry store in Frisco, TX at 5355 Dallas Parkway #615, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/seema-and-co-fine-jewelry-frisco/
+2. Markham Fine Jewelers | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Markham Fine Jewelers is a jewelry store in Frisco, TX at 8355 Gaylord Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/markham-fine-jewelers-frisco/
+3. Diamonds Direct Frisco | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Diamonds Direct Frisco is a jewelry store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/diamonds-direct-frisco-frisco/
+4. Marc Samuels Jewelers | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Marc Samuels Jewelers is a jewelry store in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/marc-samuels-jewelers-frisco/
+5. James Avery Jewelry | Organic #5 | Pulse Score 48.1/100 (Building, #5 in city) | James Avery Jewelry is a jewelry store in Frisco, TX at 2601 Preston Road #1192, Frisco, TX 75034. Phone: +12143874097. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=680. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-frisco/
+6. Jared | Organic #6 | Pulse Score 44.4/100 (Building, #6 in city) | Jared is a jewelry store in Frisco, TX at 3110 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/jared-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

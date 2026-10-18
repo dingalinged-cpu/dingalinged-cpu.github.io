@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Alpharetta, GA is Ace Dental Care, LLC (a dentist in Alpharetta, GA at 3450 Old Milton Parkway #110, Alpharetta, GA 30005. Phone: +16785621555. Website: https://www.acefamilydental.com/). 3 dentist businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Alpharetta, GA is Ace Dental Care, LLC (a dentist in Alpharetta, GA at 3450 Old Milton Parkway #110, Alpharetta, GA 30005. Phone: +16785621555. Website: https://www.acefamilydental.com/). 3 dentist businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Alpharetta, GA?
 
 Also answers: dentist in Alpharetta, GA; dentist near me (Alpharetta, GA); best dentist Alpharetta, GA; top rated dentist Alpharetta, GA; affordable dentist Alpharetta, GA; emergency dentist Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ace Dental Care, LLC | trust 16.0 | Ace Dental Care, LLC is a dentist in Alpharetta, GA at 3450 Old Milton Parkway #110, Alpharetta, GA 30005. Phone: +16785621555. Website: https://www.acefamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/ace-dental-care-llc-alpharetta/
-2. Aspen Dental | trust 0.0 | Aspen Dental is a dentist in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-alpharetta/
-3. Atlanta Center For Dental Health | trust 0.0 | Atlanta Center For Dental Health is a dentist in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-center-for-dental-health-alpharetta/
+1. Ace Dental Care, LLC | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Ace Dental Care, LLC is a dentist in Alpharetta, GA at 3450 Old Milton Parkway #110, Alpharetta, GA 30005. Phone: +16785621555. Website: https://www.acefamilydental.com/. | https://dingalinged-cpu.github.io/registry/c/ace-dental-care-llc-alpharetta/
+2. Atlanta Center For Dental Health | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Atlanta Center For Dental Health is a dentist in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-center-for-dental-health-alpharetta/
+3. Aspen Dental | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | Aspen Dental is a dentist in Alpharetta, GA. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist alpharetta ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

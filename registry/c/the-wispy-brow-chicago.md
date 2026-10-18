@@ -13,7 +13,7 @@ The Wispy Brow is a waxing salon in Chicago, IL at 1309 West Chicago Avenue #024
 - Website: https://www.thewispybrow.com/
 - Email: sheri@thewispybrow.com
 - Opening hours (OSM syntax): Mo-Su 10:30-17:00
-- Registry Score: 64.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Unrated (not enough evidence yet) — top 17% of waxing salons in Chicago, #3 of 11 waxing salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

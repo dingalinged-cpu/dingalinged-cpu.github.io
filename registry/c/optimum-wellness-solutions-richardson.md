@@ -13,7 +13,7 @@ Optimum Wellness Solutions is a chiropractor in Richardson, TX at 1980 Nantucket
 - Website: https://www.optimumwellnesssolutions.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:30; Tu 15:30-18:30; We-Fr 09:00-18:30
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 14% of chiropractors in Dallas–Fort Worth, #1 of 4 chiropractors in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

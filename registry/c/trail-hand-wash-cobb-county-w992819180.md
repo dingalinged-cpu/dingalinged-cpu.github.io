@@ -13,7 +13,7 @@ Trail Hand Wash is a car wash in Cobb County, GA at 2063 Roswell Road, Cobb Coun
 - Website: https://trailhandwash.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu-Sa 09:00-17:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 65% of car washes in Atlanta, #16 of 21 car washes in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.7, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Hälsa Edina Dental is a dentist in Edina, MN at 3948 West 50th Street #Suite 20
 - Website: https://www.halsaedina.com/
 - Email: contact@halsaedina.com
 - Opening hours (OSM syntax): Mo-We 07:00-16:00; Th 07:00-12:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 2% of dentists in Minneapolis–St. Paul, #2 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 65.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

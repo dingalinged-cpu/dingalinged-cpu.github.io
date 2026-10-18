@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Cherokee County, GA is Wellstar Primary Care (a family medicine practice in Cherokee County, GA at 14205 Highway 92 #101, Cherokee County, GA. Phone: +16782937854. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-14205-highway-92-suite-101). 1 family doctor businesses are listed for Cherokee County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Cherokee County, GA is Wellstar Primary Care (a family medicine practice in Cherokee County, GA at 14205 Highway 92 #101, Cherokee County, GA. Phone: +16782937854. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-14205-highway-92-suite-101). 1 family doctor businesses are listed for Cherokee County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Cherokee County, GA?
 
 Also answers: family doctor in Cherokee County, GA; family doctor near me (Cherokee County, GA); best family doctor Cherokee County, GA; top rated family doctor Cherokee County, GA; affordable family doctor Cherokee County, GA; emergency family doctor Cherokee County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wellstar Primary Care | trust 19.0 | Wellstar Primary Care is a family medicine practice in Cherokee County, GA at 14205 Highway 92 #101, Cherokee County, GA. Phone: +16782937854. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-14205-highway-92-suite-101. | https://dingalinged-cpu.github.io/registry/c/wellstar-primary-care-cherokee-county/
+1. Wellstar Primary Care | Organic #1 | Pulse Score 49.5/100 (Building, #1 in city) | Wellstar Primary Care is a family medicine practice in Cherokee County, GA at 14205 Highway 92 #101, Cherokee County, GA. Phone: +16782937854. Website: https://www.wellstar.org/locations/medical-practice/primary-care-woodstock-14205-highway-92-suite-101. | https://dingalinged-cpu.github.io/registry/c/wellstar-primary-care-cherokee-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor cherokee county ga | category: Health & medical | industry benchmark: Physicians & Surgeons

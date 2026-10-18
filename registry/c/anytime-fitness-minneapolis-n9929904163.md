@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Minneapolis, MN at 2910 Lyndale Avenue South, Minnea
 - Website: https://www.anytimefitness.com/gyms/4246/Minneapolis-MN-55408/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 43% of gyms in Minneapolis–St. Paul, #26 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

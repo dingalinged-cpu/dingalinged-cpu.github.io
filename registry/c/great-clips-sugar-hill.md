@@ -13,7 +13,7 @@ Great Clips is a hair salon in Sugar Hill, GA. Phone: +17706147764. Website: htt
 - Website: https://salons.greatclips.com/us/ga/buford/5885-cumming-hwy
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46/100 — Building — top 89% of hair salons in Atlanta, #1 of 2 hair salons in Sugar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

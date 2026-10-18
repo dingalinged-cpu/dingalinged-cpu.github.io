@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Shakopee, MN is Riverside Liquors (a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014). 1 liquor store businesses are listed for Shakopee, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Shakopee, MN is Riverside Liquors (a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014). 1 liquor store businesses are listed for Shakopee, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Shakopee, MN?
 
 Also answers: liquor store in Shakopee, MN; liquor store near me (Shakopee, MN); best liquor store Shakopee, MN; top rated liquor store Shakopee, MN; affordable liquor store Shakopee, MN; emergency liquor store Shakopee, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Riverside Liquors | trust 10.0 | Riverside Liquors is a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014. | https://dingalinged-cpu.github.io/registry/c/riverside-liquors-shakopee/
+1. Riverside Liquors | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Riverside Liquors is a liquor store in Shakopee, MN at 507 1st Avenue East, Shakopee, MN 55379. Phone: +19524456014. | https://dingalinged-cpu.github.io/registry/c/riverside-liquors-shakopee/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store shakopee mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

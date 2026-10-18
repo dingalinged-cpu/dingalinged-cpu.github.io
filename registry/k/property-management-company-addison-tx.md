@@ -1,12 +1,12 @@
-The top unpaid property management company listing for Addison, TX is The Peterson Group (a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/). 1 property management company businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Addison, TX is The Peterson Group (a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/). 1 property management company businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Addison, TX?
 
 Also answers: property management company in Addison, TX; property management company near me (Addison, TX); best property management company Addison, TX; top rated property management company Addison, TX; affordable property management company Addison, TX; emergency property management company Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Peterson Group | trust 10.0 | The Peterson Group is a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/. | https://dingalinged-cpu.github.io/registry/c/the-peterson-group-addison/
+1. The Peterson Group | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | The Peterson Group is a property management company in Addison, TX at 15058 Beltway Drive #119, Addison, TX 75001. Website: https://www.petersonmanagementgroup.net/. | https://dingalinged-cpu.github.io/registry/c/the-peterson-group-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company addison tx | category: Professional & financial services | industry benchmark: Finance & Insurance

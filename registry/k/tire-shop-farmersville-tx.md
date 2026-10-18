@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Farmersville, TX is Catrachos Tire & Mufflers (a tire shop in Farmersville, TX at 421 East Audie Murphy Parkway, Farmersville, TX 75442. Phone: +19727828287). 3 tire shop businesses are listed for Farmersville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Farmersville, TX is Catrachos Tire & Mufflers (a tire shop in Farmersville, TX at 421 East Audie Murphy Parkway, Farmersville, TX 75442. Phone: +19727828287). 3 tire shop businesses are listed for Farmersville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Farmersville, TX?
 
 Also answers: tire shop in Farmersville, TX; tire shop near me (Farmersville, TX); best tire shop Farmersville, TX; top rated tire shop Farmersville, TX; affordable tire shop Farmersville, TX; emergency tire shop Farmersville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Catrachos Tire & Mufflers | trust 10.0 | Catrachos Tire & Mufflers is a tire shop in Farmersville, TX at 421 East Audie Murphy Parkway, Farmersville, TX 75442. Phone: +19727828287. | https://dingalinged-cpu.github.io/registry/c/catrachos-tire-and-mufflers-farmersville/
-2. Baez Tire Shop | trust 0.0 | Baez Tire Shop is a tire shop in Farmersville, TX. | https://dingalinged-cpu.github.io/registry/c/baez-tire-shop-farmersville/
-3. Lopez Truck Tire Shop | trust 0.0 | Lopez Truck Tire Shop is a tire shop in Farmersville, TX. | https://dingalinged-cpu.github.io/registry/c/lopez-truck-tire-shop-farmersville/
+1. Catrachos Tire & Mufflers | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Catrachos Tire & Mufflers is a tire shop in Farmersville, TX at 421 East Audie Murphy Parkway, Farmersville, TX 75442. Phone: +19727828287. | https://dingalinged-cpu.github.io/registry/c/catrachos-tire-and-mufflers-farmersville/
+2. Baez Tire Shop | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Baez Tire Shop is a tire shop in Farmersville, TX. | https://dingalinged-cpu.github.io/registry/c/baez-tire-shop-farmersville/
+3. Lopez Truck Tire Shop | Organic #3 | Pulse Score 53.7/100 (Unrated, #3 in city) | Lopez Truck Tire Shop is a tire shop in Farmersville, TX. | https://dingalinged-cpu.github.io/registry/c/lopez-truck-tire-shop-farmersville/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop farmersville tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

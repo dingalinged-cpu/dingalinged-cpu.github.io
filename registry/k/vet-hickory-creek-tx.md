@@ -1,12 +1,12 @@
-The top unpaid vet listing for Hickory Creek, TX is Corinth Veterinary Clinic (a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065). 1 vet businesses are listed for Hickory Creek, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Hickory Creek, TX is Corinth Veterinary Clinic (a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065). 1 vet businesses are listed for Hickory Creek, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Hickory Creek, TX?
 
 Also answers: vet in Hickory Creek, TX; vet near me (Hickory Creek, TX); best vet Hickory Creek, TX; top rated vet Hickory Creek, TX; affordable vet Hickory Creek, TX; emergency vet Hickory Creek, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Corinth Veterinary Clinic | trust 4.0 | Corinth Veterinary Clinic is a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/corinth-veterinary-clinic-hickory-creek/
+1. Corinth Veterinary Clinic | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Corinth Veterinary Clinic is a veterinarian in Hickory Creek, TX at 3598 Swisher Road, Hickory Creek, TX 75065. | https://dingalinged-cpu.github.io/registry/c/corinth-veterinary-clinic-hickory-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet hickory creek tx | category: Pets | industry benchmark: Animals & Pets

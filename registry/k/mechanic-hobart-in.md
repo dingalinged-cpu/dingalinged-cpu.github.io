@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Hobart, IN is Team Honda Service Center (an auto repair shop in Merrillville, IN at 4613 East Lincoln Highway, Merrillville, IN 46410. Phone: +12199470770. Website: https://www.teamhondaon30.com/contact-us/). 2 mechanic businesses are listed for Hobart, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hobart, IN is Team Honda Service Center (an auto repair shop in Merrillville, IN at 4613 East Lincoln Highway, Merrillville, IN 46410. Phone: +12199470770. Website: https://www.teamhondaon30.com/contact-us/). 2 mechanic businesses are listed for Hobart, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hobart, IN?
 
 Also answers: mechanic in Hobart, IN; mechanic near me (Hobart, IN); best mechanic Hobart, IN; top rated mechanic Hobart, IN; affordable mechanic Hobart, IN; emergency mechanic Hobart, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Team Honda Service Center | trust 20.0 | Team Honda Service Center is an auto repair shop in Merrillville, IN at 4613 East Lincoln Highway, Merrillville, IN 46410. Phone: +12199470770. Website: https://www.teamhondaon30.com/contact-us/. | https://dingalinged-cpu.github.io/registry/c/team-honda-service-center-merrillville/
-2. Firestone | trust 4.0 | Firestone is an auto repair shop in Merrillville, IN at 1700 Southlake Mall, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/firestone-merrillville/
+1. Team Honda Service Center | Organic #1 | Pulse Score 49.1/100 (Building, #1 in city) | Team Honda Service Center is an auto repair shop in Merrillville, IN at 4613 East Lincoln Highway, Merrillville, IN 46410. Phone: +12199470770. Website: https://www.teamhondaon30.com/contact-us/. | https://dingalinged-cpu.github.io/registry/c/team-honda-service-center-merrillville/
+2. Firestone | Organic #2 | Pulse Score 44.7/100 (Building, #4 in city) | Firestone is an auto repair shop in Merrillville, IN at 1700 Southlake Mall, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/firestone-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hobart in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Glenview, IL is Aqualux Auto Spa (an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/). 5 mechanic businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Glenview, IL is Aqualux Auto Spa (an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/). 5 mechanic businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Glenview, IL?
 
 Also answers: mechanic in Glenview, IL; mechanic near me (Glenview, IL); best mechanic Glenview, IL; top rated mechanic Glenview, IL; affordable mechanic Glenview, IL; emergency mechanic Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aqualux Auto Spa | trust 20.0 | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
-2. Meineke | trust 10.0 | Meineke is an auto repair shop in Northbrook, IL at 3402 Milwaukee Avenue, Northbrook, IL 60062. Website: https://www.meineke.com/locations/il/northbrook-415/. | https://dingalinged-cpu.github.io/registry/c/meineke-northbrook/
-3. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Glenview, IL at 1904 Lehigh Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-glenview/
-4. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Glenview, IL at 3232 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-glenview/
-5. North Suburban Automotive Services | trust 0.0 | North Suburban Automotive Services is an auto repair shop in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/north-suburban-automotive-services-glenview/
+1. Aqualux Auto Spa | Organic #1 | Pulse Score 64.2/100 (Unrated, #1 in city) | Aqualux Auto Spa is an auto repair shop in Glenview, IL at 1822 Pickwick Avenue, Glenview, IL 60026. Phone: +18479042160. Website: https://www.aqualuxautospa.com/. | https://dingalinged-cpu.github.io/registry/c/aqualux-auto-spa-glenview/
+2. North Suburban Automotive Services | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | North Suburban Automotive Services is an auto repair shop in Glenview, IL. | https://dingalinged-cpu.github.io/registry/c/north-suburban-automotive-services-glenview/
+3. Meineke | Organic #3 | Pulse Score 47.1/100 (Building, #1 in city) | Meineke is an auto repair shop in Northbrook, IL at 3402 Milwaukee Avenue, Northbrook, IL 60062. Website: https://www.meineke.com/locations/il/northbrook-415/. | https://dingalinged-cpu.github.io/registry/c/meineke-northbrook/
+4. Gerber Collision & Glass | Organic #4 | Pulse Score 45.4/100 (Building, #3 in city) | Gerber Collision & Glass is an auto repair shop in Glenview, IL at 1904 Lehigh Avenue, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-glenview/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.2/100 (Building, #4 in city) | Jiffy Lube is an auto repair shop in Glenview, IL at 3232 Glenview Road, Glenview, IL 60025. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic glenview il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

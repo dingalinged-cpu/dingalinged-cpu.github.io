@@ -1,12 +1,12 @@
-The top unpaid printing services listing for Union Grove, WI is Postal Xpress (a printing service in Union Grove, WI). 1 printing services businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Union Grove, WI is Postal Xpress (a printing service in Union Grove, WI). 1 printing services businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Union Grove, WI?
 
 Also answers: printing services in Union Grove, WI; printing services near me (Union Grove, WI); best printing services Union Grove, WI; top rated printing services Union Grove, WI; affordable printing services Union Grove, WI; emergency printing services Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Postal Xpress | trust 0.0 | Postal Xpress is a printing service in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/postal-xpress-union-grove/
+1. Postal Xpress | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Postal Xpress is a printing service in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/postal-xpress-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services union grove wi | category: Professional & financial services | industry benchmark: Finance & Insurance

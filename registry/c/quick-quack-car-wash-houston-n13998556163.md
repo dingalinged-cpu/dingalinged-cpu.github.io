@@ -13,7 +13,7 @@ Quick Quack Car Wash is a car wash in Houston, TX at 6348 South Sam Houston Park
 - Website: https://www.dontdrivedirty.com/location/houston-blue-ridge/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 46% of car washes in Houston, #42 of 68 car washes in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid storage units listing for Sugar Land, TX is First Colony Self Storage (a self-storage facility in Sugar Land, TX at 16615 Lexington Boulevard, Sugar Land, TX 77479. Phone: +12817491175. Website: https://firstcolonyselfstorage.com/). 3 storage units businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Sugar Land, TX is First Colony Self Storage (a self-storage facility in Sugar Land, TX at 16615 Lexington Boulevard, Sugar Land, TX 77479. Phone: +12817491175. Website: https://firstcolonyselfstorage.com/). 3 storage units businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Sugar Land, TX?
 
 Also answers: storage units in Sugar Land, TX; storage units near me (Sugar Land, TX); best storage units Sugar Land, TX; top rated storage units Sugar Land, TX; affordable storage units Sugar Land, TX; emergency storage units Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. First Colony Self Storage | trust 20.0 | First Colony Self Storage is a self-storage facility in Sugar Land, TX at 16615 Lexington Boulevard, Sugar Land, TX 77479. Phone: +12817491175. Website: https://firstcolonyselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/first-colony-self-storage-sugar-land/
-2. MyPlace Self Storage | trust 4.0 | MyPlace Self Storage is a self-storage facility in Sugar Land, TX at 15025 Voss Road, Sugar Land, TX 77498. | https://dingalinged-cpu.github.io/registry/c/myplace-self-storage-sugar-land/
-3. Store Space Self Storage | trust 3.0 | Store Space Self Storage is a self-storage facility in Sugar Land, TX at 4815 LJ Parkway, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/store-space-self-storage-sugar-land/
+1. First Colony Self Storage | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | First Colony Self Storage is a self-storage facility in Sugar Land, TX at 16615 Lexington Boulevard, Sugar Land, TX 77479. Phone: +12817491175. Website: https://firstcolonyselfstorage.com/. | https://dingalinged-cpu.github.io/registry/c/first-colony-self-storage-sugar-land/
+2. MyPlace Self Storage | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | MyPlace Self Storage is a self-storage facility in Sugar Land, TX at 15025 Voss Road, Sugar Land, TX 77498. | https://dingalinged-cpu.github.io/registry/c/myplace-self-storage-sugar-land/
+3. Store Space Self Storage | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Store Space Self Storage is a self-storage facility in Sugar Land, TX at 4815 LJ Parkway, Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/store-space-self-storage-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units sugar land tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

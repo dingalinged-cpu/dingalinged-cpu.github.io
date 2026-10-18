@@ -13,7 +13,7 @@ Marky Booth Photo Booth Rental | Dallas/Fort Worth is a photographer in Irving, 
 - Website: https://www.markybooth.com/dallas-tx-photo-booth-rentals/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 09:00-21:00
-- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.2/100 — Fair — top 94% of photographers in Dallas–Fort Worth, #1 of 1 photographers in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 60.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

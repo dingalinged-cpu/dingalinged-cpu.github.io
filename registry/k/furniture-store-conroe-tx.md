@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Conroe, TX is Ashley HomeStore (a furniture store in Conroe, TX at 2804 Interstate 45 North, Conroe, TX 77301. Phone: +19364412144. Website: https://stores.ashleyfurniture.com/store/us/texas/conroe/7710000406/). 5 furniture store businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Conroe, TX is Bartholet Home Furnishings (a furniture store in Conroe, TX at 12280 Interstate 45 South, Conroe, TX 77304). 5 furniture store businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Conroe, TX?
 
 Also answers: furniture store in Conroe, TX; furniture store near me (Conroe, TX); best furniture store Conroe, TX; top rated furniture store Conroe, TX; affordable furniture store Conroe, TX; emergency furniture store Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashley HomeStore | trust 16.0 | Ashley HomeStore is a furniture store in Conroe, TX at 2804 Interstate 45 North, Conroe, TX 77301. Phone: +19364412144. Website: https://stores.ashleyfurniture.com/store/us/texas/conroe/7710000406/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-conroe/
-2. Aaron's | trust 14.0 | Aaron's is a furniture store in Conroe, TX at 2002 Interstate 45 North, Conroe, TX 77301. Website: https://locations.aarons.com/us/tx/conroe/2002-interstate-45-n. | https://dingalinged-cpu.github.io/registry/c/aarons-conroe/
-3. Bartholet Home Furnishings | trust 4.0 | Bartholet Home Furnishings is a furniture store in Conroe, TX at 12280 Interstate 45 South, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/bartholet-home-furnishings-conroe/
-4. Rent-A-Center | trust 4.0 | Rent-A-Center is a furniture store in Conroe, TX at 1408 North Loop 336 West #A, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-conroe/
-5. Rustic Outlet | trust 4.0 | Rustic Outlet is a furniture store in Conroe, TX at 11133 Interstate 45 South #150, Conroe, TX 77302. | https://dingalinged-cpu.github.io/registry/c/rustic-outlet-conroe/
+1. Bartholet Home Furnishings | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Bartholet Home Furnishings is a furniture store in Conroe, TX at 12280 Interstate 45 South, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/bartholet-home-furnishings-conroe/
+2. Rustic Outlet | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Rustic Outlet is a furniture store in Conroe, TX at 11133 Interstate 45 South #150, Conroe, TX 77302. | https://dingalinged-cpu.github.io/registry/c/rustic-outlet-conroe/
+3. Aaron's | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Aaron's is a furniture store in Conroe, TX at 2002 Interstate 45 North, Conroe, TX 77301. Website: https://locations.aarons.com/us/tx/conroe/2002-interstate-45-n. | https://dingalinged-cpu.github.io/registry/c/aarons-conroe/
+4. Ashley HomeStore | Organic #4 | Pulse Score 48.6/100 (Building, #4 in city) | Ashley HomeStore is a furniture store in Conroe, TX at 2804 Interstate 45 North, Conroe, TX 77301. Phone: +19364412144. Website: https://stores.ashleyfurniture.com/store/us/texas/conroe/7710000406/. | https://dingalinged-cpu.github.io/registry/c/ashley-homestore-conroe/
+5. Rent-A-Center | Organic #5 | Pulse Score 46/100 (Building, #5 in city) | Rent-A-Center is a furniture store in Conroe, TX at 1408 North Loop 336 West #A, Conroe, TX 77304. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

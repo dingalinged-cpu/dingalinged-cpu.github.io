@@ -1,15 +1,15 @@
-The top unpaid lawyer listing for Gwinnett County, GA is Kenneth M. Sissel (a lawyer in Gwinnett County, GA at 746, Gwinnett County, GA. Phone: +14043251244). 4 lawyer businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Gwinnett County, GA is Kenneth M. Sissel (a lawyer in Gwinnett County, GA at 746, Gwinnett County, GA. Phone: +14043251244). 4 lawyer businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Gwinnett County, GA?
 
 Also answers: lawyer in Gwinnett County, GA; lawyer near me (Gwinnett County, GA); best lawyer Gwinnett County, GA; top rated lawyer Gwinnett County, GA; affordable lawyer Gwinnett County, GA; emergency lawyer Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kenneth M. Sissel | trust 9.0 | Kenneth M. Sissel is a lawyer in Gwinnett County, GA at 746, Gwinnett County, GA. Phone: +14043251244. | https://dingalinged-cpu.github.io/registry/c/kenneth-m-sissel-gwinnett-county/
-2. Friedman Family Law | trust 0.0 | Friedman Family Law is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/friedman-family-law-gwinnett-county/
-3. Law Office of Elaine A Nietmann | trust 0.0 | Law Office of Elaine A Nietmann is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/law-office-of-elaine-a-nietmann-gwinnett-county/
-4. Nguyen Tran Law Firm | trust 0.0 | Nguyen Tran Law Firm is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/nguyen-tran-law-firm-gwinnett-county/
+1. Kenneth M. Sissel | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Kenneth M. Sissel is a lawyer in Gwinnett County, GA at 746, Gwinnett County, GA. Phone: +14043251244. | https://dingalinged-cpu.github.io/registry/c/kenneth-m-sissel-gwinnett-county/
+2. Friedman Family Law | Organic #2 | Pulse Score 53.7/100 (Unrated, #2 in city) | Friedman Family Law is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/friedman-family-law-gwinnett-county/
+3. Law Office of Elaine A Nietmann | Organic #3 | Pulse Score 53.7/100 (Unrated, #3 in city) | Law Office of Elaine A Nietmann is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/law-office-of-elaine-a-nietmann-gwinnett-county/
+4. Nguyen Tran Law Firm | Organic #4 | Pulse Score 53.7/100 (Unrated, #4 in city) | Nguyen Tran Law Firm is a lawyer in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/nguyen-tran-law-firm-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer gwinnett county ga | category: Legal | industry benchmark: Attorneys & Legal Services

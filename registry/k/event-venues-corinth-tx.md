@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Corinth, TX is Ashton Gardens (an event venue in Corinth, TX at 2001 Ashton Gardens Lane, Corinth, TX 76201. Phone: +19404984273. Website: https://www.ashtongardens.com/wedding-venue-in-dallas-tx/). 1 event venues businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Corinth, TX is Ashton Gardens (an event venue in Corinth, TX at 2001 Ashton Gardens Lane, Corinth, TX 76201. Phone: +19404984273. Website: https://www.ashtongardens.com/wedding-venue-in-dallas-tx/). 1 event venues businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Corinth, TX?
 
 Also answers: event venues in Corinth, TX; event venues near me (Corinth, TX); best event venues Corinth, TX; top rated event venues Corinth, TX; affordable event venues Corinth, TX; emergency event venues Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ashton Gardens | trust 16.0 | Ashton Gardens is an event venue in Corinth, TX at 2001 Ashton Gardens Lane, Corinth, TX 76201. Phone: +19404984273. Website: https://www.ashtongardens.com/wedding-venue-in-dallas-tx/. | https://dingalinged-cpu.github.io/registry/c/ashton-gardens-corinth/
+1. Ashton Gardens | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Ashton Gardens is an event venue in Corinth, TX at 2001 Ashton Gardens Lane, Corinth, TX 76201. Phone: +19404984273. Website: https://www.ashtongardens.com/wedding-venue-in-dallas-tx/. | https://dingalinged-cpu.github.io/registry/c/ashton-gardens-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues corinth tx | category: Events & weddings | industry benchmark: Personal Services

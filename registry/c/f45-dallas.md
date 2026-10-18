@@ -13,7 +13,7 @@ F45 is a gym in Dallas, TX at 6465 East Mockingbird Lane, Dallas, TX. Phone: +12
 - Website: https://f45training.com/studio/lakewoodtx/
 - Email: lakewoodtx@f45training.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 4% of gyms in Dallas–Fort Worth, #5 of 78 gyms in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

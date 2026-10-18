@@ -1,18 +1,18 @@
-The top unpaid gym listing for Humble, TX is Life Time (a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346. Phone: +18324453900. Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html). 7 gym businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Humble, TX is Fit Crew (a gym in Humble, TX). 7 gym businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Humble, TX?
 
 Also answers: gym in Humble, TX; gym near me (Humble, TX); best gym Humble, TX; top rated gym Humble, TX; affordable gym Humble, TX; emergency gym Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 20.0 | Life Time is a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346. Phone: +18324453900. Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html. | https://dingalinged-cpu.github.io/registry/c/life-time-humble/
-2. Lifetime Fitness | trust 16.0 | Lifetime Fitness is a gym in Humble, TX at 13600 Will Clayton Parkway, Humble, TX 77346. Phone: +12818124100. Website: https://www.lifetime.life/life-time-locations/tx-humble-lake-houston.html. | https://dingalinged-cpu.github.io/registry/c/lifetime-fitness-humble/
-3. Crunch Fitness | trust 0.0 | Crunch Fitness is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-humble/
-4. Fit Crew | trust 0.0 | Fit Crew is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/fit-crew-humble/
-5. grvtysculpt | trust 0.0 | grvtysculpt is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/grvtysculpt-humble/
-6. Hellhound Gym | trust 0.0 | Hellhound Gym is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/hellhound-gym-humble/
-7. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-humble/
+1. Fit Crew | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Fit Crew is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/fit-crew-humble/
+2. grvtysculpt | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | grvtysculpt is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/grvtysculpt-humble/
+3. Hellhound Gym | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Hellhound Gym is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/hellhound-gym-humble/
+4. Life Time | Organic #4 | Pulse Score 49.1/100 (Building, #4 in city) | Life Time is a gym in Humble, TX at 20515 Lake Houston Parkway, Humble, TX 77346. Phone: +18324453900. Website: https://www.lifetime.life/life-time-locations/tx-humble-kingwood.html. | https://dingalinged-cpu.github.io/registry/c/life-time-humble/
+5. Lifetime Fitness | Organic #5 | Pulse Score 48.4/100 (Building, #5 in city) | Lifetime Fitness is a gym in Humble, TX at 13600 Will Clayton Parkway, Humble, TX 77346. Phone: +12818124100. Website: https://www.lifetime.life/life-time-locations/tx-humble-lake-houston.html. | https://dingalinged-cpu.github.io/registry/c/lifetime-fitness-humble/
+6. Crunch Fitness | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Crunch Fitness is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-humble/
+7. Planet Fitness | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Planet Fitness is a gym in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym humble tx | category: Fitness | industry benchmark: Health & Fitness

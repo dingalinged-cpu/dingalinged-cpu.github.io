@@ -1,14 +1,14 @@
-The top unpaid florist listing for Woodstock, GA is Brenda's House Of Flowers (a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/). 3 florist businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Woodstock, GA is Brenda's House Of Flowers (a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/). 3 florist businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Woodstock, GA?
 
 Also answers: florist in Woodstock, GA; florist near me (Woodstock, GA); best florist Woodstock, GA; top rated florist Woodstock, GA; affordable florist Woodstock, GA; emergency florist Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brenda's House Of Flowers | trust 19.0 | Brenda's House Of Flowers is a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/. | https://dingalinged-cpu.github.io/registry/c/brendas-house-of-flowers-woodstock/
-2. Reeves Floral | trust 19.0 | Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. Phone: +17709245230. Website: https://reevesfloral.com/. | https://dingalinged-cpu.github.io/registry/c/reeves-floral-woodstock/
-3. Woodstock Flowers | trust 19.0 | Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/. | https://dingalinged-cpu.github.io/registry/c/woodstock-flowers-woodstock/
+1. Brenda's House Of Flowers | Organic #1 | Pulse Score 63.3/100 (Good, #1 in city) | Brenda's House Of Flowers is a florist in Woodstock, GA at 200 Chambers Street, Woodstock, GA. Phone: +17709263306. Website: https://www.brendashouseofflowers.com/. | https://dingalinged-cpu.github.io/registry/c/brendas-house-of-flowers-woodstock/
+2. Reeves Floral | Organic #2 | Pulse Score 62.6/100 (Good, #2 in city) | Reeves Floral is a florist in Woodstock, GA at 10288 Highway 92, Woodstock, GA. Phone: +17709245230. Website: https://reevesfloral.com/. | https://dingalinged-cpu.github.io/registry/c/reeves-floral-woodstock/
+3. Woodstock Flowers | Organic #3 | Pulse Score 62.6/100 (Good, #3 in city) | Woodstock Flowers is a florist in Woodstock, GA at 9515 Main Street, Woodstock, GA. Phone: +16784458875. Website: https://woodstockflowers.com/. | https://dingalinged-cpu.github.io/registry/c/woodstock-flowers-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist woodstock ga | category: Events & weddings | industry benchmark: Personal Services

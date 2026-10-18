@@ -1,18 +1,18 @@
-The top unpaid hair salon listing for Lovejoy, GA is Ada's Real Dominican Hair Salon (a hair salon in Lovejoy, GA). 7 hair salon businesses are listed for Lovejoy, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Lovejoy, GA is Ada's Real Dominican Hair Salon (a hair salon in Lovejoy, GA). 7 hair salon businesses are listed for Lovejoy, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Lovejoy, GA?
 
 Also answers: hair salon in Lovejoy, GA; hair salon near me (Lovejoy, GA); best hair salon Lovejoy, GA; top rated hair salon Lovejoy, GA; affordable hair salon Lovejoy, GA; emergency hair salon Lovejoy, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ada's Real Dominican Hair Salon | trust 0.0 | Ada's Real Dominican Hair Salon is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/adas-real-dominican-hair-salon-lovejoy/
-2. Allure' Locs salon | trust 0.0 | Allure' Locs salon is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/allure-locs-salon-lovejoy/
-3. Barber Shop | trust 0.0 | Barber Shop is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/barber-shop-lovejoy/
-4. Cleopatra Beauty | trust 0.0 | Cleopatra Beauty is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/cleopatra-beauty-lovejoy/
-5. Heavens Glo Facial Bar | trust 0.0 | Heavens Glo Facial Bar is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/heavens-glo-facial-bar-lovejoy/
-6. Salon Braiding | trust 0.0 | Salon Braiding is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/salon-braiding-lovejoy/
-7. Steady Hands | trust 0.0 | Steady Hands is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/steady-hands-lovejoy/
+1. Ada's Real Dominican Hair Salon | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Ada's Real Dominican Hair Salon is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/adas-real-dominican-hair-salon-lovejoy/
+2. Allure' Locs salon | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Allure' Locs salon is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/allure-locs-salon-lovejoy/
+3. Cleopatra Beauty | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Cleopatra Beauty is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/cleopatra-beauty-lovejoy/
+4. Heavens Glo Facial Bar | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Heavens Glo Facial Bar is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/heavens-glo-facial-bar-lovejoy/
+5. Salon Braiding | Organic #5 | Pulse Score 54.8/100 (Unrated, #5 in city) | Salon Braiding is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/salon-braiding-lovejoy/
+6. Steady Hands | Organic #6 | Pulse Score 54.8/100 (Unrated, #6 in city) | Steady Hands is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/steady-hands-lovejoy/
+7. Barber Shop | Organic #7 | Pulse Score 42/100 (Unrated, #7 in city) | Barber Shop is a hair salon in Lovejoy, GA. | https://dingalinged-cpu.github.io/registry/c/barber-shop-lovejoy/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon lovejoy ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

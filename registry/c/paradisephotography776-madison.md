@@ -13,7 +13,7 @@ ParadisePhotography776 is a photographer in Madison, WI at 805 Harbor House Dr, 
 - Website: https://paradisephotography776.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We,Fr-Su 09:00-17:00, Th 09:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 34% of photographers in Madison, #2 of 5 photographers in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.2, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

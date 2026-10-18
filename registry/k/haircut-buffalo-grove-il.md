@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Buffalo Grove, IL is Element Barbershop (a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/). 3 haircut businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Buffalo Grove, IL is Element Barbershop (a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/). 3 haircut businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Buffalo Grove, IL?
 
 Also answers: haircut in Buffalo Grove, IL; haircut near me (Buffalo Grove, IL); best haircut Buffalo Grove, IL; top rated haircut Buffalo Grove, IL; affordable haircut Buffalo Grove, IL; emergency haircut Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Element Barbershop | trust 20.0 | Element Barbershop is a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/element-barbershop-buffalo-grove/
-2. Great Clips | trust 4.0 | Great Clips is a hair salon in Buffalo Grove, IL at 1543 Deerfield Parkway, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove-w674297054/
+1. Element Barbershop | Organic #1 | Pulse Score 63.7/100 (Good, #1 in city) | Element Barbershop is a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road, Buffalo Grove, IL 60089. Phone: +12245845072. Website: https://element-barbershop.com/. | https://dingalinged-cpu.github.io/registry/c/element-barbershop-buffalo-grove/
+2. Great Clips | Organic #2 | Pulse Score 45.1/100 (Building, #1 in city) | Great Clips is a hair salon in Buffalo Grove, IL at 1543 Deerfield Parkway, Buffalo Grove, IL 60089. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove/
+3. Great Clips | Organic #3 | Pulse Score 42.5/100 (Building, #2 in city) | Great Clips is a hair salon in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-buffalo-grove-w674297054/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut buffalo grove il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

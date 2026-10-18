@@ -1,13 +1,13 @@
-The top unpaid audiologist listing for Houston, TX is Oprex Hearing Center (an audiologist in Houston, TX at 2615 Southwest Freeway #Suite 290, Houston, TX 77098. Phone: +12819203911. Website: https://oprexhearingcenter.com/). 2 audiologist businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Houston, TX is Oprex Hearing Center (an audiologist in Houston, TX at 2615 Southwest Freeway #Suite 290, Houston, TX 77098. Phone: +12819203911. Website: https://oprexhearingcenter.com/). 2 audiologist businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Houston, TX?
 
 Also answers: audiologist in Houston, TX; audiologist near me (Houston, TX); best audiologist Houston, TX; top rated audiologist Houston, TX; affordable audiologist Houston, TX; emergency audiologist Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Oprex Hearing Center | trust 20.0 | Oprex Hearing Center is an audiologist in Houston, TX at 2615 Southwest Freeway #Suite 290, Houston, TX 77098. Phone: +12819203911. Website: https://oprexhearingcenter.com/. | https://dingalinged-cpu.github.io/registry/c/oprex-hearing-center-houston/
-2. Oprex Hearing Center | trust 20.0 | Oprex Hearing Center is an audiologist in Houston, TX at 6699 Chimney Rock Road #202, Houston, TX 77081. Phone: +12819203911. Website: https://oprexhearingcenter.com/. | https://dingalinged-cpu.github.io/registry/c/oprex-hearing-center-houston-n13826549940/
+1. Oprex Hearing Center | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Oprex Hearing Center is an audiologist in Houston, TX at 2615 Southwest Freeway #Suite 290, Houston, TX 77098. Phone: +12819203911. Website: https://oprexhearingcenter.com/. | https://dingalinged-cpu.github.io/registry/c/oprex-hearing-center-houston/
+2. Oprex Hearing Center | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Oprex Hearing Center is an audiologist in Houston, TX at 6699 Chimney Rock Road #202, Houston, TX 77081. Phone: +12819203911. Website: https://oprexhearingcenter.com/. | https://dingalinged-cpu.github.io/registry/c/oprex-hearing-center-houston-n13826549940/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

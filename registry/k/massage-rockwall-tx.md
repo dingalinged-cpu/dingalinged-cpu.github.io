@@ -1,14 +1,14 @@
-The top unpaid massage listing for Rockwall, TX is Massage Envy (a massage studio in Rockwall, TX at 2951 Ridge Road #Suite 101, Rockwall, TX 75032. Phone: +19727229595. Website: https://locations.massageenvy.com/texas/rockwall/2951-ridge-rd.html). 3 massage businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Rockwall, TX is Rockwall Massage Therapeutics (a massage studio in Rockwall, TX. Website: https://rockwallmassagetherapeutics.com/). 3 massage businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Rockwall, TX?
 
 Also answers: massage in Rockwall, TX; massage near me (Rockwall, TX); best massage Rockwall, TX; top rated massage Rockwall, TX; affordable massage Rockwall, TX; emergency massage Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | trust 20.0 | Massage Envy is a massage studio in Rockwall, TX at 2951 Ridge Road #Suite 101, Rockwall, TX 75032. Phone: +19727229595. Website: https://locations.massageenvy.com/texas/rockwall/2951-ridge-rd.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-rockwall/
-2. Rockwall Massage Therapeutics | trust 6.0 | Rockwall Massage Therapeutics is a massage studio in Rockwall, TX. Website: https://rockwallmassagetherapeutics.com/. | https://dingalinged-cpu.github.io/registry/c/rockwall-massage-therapeutics-rockwall/
-3. Hand & Stone Massage and Facial Spa | trust 4.0 | Hand & Stone Massage and Facial Spa is a massage studio in Rockwall, TX at 1053 East Interstate 30 #109, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-rockwall/
+1. Rockwall Massage Therapeutics | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Rockwall Massage Therapeutics is a massage studio in Rockwall, TX. Website: https://rockwallmassagetherapeutics.com/. | https://dingalinged-cpu.github.io/registry/c/rockwall-massage-therapeutics-rockwall/
+2. Massage Envy | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Massage Envy is a massage studio in Rockwall, TX at 2951 Ridge Road #Suite 101, Rockwall, TX 75032. Phone: +19727229595. Website: https://locations.massageenvy.com/texas/rockwall/2951-ridge-rd.html. | https://dingalinged-cpu.github.io/registry/c/massage-envy-rockwall/
+3. Hand & Stone Massage and Facial Spa | Organic #3 | Pulse Score 44.8/100 (Building, #3 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Rockwall, TX at 1053 East Interstate 30 #109, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage rockwall tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

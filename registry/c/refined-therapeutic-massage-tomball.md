@@ -13,7 +13,7 @@ Refined Therapeutic Massage is a massage studio in Tomball, TX at 23902 FM 2978,
 - Website: https://www.refinedmassage.us/
 - Email: owner@refinedmassage.net
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of massage studios in Houston, #1 of 4 massage studios in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Blue Island, IL is Sonrisa Family Dental (a dentist in Blue Island, IL at 13000 Maple Avenue, Blue Island, IL 60406. Phone: +17082391900. Website: https://sonrisafamilydental.com/locations/blue-island/). 1 dentist businesses are listed for Blue Island, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Blue Island, IL is Sonrisa Family Dental (a dentist in Blue Island, IL at 13000 Maple Avenue, Blue Island, IL 60406. Phone: +17082391900. Website: https://sonrisafamilydental.com/locations/blue-island/). 1 dentist businesses are listed for Blue Island, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Blue Island, IL?
 
 Also answers: dentist in Blue Island, IL; dentist near me (Blue Island, IL); best dentist Blue Island, IL; top rated dentist Blue Island, IL; affordable dentist Blue Island, IL; emergency dentist Blue Island, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sonrisa Family Dental | trust 20.0 | Sonrisa Family Dental is a dentist in Blue Island, IL at 13000 Maple Avenue, Blue Island, IL 60406. Phone: +17082391900. Website: https://sonrisafamilydental.com/locations/blue-island/. | https://dingalinged-cpu.github.io/registry/c/sonrisa-family-dental-blue-island/
+1. Sonrisa Family Dental | Organic #1 | Pulse Score 51.1/100 (Unrated, #1 in city) | Sonrisa Family Dental is a dentist in Blue Island, IL at 13000 Maple Avenue, Blue Island, IL 60406. Phone: +17082391900. Website: https://sonrisafamilydental.com/locations/blue-island/. | https://dingalinged-cpu.github.io/registry/c/sonrisa-family-dental-blue-island/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist blue island il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

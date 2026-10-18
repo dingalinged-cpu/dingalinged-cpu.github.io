@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for West Allis, WI is Dining Furnature Showcase (a furniture store in West Allis, WI at 1933 South 60th Street, West Allis, WI 53219. Phone: +14143270115. Website: https://diningfurnitureshowcase.com/). 5 furniture store businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for West Allis, WI is A-1 Furniture (a furniture store in West Allis, WI at 5601 West National Avenue, West Allis, WI 53214. Phone: +14144768407. Website: https://www.a1furniture.biz/). 5 furniture store businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in West Allis, WI?
 
 Also answers: furniture store in West Allis, WI; furniture store near me (West Allis, WI); best furniture store West Allis, WI; top rated furniture store West Allis, WI; affordable furniture store West Allis, WI; emergency furniture store West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dining Furnature Showcase | trust 20.0 | Dining Furnature Showcase is a furniture store in West Allis, WI at 1933 South 60th Street, West Allis, WI 53219. Phone: +14143270115. Website: https://diningfurnitureshowcase.com/. | https://dingalinged-cpu.github.io/registry/c/dining-furnature-showcase-west-allis/
-2. A-1 Furniture | trust 16.0 | A-1 Furniture is a furniture store in West Allis, WI at 5601 West National Avenue, West Allis, WI 53214. Phone: +14144768407. Website: https://www.a1furniture.biz/. | https://dingalinged-cpu.github.io/registry/c/a-1-furniture-west-allis/
-3. Get-It-Now! | trust 14.0 | Get-It-Now! is a furniture store in West Allis, WI at 6826 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142582343. | https://dingalinged-cpu.github.io/registry/c/get-it-now-west-allis/
-4. Lazurde Furnature | trust 6.0 | Lazurde Furnature is a furniture store in West Allis, WI. Phone: +14147375380. | https://dingalinged-cpu.github.io/registry/c/lazurde-furnature-west-allis/
-5. Cabinet Home | trust 0.0 | Cabinet Home is a furniture store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/cabinet-home-west-allis/
+1. A-1 Furniture | Organic #1 | Pulse Score 62.1/100 (Good, #1 in city) | A-1 Furniture is a furniture store in West Allis, WI at 5601 West National Avenue, West Allis, WI 53214. Phone: +14144768407. Website: https://www.a1furniture.biz/. | https://dingalinged-cpu.github.io/registry/c/a-1-furniture-west-allis/
+2. Dining Furnature Showcase | Organic #2 | Pulse Score 61.5/100 (Unrated, #2 in city) | Dining Furnature Showcase is a furniture store in West Allis, WI at 1933 South 60th Street, West Allis, WI 53219. Phone: +14143270115. Website: https://diningfurnitureshowcase.com/. | https://dingalinged-cpu.github.io/registry/c/dining-furnature-showcase-west-allis/
+3. Lazurde Furnature | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Lazurde Furnature is a furniture store in West Allis, WI. Phone: +14147375380. | https://dingalinged-cpu.github.io/registry/c/lazurde-furnature-west-allis/
+4. Cabinet Home | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Cabinet Home is a furniture store in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/cabinet-home-west-allis/
+5. Get-It-Now! | Organic #5 | Pulse Score 48/100 (Unrated, #5 in city) | Get-It-Now! is a furniture store in West Allis, WI at 6826 West Greenfield Avenue, West Allis, WI 53214. Phone: +14142582343. | https://dingalinged-cpu.github.io/registry/c/get-it-now-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store west allis wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

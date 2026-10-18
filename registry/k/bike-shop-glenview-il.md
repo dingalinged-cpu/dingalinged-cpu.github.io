@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Glenview, IL is Glenview Cycle (a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/). 1 bike shop businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Glenview, IL is Glenview Cycle (a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/). 1 bike shop businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Glenview, IL?
 
 Also answers: bike shop in Glenview, IL; bike shop near me (Glenview, IL); best bike shop Glenview, IL; top rated bike shop Glenview, IL; affordable bike shop Glenview, IL; emergency bike shop Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Glenview Cycle | trust 20.0 | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/
+1. Glenview Cycle | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Glenview Cycle is a bike shop in Glenview, IL at 1011 Harlem Avenue, Glenview, IL 60025. Phone: +18479985900. Website: https://glenviewcycle.com/. | https://dingalinged-cpu.github.io/registry/c/glenview-cycle-glenview/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop glenview il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

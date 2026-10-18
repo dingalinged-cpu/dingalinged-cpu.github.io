@@ -13,7 +13,7 @@ Seidou Spa is a massage studio in Shorewood, MN at 24000 Minnesota State Highway
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 34% of massage studios in Minneapolis–St. Paul, #1 of 1 massage studios in Shorewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

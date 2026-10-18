@@ -1,16 +1,16 @@
-The top unpaid haircut listing for New Hope, MN is Milagro's Beauty Salon (a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428). 5 haircut businesses are listed for New Hope, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for New Hope, MN is Milagro's Beauty Salon (a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428). 5 haircut businesses are listed for New Hope, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in New Hope, MN?
 
 Also answers: haircut in New Hope, MN; haircut near me (New Hope, MN); best haircut New Hope, MN; top rated haircut New Hope, MN; affordable haircut New Hope, MN; emergency haircut New Hope, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Milagro's Beauty Salon | trust 4.0 | Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-new-hope/
-2. Nappy Rootz Hair Studio | trust 4.0 | Nappy Rootz Hair Studio is a hair salon in New Hope, MN at 7179 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/nappy-rootz-hair-studio-new-hope/
-3. Mr. Barber | trust 0.0 | Mr. Barber is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/mr-barber-new-hope/
-4. Olga's Hair | trust 0.0 | Olga's Hair is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/olgas-hair-new-hope/
-5. Peppertree Salon | trust 0.0 | Peppertree Salon is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/peppertree-salon-new-hope/
+1. Milagro's Beauty Salon | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Milagro's Beauty Salon is a hair salon in New Hope, MN at 4341 Winnetka Avenue, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/milagros-beauty-salon-new-hope/
+2. Nappy Rootz Hair Studio | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Nappy Rootz Hair Studio is a hair salon in New Hope, MN at 7179 42nd Avenue North, New Hope, MN 55428. | https://dingalinged-cpu.github.io/registry/c/nappy-rootz-hair-studio-new-hope/
+3. Mr. Barber | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Mr. Barber is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/mr-barber-new-hope/
+4. Olga's Hair | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Olga's Hair is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/olgas-hair-new-hope/
+5. Peppertree Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Peppertree Salon is a hair salon in New Hope, MN. | https://dingalinged-cpu.github.io/registry/c/peppertree-salon-new-hope/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut new hope mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid tailor listing for Pantego, TX is Stitch Niche (a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281). 1 tailor businesses are listed for Pantego, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Pantego, TX is Stitch Niche (a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281). 1 tailor businesses are listed for Pantego, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Pantego, TX?
 
 Also answers: tailor in Pantego, TX; tailor near me (Pantego, TX); best tailor Pantego, TX; top rated tailor Pantego, TX; affordable tailor Pantego, TX; emergency tailor Pantego, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stitch Niche | trust 10.0 | Stitch Niche is a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281. | https://dingalinged-cpu.github.io/registry/c/stitch-niche-pantego/
+1. Stitch Niche | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Stitch Niche is a tailor in Pantego, TX at 2425 West Arkansas Lane, Pantego, TX 76013. Phone: +18172774281. | https://dingalinged-cpu.github.io/registry/c/stitch-niche-pantego/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor pantego tx | category: Professional & financial services | industry benchmark: Finance & Insurance

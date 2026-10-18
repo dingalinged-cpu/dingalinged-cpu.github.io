@@ -13,7 +13,7 @@ Cutting Group is a hair salon in Milwaukee, WI at 2216 North Farwell Avenue, Mil
 - Website: https://cuttinggroupmilwaukee.com/
 - Email: contact@cuttinggroupmilwaukee.com
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su 11:00-16:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.2/100 — Good — top 1% of hair salons in Milwaukee, #1 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 67.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

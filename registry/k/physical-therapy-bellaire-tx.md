@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Bellaire, TX is Dr. Riggins Psychological Services, PLLC (a physical therapy clinic in Bellaire, TX at 5350 Bellaire Blvd, Bellaire, TX 77401. Phone: +18325382244. Website: https://www.drrigginspllc.com/). 1 physical therapy businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Bellaire, TX is Dr. Riggins Psychological Services, PLLC (a physical therapy clinic in Bellaire, TX at 5350 Bellaire Blvd, Bellaire, TX 77401. Phone: +18325382244. Website: https://www.drrigginspllc.com/). 1 physical therapy businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Bellaire, TX?
 
 Also answers: physical therapy in Bellaire, TX; physical therapy near me (Bellaire, TX); best physical therapy Bellaire, TX; top rated physical therapy Bellaire, TX; affordable physical therapy Bellaire, TX; emergency physical therapy Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Riggins Psychological Services, PLLC | trust 16.0 | Dr. Riggins Psychological Services, PLLC is a physical therapy clinic in Bellaire, TX at 5350 Bellaire Blvd, Bellaire, TX 77401. Phone: +18325382244. Website: https://www.drrigginspllc.com/. | https://dingalinged-cpu.github.io/registry/c/dr-riggins-psychological-services-pllc-bellaire/
+1. Dr. Riggins Psychological Services, PLLC | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Dr. Riggins Psychological Services, PLLC is a physical therapy clinic in Bellaire, TX at 5350 Bellaire Blvd, Bellaire, TX 77401. Phone: +18325382244. Website: https://www.drrigginspllc.com/. | https://dingalinged-cpu.github.io/registry/c/dr-riggins-psychological-services-pllc-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy bellaire tx | category: Health & medical | industry benchmark: Physicians & Surgeons

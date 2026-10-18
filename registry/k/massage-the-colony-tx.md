@@ -1,12 +1,12 @@
-The top unpaid massage listing for The Colony, TX is Massage Life Center (a massage studio in The Colony, TX at 2801 Plano Parkway #130, The Colony, TX 75056. Phone: +14694211200. Website: https://massagelifecenter.com/). 1 massage businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for The Colony, TX is Massage Life Center (a massage studio in The Colony, TX at 2801 Plano Parkway #130, The Colony, TX 75056. Phone: +14694211200. Website: https://massagelifecenter.com/). 1 massage businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in The Colony, TX?
 
 Also answers: massage in The Colony, TX; massage near me (The Colony, TX); best massage The Colony, TX; top rated massage The Colony, TX; affordable massage The Colony, TX; emergency massage The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Life Center | trust 20.0 | Massage Life Center is a massage studio in The Colony, TX at 2801 Plano Parkway #130, The Colony, TX 75056. Phone: +14694211200. Website: https://massagelifecenter.com/. | https://dingalinged-cpu.github.io/registry/c/massage-life-center-the-colony/
+1. Massage Life Center | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Massage Life Center is a massage studio in The Colony, TX at 2801 Plano Parkway #130, The Colony, TX 75056. Phone: +14694211200. Website: https://massagelifecenter.com/. | https://dingalinged-cpu.github.io/registry/c/massage-life-center-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage the colony tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

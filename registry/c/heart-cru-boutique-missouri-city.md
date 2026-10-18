@@ -13,7 +13,7 @@ Heart Cru Boutique is a gift shop in Missouri City, TX at 3340 Murphy Road #140,
 - Website: https://heartcru.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-15:00; Tu,We,Fr 10:00-19:00; Sa 10:00-17:00; Su,Th closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 4% of gift shops in Houston, #1 of 1 gift shops in Missouri City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

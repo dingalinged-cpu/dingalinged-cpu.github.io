@@ -13,7 +13,7 @@ Singleton Law Firm, LLC is a lawyer in Atlanta, GA at 8425 Dunwoody Place, Atlan
 - Website: https://atlantainjurycounsel.com/
 - Email: don@dwsingletonlaw.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.9/100 — Good — top 3% of lawyers in Atlanta, #2 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 69.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

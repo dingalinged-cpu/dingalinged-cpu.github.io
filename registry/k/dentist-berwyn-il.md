@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Berwyn, IL is Forever Dental - Berwyn (a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/). 3 dentist businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Berwyn, IL is Forever Dental - Berwyn (a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/). 3 dentist businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Berwyn, IL?
 
 Also answers: dentist in Berwyn, IL; dentist near me (Berwyn, IL); best dentist Berwyn, IL; top rated dentist Berwyn, IL; affordable dentist Berwyn, IL; emergency dentist Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forever Dental - Berwyn | trust 20.0 | Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/. | https://dingalinged-cpu.github.io/registry/c/forever-dental-berwyn-berwyn/
-2. Diane Garrison D.D.S | trust 10.0 | Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Website: https://www.dianegarrisondds.com/. | https://dingalinged-cpu.github.io/registry/c/diane-garrison-d-d-s-berwyn/
-3. G.R. Zehak, DDS & Associates | trust 6.0 | G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235. | https://dingalinged-cpu.github.io/registry/c/g-r-zehak-dds-and-associates-berwyn/
+1. Forever Dental - Berwyn | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Forever Dental - Berwyn is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Phone: +17087889414. Website: https://dentistschicago.com/dentist/il/berwyn/2550-oak-park-ave/. | https://dingalinged-cpu.github.io/registry/c/forever-dental-berwyn-berwyn/
+2. G.R. Zehak, DDS & Associates | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | G.R. Zehak, DDS & Associates is a dentist in Berwyn, IL. Phone: +17084840235. | https://dingalinged-cpu.github.io/registry/c/g-r-zehak-dds-and-associates-berwyn/
+3. Diane Garrison D.D.S | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Diane Garrison D.D.S is a dentist in Berwyn, IL at 2550 Oak Park Avenue, Berwyn, IL 60402. Website: https://www.dianegarrisondds.com/. | https://dingalinged-cpu.github.io/registry/c/diane-garrison-d-d-s-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist berwyn il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Oak Lawn, IL is Asurion Tech Repair & Solutions (a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453). 1 phone repair businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Oak Lawn, IL is Asurion Tech Repair & Solutions (a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453). 1 phone repair businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Oak Lawn, IL?
 
 Also answers: phone repair in Oak Lawn, IL; phone repair near me (Oak Lawn, IL); best phone repair Oak Lawn, IL; top rated phone repair Oak Lawn, IL; affordable phone repair Oak Lawn, IL; emergency phone repair Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Asurion Tech Repair & Solutions | trust 8.0 | Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/
+1. Asurion Tech Repair & Solutions | Organic #1 | Pulse Score 45.7/100 (Building, #1 in city) | Asurion Tech Repair & Solutions is a phone repair shop in Oak Lawn, IL at 5126 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/asurion-tech-repair-and-solutions-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair oak lawn il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

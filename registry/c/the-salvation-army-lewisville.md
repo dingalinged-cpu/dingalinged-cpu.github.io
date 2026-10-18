@@ -13,7 +13,7 @@ The Salvation Army is a thrift store in Lewisville, TX at 602 East Round Grove R
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-22:00; Su 12:00-18:00
-- Registry Score: 45.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 79% of thrift stores in Dallas–Fort Worth, #5 of 5 thrift stores in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

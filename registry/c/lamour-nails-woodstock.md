@@ -13,7 +13,7 @@ L'Amour Nails is a nail salon in Woodstock, GA at 2990 Eagle Drive #103, Woodsto
 - Website: https://lamournailsga.com/
 - Email: duyhongnguyen1995@gmail.com
 - Opening hours (OSM syntax): Mo-Th 10:00-19:30; Fr-Sa 09:30-19:30; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 5% of nail salons in Atlanta, #2 of 12 nail salons in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

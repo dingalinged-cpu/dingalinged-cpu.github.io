@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Woodridge, IL is Income Tax (a tax preparation service in Woodridge, IL at 8280 Janes Avenue, Woodridge, IL 60517). 1 tax preparer businesses are listed for Woodridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Woodridge, IL is Income Tax (a tax preparation service in Woodridge, IL at 8280 Janes Avenue, Woodridge, IL 60517). 1 tax preparer businesses are listed for Woodridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Woodridge, IL?
 
 Also answers: tax preparer in Woodridge, IL; tax preparer near me (Woodridge, IL); best tax preparer Woodridge, IL; top rated tax preparer Woodridge, IL; affordable tax preparer Woodridge, IL; emergency tax preparer Woodridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Income Tax | trust 4.0 | Income Tax is a tax preparation service in Woodridge, IL at 8280 Janes Avenue, Woodridge, IL 60517. | https://dingalinged-cpu.github.io/registry/c/income-tax-woodridge/
+1. Income Tax | Organic #1 | Pulse Score 43.3/100 (Unrated, #1 in city) | Income Tax is a tax preparation service in Woodridge, IL at 8280 Janes Avenue, Woodridge, IL 60517. | https://dingalinged-cpu.github.io/registry/c/income-tax-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer woodridge il | category: professional_accounting | industry benchmark: Business Services

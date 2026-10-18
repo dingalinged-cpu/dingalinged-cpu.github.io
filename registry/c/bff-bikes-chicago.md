@@ -13,7 +13,7 @@ BFF Bikes is a bike shop in Chicago, IL at 2113 West Armitage Avenue, Chicago, I
 - Website: https://www.bffbikes.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 28% of bike shops in Chicago, #20 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

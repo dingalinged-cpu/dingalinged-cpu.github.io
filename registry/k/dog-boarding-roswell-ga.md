@@ -1,13 +1,13 @@
-The top unpaid dog boarding listing for Roswell, GA is Puppy Haven (a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/). 2 dog boarding businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Roswell, GA is Puppy Haven (a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/). 2 dog boarding businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Roswell, GA?
 
 Also answers: dog boarding in Roswell, GA; dog boarding near me (Roswell, GA); best dog boarding Roswell, GA; top rated dog boarding Roswell, GA; affordable dog boarding Roswell, GA; emergency dog boarding Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Puppy Haven | trust 16.0 | Puppy Haven is a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/. | https://dingalinged-cpu.github.io/registry/c/puppy-haven-alpharetta/
-2. Cage Free Doggy Boarding, Roswell Atlanta | trust 10.0 | Cage Free Doggy Boarding, Roswell Atlanta is a dog boarding facility in Roswell, GA. Website: https://snugglepupz.com/. | https://dingalinged-cpu.github.io/registry/c/cage-free-doggy-boarding-roswell-atlanta-roswell/
+1. Puppy Haven | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Puppy Haven is a dog boarding facility in Alpharetta, GA at 2854 Holcomb Bridge Road, Alpharetta, GA 30022. Phone: +14048858788. Website: https://www.puppyhavenatl.com/. | https://dingalinged-cpu.github.io/registry/c/puppy-haven-alpharetta/
+2. Cage Free Doggy Boarding, Roswell Atlanta | Organic #2 | Pulse Score 57.9/100 (Unrated, #1 in city) | Cage Free Doggy Boarding, Roswell Atlanta is a dog boarding facility in Roswell, GA. Website: https://snugglepupz.com/. | https://dingalinged-cpu.github.io/registry/c/cage-free-doggy-boarding-roswell-atlanta-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding roswell ga | category: Pets | industry benchmark: Animals & Pets

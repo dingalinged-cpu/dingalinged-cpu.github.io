@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for West Allis, WI is Inkwell Tattoo Company (a tattoo shop in West Allis, WI at 7524 West Greenfield Avenue, West Allis, WI 53214). 2 tattoo shop businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for West Allis, WI is Inkwell Tattoo Company (a tattoo shop in West Allis, WI at 7524 West Greenfield Avenue, West Allis, WI 53214). 2 tattoo shop businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in West Allis, WI?
 
 Also answers: tattoo shop in West Allis, WI; tattoo shop near me (West Allis, WI); best tattoo shop West Allis, WI; top rated tattoo shop West Allis, WI; affordable tattoo shop West Allis, WI; emergency tattoo shop West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Inkwell Tattoo Company | trust 8.0 | Inkwell Tattoo Company is a tattoo shop in West Allis, WI at 7524 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/inkwell-tattoo-company-west-allis/
-2. Rockstar Tatto & Co | trust 0.0 | Rockstar Tatto & Co is a tattoo shop in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/rockstar-tatto-and-co-west-allis/
+1. Inkwell Tattoo Company | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Inkwell Tattoo Company is a tattoo shop in West Allis, WI at 7524 West Greenfield Avenue, West Allis, WI 53214. | https://dingalinged-cpu.github.io/registry/c/inkwell-tattoo-company-west-allis/
+2. Rockstar Tatto & Co | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Rockstar Tatto & Co is a tattoo shop in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/rockstar-tatto-and-co-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop west allis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

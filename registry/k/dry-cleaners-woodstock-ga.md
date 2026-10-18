@@ -1,14 +1,14 @@
-The top unpaid dry cleaners listing for Woodstock, GA is ABC Alterations (a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098). 3 dry cleaners businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Woodstock, GA is Fabric Touch Cleaners (a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399). 3 dry cleaners businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Woodstock, GA?
 
 Also answers: dry cleaners in Woodstock, GA; dry cleaners near me (Woodstock, GA); best dry cleaners Woodstock, GA; top rated dry cleaners Woodstock, GA; affordable dry cleaners Woodstock, GA; emergency dry cleaners Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ABC Alterations | trust 13.0 | ABC Alterations is a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098. | https://dingalinged-cpu.github.io/registry/c/abc-alterations-woodstock/
-2. Fabric Touch Cleaners | trust 13.0 | Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399. | https://dingalinged-cpu.github.io/registry/c/fabric-touch-cleaners-woodstock/
-3. Q Cleaners | trust 10.0 | Q Cleaners is a dry cleaner in Woodstock, GA at 12035 GA-92, Woodstock, GA 30188. Phone: +17705165525. | https://dingalinged-cpu.github.io/registry/c/q-cleaners-woodstock/
+1. Fabric Touch Cleaners | Organic #1 | Pulse Score 63.6/100 (Good, #1 in city) | Fabric Touch Cleaners is a dry cleaner in Woodstock, GA at 2990 Eagle Drive #112, Woodstock, GA. Phone: +17709268399. | https://dingalinged-cpu.github.io/registry/c/fabric-touch-cleaners-woodstock/
+2. ABC Alterations | Organic #2 | Pulse Score 63.5/100 (Good, #2 in city) | ABC Alterations is a dry cleaner in Woodstock, GA at 1426 Towne Lake Parkway #103, Woodstock, GA. Phone: +17709281098. | https://dingalinged-cpu.github.io/registry/c/abc-alterations-woodstock/
+3. Q Cleaners | Organic #3 | Pulse Score 62.4/100 (Good, #3 in city) | Q Cleaners is a dry cleaner in Woodstock, GA at 12035 GA-92, Woodstock, GA 30188. Phone: +17705165525. | https://dingalinged-cpu.github.io/registry/c/q-cleaners-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

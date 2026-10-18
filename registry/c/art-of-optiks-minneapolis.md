@@ -13,7 +13,7 @@ Art of Optiks is an eye care practice in Minneapolis, MN at 4999 France Avenue S
 - Website: https://artofoptiks.com/edina
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 09:00-17:00
-- Registry Score: 58.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 43% of eye care practices in Minneapolis–St. Paul, #3 of 6 eye care practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 52.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

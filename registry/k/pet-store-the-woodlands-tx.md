@@ -1,16 +1,16 @@
-The top unpaid pet store listing for The Woodlands, TX is Petco (a pet store in The Woodlands, TX at 10864 Kuykendahl Road, The Woodlands, TX 77381. Phone: +12814654771. Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html). 5 pet store businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for The Woodlands, TX is Pet Fair (a pet store in The Woodlands, TX). 5 pet store businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in The Woodlands, TX?
 
 Also answers: pet store in The Woodlands, TX; pet store near me (The Woodlands, TX); best pet store The Woodlands, TX; top rated pet store The Woodlands, TX; affordable pet store The Woodlands, TX; emergency pet store The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in The Woodlands, TX at 10864 Kuykendahl Road, The Woodlands, TX 77381. Phone: +12814654771. Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html. | https://dingalinged-cpu.github.io/registry/c/petco-the-woodlands/
-2. Hollywood Feed | trust 0.0 | Hollywood Feed is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-the-woodlands/
-3. Natural Pawz | trust 0.0 | Natural Pawz is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands/
-4. Natural Pawz | trust 0.0 | Natural Pawz is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands-n13052360069/
-5. Pet Fair | trust 0.0 | Pet Fair is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pet-fair-the-woodlands/
+1. Pet Fair | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Pet Fair is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/pet-fair-the-woodlands/
+2. Petco | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Petco is a pet store in The Woodlands, TX at 10864 Kuykendahl Road, The Woodlands, TX 77381. Phone: +12814654771. Website: https://stores.petco.com/tx/thewoodlands/pet-supplies-thewoodlands-tx-1481.html. | https://dingalinged-cpu.github.io/registry/c/petco-the-woodlands/
+3. Natural Pawz | Organic #3 | Pulse Score 42.2/100 (Unrated, #3 in city) | Natural Pawz is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands/
+4. Natural Pawz | Organic #4 | Pulse Score 42.2/100 (Unrated, #4 in city) | Natural Pawz is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/natural-pawz-the-woodlands-n13052360069/
+5. Hollywood Feed | Organic #5 | Pulse Score 41.4/100 (Unrated, #5 in city) | Hollywood Feed is a pet store in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store the woodlands tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

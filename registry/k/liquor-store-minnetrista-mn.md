@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Minnetrista, MN is The Cove Wine & Spirits (a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331). 1 liquor store businesses are listed for Minnetrista, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Minnetrista, MN is The Cove Wine & Spirits (a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331). 1 liquor store businesses are listed for Minnetrista, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Minnetrista, MN?
 
 Also answers: liquor store in Minnetrista, MN; liquor store near me (Minnetrista, MN); best liquor store Minnetrista, MN; top rated liquor store Minnetrista, MN; affordable liquor store Minnetrista, MN; emergency liquor store Minnetrista, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Cove Wine & Spirits | trust 4.0 | The Cove Wine & Spirits is a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331. | https://dingalinged-cpu.github.io/registry/c/the-cove-wine-and-spirits-minnetrista/
+1. The Cove Wine & Spirits | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | The Cove Wine & Spirits is a liquor store in Minnetrista, MN at 4751 Kings Point Road, Minnetrista, MN 55331. | https://dingalinged-cpu.github.io/registry/c/the-cove-wine-and-spirits-minnetrista/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store minnetrista mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

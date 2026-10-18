@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Hazel Crest, IL is Village Auto Repair (an auto repair shop in Hazel Crest, IL at 17300 Kedzie Avenue, Hazel Crest, IL 60429). 1 mechanic businesses are listed for Hazel Crest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Hazel Crest, IL is Village Auto Repair (an auto repair shop in Hazel Crest, IL at 17300 Kedzie Avenue, Hazel Crest, IL 60429). 1 mechanic businesses are listed for Hazel Crest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Hazel Crest, IL?
 
 Also answers: mechanic in Hazel Crest, IL; mechanic near me (Hazel Crest, IL); best mechanic Hazel Crest, IL; top rated mechanic Hazel Crest, IL; affordable mechanic Hazel Crest, IL; emergency mechanic Hazel Crest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Village Auto Repair | trust 4.0 | Village Auto Repair is an auto repair shop in Hazel Crest, IL at 17300 Kedzie Avenue, Hazel Crest, IL 60429. | https://dingalinged-cpu.github.io/registry/c/village-auto-repair-hazel-crest/
+1. Village Auto Repair | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Village Auto Repair is an auto repair shop in Hazel Crest, IL at 17300 Kedzie Avenue, Hazel Crest, IL 60429. | https://dingalinged-cpu.github.io/registry/c/village-auto-repair-hazel-crest/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic hazel crest il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Trophy Club, TX is Trophy Club Executive Suites (a real estate agency in Trophy Club, TX at 99 Trophy Club Drive, Trophy Club, TX 76262). 1 real estate agent businesses are listed for Trophy Club, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Trophy Club, TX is Trophy Club Executive Suites (a real estate agency in Trophy Club, TX at 99 Trophy Club Drive, Trophy Club, TX 76262). 1 real estate agent businesses are listed for Trophy Club, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Trophy Club, TX?
 
 Also answers: real estate agent in Trophy Club, TX; real estate agent near me (Trophy Club, TX); best real estate agent Trophy Club, TX; top rated real estate agent Trophy Club, TX; affordable real estate agent Trophy Club, TX; emergency real estate agent Trophy Club, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trophy Club Executive Suites | trust 4.0 | Trophy Club Executive Suites is a real estate agency in Trophy Club, TX at 99 Trophy Club Drive, Trophy Club, TX 76262. | https://dingalinged-cpu.github.io/registry/c/trophy-club-executive-suites-trophy-club/
+1. Trophy Club Executive Suites | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | Trophy Club Executive Suites is a real estate agency in Trophy Club, TX at 99 Trophy Club Drive, Trophy Club, TX 76262. | https://dingalinged-cpu.github.io/registry/c/trophy-club-executive-suites-trophy-club/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent trophy club tx | category: Professional & financial services | industry benchmark: Finance & Insurance

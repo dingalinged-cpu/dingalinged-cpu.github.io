@@ -13,7 +13,7 @@ The Joinery is an event venue in Chicago, IL at 2533 West Homer Street, Chicago,
 - Website: https://www.thejoinerychicago.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of event venues in Chicago, #19 of 67 event venues in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 54.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

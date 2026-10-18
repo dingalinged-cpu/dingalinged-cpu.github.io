@@ -13,7 +13,7 @@ Smith Smile Orthodontics is a dentist in Cobb County, GA at 2323 Shallowford Roa
 - Website: https://www.smithsmile.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 15% of dentists in Atlanta, #6 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

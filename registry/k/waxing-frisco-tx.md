@@ -1,14 +1,14 @@
-The top unpaid waxing listing for Frisco, TX is Blush Beauty Bar (a nail salon in Frisco, TX at 12990 Eldorado Parkway #130, Frisco, TX 75035. Phone: +19729650322. Website: https://blushbeautybarfrisco.com/). 3 waxing businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Frisco, TX is Blush Beauty Bar (a nail salon in Frisco, TX at 12990 Eldorado Parkway #130, Frisco, TX 75035. Phone: +19729650322. Website: https://blushbeautybarfrisco.com/). 3 waxing businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Frisco, TX?
 
 Also answers: waxing in Frisco, TX; waxing near me (Frisco, TX); best waxing Frisco, TX; top rated waxing Frisco, TX; affordable waxing Frisco, TX; emergency waxing Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blush Beauty Bar | trust 20.0 | Blush Beauty Bar is a nail salon in Frisco, TX at 12990 Eldorado Parkway #130, Frisco, TX 75035. Phone: +19729650322. Website: https://blushbeautybarfrisco.com/. | https://dingalinged-cpu.github.io/registry/c/blush-beauty-bar-frisco/
-2. Waxonomy | trust 14.0 | Waxonomy is a waxing salon in Frisco, TX at 13030 Preston Road #400, Frisco, TX 75035. Phone: +14695368534. | https://dingalinged-cpu.github.io/registry/c/waxonomy-frisco/
-3. European Wax Center | trust 0.0 | European Wax Center is a waxing salon in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-frisco/
+1. Blush Beauty Bar | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Blush Beauty Bar is a nail salon in Frisco, TX at 12990 Eldorado Parkway #130, Frisco, TX 75035. Phone: +19729650322. Website: https://blushbeautybarfrisco.com/. | https://dingalinged-cpu.github.io/registry/c/blush-beauty-bar-frisco/
+2. Waxonomy | Organic #2 | Pulse Score 49.1/100 (Unrated, #1 in city) | Waxonomy is a waxing salon in Frisco, TX at 13030 Preston Road #400, Frisco, TX 75035. Phone: +14695368534. | https://dingalinged-cpu.github.io/registry/c/waxonomy-frisco/
+3. European Wax Center | Organic #3 | Pulse Score 40.7/100 (Building, #2 in city) | European Wax Center is a waxing salon in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/european-wax-center-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing frisco tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

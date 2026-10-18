@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Farmers Branch, TX is BFI INC (a furniture store in Farmers Branch, TX at 4431 Simonton Road, Farmers Branch, TX 75244. Phone: +19724881078. Website: https://bfiinc.com/). 3 furniture store businesses are listed for Farmers Branch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Farmers Branch, TX is BFI INC (a furniture store in Farmers Branch, TX at 4431 Simonton Road, Farmers Branch, TX 75244. Phone: +19724881078. Website: https://bfiinc.com/). 3 furniture store businesses are listed for Farmers Branch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Farmers Branch, TX?
 
 Also answers: furniture store in Farmers Branch, TX; furniture store near me (Farmers Branch, TX); best furniture store Farmers Branch, TX; top rated furniture store Farmers Branch, TX; affordable furniture store Farmers Branch, TX; emergency furniture store Farmers Branch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BFI INC | trust 20.0 | BFI INC is a furniture store in Farmers Branch, TX at 4431 Simonton Road, Farmers Branch, TX 75244. Phone: +19724881078. Website: https://bfiinc.com/. | https://dingalinged-cpu.github.io/registry/c/bfi-inc-farmers-branch/
-2. Freed's | trust 3.0 | Freed's is a furniture store in Farmers Branch, TX at 4355 LBJ Freeway, Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/freeds-farmers-branch/
-3. La-Z-Boy | trust 3.0 | La-Z-Boy is a furniture store in Farmers Branch, TX at 13327 Midway Road, Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-farmers-branch/
+1. BFI INC | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | BFI INC is a furniture store in Farmers Branch, TX at 4431 Simonton Road, Farmers Branch, TX 75244. Phone: +19724881078. Website: https://bfiinc.com/. | https://dingalinged-cpu.github.io/registry/c/bfi-inc-farmers-branch/
+2. Freed's | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | Freed's is a furniture store in Farmers Branch, TX at 4355 LBJ Freeway, Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/freeds-farmers-branch/
+3. La-Z-Boy | Organic #3 | Pulse Score 43.6/100 (Building, #3 in city) | La-Z-Boy is a furniture store in Farmers Branch, TX at 13327 Midway Road, Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/la-z-boy-farmers-branch/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store farmers branch tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

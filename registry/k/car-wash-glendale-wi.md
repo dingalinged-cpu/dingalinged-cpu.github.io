@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Glendale, WI is Jilly's Car Wash (a car wash in Glendale, WI at 5100 North Port Washington Road, Glendale, WI). 1 car wash businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Glendale, WI is Jilly's Car Wash (a car wash in Glendale, WI at 5100 North Port Washington Road, Glendale, WI). 1 car wash businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Glendale, WI?
 
 Also answers: car wash in Glendale, WI; car wash near me (Glendale, WI); best car wash Glendale, WI; top rated car wash Glendale, WI; affordable car wash Glendale, WI; emergency car wash Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jilly's Car Wash | trust 3.0 | Jilly's Car Wash is a car wash in Glendale, WI at 5100 North Port Washington Road, Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/jillys-car-wash-glendale/
+1. Jilly's Car Wash | Organic #1 | Pulse Score 43.7/100 (Unrated, #1 in city) | Jilly's Car Wash is a car wash in Glendale, WI at 5100 North Port Washington Road, Glendale, WI. | https://dingalinged-cpu.github.io/registry/c/jillys-car-wash-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash glendale wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

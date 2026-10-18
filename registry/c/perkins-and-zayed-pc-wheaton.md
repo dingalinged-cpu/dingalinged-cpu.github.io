@@ -13,7 +13,7 @@ Perkins & Zayed PC is a real estate agency in Wheaton, IL at 1745 South Napervil
 - Website: https://www.trust-lawgroup.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of real estate agencys in Chicago, #1 of 1 real estate agencys in Wheaton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 63.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

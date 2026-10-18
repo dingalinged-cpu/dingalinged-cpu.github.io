@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Sandy Springs, GA is Express Oil Change & Tire Engineers (a tire shop in Sandy Springs, GA at 5811 Roswell Road, Sandy Springs, GA 30328. Phone: +14048510040. Website: https://www.expressoil.com/stores/sandy-springs/ga/1326/). 1 tire shop businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Sandy Springs, GA is Express Oil Change & Tire Engineers (a tire shop in Sandy Springs, GA at 5811 Roswell Road, Sandy Springs, GA 30328. Phone: +14048510040. Website: https://www.expressoil.com/stores/sandy-springs/ga/1326/). 1 tire shop businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Sandy Springs, GA?
 
 Also answers: tire shop in Sandy Springs, GA; tire shop near me (Sandy Springs, GA); best tire shop Sandy Springs, GA; top rated tire shop Sandy Springs, GA; affordable tire shop Sandy Springs, GA; emergency tire shop Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Sandy Springs, GA at 5811 Roswell Road, Sandy Springs, GA 30328. Phone: +14048510040. Website: https://www.expressoil.com/stores/sandy-springs/ga/1326/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-sandy-springs/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.6/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Sandy Springs, GA at 5811 Roswell Road, Sandy Springs, GA 30328. Phone: +14048510040. Website: https://www.expressoil.com/stores/sandy-springs/ga/1326/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop sandy springs ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

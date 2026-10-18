@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Orland Park, IL is SWS Roofing (a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Park, IL 60462. Website: https://swsroofing.com/orland-park-il/). 1 roofer businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Orland Park, IL is SWS Roofing (a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Park, IL 60462. Website: https://swsroofing.com/orland-park-il/). 1 roofer businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Orland Park, IL?
 
 Also answers: roofer in Orland Park, IL; roofer near me (Orland Park, IL); best roofer Orland Park, IL; top rated roofer Orland Park, IL; affordable roofer Orland Park, IL; emergency roofer Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SWS Roofing | trust 10.0 | SWS Roofing is a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Park, IL 60462. Website: https://swsroofing.com/orland-park-il/. | https://dingalinged-cpu.github.io/registry/c/sws-roofing-orland-park/
+1. SWS Roofing | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | SWS Roofing is a roofer in Orland Park, IL at 15255 South 94th Avenue, Orland Park, IL 60462. Website: https://swsroofing.com/orland-park-il/. | https://dingalinged-cpu.github.io/registry/c/sws-roofing-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer orland park il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

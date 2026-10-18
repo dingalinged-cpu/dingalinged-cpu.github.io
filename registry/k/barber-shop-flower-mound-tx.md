@@ -1,16 +1,16 @@
-The top unpaid barber shop listing for Flower Mound, TX is Wolfin Barber Shop (a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/). 5 barber shop businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Flower Mound, TX is Wolfin Barber Shop (a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/). 5 barber shop businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Flower Mound, TX?
 
 Also answers: barber shop in Flower Mound, TX; barber shop near me (Flower Mound, TX); best barber shop Flower Mound, TX; top rated barber shop Flower Mound, TX; affordable barber shop Flower Mound, TX; emergency barber shop Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wolfin Barber Shop | trust 20.0 | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
-2. Leo's Barber Shack | trust 4.0 | Leo's Barber Shack is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/leos-barber-shack-flower-mound/
-3. Barbershop at Lakeside | trust 0.0 | Barbershop at Lakeside is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/barbershop-at-lakeside-flower-mound/
-4. Roosters Men's Grooming Center | trust 0.0 | Roosters Men's Grooming Center is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-flower-mound/
-5. Sport Clips | trust 0.0 | Sport Clips is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound/
+1. Wolfin Barber Shop | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
+2. Leo's Barber Shack | Organic #2 | Pulse Score 60.2/100 (Unrated, #2 in city) | Leo's Barber Shack is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/leos-barber-shack-flower-mound/
+3. Barbershop at Lakeside | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Barbershop at Lakeside is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/barbershop-at-lakeside-flower-mound/
+4. Sport Clips | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Sport Clips is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound/
+5. Roosters Men's Grooming Center | Organic #5 | Pulse Score 41.6/100 (Unrated, #5 in city) | Roosters Men's Grooming Center is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

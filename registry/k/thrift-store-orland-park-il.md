@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Orland Park, IL is Neat Repeats (a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/). 3 thrift store businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Orland Park, IL is Neat Repeats (a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/). 3 thrift store businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Orland Park, IL?
 
 Also answers: thrift store in Orland Park, IL; thrift store near me (Orland Park, IL); best thrift store Orland Park, IL; top rated thrift store Orland Park, IL; affordable thrift store Orland Park, IL; emergency thrift store Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Neat Repeats | trust 20.0 | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-orland-park/
-2. Savers | trust 20.0 | Savers is a thrift store in Orland Park, IL at 15625 94th Avenue, Orland Park, IL 60462. Phone: +17084603655. Website: https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html. | https://dingalinged-cpu.github.io/registry/c/savers-orland-park/
-3. Goodwill | trust 4.0 | Goodwill is a thrift store in Orland Park, IL at 7400 West 159th Street, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/goodwill-orland-park/
+1. Neat Repeats | Organic #1 | Pulse Score 63.6/100 (Unrated, #1 in city) | Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Orland Park, IL 60462. Phone: +17083647605. Website: https://crisisctr.org/neat-repeats/. | https://dingalinged-cpu.github.io/registry/c/neat-repeats-orland-park/
+2. Savers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Savers is a thrift store in Orland Park, IL at 15625 94th Avenue, Orland Park, IL 60462. Phone: +17084603655. Website: https://stores.savers.com/il/orlandpark/savers-thrift-store-1186.html. | https://dingalinged-cpu.github.io/registry/c/savers-orland-park/
+3. Goodwill | Organic #3 | Pulse Score 44.1/100 (Building, #3 in city) | Goodwill is a thrift store in Orland Park, IL at 7400 West 159th Street, Orland Park, IL 60462. | https://dingalinged-cpu.github.io/registry/c/goodwill-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store orland park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

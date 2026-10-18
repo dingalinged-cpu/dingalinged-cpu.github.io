@@ -1,60 +1,60 @@
-The top unpaid car wash listing for Harris County, TX is Blue Wave Express (a car wash in Harris County, TX at 20219 FM 529, Harris County, TX). 49 car wash businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Harris County, TX is Blue Wave Express (a car wash in Harris County, TX at 20219 FM 529, Harris County, TX). 49 car wash businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Harris County, TX?
 
 Also answers: car wash in Harris County, TX; car wash near me (Harris County, TX); best car wash Harris County, TX; top rated car wash Harris County, TX; affordable car wash Harris County, TX; emergency car wash Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Blue Wave Express | trust 7.0 | Blue Wave Express is a car wash in Harris County, TX at 20219 FM 529, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-wave-express-harris-county/
-2. 7-Eleven | trust 0.0 | 7-Eleven is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/7-eleven-harris-county/
-3. Aaron's Car Wash | trust 0.0 | Aaron's Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-car-wash-harris-county/
-4. Blue Wave | trust 0.0 | Blue Wave is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-wave-harris-county/
-5. BlueWave Express | trust 0.0 | BlueWave Express is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bluewave-express-harris-county/
-6. Brite Brothers Express Car Wash | trust 0.0 | Brite Brothers Express Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brite-brothers-express-car-wash-harris-county/
-7. Buc-ee's | trust 0.0 | Buc-ee's is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/buc-ees-harris-county/
-8. Car Wash | trust 0.0 | Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/car-wash-harris-county/
-9. Cars and Stripes | trust 0.0 | Cars and Stripes is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cars-and-stripes-harris-county/
-10. Circle K | trust 0.0 | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county/
-11. Circle K | trust 0.0 | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w1028572654/
-12. Circle K | trust 0.0 | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w707059140/
-13. Circle K | trust 0.0 | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w818009052/
-14. Clean car wash | trust 0.0 | Clean car wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clean-car-wash-harris-county/
-15. Clearwater | trust 0.0 | Clearwater is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-harris-county/
-16. ClearWater Express Wash | trust 0.0 | ClearWater Express Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-harris-county/
-17. Copperfield Car Wash | trust 0.0 | Copperfield Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-car-wash-harris-county/
-18. Fairbanks Carwash | trust 0.0 | Fairbanks Carwash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-carwash-harris-county/
-19. Gessner Carwash | trust 0.0 | Gessner Carwash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gessner-carwash-harris-county/
-20. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county/
-21. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w259087581/
-22. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w308511223/
-23. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w313913587/
-24. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w617181609/
-25. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w618074890/
-26. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w621646895/
-27. H-E-B Car Wash | trust 0.0 | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w847359767/
-28. Kingsland Car Wash | trust 0.0 | Kingsland Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kingsland-car-wash-harris-county/
-29. Kroozin | trust 0.0 | Kroozin is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kroozin-harris-county/
-30. Kwik Kar Wash | trust 0.0 | Kwik Kar Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-wash-harris-county/
-31. Mister Car Wash | trust 0.0 | Mister Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-harris-county/
-32. Mister Car Wash | trust 0.0 | Mister Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-harris-county-w856229911/
-33. My Favorite Car Wash | trust 0.0 | My Favorite Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-favorite-car-wash-harris-county/
-34. Quick Quack Car Wash | trust 0.0 | Quick Quack Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-harris-county/
-35. Rain Forest Car Wash | trust 0.0 | Rain Forest Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rain-forest-car-wash-harris-county/
-36. Resident Car Wash | trust 0.0 | Resident Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/resident-car-wash-harris-county/
-37. Scooter's Place | trust 0.0 | Scooter's Place is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/scooters-place-harris-county/
-38. Shell | trust 0.0 | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county/
-39. Shell | trust 0.0 | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w377932376/
-40. Shell | trust 0.0 | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w387049290/
-41. Shell | trust 0.0 | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w387201827/
-42. Shell | trust 0.0 | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w388111054/
-43. Sparkles Classic Hand Car Wash | trust 0.0 | Sparkles Classic Hand Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sparkles-classic-hand-car-wash-harris-county/
-44. Sparkling Image Car Wash | trust 0.0 | Sparkling Image Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sparkling-image-car-wash-harris-county/
-45. Stripes | trust 0.0 | Stripes is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/stripes-harris-county/
-46. Timewise | trust 0.0 | Timewise is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/timewise-harris-county/
-47. Wash N Run | trust 0.0 | Wash N Run is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/wash-n-run-harris-county/
-48. Whitewater Car Wash | trust 0.0 | Whitewater Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-car-wash-harris-county/
-49. Whitewater Express | trust 0.0 | Whitewater Express is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-harris-county/
+1. Blue Wave Express | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Blue Wave Express is a car wash in Harris County, TX at 20219 FM 529, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-wave-express-harris-county/
+2. Kroozin | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Kroozin is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kroozin-harris-county/
+3. Brite Brothers Express Car Wash | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Brite Brothers Express Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brite-brothers-express-car-wash-harris-county/
+4. Sparkling Image Car Wash | Organic #4 | Pulse Score 57.6/100 (Unrated, #4 in city) | Sparkling Image Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sparkling-image-car-wash-harris-county/
+5. BlueWave Express | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | BlueWave Express is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/bluewave-express-harris-county/
+6. Timewise | Organic #6 | Pulse Score 56.9/100 (Unrated, #6 in city) | Timewise is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/timewise-harris-county/
+7. Blue Wave | Organic #7 | Pulse Score 56.8/100 (Unrated, #7 in city) | Blue Wave is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/blue-wave-harris-county/
+8. Resident Car Wash | Organic #8 | Pulse Score 55.8/100 (Unrated, #8 in city) | Resident Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/resident-car-wash-harris-county/
+9. Sparkles Classic Hand Car Wash | Organic #9 | Pulse Score 55.8/100 (Unrated, #9 in city) | Sparkles Classic Hand Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/sparkles-classic-hand-car-wash-harris-county/
+10. Kingsland Car Wash | Organic #10 | Pulse Score 55.4/100 (Unrated, #10 in city) | Kingsland Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kingsland-car-wash-harris-county/
+11. My Favorite Car Wash | Organic #11 | Pulse Score 55.4/100 (Unrated, #11 in city) | My Favorite Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/my-favorite-car-wash-harris-county/
+12. Rain Forest Car Wash | Organic #12 | Pulse Score 55.4/100 (Unrated, #12 in city) | Rain Forest Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/rain-forest-car-wash-harris-county/
+13. Aaron's Car Wash | Organic #13 | Pulse Score 54.9/100 (Unrated, #13 in city) | Aaron's Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/aarons-car-wash-harris-county/
+14. Cars and Stripes | Organic #14 | Pulse Score 54.9/100 (Unrated, #14 in city) | Cars and Stripes is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/cars-and-stripes-harris-county/
+15. Clearwater | Organic #15 | Pulse Score 54.9/100 (Unrated, #15 in city) | Clearwater is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-harris-county/
+16. Copperfield Car Wash | Organic #16 | Pulse Score 54.9/100 (Unrated, #16 in city) | Copperfield Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/copperfield-car-wash-harris-county/
+17. Fairbanks Carwash | Organic #17 | Pulse Score 54.9/100 (Unrated, #17 in city) | Fairbanks Carwash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/fairbanks-carwash-harris-county/
+18. Gessner Carwash | Organic #18 | Pulse Score 54.9/100 (Unrated, #18 in city) | Gessner Carwash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/gessner-carwash-harris-county/
+19. Scooter's Place | Organic #19 | Pulse Score 54.9/100 (Unrated, #19 in city) | Scooter's Place is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/scooters-place-harris-county/
+20. Stripes | Organic #20 | Pulse Score 54.9/100 (Unrated, #20 in city) | Stripes is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/stripes-harris-county/
+21. H-E-B Car Wash | Organic #21 | Pulse Score 46/100 (Building, #21 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w847359767/
+22. 7-Eleven | Organic #22 | Pulse Score 45.9/100 (Building, #22 in city) | 7-Eleven is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/7-eleven-harris-county/
+23. H-E-B Car Wash | Organic #23 | Pulse Score 45.8/100 (Building, #23 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w259087581/
+24. Circle K | Organic #24 | Pulse Score 45.3/100 (Building, #24 in city) | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w1028572654/
+25. H-E-B Car Wash | Organic #25 | Pulse Score 45.3/100 (Building, #25 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w308511223/
+26. Mister Car Wash | Organic #26 | Pulse Score 45.2/100 (Building, #26 in city) | Mister Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-harris-county/
+27. H-E-B Car Wash | Organic #27 | Pulse Score 45.1/100 (Building, #27 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w617181609/
+28. Circle K | Organic #28 | Pulse Score 45/100 (Building, #28 in city) | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w818009052/
+29. Quick Quack Car Wash | Organic #29 | Pulse Score 44.9/100 (Building, #29 in city) | Quick Quack Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/quick-quack-car-wash-harris-county/
+30. Shell | Organic #30 | Pulse Score 44.7/100 (Building, #30 in city) | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w387201827/
+31. Buc-ee's | Organic #31 | Pulse Score 44.6/100 (Building, #31 in city) | Buc-ee's is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/buc-ees-harris-county/
+32. ClearWater Express Wash | Organic #32 | Pulse Score 44.4/100 (Building, #32 in city) | ClearWater Express Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-harris-county/
+33. H-E-B Car Wash | Organic #33 | Pulse Score 43.8/100 (Building, #33 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w618074890/
+34. Shell | Organic #34 | Pulse Score 43.5/100 (Building, #34 in city) | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county/
+35. Wash N Run | Organic #35 | Pulse Score 43.2/100 (Unrated, #35 in city) | Wash N Run is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/wash-n-run-harris-county/
+36. H-E-B Car Wash | Organic #36 | Pulse Score 43/100 (Building, #36 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w313913587/
+37. H-E-B Car Wash | Organic #37 | Pulse Score 43/100 (Building, #37 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county-w621646895/
+38. Shell | Organic #38 | Pulse Score 43/100 (Building, #38 in city) | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w377932376/
+39. Clean car wash | Organic #39 | Pulse Score 42.7/100 (Unrated, #39 in city) | Clean car wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/clean-car-wash-harris-county/
+40. Kwik Kar Wash | Organic #40 | Pulse Score 42.7/100 (Unrated, #40 in city) | Kwik Kar Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-wash-harris-county/
+41. Shell | Organic #41 | Pulse Score 42.7/100 (Unrated, #41 in city) | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w388111054/
+42. Circle K | Organic #42 | Pulse Score 42.5/100 (Building, #42 in city) | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county/
+43. Circle K | Organic #43 | Pulse Score 42.5/100 (Building, #43 in city) | Circle K is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/circle-k-harris-county-w707059140/
+44. Mister Car Wash | Organic #44 | Pulse Score 42.5/100 (Building, #44 in city) | Mister Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-harris-county-w856229911/
+45. Shell | Organic #45 | Pulse Score 42.5/100 (Building, #45 in city) | Shell is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/shell-harris-county-w387049290/
+46. Car Wash | Organic #46 | Pulse Score 42.1/100 (Unrated, #46 in city) | Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/car-wash-harris-county/
+47. H-E-B Car Wash | Organic #47 | Pulse Score 42.1/100 (Unrated, #47 in city) | H-E-B Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/h-e-b-car-wash-harris-county/
+48. Whitewater Car Wash | Organic #48 | Pulse Score 42.1/100 (Unrated, #48 in city) | Whitewater Car Wash is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-car-wash-harris-county/
+49. Whitewater Express | Organic #49 | Pulse Score 42.1/100 (Unrated, #49 in city) | Whitewater Express is a car wash in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash harris county tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

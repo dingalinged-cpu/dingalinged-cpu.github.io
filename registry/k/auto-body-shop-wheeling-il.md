@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Wheeling, IL is MAACO (an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/). 1 auto body shop businesses are listed for Wheeling, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Wheeling, IL is MAACO (an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/). 1 auto body shop businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Wheeling, IL?
 
 Also answers: auto body shop in Wheeling, IL; auto body shop near me (Wheeling, IL); best auto body shop Wheeling, IL; top rated auto body shop Wheeling, IL; affordable auto body shop Wheeling, IL; emergency auto body shop Wheeling, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MAACO | trust 10.0 | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/
+1. MAACO | Organic #1 | Pulse Score 47.4/100 (Building, #3 in city) | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop wheeling il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ FedEx Office is a printing service in Homewood, IL at 17952 Halsted Street, Home
 - Website: https://local.fedex.com/en-us/il/homewood/office-1925
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 25% of printing services in Chicago, #1 of 1 printing services in Homewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.1, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

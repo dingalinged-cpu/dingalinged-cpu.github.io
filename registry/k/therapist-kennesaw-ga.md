@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Kennesaw, GA is Roots Wellness Center (a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/). 2 therapist businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Kennesaw, GA is Roots Wellness Center (a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/). 2 therapist businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Kennesaw, GA?
 
 Also answers: therapist in Kennesaw, GA; therapist near me (Kennesaw, GA); best therapist Kennesaw, GA; top rated therapist Kennesaw, GA; affordable therapist Kennesaw, GA; emergency therapist Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Roots Wellness Center | trust 19.0 | Roots Wellness Center is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/. | https://dingalinged-cpu.github.io/registry/c/roots-wellness-center-kennesaw/
-2. Throveworks Counseling & Psychiatry | trust 19.0 | Throveworks Counseling & Psychiatry is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #903, Kennesaw, GA. Phone: +17703434919. Website: https://thriveworks.com/kennesaw-counseling/. | https://dingalinged-cpu.github.io/registry/c/throveworks-counseling-and-psychiatry-kennesaw/
+1. Roots Wellness Center | Organic #1 | Pulse Score 62/100 (Good, #1 in city) | Roots Wellness Center is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #606, Kennesaw, GA. Phone: +17704990140. Website: https://www.rootswc.com/. | https://dingalinged-cpu.github.io/registry/c/roots-wellness-center-kennesaw/
+2. Throveworks Counseling & Psychiatry | Organic #2 | Pulse Score 61.2/100 (Good, #2 in city) | Throveworks Counseling & Psychiatry is a therapy practice in Kennesaw, GA at 3745 Cherokee Street Northwest #903, Kennesaw, GA. Phone: +17703434919. Website: https://thriveworks.com/kennesaw-counseling/. | https://dingalinged-cpu.github.io/registry/c/throveworks-counseling-and-psychiatry-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist kennesaw ga | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

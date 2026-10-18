@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Mount Prospect, IL is Shell (a car wash in Mount Prospect, IL at 1200 North Des Plaines River Road, Mount Prospect, IL 60056). 3 car wash businesses are listed for Mount Prospect, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Mount Prospect, IL is America's Best Car Wash (a car wash in Mount Prospect, IL). 3 car wash businesses are listed for Mount Prospect, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Mount Prospect, IL?
 
 Also answers: car wash in Mount Prospect, IL; car wash near me (Mount Prospect, IL); best car wash Mount Prospect, IL; top rated car wash Mount Prospect, IL; affordable car wash Mount Prospect, IL; emergency car wash Mount Prospect, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shell | trust 4.0 | Shell is a car wash in Mount Prospect, IL at 1200 North Des Plaines River Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/shell-mount-prospect/
-2. America's Best Car Wash | trust 0.0 | America's Best Car Wash is a car wash in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/americas-best-car-wash-mount-prospect/
-3. America's Best Carwash | trust 0.0 | America's Best Carwash is a car wash in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/americas-best-carwash-mount-prospect/
+1. America's Best Car Wash | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | America's Best Car Wash is a car wash in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/americas-best-car-wash-mount-prospect/
+2. America's Best Carwash | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | America's Best Carwash is a car wash in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/americas-best-carwash-mount-prospect/
+3. Shell | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Shell is a car wash in Mount Prospect, IL at 1200 North Des Plaines River Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/shell-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash mount prospect il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

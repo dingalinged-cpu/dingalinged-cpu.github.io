@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Tinley Park, IL is Harmony Square (an event venue in Tinley Park, IL at 6700 North Street, Tinley Park, IL 60477. Website: https://www.harmonysquare.org/). 1 event venues businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Tinley Park, IL is Harmony Square (an event venue in Tinley Park, IL at 6700 North Street, Tinley Park, IL 60477. Website: https://www.harmonysquare.org/). 1 event venues businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Tinley Park, IL?
 
 Also answers: event venues in Tinley Park, IL; event venues near me (Tinley Park, IL); best event venues Tinley Park, IL; top rated event venues Tinley Park, IL; affordable event venues Tinley Park, IL; emergency event venues Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harmony Square | trust 10.0 | Harmony Square is an event venue in Tinley Park, IL at 6700 North Street, Tinley Park, IL 60477. Website: https://www.harmonysquare.org/. | https://dingalinged-cpu.github.io/registry/c/harmony-square-tinley-park/
+1. Harmony Square | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Harmony Square is an event venue in Tinley Park, IL at 6700 North Street, Tinley Park, IL 60477. Website: https://www.harmonysquare.org/. | https://dingalinged-cpu.github.io/registry/c/harmony-square-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues tinley park il | category: Events & weddings | industry benchmark: Personal Services

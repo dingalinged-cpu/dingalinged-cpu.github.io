@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Oak Brook, IL is Binny's Beverage Depot (a liquor store in Oak Brook, IL at 1500 16th Street, Oak Brook, IL 60523. Phone: +16308611810. Website: https://www.binnys.com/store-locator/oak-brook/). 2 liquor store businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Oak Brook, IL is The Wine Cellar Outlet (a liquor store in Oak Brook, IL). 2 liquor store businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Oak Brook, IL?
 
 Also answers: liquor store in Oak Brook, IL; liquor store near me (Oak Brook, IL); best liquor store Oak Brook, IL; top rated liquor store Oak Brook, IL; affordable liquor store Oak Brook, IL; emergency liquor store Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Binny's Beverage Depot | trust 20.0 | Binny's Beverage Depot is a liquor store in Oak Brook, IL at 1500 16th Street, Oak Brook, IL 60523. Phone: +16308611810. Website: https://www.binnys.com/store-locator/oak-brook/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-oak-brook/
-2. The Wine Cellar Outlet | trust 0.0 | The Wine Cellar Outlet is a liquor store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/the-wine-cellar-outlet-oak-brook/
+1. The Wine Cellar Outlet | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | The Wine Cellar Outlet is a liquor store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/the-wine-cellar-outlet-oak-brook/
+2. Binny's Beverage Depot | Organic #2 | Pulse Score 50.5/100 (Fair, #2 in city) | Binny's Beverage Depot is a liquor store in Oak Brook, IL at 1500 16th Street, Oak Brook, IL 60523. Phone: +16308611810. Website: https://www.binnys.com/store-locator/oak-brook/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store oak brook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

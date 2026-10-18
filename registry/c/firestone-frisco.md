@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Frisco, TX at 1351 US 380, Frisco, TX. Phone
 - Website: https://firestonecompleteautocare.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 65% of auto repair shops in Dallas–Fort Worth, #13 of 24 auto repair shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

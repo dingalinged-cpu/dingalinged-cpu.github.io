@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Oak Creek, WI is E & R Heating and Cooling (a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/). 2 heating and air businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Oak Creek, WI is E & R Heating and Cooling (a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/). 2 heating and air businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Oak Creek, WI?
 
 Also answers: heating and air in Oak Creek, WI; heating and air near me (Oak Creek, WI); best heating and air Oak Creek, WI; top rated heating and air Oak Creek, WI; affordable heating and air Oak Creek, WI; emergency heating and air Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. E & R Heating and Cooling | trust 20.0 | E & R Heating and Cooling is a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/. | https://dingalinged-cpu.github.io/registry/c/e-and-r-heating-and-cooling-oak-creek/
-2. Stramowski Heating Inc | trust 20.0 | Stramowski Heating Inc is a HVAC contractor in Oak Creek, WI at 6508 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147626457. Website: https://www.stramowski.com/. | https://dingalinged-cpu.github.io/registry/c/stramowski-heating-inc-oak-creek/
+1. E & R Heating and Cooling | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | E & R Heating and Cooling is a HVAC contractor in Oak Creek, WI at 8561 South Ventana Drive, Oak Creek, WI 53154. Phone: +14142025001. Website: https://www.eandrheatingandcooling.com/. | https://dingalinged-cpu.github.io/registry/c/e-and-r-heating-and-cooling-oak-creek/
+2. Stramowski Heating Inc | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Stramowski Heating Inc is a HVAC contractor in Oak Creek, WI at 6508 South Howell Avenue, Oak Creek, WI 53154. Phone: +14147626457. Website: https://www.stramowski.com/. | https://dingalinged-cpu.github.io/registry/c/stramowski-heating-inc-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air oak creek wi | category: Home Services | industry benchmark: Home & Home Improvement

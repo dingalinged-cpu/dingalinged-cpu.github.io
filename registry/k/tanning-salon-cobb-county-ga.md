@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Cobb County, GA is Palm Beach Tan (a tanning salon in Cobb County, GA at 600 Chastain Road #412, Cobb County, GA. Phone: +16783313151. Website: https://palmbeachtan.com/locations/GA/Kennesaw-Chastain-Road-North-West). 1 tanning salon businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Cobb County, GA is Palm Beach Tan (a tanning salon in Cobb County, GA at 600 Chastain Road #412, Cobb County, GA. Phone: +16783313151. Website: https://palmbeachtan.com/locations/GA/Kennesaw-Chastain-Road-North-West). 1 tanning salon businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Cobb County, GA?
 
 Also answers: tanning salon in Cobb County, GA; tanning salon near me (Cobb County, GA); best tanning salon Cobb County, GA; top rated tanning salon Cobb County, GA; affordable tanning salon Cobb County, GA; emergency tanning salon Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | trust 19.0 | Palm Beach Tan is a tanning salon in Cobb County, GA at 600 Chastain Road #412, Cobb County, GA. Phone: +16783313151. Website: https://palmbeachtan.com/locations/GA/Kennesaw-Chastain-Road-North-West. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-cobb-county/
+1. Palm Beach Tan | Organic #1 | Pulse Score 50.7/100 (Fair, #1 in city) | Palm Beach Tan is a tanning salon in Cobb County, GA at 600 Chastain Road #412, Cobb County, GA. Phone: +16783313151. Website: https://palmbeachtan.com/locations/GA/Kennesaw-Chastain-Road-North-West. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon cobb county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

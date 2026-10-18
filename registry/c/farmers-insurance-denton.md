@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Denton, TX at 1710 Westminster Street
 - Website: https://www.farmersagent.com/jfondon
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30
-- Registry Score: 51.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 46% of insurance agents in Dallas–Fort Worth, #4 of 12 insurance agents in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

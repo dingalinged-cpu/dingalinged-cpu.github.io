@@ -1,13 +1,13 @@
-The top unpaid gym listing for Waxahachie, TX is Gold's Gym (a gym in Waxahachie, TX at 507 North US Highway 77 #700, Waxahachie, TX 75165. Phone: +14692994846. Website: https://www.goldsgym.com/waxahachie/). 2 gym businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Waxahachie, TX is The Lord's Gym (a gym in Waxahachie, TX at 1312 West Main Street, Waxahachie, TX 75165). 2 gym businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Waxahachie, TX?
 
 Also answers: gym in Waxahachie, TX; gym near me (Waxahachie, TX); best gym Waxahachie, TX; top rated gym Waxahachie, TX; affordable gym Waxahachie, TX; emergency gym Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gold's Gym | trust 20.0 | Gold's Gym is a gym in Waxahachie, TX at 507 North US Highway 77 #700, Waxahachie, TX 75165. Phone: +14692994846. Website: https://www.goldsgym.com/waxahachie/. | https://dingalinged-cpu.github.io/registry/c/golds-gym-waxahachie/
-2. The Lord's Gym | trust 4.0 | The Lord's Gym is a gym in Waxahachie, TX at 1312 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-lords-gym-waxahachie/
+1. The Lord's Gym | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | The Lord's Gym is a gym in Waxahachie, TX at 1312 West Main Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/the-lords-gym-waxahachie/
+2. Gold's Gym | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Gold's Gym is a gym in Waxahachie, TX at 507 North US Highway 77 #700, Waxahachie, TX 75165. Phone: +14692994846. Website: https://www.goldsgym.com/waxahachie/. | https://dingalinged-cpu.github.io/registry/c/golds-gym-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym waxahachie tx | category: Fitness | industry benchmark: Health & Fitness

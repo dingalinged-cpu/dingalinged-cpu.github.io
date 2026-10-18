@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Addison, TX is Spec's (a liquor store in Addison, TX at 15055 Inwood Road, Addison, TX 75001. Phone: +19722395891. Website: https://specsonline.com/). 4 liquor store businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Addison, TX is American Spirits (a liquor store in Addison, TX at 14821 Inwood Road, Addison, TX 75001). 4 liquor store businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Addison, TX?
 
 Also answers: liquor store in Addison, TX; liquor store near me (Addison, TX); best liquor store Addison, TX; top rated liquor store Addison, TX; affordable liquor store Addison, TX; emergency liquor store Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's | trust 20.0 | Spec's is a liquor store in Addison, TX at 15055 Inwood Road, Addison, TX 75001. Phone: +19722395891. Website: https://specsonline.com/. | https://dingalinged-cpu.github.io/registry/c/specs-addison/
-2. Goody Goody Liquor | trust 10.0 | Goody Goody Liquor is a liquor store in Addison, TX at 14851 Inwood Road, Addison, TX 75001. Website: https://www.goodygoody.com/. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-addison/
-3. American Spirits | trust 4.0 | American Spirits is a liquor store in Addison, TX at 14821 Inwood Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/american-spirits-addison/
-4. Buckhorn's Discount Liquors | trust 4.0 | Buckhorn's Discount Liquors is a liquor store in Addison, TX at 14825 Inwood Road #200, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/buckhorns-discount-liquors-addison/
+1. American Spirits | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | American Spirits is a liquor store in Addison, TX at 14821 Inwood Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/american-spirits-addison/
+2. Buckhorn's Discount Liquors | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Buckhorn's Discount Liquors is a liquor store in Addison, TX at 14825 Inwood Road #200, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/buckhorns-discount-liquors-addison/
+3. Spec's | Organic #3 | Pulse Score 52/100 (Fair, #3 in city) | Spec's is a liquor store in Addison, TX at 15055 Inwood Road, Addison, TX 75001. Phone: +19722395891. Website: https://specsonline.com/. | https://dingalinged-cpu.github.io/registry/c/specs-addison/
+4. Goody Goody Liquor | Organic #4 | Pulse Score 47.9/100 (Unrated, #4 in city) | Goody Goody Liquor is a liquor store in Addison, TX at 14851 Inwood Road, Addison, TX 75001. Website: https://www.goodygoody.com/. | https://dingalinged-cpu.github.io/registry/c/goody-goody-liquor-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store addison tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

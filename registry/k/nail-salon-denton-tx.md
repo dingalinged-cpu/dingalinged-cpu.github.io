@@ -1,23 +1,23 @@
-The top unpaid nail salon listing for Denton, TX is Fama (a spa in Denton, TX. Phone: +19406129127). 12 nail salon businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Denton, TX is Grand Nail Spa (a nail salon in Denton, TX at 2200 West University Drive #Suite 180, Denton, TX 76207. Phone: +19405141808). 12 nail salon businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Denton, TX?
 
 Also answers: nail salon in Denton, TX; nail salon near me (Denton, TX); best nail salon Denton, TX; top rated nail salon Denton, TX; affordable nail salon Denton, TX; emergency nail salon Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fama | trust 10.0 | Fama is a spa in Denton, TX. Phone: +19406129127. | https://dingalinged-cpu.github.io/registry/c/fama-denton/
-2. Grand Nail Spa | trust 10.0 | Grand Nail Spa is a nail salon in Denton, TX at 2200 West University Drive #Suite 180, Denton, TX 76207. Phone: +19405141808. | https://dingalinged-cpu.github.io/registry/c/grand-nail-spa-denton/
-3. Bella Nail Bar | trust 4.0 | Bella Nail Bar is a nail salon in Denton, TX at 2900 Windriver Lane #Suite #134, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/bella-nail-bar-denton/
-4. Deluxe Nails & Spa | trust 4.0 | Deluxe Nails & Spa is a nail salon in Denton, TX at 2700 West University Drive #Suite 1070, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/deluxe-nails-and-spa-denton/
-5. Envy Nail Spa | trust 4.0 | Envy Nail Spa is a nail salon in Denton, TX at 5017 Teasley Lane #Suite 141, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/envy-nail-spa-denton/
-6. Legacy Nail & Spa | trust 4.0 | Legacy Nail & Spa is a nail salon in Denton, TX at 4920 Teasley Lane #Suite 168, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/legacy-nail-and-spa-denton/
-7. Luxe Nail Salon | trust 4.0 | Luxe Nail Salon is a nail salon in Denton, TX at 2735 West University Drive #Suite 1085, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/luxe-nail-salon-denton/
-8. Luxor Nails & Spa | trust 4.0 | Luxor Nails & Spa is a nail salon in Denton, TX at 5050 Teasley Lane #Suite 108, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/luxor-nails-and-spa-denton/
-9. Luxury Nail Bar | trust 4.0 | Luxury Nail Bar is a nail salon in Denton, TX at 2219 South Loop 288 #Suite 108, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/luxury-nail-bar-denton/
-10. MC Nails | trust 4.0 | MC Nails is a nail salon in Denton, TX at 620 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/mc-nails-denton/
-11. Pro Nails | trust 4.0 | Pro Nails is a nail salon in Denton, TX at 231 West University Drive #107, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/pro-nails-denton/
-12. Serenity Nails & Spa | trust 4.0 | Serenity Nails & Spa is a nail salon in Denton, TX at 2530 West University Drive #Suite 1120, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/serenity-nails-and-spa-denton/
+1. Grand Nail Spa | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Grand Nail Spa is a nail salon in Denton, TX at 2200 West University Drive #Suite 180, Denton, TX 76207. Phone: +19405141808. | https://dingalinged-cpu.github.io/registry/c/grand-nail-spa-denton/
+2. Fama | Organic #2 | Pulse Score 59.4/100 (Fair, #1 in city) | Fama is a spa in Denton, TX. Phone: +19406129127. | https://dingalinged-cpu.github.io/registry/c/fama-denton/
+3. Luxury Nail Bar | Organic #3 | Pulse Score 58.2/100 (Unrated, #2 in city) | Luxury Nail Bar is a nail salon in Denton, TX at 2219 South Loop 288 #Suite 108, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/luxury-nail-bar-denton/
+4. Bella Nail Bar | Organic #4 | Pulse Score 57.2/100 (Unrated, #3 in city) | Bella Nail Bar is a nail salon in Denton, TX at 2900 Windriver Lane #Suite #134, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/bella-nail-bar-denton/
+5. Deluxe Nails & Spa | Organic #5 | Pulse Score 57.2/100 (Unrated, #4 in city) | Deluxe Nails & Spa is a nail salon in Denton, TX at 2700 West University Drive #Suite 1070, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/deluxe-nails-and-spa-denton/
+6. Envy Nail Spa | Organic #6 | Pulse Score 57.2/100 (Unrated, #5 in city) | Envy Nail Spa is a nail salon in Denton, TX at 5017 Teasley Lane #Suite 141, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/envy-nail-spa-denton/
+7. Legacy Nail & Spa | Organic #7 | Pulse Score 57.2/100 (Unrated, #6 in city) | Legacy Nail & Spa is a nail salon in Denton, TX at 4920 Teasley Lane #Suite 168, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/legacy-nail-and-spa-denton/
+8. Luxe Nail Salon | Organic #8 | Pulse Score 57.2/100 (Unrated, #7 in city) | Luxe Nail Salon is a nail salon in Denton, TX at 2735 West University Drive #Suite 1085, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/luxe-nail-salon-denton/
+9. Luxor Nails & Spa | Organic #9 | Pulse Score 57.2/100 (Unrated, #8 in city) | Luxor Nails & Spa is a nail salon in Denton, TX at 5050 Teasley Lane #Suite 108, Denton, TX 76210. | https://dingalinged-cpu.github.io/registry/c/luxor-nails-and-spa-denton/
+10. MC Nails | Organic #10 | Pulse Score 57.2/100 (Unrated, #9 in city) | MC Nails is a nail salon in Denton, TX at 620 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/mc-nails-denton/
+11. Serenity Nails & Spa | Organic #11 | Pulse Score 57.2/100 (Unrated, #10 in city) | Serenity Nails & Spa is a nail salon in Denton, TX at 2530 West University Drive #Suite 1120, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/serenity-nails-and-spa-denton/
+12. Pro Nails | Organic #12 | Pulse Score 44.4/100 (Unrated, #11 in city) | Pro Nails is a nail salon in Denton, TX at 231 West University Drive #107, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/pro-nails-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon denton tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

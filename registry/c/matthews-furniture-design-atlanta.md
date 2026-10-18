@@ -13,7 +13,7 @@ Matthews Furniture + Design is a furniture store in Atlanta, GA at 1240 West Pac
 - Website: https://www.mathewsfurniture.com/
 - Email: info@mathewsfurniture.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Good — top 7% of furniture stores in Atlanta, #2 of 27 furniture stores in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

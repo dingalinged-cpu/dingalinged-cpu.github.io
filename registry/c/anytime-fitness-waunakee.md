@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Waunakee, WI at 604 East Main Street, Waunakee, WI 5
 - Website: https://www.anytimefitness.com/gyms/691/waunakee-wi-53597/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.8/100 — Fair — top 58% of gyms in Madison, #2 of 2 gyms in Waunakee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.6, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Union Grove, WI is Angel Junction (a thrift store in Union Grove, WI). 3 thrift store businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Union Grove, WI is Angel Junction (a thrift store in Union Grove, WI). 3 thrift store businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Union Grove, WI?
 
 Also answers: thrift store in Union Grove, WI; thrift store near me (Union Grove, WI); best thrift store Union Grove, WI; top rated thrift store Union Grove, WI; affordable thrift store Union Grove, WI; emergency thrift store Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Angel Junction | trust 0.0 | Angel Junction is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/angel-junction-union-grove/
-2. Finders Keepers Resale LLC | trust 0.0 | Finders Keepers Resale LLC is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/finders-keepers-resale-llc-union-grove/
-3. Ground Zero Thrift Store | trust 0.0 | Ground Zero Thrift Store is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/ground-zero-thrift-store-union-grove/
+1. Angel Junction | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Angel Junction is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/angel-junction-union-grove/
+2. Finders Keepers Resale LLC | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Finders Keepers Resale LLC is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/finders-keepers-resale-llc-union-grove/
+3. Ground Zero Thrift Store | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Ground Zero Thrift Store is a thrift store in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/ground-zero-thrift-store-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store union grove wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

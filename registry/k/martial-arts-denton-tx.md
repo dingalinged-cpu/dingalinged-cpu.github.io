@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Denton, TX is Reding Martial Arts (a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/). 3 martial arts businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Denton, TX is Reding Martial Arts (a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/). 3 martial arts businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Denton, TX?
 
 Also answers: martial arts in Denton, TX; martial arts near me (Denton, TX); best martial arts Denton, TX; top rated martial arts Denton, TX; affordable martial arts Denton, TX; emergency martial arts Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reding Martial Arts | trust 16.0 | Reding Martial Arts is a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/. | https://dingalinged-cpu.github.io/registry/c/reding-martial-arts-denton/
-2. Total Fitness Kickboxing | trust 16.0 | Total Fitness Kickboxing is a martial arts school in Denton, TX at 1800 Brinker Road #Suite 260, Denton, TX 76208. Phone: +19402304398. Website: https://tfkfitness.com/denton. | https://dingalinged-cpu.github.io/registry/c/total-fitness-kickboxing-denton/
-3. Tae Kwon Do | trust 10.0 | Tae Kwon Do is a martial arts school in Denton, TX at 2324 San Jacinto Boulevard #Suite 217, Denton, TX 76205. Phone: +19407997326. | https://dingalinged-cpu.github.io/registry/c/tae-kwon-do-denton/
+1. Reding Martial Arts | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Reding Martial Arts is a martial arts school in Denton, TX at 407 Fort Worth Drive, Denton, TX 76201. Phone: +19408916000. Website: https://www.redingmartialarts.com/. | https://dingalinged-cpu.github.io/registry/c/reding-martial-arts-denton/
+2. Total Fitness Kickboxing | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Total Fitness Kickboxing is a martial arts school in Denton, TX at 1800 Brinker Road #Suite 260, Denton, TX 76208. Phone: +19402304398. Website: https://tfkfitness.com/denton. | https://dingalinged-cpu.github.io/registry/c/total-fitness-kickboxing-denton/
+3. Tae Kwon Do | Organic #3 | Pulse Score 47.3/100 (Unrated, #3 in city) | Tae Kwon Do is a martial arts school in Denton, TX at 2324 San Jacinto Boulevard #Suite 217, Denton, TX 76205. Phone: +19407997326. | https://dingalinged-cpu.github.io/registry/c/tae-kwon-do-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts denton tx | category: Fitness | industry benchmark: Health & Fitness

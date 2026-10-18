@@ -13,7 +13,7 @@ Elate Royal Oaks is an assisted living facility in Houston, TX at 11805 Meadowgl
 - Website: https://www.greystar.com/elate-royal-oaks-houston-tx/p_22639
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.7/100 — Building — top 98% of assisted living facilitys in Houston, #32 of 33 assisted living facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

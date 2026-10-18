@@ -13,7 +13,7 @@ Richlonn's Tire & Service Center is an auto repair shop in Greenfield, WI at 513
 - Website: https://www.richlonns.com/Find-Us/Mode/3/4440-S-108th-St-Greenfield-WI-53228/details
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-17:00; Sa,Su off
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 10% of auto repair shops in Milwaukee, #1 of 5 auto repair shops in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

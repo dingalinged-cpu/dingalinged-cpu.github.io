@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Prosper, TX is Rockstar Martial Arts (a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX). 2 martial arts businesses are listed for Prosper, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Prosper, TX is Rockstar Martial Arts (a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX). 2 martial arts businesses are listed for Prosper, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Prosper, TX?
 
 Also answers: martial arts in Prosper, TX; martial arts near me (Prosper, TX); best martial arts Prosper, TX; top rated martial arts Prosper, TX; affordable martial arts Prosper, TX; emergency martial arts Prosper, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rockstar Martial Arts | trust 3.0 | Rockstar Martial Arts is a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper-n13307483378/
-2. RockStar Martial Arts | trust 0.0 | RockStar Martial Arts is a martial arts school in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper/
+1. Rockstar Martial Arts | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Rockstar Martial Arts is a martial arts school in Prosper, TX at 4740 West University Drive #70, Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper-n13307483378/
+2. RockStar Martial Arts | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | RockStar Martial Arts is a martial arts school in Prosper, TX. | https://dingalinged-cpu.github.io/registry/c/rockstar-martial-arts-prosper/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts prosper tx | category: Fitness | industry benchmark: Health & Fitness

@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Stafford, TX is Call Works Media (a marketing agency in Stafford, TX at 13003 Southwest Freeway #155, Stafford, TX 77477. Phone: +18337817327. Website: https://www.callworksmedia.com/). 1 marketing agency businesses are listed for Stafford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Stafford, TX is Call Works Media (a marketing agency in Stafford, TX at 13003 Southwest Freeway #155, Stafford, TX 77477. Phone: +18337817327. Website: https://www.callworksmedia.com/). 1 marketing agency businesses are listed for Stafford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Stafford, TX?
 
 Also answers: marketing agency in Stafford, TX; marketing agency near me (Stafford, TX); best marketing agency Stafford, TX; top rated marketing agency Stafford, TX; affordable marketing agency Stafford, TX; emergency marketing agency Stafford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Call Works Media | trust 20.0 | Call Works Media is a marketing agency in Stafford, TX at 13003 Southwest Freeway #155, Stafford, TX 77477. Phone: +18337817327. Website: https://www.callworksmedia.com/. | https://dingalinged-cpu.github.io/registry/c/call-works-media-stafford/
+1. Call Works Media | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Call Works Media is a marketing agency in Stafford, TX at 13003 Southwest Freeway #155, Stafford, TX 77477. Phone: +18337817327. Website: https://www.callworksmedia.com/. | https://dingalinged-cpu.github.io/registry/c/call-works-media-stafford/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency stafford tx | category: Professional & financial services | industry benchmark: Finance & Insurance

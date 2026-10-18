@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Bolingbrook, IL at 875 Boughton Road, B
 - Website: https://stores.ashleyfurniture.com/store/us/illinois/bolingbrook/7710000140/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 52% of furniture stores in Chicago, #1 of 4 furniture stores in Bolingbrook (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

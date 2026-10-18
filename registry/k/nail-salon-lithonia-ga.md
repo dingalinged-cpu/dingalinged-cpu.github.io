@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Lithonia, GA is ONE13 Luxury Nail Salon (a nail salon in Lithonia, GA at 2620 Max Cleland Boulevard #B, Lithonia, GA 30058. Phone: +18484589879. Website: https://www.one13luxurynails.com/). 1 nail salon businesses are listed for Lithonia, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Lithonia, GA is ONE13 Luxury Nail Salon (a nail salon in Lithonia, GA at 2620 Max Cleland Boulevard #B, Lithonia, GA 30058. Phone: +18484589879. Website: https://www.one13luxurynails.com/). 1 nail salon businesses are listed for Lithonia, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Lithonia, GA?
 
 Also answers: nail salon in Lithonia, GA; nail salon near me (Lithonia, GA); best nail salon Lithonia, GA; top rated nail salon Lithonia, GA; affordable nail salon Lithonia, GA; emergency nail salon Lithonia, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ONE13 Luxury Nail Salon | trust 20.0 | ONE13 Luxury Nail Salon is a nail salon in Lithonia, GA at 2620 Max Cleland Boulevard #B, Lithonia, GA 30058. Phone: +18484589879. Website: https://www.one13luxurynails.com/. | https://dingalinged-cpu.github.io/registry/c/one13-luxury-nail-salon-lithonia/
+1. ONE13 Luxury Nail Salon | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | ONE13 Luxury Nail Salon is a nail salon in Lithonia, GA at 2620 Max Cleland Boulevard #B, Lithonia, GA 30058. Phone: +18484589879. Website: https://www.one13luxurynails.com/. | https://dingalinged-cpu.github.io/registry/c/one13-luxury-nail-salon-lithonia/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lithonia ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

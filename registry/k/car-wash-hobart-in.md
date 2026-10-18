@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Hobart, IN is BP (a car wash in Merrillville, IN at 1600 East 81st Avenue, Merrillville, IN 46410. Website: https://map.bp.com/en-US/US/gas-station/merrillville/bp/99164808596004641000100000000000). 3 car wash businesses are listed for Hobart, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Hobart, IN is BP (a car wash in Merrillville, IN at 1600 East 81st Avenue, Merrillville, IN 46410. Website: https://map.bp.com/en-US/US/gas-station/merrillville/bp/99164808596004641000100000000000). 3 car wash businesses are listed for Hobart, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Hobart, IN?
 
 Also answers: car wash in Hobart, IN; car wash near me (Hobart, IN); best car wash Hobart, IN; top rated car wash Hobart, IN; affordable car wash Hobart, IN; emergency car wash Hobart, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BP | trust 10.0 | BP is a car wash in Merrillville, IN at 1600 East 81st Avenue, Merrillville, IN 46410. Website: https://map.bp.com/en-US/US/gas-station/merrillville/bp/99164808596004641000100000000000. | https://dingalinged-cpu.github.io/registry/c/bp-merrillville/
-2. Speedy Wash | trust 4.0 | Speedy Wash is a car wash in Hobart, IN at 4732 East 61st Avenue, Hobart, IN 46342. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-hobart/
-3. Speedy Wash | trust 4.0 | Speedy Wash is a car wash in Merrillville, IN at 3200 East 81st Avenue, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-merrillville/
+1. BP | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | BP is a car wash in Merrillville, IN at 1600 East 81st Avenue, Merrillville, IN 46410. Website: https://map.bp.com/en-US/US/gas-station/merrillville/bp/99164808596004641000100000000000. | https://dingalinged-cpu.github.io/registry/c/bp-merrillville/
+2. Speedy Wash | Organic #2 | Pulse Score 45.9/100 (Building, #1 in city) | Speedy Wash is a car wash in Hobart, IN at 4732 East 61st Avenue, Hobart, IN 46342. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-hobart/
+3. Speedy Wash | Organic #3 | Pulse Score 45.9/100 (Building, #2 in city) | Speedy Wash is a car wash in Merrillville, IN at 3200 East 81st Avenue, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash hobart in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Addison, IL is CubeSmart (a self-storage facility in Addison, IL at 21W209 Lake Street, Addison, IL). 2 storage units businesses are listed for Addison, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Addison, IL is CubeSmart (a self-storage facility in Addison, IL at 21W209 Lake Street, Addison, IL). 2 storage units businesses are listed for Addison, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Addison, IL?
 
 Also answers: storage units in Addison, IL; storage units near me (Addison, IL); best storage units Addison, IL; top rated storage units Addison, IL; affordable storage units Addison, IL; emergency storage units Addison, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CubeSmart | trust 3.0 | CubeSmart is a self-storage facility in Addison, IL at 21W209 Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-addison/
-2. StorageMart | trust 3.0 | StorageMart is a self-storage facility in Addison, IL at 1951 Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/storagemart-addison/
+1. CubeSmart | Organic #1 | Pulse Score 41.7/100 (Building, #1 in city) | CubeSmart is a self-storage facility in Addison, IL at 21W209 Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/cubesmart-addison/
+2. StorageMart | Organic #2 | Pulse Score 41.7/100 (Building, #2 in city) | StorageMart is a self-storage facility in Addison, IL at 1951 Lake Street, Addison, IL. | https://dingalinged-cpu.github.io/registry/c/storagemart-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units addison il | category: Home services - Moving | industry benchmark: Home & Home Improvement

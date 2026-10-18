@@ -1,13 +1,13 @@
-The top unpaid daycare listing for Murphy, TX is Kiddie Academy Educational Childcare (a daycare in Murphy, TX at 605 E FM 544, Murphy, TX 75094. Phone: +14698251200). 2 daycare businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Murphy, TX is Kiddie Academy Educational Childcare (a daycare in Murphy, TX at 605 E FM 544, Murphy, TX 75094. Phone: +14698251200). 2 daycare businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Murphy, TX?
 
 Also answers: daycare in Murphy, TX; daycare near me (Murphy, TX); best daycare Murphy, TX; top rated daycare Murphy, TX; affordable daycare Murphy, TX; emergency daycare Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddie Academy Educational Childcare | trust 10.0 | Kiddie Academy Educational Childcare is a daycare in Murphy, TX at 605 E FM 544, Murphy, TX 75094. Phone: +14698251200. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-educational-childcare-murphy/
-2. Fort Montessori Academy | trust 0.0 | Fort Montessori Academy is a daycare in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/fort-montessori-academy-murphy/
+1. Kiddie Academy Educational Childcare | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Kiddie Academy Educational Childcare is a daycare in Murphy, TX at 605 E FM 544, Murphy, TX 75094. Phone: +14698251200. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-educational-childcare-murphy/
+2. Fort Montessori Academy | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Fort Montessori Academy is a daycare in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/fort-montessori-academy-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare murphy tx | category: Education & childcare | industry benchmark: Education & Instruction

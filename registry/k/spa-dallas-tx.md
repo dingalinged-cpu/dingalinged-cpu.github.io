@@ -1,17 +1,17 @@
-The top unpaid spa listing for Dallas, TX is Hiatus Day Spa • Med Spa (a spa in Dallas, TX at 9820 North Central Expressway #507, Dallas, TX. Phone: +12143611200. Website: https://www.hiatusspa.com/location/dallas-the-hill). 6 spa businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Dallas, TX is Hiatus Day Spa • Med Spa (a spa in Dallas, TX at 9820 North Central Expressway #507, Dallas, TX. Phone: +12143611200. Website: https://www.hiatusspa.com/location/dallas-the-hill). 6 spa businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Dallas, TX?
 
 Also answers: spa in Dallas, TX; spa near me (Dallas, TX); best spa Dallas, TX; top rated spa Dallas, TX; affordable spa Dallas, TX; emergency spa Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hiatus Day Spa • Med Spa | trust 19.0 | Hiatus Day Spa • Med Spa is a spa in Dallas, TX at 9820 North Central Expressway #507, Dallas, TX. Phone: +12143611200. Website: https://www.hiatusspa.com/location/dallas-the-hill. | https://dingalinged-cpu.github.io/registry/c/hiatus-day-spa-med-spa-dallas/
-2. Woodhouse Spa | trust 14.0 | Woodhouse Spa is a spa in Dallas, TX at 5331 East Mockingbird Lane #172, Dallas, TX 75206. Website: https://locations.woodhousespas.com/dir/tx/dallas/5331-e-mockingbird-ln-ste.-172. | https://dingalinged-cpu.github.io/registry/c/woodhouse-spa-dallas/
-3. City Salon Suites & Spa | trust 3.0 | City Salon Suites & Spa is a spa in Dallas, TX at 15203 Knoll Trail Drive #125, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/city-salon-suites-and-spa-dallas/
-4. Ultimate Image Med Spa | trust 3.0 | Ultimate Image Med Spa is a spa in Dallas, TX at 8604 Greenville Avenue #102, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ultimate-image-med-spa-dallas/
-5. VIO Med Spa | trust 3.0 | VIO Med Spa is a spa in Dallas, TX at 9440 Garland Road #190, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/vio-med-spa-dallas/
-6. Mattison Avenue | trust 0.0 | Mattison Avenue is a spa in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/mattison-avenue-dallas/
+1. Hiatus Day Spa • Med Spa | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Hiatus Day Spa • Med Spa is a spa in Dallas, TX at 9820 North Central Expressway #507, Dallas, TX. Phone: +12143611200. Website: https://www.hiatusspa.com/location/dallas-the-hill. | https://dingalinged-cpu.github.io/registry/c/hiatus-day-spa-med-spa-dallas/
+2. Woodhouse Spa | Organic #2 | Pulse Score 58.7/100 (Unrated, #2 in city) | Woodhouse Spa is a spa in Dallas, TX at 5331 East Mockingbird Lane #172, Dallas, TX 75206. Website: https://locations.woodhousespas.com/dir/tx/dallas/5331-e-mockingbird-ln-ste.-172. | https://dingalinged-cpu.github.io/registry/c/woodhouse-spa-dallas/
+3. Ultimate Image Med Spa | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Ultimate Image Med Spa is a spa in Dallas, TX at 8604 Greenville Avenue #102, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ultimate-image-med-spa-dallas/
+4. City Salon Suites & Spa | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | City Salon Suites & Spa is a spa in Dallas, TX at 15203 Knoll Trail Drive #125, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/city-salon-suites-and-spa-dallas/
+5. VIO Med Spa | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | VIO Med Spa is a spa in Dallas, TX at 9440 Garland Road #190, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/vio-med-spa-dallas/
+6. Mattison Avenue | Organic #6 | Pulse Score 53.7/100 (Unrated, #6 in city) | Mattison Avenue is a spa in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/mattison-avenue-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa dallas tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

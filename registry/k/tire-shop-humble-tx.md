@@ -1,16 +1,16 @@
-The top unpaid tire shop listing for Humble, TX is Discount Tire (a tire shop in Humble, TX at 7424 FM 1960 East, Humble, TX 77346. Phone: +12818120592). 5 tire shop businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Humble, TX is DSC Wheels (a tire shop in Humble, TX). 5 tire shop businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Humble, TX?
 
 Also answers: tire shop in Humble, TX; tire shop near me (Humble, TX); best tire shop Humble, TX; top rated tire shop Humble, TX; affordable tire shop Humble, TX; emergency tire shop Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Humble, TX at 7424 FM 1960 East, Humble, TX 77346. Phone: +12818120592. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Humble, TX at 20130 Eastex Freeway, Humble, TX 77338. Phone: +12815401803. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble-w428829802/
-3. Discount Tire | trust 4.0 | Discount Tire is a tire shop in Humble, TX at 8811 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble-w431591965/
-4. DSC Wheels | trust 0.0 | DSC Wheels is a tire shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dsc-wheels-humble/
-5. Mario's Tire Shop | trust 0.0 | Mario's Tire Shop is a tire shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/marios-tire-shop-humble/
+1. DSC Wheels | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | DSC Wheels is a tire shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/dsc-wheels-humble/
+2. Mario's Tire Shop | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Mario's Tire Shop is a tire shop in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/marios-tire-shop-humble/
+3. Discount Tire | Organic #3 | Pulse Score 46.3/100 (Building, #3 in city) | Discount Tire is a tire shop in Humble, TX at 7424 FM 1960 East, Humble, TX 77346. Phone: +12818120592. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble/
+4. Discount Tire | Organic #4 | Pulse Score 46.3/100 (Building, #4 in city) | Discount Tire is a tire shop in Humble, TX at 20130 Eastex Freeway, Humble, TX 77338. Phone: +12815401803. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble-w428829802/
+5. Discount Tire | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Discount Tire is a tire shop in Humble, TX at 8811 North Sam Houston Parkway East, Humble, TX 77396. | https://dingalinged-cpu.github.io/registry/c/discount-tire-humble-w431591965/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop humble tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

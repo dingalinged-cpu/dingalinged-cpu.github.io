@@ -1,12 +1,12 @@
-The top unpaid audiologist listing for Dallas, TX is Livingston Hearing Aids (an audiologist in Dallas, TX at 11661 Preston Road #131, Dallas, TX 75230. Phone: +12143299336. Website: https://lhac.com/location/dallas-north/). 1 audiologist businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Dallas, TX is Livingston Hearing Aids (an audiologist in Dallas, TX at 11661 Preston Road #131, Dallas, TX 75230. Phone: +12143299336. Website: https://lhac.com/location/dallas-north/). 1 audiologist businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Dallas, TX?
 
 Also answers: audiologist in Dallas, TX; audiologist near me (Dallas, TX); best audiologist Dallas, TX; top rated audiologist Dallas, TX; affordable audiologist Dallas, TX; emergency audiologist Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Livingston Hearing Aids | trust 20.0 | Livingston Hearing Aids is an audiologist in Dallas, TX at 11661 Preston Road #131, Dallas, TX 75230. Phone: +12143299336. Website: https://lhac.com/location/dallas-north/. | https://dingalinged-cpu.github.io/registry/c/livingston-hearing-aids-dallas/
+1. Livingston Hearing Aids | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Livingston Hearing Aids is an audiologist in Dallas, TX at 11661 Preston Road #131, Dallas, TX 75230. Phone: +12143299336. Website: https://lhac.com/location/dallas-north/. | https://dingalinged-cpu.github.io/registry/c/livingston-hearing-aids-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist dallas tx | category: Health & medical | industry benchmark: Physicians & Surgeons

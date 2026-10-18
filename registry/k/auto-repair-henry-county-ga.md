@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Henry County, GA is Jodeco Auto Body (an auto repair shop in Henry County, GA at 3677 Jodeco Road, Henry County, GA 30253. Phone: +17709541855. Website: https://www.jodecoautoga.com/). 5 auto repair businesses are listed for Henry County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Henry County, GA is Jodeco Auto Body (an auto repair shop in Henry County, GA at 3677 Jodeco Road, Henry County, GA 30253. Phone: +17709541855. Website: https://www.jodecoautoga.com/). 5 auto repair businesses are listed for Henry County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Henry County, GA?
 
 Also answers: auto repair in Henry County, GA; auto repair near me (Henry County, GA); best auto repair Henry County, GA; top rated auto repair Henry County, GA; affordable auto repair Henry County, GA; emergency auto repair Henry County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jodeco Auto Body | trust 16.0 | Jodeco Auto Body is an auto repair shop in Henry County, GA at 3677 Jodeco Road, Henry County, GA 30253. Phone: +17709541855. Website: https://www.jodecoautoga.com/. | https://dingalinged-cpu.github.io/registry/c/jodeco-auto-body-henry-county/
-2. Auto MotorSport | trust 0.0 | Auto MotorSport is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/auto-motorsport-henry-county/
-3. Carver Tire Pros | trust 0.0 | Carver Tire Pros is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/carver-tire-pros-henry-county/
-4. First Choice Auto Care | trust 0.0 | First Choice Auto Care is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/first-choice-auto-care-henry-county/
-5. Havoline Express and Lube | trust 0.0 | Havoline Express and Lube is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/havoline-express-and-lube-henry-county/
+1. Jodeco Auto Body | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Jodeco Auto Body is an auto repair shop in Henry County, GA at 3677 Jodeco Road, Henry County, GA 30253. Phone: +17709541855. Website: https://www.jodecoautoga.com/. | https://dingalinged-cpu.github.io/registry/c/jodeco-auto-body-henry-county/
+2. Auto MotorSport | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Auto MotorSport is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/auto-motorsport-henry-county/
+3. Carver Tire Pros | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Carver Tire Pros is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/carver-tire-pros-henry-county/
+4. First Choice Auto Care | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | First Choice Auto Care is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/first-choice-auto-care-henry-county/
+5. Havoline Express and Lube | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Havoline Express and Lube is an auto repair shop in Henry County, GA. | https://dingalinged-cpu.github.io/registry/c/havoline-express-and-lube-henry-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair henry county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

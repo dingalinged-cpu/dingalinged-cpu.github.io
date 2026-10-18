@@ -1,15 +1,15 @@
-The top unpaid gym listing for Fayetteville, GA is BGB Crossfit (a gym in Fayetteville, GA). 4 gym businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Fayetteville, GA is Piedmont Wellness Center (a gym in Fayetteville, GA). 4 gym businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Fayetteville, GA?
 
 Also answers: gym in Fayetteville, GA; gym near me (Fayetteville, GA); best gym Fayetteville, GA; top rated gym Fayetteville, GA; affordable gym Fayetteville, GA; emergency gym Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BGB Crossfit | trust 0.0 | BGB Crossfit is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/bgb-crossfit-fayetteville/
-2. crossfit gym | trust 0.0 | crossfit gym is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/crossfit-gym-fayetteville/
-3. Piedmont Wellness Center | trust 0.0 | Piedmont Wellness Center is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/piedmont-wellness-center-fayetteville/
-4. Results Fitness | trust 0.0 | Results Fitness is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/results-fitness-fayetteville/
+1. Piedmont Wellness Center | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Piedmont Wellness Center is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/piedmont-wellness-center-fayetteville/
+2. BGB Crossfit | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | BGB Crossfit is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/bgb-crossfit-fayetteville/
+3. crossfit gym | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | crossfit gym is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/crossfit-gym-fayetteville/
+4. Results Fitness | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Results Fitness is a gym in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/results-fitness-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym fayetteville ga | category: Fitness | industry benchmark: Health & Fitness

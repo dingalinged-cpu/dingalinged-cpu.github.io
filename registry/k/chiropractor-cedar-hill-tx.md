@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Cedar Hill, TX is The Joint Chiropractic (a chiropractor in Cedar Hill, TX at 428 East FM 1382 #B, Cedar Hill, TX 75104. Phone: +19728959397. Website: https://thejoint.com/texas/cedar-hill/cedar-hill-28117). 2 chiropractor businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Cedar Hill, TX is Accident & Injury Chiropractor (a chiropractor in Cedar Hill, TX at 642 Uptown Boulevard #200, Cedar Hill, TX 75104. Phone: +12142957246). 2 chiropractor businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Cedar Hill, TX?
 
 Also answers: chiropractor in Cedar Hill, TX; chiropractor near me (Cedar Hill, TX); best chiropractor Cedar Hill, TX; top rated chiropractor Cedar Hill, TX; affordable chiropractor Cedar Hill, TX; emergency chiropractor Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Joint Chiropractic | trust 20.0 | The Joint Chiropractic is a chiropractor in Cedar Hill, TX at 428 East FM 1382 #B, Cedar Hill, TX 75104. Phone: +19728959397. Website: https://thejoint.com/texas/cedar-hill/cedar-hill-28117. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-cedar-hill/
-2. Accident & Injury Chiropractor | trust 14.0 | Accident & Injury Chiropractor is a chiropractor in Cedar Hill, TX at 642 Uptown Boulevard #200, Cedar Hill, TX 75104. Phone: +12142957246. | https://dingalinged-cpu.github.io/registry/c/accident-and-injury-chiropractor-cedar-hill/
+1. Accident & Injury Chiropractor | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Accident & Injury Chiropractor is a chiropractor in Cedar Hill, TX at 642 Uptown Boulevard #200, Cedar Hill, TX 75104. Phone: +12142957246. | https://dingalinged-cpu.github.io/registry/c/accident-and-injury-chiropractor-cedar-hill/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Cedar Hill, TX at 428 East FM 1382 #B, Cedar Hill, TX 75104. Phone: +19728959397. Website: https://thejoint.com/texas/cedar-hill/cedar-hill-28117. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor cedar hill tx | category: Health & medical | industry benchmark: Physicians & Surgeons

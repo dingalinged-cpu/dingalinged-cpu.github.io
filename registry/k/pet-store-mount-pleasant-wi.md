@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Mount Pleasant, WI is Petco (a pet store in Mount Pleasant, WI at 3059 Oakes Road, Mount Pleasant, WI 53177. Phone: +12625981184. Website: https://stores.petco.com/wi/sturtevant/pet-supplies-sturtevant-wi-885.html). 4 pet store businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Mount Pleasant, WI is Havahart Pets (a pet store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI). 4 pet store businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Mount Pleasant, WI?
 
 Also answers: pet store in Mount Pleasant, WI; pet store near me (Mount Pleasant, WI); best pet store Mount Pleasant, WI; top rated pet store Mount Pleasant, WI; affordable pet store Mount Pleasant, WI; emergency pet store Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Mount Pleasant, WI at 3059 Oakes Road, Mount Pleasant, WI 53177. Phone: +12625981184. Website: https://stores.petco.com/wi/sturtevant/pet-supplies-sturtevant-wi-885.html. | https://dingalinged-cpu.github.io/registry/c/petco-mount-pleasant/
-2. Pet Supplies Plus | trust 19.0 | Pet Supplies Plus is a pet store in Mount Pleasant, WI at 5557 Durand Avenue, Mount Pleasant, WI. Phone: +12625549898. Website: https://www.petsuppliesplus.com/store/wi/racine/75-racine/75. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-mount-pleasant/
-3. Petland | trust 4.0 | Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/petland-mount-pleasant/
-4. Havahart Pets | trust 3.0 | Havahart Pets is a pet store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/havahart-pets-mount-pleasant/
+1. Havahart Pets | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Havahart Pets is a pet store in Mount Pleasant, WI at 6500 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/havahart-pets-mount-pleasant/
+2. Petco | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Petco is a pet store in Mount Pleasant, WI at 3059 Oakes Road, Mount Pleasant, WI 53177. Phone: +12625981184. Website: https://stores.petco.com/wi/sturtevant/pet-supplies-sturtevant-wi-885.html. | https://dingalinged-cpu.github.io/registry/c/petco-mount-pleasant/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Mount Pleasant, WI at 5557 Durand Avenue, Mount Pleasant, WI. Phone: +12625549898. Website: https://www.petsuppliesplus.com/store/wi/racine/75-racine/75. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-mount-pleasant/
+4. Petland | Organic #4 | Pulse Score 43.3/100 (Building, #4 in city) | Petland is a pet store in Mount Pleasant, WI at 2310 South Green Bay Road #Suite K, Mount Pleasant, WI 53406. | https://dingalinged-cpu.github.io/registry/c/petland-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store mount pleasant wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

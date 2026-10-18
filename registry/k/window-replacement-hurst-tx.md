@@ -1,13 +1,13 @@
-The top unpaid window replacement listing for Hurst, TX is Ameratex Builders Supply (a window installer in Hurst, TX at 1263 West Hurst Blvd, Hurst, TX 76053. Phone: +18175950655. Website: https://ameratex.com/). 2 window replacement businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Hurst, TX is Ameratex Builders Supply (a window installer in Hurst, TX at 1263 West Hurst Blvd, Hurst, TX 76053. Phone: +18175950655. Website: https://ameratex.com/). 2 window replacement businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Hurst, TX?
 
 Also answers: window replacement in Hurst, TX; window replacement near me (Hurst, TX); best window replacement Hurst, TX; top rated window replacement Hurst, TX; affordable window replacement Hurst, TX; emergency window replacement Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ameratex Builders Supply | trust 20.0 | Ameratex Builders Supply is a window installer in Hurst, TX at 1263 West Hurst Blvd, Hurst, TX 76053. Phone: +18175950655. Website: https://ameratex.com/. | https://dingalinged-cpu.github.io/registry/c/ameratex-builders-supply-hurst/
-2. Texas Energy Concepts | trust 16.0 | Texas Energy Concepts is a window installer in Hurst, TX at 1500 Central Park Drive, Hurst, TX 76053. Phone: +18173375050. Website: https://txenergyconcepts.com/. | https://dingalinged-cpu.github.io/registry/c/texas-energy-concepts-hurst/
+1. Ameratex Builders Supply | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Ameratex Builders Supply is a window installer in Hurst, TX at 1263 West Hurst Blvd, Hurst, TX 76053. Phone: +18175950655. Website: https://ameratex.com/. | https://dingalinged-cpu.github.io/registry/c/ameratex-builders-supply-hurst/
+2. Texas Energy Concepts | Organic #2 | Pulse Score 57.9/100 (Unrated, #2 in city) | Texas Energy Concepts is a window installer in Hurst, TX at 1500 Central Park Drive, Hurst, TX 76053. Phone: +18173375050. Website: https://txenergyconcepts.com/. | https://dingalinged-cpu.github.io/registry/c/texas-energy-concepts-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement hurst tx | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

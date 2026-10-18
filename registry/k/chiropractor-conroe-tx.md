@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Conroe, TX is A Better Way Chiropractic - Conroe (a chiropractor in Conroe, TX at 2510 South Loop 336 West #Suite 245, Conroe, TX 77304. Phone: +19364941222. Website: https://www.abetterwaychiropractic.com/). 2 chiropractor businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Conroe, TX is A Better Way Chiropractic - Conroe (a chiropractor in Conroe, TX at 2510 South Loop 336 West #Suite 245, Conroe, TX 77304. Phone: +19364941222. Website: https://www.abetterwaychiropractic.com/). 2 chiropractor businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Conroe, TX?
 
 Also answers: chiropractor in Conroe, TX; chiropractor near me (Conroe, TX); best chiropractor Conroe, TX; top rated chiropractor Conroe, TX; affordable chiropractor Conroe, TX; emergency chiropractor Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Better Way Chiropractic - Conroe | trust 20.0 | A Better Way Chiropractic - Conroe is a chiropractor in Conroe, TX at 2510 South Loop 336 West #Suite 245, Conroe, TX 77304. Phone: +19364941222. Website: https://www.abetterwaychiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/a-better-way-chiropractic-conroe-conroe/
-2. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-conroe/
+1. A Better Way Chiropractic - Conroe | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | A Better Way Chiropractic - Conroe is a chiropractor in Conroe, TX at 2510 South Loop 336 West #Suite 245, Conroe, TX 77304. Phone: +19364941222. Website: https://www.abetterwaychiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/a-better-way-chiropractic-conroe-conroe/
+2. The Joint Chiropractic | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | The Joint Chiropractic is a chiropractor in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor conroe tx | category: Health & medical | industry benchmark: Physicians & Surgeons

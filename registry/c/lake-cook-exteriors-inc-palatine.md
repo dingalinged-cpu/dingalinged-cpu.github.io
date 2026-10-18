@@ -13,7 +13,7 @@ Lake Cook Exteriors, Inc. is a window installer in Palatine, IL at 50 E Palatine
 - Website: https://www.lakecookexteriors.com/
 - Email: sales@lakecookexteriors.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 32% of window installers in Chicago, #1 of 1 window installers in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

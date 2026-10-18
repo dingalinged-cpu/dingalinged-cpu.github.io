@@ -1,16 +1,16 @@
-The top unpaid plumber listing for Madison, WI is Robert's Plumbing & Heating (a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/). 5 plumber businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Madison, WI is Robert's Plumbing & Heating (a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/). 5 plumber businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Madison, WI?
 
 Also answers: plumber in Madison, WI; plumber near me (Madison, WI); best plumber Madison, WI; top rated plumber Madison, WI; affordable plumber Madison, WI; emergency plumber Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert's Plumbing & Heating | trust 20.0 | Robert's Plumbing & Heating is a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/. | https://dingalinged-cpu.github.io/registry/c/roberts-plumbing-and-heating-madison/
-2. W. F. Butler Plumbing Inc. | trust 3.0 | W. F. Butler Plumbing Inc. is a plumber in Madison, WI at 2602 Monroe Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/w-f-butler-plumbing-inc-madison/
-3. H.J. Pertzborn | trust 0.0 | H.J. Pertzborn is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/h-j-pertzborn-madison/
-4. Howe Brothers Plumbing | trust 0.0 | Howe Brothers Plumbing is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/howe-brothers-plumbing-madison/
-5. Triggs Plumbing | trust 0.0 | Triggs Plumbing is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/triggs-plumbing-madison/
+1. Robert's Plumbing & Heating | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Robert's Plumbing & Heating is a plumber in Madison, WI at 4430 Robertson Road, Madison, WI 53714. Phone: +16084165646. Website: https://www.robertsplumbing.us/. | https://dingalinged-cpu.github.io/registry/c/roberts-plumbing-and-heating-madison/
+2. Howe Brothers Plumbing | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Howe Brothers Plumbing is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/howe-brothers-plumbing-madison/
+3. W. F. Butler Plumbing Inc. | Organic #3 | Pulse Score 56.1/100 (Unrated, #3 in city) | W. F. Butler Plumbing Inc. is a plumber in Madison, WI at 2602 Monroe Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/w-f-butler-plumbing-inc-madison/
+4. H.J. Pertzborn | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | H.J. Pertzborn is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/h-j-pertzborn-madison/
+5. Triggs Plumbing | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Triggs Plumbing is a plumber in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/triggs-plumbing-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber madison wi | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

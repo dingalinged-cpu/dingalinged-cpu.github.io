@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Maplewood, MN at 1770 County Road D Eas
 - Website: https://stores.ashleyfurniture.com/store/us/minnesota/maplewood/7710000214/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 78% of furniture stores in Minneapolis–St. Paul, #2 of 4 furniture stores in Maplewood (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.4, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

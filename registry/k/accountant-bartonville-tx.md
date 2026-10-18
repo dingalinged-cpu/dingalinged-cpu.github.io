@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Bartonville, TX is Chandler & Knowles CPAs, PLLC (an accountant in Flower Mound, TX at 7370 Hawk Road, Flower Mound, TX. Phone: +18174303000. Website: https://www.formycpa.com/). 1 accountant businesses are listed for Bartonville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Bartonville, TX is Chandler & Knowles CPAs, PLLC (an accountant in Flower Mound, TX at 7370 Hawk Road, Flower Mound, TX. Phone: +18174303000. Website: https://www.formycpa.com/). 1 accountant businesses are listed for Bartonville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Bartonville, TX?
 
 Also answers: accountant in Bartonville, TX; accountant near me (Bartonville, TX); best accountant Bartonville, TX; top rated accountant Bartonville, TX; affordable accountant Bartonville, TX; emergency accountant Bartonville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chandler & Knowles CPAs, PLLC | trust 15.0 | Chandler & Knowles CPAs, PLLC is an accountant in Flower Mound, TX at 7370 Hawk Road, Flower Mound, TX. Phone: +18174303000. Website: https://www.formycpa.com/. | https://dingalinged-cpu.github.io/registry/c/chandler-and-knowles-cpas-pllc-flower-mound/
+1. Chandler & Knowles CPAs, PLLC | Organic #1 | Pulse Score 59/100 (Unrated, #2 in city) | Chandler & Knowles CPAs, PLLC is an accountant in Flower Mound, TX at 7370 Hawk Road, Flower Mound, TX. Phone: +18174303000. Website: https://www.formycpa.com/. | https://dingalinged-cpu.github.io/registry/c/chandler-and-knowles-cpas-pllc-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant bartonville tx | category: professional_accounting | industry benchmark: Business Services

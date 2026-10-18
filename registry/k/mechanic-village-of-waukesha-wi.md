@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Village Of Waukesha, WI is Caliber Collision (an auto repair shop in Village of Waukesha, WI. Website: https://calibercollision.com/). 2 mechanic businesses are listed for Village Of Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Village Of Waukesha, WI is GTO's Royal Auto Detailing LLC (an auto repair shop in Village of Waukesha, WI). 2 mechanic businesses are listed for Village Of Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Village Of Waukesha, WI?
 
 Also answers: mechanic in Village Of Waukesha, WI; mechanic near me (Village Of Waukesha, WI); best mechanic Village Of Waukesha, WI; top rated mechanic Village Of Waukesha, WI; affordable mechanic Village Of Waukesha, WI; emergency mechanic Village Of Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Collision | trust 6.0 | Caliber Collision is an auto repair shop in Village of Waukesha, WI. Website: https://calibercollision.com/. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-village-of-waukesha/
-2. GTO's Royal Auto Detailing LLC | trust 0.0 | GTO's Royal Auto Detailing LLC is an auto repair shop in Village of Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/gtos-royal-auto-detailing-llc-village-of-waukesha/
+1. GTO's Royal Auto Detailing LLC | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | GTO's Royal Auto Detailing LLC is an auto repair shop in Village of Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/gtos-royal-auto-detailing-llc-village-of-waukesha/
+2. Caliber Collision | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Caliber Collision is an auto repair shop in Village of Waukesha, WI. Website: https://calibercollision.com/. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-village-of-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic village of waukesha wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

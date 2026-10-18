@@ -13,7 +13,7 @@ AmeriPro Roofing is a roofer in Eagan, MN at 3825 Cedar Grove Parkway #Suite 107
 - Website: https://ameriproroofing.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 28% of roofers in Minneapolis–St. Paul, #1 of 1 roofers in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 53.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

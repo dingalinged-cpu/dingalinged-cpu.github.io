@@ -13,7 +13,7 @@ Yess Yoga is a yoga studio in Minneapolis, MN at 105 East 26th Street, Minneapol
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.4/100 — Unrated (not enough evidence yet) — top 64% of yoga studios in Minneapolis–St. Paul, #8 of 13 yoga studios in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59, Trust 40.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

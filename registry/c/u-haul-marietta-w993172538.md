@@ -13,7 +13,7 @@ U-Haul is a self-storage facility in Marietta, GA.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.3/100 — Building — top 43% of self-storage facilitys in Atlanta, #20 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

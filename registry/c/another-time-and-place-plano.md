@@ -13,7 +13,7 @@ Another Time & Place is a jewelry store in Plano, TX at 5760 Legacy Drive #B2, P
 - Website: https://www.atplegacy.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-20:30; Su 10:00-19:45
-- Registry Score: 67.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 2% of jewelry stores in Dallas–Fort Worth, #1 of 11 jewelry stores in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 64.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for Cleveland, TX is Trey Furrey - State Farm Insurance (an insurance agent in Cleveland, TX at 429 West Southline Street #600, Cleveland, TX 77327. Phone: +12815931113. Website: https://www.treyfurreysf.com/). 1 insurance agency businesses are listed for Cleveland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Cleveland, TX is Trey Furrey - State Farm Insurance (an insurance agent in Cleveland, TX at 429 West Southline Street #600, Cleveland, TX 77327. Phone: +12815931113. Website: https://www.treyfurreysf.com/). 1 insurance agency businesses are listed for Cleveland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Cleveland, TX?
 
 Also answers: insurance agency in Cleveland, TX; insurance agency near me (Cleveland, TX); best insurance agency Cleveland, TX; top rated insurance agency Cleveland, TX; affordable insurance agency Cleveland, TX; emergency insurance agency Cleveland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trey Furrey - State Farm Insurance | trust 20.0 | Trey Furrey - State Farm Insurance is an insurance agent in Cleveland, TX at 429 West Southline Street #600, Cleveland, TX 77327. Phone: +12815931113. Website: https://www.treyfurreysf.com/. | https://dingalinged-cpu.github.io/registry/c/trey-furrey-state-farm-insurance-cleveland/
+1. Trey Furrey - State Farm Insurance | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Trey Furrey - State Farm Insurance is an insurance agent in Cleveland, TX at 429 West Southline Street #600, Cleveland, TX 77327. Phone: +12815931113. Website: https://www.treyfurreysf.com/. | https://dingalinged-cpu.github.io/registry/c/trey-furrey-state-farm-insurance-cleveland/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency cleveland tx | category: insurance | industry benchmark: Finance & Insurance

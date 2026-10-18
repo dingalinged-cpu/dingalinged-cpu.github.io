@@ -1,14 +1,14 @@
-The top unpaid chiropractor listing for Roanoke, TX is Brindlewood Chiropractic (a chiropractor in Roanoke, TX). 3 chiropractor businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Roanoke, TX is Roanoke Chiropractic & Rehab (a chiropractor in Roanoke, TX). 3 chiropractor businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Roanoke, TX?
 
 Also answers: chiropractor in Roanoke, TX; chiropractor near me (Roanoke, TX); best chiropractor Roanoke, TX; top rated chiropractor Roanoke, TX; affordable chiropractor Roanoke, TX; emergency chiropractor Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brindlewood Chiropractic | trust 0.0 | Brindlewood Chiropractic is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/brindlewood-chiropractic-roanoke/
-2. Essentials For Wellness Family Chiropractic | trust 0.0 | Essentials For Wellness Family Chiropractic is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/essentials-for-wellness-family-chiropractic-roanoke/
-3. Roanoke Chiropractic & Rehab | trust 0.0 | Roanoke Chiropractic & Rehab is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/roanoke-chiropractic-and-rehab-roanoke/
+1. Roanoke Chiropractic & Rehab | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Roanoke Chiropractic & Rehab is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/roanoke-chiropractic-and-rehab-roanoke/
+2. Brindlewood Chiropractic | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Brindlewood Chiropractic is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/brindlewood-chiropractic-roanoke/
+3. Essentials For Wellness Family Chiropractic | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | Essentials For Wellness Family Chiropractic is a chiropractor in Roanoke, TX. | https://dingalinged-cpu.github.io/registry/c/essentials-for-wellness-family-chiropractic-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor roanoke tx | category: Health & medical | industry benchmark: Physicians & Surgeons

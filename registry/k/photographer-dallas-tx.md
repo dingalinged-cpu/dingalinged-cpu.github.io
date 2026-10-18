@@ -1,14 +1,14 @@
-The top unpaid photographer listing for Dallas, TX is D2 Studios (a photographer in Dallas, TX at 4312 Elm Street, Dallas, TX 75226. Phone: +12147466336. Website: https://www.d2studios.net/). 3 photographer businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Dallas, TX is Tara Arseven Photography (a photographer in Dallas, TX at 1409 Botham Jean Boulevard #237, Dallas, TX 75215. Phone: +14695004121. Website: https://taraarseven.com/). 3 photographer businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Dallas, TX?
 
 Also answers: photographer in Dallas, TX; photographer near me (Dallas, TX); best photographer Dallas, TX; top rated photographer Dallas, TX; affordable photographer Dallas, TX; emergency photographer Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D2 Studios | trust 20.0 | D2 Studios is a photographer in Dallas, TX at 4312 Elm Street, Dallas, TX 75226. Phone: +12147466336. Website: https://www.d2studios.net/. | https://dingalinged-cpu.github.io/registry/c/d2-studios-dallas/
-2. Tara Arseven Photography | trust 20.0 | Tara Arseven Photography is a photographer in Dallas, TX at 1409 Botham Jean Boulevard #237, Dallas, TX 75215. Phone: +14695004121. Website: https://taraarseven.com/. | https://dingalinged-cpu.github.io/registry/c/tara-arseven-photography-dallas/
-3. ZLuna Photography with Nadia | trust 20.0 | ZLuna Photography with Nadia is a photographer in Dallas, TX at 3232 McKinney Avenue, Dallas, TX 75204. Phone: +12146092990. Website: https://www.zlunaphotography.com/. | https://dingalinged-cpu.github.io/registry/c/zluna-photography-with-nadia-dallas/
+1. Tara Arseven Photography | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Tara Arseven Photography is a photographer in Dallas, TX at 1409 Botham Jean Boulevard #237, Dallas, TX 75215. Phone: +14695004121. Website: https://taraarseven.com/. | https://dingalinged-cpu.github.io/registry/c/tara-arseven-photography-dallas/
+2. ZLuna Photography with Nadia | Organic #2 | Pulse Score 62/100 (Unrated, #2 in city) | ZLuna Photography with Nadia is a photographer in Dallas, TX at 3232 McKinney Avenue, Dallas, TX 75204. Phone: +12146092990. Website: https://www.zlunaphotography.com/. | https://dingalinged-cpu.github.io/registry/c/zluna-photography-with-nadia-dallas/
+3. D2 Studios | Organic #3 | Pulse Score 60/100 (Unrated, #3 in city) | D2 Studios is a photographer in Dallas, TX at 4312 Elm Street, Dallas, TX 75226. Phone: +12147466336. Website: https://www.d2studios.net/. | https://dingalinged-cpu.github.io/registry/c/d2-studios-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer dallas tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,14 +1,14 @@
-The top unpaid lawyer listing for Wheaton, IL is Keller Legal Services (a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, Wheaton, IL 60187. Phone: +16308683093. Website: https://kellerlegalservices.com/). 3 lawyer businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Wheaton, IL is Theisen & Roche, Ltd. (a lawyer in Wheaton, IL at 2100 Manchester Road #201, Wheaton, IL 60187. Phone: +16308719003. Website: https://www.trlawyer.com/). 3 lawyer businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Wheaton, IL?
 
 Also answers: lawyer in Wheaton, IL; lawyer near me (Wheaton, IL); best lawyer Wheaton, IL; top rated lawyer Wheaton, IL; affordable lawyer Wheaton, IL; emergency lawyer Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keller Legal Services | trust 20.0 | Keller Legal Services is a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, Wheaton, IL 60187. Phone: +16308683093. Website: https://kellerlegalservices.com/. | https://dingalinged-cpu.github.io/registry/c/keller-legal-services-wheaton/
-2. Theisen & Roche, Ltd. | trust 20.0 | Theisen & Roche, Ltd. is a lawyer in Wheaton, IL at 2100 Manchester Road #201, Wheaton, IL 60187. Phone: +16308719003. Website: https://www.trlawyer.com/. | https://dingalinged-cpu.github.io/registry/c/theisen-and-roche-ltd-wheaton/
-3. Attorney Shawna Mason | trust 14.0 | Attorney Shawna Mason is a lawyer in Wheaton, IL at 1008 East Geneva Road, Wheaton, IL 60187. Phone: +16307521410. | https://dingalinged-cpu.github.io/registry/c/attorney-shawna-mason-wheaton/
+1. Theisen & Roche, Ltd. | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Theisen & Roche, Ltd. is a lawyer in Wheaton, IL at 2100 Manchester Road #201, Wheaton, IL 60187. Phone: +16308719003. Website: https://www.trlawyer.com/. | https://dingalinged-cpu.github.io/registry/c/theisen-and-roche-ltd-wheaton/
+2. Keller Legal Services | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Keller Legal Services is a lawyer in Wheaton, IL at 620 W. Roosevelt Road #A2, Wheaton, IL 60187. Phone: +16308683093. Website: https://kellerlegalservices.com/. | https://dingalinged-cpu.github.io/registry/c/keller-legal-services-wheaton/
+3. Attorney Shawna Mason | Organic #3 | Pulse Score 59.7/100 (Unrated, #3 in city) | Attorney Shawna Mason is a lawyer in Wheaton, IL at 1008 East Geneva Road, Wheaton, IL 60187. Phone: +16307521410. | https://dingalinged-cpu.github.io/registry/c/attorney-shawna-mason-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer wheaton il | category: Legal | industry benchmark: Attorneys & Legal Services

@@ -13,7 +13,7 @@ American Mattress is a mattress store in Vernon Hills, IL at 447 N Milwaukee Ave
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Unrated (not enough evidence yet) — top 76% of mattress stores in Chicago, #2 of 4 mattress stores in Vernon Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 26.7, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

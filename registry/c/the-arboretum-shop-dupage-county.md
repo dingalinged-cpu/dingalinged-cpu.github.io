@@ -13,7 +13,7 @@ The Arboretum Shop is a gift shop in DuPage County, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.6/100 — Unrated (not enough evidence yet) — top 52% of gift shops in Chicago, #1 of 1 gift shops in DuPage County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 46.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

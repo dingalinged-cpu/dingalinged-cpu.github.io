@@ -13,7 +13,7 @@ The Country Rose is a bakery in Union Grove, WI at 19319 Washington Avenue, Unio
 - Website: https://www.countryrosebakery.com/
 - Email: countryrosebakery@msn.com
 - Opening hours (OSM syntax): Tu-Sa 06:00-14:00
-- Registry Score: 67.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 67.7/100 — Good — top 3% of bakerys in Milwaukee, #1 of 2 bakerys in Union Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.6, Trust 65.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

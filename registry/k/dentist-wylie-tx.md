@@ -1,18 +1,18 @@
-The top unpaid dentist listing for Wylie, TX is Wylie Dentistry Co. (a dentist in Wylie, TX at 2810 FM 544 #100, Wylie, TX 75098. Phone: +19724780540). 7 dentist businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Wylie, TX is Wylie Dentistry Co. (a dentist in Wylie, TX at 2810 FM 544 #100, Wylie, TX 75098. Phone: +19724780540). 7 dentist businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Wylie, TX?
 
 Also answers: dentist in Wylie, TX; dentist near me (Wylie, TX); best dentist Wylie, TX; top rated dentist Wylie, TX; affordable dentist Wylie, TX; emergency dentist Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wylie Dentistry Co. | trust 14.0 | Wylie Dentistry Co. is a dentist in Wylie, TX at 2810 FM 544 #100, Wylie, TX 75098. Phone: +19724780540. | https://dingalinged-cpu.github.io/registry/c/wylie-dentistry-co-wylie/
-2. Ideal Dental | trust 4.0 | Ideal Dental is a dentist in Wylie, TX at 805 Woodbridge Parkway #Suite 400, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-wylie/
-3. Indus Family Dental | trust 4.0 | Indus Family Dental is a dentist in Wylie, TX at 2030 North State Highway 78 #Suite 100, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/indus-family-dental-wylie/
-4. InSmile Dental | trust 4.0 | InSmile Dental is a dentist in Wylie, TX at 330 South State Highway 78 #Suite 200, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/insmile-dental-wylie/
-5. Texas Endodontic Center | trust 4.0 | Texas Endodontic Center is a dentist in Wylie, TX at 600 Cooper Drive #140, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/texas-endodontic-center-wylie/
-6. Wylie Little Smiles and Orthodontics | trust 4.0 | Wylie Little Smiles and Orthodontics is a dentist in Wylie, TX at 1808 North State Highway 78 #Suite 102, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-little-smiles-and-orthodontics-wylie/
-7. Wylie Orthodontic Specialists | trust 4.0 | Wylie Orthodontic Specialists is a dentist in Wylie, TX at 600 Cooper Drive #160, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-orthodontic-specialists-wylie/
+1. Wylie Dentistry Co. | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Wylie Dentistry Co. is a dentist in Wylie, TX at 2810 FM 544 #100, Wylie, TX 75098. Phone: +19724780540. | https://dingalinged-cpu.github.io/registry/c/wylie-dentistry-co-wylie/
+2. Wylie Little Smiles and Orthodontics | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Wylie Little Smiles and Orthodontics is a dentist in Wylie, TX at 1808 North State Highway 78 #Suite 102, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-little-smiles-and-orthodontics-wylie/
+3. Wylie Orthodontic Specialists | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Wylie Orthodontic Specialists is a dentist in Wylie, TX at 600 Cooper Drive #160, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/wylie-orthodontic-specialists-wylie/
+4. Indus Family Dental | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Indus Family Dental is a dentist in Wylie, TX at 2030 North State Highway 78 #Suite 100, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/indus-family-dental-wylie/
+5. InSmile Dental | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | InSmile Dental is a dentist in Wylie, TX at 330 South State Highway 78 #Suite 200, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/insmile-dental-wylie/
+6. Texas Endodontic Center | Organic #6 | Pulse Score 56.7/100 (Unrated, #6 in city) | Texas Endodontic Center is a dentist in Wylie, TX at 600 Cooper Drive #140, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/texas-endodontic-center-wylie/
+7. Ideal Dental | Organic #7 | Pulse Score 44/100 (Unrated, #7 in city) | Ideal Dental is a dentist in Wylie, TX at 805 Woodbridge Parkway #Suite 400, Wylie, TX 75098. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist wylie tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

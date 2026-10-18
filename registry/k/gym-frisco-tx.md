@@ -1,33 +1,33 @@
-The top unpaid gym listing for Frisco, TX is Sheraton Stonebriar Gym (a gym in Frisco, TX at 5444 State Highway 121, Frisco, TX 75034. Phone: +19726688700. Website: https://www.marriott.com/en-us/hotels/dalsa-sheraton-stonebriar-hotel/experiences/). 22 gym businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Frisco, TX is Define Private Training (a gym in Frisco, TX at 2552 Stonebrook Parkway #375, Frisco, TX 75034. Phone: +12144582399. Website: https://www.defineprivatetraining.com/). 22 gym businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Frisco, TX?
 
 Also answers: gym in Frisco, TX; gym near me (Frisco, TX); best gym Frisco, TX; top rated gym Frisco, TX; affordable gym Frisco, TX; emergency gym Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sheraton Stonebriar Gym | trust 20.0 | Sheraton Stonebriar Gym is a gym in Frisco, TX at 5444 State Highway 121, Frisco, TX 75034. Phone: +19726688700. Website: https://www.marriott.com/en-us/hotels/dalsa-sheraton-stonebriar-hotel/experiences/. | https://dingalinged-cpu.github.io/registry/c/sheraton-stonebriar-gym-frisco/
-2. Planet Fitness | trust 19.0 | Planet Fitness is a gym in Frisco, TX at 11501 Custer Road #104, Frisco, TX. Phone: +19723302090. Website: https://planetfitness.com/. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-frisco/
-3. Define Private Training | trust 16.0 | Define Private Training is a gym in Frisco, TX at 2552 Stonebrook Parkway #375, Frisco, TX 75034. Phone: +12144582399. Website: https://www.defineprivatetraining.com/. | https://dingalinged-cpu.github.io/registry/c/define-private-training-frisco/
-4. EōS Fitness | trust 16.0 | EōS Fitness is a gym in Frisco, TX at 5550 Preston Road, Frisco, TX 75034. Phone: +12149192002. Website: https://www.eosfitness.com/gym/frisco-preston-rd-lebanon-rd. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-frisco/
-5. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Frisco, TX at 15910 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14696342100. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-frisco/
-6. RockBox Fitness Frisco | trust 4.0 | RockBox Fitness Frisco is a gym in Frisco, TX at 6363 Dallas Parkway #111, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rockbox-fitness-frisco-frisco/
-7. VYBE 5 Infrared Fitness | trust 4.0 | VYBE 5 Infrared Fitness is a gym in Frisco, TX at 6363 Dallas Parkway #102, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/vybe-5-infrared-fitness-frisco/
-8. Beyond Pilates | trust 3.0 | Beyond Pilates is a gym in Frisco, TX at 4851 Legacy Drive #503, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/beyond-pilates-frisco/
-9. BODY20 | trust 3.0 | BODY20 is a gym in Frisco, TX at 11411 Coit Road #120, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/body20-frisco/
-10. Crunch Fitness | trust 3.0 | Crunch Fitness is a gym in Frisco, TX at 3865 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-frisco/
-11. F45 Training | trust 3.0 | F45 Training is a gym in Frisco, TX at 252 West Stonebrook Parkway #580, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-frisco/
-12. LA Fitness | trust 3.0 | LA Fitness is a gym in Frisco, TX at 5080 Main Street, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-frisco/
-13. LA Fitness | trust 3.0 | LA Fitness is a gym in Frisco, TX at 9190 State Highway 121, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-frisco-w297115684/
-14. Pure Barre | trust 3.0 | Pure Barre is a gym in Frisco, TX at 5570 FM 423 #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pure-barre-frisco/
-15. Session Pilates | trust 3.0 | Session Pilates is a gym in Frisco, TX at 5105 Eldorado Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/session-pilates-frisco/
-16. 9Round Kickbox Fitness | trust 0.0 | 9Round Kickbox Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/9round-kickbox-fitness-frisco/
-17. Life Time | trust 0.0 | Life Time is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/life-time-frisco-w1120346592/
-18. My Gym | trust 0.0 | My Gym is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/my-gym-frisco/
-19. Nexgen Fitness | trust 0.0 | Nexgen Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/nexgen-fitness-frisco/
-20. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-frisco-n13479533784/
-21. Spenga | trust 0.0 | Spenga is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/spenga-frisco/
-22. The Grove Community Gym | trust 0.0 | The Grove Community Gym is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-grove-community-gym-frisco/
+1. Define Private Training | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Define Private Training is a gym in Frisco, TX at 2552 Stonebrook Parkway #375, Frisco, TX 75034. Phone: +12144582399. Website: https://www.defineprivatetraining.com/. | https://dingalinged-cpu.github.io/registry/c/define-private-training-frisco/
+2. Sheraton Stonebriar Gym | Organic #2 | Pulse Score 63.4/100 (Unrated, #2 in city) | Sheraton Stonebriar Gym is a gym in Frisco, TX at 5444 State Highway 121, Frisco, TX 75034. Phone: +19726688700. Website: https://www.marriott.com/en-us/hotels/dalsa-sheraton-stonebriar-hotel/experiences/. | https://dingalinged-cpu.github.io/registry/c/sheraton-stonebriar-gym-frisco/
+3. Beyond Pilates | Organic #3 | Pulse Score 58.5/100 (Unrated, #3 in city) | Beyond Pilates is a gym in Frisco, TX at 4851 Legacy Drive #503, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/beyond-pilates-frisco/
+4. RockBox Fitness Frisco | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | RockBox Fitness Frisco is a gym in Frisco, TX at 6363 Dallas Parkway #111, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/rockbox-fitness-frisco-frisco/
+5. VYBE 5 Infrared Fitness | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | VYBE 5 Infrared Fitness is a gym in Frisco, TX at 6363 Dallas Parkway #102, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/vybe-5-infrared-fitness-frisco/
+6. My Gym | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | My Gym is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/my-gym-frisco/
+7. 9Round Kickbox Fitness | Organic #7 | Pulse Score 54.3/100 (Unrated, #7 in city) | 9Round Kickbox Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/9round-kickbox-fitness-frisco/
+8. The Grove Community Gym | Organic #8 | Pulse Score 54.3/100 (Unrated, #8 in city) | The Grove Community Gym is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/the-grove-community-gym-frisco/
+9. Planet Fitness | Organic #9 | Pulse Score 49.4/100 (Building, #9 in city) | Planet Fitness is a gym in Frisco, TX at 11501 Custer Road #104, Frisco, TX. Phone: +19723302090. Website: https://planetfitness.com/. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-frisco/
+10. EōS Fitness | Organic #10 | Pulse Score 47.8/100 (Unrated, #10 in city) | EōS Fitness is a gym in Frisco, TX at 5550 Preston Road, Frisco, TX 75034. Phone: +12149192002. Website: https://www.eosfitness.com/gym/frisco-preston-rd-lebanon-rd. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-frisco/
+11. Orangetheory Fitness | Organic #11 | Pulse Score 46.9/100 (Building, #11 in city) | Orangetheory Fitness is a gym in Frisco, TX at 15910 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14696342100. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-frisco/
+12. Session Pilates | Organic #12 | Pulse Score 46.9/100 (Unrated, #12 in city) | Session Pilates is a gym in Frisco, TX at 5105 Eldorado Parkway, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/session-pilates-frisco/
+13. F45 Training | Organic #13 | Pulse Score 45.9/100 (Building, #13 in city) | F45 Training is a gym in Frisco, TX at 252 West Stonebrook Parkway #580, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/f45-training-frisco/
+14. Pure Barre | Organic #14 | Pulse Score 45.9/100 (Building, #14 in city) | Pure Barre is a gym in Frisco, TX at 5570 FM 423 #500, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pure-barre-frisco/
+15. LA Fitness | Organic #15 | Pulse Score 45.6/100 (Building, #15 in city) | LA Fitness is a gym in Frisco, TX at 5080 Main Street, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-frisco/
+16. BODY20 | Organic #16 | Pulse Score 45.4/100 (Building, #16 in city) | BODY20 is a gym in Frisco, TX at 11411 Coit Road #120, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/body20-frisco/
+17. Crunch Fitness | Organic #17 | Pulse Score 43.6/100 (Building, #17 in city) | Crunch Fitness is a gym in Frisco, TX at 3865 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-frisco/
+18. LA Fitness | Organic #18 | Pulse Score 43.6/100 (Building, #18 in city) | LA Fitness is a gym in Frisco, TX at 9190 State Highway 121, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-frisco-w297115684/
+19. Planet Fitness | Organic #19 | Pulse Score 43.4/100 (Building, #19 in city) | Planet Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-frisco-n13479533784/
+20. Life Time | Organic #20 | Pulse Score 42.8/100 (Building, #20 in city) | Life Time is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/life-time-frisco-w1120346592/
+21. Nexgen Fitness | Organic #21 | Pulse Score 42.6/100 (Unrated, #21 in city) | Nexgen Fitness is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/nexgen-fitness-frisco/
+22. Spenga | Organic #22 | Pulse Score 42.5/100 (Building, #22 in city) | Spenga is a gym in Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/spenga-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym frisco tx | category: Fitness | industry benchmark: Health & Fitness

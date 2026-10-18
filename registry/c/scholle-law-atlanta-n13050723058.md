@@ -13,7 +13,7 @@ Scholle Law is a lawyer in Atlanta, GA at 1201 Peachtree Street NE, Atlanta, GA 
 - Website: https://www.schollelaw.com/locations/midtown
 - Email: admin@schollelaw.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.3/100 — Fair — top 90% of lawyers in Atlanta, #46 of 53 lawyers in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.7, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

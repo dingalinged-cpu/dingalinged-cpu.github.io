@@ -1,12 +1,12 @@
-The top unpaid orthopedic surgeon listing for Grapevine, TX is North Texas Orthopedics & Spine Center (an orthopedic surgeon in Grapevine, TX at 2535 Ira E. Woods Avenue #100, Grapevine, TX 76051. Phone: +18174812121. Website: https://www.ntxortho.com/). 1 orthopedic surgeon businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Grapevine, TX is North Texas Orthopedics & Spine Center (an orthopedic surgeon in Grapevine, TX at 2535 Ira E. Woods Avenue #100, Grapevine, TX 76051. Phone: +18174812121. Website: https://www.ntxortho.com/). 1 orthopedic surgeon businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Grapevine, TX?
 
 Also answers: orthopedic surgeon in Grapevine, TX; orthopedic surgeon near me (Grapevine, TX); best orthopedic surgeon Grapevine, TX; top rated orthopedic surgeon Grapevine, TX; affordable orthopedic surgeon Grapevine, TX; emergency orthopedic surgeon Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. North Texas Orthopedics & Spine Center | trust 20.0 | North Texas Orthopedics & Spine Center is an orthopedic surgeon in Grapevine, TX at 2535 Ira E. Woods Avenue #100, Grapevine, TX 76051. Phone: +18174812121. Website: https://www.ntxortho.com/. | https://dingalinged-cpu.github.io/registry/c/north-texas-orthopedics-and-spine-center-grapevine/
+1. North Texas Orthopedics & Spine Center | Organic #1 | Pulse Score 62.8/100 (Unrated, #1 in city) | North Texas Orthopedics & Spine Center is an orthopedic surgeon in Grapevine, TX at 2535 Ira E. Woods Avenue #100, Grapevine, TX 76051. Phone: +18174812121. Website: https://www.ntxortho.com/. | https://dingalinged-cpu.github.io/registry/c/north-texas-orthopedics-and-spine-center-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon grapevine tx | category: Health & medical | industry benchmark: Physicians & Surgeons

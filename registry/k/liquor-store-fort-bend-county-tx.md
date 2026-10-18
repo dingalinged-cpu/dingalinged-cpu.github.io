@@ -1,16 +1,16 @@
-The top unpaid liquor store listing for Fort Bend County, TX is ACE 1 LIQUOR (a liquor store in Fort Bend County, TX). 5 liquor store businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Fort Bend County, TX is ACE 1 LIQUOR (a liquor store in Fort Bend County, TX). 5 liquor store businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Fort Bend County, TX?
 
 Also answers: liquor store in Fort Bend County, TX; liquor store near me (Fort Bend County, TX); best liquor store Fort Bend County, TX; top rated liquor store Fort Bend County, TX; affordable liquor store Fort Bend County, TX; emergency liquor store Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ACE 1 LIQUOR | trust 0.0 | ACE 1 LIQUOR is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ace-1-liquor-fort-bend-county/
-2. Barrel Liquor | trust 0.0 | Barrel Liquor is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/barrel-liquor-fort-bend-county/
-3. Spec's | trust 0.0 | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county/
-4. Spec's | trust 0.0 | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county-n13459304172/
-5. Spec's | trust 0.0 | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county-n7443443404/
+1. ACE 1 LIQUOR | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | ACE 1 LIQUOR is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ace-1-liquor-fort-bend-county/
+2. Barrel Liquor | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Barrel Liquor is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/barrel-liquor-fort-bend-county/
+3. Spec's | Organic #3 | Pulse Score 43.2/100 (Building, #3 in city) | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county/
+4. Spec's | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county-n13459304172/
+5. Spec's | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Spec's is a liquor store in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fort-bend-county-n7443443404/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store fort bend county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

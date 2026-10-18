@@ -1,12 +1,12 @@
-The top unpaid staffing agency listing for Atlanta, GA is Georgia Medical Staffing (a staffing agency in Atlanta, GA at 648 Cleburne Terrace NE, Atlanta, GA 30306. Phone: +14046203523. Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency). 1 staffing agency businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Atlanta, GA is Georgia Medical Staffing (a staffing agency in Atlanta, GA at 648 Cleburne Terrace NE, Atlanta, GA 30306. Phone: +14046203523. Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency). 1 staffing agency businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Atlanta, GA?
 
 Also answers: staffing agency in Atlanta, GA; staffing agency near me (Atlanta, GA); best staffing agency Atlanta, GA; top rated staffing agency Atlanta, GA; affordable staffing agency Atlanta, GA; emergency staffing agency Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Georgia Medical Staffing | trust 20.0 | Georgia Medical Staffing is a staffing agency in Atlanta, GA at 648 Cleburne Terrace NE, Atlanta, GA 30306. Phone: +14046203523. Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency. | https://dingalinged-cpu.github.io/registry/c/georgia-medical-staffing-atlanta/
+1. Georgia Medical Staffing | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Georgia Medical Staffing is a staffing agency in Atlanta, GA at 648 Cleburne Terrace NE, Atlanta, GA 30306. Phone: +14046203523. Website: https://www.1stoprecruiting.com/georgia-medical-staffing-agency. | https://dingalinged-cpu.github.io/registry/c/georgia-medical-staffing-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency atlanta ga | category: b2b_services | industry benchmark: Business Services

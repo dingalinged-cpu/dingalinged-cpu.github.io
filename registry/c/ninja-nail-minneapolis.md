@@ -13,7 +13,7 @@ Ninja Nail is a nail salon in Minneapolis, MN. Website: https://www.nailninjampl
 - Website: https://www.nailninjampls.com/minneapolis
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 43% of nail salons in Minneapolis–St. Paul, #12 of 24 nail salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

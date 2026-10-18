@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Union Grove, WI is Family Dentists (a dentist in Union Grove, WI). 2 dentist businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Union Grove, WI is Family Dentists (a dentist in Union Grove, WI). 2 dentist businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Union Grove, WI?
 
 Also answers: dentist in Union Grove, WI; dentist near me (Union Grove, WI); best dentist Union Grove, WI; top rated dentist Union Grove, WI; affordable dentist Union Grove, WI; emergency dentist Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Family Dentists | trust 0.0 | Family Dentists is a dentist in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/family-dentists-union-grove/
-2. Midwest Dental | trust 0.0 | Midwest Dental is a dentist in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-union-grove/
+1. Family Dentists | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Family Dentists is a dentist in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/family-dentists-union-grove/
+2. Midwest Dental | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Midwest Dental is a dentist in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/midwest-dental-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist union grove wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

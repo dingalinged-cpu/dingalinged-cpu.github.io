@@ -13,7 +13,7 @@ Los Campeones is a gym in Minneapolis, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-22:00; Sa,Su 07:00-19:00
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.5/100 — Unrated (not enough evidence yet) — top 30% of gyms in Minneapolis–St. Paul, #21 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.9, Trust 43.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Adieu Laser & Aesthetics is a skin care studio in Cobb County, GA at 2960 Shallo
 - Website: https://sayadieu.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.3/100 — Fair — top 59% of skin care studios in Atlanta, #5 of 8 skin care studios in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73, Trust 38.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

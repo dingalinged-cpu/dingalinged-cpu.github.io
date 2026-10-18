@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Mansfield, TX is Leasor Crass, P.C. (a lawyer in Mansfield, TX at 302 West Broad Street, Mansfield, TX 76063). 1 lawyer businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Mansfield, TX is Leasor Crass, P.C. (a lawyer in Mansfield, TX at 302 West Broad Street, Mansfield, TX 76063). 1 lawyer businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Mansfield, TX?
 
 Also answers: lawyer in Mansfield, TX; lawyer near me (Mansfield, TX); best lawyer Mansfield, TX; top rated lawyer Mansfield, TX; affordable lawyer Mansfield, TX; emergency lawyer Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leasor Crass, P.C. | trust 4.0 | Leasor Crass, P.C. is a lawyer in Mansfield, TX at 302 West Broad Street, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/leasor-crass-p-c-mansfield/
+1. Leasor Crass, P.C. | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Leasor Crass, P.C. is a lawyer in Mansfield, TX at 302 West Broad Street, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/leasor-crass-p-c-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer mansfield tx | category: Legal | industry benchmark: Attorneys & Legal Services

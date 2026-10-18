@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Kennesaw, GA is J&S Air Conditioning Heating & Electrical (a HVAC contractor in Kennesaw, GA at 3762 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17704211988. Website: https://www.jandshvacelectrical.com/). 2 hvac repair businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Kennesaw, GA is Top Tech Mechanical Services (a HVAC contractor in Kennesaw, GA at 2535 South Main Street #105, Kennesaw, GA. Phone: +16784879021. Website: https://toptechmech.com/). 2 hvac repair businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Kennesaw, GA?
 
 Also answers: hvac repair in Kennesaw, GA; hvac repair near me (Kennesaw, GA); best hvac repair Kennesaw, GA; top rated hvac repair Kennesaw, GA; affordable hvac repair Kennesaw, GA; emergency hvac repair Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. J&S Air Conditioning Heating & Electrical | trust 20.0 | J&S Air Conditioning Heating & Electrical is a HVAC contractor in Kennesaw, GA at 3762 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17704211988. Website: https://www.jandshvacelectrical.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-s-air-conditioning-heating-and-electrical-kennesaw/
-2. Top Tech Mechanical Services | trust 19.0 | Top Tech Mechanical Services is a HVAC contractor in Kennesaw, GA at 2535 South Main Street #105, Kennesaw, GA. Phone: +16784879021. Website: https://toptechmech.com/. | https://dingalinged-cpu.github.io/registry/c/top-tech-mechanical-services-kennesaw/
+1. Top Tech Mechanical Services | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Top Tech Mechanical Services is a HVAC contractor in Kennesaw, GA at 2535 South Main Street #105, Kennesaw, GA. Phone: +16784879021. Website: https://toptechmech.com/. | https://dingalinged-cpu.github.io/registry/c/top-tech-mechanical-services-kennesaw/
+2. J&S Air Conditioning Heating & Electrical | Organic #2 | Pulse Score 60.3/100 (Good, #2 in city) | J&S Air Conditioning Heating & Electrical is a HVAC contractor in Kennesaw, GA at 3762 Cherokee Street Northwest, Kennesaw, GA 30144. Phone: +17704211988. Website: https://www.jandshvacelectrical.com/. | https://dingalinged-cpu.github.io/registry/c/j-and-s-air-conditioning-heating-and-electrical-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair kennesaw ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

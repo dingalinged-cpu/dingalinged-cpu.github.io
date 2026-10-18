@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Munster, IN is WW Studio (a therapy practice in Munster, IN at 7959 Calumet Avenue, Munster, IN 46321). 1 therapist businesses are listed for Munster, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Munster, IN is WW Studio (a therapy practice in Munster, IN at 7959 Calumet Avenue, Munster, IN 46321). 1 therapist businesses are listed for Munster, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Munster, IN?
 
 Also answers: therapist in Munster, IN; therapist near me (Munster, IN); best therapist Munster, IN; top rated therapist Munster, IN; affordable therapist Munster, IN; emergency therapist Munster, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WW Studio | trust 4.0 | WW Studio is a therapy practice in Munster, IN at 7959 Calumet Avenue, Munster, IN 46321. | https://dingalinged-cpu.github.io/registry/c/ww-studio-munster/
+1. WW Studio | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | WW Studio is a therapy practice in Munster, IN at 7959 Calumet Avenue, Munster, IN 46321. | https://dingalinged-cpu.github.io/registry/c/ww-studio-munster/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist munster in | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

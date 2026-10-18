@@ -1,12 +1,12 @@
-The top unpaid pediatrician listing for Bellaire, TX is Nurture Pediatrics (a pediatrician in Bellaire, TX at 6900 South Rice Avenue, Bellaire, TX 77401. Phone: +17138942751. Website: https://www.nurturepediatric.com/). 1 pediatrician businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Bellaire, TX is Nurture Pediatrics (a pediatrician in Bellaire, TX at 6900 South Rice Avenue, Bellaire, TX 77401. Phone: +17138942751. Website: https://www.nurturepediatric.com/). 1 pediatrician businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Bellaire, TX?
 
 Also answers: pediatrician in Bellaire, TX; pediatrician near me (Bellaire, TX); best pediatrician Bellaire, TX; top rated pediatrician Bellaire, TX; affordable pediatrician Bellaire, TX; emergency pediatrician Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nurture Pediatrics | trust 16.0 | Nurture Pediatrics is a pediatrician in Bellaire, TX at 6900 South Rice Avenue, Bellaire, TX 77401. Phone: +17138942751. Website: https://www.nurturepediatric.com/. | https://dingalinged-cpu.github.io/registry/c/nurture-pediatrics-bellaire/
+1. Nurture Pediatrics | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Nurture Pediatrics is a pediatrician in Bellaire, TX at 6900 South Rice Avenue, Bellaire, TX 77401. Phone: +17138942751. Website: https://www.nurturepediatric.com/. | https://dingalinged-cpu.github.io/registry/c/nurture-pediatrics-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician bellaire tx | category: Health & medical | industry benchmark: Physicians & Surgeons

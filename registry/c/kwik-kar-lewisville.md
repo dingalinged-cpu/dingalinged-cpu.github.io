@@ -13,7 +13,7 @@ Kwik Kar is an auto repair shop in Lewisville, TX at 1299 Justin Road, Lewisvill
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Unrated (not enough evidence yet) — top 89% of auto repair shops in Dallas–Fort Worth, #29 of 29 auto repair shops in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 43.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

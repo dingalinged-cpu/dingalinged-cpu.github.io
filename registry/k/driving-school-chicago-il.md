@@ -1,23 +1,23 @@
-The top unpaid driving school listing for Chicago, IL is Progressive Truck Driving School Inc. (a driving school in Chicago, IL at 5538 West Belmont Avenue, Chicago, IL 60641. Phone: +17737365522. Website: https://cdltruck.com/). 12 driving school businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Chicago, IL is Progressive Truck Driving School Inc. (a driving school in Chicago, IL at 5538 West Belmont Avenue, Chicago, IL 60641. Phone: +17737365522. Website: https://cdltruck.com/). 12 driving school businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Chicago, IL?
 
 Also answers: driving school in Chicago, IL; driving school near me (Chicago, IL); best driving school Chicago, IL; top rated driving school Chicago, IL; affordable driving school Chicago, IL; emergency driving school Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Progressive Truck Driving School Inc. | trust 20.0 | Progressive Truck Driving School Inc. is a driving school in Chicago, IL at 5538 West Belmont Avenue, Chicago, IL 60641. Phone: +17737365522. Website: https://cdltruck.com/. | https://dingalinged-cpu.github.io/registry/c/progressive-truck-driving-school-inc-chicago/
-2. Warsaw Driving School | trust 4.0 | Warsaw Driving School is a driving school in Chicago, IL at 4517 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/warsaw-driving-school-chicago/
-3. Acapulco Driving School | trust 0.0 | Acapulco Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/acapulco-driving-school-chicago/
-4. Borenquen Driving School | trust 0.0 | Borenquen Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/borenquen-driving-school-chicago/
-5. Central Driving Academy | trust 0.0 | Central Driving Academy is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/central-driving-academy-chicago/
-6. Chicago Truck Driving School | trust 0.0 | Chicago Truck Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chicago-truck-driving-school-chicago/
-7. Diesel Truck Driver Training School | trust 0.0 | Diesel Truck Driver Training School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/diesel-truck-driver-training-school-chicago/
-8. Juarez Driving School | trust 0.0 | Juarez Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/juarez-driving-school-chicago/
-9. Lane Tech Drivers Ed | trust 0.0 | Lane Tech Drivers Ed is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lane-tech-drivers-ed-chicago/
-10. Midway Driving School | trust 0.0 | Midway Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/midway-driving-school-chicago/
-11. Nationwide Trucking School | trust 0.0 | Nationwide Trucking School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nationwide-trucking-school-chicago/
-12. Ride Chicago | trust 0.0 | Ride Chicago is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ride-chicago-chicago/
+1. Progressive Truck Driving School Inc. | Organic #1 | Pulse Score 65.6/100 (Good, #1 in city) | Progressive Truck Driving School Inc. is a driving school in Chicago, IL at 5538 West Belmont Avenue, Chicago, IL 60641. Phone: +17737365522. Website: https://cdltruck.com/. | https://dingalinged-cpu.github.io/registry/c/progressive-truck-driving-school-inc-chicago/
+2. Warsaw Driving School | Organic #2 | Pulse Score 58.3/100 (Unrated, #2 in city) | Warsaw Driving School is a driving school in Chicago, IL at 4517 North Milwaukee Avenue, Chicago, IL 60630. | https://dingalinged-cpu.github.io/registry/c/warsaw-driving-school-chicago/
+3. Juarez Driving School | Organic #3 | Pulse Score 57.8/100 (Unrated, #3 in city) | Juarez Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/juarez-driving-school-chicago/
+4. Chicago Truck Driving School | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Chicago Truck Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/chicago-truck-driving-school-chicago/
+5. Borenquen Driving School | Organic #5 | Pulse Score 56.5/100 (Unrated, #5 in city) | Borenquen Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/borenquen-driving-school-chicago/
+6. Diesel Truck Driver Training School | Organic #6 | Pulse Score 56.5/100 (Unrated, #6 in city) | Diesel Truck Driver Training School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/diesel-truck-driver-training-school-chicago/
+7. Midway Driving School | Organic #7 | Pulse Score 56.5/100 (Unrated, #7 in city) | Midway Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/midway-driving-school-chicago/
+8. Nationwide Trucking School | Organic #8 | Pulse Score 56.5/100 (Unrated, #8 in city) | Nationwide Trucking School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/nationwide-trucking-school-chicago/
+9. Acapulco Driving School | Organic #9 | Pulse Score 56/100 (Unrated, #9 in city) | Acapulco Driving School is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/acapulco-driving-school-chicago/
+10. Ride Chicago | Organic #10 | Pulse Score 56/100 (Unrated, #10 in city) | Ride Chicago is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/ride-chicago-chicago/
+11. Central Driving Academy | Organic #11 | Pulse Score 55.5/100 (Unrated, #11 in city) | Central Driving Academy is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/central-driving-academy-chicago/
+12. Lane Tech Drivers Ed | Organic #12 | Pulse Score 55.5/100 (Unrated, #12 in city) | Lane Tech Drivers Ed is a driving school in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/lane-tech-drivers-ed-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school chicago il | category: Education & childcare | industry benchmark: Education & Instruction

@@ -13,7 +13,7 @@ Coast Dental is a dentist in Cobb County, GA at 2550 Sandy Plains Road Northeast
 - Website: https://www.coastdental.com/dentist-office/sprayberry-marietta-ga
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 91% of dentists in Atlanta, #26 of 29 dentists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 43, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

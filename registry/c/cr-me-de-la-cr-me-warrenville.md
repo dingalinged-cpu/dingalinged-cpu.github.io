@@ -13,7 +13,7 @@ Crème de la Crème is a daycare in Warrenville, IL at 4625 Weaver Parkway, Warr
 - Website: https://cremedelacreme.com/locations/warrenville-naperville-il/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Unrated (not enough evidence yet) — top 97% of daycares in Chicago, #1 of 1 daycares in Warrenville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.1, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

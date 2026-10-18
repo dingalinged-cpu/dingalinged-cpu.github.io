@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for Shorewood, WI is Main Salon Studios (a hair salon in Shorewood, WI at 1928 North Murray Avenue, Shorewood, WI 53211. Phone: +14149624004. Website: https://mainsalonstudios.com/). 6 hair salon businesses are listed for Shorewood, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Shorewood, WI is Main Salon Studios (a hair salon in Shorewood, WI at 1928 North Murray Avenue, Shorewood, WI 53211. Phone: +14149624004. Website: https://mainsalonstudios.com/). 6 hair salon businesses are listed for Shorewood, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Shorewood, WI?
 
 Also answers: hair salon in Shorewood, WI; hair salon near me (Shorewood, WI); best hair salon Shorewood, WI; top rated hair salon Shorewood, WI; affordable hair salon Shorewood, WI; emergency hair salon Shorewood, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Main Salon Studios | trust 16.0 | Main Salon Studios is a hair salon in Shorewood, WI at 1928 North Murray Avenue, Shorewood, WI 53211. Phone: +14149624004. Website: https://mainsalonstudios.com/. | https://dingalinged-cpu.github.io/registry/c/main-salon-studios-shorewood/
-2. Craft Salon | trust 10.0 | Craft Salon is a hair salon in Shorewood, WI at 2317 East Capitol Drive, Shorewood, WI 53211. Website: https://craftsalonmke.com/. | https://dingalinged-cpu.github.io/registry/c/craft-salon-shorewood/
-3. Manhattan’s Mens Grooming | trust 10.0 | Manhattan’s Mens Grooming is a hair salon in Shorewood, WI at 1808 East Capitol Drive, Shorewood, WI 53211. Phone: +14144050139. | https://dingalinged-cpu.github.io/registry/c/manhattan-s-mens-grooming-shorewood/
-4. Trilogy Hair Salon | trust 10.0 | Trilogy Hair Salon is a hair salon in Shorewood, WI at 1425 East Capitol Drive, Shorewood, WI 53211. Phone: +14145502335. | https://dingalinged-cpu.github.io/registry/c/trilogy-hair-salon-shorewood/
-5. Saint Moritz Salon | trust 4.0 | Saint Moritz Salon is a hair salon in Shorewood, WI at 3955 North Farwell Avenue, Shorewood, WI 53211. | https://dingalinged-cpu.github.io/registry/c/saint-moritz-salon-shorewood/
-6. Supercuts | trust 4.0 | Supercuts is a hair salon in Shorewood, WI at 3553 North Oakland Avenue, Shorewood, WI 53211. | https://dingalinged-cpu.github.io/registry/c/supercuts-shorewood/
+1. Main Salon Studios | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Main Salon Studios is a hair salon in Shorewood, WI at 1928 North Murray Avenue, Shorewood, WI 53211. Phone: +14149624004. Website: https://mainsalonstudios.com/. | https://dingalinged-cpu.github.io/registry/c/main-salon-studios-shorewood/
+2. Craft Salon | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | Craft Salon is a hair salon in Shorewood, WI at 2317 East Capitol Drive, Shorewood, WI 53211. Website: https://craftsalonmke.com/. | https://dingalinged-cpu.github.io/registry/c/craft-salon-shorewood/
+3. Manhattan’s Mens Grooming | Organic #3 | Pulse Score 59/100 (Unrated, #3 in city) | Manhattan’s Mens Grooming is a hair salon in Shorewood, WI at 1808 East Capitol Drive, Shorewood, WI 53211. Phone: +14144050139. | https://dingalinged-cpu.github.io/registry/c/manhattan-s-mens-grooming-shorewood/
+4. Trilogy Hair Salon | Organic #4 | Pulse Score 58.6/100 (Unrated, #4 in city) | Trilogy Hair Salon is a hair salon in Shorewood, WI at 1425 East Capitol Drive, Shorewood, WI 53211. Phone: +14145502335. | https://dingalinged-cpu.github.io/registry/c/trilogy-hair-salon-shorewood/
+5. Saint Moritz Salon | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Saint Moritz Salon is a hair salon in Shorewood, WI at 3955 North Farwell Avenue, Shorewood, WI 53211. | https://dingalinged-cpu.github.io/registry/c/saint-moritz-salon-shorewood/
+6. Supercuts | Organic #6 | Pulse Score 44/100 (Building, #6 in city) | Supercuts is a hair salon in Shorewood, WI at 3553 North Oakland Avenue, Shorewood, WI 53211. | https://dingalinged-cpu.github.io/registry/c/supercuts-shorewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon shorewood wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

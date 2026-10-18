@@ -1,15 +1,15 @@
-The top unpaid heating and air listing for Lewisville, TX is Frost Brothers Heating & Air (a HVAC contractor in Lewisville, TX at 320 Smith Street, Lewisville, TX 75057. Phone: +19728741001. Website: https://www.frostac.com/). 4 heating and air businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Lewisville, TX is TexAire Heating & Air Conditioning (a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/). 4 heating and air businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Lewisville, TX?
 
 Also answers: heating and air in Lewisville, TX; heating and air near me (Lewisville, TX); best heating and air Lewisville, TX; top rated heating and air Lewisville, TX; affordable heating and air Lewisville, TX; emergency heating and air Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Frost Brothers Heating & Air | trust 16.0 | Frost Brothers Heating & Air is a HVAC contractor in Lewisville, TX at 320 Smith Street, Lewisville, TX 75057. Phone: +19728741001. Website: https://www.frostac.com/. | https://dingalinged-cpu.github.io/registry/c/frost-brothers-heating-and-air-lewisville/
-2. TexAire Heating & Air Conditioning | trust 16.0 | TexAire Heating & Air Conditioning is a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/. | https://dingalinged-cpu.github.io/registry/c/texaire-heating-and-air-conditioning-lewisville/
-3. A #1 Air | trust 3.0 | A #1 Air is a HVAC contractor in Lewisville, TX at 601 East Corporate Drive, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/a-1-air-lewisville/
-4. Welch HVAC | trust 3.0 | Welch HVAC is a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/welch-hvac-lewisville/
+1. TexAire Heating & Air Conditioning | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | TexAire Heating & Air Conditioning is a HVAC contractor in Lewisville, TX at 2018 Briarcliff Road, Lewisville, TX 75067. Phone: +14694603491. Website: https://texaire.com/. | https://dingalinged-cpu.github.io/registry/c/texaire-heating-and-air-conditioning-lewisville/
+2. Welch HVAC | Organic #2 | Pulse Score 57.7/100 (Fair, #2 in city) | Welch HVAC is a HVAC contractor in Lewisville, TX at 118 North Edna Avenue #800, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/welch-hvac-lewisville/
+3. A #1 Air | Organic #3 | Pulse Score 57.5/100 (Fair, #3 in city) | A #1 Air is a HVAC contractor in Lewisville, TX at 601 East Corporate Drive, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/a-1-air-lewisville/
+4. Frost Brothers Heating & Air | Organic #4 | Pulse Score 57.3/100 (Unrated, #4 in city) | Frost Brothers Heating & Air is a HVAC contractor in Lewisville, TX at 320 Smith Street, Lewisville, TX 75057. Phone: +19728741001. Website: https://www.frostac.com/. | https://dingalinged-cpu.github.io/registry/c/frost-brothers-heating-and-air-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air lewisville tx | category: Home Services | industry benchmark: Home & Home Improvement

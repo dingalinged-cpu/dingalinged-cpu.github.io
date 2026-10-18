@@ -1,12 +1,12 @@
-The top unpaid accountant listing for The Woodlands, TX is Lomness CPA Services, Inc. (an accountant in The Woodlands, TX at 8505 Technology Forest Place #202, The Woodlands, TX 77381. Phone: +12819620310. Website: https://www.lomnesscpa.com/). 1 accountant businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for The Woodlands, TX is Lomness CPA Services, Inc. (an accountant in The Woodlands, TX at 8505 Technology Forest Place #202, The Woodlands, TX 77381. Phone: +12819620310. Website: https://www.lomnesscpa.com/). 1 accountant businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in The Woodlands, TX?
 
 Also answers: accountant in The Woodlands, TX; accountant near me (The Woodlands, TX); best accountant The Woodlands, TX; top rated accountant The Woodlands, TX; affordable accountant The Woodlands, TX; emergency accountant The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lomness CPA Services, Inc. | trust 20.0 | Lomness CPA Services, Inc. is an accountant in The Woodlands, TX at 8505 Technology Forest Place #202, The Woodlands, TX 77381. Phone: +12819620310. Website: https://www.lomnesscpa.com/. | https://dingalinged-cpu.github.io/registry/c/lomness-cpa-services-inc-the-woodlands/
+1. Lomness CPA Services, Inc. | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Lomness CPA Services, Inc. is an accountant in The Woodlands, TX at 8505 Technology Forest Place #202, The Woodlands, TX 77381. Phone: +12819620310. Website: https://www.lomnesscpa.com/. | https://dingalinged-cpu.github.io/registry/c/lomness-cpa-services-inc-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant the woodlands tx | category: professional_accounting | industry benchmark: Business Services

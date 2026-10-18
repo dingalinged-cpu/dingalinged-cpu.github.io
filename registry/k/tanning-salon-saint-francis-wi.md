@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Saint Francis, WI is L.A. Tan (a tanning salon in Saint Francis, WI at 3088 East Layton Avenue, Saint Francis, WI 53235). 1 tanning salon businesses are listed for Saint Francis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Saint Francis, WI is L.A. Tan (a tanning salon in Saint Francis, WI at 3088 East Layton Avenue, Saint Francis, WI 53235). 1 tanning salon businesses are listed for Saint Francis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Saint Francis, WI?
 
 Also answers: tanning salon in Saint Francis, WI; tanning salon near me (Saint Francis, WI); best tanning salon Saint Francis, WI; top rated tanning salon Saint Francis, WI; affordable tanning salon Saint Francis, WI; emergency tanning salon Saint Francis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. L.A. Tan | trust 4.0 | L.A. Tan is a tanning salon in Saint Francis, WI at 3088 East Layton Avenue, Saint Francis, WI 53235. | https://dingalinged-cpu.github.io/registry/c/l-a-tan-saint-francis/
+1. L.A. Tan | Organic #1 | Pulse Score 44.4/100 (Unrated, #1 in city) | L.A. Tan is a tanning salon in Saint Francis, WI at 3088 East Layton Avenue, Saint Francis, WI 53235. | https://dingalinged-cpu.github.io/registry/c/l-a-tan-saint-francis/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon saint francis wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Bedford, TX is United Cutz (a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595). 7 haircut businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Bedford, TX is United Cutz (a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595). 7 haircut businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Bedford, TX?
 
 Also answers: haircut in Bedford, TX; haircut near me (Bedford, TX); best haircut Bedford, TX; top rated haircut Bedford, TX; affordable haircut Bedford, TX; emergency haircut Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. United Cutz | trust 10.0 | United Cutz is a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595. | https://dingalinged-cpu.github.io/registry/c/united-cutz-bedford/
-2. Bedford Hair Salon | trust 4.0 | Bedford Hair Salon is a hair salon in Bedford, TX at 505 North Industrial Boulevard #200, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/bedford-hair-salon-bedford/
-3. Creative Edge Salons Suites | trust 4.0 | Creative Edge Salons Suites is a hair salon in Bedford, TX at 3708 Cheek Sparger Road #100, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/creative-edge-salons-suites-bedford/
-4. Pro Cuts | trust 4.0 | Pro Cuts is a hair salon in Bedford, TX at 237 North Industrial Boulevard, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/pro-cuts-bedford/
-5. Salon cheveux | trust 4.0 | Salon cheveux is a hair salon in Bedford, TX at 2900 State Highway 121 #160, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/salon-cheveux-bedford/
-6. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Bedford, TX at 3208 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bedford/
-7. Thread Beauty Salon and Spa | trust 4.0 | Thread Beauty Salon and Spa is a hair salon in Bedford, TX at 3340 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/thread-beauty-salon-and-spa-bedford/
+1. United Cutz | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | United Cutz is a barber shop in Bedford, TX at 3516 East Harwood Road #112, Bedford, TX 76021. Phone: +18172830595. | https://dingalinged-cpu.github.io/registry/c/united-cutz-bedford/
+2. Bedford Hair Salon | Organic #2 | Pulse Score 57.1/100 (Unrated, #1 in city) | Bedford Hair Salon is a hair salon in Bedford, TX at 505 North Industrial Boulevard #200, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/bedford-hair-salon-bedford/
+3. Creative Edge Salons Suites | Organic #3 | Pulse Score 57.1/100 (Unrated, #2 in city) | Creative Edge Salons Suites is a hair salon in Bedford, TX at 3708 Cheek Sparger Road #100, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/creative-edge-salons-suites-bedford/
+4. Salon cheveux | Organic #4 | Pulse Score 57.1/100 (Unrated, #3 in city) | Salon cheveux is a hair salon in Bedford, TX at 2900 State Highway 121 #160, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/salon-cheveux-bedford/
+5. Thread Beauty Salon and Spa | Organic #5 | Pulse Score 57.1/100 (Unrated, #4 in city) | Thread Beauty Salon and Spa is a hair salon in Bedford, TX at 3340 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/thread-beauty-salon-and-spa-bedford/
+6. Sport Clips | Organic #6 | Pulse Score 44.8/100 (Building, #5 in city) | Sport Clips is a hair salon in Bedford, TX at 3208 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/sport-clips-bedford/
+7. Pro Cuts | Organic #7 | Pulse Score 44.3/100 (Unrated, #6 in city) | Pro Cuts is a hair salon in Bedford, TX at 237 North Industrial Boulevard, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/pro-cuts-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut bedford tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

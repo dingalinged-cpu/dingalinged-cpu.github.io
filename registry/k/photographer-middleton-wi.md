@@ -1,12 +1,12 @@
-The top unpaid photographer listing for Middleton, WI is Portrait Innovations (a photographer in Middleton, WI). 1 photographer businesses are listed for Middleton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Middleton, WI is Portrait Innovations (a photographer in Middleton, WI). 1 photographer businesses are listed for Middleton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Middleton, WI?
 
 Also answers: photographer in Middleton, WI; photographer near me (Middleton, WI); best photographer Middleton, WI; top rated photographer Middleton, WI; affordable photographer Middleton, WI; emergency photographer Middleton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Portrait Innovations | trust 0.0 | Portrait Innovations is a photographer in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/portrait-innovations-middleton/
+1. Portrait Innovations | Organic #1 | Pulse Score 41.6/100 (Unrated, #1 in city) | Portrait Innovations is a photographer in Middleton, WI. | https://dingalinged-cpu.github.io/registry/c/portrait-innovations-middleton/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer middleton wi | category: Events & weddings | industry benchmark: Personal Services

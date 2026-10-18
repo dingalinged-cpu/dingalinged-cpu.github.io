@@ -1,17 +1,17 @@
-The top unpaid lawyer listing for Sandy Springs, GA is Scholle Law (a lawyer in Atlanta, GA at 1 Glenlake Parkway NE #700, Atlanta, GA 30328. Phone: +16783647358. Website: https://www.schollelaw.com/locations/perimeter). 6 lawyer businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Sandy Springs, GA is Singleton Law Firm, LLC (a lawyer in Atlanta, GA at 8425 Dunwoody Place, Atlanta, GA 30350. Phone: +17708896010. Website: https://atlantainjurycounsel.com/). 6 lawyer businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Sandy Springs, GA?
 
 Also answers: lawyer in Sandy Springs, GA; lawyer near me (Sandy Springs, GA); best lawyer Sandy Springs, GA; top rated lawyer Sandy Springs, GA; affordable lawyer Sandy Springs, GA; emergency lawyer Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Scholle Law | trust 20.0 | Scholle Law is a lawyer in Atlanta, GA at 1 Glenlake Parkway NE #700, Atlanta, GA 30328. Phone: +16783647358. Website: https://www.schollelaw.com/locations/perimeter. | https://dingalinged-cpu.github.io/registry/c/scholle-law-atlanta/
-2. Singleton Law Firm, LLC | trust 20.0 | Singleton Law Firm, LLC is a lawyer in Atlanta, GA at 8425 Dunwoody Place, Atlanta, GA 30350. Phone: +17708896010. Website: https://atlantainjurycounsel.com/. | https://dingalinged-cpu.github.io/registry/c/singleton-law-firm-llc-atlanta/
-3. The Bankruptcy Law Clinic of Daniel E. Raskin | trust 20.0 | The Bankruptcy Law Clinic of Daniel E. Raskin is a lawyer in Atlanta, GA at 325 Hammond Drive Northeast #114, Atlanta, GA 30328. Phone: +14042558878. Website: https://atlantabankruptcyattorneyraskin.net/. | https://dingalinged-cpu.github.io/registry/c/the-bankruptcy-law-clinic-of-daniel-e-raskin-atlanta/
-4. Flynn & Gottlieb, P.A. | trust 0.0 | Flynn & Gottlieb, P.A. is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/flynn-and-gottlieb-p-a-sandy-springs/
-5. SynerG | trust 0.0 | SynerG is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/synerg-sandy-springs/
-6. The Monk Law Firm | trust 0.0 | The Monk Law Firm is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/the-monk-law-firm-sandy-springs/
+1. Singleton Law Firm, LLC | Organic #1 | Pulse Score 63.9/100 (Good, #2 in city) | Singleton Law Firm, LLC is a lawyer in Atlanta, GA at 8425 Dunwoody Place, Atlanta, GA 30350. Phone: +17708896010. Website: https://atlantainjurycounsel.com/. | https://dingalinged-cpu.github.io/registry/c/singleton-law-firm-llc-atlanta/
+2. The Bankruptcy Law Clinic of Daniel E. Raskin | Organic #2 | Pulse Score 60.3/100 (Unrated, #16 in city) | The Bankruptcy Law Clinic of Daniel E. Raskin is a lawyer in Atlanta, GA at 325 Hammond Drive Northeast #114, Atlanta, GA 30328. Phone: +14042558878. Website: https://atlantabankruptcyattorneyraskin.net/. | https://dingalinged-cpu.github.io/registry/c/the-bankruptcy-law-clinic-of-daniel-e-raskin-atlanta/
+3. The Monk Law Firm | Organic #3 | Pulse Score 53.8/100 (Unrated, #1 in city) | The Monk Law Firm is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/the-monk-law-firm-sandy-springs/
+4. SynerG | Organic #4 | Pulse Score 53.7/100 (Unrated, #2 in city) | SynerG is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/synerg-sandy-springs/
+5. Flynn & Gottlieb, P.A. | Organic #5 | Pulse Score 53.7/100 (Unrated, #3 in city) | Flynn & Gottlieb, P.A. is a lawyer in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/flynn-and-gottlieb-p-a-sandy-springs/
+6. Scholle Law | Organic #6 | Pulse Score 49.5/100 (Unrated, #50 in city) | Scholle Law is a lawyer in Atlanta, GA at 1 Glenlake Parkway NE #700, Atlanta, GA 30328. Phone: +16783647358. Website: https://www.schollelaw.com/locations/perimeter. | https://dingalinged-cpu.github.io/registry/c/scholle-law-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer sandy springs ga | category: Legal | industry benchmark: Attorneys & Legal Services

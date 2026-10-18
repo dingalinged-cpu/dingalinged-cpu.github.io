@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Magnolia, TX is Spec's (a liquor store in Magnolia, TX at 3588 FM 1488, Magnolia, TX 77354). 2 liquor store businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Magnolia, TX is Silver Dollar Sprits & Wine (a liquor store in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355). 2 liquor store businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Magnolia, TX?
 
 Also answers: liquor store in Magnolia, TX; liquor store near me (Magnolia, TX); best liquor store Magnolia, TX; top rated liquor store Magnolia, TX; affordable liquor store Magnolia, TX; emergency liquor store Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's | trust 8.0 | Spec's is a liquor store in Magnolia, TX at 3588 FM 1488, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/specs-magnolia/
-2. Silver Dollar Sprits & Wine | trust 4.0 | Silver Dollar Sprits & Wine is a liquor store in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/silver-dollar-sprits-and-wine-magnolia/
+1. Silver Dollar Sprits & Wine | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Silver Dollar Sprits & Wine is a liquor store in Magnolia, TX at 19520 Farm-to-Market Road 1488, Magnolia, TX 77355. | https://dingalinged-cpu.github.io/registry/c/silver-dollar-sprits-and-wine-magnolia/
+2. Spec's | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Spec's is a liquor store in Magnolia, TX at 3588 FM 1488, Magnolia, TX 77354. | https://dingalinged-cpu.github.io/registry/c/specs-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store magnolia tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

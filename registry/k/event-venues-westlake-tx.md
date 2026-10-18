@@ -1,14 +1,14 @@
-The top unpaid event venues listing for Westlake, TX is Chapel at Entrada (an event venue in Westlake, TX at 49 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/). 3 event venues businesses are listed for Westlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Westlake, TX is Palacios (an event venue in Westlake, TX at 43 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/). 3 event venues businesses are listed for Westlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Westlake, TX?
 
 Also answers: event venues in Westlake, TX; event venues near me (Westlake, TX); best event venues Westlake, TX; top rated event venues Westlake, TX; affordable event venues Westlake, TX; emergency event venues Westlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chapel at Entrada | trust 10.0 | Chapel at Entrada is an event venue in Westlake, TX at 49 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/. | https://dingalinged-cpu.github.io/registry/c/chapel-at-entrada-westlake/
-2. Palacios | trust 10.0 | Palacios is an event venue in Westlake, TX at 43 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/. | https://dingalinged-cpu.github.io/registry/c/palacios-westlake/
-3. The Caspian | trust 0.0 | The Caspian is an event venue in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/the-caspian-westlake/
+1. Palacios | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Palacios is an event venue in Westlake, TX at 43 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/. | https://dingalinged-cpu.github.io/registry/c/palacios-westlake/
+2. Chapel at Entrada | Organic #2 | Pulse Score 59.1/100 (Unrated, #2 in city) | Chapel at Entrada is an event venue in Westlake, TX at 49 Tarragona Drive, Westlake, TX 76262. Website: https://waltersweddingestates.com/venues/chapel-at-entrada-westlake/. | https://dingalinged-cpu.github.io/registry/c/chapel-at-entrada-westlake/
+3. The Caspian | Organic #3 | Pulse Score 54.1/100 (Unrated, #3 in city) | The Caspian is an event venue in Westlake, TX. | https://dingalinged-cpu.github.io/registry/c/the-caspian-westlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues westlake tx | category: Events & weddings | industry benchmark: Personal Services

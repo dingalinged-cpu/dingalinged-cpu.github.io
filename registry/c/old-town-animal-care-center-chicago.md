@@ -13,7 +13,7 @@ Old Town Animal Care Center is a veterinarian in Chicago, IL at 511 West North A
 - Website: https://www.oldtownvetcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, We, Fr 06:30-19:00; Tu, Th 06:30-20:00; Sa 06:30-15:00; Su 09:00-14:00
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 28% of veterinarians in Chicago, #16 of 51 veterinarians in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.7, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid financial advisor listing for Rockwall, TX is Edward Jones Investments (a financial advisor in Rockwall, TX at 959 Ralph Hall Parkway #105, Rockwall, TX 75032. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-hooper). 5 financial advisor businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Rockwall, TX is Epstein & Kolacz (a financial advisor in Rockwall, TX at 2600 Ridge Road, Rockwall, TX). 5 financial advisor businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Rockwall, TX?
 
 Also answers: financial advisor in Rockwall, TX; financial advisor near me (Rockwall, TX); best financial advisor Rockwall, TX; top rated financial advisor Rockwall, TX; affordable financial advisor Rockwall, TX; emergency financial advisor Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones Investments | trust 10.0 | Edward Jones Investments is a financial advisor in Rockwall, TX at 959 Ralph Hall Parkway #105, Rockwall, TX 75032. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-hooper. | https://dingalinged-cpu.github.io/registry/c/edward-jones-investments-rockwall/
-2. Epstein & Kolacz | trust 7.0 | Epstein & Kolacz is a financial advisor in Rockwall, TX at 2600 Ridge Road, Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/epstein-and-kolacz-rockwall/
-3. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Rockwall, TX at 741 Justin Road, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/edward-jones-rockwall-n12214473477/
-4. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-rockwall/
-5. Red Star Credit Consulting | trust 0.0 | Red Star Credit Consulting is a financial advisor in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/red-star-credit-consulting-rockwall/
+1. Epstein & Kolacz | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Epstein & Kolacz is a financial advisor in Rockwall, TX at 2600 Ridge Road, Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/epstein-and-kolacz-rockwall/
+2. Red Star Credit Consulting | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Red Star Credit Consulting is a financial advisor in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/red-star-credit-consulting-rockwall/
+3. Edward Jones Investments | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | Edward Jones Investments is a financial advisor in Rockwall, TX at 959 Ralph Hall Parkway #105, Rockwall, TX 75032. Website: https://www.edwardjones.com/us-en/financial-advisor/todd-hooper. | https://dingalinged-cpu.github.io/registry/c/edward-jones-investments-rockwall/
+4. Edward Jones | Organic #4 | Pulse Score 44.8/100 (Building, #4 in city) | Edward Jones is a financial advisor in Rockwall, TX at 741 Justin Road, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/edward-jones-rockwall-n12214473477/
+5. Edward Jones | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Edward Jones is a financial advisor in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor rockwall tx | category: Professional & financial services | industry benchmark: Finance & Insurance

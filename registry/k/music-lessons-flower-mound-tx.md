@@ -1,15 +1,15 @@
-The top unpaid music lessons listing for Flower Mound, TX is House of Rock (a music school in Flower Mound, TX. Phone: +19725390761. Website: https://flowermound.schoolofrock.com/). 4 music lessons businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Flower Mound, TX is House of Rock (a music school in Flower Mound, TX. Phone: +19725390761. Website: https://flowermound.schoolofrock.com/). 4 music lessons businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Flower Mound, TX?
 
 Also answers: music lessons in Flower Mound, TX; music lessons near me (Flower Mound, TX); best music lessons Flower Mound, TX; top rated music lessons Flower Mound, TX; affordable music lessons Flower Mound, TX; emergency music lessons Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. House of Rock | trust 16.0 | House of Rock is a music school in Flower Mound, TX. Phone: +19725390761. Website: https://flowermound.schoolofrock.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-rock-flower-mound/
-2. Lone Star Music Academy | trust 16.0 | Lone Star Music Academy is a music school in Flower Mound, TX. Phone: +19726913311. Website: https://www.lonestarmusicacademy.com/. | https://dingalinged-cpu.github.io/registry/c/lone-star-music-academy-flower-mound/
-3. Flower Mound Music Academy | trust 3.0 | Flower Mound Music Academy is a music school in Flower Mound, TX at 3401 Cross Timbers Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/flower-mound-music-academy-flower-mound/
-4. Rojas School of Music | trust 0.0 | Rojas School of Music is a music school in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/rojas-school-of-music-flower-mound/
+1. House of Rock | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | House of Rock is a music school in Flower Mound, TX. Phone: +19725390761. Website: https://flowermound.schoolofrock.com/. | https://dingalinged-cpu.github.io/registry/c/house-of-rock-flower-mound/
+2. Lone Star Music Academy | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Lone Star Music Academy is a music school in Flower Mound, TX. Phone: +19726913311. Website: https://www.lonestarmusicacademy.com/. | https://dingalinged-cpu.github.io/registry/c/lone-star-music-academy-flower-mound/
+3. Flower Mound Music Academy | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Flower Mound Music Academy is a music school in Flower Mound, TX at 3401 Cross Timbers Road, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/flower-mound-music-academy-flower-mound/
+4. Rojas School of Music | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Rojas School of Music is a music school in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/rojas-school-of-music-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons flower mound tx | category: Education & childcare | industry benchmark: Education & Instruction

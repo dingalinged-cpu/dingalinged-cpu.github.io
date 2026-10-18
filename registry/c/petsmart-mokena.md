@@ -13,7 +13,7 @@ PetSmart is a pet store in Mokena, IL at 21430 Wolf Road, Mokena, IL 60448. Phon
 - Website: https://www.petsmart.com/stores/us/il/mokena-store1656.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 43% of pet stores in Chicago, #1 of 1 pet stores in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 65.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for Mansfield, TX is National Tire and Battery (an auto repair shop in Mansfield, TX. Website: https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492). 2 auto repair businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Mansfield, TX is National Tire and Battery (an auto repair shop in Mansfield, TX. Website: https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492). 2 auto repair businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Mansfield, TX?
 
 Also answers: auto repair in Mansfield, TX; auto repair near me (Mansfield, TX); best auto repair Mansfield, TX; top rated auto repair Mansfield, TX; affordable auto repair Mansfield, TX; emergency auto repair Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. National Tire and Battery | trust 6.0 | National Tire and Battery is an auto repair shop in Mansfield, TX. Website: https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-mansfield/
-2. Firestone | trust 0.0 | Firestone is an auto repair shop in Mansfield, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-mansfield/
+1. National Tire and Battery | Organic #1 | Pulse Score 43.8/100 (Building, #1 in city) | National Tire and Battery is an auto repair shop in Mansfield, TX. Website: https://www.ntb.com/store/tx/mansfield/1251-highway-287-n-76063/4492. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-mansfield/
+2. Firestone | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Firestone is an auto repair shop in Mansfield, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair mansfield tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Valley Pastries is a bakery in Golden Valley, MN at 2570 Hillsboro Avenue North,
 - Website: https://www.valleypastries.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Su 05:00-11:00
-- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 31% of bakerys in Minneapolis–St. Paul, #1 of 1 bakerys in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

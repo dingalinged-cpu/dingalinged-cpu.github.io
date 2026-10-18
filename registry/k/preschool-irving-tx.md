@@ -1,14 +1,14 @@
-The top unpaid preschool listing for Irving, TX is Primrose School of Valley Ranch (a preschool in Irving, TX. Phone: +19724449500. Website: https://www.primroseschools.com/schools/valley-ranch/). 3 preschool businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Irving, TX is New Age Montessori (a preschool in Irving, TX. Phone: +19729109730. Website: https://www.newagemontessori.com/). 3 preschool businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Irving, TX?
 
 Also answers: preschool in Irving, TX; preschool near me (Irving, TX); best preschool Irving, TX; top rated preschool Irving, TX; affordable preschool Irving, TX; emergency preschool Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Primrose School of Valley Ranch | trust 16.0 | Primrose School of Valley Ranch is a preschool in Irving, TX. Phone: +19724449500. Website: https://www.primroseschools.com/schools/valley-ranch/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-valley-ranch-irving/
-2. New Age Montessori | trust 12.0 | New Age Montessori is a preschool in Irving, TX. Phone: +19729109730. Website: https://www.newagemontessori.com/. | https://dingalinged-cpu.github.io/registry/c/new-age-montessori-irving/
-3. Leaders Bilingual Academy | trust 0.0 | Leaders Bilingual Academy is a preschool in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/leaders-bilingual-academy-irving/
+1. New Age Montessori | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | New Age Montessori is a preschool in Irving, TX. Phone: +19729109730. Website: https://www.newagemontessori.com/. | https://dingalinged-cpu.github.io/registry/c/new-age-montessori-irving/
+2. Leaders Bilingual Academy | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Leaders Bilingual Academy is a preschool in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/leaders-bilingual-academy-irving/
+3. Primrose School of Valley Ranch | Organic #3 | Pulse Score 48.1/100 (Building, #3 in city) | Primrose School of Valley Ranch is a preschool in Irving, TX. Phone: +19724449500. Website: https://www.primroseschools.com/schools/valley-ranch/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-valley-ranch-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool irving tx | category: Education & childcare | industry benchmark: Education & Instruction

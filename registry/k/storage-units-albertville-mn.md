@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Albertville, MN is Stan's Storage (a self-storage facility in Albertville, MN at 6000 Labeaux Avenue Northeast, Albertville, MN 55301). 1 storage units businesses are listed for Albertville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Albertville, MN is Stan's Storage (a self-storage facility in Albertville, MN at 6000 Labeaux Avenue Northeast, Albertville, MN 55301). 1 storage units businesses are listed for Albertville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Albertville, MN?
 
 Also answers: storage units in Albertville, MN; storage units near me (Albertville, MN); best storage units Albertville, MN; top rated storage units Albertville, MN; affordable storage units Albertville, MN; emergency storage units Albertville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stan's Storage | trust 4.0 | Stan's Storage is a self-storage facility in Albertville, MN at 6000 Labeaux Avenue Northeast, Albertville, MN 55301. | https://dingalinged-cpu.github.io/registry/c/stans-storage-albertville/
+1. Stan's Storage | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Stan's Storage is a self-storage facility in Albertville, MN at 6000 Labeaux Avenue Northeast, Albertville, MN 55301. | https://dingalinged-cpu.github.io/registry/c/stans-storage-albertville/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units albertville mn | category: Home services - Moving | industry benchmark: Home & Home Improvement

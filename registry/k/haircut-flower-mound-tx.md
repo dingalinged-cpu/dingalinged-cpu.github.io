@@ -1,26 +1,26 @@
-The top unpaid haircut listing for Flower Mound, TX is Wolfin Barber Shop (a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/). 15 haircut businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Flower Mound, TX is Wolfin Barber Shop (a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/). 15 haircut businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Flower Mound, TX?
 
 Also answers: haircut in Flower Mound, TX; haircut near me (Flower Mound, TX); best haircut Flower Mound, TX; top rated haircut Flower Mound, TX; affordable haircut Flower Mound, TX; emergency haircut Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wolfin Barber Shop | trust 20.0 | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
-2. Miracles Joy Salon | trust 10.0 | Miracles Joy Salon is a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/. | https://dingalinged-cpu.github.io/registry/c/miracles-joy-salon-flower-mound/
-3. Don Juan's Barbershop | trust 4.0 | Don Juan's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/don-juans-barbershop-flower-mound/
-4. Floyd's Barber Shop | trust 4.0 | Floyd's Barber Shop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-flower-mound/
-5. Leo's Barber Shack | trust 4.0 | Leo's Barber Shack is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/leos-barber-shack-flower-mound/
-6. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound-n13915270245/
-7. Amber Michelle Salon | trust 0.0 | Amber Michelle Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/amber-michelle-salon-flower-mound/
-8. Barbershop at Lakeside | trust 0.0 | Barbershop at Lakeside is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/barbershop-at-lakeside-flower-mound/
-9. David Ryan Salon | trust 0.0 | David Ryan Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/david-ryan-salon-flower-mound/
-10. Great Clips | trust 0.0 | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound/
-11. Great Clips | trust 0.0 | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound-n12919987777/
-12. Mel's Barbershop | trust 0.0 | Mel's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mels-barbershop-flower-mound/
-13. Roosters Men's Grooming Center | trust 0.0 | Roosters Men's Grooming Center is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-flower-mound/
-14. Sport Clips | trust 0.0 | Sport Clips is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound/
-15. Supercuts | trust 0.0 | Supercuts is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-flower-mound/
+1. Wolfin Barber Shop | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Wolfin Barber Shop is a barber shop in Flower Mound, TX at 3349 Long Prairie Road, Flower Mound, TX 75022. Phone: +12145130023. Website: https://www.wolfinbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/wolfin-barber-shop-flower-mound/
+2. Miracles Joy Salon | Organic #2 | Pulse Score 61/100 (Unrated, #1 in city) | Miracles Joy Salon is a hair salon in Flower Mound, TX. Website: https://www.myjoysalons.com/. | https://dingalinged-cpu.github.io/registry/c/miracles-joy-salon-flower-mound/
+3. Leo's Barber Shack | Organic #3 | Pulse Score 60.2/100 (Unrated, #2 in city) | Leo's Barber Shack is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/leos-barber-shack-flower-mound/
+4. Don Juan's Barbershop | Organic #4 | Pulse Score 59.1/100 (Unrated, #2 in city) | Don Juan's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/don-juans-barbershop-flower-mound/
+5. Amber Michelle Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #3 in city) | Amber Michelle Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/amber-michelle-salon-flower-mound/
+6. David Ryan Salon | Organic #6 | Pulse Score 54.5/100 (Unrated, #4 in city) | David Ryan Salon is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/david-ryan-salon-flower-mound/
+7. Mel's Barbershop | Organic #7 | Pulse Score 54.5/100 (Unrated, #5 in city) | Mel's Barbershop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/mels-barbershop-flower-mound/
+8. Barbershop at Lakeside | Organic #8 | Pulse Score 54.4/100 (Unrated, #3 in city) | Barbershop at Lakeside is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/barbershop-at-lakeside-flower-mound/
+9. Sport Clips | Organic #9 | Pulse Score 47.5/100 (Building, #6 in city) | Sport Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound-n13915270245/
+10. Floyd's Barber Shop | Organic #10 | Pulse Score 46.3/100 (Building, #7 in city) | Floyd's Barber Shop is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/floyds-barber-shop-flower-mound/
+11. Sport Clips | Organic #11 | Pulse Score 42.5/100 (Building, #4 in city) | Sport Clips is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-flower-mound/
+12. Great Clips | Organic #12 | Pulse Score 42.2/100 (Building, #8 in city) | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound/
+13. Great Clips | Organic #13 | Pulse Score 42.2/100 (Building, #9 in city) | Great Clips is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-flower-mound-n12919987777/
+14. Supercuts | Organic #14 | Pulse Score 42.2/100 (Building, #10 in city) | Supercuts is a hair salon in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-flower-mound/
+15. Roosters Men's Grooming Center | Organic #15 | Pulse Score 41.6/100 (Unrated, #5 in city) | Roosters Men's Grooming Center is a barber shop in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/roosters-mens-grooming-center-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut flower mound tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

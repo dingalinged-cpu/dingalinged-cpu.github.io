@@ -13,7 +13,7 @@ Gino's Classic Barbers is a barber shop in Atlanta, GA at 1170 Crescent Avenue N
 - Website: https://www.ginosclassicbarbers.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu-Sa 09:00-18:00; Su 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 4% of barber shops in Atlanta, #1 of 8 barber shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.4, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

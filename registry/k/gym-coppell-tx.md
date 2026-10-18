@@ -1,16 +1,16 @@
-The top unpaid gym listing for Coppell, TX is Club4 Fitness Coppell (a gym in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX 75019. Phone: +14698442580. Website: https://www.club4fitness.com/location/coppell/). 5 gym businesses are listed for Coppell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Coppell, TX is Johnny's Performance Training (a gym in Coppell, TX at 150 South Denton Tap Road, Coppell, TX. Phone: +12143164952. Website: https://johnnysperformancetraining.com/). 5 gym businesses are listed for Coppell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Coppell, TX?
 
 Also answers: gym in Coppell, TX; gym near me (Coppell, TX); best gym Coppell, TX; top rated gym Coppell, TX; affordable gym Coppell, TX; emergency gym Coppell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club4 Fitness Coppell | trust 20.0 | Club4 Fitness Coppell is a gym in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX 75019. Phone: +14698442580. Website: https://www.club4fitness.com/location/coppell/. | https://dingalinged-cpu.github.io/registry/c/club4-fitness-coppell-coppell/
-2. Orangetheory Fitness | trust 20.0 | Orangetheory Fitness is a gym in Coppell, TX at 240 North Denton Tap Road ##440, Coppell, TX 75019. Phone: +12143009983. Website: https://www.orangetheory.com/en-us/locations/coppell-texas-0138. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-coppell/
-3. Johnny's Performance Training | trust 19.0 | Johnny's Performance Training is a gym in Coppell, TX at 150 South Denton Tap Road, Coppell, TX. Phone: +12143164952. Website: https://johnnysperformancetraining.com/. | https://dingalinged-cpu.github.io/registry/c/johnnys-performance-training-coppell/
-4. Texas Family Fitness | trust 4.0 | Texas Family Fitness is a gym in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/texas-family-fitness-coppell/
-5. Vistara Sports | trust 3.0 | Vistara Sports is a gym in Coppell, TX at 400 West Vista Ridge Mall Drive, Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/vistara-sports-coppell/
+1. Johnny's Performance Training | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Johnny's Performance Training is a gym in Coppell, TX at 150 South Denton Tap Road, Coppell, TX. Phone: +12143164952. Website: https://johnnysperformancetraining.com/. | https://dingalinged-cpu.github.io/registry/c/johnnys-performance-training-coppell/
+2. Club4 Fitness Coppell | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Club4 Fitness Coppell is a gym in Coppell, TX at 820 South MacArthur Boulevard, Coppell, TX 75019. Phone: +14698442580. Website: https://www.club4fitness.com/location/coppell/. | https://dingalinged-cpu.github.io/registry/c/club4-fitness-coppell-coppell/
+3. Vistara Sports | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Vistara Sports is a gym in Coppell, TX at 400 West Vista Ridge Mall Drive, Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/vistara-sports-coppell/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 48.8/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Coppell, TX at 240 North Denton Tap Road ##440, Coppell, TX 75019. Phone: +12143009983. Website: https://www.orangetheory.com/en-us/locations/coppell-texas-0138. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-coppell/
+5. Texas Family Fitness | Organic #5 | Pulse Score 44.8/100 (Unrated, #5 in city) | Texas Family Fitness is a gym in Coppell, TX. | https://dingalinged-cpu.github.io/registry/c/texas-family-fitness-coppell/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym coppell tx | category: Fitness | industry benchmark: Health & Fitness

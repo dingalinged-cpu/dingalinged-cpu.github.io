@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Morton Grove, IL is Advanced Dentistry at Morton Grove (a dentist in Morton Grove, IL at 5821 West Dempster Street, Morton Grove, IL 60053. Phone: +18475811942. Website: https://www.myadvanceddentistry.com/). 3 dentist businesses are listed for Morton Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Morton Grove, IL is Advanced Dentistry at Morton Grove (a dentist in Morton Grove, IL at 5821 West Dempster Street, Morton Grove, IL 60053. Phone: +18475811942. Website: https://www.myadvanceddentistry.com/). 3 dentist businesses are listed for Morton Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Morton Grove, IL?
 
 Also answers: dentist in Morton Grove, IL; dentist near me (Morton Grove, IL); best dentist Morton Grove, IL; top rated dentist Morton Grove, IL; affordable dentist Morton Grove, IL; emergency dentist Morton Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Advanced Dentistry at Morton Grove | trust 20.0 | Advanced Dentistry at Morton Grove is a dentist in Morton Grove, IL at 5821 West Dempster Street, Morton Grove, IL 60053. Phone: +18475811942. Website: https://www.myadvanceddentistry.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-dentistry-at-morton-grove-morton-grove/
-2. Aspen Dental | trust 4.0 | Aspen Dental is a dentist in Morton Grove, IL at 6821 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-morton-grove/
-3. Dental Clinic of Morton Grove | trust 4.0 | Dental Clinic of Morton Grove is a dentist in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/dental-clinic-of-morton-grove-morton-grove/
+1. Advanced Dentistry at Morton Grove | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Advanced Dentistry at Morton Grove is a dentist in Morton Grove, IL at 5821 West Dempster Street, Morton Grove, IL 60053. Phone: +18475811942. Website: https://www.myadvanceddentistry.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-dentistry-at-morton-grove-morton-grove/
+2. Dental Clinic of Morton Grove | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Dental Clinic of Morton Grove is a dentist in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/dental-clinic-of-morton-grove-morton-grove/
+3. Aspen Dental | Organic #3 | Pulse Score 44.5/100 (Building, #3 in city) | Aspen Dental is a dentist in Morton Grove, IL at 6821 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-morton-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist morton grove il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,14 +1,14 @@
-The top unpaid gym listing for Dunwoody, GA is Curves (a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1). 3 gym businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Dunwoody, GA is Curves (a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1). 3 gym businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Dunwoody, GA?
 
 Also answers: gym in Dunwoody, GA; gym near me (Dunwoody, GA); best gym Dunwoody, GA; top rated gym Dunwoody, GA; affordable gym Dunwoody, GA; emergency gym Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Curves | trust 20.0 | Curves is a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1. | https://dingalinged-cpu.github.io/registry/c/curves-dunwoody/
-2. Pure Barre | trust 4.0 | Pure Barre is a gym in Dunwoody, GA at 5539 Chamblee Dunwoody Road, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/pure-barre-dunwoody/
-3. Crunch Fitness | trust 3.0 | Crunch Fitness is a gym in Dunwoody, GA at 4530 Olde Perimeter Way, Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-dunwoody/
+1. Curves | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | Curves is a gym in Dunwoody, GA at 1424 Dunwoody Village Parkway, Dunwoody, GA 30338. Phone: +17705229721. Website: https://www.curves.com/locations/club/GA/US/30338/Dunwoody-1. | https://dingalinged-cpu.github.io/registry/c/curves-dunwoody/
+2. Pure Barre | Organic #2 | Pulse Score 44.2/100 (Building, #2 in city) | Pure Barre is a gym in Dunwoody, GA at 5539 Chamblee Dunwoody Road, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/pure-barre-dunwoody/
+3. Crunch Fitness | Organic #3 | Pulse Score 44/100 (Building, #3 in city) | Crunch Fitness is a gym in Dunwoody, GA at 4530 Olde Perimeter Way, Dunwoody, GA. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym dunwoody ga | category: Fitness | industry benchmark: Health & Fitness

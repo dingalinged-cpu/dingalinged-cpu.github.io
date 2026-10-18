@@ -1,12 +1,12 @@
-The top unpaid dog boarding listing for Mckinney, TX is Dogtopia (a dog boarding facility in McKinney, TX at 8416 Stacy Road, McKinney, TX 75070). 1 dog boarding businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog boarding listing for Mckinney, TX is Dogtopia (a dog boarding facility in McKinney, TX at 8416 Stacy Road, McKinney, TX 75070). 1 dog boarding businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog boarding providers in Mckinney, TX?
 
 Also answers: dog boarding in Mckinney, TX; dog boarding near me (Mckinney, TX); best dog boarding Mckinney, TX; top rated dog boarding Mckinney, TX; affordable dog boarding Mckinney, TX; emergency dog boarding Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dogtopia | trust 4.0 | Dogtopia is a dog boarding facility in McKinney, TX at 8416 Stacy Road, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/dogtopia-mckinney/
+1. Dogtopia | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Dogtopia is a dog boarding facility in McKinney, TX at 8416 Stacy Road, McKinney, TX 75070. | https://dingalinged-cpu.github.io/registry/c/dogtopia-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog boarding mckinney tx | category: Pets | industry benchmark: Animals & Pets

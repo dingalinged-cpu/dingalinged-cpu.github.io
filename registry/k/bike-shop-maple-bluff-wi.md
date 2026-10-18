@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Maple Bluff, WI is Black Saddle Bike Shop (a bike shop in Madison, WI at 601 North Sherman Avenue #Suite F, Madison, WI 53704. Phone: +16082839568. Website: https://blacksaddlebikeshop.com/). 1 bike shop businesses are listed for Maple Bluff, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Maple Bluff, WI is Black Saddle Bike Shop (a bike shop in Madison, WI at 601 North Sherman Avenue #Suite F, Madison, WI 53704. Phone: +16082839568. Website: https://blacksaddlebikeshop.com/). 1 bike shop businesses are listed for Maple Bluff, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Maple Bluff, WI?
 
 Also answers: bike shop in Maple Bluff, WI; bike shop near me (Maple Bluff, WI); best bike shop Maple Bluff, WI; top rated bike shop Maple Bluff, WI; affordable bike shop Maple Bluff, WI; emergency bike shop Maple Bluff, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Saddle Bike Shop | trust 16.0 | Black Saddle Bike Shop is a bike shop in Madison, WI at 601 North Sherman Avenue #Suite F, Madison, WI 53704. Phone: +16082839568. Website: https://blacksaddlebikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/black-saddle-bike-shop-madison/
+1. Black Saddle Bike Shop | Organic #1 | Pulse Score 59.3/100 (Unrated, #13 in city) | Black Saddle Bike Shop is a bike shop in Madison, WI at 601 North Sherman Avenue #Suite F, Madison, WI 53704. Phone: +16082839568. Website: https://blacksaddlebikeshop.com/. | https://dingalinged-cpu.github.io/registry/c/black-saddle-bike-shop-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop maple bluff wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

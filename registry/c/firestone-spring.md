@@ -13,7 +13,7 @@ Firestone is an auto repair shop in Spring, TX at 6024 FM 2920, Spring, TX 77379
 - Website: https://local.firestonecompleteautocare.com/texas/spring/6024-farm-to-market-2920
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Building — top 67% of auto repair shops in Houston, #21 of 30 auto repair shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.9, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

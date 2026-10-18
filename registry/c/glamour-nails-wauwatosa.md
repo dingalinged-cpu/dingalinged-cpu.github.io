@@ -13,7 +13,7 @@ Glamour Nails is a nail salon in Wauwatosa, WI at 841 North Mayfair Road, Wauwat
 - Website: https://glamournailsmke.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00, Su 11:00-16:00
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 90% of nail salons in Milwaukee, #10 of 10 nail salons in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 63.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

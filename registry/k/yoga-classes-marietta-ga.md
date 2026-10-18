@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Marietta, GA is Studio Ife Dance And Yoga (a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/). 2 yoga classes businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Marietta, GA is Studio Ife Dance And Yoga (a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/). 2 yoga classes businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Marietta, GA?
 
 Also answers: yoga classes in Marietta, GA; yoga classes near me (Marietta, GA); best yoga classes Marietta, GA; top rated yoga classes Marietta, GA; affordable yoga classes Marietta, GA; emergency yoga classes Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Studio Ife Dance And Yoga | trust 19.0 | Studio Ife Dance And Yoga is a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/. | https://dingalinged-cpu.github.io/registry/c/studio-ife-dance-and-yoga-marietta/
-2. be yoga Atlanta | trust 16.0 | be yoga Atlanta is a yoga studio in Marietta, GA at 107 Church Street, Marietta, GA 30060. Phone: +14046421877. Website: https://www.beyogaatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/be-yoga-atlanta-marietta/
+1. Studio Ife Dance And Yoga | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Studio Ife Dance And Yoga is a dance studio in Marietta, GA at 1477 Roswell Road #250, Marietta, GA. Phone: +16782504042. Website: https://studioife.com/. | https://dingalinged-cpu.github.io/registry/c/studio-ife-dance-and-yoga-marietta/
+2. be yoga Atlanta | Organic #2 | Pulse Score 59.9/100 (Unrated, #1 in city) | be yoga Atlanta is a yoga studio in Marietta, GA at 107 Church Street, Marietta, GA 30060. Phone: +14046421877. Website: https://www.beyogaatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/be-yoga-atlanta-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes marietta ga | category: Fitness | industry benchmark: Health & Fitness

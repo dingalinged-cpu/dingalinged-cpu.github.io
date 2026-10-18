@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Worth, IL is Garden Chalet (an event venue in Worth, IL). 1 event venues businesses are listed for Worth, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Worth, IL is Garden Chalet (an event venue in Worth, IL). 1 event venues businesses are listed for Worth, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Worth, IL?
 
 Also answers: event venues in Worth, IL; event venues near me (Worth, IL); best event venues Worth, IL; top rated event venues Worth, IL; affordable event venues Worth, IL; emergency event venues Worth, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Garden Chalet | trust 0.0 | Garden Chalet is an event venue in Worth, IL. | https://dingalinged-cpu.github.io/registry/c/garden-chalet-worth/
+1. Garden Chalet | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Garden Chalet is an event venue in Worth, IL. | https://dingalinged-cpu.github.io/registry/c/garden-chalet-worth/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues worth il | category: Events & weddings | industry benchmark: Personal Services

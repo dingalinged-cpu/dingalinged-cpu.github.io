@@ -13,7 +13,7 @@ Liberty Duty Free is a gift shop in Chicago, IL.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 23% of gift shops in Chicago, #19 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

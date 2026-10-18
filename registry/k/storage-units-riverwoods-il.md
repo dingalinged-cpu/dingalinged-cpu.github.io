@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Riverwoods, IL is Extra Space Storage (a self-storage facility in Wheeling, IL at 991 North Milwaukee Avenue, Wheeling, IL 60090. Phone: +18472797830. Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/). 2 storage units businesses are listed for Riverwoods, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Riverwoods, IL is CubeSmart (a self-storage facility in Riverwoods, IL at 3725 Deerfield Road, Riverwoods, IL 60015. Website: https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html). 2 storage units businesses are listed for Riverwoods, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Riverwoods, IL?
 
 Also answers: storage units in Riverwoods, IL; storage units near me (Riverwoods, IL); best storage units Riverwoods, IL; top rated storage units Riverwoods, IL; affordable storage units Riverwoods, IL; emergency storage units Riverwoods, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 16.0 | Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milwaukee Avenue, Wheeling, IL 60090. Phone: +18472797830. Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-wheeling/
-2. CubeSmart | trust 10.0 | CubeSmart is a self-storage facility in Riverwoods, IL at 3725 Deerfield Road, Riverwoods, IL 60015. Website: https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html. | https://dingalinged-cpu.github.io/registry/c/cubesmart-riverwoods/
+1. CubeSmart | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | CubeSmart is a self-storage facility in Riverwoods, IL at 3725 Deerfield Road, Riverwoods, IL 60015. Website: https://www.cubesmart.com/illinois-self-storage/riverwoods-self-storage/3492.html. | https://dingalinged-cpu.github.io/registry/c/cubesmart-riverwoods/
+2. Extra Space Storage | Organic #2 | Pulse Score 48.6/100 (Building, #4 in city) | Extra Space Storage is a self-storage facility in Wheeling, IL at 991 North Milwaukee Avenue, Wheeling, IL 60090. Phone: +18472797830. Website: https://www.extraspace.com/storage/facilities/us/illinois/deerfield/501795/. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units riverwoods il | category: Home services - Moving | industry benchmark: Home & Home Improvement

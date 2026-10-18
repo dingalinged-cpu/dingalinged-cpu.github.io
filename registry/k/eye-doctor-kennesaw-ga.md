@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Kennesaw, GA is Hester Eye Associates (an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/). 2 eye doctor businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Kennesaw, GA is Hester Eye Associates (an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/). 2 eye doctor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Kennesaw, GA?
 
 Also answers: eye doctor in Kennesaw, GA; eye doctor near me (Kennesaw, GA); best eye doctor Kennesaw, GA; top rated eye doctor Kennesaw, GA; affordable eye doctor Kennesaw, GA; emergency eye doctor Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hester Eye Associates | trust 19.0 | Hester Eye Associates is an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/. | https://dingalinged-cpu.github.io/registry/c/hester-eye-associates-kennesaw/
-2. MyEyeDr | trust 4.0 | MyEyeDr is an eye care practice in Kennesaw, GA at 1415 Wooten Lake Road Northwest #Suite 100, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/myeyedr-kennesaw/
+1. Hester Eye Associates | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Hester Eye Associates is an eye care practice in Kennesaw, GA at 3745 Cherokee Street Northwest #404, Kennesaw, GA. Phone: +17705908191. Website: https://hestereye.com/. | https://dingalinged-cpu.github.io/registry/c/hester-eye-associates-kennesaw/
+2. MyEyeDr | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | MyEyeDr is an eye care practice in Kennesaw, GA at 1415 Wooten Lake Road Northwest #Suite 100, Kennesaw, GA 30144. | https://dingalinged-cpu.github.io/registry/c/myeyedr-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor kennesaw ga | category: Health & medical | industry benchmark: Physicians & Surgeons

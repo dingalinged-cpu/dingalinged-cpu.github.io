@@ -13,7 +13,7 @@ Gentle Dentistry is a dentist in Eagan, MN at 1340 Duckwood Drive, Eagan, MN 551
 - Website: https://smilemn.com/eagan/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:00-23:00; Tu,Th 07:00-18:00; We,Fr 07:00-12:00; Sa-Su off
-- Registry Score: 52.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.9/100 — Building — top 92% of dentists in Minneapolis–St. Paul, #8 of 10 dentists in Eagan (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

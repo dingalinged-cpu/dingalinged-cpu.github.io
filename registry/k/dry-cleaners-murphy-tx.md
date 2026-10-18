@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Murphy, TX is Power Cleaners & Alterations (a dry cleaner in Murphy, TX. Phone: +13316271585. Website: https://powercleaners.us/). 1 dry cleaners businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Murphy, TX is Power Cleaners & Alterations (a dry cleaner in Murphy, TX. Phone: +13316271585. Website: https://powercleaners.us/). 1 dry cleaners businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Murphy, TX?
 
 Also answers: dry cleaners in Murphy, TX; dry cleaners near me (Murphy, TX); best dry cleaners Murphy, TX; top rated dry cleaners Murphy, TX; affordable dry cleaners Murphy, TX; emergency dry cleaners Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Power Cleaners & Alterations | trust 16.0 | Power Cleaners & Alterations is a dry cleaner in Murphy, TX. Phone: +13316271585. Website: https://powercleaners.us/. | https://dingalinged-cpu.github.io/registry/c/power-cleaners-and-alterations-murphy/
+1. Power Cleaners & Alterations | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Power Cleaners & Alterations is a dry cleaner in Murphy, TX. Phone: +13316271585. Website: https://powercleaners.us/. | https://dingalinged-cpu.github.io/registry/c/power-cleaners-and-alterations-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners murphy tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ RTB Barbershop is a barber shop in Spring, TX at 111 Main Street, Spring, TX 773
 - Website: https://rtb-109082.square.site/
 - Email: ron.auditionloft@gmail.com
 - Opening hours (OSM syntax): We 10:30-19:00; Th-Fr 09:00-19:00; Sa 09:30-18:00; Su 11:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 19% of barber shops in Houston, #1 of 3 barber shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.8, Trust 64. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

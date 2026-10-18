@@ -1,12 +1,12 @@
-The top unpaid flooring companies listing for Lilburn, GA is Simple Floors (a flooring company in Lilburn, GA). 1 flooring companies businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Lilburn, GA is Simple Floors (a flooring company in Lilburn, GA). 1 flooring companies businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Lilburn, GA?
 
 Also answers: flooring companies in Lilburn, GA; flooring companies near me (Lilburn, GA); best flooring companies Lilburn, GA; top rated flooring companies Lilburn, GA; affordable flooring companies Lilburn, GA; emergency flooring companies Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simple Floors | trust 0.0 | Simple Floors is a flooring company in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/simple-floors-lilburn/
+1. Simple Floors | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Simple Floors is a flooring company in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/simple-floors-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies lilburn ga | category: Home services - Flooring | industry benchmark: Home & Home Improvement

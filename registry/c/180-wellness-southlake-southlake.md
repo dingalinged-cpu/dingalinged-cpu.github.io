@@ -13,7 +13,7 @@
 - Website: https://www.my180wellness.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.9/100 — Unrated (not enough evidence yet) — top 27% of chiropractors in Dallas–Fort Worth, #2 of 2 chiropractors in Southlake (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.6, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

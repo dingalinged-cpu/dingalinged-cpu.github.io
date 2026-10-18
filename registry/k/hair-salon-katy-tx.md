@@ -1,25 +1,25 @@
-The top unpaid hair salon listing for Katy, TX is Hair by Grace (a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/). 14 hair salon businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Katy, TX is Hair by Grace (a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/). 14 hair salon businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Katy, TX?
 
 Also answers: hair salon in Katy, TX; hair salon near me (Katy, TX); best hair salon Katy, TX; top rated hair salon Katy, TX; affordable hair salon Katy, TX; emergency hair salon Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair by Grace | trust 20.0 | Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/. | https://dingalinged-cpu.github.io/registry/c/hair-by-grace-katy/
-2. Yumi Nguyen Beauty | trust 20.0 | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://dingalinged-cpu.github.io/registry/c/yumi-nguyen-beauty-katy/
-3. DLG Cosmetics Beauty studio | trust 14.0 | DLG Cosmetics Beauty studio is a hair salon in Katy, TX at 20680 Westheimer Parkway #70, Katy, TX 77450. Phone: +12818299899. | https://dingalinged-cpu.github.io/registry/c/dlg-cosmetics-beauty-studio-katy/
-4. Elevate Hair Salon | trust 14.0 | Elevate Hair Salon is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77494. Phone: +18324375994. | https://dingalinged-cpu.github.io/registry/c/elevate-hair-salon-katy/
-5. Sugaring NYC | trust 14.0 | Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone: +18324375994. | https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-katy/
-6. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Katy, TX at 6727 FM 1463 #210, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sport-clips-katy-n13158828868/
-7. Sweet & Sassy | trust 4.0 | Sweet & Sassy is a hair salon in Katy, TX at 6445 FM 1463 #210, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sweet-and-sassy-katy/
-8. Secrets | trust 3.0 | Secrets is a hair salon in Katy, TX at 1805 Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/secrets-katy/
-9. Sport Clips | trust 3.0 | Sport Clips is a hair salon in Katy, TX at 19859 Katy Freeway #B, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-katy/
-10. Supercuts | trust 3.0 | Supercuts is a hair salon in Katy, TX at 430 South Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-katy/
-11. Cici Hair Salon | trust 0.0 | Cici Hair Salon is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/cici-hair-salon-katy/
-12. Great Clips | trust 0.0 | Great Clips is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-katy/
-13. Mastercuts | trust 0.0 | Mastercuts is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-katy/
-14. Tender Touch Pedi-Spa & Nails | trust 0.0 | Tender Touch Pedi-Spa & Nails is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/tender-touch-pedi-spa-and-nails-katy/
+1. Hair by Grace | Organic #1 | Pulse Score 65.2/100 (Good, #1 in city) | Hair by Grace is a hair salon in Katy, TX at 5142 East Fifth Street, Katy, TX 77493. Phone: +18337373790. Website: https://hair-by-grace-108802.square.site/. | https://dingalinged-cpu.github.io/registry/c/hair-by-grace-katy/
+2. Yumi Nguyen Beauty | Organic #2 | Pulse Score 65.1/100 (Good, #2 in city) | Yumi Nguyen Beauty is a hair salon in Katy, TX at 1227 Grand Boulevard West #B206, Katy, TX 77449. Phone: +18503324354. Website: https://yumi-hair.square.site/. | https://dingalinged-cpu.github.io/registry/c/yumi-nguyen-beauty-katy/
+3. DLG Cosmetics Beauty studio | Organic #3 | Pulse Score 62.2/100 (Unrated, #3 in city) | DLG Cosmetics Beauty studio is a hair salon in Katy, TX at 20680 Westheimer Parkway #70, Katy, TX 77450. Phone: +12818299899. | https://dingalinged-cpu.github.io/registry/c/dlg-cosmetics-beauty-studio-katy/
+4. Elevate Hair Salon | Organic #4 | Pulse Score 61.9/100 (Unrated, #4 in city) | Elevate Hair Salon is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77494. Phone: +18324375994. | https://dingalinged-cpu.github.io/registry/c/elevate-hair-salon-katy/
+5. Sweet & Sassy | Organic #5 | Pulse Score 58.2/100 (Unrated, #5 in city) | Sweet & Sassy is a hair salon in Katy, TX at 6445 FM 1463 #210, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sweet-and-sassy-katy/
+6. Secrets | Organic #6 | Pulse Score 57/100 (Unrated, #6 in city) | Secrets is a hair salon in Katy, TX at 1805 Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/secrets-katy/
+7. Cici Hair Salon | Organic #7 | Pulse Score 56.6/100 (Unrated, #7 in city) | Cici Hair Salon is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/cici-hair-salon-katy/
+8. Tender Touch Pedi-Spa & Nails | Organic #8 | Pulse Score 54.8/100 (Unrated, #8 in city) | Tender Touch Pedi-Spa & Nails is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/tender-touch-pedi-spa-and-nails-katy/
+9. Sugaring NYC | Organic #9 | Pulse Score 49.1/100 (Unrated, #9 in city) | Sugaring NYC is a hair salon in Katy, TX at 4020 FM 1463, Katy, TX 77441. Phone: +18324375994. | https://dingalinged-cpu.github.io/registry/c/sugaring-nyc-katy/
+10. Sport Clips | Organic #10 | Pulse Score 46.2/100 (Building, #10 in city) | Sport Clips is a hair salon in Katy, TX at 6727 FM 1463 #210, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/sport-clips-katy-n13158828868/
+11. Supercuts | Organic #11 | Pulse Score 45.4/100 (Building, #11 in city) | Supercuts is a hair salon in Katy, TX at 430 South Mason Road, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-katy/
+12. Sport Clips | Organic #12 | Pulse Score 45/100 (Building, #12 in city) | Sport Clips is a hair salon in Katy, TX at 19859 Katy Freeway #B, Katy, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-katy/
+13. Great Clips | Organic #13 | Pulse Score 42.7/100 (Building, #13 in city) | Great Clips is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/great-clips-katy/
+14. Mastercuts | Organic #14 | Pulse Score 42.7/100 (Building, #14 in city) | Mastercuts is a hair salon in Katy, TX. | https://dingalinged-cpu.github.io/registry/c/mastercuts-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon katy tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

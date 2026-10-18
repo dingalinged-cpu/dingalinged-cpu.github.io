@@ -13,7 +13,7 @@ Life Time is a gym in Woodstock, GA at 14200 Highway 92, Woodstock, GA 30188. Ph
 - Website: https://www.lifetime.life/life-time-locations/ga-woodstock.html
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 63% of gyms in Atlanta, #9 of 11 gyms in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

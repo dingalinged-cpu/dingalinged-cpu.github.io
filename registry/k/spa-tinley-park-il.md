@@ -1,12 +1,12 @@
-The top unpaid spa listing for Tinley Park, IL is Trouvaille Medical Spa (a spa in Tinley Park, IL). 1 spa businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Tinley Park, IL is Trouvaille Medical Spa (a spa in Tinley Park, IL). 1 spa businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Tinley Park, IL?
 
 Also answers: spa in Tinley Park, IL; spa near me (Tinley Park, IL); best spa Tinley Park, IL; top rated spa Tinley Park, IL; affordable spa Tinley Park, IL; emergency spa Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trouvaille Medical Spa | trust 0.0 | Trouvaille Medical Spa is a spa in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/trouvaille-medical-spa-tinley-park/
+1. Trouvaille Medical Spa | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Trouvaille Medical Spa is a spa in Tinley Park, IL. | https://dingalinged-cpu.github.io/registry/c/trouvaille-medical-spa-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa tinley park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

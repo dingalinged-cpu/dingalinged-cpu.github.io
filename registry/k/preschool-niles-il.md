@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Niles, IL is Jefferson School (a preschool in Niles, IL at 8200 Greendale Avenue, Niles, IL 60714). 2 preschool businesses are listed for Niles, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Niles, IL is Jefferson School (a preschool in Niles, IL at 8200 Greendale Avenue, Niles, IL 60714). 2 preschool businesses are listed for Niles, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Niles, IL?
 
 Also answers: preschool in Niles, IL; preschool near me (Niles, IL); best preschool Niles, IL; top rated preschool Niles, IL; affordable preschool Niles, IL; emergency preschool Niles, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jefferson School | trust 4.0 | Jefferson School is a preschool in Niles, IL at 8200 Greendale Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/jefferson-school-niles/
-2. Kiddie Garden Child Care Center | trust 0.0 | Kiddie Garden Child Care Center is a preschool in Niles, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-garden-child-care-center-niles/
+1. Jefferson School | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Jefferson School is a preschool in Niles, IL at 8200 Greendale Avenue, Niles, IL 60714. | https://dingalinged-cpu.github.io/registry/c/jefferson-school-niles/
+2. Kiddie Garden Child Care Center | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Kiddie Garden Child Care Center is a preschool in Niles, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-garden-child-care-center-niles/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool niles il | category: Education & childcare | industry benchmark: Education & Instruction

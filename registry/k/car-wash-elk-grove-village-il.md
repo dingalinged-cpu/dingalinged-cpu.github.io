@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Elk Grove Village, IL is Shell (a car wash in Elk Grove Village, IL at 1805 East Oakton Street, Elk Grove Village, IL 60007). 2 car wash businesses are listed for Elk Grove Village, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Elk Grove Village, IL is Shell (a car wash in Elk Grove Village, IL at 1805 East Oakton Street, Elk Grove Village, IL 60007). 2 car wash businesses are listed for Elk Grove Village, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Elk Grove Village, IL?
 
 Also answers: car wash in Elk Grove Village, IL; car wash near me (Elk Grove Village, IL); best car wash Elk Grove Village, IL; top rated car wash Elk Grove Village, IL; affordable car wash Elk Grove Village, IL; emergency car wash Elk Grove Village, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Shell | trust 4.0 | Shell is a car wash in Elk Grove Village, IL at 1805 East Oakton Street, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/shell-elk-grove-village/
-2. Fuller's Car Wash | trust 1.0 | Fuller's Car Wash is a car wash in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-elk-grove-village/
+1. Shell | Organic #1 | Pulse Score 45.3/100 (Building, #1 in city) | Shell is a car wash in Elk Grove Village, IL at 1805 East Oakton Street, Elk Grove Village, IL 60007. | https://dingalinged-cpu.github.io/registry/c/shell-elk-grove-village/
+2. Fuller's Car Wash | Organic #2 | Pulse Score 44.2/100 (Unrated, #2 in city) | Fuller's Car Wash is a car wash in Elk Grove Village, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-elk-grove-village/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash elk grove village il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

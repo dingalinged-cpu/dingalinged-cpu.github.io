@@ -1,19 +1,19 @@
-The top unpaid gym listing for Addison, TX is F45 Training (a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 75254. Website: https://f45training.com/studio/addisoneast/). 8 gym businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Addison, TX is Cox Gymnasium (a gym in Addison, TX). 8 gym businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Addison, TX?
 
 Also answers: gym in Addison, TX; gym near me (Addison, TX); best gym Addison, TX; top rated gym Addison, TX; affordable gym Addison, TX; emergency gym Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. F45 Training | trust 10.0 | F45 Training is a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 75254. Website: https://f45training.com/studio/addisoneast/. | https://dingalinged-cpu.github.io/registry/c/f45-training-dallas/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Dallas, TX at 5290 Belt Line Road #156, Dallas, TX 75254. Phone: +12147580338. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-dallas-n11809781375/
-3. EōS Fitness | trust 8.0 | EōS Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-addison/
-4. Crunch Fitness | trust 4.0 | Crunch Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-addison/
-5. Pure Barre | trust 4.0 | Pure Barre is a gym in Dallas, TX at 5000 Belt Line Road #200, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/pure-barre-dallas/
-6. Stretch Lab | trust 4.0 | Stretch Lab is a gym in Dallas, TX at 5100 Belt Line Road #850, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/stretch-lab-dallas/
-7. Cox Gymnasium | trust 0.0 | Cox Gymnasium is a gym in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/cox-gymnasium-addison/
-8. Phillips Gymnasium | trust 0.0 | Phillips Gymnasium is a gym in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/phillips-gymnasium-addison/
+1. Cox Gymnasium | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Cox Gymnasium is a gym in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/cox-gymnasium-addison/
+2. Phillips Gymnasium | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Phillips Gymnasium is a gym in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/phillips-gymnasium-addison/
+3. EōS Fitness | Organic #3 | Pulse Score 47.9/100 (Building, #3 in city) | EōS Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/e-s-fitness-addison/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 46.9/100 (Building, #44 in city) | Orangetheory Fitness is a gym in Dallas, TX at 5290 Belt Line Road #156, Dallas, TX 75254. Phone: +12147580338. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-dallas-n11809781375/
+5. F45 Training | Organic #5 | Pulse Score 46.6/100 (Building, #46 in city) | F45 Training is a gym in Dallas, TX at 5100 Belt Line Road #716, Dallas, TX 75254. Website: https://f45training.com/studio/addisoneast/. | https://dingalinged-cpu.github.io/registry/c/f45-training-dallas/
+6. Pure Barre | Organic #6 | Pulse Score 44.8/100 (Building, #50 in city) | Pure Barre is a gym in Dallas, TX at 5000 Belt Line Road #200, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/pure-barre-dallas/
+7. Crunch Fitness | Organic #7 | Pulse Score 44.3/100 (Building, #4 in city) | Crunch Fitness is a gym in Addison, TX at 3854 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-addison/
+8. Stretch Lab | Organic #8 | Pulse Score 43.9/100 (Unrated, #57 in city) | Stretch Lab is a gym in Dallas, TX at 5100 Belt Line Road #850, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/stretch-lab-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym addison tx | category: Fitness | industry benchmark: Health & Fitness

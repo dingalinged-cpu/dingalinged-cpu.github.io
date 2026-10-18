@@ -13,7 +13,7 @@ Dr. E Lopez Family & Cosmetic Dentistry is a dentist in Cedar Hill, TX at 110 Ea
 - Website: https://www.cedarhilldentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 13% of dentists in Dallas–Fort Worth, #2 of 15 dentists in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid used cars for sale listing for Wauwatosa, WI is Russ Darrow Kia (an used car dealer in Wauwatosa, WI at 1901 North Mayfair Road, Wauwatosa, WI 53226). 2 used cars for sale businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Wauwatosa, WI is Russ Darrow Kia (an used car dealer in Wauwatosa, WI at 1901 North Mayfair Road, Wauwatosa, WI 53226). 2 used cars for sale businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Wauwatosa, WI?
 
 Also answers: used cars for sale in Wauwatosa, WI; used cars for sale near me (Wauwatosa, WI); best used cars for sale Wauwatosa, WI; top rated used cars for sale Wauwatosa, WI; affordable used cars for sale Wauwatosa, WI; emergency used cars for sale Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Russ Darrow Kia | trust 4.0 | Russ Darrow Kia is an used car dealer in Wauwatosa, WI at 1901 North Mayfair Road, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/russ-darrow-kia-wauwatosa/
-2. Uptown Ford | trust 0.0 | Uptown Ford is an used car dealer in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/uptown-ford-wauwatosa/
+1. Russ Darrow Kia | Organic #1 | Pulse Score 42.2/100 (Building, #1 in city) | Russ Darrow Kia is an used car dealer in Wauwatosa, WI at 1901 North Mayfair Road, Wauwatosa, WI 53226. | https://dingalinged-cpu.github.io/registry/c/russ-darrow-kia-wauwatosa/
+2. Uptown Ford | Organic #2 | Pulse Score 41/100 (Building, #2 in city) | Uptown Ford is an used car dealer in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/uptown-ford-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale wauwatosa wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Gallery Furniture is a furniture store in Richmond, TX at 7227 West Grand Parkwa
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 9% of furniture stores in Houston, #1 of 4 furniture stores in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.9, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

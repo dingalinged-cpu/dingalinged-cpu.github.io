@@ -13,7 +13,7 @@ Hallmark Gold Crown is a gift shop in Cobb County, GA at 50 Ernest W. Barrett Pa
 - Website: https://annieshallmark.com/pages/georgia-store-locator
 - Email: hallmark51@gretchhmk.com
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 72% of gift shops in Atlanta, #3 of 5 gift shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 64.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

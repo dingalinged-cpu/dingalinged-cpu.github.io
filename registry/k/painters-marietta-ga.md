@@ -1,12 +1,12 @@
-The top unpaid painters listing for Marietta, GA is Bear Mountain Custom Painting (a painting contractor in Marietta, GA at 3823 Roswell Road #101D, Marietta, GA 30062. Phone: +17707589697. Website: https://bearmountainpainting.com/). 1 painters businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Marietta, GA is Bear Mountain Custom Painting (a painting contractor in Marietta, GA at 3823 Roswell Road #101D, Marietta, GA 30062. Phone: +17707589697. Website: https://bearmountainpainting.com/). 1 painters businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Marietta, GA?
 
 Also answers: painters in Marietta, GA; painters near me (Marietta, GA); best painters Marietta, GA; top rated painters Marietta, GA; affordable painters Marietta, GA; emergency painters Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bear Mountain Custom Painting | trust 20.0 | Bear Mountain Custom Painting is a painting contractor in Marietta, GA at 3823 Roswell Road #101D, Marietta, GA 30062. Phone: +17707589697. Website: https://bearmountainpainting.com/. | https://dingalinged-cpu.github.io/registry/c/bear-mountain-custom-painting-marietta/
+1. Bear Mountain Custom Painting | Organic #1 | Pulse Score 63.8/100 (Good, #1 in city) | Bear Mountain Custom Painting is a painting contractor in Marietta, GA at 3823 Roswell Road #101D, Marietta, GA 30062. Phone: +17707589697. Website: https://bearmountainpainting.com/. | https://dingalinged-cpu.github.io/registry/c/bear-mountain-custom-painting-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters marietta ga | category: Home services - Painting | industry benchmark: Home & Home Improvement

@@ -1,18 +1,18 @@
-The top unpaid gym listing for Waukesha, WI is Anytime Fitness (a gym in Waukesha, WI at 2144 East Moreland Boulevard, Waukesha, WI 53186. Phone: +12624466797. Website: https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/). 7 gym businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Waukesha, WI is REC Sports (a gym in Waukesha, WI). 7 gym businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Waukesha, WI?
 
 Also answers: gym in Waukesha, WI; gym near me (Waukesha, WI); best gym Waukesha, WI; top rated gym Waukesha, WI; affordable gym Waukesha, WI; emergency gym Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Waukesha, WI at 2144 East Moreland Boulevard, Waukesha, WI 53186. Phone: +12624466797. Website: https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-waukesha/
-2. Crunch Fitness | trust 10.0 | Crunch Fitness is a gym in Waukesha, WI at 120 East Sunset Drive, Waukesha, WI 53189. Website: https://www.crunch.com/locations/waukesha. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-waukesha/
-3. Planet Fitness | trust 4.0 | Planet Fitness is a gym in Waukesha, WI at 1510 East Main Street, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-waukesha/
-4. West Wood Health & Fitness Center | trust 4.0 | West Wood Health & Fitness Center is a gym in Waukesha, WI at 2900 Golf Road, Waukesha, WI 53072. | https://dingalinged-cpu.github.io/registry/c/west-wood-health-and-fitness-center-waukesha/
-5. Gold's Gym | trust 0.0 | Gold's Gym is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/golds-gym-waukesha/
-6. REC Sports | trust 0.0 | REC Sports is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/rec-sports-waukesha/
-7. Xperience Fitness | trust 0.0 | Xperience Fitness is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-waukesha/
+1. REC Sports | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | REC Sports is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/rec-sports-waukesha/
+2. West Wood Health & Fitness Center | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | West Wood Health & Fitness Center is a gym in Waukesha, WI at 2900 Golf Road, Waukesha, WI 53072. | https://dingalinged-cpu.github.io/registry/c/west-wood-health-and-fitness-center-waukesha/
+3. Anytime Fitness | Organic #3 | Pulse Score 50/100 (Fair, #3 in city) | Anytime Fitness is a gym in Waukesha, WI at 2144 East Moreland Boulevard, Waukesha, WI 53186. Phone: +12624466797. Website: https://www.anytimefitness.com/gyms/2836/waukesha-wi-53186/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-waukesha/
+4. Crunch Fitness | Organic #4 | Pulse Score 44.7/100 (Unrated, #4 in city) | Crunch Fitness is a gym in Waukesha, WI at 120 East Sunset Drive, Waukesha, WI 53189. Website: https://www.crunch.com/locations/waukesha. | https://dingalinged-cpu.github.io/registry/c/crunch-fitness-waukesha/
+5. Planet Fitness | Organic #5 | Pulse Score 43.4/100 (Building, #5 in city) | Planet Fitness is a gym in Waukesha, WI at 1510 East Main Street, Waukesha, WI 53186. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-waukesha/
+6. Gold's Gym | Organic #6 | Pulse Score 41.9/100 (Building, #6 in city) | Gold's Gym is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/golds-gym-waukesha/
+7. Xperience Fitness | Organic #7 | Pulse Score 41.4/100 (Unrated, #7 in city) | Xperience Fitness is a gym in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/xperience-fitness-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym waukesha wi | category: Fitness | industry benchmark: Health & Fitness

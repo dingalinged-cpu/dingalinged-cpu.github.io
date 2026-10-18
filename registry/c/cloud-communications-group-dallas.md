@@ -13,7 +13,7 @@ Cloud Communications Group is an IT support company in Dallas, TX at 2727 Lyndon
 - Website: https://cloudcomgroup.net/
 - Email: solutions@cloudcomgroup.net
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 13% of IT support companys in Dallas–Fort Worth, #2 of 12 IT support companys in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

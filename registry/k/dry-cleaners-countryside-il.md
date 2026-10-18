@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Countryside, IL is CD One Price Cleaners (a dry cleaner in Countryside, IL). 4 dry cleaners businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Countryside, IL is Highland's Cleaners (a dry cleaner in Countryside, IL). 4 dry cleaners businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Countryside, IL?
 
 Also answers: dry cleaners in Countryside, IL; dry cleaners near me (Countryside, IL); best dry cleaners Countryside, IL; top rated dry cleaners Countryside, IL; affordable dry cleaners Countryside, IL; emergency dry cleaners Countryside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-countryside/
-2. Highland's Cleaners | trust 0.0 | Highland's Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/highlands-cleaners-countryside/
-3. Sparkle Cleaners | trust 0.0 | Sparkle Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/sparkle-cleaners-countryside/
-4. Willow Springs Cleaners | trust 0.0 | Willow Springs Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/willow-springs-cleaners-countryside/
+1. Highland's Cleaners | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Highland's Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/highlands-cleaners-countryside/
+2. Sparkle Cleaners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Sparkle Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/sparkle-cleaners-countryside/
+3. Willow Springs Cleaners | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Willow Springs Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/willow-springs-cleaners-countryside/
+4. CD One Price Cleaners | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | CD One Price Cleaners is a dry cleaner in Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners countryside il | category: Professional & financial services | industry benchmark: Finance & Insurance

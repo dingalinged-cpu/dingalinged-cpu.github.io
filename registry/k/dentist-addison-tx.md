@@ -1,18 +1,18 @@
-The top unpaid dentist listing for Addison, TX is General Dentistry (a dentist in Addison, TX at 15560 Quorum Drive, Addison, TX 75001. Phone: +19722474614). 7 dentist businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Addison, TX is General Dentistry (a dentist in Addison, TX at 15560 Quorum Drive, Addison, TX 75001. Phone: +19722474614). 7 dentist businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Addison, TX?
 
 Also answers: dentist in Addison, TX; dentist near me (Addison, TX); best dentist Addison, TX; top rated dentist Addison, TX; affordable dentist Addison, TX; emergency dentist Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. General Dentistry | trust 14.0 | General Dentistry is a dentist in Addison, TX at 15560 Quorum Drive, Addison, TX 75001. Phone: +19722474614. | https://dingalinged-cpu.github.io/registry/c/general-dentistry-addison/
-2. Addison Grove Dental | trust 10.0 | Addison Grove Dental is a dentist in Addison, TX at 4150 Belt Line Road #104, Addison, TX 75001. Website: https://www.addisongrovedental.com/. | https://dingalinged-cpu.github.io/registry/c/addison-grove-dental-addison/
-3. Ideal Dental | trust 10.0 | Ideal Dental is a dentist in Dallas, TX at 5100 Belt Line Road #312, Dallas, TX 75254. Website: https://www.myidealdental.com/addison/. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-dallas-n11817554428/
-4. Addison Family Dentistry | trust 4.0 | Addison Family Dentistry is a dentist in Addison, TX at 3744 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/addison-family-dentistry-addison/
-5. Fine Smile Dental | trust 0.0 | Fine Smile Dental is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/fine-smile-dental-addison/
-6. Mint Dentistry | trust 0.0 | Mint Dentistry is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/mint-dentistry-addison/
-7. The Addison Dentist | trust 0.0 | The Addison Dentist is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/the-addison-dentist-addison/
+1. General Dentistry | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | General Dentistry is a dentist in Addison, TX at 15560 Quorum Drive, Addison, TX 75001. Phone: +19722474614. | https://dingalinged-cpu.github.io/registry/c/general-dentistry-addison/
+2. Addison Grove Dental | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Addison Grove Dental is a dentist in Addison, TX at 4150 Belt Line Road #104, Addison, TX 75001. Website: https://www.addisongrovedental.com/. | https://dingalinged-cpu.github.io/registry/c/addison-grove-dental-addison/
+3. Addison Family Dentistry | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Addison Family Dentistry is a dentist in Addison, TX at 3744 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/addison-family-dentistry-addison/
+4. Fine Smile Dental | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Fine Smile Dental is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/fine-smile-dental-addison/
+5. The Addison Dentist | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | The Addison Dentist is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/the-addison-dentist-addison/
+6. Ideal Dental | Organic #6 | Pulse Score 48/100 (Building, #101 in city) | Ideal Dental is a dentist in Dallas, TX at 5100 Belt Line Road #312, Dallas, TX 75254. Website: https://www.myidealdental.com/addison/. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-dallas-n11817554428/
+7. Mint Dentistry | Organic #7 | Pulse Score 41.7/100 (Unrated, #6 in city) | Mint Dentistry is a dentist in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/mint-dentistry-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist addison tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,12 +1,12 @@
-The top unpaid urgent care listing for Rowlett, TX is AFC Urgent Care (an urgent care clinic in Rowlett, TX). 1 urgent care businesses are listed for Rowlett, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Rowlett, TX is AFC Urgent Care (an urgent care clinic in Rowlett, TX). 1 urgent care businesses are listed for Rowlett, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Rowlett, TX?
 
 Also answers: urgent care in Rowlett, TX; urgent care near me (Rowlett, TX); best urgent care Rowlett, TX; top rated urgent care Rowlett, TX; affordable urgent care Rowlett, TX; emergency urgent care Rowlett, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AFC Urgent Care | trust 0.0 | AFC Urgent Care is an urgent care clinic in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-rowlett/
+1. AFC Urgent Care | Organic #1 | Pulse Score 42/100 (Unrated, #1 in city) | AFC Urgent Care is an urgent care clinic in Rowlett, TX. | https://dingalinged-cpu.github.io/registry/c/afc-urgent-care-rowlett/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care rowlett tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Bells Ferry Learning Center is a preschool in Cherokee County, GA at 6761 Highwa
 - Website: https://bellsferrylc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:00-18:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 3% of preschools in Atlanta, #1 of 3 preschools in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

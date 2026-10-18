@@ -13,7 +13,7 @@ AFC Urgent Care is an urgent care clinic in Marietta, GA at 1401 Johnson Ferry R
 - Website: https://www.afcurgentcare.com/east-cobb/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-20:00; Sa-Su 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Unrated (not enough evidence yet) — top 84% of urgent care clinics in Atlanta, #1 of 1 urgent care clinics in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 57. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Flossmoor, IL is The Villager Card & Gift Shop (a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/). 1 gift shop businesses are listed for Flossmoor, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Flossmoor, IL is The Villager Card & Gift Shop (a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/). 1 gift shop businesses are listed for Flossmoor, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Flossmoor, IL?
 
 Also answers: gift shop in Flossmoor, IL; gift shop near me (Flossmoor, IL); best gift shop Flossmoor, IL; top rated gift shop Flossmoor, IL; affordable gift shop Flossmoor, IL; emergency gift shop Flossmoor, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Villager Card & Gift Shop | trust 16.0 | The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/
+1. The Villager Card & Gift Shop | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | The Villager Card & Gift Shop is a gift shop in Flossmoor, IL at 1042 Sterling Avenue, Flossmoor, IL 60422. Phone: +17087994844. Website: https://thevillagergiftshop.com/. | https://dingalinged-cpu.github.io/registry/c/the-villager-card-and-gift-shop-flossmoor/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop flossmoor il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

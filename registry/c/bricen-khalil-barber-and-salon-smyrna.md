@@ -13,7 +13,7 @@ Bricen Khalil Barber & Salon is a hair salon in Smyrna, GA at 1529 Spring Road S
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): unknown || Mo-Su,PH "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 29% of hair salons in Atlanta, #3 of 29 hair salons in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Kennesaw, GA is Richard Tuley Realty (a real estate agency in Kennesaw, GA at 3745 Cherokee Street Northwest #605, Kennesaw, GA. Phone: +17702401000. Website: https://www.richardtuleyrealty.com/). 2 realtor businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Kennesaw, GA is Richard Tuley Realty (a real estate agency in Kennesaw, GA at 3745 Cherokee Street Northwest #605, Kennesaw, GA. Phone: +17702401000. Website: https://www.richardtuleyrealty.com/). 2 realtor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Kennesaw, GA?
 
 Also answers: realtor in Kennesaw, GA; realtor near me (Kennesaw, GA); best realtor Kennesaw, GA; top rated realtor Kennesaw, GA; affordable realtor Kennesaw, GA; emergency realtor Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Richard Tuley Realty | trust 15.0 | Richard Tuley Realty is a real estate agency in Kennesaw, GA at 3745 Cherokee Street Northwest #605, Kennesaw, GA. Phone: +17702401000. Website: https://www.richardtuleyrealty.com/. | https://dingalinged-cpu.github.io/registry/c/richard-tuley-realty-kennesaw/
-2. 22one Realty CO. | trust 9.0 | 22one Realty CO. is a real estate agency in Kennesaw, GA at 2695 Summers Street Northwest, Kennesaw, GA. Website: https://www.22onerealty.com/. | https://dingalinged-cpu.github.io/registry/c/22one-realty-co-kennesaw/
+1. Richard Tuley Realty | Organic #1 | Pulse Score 60/100 (Good, #1 in city) | Richard Tuley Realty is a real estate agency in Kennesaw, GA at 3745 Cherokee Street Northwest #605, Kennesaw, GA. Phone: +17702401000. Website: https://www.richardtuleyrealty.com/. | https://dingalinged-cpu.github.io/registry/c/richard-tuley-realty-kennesaw/
+2. 22one Realty CO. | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | 22one Realty CO. is a real estate agency in Kennesaw, GA at 2695 Summers Street Northwest, Kennesaw, GA. Website: https://www.22onerealty.com/. | https://dingalinged-cpu.github.io/registry/c/22one-realty-co-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor kennesaw ga | category: real_estate | industry benchmark: Real Estate

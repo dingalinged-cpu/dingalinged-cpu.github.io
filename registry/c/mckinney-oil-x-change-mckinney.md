@@ -13,7 +13,7 @@ McKinney Oil X-Change is an auto repair shop in McKinney, TX at 4650 Eldorado Pa
 - Website: https://mckinneyoilxchange.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 14% of auto repair shops in Dallas–Fort Worth, #3 of 24 auto repair shops in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.2, Trust 58.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

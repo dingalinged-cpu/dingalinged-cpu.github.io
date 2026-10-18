@@ -13,7 +13,7 @@ Nadia's Studio & Gallery is a hair salon in Atlanta, GA at 161 Mangum Street Sou
 - Website: https://www.nadiajavan.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Su off; Tu-Sa 07:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.5/100 — Good — top 1% of hair salons in Atlanta, #2 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

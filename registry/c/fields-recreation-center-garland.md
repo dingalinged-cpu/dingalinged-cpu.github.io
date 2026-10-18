@@ -13,7 +13,7 @@ Fields Recreation Center is a gym in Garland, TX at 1701 Dairy Road, Garland, TX
 - Website: https://www.garlandtx.gov/facilities/facility/details/Fields-Recreation-Center-94
 - Email: FRC@GarlandTX.gov
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00; Fr 09:00-17:00; Sa 09:00-16:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 5% of gyms in Dallas–Fort Worth, #1 of 9 gyms in Garland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.6, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

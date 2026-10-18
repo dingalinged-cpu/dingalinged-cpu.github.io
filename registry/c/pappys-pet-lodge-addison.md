@@ -13,7 +13,7 @@ Pappy's Pet Lodge is a dog boarding facility in Addison, TX at 15530 Quorum Driv
 - Website: https://pappyspetlodge.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.2/100 — Unrated (not enough evidence yet) — top 76% of dog boarding facilitys in Dallas–Fort Worth, #2 of 2 dog boarding facilitys in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 35.1, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

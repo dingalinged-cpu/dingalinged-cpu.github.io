@@ -1,13 +1,13 @@
-The top unpaid gym listing for Little Elm, TX is Gold's Gym (a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/). 2 gym businesses are listed for Little Elm, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Little Elm, TX is Gold's Gym (a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/). 2 gym businesses are listed for Little Elm, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Little Elm, TX?
 
 Also answers: gym in Little Elm, TX; gym near me (Little Elm, TX); best gym Little Elm, TX; top rated gym Little Elm, TX; affordable gym Little Elm, TX; emergency gym Little Elm, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gold's Gym | trust 20.0 | Gold's Gym is a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/. | https://dingalinged-cpu.github.io/registry/c/golds-gym-little-elm/
-2. Anytime Fitness | trust 8.0 | Anytime Fitness is a gym in Little Elm, TX at 2701 Little Elm Parkway #150, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-little-elm/
+1. Gold's Gym | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Gold's Gym is a gym in Little Elm, TX at 2700 East Eldorado Parkway, Little Elm, TX 75068. Phone: +14693050320. Website: https://www.goldsgym.com/little-elm-tx/. | https://dingalinged-cpu.github.io/registry/c/golds-gym-little-elm/
+2. Anytime Fitness | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Anytime Fitness is a gym in Little Elm, TX at 2701 Little Elm Parkway #150, Little Elm, TX 75068. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-little-elm/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym little elm tx | category: Fitness | industry benchmark: Health & Fitness

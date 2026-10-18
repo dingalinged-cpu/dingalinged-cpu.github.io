@@ -13,7 +13,7 @@ Farmers Insurance is an insurance agent in Lewisville, TX. Phone: +19723151017. 
 - Website: https://www.farmersagent.com/kfoster
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:30; Sa "By appointment only"; Su off
-- Registry Score: 50.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 49% of insurance agents in Dallas–Fort Worth, #14 of 19 insurance agents in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

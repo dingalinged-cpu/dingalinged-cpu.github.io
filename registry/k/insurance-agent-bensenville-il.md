@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Bensenville, IL is SDG Insurance Agency (an insurance agent in Bensenville, IL at 205 West Grand Avenue #106, Bensenville, IL 60106. Phone: +16309651471. Website: https://sdgins.com/). 1 insurance agent businesses are listed for Bensenville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Bensenville, IL is SDG Insurance Agency (an insurance agent in Bensenville, IL at 205 West Grand Avenue #106, Bensenville, IL 60106. Phone: +16309651471. Website: https://sdgins.com/). 1 insurance agent businesses are listed for Bensenville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Bensenville, IL?
 
 Also answers: insurance agent in Bensenville, IL; insurance agent near me (Bensenville, IL); best insurance agent Bensenville, IL; top rated insurance agent Bensenville, IL; affordable insurance agent Bensenville, IL; emergency insurance agent Bensenville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SDG Insurance Agency | trust 20.0 | SDG Insurance Agency is an insurance agent in Bensenville, IL at 205 West Grand Avenue #106, Bensenville, IL 60106. Phone: +16309651471. Website: https://sdgins.com/. | https://dingalinged-cpu.github.io/registry/c/sdg-insurance-agency-bensenville/
+1. SDG Insurance Agency | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | SDG Insurance Agency is an insurance agent in Bensenville, IL at 205 West Grand Avenue #106, Bensenville, IL 60106. Phone: +16309651471. Website: https://sdgins.com/. | https://dingalinged-cpu.github.io/registry/c/sdg-insurance-agency-bensenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent bensenville il | category: Professional & financial services | industry benchmark: Finance & Insurance

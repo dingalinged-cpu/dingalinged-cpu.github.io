@@ -1,12 +1,12 @@
-The top unpaid occupational therapist listing for Red Oak, TX is Therapy OPS (an occupational therapist in Red Oak, TX at 200 North Interstate 35E #C, Red Oak, TX 75154. Phone: +14699170805. Website: https://therapyopstx.com/). 1 occupational therapist businesses are listed for Red Oak, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid occupational therapist listing for Red Oak, TX is Therapy OPS (an occupational therapist in Red Oak, TX at 200 North Interstate 35E #C, Red Oak, TX 75154. Phone: +14699170805. Website: https://therapyopstx.com/). 1 occupational therapist businesses are listed for Red Oak, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best occupational therapist providers in Red Oak, TX?
 
 Also answers: occupational therapist in Red Oak, TX; occupational therapist near me (Red Oak, TX); best occupational therapist Red Oak, TX; top rated occupational therapist Red Oak, TX; affordable occupational therapist Red Oak, TX; emergency occupational therapist Red Oak, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Therapy OPS | trust 20.0 | Therapy OPS is an occupational therapist in Red Oak, TX at 200 North Interstate 35E #C, Red Oak, TX 75154. Phone: +14699170805. Website: https://therapyopstx.com/. | https://dingalinged-cpu.github.io/registry/c/therapy-ops-red-oak/
+1. Therapy OPS | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Therapy OPS is an occupational therapist in Red Oak, TX at 200 North Interstate 35E #C, Red Oak, TX 75154. Phone: +14699170805. Website: https://therapyopstx.com/. | https://dingalinged-cpu.github.io/registry/c/therapy-ops-red-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: occupational therapist red oak tx | category: Health & medical | industry benchmark: Physicians & Surgeons

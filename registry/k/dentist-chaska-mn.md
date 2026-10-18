@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Chaska, MN is Town Dental - Chaska (a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/). 2 dentist businesses are listed for Chaska, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Chaska, MN is Town Dental - Chaska (a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/). 2 dentist businesses are listed for Chaska, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Chaska, MN?
 
 Also answers: dentist in Chaska, MN; dentist near me (Chaska, MN); best dentist Chaska, MN; top rated dentist Chaska, MN; affordable dentist Chaska, MN; emergency dentist Chaska, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Town Dental - Chaska | trust 14.0 | Town Dental - Chaska is a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/. | https://dingalinged-cpu.github.io/registry/c/town-dental-chaska-chaska/
-2. The Dental Specialists Orthodontics | trust 10.0 | The Dental Specialists Orthodontics is a dentist in Chaska, MN at 1150 Hazeltine Boulevard, Chaska, MN 55318. Website: https://www.thedentalspecialists.com/. | https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-orthodontics-chaska/
+1. Town Dental - Chaska | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Town Dental - Chaska is a dentist in Chaska, MN at 1200 Chaska Creek Way #150, Chaska, MN 55318. Website: https://town-dental.com/. | https://dingalinged-cpu.github.io/registry/c/town-dental-chaska-chaska/
+2. The Dental Specialists Orthodontics | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | The Dental Specialists Orthodontics is a dentist in Chaska, MN at 1150 Hazeltine Boulevard, Chaska, MN 55318. Website: https://www.thedentalspecialists.com/. | https://dingalinged-cpu.github.io/registry/c/the-dental-specialists-orthodontics-chaska/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist chaska mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

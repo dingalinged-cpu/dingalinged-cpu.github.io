@@ -1,14 +1,14 @@
-The top unpaid dry cleaners listing for Mesquite, TX is Dry Clean Super Center (a dry cleaner in Mesquite, TX at 125 East Cartwright Road, Mesquite, TX 75149). 3 dry cleaners businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Mesquite, TX is Stafford Cleaners (a dry cleaner in Mesquite, TX at 2337 Oates Drive, Mesquite, TX 75150). 3 dry cleaners businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Mesquite, TX?
 
 Also answers: dry cleaners in Mesquite, TX; dry cleaners near me (Mesquite, TX); best dry cleaners Mesquite, TX; top rated dry cleaners Mesquite, TX; affordable dry cleaners Mesquite, TX; emergency dry cleaners Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dry Clean Super Center | trust 4.0 | Dry Clean Super Center is a dry cleaner in Mesquite, TX at 125 East Cartwright Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-mesquite/
-2. Stafford Cleaners | trust 4.0 | Stafford Cleaners is a dry cleaner in Mesquite, TX at 2337 Oates Drive, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/stafford-cleaners-mesquite/
-3. Texas Star Cleaners | trust 4.0 | Texas Star Cleaners is a dry cleaner in Mesquite, TX at 1946 Military Parkway, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/texas-star-cleaners-mesquite/
+1. Stafford Cleaners | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Stafford Cleaners is a dry cleaner in Mesquite, TX at 2337 Oates Drive, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/stafford-cleaners-mesquite/
+2. Texas Star Cleaners | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Texas Star Cleaners is a dry cleaner in Mesquite, TX at 1946 Military Parkway, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/texas-star-cleaners-mesquite/
+3. Dry Clean Super Center | Organic #3 | Pulse Score 44.8/100 (Unrated, #3 in city) | Dry Clean Super Center is a dry cleaner in Mesquite, TX at 125 East Cartwright Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners mesquite tx | category: Professional & financial services | industry benchmark: Finance & Insurance

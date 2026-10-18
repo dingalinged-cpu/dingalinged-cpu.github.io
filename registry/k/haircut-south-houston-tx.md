@@ -1,13 +1,13 @@
-The top unpaid haircut listing for South Houston, TX is Diliana's Hair Salon (a hair salon in South Houston, TX at 615 College Avenue, South Houston, TX 77587). 2 haircut businesses are listed for South Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for South Houston, TX is Hair Fashion Salon (a hair salon in South Houston, TX at 703 College Avenue, South Houston, TX 77587). 2 haircut businesses are listed for South Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in South Houston, TX?
 
 Also answers: haircut in South Houston, TX; haircut near me (South Houston, TX); best haircut South Houston, TX; top rated haircut South Houston, TX; affordable haircut South Houston, TX; emergency haircut South Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Diliana's Hair Salon | trust 4.0 | Diliana's Hair Salon is a hair salon in South Houston, TX at 615 College Avenue, South Houston, TX 77587. | https://dingalinged-cpu.github.io/registry/c/dilianas-hair-salon-south-houston/
-2. Hair Fashion Salon | trust 4.0 | Hair Fashion Salon is a hair salon in South Houston, TX at 703 College Avenue, South Houston, TX 77587. | https://dingalinged-cpu.github.io/registry/c/hair-fashion-salon-south-houston/
+1. Hair Fashion Salon | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Hair Fashion Salon is a hair salon in South Houston, TX at 703 College Avenue, South Houston, TX 77587. | https://dingalinged-cpu.github.io/registry/c/hair-fashion-salon-south-houston/
+2. Diliana's Hair Salon | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Diliana's Hair Salon is a hair salon in South Houston, TX at 615 College Avenue, South Houston, TX 77587. | https://dingalinged-cpu.github.io/registry/c/dilianas-hair-salon-south-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut south houston tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

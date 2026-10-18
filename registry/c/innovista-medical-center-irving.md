@@ -13,7 +13,7 @@ Innovista Medical Center is a family medicine practice in Irving, TX at 6500 Nor
 - Website: https://innovistamedicalcenter.com/find-a-medical-center/las-colinas
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 55.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.9/100 — Unrated (not enough evidence yet) — top 50% of family medicine practices in Dallas–Fort Worth, #6 of 7 family medicine practices in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.3, Trust 50.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

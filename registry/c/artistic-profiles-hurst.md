@@ -13,7 +13,7 @@ Artistic Profiles is a hair salon in Hurst, TX at 736 West Pipeline Road, Hurst,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 10:00-18:00, Sa 09:00-18:00
-- Registry Score: 61.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 17% of hair salons in Dallas–Fort Worth, #1 of 5 hair salons in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.9, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -18,10 +18,6 @@
    "format": "csv"
   },
   {
-   "path": "companies.jsonl",
-   "format": "jsonl"
-  },
-  {
    "path": "city/acworth-ga.jsonl",
    "format": "jsonl"
   },
@@ -42,6 +38,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/alleman-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/allen-tx.jsonl",
    "format": "jsonl"
   },
@@ -54,6 +54,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/altoona-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/alvarado-tx.jsonl",
    "format": "jsonl"
   },
@@ -63,6 +67,10 @@
   },
   {
    "path": "city/andover-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ankeny-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -87,6 +95,10 @@
   },
   {
    "path": "city/arlington-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/ashland-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -166,7 +178,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/bellevue-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bellevue-second-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bellevue-second-iv-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/bellwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bennington-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -194,6 +222,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/blair-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/blooming-grove-wi.jsonl",
    "format": "jsonl"
   },
@@ -215,6 +247,14 @@
   },
   {
    "path": "city/bolingbrook-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/bondurant-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/boys-town-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -306,7 +346,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/cambridge-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cambridge-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/carlisle-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -370,6 +418,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/chicago-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/chicago-ridge-il.jsonl",
    "format": "jsonl"
   },
@@ -398,6 +450,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/clear-creek-township-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/clear-lake-shores-tx.jsonl",
    "format": "jsonl"
   },
@@ -406,7 +462,15 @@
    "format": "jsonl"
   },
   {
+   "path": "city/clive-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/cobb-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/colfax-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -455,6 +519,10 @@
   },
   {
    "path": "city/corinth-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/council-bluffs-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -507,6 +575,10 @@
   },
   {
    "path": "city/cumming-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/cumming-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -582,6 +654,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/des-moines-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/des-plaines-il.jsonl",
    "format": "jsonl"
   },
@@ -615,6 +691,10 @@
   },
   {
    "path": "city/douglas-county-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/douglas-county-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -687,6 +767,14 @@
   },
   {
    "path": "city/elk-grove-village-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elkhart-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/elkhorn-precinct-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -842,6 +930,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/fremont-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/fridley-mn.jsonl",
    "format": "jsonl"
   },
@@ -906,6 +998,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/glenwood-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/glenwood-il.jsonl",
    "format": "jsonl"
   },
@@ -919,6 +1015,10 @@
   },
   {
    "path": "city/grand-prairie-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/granger-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -942,11 +1042,23 @@
    "format": "jsonl"
   },
   {
+   "path": "city/greenwood-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/gretna-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/griffith-in.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/grimes-county-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/grimes-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1126,11 +1238,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/huxley-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/indian-creek-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/indian-head-park-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/indianola-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1158,11 +1278,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/jefferson-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/jersey-village-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/johns-creek-ga.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/johnston-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1242,6 +1370,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/la-vista-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lake-bluff-il.jsonl",
    "format": "jsonl"
   },
@@ -1282,6 +1414,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/laplatte-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lauderdale-mn.jsonl",
    "format": "jsonl"
   },
@@ -1303,6 +1439,10 @@
   },
   {
    "path": "city/lemont-township-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/lewis-township-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1335,6 +1475,10 @@
   },
   {
    "path": "city/lincolnwood-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/linn-township-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1386,6 +1530,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/louisville-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/lovejoy-ga.jsonl",
    "format": "jsonl"
   },
@@ -1411,6 +1559,10 @@
   },
   {
    "path": "city/madison-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/madrid-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1474,11 +1626,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/maxwell-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/maywood-il.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/mazomanie-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mcardle-precinct-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -1507,6 +1667,10 @@
   },
   {
    "path": "city/medina-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/melia-forest-city-precinct-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -1554,6 +1718,14 @@
    "format": "jsonl"
   },
   {
+   "path": "city/mills-county-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/milo-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/milton-ga.jsonl",
    "format": "jsonl"
   },
@@ -1575,6 +1747,14 @@
   },
   {
    "path": "city/missouri-city-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/missouri-valley-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/mitchellville-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1762,6 +1942,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/norwalk-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/oak-brook-il.jsonl",
    "format": "jsonl"
   },
@@ -1795,6 +1979,10 @@
   },
   {
    "path": "city/olympia-fields-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/omaha-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -1846,6 +2034,18 @@
    "format": "jsonl"
   },
   {
+   "path": "city/papillion-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/papillion-second-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/papillion-second-ii-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/park-forest-il.jsonl",
    "format": "jsonl"
   },
@@ -1894,7 +2094,27 @@
    "format": "jsonl"
   },
   {
+   "path": "city/plattsmouth-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/plattsmouth-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/pleasant-hill-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/plymouth-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/polk-city-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/polk-county-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -1942,6 +2162,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/ralston-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/ramsey-mn.jsonl",
    "format": "jsonl"
   },
@@ -1963,6 +2187,22 @@
   },
   {
    "path": "city/richland-hills-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richland-i-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richland-iv-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richland-vii-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/richland-viii-precinct-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -2110,6 +2350,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/salt-creek-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/san-felipe-tx.jsonl",
    "format": "jsonl"
   },
@@ -2190,11 +2434,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/silver-city-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/simonton-tx.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/skokie-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/slater-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -2263,6 +2515,10 @@
   },
   {
    "path": "city/spring-valley-village-tx.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/springfield-ne.jsonl",
    "format": "jsonl"
   },
   {
@@ -2490,6 +2746,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/township-6-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/trophy-club-tx.jsonl",
    "format": "jsonl"
   },
@@ -2510,6 +2770,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/union-precinct-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/university-park-il.jsonl",
    "format": "jsonl"
   },
@@ -2518,7 +2782,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/urbandale-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/vadnais-heights-mn.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/valley-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/van-meter-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -2598,11 +2874,19 @@
    "format": "jsonl"
   },
   {
+   "path": "city/waterloo-ne.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/waterloo-wi.jsonl",
    "format": "jsonl"
   },
   {
    "path": "city/wauconda-il.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/waukee-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -2635,6 +2919,10 @@
   },
   {
    "path": "city/west-bend-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/west-des-moines-ia.jsonl",
    "format": "jsonl"
   },
   {
@@ -2718,6 +3006,10 @@
    "format": "jsonl"
   },
   {
+   "path": "city/windsor-heights-ia.jsonl",
+   "format": "jsonl"
+  },
+  {
    "path": "city/windsor-wi.jsonl",
    "format": "jsonl"
   },
@@ -2767,6 +3059,10 @@
   },
   {
    "path": "city/yorkville-wi.jsonl",
+   "format": "jsonl"
+  },
+  {
+   "path": "city/yutan-ne.jsonl",
    "format": "jsonl"
   },
   {

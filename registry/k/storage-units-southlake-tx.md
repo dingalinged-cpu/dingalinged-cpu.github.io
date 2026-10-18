@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Southlake, TX is Southlake Storage (a self-storage facility in Southlake, TX at 2060 East Continental Boulevard, Southlake, TX 76092. Phone: +18179121516. Website: https://www.premiumspaces.com/storage-locations/tx/southlake/2060-e-continental-blvd/). 1 storage units businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Southlake, TX is Southlake Storage (a self-storage facility in Southlake, TX at 2060 East Continental Boulevard, Southlake, TX 76092. Phone: +18179121516. Website: https://www.premiumspaces.com/storage-locations/tx/southlake/2060-e-continental-blvd/). 1 storage units businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Southlake, TX?
 
 Also answers: storage units in Southlake, TX; storage units near me (Southlake, TX); best storage units Southlake, TX; top rated storage units Southlake, TX; affordable storage units Southlake, TX; emergency storage units Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southlake Storage | trust 16.0 | Southlake Storage is a self-storage facility in Southlake, TX at 2060 East Continental Boulevard, Southlake, TX 76092. Phone: +18179121516. Website: https://www.premiumspaces.com/storage-locations/tx/southlake/2060-e-continental-blvd/. | https://dingalinged-cpu.github.io/registry/c/southlake-storage-southlake/
+1. Southlake Storage | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Southlake Storage is a self-storage facility in Southlake, TX at 2060 East Continental Boulevard, Southlake, TX 76092. Phone: +18179121516. Website: https://www.premiumspaces.com/storage-locations/tx/southlake/2060-e-continental-blvd/. | https://dingalinged-cpu.github.io/registry/c/southlake-storage-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units southlake tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

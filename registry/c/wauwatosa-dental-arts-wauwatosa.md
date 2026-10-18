@@ -13,7 +13,7 @@ Wauwatosa Dental Arts is a dentist in Wauwatosa, WI at 11600 West North Avenue, 
 - Website: https://www.drrichardrosen.com/
 - Email: daa11600@gmail.com
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-13:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 7% of dentists in Milwaukee, #2 of 13 dentists in Wauwatosa (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid gift shop listing for Downers Grove, IL is Incidentals (a gift shop in Downers Grove, IL). 2 gift shop businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Downers Grove, IL is Incidentals (a gift shop in Downers Grove, IL). 2 gift shop businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Downers Grove, IL?
 
 Also answers: gift shop in Downers Grove, IL; gift shop near me (Downers Grove, IL); best gift shop Downers Grove, IL; top rated gift shop Downers Grove, IL; affordable gift shop Downers Grove, IL; emergency gift shop Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Incidentals | trust 4.0 | Incidentals is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/incidentals-downers-grove/
-2. Hallmark | trust 0.0 | Hallmark is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-downers-grove/
+1. Incidentals | Organic #1 | Pulse Score 56.6/100 (Unrated, #1 in city) | Incidentals is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/incidentals-downers-grove/
+2. Hallmark | Organic #2 | Pulse Score 42.2/100 (Building, #2 in city) | Hallmark is a gift shop in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/hallmark-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop downers grove il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

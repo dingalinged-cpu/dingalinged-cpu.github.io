@@ -13,7 +13,7 @@ Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Pa
 - Website: https://chroma-beauty-salon.com/
 - Email: chromabeautysalon106@gmail.com
 - Opening hours (OSM syntax): We 10:00-16:00; Th 14:00-21:00; Su 09:00-15:00
-- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 1% of hair salons in Chicago, #1 of 1 hair salons in Palos Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

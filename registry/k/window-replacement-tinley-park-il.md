@@ -1,12 +1,12 @@
-The top unpaid window replacement listing for Tinley Park, IL is Schaaf Window Company (a window installer in Tinley Park, IL at 18445 Thompson Court, Tinley Park, IL 60477. Phone: +17083420900. Website: https://www.schaafwindow.com/). 1 window replacement businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Tinley Park, IL is Schaaf Window Company (a window installer in Tinley Park, IL at 18445 Thompson Court, Tinley Park, IL 60477. Phone: +17083420900. Website: https://www.schaafwindow.com/). 1 window replacement businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Tinley Park, IL?
 
 Also answers: window replacement in Tinley Park, IL; window replacement near me (Tinley Park, IL); best window replacement Tinley Park, IL; top rated window replacement Tinley Park, IL; affordable window replacement Tinley Park, IL; emergency window replacement Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Schaaf Window Company | trust 20.0 | Schaaf Window Company is a window installer in Tinley Park, IL at 18445 Thompson Court, Tinley Park, IL 60477. Phone: +17083420900. Website: https://www.schaafwindow.com/. | https://dingalinged-cpu.github.io/registry/c/schaaf-window-company-tinley-park/
+1. Schaaf Window Company | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Schaaf Window Company is a window installer in Tinley Park, IL at 18445 Thompson Court, Tinley Park, IL 60477. Phone: +17083420900. Website: https://www.schaafwindow.com/. | https://dingalinged-cpu.github.io/registry/c/schaaf-window-company-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement tinley park il | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

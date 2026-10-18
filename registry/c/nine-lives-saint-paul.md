@@ -13,7 +13,7 @@ Nine Lives is a thrift store in Saint Paul, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Sa 11:00-18:00; Su 11:00-17:00
-- Registry Score: 52.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.3/100 — Unrated (not enough evidence yet) — top 39% of thrift stores in Minneapolis–St. Paul, #5 of 11 thrift stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.4, Trust 46. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid dance studio listing for Roswell, GA is Footnotes Dance & Acrobatics Studio (a dance studio in Roswell, GA at 2500 Old Alabama Road #15, Roswell, GA 30076). 2 dance studio businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Roswell, GA is Footnotes Dance & Acrobatics Studio (a dance studio in Roswell, GA at 2500 Old Alabama Road #15, Roswell, GA 30076). 2 dance studio businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Roswell, GA?
 
 Also answers: dance studio in Roswell, GA; dance studio near me (Roswell, GA); best dance studio Roswell, GA; top rated dance studio Roswell, GA; affordable dance studio Roswell, GA; emergency dance studio Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Footnotes Dance & Acrobatics Studio | trust 4.0 | Footnotes Dance & Acrobatics Studio is a dance studio in Roswell, GA at 2500 Old Alabama Road #15, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/footnotes-dance-and-acrobatics-studio-roswell/
-2. Global Dance Academy of Performing Arts | trust 4.0 | Global Dance Academy of Performing Arts is a dance studio in Roswell, GA at 2300 Holcomb Bridge Road, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/global-dance-academy-of-performing-arts-roswell/
+1. Footnotes Dance & Acrobatics Studio | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Footnotes Dance & Acrobatics Studio is a dance studio in Roswell, GA at 2500 Old Alabama Road #15, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/footnotes-dance-and-acrobatics-studio-roswell/
+2. Global Dance Academy of Performing Arts | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Global Dance Academy of Performing Arts is a dance studio in Roswell, GA at 2300 Holcomb Bridge Road, Roswell, GA 30076. | https://dingalinged-cpu.github.io/registry/c/global-dance-academy-of-performing-arts-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio roswell ga | category: Fitness | industry benchmark: Health & Fitness

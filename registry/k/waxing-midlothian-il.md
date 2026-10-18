@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Midlothian, IL is Beya Wax Bar (a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/). 1 waxing businesses are listed for Midlothian, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Midlothian, IL is Beya Wax Bar (a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/). 1 waxing businesses are listed for Midlothian, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Midlothian, IL?
 
 Also answers: waxing in Midlothian, IL; waxing near me (Midlothian, IL); best waxing Midlothian, IL; top rated waxing Midlothian, IL; affordable waxing Midlothian, IL; emergency waxing Midlothian, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beya Wax Bar | trust 20.0 | Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/. | https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/
+1. Beya Wax Bar | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Beya Wax Bar is a waxing salon in Midlothian, IL at 4708 147th Street #Suite 1, Midlothian, IL 60445. Phone: +17082386040. Website: https://www.beyawaxbar.com/. | https://dingalinged-cpu.github.io/registry/c/beya-wax-bar-midlothian/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing midlothian il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

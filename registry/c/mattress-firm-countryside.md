@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Countryside, IL at 9900 Joliet Road, Countr
 - Website: https://www.mattressfirm.com/en-us/stores/il/countryside/119002/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 55% of mattress stores in Chicago, #1 of 2 mattress stores in Countryside (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

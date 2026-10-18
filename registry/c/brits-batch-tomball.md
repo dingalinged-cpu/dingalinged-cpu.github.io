@@ -13,7 +13,7 @@ Brit's Batch is a bakery in Tomball, TX at 24510 Tomball Parkway, Tomball, TX 77
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su,PH 11:00-23:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 27% of bakerys in Houston, #1 of 1 bakerys in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

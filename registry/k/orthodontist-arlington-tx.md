@@ -1,12 +1,12 @@
-The top unpaid orthodontist listing for Arlington, TX is Medico M.D. (a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/). 1 orthodontist businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthodontist listing for Arlington, TX is Medico M.D. (a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/). 1 orthodontist businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthodontist providers in Arlington, TX?
 
 Also answers: orthodontist in Arlington, TX; orthodontist near me (Arlington, TX); best orthodontist Arlington, TX; top rated orthodontist Arlington, TX; affordable orthodontist Arlington, TX; emergency orthodontist Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Medico M.D. | trust 15.0 | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://dingalinged-cpu.github.io/registry/c/medico-m-d-arlington/
+1. Medico M.D. | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Medico M.D. is a family medicine practice in Arlington, TX at 801 West Park Row Drive, Arlington, TX. Phone: +18177847888. Website: https://www.medicomdtx.com/. | https://dingalinged-cpu.github.io/registry/c/medico-m-d-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthodontist arlington tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

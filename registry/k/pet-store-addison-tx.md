@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Addison, TX is PetSmart (a pet store in Addison, TX at 3800 Belt Line Road, Addison, TX 75001. Phone: +19729194740. Website: https://www.petsmart.com/stores/us/tx/addison-store1242.html). 2 pet store businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Addison, TX is Fish Gallery (a pet store in Dallas, TX at 15003 Inwood Road, Dallas, TX 75244. Phone: +12143733474. Website: https://thefishgallery.com/). 2 pet store businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Addison, TX?
 
 Also answers: pet store in Addison, TX; pet store near me (Addison, TX); best pet store Addison, TX; top rated pet store Addison, TX; affordable pet store Addison, TX; emergency pet store Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Addison, TX at 3800 Belt Line Road, Addison, TX 75001. Phone: +19729194740. Website: https://www.petsmart.com/stores/us/tx/addison-store1242.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-addison/
-2. Fish Gallery | trust 16.0 | Fish Gallery is a pet store in Dallas, TX at 15003 Inwood Road, Dallas, TX 75244. Phone: +12143733474. Website: https://thefishgallery.com/. | https://dingalinged-cpu.github.io/registry/c/fish-gallery-dallas/
+1. Fish Gallery | Organic #1 | Pulse Score 57.7/100 (Unrated, #5 in city) | Fish Gallery is a pet store in Dallas, TX at 15003 Inwood Road, Dallas, TX 75244. Phone: +12143733474. Website: https://thefishgallery.com/. | https://dingalinged-cpu.github.io/registry/c/fish-gallery-dallas/
+2. PetSmart | Organic #2 | Pulse Score 49.8/100 (Building, #1 in city) | PetSmart is a pet store in Addison, TX at 3800 Belt Line Road, Addison, TX 75001. Phone: +19729194740. Website: https://www.petsmart.com/stores/us/tx/addison-store1242.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store addison tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

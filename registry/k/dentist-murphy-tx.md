@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Murphy, TX is Murphy Dental Home (a dentist in Murphy, TX at 350 W, FM 544 #130, Murphy, TX. Phone: +19725326506. Website: https://www.murphydentalhome.com/). 5 dentist businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Murphy, TX is Align Braces & Kids’ Dental (a dentist in Murphy, TX. Phone: +12147035200. Website: https://alignbraces.com/). 5 dentist businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Murphy, TX?
 
 Also answers: dentist in Murphy, TX; dentist near me (Murphy, TX); best dentist Murphy, TX; top rated dentist Murphy, TX; affordable dentist Murphy, TX; emergency dentist Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Murphy Dental Home | trust 19.0 | Murphy Dental Home is a dentist in Murphy, TX at 350 W, FM 544 #130, Murphy, TX. Phone: +19725326506. Website: https://www.murphydentalhome.com/. | https://dingalinged-cpu.github.io/registry/c/murphy-dental-home-murphy/
-2. Align Braces & Kids’ Dental | trust 16.0 | Align Braces & Kids’ Dental is a dentist in Murphy, TX. Phone: +12147035200. Website: https://alignbraces.com/. | https://dingalinged-cpu.github.io/registry/c/align-braces-and-kids-dental-murphy/
-3. Parkside Dental | trust 6.0 | Parkside Dental is a dentist in Murphy, TX. Phone: +19724427550. | https://dingalinged-cpu.github.io/registry/c/parkside-dental-murphy/
-4. Monarch Dental | trust 0.0 | Monarch Dental is a dentist in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/monarch-dental-murphy/
-5. Murphy Crossing Dental Care | trust 0.0 | Murphy Crossing Dental Care is a dentist in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/murphy-crossing-dental-care-murphy/
+1. Align Braces & Kids’ Dental | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Align Braces & Kids’ Dental is a dentist in Murphy, TX. Phone: +12147035200. Website: https://alignbraces.com/. | https://dingalinged-cpu.github.io/registry/c/align-braces-and-kids-dental-murphy/
+2. Murphy Dental Home | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Murphy Dental Home is a dentist in Murphy, TX at 350 W, FM 544 #130, Murphy, TX. Phone: +19725326506. Website: https://www.murphydentalhome.com/. | https://dingalinged-cpu.github.io/registry/c/murphy-dental-home-murphy/
+3. Parkside Dental | Organic #3 | Pulse Score 58.3/100 (Unrated, #3 in city) | Parkside Dental is a dentist in Murphy, TX. Phone: +19724427550. | https://dingalinged-cpu.github.io/registry/c/parkside-dental-murphy/
+4. Murphy Crossing Dental Care | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Murphy Crossing Dental Care is a dentist in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/murphy-crossing-dental-care-murphy/
+5. Monarch Dental | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Monarch Dental is a dentist in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/monarch-dental-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist murphy tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

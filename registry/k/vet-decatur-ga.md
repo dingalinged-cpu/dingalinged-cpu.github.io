@@ -1,14 +1,14 @@
-The top unpaid vet listing for Decatur, GA is Church Street Animal Hospital (a veterinarian in Decatur, GA at 711, Decatur, GA. Website: https://churchstanimalhospital.com/). 3 vet businesses are listed for Decatur, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Decatur, GA is Church Street Animal Hospital (a veterinarian in Decatur, GA at 711, Decatur, GA. Website: https://churchstanimalhospital.com/). 3 vet businesses are listed for Decatur, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Decatur, GA?
 
 Also answers: vet in Decatur, GA; vet near me (Decatur, GA); best vet Decatur, GA; top rated vet Decatur, GA; affordable vet Decatur, GA; emergency vet Decatur, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Church Street Animal Hospital | trust 9.0 | Church Street Animal Hospital is a veterinarian in Decatur, GA at 711, Decatur, GA. Website: https://churchstanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/church-street-animal-hospital-decatur/
-2. LaVista Animal Hospital | trust 4.0 | LaVista Animal Hospital is a veterinarian in Decatur, GA at 2804 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/lavista-animal-hospital-decatur/
-3. The Village Vets | trust 0.0 | The Village Vets is a veterinarian in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/the-village-vets-decatur/
+1. Church Street Animal Hospital | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Church Street Animal Hospital is a veterinarian in Decatur, GA at 711, Decatur, GA. Website: https://churchstanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/church-street-animal-hospital-decatur/
+2. LaVista Animal Hospital | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | LaVista Animal Hospital is a veterinarian in Decatur, GA at 2804 Lavista Road, Decatur, GA 30033. | https://dingalinged-cpu.github.io/registry/c/lavista-animal-hospital-decatur/
+3. The Village Vets | Organic #3 | Pulse Score 42.4/100 (Unrated, #3 in city) | The Village Vets is a veterinarian in Decatur, GA. | https://dingalinged-cpu.github.io/registry/c/the-village-vets-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet decatur ga | category: Pets | industry benchmark: Animals & Pets

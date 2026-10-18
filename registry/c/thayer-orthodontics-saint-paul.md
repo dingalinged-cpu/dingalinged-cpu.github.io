@@ -13,7 +13,7 @@ Thayer Orthodontics is a dentist in Saint Paul, MN at 1050 Larpenteur Avenue Wes
 - Website: https://thayerorthodontics.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 24% of dentists in Minneapolis–St. Paul, #8 of 29 dentists in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

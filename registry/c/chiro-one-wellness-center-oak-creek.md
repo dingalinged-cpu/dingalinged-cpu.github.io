@@ -13,7 +13,7 @@ Chiro One Wellness Center is a chiropractor in Oak Creek, WI at 8880 South Howel
 - Website: https://www.chiroone.com/locations/oak-creek/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 46.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 91% of chiropractors in Milwaukee, #1 of 1 chiropractors in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

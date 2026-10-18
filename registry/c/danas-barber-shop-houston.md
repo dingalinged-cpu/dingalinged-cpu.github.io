@@ -13,7 +13,7 @@ Dana's Barber Shop is a hair salon in Houston, TX at 520 Northpark Drive #111, H
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Th 09:00-17:45; Fr 09:00-17:00; Sa 09:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 31% of hair salons in Houston, #75 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 59.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

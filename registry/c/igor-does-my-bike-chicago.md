@@ -13,7 +13,7 @@ Igor Does My Bike is a bike shop in Chicago, IL. Phone: +17739682453. Website: h
 - Website: https://www.igordoesmybike.com/
 - Email: info@igordoesmybike.com
 - Opening hours (OSM syntax): Tu-Fr 11:00-18:00; Sa-Su 11:00-17:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 1% of bike shops in Chicago, #1 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 73.6, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

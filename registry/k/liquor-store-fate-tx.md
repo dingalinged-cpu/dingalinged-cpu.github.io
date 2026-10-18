@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Fate, TX is Homeboys Liquor (a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655). 2 liquor store businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Fate, TX is Homeboys Liquor (a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655). 2 liquor store businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Fate, TX?
 
 Also answers: liquor store in Fate, TX; liquor store near me (Fate, TX); best liquor store Fate, TX; top rated liquor store Fate, TX; affordable liquor store Fate, TX; emergency liquor store Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Homeboys Liquor | trust 10.0 | Homeboys Liquor is a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655. | https://dingalinged-cpu.github.io/registry/c/homeboys-liquor-rockwall/
-2. Spec's | trust 0.0 | Spec's is a liquor store in Fate, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fate/
+1. Homeboys Liquor | Organic #1 | Pulse Score 60.9/100 (Unrated, #2 in city) | Homeboys Liquor is a liquor store in Rockwall, TX at 2975 State Highway 66 #D, Rockwall, TX 75087. Phone: +14693771655. | https://dingalinged-cpu.github.io/registry/c/homeboys-liquor-rockwall/
+2. Spec's | Organic #2 | Pulse Score 42.1/100 (Building, #1 in city) | Spec's is a liquor store in Fate, TX. | https://dingalinged-cpu.github.io/registry/c/specs-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store fate tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,15 +1,15 @@
-The top unpaid oil change listing for Katy, TX is 1463 Auto Repair LLC (an auto repair shop in Katy, TX at 1260 FM 1463 #300, Katy, TX 77494. Phone: +12815743436). 4 oil change businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Katy, TX is 1463 Auto Repair LLC (an auto repair shop in Katy, TX at 1260 FM 1463 #300, Katy, TX 77494. Phone: +12815743436). 4 oil change businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Katy, TX?
 
 Also answers: oil change in Katy, TX; oil change near me (Katy, TX); best oil change Katy, TX; top rated oil change Katy, TX; affordable oil change Katy, TX; emergency oil change Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1463 Auto Repair LLC | trust 10.0 | 1463 Auto Repair LLC is an auto repair shop in Katy, TX at 1260 FM 1463 #300, Katy, TX 77494. Phone: +12815743436. | https://dingalinged-cpu.github.io/registry/c/1463-auto-repair-llc-katy/
-2. Fulshear Tire & Automotive | trust 10.0 | Fulshear Tire & Automotive is an auto repair shop in Katy, TX at 2945 FM 1463, Katy, TX 77494. Phone: +12813925552. | https://dingalinged-cpu.github.io/registry/c/fulshear-tire-and-automotive-katy/
-3. Cinco Auto 2 | trust 8.0 | Cinco Auto 2 is an auto repair shop in Katy, TX at 5341 Farm to Market 1463, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/cinco-auto-2-katy/
-4. Strickland Brothers 10 Minute Oil Change | trust 4.0 | Strickland Brothers 10 Minute Oil Change is an auto repair shop in Katy, TX at 23033 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/strickland-brothers-10-minute-oil-change-katy/
+1. 1463 Auto Repair LLC | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | 1463 Auto Repair LLC is an auto repair shop in Katy, TX at 1260 FM 1463 #300, Katy, TX 77494. Phone: +12815743436. | https://dingalinged-cpu.github.io/registry/c/1463-auto-repair-llc-katy/
+2. Fulshear Tire & Automotive | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Fulshear Tire & Automotive is an auto repair shop in Katy, TX at 2945 FM 1463, Katy, TX 77494. Phone: +12813925552. | https://dingalinged-cpu.github.io/registry/c/fulshear-tire-and-automotive-katy/
+3. Cinco Auto 2 | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Cinco Auto 2 is an auto repair shop in Katy, TX at 5341 Farm to Market 1463, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/cinco-auto-2-katy/
+4. Strickland Brothers 10 Minute Oil Change | Organic #4 | Pulse Score 58.2/100 (Unrated, #6 in city) | Strickland Brothers 10 Minute Oil Change is an auto repair shop in Katy, TX at 23033 Clay Road, Katy, TX 77493. | https://dingalinged-cpu.github.io/registry/c/strickland-brothers-10-minute-oil-change-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change katy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

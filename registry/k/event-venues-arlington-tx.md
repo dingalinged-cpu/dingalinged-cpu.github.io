@@ -1,14 +1,14 @@
-The top unpaid event venues listing for Arlington, TX is Texas Live! (an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/). 3 event venues businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Arlington, TX is Texas Live! (an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/). 3 event venues businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Arlington, TX?
 
 Also answers: event venues in Arlington, TX; event venues near me (Arlington, TX); best event venues Arlington, TX; top rated event venues Arlington, TX; affordable event venues Arlington, TX; emergency event venues Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Live! | trust 20.0 | Texas Live! is an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/. | https://dingalinged-cpu.github.io/registry/c/texas-live-arlington/
-2. 360 Elite Arena of Arlington | trust 10.0 | 360 Elite Arena of Arlington is an event venue in Arlington, TX at 1600 West Interstate 20, Arlington, TX 76017. Website: https://360elitearenaofarlington.com/. | https://dingalinged-cpu.github.io/registry/c/360-elite-arena-of-arlington-arlington/
-3. Bob Duncan Center | trust 4.0 | Bob Duncan Center is an event venue in Arlington, TX at 2800 South Center Street, Arlington, TX 76014. | https://dingalinged-cpu.github.io/registry/c/bob-duncan-center-arlington/
+1. Texas Live! | Organic #1 | Pulse Score 64.9/100 (Good, #1 in city) | Texas Live! is an event venue in Arlington, TX at 1650 East Randol Mill Road, Arlington, TX 76011. Phone: +18178526688. Website: https://texas-live.com/. | https://dingalinged-cpu.github.io/registry/c/texas-live-arlington/
+2. 360 Elite Arena of Arlington | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | 360 Elite Arena of Arlington is an event venue in Arlington, TX at 1600 West Interstate 20, Arlington, TX 76017. Website: https://360elitearenaofarlington.com/. | https://dingalinged-cpu.github.io/registry/c/360-elite-arena-of-arlington-arlington/
+3. Bob Duncan Center | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | Bob Duncan Center is an event venue in Arlington, TX at 2800 South Center Street, Arlington, TX 76014. | https://dingalinged-cpu.github.io/registry/c/bob-duncan-center-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues arlington tx | category: Events & weddings | industry benchmark: Personal Services

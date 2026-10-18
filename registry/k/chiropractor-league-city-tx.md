@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for League City, TX is Lordex Spine Institute (a chiropractor in League City, TX at 212 South Gulf Freeway #G1, League City, TX 77573. Phone: +12815355673. Website: https://lsilc.com/). 1 chiropractor businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for League City, TX is Lordex Spine Institute (a chiropractor in League City, TX at 212 South Gulf Freeway #G1, League City, TX 77573. Phone: +12815355673. Website: https://lsilc.com/). 1 chiropractor businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in League City, TX?
 
 Also answers: chiropractor in League City, TX; chiropractor near me (League City, TX); best chiropractor League City, TX; top rated chiropractor League City, TX; affordable chiropractor League City, TX; emergency chiropractor League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lordex Spine Institute | trust 16.0 | Lordex Spine Institute is a chiropractor in League City, TX at 212 South Gulf Freeway #G1, League City, TX 77573. Phone: +12815355673. Website: https://lsilc.com/. | https://dingalinged-cpu.github.io/registry/c/lordex-spine-institute-league-city/
+1. Lordex Spine Institute | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Lordex Spine Institute is a chiropractor in League City, TX at 212 South Gulf Freeway #G1, League City, TX 77573. Phone: +12815355673. Website: https://lsilc.com/. | https://dingalinged-cpu.github.io/registry/c/lordex-spine-institute-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor league city tx | category: Health & medical | industry benchmark: Physicians & Surgeons

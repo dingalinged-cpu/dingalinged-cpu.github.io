@@ -13,7 +13,7 @@ McKinney Locksmith is a locksmith in McKinney, TX at 400 North Central Expresswa
 - Website: https://www.mckinneylocksmiths.net/
 - Email: woodword@mckinneylocksmiths.net
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Unrated (not enough evidence yet) — top 45% of locksmiths in Dallas–Fort Worth, #1 of 1 locksmiths in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

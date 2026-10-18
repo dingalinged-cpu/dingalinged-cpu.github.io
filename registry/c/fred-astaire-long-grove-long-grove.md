@@ -13,7 +13,7 @@ Fred Astaire Long Grove is a dance studio in Long Grove, IL at 342 North Old McH
 - Website: https://www.fredastaire.com/chicago-north/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.5/100 — Unrated (not enough evidence yet) — top 48% of dance studios in Chicago, #1 of 1 dance studios in Long Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 54.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ PetSmart is a pet store in Houston, TX at 1339 West 43rd Street, Houston, TX 770
 - Website: https://www.petsmart.com/stores/us/tx/houston-store2542.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.5/100 — Building — top 38% of pet stores in Houston, #18 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 54.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Denton, TX is Regent Restoration Denton (a roofer in Denton, TX at 916 South Locust Street, Denton, TX 76201. Phone: +14696580842. Website: https://regentrestoration.com/water-damage-restoration-service-denton-tx/). 1 roofer businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Denton, TX is Regent Restoration Denton (a roofer in Denton, TX at 916 South Locust Street, Denton, TX 76201. Phone: +14696580842. Website: https://regentrestoration.com/water-damage-restoration-service-denton-tx/). 1 roofer businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Denton, TX?
 
 Also answers: roofer in Denton, TX; roofer near me (Denton, TX); best roofer Denton, TX; top rated roofer Denton, TX; affordable roofer Denton, TX; emergency roofer Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Regent Restoration Denton | trust 20.0 | Regent Restoration Denton is a roofer in Denton, TX at 916 South Locust Street, Denton, TX 76201. Phone: +14696580842. Website: https://regentrestoration.com/water-damage-restoration-service-denton-tx/. | https://dingalinged-cpu.github.io/registry/c/regent-restoration-denton-denton/
+1. Regent Restoration Denton | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Regent Restoration Denton is a roofer in Denton, TX at 916 South Locust Street, Denton, TX 76201. Phone: +14696580842. Website: https://regentrestoration.com/water-damage-restoration-service-denton-tx/. | https://dingalinged-cpu.github.io/registry/c/regent-restoration-denton-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer denton tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

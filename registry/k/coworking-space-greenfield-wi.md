@@ -1,12 +1,12 @@
-The top unpaid coworking space listing for Greenfield, WI is Regus (a coworking space in Greenfield, WI at 4848 South 76th Street, Greenfield, WI 53220). 1 coworking space businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid coworking space listing for Greenfield, WI is Regus (a coworking space in Greenfield, WI at 4848 South 76th Street, Greenfield, WI 53220). 1 coworking space businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best coworking space providers in Greenfield, WI?
 
 Also answers: coworking space in Greenfield, WI; coworking space near me (Greenfield, WI); best coworking space Greenfield, WI; top rated coworking space Greenfield, WI; affordable coworking space Greenfield, WI; emergency coworking space Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Regus | trust 4.0 | Regus is a coworking space in Greenfield, WI at 4848 South 76th Street, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/regus-greenfield/
+1. Regus | Organic #1 | Pulse Score 41.5/100 (Building, #1 in city) | Regus is a coworking space in Greenfield, WI at 4848 South 76th Street, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/regus-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: coworking space greenfield wi | category: real_estate | industry benchmark: Real Estate

@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Inver Grove Heights, MN is A & M Liquor (a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN). 3 liquor store businesses are listed for Inver Grove Heights, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Inver Grove Heights, MN is A & M Liquor (a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN). 3 liquor store businesses are listed for Inver Grove Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Inver Grove Heights, MN?
 
 Also answers: liquor store in Inver Grove Heights, MN; liquor store near me (Inver Grove Heights, MN); best liquor store Inver Grove Heights, MN; top rated liquor store Inver Grove Heights, MN; affordable liquor store Inver Grove Heights, MN; emergency liquor store Inver Grove Heights, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A & M Liquor | trust 3.0 | A & M Liquor is a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/a-and-m-liquor-inver-grove-heights/
-2. Arbor Pointe Liquor | trust 3.0 | Arbor Pointe Liquor is a liquor store in Inver Grove Heights, MN at 9084, Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/arbor-pointe-liquor-inver-grove-heights/
-3. Cameron Liqour Store | trust 0.0 | Cameron Liqour Store is a liquor store in Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/cameron-liqour-store-inver-grove-heights/
+1. A & M Liquor | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | A & M Liquor is a liquor store in Inver Grove Heights, MN at 5709, Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/a-and-m-liquor-inver-grove-heights/
+2. Arbor Pointe Liquor | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Arbor Pointe Liquor is a liquor store in Inver Grove Heights, MN at 9084, Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/arbor-pointe-liquor-inver-grove-heights/
+3. Cameron Liqour Store | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Cameron Liqour Store is a liquor store in Inver Grove Heights, MN. | https://dingalinged-cpu.github.io/registry/c/cameron-liqour-store-inver-grove-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store inver grove heights mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

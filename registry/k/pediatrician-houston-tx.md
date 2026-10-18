@@ -1,13 +1,13 @@
-The top unpaid pediatrician listing for Houston, TX is Vecino Airline Children's Health Center (a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/). 2 pediatrician businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pediatrician listing for Houston, TX is Vecino Airline Children's Health Center (a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/). 2 pediatrician businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pediatrician providers in Houston, TX?
 
 Also answers: pediatrician in Houston, TX; pediatrician near me (Houston, TX); best pediatrician Houston, TX; top rated pediatrician Houston, TX; affordable pediatrician Houston, TX; emergency pediatrician Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vecino Airline Children's Health Center | trust 20.0 | Vecino Airline Children's Health Center is a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/. | https://dingalinged-cpu.github.io/registry/c/vecino-airline-childrens-health-center-houston/
-2. Pearsall Pediatrics | trust 4.0 | Pearsall Pediatrics is a pediatrician in Houston, TX at 3003 South Loop West Frontage Road #Suite 410, Houston, TX 77054. | https://dingalinged-cpu.github.io/registry/c/pearsall-pediatrics-houston/
+1. Vecino Airline Children's Health Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Vecino Airline Children's Health Center is a pediatrician in Houston, TX at 5808 Airline Drive, Houston, TX 77076. Phone: +17136954013. Website: https://www.airlinechildrensclinic.org/. | https://dingalinged-cpu.github.io/registry/c/vecino-airline-childrens-health-center-houston/
+2. Pearsall Pediatrics | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Pearsall Pediatrics is a pediatrician in Houston, TX at 3003 South Loop West Frontage Road #Suite 410, Houston, TX 77054. | https://dingalinged-cpu.github.io/registry/c/pearsall-pediatrics-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: pediatrician houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

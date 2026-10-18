@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Mansfield, TX is Hilltop Bicycle Center (a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/). 1 bike shop businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Mansfield, TX is Hilltop Bicycle Center (a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/). 1 bike shop businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Mansfield, TX?
 
 Also answers: bike shop in Mansfield, TX; bike shop near me (Mansfield, TX); best bike shop Mansfield, TX; top rated bike shop Mansfield, TX; affordable bike shop Mansfield, TX; emergency bike shop Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hilltop Bicycle Center | trust 20.0 | Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/. | https://dingalinged-cpu.github.io/registry/c/hilltop-bicycle-center-mansfield/
+1. Hilltop Bicycle Center | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Hilltop Bicycle Center is a bike shop in Mansfield, TX at 130 North Main Street, Mansfield, TX 76063. Phone: +18172256275. Website: https://hilltop.bike/. | https://dingalinged-cpu.github.io/registry/c/hilltop-bicycle-center-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop mansfield tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

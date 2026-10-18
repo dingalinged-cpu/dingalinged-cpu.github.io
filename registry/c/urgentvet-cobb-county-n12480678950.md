@@ -13,7 +13,7 @@ UrgentVet is a veterinarian in Cobb County, GA at 4363 Roswell Road #100, Cobb C
 - Website: https://urgentvet.com/location/east-cobb-marietta-ga/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00; PH 12:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 99% of veterinarians in Atlanta, #20 of 20 veterinarians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 51.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

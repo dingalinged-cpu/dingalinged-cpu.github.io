@@ -1,13 +1,13 @@
-The top unpaid vet listing for Hurst, TX is Thrive Pet Healthcare - Hurst (a veterinarian in Hurst, TX at 520 Grapevine Highway #400, Hurst, TX 76054. Phone: +18178576979. Website: https://www.thrivepetcare.com/locations/texas/hurst/grapevine-hwy/). 2 vet businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Hurst, TX is Hurst Animal Clinic (a veterinarian in Hurst, TX). 2 vet businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Hurst, TX?
 
 Also answers: vet in Hurst, TX; vet near me (Hurst, TX); best vet Hurst, TX; top rated vet Hurst, TX; affordable vet Hurst, TX; emergency vet Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thrive Pet Healthcare - Hurst | trust 20.0 | Thrive Pet Healthcare - Hurst is a veterinarian in Hurst, TX at 520 Grapevine Highway #400, Hurst, TX 76054. Phone: +18178576979. Website: https://www.thrivepetcare.com/locations/texas/hurst/grapevine-hwy/. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-hurst-hurst/
-2. Hurst Animal Clinic | trust 0.0 | Hurst Animal Clinic is a veterinarian in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/hurst-animal-clinic-hurst/
+1. Hurst Animal Clinic | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Hurst Animal Clinic is a veterinarian in Hurst, TX. | https://dingalinged-cpu.github.io/registry/c/hurst-animal-clinic-hurst/
+2. Thrive Pet Healthcare - Hurst | Organic #2 | Pulse Score 51.3/100 (Unrated, #2 in city) | Thrive Pet Healthcare - Hurst is a veterinarian in Hurst, TX at 520 Grapevine Highway #400, Hurst, TX 76054. Phone: +18178576979. Website: https://www.thrivepetcare.com/locations/texas/hurst/grapevine-hwy/. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-hurst-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet hurst tx | category: Pets | industry benchmark: Animals & Pets

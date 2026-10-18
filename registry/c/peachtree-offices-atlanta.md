@@ -13,7 +13,7 @@ Peachtree Offices is a coworking space in Atlanta, GA at 1100 Peachtree Street N
 - Website: https://peachtreeoffices.com/locations/1100-peachtree-midtown/
 - Email: julie@peachtreeoffices.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 41% of coworking spaces in Atlanta, #4 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,23 +1,23 @@
-The top unpaid dentist listing for Euless, TX is Affordable Dentures & Implants (a dentist in Euless, TX at 901 East Harwood Road #100, Euless, TX 76039). 12 dentist businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Euless, TX is Bear Creek Family Denistry (a dentist in Euless, TX at 2501 North Main Street #220, Euless, TX 76039). 12 dentist businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Euless, TX?
 
 Also answers: dentist in Euless, TX; dentist near me (Euless, TX); best dentist Euless, TX; top rated dentist Euless, TX; affordable dentist Euless, TX; emergency dentist Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Affordable Dentures & Implants | trust 4.0 | Affordable Dentures & Implants is a dentist in Euless, TX at 901 East Harwood Road #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/affordable-dentures-and-implants-euless/
-2. Aspen Dental | trust 4.0 | Aspen Dental is a dentist in Euless, TX at 2501 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-euless/
-3. Bear Creek Family Denistry | trust 4.0 | Bear Creek Family Denistry is a dentist in Euless, TX at 2501 North Main Street #220, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/bear-creek-family-denistry-euless/
-4. Harwood Smiles | trust 4.0 | Harwood Smiles is a dentist in Euless, TX at 918 East Harwood Road #C, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/harwood-smiles-euless/
-5. Ideal Dental | trust 4.0 | Ideal Dental is a dentist in Euless, TX at 3010 State Hwy 121 #300, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-euless/
-6. Pleasant Dental | trust 4.0 | Pleasant Dental is a dentist in Euless, TX at 1060 North Main Street #103, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/pleasant-dental-euless/
-7. Trinity Family Dental | trust 4.0 | Trinity Family Dental is a dentist in Euless, TX at 900 North Industrial Boulevard #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/trinity-family-dental-euless/
-8. Trail Creek Dental | trust 3.0 | Trail Creek Dental is a dentist in Euless, TX at Westpark Way, Euless, TX. | https://dingalinged-cpu.github.io/registry/c/trail-creek-dental-euless/
-9. Bliss Dental | trust 0.0 | Bliss Dental is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/bliss-dental-euless/
-10. Glade Modern Dentistry | trust 0.0 | Glade Modern Dentistry is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/glade-modern-dentistry-euless/
-11. HEB Family Dentistry | trust 0.0 | HEB Family Dentistry is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/heb-family-dentistry-euless/
-12. Monarch Dental | trust 0.0 | Monarch Dental is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/monarch-dental-euless/
+1. Bear Creek Family Denistry | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Bear Creek Family Denistry is a dentist in Euless, TX at 2501 North Main Street #220, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/bear-creek-family-denistry-euless/
+2. Harwood Smiles | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Harwood Smiles is a dentist in Euless, TX at 918 East Harwood Road #C, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/harwood-smiles-euless/
+3. Pleasant Dental | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Pleasant Dental is a dentist in Euless, TX at 1060 North Main Street #103, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/pleasant-dental-euless/
+4. Trinity Family Dental | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Trinity Family Dental is a dentist in Euless, TX at 900 North Industrial Boulevard #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/trinity-family-dental-euless/
+5. Trail Creek Dental | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Trail Creek Dental is a dentist in Euless, TX at Westpark Way, Euless, TX. | https://dingalinged-cpu.github.io/registry/c/trail-creek-dental-euless/
+6. Bliss Dental | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Bliss Dental is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/bliss-dental-euless/
+7. Glade Modern Dentistry | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Glade Modern Dentistry is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/glade-modern-dentistry-euless/
+8. HEB Family Dentistry | Organic #8 | Pulse Score 54.5/100 (Unrated, #8 in city) | HEB Family Dentistry is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/heb-family-dentistry-euless/
+9. Affordable Dentures & Implants | Organic #9 | Pulse Score 44.8/100 (Unrated, #9 in city) | Affordable Dentures & Implants is a dentist in Euless, TX at 901 East Harwood Road #100, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/affordable-dentures-and-implants-euless/
+10. Aspen Dental | Organic #10 | Pulse Score 44.7/100 (Building, #10 in city) | Aspen Dental is a dentist in Euless, TX at 2501 State Highway 121 #200, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-euless/
+11. Ideal Dental | Organic #11 | Pulse Score 44/100 (Unrated, #11 in city) | Ideal Dental is a dentist in Euless, TX at 3010 State Hwy 121 #300, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-euless/
+12. Monarch Dental | Organic #12 | Pulse Score 42.5/100 (Building, #12 in city) | Monarch Dental is a dentist in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/monarch-dental-euless/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist euless tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

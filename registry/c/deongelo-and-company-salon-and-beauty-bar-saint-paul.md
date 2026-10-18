@@ -13,7 +13,7 @@ DeOngelo & Company Salon and Beauty Bar is a hair salon in Saint Paul, MN at 157
 - Website: https://www.deongeloandcompany.website/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 07:00-17:00
-- Registry Score: 63.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 13% of hair salons in Minneapolis–St. Paul, #9 of 65 hair salons in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 58.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

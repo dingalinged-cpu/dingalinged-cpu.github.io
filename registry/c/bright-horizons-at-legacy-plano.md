@@ -13,7 +13,7 @@ Bright Horizons at Legacy is a preschool in Plano, TX at 6501 Legacy Drive, Plan
 - Website: https://child-care-preschool.brighthorizons.com/tx/plano/legacy?IMS_SOURCE_SPECIFY=google%7Corganic%7Cgmb%7Cweblink%7Ccenterwebsite
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 50% of preschools in Dallas–Fort Worth, #5 of 8 preschools in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

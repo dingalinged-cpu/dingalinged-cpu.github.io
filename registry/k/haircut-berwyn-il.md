@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Berwyn, IL is Hidden Faces (a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402). 1 haircut businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Berwyn, IL is Hidden Faces (a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402). 1 haircut businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Berwyn, IL?
 
 Also answers: haircut in Berwyn, IL; haircut near me (Berwyn, IL); best haircut Berwyn, IL; top rated haircut Berwyn, IL; affordable haircut Berwyn, IL; emergency haircut Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hidden Faces | trust 4.0 | Hidden Faces is a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/hidden-faces-berwyn/
+1. Hidden Faces | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Hidden Faces is a hair salon in Berwyn, IL at West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/hidden-faces-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut berwyn il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

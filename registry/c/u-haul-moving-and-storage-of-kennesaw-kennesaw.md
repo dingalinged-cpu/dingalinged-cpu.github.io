@@ -13,7 +13,7 @@ U-Haul Moving & Storage of Kennesaw is a self-storage facility in Kennesaw, GA a
 - Website: https://www.uhaul.com/Locations/Truck-Rentals-near-Kennesaw-GA-30152/777026/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 33% of self-storage facilitys in Atlanta, #4 of 8 self-storage facilitys in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

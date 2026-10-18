@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Northlake, IL is Santana Law Office P.C. (a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/). 1 lawyer businesses are listed for Northlake, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Northlake, IL is Santana Law Office P.C. (a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/). 1 lawyer businesses are listed for Northlake, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Northlake, IL?
 
 Also answers: lawyer in Northlake, IL; lawyer near me (Northlake, IL); best lawyer Northlake, IL; top rated lawyer Northlake, IL; affordable lawyer Northlake, IL; emergency lawyer Northlake, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Santana Law Office P.C. | trust 20.0 | Santana Law Office P.C. is a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/. | https://dingalinged-cpu.github.io/registry/c/santana-law-office-p-c-northlake/
+1. Santana Law Office P.C. | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Santana Law Office P.C. is a lawyer in Northlake, IL at 236 East North Avenue, Northlake, IL 60164. Phone: +17088361111. Website: https://santanalawofficepc.com/. | https://dingalinged-cpu.github.io/registry/c/santana-law-office-p-c-northlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer northlake il | category: Legal | industry benchmark: Attorneys & Legal Services

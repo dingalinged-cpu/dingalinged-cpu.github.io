@@ -13,7 +13,7 @@ Midtown Home Market is a gift shop in Long Grove, IL at 217 Robert Parker Coffin
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu off, We,Th 11:00-18:00, Fr 11:00-19:00, Sa 10:00-19:00, Su 12:00-18:00
-- Registry Score: 58.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.3/100 — Unrated (not enough evidence yet) — top 29% of gift shops in Chicago, #1 of 2 gift shops in Long Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.1, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

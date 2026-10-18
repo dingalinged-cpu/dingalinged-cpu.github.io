@@ -13,7 +13,7 @@ Strickland Brothers 10 Minute Oil Change is an auto repair shop in Cobb County, 
 - Website: https://sboilchange.com/locations/706-strickland-brothers-10-minute-oil-change/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.8/100 — Fair — top 64% of auto repair shops in Atlanta, #42 of 74 auto repair shops in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.2, Trust 69.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

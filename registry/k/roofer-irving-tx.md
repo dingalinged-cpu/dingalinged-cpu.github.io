@@ -1,14 +1,14 @@
-The top unpaid roofer listing for Irving, TX is Kidd Roofing (a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75063. Phone: +19728237663. Website: https://www.kiddroof.com/). 3 roofer businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Irving, TX is SPS Roofing (a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/). 3 roofer businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Irving, TX?
 
 Also answers: roofer in Irving, TX; roofer near me (Irving, TX); best roofer Irving, TX; top rated roofer Irving, TX; affordable roofer Irving, TX; emergency roofer Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kidd Roofing | trust 20.0 | Kidd Roofing is a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75063. Phone: +19728237663. Website: https://www.kiddroof.com/. | https://dingalinged-cpu.github.io/registry/c/kidd-roofing-irving/
-2. SPS Roofing | trust 20.0 | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://dingalinged-cpu.github.io/registry/c/sps-roofing-irving/
-3. Irving Roofing Contractors - IrvingRoofingPro | trust 16.0 | Irving Roofing Contractors - IrvingRoofingPro is a roofer in Irving, TX at 7750 North MacArthur Boulevard #120 #210, Irving, TX 75063. Phone: +19729791070. Website: https://irvingroofingpro.com/. | https://dingalinged-cpu.github.io/registry/c/irving-roofing-contractors-irvingroofingpro-irving/
+1. SPS Roofing | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | SPS Roofing is a roofer in Irving, TX at 4845 West Royal Lane, Irving, TX 75063. Phone: +19729299944. Website: https://spsroof.com/. | https://dingalinged-cpu.github.io/registry/c/sps-roofing-irving/
+2. Kidd Roofing | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Kidd Roofing is a roofer in Irving, TX at 4827 West Royal Lane #A, Irving, TX 75063. Phone: +19728237663. Website: https://www.kiddroof.com/. | https://dingalinged-cpu.github.io/registry/c/kidd-roofing-irving/
+3. Irving Roofing Contractors - IrvingRoofingPro | Organic #3 | Pulse Score 57.7/100 (Unrated, #3 in city) | Irving Roofing Contractors - IrvingRoofingPro is a roofer in Irving, TX at 7750 North MacArthur Boulevard #120 #210, Irving, TX 75063. Phone: +19729791070. Website: https://irvingroofingpro.com/. | https://dingalinged-cpu.github.io/registry/c/irving-roofing-contractors-irvingroofingpro-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer irving tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

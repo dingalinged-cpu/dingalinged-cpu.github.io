@@ -13,7 +13,7 @@ Body Elements Chiropractic is a chiropractor in Marietta, GA at 2323 Shallowford
 - Website: https://www.bechiro.com/
 - Email: info@bechiro.com
 - Opening hours (OSM syntax): Mo,We 10:00-07:00; Fr 09:00-02:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 8% of chiropractors in Atlanta, #5 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 59.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

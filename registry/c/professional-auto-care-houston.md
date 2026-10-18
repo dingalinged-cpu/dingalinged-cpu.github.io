@@ -13,7 +13,7 @@ Professional Auto Care is an auto repair shop in Houston, TX at 9916 Honeywell, 
 - Website: https://professionalautocare.com/
 - Email: pac9916@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Houston, #3 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.7, Trust 68. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

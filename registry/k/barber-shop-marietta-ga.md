@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Marietta, GA is Razored Barber Shop (a barber shop in Marietta, GA). 1 barber shop businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Marietta, GA is Razored Barber Shop (a barber shop in Marietta, GA). 1 barber shop businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Marietta, GA?
 
 Also answers: barber shop in Marietta, GA; barber shop near me (Marietta, GA); best barber shop Marietta, GA; top rated barber shop Marietta, GA; affordable barber shop Marietta, GA; emergency barber shop Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Razored Barber Shop | trust 0.0 | Razored Barber Shop is a barber shop in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/razored-barber-shop-marietta/
+1. Razored Barber Shop | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Razored Barber Shop is a barber shop in Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/razored-barber-shop-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop marietta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Luliet is a bakery in Spring, TX at 3625 FM 2920 #A3, Spring, TX 77388. Phone: +
 - Website: https://www.lulietbakery.com/
 - Email: hello@luliet.com
 - Opening hours (OSM syntax): Mo closed; Tu-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 12:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 5% of bakerys in Houston, #2 of 4 bakerys in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.4, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

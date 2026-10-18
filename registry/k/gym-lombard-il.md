@@ -1,16 +1,16 @@
-The top unpaid gym listing for Lombard, IL is Iron Dragon RTS (a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878). 5 gym businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lombard, IL is Iron Dragon RTS (a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878). 5 gym businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lombard, IL?
 
 Also answers: gym in Lombard, IL; gym near me (Lombard, IL); best gym Lombard, IL; top rated gym Lombard, IL; affordable gym Lombard, IL; emergency gym Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Iron Dragon RTS | trust 10.0 | Iron Dragon RTS is a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878. | https://dingalinged-cpu.github.io/registry/c/iron-dragon-rts-lombard/
-2. Anytime Fitness | trust 8.0 | Anytime Fitness is a gym in Lombard, IL at 2830 South Highland Avenue, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-lombard/
-3. Madison Meadow Athletic Center | trust 6.0 | Madison Meadow Athletic Center is a gym in Lombard, IL. Website: https://lombardparks.com/madison-meadow-athletic-center/. | https://dingalinged-cpu.github.io/registry/c/madison-meadow-athletic-center-lombard/
-4. Glass Court Swim & Fitness | trust 0.0 | Glass Court Swim & Fitness is a gym in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/glass-court-swim-and-fitness-lombard/
-5. LA Fitness | trust 0.0 | LA Fitness is a gym in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lombard/
+1. Iron Dragon RTS | Organic #1 | Pulse Score 62.9/100 (Good, #1 in city) | Iron Dragon RTS is a gym in Lombard, IL at 216 East Saint Charles Road, Lombard, IL 60148. Phone: +16306139878. | https://dingalinged-cpu.github.io/registry/c/iron-dragon-rts-lombard/
+2. Madison Meadow Athletic Center | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Madison Meadow Athletic Center is a gym in Lombard, IL. Website: https://lombardparks.com/madison-meadow-athletic-center/. | https://dingalinged-cpu.github.io/registry/c/madison-meadow-athletic-center-lombard/
+3. Glass Court Swim & Fitness | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Glass Court Swim & Fitness is a gym in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/glass-court-swim-and-fitness-lombard/
+4. Anytime Fitness | Organic #4 | Pulse Score 46.2/100 (Building, #4 in city) | Anytime Fitness is a gym in Lombard, IL at 2830 South Highland Avenue, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-lombard/
+5. LA Fitness | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | LA Fitness is a gym in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lombard il | category: Fitness | industry benchmark: Health & Fitness

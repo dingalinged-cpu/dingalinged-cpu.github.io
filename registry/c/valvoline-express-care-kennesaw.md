@@ -13,7 +13,7 @@ Valvoline Express Care is an auto repair shop in Kennesaw, GA at 2771 Cobb Parkw
 - Website: https://locations.expresscare.com/ga/kennesaw/0000709240/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 71% of auto repair shops in Atlanta, #19 of 23 auto repair shops in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.5, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

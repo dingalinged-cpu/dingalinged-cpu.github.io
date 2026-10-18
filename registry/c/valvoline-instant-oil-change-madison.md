@@ -13,7 +13,7 @@ Valvoline Instant Oil Change is an auto repair shop in Madison, WI at 5522 Unive
 - Website: https://store.vioc.com/wi/madison/oil-change-gr0032.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 70% of auto repair shops in Madison, #36 of 59 auto repair shops in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.5, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

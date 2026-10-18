@@ -13,7 +13,7 @@ Allstate is an insurance agent in Alpharetta, GA at 11875 Jones Bridge Road, Alp
 - Website: https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-18:00; Sa 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.4/100 — Fair — top 45% of insurance agents in Atlanta, #2 of 2 insurance agents in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

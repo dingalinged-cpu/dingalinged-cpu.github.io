@@ -13,7 +13,7 @@ Dental Depot is a dentist in Lewisville, TX at 1260 West Round Grove Road #100, 
 - Website: https://dentaldepotdfw.com/locations/lewisville/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa-Su off
-- Registry Score: 54.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.9/100 — Unrated (not enough evidence yet) — top 88% of dentists in Dallas–Fort Worth, #25 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 44.1, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

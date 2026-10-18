@@ -13,7 +13,7 @@ Adisi Health Center is a chiropractor in Hinsdale, IL at 534 West Chestnut Stree
 - Website: https://adisihealth.com/
 - Email: drpetzel@adisihealth.com
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00
-- Registry Score: 66.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 5% of chiropractors in Chicago, #1 of 1 chiropractors in Hinsdale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.9, Trust 65.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Eugenija's Hair Design is a hair salon in Naperville, IL at 929 East Ogden Avenu
 - Website: https://www.eugenijashairdesign.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo, Su off; Tu 09:00-19:00; We 10:00-21:00; Th 09:00-21:00; Fr 08:00-18:00; Sa 08:00-17:00
-- Registry Score: 64.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Unrated (not enough evidence yet) — top 5% of hair salons in Chicago, #2 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 63.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Element Barbershop is a barber shop in Buffalo Grove, IL at 1142 Lake Cook Road,
 - Website: https://element-barbershop.com/
 - Email: contacts@element-barbershop.com
 - Opening hours (OSM syntax): Su-Fr 10:00-20:00; Sa 09:00-20:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.7/100 — Good — top 4% of barber shops in Chicago, #1 of 1 barber shops in Buffalo Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

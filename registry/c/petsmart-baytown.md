@@ -13,7 +13,7 @@ PetSmart is a pet store in Baytown, TX at 6345 Garth Road #140, Baytown, TX 7752
 - Website: https://www.petsmart.com/stores/us/tx/baytown-store3011.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-20:00; Su 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.3/100 — Building — top 72% of pet stores in Houston, #2 of 2 pet stores in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

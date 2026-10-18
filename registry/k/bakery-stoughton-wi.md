@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Stoughton, WI is Fosdal Bakery (a bakery in Stoughton, WI at 243 East Main Street, Stoughton, WI 53589). 1 bakery businesses are listed for Stoughton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Stoughton, WI is Fosdal Bakery (a bakery in Stoughton, WI at 243 East Main Street, Stoughton, WI 53589). 1 bakery businesses are listed for Stoughton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Stoughton, WI?
 
 Also answers: bakery in Stoughton, WI; bakery near me (Stoughton, WI); best bakery Stoughton, WI; top rated bakery Stoughton, WI; affordable bakery Stoughton, WI; emergency bakery Stoughton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fosdal Bakery | trust 4.0 | Fosdal Bakery is a bakery in Stoughton, WI at 243 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/fosdal-bakery-stoughton/
+1. Fosdal Bakery | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Fosdal Bakery is a bakery in Stoughton, WI at 243 East Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/fosdal-bakery-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery stoughton wi | category: Events & weddings | industry benchmark: Personal Services

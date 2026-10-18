@@ -1,12 +1,12 @@
-The top unpaid flooring companies listing for Sachse, TX is ATR Floors and Decor (a flooring company in Sachse, TX). 1 flooring companies businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Sachse, TX is ATR Floors and Decor (a flooring company in Sachse, TX). 1 flooring companies businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Sachse, TX?
 
 Also answers: flooring companies in Sachse, TX; flooring companies near me (Sachse, TX); best flooring companies Sachse, TX; top rated flooring companies Sachse, TX; affordable flooring companies Sachse, TX; emergency flooring companies Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATR Floors and Decor | trust 0.0 | ATR Floors and Decor is a flooring company in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/atr-floors-and-decor-sachse/
+1. ATR Floors and Decor | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | ATR Floors and Decor is a flooring company in Sachse, TX. | https://dingalinged-cpu.github.io/registry/c/atr-floors-and-decor-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies sachse tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

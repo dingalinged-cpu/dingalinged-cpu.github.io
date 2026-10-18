@@ -13,7 +13,7 @@ The Best Little Dog House In Texas is a dog boarding facility in Houston, TX at 
 - Website: https://www.thebestlittledoghouseintexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 50% of dog boarding facilitys in Houston, #6 of 10 dog boarding facilitys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.8, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

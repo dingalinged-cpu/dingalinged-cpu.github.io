@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Acworth, GA is Big Dan's Car Wash (a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/). 3 car wash businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Acworth, GA is Big Dan's Car Wash (a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/). 3 car wash businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Acworth, GA?
 
 Also answers: car wash in Acworth, GA; car wash near me (Acworth, GA); best car wash Acworth, GA; top rated car wash Acworth, GA; affordable car wash Acworth, GA; emergency car wash Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Big Dan's Car Wash | trust 20.0 | Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/big-dans-car-wash-kennesaw/
-2. 3 Minute Express Wash | trust 0.0 | 3 Minute Express Wash is a car wash in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/3-minute-express-wash-acworth/
-3. Tidal Wave Auto Spa | trust 0.0 | Tidal Wave Auto Spa is a car wash in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-acworth/
+1. Big Dan's Car Wash | Organic #1 | Pulse Score 62.5/100 (Unrated, #3 in city) | Big Dan's Car Wash is a car wash in Kennesaw, GA at 3150 Blue Springs Road, Kennesaw, GA 30144. Phone: +17707623748. Website: https://bigdanscarwash.com/. | https://dingalinged-cpu.github.io/registry/c/big-dans-car-wash-kennesaw/
+2. 3 Minute Express Wash | Organic #2 | Pulse Score 54.7/100 (Unrated, #1 in city) | 3 Minute Express Wash is a car wash in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/3-minute-express-wash-acworth/
+3. Tidal Wave Auto Spa | Organic #3 | Pulse Score 43/100 (Building, #2 in city) | Tidal Wave Auto Spa is a car wash in Acworth, GA. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash acworth ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

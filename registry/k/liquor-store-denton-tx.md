@@ -1,18 +1,18 @@
-The top unpaid liquor store listing for Denton, TX is Total Wine (a liquor store in Denton, TX at 1800 South Loop 288 #370, Denton, TX 76205. Phone: +19404849540. Website: https://www.totalwine.com/store-info/511). 7 liquor store businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Denton, TX is Applejacks Liquors (a liquor store in Denton, TX at 345 East Hickory Street, Denton, TX. Website: https://applejacksliquors.com/). 7 liquor store businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Denton, TX?
 
 Also answers: liquor store in Denton, TX; liquor store near me (Denton, TX); best liquor store Denton, TX; top rated liquor store Denton, TX; affordable liquor store Denton, TX; emergency liquor store Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Wine | trust 20.0 | Total Wine is a liquor store in Denton, TX at 1800 South Loop 288 #370, Denton, TX 76205. Phone: +19404849540. Website: https://www.totalwine.com/store-info/511. | https://dingalinged-cpu.github.io/registry/c/total-wine-denton/
-2. Spec's | trust 16.0 | Spec's is a liquor store in Denton, TX at 2315 Colorado Boulevard #Suite 160, Denton, TX 76205. Phone: +19402432929. Website: https://specsonline.com/location/denton/. | https://dingalinged-cpu.github.io/registry/c/specs-denton/
-3. Applejacks Liquors | trust 9.0 | Applejacks Liquors is a liquor store in Denton, TX at 345 East Hickory Street, Denton, TX. Website: https://applejacksliquors.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquors-denton/
-4. D D Liquor & Tobacco | trust 4.0 | D D Liquor & Tobacco is a liquor store in Denton, TX at 1101 Dallas Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/d-d-liquor-and-tobacco-denton/
-5. Denton Liquor | trust 4.0 | Denton Liquor is a liquor store in Denton, TX at 3305 Mayhill Road #Suite# 115, Denton, TX 76208. | https://dingalinged-cpu.github.io/registry/c/denton-liquor-denton/
-6. Imperial Ale & Spirits | trust 4.0 | Imperial Ale & Spirits is a liquor store in Denton, TX at 717 South Interstate 35E #Suite# 132, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/imperial-ale-and-spirits-denton/
-7. The Liquor Outpost | trust 4.0 | The Liquor Outpost is a liquor store in Denton, TX at 1010 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/the-liquor-outpost-denton/
+1. Applejacks Liquors | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Applejacks Liquors is a liquor store in Denton, TX at 345 East Hickory Street, Denton, TX. Website: https://applejacksliquors.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquors-denton/
+2. D D Liquor & Tobacco | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | D D Liquor & Tobacco is a liquor store in Denton, TX at 1101 Dallas Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/d-d-liquor-and-tobacco-denton/
+3. Denton Liquor | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Denton Liquor is a liquor store in Denton, TX at 3305 Mayhill Road #Suite# 115, Denton, TX 76208. | https://dingalinged-cpu.github.io/registry/c/denton-liquor-denton/
+4. Imperial Ale & Spirits | Organic #4 | Pulse Score 56.9/100 (Unrated, #4 in city) | Imperial Ale & Spirits is a liquor store in Denton, TX at 717 South Interstate 35E #Suite# 132, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/imperial-ale-and-spirits-denton/
+5. The Liquor Outpost | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | The Liquor Outpost is a liquor store in Denton, TX at 1010 West University Drive, Denton, TX 76201. | https://dingalinged-cpu.github.io/registry/c/the-liquor-outpost-denton/
+6. Total Wine | Organic #6 | Pulse Score 50.8/100 (Fair, #6 in city) | Total Wine is a liquor store in Denton, TX at 1800 South Loop 288 #370, Denton, TX 76205. Phone: +19404849540. Website: https://www.totalwine.com/store-info/511. | https://dingalinged-cpu.github.io/registry/c/total-wine-denton/
+7. Spec's | Organic #7 | Pulse Score 49.4/100 (Building, #7 in city) | Spec's is a liquor store in Denton, TX at 2315 Colorado Boulevard #Suite 160, Denton, TX 76205. Phone: +19402432929. Website: https://specsonline.com/location/denton/. | https://dingalinged-cpu.github.io/registry/c/specs-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store denton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

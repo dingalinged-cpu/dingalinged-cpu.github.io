@@ -1,18 +1,18 @@
-The top unpaid financial advisor listing for Chicago, IL is The 401K man.com (a financial advisor in Chicago, IL at 107 West Van Buren Street, Chicago, IL 60605. Phone: +18777750812. Website: https://www.the401kman.com/). 7 financial advisor businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Chicago, IL is The 401K man.com (a financial advisor in Chicago, IL at 107 West Van Buren Street, Chicago, IL 60605. Phone: +18777750812. Website: https://www.the401kman.com/). 7 financial advisor businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Chicago, IL?
 
 Also answers: financial advisor in Chicago, IL; financial advisor near me (Chicago, IL); best financial advisor Chicago, IL; top rated financial advisor Chicago, IL; affordable financial advisor Chicago, IL; emergency financial advisor Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The 401K man.com | trust 20.0 | The 401K man.com is a financial advisor in Chicago, IL at 107 West Van Buren Street, Chicago, IL 60605. Phone: +18777750812. Website: https://www.the401kman.com/. | https://dingalinged-cpu.github.io/registry/c/the-401k-man-com-chicago/
-2. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Chicago, IL at 1390 East Hyde Park Boulevard, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago/
-3. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Chicago, IL at 306 South Jefferson Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-n12749008918/
-4. Edward Jones | trust 4.0 | Edward Jones is a financial advisor in Chicago, IL at 5405 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-w1426741321/
-5. Merrill Lynch Wealth Management | trust 4.0 | Merrill Lynch Wealth Management is a financial advisor in Chicago, IL at 1750-1754 North Clybourn Avenue, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/merrill-lynch-wealth-management-chicago/
-6. Charles Schwab | trust 0.0 | Charles Schwab is a financial advisor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago/
-7. Charles Schwab | trust 0.0 | Charles Schwab is a financial advisor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago-n13574784327/
+1. The 401K man.com | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | The 401K man.com is a financial advisor in Chicago, IL at 107 West Van Buren Street, Chicago, IL 60605. Phone: +18777750812. Website: https://www.the401kman.com/. | https://dingalinged-cpu.github.io/registry/c/the-401k-man-com-chicago/
+2. Edward Jones | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | Edward Jones is a financial advisor in Chicago, IL at 306 South Jefferson Street, Chicago, IL 60661. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-n12749008918/
+3. Merrill Lynch Wealth Management | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Merrill Lynch Wealth Management is a financial advisor in Chicago, IL at 1750-1754 North Clybourn Avenue, Chicago, IL 60642. | https://dingalinged-cpu.github.io/registry/c/merrill-lynch-wealth-management-chicago/
+4. Edward Jones | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Edward Jones is a financial advisor in Chicago, IL at 1390 East Hyde Park Boulevard, Chicago, IL 60615. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago/
+5. Edward Jones | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Edward Jones is a financial advisor in Chicago, IL at 5405 West Devon Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/edward-jones-chicago-w1426741321/
+6. Charles Schwab | Organic #6 | Pulse Score 41.1/100 (Building, #6 in city) | Charles Schwab is a financial advisor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago/
+7. Charles Schwab | Organic #7 | Pulse Score 41.1/100 (Building, #7 in city) | Charles Schwab is a financial advisor in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-chicago-n13574784327/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor chicago il | category: Professional & financial services | industry benchmark: Finance & Insurance

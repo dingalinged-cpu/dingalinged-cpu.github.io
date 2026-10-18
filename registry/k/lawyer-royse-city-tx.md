@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Royse City, TX is Warren Legal Services (a lawyer in Royse City, TX at 103 North Houston Street, Royse City, TX 75189. Phone: +19726352888. Website: https://warrenlegalservices.com/). 1 lawyer businesses are listed for Royse City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Royse City, TX is Warren Legal Services (a lawyer in Royse City, TX at 103 North Houston Street, Royse City, TX 75189. Phone: +19726352888. Website: https://warrenlegalservices.com/). 1 lawyer businesses are listed for Royse City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Royse City, TX?
 
 Also answers: lawyer in Royse City, TX; lawyer near me (Royse City, TX); best lawyer Royse City, TX; top rated lawyer Royse City, TX; affordable lawyer Royse City, TX; emergency lawyer Royse City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Warren Legal Services | trust 16.0 | Warren Legal Services is a lawyer in Royse City, TX at 103 North Houston Street, Royse City, TX 75189. Phone: +19726352888. Website: https://warrenlegalservices.com/. | https://dingalinged-cpu.github.io/registry/c/warren-legal-services-royse-city/
+1. Warren Legal Services | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Warren Legal Services is a lawyer in Royse City, TX at 103 North Houston Street, Royse City, TX 75189. Phone: +19726352888. Website: https://warrenlegalservices.com/. | https://dingalinged-cpu.github.io/registry/c/warren-legal-services-royse-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer royse city tx | category: Legal | industry benchmark: Attorneys & Legal Services

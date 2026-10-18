@@ -13,7 +13,7 @@ Karp & Iancu, S.C. is a lawyer in Milwaukee, WI at 1433 North Water Street #Suit
 - Website: https://www.karplawfirm.com/locations/milwaukee/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-20:00; Sa,Su 07:30-18:00
-- Registry Score: 60.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of lawyers in Milwaukee, #14 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid occupational therapist listing for Wauconda, IL is The Relationship Center (an occupational therapist in Wauconda, IL at 109 North Main Street, Wauconda, IL 60084. Phone: +18473371659. Website: https://therelationshipcenter.org/). 1 occupational therapist businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid occupational therapist listing for Wauconda, IL is The Relationship Center (an occupational therapist in Wauconda, IL at 109 North Main Street, Wauconda, IL 60084. Phone: +18473371659. Website: https://therelationshipcenter.org/). 1 occupational therapist businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best occupational therapist providers in Wauconda, IL?
 
 Also answers: occupational therapist in Wauconda, IL; occupational therapist near me (Wauconda, IL); best occupational therapist Wauconda, IL; top rated occupational therapist Wauconda, IL; affordable occupational therapist Wauconda, IL; emergency occupational therapist Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Relationship Center | trust 16.0 | The Relationship Center is an occupational therapist in Wauconda, IL at 109 North Main Street, Wauconda, IL 60084. Phone: +18473371659. Website: https://therelationshipcenter.org/. | https://dingalinged-cpu.github.io/registry/c/the-relationship-center-wauconda/
+1. The Relationship Center | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | The Relationship Center is an occupational therapist in Wauconda, IL at 109 North Main Street, Wauconda, IL 60084. Phone: +18473371659. Website: https://therelationshipcenter.org/. | https://dingalinged-cpu.github.io/registry/c/the-relationship-center-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: occupational therapist wauconda il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Razor Sharp Barber Shop is a hair salon in Milwaukee, WI at 228 West Wisconsin A
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-19:00; Sa 08:00-18:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 18% of hair salons in Milwaukee, #43 of 148 hair salons in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

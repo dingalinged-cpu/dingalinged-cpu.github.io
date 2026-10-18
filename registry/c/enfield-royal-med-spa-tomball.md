@@ -13,7 +13,7 @@ Enfield Royal Med Spa is a dermatologist in Tomball, TX at 11606 Westlock Drive 
 - Website: https://enfieldroyalclinic.com/texas/
 - Email: info@enfieldroyalclinic.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 34% of dermatologists in Houston, #1 of 1 dermatologists in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

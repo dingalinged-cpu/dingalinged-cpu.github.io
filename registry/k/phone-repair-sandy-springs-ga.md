@@ -1,12 +1,12 @@
-The top unpaid phone repair listing for Sandy Springs, GA is Atlanta Phone Guru (a phone repair shop in Sandy Springs, GA at 5825 Glenridge Drive Northeast, Sandy Springs, GA 30328. Phone: +14048278433. Website: https://www.atlantaphoneguru.com/). 1 phone repair businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Sandy Springs, GA is Atlanta Phone Guru (a phone repair shop in Sandy Springs, GA at 5825 Glenridge Drive Northeast, Sandy Springs, GA 30328. Phone: +14048278433. Website: https://www.atlantaphoneguru.com/). 1 phone repair businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Sandy Springs, GA?
 
 Also answers: phone repair in Sandy Springs, GA; phone repair near me (Sandy Springs, GA); best phone repair Sandy Springs, GA; top rated phone repair Sandy Springs, GA; affordable phone repair Sandy Springs, GA; emergency phone repair Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Atlanta Phone Guru | trust 16.0 | Atlanta Phone Guru is a phone repair shop in Sandy Springs, GA at 5825 Glenridge Drive Northeast, Sandy Springs, GA 30328. Phone: +14048278433. Website: https://www.atlantaphoneguru.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-phone-guru-sandy-springs/
+1. Atlanta Phone Guru | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Atlanta Phone Guru is a phone repair shop in Sandy Springs, GA at 5825 Glenridge Drive Northeast, Sandy Springs, GA 30328. Phone: +14048278433. Website: https://www.atlantaphoneguru.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-phone-guru-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair sandy springs ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

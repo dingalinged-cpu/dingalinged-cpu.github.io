@@ -1,18 +1,18 @@
-The top unpaid thrift store listing for Roswell, GA is Goodwill (a thrift store in Roswell, GA at 10779 Alpharetta Hwy, Roswell, GA 30076. Phone: +17706491994. Website: https://goodwillng.org/gw-locations/roswell-store-donation-center-30076/). 7 thrift store businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Roswell, GA is Southern Comforts (a thrift store in Roswell, GA). 7 thrift store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Roswell, GA?
 
 Also answers: thrift store in Roswell, GA; thrift store near me (Roswell, GA); best thrift store Roswell, GA; top rated thrift store Roswell, GA; affordable thrift store Roswell, GA; emergency thrift store Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 16.0 | Goodwill is a thrift store in Roswell, GA at 10779 Alpharetta Hwy, Roswell, GA 30076. Phone: +17706491994. Website: https://goodwillng.org/gw-locations/roswell-store-donation-center-30076/. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n9456219002/
-2. Goodwill | trust 14.0 | Goodwill is a thrift store in Roswell, GA at 2300 Holcomb Bridge Road #305, Roswell, GA 30076. Phone: +16787100198. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell/
-3. Prism Flea Market | trust 10.0 | Prism Flea Market is a thrift store in Roswell, GA at 2500 Old Alabama Road #10, Roswell, GA 30076. Website: https://www.prismga.org/. | https://dingalinged-cpu.github.io/registry/c/prism-flea-market-roswell/
-4. Fostering Hope Bargain Resale | trust 6.0 | Fostering Hope Bargain Resale is a thrift store in Roswell, GA. Website: https://www.fostercares.org/. | https://dingalinged-cpu.github.io/registry/c/fostering-hope-bargain-resale-roswell/
-5. Food Pantry | trust 4.0 | Food Pantry is a thrift store in Roswell, GA at 11330 Woodstock Road, Roswell, GA 30075. | https://dingalinged-cpu.github.io/registry/c/food-pantry-roswell/
-6. Southern Comforts | trust 4.0 | Southern Comforts is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/southern-comforts-roswell/
-7. Goodwill | trust 0.0 | Goodwill is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n7844446137/
+1. Southern Comforts | Organic #1 | Pulse Score 59.1/100 (Fair, #1 in city) | Southern Comforts is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/southern-comforts-roswell/
+2. Prism Flea Market | Organic #2 | Pulse Score 57.7/100 (Unrated, #2 in city) | Prism Flea Market is a thrift store in Roswell, GA at 2500 Old Alabama Road #10, Roswell, GA 30076. Website: https://www.prismga.org/. | https://dingalinged-cpu.github.io/registry/c/prism-flea-market-roswell/
+3. Fostering Hope Bargain Resale | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Fostering Hope Bargain Resale is a thrift store in Roswell, GA. Website: https://www.fostercares.org/. | https://dingalinged-cpu.github.io/registry/c/fostering-hope-bargain-resale-roswell/
+4. Food Pantry | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Food Pantry is a thrift store in Roswell, GA at 11330 Woodstock Road, Roswell, GA 30075. | https://dingalinged-cpu.github.io/registry/c/food-pantry-roswell/
+5. Goodwill | Organic #5 | Pulse Score 48.5/100 (Building, #5 in city) | Goodwill is a thrift store in Roswell, GA at 10779 Alpharetta Hwy, Roswell, GA 30076. Phone: +17706491994. Website: https://goodwillng.org/gw-locations/roswell-store-donation-center-30076/. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n9456219002/
+6. Goodwill | Organic #6 | Pulse Score 45.8/100 (Building, #6 in city) | Goodwill is a thrift store in Roswell, GA at 2300 Holcomb Bridge Road #305, Roswell, GA 30076. Phone: +16787100198. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell/
+7. Goodwill | Organic #7 | Pulse Score 41.6/100 (Building, #7 in city) | Goodwill is a thrift store in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/goodwill-roswell-n7844446137/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store roswell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

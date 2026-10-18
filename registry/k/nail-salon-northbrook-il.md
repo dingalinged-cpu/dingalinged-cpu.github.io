@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Northbrook, IL is Le Nailspa (a nail salon in Northbrook, IL at 39 Skokie Boulevard, Northbrook, IL 60062. Phone: +18475629797. Website: https://lenailspanorthbrook.com/). 1 nail salon businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Northbrook, IL is Le Nailspa (a nail salon in Northbrook, IL at 39 Skokie Boulevard, Northbrook, IL 60062. Phone: +18475629797. Website: https://lenailspanorthbrook.com/). 1 nail salon businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Northbrook, IL?
 
 Also answers: nail salon in Northbrook, IL; nail salon near me (Northbrook, IL); best nail salon Northbrook, IL; top rated nail salon Northbrook, IL; affordable nail salon Northbrook, IL; emergency nail salon Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Le Nailspa | trust 16.0 | Le Nailspa is a nail salon in Northbrook, IL at 39 Skokie Boulevard, Northbrook, IL 60062. Phone: +18475629797. Website: https://lenailspanorthbrook.com/. | https://dingalinged-cpu.github.io/registry/c/le-nailspa-northbrook/
+1. Le Nailspa | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Le Nailspa is a nail salon in Northbrook, IL at 39 Skokie Boulevard, Northbrook, IL 60062. Phone: +18475629797. Website: https://lenailspanorthbrook.com/. | https://dingalinged-cpu.github.io/registry/c/le-nailspa-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon northbrook il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

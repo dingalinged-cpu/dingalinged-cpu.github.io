@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Countryside, IL is Hallowell & James Funeral Home (a funeral home in Countryside, IL at 1025 West 55th Street, Countryside, IL). 1 funeral home businesses are listed for Countryside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Countryside, IL is Hallowell & James Funeral Home (a funeral home in Countryside, IL at 1025 West 55th Street, Countryside, IL). 1 funeral home businesses are listed for Countryside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Countryside, IL?
 
 Also answers: funeral home in Countryside, IL; funeral home near me (Countryside, IL); best funeral home Countryside, IL; top rated funeral home Countryside, IL; affordable funeral home Countryside, IL; emergency funeral home Countryside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hallowell & James Funeral Home | trust 3.0 | Hallowell & James Funeral Home is a funeral home in Countryside, IL at 1025 West 55th Street, Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/hallowell-and-james-funeral-home-countryside/
+1. Hallowell & James Funeral Home | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Hallowell & James Funeral Home is a funeral home in Countryside, IL at 1025 West 55th Street, Countryside, IL. | https://dingalinged-cpu.github.io/registry/c/hallowell-and-james-funeral-home-countryside/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home countryside il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ East Coob Foot Ankle Care is a podiatrist in Cobb County, GA at 4439 Roswell Roa
 - Website: https://www.wellstar.org/locations/medical-practice/east-cobb-foot-ankle-care-marietta-4439-roswell-road
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 54% of podiatrists in Atlanta, #2 of 2 podiatrists in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 49.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

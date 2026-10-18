@@ -1,17 +1,17 @@
-The top unpaid dentist listing for New Brighton, MN is Crescent Dental (a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112. Phone: +17635714837. Website: https://crescentdentalmn.com/). 6 dentist businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for New Brighton, MN is Crescent Dental (a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112. Phone: +17635714837. Website: https://crescentdentalmn.com/). 6 dentist businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in New Brighton, MN?
 
 Also answers: dentist in New Brighton, MN; dentist near me (New Brighton, MN); best dentist New Brighton, MN; top rated dentist New Brighton, MN; affordable dentist New Brighton, MN; emergency dentist New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Crescent Dental | trust 20.0 | Crescent Dental is a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112. Phone: +17635714837. Website: https://crescentdentalmn.com/. | https://dingalinged-cpu.github.io/registry/c/crescent-dental-new-brighton/
-2. Village Orthodontics | trust 15.0 | Village Orthodontics is a dentist in New Brighton, MN at 850 County Road D  West, New Brighton, MN. Phone: +16127889666. Website: https://www.discoverbraces.com/village-orthodontics. | https://dingalinged-cpu.github.io/registry/c/village-orthodontics-new-brighton/
-3. Silver Lake Smiles | trust 10.0 | Silver Lake Smiles is a dentist in New Brighton, MN at 1125 Palmer Drive, New Brighton, MN 55112. Website: https://www.silverlakesmile.com/. | https://dingalinged-cpu.github.io/registry/c/silver-lake-smiles-new-brighton/
-4. Pierce Dental Care | trust 0.0 | Pierce Dental Care is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/pierce-dental-care-new-brighton/
-5. Silver Lake Dental | trust 0.0 | Silver Lake Dental is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/silver-lake-dental-new-brighton/
-6. Thomas Hardel Family Dentistry | trust 0.0 | Thomas Hardel Family Dentistry is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/thomas-hardel-family-dentistry-new-brighton/
+1. Crescent Dental | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Crescent Dental is a dentist in New Brighton, MN at 2611 Innsbruck Drive #Suite A, New Brighton, MN 55112. Phone: +17635714837. Website: https://crescentdentalmn.com/. | https://dingalinged-cpu.github.io/registry/c/crescent-dental-new-brighton/
+2. Village Orthodontics | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Village Orthodontics is a dentist in New Brighton, MN at 850 County Road D  West, New Brighton, MN. Phone: +16127889666. Website: https://www.discoverbraces.com/village-orthodontics. | https://dingalinged-cpu.github.io/registry/c/village-orthodontics-new-brighton/
+3. Silver Lake Smiles | Organic #3 | Pulse Score 58.6/100 (Unrated, #3 in city) | Silver Lake Smiles is a dentist in New Brighton, MN at 1125 Palmer Drive, New Brighton, MN 55112. Website: https://www.silverlakesmile.com/. | https://dingalinged-cpu.github.io/registry/c/silver-lake-smiles-new-brighton/
+4. Pierce Dental Care | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | Pierce Dental Care is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/pierce-dental-care-new-brighton/
+5. Silver Lake Dental | Organic #5 | Pulse Score 54.1/100 (Unrated, #5 in city) | Silver Lake Dental is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/silver-lake-dental-new-brighton/
+6. Thomas Hardel Family Dentistry | Organic #6 | Pulse Score 54.1/100 (Unrated, #6 in city) | Thomas Hardel Family Dentistry is a dentist in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/thomas-hardel-family-dentistry-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist new brighton mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

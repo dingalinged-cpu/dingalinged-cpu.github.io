@@ -1,16 +1,16 @@
-The top unpaid massage listing for Cedar Hill, TX is Grand Sun Foot Spa (a massage studio in Cedar Hill, TX at 140 West FM 1382 #190, Cedar Hill, TX 75104. Phone: +19726374093). 5 massage businesses are listed for Cedar Hill, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Cedar Hill, TX is Grand Sun Foot Spa (a massage studio in Cedar Hill, TX at 140 West FM 1382 #190, Cedar Hill, TX 75104. Phone: +19726374093). 5 massage businesses are listed for Cedar Hill, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Cedar Hill, TX?
 
 Also answers: massage in Cedar Hill, TX; massage near me (Cedar Hill, TX); best massage Cedar Hill, TX; top rated massage Cedar Hill, TX; affordable massage Cedar Hill, TX; emergency massage Cedar Hill, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grand Sun Foot Spa | trust 14.0 | Grand Sun Foot Spa is a massage studio in Cedar Hill, TX at 140 West FM 1382 #190, Cedar Hill, TX 75104. Phone: +19726374093. | https://dingalinged-cpu.github.io/registry/c/grand-sun-foot-spa-cedar-hill/
-2. Relax Spa | trust 14.0 | Relax Spa is a massage studio in Cedar Hill, TX at 104 West Belt Line Road #9, Cedar Hill, TX 75104. Phone: +19726374061. | https://dingalinged-cpu.github.io/registry/c/relax-spa-cedar-hill/
-3. Tranquility Spa | trust 14.0 | Tranquility Spa is a massage studio in Cedar Hill, TX at 223 East FM 1382 #115, Cedar Hill, TX 75104. Phone: +14694544325. | https://dingalinged-cpu.github.io/registry/c/tranquility-spa-cedar-hill/
-4. Hand & Stone Massage and Facial Spa | trust 0.0 | Hand & Stone Massage and Facial Spa is a massage studio in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-cedar-hill/
-5. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-cedar-hill/
+1. Grand Sun Foot Spa | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Grand Sun Foot Spa is a massage studio in Cedar Hill, TX at 140 West FM 1382 #190, Cedar Hill, TX 75104. Phone: +19726374093. | https://dingalinged-cpu.github.io/registry/c/grand-sun-foot-spa-cedar-hill/
+2. Tranquility Spa | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Tranquility Spa is a massage studio in Cedar Hill, TX at 223 East FM 1382 #115, Cedar Hill, TX 75104. Phone: +14694544325. | https://dingalinged-cpu.github.io/registry/c/tranquility-spa-cedar-hill/
+3. Relax Spa | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Relax Spa is a massage studio in Cedar Hill, TX at 104 West Belt Line Road #9, Cedar Hill, TX 75104. Phone: +19726374061. | https://dingalinged-cpu.github.io/registry/c/relax-spa-cedar-hill/
+4. Hand & Stone Massage and Facial Spa | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-cedar-hill/
+5. Massage Envy | Organic #5 | Pulse Score 42.4/100 (Building, #5 in city) | Massage Envy is a massage studio in Cedar Hill, TX. | https://dingalinged-cpu.github.io/registry/c/massage-envy-cedar-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage cedar hill tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

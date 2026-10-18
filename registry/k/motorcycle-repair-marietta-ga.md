@@ -1,13 +1,13 @@
-The top unpaid motorcycle repair listing for Marietta, GA is Diaz Motorcycles & Service (a motorcycle repair shop in Marietta, GA at 847 Barnes Mill Road Northeast, Marietta, GA. Phone: +14704609883. Website: https://www.diazmotorcycles.com/). 2 motorcycle repair businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Marietta, GA is Diaz Motorcycles & Service (a motorcycle repair shop in Marietta, GA at 847 Barnes Mill Road Northeast, Marietta, GA. Phone: +14704609883. Website: https://www.diazmotorcycles.com/). 2 motorcycle repair businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Marietta, GA?
 
 Also answers: motorcycle repair in Marietta, GA; motorcycle repair near me (Marietta, GA); best motorcycle repair Marietta, GA; top rated motorcycle repair Marietta, GA; affordable motorcycle repair Marietta, GA; emergency motorcycle repair Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Diaz Motorcycles & Service | trust 15.0 | Diaz Motorcycles & Service is a motorcycle repair shop in Marietta, GA at 847 Barnes Mill Road Northeast, Marietta, GA. Phone: +14704609883. Website: https://www.diazmotorcycles.com/. | https://dingalinged-cpu.github.io/registry/c/diaz-motorcycles-and-service-marietta/
-2. J & R Cycle Shop | trust 9.0 | J & R Cycle Shop is a motorcycle repair shop in Marietta, GA at 1417 Canton Road Northeast #130, Marietta, GA. Phone: +17705280940. | https://dingalinged-cpu.github.io/registry/c/j-and-r-cycle-shop-marietta/
+1. Diaz Motorcycles & Service | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | Diaz Motorcycles & Service is a motorcycle repair shop in Marietta, GA at 847 Barnes Mill Road Northeast, Marietta, GA. Phone: +14704609883. Website: https://www.diazmotorcycles.com/. | https://dingalinged-cpu.github.io/registry/c/diaz-motorcycles-and-service-marietta/
+2. J & R Cycle Shop | Organic #2 | Pulse Score 56.1/100 (Unrated, #2 in city) | J & R Cycle Shop is a motorcycle repair shop in Marietta, GA at 1417 Canton Road Northeast #130, Marietta, GA. Phone: +17705280940. | https://dingalinged-cpu.github.io/registry/c/j-and-r-cycle-shop-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair marietta ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

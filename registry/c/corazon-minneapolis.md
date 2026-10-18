@@ -13,7 +13,7 @@ CorAzoN is a gift shop in Minneapolis, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:30-21:00
-- Registry Score: 53.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 53% of gift shops in Minneapolis–St. Paul, #17 of 20 gift shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.4, Trust 46.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Great Harvest Bread Company is a bakery in Houston, TX at 2665 Royal Forest Driv
 - Website: https://greatharvestkingwoodtx.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 89% of bakerys in Houston, #67 of 75 bakerys in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

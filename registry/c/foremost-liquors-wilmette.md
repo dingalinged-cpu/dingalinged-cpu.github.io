@@ -13,7 +13,7 @@ Foremost Liquors is a liquor store in Wilmette, IL at 275 Green Bay Road, Wilmet
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Unrated (not enough evidence yet) — top 99% of liquor stores in Chicago, #1 of 1 liquor stores in Wilmette (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 49.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

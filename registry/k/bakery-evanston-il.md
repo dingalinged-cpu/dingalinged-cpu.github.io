@@ -1,17 +1,17 @@
-The top unpaid bakery listing for Evanston, IL is Bennison's Bakery (a bakery in Evanston, IL at 1000 Davis Street, Evanston, IL 60201. Phone: +18473289434. Website: https://www.bennisonscakes.com/evanston.html). 6 bakery businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Evanston, IL is Great Harvest Bakery (a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/). 6 bakery businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Evanston, IL?
 
 Also answers: bakery in Evanston, IL; bakery near me (Evanston, IL); best bakery Evanston, IL; top rated bakery Evanston, IL; affordable bakery Evanston, IL; emergency bakery Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bennison's Bakery | trust 20.0 | Bennison's Bakery is a bakery in Evanston, IL at 1000 Davis Street, Evanston, IL 60201. Phone: +18473289434. Website: https://www.bennisonscakes.com/evanston.html. | https://dingalinged-cpu.github.io/registry/c/bennisons-bakery-evanston/
-2. Great Harvest Bakery | trust 20.0 | Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bakery-evanston/
-3. Tag's Bakery | trust 20.0 | Tag's Bakery is a bakery in Evanston, IL at 2010 Central Street, Evanston, IL 60201. Phone: +18473281200. Website: https://www.tagsbakery.com/. | https://dingalinged-cpu.github.io/registry/c/tags-bakery-evanston/
-4. Hewn | trust 10.0 | Hewn is a bakery in Evanston, IL. Website: https://www.hewnbread.com/. | https://dingalinged-cpu.github.io/registry/c/hewn-evanston/
-5. Sweet Temptations Bake Shop | trust 10.0 | Sweet Temptations Bake Shop is a bakery in Evanston, IL at 607 Howard Street, Evanston, IL 60202. Phone: +18478596392. | https://dingalinged-cpu.github.io/registry/c/sweet-temptations-bake-shop-evanston/
-6. Old Town Oil | trust 4.0 | Old Town Oil is a bakery in Evanston, IL at 1924 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/old-town-oil-evanston/
+1. Great Harvest Bakery | Organic #1 | Pulse Score 64.1/100 (Good, #1 in city) | Great Harvest Bakery is a bakery in Evanston, IL at 2126 Central Street, Evanston, IL 60201. Phone: +18478668609. Website: https://greatharvestevanston.com/. | https://dingalinged-cpu.github.io/registry/c/great-harvest-bakery-evanston/
+2. Bennison's Bakery | Organic #2 | Pulse Score 62.3/100 (Unrated, #2 in city) | Bennison's Bakery is a bakery in Evanston, IL at 1000 Davis Street, Evanston, IL 60201. Phone: +18473289434. Website: https://www.bennisonscakes.com/evanston.html. | https://dingalinged-cpu.github.io/registry/c/bennisons-bakery-evanston/
+3. Tag's Bakery | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | Tag's Bakery is a bakery in Evanston, IL at 2010 Central Street, Evanston, IL 60201. Phone: +18473281200. Website: https://www.tagsbakery.com/. | https://dingalinged-cpu.github.io/registry/c/tags-bakery-evanston/
+4. Sweet Temptations Bake Shop | Organic #4 | Pulse Score 57.8/100 (Unrated, #4 in city) | Sweet Temptations Bake Shop is a bakery in Evanston, IL at 607 Howard Street, Evanston, IL 60202. Phone: +18478596392. | https://dingalinged-cpu.github.io/registry/c/sweet-temptations-bake-shop-evanston/
+5. Hewn | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | Hewn is a bakery in Evanston, IL. Website: https://www.hewnbread.com/. | https://dingalinged-cpu.github.io/registry/c/hewn-evanston/
+6. Old Town Oil | Organic #6 | Pulse Score 55.5/100 (Unrated, #6 in city) | Old Town Oil is a bakery in Evanston, IL at 1924 Central Street, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/old-town-oil-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery evanston il | category: Events & weddings | industry benchmark: Personal Services

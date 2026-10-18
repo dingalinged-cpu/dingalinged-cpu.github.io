@@ -13,7 +13,7 @@ Tiger-Rock Martial Arts is a martial arts school in Sugar Land, TX at 3163 State
 - Website: https://trmatexas.com/locations/sugar-land/
 - Email: annie.saenz@trmasugarland.com
 - Opening hours (OSM syntax): Mo-Tu,Th 10:30-20:30; We 14:30-20:30; Fr 16:00-20:30; Sa 08:00-20:30; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.1/100 — Fair — top 84% of martial arts schools in Houston, #2 of 2 martial arts schools in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.6, Trust 66. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

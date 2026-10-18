@@ -1,12 +1,12 @@
-The top unpaid real estate agent listing for Hillside, IL is The Elite Real Estate Company (a real estate agency in Hillside, IL at 341 Laverne Avenue #B, Hillside, IL 60162. Phone: +17085441717. Website: https://www.eliterealestateil.com/). 1 real estate agent businesses are listed for Hillside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Hillside, IL is The Elite Real Estate Company (a real estate agency in Hillside, IL at 341 Laverne Avenue #B, Hillside, IL 60162. Phone: +17085441717. Website: https://www.eliterealestateil.com/). 1 real estate agent businesses are listed for Hillside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Hillside, IL?
 
 Also answers: real estate agent in Hillside, IL; real estate agent near me (Hillside, IL); best real estate agent Hillside, IL; top rated real estate agent Hillside, IL; affordable real estate agent Hillside, IL; emergency real estate agent Hillside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Elite Real Estate Company | trust 16.0 | The Elite Real Estate Company is a real estate agency in Hillside, IL at 341 Laverne Avenue #B, Hillside, IL 60162. Phone: +17085441717. Website: https://www.eliterealestateil.com/. | https://dingalinged-cpu.github.io/registry/c/the-elite-real-estate-company-hillside/
+1. The Elite Real Estate Company | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | The Elite Real Estate Company is a real estate agency in Hillside, IL at 341 Laverne Avenue #B, Hillside, IL 60162. Phone: +17085441717. Website: https://www.eliterealestateil.com/. | https://dingalinged-cpu.github.io/registry/c/the-elite-real-estate-company-hillside/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent hillside il | category: Professional & financial services | industry benchmark: Finance & Insurance

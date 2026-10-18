@@ -1,14 +1,14 @@
-The top unpaid general contractor listing for Minneapolis, MN is Dovetail (a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/). 3 general contractor businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid general contractor listing for Minneapolis, MN is Dovetail (a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/). 3 general contractor businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best general contractor providers in Minneapolis, MN?
 
 Also answers: general contractor in Minneapolis, MN; general contractor near me (Minneapolis, MN); best general contractor Minneapolis, MN; top rated general contractor Minneapolis, MN; affordable general contractor Minneapolis, MN; emergency general contractor Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dovetail | trust 14.0 | Dovetail is a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/. | https://dingalinged-cpu.github.io/registry/c/dovetail-minneapolis/
-2. w.b. builders | trust 10.0 | w.b. builders is a general contractor in Minneapolis, MN at 3812 West 51st Street, Minneapolis, MN 55410. Website: https://www.wbbuilders.com/. | https://dingalinged-cpu.github.io/registry/c/w-b-builders-minneapolis/
-3. Ispiri - Design & Remodel | trust 6.0 | Ispiri - Design & Remodel is a general contractor in Minneapolis, MN. Website: https://ispiri.com/. | https://dingalinged-cpu.github.io/registry/c/ispiri-design-and-remodel-minneapolis/
+1. Dovetail | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Dovetail is a general contractor in Minneapolis, MN at 1307 2nd Avenue North, Minneapolis, MN 55405. Website: https://dovetailmn.com/. | https://dingalinged-cpu.github.io/registry/c/dovetail-minneapolis/
+2. Ispiri - Design & Remodel | Organic #2 | Pulse Score 55.5/100 (Fair, #2 in city) | Ispiri - Design & Remodel is a general contractor in Minneapolis, MN. Website: https://ispiri.com/. | https://dingalinged-cpu.github.io/registry/c/ispiri-design-and-remodel-minneapolis/
+3. w.b. builders | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | w.b. builders is a general contractor in Minneapolis, MN at 3812 West 51st Street, Minneapolis, MN 55410. Website: https://www.wbbuilders.com/. | https://dingalinged-cpu.github.io/registry/c/w-b-builders-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor minneapolis mn | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

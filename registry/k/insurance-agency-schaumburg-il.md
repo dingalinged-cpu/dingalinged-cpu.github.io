@@ -1,16 +1,16 @@
-The top unpaid insurance agency listing for Schaumburg, IL is Compass Insurance Agency (an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/). 5 insurance agency businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Schaumburg, IL is Compass Insurance Agency (an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/). 5 insurance agency businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Schaumburg, IL?
 
 Also answers: insurance agency in Schaumburg, IL; insurance agency near me (Schaumburg, IL); best insurance agency Schaumburg, IL; top rated insurance agency Schaumburg, IL; affordable insurance agency Schaumburg, IL; emergency insurance agency Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Compass Insurance Agency | trust 20.0 | Compass Insurance Agency is an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/. | https://dingalinged-cpu.github.io/registry/c/compass-insurance-agency-schaumburg/
-2. Ask Insurance Agency | trust 16.0 | Ask Insurance Agency is an insurance agent in Schaumburg, IL at 1110 South Roselle Road, Schaumburg, IL 60193. Phone: +18473010808. Website: https://askinsurance.us/. | https://dingalinged-cpu.github.io/registry/c/ask-insurance-agency-schaumburg/
-3. Insure on the Spot | trust 0.0 | Insure on the Spot is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-schaumburg/
-4. Transamerica Agency Network | trust 0.0 | Transamerica Agency Network is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/transamerica-agency-network-schaumburg/
-5. Zurich | trust 0.0 | Zurich is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/zurich-schaumburg/
+1. Compass Insurance Agency | Organic #1 | Pulse Score 63.4/100 (Unrated, #1 in city) | Compass Insurance Agency is an insurance agent in Schaumburg, IL at 2401 West Schaumburg Road #201, Schaumburg, IL 60194. Phone: +18479083301. Website: https://www.compassinsuranceschaumburg.com/. | https://dingalinged-cpu.github.io/registry/c/compass-insurance-agency-schaumburg/
+2. Ask Insurance Agency | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Ask Insurance Agency is an insurance agent in Schaumburg, IL at 1110 South Roselle Road, Schaumburg, IL 60193. Phone: +18473010808. Website: https://askinsurance.us/. | https://dingalinged-cpu.github.io/registry/c/ask-insurance-agency-schaumburg/
+3. Insure on the Spot | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Insure on the Spot is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-schaumburg/
+4. Transamerica Agency Network | Organic #4 | Pulse Score 54/100 (Unrated, #4 in city) | Transamerica Agency Network is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/transamerica-agency-network-schaumburg/
+5. Zurich | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | Zurich is an insurance agent in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/zurich-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency schaumburg il | category: insurance | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid physical therapy listing for Franklin, WI is Cora Physical Therapy (a physical therapy clinic in Franklin, WI at 7740 South Lovers Lane Road #410, Franklin, WI 53132. Phone: +14143776933. Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/). 2 physical therapy businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Franklin, WI is Franklin Rehabilitation (a physical therapy clinic in Franklin, WI at 7253 South 76th Street, Franklin, WI 53132). 2 physical therapy businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Franklin, WI?
 
 Also answers: physical therapy in Franklin, WI; physical therapy near me (Franklin, WI); best physical therapy Franklin, WI; top rated physical therapy Franklin, WI; affordable physical therapy Franklin, WI; emergency physical therapy Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cora Physical Therapy | trust 20.0 | Cora Physical Therapy is a physical therapy clinic in Franklin, WI at 7740 South Lovers Lane Road #410, Franklin, WI 53132. Phone: +14143776933. Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/. | https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-franklin/
-2. Franklin Rehabilitation | trust 4.0 | Franklin Rehabilitation is a physical therapy clinic in Franklin, WI at 7253 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/franklin-rehabilitation-franklin/
+1. Franklin Rehabilitation | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Franklin Rehabilitation is a physical therapy clinic in Franklin, WI at 7253 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/franklin-rehabilitation-franklin/
+2. Cora Physical Therapy | Organic #2 | Pulse Score 50.3/100 (Unrated, #2 in city) | Cora Physical Therapy is a physical therapy clinic in Franklin, WI at 7740 South Lovers Lane Road #410, Franklin, WI 53132. Phone: +14143776933. Website: https://coraphysicaltherapy.com/location/franklin-wisconsin/. | https://dingalinged-cpu.github.io/registry/c/cora-physical-therapy-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy franklin wi | category: Health & medical | industry benchmark: Physicians & Surgeons

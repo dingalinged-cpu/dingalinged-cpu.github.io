@@ -13,7 +13,7 @@ River Oaks Beauty and Weight Loss Center is a massage studio in Houston, TX at 5
 - Website: https://www.loseweightgainbeauty.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-18:15; Tu 10:00-18:15; We 09:00-18:15; Th 10:00-18:15; Fr 07:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 7% of massage studios in Houston, #4 of 53 massage studios in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

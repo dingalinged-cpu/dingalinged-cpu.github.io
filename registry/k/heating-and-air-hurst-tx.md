@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Hurst, TX is American Air & Heat Inc (a HVAC contractor in Hurst, TX at 1265 West Hurst Blvd, Hurst, TX 76053. Phone: +18172840864. Website: https://americanair.biz/). 2 heating and air businesses are listed for Hurst, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Hurst, TX is American Air & Heat Inc (a HVAC contractor in Hurst, TX at 1265 West Hurst Blvd, Hurst, TX 76053. Phone: +18172840864. Website: https://americanair.biz/). 2 heating and air businesses are listed for Hurst, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Hurst, TX?
 
 Also answers: heating and air in Hurst, TX; heating and air near me (Hurst, TX); best heating and air Hurst, TX; top rated heating and air Hurst, TX; affordable heating and air Hurst, TX; emergency heating and air Hurst, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Air & Heat Inc | trust 20.0 | American Air & Heat Inc is a HVAC contractor in Hurst, TX at 1265 West Hurst Blvd, Hurst, TX 76053. Phone: +18172840864. Website: https://americanair.biz/. | https://dingalinged-cpu.github.io/registry/c/american-air-and-heat-inc-hurst/
-2. AirCo Air Conditioning, Heating, and Plumbing | trust 16.0 | AirCo Air Conditioning, Heating, and Plumbing is a HVAC contractor in Hurst, TX at 1516 Central Park Drive, Hurst, TX 76053. Phone: +18175900088. Website: https://airco.com/. | https://dingalinged-cpu.github.io/registry/c/airco-air-conditioning-heating-and-plumbing-hurst/
+1. American Air & Heat Inc | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | American Air & Heat Inc is a HVAC contractor in Hurst, TX at 1265 West Hurst Blvd, Hurst, TX 76053. Phone: +18172840864. Website: https://americanair.biz/. | https://dingalinged-cpu.github.io/registry/c/american-air-and-heat-inc-hurst/
+2. AirCo Air Conditioning, Heating, and Plumbing | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | AirCo Air Conditioning, Heating, and Plumbing is a HVAC contractor in Hurst, TX at 1516 Central Park Drive, Hurst, TX 76053. Phone: +18175900088. Website: https://airco.com/. | https://dingalinged-cpu.github.io/registry/c/airco-air-conditioning-heating-and-plumbing-hurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air hurst tx | category: Home Services | industry benchmark: Home & Home Improvement

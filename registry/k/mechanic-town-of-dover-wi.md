@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Town Of Dover, WI is Jon's Impala Parts (an auto repair shop in Town of Dover, WI). 4 mechanic businesses are listed for Town Of Dover, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Town Of Dover, WI is Jon's Impala Parts (an auto repair shop in Town of Dover, WI). 4 mechanic businesses are listed for Town Of Dover, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Town Of Dover, WI?
 
 Also answers: mechanic in Town Of Dover, WI; mechanic near me (Town Of Dover, WI); best mechanic Town Of Dover, WI; top rated mechanic Town Of Dover, WI; affordable mechanic Town Of Dover, WI; emergency mechanic Town Of Dover, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jon's Impala Parts | trust 0.0 | Jon's Impala Parts is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/jons-impala-parts-town-of-dover/
-2. Kastenson Auto Service | trust 0.0 | Kastenson Auto Service is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/kastenson-auto-service-town-of-dover/
-3. Wells & Family Tires LLC | trust 0.0 | Wells & Family Tires LLC is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/wells-and-family-tires-llc-town-of-dover/
-4. West View Repair LLC | trust 0.0 | West View Repair LLC is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/west-view-repair-llc-town-of-dover/
+1. Jon's Impala Parts | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Jon's Impala Parts is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/jons-impala-parts-town-of-dover/
+2. Kastenson Auto Service | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Kastenson Auto Service is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/kastenson-auto-service-town-of-dover/
+3. Wells & Family Tires LLC | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Wells & Family Tires LLC is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/wells-and-family-tires-llc-town-of-dover/
+4. West View Repair LLC | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | West View Repair LLC is an auto repair shop in Town of Dover, WI. | https://dingalinged-cpu.github.io/registry/c/west-view-repair-llc-town-of-dover/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic town of dover wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

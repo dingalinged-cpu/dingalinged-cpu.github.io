@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Lawrenceville, GA is Grease Monkey (an auto repair shop in Lawrenceville, GA at 910 Herrington Road, Lawrenceville, GA 30044. Phone: +16783761000. Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road). 1 auto repair businesses are listed for Lawrenceville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Lawrenceville, GA is Grease Monkey (an auto repair shop in Lawrenceville, GA at 910 Herrington Road, Lawrenceville, GA 30044. Phone: +16783761000. Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road). 1 auto repair businesses are listed for Lawrenceville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Lawrenceville, GA?
 
 Also answers: auto repair in Lawrenceville, GA; auto repair near me (Lawrenceville, GA); best auto repair Lawrenceville, GA; top rated auto repair Lawrenceville, GA; affordable auto repair Lawrenceville, GA; emergency auto repair Lawrenceville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grease Monkey | trust 20.0 | Grease Monkey is an auto repair shop in Lawrenceville, GA at 910 Herrington Road, Lawrenceville, GA 30044. Phone: +16783761000. Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-lawrenceville/
+1. Grease Monkey | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Grease Monkey is an auto repair shop in Lawrenceville, GA at 910 Herrington Road, Lawrenceville, GA 30044. Phone: +16783761000. Website: https://www.greasemonkeyauto.com/locations/us/ga/lawrenceville/910-herrington-road. | https://dingalinged-cpu.github.io/registry/c/grease-monkey-lawrenceville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair lawrenceville ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

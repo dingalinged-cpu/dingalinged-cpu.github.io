@@ -1,16 +1,16 @@
-The top unpaid dog groomer listing for Frisco, TX is Legacy Grooming (a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, TX 75034. Phone: +12148721018. Website: https://legacygrooming.com/). 5 dog groomer businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Frisco, TX is Legacy Grooming (a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, TX 75034. Phone: +12148721018. Website: https://legacygrooming.com/). 5 dog groomer businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Frisco, TX?
 
 Also answers: dog groomer in Frisco, TX; dog groomer near me (Frisco, TX); best dog groomer Frisco, TX; top rated dog groomer Frisco, TX; affordable dog groomer Frisco, TX; emergency dog groomer Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Legacy Grooming | trust 16.0 | Legacy Grooming is a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, TX 75034. Phone: +12148721018. Website: https://legacygrooming.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-grooming-frisco/
-2. Classy K9 Cuts | trust 9.0 | Classy K9 Cuts is a dog groomer in Frisco, TX at 2995 Preston Road #1570, Frisco, TX. Phone: +14693625303. | https://dingalinged-cpu.github.io/registry/c/classy-k9-cuts-frisco/
-3. The Dog House of Frisco | trust 9.0 | The Dog House of Frisco is a dog groomer in Frisco, TX at 7258 Main Street, Frisco, TX. Website: https://www.thedoghouseoffrisco.com/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-of-frisco-frisco/
-4. Pet Evolution | trust 3.0 | Pet Evolution is a dog groomer in Frisco, TX at 2115 West University Drive #230, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pet-evolution-frisco/
-5. Scenthound | trust 3.0 | Scenthound is a dog groomer in Frisco, TX at 5570 FM 423 #600, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/scenthound-frisco/
+1. Legacy Grooming | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Legacy Grooming is a dog groomer in Frisco, TX at 8756 Teel Pkwy ##318, Frisco, TX 75034. Phone: +12148721018. Website: https://legacygrooming.com/. | https://dingalinged-cpu.github.io/registry/c/legacy-grooming-frisco/
+2. Classy K9 Cuts | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Classy K9 Cuts is a dog groomer in Frisco, TX at 2995 Preston Road #1570, Frisco, TX. Phone: +14693625303. | https://dingalinged-cpu.github.io/registry/c/classy-k9-cuts-frisco/
+3. The Dog House of Frisco | Organic #3 | Pulse Score 59.3/100 (Unrated, #3 in city) | The Dog House of Frisco is a dog groomer in Frisco, TX at 7258 Main Street, Frisco, TX. Website: https://www.thedoghouseoffrisco.com/. | https://dingalinged-cpu.github.io/registry/c/the-dog-house-of-frisco-frisco/
+4. Pet Evolution | Organic #4 | Pulse Score 45.4/100 (Building, #4 in city) | Pet Evolution is a dog groomer in Frisco, TX at 2115 West University Drive #230, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/pet-evolution-frisco/
+5. Scenthound | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Scenthound is a dog groomer in Frisco, TX at 5570 FM 423 #600, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/scenthound-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer frisco tx | category: Pets | industry benchmark: Animals & Pets

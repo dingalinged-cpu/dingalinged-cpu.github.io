@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Bolingbrook, IL is Domark Car Wash & Lube (a car wash in Bolingbrook, IL at 435 Weber Road, Bolingbrook, IL 60490). 5 car wash businesses are listed for Bolingbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Bolingbrook, IL is Domark Car Wash & Lube (a car wash in Bolingbrook, IL at 435 Weber Road, Bolingbrook, IL 60490). 5 car wash businesses are listed for Bolingbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Bolingbrook, IL?
 
 Also answers: car wash in Bolingbrook, IL; car wash near me (Bolingbrook, IL); best car wash Bolingbrook, IL; top rated car wash Bolingbrook, IL; affordable car wash Bolingbrook, IL; emergency car wash Bolingbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Domark Car Wash & Lube | trust 4.0 | Domark Car Wash & Lube is a car wash in Bolingbrook, IL at 435 Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/domark-car-wash-and-lube-bolingbrook/
-2. Great Wash Inc | trust 4.0 | Great Wash Inc is a car wash in Bolingbrook, IL at 450 Lily Cache Lane, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/great-wash-inc-bolingbrook/
-3. Jey Brite Car Wash | trust 4.0 | Jey Brite Car Wash is a car wash in Bolingbrook, IL at 246 Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/jey-brite-car-wash-bolingbrook/
-4. Shell | trust 0.0 | Shell is a car wash in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/shell-bolingbrook/
-5. Vic's Express Car Wash | trust 0.0 | Vic's Express Car Wash is a car wash in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/vics-express-car-wash-bolingbrook/
+1. Domark Car Wash & Lube | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Domark Car Wash & Lube is a car wash in Bolingbrook, IL at 435 Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/domark-car-wash-and-lube-bolingbrook/
+2. Great Wash Inc | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Great Wash Inc is a car wash in Bolingbrook, IL at 450 Lily Cache Lane, Bolingbrook, IL 60440. | https://dingalinged-cpu.github.io/registry/c/great-wash-inc-bolingbrook/
+3. Jey Brite Car Wash | Organic #3 | Pulse Score 57.6/100 (Unrated, #3 in city) | Jey Brite Car Wash is a car wash in Bolingbrook, IL at 246 Weber Road, Bolingbrook, IL 60490. | https://dingalinged-cpu.github.io/registry/c/jey-brite-car-wash-bolingbrook/
+4. Vic's Express Car Wash | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Vic's Express Car Wash is a car wash in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/vics-express-car-wash-bolingbrook/
+5. Shell | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | Shell is a car wash in Bolingbrook, IL. | https://dingalinged-cpu.github.io/registry/c/shell-bolingbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash bolingbrook il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

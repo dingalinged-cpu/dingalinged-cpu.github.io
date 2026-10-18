@@ -1,14 +1,14 @@
-The top unpaid tattoo shop listing for Waxahachie, TX is Black Rose Tattoo (a tattoo shop in Waxahachie, TX at 201 East Main Street #205, Waxahachie, TX 75165). 3 tattoo shop businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Waxahachie, TX is Black Rose Tattoo (a tattoo shop in Waxahachie, TX at 201 East Main Street #205, Waxahachie, TX 75165). 3 tattoo shop businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Waxahachie, TX?
 
 Also answers: tattoo shop in Waxahachie, TX; tattoo shop near me (Waxahachie, TX); best tattoo shop Waxahachie, TX; top rated tattoo shop Waxahachie, TX; affordable tattoo shop Waxahachie, TX; emergency tattoo shop Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Rose Tattoo | trust 4.0 | Black Rose Tattoo is a tattoo shop in Waxahachie, TX at 201 East Main Street #205, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/black-rose-tattoo-waxahachie/
-2. Immortal Inc | trust 4.0 | Immortal Inc is a tattoo shop in Waxahachie, TX at 1702 US-287 Business, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/immortal-inc-waxahachie/
-3. Lost Veil Tattoo | trust 4.0 | Lost Veil Tattoo is a tattoo shop in Waxahachie, TX at 300 North Interstate 35E, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/lost-veil-tattoo-waxahachie/
+1. Black Rose Tattoo | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Black Rose Tattoo is a tattoo shop in Waxahachie, TX at 201 East Main Street #205, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/black-rose-tattoo-waxahachie/
+2. Immortal Inc | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Immortal Inc is a tattoo shop in Waxahachie, TX at 1702 US-287 Business, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/immortal-inc-waxahachie/
+3. Lost Veil Tattoo | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Lost Veil Tattoo is a tattoo shop in Waxahachie, TX at 300 North Interstate 35E, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/lost-veil-tattoo-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop waxahachie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

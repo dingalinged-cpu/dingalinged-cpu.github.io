@@ -13,7 +13,7 @@ Longhorn Tire & Wheel is a tire shop in Dallas, TX at 11426 East Northwest Highw
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.3/100 — Unrated (not enough evidence yet) — top 38% of tire shops in Dallas–Fort Worth, #14 of 30 tire shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 40. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

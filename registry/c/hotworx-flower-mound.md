@@ -13,7 +13,7 @@ Hotworx is a gym in Flower Mound, TX. Phone: +19724100271.
 - Website: n/a
 - Email: flowermoundsouth@gmail.com
 - Opening hours (OSM syntax): Mo-Th 11:00-20:00 open "Staff hours"; Fr 09:00-18:00 open "Staff hours"; PH closed; Su 11:00-16:00 open "Staff hours"
-- Registry Score: 48.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.3/100 — Building — top 61% of gyms in Dallas–Fort Worth, #16 of 20 gyms in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 56.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

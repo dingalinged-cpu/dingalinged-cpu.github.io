@@ -13,7 +13,7 @@ Aaron's is a furniture store in DeKalb County, GA. Website: https://locations.aa
 - Website: https://locations.aarons.com/us/ga/stone-mountain/5399-memorial-dr
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 66% of furniture stores in Atlanta, #1 of 1 furniture stores in DeKalb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.3, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

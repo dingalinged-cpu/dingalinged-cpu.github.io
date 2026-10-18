@@ -13,7 +13,7 @@ Fantastic Sams is a hair salon in Saint Louis Park, MN at 5330 Cedar Lake Road #
 - Website: https://www.fantasticsams.com/about/regions/minneapolis-st-paul-mn/fantastic-sams-st-louis-park-mn-0
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 81% of hair salons in Minneapolis–St. Paul, #20 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

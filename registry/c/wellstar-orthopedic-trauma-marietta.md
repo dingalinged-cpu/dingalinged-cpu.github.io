@@ -13,7 +13,7 @@ Wellstar Orthopedic Trauma is an orthopedic surgeon in Marietta, GA at 55 Whitch
 - Website: https://www.wellstar.org/locations/medical-practice/orthopedics-trauma-surgery-marietta-55-whitcher-street-ne-suite-260
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.5/100 — Fair — top 67% of orthopedic surgeons in Atlanta, #1 of 2 orthopedic surgeons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 47.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

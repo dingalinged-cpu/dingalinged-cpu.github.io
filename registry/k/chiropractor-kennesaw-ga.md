@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Kennesaw, GA is Kennesaw Health and Wellness Chiropractic (a chiropractor in Kennesaw, GA at 3655 Cherokee Street Northwest ##5, Kennesaw, GA 30144. Phone: +17704231799. Website: https://www.zocdoc.com/practice/kennesaw-health-and-wellness-64108). 2 chiropractor businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Kennesaw, GA is Balanced Health Chiropractic (a chiropractor in Kennesaw, GA at 2970 Cherokee Street Northwest, Kennesaw, GA. Phone: +17706946619). 2 chiropractor businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Kennesaw, GA?
 
 Also answers: chiropractor in Kennesaw, GA; chiropractor near me (Kennesaw, GA); best chiropractor Kennesaw, GA; top rated chiropractor Kennesaw, GA; affordable chiropractor Kennesaw, GA; emergency chiropractor Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kennesaw Health and Wellness Chiropractic | trust 20.0 | Kennesaw Health and Wellness Chiropractic is a chiropractor in Kennesaw, GA at 3655 Cherokee Street Northwest ##5, Kennesaw, GA 30144. Phone: +17704231799. Website: https://www.zocdoc.com/practice/kennesaw-health-and-wellness-64108. | https://dingalinged-cpu.github.io/registry/c/kennesaw-health-and-wellness-chiropractic-kennesaw/
-2. Balanced Health Chiropractic | trust 13.0 | Balanced Health Chiropractic is a chiropractor in Kennesaw, GA at 2970 Cherokee Street Northwest, Kennesaw, GA. Phone: +17706946619. | https://dingalinged-cpu.github.io/registry/c/balanced-health-chiropractic-kennesaw/
+1. Balanced Health Chiropractic | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Balanced Health Chiropractic is a chiropractor in Kennesaw, GA at 2970 Cherokee Street Northwest, Kennesaw, GA. Phone: +17706946619. | https://dingalinged-cpu.github.io/registry/c/balanced-health-chiropractic-kennesaw/
+2. Kennesaw Health and Wellness Chiropractic | Organic #2 | Pulse Score 60.6/100 (Good, #2 in city) | Kennesaw Health and Wellness Chiropractic is a chiropractor in Kennesaw, GA at 3655 Cherokee Street Northwest ##5, Kennesaw, GA 30144. Phone: +17704231799. Website: https://www.zocdoc.com/practice/kennesaw-health-and-wellness-64108. | https://dingalinged-cpu.github.io/registry/c/kennesaw-health-and-wellness-chiropractic-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor kennesaw ga | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid window replacement listing for Brookfield, WI is Abby Windows & Exteriors (a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005). 1 window replacement businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window replacement listing for Brookfield, WI is Abby Windows & Exteriors (a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005). 1 window replacement businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window replacement providers in Brookfield, WI?
 
 Also answers: window replacement in Brookfield, WI; window replacement near me (Brookfield, WI); best window replacement Brookfield, WI; top rated window replacement Brookfield, WI; affordable window replacement Brookfield, WI; emergency window replacement Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Abby Windows & Exteriors | trust 4.0 | Abby Windows & Exteriors is a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/abby-windows-and-exteriors-brookfield/
+1. Abby Windows & Exteriors | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Abby Windows & Exteriors is a window installer in Brookfield, WI at 14680 West Greenfield Avenue, Brookfield, WI 53005. | https://dingalinged-cpu.github.io/registry/c/abby-windows-and-exteriors-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: window replacement brookfield wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

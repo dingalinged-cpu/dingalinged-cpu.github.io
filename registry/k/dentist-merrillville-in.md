@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Merrillville, IN is Derek M. Stephens, DDS (a dentist in Merrillville, IN at 8691 Connecticut Street #A, Merrillville, IN 46410. Phone: +12198889225. Website: https://derekmstephensdds.com/). 3 dentist businesses are listed for Merrillville, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Merrillville, IN is Derek M. Stephens, DDS (a dentist in Merrillville, IN at 8691 Connecticut Street #A, Merrillville, IN 46410. Phone: +12198889225. Website: https://derekmstephensdds.com/). 3 dentist businesses are listed for Merrillville, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Merrillville, IN?
 
 Also answers: dentist in Merrillville, IN; dentist near me (Merrillville, IN); best dentist Merrillville, IN; top rated dentist Merrillville, IN; affordable dentist Merrillville, IN; emergency dentist Merrillville, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Derek M. Stephens, DDS | trust 20.0 | Derek M. Stephens, DDS is a dentist in Merrillville, IN at 8691 Connecticut Street #A, Merrillville, IN 46410. Phone: +12198889225. Website: https://derekmstephensdds.com/. | https://dingalinged-cpu.github.io/registry/c/derek-m-stephens-dds-merrillville/
-2. Aspen Dental | trust 10.0 | Aspen Dental is a dentist in Merrillville, IN at 6 West 81st Avenue, Merrillville, IN 46410. Website: https://www.aspendental.com/dentist/in/merrillville/6-w-lincoln-hwy. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-merrillville/
-3. Hugh P. Seller, D.D.S. | trust 4.0 | Hugh P. Seller, D.D.S. is a dentist in Merrillville, IN at 105 West 78th Place, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/hugh-p-seller-d-d-s-merrillville/
+1. Derek M. Stephens, DDS | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Derek M. Stephens, DDS is a dentist in Merrillville, IN at 8691 Connecticut Street #A, Merrillville, IN 46410. Phone: +12198889225. Website: https://derekmstephensdds.com/. | https://dingalinged-cpu.github.io/registry/c/derek-m-stephens-dds-merrillville/
+2. Hugh P. Seller, D.D.S. | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | Hugh P. Seller, D.D.S. is a dentist in Merrillville, IN at 105 West 78th Place, Merrillville, IN 46410. | https://dingalinged-cpu.github.io/registry/c/hugh-p-seller-d-d-s-merrillville/
+3. Aspen Dental | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Aspen Dental is a dentist in Merrillville, IN at 6 West 81st Avenue, Merrillville, IN 46410. Website: https://www.aspendental.com/dentist/in/merrillville/6-w-lincoln-hwy. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-merrillville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist merrillville in | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

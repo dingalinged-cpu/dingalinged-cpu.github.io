@@ -13,7 +13,7 @@ Bread ETC is a gift shop in Lodi, WI at 147 South Main Street, Lodi, WI 53555. P
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Th-Fr 11:00-17:00; Sa 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 14% of gift shops in Madison, #2 of 3 gift shops in Lodi (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

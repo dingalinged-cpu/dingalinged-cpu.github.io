@@ -1,34 +1,34 @@
-The top unpaid gift shop listing for Grapevine, TX is Attic Salt (a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #241, Grapevine, TX 76051). 23 gift shop businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Grapevine, TX is Lone Star Attitude (a gift shop in Grapevine, TX). 23 gift shop businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Grapevine, TX?
 
 Also answers: gift shop in Grapevine, TX; gift shop near me (Grapevine, TX); best gift shop Grapevine, TX; top rated gift shop Grapevine, TX; affordable gift shop Grapevine, TX; emergency gift shop Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Attic Salt | trust 4.0 | Attic Salt is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #241, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/attic-salt-grapevine/
-2. BoxLunch | trust 4.0 | BoxLunch is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #513, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/boxlunch-grapevine/
-3. Disney Store | trust 4.0 | Disney Store is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/disney-store-grapevine/
-4. Earthbound | trust 4.0 | Earthbound is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/earthbound-grapevine/
-5. Hallmark | trust 4.0 | Hallmark is a gift shop in Grapevine, TX at 2030 Glade Road #232, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/hallmark-grapevine/
-6. Spencer's | trust 4.0 | Spencer's is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #417, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/spencers-grapevine/
-7. Texas Marketplace | trust 1.0 | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine/
-8. 3Sixty | trust 0.0 | 3Sixty is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/3sixty-grapevine/
-9. Artizan | trust 0.0 | Artizan is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/artizan-grapevine/
-10. Brookstone | trust 0.0 | Brookstone is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/brookstone-grapevine/
-11. Details | trust 0.0 | Details is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/details-grapevine/
-12. DFW News | trust 0.0 | DFW News is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-news-grapevine/
-13. Grapevine Souvenirs | trust 0.0 | Grapevine Souvenirs is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/grapevine-souvenirs-grapevine/
-14. Hudson News | trust 0.0 | Hudson News is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/hudson-news-grapevine/
-15. Landau | trust 0.0 | Landau is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/landau-grapevine/
-16. Lone Star Attitude | trust 0.0 | Lone Star Attitude is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-attitude-grapevine/
-17. Lone Star Emporium | trust 0.0 | Lone Star Emporium is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-emporium-grapevine/
-18. Montblanc | trust 0.0 | Montblanc is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/montblanc-grapevine/
-19. NBC-5 Travel Store | trust 0.0 | NBC-5 Travel Store is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/nbc-5-travel-store-grapevine/
-20. Soybu | trust 0.0 | Soybu is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/soybu-grapevine/
-21. Texas Marketplace | trust 0.0 | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine-n10281155464/
-22. Texas Marketplace | trust 0.0 | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine-n3516116732/
-23. Travel Leisure | trust 0.0 | Travel Leisure is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/travel-leisure-grapevine/
+1. Lone Star Attitude | Organic #1 | Pulse Score 59.6/100 (Unrated, #1 in city) | Lone Star Attitude is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-attitude-grapevine/
+2. Earthbound | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Earthbound is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/earthbound-grapevine/
+3. 3Sixty | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | 3Sixty is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/3sixty-grapevine/
+4. Artizan | Organic #4 | Pulse Score 56.4/100 (Unrated, #4 in city) | Artizan is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/artizan-grapevine/
+5. Details | Organic #5 | Pulse Score 56.4/100 (Unrated, #5 in city) | Details is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/details-grapevine/
+6. DFW News | Organic #6 | Pulse Score 56.4/100 (Unrated, #6 in city) | DFW News is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-news-grapevine/
+7. Hudson News | Organic #7 | Pulse Score 56.4/100 (Unrated, #7 in city) | Hudson News is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/hudson-news-grapevine/
+8. Lone Star Emporium | Organic #8 | Pulse Score 56.4/100 (Unrated, #8 in city) | Lone Star Emporium is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/lone-star-emporium-grapevine/
+9. Montblanc | Organic #9 | Pulse Score 56.4/100 (Unrated, #9 in city) | Montblanc is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/montblanc-grapevine/
+10. Soybu | Organic #10 | Pulse Score 56.4/100 (Unrated, #10 in city) | Soybu is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/soybu-grapevine/
+11. Travel Leisure | Organic #11 | Pulse Score 56.4/100 (Unrated, #11 in city) | Travel Leisure is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/travel-leisure-grapevine/
+12. Grapevine Souvenirs | Organic #12 | Pulse Score 55.6/100 (Unrated, #12 in city) | Grapevine Souvenirs is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/grapevine-souvenirs-grapevine/
+13. Landau | Organic #13 | Pulse Score 55.6/100 (Unrated, #13 in city) | Landau is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/landau-grapevine/
+14. NBC-5 Travel Store | Organic #14 | Pulse Score 55.6/100 (Unrated, #14 in city) | NBC-5 Travel Store is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/nbc-5-travel-store-grapevine/
+15. Hallmark | Organic #15 | Pulse Score 48.6/100 (Building, #15 in city) | Hallmark is a gift shop in Grapevine, TX at 2030 Glade Road #232, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/hallmark-grapevine/
+16. Spencer's | Organic #16 | Pulse Score 46.9/100 (Building, #16 in city) | Spencer's is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #417, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/spencers-grapevine/
+17. Attic Salt | Organic #17 | Pulse Score 46.5/100 (Building, #17 in city) | Attic Salt is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #241, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/attic-salt-grapevine/
+18. BoxLunch | Organic #18 | Pulse Score 46.5/100 (Building, #18 in city) | BoxLunch is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway #513, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/boxlunch-grapevine/
+19. Disney Store | Organic #19 | Pulse Score 46.5/100 (Building, #19 in city) | Disney Store is a gift shop in Grapevine, TX at 3000 Grapevine Mills Parkway, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/disney-store-grapevine/
+20. Texas Marketplace | Organic #20 | Pulse Score 46.5/100 (Unrated, #20 in city) | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine/
+21. Texas Marketplace | Organic #21 | Pulse Score 44.8/100 (Unrated, #21 in city) | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine-n3516116732/
+22. Texas Marketplace | Organic #22 | Pulse Score 43.9/100 (Unrated, #22 in city) | Texas Marketplace is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/texas-marketplace-grapevine-n10281155464/
+23. Brookstone | Organic #23 | Pulse Score 42.8/100 (Unrated, #23 in city) | Brookstone is a gift shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/brookstone-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop grapevine tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

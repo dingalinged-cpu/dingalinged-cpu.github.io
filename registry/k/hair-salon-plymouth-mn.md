@@ -1,18 +1,18 @@
-The top unpaid hair salon listing for Plymouth, MN is Elite Salon Suites (a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/). 7 hair salon businesses are listed for Plymouth, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Plymouth, MN is Elite Salon Suites (a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/). 7 hair salon businesses are listed for Plymouth, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Plymouth, MN?
 
 Also answers: hair salon in Plymouth, MN; hair salon near me (Plymouth, MN); best hair salon Plymouth, MN; top rated hair salon Plymouth, MN; affordable hair salon Plymouth, MN; emergency hair salon Plymouth, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elite Salon Suites | trust 20.0 | Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/. | https://dingalinged-cpu.github.io/registry/c/elite-salon-suites-plymouth/
-2. Fantastic Sams | trust 4.0 | Fantastic Sams is a hair salon in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-plymouth/
-3. Perfection Hair Salon | trust 4.0 | Perfection Hair Salon is a hair salon in Plymouth, MN at 4345 Nathan Lane North #B, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/perfection-hair-salon-plymouth/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-plymouth/
-5. My Salon | trust 0.0 | My Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/my-salon-plymouth/
-6. Simonson's | trust 0.0 | Simonson's is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/simonsons-plymouth/
-7. Volume Salon | trust 0.0 | Volume Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/volume-salon-plymouth/
+1. Elite Salon Suites | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Elite Salon Suites is a hair salon in Plymouth, MN at 10700 Highway 55 #100, Plymouth, MN 55441. Phone: +16124045588. Website: https://elite-salons.com/. | https://dingalinged-cpu.github.io/registry/c/elite-salon-suites-plymouth/
+2. Perfection Hair Salon | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Perfection Hair Salon is a hair salon in Plymouth, MN at 4345 Nathan Lane North #B, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/perfection-hair-salon-plymouth/
+3. Simonson's | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Simonson's is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/simonsons-plymouth/
+4. My Salon | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | My Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/my-salon-plymouth/
+5. Volume Salon | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Volume Salon is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/volume-salon-plymouth/
+6. Fantastic Sams | Organic #6 | Pulse Score 44.7/100 (Building, #6 in city) | Fantastic Sams is a hair salon in Plymouth, MN at 4345 Nathan Lane North, Plymouth, MN 55442. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-plymouth/
+7. Great Clips | Organic #7 | Pulse Score 41.7/100 (Unrated, #7 in city) | Great Clips is a hair salon in Plymouth, MN. | https://dingalinged-cpu.github.io/registry/c/great-clips-plymouth/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon plymouth mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

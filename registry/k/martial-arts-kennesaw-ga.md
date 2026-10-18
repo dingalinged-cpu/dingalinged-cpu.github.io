@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Kennesaw, GA is ETO Martial Arts & Fitness (a martial arts school in Kennesaw, GA at 2689 South Main Street, Kennesaw, GA. Phone: +17705289821. Website: https://www.myeto.com/). 2 martial arts businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Kennesaw, GA is ETO Martial Arts & Fitness (a martial arts school in Kennesaw, GA at 2689 South Main Street, Kennesaw, GA. Phone: +17705289821. Website: https://www.myeto.com/). 2 martial arts businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Kennesaw, GA?
 
 Also answers: martial arts in Kennesaw, GA; martial arts near me (Kennesaw, GA); best martial arts Kennesaw, GA; top rated martial arts Kennesaw, GA; affordable martial arts Kennesaw, GA; emergency martial arts Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ETO Martial Arts & Fitness | trust 15.0 | ETO Martial Arts & Fitness is a martial arts school in Kennesaw, GA at 2689 South Main Street, Kennesaw, GA. Phone: +17705289821. Website: https://www.myeto.com/. | https://dingalinged-cpu.github.io/registry/c/eto-martial-arts-and-fitness-kennesaw/
-2. Choi Kwang Do International Headquarters | trust 10.0 | Choi Kwang Do International Headquarters is a martial arts school in Kennesaw, GA at 4327 Wade Green Road Northwest, Kennesaw, GA 30144. Website: https://kennesawckd.com/. | https://dingalinged-cpu.github.io/registry/c/choi-kwang-do-international-headquarters-kennesaw/
+1. ETO Martial Arts & Fitness | Organic #1 | Pulse Score 61.1/100 (Good, #1 in city) | ETO Martial Arts & Fitness is a martial arts school in Kennesaw, GA at 2689 South Main Street, Kennesaw, GA. Phone: +17705289821. Website: https://www.myeto.com/. | https://dingalinged-cpu.github.io/registry/c/eto-martial-arts-and-fitness-kennesaw/
+2. Choi Kwang Do International Headquarters | Organic #2 | Pulse Score 59.7/100 (Fair, #2 in city) | Choi Kwang Do International Headquarters is a martial arts school in Kennesaw, GA at 4327 Wade Green Road Northwest, Kennesaw, GA 30144. Website: https://kennesawckd.com/. | https://dingalinged-cpu.github.io/registry/c/choi-kwang-do-international-headquarters-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts kennesaw ga | category: Fitness | industry benchmark: Health & Fitness

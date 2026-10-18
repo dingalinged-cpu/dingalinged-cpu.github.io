@@ -13,7 +13,7 @@ The Fine Arts Collective is a tattoo shop in Baytown, TX at 608 William Avenue, 
 - Website: https://www.thefineartscollective.com/
 - Email: fineartstudio281@gmail.com
 - Opening hours (OSM syntax): Mo,We,Th 12:00-22:00; Tu 14:30-22:00; Fr-Sa 12:00-24:00; Su 12:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 3% of tattoo shops in Houston, #1 of 1 tattoo shops in Baytown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

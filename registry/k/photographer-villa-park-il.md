@@ -1,12 +1,12 @@
-The top unpaid photographer listing for Villa Park, IL is Marky Booth Photo Booth Rental | Chicago (a photographer in Villa Park, IL at 634 North Addison Road, Villa Park, IL 60181. Phone: +18887737220. Website: https://www.markybooth.com/). 1 photographer businesses are listed for Villa Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Villa Park, IL is Marky Booth Photo Booth Rental | Chicago (a photographer in Villa Park, IL at 634 North Addison Road, Villa Park, IL 60181. Phone: +18887737220. Website: https://www.markybooth.com/). 1 photographer businesses are listed for Villa Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Villa Park, IL?
 
 Also answers: photographer in Villa Park, IL; photographer near me (Villa Park, IL); best photographer Villa Park, IL; top rated photographer Villa Park, IL; affordable photographer Villa Park, IL; emergency photographer Villa Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marky Booth Photo Booth Rental | Chicago | trust 20.0 | Marky Booth Photo Booth Rental | Chicago is a photographer in Villa Park, IL at 634 North Addison Road, Villa Park, IL 60181. Phone: +18887737220. Website: https://www.markybooth.com/. | https://dingalinged-cpu.github.io/registry/c/marky-booth-photo-booth-rental-chicago-villa-park/
+1. Marky Booth Photo Booth Rental | Chicago | Organic #1 | Pulse Score 54.2/100 (Fair, #1 in city) | Marky Booth Photo Booth Rental | Chicago is a photographer in Villa Park, IL at 634 North Addison Road, Villa Park, IL 60181. Phone: +18887737220. Website: https://www.markybooth.com/. | https://dingalinged-cpu.github.io/registry/c/marky-booth-photo-booth-rental-chicago-villa-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer villa park il | category: Events & weddings | industry benchmark: Personal Services

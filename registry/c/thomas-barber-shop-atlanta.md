@@ -13,7 +13,7 @@ Thomas Barber Shop is a hair salon in Atlanta, GA at 1268 West Paces Ferry Road 
 - Website: https://www.buckhead.com/tommys-barbershop/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We-Sa 07:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 15% of hair salons in Atlanta, #19 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.1, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

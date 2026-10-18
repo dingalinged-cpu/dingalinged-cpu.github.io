@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Burr Ridge, IL is Dennis Quinn & Associates (an accountant in Burr Ridge, IL). 1 accounting services businesses are listed for Burr Ridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Burr Ridge, IL is Dennis Quinn & Associates (an accountant in Burr Ridge, IL). 1 accounting services businesses are listed for Burr Ridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Burr Ridge, IL?
 
 Also answers: accounting services in Burr Ridge, IL; accounting services near me (Burr Ridge, IL); best accounting services Burr Ridge, IL; top rated accounting services Burr Ridge, IL; affordable accounting services Burr Ridge, IL; emergency accounting services Burr Ridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dennis Quinn & Associates | trust 0.0 | Dennis Quinn & Associates is an accountant in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/dennis-quinn-and-associates-burr-ridge/
+1. Dennis Quinn & Associates | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Dennis Quinn & Associates is an accountant in Burr Ridge, IL. | https://dingalinged-cpu.github.io/registry/c/dennis-quinn-and-associates-burr-ridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services burr ridge il | category: professional_accounting | industry benchmark: Business Services

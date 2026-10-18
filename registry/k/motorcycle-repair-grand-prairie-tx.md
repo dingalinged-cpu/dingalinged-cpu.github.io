@@ -1,12 +1,12 @@
-The top unpaid motorcycle repair listing for Grand Prairie, TX is JRG Motorcycle Repair (a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392). 1 motorcycle repair businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid motorcycle repair listing for Grand Prairie, TX is JRG Motorcycle Repair (a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392). 1 motorcycle repair businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best motorcycle repair providers in Grand Prairie, TX?
 
 Also answers: motorcycle repair in Grand Prairie, TX; motorcycle repair near me (Grand Prairie, TX); best motorcycle repair Grand Prairie, TX; top rated motorcycle repair Grand Prairie, TX; affordable motorcycle repair Grand Prairie, TX; emergency motorcycle repair Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JRG Motorcycle Repair | trust 14.0 | JRG Motorcycle Repair is a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392. | https://dingalinged-cpu.github.io/registry/c/jrg-motorcycle-repair-grand-prairie/
+1. JRG Motorcycle Repair | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | JRG Motorcycle Repair is a motorcycle repair shop in Grand Prairie, TX at 1921 Curtiss Street, Grand Prairie, TX 75050. Phone: +14693593392. | https://dingalinged-cpu.github.io/registry/c/jrg-motorcycle-repair-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: motorcycle repair grand prairie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ National Karate is a gym in New Berlin, WI at 3564 South Moorland Road, New Berl
 - Website: https://www.wisconsinnationalkarate.com/
 - Email: soni@greatlakesnk.com
 - Opening hours (OSM syntax): Mo-Fr 16:30-20:00; Sa 08:30-11:30
-- Registry Score: 53.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.6/100 — Fair — top 48% of gyms in Milwaukee, #1 of 1 gyms in New Berlin (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 39.6, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

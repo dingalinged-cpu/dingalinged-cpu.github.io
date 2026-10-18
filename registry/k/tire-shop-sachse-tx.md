@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Sachse, TX is Caliber Auto Care (an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse). 2 tire shop businesses are listed for Sachse, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Sachse, TX is Caliber Auto Care (an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse). 2 tire shop businesses are listed for Sachse, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Sachse, TX?
 
 Also answers: tire shop in Sachse, TX; tire shop near me (Sachse, TX); best tire shop Sachse, TX; top rated tire shop Sachse, TX; affordable tire shop Sachse, TX; emergency tire shop Sachse, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caliber Auto Care | trust 20.0 | Caliber Auto Care is an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse. | https://dingalinged-cpu.github.io/registry/c/caliber-auto-care-sachse/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Sachse, TX at 5440 State Highway 78, Sachse, TX 75048. Phone: +19724952627. | https://dingalinged-cpu.github.io/registry/c/discount-tire-sachse/
+1. Caliber Auto Care | Organic #1 | Pulse Score 49.4/100 (Building, #3 in city) | Caliber Auto Care is an auto repair shop in Sachse, TX at 5444 State Highway 78 South, Sachse, TX 75048. Phone: +12149784414. Website: https://www.caliber.com/find-a-location/cac-sachse. | https://dingalinged-cpu.github.io/registry/c/caliber-auto-care-sachse/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #1 in city) | Discount Tire is a tire shop in Sachse, TX at 5440 State Highway 78, Sachse, TX 75048. Phone: +19724952627. | https://dingalinged-cpu.github.io/registry/c/discount-tire-sachse/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop sachse tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

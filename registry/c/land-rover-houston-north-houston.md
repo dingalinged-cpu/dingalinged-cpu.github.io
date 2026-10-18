@@ -13,7 +13,7 @@ Land Rover Houston North is an used car dealer in Houston, TX at 18205 North Fre
 - Website: https://www.landrovernorth.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 78% of used car dealers in Houston, #37 of 46 used car dealers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

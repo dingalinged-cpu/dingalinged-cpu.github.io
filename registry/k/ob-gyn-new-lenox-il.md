@@ -1,12 +1,12 @@
-The top unpaid ob gyn listing for New Lenox, IL is The Women's Center (an OB-GYN practice in New Lenox, IL). 1 ob gyn businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid ob gyn listing for New Lenox, IL is The Women's Center (an OB-GYN practice in New Lenox, IL). 1 ob gyn businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best ob gyn providers in New Lenox, IL?
 
 Also answers: ob gyn in New Lenox, IL; ob gyn near me (New Lenox, IL); best ob gyn New Lenox, IL; top rated ob gyn New Lenox, IL; affordable ob gyn New Lenox, IL; emergency ob gyn New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Women's Center | trust 0.0 | The Women's Center is an OB-GYN practice in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/the-womens-center-new-lenox/
+1. The Women's Center | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | The Women's Center is an OB-GYN practice in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/the-womens-center-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: ob gyn new lenox il | category: Health & medical | industry benchmark: Physicians & Surgeons

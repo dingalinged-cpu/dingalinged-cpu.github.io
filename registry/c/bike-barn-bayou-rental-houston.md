@@ -13,7 +13,7 @@ Bike Barn (Bayou Rental) is a bike shop in Houston, TX at 105 Sabine Street, Hou
 - Website: n/a
 - Email: bayourental@bikebarn.com
 - Opening hours (OSM syntax): Fr 10:00-dusk; Sa 08:00-dusk; Su 10:00-dusk
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 25% of bike shops in Houston, #5 of 16 bike shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

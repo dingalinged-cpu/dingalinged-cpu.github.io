@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Corinth, TX is Jiu Jitsu Tech (a martial arts school in Corinth, TX at 7650 South Interstate 35E #Suite 132, Corinth, TX 76210. Phone: +19402794241. Website: https://www.jiujitsutech.com/). 2 martial arts businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Corinth, TX is Jiu Jitsu Tech (a martial arts school in Corinth, TX at 7650 South Interstate 35E #Suite 132, Corinth, TX 76210. Phone: +19402794241. Website: https://www.jiujitsutech.com/). 2 martial arts businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Corinth, TX?
 
 Also answers: martial arts in Corinth, TX; martial arts near me (Corinth, TX); best martial arts Corinth, TX; top rated martial arts Corinth, TX; affordable martial arts Corinth, TX; emergency martial arts Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jiu Jitsu Tech | trust 16.0 | Jiu Jitsu Tech is a martial arts school in Corinth, TX at 7650 South Interstate 35E #Suite 132, Corinth, TX 76210. Phone: +19402794241. Website: https://www.jiujitsutech.com/. | https://dingalinged-cpu.github.io/registry/c/jiu-jitsu-tech-corinth/
-2. Elite Martial Arts | trust 4.0 | Elite Martial Arts is a martial arts school in Corinth, TX at 4451 Swisher Road #Suite 122, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/elite-martial-arts-corinth/
+1. Jiu Jitsu Tech | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Jiu Jitsu Tech is a martial arts school in Corinth, TX at 7650 South Interstate 35E #Suite 132, Corinth, TX 76210. Phone: +19402794241. Website: https://www.jiujitsutech.com/. | https://dingalinged-cpu.github.io/registry/c/jiu-jitsu-tech-corinth/
+2. Elite Martial Arts | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Elite Martial Arts is a martial arts school in Corinth, TX at 4451 Swisher Road #Suite 122, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/elite-martial-arts-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts corinth tx | category: Fitness | industry benchmark: Health & Fitness

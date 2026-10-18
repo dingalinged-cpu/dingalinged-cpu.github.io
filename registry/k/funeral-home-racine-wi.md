@@ -1,16 +1,16 @@
-The top unpaid funeral home listing for Racine, WI is Maresh-Meredith and Acklam Funeral Home (a funeral home in Racine, WI at 803 Main Street, Racine, WI). 5 funeral home businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Racine, WI is Maresh-Meredith and Acklam Funeral Home (a funeral home in Racine, WI at 803 Main Street, Racine, WI). 5 funeral home businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Racine, WI?
 
 Also answers: funeral home in Racine, WI; funeral home near me (Racine, WI); best funeral home Racine, WI; top rated funeral home Racine, WI; affordable funeral home Racine, WI; emergency funeral home Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maresh-Meredith and Acklam Funeral Home | trust 3.0 | Maresh-Meredith and Acklam Funeral Home is a funeral home in Racine, WI at 803 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/maresh-meredith-and-acklam-funeral-home-racine/
-2. Meyers Racine Monument Works | trust 3.0 | Meyers Racine Monument Works is a funeral home in Racine, WI at 3120 Kinzie Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/meyers-racine-monument-works-racine/
-3. Purath-Strand Funeral Home | trust 3.0 | Purath-Strand Funeral Home is a funeral home in Caledonia, WI at 3915 Douglas Avenue, Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/purath-strand-funeral-home-caledonia/
-4. Strouf Funeral Home and Cremation Services | trust 3.0 | Strouf Funeral Home and Cremation Services is a funeral home in Racine, WI at 1001 High Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/strouf-funeral-home-and-cremation-services-racine/
-5. Wilson Funeral Home | trust 3.0 | Wilson Funeral Home is a funeral home in Racine, WI at 1212 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/wilson-funeral-home-racine/
+1. Maresh-Meredith and Acklam Funeral Home | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Maresh-Meredith and Acklam Funeral Home is a funeral home in Racine, WI at 803 Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/maresh-meredith-and-acklam-funeral-home-racine/
+2. Meyers Racine Monument Works | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | Meyers Racine Monument Works is a funeral home in Racine, WI at 3120 Kinzie Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/meyers-racine-monument-works-racine/
+3. Purath-Strand Funeral Home | Organic #3 | Pulse Score 55.1/100 (Unrated, #1 in city) | Purath-Strand Funeral Home is a funeral home in Caledonia, WI at 3915 Douglas Avenue, Caledonia, WI. | https://dingalinged-cpu.github.io/registry/c/purath-strand-funeral-home-caledonia/
+4. Strouf Funeral Home and Cremation Services | Organic #4 | Pulse Score 55.1/100 (Unrated, #3 in city) | Strouf Funeral Home and Cremation Services is a funeral home in Racine, WI at 1001 High Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/strouf-funeral-home-and-cremation-services-racine/
+5. Wilson Funeral Home | Organic #5 | Pulse Score 55.1/100 (Unrated, #4 in city) | Wilson Funeral Home is a funeral home in Racine, WI at 1212 Lathrop Avenue, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/wilson-funeral-home-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home racine wi | category: Professional & financial services | industry benchmark: Finance & Insurance

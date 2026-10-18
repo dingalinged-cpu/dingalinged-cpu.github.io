@@ -1,17 +1,17 @@
-The top unpaid haircut listing for Greenfield, WI is Cost Cutters (a hair salon in Greenfield, WI at 7438 West Holmes Avenue, Greenfield, WI 53220). 6 haircut businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Greenfield, WI is Affordable Cuts (a hair salon in Greenfield, WI). 6 haircut businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Greenfield, WI?
 
 Also answers: haircut in Greenfield, WI; haircut near me (Greenfield, WI); best haircut Greenfield, WI; top rated haircut Greenfield, WI; affordable haircut Greenfield, WI; emergency haircut Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in Greenfield, WI at 7438 West Holmes Avenue, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-greenfield/
-2. Lady Jane's Haircuts for Men | trust 4.0 | Lady Jane's Haircuts for Men is a hair salon in Greenfield, WI at 4975 South 76th Street, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-greenfield/
-3. Men's Hair House | trust 4.0 | Men's Hair House is a hair salon in Greenfield, WI at 8867 Sura Lane, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-greenfield/
-4. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Greenfield, WI at 7915 West Layton Avenue, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/sport-clips-greenfield/
-5. Affordable Cuts | trust 0.0 | Affordable Cuts is a hair salon in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/affordable-cuts-greenfield/
-6. Hair Aesthetics Salon | trust 0.0 | Hair Aesthetics Salon is a hair salon in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/hair-aesthetics-salon-greenfield/
+1. Affordable Cuts | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Affordable Cuts is a hair salon in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/affordable-cuts-greenfield/
+2. Hair Aesthetics Salon | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Hair Aesthetics Salon is a hair salon in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/hair-aesthetics-salon-greenfield/
+3. Men's Hair House | Organic #3 | Pulse Score 44.6/100 (Unrated, #3 in city) | Men's Hair House is a hair salon in Greenfield, WI at 8867 Sura Lane, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/mens-hair-house-greenfield/
+4. Cost Cutters | Organic #4 | Pulse Score 44.4/100 (Building, #4 in city) | Cost Cutters is a hair salon in Greenfield, WI at 7438 West Holmes Avenue, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-greenfield/
+5. Sport Clips | Organic #5 | Pulse Score 44/100 (Building, #5 in city) | Sport Clips is a hair salon in Greenfield, WI at 7915 West Layton Avenue, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/sport-clips-greenfield/
+6. Lady Jane's Haircuts for Men | Organic #6 | Pulse Score 43.5/100 (Unrated, #6 in city) | Lady Jane's Haircuts for Men is a hair salon in Greenfield, WI at 4975 South 76th Street, Greenfield, WI 53220. | https://dingalinged-cpu.github.io/registry/c/lady-janes-haircuts-for-men-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut greenfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

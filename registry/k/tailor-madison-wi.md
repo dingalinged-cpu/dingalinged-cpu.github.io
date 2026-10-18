@@ -1,17 +1,17 @@
-The top unpaid tailor listing for Madison, WI is Binh's Tailoring (a tailor in Madison, WI). 6 tailor businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Madison, WI is Campus Tailor & Alterations (a tailor in Madison, WI). 6 tailor businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Madison, WI?
 
 Also answers: tailor in Madison, WI; tailor near me (Madison, WI); best tailor Madison, WI; top rated tailor Madison, WI; affordable tailor Madison, WI; emergency tailor Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Binh's Tailoring | trust 4.0 | Binh's Tailoring is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/binhs-tailoring-madison/
-2. Campus Tailor & Alterations | trust 4.0 | Campus Tailor & Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/campus-tailor-and-alterations-madison/
-3. Express Alterations | trust 4.0 | Express Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/express-alterations-madison/
-4. Just Fine Alterations | trust 0.0 | Just Fine Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/just-fine-alterations-madison/
-5. Max Custom Tailor | trust 0.0 | Max Custom Tailor is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/max-custom-tailor-madison/
-6. Right Size Alterations | trust 0.0 | Right Size Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/right-size-alterations-madison/
+1. Campus Tailor & Alterations | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Campus Tailor & Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/campus-tailor-and-alterations-madison/
+2. Binh's Tailoring | Organic #2 | Pulse Score 57.4/100 (Unrated, #2 in city) | Binh's Tailoring is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/binhs-tailoring-madison/
+3. Express Alterations | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Express Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/express-alterations-madison/
+4. Just Fine Alterations | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Just Fine Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/just-fine-alterations-madison/
+5. Max Custom Tailor | Organic #5 | Pulse Score 56.7/100 (Unrated, #5 in city) | Max Custom Tailor is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/max-custom-tailor-madison/
+6. Right Size Alterations | Organic #6 | Pulse Score 56.2/100 (Unrated, #6 in city) | Right Size Alterations is a tailor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/right-size-alterations-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor madison wi | category: Professional & financial services | industry benchmark: Finance & Insurance

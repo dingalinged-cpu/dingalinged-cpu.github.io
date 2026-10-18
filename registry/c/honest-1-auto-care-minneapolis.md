@@ -13,7 +13,7 @@ Honest-1 Auto Care is an auto repair shop in Minneapolis, MN at 2217 Lyndale Ave
 - Website: https://www.honest1uptown.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Building — top 81% of auto repair shops in Minneapolis–St. Paul, #66 of 70 auto repair shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 56.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

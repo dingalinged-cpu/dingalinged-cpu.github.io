@@ -1,12 +1,12 @@
-The top unpaid music lessons listing for Wheaton, IL is Suburban Music (a music school in Wheaton, IL at 210 West Front Street, Wheaton, IL 60187. Phone: +16306824291. Website: https://www.suburbanmusicwheaton.com/). 1 music lessons businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Wheaton, IL is Suburban Music (a music school in Wheaton, IL at 210 West Front Street, Wheaton, IL 60187. Phone: +16306824291. Website: https://www.suburbanmusicwheaton.com/). 1 music lessons businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Wheaton, IL?
 
 Also answers: music lessons in Wheaton, IL; music lessons near me (Wheaton, IL); best music lessons Wheaton, IL; top rated music lessons Wheaton, IL; affordable music lessons Wheaton, IL; emergency music lessons Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Suburban Music | trust 16.0 | Suburban Music is a music school in Wheaton, IL at 210 West Front Street, Wheaton, IL 60187. Phone: +16306824291. Website: https://www.suburbanmusicwheaton.com/. | https://dingalinged-cpu.github.io/registry/c/suburban-music-wheaton/
+1. Suburban Music | Organic #1 | Pulse Score 59.7/100 (Unrated, #1 in city) | Suburban Music is a music school in Wheaton, IL at 210 West Front Street, Wheaton, IL 60187. Phone: +16306824291. Website: https://www.suburbanmusicwheaton.com/. | https://dingalinged-cpu.github.io/registry/c/suburban-music-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons wheaton il | category: Education & childcare | industry benchmark: Education & Instruction

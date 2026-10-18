@@ -1,14 +1,14 @@
-The top unpaid vet listing for Wylie, TX is Lake Lavon Animal Hospital (a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/). 3 vet businesses are listed for Wylie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Wylie, TX is Lake Lavon Animal Hospital (a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/). 3 vet businesses are listed for Wylie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Wylie, TX?
 
 Also answers: vet in Wylie, TX; vet near me (Wylie, TX); best vet Wylie, TX; top rated vet Wylie, TX; affordable vet Wylie, TX; emergency vet Wylie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake Lavon Animal Hospital | trust 20.0 | Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lake-lavon-animal-hospital-wylie/
-2. Parker Road Veterinary Hospital | trust 20.0 | Parker Road Veterinary Hospital is a veterinarian in Wylie, TX at 707 Parker Road, Wylie, TX 75098. Phone: +19724426523. Website: https://www.parkerroadvet.com/. | https://dingalinged-cpu.github.io/registry/c/parker-road-veterinary-hospital-wylie/
-3. Thrive Pet Healthcare Wylie | trust 20.0 | Thrive Pet Healthcare Wylie is a veterinarian in Wylie, TX at 2588 FM 544 #200, Wylie, TX 75098. Phone: +14696547461. Website: https://www.thrivepetcare.com/locations/texas/wylie/wylie. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-wylie-wylie/
+1. Lake Lavon Animal Hospital | Organic #1 | Pulse Score 63.8/100 (Unrated, #1 in city) | Lake Lavon Animal Hospital is a veterinarian in Wylie, TX at 456 North Country Club Road #110, Wylie, TX 75098. Phone: +19724297901. Website: https://www.lakelavonanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lake-lavon-animal-hospital-wylie/
+2. Parker Road Veterinary Hospital | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Parker Road Veterinary Hospital is a veterinarian in Wylie, TX at 707 Parker Road, Wylie, TX 75098. Phone: +19724426523. Website: https://www.parkerroadvet.com/. | https://dingalinged-cpu.github.io/registry/c/parker-road-veterinary-hospital-wylie/
+3. Thrive Pet Healthcare Wylie | Organic #3 | Pulse Score 50/100 (Unrated, #3 in city) | Thrive Pet Healthcare Wylie is a veterinarian in Wylie, TX at 2588 FM 544 #200, Wylie, TX 75098. Phone: +14696547461. Website: https://www.thrivepetcare.com/locations/texas/wylie/wylie. | https://dingalinged-cpu.github.io/registry/c/thrive-pet-healthcare-wylie-wylie/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet wylie tx | category: Pets | industry benchmark: Animals & Pets

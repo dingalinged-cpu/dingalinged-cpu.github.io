@@ -13,7 +13,7 @@ Wyly & Cook, LLP is a lawyer in Houston, TX at 4101 Washington Avenue, Houston, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55/100 — Unrated (not enough evidence yet) — top 74% of lawyers in Houston, #59 of 79 lawyers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.4, Trust 43.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

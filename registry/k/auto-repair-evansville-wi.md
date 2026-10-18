@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for Evansville, WI is Utzig CARSTAR Collision Service (an auto repair shop in Evansville, WI at 204 Water Street, Evansville, WI 53536. Phone: +16088820807. Website: https://www.carstar.com/locations/wi/evansville-15259/). 2 auto repair businesses are listed for Evansville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Evansville, WI is Mobil Tires (an auto repair shop in Evansville, WI at 110 East Church Street, Evansville, WI 53536). 2 auto repair businesses are listed for Evansville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Evansville, WI?
 
 Also answers: auto repair in Evansville, WI; auto repair near me (Evansville, WI); best auto repair Evansville, WI; top rated auto repair Evansville, WI; affordable auto repair Evansville, WI; emergency auto repair Evansville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Utzig CARSTAR Collision Service | trust 20.0 | Utzig CARSTAR Collision Service is an auto repair shop in Evansville, WI at 204 Water Street, Evansville, WI 53536. Phone: +16088820807. Website: https://www.carstar.com/locations/wi/evansville-15259/. | https://dingalinged-cpu.github.io/registry/c/utzig-carstar-collision-service-evansville/
-2. Mobil Tires | trust 4.0 | Mobil Tires is an auto repair shop in Evansville, WI at 110 East Church Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/mobil-tires-evansville/
+1. Mobil Tires | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Mobil Tires is an auto repair shop in Evansville, WI at 110 East Church Street, Evansville, WI 53536. | https://dingalinged-cpu.github.io/registry/c/mobil-tires-evansville/
+2. Utzig CARSTAR Collision Service | Organic #2 | Pulse Score 49.1/100 (Building, #2 in city) | Utzig CARSTAR Collision Service is an auto repair shop in Evansville, WI at 204 Water Street, Evansville, WI 53536. Phone: +16088820807. Website: https://www.carstar.com/locations/wi/evansville-15259/. | https://dingalinged-cpu.github.io/registry/c/utzig-carstar-collision-service-evansville/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair evansville wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

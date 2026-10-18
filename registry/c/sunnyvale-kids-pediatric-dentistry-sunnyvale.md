@@ -13,7 +13,7 @@ Sunnyvale Kids Pediatric Dentistry is a dentist in Sunnyvale, TX at 272 South Co
 - Website: https://www.sunnyvalekidsdentist.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of dentists in Dallas–Fort Worth, #1 of 1 dentists in Sunnyvale (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

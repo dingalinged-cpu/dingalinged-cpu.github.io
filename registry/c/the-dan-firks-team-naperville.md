@@ -13,7 +13,7 @@ The Dan Firks Team is a real estate agency in Naperville, IL at 55 S Main St #Su
 - Website: https://danfirks.com/
 - Email: n/a
 - Opening hours (OSM syntax): By appointment
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 13% of real estate agencys in Chicago, #1 of 9 real estate agencys in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

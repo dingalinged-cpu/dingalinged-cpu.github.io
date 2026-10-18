@@ -13,7 +13,7 @@ Amber Waves is a hair salon in Naperville, IL at 144 West Jefferson Avenue, Nape
 - Website: https://amberwavessalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-21:00; Fr, Sa 08:00-18:00; Su 10:00-17:00
-- Registry Score: 64.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Unrated (not enough evidence yet) — top 4% of hair salons in Chicago, #1 of 32 hair salons in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 64.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Duluth, GA is Marion Dentistry (a dentist in Duluth, GA at 6745 Sugarloaf Parkway, Suite 200, Duluth, GA 30097. Phone: +17702798800. Website: https://mariondentistry.com/). 3 dentist businesses are listed for Duluth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Duluth, GA is Marion Dentistry (a dentist in Duluth, GA at 6745 Sugarloaf Parkway, Suite 200, Duluth, GA 30097. Phone: +17702798800. Website: https://mariondentistry.com/). 3 dentist businesses are listed for Duluth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Duluth, GA?
 
 Also answers: dentist in Duluth, GA; dentist near me (Duluth, GA); best dentist Duluth, GA; top rated dentist Duluth, GA; affordable dentist Duluth, GA; emergency dentist Duluth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Marion Dentistry | trust 20.0 | Marion Dentistry is a dentist in Duluth, GA at 6745 Sugarloaf Parkway, Suite 200, Duluth, GA 30097. Phone: +17702798800. Website: https://mariondentistry.com/. | https://dingalinged-cpu.github.io/registry/c/marion-dentistry-duluth/
-2. Georgia Prosthodontics Dental Implant Center | trust 4.0 | Georgia Prosthodontics Dental Implant Center is a dentist in Duluth, GA at 6320 Sugarloaf Parkway, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/georgia-prosthodontics-dental-implant-center-duluth/
-3. Me Dental Care | trust 4.0 | Me Dental Care is a dentist in Duluth, GA at 1160 Old Peachtree Road Northwest #B, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/me-dental-care-duluth/
+1. Marion Dentistry | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Marion Dentistry is a dentist in Duluth, GA at 6745 Sugarloaf Parkway, Suite 200, Duluth, GA 30097. Phone: +17702798800. Website: https://mariondentistry.com/. | https://dingalinged-cpu.github.io/registry/c/marion-dentistry-duluth/
+2. Georgia Prosthodontics Dental Implant Center | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Georgia Prosthodontics Dental Implant Center is a dentist in Duluth, GA at 6320 Sugarloaf Parkway, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/georgia-prosthodontics-dental-implant-center-duluth/
+3. Me Dental Care | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Me Dental Care is a dentist in Duluth, GA at 1160 Old Peachtree Road Northwest #B, Duluth, GA 30097. | https://dingalinged-cpu.github.io/registry/c/me-dental-care-duluth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist duluth ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

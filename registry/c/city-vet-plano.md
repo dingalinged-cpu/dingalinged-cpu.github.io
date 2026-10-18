@@ -13,7 +13,7 @@ City Vet is a veterinarian in Plano, TX at 4701 West Park Boulevard #107, Plano,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Unrated (not enough evidence yet) — top 94% of veterinarians in Dallas–Fort Worth, #13 of 14 veterinarians in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.1, Trust 46.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

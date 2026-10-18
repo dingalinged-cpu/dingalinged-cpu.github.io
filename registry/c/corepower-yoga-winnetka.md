@@ -13,7 +13,7 @@ CorePower Yoga is a yoga studio in Winnetka, IL at 850 Green Bay Road, Winnetka,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 41.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.1/100 — Building — top 92% of yoga studios in Chicago, #1 of 1 yoga studios in Winnetka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Lewisville, TX is Texas Cleaners (a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/). 4 dry cleaners businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Lewisville, TX is Texas Cleaners (a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/). 4 dry cleaners businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Lewisville, TX?
 
 Also answers: dry cleaners in Lewisville, TX; dry cleaners near me (Lewisville, TX); best dry cleaners Lewisville, TX; top rated dry cleaners Lewisville, TX; affordable dry cleaners Lewisville, TX; emergency dry cleaners Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Cleaners | trust 14.0 | Texas Cleaners is a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/. | https://dingalinged-cpu.github.io/registry/c/texas-cleaners-lewisville/
-2. LP Cleaners | trust 7.0 | LP Cleaners is a dry cleaner in Lewisville, TX at 1302 South Business 121 #D, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lp-cleaners-lewisville/
-3. Dry Clean Super Center | trust 4.0 | Dry Clean Super Center is a dry cleaner in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-lewisville/
-4. Millennium Cleaners | trust 4.0 | Millennium Cleaners is a dry cleaner in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/millennium-cleaners-lewisville/
+1. Texas Cleaners | Organic #1 | Pulse Score 63.3/100 (Unrated, #1 in city) | Texas Cleaners is a dry cleaner in Lewisville, TX at West Round Grove Road #114, Lewisville, TX 75067. Website: https://www.texascleaners.net/. | https://dingalinged-cpu.github.io/registry/c/texas-cleaners-lewisville/
+2. LP Cleaners | Organic #2 | Pulse Score 63/100 (Good, #2 in city) | LP Cleaners is a dry cleaner in Lewisville, TX at 1302 South Business 121 #D, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lp-cleaners-lewisville/
+3. Millennium Cleaners | Organic #3 | Pulse Score 61.2/100 (Good, #3 in city) | Millennium Cleaners is a dry cleaner in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/millennium-cleaners-lewisville/
+4. Dry Clean Super Center | Organic #4 | Pulse Score 49.6/100 (Building, #4 in city) | Dry Clean Super Center is a dry cleaner in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/dry-clean-super-center-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners lewisville tx | category: Professional & financial services | industry benchmark: Finance & Insurance

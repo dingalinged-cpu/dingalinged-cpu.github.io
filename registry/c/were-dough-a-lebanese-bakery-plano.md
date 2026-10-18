@@ -13,7 +13,7 @@ We're Dough A Lebanese Bakery is a bakery in Plano, TX at 3421 East Renner Road 
 - Website: https://we-re-dough.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa-Su 08:00-19:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 8% of bakerys in Dallas–Fort Worth, #1 of 7 bakerys in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Fridley, MN is Auto Body Shop of Minneapolis (an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/). 3 mechanic businesses are listed for Fridley, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Fridley, MN is Auto Body Shop of Minneapolis (an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/). 3 mechanic businesses are listed for Fridley, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Fridley, MN?
 
 Also answers: mechanic in Fridley, MN; mechanic near me (Fridley, MN); best mechanic Fridley, MN; top rated mechanic Fridley, MN; affordable mechanic Fridley, MN; emergency mechanic Fridley, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Body Shop of Minneapolis | trust 16.0 | Auto Body Shop of Minneapolis is an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/auto-body-shop-of-minneapolis-fridley/
-2. Valvoline | trust 6.0 | Valvoline is an auto repair shop in Fridley, MN. Website: https://store.vioc.com/mn/fridley/oil-change-010005.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-fridley/
-3. Bona Bros. Automotoive | trust 0.0 | Bona Bros. Automotoive is an auto repair shop in Fridley, MN. | https://dingalinged-cpu.github.io/registry/c/bona-bros-automotoive-fridley/
+1. Auto Body Shop of Minneapolis | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Auto Body Shop of Minneapolis is an auto repair shop in Fridley, MN at 7741 Main Street Northeast, Fridley, MN 55432. Phone: +17635719151. Website: https://www.autobodyshopofminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/auto-body-shop-of-minneapolis-fridley/
+2. Bona Bros. Automotoive | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Bona Bros. Automotoive is an auto repair shop in Fridley, MN. | https://dingalinged-cpu.github.io/registry/c/bona-bros-automotoive-fridley/
+3. Valvoline | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | Valvoline is an auto repair shop in Fridley, MN. Website: https://store.vioc.com/mn/fridley/oil-change-010005.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-fridley/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic fridley mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

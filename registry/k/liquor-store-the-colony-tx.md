@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for The Colony, TX is Loyalty Liquors (a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056). 3 liquor store businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for The Colony, TX is Loyalty Liquors (a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056). 3 liquor store businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in The Colony, TX?
 
 Also answers: liquor store in The Colony, TX; liquor store near me (The Colony, TX); best liquor store The Colony, TX; top rated liquor store The Colony, TX; affordable liquor store The Colony, TX; emergency liquor store The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Loyalty Liquors | trust 4.0 | Loyalty Liquors is a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056. | https://dingalinged-cpu.github.io/registry/c/loyalty-liquors-the-colony/
-2. Goody Goody | trust 0.0 | Goody Goody is a liquor store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/goody-goody-the-colony/
-3. Spec's | trust 0.0 | Spec's is a liquor store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/specs-the-colony/
+1. Loyalty Liquors | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Loyalty Liquors is a liquor store in The Colony, TX at 5749 State Highway 121, The Colony, TX 75056. | https://dingalinged-cpu.github.io/registry/c/loyalty-liquors-the-colony/
+2. Goody Goody | Organic #2 | Pulse Score 42.6/100 (Unrated, #2 in city) | Goody Goody is a liquor store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/goody-goody-the-colony/
+3. Spec's | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Spec's is a liquor store in The Colony, TX. | https://dingalinged-cpu.github.io/registry/c/specs-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store the colony tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

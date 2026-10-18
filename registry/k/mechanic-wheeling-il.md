@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Wheeling, IL is MAACO (an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/). 5 mechanic businesses are listed for Wheeling, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Wheeling, IL is Touge Factory (an auto repair shop in Wheeling, IL). 5 mechanic businesses are listed for Wheeling, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Wheeling, IL?
 
 Also answers: mechanic in Wheeling, IL; mechanic near me (Wheeling, IL); best mechanic Wheeling, IL; top rated mechanic Wheeling, IL; affordable mechanic Wheeling, IL; emergency mechanic Wheeling, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MAACO | trust 10.0 | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/
-2. Midas | trust 10.0 | Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170. | https://dingalinged-cpu.github.io/registry/c/midas-wheeling/
-3. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Wheeling, IL at 10 East Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wheeling/
-4. Touge Factory | trust 0.0 | Touge Factory is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/touge-factory-wheeling/
-5. Wheeling Auto Center | trust 0.0 | Wheeling Auto Center is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/wheeling-auto-center-wheeling/
+1. Touge Factory | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Touge Factory is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/touge-factory-wheeling/
+2. Wheeling Auto Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Wheeling Auto Center is an auto repair shop in Wheeling, IL. | https://dingalinged-cpu.github.io/registry/c/wheeling-auto-center-wheeling/
+3. MAACO | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | MAACO is an auto repair shop in Wheeling, IL at 1026 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.maaco.com/locations/il/wheeling-11205/. | https://dingalinged-cpu.github.io/registry/c/maaco-wheeling/
+4. Midas | Organic #4 | Pulse Score 47.1/100 (Building, #4 in city) | Midas is an auto repair shop in Wheeling, IL at 1044 South Milwaukee Avenue, Wheeling, IL 60090. Website: https://www.midas.com/store/il/wheeling/1044-s-milwaukee-ave-60090?shopnum=2170. | https://dingalinged-cpu.github.io/registry/c/midas-wheeling/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Wheeling, IL at 10 East Dundee Road, Wheeling, IL 60090. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-wheeling/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic wheeling il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

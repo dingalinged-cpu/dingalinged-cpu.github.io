@@ -1,14 +1,14 @@
-The top unpaid staffing agency listing for Plano, TX is LYNOUS Talent Management (a staffing agency in Plano, TX at 6860 Dallas Parkway #200, Plano, TX 75024. Phone: +12143879595. Website: https://www.lynous.com/). 3 staffing agency businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Plano, TX is LYNOUS Talent Management (a staffing agency in Plano, TX at 6860 Dallas Parkway #200, Plano, TX 75024. Phone: +12143879595. Website: https://www.lynous.com/). 3 staffing agency businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Plano, TX?
 
 Also answers: staffing agency in Plano, TX; staffing agency near me (Plano, TX); best staffing agency Plano, TX; top rated staffing agency Plano, TX; affordable staffing agency Plano, TX; emergency staffing agency Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LYNOUS Talent Management | trust 16.0 | LYNOUS Talent Management is a staffing agency in Plano, TX at 6860 Dallas Parkway #200, Plano, TX 75024. Phone: +12143879595. Website: https://www.lynous.com/. | https://dingalinged-cpu.github.io/registry/c/lynous-talent-management-plano/
-2. Adrian Magallanes Day Labor Center | trust 0.0 | Adrian Magallanes Day Labor Center is a staffing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/adrian-magallanes-day-labor-center-plano/
-3. Talent Corps | trust 0.0 | Talent Corps is a staffing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/talent-corps-plano/
+1. LYNOUS Talent Management | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | LYNOUS Talent Management is a staffing agency in Plano, TX at 6860 Dallas Parkway #200, Plano, TX 75024. Phone: +12143879595. Website: https://www.lynous.com/. | https://dingalinged-cpu.github.io/registry/c/lynous-talent-management-plano/
+2. Adrian Magallanes Day Labor Center | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Adrian Magallanes Day Labor Center is a staffing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/adrian-magallanes-day-labor-center-plano/
+3. Talent Corps | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Talent Corps is a staffing agency in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/talent-corps-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency plano tx | category: b2b_services | industry benchmark: Business Services

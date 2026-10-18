@@ -13,7 +13,7 @@ The UPS Store is a printing service in Conyers, GA at 2890 GA-212 A, Conyers, GA
 - Website: https://locations.theupsstore.com/ga/conyers/2890-hwy-212
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.8/100 — Building — top 38% of printing services in Atlanta, #1 of 1 printing services in Conyers (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Thy Plumber is a plumber in Lyons, IL. Website: https://www.thyplumber.com/.
 - Website: https://www.thyplumber.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.2/100 — Unrated (not enough evidence yet) — top 55% of plumbers in Chicago, #1 of 1 plumbers in Lyons (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 44.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

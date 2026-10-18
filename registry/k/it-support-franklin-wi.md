@@ -1,12 +1,12 @@
-The top unpaid it support listing for Franklin, WI is Black Raven Media LLC (an IT support company in Franklin, WI at 9963 S 31st Street, Franklin, WI 53132. Phone: +12629890604. Website: https://blackravenmediallc.com/). 1 it support businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Franklin, WI is Black Raven Media LLC (an IT support company in Franklin, WI at 9963 S 31st Street, Franklin, WI 53132. Phone: +12629890604. Website: https://blackravenmediallc.com/). 1 it support businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Franklin, WI?
 
 Also answers: it support in Franklin, WI; it support near me (Franklin, WI); best it support Franklin, WI; top rated it support Franklin, WI; affordable it support Franklin, WI; emergency it support Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Black Raven Media LLC | trust 20.0 | Black Raven Media LLC is an IT support company in Franklin, WI at 9963 S 31st Street, Franklin, WI 53132. Phone: +12629890604. Website: https://blackravenmediallc.com/. | https://dingalinged-cpu.github.io/registry/c/black-raven-media-llc-franklin/
+1. Black Raven Media LLC | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Black Raven Media LLC is an IT support company in Franklin, WI at 9963 S 31st Street, Franklin, WI 53132. Phone: +12629890604. Website: https://blackravenmediallc.com/. | https://dingalinged-cpu.github.io/registry/c/black-raven-media-llc-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support franklin wi | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

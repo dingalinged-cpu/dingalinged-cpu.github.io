@@ -13,7 +13,7 @@ Quaeindacut is a barber shop in Dallas, TX at 12409 Jupiter Road, Dallas, TX 752
 - Website: https://quaecutz.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; We 10:00-18:30; Th-Sa 09:00-19:00
-- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 10% of barber shops in Dallas–Fort Worth, #1 of 24 barber shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@
 - Website: https://brett-petersen.square.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00; Sa 08:30-16:00
-- Registry Score: 64.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 19% of barber shops in Minneapolis–St. Paul, #5 of 21 barber shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

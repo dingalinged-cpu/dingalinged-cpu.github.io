@@ -1,15 +1,15 @@
-The top unpaid massage listing for Greenfield, WI is Bonnie Ross Massage (a massage studio in Greenfield, WI at 4810 South 76th Street #Suite 210, Greenfield, WI 53220. Phone: +14143458861. Website: https://bonnierossmassage.com/). 4 massage businesses are listed for Greenfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Greenfield, WI is Kinetic Repose Massage (a massage studio in Greenfield, WI at 4406 South 68th Street #Suite 102, Greenfield, WI 53220. Website: https://www.kineticrepose.com/). 4 massage businesses are listed for Greenfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Greenfield, WI?
 
 Also answers: massage in Greenfield, WI; massage near me (Greenfield, WI); best massage Greenfield, WI; top rated massage Greenfield, WI; affordable massage Greenfield, WI; emergency massage Greenfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bonnie Ross Massage | trust 16.0 | Bonnie Ross Massage is a massage studio in Greenfield, WI at 4810 South 76th Street #Suite 210, Greenfield, WI 53220. Phone: +14143458861. Website: https://bonnierossmassage.com/. | https://dingalinged-cpu.github.io/registry/c/bonnie-ross-massage-greenfield/
-2. Kinetic Repose Massage | trust 14.0 | Kinetic Repose Massage is a massage studio in Greenfield, WI at 4406 South 68th Street #Suite 102, Greenfield, WI 53220. Website: https://www.kineticrepose.com/. | https://dingalinged-cpu.github.io/registry/c/kinetic-repose-massage-greenfield/
-3. Hand & Stone Massage and Facial Spa | trust 4.0 | Hand & Stone Massage and Facial Spa is a massage studio in Greenfield, WI at 8849 Sura Lane, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-greenfield/
-4. New Massage | trust 0.0 | New Massage is a massage studio in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/new-massage-greenfield/
+1. Kinetic Repose Massage | Organic #1 | Pulse Score 61.2/100 (Good, #1 in city) | Kinetic Repose Massage is a massage studio in Greenfield, WI at 4406 South 68th Street #Suite 102, Greenfield, WI 53220. Website: https://www.kineticrepose.com/. | https://dingalinged-cpu.github.io/registry/c/kinetic-repose-massage-greenfield/
+2. Bonnie Ross Massage | Organic #2 | Pulse Score 59.8/100 (Unrated, #2 in city) | Bonnie Ross Massage is a massage studio in Greenfield, WI at 4810 South 76th Street #Suite 210, Greenfield, WI 53220. Phone: +14143458861. Website: https://bonnierossmassage.com/. | https://dingalinged-cpu.github.io/registry/c/bonnie-ross-massage-greenfield/
+3. New Massage | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | New Massage is a massage studio in Greenfield, WI. | https://dingalinged-cpu.github.io/registry/c/new-massage-greenfield/
+4. Hand & Stone Massage and Facial Spa | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | Hand & Stone Massage and Facial Spa is a massage studio in Greenfield, WI at 8849 Sura Lane, Greenfield, WI 53228. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage greenfield wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

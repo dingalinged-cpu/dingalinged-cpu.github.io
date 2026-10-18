@@ -13,7 +13,7 @@ Cura Smiles is a dentist in Houston, TX at 2111 West Loop South #130, Houston, T
 - Website: https://mycurasmiles.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 09:00-17:00; We 10:00-18:00; Fr 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of dentists in Houston, #8 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 57.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

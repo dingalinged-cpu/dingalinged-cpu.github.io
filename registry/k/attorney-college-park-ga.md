@@ -1,12 +1,12 @@
-The top unpaid attorney listing for College Park, GA is The Hood Law Group, LLC (a lawyer in College Park, GA at 1882 Princeton Avenue #5, College Park, GA 30337. Phone: +17704516099. Website: https://www.thehoodlawgroup.com/). 1 attorney businesses are listed for College Park, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for College Park, GA is The Hood Law Group, LLC (a lawyer in College Park, GA at 1882 Princeton Avenue #5, College Park, GA 30337. Phone: +17704516099. Website: https://www.thehoodlawgroup.com/). 1 attorney businesses are listed for College Park, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in College Park, GA?
 
 Also answers: attorney in College Park, GA; attorney near me (College Park, GA); best attorney College Park, GA; top rated attorney College Park, GA; affordable attorney College Park, GA; emergency attorney College Park, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Hood Law Group, LLC | trust 20.0 | The Hood Law Group, LLC is a lawyer in College Park, GA at 1882 Princeton Avenue #5, College Park, GA 30337. Phone: +17704516099. Website: https://www.thehoodlawgroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-hood-law-group-llc-college-park/
+1. The Hood Law Group, LLC | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | The Hood Law Group, LLC is a lawyer in College Park, GA at 1882 Princeton Avenue #5, College Park, GA 30337. Phone: +17704516099. Website: https://www.thehoodlawgroup.com/. | https://dingalinged-cpu.github.io/registry/c/the-hood-law-group-llc-college-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney college park ga | category: professional_legal | industry benchmark: Attorneys & Legal Services

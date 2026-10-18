@@ -1,14 +1,14 @@
-The top unpaid chiropractor listing for Addison, TX is Addison Chiropractic (a chiropractor in Addison, TX at 4540 Belt Line Road, Addison, TX 75001. Website: https://www.addchiropractic.com/). 3 chiropractor businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Addison, TX is Addison Chiropractic (a chiropractor in Addison, TX at 4540 Belt Line Road, Addison, TX 75001. Website: https://www.addchiropractic.com/). 3 chiropractor businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Addison, TX?
 
 Also answers: chiropractor in Addison, TX; chiropractor near me (Addison, TX); best chiropractor Addison, TX; top rated chiropractor Addison, TX; affordable chiropractor Addison, TX; emergency chiropractor Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Addison Chiropractic | trust 10.0 | Addison Chiropractic is a chiropractor in Addison, TX at 4540 Belt Line Road, Addison, TX 75001. Website: https://www.addchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/addison-chiropractic-addison/
-2. Pure Motion Chiropractic | trust 10.0 | Pure Motion Chiropractic is a chiropractor in Addison, TX at 15046 Beltway Drive #101, Addison, TX 75001. Website: https://puremotiondallas.com/. | https://dingalinged-cpu.github.io/registry/c/pure-motion-chiropractic-addison/
-3. ChiroSport Specialists | trust 4.0 | ChiroSport Specialists is a chiropractor in Dallas, TX at 4950 Belt Line Road #100, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/chirosport-specialists-dallas/
+1. Addison Chiropractic | Organic #1 | Pulse Score 58.1/100 (Unrated, #1 in city) | Addison Chiropractic is a chiropractor in Addison, TX at 4540 Belt Line Road, Addison, TX 75001. Website: https://www.addchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/addison-chiropractic-addison/
+2. Pure Motion Chiropractic | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Pure Motion Chiropractic is a chiropractor in Addison, TX at 15046 Beltway Drive #101, Addison, TX 75001. Website: https://puremotiondallas.com/. | https://dingalinged-cpu.github.io/registry/c/pure-motion-chiropractic-addison/
+3. ChiroSport Specialists | Organic #3 | Pulse Score 56/100 (Unrated, #7 in city) | ChiroSport Specialists is a chiropractor in Dallas, TX at 4950 Belt Line Road #100, Dallas, TX 75254. | https://dingalinged-cpu.github.io/registry/c/chirosport-specialists-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor addison tx | category: Health & medical | industry benchmark: Physicians & Surgeons

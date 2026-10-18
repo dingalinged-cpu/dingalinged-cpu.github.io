@@ -13,7 +13,7 @@ Grace Trading is a gift shop in Chicago, IL at 2236 South Wentworth Avenue, Chic
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Th 11:00-22:00; Fr-Sa 11:00-23:00
-- Registry Score: 61.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 18% of gift shops in Chicago, #15 of 60 gift shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.6, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

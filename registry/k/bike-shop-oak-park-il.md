@@ -1,16 +1,16 @@
-The top unpaid bike shop listing for Oak Park, IL is Barnard's Schwinn (a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/). 5 bike shop businesses are listed for Oak Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Oak Park, IL is Barnard's Schwinn (a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/). 5 bike shop businesses are listed for Oak Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Oak Park, IL?
 
 Also answers: bike shop in Oak Park, IL; bike shop near me (Oak Park, IL); best bike shop Oak Park, IL; top rated bike shop Oak Park, IL; affordable bike shop Oak Park, IL; emergency bike shop Oak Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barnard's Schwinn | trust 20.0 | Barnard's Schwinn is a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/. | https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/
-2. Bikefix | trust 16.0 | Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302. Phone: +17084458760. Website: https://bikefixinc.com/. | https://dingalinged-cpu.github.io/registry/c/bikefix-oak-park/
-3. Lickbike.com | trust 16.0 | Lickbike.com is a bike shop in Oak Park, IL at 310 Lake Street #B, Oak Park, IL 60302. Phone: +17083832130. Website: https://www.lickbike.com/. | https://dingalinged-cpu.github.io/registry/c/lickbike-com-oak-park/
-4. Wheel & Sprocket | trust 10.0 | Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/
-5. Element Multisport | trust 4.0 | Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/
+1. Barnard's Schwinn | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Barnard's Schwinn is a bike shop in Oak Park, IL at 6109 West North Avenue, Oak Park, IL 60302. Phone: +17085242825. Website: https://barnardsschwinn.com/. | https://dingalinged-cpu.github.io/registry/c/barnards-schwinn-oak-park/
+2. Lickbike.com | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Lickbike.com is a bike shop in Oak Park, IL at 310 Lake Street #B, Oak Park, IL 60302. Phone: +17083832130. Website: https://www.lickbike.com/. | https://dingalinged-cpu.github.io/registry/c/lickbike-com-oak-park/
+3. Element Multisport | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Element Multisport is a bike shop in Oak Park, IL at 1101 Chicago Avenue, Oak Park, IL 60302. | https://dingalinged-cpu.github.io/registry/c/element-multisport-oak-park/
+4. Bikefix | Organic #4 | Pulse Score 46.6/100 (Unrated, #4 in city) | Bikefix is a bike shop in Oak Park, IL at 310 Lake Street #A, Oak Park, IL 60302. Phone: +17084458760. Website: https://bikefixinc.com/. | https://dingalinged-cpu.github.io/registry/c/bikefix-oak-park/
+5. Wheel & Sprocket | Organic #5 | Pulse Score 45.6/100 (Unrated, #5 in city) | Wheel & Sprocket is a bike shop in Oak Park, IL at 1118 Westgate Street, Oak Park, IL 60301. Website: https://wheelandsprocket.com/. | https://dingalinged-cpu.github.io/registry/c/wheel-and-sprocket-oak-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop oak park il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ BOVA Contemporary Furniture is a furniture store in Norcross, GA at 6460 Dawson 
 - Website: https://www.bovafurniture.com/atlanta/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 3% of furniture stores in Atlanta, #1 of 2 furniture stores in Norcross (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

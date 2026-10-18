@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Des Plaines, IL is John's Shoe & Luggage Repair (a shoe repair in Des Plaines, IL at Miner Street, Des Plaines, IL 60016). 1 shoe repair businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Des Plaines, IL is John's Shoe & Luggage Repair (a shoe repair in Des Plaines, IL at Miner Street, Des Plaines, IL 60016). 1 shoe repair businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Des Plaines, IL?
 
 Also answers: shoe repair in Des Plaines, IL; shoe repair near me (Des Plaines, IL); best shoe repair Des Plaines, IL; top rated shoe repair Des Plaines, IL; affordable shoe repair Des Plaines, IL; emergency shoe repair Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. John's Shoe & Luggage Repair | trust 4.0 | John's Shoe & Luggage Repair is a shoe repair in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/johns-shoe-and-luggage-repair-des-plaines/
+1. John's Shoe & Luggage Repair | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | John's Shoe & Luggage Repair is a shoe repair in Des Plaines, IL at Miner Street, Des Plaines, IL 60016. | https://dingalinged-cpu.github.io/registry/c/johns-shoe-and-luggage-repair-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair des plaines il | category: Professional & financial services | industry benchmark: Finance & Insurance

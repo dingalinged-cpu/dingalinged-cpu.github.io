@@ -1,14 +1,14 @@
-The top unpaid it support listing for Richardson, TX is CMIT Solutions of Richardson (an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/). 3 it support businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Richardson, TX is CMIT Solutions of Richardson (an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/). 3 it support businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Richardson, TX?
 
 Also answers: it support in Richardson, TX; it support near me (Richardson, TX); best it support Richardson, TX; top rated it support Richardson, TX; affordable it support Richardson, TX; emergency it support Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CMIT Solutions of Richardson | trust 20.0 | CMIT Solutions of Richardson is an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/. | https://dingalinged-cpu.github.io/registry/c/cmit-solutions-of-richardson-richardson/
-2. Action Video Service | trust 10.0 | Action Video Service is an IT support company in Richardson, TX at 819 West Arapaho Road #23, Richardson, TX 75080. Website: https://actionvideoservice.com/. | https://dingalinged-cpu.github.io/registry/c/action-video-service-richardson/
-3. Qorvo | trust 0.0 | Qorvo is an IT support company in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/qorvo-richardson/
+1. CMIT Solutions of Richardson | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | CMIT Solutions of Richardson is an IT support company in Richardson, TX at 3400 North Central Expressway #Suite 110-254, Richardson, TX 75080. Phone: +14694536010. Website: https://cmitsolutions.com/richardson/. | https://dingalinged-cpu.github.io/registry/c/cmit-solutions-of-richardson-richardson/
+2. Action Video Service | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Action Video Service is an IT support company in Richardson, TX at 819 West Arapaho Road #23, Richardson, TX 75080. Website: https://actionvideoservice.com/. | https://dingalinged-cpu.github.io/registry/c/action-video-service-richardson/
+3. Qorvo | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Qorvo is an IT support company in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/qorvo-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support richardson tx | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

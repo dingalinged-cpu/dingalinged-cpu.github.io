@@ -13,7 +13,7 @@ Cowboy Express Car Wash is a car wash in Keller, TX at 1655 Keller Parkway, Kell
 - Website: https://cowboycw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Registry Score: 63.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 3% of car washes in Dallas–Fort Worth, #1 of 2 car washes in Keller (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.1, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

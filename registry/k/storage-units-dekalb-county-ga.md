@@ -1,30 +1,30 @@
-The top unpaid storage units listing for Dekalb County, GA is CubeSmart (a self-storage facility in DeKalb County, GA). 19 storage units businesses are listed for Dekalb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Dekalb County, GA is SecuCare (a self-storage facility in DeKalb County, GA). 19 storage units businesses are listed for Dekalb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Dekalb County, GA?
 
 Also answers: storage units in Dekalb County, GA; storage units near me (Dekalb County, GA); best storage units Dekalb County, GA; top rated storage units Dekalb County, GA; affordable storage units Dekalb County, GA; emergency storage units Dekalb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county/
-2. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county-w1218944131/
-3. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county-w1219109119/
-4. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county/
-5. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1021974065/
-6. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1040928961/
-7. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1219109120/
-8. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w941123734/
-9. Life Storage | trust 0.0 | Life Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/life-storage-dekalb-county/
-10. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county/
-11. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n11296353537/
-12. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468068496/
-13. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468068498/
-14. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468111265/
-15. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-r13085252/
-16. Public Storage | trust 0.0 | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-w901825253/
-17. SecuCare | trust 0.0 | SecuCare is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/secucare-dekalb-county/
-18. SecureSpace Self Storage | trust 0.0 | SecureSpace Self Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/securespace-self-storage-dekalb-county/
-19. U-Haul | trust 0.0 | U-Haul is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/u-haul-dekalb-county/
+1. SecuCare | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | SecuCare is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/secucare-dekalb-county/
+2. Extra Space Storage | Organic #2 | Pulse Score 45.4/100 (Building, #2 in city) | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1219109120/
+3. Public Storage | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-r13085252/
+4. CubeSmart | Organic #4 | Pulse Score 42.6/100 (Building, #4 in city) | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county/
+5. CubeSmart | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county-w1218944131/
+6. CubeSmart | Organic #6 | Pulse Score 42.6/100 (Building, #6 in city) | CubeSmart is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/cubesmart-dekalb-county-w1219109119/
+7. Extra Space Storage | Organic #7 | Pulse Score 42.6/100 (Building, #7 in city) | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county/
+8. Extra Space Storage | Organic #8 | Pulse Score 42.6/100 (Building, #8 in city) | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1021974065/
+9. Extra Space Storage | Organic #9 | Pulse Score 42.6/100 (Building, #9 in city) | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w1040928961/
+10. Extra Space Storage | Organic #10 | Pulse Score 42.6/100 (Building, #10 in city) | Extra Space Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-dekalb-county-w941123734/
+11. Life Storage | Organic #11 | Pulse Score 42.6/100 (Building, #11 in city) | Life Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/life-storage-dekalb-county/
+12. Public Storage | Organic #12 | Pulse Score 42.6/100 (Building, #12 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county/
+13. Public Storage | Organic #13 | Pulse Score 42.6/100 (Building, #13 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n11296353537/
+14. Public Storage | Organic #14 | Pulse Score 42.6/100 (Building, #14 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468068496/
+15. Public Storage | Organic #15 | Pulse Score 42.6/100 (Building, #15 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468068498/
+16. Public Storage | Organic #16 | Pulse Score 42.6/100 (Building, #16 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-n9468111265/
+17. Public Storage | Organic #17 | Pulse Score 42.6/100 (Building, #17 in city) | Public Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/public-storage-dekalb-county-w901825253/
+18. SecureSpace Self Storage | Organic #18 | Pulse Score 42.6/100 (Building, #18 in city) | SecureSpace Self Storage is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/securespace-self-storage-dekalb-county/
+19. U-Haul | Organic #19 | Pulse Score 42.6/100 (Building, #19 in city) | U-Haul is a self-storage facility in DeKalb County, GA. | https://dingalinged-cpu.github.io/registry/c/u-haul-dekalb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units dekalb county ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

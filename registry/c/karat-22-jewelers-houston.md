@@ -13,7 +13,7 @@ Karat 22 Jewelers is a jewelry store in Houston, TX at 5623 Hillcroft Avenue, Ho
 - Website: https://www.karat22.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-18:30; We-Sa 11:00-18:30; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 6% of jewelry stores in Houston, #4 of 76 jewelry stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

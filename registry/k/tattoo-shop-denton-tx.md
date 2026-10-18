@@ -1,15 +1,15 @@
-The top unpaid tattoo shop listing for Denton, TX is Dark Age Tattoo Studio (a tattoo shop in Denton, TX at 124 West Oak Street, Denton, TX 76201. Phone: +19408988200. Website: https://www.darkagetattoostudio.com/). 4 tattoo shop businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Denton, TX is Dark Age Tattoo Studio (a tattoo shop in Denton, TX at 124 West Oak Street, Denton, TX 76201. Phone: +19408988200. Website: https://www.darkagetattoostudio.com/). 4 tattoo shop businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Denton, TX?
 
 Also answers: tattoo shop in Denton, TX; tattoo shop near me (Denton, TX); best tattoo shop Denton, TX; top rated tattoo shop Denton, TX; affordable tattoo shop Denton, TX; emergency tattoo shop Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dark Age Tattoo Studio | trust 16.0 | Dark Age Tattoo Studio is a tattoo shop in Denton, TX at 124 West Oak Street, Denton, TX 76201. Phone: +19408988200. Website: https://www.darkagetattoostudio.com/. | https://dingalinged-cpu.github.io/registry/c/dark-age-tattoo-studio-denton/
-2. Denton Tattoo Co | trust 10.0 | Denton Tattoo Co is a tattoo shop in Denton, TX at 616 Fort Worth Drive, Denton, TX 76201. Phone: +19403826175. | https://dingalinged-cpu.github.io/registry/c/denton-tattoo-co-denton/
-3. Lizards Ink Tattoo and Piercing | trust 4.0 | Lizards Ink Tattoo and Piercing is a tattoo shop in Denton, TX at 1103 Dallas Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/lizards-ink-tattoo-and-piercing-denton/
-4. Americana Tatoo | trust 0.0 | Americana Tatoo is a tattoo shop in Denton, TX. | https://dingalinged-cpu.github.io/registry/c/americana-tatoo-denton/
+1. Dark Age Tattoo Studio | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Dark Age Tattoo Studio is a tattoo shop in Denton, TX at 124 West Oak Street, Denton, TX 76201. Phone: +19408988200. Website: https://www.darkagetattoostudio.com/. | https://dingalinged-cpu.github.io/registry/c/dark-age-tattoo-studio-denton/
+2. Denton Tattoo Co | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Denton Tattoo Co is a tattoo shop in Denton, TX at 616 Fort Worth Drive, Denton, TX 76201. Phone: +19403826175. | https://dingalinged-cpu.github.io/registry/c/denton-tattoo-co-denton/
+3. Lizards Ink Tattoo and Piercing | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Lizards Ink Tattoo and Piercing is a tattoo shop in Denton, TX at 1103 Dallas Drive, Denton, TX 76205. | https://dingalinged-cpu.github.io/registry/c/lizards-ink-tattoo-and-piercing-denton/
+4. Americana Tatoo | Organic #4 | Pulse Score 56.1/100 (Unrated, #4 in city) | Americana Tatoo is a tattoo shop in Denton, TX. | https://dingalinged-cpu.github.io/registry/c/americana-tatoo-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop denton tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

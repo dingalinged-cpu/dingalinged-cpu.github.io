@@ -1,12 +1,12 @@
-The top unpaid architect listing for Stonecrest, GA is ATL CNC Architectural Products (an architect in Decatur, GA at 5304 Panola Industrial Boulevard ##J, Decatur, GA 30035. Phone: +17709389204. Website: https://atl-cnc.com/). 1 architect businesses are listed for Stonecrest, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Stonecrest, GA is ATL CNC Architectural Products (an architect in Decatur, GA at 5304 Panola Industrial Boulevard ##J, Decatur, GA 30035. Phone: +17709389204. Website: https://atl-cnc.com/). 1 architect businesses are listed for Stonecrest, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Stonecrest, GA?
 
 Also answers: architect in Stonecrest, GA; architect near me (Stonecrest, GA); best architect Stonecrest, GA; top rated architect Stonecrest, GA; affordable architect Stonecrest, GA; emergency architect Stonecrest, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ATL CNC Architectural Products | trust 20.0 | ATL CNC Architectural Products is an architect in Decatur, GA at 5304 Panola Industrial Boulevard ##J, Decatur, GA 30035. Phone: +17709389204. Website: https://atl-cnc.com/. | https://dingalinged-cpu.github.io/registry/c/atl-cnc-architectural-products-decatur/
+1. ATL CNC Architectural Products | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | ATL CNC Architectural Products is an architect in Decatur, GA at 5304 Panola Industrial Boulevard ##J, Decatur, GA 30035. Phone: +17709389204. Website: https://atl-cnc.com/. | https://dingalinged-cpu.github.io/registry/c/atl-cnc-architectural-products-decatur/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect stonecrest ga | category: Home services - Design | industry benchmark: Home & Home Improvement

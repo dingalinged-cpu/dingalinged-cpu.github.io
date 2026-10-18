@@ -1,14 +1,14 @@
-The top unpaid car inspection listing for Chicago, IL is Air Team Vehicle Emissions Testing Station (a vehicle inspection station in Chicago, IL at 4100 North Oak Park Avenue, Chicago, IL 60634. Website: https://www.ilairteam.com/). 3 car inspection businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Chicago, IL is Air Team Vehicle Emissions Testing Station (a vehicle inspection station in Chicago, IL at 4100 North Oak Park Avenue, Chicago, IL 60634. Website: https://www.ilairteam.com/). 3 car inspection businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Chicago, IL?
 
 Also answers: car inspection in Chicago, IL; car inspection near me (Chicago, IL); best car inspection Chicago, IL; top rated car inspection Chicago, IL; affordable car inspection Chicago, IL; emergency car inspection Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Air Team Vehicle Emissions Testing Station | trust 14.0 | Air Team Vehicle Emissions Testing Station is a vehicle inspection station in Chicago, IL at 4100 North Oak Park Avenue, Chicago, IL 60634. Website: https://www.ilairteam.com/. | https://dingalinged-cpu.github.io/registry/c/air-team-vehicle-emissions-testing-station-chicago/
-2. State Of Illinois Auto Inspection | trust 4.0 | State Of Illinois Auto Inspection is a vehicle inspection station in Chicago, IL at 3140 West 76th Street, Chicago, IL 60652. | https://dingalinged-cpu.github.io/registry/c/state-of-illinois-auto-inspection-chicago/
-3. Inspection Pit | trust 0.0 | Inspection Pit is a vehicle inspection station in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/inspection-pit-chicago/
+1. Air Team Vehicle Emissions Testing Station | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Air Team Vehicle Emissions Testing Station is a vehicle inspection station in Chicago, IL at 4100 North Oak Park Avenue, Chicago, IL 60634. Website: https://www.ilairteam.com/. | https://dingalinged-cpu.github.io/registry/c/air-team-vehicle-emissions-testing-station-chicago/
+2. State Of Illinois Auto Inspection | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | State Of Illinois Auto Inspection is a vehicle inspection station in Chicago, IL at 3140 West 76th Street, Chicago, IL 60652. | https://dingalinged-cpu.github.io/registry/c/state-of-illinois-auto-inspection-chicago/
+3. Inspection Pit | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | Inspection Pit is a vehicle inspection station in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/inspection-pit-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection chicago il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

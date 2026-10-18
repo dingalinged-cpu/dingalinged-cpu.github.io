@@ -1,12 +1,12 @@
-The top unpaid storage units listing for Franklin Park, IL is StorageMart (a self-storage facility in Franklin Park, IL at 3100 North Mannheim Road, Franklin Park, IL 60131). 1 storage units businesses are listed for Franklin Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Franklin Park, IL is StorageMart (a self-storage facility in Franklin Park, IL at 3100 North Mannheim Road, Franklin Park, IL 60131). 1 storage units businesses are listed for Franklin Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Franklin Park, IL?
 
 Also answers: storage units in Franklin Park, IL; storage units near me (Franklin Park, IL); best storage units Franklin Park, IL; top rated storage units Franklin Park, IL; affordable storage units Franklin Park, IL; emergency storage units Franklin Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. StorageMart | trust 4.0 | StorageMart is a self-storage facility in Franklin Park, IL at 3100 North Mannheim Road, Franklin Park, IL 60131. | https://dingalinged-cpu.github.io/registry/c/storagemart-franklin-park/
+1. StorageMart | Organic #1 | Pulse Score 44.5/100 (Building, #1 in city) | StorageMart is a self-storage facility in Franklin Park, IL at 3100 North Mannheim Road, Franklin Park, IL 60131. | https://dingalinged-cpu.github.io/registry/c/storagemart-franklin-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units franklin park il | category: Home services - Moving | industry benchmark: Home & Home Improvement

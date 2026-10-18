@@ -1,16 +1,16 @@
-The top unpaid gym listing for Western Springs, IL is F45 Training (a gym in Western Springs, IL at 5520 Wolf Road, Western Springs, IL 60558. Phone: +16303453695. Website: https://f45training.com/Hinsdale). 5 gym businesses are listed for Western Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Western Springs, IL is Elite Fitness And Gym (a gym in Western Springs, IL at 805 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464521. Website: https://www.elitefitnessandgym.com/). 5 gym businesses are listed for Western Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Western Springs, IL?
 
 Also answers: gym in Western Springs, IL; gym near me (Western Springs, IL); best gym Western Springs, IL; top rated gym Western Springs, IL; affordable gym Western Springs, IL; emergency gym Western Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. F45 Training | trust 20.0 | F45 Training is a gym in Western Springs, IL at 5520 Wolf Road, Western Springs, IL 60558. Phone: +16303453695. Website: https://f45training.com/Hinsdale. | https://dingalinged-cpu.github.io/registry/c/f45-training-western-springs/
-2. Elite Fitness And Gym | trust 16.0 | Elite Fitness And Gym is a gym in Western Springs, IL at 805 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464521. Website: https://www.elitefitnessandgym.com/. | https://dingalinged-cpu.github.io/registry/c/elite-fitness-and-gym-western-springs/
-3. SET Fitness Strength and Endurance Training | trust 16.0 | SET Fitness Strength and Endurance Training is a gym in Western Springs, IL at 1150 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085053149. Website: https://www.set.fitness/. | https://dingalinged-cpu.github.io/registry/c/set-fitness-strength-and-endurance-training-western-springs/
-4. Stretch Zone | trust 0.0 | Stretch Zone is a gym in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-western-springs/
-5. Strive Village | trust 0.0 | Strive Village is a gym in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/strive-village-western-springs/
+1. Elite Fitness And Gym | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Elite Fitness And Gym is a gym in Western Springs, IL at 805 Burlington Avenue, Western Springs, IL 60558. Phone: +17082464521. Website: https://www.elitefitnessandgym.com/. | https://dingalinged-cpu.github.io/registry/c/elite-fitness-and-gym-western-springs/
+2. SET Fitness Strength and Endurance Training | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | SET Fitness Strength and Endurance Training is a gym in Western Springs, IL at 1150 Hillgrove Avenue, Western Springs, IL 60558. Phone: +17085053149. Website: https://www.set.fitness/. | https://dingalinged-cpu.github.io/registry/c/set-fitness-strength-and-endurance-training-western-springs/
+3. Strive Village | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Strive Village is a gym in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/strive-village-western-springs/
+4. F45 Training | Organic #4 | Pulse Score 49.1/100 (Building, #4 in city) | F45 Training is a gym in Western Springs, IL at 5520 Wolf Road, Western Springs, IL 60558. Phone: +16303453695. Website: https://f45training.com/Hinsdale. | https://dingalinged-cpu.github.io/registry/c/f45-training-western-springs/
+5. Stretch Zone | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | Stretch Zone is a gym in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/stretch-zone-western-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym western springs il | category: Fitness | industry benchmark: Health & Fitness

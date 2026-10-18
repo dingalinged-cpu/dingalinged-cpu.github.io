@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Deerfield, IL is Just Tires (a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield, IL 60015. Website: https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901). 1 tire shop businesses are listed for Deerfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Deerfield, IL is Just Tires (a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield, IL 60015. Website: https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901). 1 tire shop businesses are listed for Deerfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Deerfield, IL?
 
 Also answers: tire shop in Deerfield, IL; tire shop near me (Deerfield, IL); best tire shop Deerfield, IL; top rated tire shop Deerfield, IL; affordable tire shop Deerfield, IL; emergency tire shop Deerfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Just Tires | trust 10.0 | Just Tires is a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield, IL 60015. Website: https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901. | https://dingalinged-cpu.github.io/registry/c/just-tires-deerfield/
+1. Just Tires | Organic #1 | Pulse Score 45.9/100 (Unrated, #1 in city) | Just Tires is a tire shop in Deerfield, IL at 25 North Waukegan Road, Deerfield, IL 60015. Website: https://www.justtires.com/en-US/shop/IL/Deerfield/000901270-60015-4901. | https://dingalinged-cpu.github.io/registry/c/just-tires-deerfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop deerfield il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove
 - Website: https://www.biscuitsandbowsnw.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Fr 07:00-18:00; Tu-Th 07:00-19:00; Sa-Su off
-- Registry Score: 65.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.5/100 — Good — top 3% of dog groomers in Chicago, #1 of 1 dog groomers in Rolling Meadows (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

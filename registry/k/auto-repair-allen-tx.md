@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Allen, TX is Brakes Plus (an auto repair shop in Allen, TX at 1711 North Greenville Avenue, Allen, TX 75002. Phone: +14695513411. Website: https://www.brakesplus.com/). 5 auto repair businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Allen, TX is Kwik Kar of Allen (an auto repair shop in Allen, TX at 400 West McDermott Drive, Allen, TX 75013. Website: https://www.kwikkarofallen.com/). 5 auto repair businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Allen, TX?
 
 Also answers: auto repair in Allen, TX; auto repair near me (Allen, TX); best auto repair Allen, TX; top rated auto repair Allen, TX; affordable auto repair Allen, TX; emergency auto repair Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brakes Plus | trust 20.0 | Brakes Plus is an auto repair shop in Allen, TX at 1711 North Greenville Avenue, Allen, TX 75002. Phone: +14695513411. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-allen/
-2. Kwik Kar of Allen | trust 10.0 | Kwik Kar of Allen is an auto repair shop in Allen, TX at 400 West McDermott Drive, Allen, TX 75013. Website: https://www.kwikkarofallen.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-of-allen-allen/
-3. NTB | trust 10.0 | NTB is an auto repair shop in Allen, TX at 200 South Watters Road, Allen, TX 75013. Phone: +13252742808. | https://dingalinged-cpu.github.io/registry/c/ntb-allen/
-4. Caliber Collision | trust 9.0 | Caliber Collision is an auto repair shop in Allen, TX at 1371 Andrews Parkway, Allen, TX. Website: https://www.caliber.com/find-a-location/allen. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-allen/
-5. Herb's Paint & Body | trust 3.0 | Herb's Paint & Body is an auto repair shop in Allen, TX at 29 Prestige Avenue, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/herbs-paint-and-body-allen/
+1. Kwik Kar of Allen | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Kwik Kar of Allen is an auto repair shop in Allen, TX at 400 West McDermott Drive, Allen, TX 75013. Website: https://www.kwikkarofallen.com/. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-of-allen-allen/
+2. Herb's Paint & Body | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Herb's Paint & Body is an auto repair shop in Allen, TX at 29 Prestige Avenue, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/herbs-paint-and-body-allen/
+3. Brakes Plus | Organic #3 | Pulse Score 49.1/100 (Building, #3 in city) | Brakes Plus is an auto repair shop in Allen, TX at 1711 North Greenville Avenue, Allen, TX 75002. Phone: +14695513411. Website: https://www.brakesplus.com/. | https://dingalinged-cpu.github.io/registry/c/brakes-plus-allen/
+4. NTB | Organic #4 | Pulse Score 47.1/100 (Building, #4 in city) | NTB is an auto repair shop in Allen, TX at 200 South Watters Road, Allen, TX 75013. Phone: +13252742808. | https://dingalinged-cpu.github.io/registry/c/ntb-allen/
+5. Caliber Collision | Organic #5 | Pulse Score 46.8/100 (Building, #5 in city) | Caliber Collision is an auto repair shop in Allen, TX at 1371 Andrews Parkway, Allen, TX. Website: https://www.caliber.com/find-a-location/allen. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair allen tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

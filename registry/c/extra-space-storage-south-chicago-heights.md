@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in South Chicago Heights, IL at 3
 - Website: https://www.extraspace.com/storage/facilities/us/illinois/south_chicago_heights/3458/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.9/100 — Building — top 32% of self-storage facilitys in Chicago, #1 of 1 self-storage facilitys in South Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.3, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

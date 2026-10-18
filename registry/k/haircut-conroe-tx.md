@@ -1,18 +1,18 @@
-The top unpaid haircut listing for Conroe, TX is Papillon Salon & Day Spa (a hair salon in Conroe, TX at 224B South Loop 336 West, Conroe, TX 77304. Phone: +19367560680. Website: https://papillonsalondayspa.com/). 7 haircut businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Conroe, TX is Papillon Salon & Day Spa (a hair salon in Conroe, TX at 224B South Loop 336 West, Conroe, TX 77304. Phone: +19367560680. Website: https://papillonsalondayspa.com/). 7 haircut businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Conroe, TX?
 
 Also answers: haircut in Conroe, TX; haircut near me (Conroe, TX); best haircut Conroe, TX; top rated haircut Conroe, TX; affordable haircut Conroe, TX; emergency haircut Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Papillon Salon & Day Spa | trust 16.0 | Papillon Salon & Day Spa is a hair salon in Conroe, TX at 224B South Loop 336 West, Conroe, TX 77304. Phone: +19367560680. Website: https://papillonsalondayspa.com/. | https://dingalinged-cpu.github.io/registry/c/papillon-salon-and-day-spa-conroe/
-2. Evolutionary Barber Studio | trust 8.0 | Evolutionary Barber Studio is a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/evolutionary-barber-studio-conroe/
-3. Supercuts | trust 8.0 | Supercuts is a hair salon in Conroe, TX at 2104 North Frazier Street, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/supercuts-conroe-n13352251791/
-4. Texas Hair Team | trust 4.0 | Texas Hair Team is a hair salon in Conroe, TX at 2948 Interstate 45 North #700, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/texas-hair-team-conroe/
-5. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-conroe/
-6. Supercuts | trust 0.0 | Supercuts is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-conroe/
-7. Tune Up | trust 0.0 | Tune Up is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-conroe/
+1. Papillon Salon & Day Spa | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Papillon Salon & Day Spa is a hair salon in Conroe, TX at 224B South Loop 336 West, Conroe, TX 77304. Phone: +19367560680. Website: https://papillonsalondayspa.com/. | https://dingalinged-cpu.github.io/registry/c/papillon-salon-and-day-spa-conroe/
+2. Evolutionary Barber Studio | Organic #2 | Pulse Score 58.3/100 (Unrated, #1 in city) | Evolutionary Barber Studio is a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/evolutionary-barber-studio-conroe/
+3. Texas Hair Team | Organic #3 | Pulse Score 58.2/100 (Unrated, #2 in city) | Texas Hair Team is a hair salon in Conroe, TX at 2948 Interstate 45 North #700, Conroe, TX 77303. | https://dingalinged-cpu.github.io/registry/c/texas-hair-team-conroe/
+4. Supercuts | Organic #4 | Pulse Score 48.2/100 (Unrated, #3 in city) | Supercuts is a hair salon in Conroe, TX at 2104 North Frazier Street, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/supercuts-conroe-n13352251791/
+5. Tune Up | Organic #5 | Pulse Score 45.2/100 (Unrated, #4 in city) | Tune Up is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/tune-up-conroe/
+6. Sport Clips | Organic #6 | Pulse Score 44.4/100 (Building, #5 in city) | Sport Clips is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-conroe/
+7. Supercuts | Organic #7 | Pulse Score 42.7/100 (Building, #6 in city) | Supercuts is a hair salon in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut conroe tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

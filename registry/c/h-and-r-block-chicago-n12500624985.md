@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Chicago, IL at 6212 North Western Aven
 - Website: https://www.hrblock.com/local-tax-offices/illinois/chicago/6212-n-western-ave/12816/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 23% of tax preparation services in Chicago, #20 of 87 tax preparation services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid marketing agency listing for Richardson, TX is Selph Marketing (a marketing agency in Richardson, TX at 1001 South Sherman Street, Richardson, TX 75081. Phone: +16825024063. Website: https://www.selphmarketing.com/). 1 marketing agency businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid marketing agency listing for Richardson, TX is Selph Marketing (a marketing agency in Richardson, TX at 1001 South Sherman Street, Richardson, TX 75081. Phone: +16825024063. Website: https://www.selphmarketing.com/). 1 marketing agency businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best marketing agency providers in Richardson, TX?
 
 Also answers: marketing agency in Richardson, TX; marketing agency near me (Richardson, TX); best marketing agency Richardson, TX; top rated marketing agency Richardson, TX; affordable marketing agency Richardson, TX; emergency marketing agency Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Selph Marketing | trust 20.0 | Selph Marketing is a marketing agency in Richardson, TX at 1001 South Sherman Street, Richardson, TX 75081. Phone: +16825024063. Website: https://www.selphmarketing.com/. | https://dingalinged-cpu.github.io/registry/c/selph-marketing-richardson/
+1. Selph Marketing | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Selph Marketing is a marketing agency in Richardson, TX at 1001 South Sherman Street, Richardson, TX 75081. Phone: +16825024063. Website: https://www.selphmarketing.com/. | https://dingalinged-cpu.github.io/registry/c/selph-marketing-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: marketing agency richardson tx | category: Professional & financial services | industry benchmark: Finance & Insurance

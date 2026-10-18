@@ -1,13 +1,13 @@
-The top unpaid florist listing for Richardson, TX is Dr Delphinium Orchid House (a florist in Richardson, TX at 513 West Campbell Road, Richardson, TX 75080. Website: https://www.drdelphinium.com/). 2 florist businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Richardson, TX is Dr Delphinium Orchid House (a florist in Richardson, TX at 513 West Campbell Road, Richardson, TX 75080. Website: https://www.drdelphinium.com/). 2 florist businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Richardson, TX?
 
 Also answers: florist in Richardson, TX; florist near me (Richardson, TX); best florist Richardson, TX; top rated florist Richardson, TX; affordable florist Richardson, TX; emergency florist Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr Delphinium Orchid House | trust 14.0 | Dr Delphinium Orchid House is a florist in Richardson, TX at 513 West Campbell Road, Richardson, TX 75080. Website: https://www.drdelphinium.com/. | https://dingalinged-cpu.github.io/registry/c/dr-delphinium-orchid-house-richardson/
-2. Rembrandt Florist | trust 0.0 | Rembrandt Florist is a florist in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/rembrandt-florist-richardson/
+1. Dr Delphinium Orchid House | Organic #1 | Pulse Score 60.4/100 (Unrated, #1 in city) | Dr Delphinium Orchid House is a florist in Richardson, TX at 513 West Campbell Road, Richardson, TX 75080. Website: https://www.drdelphinium.com/. | https://dingalinged-cpu.github.io/registry/c/dr-delphinium-orchid-house-richardson/
+2. Rembrandt Florist | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Rembrandt Florist is a florist in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/rembrandt-florist-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist richardson tx | category: Events & weddings | industry benchmark: Personal Services

@@ -1,25 +1,25 @@
-The top unpaid auto repair listing for Clayton County, GA is Valvoline (an auto repair shop in Clayton County, GA. Website: https://store.vioc.com/ga/jonesboro/oil-change-040167.html). 14 auto repair businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Clayton County, GA is Bracketts Ratchet Auto Service (an auto repair shop in Clayton County, GA). 14 auto repair businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Clayton County, GA?
 
 Also answers: auto repair in Clayton County, GA; auto repair near me (Clayton County, GA); best auto repair Clayton County, GA; top rated auto repair Clayton County, GA; affordable auto repair Clayton County, GA; emergency auto repair Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valvoline | trust 6.0 | Valvoline is an auto repair shop in Clayton County, GA. Website: https://store.vioc.com/ga/jonesboro/oil-change-040167.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-clayton-county/
-2. Bracketts Ratchet Auto Service | trust 0.0 | Bracketts Ratchet Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/bracketts-ratchet-auto-service-clayton-county/
-3. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-clayton-county/
-4. Clayton Collision Center | trust 0.0 | Clayton Collision Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/clayton-collision-center-clayton-county/
-5. Firestone | trust 0.0 | Firestone is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-clayton-county/
-6. Floyd S. Lee Grading | trust 0.0 | Floyd S. Lee Grading is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/floyd-s-lee-grading-clayton-county/
-7. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/goodyear-clayton-county/
-8. Heritage Collison Center | trust 0.0 | Heritage Collison Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/heritage-collison-center-clayton-county/
-9. Hurst Auto Service | trust 0.0 | Hurst Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hurst-auto-service-clayton-county/
-10. Landmark Collision Center | trust 0.0 | Landmark Collision Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/landmark-collision-center-clayton-county/
-11. Mavis Tires & Brakes | trust 0.0 | Mavis Tires & Brakes is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county-w1373366857/
-12. NI Auto Service | trust 0.0 | NI Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/ni-auto-service-clayton-county/
-13. Pep Boys | trust 0.0 | Pep Boys is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-clayton-county/
-14. Smiley Muffler | trust 0.0 | Smiley Muffler is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/smiley-muffler-clayton-county/
+1. Bracketts Ratchet Auto Service | Organic #1 | Pulse Score 54.9/100 (Unrated, #1 in city) | Bracketts Ratchet Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/bracketts-ratchet-auto-service-clayton-county/
+2. Clayton Collision Center | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Clayton Collision Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/clayton-collision-center-clayton-county/
+3. Floyd S. Lee Grading | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Floyd S. Lee Grading is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/floyd-s-lee-grading-clayton-county/
+4. Heritage Collison Center | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Heritage Collison Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/heritage-collison-center-clayton-county/
+5. Hurst Auto Service | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Hurst Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/hurst-auto-service-clayton-county/
+6. Landmark Collision Center | Organic #6 | Pulse Score 54.9/100 (Unrated, #6 in city) | Landmark Collision Center is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/landmark-collision-center-clayton-county/
+7. NI Auto Service | Organic #7 | Pulse Score 54.9/100 (Unrated, #7 in city) | NI Auto Service is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/ni-auto-service-clayton-county/
+8. Smiley Muffler | Organic #8 | Pulse Score 54.9/100 (Unrated, #8 in city) | Smiley Muffler is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/smiley-muffler-clayton-county/
+9. Valvoline | Organic #9 | Pulse Score 45/100 (Building, #9 in city) | Valvoline is an auto repair shop in Clayton County, GA. Website: https://store.vioc.com/ga/jonesboro/oil-change-040167.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-clayton-county/
+10. Firestone | Organic #10 | Pulse Score 42.7/100 (Building, #10 in city) | Firestone is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/firestone-clayton-county/
+11. Caliber Collision | Organic #11 | Pulse Score 42.4/100 (Building, #11 in city) | Caliber Collision is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-clayton-county/
+12. Goodyear | Organic #12 | Pulse Score 42.4/100 (Building, #12 in city) | Goodyear is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/goodyear-clayton-county/
+13. Mavis Tires & Brakes | Organic #13 | Pulse Score 42.4/100 (Building, #13 in city) | Mavis Tires & Brakes is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-clayton-county-w1373366857/
+14. Pep Boys | Organic #14 | Pulse Score 42.4/100 (Building, #14 in city) | Pep Boys is an auto repair shop in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/pep-boys-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair clayton county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

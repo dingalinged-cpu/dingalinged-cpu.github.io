@@ -1,20 +1,20 @@
-The top unpaid mechanic listing for Oak Lawn, IL is Spitfire (an auto repair shop in Oak Lawn, IL at 10711 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.spitfireauto.com/). 9 mechanic businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Oak Lawn, IL is Spitfire (an auto repair shop in Oak Lawn, IL at 10711 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.spitfireauto.com/). 9 mechanic businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Oak Lawn, IL?
 
 Also answers: mechanic in Oak Lawn, IL; mechanic near me (Oak Lawn, IL); best mechanic Oak Lawn, IL; top rated mechanic Oak Lawn, IL; affordable mechanic Oak Lawn, IL; emergency mechanic Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spitfire | trust 10.0 | Spitfire is an auto repair shop in Oak Lawn, IL at 10711 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.spitfireauto.com/. | https://dingalinged-cpu.github.io/registry/c/spitfire-oak-lawn/
-2. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Oak Lawn, IL at 6645 West 95th Street, Oak Lawn, IL 60453. Website: https://store.vioc.com/il/oaklawn/oil-change-gr0073.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-oak-lawn/
-3. Firestone | trust 4.0 | Firestone is an auto repair shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/firestone-oak-lawn/
-4. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Oak Lawn, IL at 4718 Southwest Highway, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-lawn-w1259450316/
-5. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Oak Lawn, IL at 5807 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oak-lawn/
-6. NTB | trust 4.0 | NTB is an auto repair shop in Oak Lawn, IL at 4453 Southwest Highway, Oak Lawn, IL 60456. | https://dingalinged-cpu.github.io/registry/c/ntb-oak-lawn/
-7. Take 5 Oil Change | trust 4.0 | Take 5 Oil Change is an auto repair shop in Oak Lawn, IL at 10901 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-oak-lawn/
-8. Toms Collision Center | trust 4.0 | Toms Collision Center is an auto repair shop in Oak Lawn, IL at 5927 West 87th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/toms-collision-center-oak-lawn/
-9. Gerber Collision & Glass | trust 0.0 | Gerber Collision & Glass is an auto repair shop in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-lawn/
+1. Spitfire | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Spitfire is an auto repair shop in Oak Lawn, IL at 10711 South Cicero Avenue, Oak Lawn, IL 60453. Website: https://www.spitfireauto.com/. | https://dingalinged-cpu.github.io/registry/c/spitfire-oak-lawn/
+2. Toms Collision Center | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Toms Collision Center is an auto repair shop in Oak Lawn, IL at 5927 West 87th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/toms-collision-center-oak-lawn/
+3. Valvoline | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Valvoline is an auto repair shop in Oak Lawn, IL at 6645 West 95th Street, Oak Lawn, IL 60453. Website: https://store.vioc.com/il/oaklawn/oil-change-gr0073.html. | https://dingalinged-cpu.github.io/registry/c/valvoline-oak-lawn/
+4. Gerber Collision & Glass | Organic #4 | Pulse Score 45/100 (Building, #4 in city) | Gerber Collision & Glass is an auto repair shop in Oak Lawn, IL at 4718 Southwest Highway, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-lawn-w1259450316/
+5. Firestone | Organic #5 | Pulse Score 44.7/100 (Building, #5 in city) | Firestone is an auto repair shop in Oak Lawn, IL at 10327 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/firestone-oak-lawn/
+6. NTB | Organic #6 | Pulse Score 44.7/100 (Building, #6 in city) | NTB is an auto repair shop in Oak Lawn, IL at 4453 Southwest Highway, Oak Lawn, IL 60456. | https://dingalinged-cpu.github.io/registry/c/ntb-oak-lawn/
+7. Take 5 Oil Change | Organic #7 | Pulse Score 44.7/100 (Building, #7 in city) | Take 5 Oil Change is an auto repair shop in Oak Lawn, IL at 10901 South Cicero Avenue, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-oak-lawn/
+8. Jiffy Lube | Organic #8 | Pulse Score 44.2/100 (Building, #8 in city) | Jiffy Lube is an auto repair shop in Oak Lawn, IL at 5807 West 95th Street, Oak Lawn, IL 60453. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oak-lawn/
+9. Gerber Collision & Glass | Organic #9 | Pulse Score 42.5/100 (Building, #9 in city) | Gerber Collision & Glass is an auto repair shop in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic oak lawn il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

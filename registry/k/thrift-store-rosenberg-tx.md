@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for Rosenberg, TX is Once Upon a Child (a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard #500, Rosenberg, TX. Phone: +12817253878. Website: https://www.onceuponachild.com/locations/rosenberg-tx). 2 thrift store businesses are listed for Rosenberg, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Rosenberg, TX is Once Upon a Child (a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard #500, Rosenberg, TX. Phone: +12817253878. Website: https://www.onceuponachild.com/locations/rosenberg-tx). 2 thrift store businesses are listed for Rosenberg, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Rosenberg, TX?
 
 Also answers: thrift store in Rosenberg, TX; thrift store near me (Rosenberg, TX); best thrift store Rosenberg, TX; top rated thrift store Rosenberg, TX; affordable thrift store Rosenberg, TX; emergency thrift store Rosenberg, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Once Upon a Child | trust 19.0 | Once Upon a Child is a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard #500, Rosenberg, TX. Phone: +12817253878. Website: https://www.onceuponachild.com/locations/rosenberg-tx. | https://dingalinged-cpu.github.io/registry/c/once-upon-a-child-rosenberg/
-2. Goodwill | trust 0.0 | Goodwill is a thrift store in Rosenberg, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-rosenberg/
+1. Once Upon a Child | Organic #1 | Pulse Score 63.5/100 (Unrated, #1 in city) | Once Upon a Child is a thrift store in Rosenberg, TX at 2320 B F Terry Boulevard #500, Rosenberg, TX. Phone: +12817253878. Website: https://www.onceuponachild.com/locations/rosenberg-tx. | https://dingalinged-cpu.github.io/registry/c/once-upon-a-child-rosenberg/
+2. Goodwill | Organic #2 | Pulse Score 43.1/100 (Building, #2 in city) | Goodwill is a thrift store in Rosenberg, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-rosenberg/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store rosenberg tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Village Of Pewaukee, WI is Lago Salon and Suites (a hair salon in Village of Pewaukee, WI at 151 East Wisconsin Avenue, Village of Pewaukee, WI 53072. Website: https://lagosalon.com/). 1 hair salon businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Village Of Pewaukee, WI is Lago Salon and Suites (a hair salon in Village of Pewaukee, WI at 151 East Wisconsin Avenue, Village of Pewaukee, WI 53072. Website: https://lagosalon.com/). 1 hair salon businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Village Of Pewaukee, WI?
 
 Also answers: hair salon in Village Of Pewaukee, WI; hair salon near me (Village Of Pewaukee, WI); best hair salon Village Of Pewaukee, WI; top rated hair salon Village Of Pewaukee, WI; affordable hair salon Village Of Pewaukee, WI; emergency hair salon Village Of Pewaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lago Salon and Suites | trust 10.0 | Lago Salon and Suites is a hair salon in Village of Pewaukee, WI at 151 East Wisconsin Avenue, Village of Pewaukee, WI 53072. Website: https://lagosalon.com/. | https://dingalinged-cpu.github.io/registry/c/lago-salon-and-suites-village-of-pewaukee/
+1. Lago Salon and Suites | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Lago Salon and Suites is a hair salon in Village of Pewaukee, WI at 151 East Wisconsin Avenue, Village of Pewaukee, WI 53072. Website: https://lagosalon.com/. | https://dingalinged-cpu.github.io/registry/c/lago-salon-and-suites-village-of-pewaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon village of pewaukee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

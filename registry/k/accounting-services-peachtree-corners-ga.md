@@ -1,12 +1,12 @@
-The top unpaid accounting services listing for Peachtree Corners, GA is Wyntree Bookkeeping LLC (an accountant in Peachtree Corners, GA. Phone: +16784724577. Website: https://wyntreebookkeeping.com/). 1 accounting services businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accounting services listing for Peachtree Corners, GA is Wyntree Bookkeeping LLC (an accountant in Peachtree Corners, GA. Phone: +16784724577. Website: https://wyntreebookkeeping.com/). 1 accounting services businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accounting services providers in Peachtree Corners, GA?
 
 Also answers: accounting services in Peachtree Corners, GA; accounting services near me (Peachtree Corners, GA); best accounting services Peachtree Corners, GA; top rated accounting services Peachtree Corners, GA; affordable accounting services Peachtree Corners, GA; emergency accounting services Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wyntree Bookkeeping LLC | trust 17.0 | Wyntree Bookkeeping LLC is an accountant in Peachtree Corners, GA. Phone: +16784724577. Website: https://wyntreebookkeeping.com/. | https://dingalinged-cpu.github.io/registry/c/wyntree-bookkeeping-llc-peachtree-corners/
+1. Wyntree Bookkeeping LLC | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Wyntree Bookkeeping LLC is an accountant in Peachtree Corners, GA. Phone: +16784724577. Website: https://wyntreebookkeeping.com/. | https://dingalinged-cpu.github.io/registry/c/wyntree-bookkeeping-llc-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: accounting services peachtree corners ga | category: professional_accounting | industry benchmark: Business Services

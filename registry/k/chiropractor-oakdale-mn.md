@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Oakdale, MN is HealthSource Chiropractic (a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/). 1 chiropractor businesses are listed for Oakdale, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Oakdale, MN is HealthSource Chiropractic (a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/). 1 chiropractor businesses are listed for Oakdale, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Oakdale, MN?
 
 Also answers: chiropractor in Oakdale, MN; chiropractor near me (Oakdale, MN); best chiropractor Oakdale, MN; top rated chiropractor Oakdale, MN; affordable chiropractor Oakdale, MN; emergency chiropractor Oakdale, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HealthSource Chiropractic | trust 16.0 | HealthSource Chiropractic is a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/. | https://dingalinged-cpu.github.io/registry/c/healthsource-chiropractic-oakdale/
+1. HealthSource Chiropractic | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | HealthSource Chiropractic is a chiropractor in Oakdale, MN at 5705 Hadley Avenue North, Oakdale, MN 55128. Phone: +16515384558. Website: https://www.healthsourcechiro.com/oakdale/. | https://dingalinged-cpu.github.io/registry/c/healthsource-chiropractic-oakdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor oakdale mn | category: Health & medical | industry benchmark: Physicians & Surgeons

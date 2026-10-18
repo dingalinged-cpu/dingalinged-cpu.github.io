@@ -1,13 +1,13 @@
-The top unpaid car wash listing for West Saint Paul, MN is Mister Car Wash (a car wash in West Saint Paul, MN at 110 Thompson Avenue East, West Saint Paul, MN 55118. Website: https://mistercarwash.com/location/west-st-paul/). 2 car wash businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for West Saint Paul, MN is Big Splash Car Wash (a car wash in West Saint Paul, MN at 1407 Robert Street South, West Saint Paul, MN 55118). 2 car wash businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in West Saint Paul, MN?
 
 Also answers: car wash in West Saint Paul, MN; car wash near me (West Saint Paul, MN); best car wash West Saint Paul, MN; top rated car wash West Saint Paul, MN; affordable car wash West Saint Paul, MN; emergency car wash West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | trust 10.0 | Mister Car Wash is a car wash in West Saint Paul, MN at 110 Thompson Avenue East, West Saint Paul, MN 55118. Website: https://mistercarwash.com/location/west-st-paul/. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-west-saint-paul/
-2. Big Splash Car Wash | trust 4.0 | Big Splash Car Wash is a car wash in West Saint Paul, MN at 1407 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/big-splash-car-wash-west-saint-paul/
+1. Big Splash Car Wash | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Big Splash Car Wash is a car wash in West Saint Paul, MN at 1407 Robert Street South, West Saint Paul, MN 55118. | https://dingalinged-cpu.github.io/registry/c/big-splash-car-wash-west-saint-paul/
+2. Mister Car Wash | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Mister Car Wash is a car wash in West Saint Paul, MN at 110 Thompson Avenue East, West Saint Paul, MN 55118. Website: https://mistercarwash.com/location/west-st-paul/. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash west saint paul mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Barrington, IL is Allstate (an insurance agent in Barrington, IL). 1 insurance agent businesses are listed for Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Barrington, IL is Allstate (an insurance agent in Barrington, IL). 1 insurance agent businesses are listed for Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Barrington, IL?
 
 Also answers: insurance agent in Barrington, IL; insurance agent near me (Barrington, IL); best insurance agent Barrington, IL; top rated insurance agent Barrington, IL; affordable insurance agent Barrington, IL; emergency insurance agent Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 0.0 | Allstate is an insurance agent in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-barrington/
+1. Allstate | Organic #1 | Pulse Score 41.5/100 (Building, #1 in city) | Allstate is an insurance agent in Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/allstate-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent barrington il | category: Professional & financial services | industry benchmark: Finance & Insurance

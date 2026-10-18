@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Town Of Brookfield, WI is Athletico Physical Therapy (a physical therapy clinic in Town of Brookfield, WI at West Bluemound Road, Town of Brookfield, WI). 1 physical therapy businesses are listed for Town Of Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Town Of Brookfield, WI is Athletico Physical Therapy (a physical therapy clinic in Town of Brookfield, WI at West Bluemound Road, Town of Brookfield, WI). 1 physical therapy businesses are listed for Town Of Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Town Of Brookfield, WI?
 
 Also answers: physical therapy in Town Of Brookfield, WI; physical therapy near me (Town Of Brookfield, WI); best physical therapy Town Of Brookfield, WI; top rated physical therapy Town Of Brookfield, WI; affordable physical therapy Town Of Brookfield, WI; emergency physical therapy Town Of Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Athletico Physical Therapy | trust 3.0 | Athletico Physical Therapy is a physical therapy clinic in Town of Brookfield, WI at West Bluemound Road, Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-town-of-brookfield/
+1. Athletico Physical Therapy | Organic #1 | Pulse Score 42.9/100 (Building, #1 in city) | Athletico Physical Therapy is a physical therapy clinic in Town of Brookfield, WI at West Bluemound Road, Town of Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/athletico-physical-therapy-town-of-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy town of brookfield wi | category: Health & medical | industry benchmark: Physicians & Surgeons

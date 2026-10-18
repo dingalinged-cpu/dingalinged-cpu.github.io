@@ -13,7 +13,7 @@ Things Remembered is a gift shop in Lombard, IL at 136 Yorktown Shopping Center 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 11:00-18:00
-- Registry Score: 51.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 73% of gift shops in Chicago, #2 of 2 gift shops in Lombard (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

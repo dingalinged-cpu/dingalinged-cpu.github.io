@@ -1,14 +1,14 @@
-The top unpaid printing services listing for Southlake, TX is Eagle Postal Center (a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/). 3 printing services businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Southlake, TX is Eagle Postal Center (a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/). 3 printing services businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Southlake, TX?
 
 Also answers: printing services in Southlake, TX; printing services near me (Southlake, TX); best printing services Southlake, TX; top rated printing services Southlake, TX; affordable printing services Southlake, TX; emergency printing services Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eagle Postal Center | trust 20.0 | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://dingalinged-cpu.github.io/registry/c/eagle-postal-center-southlake/
-2. FedEx Office | trust 0.0 | FedEx Office is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-southlake/
-3. Mail & Copy Shoppe | trust 0.0 | Mail & Copy Shoppe is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/mail-and-copy-shoppe-southlake/
+1. Eagle Postal Center | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Eagle Postal Center is a printing service in Southlake, TX at 2140 East Southlake Boulevard #Suite L, Southlake, TX 76092. Phone: +18172512693. Website: https://epc16.com/. | https://dingalinged-cpu.github.io/registry/c/eagle-postal-center-southlake/
+2. Mail & Copy Shoppe | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Mail & Copy Shoppe is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/mail-and-copy-shoppe-southlake/
+3. FedEx Office | Organic #3 | Pulse Score 41.3/100 (Building, #3 in city) | FedEx Office is a printing service in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/fedex-office-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services southlake tx | category: Professional & financial services | industry benchmark: Finance & Insurance

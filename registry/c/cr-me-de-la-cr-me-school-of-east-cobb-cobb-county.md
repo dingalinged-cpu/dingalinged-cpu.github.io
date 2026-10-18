@@ -13,7 +13,7 @@ Crème de la Crème School of East Cobb is a preschool in Cobb County, GA at 726
 - Website: https://cremedelacreme.com/locations/marietta-east-cobb-ga/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 2% of preschools in Atlanta, #1 of 12 preschools in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.5, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

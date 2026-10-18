@@ -1,18 +1,18 @@
-The top unpaid mechanic listing for Homewood, IL is Car-X (an auto repair shop in Homewood, IL at 18340 Kedzie Avenue, Homewood, IL 60430). 7 mechanic businesses are listed for Homewood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Homewood, IL is Chevrolet of Homewood (an auto repair shop in Homewood, IL at 18033 Halsted Street, Homewood, IL 60430). 7 mechanic businesses are listed for Homewood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Homewood, IL?
 
 Also answers: mechanic in Homewood, IL; mechanic near me (Homewood, IL); best mechanic Homewood, IL; top rated mechanic Homewood, IL; affordable mechanic Homewood, IL; emergency mechanic Homewood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Car-X | trust 4.0 | Car-X is an auto repair shop in Homewood, IL at 18340 Kedzie Avenue, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/car-x-homewood/
-2. Chevrolet of Homewood | trust 4.0 | Chevrolet of Homewood is an auto repair shop in Homewood, IL at 18033 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/chevrolet-of-homewood-homewood/
-3. Firestone | trust 4.0 | Firestone is an auto repair shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/firestone-homewood/
-4. Midas | trust 4.0 | Midas is an auto repair shop in Homewood, IL at 18070 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/midas-homewood/
-5. Pep Boys | trust 4.0 | Pep Boys is an auto repair shop in Homewood, IL at 18024 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/pep-boys-homewood/
-6. SpeeDee | trust 4.0 | SpeeDee is an auto repair shop in Homewood, IL at 18070 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/speedee-homewood/
-7. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Homewood, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-homewood/
+1. Chevrolet of Homewood | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | Chevrolet of Homewood is an auto repair shop in Homewood, IL at 18033 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/chevrolet-of-homewood-homewood/
+2. Firestone | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Firestone is an auto repair shop in Homewood, IL at 17935 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/firestone-homewood/
+3. Car-X | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Car-X is an auto repair shop in Homewood, IL at 18340 Kedzie Avenue, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/car-x-homewood/
+4. Midas | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Midas is an auto repair shop in Homewood, IL at 18070 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/midas-homewood/
+5. Pep Boys | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Pep Boys is an auto repair shop in Homewood, IL at 18024 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/pep-boys-homewood/
+6. SpeeDee | Organic #6 | Pulse Score 44.2/100 (Building, #6 in city) | SpeeDee is an auto repair shop in Homewood, IL at 18070 Halsted Street, Homewood, IL 60430. | https://dingalinged-cpu.github.io/registry/c/speedee-homewood/
+7. Goodyear | Organic #7 | Pulse Score 41.7/100 (Building, #7 in city) | Goodyear is an auto repair shop in Homewood, IL. | https://dingalinged-cpu.github.io/registry/c/goodyear-homewood/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic homewood il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

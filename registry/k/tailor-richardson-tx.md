@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Richardson, TX is Image Tailor (a tailor in Richardson, TX). 2 tailor businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Richardson, TX is Image Tailor (a tailor in Richardson, TX). 2 tailor businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Richardson, TX?
 
 Also answers: tailor in Richardson, TX; tailor near me (Richardson, TX); best tailor Richardson, TX; top rated tailor Richardson, TX; affordable tailor Richardson, TX; emergency tailor Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Image Tailor | trust 0.0 | Image Tailor is a tailor in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/image-tailor-richardson/
-2. Minsky Cleaners & Tailors | trust 0.0 | Minsky Cleaners & Tailors is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/minsky-cleaners-and-tailors-richardson/
+1. Image Tailor | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Image Tailor is a tailor in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/image-tailor-richardson/
+2. Minsky Cleaners & Tailors | Organic #2 | Pulse Score 54.7/100 (Unrated, #5 in city) | Minsky Cleaners & Tailors is a dry cleaner in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/minsky-cleaners-and-tailors-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor richardson tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Palm Beach Tan is a tanning salon in Shenandoah, TX at 19073 Interstate 45 South
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.2/100 — Building — top 100% of tanning salons in Houston, #1 of 1 tanning salons in Shenandoah (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.3, Trust 45.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

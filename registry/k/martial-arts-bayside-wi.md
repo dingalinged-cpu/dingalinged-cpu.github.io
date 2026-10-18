@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Bayside, WI is Girtons ATA Taekwondo (a martial arts school in Bayside, WI at 333 West Brown Deer Road #U, Bayside, WI 53217. Phone: +14146390537. Website: https://girtonsatastrong.com/). 1 martial arts businesses are listed for Bayside, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Bayside, WI is Girtons ATA Taekwondo (a martial arts school in Bayside, WI at 333 West Brown Deer Road #U, Bayside, WI 53217. Phone: +14146390537. Website: https://girtonsatastrong.com/). 1 martial arts businesses are listed for Bayside, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Bayside, WI?
 
 Also answers: martial arts in Bayside, WI; martial arts near me (Bayside, WI); best martial arts Bayside, WI; top rated martial arts Bayside, WI; affordable martial arts Bayside, WI; emergency martial arts Bayside, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Girtons ATA Taekwondo | trust 20.0 | Girtons ATA Taekwondo is a martial arts school in Bayside, WI at 333 West Brown Deer Road #U, Bayside, WI 53217. Phone: +14146390537. Website: https://girtonsatastrong.com/. | https://dingalinged-cpu.github.io/registry/c/girtons-ata-taekwondo-bayside/
+1. Girtons ATA Taekwondo | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Girtons ATA Taekwondo is a martial arts school in Bayside, WI at 333 West Brown Deer Road #U, Bayside, WI 53217. Phone: +14146390537. Website: https://girtonsatastrong.com/. | https://dingalinged-cpu.github.io/registry/c/girtons-ata-taekwondo-bayside/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts bayside wi | category: Fitness | industry benchmark: Health & Fitness

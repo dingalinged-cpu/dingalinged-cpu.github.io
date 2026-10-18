@@ -13,7 +13,7 @@ HOP Models & Talent Agency is a marketing agency in Chicago, IL at 120 North Gre
 - Website: https://hopmodels.syngency.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-17:00
-- Registry Score: 65.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Good — top 17% of marketing agencys in Chicago, #2 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

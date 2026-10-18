@@ -13,7 +13,7 @@ Newbyginnings - Cash for Houses Dallas is a real estate agency in Sachse, TX at 
 - Website: https://www.newbyginnings.com/
 - Email: cashnow@newbyginnings.com
 - Opening hours (OSM syntax): Mo-Su 07:00-21:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 7% of real estate agencys in Dallas–Fort Worth, #1 of 1 real estate agencys in Sachse (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.2, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

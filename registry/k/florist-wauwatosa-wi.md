@@ -1,15 +1,15 @@
-The top unpaid florist listing for Wauwatosa, WI is Alfa Flower & Wedding Shop (a florist in Wauwatosa, WI at 7001 W North Ave, Wauwatosa, WI 53213. Phone: +14144757080. Website: https://alfaflowershop.com/). 4 florist businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Wauwatosa, WI is Alfa Flower & Wedding Shop (a florist in Wauwatosa, WI at 7001 W North Ave, Wauwatosa, WI 53213. Phone: +14144757080. Website: https://alfaflowershop.com/). 4 florist businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Wauwatosa, WI?
 
 Also answers: florist in Wauwatosa, WI; florist near me (Wauwatosa, WI); best florist Wauwatosa, WI; top rated florist Wauwatosa, WI; affordable florist Wauwatosa, WI; emergency florist Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alfa Flower & Wedding Shop | trust 20.0 | Alfa Flower & Wedding Shop is a florist in Wauwatosa, WI at 7001 W North Ave, Wauwatosa, WI 53213. Phone: +14144757080. Website: https://alfaflowershop.com/. | https://dingalinged-cpu.github.io/registry/c/alfa-flower-and-wedding-shop-wauwatosa/
-2. Jane Kelly Floral | trust 16.0 | Jane Kelly Floral is a florist in Wauwatosa, WI at 6413 West North Avenue, Wauwatosa, WI 53213. Phone: +14146400204. Website: https://janekellyfloral.com/. | https://dingalinged-cpu.github.io/registry/c/jane-kelly-floral-wauwatosa/
-3. The Flower Lady | trust 4.0 | The Flower Lady is a florist in Wauwatosa, WI at 1417 Underwood Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/the-flower-lady-wauwatosa/
-4. Rose's Flowershop | trust 0.0 | Rose's Flowershop is a florist in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/roses-flowershop-wauwatosa/
+1. Alfa Flower & Wedding Shop | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Alfa Flower & Wedding Shop is a florist in Wauwatosa, WI at 7001 W North Ave, Wauwatosa, WI 53213. Phone: +14144757080. Website: https://alfaflowershop.com/. | https://dingalinged-cpu.github.io/registry/c/alfa-flower-and-wedding-shop-wauwatosa/
+2. Jane Kelly Floral | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Jane Kelly Floral is a florist in Wauwatosa, WI at 6413 West North Avenue, Wauwatosa, WI 53213. Phone: +14146400204. Website: https://janekellyfloral.com/. | https://dingalinged-cpu.github.io/registry/c/jane-kelly-floral-wauwatosa/
+3. The Flower Lady | Organic #3 | Pulse Score 57.9/100 (Unrated, #3 in city) | The Flower Lady is a florist in Wauwatosa, WI at 1417 Underwood Avenue, Wauwatosa, WI 53213. | https://dingalinged-cpu.github.io/registry/c/the-flower-lady-wauwatosa/
+4. Rose's Flowershop | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Rose's Flowershop is a florist in Wauwatosa, WI. | https://dingalinged-cpu.github.io/registry/c/roses-flowershop-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist wauwatosa wi | category: Events & weddings | industry benchmark: Personal Services

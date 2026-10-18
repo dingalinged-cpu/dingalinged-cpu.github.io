@@ -1,13 +1,13 @@
-The top unpaid massage listing for Roseville, MN is Grace's Massage Therapy (a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/). 2 massage businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Roseville, MN is Grace's Massage Therapy (a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/). 2 massage businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Roseville, MN?
 
 Also answers: massage in Roseville, MN; massage near me (Roseville, MN); best massage Roseville, MN; top rated massage Roseville, MN; affordable massage Roseville, MN; emergency massage Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grace's Massage Therapy | trust 20.0 | Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/. | https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/
-2. Massage Xcape | trust 20.0 | Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/. | https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/
+1. Grace's Massage Therapy | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Grace's Massage Therapy is a massage studio in Roseville, MN at 1734 Lexington Avenue N, Roseville, MN 55113. Phone: +17633372188. Website: https://www.gracesmassagetherapy.com/. | https://dingalinged-cpu.github.io/registry/c/graces-massage-therapy-roseville/
+2. Massage Xcape | Organic #2 | Pulse Score 61.8/100 (Unrated, #2 in city) | Massage Xcape is a massage studio in Roseville, MN at 1767 Lexington Avenue North, Roseville, MN 55113. Phone: +16519641112. Website: https://www.massage-xcape.business.site/. | https://dingalinged-cpu.github.io/registry/c/massage-xcape-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage roseville mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

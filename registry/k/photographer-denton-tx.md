@@ -1,12 +1,12 @@
-The top unpaid photographer listing for Denton, TX is Eagleton Photography (a photographer in Denton, TX at 721 South Elm Street #Suite# 105, Denton, TX 76201. Phone: +19408911534. Website: https://www.eagletonphotography.com/). 1 photographer businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid photographer listing for Denton, TX is Eagleton Photography (a photographer in Denton, TX at 721 South Elm Street #Suite# 105, Denton, TX 76201. Phone: +19408911534. Website: https://www.eagletonphotography.com/). 1 photographer businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best photographer providers in Denton, TX?
 
 Also answers: photographer in Denton, TX; photographer near me (Denton, TX); best photographer Denton, TX; top rated photographer Denton, TX; affordable photographer Denton, TX; emergency photographer Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eagleton Photography | trust 16.0 | Eagleton Photography is a photographer in Denton, TX at 721 South Elm Street #Suite# 105, Denton, TX 76201. Phone: +19408911534. Website: https://www.eagletonphotography.com/. | https://dingalinged-cpu.github.io/registry/c/eagleton-photography-denton/
+1. Eagleton Photography | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Eagleton Photography is a photographer in Denton, TX at 721 South Elm Street #Suite# 105, Denton, TX 76201. Phone: +19408911534. Website: https://www.eagletonphotography.com/. | https://dingalinged-cpu.github.io/registry/c/eagleton-photography-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: photographer denton tx | category: Events & weddings | industry benchmark: Personal Services

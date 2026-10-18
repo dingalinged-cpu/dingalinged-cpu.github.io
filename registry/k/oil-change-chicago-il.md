@@ -1,13 +1,13 @@
-The top unpaid oil change listing for Chicago, IL is I & C Auto Repair (an auto repair shop in Chicago, IL at 3454 North Sheffield Avenue, Chicago, IL 60657. Phone: +17735498254). 2 oil change businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Chicago, IL is I & C Auto Repair (an auto repair shop in Chicago, IL at 3454 North Sheffield Avenue, Chicago, IL 60657. Phone: +17735498254). 2 oil change businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Chicago, IL?
 
 Also answers: oil change in Chicago, IL; oil change near me (Chicago, IL); best oil change Chicago, IL; top rated oil change Chicago, IL; affordable oil change Chicago, IL; emergency oil change Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. I & C Auto Repair | trust 10.0 | I & C Auto Repair is an auto repair shop in Chicago, IL at 3454 North Sheffield Avenue, Chicago, IL 60657. Phone: +17735498254. | https://dingalinged-cpu.github.io/registry/c/i-and-c-auto-repair-chicago/
-2. Valvoline | trust 10.0 | Valvoline is an auto repair shop in Chicago, IL at 6001 South Pulaski Road, Chicago, IL 60629. Website: https://store.vioc.com/il/chicago/6001-s-pulaski-rd. | https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w210153304/
+1. I & C Auto Repair | Organic #1 | Pulse Score 61.6/100 (Unrated, #9 in city) | I & C Auto Repair is an auto repair shop in Chicago, IL at 3454 North Sheffield Avenue, Chicago, IL 60657. Phone: +17735498254. | https://dingalinged-cpu.github.io/registry/c/i-and-c-auto-repair-chicago/
+2. Valvoline | Organic #2 | Pulse Score 47.8/100 (Building, #100 in city) | Valvoline is an auto repair shop in Chicago, IL at 6001 South Pulaski Road, Chicago, IL 60629. Website: https://store.vioc.com/il/chicago/6001-s-pulaski-rd. | https://dingalinged-cpu.github.io/registry/c/valvoline-chicago-w210153304/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change chicago il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

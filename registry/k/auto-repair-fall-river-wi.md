@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Fall River, WI is Badger Truck Services, LLC (an auto repair shop in Fall River, WI at 181 Quality Court, Fall River, WI 53932. Phone: +19204846860. Website: https://www.badgerlogistics.com/services/truck-service-center). 1 auto repair businesses are listed for Fall River, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Fall River, WI is Badger Truck Services, LLC (an auto repair shop in Fall River, WI at 181 Quality Court, Fall River, WI 53932. Phone: +19204846860. Website: https://www.badgerlogistics.com/services/truck-service-center). 1 auto repair businesses are listed for Fall River, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Fall River, WI?
 
 Also answers: auto repair in Fall River, WI; auto repair near me (Fall River, WI); best auto repair Fall River, WI; top rated auto repair Fall River, WI; affordable auto repair Fall River, WI; emergency auto repair Fall River, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Badger Truck Services, LLC | trust 20.0 | Badger Truck Services, LLC is an auto repair shop in Fall River, WI at 181 Quality Court, Fall River, WI 53932. Phone: +19204846860. Website: https://www.badgerlogistics.com/services/truck-service-center. | https://dingalinged-cpu.github.io/registry/c/badger-truck-services-llc-fall-river/
+1. Badger Truck Services, LLC | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Badger Truck Services, LLC is an auto repair shop in Fall River, WI at 181 Quality Court, Fall River, WI 53932. Phone: +19204846860. Website: https://www.badgerlogistics.com/services/truck-service-center. | https://dingalinged-cpu.github.io/registry/c/badger-truck-services-llc-fall-river/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair fall river wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

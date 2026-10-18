@@ -13,7 +13,7 @@ Minnesota Center for Psychology is a therapy practice in Saint Paul, MN at 2324 
 - Website: https://www.minnesotacenterforpsychology.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-13:00
-- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 9% of therapy practices in Minneapolis–St. Paul, #4 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid electrician listing for Ellis County, TX is Leland Collier Electric (an electrician in Ellis County, TX at 1105, Ellis County, TX). 1 electrician businesses are listed for Ellis County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid electrician listing for Ellis County, TX is Leland Collier Electric (an electrician in Ellis County, TX at 1105, Ellis County, TX). 1 electrician businesses are listed for Ellis County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best electrician providers in Ellis County, TX?
 
 Also answers: electrician in Ellis County, TX; electrician near me (Ellis County, TX); best electrician Ellis County, TX; top rated electrician Ellis County, TX; affordable electrician Ellis County, TX; emergency electrician Ellis County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leland Collier Electric | trust 3.0 | Leland Collier Electric is an electrician in Ellis County, TX at 1105, Ellis County, TX. | https://dingalinged-cpu.github.io/registry/c/leland-collier-electric-ellis-county/
+1. Leland Collier Electric | Organic #1 | Pulse Score 54.4/100 (Unrated, #1 in city) | Leland Collier Electric is an electrician in Ellis County, TX at 1105, Ellis County, TX. | https://dingalinged-cpu.github.io/registry/c/leland-collier-electric-ellis-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: electrician ellis county tx | category: Home services - Electrical | industry benchmark: Home & Home Improvement

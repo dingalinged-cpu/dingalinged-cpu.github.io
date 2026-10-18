@@ -1,20 +1,20 @@
-The top unpaid insurance agency listing for Roswell, GA is GEICO (an insurance agent in Roswell, GA at 10800 Alpharetta Highway #Suite 192, Roswell, GA 30076. Phone: +14706393910. Website: https://www.geico.com/insurance-agents/georgia/atlanta/john-gordon). 9 insurance agency businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Roswell, GA is Oasis Insurance (an insurance agent in Roswell, GA). 9 insurance agency businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Roswell, GA?
 
 Also answers: insurance agency in Roswell, GA; insurance agency near me (Roswell, GA); best insurance agency Roswell, GA; top rated insurance agency Roswell, GA; affordable insurance agency Roswell, GA; emergency insurance agency Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GEICO | trust 16.0 | GEICO is an insurance agent in Roswell, GA at 10800 Alpharetta Highway #Suite 192, Roswell, GA 30076. Phone: +14706393910. Website: https://www.geico.com/insurance-agents/georgia/atlanta/john-gordon. | https://dingalinged-cpu.github.io/registry/c/geico-roswell/
-2. Allstate | trust 0.0 | Allstate is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-roswell/
-3. Allstate | trust 0.0 | Allstate is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-roswell-n8086245432/
-4. American Family Insurance | trust 0.0 | American Family Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-roswell/
-5. Farm Bureau Insurance | trust 0.0 | Farm Bureau Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/farm-bureau-insurance-roswell/
-6. Nationwide | trust 0.0 | Nationwide is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nationwide-roswell/
-7. Oasis Insurance | trust 0.0 | Oasis Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/oasis-insurance-roswell/
-8. State Farm | trust 0.0 | State Farm is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-roswell/
-9. State Farm | trust 0.0 | State Farm is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-roswell-n8207479173/
+1. Oasis Insurance | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | Oasis Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/oasis-insurance-roswell/
+2. GEICO | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | GEICO is an insurance agent in Roswell, GA at 10800 Alpharetta Highway #Suite 192, Roswell, GA 30076. Phone: +14706393910. Website: https://www.geico.com/insurance-agents/georgia/atlanta/john-gordon. | https://dingalinged-cpu.github.io/registry/c/geico-roswell/
+3. Farm Bureau Insurance | Organic #3 | Pulse Score 45.4/100 (Building, #3 in city) | Farm Bureau Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/farm-bureau-insurance-roswell/
+4. American Family Insurance | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | American Family Insurance is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-roswell/
+5. Allstate | Organic #5 | Pulse Score 42.8/100 (Building, #5 in city) | Allstate is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-roswell/
+6. Allstate | Organic #6 | Pulse Score 42.8/100 (Building, #6 in city) | Allstate is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-roswell-n8086245432/
+7. Nationwide | Organic #7 | Pulse Score 42.8/100 (Building, #7 in city) | Nationwide is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nationwide-roswell/
+8. State Farm | Organic #8 | Pulse Score 42.8/100 (Building, #8 in city) | State Farm is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-roswell/
+9. State Farm | Organic #9 | Pulse Score 42.8/100 (Building, #9 in city) | State Farm is an insurance agent in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-roswell-n8207479173/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency roswell ga | category: insurance | industry benchmark: Finance & Insurance

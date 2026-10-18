@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Conroe, TX is Petco (a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html). 4 pet store businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Conroe, TX is PetSmart (a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html). 4 pet store businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Conroe, TX?
 
 Also answers: pet store in Conroe, TX; pet store near me (Conroe, TX); best pet store Conroe, TX; top rated pet store Conroe, TX; affordable pet store Conroe, TX; emergency pet store Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html. | https://dingalinged-cpu.github.io/registry/c/petco-conroe/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/
-3. PetSmart | trust 20.0 | PetSmart is a pet store in Conroe, TX at 2900 Interstate 45 North, Conroe, TX 77301. Phone: +19364942500. Website: https://www.petsmart.com/stores/us/tx/conroe-store1534.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe-w718778395/
-4. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-conroe/
+1. PetSmart | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | PetSmart is a pet store in Conroe, TX at 19075 Interstate 45 South #114, Conroe, TX 77385. Phone: +19362739888. Website: https://www.petsmart.com/stores/us/tx/conroe-store1046.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe/
+2. PetSmart | Organic #2 | Pulse Score 49.3/100 (Building, #2 in city) | PetSmart is a pet store in Conroe, TX at 2900 Interstate 45 North, Conroe, TX 77301. Phone: +19364942500. Website: https://www.petsmart.com/stores/us/tx/conroe-store1534.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-conroe-w718778395/
+3. Petco | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Petco is a pet store in Conroe, TX at 1410 North Loop 336 West, Conroe, TX 77304. Phone: +19364414700. Website: https://stores.petco.com/tx/conroe/pet-supplies-conroe-tx-442.html. | https://dingalinged-cpu.github.io/registry/c/petco-conroe/
+4. Pet Supplies Plus | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Conroe, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store conroe tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

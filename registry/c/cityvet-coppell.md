@@ -13,7 +13,7 @@ CityVet is a veterinarian in Coppell, TX at East Sandy Lake Road, Coppell, TX. P
 - Website: https://www.cityvet.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:30; Sa 08:00-16:00
-- Registry Score: 50.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Unrated (not enough evidence yet) — top 87% of veterinarians in Dallas–Fort Worth, #3 of 3 veterinarians in Coppell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

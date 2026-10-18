@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Madison, WI is BTBK Accounting (an accountant in Madison, WI at 4710 East Broadway Service Road #160, Madison, WI 53716). 1 accountant businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Madison, WI is BTBK Accounting (an accountant in Madison, WI at 4710 East Broadway Service Road #160, Madison, WI 53716). 1 accountant businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Madison, WI?
 
 Also answers: accountant in Madison, WI; accountant near me (Madison, WI); best accountant Madison, WI; top rated accountant Madison, WI; affordable accountant Madison, WI; emergency accountant Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BTBK Accounting | trust 4.0 | BTBK Accounting is an accountant in Madison, WI at 4710 East Broadway Service Road #160, Madison, WI 53716. | https://dingalinged-cpu.github.io/registry/c/btbk-accounting-madison/
+1. BTBK Accounting | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | BTBK Accounting is an accountant in Madison, WI at 4710 East Broadway Service Road #160, Madison, WI 53716. | https://dingalinged-cpu.github.io/registry/c/btbk-accounting-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant madison wi | category: professional_accounting | industry benchmark: Business Services

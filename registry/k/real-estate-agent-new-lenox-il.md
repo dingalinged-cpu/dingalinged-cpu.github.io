@@ -1,15 +1,15 @@
-The top unpaid real estate agent listing for New Lenox, IL is Century 21 (a real estate agency in New Lenox, IL at 208 North Cedar Road, New Lenox, IL 60451. Phone: +18154854421. Website: https://www.c21pride.com/Home.aspx). 4 real estate agent businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for New Lenox, IL is Kim Phillips CRIS Realty (a real estate agency in New Lenox, IL at 1200 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159540650. Website: https://homeasap.com/kimphillips2). 4 real estate agent businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in New Lenox, IL?
 
 Also answers: real estate agent in New Lenox, IL; real estate agent near me (New Lenox, IL); best real estate agent New Lenox, IL; top rated real estate agent New Lenox, IL; affordable real estate agent New Lenox, IL; emergency real estate agent New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Century 21 | trust 16.0 | Century 21 is a real estate agency in New Lenox, IL at 208 North Cedar Road, New Lenox, IL 60451. Phone: +18154854421. Website: https://www.c21pride.com/Home.aspx. | https://dingalinged-cpu.github.io/registry/c/century-21-new-lenox/
-2. Kim Phillips CRIS Realty | trust 16.0 | Kim Phillips CRIS Realty is a real estate agency in New Lenox, IL at 1200 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159540650. Website: https://homeasap.com/kimphillips2. | https://dingalinged-cpu.github.io/registry/c/kim-phillips-cris-realty-new-lenox/
-3. Coldwell Banker | trust 4.0 | Coldwell Banker is a real estate agency in New Lenox, IL at 1413 East Lincoln Highway, New Lenox, IL 60451. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-new-lenox/
-4. Andrews & Co. Realty | trust 0.0 | Andrews & Co. Realty is a real estate agency in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/andrews-and-co-realty-new-lenox/
+1. Kim Phillips CRIS Realty | Organic #1 | Pulse Score 60.6/100 (Unrated, #1 in city) | Kim Phillips CRIS Realty is a real estate agency in New Lenox, IL at 1200 East Lincoln Highway, New Lenox, IL 60451. Phone: +18159540650. Website: https://homeasap.com/kimphillips2. | https://dingalinged-cpu.github.io/registry/c/kim-phillips-cris-realty-new-lenox/
+2. Andrews & Co. Realty | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Andrews & Co. Realty is a real estate agency in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/andrews-and-co-realty-new-lenox/
+3. Century 21 | Organic #3 | Pulse Score 48/100 (Building, #3 in city) | Century 21 is a real estate agency in New Lenox, IL at 208 North Cedar Road, New Lenox, IL 60451. Phone: +18154854421. Website: https://www.c21pride.com/Home.aspx. | https://dingalinged-cpu.github.io/registry/c/century-21-new-lenox/
+4. Coldwell Banker | Organic #4 | Pulse Score 44.6/100 (Building, #4 in city) | Coldwell Banker is a real estate agency in New Lenox, IL at 1413 East Lincoln Highway, New Lenox, IL 60451. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent new lenox il | category: Professional & financial services | industry benchmark: Finance & Insurance

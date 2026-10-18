@@ -1,13 +1,13 @@
-The top unpaid tax preparer listing for Richardson, TX is H&R Block (a tax preparation service in Richardson, TX at 819 West Arapaho Road #22, Richardson, TX 75080). 2 tax preparer businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Richardson, TX is Cowboy Tax (a tax preparation service in Richardson, TX). 2 tax preparer businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Richardson, TX?
 
 Also answers: tax preparer in Richardson, TX; tax preparer near me (Richardson, TX); best tax preparer Richardson, TX; top rated tax preparer Richardson, TX; affordable tax preparer Richardson, TX; emergency tax preparer Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Richardson, TX at 819 West Arapaho Road #22, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-richardson/
-2. Cowboy Tax | trust 0.0 | Cowboy Tax is a tax preparation service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/cowboy-tax-richardson/
+1. Cowboy Tax | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Cowboy Tax is a tax preparation service in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/cowboy-tax-richardson/
+2. H&R Block | Organic #2 | Pulse Score 44.9/100 (Unrated, #2 in city) | H&R Block is a tax preparation service in Richardson, TX at 819 West Arapaho Road #22, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer richardson tx | category: professional_accounting | industry benchmark: Business Services

@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for Hammond, IN is Aaron's (a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st). 2 furniture store businesses are listed for Hammond, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Hammond, IN is Aaron's (a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st). 2 furniture store businesses are listed for Hammond, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Hammond, IN?
 
 Also answers: furniture store in Hammond, IN; furniture store near me (Hammond, IN); best furniture store Hammond, IN; top rated furniture store Hammond, IN; affordable furniture store Hammond, IN; emergency furniture store Hammond, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aaron's | trust 14.0 | Aaron's is a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st. | https://dingalinged-cpu.github.io/registry/c/aarons-hammond/
-2. Rent-A-Center | trust 10.0 | Rent-A-Center is a furniture store in Hammond, IN at 6425 Columbia Avenue, Hammond, IN 46320. Website: https://locations.rentacenter.com/indiana/hammond/6425-columbia-avenue/. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-hammond/
+1. Aaron's | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Aaron's is a furniture store in Hammond, IN at 1149 165th Street, Hammond, IN 46320. Website: https://locations.aarons.com/us/in/hammond/1149-165th-st. | https://dingalinged-cpu.github.io/registry/c/aarons-hammond/
+2. Rent-A-Center | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Hammond, IN at 6425 Columbia Avenue, Hammond, IN 46320. Website: https://locations.rentacenter.com/indiana/hammond/6425-columbia-avenue/. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-hammond/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store hammond in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

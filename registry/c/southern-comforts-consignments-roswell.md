@@ -13,7 +13,7 @@ Southern Comforts Consignments is a furniture store in Roswell, GA at 4750 Alaba
 - Website: https://www.southerncomforts.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 11:00-17:00; Sa-10:00-17:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Good — top 11% of furniture stores in Atlanta, #2 of 2 furniture stores in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

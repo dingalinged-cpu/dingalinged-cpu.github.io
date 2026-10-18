@@ -1,12 +1,12 @@
-The top unpaid financial advisor listing for Mckinney, TX is Independent Financial (a financial advisor in McKinney, TX at 7777 Henneman Way, McKinney, TX. Phone: +14694522480. Website: https://locations.ifinancial.com/tx/mckinney/7777-henneman-way). 1 financial advisor businesses are listed for Mckinney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Mckinney, TX is Independent Financial (a financial advisor in McKinney, TX at 7777 Henneman Way, McKinney, TX. Phone: +14694522480. Website: https://locations.ifinancial.com/tx/mckinney/7777-henneman-way). 1 financial advisor businesses are listed for Mckinney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Mckinney, TX?
 
 Also answers: financial advisor in Mckinney, TX; financial advisor near me (Mckinney, TX); best financial advisor Mckinney, TX; top rated financial advisor Mckinney, TX; affordable financial advisor Mckinney, TX; emergency financial advisor Mckinney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Independent Financial | trust 15.0 | Independent Financial is a financial advisor in McKinney, TX at 7777 Henneman Way, McKinney, TX. Phone: +14694522480. Website: https://locations.ifinancial.com/tx/mckinney/7777-henneman-way. | https://dingalinged-cpu.github.io/registry/c/independent-financial-mckinney/
+1. Independent Financial | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Independent Financial is a financial advisor in McKinney, TX at 7777 Henneman Way, McKinney, TX. Phone: +14694522480. Website: https://locations.ifinancial.com/tx/mckinney/7777-henneman-way. | https://dingalinged-cpu.github.io/registry/c/independent-financial-mckinney/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor mckinney tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Gwinnett County, GA is All Star Karate (a martial arts school in Gwinnett County, GA). 3 martial arts businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Gwinnett County, GA is All Star Karate (a martial arts school in Gwinnett County, GA). 3 martial arts businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Gwinnett County, GA?
 
 Also answers: martial arts in Gwinnett County, GA; martial arts near me (Gwinnett County, GA); best martial arts Gwinnett County, GA; top rated martial arts Gwinnett County, GA; affordable martial arts Gwinnett County, GA; emergency martial arts Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Star Karate | trust 0.0 | All Star Karate is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/all-star-karate-gwinnett-county/
-2. Major Tae Kwan Do | trust 0.0 | Major Tae Kwan Do is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/major-tae-kwan-do-gwinnett-county/
-3. Sajido | trust 0.0 | Sajido is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/sajido-gwinnett-county/
+1. All Star Karate | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | All Star Karate is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/all-star-karate-gwinnett-county/
+2. Major Tae Kwan Do | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Major Tae Kwan Do is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/major-tae-kwan-do-gwinnett-county/
+3. Sajido | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Sajido is a martial arts school in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/sajido-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts gwinnett county ga | category: Fitness | industry benchmark: Health & Fitness

@@ -13,7 +13,7 @@ Edward Jones is a financial advisor in Cobb County, GA at 2960 Shallowford Road 
 - Website: https://www.edwardjones.com/us-en/financial-advisor/matthew-ellis
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.6/100 — Fair — top 45% of financial advisors in Atlanta, #1 of 2 financial advisors in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.6, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for South Barrington, IL is Arhaus (a furniture store in South Barrington, IL). 2 furniture store businesses are listed for South Barrington, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for South Barrington, IL is Toms-Price Home Furnishings (a furniture store in South Barrington, IL). 2 furniture store businesses are listed for South Barrington, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in South Barrington, IL?
 
 Also answers: furniture store in South Barrington, IL; furniture store near me (South Barrington, IL); best furniture store South Barrington, IL; top rated furniture store South Barrington, IL; affordable furniture store South Barrington, IL; emergency furniture store South Barrington, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arhaus | trust 0.0 | Arhaus is a furniture store in South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-south-barrington/
-2. Toms-Price Home Furnishings | trust 0.0 | Toms-Price Home Furnishings is a furniture store in South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/toms-price-home-furnishings-south-barrington/
+1. Toms-Price Home Furnishings | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Toms-Price Home Furnishings is a furniture store in South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/toms-price-home-furnishings-south-barrington/
+2. Arhaus | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Arhaus is a furniture store in South Barrington, IL. | https://dingalinged-cpu.github.io/registry/c/arhaus-south-barrington/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store south barrington il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

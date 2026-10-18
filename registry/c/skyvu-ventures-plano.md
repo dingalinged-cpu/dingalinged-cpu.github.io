@@ -13,7 +13,7 @@ SkyVu Ventures is a business consultant in Plano, TX at 2609 Technology Drive, P
 - Website: https://skyvuventures.com/
 - Email: info@skyvuventures.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 16% of business consultants in Dallas–Fort Worth, #1 of 2 business consultants in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

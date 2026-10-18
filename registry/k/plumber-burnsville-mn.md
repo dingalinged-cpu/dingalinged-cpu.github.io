@@ -1,12 +1,12 @@
-The top unpaid plumber listing for Burnsville, MN is Charles Conner Plumbing Inc. (a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/). 1 plumber businesses are listed for Burnsville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumber listing for Burnsville, MN is Charles Conner Plumbing Inc. (a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/). 1 plumber businesses are listed for Burnsville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumber providers in Burnsville, MN?
 
 Also answers: plumber in Burnsville, MN; plumber near me (Burnsville, MN); best plumber Burnsville, MN; top rated plumber Burnsville, MN; affordable plumber Burnsville, MN; emergency plumber Burnsville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Charles Conner Plumbing Inc. | trust 20.0 | Charles Conner Plumbing Inc. is a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/charles-conner-plumbing-inc-burnsville/
+1. Charles Conner Plumbing Inc. | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Charles Conner Plumbing Inc. is a plumber in Burnsville, MN at 2800 Selkirk Drive #Unit C 105, Burnsville, MN 55337. Phone: +17635451133. Website: https://connersplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/charles-conner-plumbing-inc-burnsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumber burnsville mn | category: Home services - Plumbing | industry benchmark: Home & Home Improvement

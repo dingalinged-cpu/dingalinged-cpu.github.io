@@ -1,12 +1,12 @@
-The top unpaid plastic surgeon listing for Southlake, TX is Vennemeyer Plastic Surgery (a plastic surgeon in Southlake, TX). 1 plastic surgeon businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plastic surgeon listing for Southlake, TX is Vennemeyer Plastic Surgery (a plastic surgeon in Southlake, TX). 1 plastic surgeon businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plastic surgeon providers in Southlake, TX?
 
 Also answers: plastic surgeon in Southlake, TX; plastic surgeon near me (Southlake, TX); best plastic surgeon Southlake, TX; top rated plastic surgeon Southlake, TX; affordable plastic surgeon Southlake, TX; emergency plastic surgeon Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vennemeyer Plastic Surgery | trust 0.0 | Vennemeyer Plastic Surgery is a plastic surgeon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/vennemeyer-plastic-surgery-southlake/
+1. Vennemeyer Plastic Surgery | Organic #1 | Pulse Score 53.6/100 (Unrated, #1 in city) | Vennemeyer Plastic Surgery is a plastic surgeon in Southlake, TX. | https://dingalinged-cpu.github.io/registry/c/vennemeyer-plastic-surgery-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: plastic surgeon southlake tx | category: Health & medical | industry benchmark: Physicians & Surgeons

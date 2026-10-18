@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Corinth, TX is Childrens Lighthouse (a preschool in Corinth, TX at 1560 Post Oak Drive, Corinth, TX. Phone: +19402791168. Website: https://childrenslighthouse.com/corinth). 2 preschool businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Corinth, TX is Childrens Lighthouse (a preschool in Corinth, TX at 1560 Post Oak Drive, Corinth, TX. Phone: +19402791168. Website: https://childrenslighthouse.com/corinth). 2 preschool businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Corinth, TX?
 
 Also answers: preschool in Corinth, TX; preschool near me (Corinth, TX); best preschool Corinth, TX; top rated preschool Corinth, TX; affordable preschool Corinth, TX; emergency preschool Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Childrens Lighthouse | trust 15.0 | Childrens Lighthouse is a preschool in Corinth, TX at 1560 Post Oak Drive, Corinth, TX. Phone: +19402791168. Website: https://childrenslighthouse.com/corinth. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-corinth/
-2. The Goddard School of Corinth | trust 0.0 | The Goddard School of Corinth is a preschool in Corinth, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-corinth-corinth/
+1. Childrens Lighthouse | Organic #1 | Pulse Score 60.3/100 (Unrated, #1 in city) | Childrens Lighthouse is a preschool in Corinth, TX at 1560 Post Oak Drive, Corinth, TX. Phone: +19402791168. Website: https://childrenslighthouse.com/corinth. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-corinth/
+2. The Goddard School of Corinth | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | The Goddard School of Corinth is a preschool in Corinth, TX. | https://dingalinged-cpu.github.io/registry/c/the-goddard-school-of-corinth-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool corinth tx | category: Education & childcare | industry benchmark: Education & Instruction

@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Mokena, IL is Triple R Child Care (a daycare in Mokena, IL). 1 daycare businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Mokena, IL is Triple R Child Care (a daycare in Mokena, IL). 1 daycare businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Mokena, IL?
 
 Also answers: daycare in Mokena, IL; daycare near me (Mokena, IL); best daycare Mokena, IL; top rated daycare Mokena, IL; affordable daycare Mokena, IL; emergency daycare Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Triple R Child Care | trust 0.0 | Triple R Child Care is a daycare in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/triple-r-child-care-mokena/
+1. Triple R Child Care | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Triple R Child Care is a daycare in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/triple-r-child-care-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare mokena il | category: Education & childcare | industry benchmark: Education & Instruction

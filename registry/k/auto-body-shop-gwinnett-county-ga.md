@@ -1,12 +1,12 @@
-The top unpaid auto body shop listing for Gwinnett County, GA is United Collision Center (an auto repair shop in Gwinnett County, GA). 1 auto body shop businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Gwinnett County, GA is United Collision Center (an auto repair shop in Gwinnett County, GA). 1 auto body shop businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Gwinnett County, GA?
 
 Also answers: auto body shop in Gwinnett County, GA; auto body shop near me (Gwinnett County, GA); best auto body shop Gwinnett County, GA; top rated auto body shop Gwinnett County, GA; affordable auto body shop Gwinnett County, GA; emergency auto body shop Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. United Collision Center | trust 0.0 | United Collision Center is an auto repair shop in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/united-collision-center-gwinnett-county/
+1. United Collision Center | Organic #1 | Pulse Score 59.1/100 (Fair, #1 in city) | United Collision Center is an auto repair shop in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/united-collision-center-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop gwinnett county ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

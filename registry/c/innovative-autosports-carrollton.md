@@ -13,7 +13,7 @@ Innovative Autosports is an auto repair shop in Carrollton, TX at 2323 Tarpley R
 - Website: https://innovativeautosports.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 2% of auto repair shops in Dallas–Fort Worth, #3 of 20 auto repair shops in Carrollton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

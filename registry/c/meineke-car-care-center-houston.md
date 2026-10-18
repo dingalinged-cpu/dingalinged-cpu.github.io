@@ -13,7 +13,7 @@ Meineke Car Care Center is an auto repair shop in Houston, TX at 4448 Cypress Cr
 - Website: https://www.meineke.com/locations/tx/houston-4327/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:30-18:00; Sa 07:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 64% of auto repair shops in Houston, #158 of 211 auto repair shops in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

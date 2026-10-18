@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Downers Grove, IL is Adams-Winterfield & Sullivan (a funeral home in Downers Grove, IL). 1 funeral home businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Downers Grove, IL is Adams-Winterfield & Sullivan (a funeral home in Downers Grove, IL). 1 funeral home businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Downers Grove, IL?
 
 Also answers: funeral home in Downers Grove, IL; funeral home near me (Downers Grove, IL); best funeral home Downers Grove, IL; top rated funeral home Downers Grove, IL; affordable funeral home Downers Grove, IL; emergency funeral home Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adams-Winterfield & Sullivan | trust 0.0 | Adams-Winterfield & Sullivan is a funeral home in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/adams-winterfield-and-sullivan-downers-grove/
+1. Adams-Winterfield & Sullivan | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Adams-Winterfield & Sullivan is a funeral home in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/adams-winterfield-and-sullivan-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home downers grove il | category: Professional & financial services | industry benchmark: Finance & Insurance

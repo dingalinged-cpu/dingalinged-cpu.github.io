@@ -1,12 +1,12 @@
-The top unpaid haircut listing for Crest Hill, IL is Hair Cuttery (a hair salon in Crest Hill, IL). 1 haircut businesses are listed for Crest Hill, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Crest Hill, IL is Hair Cuttery (a hair salon in Crest Hill, IL). 1 haircut businesses are listed for Crest Hill, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Crest Hill, IL?
 
 Also answers: haircut in Crest Hill, IL; haircut near me (Crest Hill, IL); best haircut Crest Hill, IL; top rated haircut Crest Hill, IL; affordable haircut Crest Hill, IL; emergency haircut Crest Hill, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Crest Hill, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-crest-hill/
+1. Hair Cuttery | Organic #1 | Pulse Score 42.5/100 (Building, #1 in city) | Hair Cuttery is a hair salon in Crest Hill, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-crest-hill/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut crest hill il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

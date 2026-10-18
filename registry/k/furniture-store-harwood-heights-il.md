@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Harwood Heights, IL is Steinhafels (a furniture store in Harwood Heights, IL at 7304 West Lawrence Avenue, Harwood Heights, IL 60706. Website: https://www.steinhafels.com/store/furniture-store/IL/Harwood-Heights/7304-West-Lawrence-Avenue). 1 furniture store businesses are listed for Harwood Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Harwood Heights, IL is Steinhafels (a furniture store in Harwood Heights, IL at 7304 West Lawrence Avenue, Harwood Heights, IL 60706. Website: https://www.steinhafels.com/store/furniture-store/IL/Harwood-Heights/7304-West-Lawrence-Avenue). 1 furniture store businesses are listed for Harwood Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Harwood Heights, IL?
 
 Also answers: furniture store in Harwood Heights, IL; furniture store near me (Harwood Heights, IL); best furniture store Harwood Heights, IL; top rated furniture store Harwood Heights, IL; affordable furniture store Harwood Heights, IL; emergency furniture store Harwood Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Steinhafels | trust 10.0 | Steinhafels is a furniture store in Harwood Heights, IL at 7304 West Lawrence Avenue, Harwood Heights, IL 60706. Website: https://www.steinhafels.com/store/furniture-store/IL/Harwood-Heights/7304-West-Lawrence-Avenue. | https://dingalinged-cpu.github.io/registry/c/steinhafels-harwood-heights/
+1. Steinhafels | Organic #1 | Pulse Score 49.4/100 (Building, #1 in city) | Steinhafels is a furniture store in Harwood Heights, IL at 7304 West Lawrence Avenue, Harwood Heights, IL 60706. Website: https://www.steinhafels.com/store/furniture-store/IL/Harwood-Heights/7304-West-Lawrence-Avenue. | https://dingalinged-cpu.github.io/registry/c/steinhafels-harwood-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store harwood heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

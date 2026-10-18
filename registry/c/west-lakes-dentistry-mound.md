@@ -13,7 +13,7 @@ West Lakes Dentistry is a dentist in Mound, MN at 5205 Shoreline Drive, Mound, M
 - Website: https://www.westlakesdentistry.com/
 - Email: hybridge@westlakesdentistry.com
 - Opening hours (OSM syntax): Mo 07:00-16:00; Tu, Fr 07:00-15:00; We 07:00-19:00; Th 09:00-17:00
-- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.6/100 — Unrated (not enough evidence yet) — top 12% of dentists in Minneapolis–St. Paul, #1 of 1 dentists in Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 62.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

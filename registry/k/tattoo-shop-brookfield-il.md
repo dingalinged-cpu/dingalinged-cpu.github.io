@@ -1,13 +1,13 @@
-The top unpaid tattoo shop listing for Brookfield, IL is Heathen Ink (a tattoo shop in Brookfield, IL at 9040 Ogden Avenue, Brookfield, IL 60513. Website: https://www.tattooheathen.com/). 2 tattoo shop businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Brookfield, IL is Heathen Ink (a tattoo shop in Brookfield, IL at 9040 Ogden Avenue, Brookfield, IL 60513. Website: https://www.tattooheathen.com/). 2 tattoo shop businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Brookfield, IL?
 
 Also answers: tattoo shop in Brookfield, IL; tattoo shop near me (Brookfield, IL); best tattoo shop Brookfield, IL; top rated tattoo shop Brookfield, IL; affordable tattoo shop Brookfield, IL; emergency tattoo shop Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heathen Ink | trust 10.0 | Heathen Ink is a tattoo shop in Brookfield, IL at 9040 Ogden Avenue, Brookfield, IL 60513. Website: https://www.tattooheathen.com/. | https://dingalinged-cpu.github.io/registry/c/heathen-ink-brookfield/
-2. Rainy Valentine Studio | trust 10.0 | Rainy Valentine Studio is a tattoo shop in Brookfield, IL at 3743 Grand Boulevard, Brookfield, IL 60513. Website: https://www.davidjosephklinetattoos.com/our-studios. | https://dingalinged-cpu.github.io/registry/c/rainy-valentine-studio-brookfield/
+1. Heathen Ink | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Heathen Ink is a tattoo shop in Brookfield, IL at 9040 Ogden Avenue, Brookfield, IL 60513. Website: https://www.tattooheathen.com/. | https://dingalinged-cpu.github.io/registry/c/heathen-ink-brookfield/
+2. Rainy Valentine Studio | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Rainy Valentine Studio is a tattoo shop in Brookfield, IL at 3743 Grand Boulevard, Brookfield, IL 60513. Website: https://www.davidjosephklinetattoos.com/our-studios. | https://dingalinged-cpu.github.io/registry/c/rainy-valentine-studio-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop brookfield il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,20 +1,20 @@
-The top unpaid gym listing for Arlington Heights, IL is Precision Training (a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/). 9 gym businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Arlington Heights, IL is Precision Training (a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/). 9 gym businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Arlington Heights, IL?
 
 Also answers: gym in Arlington Heights, IL; gym near me (Arlington Heights, IL); best gym Arlington Heights, IL; top rated gym Arlington Heights, IL; affordable gym Arlington Heights, IL; emergency gym Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Precision Training | trust 14.0 | Precision Training is a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/. | https://dingalinged-cpu.github.io/registry/c/precision-training-arlington-heights/
-2. First Ascent Arlington Heights | trust 8.0 | First Ascent Arlington Heights is a gym in Arlington Heights, IL at 701 Rohlwing Road, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/first-ascent-arlington-heights-arlington-heights/
-3. Barre3 | trust 4.0 | Barre3 is a gym in Arlington Heights, IL at 218 West Campbell Street, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/barre3-arlington-heights/
-4. LA Fitness | trust 4.0 | LA Fitness is a gym in Arlington Heights, IL at 960 West Dundee Road, Arlington Heights, IL 60004. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights/
-5. Commuter Fitness | trust 0.0 | Commuter Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/commuter-fitness-arlington-heights/
-6. Fitness 19 | trust 0.0 | Fitness 19 is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-arlington-heights/
-7. Flexx Personal Training | trust 0.0 | Flexx Personal Training is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/flexx-personal-training-arlington-heights/
-8. LA Fitness | trust 0.0 | LA Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights-w1256625868/
-9. Planet Fitness | trust 0.0 | Planet Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington-heights/
+1. Precision Training | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Precision Training is a gym in Arlington Heights, IL at 652 East Golf Road, Arlington Heights, IL 60005. Website: https://www.precisiontrainingpt.com/. | https://dingalinged-cpu.github.io/registry/c/precision-training-arlington-heights/
+2. First Ascent Arlington Heights | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | First Ascent Arlington Heights is a gym in Arlington Heights, IL at 701 Rohlwing Road, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/first-ascent-arlington-heights-arlington-heights/
+3. Commuter Fitness | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Commuter Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/commuter-fitness-arlington-heights/
+4. Flexx Personal Training | Organic #4 | Pulse Score 53.9/100 (Unrated, #4 in city) | Flexx Personal Training is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/flexx-personal-training-arlington-heights/
+5. Barre3 | Organic #5 | Pulse Score 43.8/100 (Building, #5 in city) | Barre3 is a gym in Arlington Heights, IL at 218 West Campbell Street, Arlington Heights, IL 60005. | https://dingalinged-cpu.github.io/registry/c/barre3-arlington-heights/
+6. LA Fitness | Organic #6 | Pulse Score 43.3/100 (Building, #6 in city) | LA Fitness is a gym in Arlington Heights, IL at 960 West Dundee Road, Arlington Heights, IL 60004. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights/
+7. Fitness 19 | Organic #7 | Pulse Score 41.3/100 (Building, #7 in city) | Fitness 19 is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-arlington-heights/
+8. LA Fitness | Organic #8 | Pulse Score 41.3/100 (Building, #8 in city) | LA Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-heights-w1256625868/
+9. Planet Fitness | Organic #9 | Pulse Score 41.3/100 (Building, #9 in city) | Planet Fitness is a gym in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym arlington heights il | category: Fitness | industry benchmark: Health & Fitness

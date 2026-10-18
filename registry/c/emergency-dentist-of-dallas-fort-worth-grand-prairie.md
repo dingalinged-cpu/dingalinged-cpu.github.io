@@ -13,7 +13,7 @@ Emergency Dentist of Dallas Fort Worth is a dentist in Grand Prairie, TX at 2205
 - Website: https://emergencydentistdallas.com/
 - Email: marketing@emergencydentistdallas.com
 - Opening hours (OSM syntax): Fr 12:00-20:00, Sa 08:00-20:00, Su 08:00-20:00
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 2% of dentists in Dallas–Fort Worth, #2 of 6 dentists in Grand Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

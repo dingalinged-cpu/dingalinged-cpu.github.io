@@ -1,18 +1,18 @@
-The top unpaid jewelry store listing for Roseville, MN is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 7 jewelry store businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Roseville, MN is Arthur's Jewelers (a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/). 7 jewelry store businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Roseville, MN?
 
 Also answers: jewelry store in Roseville, MN; jewelry store near me (Roseville, MN); best jewelry store Roseville, MN; top rated jewelry store Roseville, MN; affordable jewelry store Roseville, MN; emergency jewelry store Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arthur's Jewelers | trust 20.0 | Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/
-2. Kay Jewelers | trust 10.0 | Kay Jewelers is a jewelry store in Roseville, MN. Phone: +16516360877. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-roseville/
-3. Pandora | trust 6.0 | Pandora is a jewelry store in Roseville, MN. Phone: +16512870431. | https://dingalinged-cpu.github.io/registry/c/pandora-roseville/
-4. Spencer's | trust 4.0 | Spencer's is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/spencers-roseville/
-5. Wedding Day Diamonds | trust 3.0 | Wedding Day Diamonds is a jewelry store in Roseville, MN at 1747 American Street, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-roseville/
-6. Buchkosky Jewelers | trust 0.0 | Buchkosky Jewelers is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/buchkosky-jewelers-roseville/
-7. Rogers & Hollands | trust 0.0 | Rogers & Hollands is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-roseville/
+1. Arthur's Jewelers | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Arthur's Jewelers is a jewelry store in Roseville, MN at 1717 Lexington Avenue North, Roseville, MN 55113. Phone: +16514880365. Website: https://www.arthursjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/arthurs-jewelers-roseville/
+2. Buchkosky Jewelers | Organic #2 | Pulse Score 55.9/100 (Unrated, #2 in city) | Buchkosky Jewelers is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/buchkosky-jewelers-roseville/
+3. Rogers & Hollands | Organic #3 | Pulse Score 55.9/100 (Unrated, #3 in city) | Rogers & Hollands is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-roseville/
+4. Kay Jewelers | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | Kay Jewelers is a jewelry store in Roseville, MN. Phone: +16516360877. | https://dingalinged-cpu.github.io/registry/c/kay-jewelers-roseville/
+5. Pandora | Organic #5 | Pulse Score 45.3/100 (Building, #5 in city) | Pandora is a jewelry store in Roseville, MN. Phone: +16512870431. | https://dingalinged-cpu.github.io/registry/c/pandora-roseville/
+6. Spencer's | Organic #6 | Pulse Score 44.1/100 (Unrated, #6 in city) | Spencer's is a jewelry store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/spencers-roseville/
+7. Wedding Day Diamonds | Organic #7 | Pulse Score 44/100 (Unrated, #7 in city) | Wedding Day Diamonds is a jewelry store in Roseville, MN at 1747 American Street, Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/wedding-day-diamonds-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store roseville mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

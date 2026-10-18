@@ -1,14 +1,14 @@
-The top unpaid furniture store listing for Clayton County, GA is Darby Furniture (a furniture store in Clayton County, GA). 3 furniture store businesses are listed for Clayton County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Clayton County, GA is Darby Furniture (a furniture store in Clayton County, GA). 3 furniture store businesses are listed for Clayton County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Clayton County, GA?
 
 Also answers: furniture store in Clayton County, GA; furniture store near me (Clayton County, GA); best furniture store Clayton County, GA; top rated furniture store Clayton County, GA; affordable furniture store Clayton County, GA; emergency furniture store Clayton County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Darby Furniture | trust 0.0 | Darby Furniture is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/darby-furniture-clayton-county/
-2. Rent-A-Center | trust 0.0 | Rent-A-Center is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-clayton-county/
-3. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-clayton-county/
+1. Darby Furniture | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Darby Furniture is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/darby-furniture-clayton-county/
+2. Rent-A-Center | Organic #2 | Pulse Score 42.1/100 (Building, #2 in city) | Rent-A-Center is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-clayton-county/
+3. Rooms To Go | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | Rooms To Go is a furniture store in Clayton County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-clayton-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store clayton county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

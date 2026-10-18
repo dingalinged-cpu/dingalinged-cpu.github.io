@@ -13,7 +13,7 @@ Saint Elizabeth Educational Day-Out Services is a preschool in Harris County, TX
 - Website: https://www.seedsrootedinlove.org/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47/100 — Unrated (not enough evidence yet) — top 70% of preschools in Houston, #10 of 12 preschools in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

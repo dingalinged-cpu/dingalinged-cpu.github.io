@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Douglasville, GA is A Able Air Conditionin & Heating (a HVAC contractor in Douglasville, GA at 12821 Veterans Memorial Highway, Douglasville, GA 30134). 2 hvac repair businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Douglasville, GA is A Able Air Conditionin & Heating (a HVAC contractor in Douglasville, GA at 12821 Veterans Memorial Highway, Douglasville, GA 30134). 2 hvac repair businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Douglasville, GA?
 
 Also answers: hvac repair in Douglasville, GA; hvac repair near me (Douglasville, GA); best hvac repair Douglasville, GA; top rated hvac repair Douglasville, GA; affordable hvac repair Douglasville, GA; emergency hvac repair Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A Able Air Conditionin & Heating | trust 4.0 | A Able Air Conditionin & Heating is a HVAC contractor in Douglasville, GA at 12821 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/a-able-air-conditionin-and-heating-douglasville/
-2. Douglasville Heating and Air | trust 4.0 | Douglasville Heating and Air is a HVAC contractor in Douglasville, GA at 11341 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/douglasville-heating-and-air-douglasville/
+1. A Able Air Conditionin & Heating | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | A Able Air Conditionin & Heating is a HVAC contractor in Douglasville, GA at 12821 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/a-able-air-conditionin-and-heating-douglasville/
+2. Douglasville Heating and Air | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Douglasville Heating and Air is a HVAC contractor in Douglasville, GA at 11341 Veterans Memorial Highway, Douglasville, GA 30134. | https://dingalinged-cpu.github.io/registry/c/douglasville-heating-and-air-douglasville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair douglasville ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

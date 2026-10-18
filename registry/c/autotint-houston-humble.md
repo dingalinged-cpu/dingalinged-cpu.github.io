@@ -13,7 +13,7 @@ AutoTint Houston is an auto repair shop in Humble, TX at 99D Isaacks Road, Humbl
 - Website: https://autotinthouston713.com/
 - Email: autotinthouston@gmail.com
 - Opening hours (OSM syntax): Mo-Sa 08:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 1% of auto repair shops in Houston, #1 of 20 auto repair shops in Humble (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.1, Trust 66.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

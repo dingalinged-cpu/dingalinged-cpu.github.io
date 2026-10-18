@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Calumet City, IL is Mavis Tires & Brakes (an auto repair shop in Calumet City, IL at 1360 Ring Road, Calumet City, IL 60409. Website: https://www.mavis.com/locations/calumet-city-il). 2 mechanic businesses are listed for Calumet City, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Calumet City, IL is Mavis Tires & Brakes (an auto repair shop in Calumet City, IL at 1360 Ring Road, Calumet City, IL 60409. Website: https://www.mavis.com/locations/calumet-city-il). 2 mechanic businesses are listed for Calumet City, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Calumet City, IL?
 
 Also answers: mechanic in Calumet City, IL; mechanic near me (Calumet City, IL); best mechanic Calumet City, IL; top rated mechanic Calumet City, IL; affordable mechanic Calumet City, IL; emergency mechanic Calumet City, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mavis Tires & Brakes | trust 10.0 | Mavis Tires & Brakes is an auto repair shop in Calumet City, IL at 1360 Ring Road, Calumet City, IL 60409. Website: https://www.mavis.com/locations/calumet-city-il. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-calumet-city/
-2. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Calumet City, IL at 1450 Sibley Boulevard, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-calumet-city/
+1. Mavis Tires & Brakes | Organic #1 | Pulse Score 46.8/100 (Building, #1 in city) | Mavis Tires & Brakes is an auto repair shop in Calumet City, IL at 1360 Ring Road, Calumet City, IL 60409. Website: https://www.mavis.com/locations/calumet-city-il. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-calumet-city/
+2. Jiffy Lube | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Calumet City, IL at 1450 Sibley Boulevard, Calumet City, IL 60409. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-calumet-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic calumet city il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

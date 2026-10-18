@@ -13,7 +13,7 @@ Von-Wil Ford is an used car dealer in Wharton, TX at 316 North Richmond Road, Wh
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.6/100 — Unrated (not enough evidence yet) — top 96% of used car dealers in Houston, #1 of 1 used car dealers in Wharton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 41.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

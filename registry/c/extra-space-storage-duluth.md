@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Duluth, GA at 1790 Peachtree I
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 49% of self-storage facilitys in Atlanta, #1 of 3 self-storage facilitys in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 27.7, Trust 53.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

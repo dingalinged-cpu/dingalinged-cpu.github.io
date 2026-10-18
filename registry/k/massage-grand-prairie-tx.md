@@ -1,12 +1,12 @@
-The top unpaid massage listing for Grand Prairie, TX is Petal & Brow Threading and Spa (a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/). 1 massage businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Grand Prairie, TX is Petal & Brow Threading and Spa (a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/). 1 massage businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Grand Prairie, TX?
 
 Also answers: massage in Grand Prairie, TX; massage near me (Grand Prairie, TX); best massage Grand Prairie, TX; top rated massage Grand Prairie, TX; affordable massage Grand Prairie, TX; emergency massage Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petal & Brow Threading and Spa | trust 20.0 | Petal & Brow Threading and Spa is a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/. | https://dingalinged-cpu.github.io/registry/c/petal-and-brow-threading-and-spa-grand-prairie/
+1. Petal & Brow Threading and Spa | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Petal & Brow Threading and Spa is a massage studio in Grand Prairie, TX at 7535 Lake Ridge Parkway #150, Grand Prairie, TX 75054. Phone: +16822227005. Website: https://petalandbrowco.com/. | https://dingalinged-cpu.github.io/registry/c/petal-and-brow-threading-and-spa-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage grand prairie tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

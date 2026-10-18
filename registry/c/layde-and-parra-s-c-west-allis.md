@@ -13,7 +13,7 @@ Layde & Parra S.C. is a lawyer in West Allis, WI at 6737 West Washington Street 
 - Website: https://laydeimmigration.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00
-- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 24% of lawyers in Milwaukee, #1 of 1 lawyers in West Allis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.4, Trust 58.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

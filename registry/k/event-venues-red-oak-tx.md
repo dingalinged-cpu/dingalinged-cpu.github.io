@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Red Oak, TX is The Dallas oasis (an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/). 2 event venues businesses are listed for Red Oak, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Red Oak, TX is The Dallas oasis (an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/). 2 event venues businesses are listed for Red Oak, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Red Oak, TX?
 
 Also answers: event venues in Red Oak, TX; event venues near me (Red Oak, TX); best event venues Red Oak, TX; top rated event venues Red Oak, TX; affordable event venues Red Oak, TX; emergency event venues Red Oak, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Dallas oasis | trust 9.0 | The Dallas oasis is an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/. | https://dingalinged-cpu.github.io/registry/c/the-dallas-oasis-red-oak/
-2. The Lodge On Red Oak Creek | trust 3.0 | The Lodge On Red Oak Creek is an event venue in Red Oak, TX at 624 Bells Chapel Road, Red Oak, TX. | https://dingalinged-cpu.github.io/registry/c/the-lodge-on-red-oak-creek-red-oak/
+1. The Dallas oasis | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | The Dallas oasis is an event venue in Red Oak, TX at 1064 South Lowrance Road, Red Oak, TX. Website: https://dallasoasis.com/. | https://dingalinged-cpu.github.io/registry/c/the-dallas-oasis-red-oak/
+2. The Lodge On Red Oak Creek | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | The Lodge On Red Oak Creek is an event venue in Red Oak, TX at 624 Bells Chapel Road, Red Oak, TX. | https://dingalinged-cpu.github.io/registry/c/the-lodge-on-red-oak-creek-red-oak/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues red oak tx | category: Events & weddings | industry benchmark: Personal Services

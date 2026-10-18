@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Palos Park, IL is Great Clips (a hair salon in Palos Park, IL at 13002 South La Grange Road, Palos Park, IL 60464). 2 hair salon businesses are listed for Palos Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Palos Park, IL is Wisemen Barber Lounge (a hair salon in Palos Park, IL). 2 hair salon businesses are listed for Palos Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Palos Park, IL?
 
 Also answers: hair salon in Palos Park, IL; hair salon near me (Palos Park, IL); best hair salon Palos Park, IL; top rated hair salon Palos Park, IL; affordable hair salon Palos Park, IL; emergency hair salon Palos Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Great Clips | trust 4.0 | Great Clips is a hair salon in Palos Park, IL at 13002 South La Grange Road, Palos Park, IL 60464. | https://dingalinged-cpu.github.io/registry/c/great-clips-palos-park/
-2. Wisemen Barber Lounge | trust 0.0 | Wisemen Barber Lounge is a hair salon in Palos Park, IL. | https://dingalinged-cpu.github.io/registry/c/wisemen-barber-lounge-palos-park/
+1. Wisemen Barber Lounge | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Wisemen Barber Lounge is a hair salon in Palos Park, IL. | https://dingalinged-cpu.github.io/registry/c/wisemen-barber-lounge-palos-park/
+2. Great Clips | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Great Clips is a hair salon in Palos Park, IL at 13002 South La Grange Road, Palos Park, IL 60464. | https://dingalinged-cpu.github.io/registry/c/great-clips-palos-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon palos park il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

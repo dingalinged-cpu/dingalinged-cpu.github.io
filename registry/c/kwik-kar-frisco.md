@@ -13,7 +13,7 @@ Kwik Kar is an auto repair shop in Frisco, TX at 3280 Legacy Drive, Frisco, TX 7
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 45/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.6/100 — Unrated (not enough evidence yet) — top 81% of auto repair shops in Dallas–Fort Worth, #22 of 24 auto repair shops in Frisco (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.9, Trust 48.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

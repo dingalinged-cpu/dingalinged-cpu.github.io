@@ -1,16 +1,16 @@
-The top unpaid financial advisor listing for Flower Mound, TX is Edward Jones (a financial advisor in Flower Mound, TX at 2913 Corporate Circle #200, Flower Mound, TX. Phone: +19723550918). 5 financial advisor businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Flower Mound, TX is GSD Wealth Management (a financial advisor in Flower Mound, TX). 5 financial advisor businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Flower Mound, TX?
 
 Also answers: financial advisor in Flower Mound, TX; financial advisor near me (Flower Mound, TX); best financial advisor Flower Mound, TX; top rated financial advisor Flower Mound, TX; affordable financial advisor Flower Mound, TX; emergency financial advisor Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Edward Jones | trust 9.0 | Edward Jones is a financial advisor in Flower Mound, TX at 2913 Corporate Circle #200, Flower Mound, TX. Phone: +19723550918. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound/
-2. Edward Jones | trust 9.0 | Edward Jones is a financial advisor in Flower Mound, TX at 2604 Long Prairie Road #200, Flower Mound, TX. Phone: +14699930344. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13836480299/
-3. Edward Jones | trust 3.0 | Edward Jones is a financial advisor in Flower Mound, TX at 4491 Long Prairie Road #500, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13806510368/
-4. Edward Jones | trust 0.0 | Edward Jones is a financial advisor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13462948144/
-5. GSD Wealth Management | trust 0.0 | GSD Wealth Management is a financial advisor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/gsd-wealth-management-flower-mound/
+1. GSD Wealth Management | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | GSD Wealth Management is a financial advisor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/gsd-wealth-management-flower-mound/
+2. Edward Jones | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 2913 Corporate Circle #200, Flower Mound, TX. Phone: +19723550918. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound/
+3. Edward Jones | Organic #3 | Pulse Score 48.6/100 (Building, #3 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 2604 Long Prairie Road #200, Flower Mound, TX. Phone: +14699930344. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13836480299/
+4. Edward Jones | Organic #4 | Pulse Score 46.4/100 (Building, #4 in city) | Edward Jones is a financial advisor in Flower Mound, TX at 4491 Long Prairie Road #500, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13806510368/
+5. Edward Jones | Organic #5 | Pulse Score 44.1/100 (Building, #5 in city) | Edward Jones is a financial advisor in Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/edward-jones-flower-mound-n13462948144/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

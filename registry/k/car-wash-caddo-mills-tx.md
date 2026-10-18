@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Caddo Mills, TX is Caddo Mills Fox Wash (a car wash in Caddo Mills, TX at 2007 Gilmer Street, Caddo Mills, TX). 1 car wash businesses are listed for Caddo Mills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Caddo Mills, TX is Caddo Mills Fox Wash (a car wash in Caddo Mills, TX at 2007 Gilmer Street, Caddo Mills, TX). 1 car wash businesses are listed for Caddo Mills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Caddo Mills, TX?
 
 Also answers: car wash in Caddo Mills, TX; car wash near me (Caddo Mills, TX); best car wash Caddo Mills, TX; top rated car wash Caddo Mills, TX; affordable car wash Caddo Mills, TX; emergency car wash Caddo Mills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caddo Mills Fox Wash | trust 3.0 | Caddo Mills Fox Wash is a car wash in Caddo Mills, TX at 2007 Gilmer Street, Caddo Mills, TX. | https://dingalinged-cpu.github.io/registry/c/caddo-mills-fox-wash-caddo-mills/
+1. Caddo Mills Fox Wash | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Caddo Mills Fox Wash is a car wash in Caddo Mills, TX at 2007 Gilmer Street, Caddo Mills, TX. | https://dingalinged-cpu.github.io/registry/c/caddo-mills-fox-wash-caddo-mills/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash caddo mills tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

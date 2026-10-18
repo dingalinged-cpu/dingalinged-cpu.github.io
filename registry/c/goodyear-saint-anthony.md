@@ -13,7 +13,7 @@ Goodyear is an auto repair shop in Saint Anthony, MN at 4020 Silver Lake Road No
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-18:00
-- Registry Score: 45/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.4/100 — Building — top 86% of auto repair shops in Minneapolis–St. Paul, #5 of 5 auto repair shops in Saint Anthony (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

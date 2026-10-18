@@ -13,7 +13,7 @@ Allstate is an insurance agent in Flower Mound, TX at 400 Flower Mound Road #130
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa open "By appointment"; PH closed
-- Registry Score: 50.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 46% of insurance agents in Dallas–Fort Worth, #2 of 8 insurance agents in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

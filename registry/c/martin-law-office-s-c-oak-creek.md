@@ -13,7 +13,7 @@ Martin Law Office, S.C. is a lawyer in Oak Creek, WI at 7280 South 13th Street #
 - Website: https://www.martin-law-office.com/
 - Email: kevin@martin-law-office.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 17% of lawyers in Milwaukee, #1 of 1 lawyers in Oak Creek (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

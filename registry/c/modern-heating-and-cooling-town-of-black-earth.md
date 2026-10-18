@@ -13,7 +13,7 @@ Modern Heating & Cooling is a HVAC contractor in Town of Black Earth, WI.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.1/100 — Unrated (not enough evidence yet) — top 60% of HVAC contractors in Madison, #1 of 1 HVAC contractors in Town of Black Earth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.6, Trust 40.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

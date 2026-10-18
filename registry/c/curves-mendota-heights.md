@@ -13,7 +13,7 @@ Curves is a gym in Mendota Heights, MN at 790 Plaza Drive, Mendota Heights, MN 5
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 40.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 42.6/100 — Building — top 86% of gyms in Minneapolis–St. Paul, #2 of 3 gyms in Mendota Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.8, Trust 45.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid music lessons listing for Madison, WI is WYSO Center For Music (a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/). 3 music lessons businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Madison, WI is WYSO Center For Music (a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/). 3 music lessons businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Madison, WI?
 
 Also answers: music lessons in Madison, WI; music lessons near me (Madison, WI); best music lessons Madison, WI; top rated music lessons Madison, WI; affordable music lessons Madison, WI; emergency music lessons Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WYSO Center For Music | trust 16.0 | WYSO Center For Music is a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/. | https://dingalinged-cpu.github.io/registry/c/wyso-center-for-music-madison/
-2. Madison Academy of Music | trust 0.0 | Madison Academy of Music is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/madison-academy-of-music-madison/
-3. MAVEN Vocal Arts | trust 0.0 | MAVEN Vocal Arts is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/maven-vocal-arts-madison/
+1. WYSO Center For Music | Organic #1 | Pulse Score 61.3/100 (Good, #1 in city) | WYSO Center For Music is a music school in Madison, WI at 1118 E Washington Ave., Madison, WI 53703. Phone: +16087336283. Website: https://wysomusic.org/. | https://dingalinged-cpu.github.io/registry/c/wyso-center-for-music-madison/
+2. MAVEN Vocal Arts | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | MAVEN Vocal Arts is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/maven-vocal-arts-madison/
+3. Madison Academy of Music | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Madison Academy of Music is a music school in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/madison-academy-of-music-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons madison wi | category: Education & childcare | industry benchmark: Education & Instruction

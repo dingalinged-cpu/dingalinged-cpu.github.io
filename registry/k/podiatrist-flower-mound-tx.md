@@ -1,13 +1,13 @@
-The top unpaid podiatrist listing for Flower Mound, TX is Foot & Ankle Solutions (a podiatrist in Flower Mound, TX at 3208 Long Prairie Road #B, Flower Mound, TX. Phone: +19725398488). 2 podiatrist businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Flower Mound, TX is Foot & Ankle Solutions (a podiatrist in Flower Mound, TX at 3208 Long Prairie Road #B, Flower Mound, TX. Phone: +19725398488). 2 podiatrist businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Flower Mound, TX?
 
 Also answers: podiatrist in Flower Mound, TX; podiatrist near me (Flower Mound, TX); best podiatrist Flower Mound, TX; top rated podiatrist Flower Mound, TX; affordable podiatrist Flower Mound, TX; emergency podiatrist Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foot & Ankle Solutions | trust 13.0 | Foot & Ankle Solutions is a podiatrist in Flower Mound, TX at 3208 Long Prairie Road #B, Flower Mound, TX. Phone: +19725398488. | https://dingalinged-cpu.github.io/registry/c/foot-and-ankle-solutions-flower-mound/
-2. Stride Care | trust 7.0 | Stride Care is a podiatrist in Flower Mound, TX at 4421 Long Prairie Road #200, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/stride-care-flower-mound/
+1. Foot & Ankle Solutions | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Foot & Ankle Solutions is a podiatrist in Flower Mound, TX at 3208 Long Prairie Road #B, Flower Mound, TX. Phone: +19725398488. | https://dingalinged-cpu.github.io/registry/c/foot-and-ankle-solutions-flower-mound/
+2. Stride Care | Organic #2 | Pulse Score 60.9/100 (Good, #2 in city) | Stride Care is a podiatrist in Flower Mound, TX at 4421 Long Prairie Road #200, Flower Mound, TX. | https://dingalinged-cpu.github.io/registry/c/stride-care-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist flower mound tx | category: Health & medical | industry benchmark: Physicians & Surgeons

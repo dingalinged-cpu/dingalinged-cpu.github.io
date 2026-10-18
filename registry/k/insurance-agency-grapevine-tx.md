@@ -1,13 +1,13 @@
-The top unpaid insurance agency listing for Grapevine, TX is Fidelity National Title Insurance Company (an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019). 2 insurance agency businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Grapevine, TX is Fidelity National Title Insurance Company (an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019). 2 insurance agency businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Grapevine, TX?
 
 Also answers: insurance agency in Grapevine, TX; insurance agency near me (Grapevine, TX); best insurance agency Grapevine, TX; top rated insurance agency Grapevine, TX; affordable insurance agency Grapevine, TX; emergency insurance agency Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fidelity National Title Insurance Company | trust 10.0 | Fidelity National Title Insurance Company is an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019. | https://dingalinged-cpu.github.io/registry/c/fidelity-national-title-insurance-company-grapevine/
-2. State Farm | trust 0.0 | State Farm is an insurance agent in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-grapevine/
+1. Fidelity National Title Insurance Company | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Fidelity National Title Insurance Company is an insurance agent in Grapevine, TX at 4841 Merlot Avenue #440, Grapevine, TX 76051. Phone: +18177708019. | https://dingalinged-cpu.github.io/registry/c/fidelity-national-title-insurance-company-grapevine/
+2. State Farm | Organic #2 | Pulse Score 43.7/100 (Building, #2 in city) | State Farm is an insurance agent in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency grapevine tx | category: insurance | industry benchmark: Finance & Insurance

@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Mundelein, IL is Juan’s Auto Repair (an auto repair shop in Mundelein, IL at 825 East Orchard Street, Mundelein, IL 60060. Phone: +18474208335). 3 mechanic businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Mundelein, IL is Juan’s Auto Repair (an auto repair shop in Mundelein, IL at 825 East Orchard Street, Mundelein, IL 60060. Phone: +18474208335). 3 mechanic businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Mundelein, IL?
 
 Also answers: mechanic in Mundelein, IL; mechanic near me (Mundelein, IL); best mechanic Mundelein, IL; top rated mechanic Mundelein, IL; affordable mechanic Mundelein, IL; emergency mechanic Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Juan’s Auto Repair | trust 14.0 | Juan’s Auto Repair is an auto repair shop in Mundelein, IL at 825 East Orchard Street, Mundelein, IL 60060. Phone: +18474208335. | https://dingalinged-cpu.github.io/registry/c/juan-s-auto-repair-mundelein/
-2. Safelite AutoGlass | trust 3.0 | Safelite AutoGlass is an auto repair shop in Mundelein, IL at Townline Road, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-mundelein/
-3. Jiffy Lube | trust 0.0 | Jiffy Lube is an auto repair shop in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-mundelein/
+1. Juan’s Auto Repair | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | Juan’s Auto Repair is an auto repair shop in Mundelein, IL at 825 East Orchard Street, Mundelein, IL 60060. Phone: +18474208335. | https://dingalinged-cpu.github.io/registry/c/juan-s-auto-repair-mundelein/
+2. Safelite AutoGlass | Organic #2 | Pulse Score 43.9/100 (Building, #2 in city) | Safelite AutoGlass is an auto repair shop in Mundelein, IL at Townline Road, Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/safelite-autoglass-mundelein/
+3. Jiffy Lube | Organic #3 | Pulse Score 42.2/100 (Building, #3 in city) | Jiffy Lube is an auto repair shop in Mundelein, IL. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic mundelein il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

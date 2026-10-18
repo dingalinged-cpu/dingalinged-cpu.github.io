@@ -1,14 +1,14 @@
-The top unpaid used cars for sale listing for Doraville, GA is Mike Rezi Nissan Atlanta (an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360). 3 used cars for sale businesses are listed for Doraville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Doraville, GA is Mike Rezi Nissan Atlanta (an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360). 3 used cars for sale businesses are listed for Doraville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Doraville, GA?
 
 Also answers: used cars for sale in Doraville, GA; used cars for sale near me (Doraville, GA); best used cars for sale Doraville, GA; top rated used cars for sale Doraville, GA; affordable used cars for sale Doraville, GA; emergency used cars for sale Doraville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mike Rezi Nissan Atlanta | trust 4.0 | Mike Rezi Nissan Atlanta is an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360. | https://dingalinged-cpu.github.io/registry/c/mike-rezi-nissan-atlanta-atlanta/
-2. Nalley Infiniti | trust 4.0 | Nalley Infiniti is an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360. | https://dingalinged-cpu.github.io/registry/c/nalley-infiniti-atlanta/
-3. On the Road Again Auto Sales | trust 0.0 | On the Road Again Auto Sales is an used car dealer in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/on-the-road-again-auto-sales-doraville/
+1. Mike Rezi Nissan Atlanta | Organic #1 | Pulse Score 58/100 (Unrated, #4 in city) | Mike Rezi Nissan Atlanta is an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360. | https://dingalinged-cpu.github.io/registry/c/mike-rezi-nissan-atlanta-atlanta/
+2. Nalley Infiniti | Organic #2 | Pulse Score 58/100 (Unrated, #5 in city) | Nalley Infiniti is an used car dealer in Atlanta, GA at 2550 The Nalley Way, Atlanta, GA 30360. | https://dingalinged-cpu.github.io/registry/c/nalley-infiniti-atlanta/
+3. On the Road Again Auto Sales | Organic #3 | Pulse Score 54.8/100 (Unrated, #1 in city) | On the Road Again Auto Sales is an used car dealer in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/on-the-road-again-auto-sales-doraville/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale doraville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

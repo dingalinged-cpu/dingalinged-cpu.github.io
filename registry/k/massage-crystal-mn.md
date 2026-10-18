@@ -1,12 +1,12 @@
-The top unpaid massage listing for Crystal, MN is Thai Massage (a massage studio in Crystal, MN). 1 massage businesses are listed for Crystal, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Crystal, MN is Thai Massage (a massage studio in Crystal, MN). 1 massage businesses are listed for Crystal, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Crystal, MN?
 
 Also answers: massage in Crystal, MN; massage near me (Crystal, MN); best massage Crystal, MN; top rated massage Crystal, MN; affordable massage Crystal, MN; emergency massage Crystal, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Thai Massage | trust 0.0 | Thai Massage is a massage studio in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/thai-massage-crystal/
+1. Thai Massage | Organic #1 | Pulse Score 41.3/100 (Unrated, #1 in city) | Thai Massage is a massage studio in Crystal, MN. | https://dingalinged-cpu.github.io/registry/c/thai-massage-crystal/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage crystal mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

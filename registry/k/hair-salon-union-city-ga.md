@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for Union City, GA is Official Sam Salon (a hair salon in Atlanta, GA at 5851 Buffington Road #G, Atlanta, GA 30349. Phone: +14704767843. Website: https://www.officialsamsalon.com/). 3 hair salon businesses are listed for Union City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Union City, GA is Official Sam Salon (a hair salon in Atlanta, GA at 5851 Buffington Road #G, Atlanta, GA 30349. Phone: +14704767843. Website: https://www.officialsamsalon.com/). 3 hair salon businesses are listed for Union City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Union City, GA?
 
 Also answers: hair salon in Union City, GA; hair salon near me (Union City, GA); best hair salon Union City, GA; top rated hair salon Union City, GA; affordable hair salon Union City, GA; emergency hair salon Union City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Official Sam Salon | trust 20.0 | Official Sam Salon is a hair salon in Atlanta, GA at 5851 Buffington Road #G, Atlanta, GA 30349. Phone: +14704767843. Website: https://www.officialsamsalon.com/. | https://dingalinged-cpu.github.io/registry/c/official-sam-salon-atlanta/
-2. Dior & Daughter | trust 13.0 | Dior & Daughter is a hair salon in Union City, GA at 6810 Shannon Parkway #B1, Union City, GA. Phone: +14047404758. | https://dingalinged-cpu.github.io/registry/c/dior-and-daughter-union-city/
-3. All Masters | trust 4.0 | All Masters is a hair salon in Union City, GA at 6810 Shannon Parkway #1C, Union City, GA 30291. | https://dingalinged-cpu.github.io/registry/c/all-masters-union-city/
+1. Official Sam Salon | Organic #1 | Pulse Score 64/100 (Good, #8 in city) | Official Sam Salon is a hair salon in Atlanta, GA at 5851 Buffington Road #G, Atlanta, GA 30349. Phone: +14704767843. Website: https://www.officialsamsalon.com/. | https://dingalinged-cpu.github.io/registry/c/official-sam-salon-atlanta/
+2. Dior & Daughter | Organic #2 | Pulse Score 59.6/100 (Unrated, #1 in city) | Dior & Daughter is a hair salon in Union City, GA at 6810 Shannon Parkway #B1, Union City, GA. Phone: +14047404758. | https://dingalinged-cpu.github.io/registry/c/dior-and-daughter-union-city/
+3. All Masters | Organic #3 | Pulse Score 57/100 (Unrated, #2 in city) | All Masters is a hair salon in Union City, GA at 6810 Shannon Parkway #1C, Union City, GA 30291. | https://dingalinged-cpu.github.io/registry/c/all-masters-union-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon union city ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

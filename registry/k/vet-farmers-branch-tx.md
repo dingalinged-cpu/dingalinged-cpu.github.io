@@ -1,13 +1,13 @@
-The top unpaid vet listing for Farmers Branch, TX is Valley View Pet Health Center (a veterinarian in Farmers Branch, TX at 2561 Valley View Lane #A, Farmers Branch, TX 75234. Phone: +19722472242. Website: https://www.vvphc.com/). 2 vet businesses are listed for Farmers Branch, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Farmers Branch, TX is Valley View Pet Health Center (a veterinarian in Farmers Branch, TX at 2561 Valley View Lane #A, Farmers Branch, TX 75234. Phone: +19722472242. Website: https://www.vvphc.com/). 2 vet businesses are listed for Farmers Branch, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Farmers Branch, TX?
 
 Also answers: vet in Farmers Branch, TX; vet near me (Farmers Branch, TX); best vet Farmers Branch, TX; top rated vet Farmers Branch, TX; affordable vet Farmers Branch, TX; emergency vet Farmers Branch, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Valley View Pet Health Center | trust 20.0 | Valley View Pet Health Center is a veterinarian in Farmers Branch, TX at 2561 Valley View Lane #A, Farmers Branch, TX 75234. Phone: +19722472242. Website: https://www.vvphc.com/. | https://dingalinged-cpu.github.io/registry/c/valley-view-pet-health-center-farmers-branch/
-2. Pet Vet | trust 0.0 | Pet Vet is a veterinarian in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/pet-vet-farmers-branch/
+1. Valley View Pet Health Center | Organic #1 | Pulse Score 62.3/100 (Good, #1 in city) | Valley View Pet Health Center is a veterinarian in Farmers Branch, TX at 2561 Valley View Lane #A, Farmers Branch, TX 75234. Phone: +19722472242. Website: https://www.vvphc.com/. | https://dingalinged-cpu.github.io/registry/c/valley-view-pet-health-center-farmers-branch/
+2. Pet Vet | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Pet Vet is a veterinarian in Farmers Branch, TX. | https://dingalinged-cpu.github.io/registry/c/pet-vet-farmers-branch/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet farmers branch tx | category: Pets | industry benchmark: Animals & Pets

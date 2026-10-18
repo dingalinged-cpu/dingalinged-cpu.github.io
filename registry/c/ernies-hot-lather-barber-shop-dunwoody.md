@@ -13,7 +13,7 @@ Ernie's Hot Lather Barber Shop is a hair salon in Dunwoody, GA at 5064 Nandina L
 - Website: https://ernieshotlatherbarbershop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 08:00-18:00; Sa 08:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 19% of hair salons in Atlanta, #2 of 3 hair salons in Dunwoody (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

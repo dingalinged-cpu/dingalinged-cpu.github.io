@@ -1,14 +1,14 @@
-The top unpaid shoe repair listing for Atlanta, GA is The Glass Shine (a shoe repair in Atlanta, GA at 1180 Peachtree Street Northeast, Atlanta, GA. Phone: +16785906231). 3 shoe repair businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Atlanta, GA is The Glass Shine (a shoe repair in Atlanta, GA at 1180 Peachtree Street Northeast, Atlanta, GA. Phone: +16785906231). 3 shoe repair businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Atlanta, GA?
 
 Also answers: shoe repair in Atlanta, GA; shoe repair near me (Atlanta, GA); best shoe repair Atlanta, GA; top rated shoe repair Atlanta, GA; affordable shoe repair Atlanta, GA; emergency shoe repair Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Glass Shine | trust 13.0 | The Glass Shine is a shoe repair in Atlanta, GA at 1180 Peachtree Street Northeast, Atlanta, GA. Phone: +16785906231. | https://dingalinged-cpu.github.io/registry/c/the-glass-shine-atlanta/
-2. Ansley Shoe Repair | trust 9.0 | Ansley Shoe Repair is a shoe repair in Atlanta, GA at 1579 Monroe Drive Northeast #D, Atlanta, GA. Phone: +14048851171. | https://dingalinged-cpu.github.io/registry/c/ansley-shoe-repair-atlanta/
-3. Trio Shoe Service | trust 4.0 | Trio Shoe Service is a shoe repair in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/trio-shoe-service-atlanta/
+1. The Glass Shine | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | The Glass Shine is a shoe repair in Atlanta, GA at 1180 Peachtree Street Northeast, Atlanta, GA. Phone: +16785906231. | https://dingalinged-cpu.github.io/registry/c/the-glass-shine-atlanta/
+2. Ansley Shoe Repair | Organic #2 | Pulse Score 62.5/100 (Good, #2 in city) | Ansley Shoe Repair is a shoe repair in Atlanta, GA at 1579 Monroe Drive Northeast #D, Atlanta, GA. Phone: +14048851171. | https://dingalinged-cpu.github.io/registry/c/ansley-shoe-repair-atlanta/
+3. Trio Shoe Service | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Trio Shoe Service is a shoe repair in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/trio-shoe-service-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair atlanta ga | category: Professional & financial services | industry benchmark: Finance & Insurance

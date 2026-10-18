@@ -1,25 +1,25 @@
-The top unpaid used cars for sale listing for Madison, WI is Emblem Pre-Owned (an used car dealer in Madison, WI. Phone: +16086652222). 14 used cars for sale businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Madison, WI is Emblem Pre-Owned (an used car dealer in Madison, WI. Phone: +16086652222). 14 used cars for sale businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Madison, WI?
 
 Also answers: used cars for sale in Madison, WI; used cars for sale near me (Madison, WI); best used cars for sale Madison, WI; top rated used cars for sale Madison, WI; affordable used cars for sale Madison, WI; emergency used cars for sale Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Emblem Pre-Owned | trust 10.0 | Emblem Pre-Owned is an used car dealer in Madison, WI. Phone: +16086652222. | https://dingalinged-cpu.github.io/registry/c/emblem-pre-owned-madison/
-2. Lot 51 Auto Sales | trust 10.0 | Lot 51 Auto Sales is an used car dealer in Madison, WI at 3901 Dempsey Road, Madison, WI 53716. Website: https://www.lot51autosales.com/. | https://dingalinged-cpu.github.io/registry/c/lot-51-auto-sales-madison/
-3. CarMax - Madison | trust 9.0 | CarMax - Madison is an used car dealer in Madison, WI at 6601 Odana Road, Madison, WI. Website: https://www.carmax.com/stores/6057. | https://dingalinged-cpu.github.io/registry/c/carmax-madison-madison/
-4. Quality Cars for Less | trust 6.0 | Quality Cars for Less is an used car dealer in Madison, WI. Website: https://qualitycarsforless.com/. | https://dingalinged-cpu.github.io/registry/c/quality-cars-for-less-madison/
-5. Campus Cars | trust 3.0 | Campus Cars is an used car dealer in Madison, WI at 1337 Regent Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/campus-cars-madison/
-6. Smart Budget | trust 3.0 | Smart Budget is an used car dealer in Madison, WI at 6509 Odana Road, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/smart-budget-madison/
-7. Don Miller Subaru - Pre Owned | trust 0.0 | Don Miller Subaru - Pre Owned is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/don-miller-subaru-pre-owned-madison/
-8. Goben Cars East | trust 0.0 | Goben Cars East is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goben-cars-east-madison/
-9. Great Motors | trust 0.0 | Great Motors is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/great-motors-madison/
-10. Schoepp Motors Northeast | trust 0.0 | Schoepp Motors Northeast is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/schoepp-motors-northeast-madison/
-11. Toby's Auto Sales | trust 0.0 | Toby's Auto Sales is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tobys-auto-sales-madison/
-12. Wonder Motors LLC | trust 0.0 | Wonder Motors LLC is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wonder-motors-llc-madison/
-13. Zimbrick Eastside Economy Korner | trust 0.0 | Zimbrick Eastside Economy Korner is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/zimbrick-eastside-economy-korner-madison/
-14. Zimbrick Volkswagen Used | trust 0.0 | Zimbrick Volkswagen Used is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/zimbrick-volkswagen-used-madison/
+1. Emblem Pre-Owned | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Emblem Pre-Owned is an used car dealer in Madison, WI. Phone: +16086652222. | https://dingalinged-cpu.github.io/registry/c/emblem-pre-owned-madison/
+2. Lot 51 Auto Sales | Organic #2 | Pulse Score 59.9/100 (Unrated, #2 in city) | Lot 51 Auto Sales is an used car dealer in Madison, WI at 3901 Dempsey Road, Madison, WI 53716. Website: https://www.lot51autosales.com/. | https://dingalinged-cpu.github.io/registry/c/lot-51-auto-sales-madison/
+3. Campus Cars | Organic #3 | Pulse Score 59.2/100 (Unrated, #3 in city) | Campus Cars is an used car dealer in Madison, WI at 1337 Regent Street, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/campus-cars-madison/
+4. Quality Cars for Less | Organic #4 | Pulse Score 58.1/100 (Unrated, #4 in city) | Quality Cars for Less is an used car dealer in Madison, WI. Website: https://qualitycarsforless.com/. | https://dingalinged-cpu.github.io/registry/c/quality-cars-for-less-madison/
+5. Smart Budget | Organic #5 | Pulse Score 56.9/100 (Unrated, #5 in city) | Smart Budget is an used car dealer in Madison, WI at 6509 Odana Road, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/smart-budget-madison/
+6. Don Miller Subaru - Pre Owned | Organic #6 | Pulse Score 55.2/100 (Unrated, #6 in city) | Don Miller Subaru - Pre Owned is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/don-miller-subaru-pre-owned-madison/
+7. Goben Cars East | Organic #7 | Pulse Score 55.2/100 (Unrated, #7 in city) | Goben Cars East is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/goben-cars-east-madison/
+8. Great Motors | Organic #8 | Pulse Score 55.2/100 (Unrated, #8 in city) | Great Motors is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/great-motors-madison/
+9. Schoepp Motors Northeast | Organic #9 | Pulse Score 55.2/100 (Unrated, #9 in city) | Schoepp Motors Northeast is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/schoepp-motors-northeast-madison/
+10. Toby's Auto Sales | Organic #10 | Pulse Score 55.2/100 (Unrated, #10 in city) | Toby's Auto Sales is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tobys-auto-sales-madison/
+11. Wonder Motors LLC | Organic #11 | Pulse Score 55.2/100 (Unrated, #11 in city) | Wonder Motors LLC is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wonder-motors-llc-madison/
+12. Zimbrick Eastside Economy Korner | Organic #12 | Pulse Score 55.2/100 (Unrated, #12 in city) | Zimbrick Eastside Economy Korner is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/zimbrick-eastside-economy-korner-madison/
+13. CarMax - Madison | Organic #13 | Pulse Score 46.9/100 (Building, #13 in city) | CarMax - Madison is an used car dealer in Madison, WI at 6601 Odana Road, Madison, WI. Website: https://www.carmax.com/stores/6057. | https://dingalinged-cpu.github.io/registry/c/carmax-madison-madison/
+14. Zimbrick Volkswagen Used | Organic #14 | Pulse Score 43.4/100 (Building, #14 in city) | Zimbrick Volkswagen Used is an used car dealer in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/zimbrick-volkswagen-used-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale madison wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,17 +1,17 @@
-The top unpaid hair salon listing for West Saint Paul, MN is Innovations Salon (a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231). 6 hair salon businesses are listed for West Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for West Saint Paul, MN is Innovations Salon (a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231). 6 hair salon businesses are listed for West Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in West Saint Paul, MN?
 
 Also answers: hair salon in West Saint Paul, MN; hair salon near me (West Saint Paul, MN); best hair salon West Saint Paul, MN; top rated hair salon West Saint Paul, MN; affordable hair salon West Saint Paul, MN; emergency hair salon West Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Innovations Salon | trust 10.0 | Innovations Salon is a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231. | https://dingalinged-cpu.github.io/registry/c/innovations-salon-west-saint-paul/
-2. The Hair Shoppe | trust 6.0 | The Hair Shoppe is a hair salon in West Saint Paul, MN. Phone: +16514579308. | https://dingalinged-cpu.github.io/registry/c/the-hair-shoppe-west-saint-paul/
-3. Cost Cutters | trust 4.0 | Cost Cutters is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-west-saint-paul/
-4. Patricia's Hair Studio | trust 0.0 | Patricia's Hair Studio is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/patricias-hair-studio-west-saint-paul/
-5. Sola Salons | trust 0.0 | Sola Salons is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sola-salons-west-saint-paul/
-6. Sport Clips | trust 0.0 | Sport Clips is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-west-saint-paul/
+1. Innovations Salon | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Innovations Salon is a hair salon in West Saint Paul, MN at 1020 Smith Avenue South, West Saint Paul, MN 55118. Phone: +16514551231. | https://dingalinged-cpu.github.io/registry/c/innovations-salon-west-saint-paul/
+2. The Hair Shoppe | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | The Hair Shoppe is a hair salon in West Saint Paul, MN. Phone: +16514579308. | https://dingalinged-cpu.github.io/registry/c/the-hair-shoppe-west-saint-paul/
+3. Patricia's Hair Studio | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Patricia's Hair Studio is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/patricias-hair-studio-west-saint-paul/
+4. Cost Cutters | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Cost Cutters is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/cost-cutters-west-saint-paul/
+5. Sport Clips | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Sport Clips is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sport-clips-west-saint-paul/
+6. Sola Salons | Organic #6 | Pulse Score 41.7/100 (Unrated, #6 in city) | Sola Salons is a hair salon in West Saint Paul, MN. | https://dingalinged-cpu.github.io/registry/c/sola-salons-west-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon west saint paul mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,13 +1,13 @@
-The top unpaid auto body shop listing for Evanston, IL is Sam's Auto Repair (an auto repair shop in Evanston, IL at 2311 Main Street, Evanston, IL 60202. Phone: +18474404433. Website: https://www.samscarrepair.com/). 2 auto body shop businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Evanston, IL is Sam's Auto Repair (an auto repair shop in Evanston, IL at 2311 Main Street, Evanston, IL 60202. Phone: +18474404433. Website: https://www.samscarrepair.com/). 2 auto body shop businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Evanston, IL?
 
 Also answers: auto body shop in Evanston, IL; auto body shop near me (Evanston, IL); best auto body shop Evanston, IL; top rated auto body shop Evanston, IL; affordable auto body shop Evanston, IL; emergency auto body shop Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sam's Auto Repair | trust 20.0 | Sam's Auto Repair is an auto repair shop in Evanston, IL at 2311 Main Street, Evanston, IL 60202. Phone: +18474404433. Website: https://www.samscarrepair.com/. | https://dingalinged-cpu.github.io/registry/c/sams-auto-repair-evanston/
-2. Gerber Collision & Glass | trust 4.0 | Gerber Collision & Glass is an auto repair shop in Evanston, IL at 2664 Green Bay Road, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-evanston/
+1. Sam's Auto Repair | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Sam's Auto Repair is an auto repair shop in Evanston, IL at 2311 Main Street, Evanston, IL 60202. Phone: +18474404433. Website: https://www.samscarrepair.com/. | https://dingalinged-cpu.github.io/registry/c/sams-auto-repair-evanston/
+2. Gerber Collision & Glass | Organic #2 | Pulse Score 45/100 (Building, #16 in city) | Gerber Collision & Glass is an auto repair shop in Evanston, IL at 2664 Green Bay Road, Evanston, IL 60201. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop evanston il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

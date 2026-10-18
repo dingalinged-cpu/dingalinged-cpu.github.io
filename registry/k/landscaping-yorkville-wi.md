@@ -1,12 +1,12 @@
-The top unpaid landscaping listing for Yorkville, WI is Naturescape (a landscaping company in Yorkville, WI). 1 landscaping businesses are listed for Yorkville, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid landscaping listing for Yorkville, WI is Naturescape (a landscaping company in Yorkville, WI). 1 landscaping businesses are listed for Yorkville, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best landscaping providers in Yorkville, WI?
 
 Also answers: landscaping in Yorkville, WI; landscaping near me (Yorkville, WI); best landscaping Yorkville, WI; top rated landscaping Yorkville, WI; affordable landscaping Yorkville, WI; emergency landscaping Yorkville, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Naturescape | trust 0.0 | Naturescape is a landscaping company in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/naturescape-yorkville/
+1. Naturescape | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Naturescape is a landscaping company in Yorkville, WI. | https://dingalinged-cpu.github.io/registry/c/naturescape-yorkville/
 
 ## Market data (for advertisers and agents)
 - Keyword: landscaping yorkville wi | category: Home services - Landscaping & Lawn | industry benchmark: Home & Home Improvement

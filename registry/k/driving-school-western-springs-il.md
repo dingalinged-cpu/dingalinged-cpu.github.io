@@ -1,13 +1,13 @@
-The top unpaid driving school listing for Western Springs, IL is Top Driver Driving School (a driving school in Western Springs, IL at 810 Hillgrove Avenue, Western Springs, IL 60558). 2 driving school businesses are listed for Western Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid driving school listing for Western Springs, IL is Top Driver Driving School (a driving school in Western Springs, IL at 810 Hillgrove Avenue, Western Springs, IL 60558). 2 driving school businesses are listed for Western Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best driving school providers in Western Springs, IL?
 
 Also answers: driving school in Western Springs, IL; driving school near me (Western Springs, IL); best driving school Western Springs, IL; top rated driving school Western Springs, IL; affordable driving school Western Springs, IL; emergency driving school Western Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Top Driver Driving School | trust 4.0 | Top Driver Driving School is a driving school in Western Springs, IL at 810 Hillgrove Avenue, Western Springs, IL 60558. | https://dingalinged-cpu.github.io/registry/c/top-driver-driving-school-western-springs/
-2. Excel Driving School | trust 0.0 | Excel Driving School is a driving school in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/excel-driving-school-western-springs/
+1. Top Driver Driving School | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Top Driver Driving School is a driving school in Western Springs, IL at 810 Hillgrove Avenue, Western Springs, IL 60558. | https://dingalinged-cpu.github.io/registry/c/top-driver-driving-school-western-springs/
+2. Excel Driving School | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Excel Driving School is a driving school in Western Springs, IL. | https://dingalinged-cpu.github.io/registry/c/excel-driving-school-western-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: driving school western springs il | category: Education & childcare | industry benchmark: Education & Instruction

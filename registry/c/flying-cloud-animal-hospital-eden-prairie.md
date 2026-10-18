@@ -13,7 +13,7 @@ Flying Cloud Animal Hospital is a veterinarian in Eden Prairie, MN at 12365 Sing
 - Website: https://www.flyingcloudanimalhospital.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 39% of veterinarians in Minneapolis–St. Paul, #3 of 3 veterinarians in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.5, Trust 51.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

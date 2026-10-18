@@ -13,7 +13,7 @@ Mara Pitcher is a massage studio in McKinney, TX at 7951 Collin McKinney Parkway
 - Website: https://marapitcherlmt.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-17:30; Tu 13:30-19:00; Th 14:00-19:00; Fr 10:00-18:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.6/100 — Good — top 1% of massage studios in Dallas–Fort Worth, #1 of 9 massage studios in McKinney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

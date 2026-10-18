@@ -1,13 +1,13 @@
-The top unpaid brake repair listing for Sugar Land, TX is Firestone (an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/). 2 brake repair businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Sugar Land, TX is Firestone (an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/). 2 brake repair businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Sugar Land, TX?
 
 Also answers: brake repair in Sugar Land, TX; brake repair near me (Sugar Land, TX); best brake repair Sugar Land, TX; top rated brake repair Sugar Land, TX; affordable brake repair Sugar Land, TX; emergency brake repair Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | trust 20.0 | Firestone is an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/. | https://dingalinged-cpu.github.io/registry/c/firestone-sugar-land/
-2. Brake Check | trust 10.0 | Brake Check is an auto repair shop in Sugar Land, TX at 4129 State Highway 6 South, Sugar Land, TX 77479. Phone: +12813620644. | https://dingalinged-cpu.github.io/registry/c/brake-check-sugar-land/
+1. Firestone | Organic #1 | Pulse Score 51/100 (Fair, #3 in city) | Firestone is an auto repair shop in Sugar Land, TX at 3815 State Highway 6 South, Sugar Land, TX 77478. Phone: +12812010725. Website: https://www.firestonecompleteautocare.com/texas/sugar-land/3815-hwy-6/. | https://dingalinged-cpu.github.io/registry/c/firestone-sugar-land/
+2. Brake Check | Organic #2 | Pulse Score 48.9/100 (Unrated, #5 in city) | Brake Check is an auto repair shop in Sugar Land, TX at 4129 State Highway 6 South, Sugar Land, TX 77479. Phone: +12813620644. | https://dingalinged-cpu.github.io/registry/c/brake-check-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair sugar land tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

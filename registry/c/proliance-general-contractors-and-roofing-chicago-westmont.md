@@ -13,7 +13,7 @@ Proliance General Contractors & Roofing Chicago is a roofer in Westmont, IL at 5
 - Website: https://proliancegc.com/roofing-chicago/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Unrated (not enough evidence yet) — top 35% of roofers in Chicago, #1 of 1 roofers in Westmont (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 50.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

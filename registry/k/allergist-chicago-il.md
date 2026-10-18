@@ -1,12 +1,12 @@
-The top unpaid allergist listing for Chicago, IL is Chicago Family Asthma & Allergy (an allergist in Chicago, IL at 2551 North Clark Street #Suite 100, Chicago, IL 60614. Phone: +17733882322. Website: https://www.chicagofamilyasthma.com/). 1 allergist businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid allergist listing for Chicago, IL is Chicago Family Asthma & Allergy (an allergist in Chicago, IL at 2551 North Clark Street #Suite 100, Chicago, IL 60614. Phone: +17733882322. Website: https://www.chicagofamilyasthma.com/). 1 allergist businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best allergist providers in Chicago, IL?
 
 Also answers: allergist in Chicago, IL; allergist near me (Chicago, IL); best allergist Chicago, IL; top rated allergist Chicago, IL; affordable allergist Chicago, IL; emergency allergist Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chicago Family Asthma & Allergy | trust 20.0 | Chicago Family Asthma & Allergy is an allergist in Chicago, IL at 2551 North Clark Street #Suite 100, Chicago, IL 60614. Phone: +17733882322. Website: https://www.chicagofamilyasthma.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-family-asthma-and-allergy-chicago/
+1. Chicago Family Asthma & Allergy | Organic #1 | Pulse Score 59.8/100 (Unrated, #1 in city) | Chicago Family Asthma & Allergy is an allergist in Chicago, IL at 2551 North Clark Street #Suite 100, Chicago, IL 60614. Phone: +17733882322. Website: https://www.chicagofamilyasthma.com/. | https://dingalinged-cpu.github.io/registry/c/chicago-family-asthma-and-allergy-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons

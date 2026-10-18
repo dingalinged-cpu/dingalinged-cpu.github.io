@@ -13,7 +13,7 @@ Eatzi's Market & Bakery is a bakery in Grapevine, TX at 1200 West State Highway 
 - Website: https://eatzis.com/grapevine/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-20:00
-- Registry Score: 63.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 10% of bakerys in Dallas–Fort Worth, #1 of 7 bakerys in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

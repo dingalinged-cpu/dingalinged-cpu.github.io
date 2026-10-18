@@ -13,7 +13,7 @@ OCP Photography is a photographer in Houston, TX at 5154 East Sam Houston Parkwa
 - Website: https://www.ocpphotographyquinces.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-16:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 6% of photographers in Houston, #1 of 12 photographers in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.3, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

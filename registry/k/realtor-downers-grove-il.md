@@ -1,15 +1,15 @@
-The top unpaid realtor listing for Downers Grove, IL is Realty Executives (a real estate agency in Downers Grove, IL at 943 Maple Avenue, Downers Grove, IL 60515. Phone: +16307699050. Website: https://realtyexecutivesgrove.com/). 4 realtor businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Downers Grove, IL is Oakly Home Builders (a real estate agency in Downers Grove, IL). 4 realtor businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Downers Grove, IL?
 
 Also answers: realtor in Downers Grove, IL; realtor near me (Downers Grove, IL); best realtor Downers Grove, IL; top rated realtor Downers Grove, IL; affordable realtor Downers Grove, IL; emergency realtor Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Realty Executives | trust 16.0 | Realty Executives is a real estate agency in Downers Grove, IL at 943 Maple Avenue, Downers Grove, IL 60515. Phone: +16307699050. Website: https://realtyexecutivesgrove.com/. | https://dingalinged-cpu.github.io/registry/c/realty-executives-downers-grove/
-2. Baird & Warner | trust 8.0 | Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/baird-and-warner-downers-grove/
-3. @properties | trust 6.0 | @properties is a real estate agency in Downers Grove, IL. Phone: +16302410800. | https://dingalinged-cpu.github.io/registry/c/properties-downers-grove/
-4. Oakly Home Builders | trust 0.0 | Oakly Home Builders is a real estate agency in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/oakly-home-builders-downers-grove/
+1. Oakly Home Builders | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Oakly Home Builders is a real estate agency in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/oakly-home-builders-downers-grove/
+2. Realty Executives | Organic #2 | Pulse Score 48.2/100 (Building, #2 in city) | Realty Executives is a real estate agency in Downers Grove, IL at 943 Maple Avenue, Downers Grove, IL 60515. Phone: +16307699050. Website: https://realtyexecutivesgrove.com/. | https://dingalinged-cpu.github.io/registry/c/realty-executives-downers-grove/
+3. @properties | Organic #3 | Pulse Score 47.5/100 (Unrated, #3 in city) | @properties is a real estate agency in Downers Grove, IL. Phone: +16302410800. | https://dingalinged-cpu.github.io/registry/c/properties-downers-grove/
+4. Baird & Warner | Organic #4 | Pulse Score 47.4/100 (Unrated, #4 in city) | Baird & Warner is a real estate agency in Downers Grove, IL at 724 Ogden Avenue, Downers Grove, IL 60515. | https://dingalinged-cpu.github.io/registry/c/baird-and-warner-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor downers grove il | category: real_estate | industry benchmark: Real Estate

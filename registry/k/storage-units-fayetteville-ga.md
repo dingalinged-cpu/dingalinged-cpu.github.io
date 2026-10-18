@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Fayetteville, GA is Midgard Self Storage (a self-storage facility in Fayetteville, GA at 1950 State Route 85, Fayetteville, GA 30214. Phone: +17707143769). 2 storage units businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Fayetteville, GA is Midgard Self Storage (a self-storage facility in Fayetteville, GA at 235 GA-314, Fayetteville, GA 30214. Phone: +17707420515). 2 storage units businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Fayetteville, GA?
 
 Also answers: storage units in Fayetteville, GA; storage units near me (Fayetteville, GA); best storage units Fayetteville, GA; top rated storage units Fayetteville, GA; affordable storage units Fayetteville, GA; emergency storage units Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midgard Self Storage | trust 14.0 | Midgard Self Storage is a self-storage facility in Fayetteville, GA at 1950 State Route 85, Fayetteville, GA 30214. Phone: +17707143769. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-fayetteville/
-2. Midgard Self Storage | trust 14.0 | Midgard Self Storage is a self-storage facility in Fayetteville, GA at 235 GA-314, Fayetteville, GA 30214. Phone: +17707420515. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-fayetteville-w1112742676/
+1. Midgard Self Storage | Organic #1 | Pulse Score 49.4/100 (Unrated, #1 in city) | Midgard Self Storage is a self-storage facility in Fayetteville, GA at 235 GA-314, Fayetteville, GA 30214. Phone: +17707420515. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-fayetteville-w1112742676/
+2. Midgard Self Storage | Organic #2 | Pulse Score 49.2/100 (Unrated, #2 in city) | Midgard Self Storage is a self-storage facility in Fayetteville, GA at 1950 State Route 85, Fayetteville, GA 30214. Phone: +17707143769. | https://dingalinged-cpu.github.io/registry/c/midgard-self-storage-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units fayetteville ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

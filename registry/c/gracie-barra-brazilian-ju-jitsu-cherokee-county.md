@@ -13,7 +13,7 @@ Gracie Barra Brazilian Ju-Jitsu is a martial arts school in Cherokee County, GA 
 - Website: https://graciebarra.com/georgia-ga/
 - Email: info@gbgeorgia.com
 - Opening hours (OSM syntax): Mo 07:00-16:00,20:00-21:00; Tu,Th 07:00-13:00,13:30-20:30; We 06:30-13:00,13:30-20:30; Fr 06:30-13:00,16:00-21:30; Sa 09:30-12:00; Su 12:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.7/100 — Good — top 3% of martial arts schools in Atlanta, #1 of 1 martial arts schools in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.7, Trust 65.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

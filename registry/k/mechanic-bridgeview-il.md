@@ -1,15 +1,15 @@
-The top unpaid mechanic listing for Bridgeview, IL is Bridgeview Auto Center (an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/). 4 mechanic businesses are listed for Bridgeview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Bridgeview, IL is Bridgeview Auto Center (an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/). 4 mechanic businesses are listed for Bridgeview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Bridgeview, IL?
 
 Also answers: mechanic in Bridgeview, IL; mechanic near me (Bridgeview, IL); best mechanic Bridgeview, IL; top rated mechanic Bridgeview, IL; affordable mechanic Bridgeview, IL; emergency mechanic Bridgeview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bridgeview Auto Center | trust 20.0 | Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/. | https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/
-2. Accurate Auto | trust 16.0 | Accurate Auto is an auto repair shop in Bridgeview, IL at 7438 West 90th Street, Bridgeview, IL 60455. Phone: +17082337728. Website: https://www.accurateautos.com/. | https://dingalinged-cpu.github.io/registry/c/accurate-auto-bridgeview/
-3. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Bridgeview, IL at 9200 Harlem Avenue, Bridgeview, IL 60455. | https://dingalinged-cpu.github.io/registry/c/goodyear-bridgeview/
-4. Firestone | trust 0.0 | Firestone is an auto repair shop in Bridgeview, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-bridgeview/
+1. Bridgeview Auto Center | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Bridgeview Auto Center is an auto repair shop in Bridgeview, IL at 9059 Harlem Avenue, Bridgeview, IL 60455. Phone: +17085983155. Website: https://www.bridgeviewautocenter.com/. | https://dingalinged-cpu.github.io/registry/c/bridgeview-auto-center-bridgeview/
+2. Accurate Auto | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Accurate Auto is an auto repair shop in Bridgeview, IL at 7438 West 90th Street, Bridgeview, IL 60455. Phone: +17082337728. Website: https://www.accurateautos.com/. | https://dingalinged-cpu.github.io/registry/c/accurate-auto-bridgeview/
+3. Goodyear | Organic #3 | Pulse Score 44.2/100 (Building, #3 in city) | Goodyear is an auto repair shop in Bridgeview, IL at 9200 Harlem Avenue, Bridgeview, IL 60455. | https://dingalinged-cpu.github.io/registry/c/goodyear-bridgeview/
+4. Firestone | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Firestone is an auto repair shop in Bridgeview, IL. | https://dingalinged-cpu.github.io/registry/c/firestone-bridgeview/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic bridgeview il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

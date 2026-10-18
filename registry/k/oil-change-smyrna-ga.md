@@ -1,13 +1,13 @@
-The top unpaid oil change listing for Smyrna, GA is Pep Boys (an auto repair shop in Smyrna, GA at 2653 Cobb Parkway, Smyrna, GA 30080. Phone: +17709531003. Website: https://www.pepboys.com/stores/ga/smyrna/2653-cobb-pkwy-se). 2 oil change businesses are listed for Smyrna, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Smyrna, GA is Pep Boys (an auto repair shop in Smyrna, GA at 2653 Cobb Parkway, Smyrna, GA 30080. Phone: +17709531003. Website: https://www.pepboys.com/stores/ga/smyrna/2653-cobb-pkwy-se). 2 oil change businesses are listed for Smyrna, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Smyrna, GA?
 
 Also answers: oil change in Smyrna, GA; oil change near me (Smyrna, GA); best oil change Smyrna, GA; top rated oil change Smyrna, GA; affordable oil change Smyrna, GA; emergency oil change Smyrna, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pep Boys | trust 20.0 | Pep Boys is an auto repair shop in Smyrna, GA at 2653 Cobb Parkway, Smyrna, GA 30080. Phone: +17709531003. Website: https://www.pepboys.com/stores/ga/smyrna/2653-cobb-pkwy-se. | https://dingalinged-cpu.github.io/registry/c/pep-boys-smyrna/
-2. Take 5 Oil Change | trust 9.0 | Take 5 Oil Change is an auto repair shop in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://www.take5.com/locations/oil-change/georgia/smyrna/31072/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-smyrna/
+1. Pep Boys | Organic #1 | Pulse Score 51.2/100 (Fair, #10 in city) | Pep Boys is an auto repair shop in Smyrna, GA at 2653 Cobb Parkway, Smyrna, GA 30080. Phone: +17709531003. Website: https://www.pepboys.com/stores/ga/smyrna/2653-cobb-pkwy-se. | https://dingalinged-cpu.github.io/registry/c/pep-boys-smyrna/
+2. Take 5 Oil Change | Organic #2 | Pulse Score 46.2/100 (Building, #12 in city) | Take 5 Oil Change is an auto repair shop in Smyrna, GA at 2543 Spring Road Southeast, Smyrna, GA. Website: https://www.take5.com/locations/oil-change/georgia/smyrna/31072/. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-smyrna/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change smyrna ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

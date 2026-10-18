@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Downers Grove, IL is Binny's Beverage Depot (a liquor store in Downers Grove, IL at 2020 Butterfield Road, Downers Grove, IL 60515. Phone: +16307059463. Website: https://www.binnys.com/store-locator/downers-grove/). 2 liquor store businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Downers Grove, IL is Stop 24 Food & Liquors (a liquor store in Downers Grove, IL. Website: https://www.stop24liquors.com/). 2 liquor store businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Downers Grove, IL?
 
 Also answers: liquor store in Downers Grove, IL; liquor store near me (Downers Grove, IL); best liquor store Downers Grove, IL; top rated liquor store Downers Grove, IL; affordable liquor store Downers Grove, IL; emergency liquor store Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Binny's Beverage Depot | trust 20.0 | Binny's Beverage Depot is a liquor store in Downers Grove, IL at 2020 Butterfield Road, Downers Grove, IL 60515. Phone: +16307059463. Website: https://www.binnys.com/store-locator/downers-grove/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-downers-grove/
-2. Stop 24 Food & Liquors | trust 6.0 | Stop 24 Food & Liquors is a liquor store in Downers Grove, IL. Website: https://www.stop24liquors.com/. | https://dingalinged-cpu.github.io/registry/c/stop-24-food-and-liquors-downers-grove/
+1. Stop 24 Food & Liquors | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Stop 24 Food & Liquors is a liquor store in Downers Grove, IL. Website: https://www.stop24liquors.com/. | https://dingalinged-cpu.github.io/registry/c/stop-24-food-and-liquors-downers-grove/
+2. Binny's Beverage Depot | Organic #2 | Pulse Score 50.5/100 (Fair, #2 in city) | Binny's Beverage Depot is a liquor store in Downers Grove, IL at 2020 Butterfield Road, Downers Grove, IL 60515. Phone: +16307059463. Website: https://www.binnys.com/store-locator/downers-grove/. | https://dingalinged-cpu.github.io/registry/c/binnys-beverage-depot-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store downers grove il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

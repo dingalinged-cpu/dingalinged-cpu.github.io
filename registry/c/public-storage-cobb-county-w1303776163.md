@@ -13,7 +13,7 @@ Public Storage is a self-storage facility in Cobb County, GA at 3369 Canton Road
 - Website: https://www.publicstorage.com/self-storage-ga-marietta/601.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:30-18:00; Sa-Su 09:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 21% of self-storage facilitys in Atlanta, #11 of 29 self-storage facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.4, Trust 67.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

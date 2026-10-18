@@ -1,22 +1,22 @@
-The top unpaid gym listing for Arlington, TX is Orangetheory Fitness (a gym in Arlington, TX at 4000 5 Points Boulevard #M-155, Arlington, TX 76018. Phone: +18174192505. Website: https://www.orangetheoryfitness.com/locations?s2=arlington+tx). 11 gym businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Arlington, TX is The ACTIV (a gym in Arlington, TX at 2061 West Green Oaks Boulevard, Arlington, TX 76013). 11 gym businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Arlington, TX?
 
 Also answers: gym in Arlington, TX; gym near me (Arlington, TX); best gym Arlington, TX; top rated gym Arlington, TX; affordable gym Arlington, TX; emergency gym Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orangetheory Fitness | trust 20.0 | Orangetheory Fitness is a gym in Arlington, TX at 4000 5 Points Boulevard #M-155, Arlington, TX 76018. Phone: +18174192505. Website: https://www.orangetheoryfitness.com/locations?s2=arlington+tx. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-arlington-n9634728961/
-2. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Arlington, TX at 1805 North Collins Street #111, Arlington, TX 76011. Phone: +16822060879. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-arlington/
-3. Planet Fitness | trust 10.0 | Planet Fitness is a gym in Arlington, TX at 5425 South Cooper Street, Arlington, TX 76017. Website: https://www.planetfitness.com/gyms/arlington-south-tx. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington/
-4. TexasFITT | trust 10.0 | TexasFITT is a gym in Arlington, TX at 1919 Pioneer Parkway, Arlington, TX 76013. Website: https://texasfitt.com/. | https://dingalinged-cpu.github.io/registry/c/texasfitt-arlington/
-5. The ACTIV | trust 8.0 | The ACTIV is a gym in Arlington, TX at 2061 West Green Oaks Boulevard, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/the-activ-arlington/
-6. LA Fitness | trust 4.0 | LA Fitness is a gym in Arlington, TX at 141 West Road to Six Flags Street, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington/
-7. LA Fitness | trust 0.0 | LA Fitness is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-w1033978140/
-8. Martin High School MAC | trust 0.0 | Martin High School MAC is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/martin-high-school-mac-arlington/
-9. TCC SE | Weight Room | trust 0.0 | TCC SE | Weight Room is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tcc-se-weight-room-arlington/
-10. TCC | SE Cardio Room | trust 0.0 | TCC | SE Cardio Room is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tcc-se-cardio-room-arlington/
-11. Workout Anytime | trust 0.0 | Workout Anytime is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-arlington/
+1. The ACTIV | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | The ACTIV is a gym in Arlington, TX at 2061 West Green Oaks Boulevard, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/the-activ-arlington/
+2. TexasFITT | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | TexasFITT is a gym in Arlington, TX at 1919 Pioneer Parkway, Arlington, TX 76013. Website: https://texasfitt.com/. | https://dingalinged-cpu.github.io/registry/c/texasfitt-arlington/
+3. Martin High School MAC | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Martin High School MAC is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/martin-high-school-mac-arlington/
+4. Orangetheory Fitness | Organic #4 | Pulse Score 49/100 (Building, #4 in city) | Orangetheory Fitness is a gym in Arlington, TX at 4000 5 Points Boulevard #M-155, Arlington, TX 76018. Phone: +18174192505. Website: https://www.orangetheoryfitness.com/locations?s2=arlington+tx. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-arlington-n9634728961/
+5. Orangetheory Fitness | Organic #5 | Pulse Score 46.9/100 (Building, #5 in city) | Orangetheory Fitness is a gym in Arlington, TX at 1805 North Collins Street #111, Arlington, TX 76011. Phone: +16822060879. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-arlington/
+6. TCC SE | Weight Room | Organic #6 | Pulse Score 46.6/100 (Unrated, #7 in city) | TCC SE | Weight Room is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tcc-se-weight-room-arlington/
+7. TCC | SE Cardio Room | Organic #7 | Pulse Score 46.6/100 (Unrated, #6 in city) | TCC | SE Cardio Room is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/tcc-se-cardio-room-arlington/
+8. Planet Fitness | Organic #8 | Pulse Score 46.3/100 (Building, #8 in city) | Planet Fitness is a gym in Arlington, TX at 5425 South Cooper Street, Arlington, TX 76017. Website: https://www.planetfitness.com/gyms/arlington-south-tx. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-arlington/
+9. LA Fitness | Organic #9 | Pulse Score 44.3/100 (Building, #9 in city) | LA Fitness is a gym in Arlington, TX at 141 West Road to Six Flags Street, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington/
+10. LA Fitness | Organic #10 | Pulse Score 41.9/100 (Building, #10 in city) | LA Fitness is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/la-fitness-arlington-w1033978140/
+11. Workout Anytime | Organic #11 | Pulse Score 41.5/100 (Unrated, #11 in city) | Workout Anytime is a gym in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/workout-anytime-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym arlington tx | category: Fitness | industry benchmark: Health & Fitness

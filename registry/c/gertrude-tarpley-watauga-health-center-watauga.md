@@ -13,7 +13,7 @@ Gertrude Tarpley Watauga Health Center is a family medicine practice in Watauga,
 - Website: https://www.teamacclaim.org/locations/locations-profile/gertrude-tarpley-watauga-health-center/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 25% of family medicine practices in Dallas–Fort Worth, #1 of 1 family medicine practices in Watauga (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 59.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

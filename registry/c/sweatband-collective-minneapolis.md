@@ -13,7 +13,7 @@ Sweatband Collective is a gym in Minneapolis, MN at 4420 Drew Avenue South #Suit
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-18:00
-- Registry Score: 57.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.8/100 — Unrated (not enough evidence yet) — top 4% of gyms in Minneapolis–St. Paul, #3 of 41 gyms in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 48.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

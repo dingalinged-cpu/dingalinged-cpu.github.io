@@ -13,7 +13,7 @@ Rickey McGill Insurance Agency is an insurance agent in Arlington, TX at 3939 We
 - Website: https://mcgillinsurance.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-17:30; Fr 09:00-17:00
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.9/100 — Unrated (not enough evidence yet) — top 9% of insurance agents in Dallas–Fort Worth, #2 of 11 insurance agents in Arlington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

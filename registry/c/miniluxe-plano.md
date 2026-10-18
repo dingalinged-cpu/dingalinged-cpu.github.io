@@ -13,7 +13,7 @@ MiniLuxe is a nail salon in Plano, TX at 7300 Lone Star Drive #C-140, Plano, TX 
 - Website: https://miniluxe.com/pages/the-shops-at-legacy-location
 - Email: Legacy@miniluxe.com
 - Opening hours (OSM syntax): Mo 10:00-17:00; Tu-Th,Su 10:00-18:00; Fr-Sa 09:00-17:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 10% of nail salons in Dallas–Fort Worth, #4 of 16 nail salons in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

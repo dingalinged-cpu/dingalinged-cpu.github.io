@@ -1,15 +1,15 @@
-The top unpaid florist listing for Racine, WI is Botanica Mi Esperanza (a florist in Racine, WI at 1400 Washington Avenue, Racine, WI 53403). 4 florist businesses are listed for Racine, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Racine, WI is Botanica Mi Esperanza (a florist in Racine, WI at 1400 Washington Avenue, Racine, WI 53403). 4 florist businesses are listed for Racine, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Racine, WI?
 
 Also answers: florist in Racine, WI; florist near me (Racine, WI); best florist Racine, WI; top rated florist Racine, WI; affordable florist Racine, WI; emergency florist Racine, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Botanica Mi Esperanza | trust 4.0 | Botanica Mi Esperanza is a florist in Racine, WI at 1400 Washington Avenue, Racine, WI 53403. | https://dingalinged-cpu.github.io/registry/c/botanica-mi-esperanza-racine/
-2. Flowers By Walter | trust 3.0 | Flowers By Walter is a florist in Racine, WI at 503 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/flowers-by-walter-racine/
-3. Lee's Flowers | trust 3.0 | Lee's Flowers is a florist in Racine, WI at 1655 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lees-flowers-racine/
-4. Millers Flowers | trust 0.0 | Millers Flowers is a florist in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/millers-flowers-racine/
+1. Botanica Mi Esperanza | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Botanica Mi Esperanza is a florist in Racine, WI at 1400 Washington Avenue, Racine, WI 53403. | https://dingalinged-cpu.github.io/registry/c/botanica-mi-esperanza-racine/
+2. Flowers By Walter | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | Flowers By Walter is a florist in Racine, WI at 503 6th Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/flowers-by-walter-racine/
+3. Lee's Flowers | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Lee's Flowers is a florist in Racine, WI at 1655 North Main Street, Racine, WI. | https://dingalinged-cpu.github.io/registry/c/lees-flowers-racine/
+4. Millers Flowers | Organic #4 | Pulse Score 55/100 (Unrated, #4 in city) | Millers Flowers is a florist in Racine, WI. | https://dingalinged-cpu.github.io/registry/c/millers-flowers-racine/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist racine wi | category: Events & weddings | industry benchmark: Personal Services

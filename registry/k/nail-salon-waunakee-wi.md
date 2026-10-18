@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Waunakee, WI is 1 Nails and Spa (a nail salon in Waunakee, WI). 2 nail salon businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Waunakee, WI is 1 Nails and Spa (a nail salon in Waunakee, WI). 2 nail salon businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Waunakee, WI?
 
 Also answers: nail salon in Waunakee, WI; nail salon near me (Waunakee, WI); best nail salon Waunakee, WI; top rated nail salon Waunakee, WI; affordable nail salon Waunakee, WI; emergency nail salon Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 1 Nails and Spa | trust 0.0 | 1 Nails and Spa is a nail salon in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/1-nails-and-spa-waunakee/
-2. Nails by Marlo | trust 0.0 | Nails by Marlo is a nail salon in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/nails-by-marlo-waunakee/
+1. 1 Nails and Spa | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | 1 Nails and Spa is a nail salon in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/1-nails-and-spa-waunakee/
+2. Nails by Marlo | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Nails by Marlo is a nail salon in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/nails-by-marlo-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon waunakee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

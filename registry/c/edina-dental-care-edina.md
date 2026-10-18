@@ -13,7 +13,7 @@ Edina Dental Care is a dentist in Edina, MN. Website: https://www.edinadentalcar
 - Website: https://www.edinadentalcare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 07:30-16:30; Tu 09:00-15:30; We 07:30-16:30; Th 07:00-15:30
-- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 35% of dentists in Minneapolis–St. Paul, #9 of 13 dentists in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 50.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid tattoo shop listing for Addison, TX is Cat Tattoo (a tattoo shop in Addison, TX at 4544 Belt Line Road, Addison, TX 75001. Website: https://www.cattattoo.com/). 5 tattoo shop businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Addison, TX is Cat Tattoo (a tattoo shop in Addison, TX at 4544 Belt Line Road, Addison, TX 75001. Website: https://www.cattattoo.com/). 5 tattoo shop businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Addison, TX?
 
 Also answers: tattoo shop in Addison, TX; tattoo shop near me (Addison, TX); best tattoo shop Addison, TX; top rated tattoo shop Addison, TX; affordable tattoo shop Addison, TX; emergency tattoo shop Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cat Tattoo | trust 10.0 | Cat Tattoo is a tattoo shop in Addison, TX at 4544 Belt Line Road, Addison, TX 75001. Website: https://www.cattattoo.com/. | https://dingalinged-cpu.github.io/registry/c/cat-tattoo-addison/
-2. Skin Art Gallery | trust 4.0 | Skin Art Gallery is a tattoo shop in Addison, TX at 4297 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/skin-art-gallery-addison/
-3. Iron Dagger Tattoo | trust 3.0 | Iron Dagger Tattoo is a tattoo shop in Addison, TX at 4813 Broadway Street, Addison, TX. | https://dingalinged-cpu.github.io/registry/c/iron-dagger-tattoo-addison/
-4. 6 Tattoo | trust 0.0 | 6 Tattoo is a tattoo shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/6-tattoo-addison/
-5. Legacy Arts Tattoo | trust 0.0 | Legacy Arts Tattoo is a tattoo shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-arts-tattoo-addison/
+1. Cat Tattoo | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Cat Tattoo is a tattoo shop in Addison, TX at 4544 Belt Line Road, Addison, TX 75001. Website: https://www.cattattoo.com/. | https://dingalinged-cpu.github.io/registry/c/cat-tattoo-addison/
+2. Iron Dagger Tattoo | Organic #2 | Pulse Score 57.8/100 (Unrated, #2 in city) | Iron Dagger Tattoo is a tattoo shop in Addison, TX at 4813 Broadway Street, Addison, TX. | https://dingalinged-cpu.github.io/registry/c/iron-dagger-tattoo-addison/
+3. Skin Art Gallery | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Skin Art Gallery is a tattoo shop in Addison, TX at 4297 Belt Line Road, Addison, TX 75001. | https://dingalinged-cpu.github.io/registry/c/skin-art-gallery-addison/
+4. 6 Tattoo | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | 6 Tattoo is a tattoo shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/6-tattoo-addison/
+5. Legacy Arts Tattoo | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Legacy Arts Tattoo is a tattoo shop in Addison, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-arts-tattoo-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop addison tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

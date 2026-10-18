@@ -13,7 +13,7 @@ Indian Health Board is a dentist in Minneapolis, MN at 1315 East 24th Street, Mi
 - Website: https://indianhealthboard.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 7% of dentists in Minneapolis–St. Paul, #8 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 51.4, Community 67, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

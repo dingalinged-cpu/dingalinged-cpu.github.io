@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Richardson, TX is Gracie Gym Brazilian Jiu-Jitsu (a martial arts school in Richardson, TX at 819 West Arapaho Road #18, Richardson, TX 75080. Phone: +14699040677. Website: https://graciegymrichardson.com/locations/richardson-tx/). 3 martial arts businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Richardson, TX is Gracie Gym Brazilian Jiu-Jitsu (a martial arts school in Richardson, TX at 819 West Arapaho Road #18, Richardson, TX 75080. Phone: +14699040677. Website: https://graciegymrichardson.com/locations/richardson-tx/). 3 martial arts businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Richardson, TX?
 
 Also answers: martial arts in Richardson, TX; martial arts near me (Richardson, TX); best martial arts Richardson, TX; top rated martial arts Richardson, TX; affordable martial arts Richardson, TX; emergency martial arts Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gracie Gym Brazilian Jiu-Jitsu | trust 16.0 | Gracie Gym Brazilian Jiu-Jitsu is a martial arts school in Richardson, TX at 819 West Arapaho Road #18, Richardson, TX 75080. Phone: +14699040677. Website: https://graciegymrichardson.com/locations/richardson-tx/. | https://dingalinged-cpu.github.io/registry/c/gracie-gym-brazilian-jiu-jitsu-richardson/
-2. Kim's College of Tae Kwon Do | trust 3.0 | Kim's College of Tae Kwon Do is a martial arts school in Richardson, TX at 818 South Central Expressway #5, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/kims-college-of-tae-kwon-do-richardson/
-3. North South Jiu Jitsu | trust 0.0 | North South Jiu Jitsu is a martial arts school in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/north-south-jiu-jitsu-richardson/
+1. Gracie Gym Brazilian Jiu-Jitsu | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Gracie Gym Brazilian Jiu-Jitsu is a martial arts school in Richardson, TX at 819 West Arapaho Road #18, Richardson, TX 75080. Phone: +14699040677. Website: https://graciegymrichardson.com/locations/richardson-tx/. | https://dingalinged-cpu.github.io/registry/c/gracie-gym-brazilian-jiu-jitsu-richardson/
+2. Kim's College of Tae Kwon Do | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Kim's College of Tae Kwon Do is a martial arts school in Richardson, TX at 818 South Central Expressway #5, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/kims-college-of-tae-kwon-do-richardson/
+3. North South Jiu Jitsu | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | North South Jiu Jitsu is a martial arts school in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/north-south-jiu-jitsu-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts richardson tx | category: Fitness | industry benchmark: Health & Fitness

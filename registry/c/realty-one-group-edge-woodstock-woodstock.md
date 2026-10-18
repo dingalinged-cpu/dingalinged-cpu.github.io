@@ -13,7 +13,7 @@ Realty ONE Group Edge - Woodstock is a real estate agency in Woodstock, GA at 79
 - Website: https://edge.myrealtyonegroup.com/real-estate-office/319/woodstock-office
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Good — top 11% of real estate agencys in Atlanta, #2 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 55.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

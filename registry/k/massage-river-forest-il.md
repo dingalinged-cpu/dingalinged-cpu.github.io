@@ -1,12 +1,12 @@
-The top unpaid massage listing for River Forest, IL is Massage Envy (a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305). 1 massage businesses are listed for River Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for River Forest, IL is Massage Envy (a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305). 1 massage businesses are listed for River Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in River Forest, IL?
 
 Also answers: massage in River Forest, IL; massage near me (River Forest, IL); best massage River Forest, IL; top rated massage River Forest, IL; affordable massage River Forest, IL; emergency massage River Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | trust 4.0 | Massage Envy is a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305. | https://dingalinged-cpu.github.io/registry/c/massage-envy-river-forest/
+1. Massage Envy | Organic #1 | Pulse Score 44.4/100 (Building, #1 in city) | Massage Envy is a massage studio in River Forest, IL at 7341 Lake Street, River Forest, IL 60305. | https://dingalinged-cpu.github.io/registry/c/massage-envy-river-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage river forest il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

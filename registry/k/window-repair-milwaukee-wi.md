@@ -1,14 +1,14 @@
-The top unpaid window repair listing for Milwaukee, WI is 414 Glass & Grooves (a window repair service in Milwaukee, WI at 810 North 3rd Street, Milwaukee, WI 53203. Phone: +14148770999. Website: https://www.glassandgrooves.com/). 3 window repair businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid window repair listing for Milwaukee, WI is Cobalt Glassworks (a window repair service in Milwaukee, WI. Phone: +14145347984. Website: https://cobaltglassworks.com/). 3 window repair businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best window repair providers in Milwaukee, WI?
 
 Also answers: window repair in Milwaukee, WI; window repair near me (Milwaukee, WI); best window repair Milwaukee, WI; top rated window repair Milwaukee, WI; affordable window repair Milwaukee, WI; emergency window repair Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 414 Glass & Grooves | trust 20.0 | 414 Glass & Grooves is a window repair service in Milwaukee, WI at 810 North 3rd Street, Milwaukee, WI 53203. Phone: +14148770999. Website: https://www.glassandgrooves.com/. | https://dingalinged-cpu.github.io/registry/c/414-glass-and-grooves-milwaukee/
-2. Cobalt Glassworks | trust 16.0 | Cobalt Glassworks is a window repair service in Milwaukee, WI. Phone: +14145347984. Website: https://cobaltglassworks.com/. | https://dingalinged-cpu.github.io/registry/c/cobalt-glassworks-milwaukee/
-3. Square One Art Glass | trust 16.0 | Square One Art Glass is a window repair service in Milwaukee, WI at 5324 West Vliet Street, Milwaukee, WI 53208. Phone: +14142590811. Website: https://squareoneartglass.com/. | https://dingalinged-cpu.github.io/registry/c/square-one-art-glass-milwaukee/
+1. Cobalt Glassworks | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Cobalt Glassworks is a window repair service in Milwaukee, WI. Phone: +14145347984. Website: https://cobaltglassworks.com/. | https://dingalinged-cpu.github.io/registry/c/cobalt-glassworks-milwaukee/
+2. 414 Glass & Grooves | Organic #2 | Pulse Score 61.4/100 (Good, #2 in city) | 414 Glass & Grooves is a window repair service in Milwaukee, WI at 810 North 3rd Street, Milwaukee, WI 53203. Phone: +14148770999. Website: https://www.glassandgrooves.com/. | https://dingalinged-cpu.github.io/registry/c/414-glass-and-grooves-milwaukee/
+3. Square One Art Glass | Organic #3 | Pulse Score 59.9/100 (Unrated, #3 in city) | Square One Art Glass is a window repair service in Milwaukee, WI at 5324 West Vliet Street, Milwaukee, WI 53208. Phone: +14142590811. Website: https://squareoneartglass.com/. | https://dingalinged-cpu.github.io/registry/c/square-one-art-glass-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: window repair milwaukee wi | category: Home services - Windows & doors | industry benchmark: Home & Home Improvement

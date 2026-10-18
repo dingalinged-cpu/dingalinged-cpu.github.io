@@ -1,16 +1,16 @@
-The top unpaid real estate agent listing for League City, TX is RE/MAX 1st Class (a real estate agency in League City, TX at 6011 West Main Street #A102, League City, TX 77573. Website: https://www.soldwithjames.com/). 5 real estate agent businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for League City, TX is RE/MAX 1st Class (a real estate agency in League City, TX at 6011 West Main Street #A102, League City, TX 77573. Website: https://www.soldwithjames.com/). 5 real estate agent businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in League City, TX?
 
 Also answers: real estate agent in League City, TX; real estate agent near me (League City, TX); best real estate agent League City, TX; top rated real estate agent League City, TX; affordable real estate agent League City, TX; emergency real estate agent League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. RE/MAX 1st Class | trust 14.0 | RE/MAX 1st Class is a real estate agency in League City, TX at 6011 West Main Street #A102, League City, TX 77573. Website: https://www.soldwithjames.com/. | https://dingalinged-cpu.github.io/registry/c/re-max-1st-class-league-city/
-2. Coventry Homes Coastal Point | trust 0.0 | Coventry Homes Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/coventry-homes-coastal-point-league-city/
-3. Empire Communities Coastal Point | trust 0.0 | Empire Communities Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/empire-communities-coastal-point-league-city/
-4. Gary Greene | trust 0.0 | Gary Greene is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/gary-greene-league-city/
-5. Gehan Homes Coastal Point | trust 0.0 | Gehan Homes Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/gehan-homes-coastal-point-league-city/
+1. RE/MAX 1st Class | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | RE/MAX 1st Class is a real estate agency in League City, TX at 6011 West Main Street #A102, League City, TX 77573. Website: https://www.soldwithjames.com/. | https://dingalinged-cpu.github.io/registry/c/re-max-1st-class-league-city/
+2. Coventry Homes Coastal Point | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Coventry Homes Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/coventry-homes-coastal-point-league-city/
+3. Empire Communities Coastal Point | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Empire Communities Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/empire-communities-coastal-point-league-city/
+4. Gary Greene | Organic #4 | Pulse Score 54.9/100 (Unrated, #4 in city) | Gary Greene is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/gary-greene-league-city/
+5. Gehan Homes Coastal Point | Organic #5 | Pulse Score 54.9/100 (Unrated, #5 in city) | Gehan Homes Coastal Point is a real estate agency in League City, TX. | https://dingalinged-cpu.github.io/registry/c/gehan-homes-coastal-point-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent league city tx | category: Professional & financial services | industry benchmark: Finance & Insurance

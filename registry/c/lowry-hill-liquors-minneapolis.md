@@ -13,7 +13,7 @@ Lowry Hill Liquors is a liquor store in Minneapolis, MN at 1924 Hennepin Avenue 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-21:00; Fr,Sa 10:00-22:00; Su 11:00-18:00
-- Registry Score: 61.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 6% of liquor stores in Minneapolis–St. Paul, #3 of 32 liquor stores in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.8, Trust 57.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

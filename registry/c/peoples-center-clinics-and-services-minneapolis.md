@@ -13,7 +13,7 @@ People's Center Clinics & Services is a family medicine practice in Minneapolis,
 - Website: https://www.peoples-center.org/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 08:30-17:00; Tu-Th 08:30-20:00; Fr 08:30-17:00; Sa 09:00-16:00
-- Registry Score: 59.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 47% of family medicine practices in Minneapolis–St. Paul, #2 of 3 family medicine practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61.7, Trust 57.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

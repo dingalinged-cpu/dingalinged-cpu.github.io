@@ -1,12 +1,12 @@
-The top unpaid orthopedic surgeon listing for Acworth, GA is Total Joint Specialists - Acworth (an orthopedic surgeon in Acworth, GA at 4450 Calibre Xing, # 1106, Acworth, GA 30101. Phone: +17707219052. Website: https://www.totaljointspecialists.com/locations/acworth). 1 orthopedic surgeon businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Acworth, GA is Total Joint Specialists - Acworth (an orthopedic surgeon in Acworth, GA at 4450 Calibre Xing, # 1106, Acworth, GA 30101. Phone: +17707219052. Website: https://www.totaljointspecialists.com/locations/acworth). 1 orthopedic surgeon businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Acworth, GA?
 
 Also answers: orthopedic surgeon in Acworth, GA; orthopedic surgeon near me (Acworth, GA); best orthopedic surgeon Acworth, GA; top rated orthopedic surgeon Acworth, GA; affordable orthopedic surgeon Acworth, GA; emergency orthopedic surgeon Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Total Joint Specialists - Acworth | trust 20.0 | Total Joint Specialists - Acworth is an orthopedic surgeon in Acworth, GA at 4450 Calibre Xing, # 1106, Acworth, GA 30101. Phone: +17707219052. Website: https://www.totaljointspecialists.com/locations/acworth. | https://dingalinged-cpu.github.io/registry/c/total-joint-specialists-acworth-acworth/
+1. Total Joint Specialists - Acworth | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Total Joint Specialists - Acworth is an orthopedic surgeon in Acworth, GA at 4450 Calibre Xing, # 1106, Acworth, GA 30101. Phone: +17707219052. Website: https://www.totaljointspecialists.com/locations/acworth. | https://dingalinged-cpu.github.io/registry/c/total-joint-specialists-acworth-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon acworth ga | category: Health & medical | industry benchmark: Physicians & Surgeons

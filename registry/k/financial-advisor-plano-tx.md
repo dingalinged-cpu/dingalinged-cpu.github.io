@@ -1,14 +1,14 @@
-The top unpaid financial advisor listing for Plano, TX is Symphony Wealth Group (a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/). 3 financial advisor businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid financial advisor listing for Plano, TX is Symphony Wealth Group (a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/). 3 financial advisor businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best financial advisor providers in Plano, TX?
 
 Also answers: financial advisor in Plano, TX; financial advisor near me (Plano, TX); best financial advisor Plano, TX; top rated financial advisor Plano, TX; affordable financial advisor Plano, TX; emergency financial advisor Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Symphony Wealth Group | trust 20.0 | Symphony Wealth Group is a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/. | https://dingalinged-cpu.github.io/registry/c/symphony-wealth-group-plano/
-2. Fidelity Investments | trust 4.0 | Fidelity Investments is a financial advisor in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-plano/
-3. Charles Schwab | trust 0.0 | Charles Schwab is a financial advisor in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-plano/
+1. Symphony Wealth Group | Organic #1 | Pulse Score 65.7/100 (Good, #1 in city) | Symphony Wealth Group is a financial advisor in Plano, TX at 5801 Headquarters Drive #100, Plano, TX 75024. Phone: +12144403090. Website: https://www.symphonywg.com/. | https://dingalinged-cpu.github.io/registry/c/symphony-wealth-group-plano/
+2. Fidelity Investments | Organic #2 | Pulse Score 46.9/100 (Building, #2 in city) | Fidelity Investments is a financial advisor in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/fidelity-investments-plano/
+3. Charles Schwab | Organic #3 | Pulse Score 41.9/100 (Building, #3 in city) | Charles Schwab is a financial advisor in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/charles-schwab-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: financial advisor plano tx | category: Professional & financial services | industry benchmark: Finance & Insurance

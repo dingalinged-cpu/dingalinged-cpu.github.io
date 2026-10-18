@@ -1,13 +1,13 @@
-The top unpaid therapist listing for Colleyville, TX is Foundations Counseling, PLLC (a therapy practice in Colleyville, TX at 103 Colleyville Boulevard, Colleyville, TX 76034). 2 therapist businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Colleyville, TX is Foundations Counseling, PLLC (a therapy practice in Colleyville, TX at 103 Colleyville Boulevard, Colleyville, TX 76034). 2 therapist businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Colleyville, TX?
 
 Also answers: therapist in Colleyville, TX; therapist near me (Colleyville, TX); best therapist Colleyville, TX; top rated therapist Colleyville, TX; affordable therapist Colleyville, TX; emergency therapist Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Foundations Counseling, PLLC | trust 4.0 | Foundations Counseling, PLLC is a therapy practice in Colleyville, TX at 103 Colleyville Boulevard, Colleyville, TX 76034. | https://dingalinged-cpu.github.io/registry/c/foundations-counseling-pllc-colleyville/
-2. Action Behavior Therapy | trust 0.0 | Action Behavior Therapy is a therapy practice in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/action-behavior-therapy-colleyville/
+1. Foundations Counseling, PLLC | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Foundations Counseling, PLLC is a therapy practice in Colleyville, TX at 103 Colleyville Boulevard, Colleyville, TX 76034. | https://dingalinged-cpu.github.io/registry/c/foundations-counseling-pllc-colleyville/
+2. Action Behavior Therapy | Organic #2 | Pulse Score 54/100 (Unrated, #2 in city) | Action Behavior Therapy is a therapy practice in Colleyville, TX. | https://dingalinged-cpu.github.io/registry/c/action-behavior-therapy-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist colleyville tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

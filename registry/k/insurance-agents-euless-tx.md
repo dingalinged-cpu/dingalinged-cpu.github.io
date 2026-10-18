@@ -1,15 +1,15 @@
-The top unpaid insurance agents listing for Euless, TX is State Farm (an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039). 4 insurance agents businesses are listed for Euless, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Euless, TX is Texas Insurance (an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039). 4 insurance agents businesses are listed for Euless, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Euless, TX?
 
 Also answers: insurance agents in Euless, TX; insurance agents near me (Euless, TX); best insurance agents Euless, TX; top rated insurance agents Euless, TX; affordable insurance agents Euless, TX; emergency insurance agents Euless, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 4.0 | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless/
-2. Texas Insurance | trust 4.0 | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/texas-insurance-euless/
-3. Alpa Insurance | trust 0.0 | Alpa Insurance is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/alpa-insurance-euless/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless-w652915286/
+1. Texas Insurance | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Texas Insurance is an insurance agent in Euless, TX at 113 West Harwood Road, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/texas-insurance-euless/
+2. Alpa Insurance | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Alpa Insurance is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/alpa-insurance-euless/
+3. State Farm | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | State Farm is an insurance agent in Euless, TX at 296 North Main Street, Euless, TX 76039. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless/
+4. State Farm | Organic #4 | Pulse Score 41.9/100 (Building, #4 in city) | State Farm is an insurance agent in Euless, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-euless-w652915286/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents euless tx | category: insurance | industry benchmark: Finance & Insurance

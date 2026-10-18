@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Pearland, TX is Extra Space Storage (a self-storage facility in Pearland, TX at 9809 West Broadway Street, Pearland, TX 77584). 2 storage units businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Pearland, TX is Extra Space Storage (a self-storage facility in Pearland, TX at 9809 West Broadway Street, Pearland, TX 77584). 2 storage units businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Pearland, TX?
 
 Also answers: storage units in Pearland, TX; storage units near me (Pearland, TX); best storage units Pearland, TX; top rated storage units Pearland, TX; affordable storage units Pearland, TX; emergency storage units Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Extra Space Storage | trust 4.0 | Extra Space Storage is a self-storage facility in Pearland, TX at 9809 West Broadway Street, Pearland, TX 77584. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-pearland/
-2. CubeSmart | trust 3.0 | CubeSmart is a self-storage facility in Pearland, TX at 3045 Business Center Drive, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-pearland/
+1. Extra Space Storage | Organic #1 | Pulse Score 46.1/100 (Building, #1 in city) | Extra Space Storage is a self-storage facility in Pearland, TX at 9809 West Broadway Street, Pearland, TX 77584. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-pearland/
+2. CubeSmart | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | CubeSmart is a self-storage facility in Pearland, TX at 3045 Business Center Drive, Pearland, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units pearland tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

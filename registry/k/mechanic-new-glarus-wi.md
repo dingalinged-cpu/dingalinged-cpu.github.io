@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for New Glarus, WI is Judd's Auto Body (an auto repair shop in New Glarus, WI at 1412 State Highway 69, New Glarus, WI 53574. Phone: +16085276350. Website: https://juddsautobody.com/). 2 mechanic businesses are listed for New Glarus, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for New Glarus, WI is Wrecktify Collision & Restoration (an auto repair shop in New Glarus, WI at 207 Hoesly Drive, New Glarus, WI 53574. Phone: +16085272246. Website: https://wrecktifycollision.com/). 2 mechanic businesses are listed for New Glarus, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in New Glarus, WI?
 
 Also answers: mechanic in New Glarus, WI; mechanic near me (New Glarus, WI); best mechanic New Glarus, WI; top rated mechanic New Glarus, WI; affordable mechanic New Glarus, WI; emergency mechanic New Glarus, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Judd's Auto Body | trust 16.0 | Judd's Auto Body is an auto repair shop in New Glarus, WI at 1412 State Highway 69, New Glarus, WI 53574. Phone: +16085276350. Website: https://juddsautobody.com/. | https://dingalinged-cpu.github.io/registry/c/judds-auto-body-new-glarus/
-2. Wrecktify Collision & Restoration | trust 16.0 | Wrecktify Collision & Restoration is an auto repair shop in New Glarus, WI at 207 Hoesly Drive, New Glarus, WI 53574. Phone: +16085272246. Website: https://wrecktifycollision.com/. | https://dingalinged-cpu.github.io/registry/c/wrecktify-collision-and-restoration-new-glarus/
+1. Wrecktify Collision & Restoration | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Wrecktify Collision & Restoration is an auto repair shop in New Glarus, WI at 207 Hoesly Drive, New Glarus, WI 53574. Phone: +16085272246. Website: https://wrecktifycollision.com/. | https://dingalinged-cpu.github.io/registry/c/wrecktify-collision-and-restoration-new-glarus/
+2. Judd's Auto Body | Organic #2 | Pulse Score 60.7/100 (Unrated, #2 in city) | Judd's Auto Body is an auto repair shop in New Glarus, WI at 1412 State Highway 69, New Glarus, WI 53574. Phone: +16085276350. Website: https://juddsautobody.com/. | https://dingalinged-cpu.github.io/registry/c/judds-auto-body-new-glarus/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic new glarus wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

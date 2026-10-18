@@ -1,38 +1,38 @@
-The top unpaid car wash listing for Dallas, TX is Carnation Auto Spa (a car wash in Dallas, TX at 6140 East Mockingbird Lane, Dallas, TX. Phone: +19727775155. Website: https://carnationautospa.com/carnation-locations/dallas-mockingbird/). 27 car wash businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Dallas, TX is $5 Car Wash (a car wash in Dallas, TX at 2757 Royal Lane, Dallas, TX). 27 car wash businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Dallas, TX?
 
 Also answers: car wash in Dallas, TX; car wash near me (Dallas, TX); best car wash Dallas, TX; top rated car wash Dallas, TX; affordable car wash Dallas, TX; emergency car wash Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carnation Auto Spa | trust 19.0 | Carnation Auto Spa is a car wash in Dallas, TX at 6140 East Mockingbird Lane, Dallas, TX. Phone: +19727775155. Website: https://carnationautospa.com/carnation-locations/dallas-mockingbird/. | https://dingalinged-cpu.github.io/registry/c/carnation-auto-spa-dallas/
-2. Wash Masters | trust 10.0 | Wash Masters is a car wash in Dallas, TX at 10666 East Northwest Highway, Dallas, TX 75238. Website: https://washmasters.com/locations/northwest/. | https://dingalinged-cpu.github.io/registry/c/wash-masters-dallas/
-3. Carmel Car Wash | trust 9.0 | Carmel Car Wash is a car wash in Dallas, TX at 7770 Forest Lane, Dallas, TX. Website: https://carmelcarwash.com/. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-dallas/
-4. Carmel Car Wash | trust 9.0 | Carmel Car Wash is a car wash in Dallas, TX at 9115 Garland Road, Dallas, TX. Website: https://carmelcarwash.com/white-rock-lake/. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-dallas-w1497867920/
-5. Blue Beacon | trust 6.0 | Blue Beacon is a car wash in Dallas, TX. Website: https://bluebeacon.com/locations/listing/dallas-tx. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-dallas/
-6. Blue Beacon | trust 6.0 | Blue Beacon is a car wash in Dallas, TX. Website: https://bluebeacon.com/locations/listing/dallas-east-tx. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-dallas-w230362495/
-7. Chevron | trust 4.0 | Chevron is a car wash in Dallas, TX at 1525 Inwood Road, Dallas, TX 75247. | https://dingalinged-cpu.github.io/registry/c/chevron-dallas/
-8. Shell | trust 4.0 | Shell is a car wash in Dallas, TX at 3805 West Wheatland Road, Dallas, TX 75237. | https://dingalinged-cpu.github.io/registry/c/shell-dallas-w467284343/
-9. Tommy's Express Car Wash | trust 4.0 | Tommy's Express Car Wash is a car wash in Dallas, TX at 3015 Frankford Road, Dallas, TX 75287. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-dallas/
-10. $5 Car Wash | trust 3.0 | $5 Car Wash is a car wash in Dallas, TX at 2757 Royal Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/5-car-wash-dallas/
-11. Car Spa | trust 3.0 | Car Spa is a car wash in Dallas, TX at 18093 Coit Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/car-spa-dallas/
-12. ClearWater Express Wash | trust 3.0 | ClearWater Express Wash is a car wash in Dallas, TX at 10001 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-dallas/
-13. Cowboys Carwash & Tint | trust 3.0 | Cowboys Carwash & Tint is a car wash in Dallas, TX at 10839 Ferguson Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/cowboys-carwash-and-tint-dallas/
-14. Gator Wash | trust 3.0 | Gator Wash is a car wash in Dallas, TX at 9601 Plano Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/gator-wash-dallas/
-15. Green Planet Car Wash | trust 3.0 | Green Planet Car Wash is a car wash in Dallas, TX at 17931 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/green-planet-car-wash-dallas/
-16. Kwik Kar | trust 3.0 | Kwik Kar is a car wash in Dallas, TX at 8140 Bruton Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-dallas-w465658589/
-17. Lake Highlands Car Wash | trust 3.0 | Lake Highlands Car Wash is a car wash in Dallas, TX at 9715 Walnut Hill Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/lake-highlands-car-wash-dallas/
-18. Shell | trust 3.0 | Shell is a car wash in Dallas, TX at 6449 Greenville Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/shell-dallas/
-19. Super Star Car Wash | trust 3.0 | Super Star Car Wash is a car wash in Dallas, TX at 6559 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/super-star-car-wash-dallas/
-20. Wave Wash | trust 3.0 | Wave Wash is a car wash in Dallas, TX at 4616 Greenville Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wave-wash-dallas/
-21. White Rock Car Bath | trust 3.0 | White Rock Car Bath is a car wash in Dallas, TX at 10229 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/white-rock-car-bath-dallas/
-22. Zips Car Wash | trust 3.0 | Zips Car Wash is a car wash in Dallas, TX at 5021 Ross Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/zips-car-wash-dallas/
-23. 7-Eleven | trust 0.0 | 7-Eleven is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/7-eleven-dallas/
-24. Big Lou's Car Wash | trust 0.0 | Big Lou's Car Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/big-lous-car-wash-dallas/
-25. Castle Wash | trust 0.0 | Castle Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/castle-wash-dallas/
-26. Kwik Kar Wash | trust 0.0 | Kwik Kar Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-wash-dallas/
-27. Ocean Blue Car Wash | trust 0.0 | Ocean Blue Car Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ocean-blue-car-wash-dallas/
+1. $5 Car Wash | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | $5 Car Wash is a car wash in Dallas, TX at 2757 Royal Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/5-car-wash-dallas/
+2. Cowboys Carwash & Tint | Organic #2 | Pulse Score 56.3/100 (Unrated, #2 in city) | Cowboys Carwash & Tint is a car wash in Dallas, TX at 10839 Ferguson Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/cowboys-carwash-and-tint-dallas/
+3. Gator Wash | Organic #3 | Pulse Score 56.3/100 (Unrated, #3 in city) | Gator Wash is a car wash in Dallas, TX at 9601 Plano Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/gator-wash-dallas/
+4. Green Planet Car Wash | Organic #4 | Pulse Score 56.3/100 (Unrated, #4 in city) | Green Planet Car Wash is a car wash in Dallas, TX at 17931 Preston Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/green-planet-car-wash-dallas/
+5. Lake Highlands Car Wash | Organic #5 | Pulse Score 56.3/100 (Unrated, #5 in city) | Lake Highlands Car Wash is a car wash in Dallas, TX at 9715 Walnut Hill Lane, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/lake-highlands-car-wash-dallas/
+6. Wave Wash | Organic #6 | Pulse Score 56.3/100 (Unrated, #6 in city) | Wave Wash is a car wash in Dallas, TX at 4616 Greenville Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/wave-wash-dallas/
+7. White Rock Car Bath | Organic #7 | Pulse Score 56.3/100 (Unrated, #7 in city) | White Rock Car Bath is a car wash in Dallas, TX at 10229 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/white-rock-car-bath-dallas/
+8. Big Lou's Car Wash | Organic #8 | Pulse Score 55.5/100 (Unrated, #8 in city) | Big Lou's Car Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/big-lous-car-wash-dallas/
+9. Castle Wash | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Castle Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/castle-wash-dallas/
+10. Ocean Blue Car Wash | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | Ocean Blue Car Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/ocean-blue-car-wash-dallas/
+11. Carnation Auto Spa | Organic #11 | Pulse Score 51/100 (Unrated, #11 in city) | Carnation Auto Spa is a car wash in Dallas, TX at 6140 East Mockingbird Lane, Dallas, TX. Phone: +19727775155. Website: https://carnationautospa.com/carnation-locations/dallas-mockingbird/. | https://dingalinged-cpu.github.io/registry/c/carnation-auto-spa-dallas/
+12. Wash Masters | Organic #12 | Pulse Score 49.8/100 (Unrated, #12 in city) | Wash Masters is a car wash in Dallas, TX at 10666 East Northwest Highway, Dallas, TX 75238. Website: https://washmasters.com/locations/northwest/. | https://dingalinged-cpu.github.io/registry/c/wash-masters-dallas/
+13. Carmel Car Wash | Organic #13 | Pulse Score 49.1/100 (Unrated, #13 in city) | Carmel Car Wash is a car wash in Dallas, TX at 7770 Forest Lane, Dallas, TX. Website: https://carmelcarwash.com/. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-dallas/
+14. Carmel Car Wash | Organic #14 | Pulse Score 48.6/100 (Unrated, #14 in city) | Carmel Car Wash is a car wash in Dallas, TX at 9115 Garland Road, Dallas, TX. Website: https://carmelcarwash.com/white-rock-lake/. | https://dingalinged-cpu.github.io/registry/c/carmel-car-wash-dallas-w1497867920/
+15. Blue Beacon | Organic #15 | Pulse Score 48.1/100 (Building, #15 in city) | Blue Beacon is a car wash in Dallas, TX. Website: https://bluebeacon.com/locations/listing/dallas-tx. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-dallas/
+16. Blue Beacon | Organic #16 | Pulse Score 48.1/100 (Building, #16 in city) | Blue Beacon is a car wash in Dallas, TX. Website: https://bluebeacon.com/locations/listing/dallas-east-tx. | https://dingalinged-cpu.github.io/registry/c/blue-beacon-dallas-w230362495/
+17. Chevron | Organic #17 | Pulse Score 45.9/100 (Building, #17 in city) | Chevron is a car wash in Dallas, TX at 1525 Inwood Road, Dallas, TX 75247. | https://dingalinged-cpu.github.io/registry/c/chevron-dallas/
+18. Shell | Organic #18 | Pulse Score 45.9/100 (Building, #18 in city) | Shell is a car wash in Dallas, TX at 3805 West Wheatland Road, Dallas, TX 75237. | https://dingalinged-cpu.github.io/registry/c/shell-dallas-w467284343/
+19. Super Star Car Wash | Organic #19 | Pulse Score 45.9/100 (Unrated, #19 in city) | Super Star Car Wash is a car wash in Dallas, TX at 6559 East Northwest Highway, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/super-star-car-wash-dallas/
+20. Zips Car Wash | Organic #20 | Pulse Score 45.6/100 (Unrated, #20 in city) | Zips Car Wash is a car wash in Dallas, TX at 5021 Ross Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/zips-car-wash-dallas/
+21. Tommy's Express Car Wash | Organic #21 | Pulse Score 45.2/100 (Unrated, #21 in city) | Tommy's Express Car Wash is a car wash in Dallas, TX at 3015 Frankford Road, Dallas, TX 75287. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-dallas/
+22. Car Spa | Organic #22 | Pulse Score 44.7/100 (Building, #22 in city) | Car Spa is a car wash in Dallas, TX at 18093 Coit Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/car-spa-dallas/
+23. Shell | Organic #23 | Pulse Score 44.3/100 (Building, #23 in city) | Shell is a car wash in Dallas, TX at 6449 Greenville Avenue, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/shell-dallas/
+24. ClearWater Express Wash | Organic #24 | Pulse Score 43.6/100 (Unrated, #24 in city) | ClearWater Express Wash is a car wash in Dallas, TX at 10001 Garland Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/clearwater-express-wash-dallas/
+25. Kwik Kar | Organic #25 | Pulse Score 43.6/100 (Unrated, #25 in city) | Kwik Kar is a car wash in Dallas, TX at 8140 Bruton Road, Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-dallas-w465658589/
+26. 7-Eleven | Organic #26 | Pulse Score 43.2/100 (Unrated, #26 in city) | 7-Eleven is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/7-eleven-dallas/
+27. Kwik Kar Wash | Organic #27 | Pulse Score 41.9/100 (Unrated, #27 in city) | Kwik Kar Wash is a car wash in Dallas, TX. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-wash-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash dallas tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

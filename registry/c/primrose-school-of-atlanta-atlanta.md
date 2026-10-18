@@ -13,7 +13,7 @@ Primrose School of Atlanta is a preschool in Atlanta, GA at 1197 Peachtree Stree
 - Website: https://www.primroseschools.com/schools/midtown-colony-square/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Good — top 5% of preschools in Atlanta, #1 of 11 preschools in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

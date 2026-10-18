@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Arlington, TX is Bailee Glam Beauty Bar (a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/). 4 nail salon businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Arlington, TX is Bailee Glam Beauty Bar (a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/). 4 nail salon businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Arlington, TX?
 
 Also answers: nail salon in Arlington, TX; nail salon near me (Arlington, TX); best nail salon Arlington, TX; top rated nail salon Arlington, TX; affordable nail salon Arlington, TX; emergency nail salon Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bailee Glam Beauty Bar | trust 16.0 | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://dingalinged-cpu.github.io/registry/c/bailee-glam-beauty-bar-arlington/
-2. Cheveaux Salon | trust 4.0 | Cheveaux Salon is a nail salon in Arlington, TX at 1023 South Bowen Road, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/cheveaux-salon-arlington/
-3. Eden PediSpa & Nails | trust 4.0 | Eden PediSpa & Nails is a nail salon in Arlington, TX at 2141 North Collins Street #521, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/eden-pedispa-and-nails-arlington/
-4. blush Boutique Nail Salon | trust 0.0 | blush Boutique Nail Salon is a nail salon in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/blush-boutique-nail-salon-arlington/
+1. Bailee Glam Beauty Bar | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Bailee Glam Beauty Bar is a nail salon in Arlington, TX at 2111 North Collins Street #223, Arlington, TX 76011. Phone: +12144443466. Website: https://www.baileeglambeautybar.com/. | https://dingalinged-cpu.github.io/registry/c/bailee-glam-beauty-bar-arlington/
+2. Eden PediSpa & Nails | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Eden PediSpa & Nails is a nail salon in Arlington, TX at 2141 North Collins Street #521, Arlington, TX 76011. | https://dingalinged-cpu.github.io/registry/c/eden-pedispa-and-nails-arlington/
+3. Cheveaux Salon | Organic #3 | Pulse Score 57.2/100 (Unrated, #3 in city) | Cheveaux Salon is a nail salon in Arlington, TX at 1023 South Bowen Road, Arlington, TX 76013. | https://dingalinged-cpu.github.io/registry/c/cheveaux-salon-arlington/
+4. blush Boutique Nail Salon | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | blush Boutique Nail Salon is a nail salon in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/blush-boutique-nail-salon-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon arlington tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

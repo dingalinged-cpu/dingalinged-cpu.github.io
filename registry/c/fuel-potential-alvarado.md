@@ -13,7 +13,7 @@ Fuel Potential is an auto repair shop in Alvarado, TX at 910 North Spears Street
 - Website: https://fuelpotentialgarage.com/
 - Email: service@fuelpotentialgarage.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 4% of auto repair shops in Dallas–Fort Worth, #1 of 4 auto repair shops in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 62.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Sun Prairie, WI is Klinke Cleaners (a dry cleaner in Sun Prairie, WI). 2 dry cleaners businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Sun Prairie, WI is Prairie Town Laundry & Dry Cleaners (a dry cleaner in Sun Prairie, WI). 2 dry cleaners businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Sun Prairie, WI?
 
 Also answers: dry cleaners in Sun Prairie, WI; dry cleaners near me (Sun Prairie, WI); best dry cleaners Sun Prairie, WI; top rated dry cleaners Sun Prairie, WI; affordable dry cleaners Sun Prairie, WI; emergency dry cleaners Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Klinke Cleaners | trust 4.0 | Klinke Cleaners is a dry cleaner in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-sun-prairie/
-2. Prairie Town Laundry & Dry Cleaners | trust 4.0 | Prairie Town Laundry & Dry Cleaners is a dry cleaner in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-town-laundry-and-dry-cleaners-sun-prairie/
+1. Prairie Town Laundry & Dry Cleaners | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Prairie Town Laundry & Dry Cleaners is a dry cleaner in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-town-laundry-and-dry-cleaners-sun-prairie/
+2. Klinke Cleaners | Organic #2 | Pulse Score 46.4/100 (Unrated, #2 in city) | Klinke Cleaners is a dry cleaner in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/klinke-cleaners-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners sun prairie wi | category: Professional & financial services | industry benchmark: Finance & Insurance

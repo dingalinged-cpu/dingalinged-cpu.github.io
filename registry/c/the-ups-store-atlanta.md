@@ -13,7 +13,7 @@ The UPS Store is a printing service in Atlanta, GA at 2020 Howell Mill Road Nort
 - Website: https://locations.theupsstore.com/ga/atlanta/2020-howell-mill-rd-nw
 - Email: store2143@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-15:00; Su 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.7/100 — Fair — top 28% of printing services in Atlanta, #6 of 12 printing services in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 63.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

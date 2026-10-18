@@ -1,14 +1,14 @@
-The top unpaid gym listing for Union Grove, WI is Granary Community Fitness (a gym in Union Grove, WI). 3 gym businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Union Grove, WI is Granary Community Fitness (a gym in Union Grove, WI). 3 gym businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Union Grove, WI?
 
 Also answers: gym in Union Grove, WI; gym near me (Union Grove, WI); best gym Union Grove, WI; top rated gym Union Grove, WI; affordable gym Union Grove, WI; emergency gym Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Granary Community Fitness | trust 0.0 | Granary Community Fitness is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/granary-community-fitness-union-grove/
-2. Snap Fitness | trust 0.0 | Snap Fitness is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-union-grove/
-3. Sports Physical Therapy & Rehab | trust 0.0 | Sports Physical Therapy & Rehab is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/sports-physical-therapy-and-rehab-union-grove/
+1. Granary Community Fitness | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Granary Community Fitness is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/granary-community-fitness-union-grove/
+2. Sports Physical Therapy & Rehab | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Sports Physical Therapy & Rehab is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/sports-physical-therapy-and-rehab-union-grove/
+3. Snap Fitness | Organic #3 | Pulse Score 41.5/100 (Building, #3 in city) | Snap Fitness is a gym in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/snap-fitness-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym union grove wi | category: Fitness | industry benchmark: Health & Fitness

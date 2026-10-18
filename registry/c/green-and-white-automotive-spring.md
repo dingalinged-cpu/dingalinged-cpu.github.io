@@ -13,7 +13,7 @@ Green & White Automotive is an auto repair shop in Spring, TX at 1020 Spring Cyp
 - Website: https://greenandwhiteauto.com/
 - Email: service@greenandwhiteauto.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Houston, #2 of 30 auto repair shops in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

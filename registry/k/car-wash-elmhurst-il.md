@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Elmhurst, IL is Delta Sonic Car Wash (a car wash in Elmhurst, IL at 600 West North Avenue, Elmhurst, IL 60126. Website: https://deltasoniccarwash.com/location/elmhurst-il/). 3 car wash businesses are listed for Elmhurst, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Elmhurst, IL is GEM Car Wash (a car wash in Elmhurst, IL at 964 North York Street, Elmhurst, IL 60126. Website: https://www.gemwash.com/). 3 car wash businesses are listed for Elmhurst, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Elmhurst, IL?
 
 Also answers: car wash in Elmhurst, IL; car wash near me (Elmhurst, IL); best car wash Elmhurst, IL; top rated car wash Elmhurst, IL; affordable car wash Elmhurst, IL; emergency car wash Elmhurst, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Delta Sonic Car Wash | trust 10.0 | Delta Sonic Car Wash is a car wash in Elmhurst, IL at 600 West North Avenue, Elmhurst, IL 60126. Website: https://deltasoniccarwash.com/location/elmhurst-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-elmhurst/
-2. GEM Car Wash | trust 10.0 | GEM Car Wash is a car wash in Elmhurst, IL at 964 North York Street, Elmhurst, IL 60126. Website: https://www.gemwash.com/. | https://dingalinged-cpu.github.io/registry/c/gem-car-wash-elmhurst/
-3. Shell | trust 10.0 | Shell is a car wash in Elmhurst, IL at 218 East Butterfield Road, Elmhurst, IL 60126. Website: https://find.shell.com/us/fuel/10084753-218-e-butterfield-rd/en_US. | https://dingalinged-cpu.github.io/registry/c/shell-elmhurst/
+1. GEM Car Wash | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | GEM Car Wash is a car wash in Elmhurst, IL at 964 North York Street, Elmhurst, IL 60126. Website: https://www.gemwash.com/. | https://dingalinged-cpu.github.io/registry/c/gem-car-wash-elmhurst/
+2. Delta Sonic Car Wash | Organic #2 | Pulse Score 48.4/100 (Building, #2 in city) | Delta Sonic Car Wash is a car wash in Elmhurst, IL at 600 West North Avenue, Elmhurst, IL 60126. Website: https://deltasoniccarwash.com/location/elmhurst-il/. | https://dingalinged-cpu.github.io/registry/c/delta-sonic-car-wash-elmhurst/
+3. Shell | Organic #3 | Pulse Score 48.4/100 (Building, #3 in city) | Shell is a car wash in Elmhurst, IL at 218 East Butterfield Road, Elmhurst, IL 60126. Website: https://find.shell.com/us/fuel/10084753-218-e-butterfield-rd/en_US. | https://dingalinged-cpu.github.io/registry/c/shell-elmhurst/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash elmhurst il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

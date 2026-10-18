@@ -13,7 +13,7 @@ Great Clips is a hair salon in Saint Louis Park, MN at 1650 Park Place Boulevard
 - Website: https://salons.greatclips.com/us/mn/st-louis-park/1650-park-place-blvd
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.9/100 — Building — top 82% of hair salons in Minneapolis–St. Paul, #21 of 24 hair salons in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

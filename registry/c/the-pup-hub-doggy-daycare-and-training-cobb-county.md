@@ -13,7 +13,7 @@ The Pup Hub Doggy Daycare And Training is a dog boarding facility in Cobb County
 - Website: https://thepuphub.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-11:30,14:00-19:00; Sa-Su 09:00-10:00,17:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 20% of dog boarding facilitys in Atlanta, #1 of 3 dog boarding facilitys in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.8, Trust 55. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

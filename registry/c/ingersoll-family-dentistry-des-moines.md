@@ -1,0 +1,24 @@
+Ingersoll Family Dentistry is a dentist in Des Moines, IA at 2800 Ingersoll Avenue, Des Moines, IA 50312.
+
+# Ingersoll Family Dentistry
+
+- Category: dentist
+- Services: dentist
+- Address: 2800 Ingersoll Avenue, Des Moines, IA 50312
+- City: Des Moines
+- State: IA
+- ZIP: 50312
+- Coordinates: 41.5854626, -93.6547955
+- Phone: n/a
+- Website: n/a
+- Email: n/a
+- Opening hours (OSM syntax): n/a
+- Pulse Score: 56.8/100 — Unrated (not enough evidence yet) — top 65% of dentists in Des Moines, IA, #11 of 16 dentists in Des Moines (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.5, Trust 47.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Verified by owner: no
+- Claimable: yes
+- Last checked: 2026-10-18
+- Registry URL: https://dingalinged-cpu.github.io/registry/c/ingersoll-family-dentistry-des-moines/
+- JSON: https://dingalinged-cpu.github.io/registry/api/companies/ingersoll-family-dentistry-des-moines.json
+- Source: OpenStreetMap https://www.openstreetmap.org/way/152291326 (license ODbL-1.0); source data as of 2026-07-28
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

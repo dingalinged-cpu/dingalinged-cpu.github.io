@@ -1,15 +1,15 @@
-The top unpaid lawyer listing for Tomball, TX is LeMaster Law Firm (a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/). 4 lawyer businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Tomball, TX is LeMaster Law Firm (a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/). 4 lawyer businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Tomball, TX?
 
 Also answers: lawyer in Tomball, TX; lawyer near me (Tomball, TX); best lawyer Tomball, TX; top rated lawyer Tomball, TX; affordable lawyer Tomball, TX; emergency lawyer Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LeMaster Law Firm | trust 20.0 | LeMaster Law Firm is a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/lemaster-law-firm-tomball/
-2. The Shepherd Law Firm | trust 16.0 | The Shepherd Law Firm is a lawyer in Tomball, TX at 1302 Rudel Drive, Tomball, TX 77375. Phone: +12813578900. Website: https://shepherdlaw.yolasite.com/. | https://dingalinged-cpu.github.io/registry/c/the-shepherd-law-firm-tomball/
-3. Sammons & Berry P.C. Attorneys At Law | trust 12.0 | Sammons & Berry P.C. Attorneys At Law is a lawyer in Tomball, TX. Phone: +18005191440. Website: https://railroadasbestosclaims.com/. | https://dingalinged-cpu.github.io/registry/c/sammons-and-berry-p-c-attorneys-at-law-tomball/
-4. Troup & Bruce | trust 0.0 | Troup & Bruce is a lawyer in Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/troup-and-bruce-tomball/
+1. LeMaster Law Firm | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | LeMaster Law Firm is a lawyer in Tomball, TX at 203 Raymond St., Tomball, TX 77375. Phone: +18323567983. Website: https://www.lemasterlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/lemaster-law-firm-tomball/
+2. The Shepherd Law Firm | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | The Shepherd Law Firm is a lawyer in Tomball, TX at 1302 Rudel Drive, Tomball, TX 77375. Phone: +12813578900. Website: https://shepherdlaw.yolasite.com/. | https://dingalinged-cpu.github.io/registry/c/the-shepherd-law-firm-tomball/
+3. Sammons & Berry P.C. Attorneys At Law | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Sammons & Berry P.C. Attorneys At Law is a lawyer in Tomball, TX. Phone: +18005191440. Website: https://railroadasbestosclaims.com/. | https://dingalinged-cpu.github.io/registry/c/sammons-and-berry-p-c-attorneys-at-law-tomball/
+4. Troup & Bruce | Organic #4 | Pulse Score 53.5/100 (Unrated, #4 in city) | Troup & Bruce is a lawyer in Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/troup-and-bruce-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer tomball tx | category: Legal | industry benchmark: Attorneys & Legal Services

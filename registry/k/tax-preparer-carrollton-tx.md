@@ -1,15 +1,15 @@
-The top unpaid tax preparer listing for Carrollton, TX is EZ Rapid Tax (a tax preparation service in Carrollton, TX at 1212 North Josey Lane, Carrollton, TX). 4 tax preparer businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Carrollton, TX is EZ Rapid Tax (a tax preparation service in Carrollton, TX at 1212 North Josey Lane, Carrollton, TX). 4 tax preparer businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Carrollton, TX?
 
 Also answers: tax preparer in Carrollton, TX; tax preparer near me (Carrollton, TX); best tax preparer Carrollton, TX; top rated tax preparer Carrollton, TX; affordable tax preparer Carrollton, TX; emergency tax preparer Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. EZ Rapid Tax | trust 3.0 | EZ Rapid Tax is a tax preparation service in Carrollton, TX at 1212 North Josey Lane, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/ez-rapid-tax-carrollton/
-2. Liberty Tax | trust 3.0 | Liberty Tax is a tax preparation service in Carrollton, TX at 1220 North Josey Lane, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-carrollton/
-3. H&R Block | trust 0.0 | H&R Block is a tax preparation service in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-carrollton/
-4. Tax Services | trust 0.0 | Tax Services is a tax preparation service in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/tax-services-carrollton/
+1. EZ Rapid Tax | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | EZ Rapid Tax is a tax preparation service in Carrollton, TX at 1212 North Josey Lane, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/ez-rapid-tax-carrollton/
+2. H&R Block | Organic #2 | Pulse Score 42.9/100 (Building, #2 in city) | H&R Block is a tax preparation service in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-carrollton/
+3. Liberty Tax | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | Liberty Tax is a tax preparation service in Carrollton, TX at 1220 North Josey Lane, Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/liberty-tax-carrollton/
+4. Tax Services | Organic #4 | Pulse Score 41.5/100 (Unrated, #4 in city) | Tax Services is a tax preparation service in Carrollton, TX. | https://dingalinged-cpu.github.io/registry/c/tax-services-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer carrollton tx | category: professional_accounting | industry benchmark: Business Services

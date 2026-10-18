@@ -1,12 +1,12 @@
-The top unpaid oil change listing for Hammond, IN is Martinez Auto Body, L.L.C. (an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/). 1 oil change businesses are listed for Hammond, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Hammond, IN is Martinez Auto Body, L.L.C. (an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/). 1 oil change businesses are listed for Hammond, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Hammond, IN?
 
 Also answers: oil change in Hammond, IN; oil change near me (Hammond, IN); best oil change Hammond, IN; top rated oil change Hammond, IN; affordable oil change Hammond, IN; emergency oil change Hammond, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Martinez Auto Body, L.L.C. | trust 20.0 | Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/. | https://dingalinged-cpu.github.io/registry/c/martinez-auto-body-l-l-c-hammond/
+1. Martinez Auto Body, L.L.C. | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | Martinez Auto Body, L.L.C. is an auto repair shop in Hammond, IN at 630 State Street, Hammond, IN 46320. Phone: +12198520718. Website: https://martinezautobody.com/. | https://dingalinged-cpu.github.io/registry/c/martinez-auto-body-l-l-c-hammond/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change hammond in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

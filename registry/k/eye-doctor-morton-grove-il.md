@@ -1,12 +1,12 @@
-The top unpaid eye doctor listing for Morton Grove, IL is Dempster Eye Center (an eye care practice in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053). 1 eye doctor businesses are listed for Morton Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Morton Grove, IL is Dempster Eye Center (an eye care practice in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053). 1 eye doctor businesses are listed for Morton Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Morton Grove, IL?
 
 Also answers: eye doctor in Morton Grove, IL; eye doctor near me (Morton Grove, IL); best eye doctor Morton Grove, IL; top rated eye doctor Morton Grove, IL; affordable eye doctor Morton Grove, IL; emergency eye doctor Morton Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dempster Eye Center | trust 4.0 | Dempster Eye Center is an eye care practice in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/dempster-eye-center-morton-grove/
+1. Dempster Eye Center | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | Dempster Eye Center is an eye care practice in Morton Grove, IL at West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/dempster-eye-center-morton-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor morton grove il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ The Goddard School is a preschool in Mokena, IL at 11900 Francis Road, Mokena, I
 - Website: https://www.goddardschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 68% of preschools in Chicago, #1 of 1 preschools in Mokena (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 60.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

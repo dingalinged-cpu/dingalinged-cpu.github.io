@@ -13,7 +13,7 @@ The Rooted Salon is a hair salon in Marietta, GA at 255 Village Parkway Northeas
 - Website: https://therootedsalon.com/
 - Email: therootedsalon@gmail.com
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 66.1/100 — Good — top 1% of hair salons in Atlanta, #2 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid chiropractor listing for Village Of Cross Plains, WI is Reeson Chiropractor (a chiropractor in Village of Cross Plains, WI at 2034 Main Street #4, Village of Cross Plains, WI. Phone: +16087983437. Website: https://www.reesonchiropractic.com/). 1 chiropractor businesses are listed for Village Of Cross Plains, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Village Of Cross Plains, WI is Reeson Chiropractor (a chiropractor in Village of Cross Plains, WI at 2034 Main Street #4, Village of Cross Plains, WI. Phone: +16087983437. Website: https://www.reesonchiropractic.com/). 1 chiropractor businesses are listed for Village Of Cross Plains, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Village Of Cross Plains, WI?
 
 Also answers: chiropractor in Village Of Cross Plains, WI; chiropractor near me (Village Of Cross Plains, WI); best chiropractor Village Of Cross Plains, WI; top rated chiropractor Village Of Cross Plains, WI; affordable chiropractor Village Of Cross Plains, WI; emergency chiropractor Village Of Cross Plains, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reeson Chiropractor | trust 15.0 | Reeson Chiropractor is a chiropractor in Village of Cross Plains, WI at 2034 Main Street #4, Village of Cross Plains, WI. Phone: +16087983437. Website: https://www.reesonchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/reeson-chiropractor-village-of-cross-plains/
+1. Reeson Chiropractor | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Reeson Chiropractor is a chiropractor in Village of Cross Plains, WI at 2034 Main Street #4, Village of Cross Plains, WI. Phone: +16087983437. Website: https://www.reesonchiropractic.com/. | https://dingalinged-cpu.github.io/registry/c/reeson-chiropractor-village-of-cross-plains/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor village of cross plains wi | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,13 +1,13 @@
-The top unpaid audiologist listing for Southlake, TX is Ecoutez Hearing Aid Boutique (an audiologist in Southlake, TX at 1438 E Southlake Blvd, Southlake, TX 76092. Phone: +16824774063. Website: https://ecoutez.com/). 2 audiologist businesses are listed for Southlake, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for Southlake, TX is Ecoutez Hearing Aid Boutique (an audiologist in Southlake, TX at 1438 E Southlake Blvd, Southlake, TX 76092. Phone: +16824774063. Website: https://ecoutez.com/). 2 audiologist businesses are listed for Southlake, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in Southlake, TX?
 
 Also answers: audiologist in Southlake, TX; audiologist near me (Southlake, TX); best audiologist Southlake, TX; top rated audiologist Southlake, TX; affordable audiologist Southlake, TX; emergency audiologist Southlake, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ecoutez Hearing Aid Boutique | trust 20.0 | Ecoutez Hearing Aid Boutique is an audiologist in Southlake, TX at 1438 E Southlake Blvd, Southlake, TX 76092. Phone: +16824774063. Website: https://ecoutez.com/. | https://dingalinged-cpu.github.io/registry/c/ecoutez-hearing-aid-boutique-southlake/
-2. HearUSA | trust 20.0 | HearUSA is an audiologist in Southlake, TX at 200 North Kimball Ave #Suite 206, Southlake, TX 76092. Phone: +18177694731. Website: https://www.hearusa.com/hearing-centers/details/us/76092/southlake/hearusa-southlake/53009/. | https://dingalinged-cpu.github.io/registry/c/hearusa-southlake/
+1. Ecoutez Hearing Aid Boutique | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Ecoutez Hearing Aid Boutique is an audiologist in Southlake, TX at 1438 E Southlake Blvd, Southlake, TX 76092. Phone: +16824774063. Website: https://ecoutez.com/. | https://dingalinged-cpu.github.io/registry/c/ecoutez-hearing-aid-boutique-southlake/
+2. HearUSA | Organic #2 | Pulse Score 59.3/100 (Unrated, #2 in city) | HearUSA is an audiologist in Southlake, TX at 200 North Kimball Ave #Suite 206, Southlake, TX 76092. Phone: +18177694731. Website: https://www.hearusa.com/hearing-centers/details/us/76092/southlake/hearusa-southlake/53009/. | https://dingalinged-cpu.github.io/registry/c/hearusa-southlake/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist southlake tx | category: Health & medical | industry benchmark: Physicians & Surgeons

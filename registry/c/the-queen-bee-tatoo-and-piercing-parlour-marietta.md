@@ -13,7 +13,7 @@ The Queen Bee Tatoo & Piercing Parlour is a tattoo shop in Marietta, GA at 700 S
 - Website: https://thequeenbeetattoo.com/
 - Email: queenbeeparlour@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 11:00-19:00; Sa 11:00-20:00; Su 11:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 13% of tattoo shops in Atlanta, #2 of 9 tattoo shops in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.6, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

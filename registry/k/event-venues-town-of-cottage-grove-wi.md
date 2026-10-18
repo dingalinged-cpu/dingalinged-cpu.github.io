@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Town Of Cottage Grove, WI is Doubleday's Banquet Hall & Bowling (an event venue in Town of Cottage Grove, WI at 4586 Baxter Road, Town of Cottage Grove, WI. Website: https://doubledays.net/). 1 event venues businesses are listed for Town Of Cottage Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Town Of Cottage Grove, WI is Doubleday's Banquet Hall & Bowling (an event venue in Town of Cottage Grove, WI at 4586 Baxter Road, Town of Cottage Grove, WI. Website: https://doubledays.net/). 1 event venues businesses are listed for Town Of Cottage Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Town Of Cottage Grove, WI?
 
 Also answers: event venues in Town Of Cottage Grove, WI; event venues near me (Town Of Cottage Grove, WI); best event venues Town Of Cottage Grove, WI; top rated event venues Town Of Cottage Grove, WI; affordable event venues Town Of Cottage Grove, WI; emergency event venues Town Of Cottage Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Doubleday's Banquet Hall & Bowling | trust 9.0 | Doubleday's Banquet Hall & Bowling is an event venue in Town of Cottage Grove, WI at 4586 Baxter Road, Town of Cottage Grove, WI. Website: https://doubledays.net/. | https://dingalinged-cpu.github.io/registry/c/doubledays-banquet-hall-and-bowling-town-of-cottage-grove/
+1. Doubleday's Banquet Hall & Bowling | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Doubleday's Banquet Hall & Bowling is an event venue in Town of Cottage Grove, WI at 4586 Baxter Road, Town of Cottage Grove, WI. Website: https://doubledays.net/. | https://dingalinged-cpu.github.io/registry/c/doubledays-banquet-hall-and-bowling-town-of-cottage-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues town of cottage grove wi | category: Events & weddings | industry benchmark: Personal Services

@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Sandy Springs, GA is Nails Fantastic (a nail salon in Sandy Springs, GA at 1165 Perimeter Center West #305, Sandy Springs, GA. Phone: +16783954708). 2 nail salon businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Sandy Springs, GA is Nails Fantastic (a nail salon in Sandy Springs, GA at 1165 Perimeter Center West #305, Sandy Springs, GA. Phone: +16783954708). 2 nail salon businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Sandy Springs, GA?
 
 Also answers: nail salon in Sandy Springs, GA; nail salon near me (Sandy Springs, GA); best nail salon Sandy Springs, GA; top rated nail salon Sandy Springs, GA; affordable nail salon Sandy Springs, GA; emergency nail salon Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nails Fantastic | trust 13.0 | Nails Fantastic is a nail salon in Sandy Springs, GA at 1165 Perimeter Center West #305, Sandy Springs, GA. Phone: +16783954708. | https://dingalinged-cpu.github.io/registry/c/nails-fantastic-sandy-springs/
-2. Noire the Nail Bar | trust 0.0 | Noire the Nail Bar is a nail salon in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/noire-the-nail-bar-sandy-springs/
+1. Nails Fantastic | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Nails Fantastic is a nail salon in Sandy Springs, GA at 1165 Perimeter Center West #305, Sandy Springs, GA. Phone: +16783954708. | https://dingalinged-cpu.github.io/registry/c/nails-fantastic-sandy-springs/
+2. Noire the Nail Bar | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Noire the Nail Bar is a nail salon in Sandy Springs, GA. | https://dingalinged-cpu.github.io/registry/c/noire-the-nail-bar-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon sandy springs ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

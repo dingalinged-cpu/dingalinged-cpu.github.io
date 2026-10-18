@@ -13,7 +13,7 @@ H&D Nail Spa is a nail salon in Chicago, IL at 6500 West Irving Park Road, Chica
 - Website: https://hdnailspasalon.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 13% of nail salons in Chicago, #10 of 93 nail salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.1, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

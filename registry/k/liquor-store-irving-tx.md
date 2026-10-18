@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Irving, TX is AppleJack's Liquor (a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/). 4 liquor store businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Irving, TX is AppleJack's Liquor (a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/). 4 liquor store businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Irving, TX?
 
 Also answers: liquor store in Irving, TX; liquor store near me (Irving, TX); best liquor store Irving, TX; top rated liquor store Irving, TX; affordable liquor store Irving, TX; emergency liquor store Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AppleJack's Liquor | trust 20.0 | AppleJack's Liquor is a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquor-irving/
-2. Total Wine | trust 20.0 | Total Wine is a liquor store in Irving, TX at 7730 North MacArthur Boulevard #A, Irving, TX 75063. Phone: +14692505599. Website: https://www.totalwine.com/store-info/535. | https://dingalinged-cpu.github.io/registry/c/total-wine-irving/
-3. Pine Wine | trust 4.0 | Pine Wine is a liquor store in Irving, TX at 2810 North O'Connor Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/pine-wine-irving/
-4. Esters Liquor | trust 0.0 | Esters Liquor is a liquor store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/esters-liquor-irving/
+1. AppleJack's Liquor | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | AppleJack's Liquor is a liquor store in Irving, TX at 8704 Cypress Waters Blvd, #100, Irving, TX 75063. Phone: +12144846747. Website: https://applejacksliquor.com/. | https://dingalinged-cpu.github.io/registry/c/applejacks-liquor-irving/
+2. Pine Wine | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Pine Wine is a liquor store in Irving, TX at 2810 North O'Connor Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/pine-wine-irving/
+3. Esters Liquor | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Esters Liquor is a liquor store in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/esters-liquor-irving/
+4. Total Wine | Organic #4 | Pulse Score 50.9/100 (Fair, #4 in city) | Total Wine is a liquor store in Irving, TX at 7730 North MacArthur Boulevard #A, Irving, TX 75063. Phone: +14692505599. Website: https://www.totalwine.com/store-info/535. | https://dingalinged-cpu.github.io/registry/c/total-wine-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store irving tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

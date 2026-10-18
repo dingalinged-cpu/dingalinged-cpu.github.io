@@ -13,7 +13,7 @@ Neat Repeats is a thrift store in Orland Park, IL at 15591 South 94th Avenue, Or
 - Website: https://crisisctr.org/neat-repeats/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr-Sa 10:00-16:00
-- Registry Score: 64.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 4% of thrift stores in Chicago, #1 of 3 thrift stores in Orland Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

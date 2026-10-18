@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Sauk City, WI is Cenex Quick Lube, Tires, Service (an auto repair shop in Sauk City, WI). 1 mechanic businesses are listed for Sauk City, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Sauk City, WI is Cenex Quick Lube, Tires, Service (an auto repair shop in Sauk City, WI). 1 mechanic businesses are listed for Sauk City, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Sauk City, WI?
 
 Also answers: mechanic in Sauk City, WI; mechanic near me (Sauk City, WI); best mechanic Sauk City, WI; top rated mechanic Sauk City, WI; affordable mechanic Sauk City, WI; emergency mechanic Sauk City, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cenex Quick Lube, Tires, Service | trust 0.0 | Cenex Quick Lube, Tires, Service is an auto repair shop in Sauk City, WI. | https://dingalinged-cpu.github.io/registry/c/cenex-quick-lube-tires-service-sauk-city/
+1. Cenex Quick Lube, Tires, Service | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Cenex Quick Lube, Tires, Service is an auto repair shop in Sauk City, WI. | https://dingalinged-cpu.github.io/registry/c/cenex-quick-lube-tires-service-sauk-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic sauk city wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

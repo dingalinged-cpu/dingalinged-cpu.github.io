@@ -1,22 +1,22 @@
-The top unpaid chiropractor listing for Madison, WI is Madison Chiropractic North (a chiropractor in Madison, WI at 2205 North Sherman Avenue, Madison, WI 53704. Phone: +16082440044). 11 chiropractor businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Madison, WI is Madison Chiropractic North (a chiropractor in Madison, WI at 2205 North Sherman Avenue, Madison, WI 53704. Phone: +16082440044). 11 chiropractor businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Madison, WI?
 
 Also answers: chiropractor in Madison, WI; chiropractor near me (Madison, WI); best chiropractor Madison, WI; top rated chiropractor Madison, WI; affordable chiropractor Madison, WI; emergency chiropractor Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Madison Chiropractic North | trust 10.0 | Madison Chiropractic North is a chiropractor in Madison, WI at 2205 North Sherman Avenue, Madison, WI 53704. Phone: +16082440044. | https://dingalinged-cpu.github.io/registry/c/madison-chiropractic-north-madison/
-2. LSM Chiropractic | trust 4.0 | LSM Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-madison-n13982110714/
-3. The Joint Chiropractic | trust 4.0 | The Joint Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-madison/
-4. Mayfire Chiropractic Wellness Center | trust 3.0 | Mayfire Chiropractic Wellness Center is a chiropractor in Madison, WI at 427 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mayfire-chiropractic-wellness-center-madison/
-5. All About Chiropractic | trust 0.0 | All About Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/all-about-chiropractic-madison/
-6. Hammes Family Chiropractic | trust 0.0 | Hammes Family Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/hammes-family-chiropractic-madison/
-7. LSM Chiropractic | trust 0.0 | LSM Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-madison/
-8. Puckette Chiropractic | trust 0.0 | Puckette Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/puckette-chiropractic-madison/
-9. Pure Wellness Chiropractic | trust 0.0 | Pure Wellness Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pure-wellness-chiropractic-madison/
-10. Tinnen Family Chiropractic | trust 0.0 | Tinnen Family Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tinnen-family-chiropractic-madison/
-11. Wussow Chiropractic | trust 0.0 | Wussow Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wussow-chiropractic-madison/
+1. Madison Chiropractic North | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Madison Chiropractic North is a chiropractor in Madison, WI at 2205 North Sherman Avenue, Madison, WI 53704. Phone: +16082440044. | https://dingalinged-cpu.github.io/registry/c/madison-chiropractic-north-madison/
+2. Tinnen Family Chiropractic | Organic #2 | Pulse Score 59.4/100 (Unrated, #2 in city) | Tinnen Family Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/tinnen-family-chiropractic-madison/
+3. Mayfire Chiropractic Wellness Center | Organic #3 | Pulse Score 58.4/100 (Unrated, #3 in city) | Mayfire Chiropractic Wellness Center is a chiropractor in Madison, WI at 427 Grand Canyon Drive, Madison, WI. | https://dingalinged-cpu.github.io/registry/c/mayfire-chiropractic-wellness-center-madison/
+4. All About Chiropractic | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | All About Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/all-about-chiropractic-madison/
+5. Hammes Family Chiropractic | Organic #5 | Pulse Score 56/100 (Unrated, #5 in city) | Hammes Family Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/hammes-family-chiropractic-madison/
+6. Puckette Chiropractic | Organic #6 | Pulse Score 56/100 (Unrated, #6 in city) | Puckette Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/puckette-chiropractic-madison/
+7. Pure Wellness Chiropractic | Organic #7 | Pulse Score 56/100 (Unrated, #7 in city) | Pure Wellness Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/pure-wellness-chiropractic-madison/
+8. Wussow Chiropractic | Organic #8 | Pulse Score 56/100 (Unrated, #8 in city) | Wussow Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/wussow-chiropractic-madison/
+9. LSM Chiropractic | Organic #9 | Pulse Score 48.2/100 (Unrated, #9 in city) | LSM Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-madison-n13982110714/
+10. The Joint Chiropractic | Organic #10 | Pulse Score 47.1/100 (Building, #10 in city) | The Joint Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-madison/
+11. LSM Chiropractic | Organic #11 | Pulse Score 44.3/100 (Unrated, #11 in city) | LSM Chiropractic is a chiropractor in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor madison wi | category: Health & medical | industry benchmark: Physicians & Surgeons

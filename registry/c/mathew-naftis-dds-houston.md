@@ -13,7 +13,7 @@ Mathew Naftis DDS is a dentist in Houston, TX at 1214 West 43rd Street, Houston,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-12:00,13:00-17:00; Fr 09:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of dentists in Houston, #42 of 176 dentists in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

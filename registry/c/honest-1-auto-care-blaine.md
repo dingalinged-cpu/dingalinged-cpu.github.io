@@ -13,7 +13,7 @@ Honest-1 Auto Care is an auto repair shop in Blaine, MN at 10705 University Aven
 - Website: https://honest1blaine.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Unrated (not enough evidence yet) — top 77% of auto repair shops in Minneapolis–St. Paul, #3 of 4 auto repair shops in Blaine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

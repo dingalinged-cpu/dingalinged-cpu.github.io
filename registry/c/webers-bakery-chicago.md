@@ -13,7 +13,7 @@ Weber's Bakery is a bakery in Chicago, IL at 7055 West Archer Avenue, Chicago, I
 - Website: https://www.webersbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 04:30-18:00; Su 05:30-15:00
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 7% of bakerys in Chicago, #21 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Romeoville, IL is CD Liquors (a liquor store in Romeoville, IL at 322 Independence Boulevard, Romeoville, IL 60446). 3 liquor store businesses are listed for Romeoville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Romeoville, IL is CD Liquors (a liquor store in Romeoville, IL at 322 Independence Boulevard, Romeoville, IL 60446). 3 liquor store businesses are listed for Romeoville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Romeoville, IL?
 
 Also answers: liquor store in Romeoville, IL; liquor store near me (Romeoville, IL); best liquor store Romeoville, IL; top rated liquor store Romeoville, IL; affordable liquor store Romeoville, IL; emergency liquor store Romeoville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CD Liquors | trust 4.0 | CD Liquors is a liquor store in Romeoville, IL at 322 Independence Boulevard, Romeoville, IL 60446. | https://dingalinged-cpu.github.io/registry/c/cd-liquors-romeoville/
-2. Joe’s Beverage Warehouse | trust 0.0 | Joe’s Beverage Warehouse is a liquor store in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/joe-s-beverage-warehouse-romeoville/
-3. Liquors | trust 0.0 | Liquors is a liquor store in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/liquors-romeoville/
+1. CD Liquors | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | CD Liquors is a liquor store in Romeoville, IL at 322 Independence Boulevard, Romeoville, IL 60446. | https://dingalinged-cpu.github.io/registry/c/cd-liquors-romeoville/
+2. Joe’s Beverage Warehouse | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Joe’s Beverage Warehouse is a liquor store in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/joe-s-beverage-warehouse-romeoville/
+3. Liquors | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Liquors is a liquor store in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/liquors-romeoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store romeoville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

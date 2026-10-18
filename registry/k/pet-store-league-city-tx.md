@@ -1,14 +1,14 @@
-The top unpaid pet store listing for League City, TX is Petco (a pet store in League City, TX at 2895 South Gulf Freeway, League City, TX 77573. Phone: +12813379030. Website: https://stores.petco.com/tx/leaguecity/pet-supplies-leaguecity-tx-1461.html). 3 pet store businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for League City, TX is PetSmart (a pet store in Dickinson, TX at 1921 South Gulf Freeway, Dickinson, TX 77539. Phone: +12815344590. Website: https://www.petsmart.com/stores/us/tx/dickinson-store1729.html). 3 pet store businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in League City, TX?
 
 Also answers: pet store in League City, TX; pet store near me (League City, TX); best pet store League City, TX; top rated pet store League City, TX; affordable pet store League City, TX; emergency pet store League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in League City, TX at 2895 South Gulf Freeway, League City, TX 77573. Phone: +12813379030. Website: https://stores.petco.com/tx/leaguecity/pet-supplies-leaguecity-tx-1461.html. | https://dingalinged-cpu.github.io/registry/c/petco-league-city/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Dickinson, TX at 1921 South Gulf Freeway, Dickinson, TX 77539. Phone: +12815344590. Website: https://www.petsmart.com/stores/us/tx/dickinson-store1729.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-dickinson/
-3. Pet Supermarket | trust 0.0 | Pet Supermarket is a pet store in League City, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-league-city/
+1. PetSmart | Organic #1 | Pulse Score 49.8/100 (Building, #1 in city) | PetSmart is a pet store in Dickinson, TX at 1921 South Gulf Freeway, Dickinson, TX 77539. Phone: +12815344590. Website: https://www.petsmart.com/stores/us/tx/dickinson-store1729.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-dickinson/
+2. Petco | Organic #2 | Pulse Score 46.7/100 (Building, #1 in city) | Petco is a pet store in League City, TX at 2895 South Gulf Freeway, League City, TX 77573. Phone: +12813379030. Website: https://stores.petco.com/tx/leaguecity/pet-supplies-leaguecity-tx-1461.html. | https://dingalinged-cpu.github.io/registry/c/petco-league-city/
+3. Pet Supermarket | Organic #3 | Pulse Score 41.1/100 (Unrated, #2 in city) | Pet Supermarket is a pet store in League City, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supermarket-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store league city tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

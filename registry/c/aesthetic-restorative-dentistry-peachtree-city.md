@@ -13,7 +13,7 @@ Aesthetic Restorative Dentistry is a dentist in Peachtree City, GA at 5000 Shake
 - Website: https://peachtreecitydentist.com/
 - Email: info@peachtreecitydentist.com
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 11% of dentists in Atlanta, #1 of 13 dentists in Peachtree City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

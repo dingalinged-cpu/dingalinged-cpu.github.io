@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Ela Township, IL is Kiddie Academy of Hawthorn Woods (a daycare in Ela Township, IL). 1 daycare businesses are listed for Ela Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Ela Township, IL is Kiddie Academy of Hawthorn Woods (a daycare in Ela Township, IL). 1 daycare businesses are listed for Ela Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Ela Township, IL?
 
 Also answers: daycare in Ela Township, IL; daycare near me (Ela Township, IL); best daycare Ela Township, IL; top rated daycare Ela Township, IL; affordable daycare Ela Township, IL; emergency daycare Ela Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddie Academy of Hawthorn Woods | trust 0.0 | Kiddie Academy of Hawthorn Woods is a daycare in Ela Township, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-hawthorn-woods-ela-township/
+1. Kiddie Academy of Hawthorn Woods | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Kiddie Academy of Hawthorn Woods is a daycare in Ela Township, IL. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-hawthorn-woods-ela-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare ela township il | category: Education & childcare | industry benchmark: Education & Instruction

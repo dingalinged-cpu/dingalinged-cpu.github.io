@@ -13,7 +13,7 @@ First Primary Care is a family medicine practice in Sugar Land, TX at 202 Indust
 - Website: https://www.firstprimarycare.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-16:30; Fr 08:30-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.8/100 — Building — top 88% of family medicine practices in Houston, #2 of 2 family medicine practices in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.3, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

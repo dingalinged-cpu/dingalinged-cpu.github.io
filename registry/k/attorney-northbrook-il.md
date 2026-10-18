@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Northbrook, IL is Wiczer Jacobs LLC (a lawyer in Northbrook, IL at 500 Skokie Boulevard, Northbrook, IL 60062. Phone: +18477802892. Website: https://www.wjlawfirm.com/). 1 attorney businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Northbrook, IL is Wiczer Jacobs LLC (a lawyer in Northbrook, IL at 500 Skokie Boulevard, Northbrook, IL 60062. Phone: +18477802892. Website: https://www.wjlawfirm.com/). 1 attorney businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Northbrook, IL?
 
 Also answers: attorney in Northbrook, IL; attorney near me (Northbrook, IL); best attorney Northbrook, IL; top rated attorney Northbrook, IL; affordable attorney Northbrook, IL; emergency attorney Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wiczer Jacobs LLC | trust 16.0 | Wiczer Jacobs LLC is a lawyer in Northbrook, IL at 500 Skokie Boulevard, Northbrook, IL 60062. Phone: +18477802892. Website: https://www.wjlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/wiczer-jacobs-llc-northbrook/
+1. Wiczer Jacobs LLC | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Wiczer Jacobs LLC is a lawyer in Northbrook, IL at 500 Skokie Boulevard, Northbrook, IL 60062. Phone: +18477802892. Website: https://www.wjlawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/wiczer-jacobs-llc-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney northbrook il | category: professional_legal | industry benchmark: Attorneys & Legal Services

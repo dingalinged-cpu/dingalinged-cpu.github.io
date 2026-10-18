@@ -1,16 +1,16 @@
-The top unpaid accountant listing for Lewisville, TX is CPA John H. Evans (an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502). 5 accountant businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Lewisville, TX is CPA John H. Evans (an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502). 5 accountant businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Lewisville, TX?
 
 Also answers: accountant in Lewisville, TX; accountant near me (Lewisville, TX); best accountant Lewisville, TX; top rated accountant Lewisville, TX; affordable accountant Lewisville, TX; emergency accountant Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CPA John H. Evans | trust 13.0 | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://dingalinged-cpu.github.io/registry/c/cpa-john-h-evans-lewisville/
-2. Hirji CPA Firm | trust 10.0 | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://dingalinged-cpu.github.io/registry/c/hirji-cpa-firm-lewisville/
-3. High Five Taxes | trust 6.0 | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://dingalinged-cpu.github.io/registry/c/high-five-taxes-lewisville/
-4. CPA Kwon | trust 0.0 | CPA Kwon is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/cpa-kwon-lewisville/
-5. Robert W. Alcorn, Certified Public Accountant | trust 0.0 | Robert W. Alcorn, Certified Public Accountant is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/robert-w-alcorn-certified-public-accountant-lewisville/
+1. CPA John H. Evans | Organic #1 | Pulse Score 61.5/100 (Good, #1 in city) | CPA John H. Evans is an accountant in Lewisville, TX at 605 East Southwest Parkway, Lewisville, TX. Phone: +14694757502. | https://dingalinged-cpu.github.io/registry/c/cpa-john-h-evans-lewisville/
+2. Hirji CPA Firm | Organic #2 | Pulse Score 60.1/100 (Good, #2 in city) | Hirji CPA Firm is an accountant in Lewisville, TX. Phone: +19723553406. | https://dingalinged-cpu.github.io/registry/c/hirji-cpa-firm-lewisville/
+3. High Five Taxes | Organic #3 | Pulse Score 59.3/100 (Fair, #3 in city) | High Five Taxes is an accountant in Lewisville, TX. Phone: +12142540841. | https://dingalinged-cpu.github.io/registry/c/high-five-taxes-lewisville/
+4. Robert W. Alcorn, Certified Public Accountant | Organic #4 | Pulse Score 58.4/100 (Fair, #4 in city) | Robert W. Alcorn, Certified Public Accountant is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/robert-w-alcorn-certified-public-accountant-lewisville/
+5. CPA Kwon | Organic #5 | Pulse Score 57.2/100 (Fair, #5 in city) | CPA Kwon is an accountant in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/cpa-kwon-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant lewisville tx | category: professional_accounting | industry benchmark: Business Services

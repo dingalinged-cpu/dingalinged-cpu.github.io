@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Minnetonka, MN is Jewel Nails (a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/). 4 nail salon businesses are listed for Minnetonka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Minnetonka, MN is Jewel Nails (a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/). 4 nail salon businesses are listed for Minnetonka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Minnetonka, MN?
 
 Also answers: nail salon in Minnetonka, MN; nail salon near me (Minnetonka, MN); best nail salon Minnetonka, MN; top rated nail salon Minnetonka, MN; affordable nail salon Minnetonka, MN; emergency nail salon Minnetonka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jewel Nails | trust 20.0 | Jewel Nails is a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/. | https://dingalinged-cpu.github.io/registry/c/jewel-nails-minnetonka/
-2. Haven Beauty Collective | trust 3.0 | Haven Beauty Collective is a nail salon in Minnetonka, MN at 14729 Excelsior Boulevard, Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/haven-beauty-collective-minnetonka/
-3. KT Nails | trust 0.0 | KT Nails is a nail salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/kt-nails-minnetonka/
-4. Royal Nails | trust 0.0 | Royal Nails is a nail salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/royal-nails-minnetonka/
+1. Jewel Nails | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Jewel Nails is a nail salon in Minnetonka, MN at 17516 Minnetonka Boulevard, Minnetonka, MN 55345. Phone: +19524493979. Website: https://thejewelnails.com/. | https://dingalinged-cpu.github.io/registry/c/jewel-nails-minnetonka/
+2. Haven Beauty Collective | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Haven Beauty Collective is a nail salon in Minnetonka, MN at 14729 Excelsior Boulevard, Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/haven-beauty-collective-minnetonka/
+3. KT Nails | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | KT Nails is a nail salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/kt-nails-minnetonka/
+4. Royal Nails | Organic #4 | Pulse Score 42/100 (Unrated, #4 in city) | Royal Nails is a nail salon in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/royal-nails-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon minnetonka mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

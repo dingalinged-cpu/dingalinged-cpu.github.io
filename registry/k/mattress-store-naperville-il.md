@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Naperville, IL is Verlo Mattress (a mattress store in Naperville, IL at 422 West 5th Avenue, Naperville, IL 60563. Phone: +16309619191. Website: https://verlo.com/naperville-il/). 1 mattress store businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Naperville, IL is Verlo Mattress (a mattress store in Naperville, IL at 422 West 5th Avenue, Naperville, IL 60563. Phone: +16309619191. Website: https://verlo.com/naperville-il/). 1 mattress store businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Naperville, IL?
 
 Also answers: mattress store in Naperville, IL; mattress store near me (Naperville, IL); best mattress store Naperville, IL; top rated mattress store Naperville, IL; affordable mattress store Naperville, IL; emergency mattress store Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Verlo Mattress | trust 20.0 | Verlo Mattress is a mattress store in Naperville, IL at 422 West 5th Avenue, Naperville, IL 60563. Phone: +16309619191. Website: https://verlo.com/naperville-il/. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-naperville/
+1. Verlo Mattress | Organic #1 | Pulse Score 48.8/100 (Unrated, #1 in city) | Verlo Mattress is a mattress store in Naperville, IL at 422 West 5th Avenue, Naperville, IL 60563. Phone: +16309619191. Website: https://verlo.com/naperville-il/. | https://dingalinged-cpu.github.io/registry/c/verlo-mattress-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store naperville il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

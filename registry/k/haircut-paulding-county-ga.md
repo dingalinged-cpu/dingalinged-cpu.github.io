@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Paulding County, GA is Evan-Blake Salon (a hair salon in Paulding County, GA). 4 haircut businesses are listed for Paulding County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Paulding County, GA is Evan-Blake Salon (a hair salon in Paulding County, GA). 4 haircut businesses are listed for Paulding County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Paulding County, GA?
 
 Also answers: haircut in Paulding County, GA; haircut near me (Paulding County, GA); best haircut Paulding County, GA; top rated haircut Paulding County, GA; affordable haircut Paulding County, GA; emergency haircut Paulding County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evan-Blake Salon | trust 0.0 | Evan-Blake Salon is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/evan-blake-salon-paulding-county/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-paulding-county/
-3. Pete's Barber Shop | trust 0.0 | Pete's Barber Shop is a barber shop in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/petes-barber-shop-paulding-county/
-4. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/sport-clips-paulding-county/
+1. Evan-Blake Salon | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Evan-Blake Salon is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/evan-blake-salon-paulding-county/
+2. Pete's Barber Shop | Organic #2 | Pulse Score 54.2/100 (Unrated, #1 in city) | Pete's Barber Shop is a barber shop in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/petes-barber-shop-paulding-county/
+3. Great Clips | Organic #3 | Pulse Score 42.3/100 (Building, #2 in city) | Great Clips is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-paulding-county/
+4. Sport Clips | Organic #4 | Pulse Score 42.3/100 (Building, #3 in city) | Sport Clips is a hair salon in Paulding County, GA. | https://dingalinged-cpu.github.io/registry/c/sport-clips-paulding-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut paulding county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

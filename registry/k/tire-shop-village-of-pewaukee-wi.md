@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Village Of Pewaukee, WI is Tires Plus (a tire shop in Village of Pewaukee, WI at 387 Pewaukee Road, Village of Pewaukee, WI 53072. Website: https://local.tiresplus.com/wisconsin/pewaukee/387-pewaukee-rd/). 1 tire shop businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Village Of Pewaukee, WI is Tires Plus (a tire shop in Village of Pewaukee, WI at 387 Pewaukee Road, Village of Pewaukee, WI 53072. Website: https://local.tiresplus.com/wisconsin/pewaukee/387-pewaukee-rd/). 1 tire shop businesses are listed for Village Of Pewaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Village Of Pewaukee, WI?
 
 Also answers: tire shop in Village Of Pewaukee, WI; tire shop near me (Village Of Pewaukee, WI); best tire shop Village Of Pewaukee, WI; top rated tire shop Village Of Pewaukee, WI; affordable tire shop Village Of Pewaukee, WI; emergency tire shop Village Of Pewaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tires Plus | trust 14.0 | Tires Plus is a tire shop in Village of Pewaukee, WI at 387 Pewaukee Road, Village of Pewaukee, WI 53072. Website: https://local.tiresplus.com/wisconsin/pewaukee/387-pewaukee-rd/. | https://dingalinged-cpu.github.io/registry/c/tires-plus-village-of-pewaukee/
+1. Tires Plus | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | Tires Plus is a tire shop in Village of Pewaukee, WI at 387 Pewaukee Road, Village of Pewaukee, WI 53072. Website: https://local.tiresplus.com/wisconsin/pewaukee/387-pewaukee-rd/. | https://dingalinged-cpu.github.io/registry/c/tires-plus-village-of-pewaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop village of pewaukee wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

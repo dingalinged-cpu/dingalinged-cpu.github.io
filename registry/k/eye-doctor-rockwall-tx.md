@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Rockwall, TX is Prime Eye Care (an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/). 3 eye doctor businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Rockwall, TX is Prime Eye Care (an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/). 3 eye doctor businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Rockwall, TX?
 
 Also answers: eye doctor in Rockwall, TX; eye doctor near me (Rockwall, TX); best eye doctor Rockwall, TX; top rated eye doctor Rockwall, TX; affordable eye doctor Rockwall, TX; emergency eye doctor Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prime Eye Care | trust 20.0 | Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/prime-eye-care-rockwall/
-2. Rockwall Precision Eyecare | trust 20.0 | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://dingalinged-cpu.github.io/registry/c/rockwall-precision-eyecare-rockwall/
-3. Texas State Optical | trust 20.0 | Texas State Optical is an eye care practice in Rockwall, TX at 3301 North Goliad Street #109, Rockwall, TX 75032. Phone: +19724309977. Website: https://www.tsorockwall.com/. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-rockwall/
+1. Prime Eye Care | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Prime Eye Care is an eye care practice in Rockwall, TX at 2006 South Goliad Street #230, Rockwall, TX 75087. Phone: +19727220101. Website: https://www.primeeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/prime-eye-care-rockwall/
+2. Rockwall Precision Eyecare | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Rockwall Precision Eyecare is an eye care practice in Rockwall, TX at 2931 Ridge Road #108, Rockwall, TX 75032. Phone: +19727722644. Website: https://www.rockwallprecisioneyecare.net/. | https://dingalinged-cpu.github.io/registry/c/rockwall-precision-eyecare-rockwall/
+3. Texas State Optical | Organic #3 | Pulse Score 48.9/100 (Unrated, #3 in city) | Texas State Optical is an eye care practice in Rockwall, TX at 3301 North Goliad Street #109, Rockwall, TX 75032. Phone: +19724309977. Website: https://www.tsorockwall.com/. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor rockwall tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid event venues listing for Grand Prairie, TX is Ruthe Jackson Center (an event venue in Grand Prairie, TX at 3113 South Carrier Parkway, Grand Prairie, TX 75052. Phone: +19722377500. Website: https://ruthejacksoncenter.com/). 1 event venues businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Grand Prairie, TX is Ruthe Jackson Center (an event venue in Grand Prairie, TX at 3113 South Carrier Parkway, Grand Prairie, TX 75052. Phone: +19722377500. Website: https://ruthejacksoncenter.com/). 1 event venues businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Grand Prairie, TX?
 
 Also answers: event venues in Grand Prairie, TX; event venues near me (Grand Prairie, TX); best event venues Grand Prairie, TX; top rated event venues Grand Prairie, TX; affordable event venues Grand Prairie, TX; emergency event venues Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ruthe Jackson Center | trust 16.0 | Ruthe Jackson Center is an event venue in Grand Prairie, TX at 3113 South Carrier Parkway, Grand Prairie, TX 75052. Phone: +19722377500. Website: https://ruthejacksoncenter.com/. | https://dingalinged-cpu.github.io/registry/c/ruthe-jackson-center-grand-prairie/
+1. Ruthe Jackson Center | Organic #1 | Pulse Score 62.4/100 (Unrated, #1 in city) | Ruthe Jackson Center is an event venue in Grand Prairie, TX at 3113 South Carrier Parkway, Grand Prairie, TX 75052. Phone: +19722377500. Website: https://ruthejacksoncenter.com/. | https://dingalinged-cpu.github.io/registry/c/ruthe-jackson-center-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues grand prairie tx | category: Events & weddings | industry benchmark: Personal Services

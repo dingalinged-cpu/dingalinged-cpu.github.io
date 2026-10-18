@@ -1,15 +1,15 @@
-The top unpaid bakery listing for Tucker, GA is Touch of Velvet ATL (a bakery in Tucker, GA at 1927 Lakeside Parkway, Tucker, GA 30084. Phone: +14707813811. Website: https://www.touchofvelvetatl.com/). 4 bakery businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Tucker, GA is Touch of Velvet ATL (a bakery in Tucker, GA at 1927 Lakeside Parkway, Tucker, GA 30084. Phone: +14707813811. Website: https://www.touchofvelvetatl.com/). 4 bakery businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Tucker, GA?
 
 Also answers: bakery in Tucker, GA; bakery near me (Tucker, GA); best bakery Tucker, GA; top rated bakery Tucker, GA; affordable bakery Tucker, GA; emergency bakery Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Touch of Velvet ATL | trust 16.0 | Touch of Velvet ATL is a bakery in Tucker, GA at 1927 Lakeside Parkway, Tucker, GA 30084. Phone: +14707813811. Website: https://www.touchofvelvetatl.com/. | https://dingalinged-cpu.github.io/registry/c/touch-of-velvet-atl-tucker/
-2. Cakes Castle Bakery | trust 9.0 | Cakes Castle Bakery is a bakery in Tucker, GA at 2319 Main Street, Tucker, GA. Phone: +17705730199. | https://dingalinged-cpu.github.io/registry/c/cakes-castle-bakery-tucker/
-3. Great American Cookie Company | trust 0.0 | Great American Cookie Company is a bakery in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/great-american-cookie-company-tucker/
-4. Pretzelmaker | trust 0.0 | Pretzelmaker is a bakery in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/pretzelmaker-tucker/
+1. Touch of Velvet ATL | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Touch of Velvet ATL is a bakery in Tucker, GA at 1927 Lakeside Parkway, Tucker, GA 30084. Phone: +14707813811. Website: https://www.touchofvelvetatl.com/. | https://dingalinged-cpu.github.io/registry/c/touch-of-velvet-atl-tucker/
+2. Cakes Castle Bakery | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Cakes Castle Bakery is a bakery in Tucker, GA at 2319 Main Street, Tucker, GA. Phone: +17705730199. | https://dingalinged-cpu.github.io/registry/c/cakes-castle-bakery-tucker/
+3. Great American Cookie Company | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | Great American Cookie Company is a bakery in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/great-american-cookie-company-tucker/
+4. Pretzelmaker | Organic #4 | Pulse Score 42.1/100 (Building, #4 in city) | Pretzelmaker is a bakery in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/pretzelmaker-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery tucker ga | category: Events & weddings | industry benchmark: Personal Services

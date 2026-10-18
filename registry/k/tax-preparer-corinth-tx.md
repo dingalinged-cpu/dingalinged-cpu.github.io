@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Corinth, TX is H&R Block (a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210). 1 tax preparer businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Corinth, TX is H&R Block (a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210). 1 tax preparer businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Corinth, TX?
 
 Also answers: tax preparer in Corinth, TX; tax preparer near me (Corinth, TX); best tax preparer Corinth, TX; top rated tax preparer Corinth, TX; affordable tax preparer Corinth, TX; emergency tax preparer Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-corinth/
+1. H&R Block | Organic #1 | Pulse Score 44.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in Corinth, TX at 4271 Swisher Road #Suite 324, Corinth, TX 76210. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer corinth tx | category: professional_accounting | industry benchmark: Business Services

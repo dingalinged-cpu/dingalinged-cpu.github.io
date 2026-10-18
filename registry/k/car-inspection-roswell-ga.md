@@ -1,13 +1,13 @@
-The top unpaid car inspection listing for Roswell, GA is DEKRA Emissions & Safety (a vehicle inspection station in Roswell, GA at 10675 Alpharetta Highway, Roswell, GA. Phone: +17709983671. Website: https://www.dekra.us/en/georgia/roswell-10675-alpharetta-hwy/). 2 car inspection businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car inspection listing for Roswell, GA is DEKRA Emissions & Safety (a vehicle inspection station in Roswell, GA at 10675 Alpharetta Highway, Roswell, GA. Phone: +17709983671. Website: https://www.dekra.us/en/georgia/roswell-10675-alpharetta-hwy/). 2 car inspection businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car inspection providers in Roswell, GA?
 
 Also answers: car inspection in Roswell, GA; car inspection near me (Roswell, GA); best car inspection Roswell, GA; top rated car inspection Roswell, GA; affordable car inspection Roswell, GA; emergency car inspection Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DEKRA Emissions & Safety | trust 19.0 | DEKRA Emissions & Safety is a vehicle inspection station in Roswell, GA at 10675 Alpharetta Highway, Roswell, GA. Phone: +17709983671. Website: https://www.dekra.us/en/georgia/roswell-10675-alpharetta-hwy/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-roswell/
-2. Dekra | trust 0.0 | Dekra is a vehicle inspection station in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/dekra-roswell/
+1. DEKRA Emissions & Safety | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | DEKRA Emissions & Safety is a vehicle inspection station in Roswell, GA at 10675 Alpharetta Highway, Roswell, GA. Phone: +17709983671. Website: https://www.dekra.us/en/georgia/roswell-10675-alpharetta-hwy/. | https://dingalinged-cpu.github.io/registry/c/dekra-emissions-and-safety-roswell/
+2. Dekra | Organic #2 | Pulse Score 41.2/100 (Building, #2 in city) | Dekra is a vehicle inspection station in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/dekra-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: car inspection roswell ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

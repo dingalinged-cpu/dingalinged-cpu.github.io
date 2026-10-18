@@ -13,7 +13,7 @@ Salon 51 is a hair salon in Norridge, IL at 7539 West Montrose Avenue, Norridge,
 - Website: https://app.salonrunner.com/customer/login.htm?id=28460
 - Email: n/a
 - Opening hours (OSM syntax): Mo off; Tu 00:00-22:00; We 10:00-14:00; Th 00:00-22:00; Fr 10:00-18:00; Sa 09:00-17:00; Su off
-- Registry Score: 65.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Unrated (not enough evidence yet) — top 3% of hair salons in Chicago, #1 of 3 hair salons in Norridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

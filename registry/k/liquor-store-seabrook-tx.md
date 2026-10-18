@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Seabrook, TX is Spec's Liquor (a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabrook, TX 77586. Phone: +12813265127. Website: https://www.specsonline.com/). 1 liquor store businesses are listed for Seabrook, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Seabrook, TX is Spec's Liquor (a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabrook, TX 77586. Phone: +12813265127. Website: https://www.specsonline.com/). 1 liquor store businesses are listed for Seabrook, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Seabrook, TX?
 
 Also answers: liquor store in Seabrook, TX; liquor store near me (Seabrook, TX); best liquor store Seabrook, TX; top rated liquor store Seabrook, TX; affordable liquor store Seabrook, TX; emergency liquor store Seabrook, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Spec's Liquor | trust 16.0 | Spec's Liquor is a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabrook, TX 77586. Phone: +12813265127. Website: https://www.specsonline.com/. | https://dingalinged-cpu.github.io/registry/c/specs-liquor-seabrook/
+1. Spec's Liquor | Organic #1 | Pulse Score 63.4/100 (Good, #1 in city) | Spec's Liquor is a liquor store in Seabrook, TX at 3126 East NASA Parkway, Seabrook, TX 77586. Phone: +12813265127. Website: https://www.specsonline.com/. | https://dingalinged-cpu.github.io/registry/c/specs-liquor-seabrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store seabrook tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,13 +1,13 @@
-The top unpaid hvac repair listing for Tucker, GA is DO-CH Heating And Air Conditioning Services (a HVAC contractor in Tucker, GA at 6732 Warwick Avenue, Tucker, GA 30084. Phone: +16787540985. Website: https://www.do-chheatingacservices.com/). 2 hvac repair businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hvac repair listing for Tucker, GA is DO-CH Heating And Air Conditioning Services (a HVAC contractor in Tucker, GA at 6732 Warwick Avenue, Tucker, GA 30084. Phone: +16787540985. Website: https://www.do-chheatingacservices.com/). 2 hvac repair businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hvac repair providers in Tucker, GA?
 
 Also answers: hvac repair in Tucker, GA; hvac repair near me (Tucker, GA); best hvac repair Tucker, GA; top rated hvac repair Tucker, GA; affordable hvac repair Tucker, GA; emergency hvac repair Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. DO-CH Heating And Air Conditioning Services | trust 20.0 | DO-CH Heating And Air Conditioning Services is a HVAC contractor in Tucker, GA at 6732 Warwick Avenue, Tucker, GA 30084. Phone: +16787540985. Website: https://www.do-chheatingacservices.com/. | https://dingalinged-cpu.github.io/registry/c/do-ch-heating-and-air-conditioning-services-tucker/
-2. Air Conditioning Experts, Inc. | trust 16.0 | Air Conditioning Experts, Inc. is a HVAC contractor in Tucker, GA at 139 Forge Street, Tucker, GA 30084. Phone: +14042665464. Website: https://www.airconditioningexperts.net/. | https://dingalinged-cpu.github.io/registry/c/air-conditioning-experts-inc-tucker/
+1. DO-CH Heating And Air Conditioning Services | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | DO-CH Heating And Air Conditioning Services is a HVAC contractor in Tucker, GA at 6732 Warwick Avenue, Tucker, GA 30084. Phone: +16787540985. Website: https://www.do-chheatingacservices.com/. | https://dingalinged-cpu.github.io/registry/c/do-ch-heating-and-air-conditioning-services-tucker/
+2. Air Conditioning Experts, Inc. | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Air Conditioning Experts, Inc. is a HVAC contractor in Tucker, GA at 139 Forge Street, Tucker, GA 30084. Phone: +14042665464. Website: https://www.airconditioningexperts.net/. | https://dingalinged-cpu.github.io/registry/c/air-conditioning-experts-inc-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: hvac repair tucker ga | category: Home services - HVAC | industry benchmark: Home & Home Improvement

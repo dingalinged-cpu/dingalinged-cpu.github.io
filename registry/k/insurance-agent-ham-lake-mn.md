@@ -1,12 +1,12 @@
-The top unpaid insurance agent listing for Ham Lake, MN is Insurance Brokers of Minnesota Inc. (an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a). 1 insurance agent businesses are listed for Ham Lake, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Ham Lake, MN is Insurance Brokers of Minnesota Inc. (an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a). 1 insurance agent businesses are listed for Ham Lake, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Ham Lake, MN?
 
 Also answers: insurance agent in Ham Lake, MN; insurance agent near me (Ham Lake, MN); best insurance agent Ham Lake, MN; top rated insurance agent Ham Lake, MN; affordable insurance agent Ham Lake, MN; emergency insurance agent Ham Lake, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insurance Brokers of Minnesota Inc. | trust 16.0 | Insurance Brokers of Minnesota Inc. is an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a. | https://dingalinged-cpu.github.io/registry/c/insurance-brokers-of-minnesota-inc-ham-lake/
+1. Insurance Brokers of Minnesota Inc. | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Insurance Brokers of Minnesota Inc. is an insurance agent in Ham Lake, MN at 13632 Vanburen Street Northeast #A, Ham Lake, MN 55304. Phone: +17637677290. Website: https://insurancebrokersmn.com/contact-us/office-locations/ham-lake-a. | https://dingalinged-cpu.github.io/registry/c/insurance-brokers-of-minnesota-inc-ham-lake/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent ham lake mn | category: Professional & financial services | industry benchmark: Finance & Insurance

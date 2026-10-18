@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Palos Heights, IL is Power Mart (a car wash in Palos Heights, IL at 6401 West 127th Street, Palos Heights, IL 60463). 2 car wash businesses are listed for Palos Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Palos Heights, IL is Power Mart (a car wash in Palos Heights, IL at 6401 West 127th Street, Palos Heights, IL 60463). 2 car wash businesses are listed for Palos Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Palos Heights, IL?
 
 Also answers: car wash in Palos Heights, IL; car wash near me (Palos Heights, IL); best car wash Palos Heights, IL; top rated car wash Palos Heights, IL; affordable car wash Palos Heights, IL; emergency car wash Palos Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Power Mart | trust 4.0 | Power Mart is a car wash in Palos Heights, IL at 6401 West 127th Street, Palos Heights, IL 60463. | https://dingalinged-cpu.github.io/registry/c/power-mart-palos-heights/
-2. Fuller's Car Wash | trust 0.0 | Fuller's Car Wash is a car wash in Palos Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-palos-heights/
+1. Power Mart | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Power Mart is a car wash in Palos Heights, IL at 6401 West 127th Street, Palos Heights, IL 60463. | https://dingalinged-cpu.github.io/registry/c/power-mart-palos-heights/
+2. Fuller's Car Wash | Organic #2 | Pulse Score 42.7/100 (Unrated, #2 in city) | Fuller's Car Wash is a car wash in Palos Heights, IL. | https://dingalinged-cpu.github.io/registry/c/fullers-car-wash-palos-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash palos heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

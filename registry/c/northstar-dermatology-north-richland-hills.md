@@ -13,7 +13,7 @@ Northstar Dermatology is a dermatologist in North Richland Hills, TX at 8169 Pre
 - Website: https://www.northstardermatology.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 07:30-17:00; Fr 07:30-12:00
-- Registry Score: 62.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.3/100 — Unrated (not enough evidence yet) — top 22% of dermatologists in Dallas–Fort Worth, #1 of 1 dermatologists in North Richland Hills (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

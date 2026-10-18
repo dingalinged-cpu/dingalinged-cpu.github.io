@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Gary, IN is Robert L. Lewis & Assoc. (a lawyer in Gary, IN at 2148, Gary, IN). 1 attorney businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Gary, IN is Robert L. Lewis & Assoc. (a lawyer in Gary, IN at 2148, Gary, IN). 1 attorney businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Gary, IN?
 
 Also answers: attorney in Gary, IN; attorney near me (Gary, IN); best attorney Gary, IN; top rated attorney Gary, IN; affordable attorney Gary, IN; emergency attorney Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Robert L. Lewis & Assoc. | trust 3.0 | Robert L. Lewis & Assoc. is a lawyer in Gary, IN at 2148, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/robert-l-lewis-and-assoc-gary/
+1. Robert L. Lewis & Assoc. | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Robert L. Lewis & Assoc. is a lawyer in Gary, IN at 2148, Gary, IN. | https://dingalinged-cpu.github.io/registry/c/robert-l-lewis-and-assoc-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney gary in | category: professional_legal | industry benchmark: Attorneys & Legal Services

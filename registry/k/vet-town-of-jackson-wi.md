@@ -1,13 +1,13 @@
-The top unpaid vet listing for Town Of Jackson, WI is Jackson Pet Hospital Ltd (a veterinarian in Town of Jackson, WI at 3370 Jackson Drive, Town of Jackson, WI 53037. Phone: +12626773112). 2 vet businesses are listed for Town Of Jackson, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Town Of Jackson, WI is Jackson Pet Hospital Ltd (a veterinarian in Town of Jackson, WI at 3370 Jackson Drive, Town of Jackson, WI 53037. Phone: +12626773112). 2 vet businesses are listed for Town Of Jackson, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Town Of Jackson, WI?
 
 Also answers: vet in Town Of Jackson, WI; vet near me (Town Of Jackson, WI); best vet Town Of Jackson, WI; top rated vet Town Of Jackson, WI; affordable vet Town Of Jackson, WI; emergency vet Town Of Jackson, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Pet Hospital Ltd | trust 10.0 | Jackson Pet Hospital Ltd is a veterinarian in Town of Jackson, WI at 3370 Jackson Drive, Town of Jackson, WI 53037. Phone: +12626773112. | https://dingalinged-cpu.github.io/registry/c/jackson-pet-hospital-ltd-town-of-jackson/
-2. Pleasant Valley Very Hospital | trust 10.0 | Pleasant Valley Very Hospital is a veterinarian in Town of Jackson, WI at 2151 Pleasant Valley Road, Town of Jackson, WI 53095. Phone: +12626773222. | https://dingalinged-cpu.github.io/registry/c/pleasant-valley-very-hospital-town-of-jackson/
+1. Jackson Pet Hospital Ltd | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Jackson Pet Hospital Ltd is a veterinarian in Town of Jackson, WI at 3370 Jackson Drive, Town of Jackson, WI 53037. Phone: +12626773112. | https://dingalinged-cpu.github.io/registry/c/jackson-pet-hospital-ltd-town-of-jackson/
+2. Pleasant Valley Very Hospital | Organic #2 | Pulse Score 58.8/100 (Unrated, #2 in city) | Pleasant Valley Very Hospital is a veterinarian in Town of Jackson, WI at 2151 Pleasant Valley Road, Town of Jackson, WI 53095. Phone: +12626773222. | https://dingalinged-cpu.github.io/registry/c/pleasant-valley-very-hospital-town-of-jackson/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet town of jackson wi | category: Pets | industry benchmark: Animals & Pets

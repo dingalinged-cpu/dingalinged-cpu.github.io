@@ -1,14 +1,14 @@
-The top unpaid dog groomer listing for Wauwatosa, WI is Beauty & The Barks (a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/). 3 dog groomer businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Wauwatosa, WI is Beauty & The Barks (a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/). 3 dog groomer businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Wauwatosa, WI?
 
 Also answers: dog groomer in Wauwatosa, WI; dog groomer near me (Wauwatosa, WI); best dog groomer Wauwatosa, WI; top rated dog groomer Wauwatosa, WI; affordable dog groomer Wauwatosa, WI; emergency dog groomer Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beauty & The Barks | trust 20.0 | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://dingalinged-cpu.github.io/registry/c/beauty-and-the-barks-wauwatosa/
-2. Fancy Pants Pet Salon | trust 16.0 | Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/. | https://dingalinged-cpu.github.io/registry/c/fancy-pants-pet-salon-wauwatosa/
-3. Pampered Paws Ltd. | trust 16.0 | Pampered Paws Ltd. is a dog groomer in Wauwatosa, WI at 1826 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144764323. Website: https://www.pamperedpawsltd.com/. | https://dingalinged-cpu.github.io/registry/c/pampered-paws-ltd-wauwatosa/
+1. Beauty & The Barks | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Beauty & The Barks is a dog groomer in Wauwatosa, WI at 6909 West North Avenue, Wauwatosa, WI 53213. Phone: +14147396295. Website: https://beautyandthebarks.square.site/. | https://dingalinged-cpu.github.io/registry/c/beauty-and-the-barks-wauwatosa/
+2. Fancy Pants Pet Salon | Organic #2 | Pulse Score 60.4/100 (Unrated, #2 in city) | Fancy Pants Pet Salon is a dog groomer in Wauwatosa, WI at 6421 West North Avenue, Wauwatosa, WI 53213. Phone: +14149053647. Website: https://www.fancypantspetsalon.com/. | https://dingalinged-cpu.github.io/registry/c/fancy-pants-pet-salon-wauwatosa/
+3. Pampered Paws Ltd. | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Pampered Paws Ltd. is a dog groomer in Wauwatosa, WI at 1826 North Mayfair Road, Wauwatosa, WI 53226. Phone: +14144764323. Website: https://www.pamperedpawsltd.com/. | https://dingalinged-cpu.github.io/registry/c/pampered-paws-ltd-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer wauwatosa wi | category: Pets | industry benchmark: Animals & Pets

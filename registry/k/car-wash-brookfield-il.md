@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Brookfield, IL is Detail Unlimited (a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/). 4 car wash businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Brookfield, IL is Detail Unlimited (a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/). 4 car wash businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Brookfield, IL?
 
 Also answers: car wash in Brookfield, IL; car wash near me (Brookfield, IL); best car wash Brookfield, IL; top rated car wash Brookfield, IL; affordable car wash Brookfield, IL; emergency car wash Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Detail Unlimited | trust 6.0 | Detail Unlimited is a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/. | https://dingalinged-cpu.github.io/registry/c/detail-unlimited-brookfield/
-2. Brookfield Express | trust 0.0 | Brookfield Express is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/brookfield-express-brookfield/
-3. Mobil | trust 0.0 | Mobil is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-brookfield/
-4. Spirit of America | trust 0.0 | Spirit of America is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-brookfield/
+1. Detail Unlimited | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | Detail Unlimited is a car wash in Brookfield, IL. Website: https://www.detail-unlimited.com/. | https://dingalinged-cpu.github.io/registry/c/detail-unlimited-brookfield/
+2. Brookfield Express | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Brookfield Express is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/brookfield-express-brookfield/
+3. Spirit of America | Organic #3 | Pulse Score 54.3/100 (Unrated, #3 in city) | Spirit of America is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/spirit-of-america-brookfield/
+4. Mobil | Organic #4 | Pulse Score 42/100 (Building, #4 in city) | Mobil is a car wash in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash brookfield il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

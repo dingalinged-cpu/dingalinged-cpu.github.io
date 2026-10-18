@@ -1,15 +1,15 @@
-The top unpaid hair salon listing for Romeoville, IL is Alexis' Salon Spa (a hair salon in Romeoville, IL at 646 Weber Road, Romeoville, IL). 4 hair salon businesses are listed for Romeoville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Romeoville, IL is Alexis' Salon Spa (a hair salon in Romeoville, IL at 646 Weber Road, Romeoville, IL). 4 hair salon businesses are listed for Romeoville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Romeoville, IL?
 
 Also answers: hair salon in Romeoville, IL; hair salon near me (Romeoville, IL); best hair salon Romeoville, IL; top rated hair salon Romeoville, IL; affordable hair salon Romeoville, IL; emergency hair salon Romeoville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alexis' Salon Spa | trust 3.0 | Alexis' Salon Spa is a hair salon in Romeoville, IL at 646 Weber Road, Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/alexis-salon-spa-romeoville/
-2. Great Clips | trust 0.0 | Great Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-romeoville/
-3. Hair Cuttery | trust 0.0 | Hair Cuttery is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-romeoville/
-4. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-romeoville/
+1. Alexis' Salon Spa | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Alexis' Salon Spa is a hair salon in Romeoville, IL at 646 Weber Road, Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/alexis-salon-spa-romeoville/
+2. Great Clips | Organic #2 | Pulse Score 42.5/100 (Building, #2 in city) | Great Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/great-clips-romeoville/
+3. Hair Cuttery | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | Hair Cuttery is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/hair-cuttery-romeoville/
+4. Sport Clips | Organic #4 | Pulse Score 42.5/100 (Building, #4 in city) | Sport Clips is a hair salon in Romeoville, IL. | https://dingalinged-cpu.github.io/registry/c/sport-clips-romeoville/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon romeoville il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

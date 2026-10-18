@@ -13,7 +13,7 @@ Ramallah Bakery is a bakery in Richardson, TX at 705 Sherman Street, Richardson,
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-19:00
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 20% of bakerys in Dallas–Fort Worth, #1 of 6 bakerys in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

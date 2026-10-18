@@ -13,7 +13,7 @@ Lutz Cafe & Pastry Shop is a bakery in Chicago, IL at 2458 West Montrose Avenue,
 - Website: https://www.chicago-bakery.com/
 - Email: info@lutzbakery.com
 - Opening hours (OSM syntax): Mo-Sa 07:00-19:00; Su 08:00-18:00
-- Registry Score: 64/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.5/100 — Unrated (not enough evidence yet) — top 6% of bakerys in Chicago, #20 of 338 bakerys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

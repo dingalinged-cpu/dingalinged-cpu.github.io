@@ -1,12 +1,12 @@
-The top unpaid mechanic listing for Justice, IL is Attention To Perfection Window Tint & Car Wrap (an auto repair shop in Justice, IL at 7859 Cronin Avenue, Justice, IL 60458. Website: https://attention2perfection.com/). 1 mechanic businesses are listed for Justice, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Justice, IL is Attention To Perfection Window Tint & Car Wrap (an auto repair shop in Justice, IL at 7859 Cronin Avenue, Justice, IL 60458. Website: https://attention2perfection.com/). 1 mechanic businesses are listed for Justice, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Justice, IL?
 
 Also answers: mechanic in Justice, IL; mechanic near me (Justice, IL); best mechanic Justice, IL; top rated mechanic Justice, IL; affordable mechanic Justice, IL; emergency mechanic Justice, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Attention To Perfection Window Tint & Car Wrap | trust 10.0 | Attention To Perfection Window Tint & Car Wrap is an auto repair shop in Justice, IL at 7859 Cronin Avenue, Justice, IL 60458. Website: https://attention2perfection.com/. | https://dingalinged-cpu.github.io/registry/c/attention-to-perfection-window-tint-and-car-wrap-justice/
+1. Attention To Perfection Window Tint & Car Wrap | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Attention To Perfection Window Tint & Car Wrap is an auto repair shop in Justice, IL at 7859 Cronin Avenue, Justice, IL 60458. Website: https://attention2perfection.com/. | https://dingalinged-cpu.github.io/registry/c/attention-to-perfection-window-tint-and-car-wrap-justice/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic justice il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ VUE is an event venue in Milwaukee, WI. Phone: +14142706060. Website: https://mi
 - Website: https://milwaukee.regency.hyatt.com/en/hotel/meetings-and-events/meetings.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 49% of event venues in Milwaukee, #24 of 50 event venues in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 50.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

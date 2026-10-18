@@ -1,13 +1,13 @@
-The top unpaid massage listing for Minnetonka, MN is Massage Envy (a massage studio in Minnetonka, MN). 2 massage businesses are listed for Minnetonka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Minnetonka, MN is Massage Envy (a massage studio in Minnetonka, MN). 2 massage businesses are listed for Minnetonka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Minnetonka, MN?
 
 Also answers: massage in Minnetonka, MN; massage near me (Minnetonka, MN); best massage Minnetonka, MN; top rated massage Minnetonka, MN; affordable massage Minnetonka, MN; emergency massage Minnetonka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/
-2. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/
+1. Massage Envy | Organic #1 | Pulse Score 41.8/100 (Building, #1 in city) | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka/
+2. Massage Envy | Organic #2 | Pulse Score 41.8/100 (Building, #2 in city) | Massage Envy is a massage studio in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/massage-envy-minnetonka-n11098487967/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage minnetonka mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

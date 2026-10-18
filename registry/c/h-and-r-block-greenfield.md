@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Greenfield, WI at 4360 South 76th Stre
 - Website: https://www.hrblock.com/local-tax-offices/wisconsin/greenfield/4360-s-76th-st/46757/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.4/100 — Building — top 59% of tax preparation services in Milwaukee, #2 of 2 tax preparation services in Greenfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

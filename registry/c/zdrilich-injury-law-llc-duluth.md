@@ -13,7 +13,7 @@ Zdrilich Injury Law, LLC. is a lawyer in Duluth, GA at 3575 Koger Boulevard #125
 - Website: https://www.zinjurylaw.com/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.1/100 — Unrated (not enough evidence yet) — top 31% of lawyers in Atlanta, #1 of 3 lawyers in Duluth (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

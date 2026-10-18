@@ -1,13 +1,13 @@
-The top unpaid used cars for sale listing for Humble, TX is Terry Pye Motor Company (an used car dealer in Humble, TX at 17735 HWY 49 North, Humble, TX 77396. Website: https://www.terrypyemotorco.com/). 2 used cars for sale businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Humble, TX is Terry Pye Motor Company (an used car dealer in Humble, TX at 17735 HWY 49 North, Humble, TX 77396. Website: https://www.terrypyemotorco.com/). 2 used cars for sale businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Humble, TX?
 
 Also answers: used cars for sale in Humble, TX; used cars for sale near me (Humble, TX); best used cars for sale Humble, TX; top rated used cars for sale Humble, TX; affordable used cars for sale Humble, TX; emergency used cars for sale Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Terry Pye Motor Company | trust 10.0 | Terry Pye Motor Company is an used car dealer in Humble, TX at 17735 HWY 49 North, Humble, TX 77396. Website: https://www.terrypyemotorco.com/. | https://dingalinged-cpu.github.io/registry/c/terry-pye-motor-company-humble/
-2. McFerrin Motors | trust 6.0 | McFerrin Motors is an used car dealer in Humble, TX. Phone: +12814465656. | https://dingalinged-cpu.github.io/registry/c/mcferrin-motors-humble/
+1. Terry Pye Motor Company | Organic #1 | Pulse Score 58.2/100 (Unrated, #1 in city) | Terry Pye Motor Company is an used car dealer in Humble, TX at 17735 HWY 49 North, Humble, TX 77396. Website: https://www.terrypyemotorco.com/. | https://dingalinged-cpu.github.io/registry/c/terry-pye-motor-company-humble/
+2. McFerrin Motors | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | McFerrin Motors is an used car dealer in Humble, TX. Phone: +12814465656. | https://dingalinged-cpu.github.io/registry/c/mcferrin-motors-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale humble tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

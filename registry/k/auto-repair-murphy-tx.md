@@ -1,16 +1,16 @@
-The top unpaid auto repair listing for Murphy, TX is Goodyear (an auto repair shop in Murphy, TX at 509 W FM 544, Murphy, TX 75094). 5 auto repair businesses are listed for Murphy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Murphy, TX is Kwik Kar Lube and Wash (an auto repair shop in Murphy, TX at 211 W FM 544, Murphy, TX 75094). 5 auto repair businesses are listed for Murphy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Murphy, TX?
 
 Also answers: auto repair in Murphy, TX; auto repair near me (Murphy, TX); best auto repair Murphy, TX; top rated auto repair Murphy, TX; affordable auto repair Murphy, TX; emergency auto repair Murphy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Murphy, TX at 509 W FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/goodyear-murphy/
-2. Kwik Kar Lube and Wash | trust 4.0 | Kwik Kar Lube and Wash is an auto repair shop in Murphy, TX at 211 W FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-wash-murphy/
-3. Sun Auto Service | trust 3.0 | Sun Auto Service is an auto repair shop in Murphy, TX at 608 FM 544, Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/sun-auto-service-murphy/
-4. Christian Brothers Automotive | trust 0.0 | Christian Brothers Automotive is an auto repair shop in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-murphy/
-5. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-murphy/
+1. Kwik Kar Lube and Wash | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Kwik Kar Lube and Wash is an auto repair shop in Murphy, TX at 211 W FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/kwik-kar-lube-and-wash-murphy/
+2. Goodyear | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Goodyear is an auto repair shop in Murphy, TX at 509 W FM 544, Murphy, TX 75094. | https://dingalinged-cpu.github.io/registry/c/goodyear-murphy/
+3. Sun Auto Service | Organic #3 | Pulse Score 43.8/100 (Building, #3 in city) | Sun Auto Service is an auto repair shop in Murphy, TX at 608 FM 544, Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/sun-auto-service-murphy/
+4. Take 5 Oil Change | Organic #4 | Pulse Score 42.2/100 (Building, #4 in city) | Take 5 Oil Change is an auto repair shop in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-murphy/
+5. Christian Brothers Automotive | Organic #5 | Pulse Score 41.4/100 (Unrated, #5 in city) | Christian Brothers Automotive is an auto repair shop in Murphy, TX. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-murphy/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair murphy tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

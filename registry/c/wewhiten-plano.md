@@ -13,7 +13,7 @@ WeWhiten is a dentist in Plano, TX at 7300 Lone Star Drive #C-118, Plano, TX 750
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Su-Fr 09:00-21:00; Sa 08:00-20:00
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Unrated (not enough evidence yet) — top 21% of dentists in Dallas–Fort Worth, #8 of 32 dentists in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

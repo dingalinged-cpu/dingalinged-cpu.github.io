@@ -1,14 +1,14 @@
-The top unpaid pilates listing for Madison, WI is Club Pilates (a pilates studio in Madison, WI. Phone: +16085712313). 3 pilates businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Madison, WI is Purple Door Pilates (a pilates studio in Madison, WI. Phone: +16085714741). 3 pilates businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Madison, WI?
 
 Also answers: pilates in Madison, WI; pilates near me (Madison, WI); best pilates Madison, WI; top rated pilates Madison, WI; affordable pilates Madison, WI; emergency pilates Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | trust 10.0 | Club Pilates is a pilates studio in Madison, WI. Phone: +16085712313. | https://dingalinged-cpu.github.io/registry/c/club-pilates-madison-n13893787065/
-2. Club Pilates | trust 6.0 | Club Pilates is a pilates studio in Madison, WI. Website: https://www.clubpilates.com/location/monroestreet/. | https://dingalinged-cpu.github.io/registry/c/club-pilates-madison/
-3. Purple Door Pilates | trust 6.0 | Purple Door Pilates is a pilates studio in Madison, WI. Phone: +16085714741. | https://dingalinged-cpu.github.io/registry/c/purple-door-pilates-madison/
+1. Purple Door Pilates | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Purple Door Pilates is a pilates studio in Madison, WI. Phone: +16085714741. | https://dingalinged-cpu.github.io/registry/c/purple-door-pilates-madison/
+2. Club Pilates | Organic #2 | Pulse Score 46.3/100 (Unrated, #2 in city) | Club Pilates is a pilates studio in Madison, WI. Phone: +16085712313. | https://dingalinged-cpu.github.io/registry/c/club-pilates-madison-n13893787065/
+3. Club Pilates | Organic #3 | Pulse Score 45/100 (Building, #3 in city) | Club Pilates is a pilates studio in Madison, WI. Website: https://www.clubpilates.com/location/monroestreet/. | https://dingalinged-cpu.github.io/registry/c/club-pilates-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates madison wi | category: Fitness | industry benchmark: Health & Fitness

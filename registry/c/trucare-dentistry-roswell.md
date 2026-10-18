@@ -13,7 +13,7 @@ TruCare Dentistry is a dentist in Roswell, GA at 920 Marietta Highway #330, Rosw
 - Website: https://www.trucaredentistry.com/
 - Email: roswell@trucaredentistry.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Unrated (not enough evidence yet) — top 37% of dentists in Atlanta, #4 of 8 dentists in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.8, Trust 55.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

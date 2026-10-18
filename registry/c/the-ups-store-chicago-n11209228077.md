@@ -13,7 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 3712 North Broadway, Chica
 - Website: https://locations.theupsstore.com/il/chicago/3712-n-broadway
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su 11:00-16:00
-- Registry Score: 53.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 16% of printing services in Chicago, #10 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.7, Trust 64.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

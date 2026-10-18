@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Mansfield, TX is Aristide Event Center (an event venue in Mansfield, TX at 570 North Walnut Creek Drive, Mansfield, TX. Website: https://waltersweddingestates.com/venues/aristide-mansfield/). 2 event venues businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Mansfield, TX is Aristide Event Center (an event venue in Mansfield, TX at 570 North Walnut Creek Drive, Mansfield, TX. Website: https://waltersweddingestates.com/venues/aristide-mansfield/). 2 event venues businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Mansfield, TX?
 
 Also answers: event venues in Mansfield, TX; event venues near me (Mansfield, TX); best event venues Mansfield, TX; top rated event venues Mansfield, TX; affordable event venues Mansfield, TX; emergency event venues Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aristide Event Center | trust 9.0 | Aristide Event Center is an event venue in Mansfield, TX at 570 North Walnut Creek Drive, Mansfield, TX. Website: https://waltersweddingestates.com/venues/aristide-mansfield/. | https://dingalinged-cpu.github.io/registry/c/aristide-event-center-mansfield/
-2. Mansfield ISD Center of the Performing Arts | trust 4.0 | Mansfield ISD Center of the Performing Arts is an event venue in Mansfield, TX at 1110 West Debbie Lane, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/mansfield-isd-center-of-the-performing-arts-mansfield/
+1. Aristide Event Center | Organic #1 | Pulse Score 57.7/100 (Unrated, #1 in city) | Aristide Event Center is an event venue in Mansfield, TX at 570 North Walnut Creek Drive, Mansfield, TX. Website: https://waltersweddingestates.com/venues/aristide-mansfield/. | https://dingalinged-cpu.github.io/registry/c/aristide-event-center-mansfield/
+2. Mansfield ISD Center of the Performing Arts | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Mansfield ISD Center of the Performing Arts is an event venue in Mansfield, TX at 1110 West Debbie Lane, Mansfield, TX 76063. | https://dingalinged-cpu.github.io/registry/c/mansfield-isd-center-of-the-performing-arts-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues mansfield tx | category: Events & weddings | industry benchmark: Personal Services

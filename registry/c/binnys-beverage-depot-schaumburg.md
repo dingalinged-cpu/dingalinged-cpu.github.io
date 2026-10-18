@@ -13,7 +13,7 @@ Binny's Beverage Depot is a liquor store in Schaumburg, IL at 323 West Golf Road
 - Website: https://www.binnys.com/store-locator/schaumburg/
 - Email: schaumburg@binnys.com
 - Opening hours (OSM syntax): Mo-Sa 09:00-21:00; Su 10:00-18:00
-- Registry Score: 52/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.5/100 — Fair — top 94% of liquor stores in Chicago, #2 of 3 liquor stores in Schaumburg (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.1, Trust 66.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

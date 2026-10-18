@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Greenfield, MN is Autoworks Collision (an auto repair shop in Greenfield, MN). 1 auto repair businesses are listed for Greenfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Greenfield, MN is Autoworks Collision (an auto repair shop in Greenfield, MN). 1 auto repair businesses are listed for Greenfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Greenfield, MN?
 
 Also answers: auto repair in Greenfield, MN; auto repair near me (Greenfield, MN); best auto repair Greenfield, MN; top rated auto repair Greenfield, MN; affordable auto repair Greenfield, MN; emergency auto repair Greenfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Autoworks Collision | trust 0.0 | Autoworks Collision is an auto repair shop in Greenfield, MN. | https://dingalinged-cpu.github.io/registry/c/autoworks-collision-greenfield/
+1. Autoworks Collision | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Autoworks Collision is an auto repair shop in Greenfield, MN. | https://dingalinged-cpu.github.io/registry/c/autoworks-collision-greenfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair greenfield mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

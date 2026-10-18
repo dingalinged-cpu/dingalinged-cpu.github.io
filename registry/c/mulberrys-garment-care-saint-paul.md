@@ -13,7 +13,7 @@ Mulberrys Garment Care is a dry cleaner in Saint Paul, MN at 978 Grand Avenue, S
 - Website: https://www.mulberryscleaners.com/store/st-paul/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 13% of dry cleaners in Minneapolis–St. Paul, #2 of 8 dry cleaners in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

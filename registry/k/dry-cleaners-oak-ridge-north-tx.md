@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Oak Ridge North, TX is Andy's Cleaners (a dry cleaner in Oak Ridge North, TX). 1 dry cleaners businesses are listed for Oak Ridge North, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Oak Ridge North, TX is Andy's Cleaners (a dry cleaner in Oak Ridge North, TX). 1 dry cleaners businesses are listed for Oak Ridge North, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Oak Ridge North, TX?
 
 Also answers: dry cleaners in Oak Ridge North, TX; dry cleaners near me (Oak Ridge North, TX); best dry cleaners Oak Ridge North, TX; top rated dry cleaners Oak Ridge North, TX; affordable dry cleaners Oak Ridge North, TX; emergency dry cleaners Oak Ridge North, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Andy's Cleaners | trust 0.0 | Andy's Cleaners is a dry cleaner in Oak Ridge North, TX. | https://dingalinged-cpu.github.io/registry/c/andys-cleaners-oak-ridge-north/
+1. Andy's Cleaners | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Andy's Cleaners is a dry cleaner in Oak Ridge North, TX. | https://dingalinged-cpu.github.io/registry/c/andys-cleaners-oak-ridge-north/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners oak ridge north tx | category: Professional & financial services | industry benchmark: Finance & Insurance

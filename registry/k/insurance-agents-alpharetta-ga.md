@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Alpharetta, GA is Allstate (an insurance agent in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16789961700. Website: https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html). 2 insurance agents businesses are listed for Alpharetta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Alpharetta, GA is Safeway Insurance Company of Georgia (an insurance agent in Alpharetta, GA at 1165 Sanctuary Parkway #200, Alpharetta, GA 30009). 2 insurance agents businesses are listed for Alpharetta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Alpharetta, GA?
 
 Also answers: insurance agents in Alpharetta, GA; insurance agents near me (Alpharetta, GA); best insurance agents Alpharetta, GA; top rated insurance agents Alpharetta, GA; affordable insurance agents Alpharetta, GA; emergency insurance agents Alpharetta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate | trust 20.0 | Allstate is an insurance agent in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16789961700. Website: https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html. | https://dingalinged-cpu.github.io/registry/c/allstate-alpharetta/
-2. Safeway Insurance Company of Georgia | trust 4.0 | Safeway Insurance Company of Georgia is an insurance agent in Alpharetta, GA at 1165 Sanctuary Parkway #200, Alpharetta, GA 30009. | https://dingalinged-cpu.github.io/registry/c/safeway-insurance-company-of-georgia-alpharetta/
+1. Safeway Insurance Company of Georgia | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Safeway Insurance Company of Georgia is an insurance agent in Alpharetta, GA at 1165 Sanctuary Parkway #200, Alpharetta, GA 30009. | https://dingalinged-cpu.github.io/registry/c/safeway-insurance-company-of-georgia-alpharetta/
+2. Allstate | Organic #2 | Pulse Score 50.4/100 (Fair, #2 in city) | Allstate is an insurance agent in Alpharetta, GA at 11875 Jones Bridge Road, Alpharetta, GA 30005. Phone: +16789961700. Website: https://agents.allstate.com/dorcelin-bazil-alpharetta-ga.html. | https://dingalinged-cpu.github.io/registry/c/allstate-alpharetta/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents alpharetta ga | category: insurance | industry benchmark: Finance & Insurance

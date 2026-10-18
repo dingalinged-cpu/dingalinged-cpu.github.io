@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Minnetonka, MN is Wild Birds Unlimited (a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/). 4 pet store businesses are listed for Minnetonka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Minnetonka, MN is Pet Stuff (a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN). 4 pet store businesses are listed for Minnetonka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Minnetonka, MN?
 
 Also answers: pet store in Minnetonka, MN; pet store near me (Minnetonka, MN); best pet store Minnetonka, MN; top rated pet store Minnetonka, MN; affordable pet store Minnetonka, MN; emergency pet store Minnetonka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wild Birds Unlimited | trust 20.0 | Wild Birds Unlimited is a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-minnetonka/
-2. Pet Stuff | trust 7.0 | Pet Stuff is a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/pet-stuff-minnetonka/
-3. Chuck & Don's pet food and supplies | trust 0.0 | Chuck & Don's pet food and supplies is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minnetonka/
-4. Wild Bird | trust 0.0 | Wild Bird is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/wild-bird-minnetonka/
+1. Pet Stuff | Organic #1 | Pulse Score 56.8/100 (Unrated, #1 in city) | Pet Stuff is a pet store in Minnetonka, MN at 14731 Excelsior Boulevard, Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/pet-stuff-minnetonka/
+2. Chuck & Don's pet food and supplies | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Chuck & Don's pet food and supplies is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-pet-food-and-supplies-minnetonka/
+3. Wild Bird | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Wild Bird is a pet store in Minnetonka, MN. | https://dingalinged-cpu.github.io/registry/c/wild-bird-minnetonka/
+4. Wild Birds Unlimited | Organic #4 | Pulse Score 47.8/100 (Unrated, #4 in city) | Wild Birds Unlimited is a pet store in Minnetonka, MN at 11210 Wayzata Boulevard, Minnetonka, MN 55305. Phone: +19525259365. Website: https://minnetonka.wbu.com/. | https://dingalinged-cpu.github.io/registry/c/wild-birds-unlimited-minnetonka/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store minnetonka mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

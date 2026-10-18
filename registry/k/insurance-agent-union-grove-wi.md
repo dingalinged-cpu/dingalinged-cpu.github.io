@@ -1,16 +1,16 @@
-The top unpaid insurance agent listing for Union Grove, WI is American Family Insurance (an insurance agent in Union Grove, WI). 5 insurance agent businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Union Grove, WI is Capital Insurance Agency (an insurance agent in Union Grove, WI). 5 insurance agent businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Union Grove, WI?
 
 Also answers: insurance agent in Union Grove, WI; insurance agent near me (Union Grove, WI); best insurance agent Union Grove, WI; top rated insurance agent Union Grove, WI; affordable insurance agent Union Grove, WI; emergency insurance agent Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Family Insurance | trust 0.0 | American Family Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-union-grove/
-2. Capital Insurance Agency | trust 0.0 | Capital Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/capital-insurance-agency-union-grove/
-3. Grove Insurance Agency Inc | trust 0.0 | Grove Insurance Agency Inc is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/grove-insurance-agency-inc-union-grove/
-4. Rural Mutual Insurance | trust 0.0 | Rural Mutual Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/rural-mutual-insurance-union-grove/
-5. Yorkville & Mt Pleasant Mutual Insurance Agency | trust 0.0 | Yorkville & Mt Pleasant Mutual Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/yorkville-and-mt-pleasant-mutual-insurance-agency-union-grove/
+1. Capital Insurance Agency | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Capital Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/capital-insurance-agency-union-grove/
+2. Grove Insurance Agency Inc | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Grove Insurance Agency Inc is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/grove-insurance-agency-inc-union-grove/
+3. Rural Mutual Insurance | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Rural Mutual Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/rural-mutual-insurance-union-grove/
+4. Yorkville & Mt Pleasant Mutual Insurance Agency | Organic #4 | Pulse Score 54.7/100 (Unrated, #4 in city) | Yorkville & Mt Pleasant Mutual Insurance Agency is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/yorkville-and-mt-pleasant-mutual-insurance-agency-union-grove/
+5. American Family Insurance | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | American Family Insurance is an insurance agent in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/american-family-insurance-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent union grove wi | category: Professional & financial services | industry benchmark: Finance & Insurance

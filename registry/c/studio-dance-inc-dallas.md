@@ -13,7 +13,7 @@ Studio Dance, Inc. is a dance studio in Dallas, GA at 104 Greystone Power Boulev
 - Website: https://www.studiodanceinc.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 16:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 25% of dance studios in Atlanta, #1 of 1 dance studios in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

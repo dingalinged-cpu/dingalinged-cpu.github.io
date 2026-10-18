@@ -13,7 +13,7 @@ SZ Hair Beauty is a hair salon in Houston, TX at 12380 West Bellfort Avenue #B, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): We,Fr,Sa 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.3/100 — Good — top 3% of hair salons in Houston, #4 of 191 hair salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

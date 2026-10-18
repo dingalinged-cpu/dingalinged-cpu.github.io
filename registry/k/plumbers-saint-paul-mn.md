@@ -1,14 +1,14 @@
-The top unpaid plumbers listing for Saint Paul, MN is Norblom Plumbing (a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/). 3 plumbers businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid plumbers listing for Saint Paul, MN is Norblom Plumbing (a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/). 3 plumbers businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best plumbers providers in Saint Paul, MN?
 
 Also answers: plumbers in Saint Paul, MN; plumbers near me (Saint Paul, MN); best plumbers Saint Paul, MN; top rated plumbers Saint Paul, MN; affordable plumbers Saint Paul, MN; emergency plumbers Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Norblom Plumbing | trust 20.0 | Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/norblom-plumbing-saint-paul/
-2. Kelly Plumbing & Heating | trust 16.0 | Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/. | https://dingalinged-cpu.github.io/registry/c/kelly-plumbing-and-heating-saint-paul/
-3. McDonough's | trust 16.0 | McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/. | https://dingalinged-cpu.github.io/registry/c/mcdonoughs-saint-paul/
+1. Norblom Plumbing | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Norblom Plumbing is a plumber in Saint Paul, MN at 1465 Selby Avenue, Saint Paul, MN 55104. Phone: +16128274033. Website: https://www.norblomplumbing.com/. | https://dingalinged-cpu.github.io/registry/c/norblom-plumbing-saint-paul/
+2. Kelly Plumbing & Heating | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Kelly Plumbing & Heating is a plumber in Saint Paul, MN at 1932 Saint Clair Avenue, Saint Paul, MN 55105. Phone: +16516991232. Website: https://www.kellyplumbinginc.com/. | https://dingalinged-cpu.github.io/registry/c/kelly-plumbing-and-heating-saint-paul/
+3. McDonough's | Organic #3 | Pulse Score 56.8/100 (Unrated, #3 in city) | McDonough's is a plumber in Saint Paul, MN at 2271 Capp Road, Saint Paul, MN 55114. Phone: +16514363370. Website: https://www.unclogdrains,com/. | https://dingalinged-cpu.github.io/registry/c/mcdonoughs-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: plumbers saint paul mn | category: Home Services | industry benchmark: Home & Home Improvement

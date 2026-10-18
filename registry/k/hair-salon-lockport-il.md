@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Lockport, IL is Sport Clips (a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441). 1 hair salon businesses are listed for Lockport, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Lockport, IL is Sport Clips (a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441). 1 hair salon businesses are listed for Lockport, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Lockport, IL?
 
 Also answers: hair salon in Lockport, IL; hair salon near me (Lockport, IL); best hair salon Lockport, IL; top rated hair salon Lockport, IL; affordable hair salon Lockport, IL; emergency hair salon Lockport, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sport Clips | trust 4.0 | Sport Clips is a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lockport/
+1. Sport Clips | Organic #1 | Pulse Score 45.1/100 (Building, #1 in city) | Sport Clips is a hair salon in Lockport, IL at 16449 West 159th Street, Lockport, IL 60441. | https://dingalinged-cpu.github.io/registry/c/sport-clips-lockport/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon lockport il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

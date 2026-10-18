@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Stone Mountain, GA is Dan-Fodio Law Group, PC (a lawyer in Stone Mountain, GA at 913 Main Street, Stone Mountain, GA 30083. Phone: +14042926872). 1 attorney businesses are listed for Stone Mountain, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Stone Mountain, GA is Dan-Fodio Law Group, PC (a lawyer in Stone Mountain, GA at 913 Main Street, Stone Mountain, GA 30083. Phone: +14042926872). 1 attorney businesses are listed for Stone Mountain, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Stone Mountain, GA?
 
 Also answers: attorney in Stone Mountain, GA; attorney near me (Stone Mountain, GA); best attorney Stone Mountain, GA; top rated attorney Stone Mountain, GA; affordable attorney Stone Mountain, GA; emergency attorney Stone Mountain, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dan-Fodio Law Group, PC | trust 10.0 | Dan-Fodio Law Group, PC is a lawyer in Stone Mountain, GA at 913 Main Street, Stone Mountain, GA 30083. Phone: +14042926872. | https://dingalinged-cpu.github.io/registry/c/dan-fodio-law-group-pc-stone-mountain/
+1. Dan-Fodio Law Group, PC | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Dan-Fodio Law Group, PC is a lawyer in Stone Mountain, GA at 913 Main Street, Stone Mountain, GA 30083. Phone: +14042926872. | https://dingalinged-cpu.github.io/registry/c/dan-fodio-law-group-pc-stone-mountain/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney stone mountain ga | category: professional_legal | industry benchmark: Attorneys & Legal Services

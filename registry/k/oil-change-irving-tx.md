@@ -1,17 +1,17 @@
-The top unpaid oil change listing for Irving, TX is Driver's Edge (an auto repair shop in Irving, TX at 8450 North MacArthur Boulevard, Irving, TX 75063. Phone: +19724449855. Website: https://www.mydriversedge.com/). 6 oil change businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid oil change listing for Irving, TX is Christian Brothers Automotive Valley Ranch (an auto repair shop in Irving, TX at 600 Valley Ranch Parkway South, Irving, TX 75063. Phone: +19724573002). 6 oil change businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best oil change providers in Irving, TX?
 
 Also answers: oil change in Irving, TX; oil change near me (Irving, TX); best oil change Irving, TX; top rated oil change Irving, TX; affordable oil change Irving, TX; emergency oil change Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Driver's Edge | trust 20.0 | Driver's Edge is an auto repair shop in Irving, TX at 8450 North MacArthur Boulevard, Irving, TX 75063. Phone: +19724449855. Website: https://www.mydriversedge.com/. | https://dingalinged-cpu.github.io/registry/c/drivers-edge-irving/
-2. Christian Brothers Automotive Valley Ranch | trust 14.0 | Christian Brothers Automotive Valley Ranch is an auto repair shop in Irving, TX at 600 Valley Ranch Parkway South, Irving, TX 75063. Phone: +19724573002. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-valley-ranch-irving/
-3. Firestone | trust 4.0 | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://dingalinged-cpu.github.io/registry/c/firestone-irving-w643448912/
-4. Valvoline Instant Oil Change | trust 3.0 | Valvoline Instant Oil Change is an auto repair shop in Irving, TX at 7970 MacArthur Boulevard, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-irving/
-5. Firestone | trust 0.0 | Firestone is an auto repair shop in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-irving-n10772373847/
-6. Take 5 Oil Change | trust 0.0 | Take 5 Oil Change is an auto repair shop in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-irving/
+1. Christian Brothers Automotive Valley Ranch | Organic #1 | Pulse Score 51.4/100 (Fair, #10 in city) | Christian Brothers Automotive Valley Ranch is an auto repair shop in Irving, TX at 600 Valley Ranch Parkway South, Irving, TX 75063. Phone: +19724573002. | https://dingalinged-cpu.github.io/registry/c/christian-brothers-automotive-valley-ranch-irving/
+2. Driver's Edge | Organic #2 | Pulse Score 50.5/100 (Unrated, #11 in city) | Driver's Edge is an auto repair shop in Irving, TX at 8450 North MacArthur Boulevard, Irving, TX 75063. Phone: +19724449855. Website: https://www.mydriversedge.com/. | https://dingalinged-cpu.github.io/registry/c/drivers-edge-irving/
+3. Valvoline Instant Oil Change | Organic #3 | Pulse Score 48.8/100 (Building, #12 in city) | Valvoline Instant Oil Change is an auto repair shop in Irving, TX at 7970 MacArthur Boulevard, Irving, TX. | https://dingalinged-cpu.github.io/registry/c/valvoline-instant-oil-change-irving/
+4. Firestone | Organic #4 | Pulse Score 48.5/100 (Building, #13 in city) | Firestone is an auto repair shop in Irving, TX at 5410 North MacArthur Boulevard, Irving, TX 75038. | https://dingalinged-cpu.github.io/registry/c/firestone-irving-w643448912/
+5. Firestone | Organic #5 | Pulse Score 45.3/100 (Building, #14 in city) | Firestone is an auto repair shop in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-irving-n10772373847/
+6. Take 5 Oil Change | Organic #6 | Pulse Score 42.2/100 (Building, #18 in city) | Take 5 Oil Change is an auto repair shop in Irving, TX. | https://dingalinged-cpu.github.io/registry/c/take-5-oil-change-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: oil change irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

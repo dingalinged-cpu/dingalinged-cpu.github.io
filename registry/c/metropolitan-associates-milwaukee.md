@@ -13,7 +13,7 @@ Metropolitan Associates is a real estate agency in Milwaukee, WI at 1123 North A
 - Website: https://www.metapts.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 63.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 6% of real estate agencys in Milwaukee, #3 of 19 real estate agencys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 63.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

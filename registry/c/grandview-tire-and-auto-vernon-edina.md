@@ -13,7 +13,7 @@ Grandview Tire & Auto - Vernon is an auto repair shop in Edina, MN at 5100 Verno
 - Website: https://vernon.grandviewtireandauto.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-20:00; Sa 08:00-17:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Unrated (not enough evidence yet) — top 6% of auto repair shops in Minneapolis–St. Paul, #1 of 3 auto repair shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

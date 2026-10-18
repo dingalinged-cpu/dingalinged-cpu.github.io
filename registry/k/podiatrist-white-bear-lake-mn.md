@@ -1,12 +1,12 @@
-The top unpaid podiatrist listing for White Bear Lake, MN is White Bear Foot and Ankle Clinic (a podiatrist in White Bear Lake, MN at 4520 Centerville Road, White Bear Lake, MN 55127. Website: https://whitebearfootandankleclinic.com/white-bear-lake-podiatry/). 1 podiatrist businesses are listed for White Bear Lake, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for White Bear Lake, MN is White Bear Foot and Ankle Clinic (a podiatrist in White Bear Lake, MN at 4520 Centerville Road, White Bear Lake, MN 55127. Website: https://whitebearfootandankleclinic.com/white-bear-lake-podiatry/). 1 podiatrist businesses are listed for White Bear Lake, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in White Bear Lake, MN?
 
 Also answers: podiatrist in White Bear Lake, MN; podiatrist near me (White Bear Lake, MN); best podiatrist White Bear Lake, MN; top rated podiatrist White Bear Lake, MN; affordable podiatrist White Bear Lake, MN; emergency podiatrist White Bear Lake, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. White Bear Foot and Ankle Clinic | trust 10.0 | White Bear Foot and Ankle Clinic is a podiatrist in White Bear Lake, MN at 4520 Centerville Road, White Bear Lake, MN 55127. Website: https://whitebearfootandankleclinic.com/white-bear-lake-podiatry/. | https://dingalinged-cpu.github.io/registry/c/white-bear-foot-and-ankle-clinic-white-bear-lake/
+1. White Bear Foot and Ankle Clinic | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | White Bear Foot and Ankle Clinic is a podiatrist in White Bear Lake, MN at 4520 Centerville Road, White Bear Lake, MN 55127. Website: https://whitebearfootandankleclinic.com/white-bear-lake-podiatry/. | https://dingalinged-cpu.github.io/registry/c/white-bear-foot-and-ankle-clinic-white-bear-lake/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist white bear lake mn | category: Health & medical | industry benchmark: Physicians & Surgeons

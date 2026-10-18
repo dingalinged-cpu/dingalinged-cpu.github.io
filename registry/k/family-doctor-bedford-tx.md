@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Bedford, TX is Preferred Primary Care (a family medicine practice in Bedford, TX at 1999 Forest Ridge Drive, Bedford, TX. Phone: +16827383158. Website: https://preferredprimarycare.org/). 1 family doctor businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Bedford, TX is Preferred Primary Care (a family medicine practice in Bedford, TX at 1999 Forest Ridge Drive, Bedford, TX. Phone: +16827383158. Website: https://preferredprimarycare.org/). 1 family doctor businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Bedford, TX?
 
 Also answers: family doctor in Bedford, TX; family doctor near me (Bedford, TX); best family doctor Bedford, TX; top rated family doctor Bedford, TX; affordable family doctor Bedford, TX; emergency family doctor Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Preferred Primary Care | trust 15.0 | Preferred Primary Care is a family medicine practice in Bedford, TX at 1999 Forest Ridge Drive, Bedford, TX. Phone: +16827383158. Website: https://preferredprimarycare.org/. | https://dingalinged-cpu.github.io/registry/c/preferred-primary-care-bedford/
+1. Preferred Primary Care | Organic #1 | Pulse Score 61.6/100 (Good, #1 in city) | Preferred Primary Care is a family medicine practice in Bedford, TX at 1999 Forest Ridge Drive, Bedford, TX. Phone: +16827383158. Website: https://preferredprimarycare.org/. | https://dingalinged-cpu.github.io/registry/c/preferred-primary-care-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor bedford tx | category: Health & medical | industry benchmark: Physicians & Surgeons

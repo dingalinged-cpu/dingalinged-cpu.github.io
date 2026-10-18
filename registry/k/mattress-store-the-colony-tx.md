@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for The Colony, TX is Mattress Firm (a mattress store in The Colony, TX at 5601 State Highway 121 #600, The Colony, TX 75056. Phone: +12144691905. Website: https://www.mattressfirm.com/en-us/stores/tx/the-colony/002141/). 1 mattress store businesses are listed for The Colony, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for The Colony, TX is Mattress Firm (a mattress store in The Colony, TX at 5601 State Highway 121 #600, The Colony, TX 75056. Phone: +12144691905. Website: https://www.mattressfirm.com/en-us/stores/tx/the-colony/002141/). 1 mattress store businesses are listed for The Colony, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in The Colony, TX?
 
 Also answers: mattress store in The Colony, TX; mattress store near me (The Colony, TX); best mattress store The Colony, TX; top rated mattress store The Colony, TX; affordable mattress store The Colony, TX; emergency mattress store The Colony, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in The Colony, TX at 5601 State Highway 121 #600, The Colony, TX 75056. Phone: +12144691905. Website: https://www.mattressfirm.com/en-us/stores/tx/the-colony/002141/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-the-colony/
+1. Mattress Firm | Organic #1 | Pulse Score 50.3/100 (Fair, #1 in city) | Mattress Firm is a mattress store in The Colony, TX at 5601 State Highway 121 #600, The Colony, TX 75056. Phone: +12144691905. Website: https://www.mattressfirm.com/en-us/stores/tx/the-colony/002141/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-the-colony/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store the colony tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

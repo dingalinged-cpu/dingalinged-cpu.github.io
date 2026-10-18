@@ -1,13 +1,13 @@
-The top unpaid tanning salon listing for Saint Paul, MN is The Glow Lounge (a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/). 2 tanning salon businesses are listed for Saint Paul, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Saint Paul, MN is The Glow Lounge (a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/). 2 tanning salon businesses are listed for Saint Paul, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Saint Paul, MN?
 
 Also answers: tanning salon in Saint Paul, MN; tanning salon near me (Saint Paul, MN); best tanning salon Saint Paul, MN; top rated tanning salon Saint Paul, MN; affordable tanning salon Saint Paul, MN; emergency tanning salon Saint Paul, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Glow Lounge | trust 10.0 | The Glow Lounge is a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/. | https://dingalinged-cpu.github.io/registry/c/the-glow-lounge-saint-paul/
-2. TanWorks | trust 4.0 | TanWorks is a tanning salon in Saint Paul, MN at 80 Snelling Avenue #Ste D, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/tanworks-saint-paul/
+1. The Glow Lounge | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | The Glow Lounge is a tanning salon in Saint Paul, MN at 1032 Grand Avenue, Saint Paul, MN 55105. Website: https://www.theglowlounge.com/. | https://dingalinged-cpu.github.io/registry/c/the-glow-lounge-saint-paul/
+2. TanWorks | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | TanWorks is a tanning salon in Saint Paul, MN at 80 Snelling Avenue #Ste D, Saint Paul, MN 55104. | https://dingalinged-cpu.github.io/registry/c/tanworks-saint-paul/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon saint paul mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

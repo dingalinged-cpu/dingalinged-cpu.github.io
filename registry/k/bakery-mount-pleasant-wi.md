@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Mount Pleasant, WI is O&H Danish Bakery (a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi). 1 bakery businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Mount Pleasant, WI is O&H Danish Bakery (a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi). 1 bakery businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Mount Pleasant, WI?
 
 Also answers: bakery in Mount Pleasant, WI; bakery near me (Mount Pleasant, WI); best bakery Mount Pleasant, WI; top rated bakery Mount Pleasant, WI; affordable bakery Mount Pleasant, WI; emergency bakery Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. O&H Danish Bakery | trust 19.0 | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-bakery-mount-pleasant/
+1. O&H Danish Bakery | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | O&H Danish Bakery is a bakery in Mount Pleasant, WI at 5910 Washington Avenue, Mount Pleasant, WI. Phone: +12625047000. Website: https://www.ohdanishbakery.com/locations/danish-bakery/racine-wi. | https://dingalinged-cpu.github.io/registry/c/o-and-h-danish-bakery-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mount pleasant wi | category: Events & weddings | industry benchmark: Personal Services

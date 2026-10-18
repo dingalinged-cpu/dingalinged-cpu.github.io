@@ -1,14 +1,14 @@
-The top unpaid mechanic listing for Lancaster, TX is Jay's Auto & Muffler (an auto repair shop in Lancaster, TX). 3 mechanic businesses are listed for Lancaster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Lancaster, TX is Jay's Auto & Muffler (an auto repair shop in Lancaster, TX). 3 mechanic businesses are listed for Lancaster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Lancaster, TX?
 
 Also answers: mechanic in Lancaster, TX; mechanic near me (Lancaster, TX); best mechanic Lancaster, TX; top rated mechanic Lancaster, TX; affordable mechanic Lancaster, TX; emergency mechanic Lancaster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jay's Auto & Muffler | trust 0.0 | Jay's Auto & Muffler is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/jays-auto-and-muffler-lancaster/
-2. MAACO | trust 0.0 | MAACO is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/maaco-lancaster/
-3. Perfection Auto Hail Repair | trust 0.0 | Perfection Auto Hail Repair is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/perfection-auto-hail-repair-lancaster/
+1. Jay's Auto & Muffler | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Jay's Auto & Muffler is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/jays-auto-and-muffler-lancaster/
+2. Perfection Auto Hail Repair | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Perfection Auto Hail Repair is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/perfection-auto-hail-repair-lancaster/
+3. MAACO | Organic #3 | Pulse Score 42.5/100 (Building, #3 in city) | MAACO is an auto repair shop in Lancaster, TX. | https://dingalinged-cpu.github.io/registry/c/maaco-lancaster/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lancaster tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

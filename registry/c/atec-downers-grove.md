@@ -13,7 +13,7 @@ ATec is an auto repair shop in Downers Grove, IL at 1711 Ogden Avenue, Downers G
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 19% of auto repair shops in Chicago, #3 of 6 auto repair shops in Downers Grove (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 54.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

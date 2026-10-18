@@ -13,7 +13,7 @@ Core Chiropractic is a chiropractor in Flower Mound, TX. Phone: +19728992258.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-12:00,15:00-19:00; Tu,Th 08:00-11:00,12:30-16:00; PH closed; Fr 08:00-11:00,12:00-16:00
-- Registry Score: 59.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.8/100 — Unrated (not enough evidence yet) — top 19% of chiropractors in Dallas–Fort Worth, #2 of 13 chiropractors in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.3, Trust 53.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

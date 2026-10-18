@@ -13,7 +13,7 @@ Rainforest Flowers is a florist in Spring, TX at 25602 I-45, Spring, TX 77386. P
 - Website: https://rainforestflowers.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa 09:00-14:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of florists in Houston, #1 of 1 florists in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.5, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid moving company listing for Dunwoody, GA is Happy Labor (a moving company in Dunwoody, GA at 1050 Crown Pointe Parkway #Suite 500, Dunwoody, GA 30338. Phone: +16784002111. Website: https://www.happylaborllc.com/). 1 moving company businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid moving company listing for Dunwoody, GA is Happy Labor (a moving company in Dunwoody, GA at 1050 Crown Pointe Parkway #Suite 500, Dunwoody, GA 30338. Phone: +16784002111. Website: https://www.happylaborllc.com/). 1 moving company businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best moving company providers in Dunwoody, GA?
 
 Also answers: moving company in Dunwoody, GA; moving company near me (Dunwoody, GA); best moving company Dunwoody, GA; top rated moving company Dunwoody, GA; affordable moving company Dunwoody, GA; emergency moving company Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy Labor | trust 20.0 | Happy Labor is a moving company in Dunwoody, GA at 1050 Crown Pointe Parkway #Suite 500, Dunwoody, GA 30338. Phone: +16784002111. Website: https://www.happylaborllc.com/. | https://dingalinged-cpu.github.io/registry/c/happy-labor-dunwoody/
+1. Happy Labor | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Happy Labor is a moving company in Dunwoody, GA at 1050 Crown Pointe Parkway #Suite 500, Dunwoody, GA 30338. Phone: +16784002111. Website: https://www.happylaborllc.com/. | https://dingalinged-cpu.github.io/registry/c/happy-labor-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: moving company dunwoody ga | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Berwyn, IL is Happy Days Child Care Center (a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/). 1 daycare businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Berwyn, IL is Happy Days Child Care Center (a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/). 1 daycare businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Berwyn, IL?
 
 Also answers: daycare in Berwyn, IL; daycare near me (Berwyn, IL); best daycare Berwyn, IL; top rated daycare Berwyn, IL; affordable daycare Berwyn, IL; emergency daycare Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy Days Child Care Center | trust 10.0 | Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/. | https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/
+1. Happy Days Child Care Center | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Happy Days Child Care Center is a daycare in Berwyn, IL at 6304 West 26th Street, Berwyn, IL 60402. Website: https://happydayschildcarecenter.org/. | https://dingalinged-cpu.github.io/registry/c/happy-days-child-care-center-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare berwyn il | category: Education & childcare | industry benchmark: Education & Instruction

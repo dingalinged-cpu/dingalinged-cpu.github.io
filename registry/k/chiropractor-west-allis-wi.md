@@ -1,16 +1,16 @@
-The top unpaid chiropractor listing for West Allis, WI is M. Casey Chiro-Care (a chiropractor in West Allis, WI at 7639 West Beloit Road, West Allis, WI 53219. Phone: +14143770560. Website: https://www.mcaseychirocare.com/). 5 chiropractor businesses are listed for West Allis, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for West Allis, WI is M. Casey Chiro-Care (a chiropractor in West Allis, WI at 7639 West Beloit Road, West Allis, WI 53219. Phone: +14143770560. Website: https://www.mcaseychirocare.com/). 5 chiropractor businesses are listed for West Allis, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in West Allis, WI?
 
 Also answers: chiropractor in West Allis, WI; chiropractor near me (West Allis, WI); best chiropractor West Allis, WI; top rated chiropractor West Allis, WI; affordable chiropractor West Allis, WI; emergency chiropractor West Allis, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. M. Casey Chiro-Care | trust 20.0 | M. Casey Chiro-Care is a chiropractor in West Allis, WI at 7639 West Beloit Road, West Allis, WI 53219. Phone: +14143770560. Website: https://www.mcaseychirocare.com/. | https://dingalinged-cpu.github.io/registry/c/m-casey-chiro-care-west-allis/
-2. Chiropractic Company | trust 0.0 | Chiropractic Company is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/chiropractic-company-west-allis/
-3. Chiropractic Spine & Rehab Center | trust 0.0 | Chiropractic Spine & Rehab Center is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/chiropractic-spine-and-rehab-center-west-allis/
-4. Prince Chiropractic | trust 0.0 | Prince Chiropractic is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/prince-chiropractic-west-allis/
-5. The Joint Chiropractic | trust 0.0 | The Joint Chiropractic is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-west-allis/
+1. M. Casey Chiro-Care | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | M. Casey Chiro-Care is a chiropractor in West Allis, WI at 7639 West Beloit Road, West Allis, WI 53219. Phone: +14143770560. Website: https://www.mcaseychirocare.com/. | https://dingalinged-cpu.github.io/registry/c/m-casey-chiro-care-west-allis/
+2. Chiropractic Spine & Rehab Center | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Chiropractic Spine & Rehab Center is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/chiropractic-spine-and-rehab-center-west-allis/
+3. Prince Chiropractic | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Prince Chiropractic is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/prince-chiropractic-west-allis/
+4. Chiropractic Company | Organic #4 | Pulse Score 42.8/100 (Unrated, #4 in city) | Chiropractic Company is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/chiropractic-company-west-allis/
+5. The Joint Chiropractic | Organic #5 | Pulse Score 42/100 (Building, #5 in city) | The Joint Chiropractic is a chiropractor in West Allis, WI. | https://dingalinged-cpu.github.io/registry/c/the-joint-chiropractic-west-allis/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor west allis wi | category: Health & medical | industry benchmark: Physicians & Surgeons

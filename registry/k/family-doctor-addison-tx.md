@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for Addison, TX is Texas Health Breeze Urgent Care Clinic (a family medicine practice in Addison, TX at 4135 Belt Line Road, Addison, TX 75001. Phone: +14694959126. Website: https://breeze.care.texashealth.org/Locations/urgent-care-belt-line-addison). 1 family doctor businesses are listed for Addison, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for Addison, TX is Texas Health Breeze Urgent Care Clinic (a family medicine practice in Addison, TX at 4135 Belt Line Road, Addison, TX 75001. Phone: +14694959126. Website: https://breeze.care.texashealth.org/Locations/urgent-care-belt-line-addison). 1 family doctor businesses are listed for Addison, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in Addison, TX?
 
 Also answers: family doctor in Addison, TX; family doctor near me (Addison, TX); best family doctor Addison, TX; top rated family doctor Addison, TX; affordable family doctor Addison, TX; emergency family doctor Addison, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Health Breeze Urgent Care Clinic | trust 20.0 | Texas Health Breeze Urgent Care Clinic is a family medicine practice in Addison, TX at 4135 Belt Line Road, Addison, TX 75001. Phone: +14694959126. Website: https://breeze.care.texashealth.org/Locations/urgent-care-belt-line-addison. | https://dingalinged-cpu.github.io/registry/c/texas-health-breeze-urgent-care-clinic-addison/
+1. Texas Health Breeze Urgent Care Clinic | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Texas Health Breeze Urgent Care Clinic is a family medicine practice in Addison, TX at 4135 Belt Line Road, Addison, TX 75001. Phone: +14694959126. Website: https://breeze.care.texashealth.org/Locations/urgent-care-belt-line-addison. | https://dingalinged-cpu.github.io/registry/c/texas-health-breeze-urgent-care-clinic-addison/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor addison tx | category: Health & medical | industry benchmark: Physicians & Surgeons

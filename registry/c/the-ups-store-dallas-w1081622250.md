@@ -13,7 +13,7 @@ The UPS Store is a printing service in Dallas, TX at 1408 North Riverfront Boule
 - Website: https://locations.theupsstore.com/tx/dallas/1408-n-riverfront-blvd
 - Email: store6554@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:30; Sa 10:00-16:00
-- Registry Score: 55/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.4/100 — Fair — top 24% of printing services in Dallas–Fort Worth, #5 of 20 printing services in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

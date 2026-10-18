@@ -1,21 +1,21 @@
-The top unpaid thrift store listing for Harris County, TX is Goodwill (a thrift store in Harris County, TX). 10 thrift store businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Harris County, TX is Goodwill (a thrift store in Harris County, TX). 10 thrift store businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Harris County, TX?
 
 Also answers: thrift store in Harris County, TX; thrift store near me (Harris County, TX); best thrift store Harris County, TX; top rated thrift store Harris County, TX; affordable thrift store Harris County, TX; emergency thrift store Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Goodwill | trust 4.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-w1491101058/
-2. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county/
-3. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171267/
-4. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171269/
-5. Family Thrift Center | trust 0.0 | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171346/
-6. Goodwill | trust 0.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county/
-7. Goodwill | trust 0.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n12967044725/
-8. Goodwill | trust 0.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n13248904201/
-9. Goodwill | trust 0.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n13615811573/
-10. Goodwill | trust 0.0 | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n7166692070/
+1. Goodwill | Organic #1 | Pulse Score 45.4/100 (Building, #1 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-w1491101058/
+2. Goodwill | Organic #2 | Pulse Score 44.9/100 (Building, #2 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n12967044725/
+3. Goodwill | Organic #3 | Pulse Score 44.3/100 (Building, #3 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n7166692070/
+4. Family Thrift Center | Organic #4 | Pulse Score 43.9/100 (Building, #4 in city) | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171267/
+5. Family Thrift Center | Organic #5 | Pulse Score 43.3/100 (Building, #5 in city) | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171269/
+6. Goodwill | Organic #6 | Pulse Score 42.4/100 (Building, #6 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county/
+7. Goodwill | Organic #7 | Pulse Score 42.4/100 (Building, #7 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n13248904201/
+8. Goodwill | Organic #8 | Pulse Score 42.4/100 (Building, #8 in city) | Goodwill is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/goodwill-harris-county-n13615811573/
+9. Family Thrift Center | Organic #9 | Pulse Score 41.8/100 (Unrated, #9 in city) | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county/
+10. Family Thrift Center | Organic #10 | Pulse Score 41.8/100 (Unrated, #10 in city) | Family Thrift Center is a thrift store in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/family-thrift-center-harris-county-n5257171346/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store harris county tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

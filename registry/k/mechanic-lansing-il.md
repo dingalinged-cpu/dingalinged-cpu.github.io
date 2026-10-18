@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Lansing, IL is Firestone (an auto repair shop in Lansing, IL at 17001 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/). 5 mechanic businesses are listed for Lansing, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Lansing, IL is Firestone (an auto repair shop in Lansing, IL at 17001 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/). 5 mechanic businesses are listed for Lansing, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Lansing, IL?
 
 Also answers: mechanic in Lansing, IL; mechanic near me (Lansing, IL); best mechanic Lansing, IL; top rated mechanic Lansing, IL; affordable mechanic Lansing, IL; emergency mechanic Lansing, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Firestone | trust 10.0 | Firestone is an auto repair shop in Lansing, IL at 17001 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/. | https://dingalinged-cpu.github.io/registry/c/firestone-lansing/
-2. Jiffy Lube | trust 10.0 | Jiffy Lube is an auto repair shop in Lansing, IL at 17803 Torrence Avenue, Lansing, IL 60438. Website: https://www.jiffylube.com/locations/il/lansing/173. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lansing/
-3. Pep Boys | trust 10.0 | Pep Boys is an auto repair shop in Lansing, IL at 17015 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lansing/
-4. Car-X | trust 4.0 | Car-X is an auto repair shop in Lansing, IL at 17065 Torrence Avenue, Lansing, IL 60438. | https://dingalinged-cpu.github.io/registry/c/car-x-lansing/
-5. Phillips Chevrolet of Lansing | trust 4.0 | Phillips Chevrolet of Lansing is an auto repair shop in Lansing, IL at 17730 Torrence Avenue, Lansing, IL 60438. | https://dingalinged-cpu.github.io/registry/c/phillips-chevrolet-of-lansing-lansing/
+1. Firestone | Organic #1 | Pulse Score 47.1/100 (Building, #1 in city) | Firestone is an auto repair shop in Lansing, IL at 17001 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/. | https://dingalinged-cpu.github.io/registry/c/firestone-lansing/
+2. Jiffy Lube | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Jiffy Lube is an auto repair shop in Lansing, IL at 17803 Torrence Avenue, Lansing, IL 60438. Website: https://www.jiffylube.com/locations/il/lansing/173. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-lansing/
+3. Pep Boys | Organic #3 | Pulse Score 46.8/100 (Building, #3 in city) | Pep Boys is an auto repair shop in Lansing, IL at 17015 Torrence Avenue, Lansing, IL 60438. Website: https://www.firestonecompleteautocare.com/illinois/lansing/17001-torrence-ave/. | https://dingalinged-cpu.github.io/registry/c/pep-boys-lansing/
+4. Car-X | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Car-X is an auto repair shop in Lansing, IL at 17065 Torrence Avenue, Lansing, IL 60438. | https://dingalinged-cpu.github.io/registry/c/car-x-lansing/
+5. Phillips Chevrolet of Lansing | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Phillips Chevrolet of Lansing is an auto repair shop in Lansing, IL at 17730 Torrence Avenue, Lansing, IL 60438. | https://dingalinged-cpu.github.io/registry/c/phillips-chevrolet-of-lansing-lansing/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic lansing il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

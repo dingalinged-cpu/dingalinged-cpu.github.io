@@ -13,7 +13,7 @@ Cat Amewsement is a pet store in Saint Paul, MN at 102 North Sibley Street, Sain
 - Website: https://www.catamewsement.com/
 - Email: n/a
 - Opening hours (OSM syntax): We-Su 12:00-18:00
-- Registry Score: 56.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.4/100 — Unrated (not enough evidence yet) — top 13% of pet stores in Minneapolis–St. Paul, #3 of 9 pet stores in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.8, Trust 49.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

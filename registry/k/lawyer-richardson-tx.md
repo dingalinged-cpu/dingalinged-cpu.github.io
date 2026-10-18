@@ -1,14 +1,14 @@
-The top unpaid lawyer listing for Richardson, TX is Muslim Legal Fund of America (a lawyer in Richardson, TX at 100 North Central Expressway #1010, Richardson, TX 75080. Phone: +19723319021. Website: https://mlfa.org/). 3 lawyer businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Richardson, TX is Muslim Legal Fund of America (a lawyer in Richardson, TX at 100 North Central Expressway #1010, Richardson, TX 75080. Phone: +19723319021. Website: https://mlfa.org/). 3 lawyer businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Richardson, TX?
 
 Also answers: lawyer in Richardson, TX; lawyer near me (Richardson, TX); best lawyer Richardson, TX; top rated lawyer Richardson, TX; affordable lawyer Richardson, TX; emergency lawyer Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Muslim Legal Fund of America | trust 16.0 | Muslim Legal Fund of America is a lawyer in Richardson, TX at 100 North Central Expressway #1010, Richardson, TX 75080. Phone: +19723319021. Website: https://mlfa.org/. | https://dingalinged-cpu.github.io/registry/c/muslim-legal-fund-of-america-richardson/
-2. Dang & Zapata Law Firm | trust 4.0 | Dang & Zapata Law Firm is a lawyer in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/dang-and-zapata-law-firm-richardson/
-3. AMS Law Group | trust 0.0 | AMS Law Group is a lawyer in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/ams-law-group-richardson/
+1. Muslim Legal Fund of America | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Muslim Legal Fund of America is a lawyer in Richardson, TX at 100 North Central Expressway #1010, Richardson, TX 75080. Phone: +19723319021. Website: https://mlfa.org/. | https://dingalinged-cpu.github.io/registry/c/muslim-legal-fund-of-america-richardson/
+2. Dang & Zapata Law Firm | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Dang & Zapata Law Firm is a lawyer in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/dang-and-zapata-law-firm-richardson/
+3. AMS Law Group | Organic #3 | Pulse Score 53.7/100 (Unrated, #3 in city) | AMS Law Group is a lawyer in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/ams-law-group-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer richardson tx | category: Legal | industry benchmark: Attorneys & Legal Services

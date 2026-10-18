@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Lake County, IN is Speedy Wash (a car wash in Lake County, IN). 1 car wash businesses are listed for Lake County, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lake County, IN is Speedy Wash (a car wash in Lake County, IN). 1 car wash businesses are listed for Lake County, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lake County, IN?
 
 Also answers: car wash in Lake County, IN; car wash near me (Lake County, IN); best car wash Lake County, IN; top rated car wash Lake County, IN; affordable car wash Lake County, IN; emergency car wash Lake County, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Lake County, IN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-lake-county/
+1. Speedy Wash | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Speedy Wash is a car wash in Lake County, IN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-lake-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lake county in | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,13 +1,13 @@
-The top unpaid chiropractor listing for Sandy Springs, GA is Vivicare Wellness Center (a chiropractor in Atlanta, GA at 4920 Roswell Road #39, Atlanta, GA 30342. Phone: +14049631913. Website: https://vivicarewellness.com/). 2 chiropractor businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Sandy Springs, GA is Vivicare Wellness Center (a chiropractor in Atlanta, GA at 4920 Roswell Road #39, Atlanta, GA 30342. Phone: +14049631913. Website: https://vivicarewellness.com/). 2 chiropractor businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Sandy Springs, GA?
 
 Also answers: chiropractor in Sandy Springs, GA; chiropractor near me (Sandy Springs, GA); best chiropractor Sandy Springs, GA; top rated chiropractor Sandy Springs, GA; affordable chiropractor Sandy Springs, GA; emergency chiropractor Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Vivicare Wellness Center | trust 20.0 | Vivicare Wellness Center is a chiropractor in Atlanta, GA at 4920 Roswell Road #39, Atlanta, GA 30342. Phone: +14049631913. Website: https://vivicarewellness.com/. | https://dingalinged-cpu.github.io/registry/c/vivicare-wellness-center-atlanta/
-2. Levinson Chiropractic | trust 4.0 | Levinson Chiropractic is a chiropractor in Atlanta, GA at 5457 Roswell Road #102, Atlanta, GA 30342. | https://dingalinged-cpu.github.io/registry/c/levinson-chiropractic-atlanta/
+1. Vivicare Wellness Center | Organic #1 | Pulse Score 60.7/100 (Unrated, #8 in city) | Vivicare Wellness Center is a chiropractor in Atlanta, GA at 4920 Roswell Road #39, Atlanta, GA 30342. Phone: +14049631913. Website: https://vivicarewellness.com/. | https://dingalinged-cpu.github.io/registry/c/vivicare-wellness-center-atlanta/
+2. Levinson Chiropractic | Organic #2 | Pulse Score 55.2/100 (Unrated, #17 in city) | Levinson Chiropractic is a chiropractor in Atlanta, GA at 5457 Roswell Road #102, Atlanta, GA 30342. | https://dingalinged-cpu.github.io/registry/c/levinson-chiropractic-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor sandy springs ga | category: Health & medical | industry benchmark: Physicians & Surgeons

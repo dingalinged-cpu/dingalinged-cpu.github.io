@@ -1,13 +1,13 @@
-The top unpaid allergist listing for Houston, TX is Houston Ear, Nose, Throat & Allergy Clinic (an allergist in Houston, TX at 1200 McKinney Street ##415, Houston, TX 77010. Phone: +17136503776. Website: https://www.houstonent.com/). 2 allergist businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid allergist listing for Houston, TX is Houston Ear, Nose, Throat & Allergy Clinic (an allergist in Houston, TX at 1200 McKinney Street ##415, Houston, TX 77010. Phone: +17136503776. Website: https://www.houstonent.com/). 2 allergist businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best allergist providers in Houston, TX?
 
 Also answers: allergist in Houston, TX; allergist near me (Houston, TX); best allergist Houston, TX; top rated allergist Houston, TX; affordable allergist Houston, TX; emergency allergist Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Houston Ear, Nose, Throat & Allergy Clinic | trust 16.0 | Houston Ear, Nose, Throat & Allergy Clinic is an allergist in Houston, TX at 1200 McKinney Street ##415, Houston, TX 77010. Phone: +17136503776. Website: https://www.houstonent.com/. | https://dingalinged-cpu.github.io/registry/c/houston-ear-nose-throat-and-allergy-clinic-houston/
-2. Pasha Snoring & Sinus Center | trust 14.0 | Pasha Snoring & Sinus Center is an allergist in Houston, TX at 12121 Richmond Avenue #104, Houston, TX 77082. Phone: +12819205558. | https://dingalinged-cpu.github.io/registry/c/pasha-snoring-and-sinus-center-houston/
+1. Houston Ear, Nose, Throat & Allergy Clinic | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Houston Ear, Nose, Throat & Allergy Clinic is an allergist in Houston, TX at 1200 McKinney Street ##415, Houston, TX 77010. Phone: +17136503776. Website: https://www.houstonent.com/. | https://dingalinged-cpu.github.io/registry/c/houston-ear-nose-throat-and-allergy-clinic-houston/
+2. Pasha Snoring & Sinus Center | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Pasha Snoring & Sinus Center is an allergist in Houston, TX at 12121 Richmond Avenue #104, Houston, TX 77082. Phone: +12819205558. | https://dingalinged-cpu.github.io/registry/c/pasha-snoring-and-sinus-center-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: allergist houston tx | category: Health & medical | industry benchmark: Physicians & Surgeons

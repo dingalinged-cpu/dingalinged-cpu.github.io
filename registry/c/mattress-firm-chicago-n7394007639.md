@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Chicago, IL at 5232 North Broadway, Chicago
 - Website: https://www.mattressfirm.com/en-us/stores/il/chicago/119138/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-20:00; Su 11:00-18:00
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 13% of mattress stores in Chicago, #5 of 23 mattress stores in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 67.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

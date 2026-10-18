@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Glenview, IL is Willow Liquors (a liquor store in Northbrook, IL at 2657 Shermer Road, Northbrook, IL 60062. Phone: +18472727060). 1 liquor store businesses are listed for Glenview, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Glenview, IL is Willow Liquors (a liquor store in Northbrook, IL at 2657 Shermer Road, Northbrook, IL 60062. Phone: +18472727060). 1 liquor store businesses are listed for Glenview, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Glenview, IL?
 
 Also answers: liquor store in Glenview, IL; liquor store near me (Glenview, IL); best liquor store Glenview, IL; top rated liquor store Glenview, IL; affordable liquor store Glenview, IL; emergency liquor store Glenview, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Willow Liquors | trust 10.0 | Willow Liquors is a liquor store in Northbrook, IL at 2657 Shermer Road, Northbrook, IL 60062. Phone: +18472727060. | https://dingalinged-cpu.github.io/registry/c/willow-liquors-northbrook/
+1. Willow Liquors | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Willow Liquors is a liquor store in Northbrook, IL at 2657 Shermer Road, Northbrook, IL 60062. Phone: +18472727060. | https://dingalinged-cpu.github.io/registry/c/willow-liquors-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store glenview il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,12 +1,12 @@
-The top unpaid tattoo shop listing for Webster, TX is Electrified Tattoo (a tattoo shop in Webster, TX at 803 East NASA Parkway #156, Webster, TX). 1 tattoo shop businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Webster, TX is Electrified Tattoo (a tattoo shop in Webster, TX at 803 East NASA Parkway #156, Webster, TX). 1 tattoo shop businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Webster, TX?
 
 Also answers: tattoo shop in Webster, TX; tattoo shop near me (Webster, TX); best tattoo shop Webster, TX; top rated tattoo shop Webster, TX; affordable tattoo shop Webster, TX; emergency tattoo shop Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Electrified Tattoo | trust 3.0 | Electrified Tattoo is a tattoo shop in Webster, TX at 803 East NASA Parkway #156, Webster, TX. | https://dingalinged-cpu.github.io/registry/c/electrified-tattoo-webster/
+1. Electrified Tattoo | Organic #1 | Pulse Score 56.5/100 (Unrated, #1 in city) | Electrified Tattoo is a tattoo shop in Webster, TX at 803 East NASA Parkway #156, Webster, TX. | https://dingalinged-cpu.github.io/registry/c/electrified-tattoo-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop webster tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

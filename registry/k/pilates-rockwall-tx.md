@@ -1,13 +1,13 @@
-The top unpaid pilates listing for Rockwall, TX is Club Pilates (a pilates studio in Rockwall, TX at 3301 North Goliad Street #103, Rockwall, TX 75087. Phone: +14697187787. Website: https://www.clubpilates.com/DaltonCorners). 2 pilates businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Rockwall, TX is Studio State Pilates (a pilates studio in Rockwall, TX at 702 South Clark Street, Rockwall, TX 75087. Website: https://www.statepilates.com/). 2 pilates businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Rockwall, TX?
 
 Also answers: pilates in Rockwall, TX; pilates near me (Rockwall, TX); best pilates Rockwall, TX; top rated pilates Rockwall, TX; affordable pilates Rockwall, TX; emergency pilates Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | trust 20.0 | Club Pilates is a pilates studio in Rockwall, TX at 3301 North Goliad Street #103, Rockwall, TX 75087. Phone: +14697187787. Website: https://www.clubpilates.com/DaltonCorners. | https://dingalinged-cpu.github.io/registry/c/club-pilates-rockwall/
-2. Studio State Pilates | trust 10.0 | Studio State Pilates is a pilates studio in Rockwall, TX at 702 South Clark Street, Rockwall, TX 75087. Website: https://www.statepilates.com/. | https://dingalinged-cpu.github.io/registry/c/studio-state-pilates-rockwall/
+1. Studio State Pilates | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Studio State Pilates is a pilates studio in Rockwall, TX at 702 South Clark Street, Rockwall, TX 75087. Website: https://www.statepilates.com/. | https://dingalinged-cpu.github.io/registry/c/studio-state-pilates-rockwall/
+2. Club Pilates | Organic #2 | Pulse Score 49.9/100 (Building, #2 in city) | Club Pilates is a pilates studio in Rockwall, TX at 3301 North Goliad Street #103, Rockwall, TX 75087. Phone: +14697187787. Website: https://www.clubpilates.com/DaltonCorners. | https://dingalinged-cpu.github.io/registry/c/club-pilates-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates rockwall tx | category: Fitness | industry benchmark: Health & Fitness

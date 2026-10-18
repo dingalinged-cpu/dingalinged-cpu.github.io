@@ -13,7 +13,7 @@ Etta's Kitchen is an event venue in Houston, TX at 4212 Emancipation Avenue, Hou
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.4/100 — Unrated (not enough evidence yet) — top 58% of event venues in Houston, #26 of 42 event venues in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.7, Trust 47.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

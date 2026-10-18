@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Roseville, MN is PetSmart (a pet store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN 55113. Phone: +16516393912. Website: https://www.petsmart.com/stores/us/mn/roseville-store1971.html). 4 pet store businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Roseville, MN is Chuck & Don's (a pet store in Roseville, MN at 1661 West County Road C, Roseville, MN. Phone: +16512870986. Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville). 4 pet store businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Roseville, MN?
 
 Also answers: pet store in Roseville, MN; pet store near me (Roseville, MN); best pet store Roseville, MN; top rated pet store Roseville, MN; affordable pet store Roseville, MN; emergency pet store Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN 55113. Phone: +16516393912. Website: https://www.petsmart.com/stores/us/mn/roseville-store1971.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-roseville/
-2. Chuck & Don's | trust 19.0 | Chuck & Don's is a pet store in Roseville, MN at 1661 West County Road C, Roseville, MN. Phone: +16512870986. Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-roseville/
-3. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-roseville/
-4. Petco | trust 0.0 | Petco is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/petco-roseville/
+1. Chuck & Don's | Organic #1 | Pulse Score 50.2/100 (Fair, #1 in city) | Chuck & Don's is a pet store in Roseville, MN at 1661 West County Road C, Roseville, MN. Phone: +16512870986. Website: https://chuckanddons.com/a/pages/locations/625/chuck-dons-roseville. | https://dingalinged-cpu.github.io/registry/c/chuck-and-dons-roseville/
+2. PetSmart | Organic #2 | Pulse Score 48.5/100 (Building, #2 in city) | PetSmart is a pet store in Roseville, MN at 2480 Fairview Avenue North, Roseville, MN 55113. Phone: +16516393912. Website: https://www.petsmart.com/stores/us/mn/roseville-store1971.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-roseville/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 41.7/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-roseville/
+4. Petco | Organic #4 | Pulse Score 41.7/100 (Building, #4 in city) | Petco is a pet store in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/petco-roseville/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store roseville mn | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

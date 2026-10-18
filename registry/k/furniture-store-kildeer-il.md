@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Kildeer, IL is JVS Furniture (a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, IL 60047. Phone: +18473201159. Website: https://jvsfurniture.com/). 1 furniture store businesses are listed for Kildeer, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Kildeer, IL is JVS Furniture (a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, IL 60047. Phone: +18473201159. Website: https://jvsfurniture.com/). 1 furniture store businesses are listed for Kildeer, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Kildeer, IL?
 
 Also answers: furniture store in Kildeer, IL; furniture store near me (Kildeer, IL); best furniture store Kildeer, IL; top rated furniture store Kildeer, IL; affordable furniture store Kildeer, IL; emergency furniture store Kildeer, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JVS Furniture | trust 20.0 | JVS Furniture is a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, IL 60047. Phone: +18473201159. Website: https://jvsfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/jvs-furniture-kildeer/
+1. JVS Furniture | Organic #1 | Pulse Score 64.1/100 (Unrated, #1 in city) | JVS Furniture is a furniture store in Kildeer, IL at 20771 Rand Road, Kildeer, IL 60047. Phone: +18473201159. Website: https://jvsfurniture.com/. | https://dingalinged-cpu.github.io/registry/c/jvs-furniture-kildeer/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store kildeer il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

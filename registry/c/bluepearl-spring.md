@@ -13,7 +13,7 @@ BluePearl is a veterinarian in Spring, TX at 1646 Spring Cypress Road, Spring, T
 - Website: https://bluepearlvet.com/hospital/spring-tx/
 - Email: info.spring@bluepearlvet.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.6/100 — Building — top 86% of veterinarians in Houston, #3 of 4 veterinarians in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

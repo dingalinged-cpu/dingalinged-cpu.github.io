@@ -1,16 +1,16 @@
-The top unpaid jewelry store listing for Roswell, GA is Arte d'Oro Diamonds (a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/). 5 jewelry store businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Roswell, GA is Jason Guven Fine Jewelry (a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762). 5 jewelry store businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Roswell, GA?
 
 Also answers: jewelry store in Roswell, GA; jewelry store near me (Roswell, GA); best jewelry store Roswell, GA; top rated jewelry store Roswell, GA; affordable jewelry store Roswell, GA; emergency jewelry store Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Arte d'Oro Diamonds | trust 16.0 | Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/. | https://dingalinged-cpu.github.io/registry/c/arte-doro-diamonds-alpharetta/
-2. Jason Guven Fine Jewelry | trust 13.0 | Jason Guven Fine Jewelry is a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762. | https://dingalinged-cpu.github.io/registry/c/jason-guven-fine-jewelry-roswell/
-3. Beads | trust 10.0 | Beads is a jewelry store in Roswell, GA at 10800 Alpharetta Highway #Suite 184, Roswell, GA 30076. Phone: +14706324795. | https://dingalinged-cpu.github.io/registry/c/beads-roswell/
-4. Capetown Diamond | trust 9.0 | Capetown Diamond is a jewelry store in Roswell, GA at 270 East Crossville Road, Roswell, GA. Website: https://capetownstore.com/. | https://dingalinged-cpu.github.io/registry/c/capetown-diamond-roswell/
-5. Meridian Diamond Co. | trust 7.0 | Meridian Diamond Co. is a jewelry store in Roswell, GA at Holcomb Bridge Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/meridian-diamond-co-roswell/
+1. Jason Guven Fine Jewelry | Organic #1 | Pulse Score 61.7/100 (Good, #1 in city) | Jason Guven Fine Jewelry is a jewelry store in Roswell, GA at 1327 Holcomb Bridge Road, Roswell, GA. Phone: +17705598762. | https://dingalinged-cpu.github.io/registry/c/jason-guven-fine-jewelry-roswell/
+2. Capetown Diamond | Organic #2 | Pulse Score 60.6/100 (Good, #2 in city) | Capetown Diamond is a jewelry store in Roswell, GA at 270 East Crossville Road, Roswell, GA. Website: https://capetownstore.com/. | https://dingalinged-cpu.github.io/registry/c/capetown-diamond-roswell/
+3. Arte d'Oro Diamonds | Organic #3 | Pulse Score 60.4/100 (Unrated, #1 in city) | Arte d'Oro Diamonds is a jewelry store in Alpharetta, GA at 8400 Holcomb Bridge Road #420, Alpharetta, GA 30022. Phone: +14047495222. Website: https://www.artedorodiamondsinc.com/. | https://dingalinged-cpu.github.io/registry/c/arte-doro-diamonds-alpharetta/
+4. Beads | Organic #4 | Pulse Score 58.8/100 (Unrated, #3 in city) | Beads is a jewelry store in Roswell, GA at 10800 Alpharetta Highway #Suite 184, Roswell, GA 30076. Phone: +14706324795. | https://dingalinged-cpu.github.io/registry/c/beads-roswell/
+5. Meridian Diamond Co. | Organic #5 | Pulse Score 58.3/100 (Unrated, #4 in city) | Meridian Diamond Co. is a jewelry store in Roswell, GA at Holcomb Bridge Road, Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/meridian-diamond-co-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store roswell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

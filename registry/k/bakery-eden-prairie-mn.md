@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Eden Prairie, MN is Keefer Court Bakery (a bakery in Eden Prairie, MN). 1 bakery businesses are listed for Eden Prairie, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Eden Prairie, MN is Keefer Court Bakery (a bakery in Eden Prairie, MN). 1 bakery businesses are listed for Eden Prairie, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Eden Prairie, MN?
 
 Also answers: bakery in Eden Prairie, MN; bakery near me (Eden Prairie, MN); best bakery Eden Prairie, MN; top rated bakery Eden Prairie, MN; affordable bakery Eden Prairie, MN; emergency bakery Eden Prairie, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Keefer Court Bakery | trust 0.0 | Keefer Court Bakery is a bakery in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/keefer-court-bakery-eden-prairie/
+1. Keefer Court Bakery | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Keefer Court Bakery is a bakery in Eden Prairie, MN. | https://dingalinged-cpu.github.io/registry/c/keefer-court-bakery-eden-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery eden prairie mn | category: Events & weddings | industry benchmark: Personal Services

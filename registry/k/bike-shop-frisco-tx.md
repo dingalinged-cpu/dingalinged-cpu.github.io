@@ -1,13 +1,13 @@
-The top unpaid bike shop listing for Frisco, TX is Richardson Bike Mart (a bike shop in Frisco, TX at 8820 John Hickman Parkway, Frisco, TX. Phone: +19723357600. Website: https://www.bikemart.com/). 2 bike shop businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Frisco, TX is Richardson Bike Mart (a bike shop in Frisco, TX at 8820 John Hickman Parkway, Frisco, TX. Phone: +19723357600. Website: https://www.bikemart.com/). 2 bike shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Frisco, TX?
 
 Also answers: bike shop in Frisco, TX; bike shop near me (Frisco, TX); best bike shop Frisco, TX; top rated bike shop Frisco, TX; affordable bike shop Frisco, TX; emergency bike shop Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Richardson Bike Mart | trust 19.0 | Richardson Bike Mart is a bike shop in Frisco, TX at 8820 John Hickman Parkway, Frisco, TX. Phone: +19723357600. Website: https://www.bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/richardson-bike-mart-frisco/
-2. Bike Mart | trust 13.0 | Bike Mart is a bike shop in Frisco, TX at 16702 Hollyhock Road #100, Frisco, TX. Website: https://bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-frisco/
+1. Richardson Bike Mart | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | Richardson Bike Mart is a bike shop in Frisco, TX at 8820 John Hickman Parkway, Frisco, TX. Phone: +19723357600. Website: https://www.bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/richardson-bike-mart-frisco/
+2. Bike Mart | Organic #2 | Pulse Score 44.7/100 (Unrated, #2 in city) | Bike Mart is a bike shop in Frisco, TX at 16702 Hollyhock Road #100, Frisco, TX. Website: https://bikemart.com/. | https://dingalinged-cpu.github.io/registry/c/bike-mart-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop frisco tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

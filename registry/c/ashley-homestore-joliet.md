@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Joliet, IL at 3200 Mall Loop Drive, Jol
 - Website: https://stores.ashleyfurniture.com/store/us/illinois/joliet/7710000149/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 54% of furniture stores in Chicago, #2 of 5 furniture stores in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

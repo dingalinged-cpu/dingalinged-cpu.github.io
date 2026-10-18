@@ -13,7 +13,7 @@ PMI Property Pros is a property management company in Milwaukee, WI at 6114 West
 - Website: https://www.propertyprospropertymanagementinc.com/
 - Email: tong@pmipropertypros.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:00; Sa,Su off
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 22% of property management companys in Milwaukee, #2 of 8 property management companys in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.4, Trust 61.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

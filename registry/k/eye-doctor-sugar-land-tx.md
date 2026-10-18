@@ -1,15 +1,15 @@
-The top unpaid eye doctor listing for Sugar Land, TX is Eyecare Experts (an eye care practice in Sugar Land, TX). 4 eye doctor businesses are listed for Sugar Land, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Sugar Land, TX is Memorial Eye Optometrists (an eye care practice in Sugar Land, TX). 4 eye doctor businesses are listed for Sugar Land, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Sugar Land, TX?
 
 Also answers: eye doctor in Sugar Land, TX; eye doctor near me (Sugar Land, TX); best eye doctor Sugar Land, TX; top rated eye doctor Sugar Land, TX; affordable eye doctor Sugar Land, TX; emergency eye doctor Sugar Land, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eyecare Experts | trust 4.0 | Eyecare Experts is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/eyecare-experts-sugar-land/
-2. Memorial Eye Optometrists | trust 4.0 | Memorial Eye Optometrists is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/memorial-eye-optometrists-sugar-land/
-3. Texas State Optical | trust 4.0 | Texas State Optical is an eye care practice in Sugar Land, TX at 18851 University Boulevard #220, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-sugar-land/
-4. Houston Eye Professionals | trust 0.0 | Houston Eye Professionals is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/houston-eye-professionals-sugar-land/
+1. Memorial Eye Optometrists | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Memorial Eye Optometrists is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/memorial-eye-optometrists-sugar-land/
+2. Eyecare Experts | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | Eyecare Experts is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/eyecare-experts-sugar-land/
+3. Houston Eye Professionals | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Houston Eye Professionals is an eye care practice in Sugar Land, TX. | https://dingalinged-cpu.github.io/registry/c/houston-eye-professionals-sugar-land/
+4. Texas State Optical | Organic #4 | Pulse Score 44.5/100 (Unrated, #4 in city) | Texas State Optical is an eye care practice in Sugar Land, TX at 18851 University Boulevard #220, Sugar Land, TX 77479. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-sugar-land/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor sugar land tx | category: Health & medical | industry benchmark: Physicians & Surgeons

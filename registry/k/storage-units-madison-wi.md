@@ -1,17 +1,17 @@
-The top unpaid storage units listing for Madison, WI is Point Self-Stor (a self-storage facility in Madison, WI at 3690 Commerce Drive, Madison, WI 53719. Phone: +16088339090. Website: https://pointselfstor.com/). 6 storage units businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Madison, WI is West Washington Self Storage (a self-storage facility in Madison, WI at 615 West Washington Avenue, Madison, WI 53703. Website: https://www.selfstoragemadison.com/). 6 storage units businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Madison, WI?
 
 Also answers: storage units in Madison, WI; storage units near me (Madison, WI); best storage units Madison, WI; top rated storage units Madison, WI; affordable storage units Madison, WI; emergency storage units Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Point Self-Stor | trust 16.0 | Point Self-Stor is a self-storage facility in Madison, WI at 3690 Commerce Drive, Madison, WI 53719. Phone: +16088339090. Website: https://pointselfstor.com/. | https://dingalinged-cpu.github.io/registry/c/point-self-stor-madison/
-2. West Washington Self Storage | trust 14.0 | West Washington Self Storage is a self-storage facility in Madison, WI at 615 West Washington Avenue, Madison, WI 53703. Website: https://www.selfstoragemadison.com/. | https://dingalinged-cpu.github.io/registry/c/west-washington-self-storage-madison/
-3. Madison Verona Self Storage | trust 8.0 | Madison Verona Self Storage is a self-storage facility in Madison, WI at 4201 Mapel Grove Dr., Madison, WI 52719. | https://dingalinged-cpu.github.io/registry/c/madison-verona-self-storage-madison/
-4. StorQuest | trust 4.0 | StorQuest is a self-storage facility in Madison, WI at 2602 Shopko Drive, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/storquest-madison/
-5. Freeport Road Self Storage | trust 0.0 | Freeport Road Self Storage is a self-storage facility in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/freeport-road-self-storage-madison/
-6. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/u-haul-madison/
+1. West Washington Self Storage | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | West Washington Self Storage is a self-storage facility in Madison, WI at 615 West Washington Avenue, Madison, WI 53703. Website: https://www.selfstoragemadison.com/. | https://dingalinged-cpu.github.io/registry/c/west-washington-self-storage-madison/
+2. Point Self-Stor | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Point Self-Stor is a self-storage facility in Madison, WI at 3690 Commerce Drive, Madison, WI 53719. Phone: +16088339090. Website: https://pointselfstor.com/. | https://dingalinged-cpu.github.io/registry/c/point-self-stor-madison/
+3. Madison Verona Self Storage | Organic #3 | Pulse Score 58.8/100 (Unrated, #3 in city) | Madison Verona Self Storage is a self-storage facility in Madison, WI at 4201 Mapel Grove Dr., Madison, WI 52719. | https://dingalinged-cpu.github.io/registry/c/madison-verona-self-storage-madison/
+4. Freeport Road Self Storage | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Freeport Road Self Storage is a self-storage facility in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/freeport-road-self-storage-madison/
+5. StorQuest | Organic #5 | Pulse Score 45.1/100 (Building, #5 in city) | StorQuest is a self-storage facility in Madison, WI at 2602 Shopko Drive, Madison, WI 53704. | https://dingalinged-cpu.github.io/registry/c/storquest-madison/
+6. U-Haul | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | U-Haul is a self-storage facility in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/u-haul-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units madison wi | category: Home services - Moving | industry benchmark: Home & Home Improvement

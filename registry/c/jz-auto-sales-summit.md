@@ -13,7 +13,7 @@ JZ Auto Sales is an used car dealer in Summit, IL at 6158 South Harlem Avenue, S
 - Website: https://www.jzautosale.net/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 56.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.3/100 — Unrated (not enough evidence yet) — top 20% of used car dealers in Chicago, #1 of 1 used car dealers in Summit (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.3, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

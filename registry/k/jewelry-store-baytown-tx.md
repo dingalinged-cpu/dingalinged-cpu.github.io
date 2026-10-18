@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Baytown, TX is James Avery Jewelry (a jewelry store in Baytown, TX at 6405 Garth Road #150, Baytown, TX 77521. Phone: +18328066033. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=856). 1 jewelry store businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Baytown, TX is James Avery Jewelry (a jewelry store in Baytown, TX at 6405 Garth Road #150, Baytown, TX 77521. Phone: +18328066033. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=856). 1 jewelry store businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Baytown, TX?
 
 Also answers: jewelry store in Baytown, TX; jewelry store near me (Baytown, TX); best jewelry store Baytown, TX; top rated jewelry store Baytown, TX; affordable jewelry store Baytown, TX; emergency jewelry store Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. James Avery Jewelry | trust 20.0 | James Avery Jewelry is a jewelry store in Baytown, TX at 6405 Garth Road #150, Baytown, TX 77521. Phone: +18328066033. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=856. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-baytown/
+1. James Avery Jewelry | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | James Avery Jewelry is a jewelry store in Baytown, TX at 6405 Garth Road #150, Baytown, TX 77521. Phone: +18328066033. Website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=856. | https://dingalinged-cpu.github.io/registry/c/james-avery-jewelry-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store baytown tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

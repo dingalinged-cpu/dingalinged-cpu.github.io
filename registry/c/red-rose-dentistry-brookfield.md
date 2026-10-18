@@ -13,7 +13,7 @@ Red Rose Dentistry is a dentist in Brookfield, WI at 12780 West North Avenue #Su
 - Website: https://redrosedentistry.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:30-17:00; Fr 08:30-14:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Unrated (not enough evidence yet) — top 24% of dentists in Milwaukee, #1 of 6 dentists in Brookfield (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

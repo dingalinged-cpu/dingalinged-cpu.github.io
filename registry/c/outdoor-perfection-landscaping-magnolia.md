@@ -13,7 +13,7 @@ Outdoor Perfection Landscaping is a landscaping company in Magnolia, TX at 27612
 - Website: https://oplawns.com/
 - Email: contact@oplawns.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.2/100 — Unrated (not enough evidence yet) — top 17% of landscaping companys in Houston, #1 of 2 landscaping companys in Magnolia (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.2, Trust 66.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

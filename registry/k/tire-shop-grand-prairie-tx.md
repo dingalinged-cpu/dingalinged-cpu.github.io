@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Grand Prairie, TX is Discount Tire Company (a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362). 2 tire shop businesses are listed for Grand Prairie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Grand Prairie, TX is Discount Tire Company (a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362). 2 tire shop businesses are listed for Grand Prairie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Grand Prairie, TX?
 
 Also answers: tire shop in Grand Prairie, TX; tire shop near me (Grand Prairie, TX); best tire shop Grand Prairie, TX; top rated tire shop Grand Prairie, TX; affordable tire shop Grand Prairie, TX; emergency tire shop Grand Prairie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire Company | trust 14.0 | Discount Tire Company is a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362. | https://dingalinged-cpu.github.io/registry/c/discount-tire-company-grand-prairie/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Grand Prairie, TX at 2505 I 20 Frontage Road, Grand Prairie, TX 75052. Phone: +19726023385. | https://dingalinged-cpu.github.io/registry/c/discount-tire-grand-prairie/
+1. Discount Tire Company | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Discount Tire Company is a tire shop in Grand Prairie, TX at 130 West Pioneer Parkway, Grand Prairie, TX 75051. Phone: +19722649362. | https://dingalinged-cpu.github.io/registry/c/discount-tire-company-grand-prairie/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Grand Prairie, TX at 2505 I 20 Frontage Road, Grand Prairie, TX 75052. Phone: +19726023385. | https://dingalinged-cpu.github.io/registry/c/discount-tire-grand-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop grand prairie tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

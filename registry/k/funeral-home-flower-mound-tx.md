@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Flower Mound, TX is Flower Mound Family Funeral Home (a funeral home in Flower Mound, TX at 3550 Firewheel Drive, Flower Mound, TX 75028. Phone: +19724366513. Website: https://www.flowermoundfuneralhome.com/). 1 funeral home businesses are listed for Flower Mound, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Flower Mound, TX is Flower Mound Family Funeral Home (a funeral home in Flower Mound, TX at 3550 Firewheel Drive, Flower Mound, TX 75028. Phone: +19724366513. Website: https://www.flowermoundfuneralhome.com/). 1 funeral home businesses are listed for Flower Mound, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Flower Mound, TX?
 
 Also answers: funeral home in Flower Mound, TX; funeral home near me (Flower Mound, TX); best funeral home Flower Mound, TX; top rated funeral home Flower Mound, TX; affordable funeral home Flower Mound, TX; emergency funeral home Flower Mound, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flower Mound Family Funeral Home | trust 16.0 | Flower Mound Family Funeral Home is a funeral home in Flower Mound, TX at 3550 Firewheel Drive, Flower Mound, TX 75028. Phone: +19724366513. Website: https://www.flowermoundfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/flower-mound-family-funeral-home-flower-mound/
+1. Flower Mound Family Funeral Home | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Flower Mound Family Funeral Home is a funeral home in Flower Mound, TX at 3550 Firewheel Drive, Flower Mound, TX 75028. Phone: +19724366513. Website: https://www.flowermoundfuneralhome.com/. | https://dingalinged-cpu.github.io/registry/c/flower-mound-family-funeral-home-flower-mound/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home flower mound tx | category: Professional & financial services | industry benchmark: Finance & Insurance

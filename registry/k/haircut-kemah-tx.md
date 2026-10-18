@@ -1,13 +1,13 @@
-The top unpaid haircut listing for Kemah, TX is Haircrafters (a hair salon in Kemah, TX at 924 FM518, Kemah, TX 77565. Phone: +12815384222. Website: https://www.haircraftersstudio.com/). 2 haircut businesses are listed for Kemah, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Kemah, TX is Haircrafters (a hair salon in Kemah, TX at 924 FM518, Kemah, TX 77565. Phone: +12815384222. Website: https://www.haircraftersstudio.com/). 2 haircut businesses are listed for Kemah, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Kemah, TX?
 
 Also answers: haircut in Kemah, TX; haircut near me (Kemah, TX); best haircut Kemah, TX; top rated haircut Kemah, TX; affordable haircut Kemah, TX; emergency haircut Kemah, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Haircrafters | trust 20.0 | Haircrafters is a hair salon in Kemah, TX at 924 FM518, Kemah, TX 77565. Phone: +12815384222. Website: https://www.haircraftersstudio.com/. | https://dingalinged-cpu.github.io/registry/c/haircrafters-kemah/
-2. Supercuts | trust 0.0 | Supercuts is a hair salon in Kemah, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-kemah/
+1. Haircrafters | Organic #1 | Pulse Score 62.2/100 (Unrated, #1 in city) | Haircrafters is a hair salon in Kemah, TX at 924 FM518, Kemah, TX 77565. Phone: +12815384222. Website: https://www.haircraftersstudio.com/. | https://dingalinged-cpu.github.io/registry/c/haircrafters-kemah/
+2. Supercuts | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Supercuts is a hair salon in Kemah, TX. | https://dingalinged-cpu.github.io/registry/c/supercuts-kemah/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut kemah tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,14 +1,14 @@
-The top unpaid attorney listing for Dunwoody, GA is Jackson Hagood Injury Lawyers (a lawyer in Atlanta, GA at 900 Ashwood Parkway #170, Atlanta, GA 30338. Phone: +16783355555. Website: https://www.jhinjurylawyers.com/). 3 attorney businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Dunwoody, GA is Jackson Hagood Injury Lawyers (a lawyer in Atlanta, GA at 900 Ashwood Parkway #170, Atlanta, GA 30338. Phone: +16783355555. Website: https://www.jhinjurylawyers.com/). 3 attorney businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Dunwoody, GA?
 
 Also answers: attorney in Dunwoody, GA; attorney near me (Dunwoody, GA); best attorney Dunwoody, GA; top rated attorney Dunwoody, GA; affordable attorney Dunwoody, GA; emergency attorney Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jackson Hagood Injury Lawyers | trust 20.0 | Jackson Hagood Injury Lawyers is a lawyer in Atlanta, GA at 900 Ashwood Parkway #170, Atlanta, GA 30338. Phone: +16783355555. Website: https://www.jhinjurylawyers.com/. | https://dingalinged-cpu.github.io/registry/c/jackson-hagood-injury-lawyers-atlanta/
-2. Prieto, DelCampo, Lopez & Marigliano LLC (PDLM Law) | trust 4.0 | Prieto, DelCampo, Lopez & Marigliano LLC (PDLM Law) is a lawyer in Dunwoody, GA at 1555 Mount Vernon Road, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody/
-3. Weinstock Immigration Lawyers | trust 4.0 | Weinstock Immigration Lawyers is a lawyer in Atlanta, GA at 1827 Independence Square, Atlanta, GA 30338. | https://dingalinged-cpu.github.io/registry/c/weinstock-immigration-lawyers-atlanta/
+1. Jackson Hagood Injury Lawyers | Organic #1 | Pulse Score 62.5/100 (Unrated, #3 in city) | Jackson Hagood Injury Lawyers is a lawyer in Atlanta, GA at 900 Ashwood Parkway #170, Atlanta, GA 30338. Phone: +16783355555. Website: https://www.jhinjurylawyers.com/. | https://dingalinged-cpu.github.io/registry/c/jackson-hagood-injury-lawyers-atlanta/
+2. Prieto, DelCampo, Lopez & Marigliano LLC (PDLM Law) | Organic #2 | Pulse Score 54.8/100 (Unrated, #1 in city) | Prieto, DelCampo, Lopez & Marigliano LLC (PDLM Law) is a lawyer in Dunwoody, GA at 1555 Mount Vernon Road, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/prieto-delcampo-lopez-and-marigliano-llc-pdlm-law-dunwoody/
+3. Weinstock Immigration Lawyers | Organic #3 | Pulse Score 54.8/100 (Unrated, #43 in city) | Weinstock Immigration Lawyers is a lawyer in Atlanta, GA at 1827 Independence Square, Atlanta, GA 30338. | https://dingalinged-cpu.github.io/registry/c/weinstock-immigration-lawyers-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney dunwoody ga | category: professional_legal | industry benchmark: Attorneys & Legal Services

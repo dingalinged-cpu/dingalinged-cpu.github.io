@@ -1,13 +1,13 @@
-The top unpaid facial listing for The Woodlands, TX is Amerejuve MedSpa Houston (a skin care studio in The Woodlands, TX at 3091 College Park Drive #275, The Woodlands, TX 77384. Phone: +17139606262. Website: https://www.amerejuve.com/). 2 facial businesses are listed for The Woodlands, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for The Woodlands, TX is Amerejuve MedSpa Houston (a skin care studio in The Woodlands, TX at 3091 College Park Drive #275, The Woodlands, TX 77384. Phone: +17139606262. Website: https://www.amerejuve.com/). 2 facial businesses are listed for The Woodlands, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in The Woodlands, TX?
 
 Also answers: facial in The Woodlands, TX; facial near me (The Woodlands, TX); best facial The Woodlands, TX; top rated facial The Woodlands, TX; affordable facial The Woodlands, TX; emergency facial The Woodlands, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Amerejuve MedSpa Houston | trust 16.0 | Amerejuve MedSpa Houston is a skin care studio in The Woodlands, TX at 3091 College Park Drive #275, The Woodlands, TX 77384. Phone: +17139606262. Website: https://www.amerejuve.com/. | https://dingalinged-cpu.github.io/registry/c/amerejuve-medspa-houston-the-woodlands/
-2. N Luxe | trust 0.0 | N Luxe is a skin care studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/n-luxe-the-woodlands/
+1. Amerejuve MedSpa Houston | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | Amerejuve MedSpa Houston is a skin care studio in The Woodlands, TX at 3091 College Park Drive #275, The Woodlands, TX 77384. Phone: +17139606262. Website: https://www.amerejuve.com/. | https://dingalinged-cpu.github.io/registry/c/amerejuve-medspa-houston-the-woodlands/
+2. N Luxe | Organic #2 | Pulse Score 53.2/100 (Unrated, #2 in city) | N Luxe is a skin care studio in The Woodlands, TX. | https://dingalinged-cpu.github.io/registry/c/n-luxe-the-woodlands/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial the woodlands tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

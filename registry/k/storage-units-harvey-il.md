@@ -1,13 +1,13 @@
-The top unpaid storage units listing for Harvey, IL is CubeSmart (a self-storage facility in Harvey, IL at 16731 Halsted Street, Harvey, IL 60426). 2 storage units businesses are listed for Harvey, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Harvey, IL is CubeSmart (a self-storage facility in Harvey, IL at 16731 Halsted Street, Harvey, IL 60426). 2 storage units businesses are listed for Harvey, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Harvey, IL?
 
 Also answers: storage units in Harvey, IL; storage units near me (Harvey, IL); best storage units Harvey, IL; top rated storage units Harvey, IL; affordable storage units Harvey, IL; emergency storage units Harvey, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CubeSmart | trust 4.0 | CubeSmart is a self-storage facility in Harvey, IL at 16731 Halsted Street, Harvey, IL 60426. | https://dingalinged-cpu.github.io/registry/c/cubesmart-harvey/
-2. Pods | trust 4.0 | Pods is a self-storage facility in Phoenix, IL at 15230 Halsted Street, Phoenix, IL 60426. | https://dingalinged-cpu.github.io/registry/c/pods-phoenix/
+1. CubeSmart | Organic #1 | Pulse Score 43.6/100 (Building, #1 in city) | CubeSmart is a self-storage facility in Harvey, IL at 16731 Halsted Street, Harvey, IL 60426. | https://dingalinged-cpu.github.io/registry/c/cubesmart-harvey/
+2. Pods | Organic #2 | Pulse Score 43.6/100 (Building, #1 in city) | Pods is a self-storage facility in Phoenix, IL at 15230 Halsted Street, Phoenix, IL 60426. | https://dingalinged-cpu.github.io/registry/c/pods-phoenix/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units harvey il | category: Home services - Moving | industry benchmark: Home & Home Improvement

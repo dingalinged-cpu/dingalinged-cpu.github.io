@@ -1,13 +1,13 @@
-The top unpaid auto repair listing for West Milwaukee, WI is Auto Doc (an auto repair shop in West Milwaukee, WI at 3802 West Greenfield Avenue, West Milwaukee, WI 53215. Phone: +14146470204). 2 auto repair businesses are listed for West Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for West Milwaukee, WI is Auto Doc (an auto repair shop in West Milwaukee, WI at 3802 West Greenfield Avenue, West Milwaukee, WI 53215. Phone: +14146470204). 2 auto repair businesses are listed for West Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in West Milwaukee, WI?
 
 Also answers: auto repair in West Milwaukee, WI; auto repair near me (West Milwaukee, WI); best auto repair West Milwaukee, WI; top rated auto repair West Milwaukee, WI; affordable auto repair West Milwaukee, WI; emergency auto repair West Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Auto Doc | trust 10.0 | Auto Doc is an auto repair shop in West Milwaukee, WI at 3802 West Greenfield Avenue, West Milwaukee, WI 53215. Phone: +14146470204. | https://dingalinged-cpu.github.io/registry/c/auto-doc-west-milwaukee/
-2. Variety Auto Inc. | trust 0.0 | Variety Auto Inc. is an auto repair shop in West Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/variety-auto-inc-west-milwaukee/
+1. Auto Doc | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Auto Doc is an auto repair shop in West Milwaukee, WI at 3802 West Greenfield Avenue, West Milwaukee, WI 53215. Phone: +14146470204. | https://dingalinged-cpu.github.io/registry/c/auto-doc-west-milwaukee/
+2. Variety Auto Inc. | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Variety Auto Inc. is an auto repair shop in West Milwaukee, WI. | https://dingalinged-cpu.github.io/registry/c/variety-auto-inc-west-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair west milwaukee wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

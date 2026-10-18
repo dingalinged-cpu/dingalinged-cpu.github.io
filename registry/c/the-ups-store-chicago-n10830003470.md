@@ -13,7 +13,7 @@ The UPS Store is a printing service in Chicago, IL at 6351 West Montrose Avenue,
 - Website: https://locations.theupsstore.com/il/chicago/6351-w-montrose
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-18:30; Sa 08:00-16:00; Su 10:00-15:00
-- Registry Score: 51.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 21% of printing services in Chicago, #15 of 67 printing services in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.9, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

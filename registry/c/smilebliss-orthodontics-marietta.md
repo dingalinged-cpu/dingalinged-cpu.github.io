@@ -13,7 +13,7 @@ Smilebliss Orthodontics is a dentist in Marietta, GA at 2100 Roswell Road #1108,
 - Website: https://smilebliss.com/bliss-locations/georgia/marietta/
 - Email: info@smilebliss.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 9% of dentists in Atlanta, #8 of 25 dentists in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 55.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

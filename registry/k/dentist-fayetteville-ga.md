@@ -1,20 +1,20 @@
-The top unpaid dentist listing for Fayetteville, GA is Tailored Smiles Family Dentistry (a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214). 9 dentist businesses are listed for Fayetteville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fayetteville, GA is Tailored Smiles Family Dentistry (a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214). 9 dentist businesses are listed for Fayetteville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fayetteville, GA?
 
 Also answers: dentist in Fayetteville, GA; dentist near me (Fayetteville, GA); best dentist Fayetteville, GA; top rated dentist Fayetteville, GA; affordable dentist Fayetteville, GA; emergency dentist Fayetteville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tailored Smiles Family Dentistry | trust 4.0 | Tailored Smiles Family Dentistry is a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214. | https://dingalinged-cpu.github.io/registry/c/tailored-smiles-family-dentistry-fayetteville/
-2. Dental One Associates | trust 0.0 | Dental One Associates is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dental-one-associates-fayetteville/
-3. Dreamworks Dental Care | trust 0.0 | Dreamworks Dental Care is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-care-fayetteville/
-4. Eaglin Dental Group | trust 0.0 | Eaglin Dental Group is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/eaglin-dental-group-fayetteville/
-5. Fayette Family Dental | trust 0.0 | Fayette Family Dental is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-family-dental-fayetteville/
-6. Fayette Orthodontics | trust 0.0 | Fayette Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-orthodontics-fayetteville/
-7. Great Expressions Dental Center | trust 0.0 | Great Expressions Dental Center is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/great-expressions-dental-center-fayetteville/
-8. Jeff Davis Dental & Orthodontics | trust 0.0 | Jeff Davis Dental & Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/jeff-davis-dental-and-orthodontics-fayetteville/
-9. South OMS | trust 0.0 | South OMS is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/south-oms-fayetteville/
+1. Tailored Smiles Family Dentistry | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Tailored Smiles Family Dentistry is a dentist in Fayetteville, GA at 155 Carnegie Place #201, Fayetteville, GA 30214. | https://dingalinged-cpu.github.io/registry/c/tailored-smiles-family-dentistry-fayetteville/
+2. Dental One Associates | Organic #2 | Pulse Score 54.4/100 (Unrated, #2 in city) | Dental One Associates is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dental-one-associates-fayetteville/
+3. Dreamworks Dental Care | Organic #3 | Pulse Score 54.4/100 (Unrated, #3 in city) | Dreamworks Dental Care is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/dreamworks-dental-care-fayetteville/
+4. Eaglin Dental Group | Organic #4 | Pulse Score 54.4/100 (Unrated, #4 in city) | Eaglin Dental Group is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/eaglin-dental-group-fayetteville/
+5. Fayette Family Dental | Organic #5 | Pulse Score 54.4/100 (Unrated, #5 in city) | Fayette Family Dental is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-family-dental-fayetteville/
+6. Fayette Orthodontics | Organic #6 | Pulse Score 54.4/100 (Unrated, #6 in city) | Fayette Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/fayette-orthodontics-fayetteville/
+7. Jeff Davis Dental & Orthodontics | Organic #7 | Pulse Score 54.4/100 (Unrated, #7 in city) | Jeff Davis Dental & Orthodontics is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/jeff-davis-dental-and-orthodontics-fayetteville/
+8. South OMS | Organic #8 | Pulse Score 54.4/100 (Unrated, #8 in city) | South OMS is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/south-oms-fayetteville/
+9. Great Expressions Dental Center | Organic #9 | Pulse Score 41.7/100 (Unrated, #9 in city) | Great Expressions Dental Center is a dentist in Fayetteville, GA. | https://dingalinged-cpu.github.io/registry/c/great-expressions-dental-center-fayetteville/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fayetteville ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

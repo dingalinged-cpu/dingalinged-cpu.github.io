@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Richmond, TX is Discount Tire (a tire shop in Richmond, TX at 5757 West Grand Parkway South, Richmond, TX 77407. Phone: +12812323283). 2 tire shop businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Richmond, TX is Competitive Tire (a tire shop in Richmond, TX). 2 tire shop businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Richmond, TX?
 
 Also answers: tire shop in Richmond, TX; tire shop near me (Richmond, TX); best tire shop Richmond, TX; top rated tire shop Richmond, TX; affordable tire shop Richmond, TX; emergency tire shop Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Richmond, TX at 5757 West Grand Parkway South, Richmond, TX 77407. Phone: +12812323283. | https://dingalinged-cpu.github.io/registry/c/discount-tire-richmond/
-2. Competitive Tire | trust 0.0 | Competitive Tire is a tire shop in Richmond, TX. | https://dingalinged-cpu.github.io/registry/c/competitive-tire-richmond/
+1. Competitive Tire | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Competitive Tire is a tire shop in Richmond, TX. | https://dingalinged-cpu.github.io/registry/c/competitive-tire-richmond/
+2. Discount Tire | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Discount Tire is a tire shop in Richmond, TX at 5757 West Grand Parkway South, Richmond, TX 77407. Phone: +12812323283. | https://dingalinged-cpu.github.io/registry/c/discount-tire-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop richmond tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

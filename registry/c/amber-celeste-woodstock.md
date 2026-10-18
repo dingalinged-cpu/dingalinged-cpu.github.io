@@ -13,7 +13,7 @@ Amber Celeste is a yoga studio in Woodstock, GA at 2340 Towne Lake Parkway, Wood
 - Website: n/a
 - Email: amberceleste72@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Good — top 38% of yoga studios in Atlanta, #2 of 2 yoga studios in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 52.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

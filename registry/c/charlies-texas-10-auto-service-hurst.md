@@ -13,7 +13,7 @@ Charlie's Texas 10 Auto Service is an auto repair shop in Hurst, TX. Phone: +181
 - Website: https://www.charliestexas10autoservice.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00, Sa 08:00-14:00
-- Registry Score: 60.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 12% of auto repair shops in Dallas–Fort Worth, #5 of 14 auto repair shops in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.7, Trust 57.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

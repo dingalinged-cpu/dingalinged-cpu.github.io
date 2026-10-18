@@ -1,12 +1,12 @@
-The top unpaid massage listing for Saint Paul Park, MN is No Knots Massage and Bodywork (a massage studio in Saint Paul Park, MN). 1 massage businesses are listed for Saint Paul Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Saint Paul Park, MN is No Knots Massage and Bodywork (a massage studio in Saint Paul Park, MN). 1 massage businesses are listed for Saint Paul Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Saint Paul Park, MN?
 
 Also answers: massage in Saint Paul Park, MN; massage near me (Saint Paul Park, MN); best massage Saint Paul Park, MN; top rated massage Saint Paul Park, MN; affordable massage Saint Paul Park, MN; emergency massage Saint Paul Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. No Knots Massage and Bodywork | trust 0.0 | No Knots Massage and Bodywork is a massage studio in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/no-knots-massage-and-bodywork-saint-paul-park/
+1. No Knots Massage and Bodywork | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | No Knots Massage and Bodywork is a massage studio in Saint Paul Park, MN. | https://dingalinged-cpu.github.io/registry/c/no-knots-massage-and-bodywork-saint-paul-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage saint paul park mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

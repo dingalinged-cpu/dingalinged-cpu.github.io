@@ -13,7 +13,7 @@ The Joint Chiropractic is a chiropractor in Chicago, IL at 2711 North Elston Ave
 - Website: https://www.thejoint.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-17:00; Sa-Su 10:00-16:00
-- Registry Score: 50.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 89% of chiropractors in Chicago, #15 of 18 chiropractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.3, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Irving, TX is Joan's Self Services Car Wash and Mr Wizard's Auto Wash (a car wash in Irving, TX at 2111 North O'Connor Road, Irving, TX 75062. Phone: +12145969729). 3 car wash businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Irving, TX is Mi-T-Fine Car Wash (a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062). 3 car wash businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Irving, TX?
 
 Also answers: car wash in Irving, TX; car wash near me (Irving, TX); best car wash Irving, TX; top rated car wash Irving, TX; affordable car wash Irving, TX; emergency car wash Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joan's Self Services Car Wash and Mr Wizard's Auto Wash | trust 10.0 | Joan's Self Services Car Wash and Mr Wizard's Auto Wash is a car wash in Irving, TX at 2111 North O'Connor Road, Irving, TX 75062. Phone: +12145969729. | https://dingalinged-cpu.github.io/registry/c/joans-self-services-car-wash-and-mr-wizards-auto-wash-irving/
-2. Mi-T-Fine Car Wash | trust 8.0 | Mi-T-Fine Car Wash is a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/mi-t-fine-car-wash-irving/
-3. WhiteWater Express Car Wash | trust 4.0 | WhiteWater Express Car Wash is a car wash in Irving, TX at 8440 North Belt Line Road, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-irving/
+1. Mi-T-Fine Car Wash | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Mi-T-Fine Car Wash is a car wash in Irving, TX at 3311 North Belt Line Road, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/mi-t-fine-car-wash-irving/
+2. Joan's Self Services Car Wash and Mr Wizard's Auto Wash | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | Joan's Self Services Car Wash and Mr Wizard's Auto Wash is a car wash in Irving, TX at 2111 North O'Connor Road, Irving, TX 75062. Phone: +12145969729. | https://dingalinged-cpu.github.io/registry/c/joans-self-services-car-wash-and-mr-wizards-auto-wash-irving/
+3. WhiteWater Express Car Wash | Organic #3 | Pulse Score 46.4/100 (Unrated, #3 in city) | WhiteWater Express Car Wash is a car wash in Irving, TX at 8440 North Belt Line Road, Irving, TX 75063. | https://dingalinged-cpu.github.io/registry/c/whitewater-express-car-wash-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash irving tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

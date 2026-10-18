@@ -1,18 +1,18 @@
-The top unpaid hair salon listing for Douglasville, GA is Patricia Esumei (a hair salon in Douglasville, GA at 1125 Rocky Ridge Blvd, Douglasville, GA 30134. Phone: +14047046354. Website: https://patriciaesumei.com/). 7 hair salon businesses are listed for Douglasville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Douglasville, GA is Patricia Esumei (a hair salon in Douglasville, GA at 1125 Rocky Ridge Blvd, Douglasville, GA 30134. Phone: +14047046354. Website: https://patriciaesumei.com/). 7 hair salon businesses are listed for Douglasville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Douglasville, GA?
 
 Also answers: hair salon in Douglasville, GA; hair salon near me (Douglasville, GA); best hair salon Douglasville, GA; top rated hair salon Douglasville, GA; affordable hair salon Douglasville, GA; emergency hair salon Douglasville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Patricia Esumei | trust 20.0 | Patricia Esumei is a hair salon in Douglasville, GA at 1125 Rocky Ridge Blvd, Douglasville, GA 30134. Phone: +14047046354. Website: https://patriciaesumei.com/. | https://dingalinged-cpu.github.io/registry/c/patricia-esumei-douglasville/
-2. Fantastic Sams | trust 0.0 | Fantastic Sams is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-douglasville/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-douglasville/
-4. Great Clips | trust 0.0 | Great Clips is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-douglasville-n9324678998/
-5. Hair Blendz | trust 0.0 | Hair Blendz is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/hair-blendz-douglasville/
-6. HD Salon | trust 0.0 | HD Salon is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/hd-salon-douglasville/
-7. Shear Magic Salon | trust 0.0 | Shear Magic Salon is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/shear-magic-salon-douglasville/
+1. Patricia Esumei | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Patricia Esumei is a hair salon in Douglasville, GA at 1125 Rocky Ridge Blvd, Douglasville, GA 30134. Phone: +14047046354. Website: https://patriciaesumei.com/. | https://dingalinged-cpu.github.io/registry/c/patricia-esumei-douglasville/
+2. Hair Blendz | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Hair Blendz is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/hair-blendz-douglasville/
+3. HD Salon | Organic #3 | Pulse Score 54.8/100 (Unrated, #3 in city) | HD Salon is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/hd-salon-douglasville/
+4. Shear Magic Salon | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Shear Magic Salon is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/shear-magic-salon-douglasville/
+5. Fantastic Sams | Organic #5 | Pulse Score 42.6/100 (Building, #5 in city) | Fantastic Sams is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/fantastic-sams-douglasville/
+6. Great Clips | Organic #6 | Pulse Score 42.3/100 (Building, #6 in city) | Great Clips is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-douglasville/
+7. Great Clips | Organic #7 | Pulse Score 42.3/100 (Building, #7 in city) | Great Clips is a hair salon in Douglasville, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-douglasville-n9324678998/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon douglasville ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

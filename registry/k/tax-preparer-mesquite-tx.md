@@ -1,17 +1,17 @@
-The top unpaid tax preparer listing for Mesquite, TX is C & R Tax (a tax preparation service in Mesquite, TX at 1830 Range Drive #111, Mesquite, TX 75149). 6 tax preparer businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Mesquite, TX is C & R Tax (a tax preparation service in Mesquite, TX at 1830 Range Drive #111, Mesquite, TX 75149). 6 tax preparer businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Mesquite, TX?
 
 Also answers: tax preparer in Mesquite, TX; tax preparer near me (Mesquite, TX); best tax preparer Mesquite, TX; top rated tax preparer Mesquite, TX; affordable tax preparer Mesquite, TX; emergency tax preparer Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. C & R Tax | trust 4.0 | C & R Tax is a tax preparation service in Mesquite, TX at 1830 Range Drive #111, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/c-and-r-tax-mesquite/
-2. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Mesquite, TX at 500 North Galloway Avenue #58, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-mesquite/
-3. H&R Block | trust 4.0 | H&R Block is a tax preparation service in Mesquite, TX at 3333 Gus Thomasson Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-mesquite-n8014079161/
-4. MsQueen1040 Tax Service | trust 4.0 | MsQueen1040 Tax Service is a tax preparation service in Mesquite, TX at 1820 Hillcrest Street #C, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/msqueen1040-tax-service-mesquite/
-5. Tax Genius | trust 4.0 | Tax Genius is a tax preparation service in Mesquite, TX at 3522 Gus Thomasson Road #112, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/tax-genius-mesquite/
-6. Tax Services | trust 4.0 | Tax Services is a tax preparation service in Mesquite, TX at 2033 Military Parkway #99A, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/tax-services-mesquite/
+1. C & R Tax | Organic #1 | Pulse Score 57.3/100 (Unrated, #1 in city) | C & R Tax is a tax preparation service in Mesquite, TX at 1830 Range Drive #111, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/c-and-r-tax-mesquite/
+2. MsQueen1040 Tax Service | Organic #2 | Pulse Score 57.3/100 (Unrated, #2 in city) | MsQueen1040 Tax Service is a tax preparation service in Mesquite, TX at 1820 Hillcrest Street #C, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/msqueen1040-tax-service-mesquite/
+3. Tax Genius | Organic #3 | Pulse Score 57.3/100 (Unrated, #3 in city) | Tax Genius is a tax preparation service in Mesquite, TX at 3522 Gus Thomasson Road #112, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/tax-genius-mesquite/
+4. H&R Block | Organic #4 | Pulse Score 44.7/100 (Building, #4 in city) | H&R Block is a tax preparation service in Mesquite, TX at 3333 Gus Thomasson Road, Mesquite, TX 75150. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-mesquite-n8014079161/
+5. H&R Block | Organic #5 | Pulse Score 44.5/100 (Unrated, #5 in city) | H&R Block is a tax preparation service in Mesquite, TX at 500 North Galloway Avenue #58, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-mesquite/
+6. Tax Services | Organic #6 | Pulse Score 44.5/100 (Unrated, #6 in city) | Tax Services is a tax preparation service in Mesquite, TX at 2033 Military Parkway #99A, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/tax-services-mesquite/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer mesquite tx | category: professional_accounting | industry benchmark: Business Services

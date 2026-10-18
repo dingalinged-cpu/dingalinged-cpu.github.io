@@ -1,12 +1,12 @@
-The top unpaid graphic designer listing for Town Of Rutland, WI is The Virtual Foundry (a graphic designer in Stoughton, WI at 1471 US HWY 51, Stoughton, WI 53589. Phone: +16085097146. Website: https://thevirtualfoundry.com/). 1 graphic designer businesses are listed for Town Of Rutland, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for Town Of Rutland, WI is The Virtual Foundry (a graphic designer in Stoughton, WI at 1471 US HWY 51, Stoughton, WI 53589. Phone: +16085097146. Website: https://thevirtualfoundry.com/). 1 graphic designer businesses are listed for Town Of Rutland, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in Town Of Rutland, WI?
 
 Also answers: graphic designer in Town Of Rutland, WI; graphic designer near me (Town Of Rutland, WI); best graphic designer Town Of Rutland, WI; top rated graphic designer Town Of Rutland, WI; affordable graphic designer Town Of Rutland, WI; emergency graphic designer Town Of Rutland, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Virtual Foundry | trust 20.0 | The Virtual Foundry is a graphic designer in Stoughton, WI at 1471 US HWY 51, Stoughton, WI 53589. Phone: +16085097146. Website: https://thevirtualfoundry.com/. | https://dingalinged-cpu.github.io/registry/c/the-virtual-foundry-stoughton/
+1. The Virtual Foundry | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | The Virtual Foundry is a graphic designer in Stoughton, WI at 1471 US HWY 51, Stoughton, WI 53589. Phone: +16085097146. Website: https://thevirtualfoundry.com/. | https://dingalinged-cpu.github.io/registry/c/the-virtual-foundry-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer town of rutland wi | category: professional_marketing | industry benchmark: Business Services

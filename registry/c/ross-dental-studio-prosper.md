@@ -13,7 +13,7 @@ Ross Dental Studio is a dentist in Prosper, TX at 2111 East University Drive #20
 - Website: https://rossdentalstudio.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.6/100 — Unrated (not enough evidence yet) — top 17% of dentists in Dallas–Fort Worth, #2 of 5 dentists in Prosper (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 59.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

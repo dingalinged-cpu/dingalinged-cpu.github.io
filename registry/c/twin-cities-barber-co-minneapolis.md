@@ -13,7 +13,7 @@ Twin Cities Barber Co is a hair salon in Minneapolis, MN at 3745 Bloomington Ave
 - Website: https://tcbarberco.com/
 - Email: tcbarberco@gmail.com
 - Opening hours (OSM syntax): Mo 10:00-18:00; Tu-Th 08:00-18:30; Fr 08:00-18:30; Sa 08:00-16:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of hair salons in Minneapolis–St. Paul, #3 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 62.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

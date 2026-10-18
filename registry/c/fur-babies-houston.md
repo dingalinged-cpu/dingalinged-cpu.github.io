@@ -13,7 +13,7 @@ Fur Babies is a pet store in Houston, TX at 1303 Kingwood Drive, Houston, TX 773
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Fr 09:00-19:00; Sa 09:00-18:00; Su-Mo 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53.4/100 — Unrated (not enough evidence yet) — top 16% of pet stores in Houston, #7 of 43 pet stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.6, Trust 46.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

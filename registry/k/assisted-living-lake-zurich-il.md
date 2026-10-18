@@ -1,14 +1,14 @@
-The top unpaid assisted living listing for Lake Zurich, IL is Avantara (an assisted living facility in Lake Zurich, IL). 3 assisted living businesses are listed for Lake Zurich, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Lake Zurich, IL is Avantara (an assisted living facility in Lake Zurich, IL). 3 assisted living businesses are listed for Lake Zurich, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Lake Zurich, IL?
 
 Also answers: assisted living in Lake Zurich, IL; assisted living near me (Lake Zurich, IL); best assisted living Lake Zurich, IL; top rated assisted living Lake Zurich, IL; affordable assisted living Lake Zurich, IL; emergency assisted living Lake Zurich, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avantara | trust 0.0 | Avantara is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/
-2. The Auberge | trust 0.0 | The Auberge is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/the-auberge-lake-zurich/
-3. Zurich Meadows Senior Apartments | trust 0.0 | Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/zurich-meadows-senior-apartments-lake-zurich/
+1. Avantara | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Avantara is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/avantara-lake-zurich/
+2. The Auberge | Organic #2 | Pulse Score 55.1/100 (Unrated, #2 in city) | The Auberge is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/the-auberge-lake-zurich/
+3. Zurich Meadows Senior Apartments | Organic #3 | Pulse Score 55.1/100 (Unrated, #3 in city) | Zurich Meadows Senior Apartments is an assisted living facility in Lake Zurich, IL. | https://dingalinged-cpu.github.io/registry/c/zurich-meadows-senior-apartments-lake-zurich/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living lake zurich il | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

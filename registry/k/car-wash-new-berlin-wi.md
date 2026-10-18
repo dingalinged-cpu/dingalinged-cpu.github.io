@@ -1,14 +1,14 @@
-The top unpaid car wash listing for New Berlin, WI is Kwik Trip (a car wash in New Berlin, WI at 15700 West Small Road, New Berlin, WI 53151. Website: https://www.kwiktrip.com/locator/store?id=499). 3 car wash businesses are listed for New Berlin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for New Berlin, WI is National Car Wash (a car wash in New Berlin, WI at 14967 West National Avenue, New Berlin, WI 53151). 3 car wash businesses are listed for New Berlin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in New Berlin, WI?
 
 Also answers: car wash in New Berlin, WI; car wash near me (New Berlin, WI); best car wash New Berlin, WI; top rated car wash New Berlin, WI; affordable car wash New Berlin, WI; emergency car wash New Berlin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in New Berlin, WI at 15700 West Small Road, New Berlin, WI 53151. Website: https://www.kwiktrip.com/locator/store?id=499. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-new-berlin/
-2. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in New Berlin, WI at 13975 West Cleveland Avenue, New Berlin, WI 53151. Website: https://www.kwiktrip.com/locator/store?id=534. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-new-berlin-w1039747358/
-3. National Car Wash | trust 4.0 | National Car Wash is a car wash in New Berlin, WI at 14967 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/national-car-wash-new-berlin/
+1. National Car Wash | Organic #1 | Pulse Score 56.7/100 (Unrated, #1 in city) | National Car Wash is a car wash in New Berlin, WI at 14967 West National Avenue, New Berlin, WI 53151. | https://dingalinged-cpu.github.io/registry/c/national-car-wash-new-berlin/
+2. Kwik Trip | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Kwik Trip is a car wash in New Berlin, WI at 15700 West Small Road, New Berlin, WI 53151. Website: https://www.kwiktrip.com/locator/store?id=499. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-new-berlin/
+3. Kwik Trip | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | Kwik Trip is a car wash in New Berlin, WI at 13975 West Cleveland Avenue, New Berlin, WI 53151. Website: https://www.kwiktrip.com/locator/store?id=534. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-new-berlin-w1039747358/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash new berlin wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

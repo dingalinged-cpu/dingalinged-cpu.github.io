@@ -13,7 +13,7 @@ Aaron's is a furniture store in Irving, TX. Website: https://locations.aarons.co
 - Website: https://locations.aarons.com/us/tx/irving/3409-n-belt-line-rd-c0167
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-18:00; Su closed
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 64% of furniture stores in Dallas–Fort Worth, #5 of 6 furniture stores in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

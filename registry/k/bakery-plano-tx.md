@@ -1,18 +1,18 @@
-The top unpaid bakery listing for Plano, TX is We're Dough A Lebanese Bakery (a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/). 7 bakery businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Plano, TX is We're Dough A Lebanese Bakery (a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/). 7 bakery businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Plano, TX?
 
 Also answers: bakery in Plano, TX; bakery near me (Plano, TX); best bakery Plano, TX; top rated bakery Plano, TX; affordable bakery Plano, TX; emergency bakery Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. We're Dough A Lebanese Bakery | trust 20.0 | We're Dough A Lebanese Bakery is a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/. | https://dingalinged-cpu.github.io/registry/c/were-dough-a-lebanese-bakery-plano/
-2. EatZi's Market and Bakery | trust 16.0 | EatZi's Market and Bakery is a bakery in Plano, TX. Phone: +19725356305. Website: https://eatzis.com/locations/. | https://dingalinged-cpu.github.io/registry/c/eatzis-market-and-bakery-plano/
-3. Donut Queen | trust 13.0 | Donut Queen is a bakery in Plano, TX at West Plano Parkway #112, Plano, TX. Phone: +19726088987. | https://dingalinged-cpu.github.io/registry/c/donut-queen-plano/
-4. Bread Winners | trust 0.0 | Bread Winners is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/bread-winners-plano/
-5. Sugar Ray's Bake Shop | trust 0.0 | Sugar Ray's Bake Shop is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sugar-rays-bake-shop-plano/
-6. Sweet Hut bakery & cafe | trust 0.0 | Sweet Hut bakery & cafe is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sweet-hut-bakery-and-cafe-plano/
-7. Tous les Jours | trust 0.0 | Tous les Jours is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-plano/
+1. We're Dough A Lebanese Bakery | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | We're Dough A Lebanese Bakery is a bakery in Plano, TX at 3421 East Renner Road #107, Plano, TX 75074. Phone: +12145013587. Website: https://we-re-dough.com/. | https://dingalinged-cpu.github.io/registry/c/were-dough-a-lebanese-bakery-plano/
+2. EatZi's Market and Bakery | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | EatZi's Market and Bakery is a bakery in Plano, TX. Phone: +19725356305. Website: https://eatzis.com/locations/. | https://dingalinged-cpu.github.io/registry/c/eatzis-market-and-bakery-plano/
+3. Donut Queen | Organic #3 | Pulse Score 60.8/100 (Unrated, #3 in city) | Donut Queen is a bakery in Plano, TX at West Plano Parkway #112, Plano, TX. Phone: +19726088987. | https://dingalinged-cpu.github.io/registry/c/donut-queen-plano/
+4. Bread Winners | Organic #4 | Pulse Score 54.5/100 (Unrated, #4 in city) | Bread Winners is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/bread-winners-plano/
+5. Sugar Ray's Bake Shop | Organic #5 | Pulse Score 54.5/100 (Unrated, #5 in city) | Sugar Ray's Bake Shop is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sugar-rays-bake-shop-plano/
+6. Sweet Hut bakery & cafe | Organic #6 | Pulse Score 54.5/100 (Unrated, #6 in city) | Sweet Hut bakery & cafe is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/sweet-hut-bakery-and-cafe-plano/
+7. Tous les Jours | Organic #7 | Pulse Score 43.7/100 (Building, #7 in city) | Tous les Jours is a bakery in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery plano tx | category: Events & weddings | industry benchmark: Personal Services

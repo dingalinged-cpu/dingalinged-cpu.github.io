@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Lemont Township, IL is Hauptman Jewelers (a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/). 1 jewelry store businesses are listed for Lemont Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Lemont Township, IL is Hauptman Jewelers (a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/). 1 jewelry store businesses are listed for Lemont Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Lemont Township, IL?
 
 Also answers: jewelry store in Lemont Township, IL; jewelry store near me (Lemont Township, IL); best jewelry store Lemont Township, IL; top rated jewelry store Lemont Township, IL; affordable jewelry store Lemont Township, IL; emergency jewelry store Lemont Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hauptman Jewelers | trust 16.0 | Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/
+1. Hauptman Jewelers | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Hauptman Jewelers is a jewelry store in Lemont Township, IL at 1052 State Street, Lemont Township, IL 60439. Phone: +16302437744. Website: https://www.hauptmanjewelers.com/. | https://dingalinged-cpu.github.io/registry/c/hauptman-jewelers-lemont-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store lemont township il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

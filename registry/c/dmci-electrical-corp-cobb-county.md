@@ -13,7 +13,7 @@ DMCI Electrical Corp. is an electrician in Cobb County, GA at 1655 Canton Road N
 - Website: https://www.dmcielectric.com/
 - Email: dmcielectrical@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Good — top 47% of electricians in Atlanta, #2 of 2 electricians in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.2, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

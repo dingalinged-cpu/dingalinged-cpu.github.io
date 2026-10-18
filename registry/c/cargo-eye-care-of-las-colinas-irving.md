@@ -13,7 +13,7 @@ Cargo Eye Care of Las Colinas is an eye care practice in Irving, TX at 1135 Kinw
 - Website: https://cargoeyecare.com/
 - Email: office@cargoeyecare.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 65.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Unrated (not enough evidence yet) — top 2% of eye care practices in Dallas–Fort Worth, #1 of 3 eye care practices in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

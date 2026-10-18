@@ -1,14 +1,14 @@
-The top unpaid thrift store listing for Mundelein, IL is Sparrow's Nest (a thrift store in Mundelein, IL at 357 Townline Road, Mundelein, IL 60060. Website: https://hosparrow.org/store/mundelein/). 3 thrift store businesses are listed for Mundelein, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Mundelein, IL is Sparrow's Nest (a thrift store in Mundelein, IL at 357 Townline Road, Mundelein, IL 60060. Website: https://hosparrow.org/store/mundelein/). 3 thrift store businesses are listed for Mundelein, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Mundelein, IL?
 
 Also answers: thrift store in Mundelein, IL; thrift store near me (Mundelein, IL); best thrift store Mundelein, IL; top rated thrift store Mundelein, IL; affordable thrift store Mundelein, IL; emergency thrift store Mundelein, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sparrow's Nest | trust 14.0 | Sparrow's Nest is a thrift store in Mundelein, IL at 357 Townline Road, Mundelein, IL 60060. Website: https://hosparrow.org/store/mundelein/. | https://dingalinged-cpu.github.io/registry/c/sparrows-nest-mundelein/
-2. Goodwill Store & Donation Center | trust 10.0 | Goodwill Store & Donation Center is a thrift store in Mundelein, IL at 761 South Midlothian Road, Mundelein, IL 60060. Phone: +18475660636. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-mundelein/
-3. The Salvation Army | trust 6.0 | The Salvation Army is a thrift store in Mundelein, IL. Phone: +18475660823. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-mundelein/
+1. Sparrow's Nest | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Sparrow's Nest is a thrift store in Mundelein, IL at 357 Townline Road, Mundelein, IL 60060. Website: https://hosparrow.org/store/mundelein/. | https://dingalinged-cpu.github.io/registry/c/sparrows-nest-mundelein/
+2. Goodwill Store & Donation Center | Organic #2 | Pulse Score 46/100 (Unrated, #2 in city) | Goodwill Store & Donation Center is a thrift store in Mundelein, IL at 761 South Midlothian Road, Mundelein, IL 60060. Phone: +18475660636. | https://dingalinged-cpu.github.io/registry/c/goodwill-store-and-donation-center-mundelein/
+3. The Salvation Army | Organic #3 | Pulse Score 45.1/100 (Building, #3 in city) | The Salvation Army is a thrift store in Mundelein, IL. Phone: +18475660823. | https://dingalinged-cpu.github.io/registry/c/the-salvation-army-mundelein/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store mundelein il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

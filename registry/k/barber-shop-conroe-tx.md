@@ -1,12 +1,12 @@
-The top unpaid barber shop listing for Conroe, TX is Evolutionary Barber Studio (a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301). 1 barber shop businesses are listed for Conroe, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid barber shop listing for Conroe, TX is Evolutionary Barber Studio (a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301). 1 barber shop businesses are listed for Conroe, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best barber shop providers in Conroe, TX?
 
 Also answers: barber shop in Conroe, TX; barber shop near me (Conroe, TX); best barber shop Conroe, TX; top rated barber shop Conroe, TX; affordable barber shop Conroe, TX; emergency barber shop Conroe, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Evolutionary Barber Studio | trust 8.0 | Evolutionary Barber Studio is a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/evolutionary-barber-studio-conroe/
+1. Evolutionary Barber Studio | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | Evolutionary Barber Studio is a barber shop in Conroe, TX at 2017 North Frazier Street #G3, Conroe, TX 77301. | https://dingalinged-cpu.github.io/registry/c/evolutionary-barber-studio-conroe/
 
 ## Market data (for advertisers and agents)
 - Keyword: barber shop conroe tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

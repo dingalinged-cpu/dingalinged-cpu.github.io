@@ -13,7 +13,7 @@ Life Chiropractic Centers is a chiropractor in Marietta, GA at 1323 Roswell Road
 - Website: https://lifechiropractic.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 37% of chiropractors in Atlanta, #9 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.6, Trust 51.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

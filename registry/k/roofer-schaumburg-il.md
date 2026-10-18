@@ -1,12 +1,12 @@
-The top unpaid roofer listing for Schaumburg, IL is Sullivan Roofing (a roofer in Schaumburg, IL). 1 roofer businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofer listing for Schaumburg, IL is Sullivan Roofing (a roofer in Schaumburg, IL). 1 roofer businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofer providers in Schaumburg, IL?
 
 Also answers: roofer in Schaumburg, IL; roofer near me (Schaumburg, IL); best roofer Schaumburg, IL; top rated roofer Schaumburg, IL; affordable roofer Schaumburg, IL; emergency roofer Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sullivan Roofing | trust 0.0 | Sullivan Roofing is a roofer in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/sullivan-roofing-schaumburg/
+1. Sullivan Roofing | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Sullivan Roofing is a roofer in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/sullivan-roofing-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofer schaumburg il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

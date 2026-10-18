@@ -13,7 +13,7 @@ RESET Chiropractic and Holistic Health is a chiropractor in Saint Louis Park, MN
 - Website: https://www.resetmn.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.6/100 — Unrated (not enough evidence yet) — top 34% of chiropractors in Minneapolis–St. Paul, #3 of 6 chiropractors in Saint Louis Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.1, Trust 54.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

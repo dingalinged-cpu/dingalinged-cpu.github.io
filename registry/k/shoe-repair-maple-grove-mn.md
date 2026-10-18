@@ -1,12 +1,12 @@
-The top unpaid shoe repair listing for Maple Grove, MN is Heeling Touch (a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Maple Grove, MN 55311. Phone: +17634204131. Website: https://www.heelingtouch.com/). 1 shoe repair businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Maple Grove, MN is Heeling Touch (a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Maple Grove, MN 55311. Phone: +17634204131. Website: https://www.heelingtouch.com/). 1 shoe repair businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Maple Grove, MN?
 
 Also answers: shoe repair in Maple Grove, MN; shoe repair near me (Maple Grove, MN); best shoe repair Maple Grove, MN; top rated shoe repair Maple Grove, MN; affordable shoe repair Maple Grove, MN; emergency shoe repair Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heeling Touch | trust 20.0 | Heeling Touch is a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Maple Grove, MN 55311. Phone: +17634204131. Website: https://www.heelingtouch.com/. | https://dingalinged-cpu.github.io/registry/c/heeling-touch-maple-grove/
+1. Heeling Touch | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Heeling Touch is a shoe repair in Maple Grove, MN at 13565 Grove Drive North, Maple Grove, MN 55311. Phone: +17634204131. Website: https://www.heelingtouch.com/. | https://dingalinged-cpu.github.io/registry/c/heeling-touch-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair maple grove mn | category: Professional & financial services | industry benchmark: Finance & Insurance

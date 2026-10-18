@@ -1,12 +1,12 @@
-The top unpaid massage listing for Fate, TX is Massage Rockwall (a massage studio in Fate, TX at 1170 North King Road, Fate, TX 75189. Phone: +12142234327). 1 massage businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Fate, TX is Massage Rockwall (a massage studio in Fate, TX at 1170 North King Road, Fate, TX 75189. Phone: +12142234327). 1 massage businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Fate, TX?
 
 Also answers: massage in Fate, TX; massage near me (Fate, TX); best massage Fate, TX; top rated massage Fate, TX; affordable massage Fate, TX; emergency massage Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Massage Rockwall | trust 10.0 | Massage Rockwall is a massage studio in Fate, TX at 1170 North King Road, Fate, TX 75189. Phone: +12142234327. | https://dingalinged-cpu.github.io/registry/c/massage-rockwall-fate/
+1. Massage Rockwall | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Massage Rockwall is a massage studio in Fate, TX at 1170 North King Road, Fate, TX 75189. Phone: +12142234327. | https://dingalinged-cpu.github.io/registry/c/massage-rockwall-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage fate tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

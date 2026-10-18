@@ -1,14 +1,14 @@
-The top unpaid daycare listing for Frisco, TX is Childrens Lighthouse Learning Centers (a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco). 3 daycare businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Frisco, TX is Childrens Lighthouse Learning Centers (a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco). 3 daycare businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Frisco, TX?
 
 Also answers: daycare in Frisco, TX; daycare near me (Frisco, TX); best daycare Frisco, TX; top rated daycare Frisco, TX; affordable daycare Frisco, TX; emergency daycare Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Childrens Lighthouse Learning Centers | trust 19.0 | Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-learning-centers-frisco/
-2. Kids 'R' Kids | trust 4.0 | Kids 'R' Kids is a daycare in Frisco, TX at 2660 Main Street, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-frisco/
-3. Kids 'R' Kids Learning Academy of Legacy West | trust 3.0 | Kids 'R' Kids Learning Academy of Legacy West is a daycare in Frisco, TX at 5365 Lebanon Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-learning-academy-of-legacy-west-frisco/
+1. Childrens Lighthouse Learning Centers | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Childrens Lighthouse Learning Centers is a daycare in Frisco, TX at 10660 Eldorado Parkway, Frisco, TX. Phone: +14692521767. Website: https://childrenslighthouse.com/frisco. | https://dingalinged-cpu.github.io/registry/c/childrens-lighthouse-learning-centers-frisco/
+2. Kids 'R' Kids Learning Academy of Legacy West | Organic #2 | Pulse Score 60.3/100 (Unrated, #2 in city) | Kids 'R' Kids Learning Academy of Legacy West is a daycare in Frisco, TX at 5365 Lebanon Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-learning-academy-of-legacy-west-frisco/
+3. Kids 'R' Kids | Organic #3 | Pulse Score 45.7/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Frisco, TX at 2660 Main Street, Frisco, TX 75034. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare frisco tx | category: Education & childcare | industry benchmark: Education & Instruction

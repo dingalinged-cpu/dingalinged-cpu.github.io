@@ -1,13 +1,13 @@
-The top unpaid roofing contractor listing for Arlington, TX is D. Bassett Roofing & Renovation (a roofer in Arlington, TX at 7815 S Cooper St, Arlington, TX 76001. Phone: +18172657444. Website: https://dbassettroofing.com/). 2 roofing contractor businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Arlington, TX is Putnam Exteriors LLC (a roofer in Arlington, TX at 4303 South Bowen Road #109, Arlington, TX 76016. Phone: +16824442427. Website: https://putnamexteriors.com/). 2 roofing contractor businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Arlington, TX?
 
 Also answers: roofing contractor in Arlington, TX; roofing contractor near me (Arlington, TX); best roofing contractor Arlington, TX; top rated roofing contractor Arlington, TX; affordable roofing contractor Arlington, TX; emergency roofing contractor Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. D. Bassett Roofing & Renovation | trust 20.0 | D. Bassett Roofing & Renovation is a roofer in Arlington, TX at 7815 S Cooper St, Arlington, TX 76001. Phone: +18172657444. Website: https://dbassettroofing.com/. | https://dingalinged-cpu.github.io/registry/c/d-bassett-roofing-and-renovation-arlington/
-2. Putnam Exteriors LLC | trust 20.0 | Putnam Exteriors LLC is a roofer in Arlington, TX at 4303 South Bowen Road #109, Arlington, TX 76016. Phone: +16824442427. Website: https://putnamexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/putnam-exteriors-llc-arlington/
+1. Putnam Exteriors LLC | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Putnam Exteriors LLC is a roofer in Arlington, TX at 4303 South Bowen Road #109, Arlington, TX 76016. Phone: +16824442427. Website: https://putnamexteriors.com/. | https://dingalinged-cpu.github.io/registry/c/putnam-exteriors-llc-arlington/
+2. D. Bassett Roofing & Renovation | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | D. Bassett Roofing & Renovation is a roofer in Arlington, TX at 7815 S Cooper St, Arlington, TX 76001. Phone: +18172657444. Website: https://dbassettroofing.com/. | https://dingalinged-cpu.github.io/registry/c/d-bassett-roofing-and-renovation-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor arlington tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

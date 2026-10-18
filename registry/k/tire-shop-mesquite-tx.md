@@ -1,20 +1,20 @@
-The top unpaid tire shop listing for Mesquite, TX is Discount Tire (a tire shop in Mesquite, TX at 711 West Interstate 30, Mesquite, TX 75150. Phone: +19722400208). 9 tire shop businesses are listed for Mesquite, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Mesquite, TX is Amigos Tire Shop (a tire shop in Mesquite, TX at 1925 North Galloway Avenue, Mesquite, TX 75149). 9 tire shop businesses are listed for Mesquite, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Mesquite, TX?
 
 Also answers: tire shop in Mesquite, TX; tire shop near me (Mesquite, TX); best tire shop Mesquite, TX; top rated tire shop Mesquite, TX; affordable tire shop Mesquite, TX; emergency tire shop Mesquite, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Mesquite, TX at 711 West Interstate 30, Mesquite, TX 75150. Phone: +19722400208. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mesquite/
-2. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Mesquite, TX at 2201 North Galloway Avenue, Mesquite, TX 75150. Phone: +19722856308. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mesquite-w669048083/
-3. Amigos Tire Shop | trust 4.0 | Amigos Tire Shop is a tire shop in Mesquite, TX at 1925 North Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/amigos-tire-shop-mesquite/
-4. Champions Tire | trust 4.0 | Champions Tire is a tire shop in Mesquite, TX at 1711 Scyene Road #D, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/champions-tire-mesquite/
-5. H & J Tire | trust 4.0 | H & J Tire is a tire shop in Mesquite, TX at 207 South Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/h-and-j-tire-mesquite/
-6. Hoyos Auto Service | trust 4.0 | Hoyos Auto Service is a tire shop in Mesquite, TX at 1735 North Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/hoyos-auto-service-mesquite/
-7. Master Tires | trust 4.0 | Master Tires is a tire shop in Mesquite, TX at 1605 Scyene Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/master-tires-mesquite/
-8. Omar's Customs Wheels and Tires | trust 4.0 | Omar's Customs Wheels and Tires is a tire shop in Mesquite, TX at 2550 US Highway 80, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/omars-customs-wheels-and-tires-mesquite/
-9. Speedy's Tire and Muffler | trust 4.0 | Speedy's Tire and Muffler is a tire shop in Mesquite, TX at 1616 Range Drive #100, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/speedys-tire-and-muffler-mesquite/
+1. Amigos Tire Shop | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Amigos Tire Shop is a tire shop in Mesquite, TX at 1925 North Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/amigos-tire-shop-mesquite/
+2. Champions Tire | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Champions Tire is a tire shop in Mesquite, TX at 1711 Scyene Road #D, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/champions-tire-mesquite/
+3. H & J Tire | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | H & J Tire is a tire shop in Mesquite, TX at 207 South Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/h-and-j-tire-mesquite/
+4. Hoyos Auto Service | Organic #4 | Pulse Score 55.4/100 (Unrated, #4 in city) | Hoyos Auto Service is a tire shop in Mesquite, TX at 1735 North Galloway Avenue, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/hoyos-auto-service-mesquite/
+5. Master Tires | Organic #5 | Pulse Score 55.4/100 (Unrated, #5 in city) | Master Tires is a tire shop in Mesquite, TX at 1605 Scyene Road, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/master-tires-mesquite/
+6. Omar's Customs Wheels and Tires | Organic #6 | Pulse Score 55.4/100 (Unrated, #6 in city) | Omar's Customs Wheels and Tires is a tire shop in Mesquite, TX at 2550 US Highway 80, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/omars-customs-wheels-and-tires-mesquite/
+7. Speedy's Tire and Muffler | Organic #7 | Pulse Score 55.4/100 (Unrated, #7 in city) | Speedy's Tire and Muffler is a tire shop in Mesquite, TX at 1616 Range Drive #100, Mesquite, TX 75149. | https://dingalinged-cpu.github.io/registry/c/speedys-tire-and-muffler-mesquite/
+8. Discount Tire | Organic #8 | Pulse Score 45.7/100 (Building, #8 in city) | Discount Tire is a tire shop in Mesquite, TX at 711 West Interstate 30, Mesquite, TX 75150. Phone: +19722400208. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mesquite/
+9. Discount Tire | Organic #9 | Pulse Score 45.7/100 (Building, #9 in city) | Discount Tire is a tire shop in Mesquite, TX at 2201 North Galloway Avenue, Mesquite, TX 75150. Phone: +19722856308. | https://dingalinged-cpu.github.io/registry/c/discount-tire-mesquite-w669048083/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop mesquite tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

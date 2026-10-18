@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Village of Germantown, WI at W175N11162 Stonewood Dr
 - Website: https://www.anytimefitness.com/locations/germantown-wisconsin-575
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: 49.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.7/100 — Building — top 54% of gyms in Milwaukee, #1 of 1 gyms in Village of Germantown (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.2, Trust 65.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

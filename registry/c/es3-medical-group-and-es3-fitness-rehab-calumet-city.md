@@ -13,7 +13,7 @@ ES3 MEDICAL GROUP & ES3 FITNESS REHAB is a physical therapy clinic in Calumet Ci
 - Website: https://es3fitnessrehab.com/
 - Email: n/a
 - Opening hours (OSM syntax): Fr-Su CLOSED, Mo 09:00-13:00, 15:00-18:00, Tue 15:00-18:00, We 09:00-13:00, 15:00-18:00, Th 15:00-18:00
-- Registry Score: 64.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Unrated (not enough evidence yet) — top 2% of physical therapy clinics in Chicago, #1 of 1 physical therapy clinics in Calumet City (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

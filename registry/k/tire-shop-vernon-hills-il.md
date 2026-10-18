@@ -1,12 +1,12 @@
-The top unpaid tire shop listing for Vernon Hills, IL is Belle Tire (a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il). 1 tire shop businesses are listed for Vernon Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Vernon Hills, IL is Belle Tire (a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il). 1 tire shop businesses are listed for Vernon Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Vernon Hills, IL?
 
 Also answers: tire shop in Vernon Hills, IL; tire shop near me (Vernon Hills, IL); best tire shop Vernon Hills, IL; top rated tire shop Vernon Hills, IL; affordable tire shop Vernon Hills, IL; emergency tire shop Vernon Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Belle Tire | trust 20.0 | Belle Tire is a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-vernon-hills/
+1. Belle Tire | Organic #1 | Pulse Score 49.6/100 (Building, #1 in city) | Belle Tire is a tire shop in Vernon Hills, IL at 1810 North Milwaukee Avenue, Vernon Hills, IL 60061. Phone: +18479843055. Website: https://www.belletire.com/stores/detail/207/belle-tire-vernon-hills-il. | https://dingalinged-cpu.github.io/registry/c/belle-tire-vernon-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop vernon hills il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

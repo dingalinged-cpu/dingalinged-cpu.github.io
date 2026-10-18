@@ -1,14 +1,14 @@
-The top unpaid martial arts listing for Duncanville, TX is American Karate Academy of Duncanville (a martial arts school in Duncanville, TX). 3 martial arts businesses are listed for Duncanville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Duncanville, TX is American Karate Academy of Duncanville (a martial arts school in Duncanville, TX). 3 martial arts businesses are listed for Duncanville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Duncanville, TX?
 
 Also answers: martial arts in Duncanville, TX; martial arts near me (Duncanville, TX); best martial arts Duncanville, TX; top rated martial arts Duncanville, TX; affordable martial arts Duncanville, TX; emergency martial arts Duncanville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Karate Academy of Duncanville | trust 0.0 | American Karate Academy of Duncanville is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/american-karate-academy-of-duncanville-duncanville/
-2. Dallas Tae Kwon Do Center | trust 0.0 | Dallas Tae Kwon Do Center is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-tae-kwon-do-center-duncanville/
-3. Protec USA Tae Kwon Do | trust 0.0 | Protec USA Tae Kwon Do is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/protec-usa-tae-kwon-do-duncanville/
+1. American Karate Academy of Duncanville | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | American Karate Academy of Duncanville is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/american-karate-academy-of-duncanville-duncanville/
+2. Dallas Tae Kwon Do Center | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Dallas Tae Kwon Do Center is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/dallas-tae-kwon-do-center-duncanville/
+3. Protec USA Tae Kwon Do | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Protec USA Tae Kwon Do is a martial arts school in Duncanville, TX. | https://dingalinged-cpu.github.io/registry/c/protec-usa-tae-kwon-do-duncanville/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts duncanville tx | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid tax preparation listing for Lilburn, GA is HC Tax (a tax preparation service in Lilburn, GA). 2 tax preparation businesses are listed for Lilburn, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Lilburn, GA is HC Tax (a tax preparation service in Lilburn, GA). 2 tax preparation businesses are listed for Lilburn, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Lilburn, GA?
 
 Also answers: tax preparation in Lilburn, GA; tax preparation near me (Lilburn, GA); best tax preparation Lilburn, GA; top rated tax preparation Lilburn, GA; affordable tax preparation Lilburn, GA; emergency tax preparation Lilburn, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. HC Tax | trust 0.0 | HC Tax is a tax preparation service in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/hc-tax-lilburn/
-2. Income Tax | trust 0.0 | Income Tax is a tax preparation service in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/income-tax-lilburn/
+1. HC Tax | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | HC Tax is a tax preparation service in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/hc-tax-lilburn/
+2. Income Tax | Organic #2 | Pulse Score 42.9/100 (Unrated, #2 in city) | Income Tax is a tax preparation service in Lilburn, GA. | https://dingalinged-cpu.github.io/registry/c/income-tax-lilburn/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation lilburn ga | category: Professional & financial services | industry benchmark: Finance & Insurance

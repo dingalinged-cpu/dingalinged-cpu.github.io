@@ -1,13 +1,13 @@
-The top unpaid dentist listing for Lyons, IL is Alldent Dental (a dentist in Lyons, IL at 3902 Harlem Ave, Lyons, IL 60534). 2 dentist businesses are listed for Lyons, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Lyons, IL is Alldent Dental (a dentist in Lyons, IL at 3902 Harlem Ave, Lyons, IL 60534). 2 dentist businesses are listed for Lyons, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Lyons, IL?
 
 Also answers: dentist in Lyons, IL; dentist near me (Lyons, IL); best dentist Lyons, IL; top rated dentist Lyons, IL; affordable dentist Lyons, IL; emergency dentist Lyons, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alldent Dental | trust 4.0 | Alldent Dental is a dentist in Lyons, IL at 3902 Harlem Ave, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/alldent-dental-lyons/
-2. Mira Andre DDS | trust 0.0 | Mira Andre DDS is a dentist in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/mira-andre-dds-lyons/
+1. Alldent Dental | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Alldent Dental is a dentist in Lyons, IL at 3902 Harlem Ave, Lyons, IL 60534. | https://dingalinged-cpu.github.io/registry/c/alldent-dental-lyons/
+2. Mira Andre DDS | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Mira Andre DDS is a dentist in Lyons, IL. | https://dingalinged-cpu.github.io/registry/c/mira-andre-dds-lyons/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist lyons il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,12 +1,12 @@
-The top unpaid mattress store listing for Bloomingdale, IL is American Mattress (a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il). 1 mattress store businesses are listed for Bloomingdale, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Bloomingdale, IL is American Mattress (a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il). 1 mattress store businesses are listed for Bloomingdale, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Bloomingdale, IL?
 
 Also answers: mattress store in Bloomingdale, IL; mattress store near me (Bloomingdale, IL); best mattress store Bloomingdale, IL; top rated mattress store Bloomingdale, IL; affordable mattress store Bloomingdale, IL; emergency mattress store Bloomingdale, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American Mattress | trust 20.0 | American Mattress is a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il. | https://dingalinged-cpu.github.io/registry/c/american-mattress-bloomingdale/
+1. American Mattress | Organic #1 | Pulse Score 48.6/100 (Unrated, #1 in city) | American Mattress is a mattress store in Bloomingdale, IL at 336 West Army Trail Road, Bloomingdale, IL 60108. Phone: +16305828500. Website: https://www.americanmattress.com/pages/american-mattress-bloomingdale-il. | https://dingalinged-cpu.github.io/registry/c/american-mattress-bloomingdale/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store bloomingdale il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,15 +1,15 @@
-The top unpaid haircut listing for Stoughton, WI is Misini Cuts Barbershop (a barber shop in Stoughton, WI at 1060 West Main Street #11, Stoughton, WI 53589. Phone: +16086581280. Website: https://misinicutsbarbershop.com/). 4 haircut businesses are listed for Stoughton, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Stoughton, WI is Misini Cuts Barbershop (a barber shop in Stoughton, WI at 1060 West Main Street #11, Stoughton, WI 53589. Phone: +16086581280. Website: https://misinicutsbarbershop.com/). 4 haircut businesses are listed for Stoughton, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Stoughton, WI?
 
 Also answers: haircut in Stoughton, WI; haircut near me (Stoughton, WI); best haircut Stoughton, WI; top rated haircut Stoughton, WI; affordable haircut Stoughton, WI; emergency haircut Stoughton, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Misini Cuts Barbershop | trust 20.0 | Misini Cuts Barbershop is a barber shop in Stoughton, WI at 1060 West Main Street #11, Stoughton, WI 53589. Phone: +16086581280. Website: https://misinicutsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/misini-cuts-barbershop-stoughton/
-2. Shannon's Hair Shop | trust 4.0 | Shannon's Hair Shop is a hair salon in Stoughton, WI at 214 West Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/shannons-hair-shop-stoughton/
-3. Great Clips | trust 0.0 | Great Clips is a hair salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-stoughton/
-4. Salon X | trust 0.0 | Salon X is a hair salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/salon-x-stoughton/
+1. Misini Cuts Barbershop | Organic #1 | Pulse Score 64.4/100 (Good, #1 in city) | Misini Cuts Barbershop is a barber shop in Stoughton, WI at 1060 West Main Street #11, Stoughton, WI 53589. Phone: +16086581280. Website: https://misinicutsbarbershop.com/. | https://dingalinged-cpu.github.io/registry/c/misini-cuts-barbershop-stoughton/
+2. Shannon's Hair Shop | Organic #2 | Pulse Score 58.2/100 (Unrated, #1 in city) | Shannon's Hair Shop is a hair salon in Stoughton, WI at 214 West Main Street, Stoughton, WI 53589. | https://dingalinged-cpu.github.io/registry/c/shannons-hair-shop-stoughton/
+3. Salon X | Organic #3 | Pulse Score 55.1/100 (Unrated, #2 in city) | Salon X is a hair salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/salon-x-stoughton/
+4. Great Clips | Organic #4 | Pulse Score 42.8/100 (Building, #3 in city) | Great Clips is a hair salon in Stoughton, WI. | https://dingalinged-cpu.github.io/registry/c/great-clips-stoughton/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut stoughton wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

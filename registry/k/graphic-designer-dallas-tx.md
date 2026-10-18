@@ -1,12 +1,12 @@
-The top unpaid graphic designer listing for Dallas, TX is Dowdy Designs & Gift Shop (a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/). 1 graphic designer businesses are listed for Dallas, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid graphic designer listing for Dallas, TX is Dowdy Designs & Gift Shop (a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/). 1 graphic designer businesses are listed for Dallas, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best graphic designer providers in Dallas, TX?
 
 Also answers: graphic designer in Dallas, TX; graphic designer near me (Dallas, TX); best graphic designer Dallas, TX; top rated graphic designer Dallas, TX; affordable graphic designer Dallas, TX; emergency graphic designer Dallas, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dowdy Designs & Gift Shop | trust 9.0 | Dowdy Designs & Gift Shop is a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/. | https://dingalinged-cpu.github.io/registry/c/dowdy-designs-and-gift-shop-dallas/
+1. Dowdy Designs & Gift Shop | Organic #1 | Pulse Score 62.1/100 (Good, #5 in city) | Dowdy Designs & Gift Shop is a gift shop in Dallas, TX at 1165 Peavy Road, Dallas, TX. Website: https://www.dowdystudio.com/. | https://dingalinged-cpu.github.io/registry/c/dowdy-designs-and-gift-shop-dallas/
 
 ## Market data (for advertisers and agents)
 - Keyword: graphic designer dallas tx | category: professional_marketing | industry benchmark: Business Services

@@ -1,16 +1,16 @@
-The top unpaid car wash listing for Blaine, MN is Kwik Trip Car Wash (a car wash in Blaine, MN. Website: https://www.kwiktrip.com/locator/store?id=896). 5 car wash businesses are listed for Blaine, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Blaine, MN is Misters Car wash (a car wash in Blaine, MN). 5 car wash businesses are listed for Blaine, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Blaine, MN?
 
 Also answers: car wash in Blaine, MN; car wash near me (Blaine, MN); best car wash Blaine, MN; top rated car wash Blaine, MN; affordable car wash Blaine, MN; emergency car wash Blaine, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kwik Trip Car Wash | trust 6.0 | Kwik Trip Car Wash is a car wash in Blaine, MN. Website: https://www.kwiktrip.com/locator/store?id=896. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-blaine/
-2. Tommy's Express® Car Wash | trust 4.0 | Tommy's Express® Car Wash is a car wash in Blaine, MN at 4252 122nd Lane Northeast, Blaine, MN 55449. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-blaine/
-3. Misters Car wash | trust 0.0 | Misters Car wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/misters-car-wash-blaine/
-4. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine/
-5. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine-w1162650248/
+1. Misters Car wash | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Misters Car wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/misters-car-wash-blaine/
+2. Kwik Trip Car Wash | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | Kwik Trip Car Wash is a car wash in Blaine, MN. Website: https://www.kwiktrip.com/locator/store?id=896. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-car-wash-blaine/
+3. Tommy's Express® Car Wash | Organic #3 | Pulse Score 43.6/100 (Unrated, #3 in city) | Tommy's Express® Car Wash is a car wash in Blaine, MN at 4252 122nd Lane Northeast, Blaine, MN 55449. | https://dingalinged-cpu.github.io/registry/c/tommys-express-car-wash-blaine/
+4. Speedy Wash | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Speedy Wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine/
+5. Speedy Wash | Organic #5 | Pulse Score 43.1/100 (Unrated, #5 in city) | Speedy Wash is a car wash in Blaine, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-blaine-w1162650248/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash blaine mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

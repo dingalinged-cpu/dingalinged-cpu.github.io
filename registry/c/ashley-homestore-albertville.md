@@ -13,7 +13,7 @@ Ashley HomeStore is a furniture store in Albertville, MN at 6497 Labeaux Avenue 
 - Website: https://stores.ashleyfurniture.com/store/us/minnesota/albertville/7710000210/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.4/100 — Building — top 77% of furniture stores in Minneapolis–St. Paul, #2 of 2 furniture stores in Albertville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

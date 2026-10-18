@@ -13,7 +13,7 @@ Rudi Fine Jewelry is a jewelry store in Cherokee County, GA at 6790 Highway 92 #
 - Website: https://www.rudifinejewelry.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 16% of jewelry stores in Atlanta, #1 of 1 jewelry stores in Cherokee County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.9, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Midwest Auto Body Shop Inc. is an auto repair shop in Melrose Park, IL at 1327 N
 - Website: https://www.midwestautobodyshop.com/
 - Email: midwestautobody.general@gmail.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 67.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.5/100 — Good — top 1% of auto repair shops in Chicago, #1 of 6 auto repair shops in Melrose Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.7, Trust 68. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

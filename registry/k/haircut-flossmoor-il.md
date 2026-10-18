@@ -1,14 +1,14 @@
-The top unpaid haircut listing for Flossmoor, IL is Yesterday's Gentlemen (a hair salon in Flossmoor, IL). 3 haircut businesses are listed for Flossmoor, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Flossmoor, IL is Yesterday's Gentlemen (a hair salon in Flossmoor, IL). 3 haircut businesses are listed for Flossmoor, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Flossmoor, IL?
 
 Also answers: haircut in Flossmoor, IL; haircut near me (Flossmoor, IL); best haircut Flossmoor, IL; top rated haircut Flossmoor, IL; affordable haircut Flossmoor, IL; emergency haircut Flossmoor, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Yesterday's Gentlemen | trust 4.0 | Yesterday's Gentlemen is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/yesterdays-gentlemen-flossmoor/
-2. Cutters | trust 0.0 | Cutters is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/cutters-flossmoor/
-3. Doyle Designed Salon | trust 0.0 | Doyle Designed Salon is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/doyle-designed-salon-flossmoor/
+1. Yesterday's Gentlemen | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Yesterday's Gentlemen is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/yesterdays-gentlemen-flossmoor/
+2. Cutters | Organic #2 | Pulse Score 55.4/100 (Unrated, #2 in city) | Cutters is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/cutters-flossmoor/
+3. Doyle Designed Salon | Organic #3 | Pulse Score 54.7/100 (Unrated, #3 in city) | Doyle Designed Salon is a hair salon in Flossmoor, IL. | https://dingalinged-cpu.github.io/registry/c/doyle-designed-salon-flossmoor/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut flossmoor il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

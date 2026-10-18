@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Katy, TX is Woof Gang Bakery & Grooming (a dog groomer in Katy, TX at 1510 West Grand Parkway South, Katy, TX 77494. Website: https://woofgangbakery.com/). 1 dog groomer businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Katy, TX is Woof Gang Bakery & Grooming (a dog groomer in Katy, TX at 1510 West Grand Parkway South, Katy, TX 77494. Website: https://woofgangbakery.com/). 1 dog groomer businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Katy, TX?
 
 Also answers: dog groomer in Katy, TX; dog groomer near me (Katy, TX); best dog groomer Katy, TX; top rated dog groomer Katy, TX; affordable dog groomer Katy, TX; emergency dog groomer Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Woof Gang Bakery & Grooming | trust 10.0 | Woof Gang Bakery & Grooming is a dog groomer in Katy, TX at 1510 West Grand Parkway South, Katy, TX 77494. Website: https://woofgangbakery.com/. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-katy/
+1. Woof Gang Bakery & Grooming | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Woof Gang Bakery & Grooming is a dog groomer in Katy, TX at 1510 West Grand Parkway South, Katy, TX 77494. Website: https://woofgangbakery.com/. | https://dingalinged-cpu.github.io/registry/c/woof-gang-bakery-and-grooming-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer katy tx | category: Pets | industry benchmark: Animals & Pets

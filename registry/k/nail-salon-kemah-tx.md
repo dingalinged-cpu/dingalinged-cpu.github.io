@@ -1,12 +1,12 @@
-The top unpaid nail salon listing for Kemah, TX is LA Nails (a nail salon in Kemah, TX). 1 nail salon businesses are listed for Kemah, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Kemah, TX is LA Nails (a nail salon in Kemah, TX). 1 nail salon businesses are listed for Kemah, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Kemah, TX?
 
 Also answers: nail salon in Kemah, TX; nail salon near me (Kemah, TX); best nail salon Kemah, TX; top rated nail salon Kemah, TX; affordable nail salon Kemah, TX; emergency nail salon Kemah, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. LA Nails | trust 0.0 | LA Nails is a nail salon in Kemah, TX. | https://dingalinged-cpu.github.io/registry/c/la-nails-kemah/
+1. LA Nails | Organic #1 | Pulse Score 42.3/100 (Unrated, #1 in city) | LA Nails is a nail salon in Kemah, TX. | https://dingalinged-cpu.github.io/registry/c/la-nails-kemah/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon kemah tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

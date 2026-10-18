@@ -13,7 +13,7 @@ A Plus Physical Therapy is an occupational therapist in Atlanta, GA at 2040 Head
 - Website: https://www.dpacatl.com/pages/services
 - Email: n/a
 - Opening hours (OSM syntax): "By appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57.5/100 — Unrated (not enough evidence yet) — top 100% of occupational therapists in Atlanta, #1 of 1 occupational therapists in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 45.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

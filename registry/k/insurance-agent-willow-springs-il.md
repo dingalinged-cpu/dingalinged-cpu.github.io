@@ -1,15 +1,15 @@
-The top unpaid insurance agent listing for Willow Springs, IL is National Title Center (an insurance agent in Willow Springs, IL at 161 Market Street, Willow Springs, IL 60480. Phone: +17083751400. Website: https://ntci.us/). 4 insurance agent businesses are listed for Willow Springs, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Willow Springs, IL is National Title Center (an insurance agent in Willow Springs, IL at 161 Market Street, Willow Springs, IL 60480. Phone: +17083751400. Website: https://ntci.us/). 4 insurance agent businesses are listed for Willow Springs, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Willow Springs, IL?
 
 Also answers: insurance agent in Willow Springs, IL; insurance agent near me (Willow Springs, IL); best insurance agent Willow Springs, IL; top rated insurance agent Willow Springs, IL; affordable insurance agent Willow Springs, IL; emergency insurance agent Willow Springs, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. National Title Center | trust 16.0 | National Title Center is an insurance agent in Willow Springs, IL at 161 Market Street, Willow Springs, IL 60480. Phone: +17083751400. Website: https://ntci.us/. | https://dingalinged-cpu.github.io/registry/c/national-title-center-willow-springs/
-2. Allstate | trust 10.0 | Allstate is an insurance agent in Willow Springs, IL at 400 Village Circle #A, Willow Springs, IL 60480. Website: https://agents.allstate.com/hana-aref-willow-springs-il.html. | https://dingalinged-cpu.github.io/registry/c/allstate-willow-springs/
-3. State Farm | trust 6.0 | State Farm is an insurance agent in Willow Springs, IL. Website: https://www.jacquimurray.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-willow-springs-n12052414630/
-4. State Farm | trust 4.0 | State Farm is an insurance agent in Willow Springs, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-willow-springs/
+1. National Title Center | Organic #1 | Pulse Score 59.4/100 (Unrated, #1 in city) | National Title Center is an insurance agent in Willow Springs, IL at 161 Market Street, Willow Springs, IL 60480. Phone: +17083751400. Website: https://ntci.us/. | https://dingalinged-cpu.github.io/registry/c/national-title-center-willow-springs/
+2. Allstate | Organic #2 | Pulse Score 45.8/100 (Building, #2 in city) | Allstate is an insurance agent in Willow Springs, IL at 400 Village Circle #A, Willow Springs, IL 60480. Website: https://agents.allstate.com/hana-aref-willow-springs-il.html. | https://dingalinged-cpu.github.io/registry/c/allstate-willow-springs/
+3. State Farm | Organic #3 | Pulse Score 43.4/100 (Building, #4 in city) | State Farm is an insurance agent in Willow Springs, IL. Website: https://www.jacquimurray.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-willow-springs-n12052414630/
+4. State Farm | Organic #4 | Pulse Score 43.4/100 (Building, #3 in city) | State Farm is an insurance agent in Willow Springs, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-willow-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent willow springs il | category: Professional & financial services | industry benchmark: Finance & Insurance

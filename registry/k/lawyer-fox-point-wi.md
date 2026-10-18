@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Fox Point, WI is Karp & Iancu, S.C. (a lawyer in Fox Point, WI at 8651 North Port Washington Road #Suite A, Fox Point, WI 53217. Phone: +14142401835. Website: https://www.karplawfirm.com/). 1 lawyer businesses are listed for Fox Point, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Fox Point, WI is Karp & Iancu, S.C. (a lawyer in Fox Point, WI at 8651 North Port Washington Road #Suite A, Fox Point, WI 53217. Phone: +14142401835. Website: https://www.karplawfirm.com/). 1 lawyer businesses are listed for Fox Point, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Fox Point, WI?
 
 Also answers: lawyer in Fox Point, WI; lawyer near me (Fox Point, WI); best lawyer Fox Point, WI; top rated lawyer Fox Point, WI; affordable lawyer Fox Point, WI; emergency lawyer Fox Point, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Karp & Iancu, S.C. | trust 20.0 | Karp & Iancu, S.C. is a lawyer in Fox Point, WI at 8651 North Port Washington Road #Suite A, Fox Point, WI 53217. Phone: +14142401835. Website: https://www.karplawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/karp-and-iancu-s-c-fox-point/
+1. Karp & Iancu, S.C. | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Karp & Iancu, S.C. is a lawyer in Fox Point, WI at 8651 North Port Washington Road #Suite A, Fox Point, WI 53217. Phone: +14142401835. Website: https://www.karplawfirm.com/. | https://dingalinged-cpu.github.io/registry/c/karp-and-iancu-s-c-fox-point/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer fox point wi | category: Legal | industry benchmark: Attorneys & Legal Services

@@ -1,12 +1,12 @@
-The top unpaid auto repair listing for Mcfarland, WI is Ken's Automotive Services (an auto repair shop in McFarland, WI at 4715 Farwell Street, McFarland, WI 53558. Phone: +16082511771. Website: https://www.kensauto.biz/service.html). 1 auto repair businesses are listed for Mcfarland, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Mcfarland, WI is Ken's Automotive Services (an auto repair shop in McFarland, WI at 4715 Farwell Street, McFarland, WI 53558. Phone: +16082511771. Website: https://www.kensauto.biz/service.html). 1 auto repair businesses are listed for Mcfarland, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Mcfarland, WI?
 
 Also answers: auto repair in Mcfarland, WI; auto repair near me (Mcfarland, WI); best auto repair Mcfarland, WI; top rated auto repair Mcfarland, WI; affordable auto repair Mcfarland, WI; emergency auto repair Mcfarland, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ken's Automotive Services | trust 16.0 | Ken's Automotive Services is an auto repair shop in McFarland, WI at 4715 Farwell Street, McFarland, WI 53558. Phone: +16082511771. Website: https://www.kensauto.biz/service.html. | https://dingalinged-cpu.github.io/registry/c/kens-automotive-services-mcfarland/
+1. Ken's Automotive Services | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Ken's Automotive Services is an auto repair shop in McFarland, WI at 4715 Farwell Street, McFarland, WI 53558. Phone: +16082511771. Website: https://www.kensauto.biz/service.html. | https://dingalinged-cpu.github.io/registry/c/kens-automotive-services-mcfarland/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair mcfarland wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

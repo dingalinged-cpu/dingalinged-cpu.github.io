@@ -13,7 +13,7 @@ Blackstone Bicycle Works is a bike shop in Chicago, IL at 6100 South Blackstone 
 - Website: https://www.experimentalstation.org/blackstone
 - Email: n/a
 - Opening hours (OSM syntax): We 16:00-18:00; Sa 10:00-12:00
-- Registry Score: 63.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of bike shops in Chicago, #3 of 68 bike shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

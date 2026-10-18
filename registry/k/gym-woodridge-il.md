@@ -1,14 +1,14 @@
-The top unpaid gym listing for Woodridge, IL is Orangetheory Fitness (a gym in Woodridge, IL at 1001 75th Street #127, Woodridge, IL 60517. Phone: +16305962144. Website: https://www.orangetheory.com/en-us/locations/illinois/woodridge/1001-w-75th-street-suite-127/). 3 gym businesses are listed for Woodridge, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Woodridge, IL is ARC - Athletic Recreational Center (a gym in Woodridge, IL). 3 gym businesses are listed for Woodridge, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Woodridge, IL?
 
 Also answers: gym in Woodridge, IL; gym near me (Woodridge, IL); best gym Woodridge, IL; top rated gym Woodridge, IL; affordable gym Woodridge, IL; emergency gym Woodridge, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Orangetheory Fitness | trust 16.0 | Orangetheory Fitness is a gym in Woodridge, IL at 1001 75th Street #127, Woodridge, IL 60517. Phone: +16305962144. Website: https://www.orangetheory.com/en-us/locations/illinois/woodridge/1001-w-75th-street-suite-127/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-woodridge/
-2. Planet Fitness | trust 10.0 | Planet Fitness is a gym in Woodridge, IL at 8625 Woodward Avenue, Woodridge, IL 60517. Phone: +16309850023. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-woodridge/
-3. ARC - Athletic Recreational Center | trust 0.0 | ARC - Athletic Recreational Center is a gym in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/arc-athletic-recreational-center-woodridge/
+1. ARC - Athletic Recreational Center | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | ARC - Athletic Recreational Center is a gym in Woodridge, IL. | https://dingalinged-cpu.github.io/registry/c/arc-athletic-recreational-center-woodridge/
+2. Orangetheory Fitness | Organic #2 | Pulse Score 48/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Woodridge, IL at 1001 75th Street #127, Woodridge, IL 60517. Phone: +16305962144. Website: https://www.orangetheory.com/en-us/locations/illinois/woodridge/1001-w-75th-street-suite-127/. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-woodridge/
+3. Planet Fitness | Organic #3 | Pulse Score 46.6/100 (Building, #3 in city) | Planet Fitness is a gym in Woodridge, IL at 8625 Woodward Avenue, Woodridge, IL 60517. Phone: +16309850023. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-woodridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym woodridge il | category: Fitness | industry benchmark: Health & Fitness

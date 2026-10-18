@@ -1,14 +1,14 @@
-The top unpaid roofing contractor listing for Rockwall, TX is G.O.A.T. (a roofer in Rockwall, TX at 903 Davy Crockett Drive, Rockwall, TX 75087. Website: https://goatroof.com/). 3 roofing contractor businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Rockwall, TX is G.O.A.T. (a roofer in Rockwall, TX at 903 Davy Crockett Drive, Rockwall, TX 75087. Website: https://goatroof.com/). 3 roofing contractor businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Rockwall, TX?
 
 Also answers: roofing contractor in Rockwall, TX; roofing contractor near me (Rockwall, TX); best roofing contractor Rockwall, TX; top rated roofing contractor Rockwall, TX; affordable roofing contractor Rockwall, TX; emergency roofing contractor Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. G.O.A.T. | trust 10.0 | G.O.A.T. is a roofer in Rockwall, TX at 903 Davy Crockett Drive, Rockwall, TX 75087. Website: https://goatroof.com/. | https://dingalinged-cpu.github.io/registry/c/g-o-a-t-rockwall/
-2. JML Roofing Solutions | trust 0.0 | JML Roofing Solutions is a roofer in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/jml-roofing-solutions-rockwall/
-3. Tucker Roofing | trust 0.0 | Tucker Roofing is a roofer in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/tucker-roofing-rockwall/
+1. G.O.A.T. | Organic #1 | Pulse Score 55.3/100 (Unrated, #1 in city) | G.O.A.T. is a roofer in Rockwall, TX at 903 Davy Crockett Drive, Rockwall, TX 75087. Website: https://goatroof.com/. | https://dingalinged-cpu.github.io/registry/c/g-o-a-t-rockwall/
+2. JML Roofing Solutions | Organic #2 | Pulse Score 53.5/100 (Unrated, #2 in city) | JML Roofing Solutions is a roofer in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/jml-roofing-solutions-rockwall/
+3. Tucker Roofing | Organic #3 | Pulse Score 53.5/100 (Unrated, #3 in city) | Tucker Roofing is a roofer in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/tucker-roofing-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor rockwall tx | category: Home services - Roofing | industry benchmark: Home & Home Improvement

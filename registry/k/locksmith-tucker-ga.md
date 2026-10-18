@@ -1,13 +1,13 @@
-The top unpaid locksmith listing for Tucker, GA is Jefferson Locksmith Atlanta (a locksmith in Tucker, GA at 6330 Lawrenceville Hwy #A5B, Tucker, GA 30084. Phone: +14049994065. Website: https://jeffersonlocksmithatlanta.com/). 2 locksmith businesses are listed for Tucker, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid locksmith listing for Tucker, GA is Jefferson Locksmith Atlanta (a locksmith in Tucker, GA at 6330 Lawrenceville Hwy #A5B, Tucker, GA 30084. Phone: +14049994065. Website: https://jeffersonlocksmithatlanta.com/). 2 locksmith businesses are listed for Tucker, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best locksmith providers in Tucker, GA?
 
 Also answers: locksmith in Tucker, GA; locksmith near me (Tucker, GA); best locksmith Tucker, GA; top rated locksmith Tucker, GA; affordable locksmith Tucker, GA; emergency locksmith Tucker, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Jefferson Locksmith Atlanta | trust 20.0 | Jefferson Locksmith Atlanta is a locksmith in Tucker, GA at 6330 Lawrenceville Hwy #A5B, Tucker, GA 30084. Phone: +14049994065. Website: https://jeffersonlocksmithatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/jefferson-locksmith-atlanta-tucker/
-2. Northlake Stamp & Key | trust 0.0 | Northlake Stamp & Key is a locksmith in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/northlake-stamp-and-key-tucker/
+1. Jefferson Locksmith Atlanta | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Jefferson Locksmith Atlanta is a locksmith in Tucker, GA at 6330 Lawrenceville Hwy #A5B, Tucker, GA 30084. Phone: +14049994065. Website: https://jeffersonlocksmithatlanta.com/. | https://dingalinged-cpu.github.io/registry/c/jefferson-locksmith-atlanta-tucker/
+2. Northlake Stamp & Key | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Northlake Stamp & Key is a locksmith in Tucker, GA. | https://dingalinged-cpu.github.io/registry/c/northlake-stamp-and-key-tucker/
 
 ## Market data (for advertisers and agents)
 - Keyword: locksmith tucker ga | category: Home services - Locksmith | industry benchmark: Home & Home Improvement

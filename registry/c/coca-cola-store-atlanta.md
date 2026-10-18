@@ -13,7 +13,7 @@ Coca‑Cola Store is a gift shop in Atlanta, GA at 121 Baker Street Northwest, A
 - Website: https://www.worldofcoca-cola.com/explore-inside/explore-coca-cola-store
 - Email: n/a
 - Opening hours (OSM syntax): 10:00-[16:00,19:00]
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 73% of gift shops in Atlanta, #10 of 12 gift shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.2, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

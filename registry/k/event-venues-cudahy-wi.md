@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Cudahy, WI is Dresden Castle on Underwood (an event venue in Cudahy, WI at 3775 East Underwood Avenue, Cudahy, WI 53110. Phone: +14145221880. Website: https://www.dresdencastle.com/). 2 event venues businesses are listed for Cudahy, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Cudahy, WI is Dresden Castle on Underwood (an event venue in Cudahy, WI at 3775 East Underwood Avenue, Cudahy, WI 53110. Phone: +14145221880. Website: https://www.dresdencastle.com/). 2 event venues businesses are listed for Cudahy, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Cudahy, WI?
 
 Also answers: event venues in Cudahy, WI; event venues near me (Cudahy, WI); best event venues Cudahy, WI; top rated event venues Cudahy, WI; affordable event venues Cudahy, WI; emergency event venues Cudahy, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dresden Castle on Underwood | trust 16.0 | Dresden Castle on Underwood is an event venue in Cudahy, WI at 3775 East Underwood Avenue, Cudahy, WI 53110. Phone: +14145221880. Website: https://www.dresdencastle.com/. | https://dingalinged-cpu.github.io/registry/c/dresden-castle-on-underwood-cudahy/
-2. Taj Palace Restaurant & Banquet | trust 4.0 | Taj Palace Restaurant & Banquet is an event venue in Cudahy, WI at 3665 East Grange Avenue, Cudahy, WI 53110. | https://dingalinged-cpu.github.io/registry/c/taj-palace-restaurant-and-banquet-cudahy/
+1. Dresden Castle on Underwood | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Dresden Castle on Underwood is an event venue in Cudahy, WI at 3775 East Underwood Avenue, Cudahy, WI 53110. Phone: +14145221880. Website: https://www.dresdencastle.com/. | https://dingalinged-cpu.github.io/registry/c/dresden-castle-on-underwood-cudahy/
+2. Taj Palace Restaurant & Banquet | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Taj Palace Restaurant & Banquet is an event venue in Cudahy, WI at 3665 East Grange Avenue, Cudahy, WI 53110. | https://dingalinged-cpu.github.io/registry/c/taj-palace-restaurant-and-banquet-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues cudahy wi | category: Events & weddings | industry benchmark: Personal Services

@@ -1,14 +1,14 @@
-The top unpaid yoga classes listing for Plano, TX is Movement Plano (a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093. Phone: +19725990865. Website: https://movementgyms.com/plano/). 3 yoga classes businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Plano, TX is Movement Plano (a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093. Phone: +19725990865. Website: https://movementgyms.com/plano/). 3 yoga classes businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Plano, TX?
 
 Also answers: yoga classes in Plano, TX; yoga classes near me (Plano, TX); best yoga classes Plano, TX; top rated yoga classes Plano, TX; affordable yoga classes Plano, TX; emergency yoga classes Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Movement Plano | trust 20.0 | Movement Plano is a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093. Phone: +19725990865. Website: https://movementgyms.com/plano/. | https://dingalinged-cpu.github.io/registry/c/movement-plano-plano/
-2. More Than Yoga | trust 16.0 | More Than Yoga is a yoga studio in Plano, TX at 2865 McDermott Road #210, Plano, TX 75025. Phone: +19727959839. Website: https://morethanyogaplano.com/. | https://dingalinged-cpu.github.io/registry/c/more-than-yoga-plano/
-3. Shala Yoga Loft | trust 16.0 | Shala Yoga Loft is a yoga studio in Plano, TX at 1021 East 15th Street, Plano, TX 75093. Phone: +14695430000. Website: https://www.shalayogaloft.com/. | https://dingalinged-cpu.github.io/registry/c/shala-yoga-loft-plano/
+1. Movement Plano | Organic #1 | Pulse Score 64.3/100 (Good, #1 in city) | Movement Plano is a yoga studio in Plano, TX at 525 Talbert Dr, Plano, TX 75093. Phone: +19725990865. Website: https://movementgyms.com/plano/. | https://dingalinged-cpu.github.io/registry/c/movement-plano-plano/
+2. More Than Yoga | Organic #2 | Pulse Score 61/100 (Unrated, #2 in city) | More Than Yoga is a yoga studio in Plano, TX at 2865 McDermott Road #210, Plano, TX 75025. Phone: +19727959839. Website: https://morethanyogaplano.com/. | https://dingalinged-cpu.github.io/registry/c/more-than-yoga-plano/
+3. Shala Yoga Loft | Organic #3 | Pulse Score 59.6/100 (Unrated, #3 in city) | Shala Yoga Loft is a yoga studio in Plano, TX at 1021 East 15th Street, Plano, TX 75093. Phone: +14695430000. Website: https://www.shalayogaloft.com/. | https://dingalinged-cpu.github.io/registry/c/shala-yoga-loft-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes plano tx | category: Fitness | industry benchmark: Health & Fitness

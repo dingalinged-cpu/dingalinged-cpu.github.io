@@ -1,12 +1,12 @@
-The top unpaid tax preparation listing for East Chicago, IN is H&R Block (a tax preparation service in East Chicago, IN at 4739 Indianapolis Boulevard #2, East Chicago, IN 46312. Website: https://www.hrblock.com/local-tax-offices/indiana/east-chicago/4739-indianapolis-blvd/14537/). 1 tax preparation businesses are listed for East Chicago, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for East Chicago, IN is H&R Block (a tax preparation service in East Chicago, IN at 4739 Indianapolis Boulevard #2, East Chicago, IN 46312. Website: https://www.hrblock.com/local-tax-offices/indiana/east-chicago/4739-indianapolis-blvd/14537/). 1 tax preparation businesses are listed for East Chicago, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in East Chicago, IN?
 
 Also answers: tax preparation in East Chicago, IN; tax preparation near me (East Chicago, IN); best tax preparation East Chicago, IN; top rated tax preparation East Chicago, IN; affordable tax preparation East Chicago, IN; emergency tax preparation East Chicago, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. H&R Block | trust 10.0 | H&R Block is a tax preparation service in East Chicago, IN at 4739 Indianapolis Boulevard #2, East Chicago, IN 46312. Website: https://www.hrblock.com/local-tax-offices/indiana/east-chicago/4739-indianapolis-blvd/14537/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-east-chicago/
+1. H&R Block | Organic #1 | Pulse Score 48.7/100 (Building, #1 in city) | H&R Block is a tax preparation service in East Chicago, IN at 4739 Indianapolis Boulevard #2, East Chicago, IN 46312. Website: https://www.hrblock.com/local-tax-offices/indiana/east-chicago/4739-indianapolis-blvd/14537/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-east-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation east chicago in | category: Professional & financial services | industry benchmark: Finance & Insurance

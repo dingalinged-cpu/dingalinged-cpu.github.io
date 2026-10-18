@@ -13,7 +13,7 @@ Stride Care is a podiatrist in Flower Mound, TX at 4421 Long Prairie Road #200, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-17:00; Tu 08:00-17:00; We-Th 08:00-16:00; Fr 08:00-12:00; Sa-Su off
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Good — top 30% of podiatrists in Dallas–Fort Worth, #2 of 2 podiatrists in Flower Mound (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 53.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

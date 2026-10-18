@@ -13,7 +13,7 @@ Chiropractic Works is a chiropractor in Atlanta, GA at 1715 Howell Mill Road Nor
 - Website: https://www.atlantachiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-13:00,14:00-18:00; Fr,Su off; Sa 09:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Good — top 20% of chiropractors in Atlanta, #3 of 18 chiropractors in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.3, Trust 56.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

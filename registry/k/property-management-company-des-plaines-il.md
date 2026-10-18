@@ -1,12 +1,12 @@
-The top unpaid property management company listing for Des Plaines, IL is Courtland Square Homeowners Association (a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714). 1 property management company businesses are listed for Des Plaines, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid property management company listing for Des Plaines, IL is Courtland Square Homeowners Association (a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714). 1 property management company businesses are listed for Des Plaines, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best property management company providers in Des Plaines, IL?
 
 Also answers: property management company in Des Plaines, IL; property management company near me (Des Plaines, IL); best property management company Des Plaines, IL; top rated property management company Des Plaines, IL; affordable property management company Des Plaines, IL; emergency property management company Des Plaines, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Courtland Square Homeowners Association | trust 4.0 | Courtland Square Homeowners Association is a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714. | https://dingalinged-cpu.github.io/registry/c/courtland-square-homeowners-association-des-plaines/
+1. Courtland Square Homeowners Association | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Courtland Square Homeowners Association is a property management company in Des Plaines, IL at 8909 David Place, Des Plaines, IL 60714. | https://dingalinged-cpu.github.io/registry/c/courtland-square-homeowners-association-des-plaines/
 
 ## Market data (for advertisers and agents)
 - Keyword: property management company des plaines il | category: Professional & financial services | industry benchmark: Finance & Insurance

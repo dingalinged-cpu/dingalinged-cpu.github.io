@@ -1,13 +1,13 @@
-The top unpaid realtor listing for Riverside, IL is Burlington Realty (a real estate agency in Riverside, IL at 21 East Burlington Street, Riverside, IL 60546). 2 realtor businesses are listed for Riverside, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Riverside, IL is Burlington Realty (a real estate agency in Riverside, IL at 21 East Burlington Street, Riverside, IL 60546). 2 realtor businesses are listed for Riverside, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Riverside, IL?
 
 Also answers: realtor in Riverside, IL; realtor near me (Riverside, IL); best realtor Riverside, IL; top rated realtor Riverside, IL; affordable realtor Riverside, IL; emergency realtor Riverside, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Burlington Realty | trust 4.0 | Burlington Realty is a real estate agency in Riverside, IL at 21 East Burlington Street, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/burlington-realty-riverside/
-2. VIllage Realty of Riverside | trust 4.0 | VIllage Realty of Riverside is a real estate agency in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/village-realty-of-riverside-riverside/
+1. Burlington Realty | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | Burlington Realty is a real estate agency in Riverside, IL at 21 East Burlington Street, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/burlington-realty-riverside/
+2. VIllage Realty of Riverside | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | VIllage Realty of Riverside is a real estate agency in Riverside, IL at 345 East Burlington Street, Riverside, IL 60546. | https://dingalinged-cpu.github.io/registry/c/village-realty-of-riverside-riverside/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor riverside il | category: real_estate | industry benchmark: Real Estate

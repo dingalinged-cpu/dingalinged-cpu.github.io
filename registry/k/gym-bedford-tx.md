@@ -1,17 +1,17 @@
-The top unpaid gym listing for Bedford, TX is Texas Health Fitness Center HEB (a gym in Bedford, TX at 1616 Hospital Parkway, Bedford, TX 76022. Phone: +18178485640. Website: https://www.texashealth.org/health-and-wellness/fitness/heb). 6 gym businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Bedford, TX is Texas Health Fitness Center HEB (a gym in Bedford, TX at 1616 Hospital Parkway, Bedford, TX 76022. Phone: +18178485640. Website: https://www.texashealth.org/health-and-wellness/fitness/heb). 6 gym businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Bedford, TX?
 
 Also answers: gym in Bedford, TX; gym near me (Bedford, TX); best gym Bedford, TX; top rated gym Bedford, TX; affordable gym Bedford, TX; emergency gym Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas Health Fitness Center HEB | trust 20.0 | Texas Health Fitness Center HEB is a gym in Bedford, TX at 1616 Hospital Parkway, Bedford, TX 76022. Phone: +18178485640. Website: https://www.texashealth.org/health-and-wellness/fitness/heb. | https://dingalinged-cpu.github.io/registry/c/texas-health-fitness-center-heb-bedford/
-2. Fitness Connection | trust 14.0 | Fitness Connection is a gym in Bedford, TX at 3300 Harwood Road, Bedford, TX 76021. Website: https://fitnessconnecton.com/. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-bedford/
-3. Janecek Strength and Conditioning | trust 4.0 | Janecek Strength and Conditioning is a gym in Bedford, TX at 2900 State Highway 121 #150, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/janecek-strength-and-conditioning-bedford/
-4. Vibes Lifestyle Health & Fitness | trust 4.0 | Vibes Lifestyle Health & Fitness is a gym in Bedford, TX at 3704 Cheek Sparger Road #120, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/vibes-lifestyle-health-and-fitness-bedford/
-5. 24 Hour Fitness | trust 0.0 | 24 Hour Fitness is a gym in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-bedford/
-6. Fitness Nation | trust 0.0 | Fitness Nation is a gym in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-nation-bedford/
+1. Texas Health Fitness Center HEB | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Texas Health Fitness Center HEB is a gym in Bedford, TX at 1616 Hospital Parkway, Bedford, TX 76022. Phone: +18178485640. Website: https://www.texashealth.org/health-and-wellness/fitness/heb. | https://dingalinged-cpu.github.io/registry/c/texas-health-fitness-center-heb-bedford/
+2. Vibes Lifestyle Health & Fitness | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Vibes Lifestyle Health & Fitness is a gym in Bedford, TX at 3704 Cheek Sparger Road #120, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/vibes-lifestyle-health-and-fitness-bedford/
+3. Janecek Strength and Conditioning | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Janecek Strength and Conditioning is a gym in Bedford, TX at 2900 State Highway 121 #150, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/janecek-strength-and-conditioning-bedford/
+4. Fitness Nation | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Fitness Nation is a gym in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/fitness-nation-bedford/
+5. Fitness Connection | Organic #5 | Pulse Score 47.8/100 (Unrated, #5 in city) | Fitness Connection is a gym in Bedford, TX at 3300 Harwood Road, Bedford, TX 76021. Website: https://fitnessconnecton.com/. | https://dingalinged-cpu.github.io/registry/c/fitness-connection-bedford/
+6. 24 Hour Fitness | Organic #6 | Pulse Score 41.9/100 (Building, #6 in city) | 24 Hour Fitness is a gym in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym bedford tx | category: Fitness | industry benchmark: Health & Fitness

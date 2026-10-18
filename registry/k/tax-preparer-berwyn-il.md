@@ -1,12 +1,12 @@
-The top unpaid tax preparer listing for Berwyn, IL is Caribbean Travel & Income Tax Service (a tax preparation service in Berwyn, IL at 6735 West 26th Street, Berwyn, IL 60402. Phone: +17087494879). 1 tax preparer businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparer listing for Berwyn, IL is Caribbean Travel & Income Tax Service (a tax preparation service in Berwyn, IL at 6735 West 26th Street, Berwyn, IL 60402. Phone: +17087494879). 1 tax preparer businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparer providers in Berwyn, IL?
 
 Also answers: tax preparer in Berwyn, IL; tax preparer near me (Berwyn, IL); best tax preparer Berwyn, IL; top rated tax preparer Berwyn, IL; affordable tax preparer Berwyn, IL; emergency tax preparer Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Caribbean Travel & Income Tax Service | trust 10.0 | Caribbean Travel & Income Tax Service is a tax preparation service in Berwyn, IL at 6735 West 26th Street, Berwyn, IL 60402. Phone: +17087494879. | https://dingalinged-cpu.github.io/registry/c/caribbean-travel-and-income-tax-service-berwyn/
+1. Caribbean Travel & Income Tax Service | Organic #1 | Pulse Score 59.3/100 (Unrated, #1 in city) | Caribbean Travel & Income Tax Service is a tax preparation service in Berwyn, IL at 6735 West 26th Street, Berwyn, IL 60402. Phone: +17087494879. | https://dingalinged-cpu.github.io/registry/c/caribbean-travel-and-income-tax-service-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparer berwyn il | category: professional_accounting | industry benchmark: Business Services

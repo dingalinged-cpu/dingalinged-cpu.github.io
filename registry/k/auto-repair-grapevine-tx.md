@@ -1,19 +1,19 @@
-The top unpaid auto repair listing for Grapevine, TX is National Tire and Battery (an auto repair shop in Grapevine, TX at 202 East State Highway 114, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465). 8 auto repair businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Grapevine, TX is Blagg Tire & Service (an auto repair shop in Grapevine, TX). 8 auto repair businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Grapevine, TX?
 
 Also answers: auto repair in Grapevine, TX; auto repair near me (Grapevine, TX); best auto repair Grapevine, TX; top rated auto repair Grapevine, TX; affordable auto repair Grapevine, TX; emergency auto repair Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. National Tire and Battery | trust 10.0 | National Tire and Battery is an auto repair shop in Grapevine, TX at 202 East State Highway 114, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine/
-2. National Tire and Battery | trust 10.0 | National Tire and Battery is an auto repair shop in Grapevine, TX at 3590 Grapevine Mills Boulevard North, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/3590-n-grapevine-mills-blvd-76051/4464. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine-w706848984/
-3. Blagg Tire & Service | trust 0.0 | Blagg Tire & Service is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/blagg-tire-and-service-grapevine/
-4. DFW Collision Center | trust 0.0 | DFW Collision Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-collision-center-grapevine/
-5. Firestone | trust 0.0 | Firestone is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-grapevine/
-6. Midas | trust 0.0 | Midas is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/midas-grapevine/
-7. Stuart's Paint & Body | trust 0.0 | Stuart's Paint & Body is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/stuarts-paint-and-body-grapevine/
-8. Walmart Auto Center | trust 0.0 | Walmart Auto Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-center-grapevine/
+1. Blagg Tire & Service | Organic #1 | Pulse Score 54.2/100 (Unrated, #1 in city) | Blagg Tire & Service is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/blagg-tire-and-service-grapevine/
+2. DFW Collision Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | DFW Collision Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/dfw-collision-center-grapevine/
+3. Stuart's Paint & Body | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Stuart's Paint & Body is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/stuarts-paint-and-body-grapevine/
+4. Walmart Auto Center | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Walmart Auto Center is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/walmart-auto-center-grapevine/
+5. National Tire and Battery | Organic #5 | Pulse Score 46.8/100 (Building, #5 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 3590 Grapevine Mills Boulevard North, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/3590-n-grapevine-mills-blvd-76051/4464. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine-w706848984/
+6. National Tire and Battery | Organic #6 | Pulse Score 46.5/100 (Building, #6 in city) | National Tire and Battery is an auto repair shop in Grapevine, TX at 202 East State Highway 114, Grapevine, TX 76051. Website: https://www.ntb.com/store/tx/grapevine/202-e-state-highway-114-76051/4465. | https://dingalinged-cpu.github.io/registry/c/national-tire-and-battery-grapevine/
+7. Firestone | Organic #7 | Pulse Score 42.2/100 (Building, #7 in city) | Firestone is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-grapevine/
+8. Midas | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | Midas is an auto repair shop in Grapevine, TX. | https://dingalinged-cpu.github.io/registry/c/midas-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair grapevine tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

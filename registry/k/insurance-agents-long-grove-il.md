@@ -1,12 +1,12 @@
-The top unpaid insurance agents listing for Long Grove, IL is State Farm - Ryan Messner (an insurance agent in Long Grove, IL at 437 Robert Parker Coffin Road, Long Grove, IL 60047). 1 insurance agents businesses are listed for Long Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Long Grove, IL is State Farm - Ryan Messner (an insurance agent in Long Grove, IL at 437 Robert Parker Coffin Road, Long Grove, IL 60047). 1 insurance agents businesses are listed for Long Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Long Grove, IL?
 
 Also answers: insurance agents in Long Grove, IL; insurance agents near me (Long Grove, IL); best insurance agents Long Grove, IL; top rated insurance agents Long Grove, IL; affordable insurance agents Long Grove, IL; emergency insurance agents Long Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm - Ryan Messner | trust 4.0 | State Farm - Ryan Messner is an insurance agent in Long Grove, IL at 437 Robert Parker Coffin Road, Long Grove, IL 60047. | https://dingalinged-cpu.github.io/registry/c/state-farm-ryan-messner-long-grove/
+1. State Farm - Ryan Messner | Organic #1 | Pulse Score 43.7/100 (Building, #1 in city) | State Farm - Ryan Messner is an insurance agent in Long Grove, IL at 437 Robert Parker Coffin Road, Long Grove, IL 60047. | https://dingalinged-cpu.github.io/registry/c/state-farm-ryan-messner-long-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents long grove il | category: insurance | industry benchmark: Finance & Insurance

@@ -1,12 +1,12 @@
-The top unpaid family doctor listing for South Milwaukee, WI is Aurora Health Center (a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee). 1 family doctor businesses are listed for South Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid family doctor listing for South Milwaukee, WI is Aurora Health Center (a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee). 1 family doctor businesses are listed for South Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best family doctor providers in South Milwaukee, WI?
 
 Also answers: family doctor in South Milwaukee, WI; family doctor near me (South Milwaukee, WI); best family doctor South Milwaukee, WI; top rated family doctor South Milwaukee, WI; affordable family doctor South Milwaukee, WI; emergency family doctor South Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aurora Health Center | trust 20.0 | Aurora Health Center is a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee. | https://dingalinged-cpu.github.io/registry/c/aurora-health-center-south-milwaukee/
+1. Aurora Health Center | Organic #1 | Pulse Score 51.9/100 (Fair, #1 in city) | Aurora Health Center is a family medicine practice in South Milwaukee, WI at 3611 South Chicago Avenue, South Milwaukee, WI 53172. Phone: +14147627270. Website: https://www.aurorahealthcare.org/locations/aurora-health-center-south-milwaukee. | https://dingalinged-cpu.github.io/registry/c/aurora-health-center-south-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: family doctor south milwaukee wi | category: Health & medical | industry benchmark: Physicians & Surgeons

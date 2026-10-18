@@ -13,7 +13,7 @@ Park Lakes Dental Care is a dentist in Harris County, TX at 4801 Wilson Road #20
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo,We 09:00-18:00; Tu,Th 07:00-16:00; Fr 08:00-12:00; Sa-Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 25% of dentists in Houston, #3 of 73 dentists in Harris County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 56.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

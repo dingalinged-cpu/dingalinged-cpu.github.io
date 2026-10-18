@@ -13,7 +13,7 @@ Align Braces & Kids’ Dental is a dentist in Murphy, TX. Phone: +12147035200. W
 - Website: https://alignbraces.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:30-17:30
-- Registry Score: 61/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 22% of dentists in Dallas–Fort Worth, #1 of 5 dentists in Murphy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 57.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

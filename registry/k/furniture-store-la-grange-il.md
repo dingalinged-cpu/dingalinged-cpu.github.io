@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for La Grange, IL is Anecdote (a furniture store in La Grange, IL). 2 furniture store businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for La Grange, IL is Anecdote (a furniture store in La Grange, IL). 2 furniture store businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in La Grange, IL?
 
 Also answers: furniture store in La Grange, IL; furniture store near me (La Grange, IL); best furniture store La Grange, IL; top rated furniture store La Grange, IL; affordable furniture store La Grange, IL; emergency furniture store La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anecdote | trust 0.0 | Anecdote is a furniture store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/anecdote-la-grange/
-2. Luxe Home Interiors | trust 0.0 | Luxe Home Interiors is a furniture store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/luxe-home-interiors-la-grange/
+1. Anecdote | Organic #1 | Pulse Score 54.3/100 (Unrated, #1 in city) | Anecdote is a furniture store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/anecdote-la-grange/
+2. Luxe Home Interiors | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | Luxe Home Interiors is a furniture store in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/luxe-home-interiors-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store la grange il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

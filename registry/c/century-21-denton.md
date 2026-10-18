@@ -13,7 +13,7 @@ Century 21 is a real estate agency in Denton, TX at 3537 Teasley Lane, Denton, T
 - Website: https://century21judgefite.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 86% of real estate agencys in Dallas–Fort Worth, #5 of 7 real estate agencys in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 53.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

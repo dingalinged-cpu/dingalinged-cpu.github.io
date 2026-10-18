@@ -1,12 +1,12 @@
-The top unpaid architect listing for Brookfield, WI is Karen Kemph Interiors (an architect in Brookfield, WI at 13175 West Bluemound Road #Unit 1, Brookfield, WI). 1 architect businesses are listed for Brookfield, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Brookfield, WI is Karen Kemph Interiors (an architect in Brookfield, WI at 13175 West Bluemound Road #Unit 1, Brookfield, WI). 1 architect businesses are listed for Brookfield, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Brookfield, WI?
 
 Also answers: architect in Brookfield, WI; architect near me (Brookfield, WI); best architect Brookfield, WI; top rated architect Brookfield, WI; affordable architect Brookfield, WI; emergency architect Brookfield, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Karen Kemph Interiors | trust 3.0 | Karen Kemph Interiors is an architect in Brookfield, WI at 13175 West Bluemound Road #Unit 1, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/karen-kemph-interiors-brookfield/
+1. Karen Kemph Interiors | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | Karen Kemph Interiors is an architect in Brookfield, WI at 13175 West Bluemound Road #Unit 1, Brookfield, WI. | https://dingalinged-cpu.github.io/registry/c/karen-kemph-interiors-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect brookfield wi | category: Home services - Design | industry benchmark: Home & Home Improvement

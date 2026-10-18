@@ -13,7 +13,7 @@ Omega Dentist is a dentist in Eden Prairie, MN at 6203 Dell Road, Eden Prairie, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.9/100 — Unrated (not enough evidence yet) — top 75% of dentists in Minneapolis–St. Paul, #4 of 8 dentists in Eden Prairie (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.5, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

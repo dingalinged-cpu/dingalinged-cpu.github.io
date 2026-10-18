@@ -1,18 +1,18 @@
-The top unpaid insurance agent listing for Humble, TX is State Farm (an insurance agent in Humble, TX at 1420 FM 1960 Bypass Road East #121, Humble, TX 77338. Phone: +12814462629. Website: https://jcroberson.com/). 7 insurance agent businesses are listed for Humble, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Humble, TX is A-Z Auto Insurance (an insurance agent in Humble, TX at 7850 FM 1960 Bypass Road West #E, Humble, TX). 7 insurance agent businesses are listed for Humble, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Humble, TX?
 
 Also answers: insurance agent in Humble, TX; insurance agent near me (Humble, TX); best insurance agent Humble, TX; top rated insurance agent Humble, TX; affordable insurance agent Humble, TX; emergency insurance agent Humble, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. State Farm | trust 16.0 | State Farm is an insurance agent in Humble, TX at 1420 FM 1960 Bypass Road East #121, Humble, TX 77338. Phone: +12814462629. Website: https://jcroberson.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-humble/
-2. A-Z Auto Insurance | trust 3.0 | A-Z Auto Insurance is an insurance agent in Humble, TX at 7850 FM 1960 Bypass Road West #E, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/a-z-auto-insurance-humble/
-3. Cedric O. Johnson Agency | trust 3.0 | Cedric O. Johnson Agency is an insurance agent in Humble, TX at 8998 Will Clayton Parkway #C, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/cedric-o-johnson-agency-humble/
-4. Acceptance Auto Insurance | trust 0.0 | Acceptance Auto Insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/acceptance-auto-insurance-humble/
-5. Amax Auto Insurance | trust 0.0 | Amax Auto Insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amax-auto-insurance-humble/
-6. Amtex insurance | trust 0.0 | Amtex insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amtex-insurance-humble/
-7. La Familia auto insurance | trust 0.0 | La Familia auto insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/la-familia-auto-insurance-humble/
+1. A-Z Auto Insurance | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | A-Z Auto Insurance is an insurance agent in Humble, TX at 7850 FM 1960 Bypass Road West #E, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/a-z-auto-insurance-humble/
+2. State Farm | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | State Farm is an insurance agent in Humble, TX at 1420 FM 1960 Bypass Road East #121, Humble, TX 77338. Phone: +12814462629. Website: https://jcroberson.com/. | https://dingalinged-cpu.github.io/registry/c/state-farm-humble/
+3. Cedric O. Johnson Agency | Organic #3 | Pulse Score 44.4/100 (Unrated, #3 in city) | Cedric O. Johnson Agency is an insurance agent in Humble, TX at 8998 Will Clayton Parkway #C, Humble, TX. | https://dingalinged-cpu.github.io/registry/c/cedric-o-johnson-agency-humble/
+4. Amtex insurance | Organic #4 | Pulse Score 42.8/100 (Unrated, #4 in city) | Amtex insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amtex-insurance-humble/
+5. Amax Auto Insurance | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Amax Auto Insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/amax-auto-insurance-humble/
+6. Acceptance Auto Insurance | Organic #6 | Pulse Score 41.7/100 (Unrated, #6 in city) | Acceptance Auto Insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/acceptance-auto-insurance-humble/
+7. La Familia auto insurance | Organic #7 | Pulse Score 41.7/100 (Unrated, #7 in city) | La Familia auto insurance is an insurance agent in Humble, TX. | https://dingalinged-cpu.github.io/registry/c/la-familia-auto-insurance-humble/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent humble tx | category: Professional & financial services | industry benchmark: Finance & Insurance

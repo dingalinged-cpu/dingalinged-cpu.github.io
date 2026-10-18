@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Allen, TX is Texas State Optical (an eye care practice in Allen, TX at 918 Watters Creek Boulevard, Allen, TX 75013. Phone: +12144948809. Website: https://tso.com/). 2 eye doctor businesses are listed for Allen, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Allen, TX is Texas State Optical (an eye care practice in Allen, TX at 918 Watters Creek Boulevard, Allen, TX 75013. Phone: +12144948809. Website: https://tso.com/). 2 eye doctor businesses are listed for Allen, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Allen, TX?
 
 Also answers: eye doctor in Allen, TX; eye doctor near me (Allen, TX); best eye doctor Allen, TX; top rated eye doctor Allen, TX; affordable eye doctor Allen, TX; emergency eye doctor Allen, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Texas State Optical | trust 16.0 | Texas State Optical is an eye care practice in Allen, TX at 918 Watters Creek Boulevard, Allen, TX 75013. Phone: +12144948809. Website: https://tso.com/. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-allen/
-2. America's Best Contacts & Eyeglasses | trust 3.0 | America's Best Contacts & Eyeglasses is an eye care practice in Allen, TX at 170 East Stacy Road #2122, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/americas-best-contacts-and-eyeglasses-allen/
+1. Texas State Optical | Organic #1 | Pulse Score 47.4/100 (Unrated, #1 in city) | Texas State Optical is an eye care practice in Allen, TX at 918 Watters Creek Boulevard, Allen, TX 75013. Phone: +12144948809. Website: https://tso.com/. | https://dingalinged-cpu.github.io/registry/c/texas-state-optical-allen/
+2. America's Best Contacts & Eyeglasses | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | America's Best Contacts & Eyeglasses is an eye care practice in Allen, TX at 170 East Stacy Road #2122, Allen, TX. | https://dingalinged-cpu.github.io/registry/c/americas-best-contacts-and-eyeglasses-allen/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor allen tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -1,12 +1,12 @@
-The top unpaid daycare listing for Homer Glen, IL is Bobbie Noonan's Child Care Center (a daycare in Homer Glen, IL at 13230, Homer Glen, IL). 1 daycare businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Homer Glen, IL is Bobbie Noonan's Child Care Center (a daycare in Homer Glen, IL at 13230, Homer Glen, IL). 1 daycare businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Homer Glen, IL?
 
 Also answers: daycare in Homer Glen, IL; daycare near me (Homer Glen, IL); best daycare Homer Glen, IL; top rated daycare Homer Glen, IL; affordable daycare Homer Glen, IL; emergency daycare Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bobbie Noonan's Child Care Center | trust 3.0 | Bobbie Noonan's Child Care Center is a daycare in Homer Glen, IL at 13230, Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/bobbie-noonans-child-care-center-homer-glen/
+1. Bobbie Noonan's Child Care Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Bobbie Noonan's Child Care Center is a daycare in Homer Glen, IL at 13230, Homer Glen, IL. | https://dingalinged-cpu.github.io/registry/c/bobbie-noonans-child-care-center-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare homer glen il | category: Education & childcare | industry benchmark: Education & Instruction

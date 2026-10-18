@@ -13,7 +13,7 @@ The Premier Group is a real estate agency in Woodstock, GA at 8604 Main Street, 
 - Website: https://www.tpgsells.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.5/100 — Good — top 8% of real estate agencys in Atlanta, #1 of 5 real estate agencys in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.2, Trust 55.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

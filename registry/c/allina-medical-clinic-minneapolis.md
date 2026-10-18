@@ -13,7 +13,7 @@ Allina Medical Clinic is a family medicine practice in Minneapolis, MN at 2800 H
 - Website: https://account.allinahealth.org/locations/71
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 8% of family medicine practices in Minneapolis–St. Paul, #1 of 3 family medicine practices in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

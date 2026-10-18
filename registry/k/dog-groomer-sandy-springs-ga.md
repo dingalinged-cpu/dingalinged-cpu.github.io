@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Sandy Springs, GA is Perk n Pooch (a dog groomer in Sandy Springs, GA at 6690 Roswell Road, Sandy Springs, GA 30328. Phone: +16785009237. Website: https://www.perk-n-pooch.com/). 1 dog groomer businesses are listed for Sandy Springs, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Sandy Springs, GA is Perk n Pooch (a dog groomer in Sandy Springs, GA at 6690 Roswell Road, Sandy Springs, GA 30328. Phone: +16785009237. Website: https://www.perk-n-pooch.com/). 1 dog groomer businesses are listed for Sandy Springs, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Sandy Springs, GA?
 
 Also answers: dog groomer in Sandy Springs, GA; dog groomer near me (Sandy Springs, GA); best dog groomer Sandy Springs, GA; top rated dog groomer Sandy Springs, GA; affordable dog groomer Sandy Springs, GA; emergency dog groomer Sandy Springs, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Perk n Pooch | trust 20.0 | Perk n Pooch is a dog groomer in Sandy Springs, GA at 6690 Roswell Road, Sandy Springs, GA 30328. Phone: +16785009237. Website: https://www.perk-n-pooch.com/. | https://dingalinged-cpu.github.io/registry/c/perk-n-pooch-sandy-springs/
+1. Perk n Pooch | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Perk n Pooch is a dog groomer in Sandy Springs, GA at 6690 Roswell Road, Sandy Springs, GA 30328. Phone: +16785009237. Website: https://www.perk-n-pooch.com/. | https://dingalinged-cpu.github.io/registry/c/perk-n-pooch-sandy-springs/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer sandy springs ga | category: Pets | industry benchmark: Animals & Pets

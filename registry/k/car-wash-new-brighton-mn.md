@@ -1,12 +1,12 @@
-The top unpaid car wash listing for New Brighton, MN is Stevies Gas and Splash (a car wash in New Brighton, MN). 1 car wash businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for New Brighton, MN is Stevies Gas and Splash (a car wash in New Brighton, MN). 1 car wash businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in New Brighton, MN?
 
 Also answers: car wash in New Brighton, MN; car wash near me (New Brighton, MN); best car wash New Brighton, MN; top rated car wash New Brighton, MN; affordable car wash New Brighton, MN; emergency car wash New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Stevies Gas and Splash | trust 0.0 | Stevies Gas and Splash is a car wash in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/stevies-gas-and-splash-new-brighton/
+1. Stevies Gas and Splash | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Stevies Gas and Splash is a car wash in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/stevies-gas-and-splash-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash new brighton mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

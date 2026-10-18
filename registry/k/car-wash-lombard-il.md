@@ -1,18 +1,18 @@
-The top unpaid car wash listing for Lombard, IL is Dream Clean Auto Wash (a car wash in Lombard, IL at 200 West Roosevelt Road, Lombard, IL 60148). 7 car wash businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lombard, IL is Dream Clean Auto Wash (a car wash in Lombard, IL at 200 West Roosevelt Road, Lombard, IL 60148). 7 car wash businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lombard, IL?
 
 Also answers: car wash in Lombard, IL; car wash near me (Lombard, IL); best car wash Lombard, IL; top rated car wash Lombard, IL; affordable car wash Lombard, IL; emergency car wash Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dream Clean Auto Wash | trust 8.0 | Dream Clean Auto Wash is a car wash in Lombard, IL at 200 West Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-lombard/
-2. Circle K | trust 4.0 | Circle K is a car wash in Lombard, IL at 930 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/circle-k-lombard/
-3. Mobil | trust 4.0 | Mobil is a car wash in Lombard, IL at 435 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/mobil-lombard/
-4. Mobil | trust 0.0 | Mobil is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-lombard-w988535959/
-5. Shell | trust 0.0 | Shell is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/shell-lombard/
-6. Tidal Wave Auto Spa | trust 0.0 | Tidal Wave Auto Spa is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-lombard/
-7. Tommy's Express | trust 0.0 | Tommy's Express is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/tommys-express-lombard/
+1. Dream Clean Auto Wash | Organic #1 | Pulse Score 51.9/100 (Unrated, #1 in city) | Dream Clean Auto Wash is a car wash in Lombard, IL at 200 West Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/dream-clean-auto-wash-lombard/
+2. Circle K | Organic #2 | Pulse Score 45.3/100 (Building, #2 in city) | Circle K is a car wash in Lombard, IL at 930 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/circle-k-lombard/
+3. Mobil | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Mobil is a car wash in Lombard, IL at 435 East Roosevelt Road, Lombard, IL 60148. | https://dingalinged-cpu.github.io/registry/c/mobil-lombard/
+4. Tommy's Express | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Tommy's Express is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/tommys-express-lombard/
+5. Shell | Organic #5 | Pulse Score 43.3/100 (Building, #5 in city) | Shell is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/shell-lombard/
+6. Mobil | Organic #6 | Pulse Score 42/100 (Building, #6 in city) | Mobil is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-lombard-w988535959/
+7. Tidal Wave Auto Spa | Organic #7 | Pulse Score 42/100 (Building, #7 in city) | Tidal Wave Auto Spa is a car wash in Lombard, IL. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lombard il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

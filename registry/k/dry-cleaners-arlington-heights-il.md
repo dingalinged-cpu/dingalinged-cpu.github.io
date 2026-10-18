@@ -1,15 +1,15 @@
-The top unpaid dry cleaners listing for Arlington Heights, IL is Prestige Cleaners (a dry cleaner in Arlington Heights, IL at 1506 East Hintz Road, Arlington Heights, IL 60004. Phone: +18476320355). 4 dry cleaners businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Arlington Heights, IL is Prestige Cleaners (a dry cleaner in Arlington Heights, IL at 1506 East Hintz Road, Arlington Heights, IL 60004. Phone: +18476320355). 4 dry cleaners businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Arlington Heights, IL?
 
 Also answers: dry cleaners in Arlington Heights, IL; dry cleaners near me (Arlington Heights, IL); best dry cleaners Arlington Heights, IL; top rated dry cleaners Arlington Heights, IL; affordable dry cleaners Arlington Heights, IL; emergency dry cleaners Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Prestige Cleaners | trust 14.0 | Prestige Cleaners is a dry cleaner in Arlington Heights, IL at 1506 East Hintz Road, Arlington Heights, IL 60004. Phone: +18476320355. | https://dingalinged-cpu.github.io/registry/c/prestige-cleaners-arlington-heights/
-2. CD One Price Cleaners | trust 0.0 | CD One Price Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-arlington-heights/
-3. Cleaners | trust 0.0 | Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cleaners-arlington-heights/
-4. Liberty Cleaners | trust 0.0 | Liberty Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/liberty-cleaners-arlington-heights/
+1. Prestige Cleaners | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Prestige Cleaners is a dry cleaner in Arlington Heights, IL at 1506 East Hintz Road, Arlington Heights, IL 60004. Phone: +18476320355. | https://dingalinged-cpu.github.io/registry/c/prestige-cleaners-arlington-heights/
+2. Liberty Cleaners | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Liberty Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/liberty-cleaners-arlington-heights/
+3. CD One Price Cleaners | Organic #3 | Pulse Score 42.9/100 (Building, #3 in city) | CD One Price Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cd-one-price-cleaners-arlington-heights/
+4. Cleaners | Organic #4 | Pulse Score 42.1/100 (Unrated, #4 in city) | Cleaners is a dry cleaner in Arlington Heights, IL. | https://dingalinged-cpu.github.io/registry/c/cleaners-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners arlington heights il | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Ameratex Builders Supply is a window installer in Hurst, TX at 1263 West Hurst B
 - Website: https://ameratex.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 34% of window installers in Dallas–Fort Worth, #1 of 2 window installers in Hurst (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.5, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

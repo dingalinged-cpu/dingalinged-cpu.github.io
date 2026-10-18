@@ -1,12 +1,12 @@
-The top unpaid spa listing for Marietta, GA is Healing Massage Spa (a nail salon in Marietta, GA at 2525 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +16788639983. Website: https://healingmassagefacial.com/). 1 spa businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Marietta, GA is Healing Massage Spa (a nail salon in Marietta, GA at 2525 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +16788639983. Website: https://healingmassagefacial.com/). 1 spa businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Marietta, GA?
 
 Also answers: spa in Marietta, GA; spa near me (Marietta, GA); best spa Marietta, GA; top rated spa Marietta, GA; affordable spa Marietta, GA; emergency spa Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Healing Massage Spa | trust 20.0 | Healing Massage Spa is a nail salon in Marietta, GA at 2525 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +16788639983. Website: https://healingmassagefacial.com/. | https://dingalinged-cpu.github.io/registry/c/healing-massage-spa-marietta/
+1. Healing Massage Spa | Organic #1 | Pulse Score 62.6/100 (Good, #6 in city) | Healing Massage Spa is a nail salon in Marietta, GA at 2525 Shallowford Road Northeast #200, Marietta, GA 30066. Phone: +16788639983. Website: https://healingmassagefacial.com/. | https://dingalinged-cpu.github.io/registry/c/healing-massage-spa-marietta/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa marietta ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

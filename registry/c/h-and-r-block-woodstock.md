@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Woodstock, GA at 1075 Buckhead Crossin
 - Website: https://www.hrblock.com/local-tax-offices/georgia/woodstock/1075-buckhead-crossing-ste-100/10934/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-14:00; We,Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52.7/100 — Fair — top 53% of tax preparation services in Atlanta, #2 of 2 tax preparation services in Woodstock (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38, Trust 70.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

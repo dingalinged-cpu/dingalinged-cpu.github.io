@@ -13,7 +13,7 @@ Cliff House is an event venue in Dallas, TX at 610 North Tyler Street, Dallas, T
 - Website: https://www.cliffhousetexas.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Good — top 11% of event venues in Dallas–Fort Worth, #2 of 17 event venues in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.5, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

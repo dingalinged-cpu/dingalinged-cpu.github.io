@@ -1,12 +1,12 @@
-The top unpaid florist listing for Burbank, IL is Lucy's Flowers and Gifts (a florist in Burbank, IL at 8500 South Cicero Avenue, Burbank, IL 60459. Phone: +17086347070. Website: https://lucys-flowers.com/). 1 florist businesses are listed for Burbank, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid florist listing for Burbank, IL is Lucy's Flowers and Gifts (a florist in Burbank, IL at 8500 South Cicero Avenue, Burbank, IL 60459. Phone: +17086347070. Website: https://lucys-flowers.com/). 1 florist businesses are listed for Burbank, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best florist providers in Burbank, IL?
 
 Also answers: florist in Burbank, IL; florist near me (Burbank, IL); best florist Burbank, IL; top rated florist Burbank, IL; affordable florist Burbank, IL; emergency florist Burbank, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lucy's Flowers and Gifts | trust 20.0 | Lucy's Flowers and Gifts is a florist in Burbank, IL at 8500 South Cicero Avenue, Burbank, IL 60459. Phone: +17086347070. Website: https://lucys-flowers.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-flowers-and-gifts-burbank/
+1. Lucy's Flowers and Gifts | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | Lucy's Flowers and Gifts is a florist in Burbank, IL at 8500 South Cicero Avenue, Burbank, IL 60459. Phone: +17086347070. Website: https://lucys-flowers.com/. | https://dingalinged-cpu.github.io/registry/c/lucys-flowers-and-gifts-burbank/
 
 ## Market data (for advertisers and agents)
 - Keyword: florist burbank il | category: Events & weddings | industry benchmark: Personal Services

@@ -13,7 +13,7 @@ Bronze Boss Tanned by Tasheena is a tanning salon in Golden Valley, MN. Phone: +
 - Website: https://bronzebosstannedbytasheena.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 55.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.1/100 — Unrated (not enough evidence yet) — top 27% of tanning salons in Minneapolis–St. Paul, #1 of 1 tanning salons in Golden Valley (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.4, Trust 49.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

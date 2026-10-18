@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Grapevine, TX is Adams Lynch & Loftin (a lawyer in Grapevine, TX at 3950 State Highway 360, Grapevine, TX 76051). 1 lawyer businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Grapevine, TX is Adams Lynch & Loftin (a lawyer in Grapevine, TX at 3950 State Highway 360, Grapevine, TX 76051). 1 lawyer businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Grapevine, TX?
 
 Also answers: lawyer in Grapevine, TX; lawyer near me (Grapevine, TX); best lawyer Grapevine, TX; top rated lawyer Grapevine, TX; affordable lawyer Grapevine, TX; emergency lawyer Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adams Lynch & Loftin | trust 4.0 | Adams Lynch & Loftin is a lawyer in Grapevine, TX at 3950 State Highway 360, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/adams-lynch-and-loftin-grapevine/
+1. Adams Lynch & Loftin | Organic #1 | Pulse Score 55/100 (Unrated, #1 in city) | Adams Lynch & Loftin is a lawyer in Grapevine, TX at 3950 State Highway 360, Grapevine, TX 76051. | https://dingalinged-cpu.github.io/registry/c/adams-lynch-and-loftin-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer grapevine tx | category: Legal | industry benchmark: Attorneys & Legal Services

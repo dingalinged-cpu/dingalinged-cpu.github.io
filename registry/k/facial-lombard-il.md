@@ -1,12 +1,12 @@
-The top unpaid facial listing for Lombard, IL is Brow Art 23 (a skin care studio in Lombard, IL at 157G Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309329300. Website: https://browart23.com/). 1 facial businesses are listed for Lombard, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Lombard, IL is Brow Art 23 (a skin care studio in Lombard, IL at 157G Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309329300. Website: https://browart23.com/). 1 facial businesses are listed for Lombard, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Lombard, IL?
 
 Also answers: facial in Lombard, IL; facial near me (Lombard, IL); best facial Lombard, IL; top rated facial Lombard, IL; affordable facial Lombard, IL; emergency facial Lombard, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brow Art 23 | trust 16.0 | Brow Art 23 is a skin care studio in Lombard, IL at 157G Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309329300. Website: https://browart23.com/. | https://dingalinged-cpu.github.io/registry/c/brow-art-23-lombard/
+1. Brow Art 23 | Organic #1 | Pulse Score 47.6/100 (Building, #1 in city) | Brow Art 23 is a skin care studio in Lombard, IL at 157G Yorktown Shopping Center Rd, Lombard, IL 60148. Phone: +16309329300. Website: https://browart23.com/. | https://dingalinged-cpu.github.io/registry/c/brow-art-23-lombard/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial lombard il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

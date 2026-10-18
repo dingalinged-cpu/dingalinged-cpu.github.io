@@ -13,7 +13,7 @@ Parkland Dental Clinic is a dentist in Lewisville, TX. Phone: +14692932530.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu,Th-Fr 09:00-17:00; Sa 09:00-14:00; PH closed
-- Registry Score: 61.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Good — top 16% of dentists in Dallas–Fort Worth, #12 of 32 dentists in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.4, Trust 56.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

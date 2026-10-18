@@ -13,7 +13,7 @@ Cross Creek Ranch Fitness Center is a gym in Fulshear, TX at 6450 Cross Creek Be
 - Website: https://www.crosscreektexas.com/fitness-center
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 04:00-22:00; Fr 04:00-21:00; Sa-Su 04:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 9% of gyms in Houston, #1 of 3 gyms in Fulshear (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.1, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

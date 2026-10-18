@@ -1,12 +1,12 @@
-The top unpaid gift shop listing for Tomball, TX is Adelyne's Boutique & Gifts (a gift shop in Tomball, TX at 11715 Spring Cypress Road #E, Tomball, TX 77377. Website: https://shopadelynes.com/). 1 gift shop businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gift shop listing for Tomball, TX is Adelyne's Boutique & Gifts (a gift shop in Tomball, TX at 11715 Spring Cypress Road #E, Tomball, TX 77377. Website: https://shopadelynes.com/). 1 gift shop businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gift shop providers in Tomball, TX?
 
 Also answers: gift shop in Tomball, TX; gift shop near me (Tomball, TX); best gift shop Tomball, TX; top rated gift shop Tomball, TX; affordable gift shop Tomball, TX; emergency gift shop Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Adelyne's Boutique & Gifts | trust 10.0 | Adelyne's Boutique & Gifts is a gift shop in Tomball, TX at 11715 Spring Cypress Road #E, Tomball, TX 77377. Website: https://shopadelynes.com/. | https://dingalinged-cpu.github.io/registry/c/adelynes-boutique-and-gifts-tomball/
+1. Adelyne's Boutique & Gifts | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Adelyne's Boutique & Gifts is a gift shop in Tomball, TX at 11715 Spring Cypress Road #E, Tomball, TX 77377. Website: https://shopadelynes.com/. | https://dingalinged-cpu.github.io/registry/c/adelynes-boutique-and-gifts-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: gift shop tomball tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

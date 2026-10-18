@@ -13,7 +13,7 @@ Hot Spring Foot Massage is a massage studio in Roanoke, TX at 1224 North US High
 - Website: https://www.hotspringfootmassage.net/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-22:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 9% of massage studios in Dallas–Fort Worth, #1 of 2 massage studios in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

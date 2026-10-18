@@ -1,16 +1,16 @@
-The top unpaid realtor listing for Edina, MN is Lakes Sotheby's International Realty (a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/). 5 realtor businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid realtor listing for Edina, MN is Lakes Sotheby's International Realty (a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/). 5 realtor businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best realtor providers in Edina, MN?
 
 Also answers: realtor in Edina, MN; realtor near me (Edina, MN); best realtor Edina, MN; top rated realtor Edina, MN; affordable realtor Edina, MN; emergency realtor Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lakes Sotheby's International Realty | trust 20.0 | Lakes Sotheby's International Realty is a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/. | https://dingalinged-cpu.github.io/registry/c/lakes-sothebys-international-realty-edina/
-2. Quinby Partners | trust 16.0 | Quinby Partners is a real estate agency in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Phone: +16122323165. Website: https://www.quinbypartners.com/. | https://dingalinged-cpu.github.io/registry/c/quinby-partners-edina/
-3. Emerald Real Estate | trust 6.0 | Emerald Real Estate is a real estate agency in Edina, MN. Website: https://www.clairekillen.realtor/. | https://dingalinged-cpu.github.io/registry/c/emerald-real-estate-edina/
-4. Nevers | Perpich Real Estate | trust 6.0 | Nevers | Perpich Real Estate is a real estate agency in Edina, MN. Website: https://neversperpichrealestate.com/. | https://dingalinged-cpu.github.io/registry/c/nevers-perpich-real-estate-edina/
-5. MAPeterson | trust 0.0 | MAPeterson is a real estate agency in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/mapeterson-edina/
+1. Lakes Sotheby's International Realty | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | Lakes Sotheby's International Realty is a real estate agency in Edina, MN at 3946 West 50th Street, Edina, MN 55424. Phone: +16125010252. Website: https://www.joshsprague.com/. | https://dingalinged-cpu.github.io/registry/c/lakes-sothebys-international-realty-edina/
+2. Quinby Partners | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Quinby Partners is a real estate agency in Edina, MN at 4388 France Avenue South, Edina, MN 55410. Phone: +16122323165. Website: https://www.quinbypartners.com/. | https://dingalinged-cpu.github.io/registry/c/quinby-partners-edina/
+3. Emerald Real Estate | Organic #3 | Pulse Score 56.4/100 (Unrated, #3 in city) | Emerald Real Estate is a real estate agency in Edina, MN. Website: https://www.clairekillen.realtor/. | https://dingalinged-cpu.github.io/registry/c/emerald-real-estate-edina/
+4. MAPeterson | Organic #4 | Pulse Score 54.1/100 (Unrated, #4 in city) | MAPeterson is a real estate agency in Edina, MN. | https://dingalinged-cpu.github.io/registry/c/mapeterson-edina/
+5. Nevers | Perpich Real Estate | Organic #5 | Pulse Score 50/100 (Unrated, #5 in city) | Nevers | Perpich Real Estate is a real estate agency in Edina, MN. Website: https://neversperpichrealestate.com/. | https://dingalinged-cpu.github.io/registry/c/nevers-perpich-real-estate-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: realtor edina mn | category: real_estate | industry benchmark: Real Estate

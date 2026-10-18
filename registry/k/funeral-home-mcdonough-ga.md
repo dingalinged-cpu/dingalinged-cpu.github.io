@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Mcdonough, GA is Southern Cremations & Funerals (a funeral home in McDonough, GA at 640 McGarity Road, McDonough, GA 30252. Phone: +17709578330. Website: https://www.southerncremations.com/locations/mcdonough). 1 funeral home businesses are listed for Mcdonough, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Mcdonough, GA is Southern Cremations & Funerals (a funeral home in McDonough, GA at 640 McGarity Road, McDonough, GA 30252. Phone: +17709578330. Website: https://www.southerncremations.com/locations/mcdonough). 1 funeral home businesses are listed for Mcdonough, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Mcdonough, GA?
 
 Also answers: funeral home in Mcdonough, GA; funeral home near me (Mcdonough, GA); best funeral home Mcdonough, GA; top rated funeral home Mcdonough, GA; affordable funeral home Mcdonough, GA; emergency funeral home Mcdonough, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Southern Cremations & Funerals | trust 16.0 | Southern Cremations & Funerals is a funeral home in McDonough, GA at 640 McGarity Road, McDonough, GA 30252. Phone: +17709578330. Website: https://www.southerncremations.com/locations/mcdonough. | https://dingalinged-cpu.github.io/registry/c/southern-cremations-and-funerals-mcdonough/
+1. Southern Cremations & Funerals | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | Southern Cremations & Funerals is a funeral home in McDonough, GA at 640 McGarity Road, McDonough, GA 30252. Phone: +17709578330. Website: https://www.southerncremations.com/locations/mcdonough. | https://dingalinged-cpu.github.io/registry/c/southern-cremations-and-funerals-mcdonough/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home mcdonough ga | category: Professional & financial services | industry benchmark: Finance & Insurance

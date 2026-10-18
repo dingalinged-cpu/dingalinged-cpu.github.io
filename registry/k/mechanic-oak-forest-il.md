@@ -1,16 +1,16 @@
-The top unpaid mechanic listing for Oak Forest, IL is Cars Automotive Inc (an auto repair shop in Oak Forest, IL at 6114 West 159th Street, Oak Forest, IL 60452. Phone: +17086876687). 5 mechanic businesses are listed for Oak Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Oak Forest, IL is Cars Automotive Inc (an auto repair shop in Oak Forest, IL at 6114 West 159th Street, Oak Forest, IL 60452. Phone: +17086876687). 5 mechanic businesses are listed for Oak Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Oak Forest, IL?
 
 Also answers: mechanic in Oak Forest, IL; mechanic near me (Oak Forest, IL); best mechanic Oak Forest, IL; top rated mechanic Oak Forest, IL; affordable mechanic Oak Forest, IL; emergency mechanic Oak Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cars Automotive Inc | trust 10.0 | Cars Automotive Inc is an auto repair shop in Oak Forest, IL at 6114 West 159th Street, Oak Forest, IL 60452. Phone: +17086876687. | https://dingalinged-cpu.github.io/registry/c/cars-automotive-inc-oak-forest/
-2. Gerber Collision and Glass | trust 8.0 | Gerber Collision and Glass is an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-forest/
-3. Goodyear | trust 4.0 | Goodyear is an auto repair shop in Oak Forest, IL at 5740 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/goodyear-oak-forest/
-4. Jiffy Lube | trust 4.0 | Jiffy Lube is an auto repair shop in Oak Forest, IL at 5401 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oak-forest/
-5. Aladdin Auto Service | trust 0.0 | Aladdin Auto Service is an auto repair shop in Oak Forest, IL. | https://dingalinged-cpu.github.io/registry/c/aladdin-auto-service-oak-forest/
+1. Cars Automotive Inc | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Cars Automotive Inc is an auto repair shop in Oak Forest, IL at 6114 West 159th Street, Oak Forest, IL 60452. Phone: +17086876687. | https://dingalinged-cpu.github.io/registry/c/cars-automotive-inc-oak-forest/
+2. Aladdin Auto Service | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Aladdin Auto Service is an auto repair shop in Oak Forest, IL. | https://dingalinged-cpu.github.io/registry/c/aladdin-auto-service-oak-forest/
+3. Gerber Collision and Glass | Organic #3 | Pulse Score 47.4/100 (Building, #3 in city) | Gerber Collision and Glass is an auto repair shop in Oak Forest, IL at 6140 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-oak-forest/
+4. Goodyear | Organic #4 | Pulse Score 44.2/100 (Building, #4 in city) | Goodyear is an auto repair shop in Oak Forest, IL at 5740 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/goodyear-oak-forest/
+5. Jiffy Lube | Organic #5 | Pulse Score 44.2/100 (Building, #5 in city) | Jiffy Lube is an auto repair shop in Oak Forest, IL at 5401 West 159th Street, Oak Forest, IL 60452. | https://dingalinged-cpu.github.io/registry/c/jiffy-lube-oak-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic oak forest il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

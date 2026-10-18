@@ -1,16 +1,16 @@
-The top unpaid gym listing for Northbrook, IL is SALT Fitness Northbrook (a gym in Northbrook, IL at 984 Willow Road, Northbrook, IL 60062. Phone: +18477149910. Website: https://saltfit.com/). 5 gym businesses are listed for Northbrook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Northbrook, IL is SALT Fitness Northbrook (a gym in Northbrook, IL at 984 Willow Road, Northbrook, IL 60062. Phone: +18477149910. Website: https://saltfit.com/). 5 gym businesses are listed for Northbrook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Northbrook, IL?
 
 Also answers: gym in Northbrook, IL; gym near me (Northbrook, IL); best gym Northbrook, IL; top rated gym Northbrook, IL; affordable gym Northbrook, IL; emergency gym Northbrook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SALT Fitness Northbrook | trust 16.0 | SALT Fitness Northbrook is a gym in Northbrook, IL at 984 Willow Road, Northbrook, IL 60062. Phone: +18477149910. Website: https://saltfit.com/. | https://dingalinged-cpu.github.io/registry/c/salt-fitness-northbrook-northbrook/
-2. Life Time | trust 10.0 | Life Time is a gym in Northbrook, IL at 1100 Skokie Boulevard, Northbrook, IL 60062. Website: https://www.lifetime.life/life-time-locations/il-northbrook.html. | https://dingalinged-cpu.github.io/registry/c/life-time-northbrook/
-3. Orangetheory Fitness | trust 10.0 | Orangetheory Fitness is a gym in Northbrook, IL at 3101 Dundee Road #A, Northbrook, IL 60062. Phone: +12245416300. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-northbrook/
-4. VASA Fitness | trust 4.0 | VASA Fitness is a gym in Northbrook, IL at 4125 Dundee Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-northbrook/
-5. Fitness 19 | trust 0.0 | Fitness 19 is a gym in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-northbrook/
+1. SALT Fitness Northbrook | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | SALT Fitness Northbrook is a gym in Northbrook, IL at 984 Willow Road, Northbrook, IL 60062. Phone: +18477149910. Website: https://saltfit.com/. | https://dingalinged-cpu.github.io/registry/c/salt-fitness-northbrook-northbrook/
+2. Orangetheory Fitness | Organic #2 | Pulse Score 47/100 (Building, #2 in city) | Orangetheory Fitness is a gym in Northbrook, IL at 3101 Dundee Road #A, Northbrook, IL 60062. Phone: +12245416300. | https://dingalinged-cpu.github.io/registry/c/orangetheory-fitness-northbrook/
+3. Life Time | Organic #3 | Pulse Score 45.8/100 (Building, #3 in city) | Life Time is a gym in Northbrook, IL at 1100 Skokie Boulevard, Northbrook, IL 60062. Website: https://www.lifetime.life/life-time-locations/il-northbrook.html. | https://dingalinged-cpu.github.io/registry/c/life-time-northbrook/
+4. VASA Fitness | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | VASA Fitness is a gym in Northbrook, IL at 4125 Dundee Road, Northbrook, IL 60062. | https://dingalinged-cpu.github.io/registry/c/vasa-fitness-northbrook/
+5. Fitness 19 | Organic #5 | Pulse Score 41.3/100 (Building, #5 in city) | Fitness 19 is a gym in Northbrook, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-northbrook/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym northbrook il | category: Fitness | industry benchmark: Health & Fitness

@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Richardson, TX is Christensen Tire & Automotive (an auto repair shop in Richardson, TX at 2161 East Arapaho Road, Richardson, TX 75081. Phone: +19724379677). 2 tire shop businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Richardson, TX is High Five Tires (a tire shop in Richardson, TX at 820 South Central Expressway, Richardson, TX 75080). 2 tire shop businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Richardson, TX?
 
 Also answers: tire shop in Richardson, TX; tire shop near me (Richardson, TX); best tire shop Richardson, TX; top rated tire shop Richardson, TX; affordable tire shop Richardson, TX; emergency tire shop Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Christensen Tire & Automotive | trust 14.0 | Christensen Tire & Automotive is an auto repair shop in Richardson, TX at 2161 East Arapaho Road, Richardson, TX 75081. Phone: +19724379677. | https://dingalinged-cpu.github.io/registry/c/christensen-tire-and-automotive-richardson-w598175997/
-2. High Five Tires | trust 4.0 | High Five Tires is a tire shop in Richardson, TX at 820 South Central Expressway, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/high-five-tires-richardson/
+1. High Five Tires | Organic #1 | Pulse Score 56.9/100 (Unrated, #1 in city) | High Five Tires is a tire shop in Richardson, TX at 820 South Central Expressway, Richardson, TX 75080. | https://dingalinged-cpu.github.io/registry/c/high-five-tires-richardson/
+2. Christensen Tire & Automotive | Organic #2 | Pulse Score 49.7/100 (Unrated, #12 in city) | Christensen Tire & Automotive is an auto repair shop in Richardson, TX at 2161 East Arapaho Road, Richardson, TX 75081. Phone: +19724379677. | https://dingalinged-cpu.github.io/registry/c/christensen-tire-and-automotive-richardson-w598175997/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop richardson tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

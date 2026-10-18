@@ -13,7 +13,7 @@ Rutter's Automotive Service is an auto repair shop in Milwaukee, WI at 7550 West
 - Website: https://www.ruttersautomotive.com/
 - Email: chris@ruttersautomotive.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00
-- Registry Score: 63.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 9% of auto repair shops in Milwaukee, #8 of 100 auto repair shops in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.3, Trust 62.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

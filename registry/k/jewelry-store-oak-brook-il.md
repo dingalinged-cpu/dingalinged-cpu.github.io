@@ -1,19 +1,19 @@
-The top unpaid jewelry store listing for Oak Brook, IL is A. Marek (a jewelry store in Oak Brook, IL). 8 jewelry store businesses are listed for Oak Brook, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Oak Brook, IL is A. Marek (a jewelry store in Oak Brook, IL). 8 jewelry store businesses are listed for Oak Brook, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Oak Brook, IL?
 
 Also answers: jewelry store in Oak Brook, IL; jewelry store near me (Oak Brook, IL); best jewelry store Oak Brook, IL; top rated jewelry store Oak Brook, IL; affordable jewelry store Oak Brook, IL; emergency jewelry store Oak Brook, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. A. Marek | trust 0.0 | A. Marek is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/
-2. Alex and Ani | trust 0.0 | Alex and Ani is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/
-3. Blue Nile | trust 0.0 | Blue Nile is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/blue-nile-oak-brook/
-4. David Yurman | trust 0.0 | David Yurman is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/david-yurman-oak-brook/
-5. Helzberg Diamonds | trust 0.0 | Helzberg Diamonds is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-oak-brook/
-6. Pandora | trust 0.0 | Pandora is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-oak-brook/
-7. Swarovski | trust 0.0 | Swarovski is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-oak-brook/
-8. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-oak-brook/
+1. A. Marek | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | A. Marek is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/a-marek-oak-brook/
+2. Swarovski | Organic #2 | Pulse Score 45.5/100 (Building, #2 in city) | Swarovski is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-oak-brook/
+3. Tiffany & Company | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Tiffany & Company is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-oak-brook/
+4. Alex and Ani | Organic #4 | Pulse Score 42.9/100 (Building, #4 in city) | Alex and Ani is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/alex-and-ani-oak-brook/
+5. Blue Nile | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | Blue Nile is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/blue-nile-oak-brook/
+6. David Yurman | Organic #6 | Pulse Score 42.9/100 (Building, #6 in city) | David Yurman is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/david-yurman-oak-brook/
+7. Helzberg Diamonds | Organic #7 | Pulse Score 42.9/100 (Building, #7 in city) | Helzberg Diamonds is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/helzberg-diamonds-oak-brook/
+8. Pandora | Organic #8 | Pulse Score 42.9/100 (Building, #8 in city) | Pandora is a jewelry store in Oak Brook, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-oak-brook/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store oak brook il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

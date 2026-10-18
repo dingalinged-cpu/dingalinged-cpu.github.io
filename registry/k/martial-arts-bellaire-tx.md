@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Bellaire, TX is Pablo Silva Brazilian Jiu JItsu (a martial arts school in Bellaire, TX at 5233 Bellaire Boulevard, Bellaire, TX 77401. Phone: +13463039572. Website: https://www.pablosilvabjj.com/). 1 martial arts businesses are listed for Bellaire, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Bellaire, TX is Pablo Silva Brazilian Jiu JItsu (a martial arts school in Bellaire, TX at 5233 Bellaire Boulevard, Bellaire, TX 77401. Phone: +13463039572. Website: https://www.pablosilvabjj.com/). 1 martial arts businesses are listed for Bellaire, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Bellaire, TX?
 
 Also answers: martial arts in Bellaire, TX; martial arts near me (Bellaire, TX); best martial arts Bellaire, TX; top rated martial arts Bellaire, TX; affordable martial arts Bellaire, TX; emergency martial arts Bellaire, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pablo Silva Brazilian Jiu JItsu | trust 16.0 | Pablo Silva Brazilian Jiu JItsu is a martial arts school in Bellaire, TX at 5233 Bellaire Boulevard, Bellaire, TX 77401. Phone: +13463039572. Website: https://www.pablosilvabjj.com/. | https://dingalinged-cpu.github.io/registry/c/pablo-silva-brazilian-jiu-jitsu-bellaire/
+1. Pablo Silva Brazilian Jiu JItsu | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Pablo Silva Brazilian Jiu JItsu is a martial arts school in Bellaire, TX at 5233 Bellaire Boulevard, Bellaire, TX 77401. Phone: +13463039572. Website: https://www.pablosilvabjj.com/. | https://dingalinged-cpu.github.io/registry/c/pablo-silva-brazilian-jiu-jitsu-bellaire/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts bellaire tx | category: Fitness | industry benchmark: Health & Fitness

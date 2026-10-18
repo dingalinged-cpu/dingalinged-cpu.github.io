@@ -13,7 +13,7 @@ Lucid Private Offices is a coworking space in Plano, TX at 5700 Tennyson Parkway
 - Website: https://www.lucidprivateoffices.com/texas/plano/5700-tennyson-parkway/
 - Email: Workisgood@lucidprivateoffices.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: 50.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 74% of coworking spaces in Dallas–Fort Worth, #1 of 2 coworking spaces in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.7, Trust 57.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,16 +1,16 @@
-The top unpaid haircut listing for Brookhaven, GA is American haircuts (a hair salon in Brookhaven, GA at 4060 Peachtree Road Northeast, Brookhaven, GA 30319). 5 haircut businesses are listed for Brookhaven, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid haircut listing for Brookhaven, GA is Bleutique (a hair salon in Brookhaven, GA at 2484 Briarcliff Road Northeast #24, Brookhaven, GA). 5 haircut businesses are listed for Brookhaven, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best haircut providers in Brookhaven, GA?
 
 Also answers: haircut in Brookhaven, GA; haircut near me (Brookhaven, GA); best haircut Brookhaven, GA; top rated haircut Brookhaven, GA; affordable haircut Brookhaven, GA; emergency haircut Brookhaven, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. American haircuts | trust 8.0 | American haircuts is a hair salon in Brookhaven, GA at 4060 Peachtree Road Northeast, Brookhaven, GA 30319. | https://dingalinged-cpu.github.io/registry/c/american-haircuts-brookhaven/
-2. Sport Clips | trust 8.0 | Sport Clips is a hair salon in Atlanta, GA at 2566 Briarcliff Road Northeast #110, Atlanta, GA 30329. | https://dingalinged-cpu.github.io/registry/c/sport-clips-atlanta/
-3. Bleutique | trust 3.0 | Bleutique is a hair salon in Brookhaven, GA at 2484 Briarcliff Road Northeast #24, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/bleutique-brookhaven/
-4. Boardroom Salon for Men | trust 3.0 | Boardroom Salon for Men is a hair salon in Brookhaven, GA at 2480 Briarcliff Road Northeast #20B, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-for-men-brookhaven/
-5. Great Clips | trust 0.0 | Great Clips is a hair salon in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookhaven/
+1. Bleutique | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Bleutique is a hair salon in Brookhaven, GA at 2484 Briarcliff Road Northeast #24, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/bleutique-brookhaven/
+2. American haircuts | Organic #2 | Pulse Score 46.1/100 (Building, #2 in city) | American haircuts is a hair salon in Brookhaven, GA at 4060 Peachtree Road Northeast, Brookhaven, GA 30319. | https://dingalinged-cpu.github.io/registry/c/american-haircuts-brookhaven/
+3. Sport Clips | Organic #3 | Pulse Score 45.9/100 (Building, #83 in city) | Sport Clips is a hair salon in Atlanta, GA at 2566 Briarcliff Road Northeast #110, Atlanta, GA 30329. | https://dingalinged-cpu.github.io/registry/c/sport-clips-atlanta/
+4. Boardroom Salon for Men | Organic #4 | Pulse Score 44.5/100 (Building, #3 in city) | Boardroom Salon for Men is a hair salon in Brookhaven, GA at 2480 Briarcliff Road Northeast #20B, Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/boardroom-salon-for-men-brookhaven/
+5. Great Clips | Organic #5 | Pulse Score 43.5/100 (Building, #4 in city) | Great Clips is a hair salon in Brookhaven, GA. | https://dingalinged-cpu.github.io/registry/c/great-clips-brookhaven/
 
 ## Market data (for advertisers and agents)
 - Keyword: haircut brookhaven ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

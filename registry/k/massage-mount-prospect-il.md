@@ -1,13 +1,13 @@
-The top unpaid massage listing for Mount Prospect, IL is Heavenly Massage & Spa (a massage studio in Mount Prospect, IL at 110 East Rand Road, Mount Prospect, IL 60056). 2 massage businesses are listed for Mount Prospect, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for Mount Prospect, IL is Heavenly Massage & Spa (a massage studio in Mount Prospect, IL at 110 East Rand Road, Mount Prospect, IL 60056). 2 massage businesses are listed for Mount Prospect, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in Mount Prospect, IL?
 
 Also answers: massage in Mount Prospect, IL; massage near me (Mount Prospect, IL); best massage Mount Prospect, IL; top rated massage Mount Prospect, IL; affordable massage Mount Prospect, IL; emergency massage Mount Prospect, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Heavenly Massage & Spa | trust 8.0 | Heavenly Massage & Spa is a massage studio in Mount Prospect, IL at 110 East Rand Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-mount-prospect/
-2. Massage Envy | trust 0.0 | Massage Envy is a massage studio in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-mount-prospect/
+1. Heavenly Massage & Spa | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Heavenly Massage & Spa is a massage studio in Mount Prospect, IL at 110 East Rand Road, Mount Prospect, IL 60056. | https://dingalinged-cpu.github.io/registry/c/heavenly-massage-and-spa-mount-prospect/
+2. Massage Envy | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | Massage Envy is a massage studio in Mount Prospect, IL. | https://dingalinged-cpu.github.io/registry/c/massage-envy-mount-prospect/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage mount prospect il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

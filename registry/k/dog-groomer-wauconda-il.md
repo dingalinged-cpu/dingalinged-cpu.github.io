@@ -1,13 +1,13 @@
-The top unpaid dog groomer listing for Wauconda, IL is Wag n Wheel (a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/). 2 dog groomer businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Wauconda, IL is Wag n Wheel (a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/). 2 dog groomer businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Wauconda, IL?
 
 Also answers: dog groomer in Wauconda, IL; dog groomer near me (Wauconda, IL); best dog groomer Wauconda, IL; top rated dog groomer Wauconda, IL; affordable dog groomer Wauconda, IL; emergency dog groomer Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wag n Wheel | trust 20.0 | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://dingalinged-cpu.github.io/registry/c/wag-n-wheel-wauconda/
-2. Pets & Things Grooming | trust 16.0 | Pets & Things Grooming is a dog groomer in Wauconda, IL at 213 North Main Street, Wauconda, IL 60084. Phone: +18475265510. Website: https://www.petsandthingswauconda.com/. | https://dingalinged-cpu.github.io/registry/c/pets-and-things-grooming-wauconda/
+1. Wag n Wheel | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Wag n Wheel is a dog groomer in Wauconda, IL at 375 West Liberty Street, Wauconda, IL 60084. Phone: +18474874990. Website: https://www.wagnwheeldoggrooming.com/. | https://dingalinged-cpu.github.io/registry/c/wag-n-wheel-wauconda/
+2. Pets & Things Grooming | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Pets & Things Grooming is a dog groomer in Wauconda, IL at 213 North Main Street, Wauconda, IL 60084. Phone: +18475265510. Website: https://www.petsandthingswauconda.com/. | https://dingalinged-cpu.github.io/registry/c/pets-and-things-grooming-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer wauconda il | category: Pets | industry benchmark: Animals & Pets

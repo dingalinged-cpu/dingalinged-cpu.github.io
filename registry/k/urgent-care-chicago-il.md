@@ -1,15 +1,15 @@
-The top unpaid urgent care listing for Chicago, IL is Physicians Immediate Care (an urgent care clinic in Chicago, IL at 121 West North Avenue, Chicago, IL 60610. Phone: +13126435606. Website: https://physiciansimmediatecare.com/clinics/old-town/). 4 urgent care businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid urgent care listing for Chicago, IL is Physicians Immediate Care (an urgent care clinic in Chicago, IL at 121 West North Avenue, Chicago, IL 60610. Phone: +13126435606. Website: https://physiciansimmediatecare.com/clinics/old-town/). 4 urgent care businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best urgent care providers in Chicago, IL?
 
 Also answers: urgent care in Chicago, IL; urgent care near me (Chicago, IL); best urgent care Chicago, IL; top rated urgent care Chicago, IL; affordable urgent care Chicago, IL; emergency urgent care Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Physicians Immediate Care | trust 20.0 | Physicians Immediate Care is an urgent care clinic in Chicago, IL at 121 West North Avenue, Chicago, IL 60610. Phone: +13126435606. Website: https://physiciansimmediatecare.com/clinics/old-town/. | https://dingalinged-cpu.github.io/registry/c/physicians-immediate-care-chicago/
-2. Outpatient Center in Lincoln Park | trust 16.0 | Outpatient Center in Lincoln Park is a pediatrician in Chicago, IL at 2515 North Clark Street, Chicago, IL 60614. Phone: +18005437362. Website: https://www.luriechildrens.org/en-us/care-services/parking-locations/Pages/lincoln-park.aspx. | https://dingalinged-cpu.github.io/registry/c/outpatient-center-in-lincoln-park-chicago/
-3. Emergency Room | trust 0.0 | Emergency Room is an urgent care clinic in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/emergency-room-chicago/
-4. Mini Thương Xá | trust 0.0 | Mini Thương Xá is an urgent care clinic in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mini-th-ng-x-chicago/
+1. Physicians Immediate Care | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Physicians Immediate Care is an urgent care clinic in Chicago, IL at 121 West North Avenue, Chicago, IL 60610. Phone: +13126435606. Website: https://physiciansimmediatecare.com/clinics/old-town/. | https://dingalinged-cpu.github.io/registry/c/physicians-immediate-care-chicago/
+2. Outpatient Center in Lincoln Park | Organic #2 | Pulse Score 60.4/100 (Unrated, #3 in city) | Outpatient Center in Lincoln Park is a pediatrician in Chicago, IL at 2515 North Clark Street, Chicago, IL 60614. Phone: +18005437362. Website: https://www.luriechildrens.org/en-us/care-services/parking-locations/Pages/lincoln-park.aspx. | https://dingalinged-cpu.github.io/registry/c/outpatient-center-in-lincoln-park-chicago/
+3. Emergency Room | Organic #3 | Pulse Score 54.7/100 (Unrated, #2 in city) | Emergency Room is an urgent care clinic in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/emergency-room-chicago/
+4. Mini Thương Xá | Organic #4 | Pulse Score 54/100 (Unrated, #3 in city) | Mini Thương Xá is an urgent care clinic in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/mini-th-ng-x-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: urgent care chicago il | category: Health & medical | industry benchmark: Physicians & Surgeons

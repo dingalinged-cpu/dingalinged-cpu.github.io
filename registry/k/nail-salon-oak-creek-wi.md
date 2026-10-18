@@ -1,16 +1,16 @@
-The top unpaid nail salon listing for Oak Creek, WI is Nail Design (a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680). 5 nail salon businesses are listed for Oak Creek, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Oak Creek, WI is Nail Design (a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680). 5 nail salon businesses are listed for Oak Creek, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Oak Creek, WI?
 
 Also answers: nail salon in Oak Creek, WI; nail salon near me (Oak Creek, WI); best nail salon Oak Creek, WI; top rated nail salon Oak Creek, WI; affordable nail salon Oak Creek, WI; emergency nail salon Oak Creek, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nail Design | trust 14.0 | Nail Design is a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680. | https://dingalinged-cpu.github.io/registry/c/nail-design-oak-creek/
-2. Aqua Salon & Spa | trust 4.0 | Aqua Salon & Spa is a nail salon in Oak Creek, WI at 7435 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/aqua-salon-and-spa-oak-creek/
-3. Empress Nail Spa | trust 4.0 | Empress Nail Spa is a nail salon in Oak Creek, WI at 2345 West Ryan Road #F, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/empress-nail-spa-oak-creek/
-4. Nola Nails & Spa | trust 4.0 | Nola Nails & Spa is a nail salon in Oak Creek, WI at 8645 South Howell Avenue #400, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/nola-nails-and-spa-oak-creek/
-5. Vivian Nails Spa | trust 3.0 | Vivian Nails Spa is a nail salon in Oak Creek, WI at 8631 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/vivian-nails-spa-oak-creek/
+1. Nail Design | Organic #1 | Pulse Score 61.5/100 (Unrated, #1 in city) | Nail Design is a nail salon in Oak Creek, WI at 8880 South Howell Avenue #500, Oak Creek, WI 53154. Phone: +14147681680. | https://dingalinged-cpu.github.io/registry/c/nail-design-oak-creek/
+2. Empress Nail Spa | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Empress Nail Spa is a nail salon in Oak Creek, WI at 2345 West Ryan Road #F, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/empress-nail-spa-oak-creek/
+3. Nola Nails & Spa | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Nola Nails & Spa is a nail salon in Oak Creek, WI at 8645 South Howell Avenue #400, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/nola-nails-and-spa-oak-creek/
+4. Aqua Salon & Spa | Organic #4 | Pulse Score 56.2/100 (Unrated, #4 in city) | Aqua Salon & Spa is a nail salon in Oak Creek, WI at 7435 South Howell Avenue, Oak Creek, WI 53154. | https://dingalinged-cpu.github.io/registry/c/aqua-salon-and-spa-oak-creek/
+5. Vivian Nails Spa | Organic #5 | Pulse Score 55.9/100 (Unrated, #5 in city) | Vivian Nails Spa is a nail salon in Oak Creek, WI at 8631 South Howell Avenue, Oak Creek, WI. | https://dingalinged-cpu.github.io/registry/c/vivian-nails-spa-oak-creek/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon oak creek wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

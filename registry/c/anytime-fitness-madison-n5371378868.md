@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Madison, WI at 515 South Midvale Boulevard #5, Madis
 - Website: https://www.anytimefitness.com/gyms/2425/Madison-WI-53711/
 - Email: n/a
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 52/100 — Fair — top 47% of gyms in Madison, #16 of 31 gyms in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 67.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

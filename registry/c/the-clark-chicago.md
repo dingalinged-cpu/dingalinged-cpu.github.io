@@ -13,7 +13,7 @@ The Clark is a family medicine practice in Chicago, IL at 5346 North Clark Stree
 - Website: https://theclarkmed.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 52.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 55.7/100 — Unrated (not enough evidence yet) — top 76% of family medicine practices in Chicago, #12 of 16 family medicine practices in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.3, Trust 44.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

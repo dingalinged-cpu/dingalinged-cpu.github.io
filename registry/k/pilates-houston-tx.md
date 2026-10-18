@@ -1,17 +1,17 @@
-The top unpaid pilates listing for Houston, TX is Club Pilates (a pilates studio in Houston, TX at 5535 Memorial Drive #J, Houston, TX 77007. Phone: +17139553595. Website: https://www.clubpilates.com/location/ricemilitary). 6 pilates businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pilates listing for Houston, TX is Aerobifit Fitness (a pilates studio in Houston, TX at 14090 Memorial Drive #A, Houston, TX 77079). 6 pilates businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pilates providers in Houston, TX?
 
 Also answers: pilates in Houston, TX; pilates near me (Houston, TX); best pilates Houston, TX; top rated pilates Houston, TX; affordable pilates Houston, TX; emergency pilates Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Club Pilates | trust 20.0 | Club Pilates is a pilates studio in Houston, TX at 5535 Memorial Drive #J, Houston, TX 77007. Phone: +17139553595. Website: https://www.clubpilates.com/location/ricemilitary. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston/
-2. Aerobifit Fitness | trust 4.0 | Aerobifit Fitness is a pilates studio in Houston, TX at 14090 Memorial Drive #A, Houston, TX 77079. | https://dingalinged-cpu.github.io/registry/c/aerobifit-fitness-houston/
-3. Citizen Pilates | trust 4.0 | Citizen Pilates is a pilates studio in Houston, TX at 3217 Houston Avenue, Houston, TX 77009. | https://dingalinged-cpu.github.io/registry/c/citizen-pilates-houston/
-4. Citizen Pilates | trust 4.0 | Citizen Pilates is a pilates studio in Houston, TX at 940 Heights Boulevard, Houston, TX 77008. | https://dingalinged-cpu.github.io/registry/c/citizen-pilates-houston-w1069661909/
-5. Defy Pilates | trust 4.0 | Defy Pilates is a pilates studio in Houston, TX at 3620 Katy Freeway #A, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/defy-pilates-houston/
-6. Club Pilates | trust 0.0 | Club Pilates is a pilates studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston-n10022962909/
+1. Aerobifit Fitness | Organic #1 | Pulse Score 55.6/100 (Unrated, #1 in city) | Aerobifit Fitness is a pilates studio in Houston, TX at 14090 Memorial Drive #A, Houston, TX 77079. | https://dingalinged-cpu.github.io/registry/c/aerobifit-fitness-houston/
+2. Citizen Pilates | Organic #2 | Pulse Score 55.6/100 (Unrated, #2 in city) | Citizen Pilates is a pilates studio in Houston, TX at 3217 Houston Avenue, Houston, TX 77009. | https://dingalinged-cpu.github.io/registry/c/citizen-pilates-houston/
+3. Citizen Pilates | Organic #3 | Pulse Score 55.6/100 (Unrated, #3 in city) | Citizen Pilates is a pilates studio in Houston, TX at 940 Heights Boulevard, Houston, TX 77008. | https://dingalinged-cpu.github.io/registry/c/citizen-pilates-houston-w1069661909/
+4. Defy Pilates | Organic #4 | Pulse Score 55.6/100 (Unrated, #4 in city) | Defy Pilates is a pilates studio in Houston, TX at 3620 Katy Freeway #A, Houston, TX 77007. | https://dingalinged-cpu.github.io/registry/c/defy-pilates-houston/
+5. Club Pilates | Organic #5 | Pulse Score 50.5/100 (Fair, #5 in city) | Club Pilates is a pilates studio in Houston, TX at 5535 Memorial Drive #J, Houston, TX 77007. Phone: +17139553595. Website: https://www.clubpilates.com/location/ricemilitary. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston/
+6. Club Pilates | Organic #6 | Pulse Score 41.2/100 (Building, #6 in city) | Club Pilates is a pilates studio in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/club-pilates-houston-n10022962909/
 
 ## Market data (for advertisers and agents)
 - Keyword: pilates houston tx | category: Fitness | industry benchmark: Health & Fitness

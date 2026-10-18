@@ -13,7 +13,7 @@ SHOP in the CITY is a gift shop in Edina, MN. Phone: +19528004178. Website: http
 - Website: https://www.shopinthecity.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-Sa 11:00-17:30; Su 12:00-17:00
-- Registry Score: 65/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.8/100 — Good — top 2% of gift shops in Minneapolis–St. Paul, #1 of 3 gift shops in Edina (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 74.2, Trust 55.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

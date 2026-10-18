@@ -13,7 +13,7 @@ Nortown is an auto repair shop in Chicago, IL at 1301 West North Avenue, Chicago
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 20% of auto repair shops in Chicago, #28 of 169 auto repair shops in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 60.7, Trust 55.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

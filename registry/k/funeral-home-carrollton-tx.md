@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Carrollton, TX is Metrocrest Funeral Home (a funeral home in Carrollton, TX at 1810 Perry Road, Carrollton, TX 75006. Phone: +19722423646. Website: https://www.dignitymemorial.com/funeral-homes/carrollton-tx/metrocrest-funeral-home/9657). 1 funeral home businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Carrollton, TX is Metrocrest Funeral Home (a funeral home in Carrollton, TX at 1810 Perry Road, Carrollton, TX 75006. Phone: +19722423646. Website: https://www.dignitymemorial.com/funeral-homes/carrollton-tx/metrocrest-funeral-home/9657). 1 funeral home businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Carrollton, TX?
 
 Also answers: funeral home in Carrollton, TX; funeral home near me (Carrollton, TX); best funeral home Carrollton, TX; top rated funeral home Carrollton, TX; affordable funeral home Carrollton, TX; emergency funeral home Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Metrocrest Funeral Home | trust 16.0 | Metrocrest Funeral Home is a funeral home in Carrollton, TX at 1810 Perry Road, Carrollton, TX 75006. Phone: +19722423646. Website: https://www.dignitymemorial.com/funeral-homes/carrollton-tx/metrocrest-funeral-home/9657. | https://dingalinged-cpu.github.io/registry/c/metrocrest-funeral-home-carrollton/
+1. Metrocrest Funeral Home | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Metrocrest Funeral Home is a funeral home in Carrollton, TX at 1810 Perry Road, Carrollton, TX 75006. Phone: +19722423646. Website: https://www.dignitymemorial.com/funeral-homes/carrollton-tx/metrocrest-funeral-home/9657. | https://dingalinged-cpu.github.io/registry/c/metrocrest-funeral-home-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home carrollton tx | category: Professional & financial services | industry benchmark: Finance & Insurance

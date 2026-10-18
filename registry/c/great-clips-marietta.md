@@ -13,7 +13,7 @@ Great Clips is a hair salon in Marietta, GA at 2100 Roswell Road, Marietta, GA 3
 - Website: https://salons.greatclips.com/us/ga/marietta/2100-roswell-rd
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 08:30-17:30; Su 10:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.3/100 — Fair — top 83% of hair salons in Atlanta, #37 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.1, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

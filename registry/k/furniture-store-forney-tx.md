@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Forney, TX is Brenda's Home Furnishings Way Off Price Furniture Store (a furniture store in Forney, TX at 10486 West US Highway 80, Forney, TX 75126). 5 furniture store businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Forney, TX is Brenda's Home Furnishings Way Off Price Furniture Store (a furniture store in Forney, TX at 10486 West US Highway 80, Forney, TX 75126). 5 furniture store businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Forney, TX?
 
 Also answers: furniture store in Forney, TX; furniture store near me (Forney, TX); best furniture store Forney, TX; top rated furniture store Forney, TX; affordable furniture store Forney, TX; emergency furniture store Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brenda's Home Furnishings Way Off Price Furniture Store | trust 4.0 | Brenda's Home Furnishings Way Off Price Furniture Store is a furniture store in Forney, TX at 10486 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/brendas-home-furnishings-way-off-price-furniture-store-forney/
-2. Furniture One | trust 4.0 | Furniture One is a furniture store in Forney, TX at 303 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/furniture-one-forney/
-3. Furniture-N-Cabinets | trust 4.0 | Furniture-N-Cabinets is a furniture store in Forney, TX at 10640 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/furniture-n-cabinets-forney/
-4. Hardwood Warehouse Unfinished Furniture | trust 4.0 | Hardwood Warehouse Unfinished Furniture is a furniture store in Forney, TX at 10580 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/hardwood-warehouse-unfinished-furniture-forney/
-5. Texas Lamp Manufacturing | trust 4.0 | Texas Lamp Manufacturing is a furniture store in Forney, TX at 505 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/texas-lamp-manufacturing-forney/
+1. Brenda's Home Furnishings Way Off Price Furniture Store | Organic #1 | Pulse Score 57.4/100 (Unrated, #1 in city) | Brenda's Home Furnishings Way Off Price Furniture Store is a furniture store in Forney, TX at 10486 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/brendas-home-furnishings-way-off-price-furniture-store-forney/
+2. Furniture One | Organic #2 | Pulse Score 57.4/100 (Unrated, #3 in city) | Furniture One is a furniture store in Forney, TX at 303 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/furniture-one-forney/
+3. Furniture-N-Cabinets | Organic #3 | Pulse Score 57.4/100 (Unrated, #2 in city) | Furniture-N-Cabinets is a furniture store in Forney, TX at 10640 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/furniture-n-cabinets-forney/
+4. Hardwood Warehouse Unfinished Furniture | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Hardwood Warehouse Unfinished Furniture is a furniture store in Forney, TX at 10580 West US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/hardwood-warehouse-unfinished-furniture-forney/
+5. Texas Lamp Manufacturing | Organic #5 | Pulse Score 57.4/100 (Unrated, #5 in city) | Texas Lamp Manufacturing is a furniture store in Forney, TX at 505 East US Highway 80, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/texas-lamp-manufacturing-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store forney tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

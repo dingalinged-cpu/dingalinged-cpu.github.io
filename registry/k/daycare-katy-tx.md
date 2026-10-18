@@ -1,15 +1,15 @@
-The top unpaid daycare listing for Katy, TX is Kiddie Academy of Sunterra (a daycare in Katy, TX at 27878 Clay Road, Katy, TX 77493. Website: https://kiddieacademy.com/academies/sunterra/). 4 daycare businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Katy, TX is Kiddie Academy of Sunterra (a daycare in Katy, TX at 27878 Clay Road, Katy, TX 77493. Website: https://kiddieacademy.com/academies/sunterra/). 4 daycare businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Katy, TX?
 
 Also answers: daycare in Katy, TX; daycare near me (Katy, TX); best daycare Katy, TX; top rated daycare Katy, TX; affordable daycare Katy, TX; emergency daycare Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kiddie Academy of Sunterra | trust 14.0 | Kiddie Academy of Sunterra is a daycare in Katy, TX at 27878 Clay Road, Katy, TX 77493. Website: https://kiddieacademy.com/academies/sunterra/. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-sunterra-katy/
-2. Kids 'R' Kids | trust 4.0 | Kids 'R' Kids is a daycare in Katy, TX at 25950 Cinco Ranch Boulevard, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy/
-3. Kids 'R' Kids | trust 4.0 | Kids 'R' Kids is a daycare in Katy, TX at 3820 Mason Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy-w1014424289/
-4. KinderCare Learning Center | trust 4.0 | KinderCare Learning Center is a daycare in Katy, TX at 2202 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/kindercare-learning-center-katy/
+1. Kiddie Academy of Sunterra | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Kiddie Academy of Sunterra is a daycare in Katy, TX at 27878 Clay Road, Katy, TX 77493. Website: https://kiddieacademy.com/academies/sunterra/. | https://dingalinged-cpu.github.io/registry/c/kiddie-academy-of-sunterra-katy/
+2. Kids 'R' Kids | Organic #2 | Pulse Score 47.1/100 (Building, #2 in city) | Kids 'R' Kids is a daycare in Katy, TX at 25950 Cinco Ranch Boulevard, Katy, TX 77494. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy/
+3. Kids 'R' Kids | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | Kids 'R' Kids is a daycare in Katy, TX at 3820 Mason Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/kids-r-kids-katy-w1014424289/
+4. KinderCare Learning Center | Organic #4 | Pulse Score 46/100 (Unrated, #4 in city) | KinderCare Learning Center is a daycare in Katy, TX at 2202 North Fry Road, Katy, TX 77449. | https://dingalinged-cpu.github.io/registry/c/kindercare-learning-center-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare katy tx | category: Education & childcare | industry benchmark: Education & Instruction

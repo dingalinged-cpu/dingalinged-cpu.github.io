@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Coweta County, GA is Kingdom Nails & Spa (a nail salon in Coweta County, GA). 2 nail salon businesses are listed for Coweta County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Coweta County, GA is Kingdom Nails & Spa (a nail salon in Coweta County, GA). 2 nail salon businesses are listed for Coweta County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Coweta County, GA?
 
 Also answers: nail salon in Coweta County, GA; nail salon near me (Coweta County, GA); best nail salon Coweta County, GA; top rated nail salon Coweta County, GA; affordable nail salon Coweta County, GA; emergency nail salon Coweta County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kingdom Nails & Spa | trust 0.0 | Kingdom Nails & Spa is a nail salon in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/kingdom-nails-and-spa-coweta-county/
-2. Nail Trend | trust 0.0 | Nail Trend is a nail salon in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/nail-trend-coweta-county/
+1. Kingdom Nails & Spa | Organic #1 | Pulse Score 54.8/100 (Unrated, #1 in city) | Kingdom Nails & Spa is a nail salon in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/kingdom-nails-and-spa-coweta-county/
+2. Nail Trend | Organic #2 | Pulse Score 54.8/100 (Unrated, #2 in city) | Nail Trend is a nail salon in Coweta County, GA. | https://dingalinged-cpu.github.io/registry/c/nail-trend-coweta-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon coweta county ga | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

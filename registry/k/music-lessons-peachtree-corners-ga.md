@@ -1,12 +1,12 @@
-The top unpaid music lessons listing for Peachtree Corners, GA is Carere Music (a music school in Peachtree Corners, GA at 6385 Spalding Drive #H, Peachtree Corners, GA. Phone: +17706710517. Website: https://www.careremusic.com/). 1 music lessons businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Peachtree Corners, GA is Carere Music (a music school in Peachtree Corners, GA at 6385 Spalding Drive #H, Peachtree Corners, GA. Phone: +17706710517. Website: https://www.careremusic.com/). 1 music lessons businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Peachtree Corners, GA?
 
 Also answers: music lessons in Peachtree Corners, GA; music lessons near me (Peachtree Corners, GA); best music lessons Peachtree Corners, GA; top rated music lessons Peachtree Corners, GA; affordable music lessons Peachtree Corners, GA; emergency music lessons Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Carere Music | trust 19.0 | Carere Music is a music school in Peachtree Corners, GA at 6385 Spalding Drive #H, Peachtree Corners, GA. Phone: +17706710517. Website: https://www.careremusic.com/. | https://dingalinged-cpu.github.io/registry/c/carere-music-peachtree-corners/
+1. Carere Music | Organic #1 | Pulse Score 63/100 (Good, #1 in city) | Carere Music is a music school in Peachtree Corners, GA at 6385 Spalding Drive #H, Peachtree Corners, GA. Phone: +17706710517. Website: https://www.careremusic.com/. | https://dingalinged-cpu.github.io/registry/c/carere-music-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons peachtree corners ga | category: Education & childcare | industry benchmark: Education & Instruction

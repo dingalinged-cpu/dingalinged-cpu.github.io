@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Carrollton, TX is Electric Ryder .co (a bike shop in Carrollton, TX at 1014 South Broadway Street #100, Carrollton, TX 75006). 1 bike shop businesses are listed for Carrollton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Carrollton, TX is Electric Ryder .co (a bike shop in Carrollton, TX at 1014 South Broadway Street #100, Carrollton, TX 75006). 1 bike shop businesses are listed for Carrollton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Carrollton, TX?
 
 Also answers: bike shop in Carrollton, TX; bike shop near me (Carrollton, TX); best bike shop Carrollton, TX; top rated bike shop Carrollton, TX; affordable bike shop Carrollton, TX; emergency bike shop Carrollton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Electric Ryder .co | trust 8.0 | Electric Ryder .co is a bike shop in Carrollton, TX at 1014 South Broadway Street #100, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/electric-ryder-co-carrollton/
+1. Electric Ryder .co | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Electric Ryder .co is a bike shop in Carrollton, TX at 1014 South Broadway Street #100, Carrollton, TX 75006. | https://dingalinged-cpu.github.io/registry/c/electric-ryder-co-carrollton/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop carrollton tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

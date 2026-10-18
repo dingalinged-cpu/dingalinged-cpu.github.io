@@ -1,12 +1,12 @@
-The top unpaid flooring companies listing for Fulshear, TX is Flooring World (a flooring company in Fulshear, TX at 6420 FM 1463 #750, Fulshear, TX 77441). 1 flooring companies businesses are listed for Fulshear, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Fulshear, TX is Flooring World (a flooring company in Fulshear, TX at 6420 FM 1463 #750, Fulshear, TX 77441). 1 flooring companies businesses are listed for Fulshear, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Fulshear, TX?
 
 Also answers: flooring companies in Fulshear, TX; flooring companies near me (Fulshear, TX); best flooring companies Fulshear, TX; top rated flooring companies Fulshear, TX; affordable flooring companies Fulshear, TX; emergency flooring companies Fulshear, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Flooring World | trust 4.0 | Flooring World is a flooring company in Fulshear, TX at 6420 FM 1463 #750, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/flooring-world-fulshear/
+1. Flooring World | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | Flooring World is a flooring company in Fulshear, TX at 6420 FM 1463 #750, Fulshear, TX 77441. | https://dingalinged-cpu.github.io/registry/c/flooring-world-fulshear/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies fulshear tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

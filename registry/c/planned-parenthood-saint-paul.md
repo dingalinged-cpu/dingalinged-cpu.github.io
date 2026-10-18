@@ -13,7 +13,7 @@ Planned Parenthood is a therapy practice in Saint Paul, MN at 671 Vandalia Stree
 - Website: https://www.plannedparenthood.org/health-center/minnesota/saint-paul/55114/st-paul-health-center-vandalia-4055-90720
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 08:00-16:30
-- Registry Score: 52.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50/100 — Fair — top 87% of therapy practices in Minneapolis–St. Paul, #12 of 13 therapy practices in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.5, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

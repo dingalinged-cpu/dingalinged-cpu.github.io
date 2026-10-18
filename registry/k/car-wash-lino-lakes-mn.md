@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Lino Lakes, MN is Tidal Wave Auto Spa (a car wash in Hugo, MN at 7105 Otter Lake Road, Hugo, MN 55038). 1 car wash businesses are listed for Lino Lakes, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lino Lakes, MN is Tidal Wave Auto Spa (a car wash in Hugo, MN at 7105 Otter Lake Road, Hugo, MN 55038). 1 car wash businesses are listed for Lino Lakes, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lino Lakes, MN?
 
 Also answers: car wash in Lino Lakes, MN; car wash near me (Lino Lakes, MN); best car wash Lino Lakes, MN; top rated car wash Lino Lakes, MN; affordable car wash Lino Lakes, MN; emergency car wash Lino Lakes, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tidal Wave Auto Spa | trust 4.0 | Tidal Wave Auto Spa is a car wash in Hugo, MN at 7105 Otter Lake Road, Hugo, MN 55038. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-hugo/
+1. Tidal Wave Auto Spa | Organic #1 | Pulse Score 46/100 (Building, #2 in city) | Tidal Wave Auto Spa is a car wash in Hugo, MN at 7105 Otter Lake Road, Hugo, MN 55038. | https://dingalinged-cpu.github.io/registry/c/tidal-wave-auto-spa-hugo/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lino lakes mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

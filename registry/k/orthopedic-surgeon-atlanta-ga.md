@@ -1,13 +1,13 @@
-The top unpaid orthopedic surgeon listing for Atlanta, GA is Neurospine of Atlanta (an orthopedic surgeon in Atlanta, GA at 145 North Avenue Northeast, Atlanta, GA 30308. Website: https://neurospineatl.com/). 2 orthopedic surgeon businesses are listed for Atlanta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid orthopedic surgeon listing for Atlanta, GA is Neurospine of Atlanta (an orthopedic surgeon in Atlanta, GA at 145 North Avenue Northeast, Atlanta, GA 30308. Website: https://neurospineatl.com/). 2 orthopedic surgeon businesses are listed for Atlanta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best orthopedic surgeon providers in Atlanta, GA?
 
 Also answers: orthopedic surgeon in Atlanta, GA; orthopedic surgeon near me (Atlanta, GA); best orthopedic surgeon Atlanta, GA; top rated orthopedic surgeon Atlanta, GA; affordable orthopedic surgeon Atlanta, GA; emergency orthopedic surgeon Atlanta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Neurospine of Atlanta | trust 10.0 | Neurospine of Atlanta is an orthopedic surgeon in Atlanta, GA at 145 North Avenue Northeast, Atlanta, GA 30308. Website: https://neurospineatl.com/. | https://dingalinged-cpu.github.io/registry/c/neurospine-of-atlanta-atlanta/
-2. Interventional Orthopedics of Atlanta | trust 0.0 | Interventional Orthopedics of Atlanta is an orthopedic surgeon in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/interventional-orthopedics-of-atlanta-atlanta/
+1. Neurospine of Atlanta | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Neurospine of Atlanta is an orthopedic surgeon in Atlanta, GA at 145 North Avenue Northeast, Atlanta, GA 30308. Website: https://neurospineatl.com/. | https://dingalinged-cpu.github.io/registry/c/neurospine-of-atlanta-atlanta/
+2. Interventional Orthopedics of Atlanta | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Interventional Orthopedics of Atlanta is an orthopedic surgeon in Atlanta, GA. | https://dingalinged-cpu.github.io/registry/c/interventional-orthopedics-of-atlanta-atlanta/
 
 ## Market data (for advertisers and agents)
 - Keyword: orthopedic surgeon atlanta ga | category: Health & medical | industry benchmark: Physicians & Surgeons

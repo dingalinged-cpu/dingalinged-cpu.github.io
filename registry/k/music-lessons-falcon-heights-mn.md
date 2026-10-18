@@ -1,12 +1,12 @@
-The top unpaid music lessons listing for Falcon Heights, MN is Eighty Eight Notes School of Music (a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/). 1 music lessons businesses are listed for Falcon Heights, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Falcon Heights, MN is Eighty Eight Notes School of Music (a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/). 1 music lessons businesses are listed for Falcon Heights, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Falcon Heights, MN?
 
 Also answers: music lessons in Falcon Heights, MN; music lessons near me (Falcon Heights, MN); best music lessons Falcon Heights, MN; top rated music lessons Falcon Heights, MN; affordable music lessons Falcon Heights, MN; emergency music lessons Falcon Heights, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eighty Eight Notes School of Music | trust 15.0 | Eighty Eight Notes School of Music is a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/. | https://dingalinged-cpu.github.io/registry/c/eighty-eight-notes-school-of-music-falcon-heights/
+1. Eighty Eight Notes School of Music | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Eighty Eight Notes School of Music is a music school in Falcon Heights, MN at 1557 Larpenteur Avenue West, Falcon Heights, MN. Phone: +16518950891. Website: https://www.88notesmusic.com/. | https://dingalinged-cpu.github.io/registry/c/eighty-eight-notes-school-of-music-falcon-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons falcon heights mn | category: Education & childcare | industry benchmark: Education & Instruction

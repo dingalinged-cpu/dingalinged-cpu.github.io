@@ -13,7 +13,7 @@ Express Oil Change & Tire Engineers is a tire shop in Alpharetta, GA at 830 Nort
 - Website: https://www.expressoil.com/stores/alpharetta/ga/1320/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00;Sa 08:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 60% of tire shops in Atlanta, #4 of 6 tire shops in Alpharetta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.7, Trust 60.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

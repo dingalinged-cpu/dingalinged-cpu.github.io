@@ -1,12 +1,12 @@
-The top unpaid dermatologist listing for Katy, TX is Cinco Ranch Dermatology (a dermatologist in Katy, TX at 2643 Commercial Center Boulevard #B360, Katy, TX 77494. Phone: +12813949500. Website: https://www.cincoderm.com/). 1 dermatologist businesses are listed for Katy, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Katy, TX is Cinco Ranch Dermatology (a dermatologist in Katy, TX at 2643 Commercial Center Boulevard #B360, Katy, TX 77494. Phone: +12813949500. Website: https://www.cincoderm.com/). 1 dermatologist businesses are listed for Katy, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Katy, TX?
 
 Also answers: dermatologist in Katy, TX; dermatologist near me (Katy, TX); best dermatologist Katy, TX; top rated dermatologist Katy, TX; affordable dermatologist Katy, TX; emergency dermatologist Katy, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cinco Ranch Dermatology | trust 20.0 | Cinco Ranch Dermatology is a dermatologist in Katy, TX at 2643 Commercial Center Boulevard #B360, Katy, TX 77494. Phone: +12813949500. Website: https://www.cincoderm.com/. | https://dingalinged-cpu.github.io/registry/c/cinco-ranch-dermatology-katy/
+1. Cinco Ranch Dermatology | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Cinco Ranch Dermatology is a dermatologist in Katy, TX at 2643 Commercial Center Boulevard #B360, Katy, TX 77494. Phone: +12813949500. Website: https://www.cincoderm.com/. | https://dingalinged-cpu.github.io/registry/c/cinco-ranch-dermatology-katy/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist katy tx | category: Health & medical | industry benchmark: Physicians & Surgeons

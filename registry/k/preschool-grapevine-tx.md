@@ -1,13 +1,13 @@
-The top unpaid preschool listing for Grapevine, TX is Primrose School (a preschool in Grapevine, TX at 2300 Hall Johnson Road, Grapevine, TX 76051. Phone: +18174160404. Website: https://www.primroseschools.com/schools/grapevine-colleyville/). 2 preschool businesses are listed for Grapevine, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Grapevine, TX is The Pillars Christian Learning Centers (a preschool in Grapevine, TX at 2301 Hall Johnson Road ##8725, Grapevine, TX 76051. Website: https://thepillarsclc.com/the-pillars-grapevine-colleyville/). 2 preschool businesses are listed for Grapevine, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Grapevine, TX?
 
 Also answers: preschool in Grapevine, TX; preschool near me (Grapevine, TX); best preschool Grapevine, TX; top rated preschool Grapevine, TX; affordable preschool Grapevine, TX; emergency preschool Grapevine, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Primrose School | trust 20.0 | Primrose School is a preschool in Grapevine, TX at 2300 Hall Johnson Road, Grapevine, TX 76051. Phone: +18174160404. Website: https://www.primroseschools.com/schools/grapevine-colleyville/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-grapevine/
-2. The Pillars Christian Learning Centers | trust 14.0 | The Pillars Christian Learning Centers is a preschool in Grapevine, TX at 2301 Hall Johnson Road ##8725, Grapevine, TX 76051. Website: https://thepillarsclc.com/the-pillars-grapevine-colleyville/. | https://dingalinged-cpu.github.io/registry/c/the-pillars-christian-learning-centers-grapevine/
+1. The Pillars Christian Learning Centers | Organic #1 | Pulse Score 60.2/100 (Unrated, #1 in city) | The Pillars Christian Learning Centers is a preschool in Grapevine, TX at 2301 Hall Johnson Road ##8725, Grapevine, TX 76051. Website: https://thepillarsclc.com/the-pillars-grapevine-colleyville/. | https://dingalinged-cpu.github.io/registry/c/the-pillars-christian-learning-centers-grapevine/
+2. Primrose School | Organic #2 | Pulse Score 49.4/100 (Building, #2 in city) | Primrose School is a preschool in Grapevine, TX at 2300 Hall Johnson Road, Grapevine, TX 76051. Phone: +18174160404. Website: https://www.primroseschools.com/schools/grapevine-colleyville/. | https://dingalinged-cpu.github.io/registry/c/primrose-school-grapevine/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool grapevine tx | category: Education & childcare | industry benchmark: Education & Instruction

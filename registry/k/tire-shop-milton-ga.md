@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Milton, GA is Bridgestone (a tire shop in Milton, GA at 13689 Alpharetta Highway, Milton, GA 30004). 2 tire shop businesses are listed for Milton, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Milton, GA is Kauffman Tire (a tire shop in Milton, GA at 13792 Alpharetta Highway, Milton, GA 30004). 2 tire shop businesses are listed for Milton, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Milton, GA?
 
 Also answers: tire shop in Milton, GA; tire shop near me (Milton, GA); best tire shop Milton, GA; top rated tire shop Milton, GA; affordable tire shop Milton, GA; emergency tire shop Milton, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bridgestone | trust 4.0 | Bridgestone is a tire shop in Milton, GA at 13689 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/bridgestone-milton/
-2. Kauffman Tire | trust 4.0 | Kauffman Tire is a tire shop in Milton, GA at 13792 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/kauffman-tire-milton/
+1. Kauffman Tire | Organic #1 | Pulse Score 45.5/100 (Unrated, #1 in city) | Kauffman Tire is a tire shop in Milton, GA at 13792 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/kauffman-tire-milton/
+2. Bridgestone | Organic #2 | Pulse Score 44.7/100 (Building, #2 in city) | Bridgestone is a tire shop in Milton, GA at 13689 Alpharetta Highway, Milton, GA 30004. | https://dingalinged-cpu.github.io/registry/c/bridgestone-milton/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop milton ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ Kittys is a marketing agency in Chicago, IL at 125 South Clark Street, Chicago, 
 - Website: https://www.kittys.co/
 - Email: hello@kittys.co
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Unrated (not enough evidence yet) — top 28% of marketing agencys in Chicago, #3 of 8 marketing agencys in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.1, Trust 52. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

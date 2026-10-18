@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Waukesha, WI is St. Luke’s Preschool (a preschool in Waukesha, WI). 1 preschool businesses are listed for Waukesha, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Waukesha, WI is St. Luke’s Preschool (a preschool in Waukesha, WI). 1 preschool businesses are listed for Waukesha, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Waukesha, WI?
 
 Also answers: preschool in Waukesha, WI; preschool near me (Waukesha, WI); best preschool Waukesha, WI; top rated preschool Waukesha, WI; affordable preschool Waukesha, WI; emergency preschool Waukesha, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. St. Luke’s Preschool | trust 0.0 | St. Luke’s Preschool is a preschool in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/st-luke-s-preschool-waukesha/
+1. St. Luke’s Preschool | Organic #1 | Pulse Score 53.1/100 (Unrated, #1 in city) | St. Luke’s Preschool is a preschool in Waukesha, WI. | https://dingalinged-cpu.github.io/registry/c/st-luke-s-preschool-waukesha/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool waukesha wi | category: Education & childcare | industry benchmark: Education & Instruction

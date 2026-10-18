@@ -1,12 +1,12 @@
-The top unpaid bakery listing for Mokena, IL is Fleckenstein's Bakery (a bakery in Mokena, IL). 1 bakery businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Mokena, IL is Fleckenstein's Bakery (a bakery in Mokena, IL). 1 bakery businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Mokena, IL?
 
 Also answers: bakery in Mokena, IL; bakery near me (Mokena, IL); best bakery Mokena, IL; top rated bakery Mokena, IL; affordable bakery Mokena, IL; emergency bakery Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fleckenstein's Bakery | trust 0.0 | Fleckenstein's Bakery is a bakery in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/fleckensteins-bakery-mokena/
+1. Fleckenstein's Bakery | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Fleckenstein's Bakery is a bakery in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/fleckensteins-bakery-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery mokena il | category: Events & weddings | industry benchmark: Personal Services

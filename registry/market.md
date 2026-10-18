@@ -1,4 +1,4 @@
-Search market data for 63,834 sponsored-keyword slots (634 services x US cities and states) as of 2026-10-18: monthly search volume, local search estimates, CPC benchmarks, ad competition, registry competitors, and starting bids. 33,239 keywords use a published US search volume for their service; 30,595 use a labeled registry estimate.
+Search market data for 65,845 sponsored-keyword slots (634 services x US cities and states) as of 2026-10-18: monthly search volume, local search estimates, CPC benchmarks, ad competition, registry competitors, and starting bids. 34,406 keywords use a published US search volume for their service; 31,439 use a labeled registry estimate.
 
 # Keyword market data
 
@@ -7,83 +7,83 @@ Values: searches/mo = US monthly searches (national) or registry estimate for th
 Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 2026-10-30 to 2026-10-31; winners display 2026-11.
 
 ## Top national keywords by US monthly searches
-1. massage | searches/mo 5,000,000 [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $23,000,000 | Google Ads equiv $1,300,000/mo | our featured min $250/mo | registry competitors 537 | https://dingalinged-cpu.github.io/registry/k/massage/
-2. urgent care | searches/mo 2,740,000 | CPC $4.76 | value $13,000,000 | Google Ads equiv $880,000/mo | our featured min $250/mo | registry competitors 39 | https://dingalinged-cpu.github.io/registry/k/urgent-care/
-3. dentist | searches/mo 1,830,000 | CPC $4.70 | value $8,600,000 | Google Ads equiv $470,000/mo | our featured min $500/mo | registry competitors 2230 | https://dingalinged-cpu.github.io/registry/k/dentist/
-4. gym | searches/mo 1,830,000 | CPC $1.67 | value $3,100,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 1591 | https://dingalinged-cpu.github.io/registry/k/gym/
-5. car wash | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 1138 | https://dingalinged-cpu.github.io/registry/k/car-wash/
-6. oil change | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 209 | https://dingalinged-cpu.github.io/registry/k/oil-change/
-7. hair salon | searches/mo 1,500,000 | CPC $0.55 | value $830,000 | Google Ads equiv $47,000/mo | our featured min $250/mo | registry competitors 2758 | https://dingalinged-cpu.github.io/registry/k/hair-salon/
-8. nail salon | searches/mo 1,000,000 | CPC $0.61 | value $610,000 | Google Ads equiv $35,000/mo | our featured min $250/mo | registry competitors 1246 | https://dingalinged-cpu.github.io/registry/k/nail-salon/
+1. massage | searches/mo 5,000,000 [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $23,000,000 | Google Ads equiv $1,300,000/mo | our featured min $250/mo | registry competitors 553 | https://dingalinged-cpu.github.io/registry/k/massage/
+2. urgent care | searches/mo 2,740,000 | CPC $4.76 | value $13,000,000 | Google Ads equiv $880,000/mo | our featured min $250/mo | registry competitors 40 | https://dingalinged-cpu.github.io/registry/k/urgent-care/
+3. dentist | searches/mo 1,830,000 | CPC $4.70 | value $8,600,000 | Google Ads equiv $470,000/mo | our featured min $500/mo | registry competitors 2392 | https://dingalinged-cpu.github.io/registry/k/dentist/
+4. gym | searches/mo 1,830,000 | CPC $1.67 | value $3,100,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 1700 | https://dingalinged-cpu.github.io/registry/k/gym/
+5. car wash | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 1260 | https://dingalinged-cpu.github.io/registry/k/car-wash/
+6. oil change | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 223 | https://dingalinged-cpu.github.io/registry/k/oil-change/
+7. hair salon | searches/mo 1,500,000 | CPC $0.55 | value $830,000 | Google Ads equiv $47,000/mo | our featured min $250/mo | registry competitors 2976 | https://dingalinged-cpu.github.io/registry/k/hair-salon/
+8. nail salon | searches/mo 1,000,000 | CPC $0.61 | value $610,000 | Google Ads equiv $35,000/mo | our featured min $250/mo | registry competitors 1286 | https://dingalinged-cpu.github.io/registry/k/nail-salon/
 9. car insurance quotes | searches/mo 823,000 | CPC $3.39 | value $2,800,000 | Google Ads equiv $230,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes
-10. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 106 | https://dingalinged-cpu.github.io/registry/k/plumber/
+10. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 115 | https://dingalinged-cpu.github.io/registry/k/plumber/
 11. apartments | searches/mo 823,000 | CPC $3.22 | value $2,700,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#apartments
 12. auto insurance | searches/mo 673,000 | CPC $3.39 | value $2,300,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance
 13. term life insurance | searches/mo 673,000 | CPC $3.39 | value $2,300,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#term-life-insurance
-14. barber shop | searches/mo 673,000 | CPC $0.70 | value $470,000 | Google Ads equiv $27,000/mo | our featured min $250/mo | registry competitors 255 | https://dingalinged-cpu.github.io/registry/k/barber-shop/
+14. barber shop | searches/mo 673,000 | CPC $0.70 | value $470,000 | Google Ads equiv $27,000/mo | our featured min $250/mo | registry competitors 259 | https://dingalinged-cpu.github.io/registry/k/barber-shop/
 15. lymphatic drainage massage | searches/mo 673,000 | CPC $4.62 | value $3,100,000 | Google Ads equiv $180,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage
-16. mechanic | searches/mo 673,000 | CPC $4.35 | value $2,900,000 | Google Ads equiv $160,000/mo | our featured min $100/mo | registry competitors 3097 | https://dingalinged-cpu.github.io/registry/k/mechanic/
+16. mechanic | searches/mo 673,000 | CPC $4.35 | value $2,900,000 | Google Ads equiv $160,000/mo | our featured min $100/mo | registry competitors 3374 | https://dingalinged-cpu.github.io/registry/k/mechanic/
 17. houses for sale | searches/mo 550,000 | CPC $3.22 | value $1,800,000 | Google Ads equiv $150,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#houses-for-sale
-18. tire shop | searches/mo 550,000 | CPC $4.35 | value $2,400,000 | Google Ads equiv $130,000/mo | our featured min $100/mo | registry competitors 642 | https://dingalinged-cpu.github.io/registry/k/tire-shop/
-19. vet | searches/mo 550,000 | CPC $4.06 | value $2,200,000 | Google Ads equiv $150,000/mo | our featured min $100/mo | registry competitors 778 | https://dingalinged-cpu.github.io/registry/k/vet/
+18. tire shop | searches/mo 550,000 | CPC $4.35 | value $2,400,000 | Google Ads equiv $130,000/mo | our featured min $100/mo | registry competitors 672 | https://dingalinged-cpu.github.io/registry/k/tire-shop/
+19. vet | searches/mo 550,000 | CPC $4.06 | value $2,200,000 | Google Ads equiv $150,000/mo | our featured min $100/mo | registry competitors 830 | https://dingalinged-cpu.github.io/registry/k/vet/
 20. car insurance | searches/mo 450,000 | CPC $3.39 | value $1,500,000 | Google Ads equiv $130,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance
 21. insurance quotes | searches/mo 450,000 | CPC $3.39 | value $1,500,000 | Google Ads equiv $130,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#insurance-quotes
 22. personal loans | searches/mo 450,000 | CPC $3.39 | value $1,500,000 | Google Ads equiv $130,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#personal-loans
-23. dog groomer | searches/mo 450,000 | CPC $4.06 | value $1,800,000 | Google Ads equiv $120,000/mo | our featured min $100/mo | registry competitors 221 | https://dingalinged-cpu.github.io/registry/k/dog-groomer/
+23. dog groomer | searches/mo 450,000 | CPC $4.06 | value $1,800,000 | Google Ads equiv $120,000/mo | our featured min $100/mo | registry competitors 231 | https://dingalinged-cpu.github.io/registry/k/dog-groomer/
 24. ac repair | searches/mo 368,000 | CPC $16.09 | value $5,900,000 | Google Ads equiv $380,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair
 25. car accident lawyer | searches/mo 368,000 | CPC $9.30 | value $3,400,000 | Google Ads equiv $200,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer
 
 ## Top national keywords by CPC
 1. personal injury lawyer | searches/mo 201,000 | CPC $55.12 | value $11,000,000 | Google Ads equiv $660,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer
 2. emergency plumber | searches/mo 74,000 | CPC $24.65 | value $1,800,000 | Google Ads equiv $120,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#emergency-plumber
-3. hvac repair | searches/mo 74,000 | CPC $17.76 | value $1,300,000 | Google Ads equiv $84,000/mo | our featured min $500/mo | registry competitors 176 | https://dingalinged-cpu.github.io/registry/k/hvac-repair/
+3. hvac repair | searches/mo 74,000 | CPC $17.76 | value $1,300,000 | Google Ads equiv $84,000/mo | our featured min $500/mo | registry competitors 186 | https://dingalinged-cpu.github.io/registry/k/hvac-repair/
 4. ac repair | searches/mo 368,000 | CPC $16.09 | value $5,900,000 | Google Ads equiv $380,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair
 5. roof replacement | searches/mo 33,100 | CPC $15.00 | value $500,000 | Google Ads equiv $32,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#roof-replacement
 6. roof repair | searches/mo 74,000 | CPC $14.88 | value $1,100,000 | Google Ads equiv $70,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#roof-repair
 7. sell my house fast | searches/mo 9,900 | CPC $14.57 | value $140,000 | Google Ads equiv $12,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#sell-my-house-fast
-8. plumbing services | searches/mo 49,500 | CPC $13.90 | value $690,000 | Google Ads equiv $44,000/mo | our featured min $500/mo | registry competitors 106 | https://dingalinged-cpu.github.io/registry/k/plumbing-services/
+8. plumbing services | searches/mo 49,500 | CPC $13.90 | value $690,000 | Google Ads equiv $44,000/mo | our featured min $500/mo | registry competitors 115 | https://dingalinged-cpu.github.io/registry/k/plumbing-services/
 9. deck staining | searches/mo 18,100 | CPC $13.74 | value $250,000 | Google Ads equiv $16,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#deck-staining
 10. exterior house painters | searches/mo 12,100 | CPC $13.74 | value $170,000 | Google Ads equiv $11,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#exterior-house-painters
 11. interior painters | searches/mo 12,100 | CPC $13.74 | value $170,000 | Google Ads equiv $11,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#interior-painters
-12. painters | searches/mo 60,500 | CPC $13.74 | value $830,000 | Google Ads equiv $53,000/mo | our featured min $500/mo | registry competitors 38 | https://dingalinged-cpu.github.io/registry/k/painters/
-13. moving company | searches/mo 201,000 | CPC $12.41 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 42 | https://dingalinged-cpu.github.io/registry/k/moving-company/
+12. painters | searches/mo 60,500 | CPC $13.74 | value $830,000 | Google Ads equiv $53,000/mo | our featured min $500/mo | registry competitors 40 | https://dingalinged-cpu.github.io/registry/k/painters/
+13. moving company | searches/mo 201,000 | CPC $12.41 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 46 | https://dingalinged-cpu.github.io/registry/k/moving-company/
 14. criminal defense attorney | searches/mo 90,500 | CPC $12.30 | value $1,100,000 | Google Ads equiv $66,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#criminal-defense-attorney
 15. dui defense lawyer | searches/mo 3,600 (est) | CPC $12.30 | value $44,000 | Google Ads equiv $2,600/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dui-defense-lawyer
 16. dui lawyer | searches/mo 165,000 | CPC $12.30 | value $2,000,000 | Google Ads equiv $120,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dui-lawyer
 17. ceiling fan installation | searches/mo 49,500 | CPC $12.18 | value $600,000 | Google Ads equiv $38,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#ceiling-fan-installation
 18. electrical panel replacement | searches/mo 8,100 | CPC $12.18 | value $99,000 | Google Ads equiv $6,300/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#electrical-panel-replacement
-19. electrician | searches/mo 246,000 | CPC $12.18 | value $3,000,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 59 | https://dingalinged-cpu.github.io/registry/k/electrician/
+19. electrician | searches/mo 246,000 | CPC $12.18 | value $3,000,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 69 | https://dingalinged-cpu.github.io/registry/k/electrician/
 20. emergency electrician | searches/mo 27,100 | CPC $12.18 | value $330,000 | Google Ads equiv $21,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#emergency-electrician
 21. ev charger installation | searches/mo 40,500 | CPC $12.18 | value $490,000 | Google Ads equiv $31,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#ev-charger-installation
 22. generator installation | searches/mo 49,500 | CPC $12.18 | value $600,000 | Google Ads equiv $38,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#generator-installation
 23. home ev charger installation | searches/mo 3,600 (est) | CPC $12.18 | value $44,000 | Google Ads equiv $2,800/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#home-ev-charger-installation
-24. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 106 | https://dingalinged-cpu.github.io/registry/k/plumber/
+24. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 115 | https://dingalinged-cpu.github.io/registry/k/plumber/
 25. tax attorney | searches/mo 40,000 (est) | CPC $11.82 | value $470,000 | Google Ads equiv $28,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#tax-attorney
 
 ## Top national keywords by value (searches x CPC)
-1. massage | searches/mo 5,000,000 [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $23,000,000 | Google Ads equiv $1,300,000/mo | our featured min $250/mo | registry competitors 537 | https://dingalinged-cpu.github.io/registry/k/massage/
-2. urgent care | searches/mo 2,740,000 | CPC $4.76 | value $13,000,000 | Google Ads equiv $880,000/mo | our featured min $250/mo | registry competitors 39 | https://dingalinged-cpu.github.io/registry/k/urgent-care/
+1. massage | searches/mo 5,000,000 [source caveat: outlier vs other sources; treat as top-bucket ceiling] | CPC $4.62 | value $23,000,000 | Google Ads equiv $1,300,000/mo | our featured min $250/mo | registry competitors 553 | https://dingalinged-cpu.github.io/registry/k/massage/
+2. urgent care | searches/mo 2,740,000 | CPC $4.76 | value $13,000,000 | Google Ads equiv $880,000/mo | our featured min $250/mo | registry competitors 40 | https://dingalinged-cpu.github.io/registry/k/urgent-care/
 3. personal injury lawyer | searches/mo 201,000 | CPC $55.12 | value $11,000,000 | Google Ads equiv $660,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#personal-injury-lawyer
-4. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 106 | https://dingalinged-cpu.github.io/registry/k/plumber/
-5. dentist | searches/mo 1,830,000 | CPC $4.70 | value $8,600,000 | Google Ads equiv $470,000/mo | our featured min $500/mo | registry competitors 2230 | https://dingalinged-cpu.github.io/registry/k/dentist/
-6. car wash | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 1138 | https://dingalinged-cpu.github.io/registry/k/car-wash/
-7. oil change | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 209 | https://dingalinged-cpu.github.io/registry/k/oil-change/
+4. plumber | searches/mo 823,000 | CPC $12.04 | value $9,900,000 | Google Ads equiv $630,000/mo | our featured min $500/mo | registry competitors 115 | https://dingalinged-cpu.github.io/registry/k/plumber/
+5. dentist | searches/mo 1,830,000 | CPC $4.70 | value $8,600,000 | Google Ads equiv $470,000/mo | our featured min $500/mo | registry competitors 2392 | https://dingalinged-cpu.github.io/registry/k/dentist/
+6. car wash | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 1260 | https://dingalinged-cpu.github.io/registry/k/car-wash/
+7. oil change | searches/mo 1,830,000 | CPC $4.35 | value $8,000,000 | Google Ads equiv $440,000/mo | our featured min $100/mo | registry competitors 223 | https://dingalinged-cpu.github.io/registry/k/oil-change/
 8. ac repair | searches/mo 368,000 | CPC $16.09 | value $5,900,000 | Google Ads equiv $380,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#ac-repair
 9. car accident lawyer | searches/mo 368,000 | CPC $9.30 | value $3,400,000 | Google Ads equiv $200,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-accident-lawyer
-10. gym | searches/mo 1,830,000 | CPC $1.67 | value $3,100,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 1591 | https://dingalinged-cpu.github.io/registry/k/gym/
+10. gym | searches/mo 1,830,000 | CPC $1.67 | value $3,100,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 1700 | https://dingalinged-cpu.github.io/registry/k/gym/
 11. lymphatic drainage massage | searches/mo 673,000 | CPC $4.62 | value $3,100,000 | Google Ads equiv $180,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#lymphatic-drainage-massage
-12. electrician | searches/mo 246,000 | CPC $12.18 | value $3,000,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 59 | https://dingalinged-cpu.github.io/registry/k/electrician/
-13. mechanic | searches/mo 673,000 | CPC $4.35 | value $2,900,000 | Google Ads equiv $160,000/mo | our featured min $100/mo | registry competitors 3097 | https://dingalinged-cpu.github.io/registry/k/mechanic/
+12. electrician | searches/mo 246,000 | CPC $12.18 | value $3,000,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 69 | https://dingalinged-cpu.github.io/registry/k/electrician/
+13. mechanic | searches/mo 673,000 | CPC $4.35 | value $2,900,000 | Google Ads equiv $160,000/mo | our featured min $100/mo | registry competitors 3374 | https://dingalinged-cpu.github.io/registry/k/mechanic/
 14. car insurance quotes | searches/mo 823,000 | CPC $3.39 | value $2,800,000 | Google Ads equiv $230,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#car-insurance-quotes
 15. apartments | searches/mo 823,000 | CPC $3.22 | value $2,700,000 | Google Ads equiv $220,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#apartments
 16. water heater replacement | searches/mo 246,000 | CPC $10.49 | value $2,600,000 | Google Ads equiv $160,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#water-heater-replacement
-17. movers | searches/mo 301,000 | CPC $8.23 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 42 | https://dingalinged-cpu.github.io/registry/k/movers/
-18. moving company | searches/mo 201,000 | CPC $12.41 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 42 | https://dingalinged-cpu.github.io/registry/k/moving-company/
-19. tire shop | searches/mo 550,000 | CPC $4.35 | value $2,400,000 | Google Ads equiv $130,000/mo | our featured min $100/mo | registry competitors 642 | https://dingalinged-cpu.github.io/registry/k/tire-shop/
+17. movers | searches/mo 301,000 | CPC $8.23 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 46 | https://dingalinged-cpu.github.io/registry/k/movers/
+18. moving company | searches/mo 201,000 | CPC $12.41 | value $2,500,000 | Google Ads equiv $160,000/mo | our featured min $250/mo | registry competitors 46 | https://dingalinged-cpu.github.io/registry/k/moving-company/
+19. tire shop | searches/mo 550,000 | CPC $4.35 | value $2,400,000 | Google Ads equiv $130,000/mo | our featured min $100/mo | registry competitors 672 | https://dingalinged-cpu.github.io/registry/k/tire-shop/
 20. auto insurance | searches/mo 673,000 | CPC $3.39 | value $2,300,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#auto-insurance
 21. term life insurance | searches/mo 673,000 | CPC $3.39 | value $2,300,000 | Google Ads equiv $190,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#term-life-insurance
 22. lawn care | searches/mo 246,000 | CPC $8.76 | value $2,200,000 | Google Ads equiv $140,000/mo | our featured min $250/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#lawn-care
-23. vet | searches/mo 550,000 | CPC $4.06 | value $2,200,000 | Google Ads equiv $150,000/mo | our featured min $100/mo | registry competitors 778 | https://dingalinged-cpu.github.io/registry/k/vet/
+23. vet | searches/mo 550,000 | CPC $4.06 | value $2,200,000 | Google Ads equiv $150,000/mo | our featured min $100/mo | registry competitors 830 | https://dingalinged-cpu.github.io/registry/k/vet/
 24. furnace repair | searches/mo 201,000 | CPC $10.55 | value $2,100,000 | Google Ads equiv $140,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#furnace-repair
 25. dui lawyer | searches/mo 165,000 | CPC $12.30 | value $2,000,000 | Google Ads equiv $120,000/mo | our featured min $500/mo | registry competitors 0 | https://dingalinged-cpu.github.io/registry/view/market.html#dui-lawyer
 
@@ -383,6 +383,7 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Mcdonough, GA: 20 keywords, ~180,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mcdonough-ga/
 - Schiller Park, IL: 13 keywords, ~180,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/schiller-park-il/
 - Dallas, GA: 16 keywords, ~180,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/dallas-ga/
+- Overland Park, KS: 79 keywords, ~180,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/overland-park-ks/
 - Hobart, IN: 10 keywords, ~170,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hobart-in/
 - Cleveland, TX: 13 keywords, ~170,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cleveland-tx/
 - Greenville, SC: 490 keywords, ~170,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/greenville-sc/
@@ -415,13 +416,16 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Plainfield, IL: 12 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/plainfield-il/
 - Hazel Crest, IL: 14 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hazel-crest-il/
 - Henry County, GA: 17 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/henry-county-ga/
+- Blue Springs, MO: 54 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/blue-springs-mo/
 - Mcallen, TX: 490 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mcallen-tx/
 - Albany, NY: 490 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/albany-ny/
 - Denton County, TX: 13 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/denton-county-tx/
 - Rogers, MN: 40 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/rogers-mn/
+- Olathe, KS: 69 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/olathe-ks/
 - South Fulton, GA: 11 keywords, ~160,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/south-fulton-ga/
 - Midlothian, TX: 16 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/midlothian-tx/
 - Calumet Park, IL: 8 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/calumet-park-il/
+- Shawnee, KS: 63 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/shawnee-ks/
 - Charleston, SC: 490 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/charleston-sc/
 - New Brighton, MN: 32 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/new-brighton-mn/
 - Baton Rouge, LA: 490 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/baton-rouge-la/
@@ -436,9 +440,11 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Lakeland, FL: 490 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lakeland-fl/
 - Powder Springs, GA: 14 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/powder-springs-ga/
 - Brooklyn Park, MN: 35 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/brooklyn-park-mn/
+- Gladstone, MO: 50 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/gladstone-mo/
 - Boise City, ID: 490 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/boise-city-id/
 - Chanhassen, MN: 33 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/chanhassen-mn/
 - Maplewood, MN: 27 keywords, ~150,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/maplewood-mn/
+- Lee'S Summit, MO: 53 keywords, ~140,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lee-s-summit-mo/
 - Coon Rapids, MN: 30 keywords, ~140,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/coon-rapids-mn/
 - Collin County, TX: 10 keywords, ~140,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/collin-county-tx/
 - Bedford Park, IL: 7 keywords, ~140,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bedford-park-il/
@@ -476,9 +482,11 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Deltona, FL: 490 keywords, ~130,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/deltona-fl/
 - Shorewood, MN: 12 keywords, ~130,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/shorewood-mn/
 - Union City, GA: 8 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/union-city-ga/
+- Independence, MO: 50 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/independence-mo/
 - Kiryas Joel, NY: 490 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kiryas-joel-ny/
 - Stonecrest, GA: 15 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/stonecrest-ga/
 - Sealy, TX: 10 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/sealy-tx/
+- Kansas City, KS: 56 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kansas-city-ks/
 - Palos Hills, IL: 10 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/palos-hills-il/
 - Westlake, TX: 17 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/westlake-tx/
 - Winston, NC: 490 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/winston-nc/
@@ -491,6 +499,7 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Maywood, IL: 10 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/maywood-il/
 - Clarkston, GA: 14 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clarkston-ga/
 - Friendswood, TX: 12 keywords, ~120,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/friendswood-tx/
+- Lenexa, KS: 62 keywords, ~110,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lenexa-ks/
 - Addison, IL: 15 keywords, ~110,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/addison-il/
 - Ogden, UT: 490 keywords, ~110,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ogden-ut/
 - Seabrook, TX: 13 keywords, ~110,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/seabrook-tx/
@@ -528,7 +537,10 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Franklin, WI: 42 keywords, ~100,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/franklin-wi/
 - Brookfield, WI: 51 keywords, ~99,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/brookfield-wi/
 - Mount Pleasant, WI: 42 keywords, ~99,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mount-pleasant-wi/
+- Leawood, KS: 26 keywords, ~99,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/leawood-ks/
 - New Haven, CT: 490 keywords, ~98,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/new-haven-ct/
+- North Kansas City, MO: 25 keywords, ~98,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/north-kansas-city-mo/
+- Belton, MO: 41 keywords, ~97,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/belton-mo/
 - Richton Park, IL: 11 keywords, ~96,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richton-park-il/
 - Chicago Ridge, IL: 9 keywords, ~96,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/chicago-ridge-il/
 - Hempstead, TX: 8 keywords, ~95,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hempstead-tx/
@@ -536,13 +548,19 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Markham, IL: 6 keywords, ~94,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/markham-il/
 - River Grove, IL: 8 keywords, ~93,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/river-grove-il/
 - Watauga, TX: 5 keywords, ~93,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/watauga-tx/
+- Smithville, MO: 27 keywords, ~93,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/smithville-mo/
 - Wharton, TX: 11 keywords, ~92,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/wharton-tx/
+- Merriam, KS: 27 keywords, ~92,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/merriam-ks/
 - Princeton, TX: 6 keywords, ~90,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/princeton-tx/
 - Osseo, MN: 9 keywords, ~89,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/osseo-mn/
 - Waller, TX: 3 keywords, ~89,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waller-tx/
+- Liberty, MO: 39 keywords, ~89,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/liberty-mo/
+- Lansing, KS: 29 keywords, ~89,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lansing-ks/
 - Worth, IL: 5 keywords, ~88,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/worth-il/
+- Leavenworth, KS: 33 keywords, ~88,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/leavenworth-ks/
 - New Berlin, WI: 38 keywords, ~88,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/new-berlin-wi/
 - Waukesha, WI: 42 keywords, ~88,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waukesha-wi/
+- Mission, KS: 23 keywords, ~87,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mission-ks/
 - Lavon, TX: 5 keywords, ~87,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lavon-tx/
 - Norcross, GA: 19 keywords, ~87,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/norcross-ga/
 - Crest Hill, IL: 6 keywords, ~85,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/crest-hill-il/
@@ -572,6 +590,7 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Will County, IL: 4 keywords, ~73,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/will-county-il/
 - Santa Fe, TX: 6 keywords, ~73,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/santa-fe-tx/
 - Arden Hills, MN: 12 keywords, ~72,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/arden-hills-mn/
+- Kearney, MO: 27 keywords, ~71,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kearney-mo/
 - Northfield, IL: 6 keywords, ~71,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/northfield-il/
 - Deer Park, IL: 7 keywords, ~70,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/deer-park-il/
 - Kenilworth, IL: 7 keywords, ~69,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kenilworth-il/
@@ -579,6 +598,8 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Anoka, MN: 14 keywords, ~69,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/anoka-mn/
 - South Milwaukee, WI: 27 keywords, ~68,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/south-milwaukee-wi/
 - Double Oak, TX: 1 keywords, ~68,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/double-oak-tx/
+- Prairie Village, KS: 21 keywords, ~68,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/prairie-village-ks/
+- Platte City, MO: 28 keywords, ~68,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/platte-city-mo/
 - Needville, TX: 11 keywords, ~68,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/needville-tx/
 - Bartlett, IL: 7 keywords, ~67,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bartlett-il/
 - Village Of Germantown, WI: 22 keywords, ~67,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-germantown-wi/
@@ -588,6 +609,8 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Kemah, TX: 3 keywords, ~66,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kemah-tx/
 - Union Grove, WI: 32 keywords, ~66,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/union-grove-wi/
 - Saint Anthony, MN: 15 keywords, ~66,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/saint-anthony-mn/
+- Bellevue, NE: 51 keywords, ~65,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bellevue-ne/
+- Parkville, MO: 24 keywords, ~64,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/parkville-mo/
 - Long Grove, IL: 8 keywords, ~64,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/long-grove-il/
 - Country Club Hills, IL: 3 keywords, ~63,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/country-club-hills-il/
 - West Bend, WI: 39 keywords, ~63,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/west-bend-wi/
@@ -597,16 +620,22 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Tyrone, GA: 6 keywords, ~61,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/tyrone-ga/
 - Ramsey, MN: 12 keywords, ~61,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ramsey-mn/
 - Excelsior, MN: 10 keywords, ~61,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/excelsior-mn/
+- West Des Moines, IA: 73 keywords, ~60,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/west-des-moines-ia/
 - South Saint Paul, MN: 17 keywords, ~60,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/south-saint-paul-mn/
 - Andover, MN: 9 keywords, ~60,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/andover-mn/
 - Menomonee Falls, WI: 30 keywords, ~60,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/menomonee-falls-wi/
+- Raytown, MO: 12 keywords, ~59,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/raytown-mo/
+- Bonner Springs, KS: 13 keywords, ~58,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bonner-springs-ks/
 - Fort Snelling Unorganized Territory, MN: 6 keywords, ~58,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fort-snelling-unorganized-territory-mn/
+- Excelsior Springs, MO: 15 keywords, ~58,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/excelsior-springs-mo/
 - Rockford, MN: 11 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/rockford-mn/
 - Hometown, IL: 2 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hometown-il/
 - Northfield Township, IL: 3 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/northfield-township-il/
 - Posen, IL: 2 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/posen-il/
 - St. John, IN: 2 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/st-john-in/
+- Grain Valley, MO: 13 keywords, ~57,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grain-valley-mo/
 - Riverdale, IL: 3 keywords, ~55,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/riverdale-il/
+- Ankeny, IA: 57 keywords, ~53,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ankeny-ia/
 - Mound, MN: 6 keywords, ~53,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mound-mn/
 - Southside Place, TX: 3 keywords, ~52,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/southside-place-tx/
 - Fridley, MN: 16 keywords, ~52,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fridley-mn/
@@ -629,6 +658,7 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Columbia Heights, MN: 10 keywords, ~49,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/columbia-heights-mn/
 - Mccook, IL: 4 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mccook-il/
 - College Park, GA: 11 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/college-park-ga/
+- Papillion, NE: 39 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/papillion-ne/
 - Fitchburg, WI: 48 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fitchburg-wi/
 - Glendale, WI: 23 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/glendale-wi/
 - Summit, IL: 10 keywords, ~48,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/summit-il/
@@ -638,13 +668,18 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Sun Prairie, WI: 39 keywords, ~45,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/sun-prairie-wi/
 - Krum, TX: 1 keywords, ~45,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/krum-tx/
 - Mequon, WI: 27 keywords, ~44,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mequon-wi/
+- Gardner, KS: 11 keywords, ~44,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/gardner-ks/
 - Mounds View, MN: 4 keywords, ~44,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mounds-view-mn/
 - Justice, IL: 5 keywords, ~43,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/justice-il/
 - Medina, MN: 5 keywords, ~43,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/medina-mn/
+- Johnston, IA: 40 keywords, ~43,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/johnston-ia/
 - Town Of Brookfield, WI: 28 keywords, ~42,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-brookfield-wi/
 - Brookshire, TX: 1 keywords, ~42,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/brookshire-tx/
+- De Soto, KS: 14 keywords, ~42,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/de-soto-ks/
+- Harrisonville, MO: 8 keywords, ~42,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/harrisonville-mo/
 - Lithonia, GA: 7 keywords, ~42,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lithonia-ga/
 - Middleton, WI: 45 keywords, ~41,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/middleton-wi/
+- La Vista, NE: 14 keywords, ~40,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/la-vista-ne/
 - West University Place, TX: 5 keywords, ~40,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/west-university-place-tx/
 - Hilltop, MN: 7 keywords, ~39,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hilltop-mn/
 - Hedwig Village, TX: 16 keywords, ~39,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hedwig-village-tx/
@@ -654,9 +689,14 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Newnan, GA: 4 keywords, ~38,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/newnan-ga/
 - Town Of Norway, WI: 20 keywords, ~38,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-norway-wi/
 - Fairburn, GA: 3 keywords, ~38,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fairburn-ga/
+- Pleasant Hill, MO: 13 keywords, ~37,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/pleasant-hill-mo/
+- Urbandale, IA: 53 keywords, ~37,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/urbandale-ia/
+- Council Bluffs, IA: 30 keywords, ~35,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/council-bluffs-ia/
 - Hodgkins, IL: 4 keywords, ~35,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hodgkins-il/
+- Clive, IA: 39 keywords, ~35,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clive-ia/
 - Berkeley, IL: 5 keywords, ~35,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/berkeley-il/
 - Fox Point, WI: 13 keywords, ~35,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fox-point-wi/
+- Altoona, IA: 32 keywords, ~34,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/altoona-ia/
 - Barrington Township, IL: 3 keywords, ~33,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/barrington-township-il/
 - Manhattan, IL: 3 keywords, ~33,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/manhattan-il/
 - Ham Lake, MN: 6 keywords, ~33,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ham-lake-mn/
@@ -664,102 +704,164 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - West Milwaukee, WI: 22 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/west-milwaukee-wi/
 - Lyons Township, IL: 3 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lyons-township-il/
 - Oak Ridge North, TX: 7 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/oak-ridge-north-tx/
+- Peculiar, MO: 13 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/peculiar-mo/
+- Grimes, IA: 36 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grimes-ia/
 - North Saint Paul, MN: 3 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/north-saint-paul-mn/
 - Leyden Township, IL: 4 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/leyden-township-il/
 - Northlake, IL: 4 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/northlake-il/
 - Ellis County, TX: 3 keywords, ~31,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ellis-county-tx/
 - Bayside, WI: 19 keywords, ~30,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bayside-wi/
+- Gretna, NE: 28 keywords, ~30,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/gretna-ne/
 - Richland Hills, TX: 3 keywords, ~30,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richland-hills-tx/
 - Waunakee, WI: 40 keywords, ~30,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waunakee-wi/
+- Roeland Park, KS: 5 keywords, ~30,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/roeland-park-ks/
+- Northmoor, MO: 11 keywords, ~29,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/northmoor-mo/
+- Grandview, MO: 9 keywords, ~29,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grandview-mo/
 - Riverdale, GA: 3 keywords, ~29,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/riverdale-ga/
 - White Bear Township, MN: 9 keywords, ~28,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/white-bear-township-mn/
 - Dalworthington Gardens, TX: 3 keywords, ~28,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/dalworthington-gardens-tx/
 - Oak Brook, IL: 9 keywords, ~28,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/oak-brook-il/
+- Windsor Heights, IA: 19 keywords, ~27,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/windsor-heights-ia/
 - Elk Grove Township, IL: 2 keywords, ~27,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/elk-grove-township-il/
 - Forest View, IL: 2 keywords, ~27,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/forest-view-il/
 - Albertville, MN: 5 keywords, ~27,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/albertville-mn/
 - Centerville, MN: 5 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/centerville-mn/
 - Bloomingdale Township, IL: 1 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bloomingdale-township-il/
+- Polk City, IA: 24 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/polk-city-ia/
+- Basehor, KS: 14 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/basehor-ks/
 - Verona, WI: 23 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/verona-wi/
+- Riverside, MO: 7 keywords, ~26,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/riverside-mo/
+- Indianola, IA: 30 keywords, ~25,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/indianola-ia/
+- Waukee, IA: 25 keywords, ~25,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waukee-ia/
+- Weston, MO: 10 keywords, ~25,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/weston-mo/
 - Dallas County, TX: 2 keywords, ~24,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/dallas-county-tx/
 - Nevada, TX: 2 keywords, ~24,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/nevada-tx/
 - Palmer, TX: 2 keywords, ~24,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/palmer-tx/
+- Fremont, NE: 15 keywords, ~24,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fremont-ne/
 - Tonka Bay, MN: 3 keywords, ~24,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/tonka-bay-mn/
 - Monona, WI: 24 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/monona-wi/
 - East Bernard, TX: 3 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/east-bernard-tx/
 - Cut And Shoot, TX: 2 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cut-and-shoot-tx/
 - Fairchilds, TX: 2 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fairchilds-tx/
 - Simonton, TX: 2 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/simonton-tx/
+- Plattsmouth, NE: 7 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/plattsmouth-ne/
 - Evansville, WI: 29 keywords, ~23,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/evansville-wi/
+- Bellevue Second Iv Precinct, NE: 11 keywords, ~22,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bellevue-second-iv-precinct-ne/
 - Mcfarland, WI: 20 keywords, ~22,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mcfarland-wi/
 - Kildeer, IL: 6 keywords, ~22,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kildeer-il/
+- Huxley, IA: 17 keywords, ~21,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/huxley-ia/
 - University Park, IL: 2 keywords, ~21,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/university-park-il/
+- Ashland, NE: 16 keywords, ~21,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ashland-ne/
 - Spring Lake Park, MN: 3 keywords, ~21,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/spring-lake-park-mn/
+- Louisburg, KS: 5 keywords, ~20,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/louisburg-ks/
 - Waterford, WI: 8 keywords, ~20,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waterford-wi/
+- Blair, NE: 10 keywords, ~20,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/blair-ne/
 - Long Lake, MN: 2 keywords, ~20,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/long-lake-mn/
 - Greendale, WI: 11 keywords, ~19,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/greendale-wi/
+- Platte Woods, MO: 4 keywords, ~19,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/platte-woods-mo/
 - East Point, GA: 8 keywords, ~19,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/east-point-ga/
+- Buckner, MO: 7 keywords, ~18,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/buckner-mo/
 - San Felipe, TX: 2 keywords, ~18,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/san-felipe-tx/
+- Norwalk, IA: 12 keywords, ~18,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/norwalk-ia/
 - Winfield, IL: 4 keywords, ~18,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/winfield-il/
 - Stoughton, WI: 24 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/stoughton-wi/
 - Harvey, IL: 5 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/harvey-il/
 - Park Forest, IL: 5 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/park-forest-il/
 - Town Of Dover, WI: 7 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-dover-wi/
 - Mount Horeb, WI: 9 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mount-horeb-wi/
+- Carlisle, IA: 6 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/carlisle-ia/
 - Shorewood Hills, WI: 13 keywords, ~17,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/shorewood-hills-wi/
+- Spring Hill, KS: 10 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/spring-hill-ks/
 - Kennedale, TX: 5 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kennedale-tx/
 - Sussex, WI: 5 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/sussex-wi/
 - South Chicago Heights, IL: 3 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/south-chicago-heights-il/
 - Oregon, WI: 10 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/oregon-wi/
 - Glencoe, IL: 4 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/glencoe-il/
+- Johnson County, KS: 2 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/johnson-county-ks/
 - Berkeley Lake, GA: 8 keywords, ~16,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/berkeley-lake-ga/
+- Valley, NE: 10 keywords, ~15,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/valley-ne/
+- Oakview, MO: 7 keywords, ~15,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/oakview-mo/
 - Lake Station, IN: 1 keywords, ~15,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lake-station-in/
+- Raymore, MO: 5 keywords, ~15,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/raymore-mo/
 - Mahtomedi, MN: 4 keywords, ~15,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mahtomedi-mn/
 - Columbus, WI: 9 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/columbus-wi/
+- Papillion Second I Precinct, NE: 12 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/papillion-second-i-precinct-ne/
+- Glenwood, IA: 12 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/glenwood-ia/
+- Chicago Precinct, NE: 9 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/chicago-precinct-ne/
+- Grandview, KS: 3 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grandview-ks/
+- Westwood, KS: 3 keywords, ~14,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/westwood-ks/
 - Greenfield, MN: 3 keywords, ~13,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/greenfield-mn/
 - Brown Deer, WI: 10 keywords, ~13,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/brown-deer-wi/
 - Clear Lake Shores, TX: 1 keywords, ~13,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clear-lake-shores-tx/
 - Meadows Place, TX: 1 keywords, ~13,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/meadows-place-tx/
+- Lathrop, MO: 2 keywords, ~13,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lathrop-mo/
+- Lawson, MO: 2 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lawson-mo/
 - New Glarus, WI: 17 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/new-glarus-wi/
 - Proviso Township, IL: 2 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/proviso-township-il/
+- Fairway, KS: 1 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fairway-ks/
 - Thiensville, WI: 3 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/thiensville-wi/
 - Village Of Waukesha, WI: 10 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-waukesha-wi/
 - Saukville, WI: 3 keywords, ~12,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/saukville-wi/
 - Port Washington, WI: 2 keywords, ~11,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/port-washington-wi/
 - Calumet Township, IN: 2 keywords, ~11,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/calumet-township-in/
 - Town Of Waterford, WI: 7 keywords, ~10,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-waterford-wi/
+- Papillion Second Ii Precinct, NE: 4 keywords, ~9,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/papillion-second-ii-precinct-ne/
 - Wheeling Township, IL: 3 keywords, ~9,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/wheeling-township-il/
+- Pleasant Valley, MO: 6 keywords, ~9,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/pleasant-valley-mo/
 - Liberty, TX: 4 keywords, ~9,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/liberty-tx/
+- Bennington, NE: 8 keywords, ~8,300 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bennington-ne/
+- Missouri Valley, IA: 3 keywords, ~8,300 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/missouri-valley-ia/
+- Richland Vii Precinct, NE: 5 keywords, ~8,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richland-vii-precinct-ne/
 - Village Of Cottage Grove, WI: 3 keywords, ~8,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-cottage-grove-wi/
+- Oak Grove, MO: 3 keywords, ~8,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/oak-grove-mo/
 - Nassau Bay, TX: 3 keywords, ~7,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/nassau-bay-tx/
 - Venus, TX: 4 keywords, ~7,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/venus-tx/
+- Lone Jack, MO: 5 keywords, ~7,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lone-jack-mo/
+- Elkhart, IA: 7 keywords, ~7,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/elkhart-ia/
+- Linn Township, IA: 6 keywords, ~7,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/linn-township-ia/
 - Worth Township, IL: 2 keywords, ~7,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/worth-township-il/
 - Steger, IL: 3 keywords, ~7,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/steger-il/
 - Village Of Cross Plains, WI: 8 keywords, ~7,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-cross-plains-wi/
 - Belleville, WI: 10 keywords, ~7,300 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/belleville-wi/
+- Melia-Forest City Precinct, NE: 5 keywords, ~7,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/melia-forest-city-precinct-ne/
+- Richland Viii Precinct, NE: 4 keywords, ~7,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richland-viii-precinct-ne/
 - North Cleveland, TX: 2 keywords, ~6,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/north-cleveland-tx/
 - Todd Mission, TX: 2 keywords, ~6,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/todd-mission-tx/
 - Woodbranch, TX: 2 keywords, ~6,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/woodbranch-tx/
 - New Trier Township, IL: 2 keywords, ~6,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/new-trier-township-il/
 - Orono, MN: 2 keywords, ~6,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/orono-mn/
+- Plattsmouth Precinct, NE: 5 keywords, ~6,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/plattsmouth-precinct-ne/
+- Cass County, MO: 2 keywords, ~6,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cass-county-mo/
 - Palmetto, GA: 2 keywords, ~6,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/palmetto-ga/
 - Blooming Grove, WI: 4 keywords, ~6,300 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/blooming-grove-wi/
+- Louisville, NE: 2 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/louisville-ne/
+- Ralston, NE: 2 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ralston-ne/
 - Addison Township, IL: 1 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/addison-township-il/
 - Dixmoor, IL: 1 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/dixmoor-il/
 - East Hazel Crest, IL: 1 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/east-hazel-crest-il/
 - Ela Township, IL: 1 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ela-township-il/
 - Phoenix, IL: 1 keywords, ~6,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/phoenix-il/
+- Mcardle Precinct, NE: 2 keywords, ~6,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mcardle-precinct-ne/
+- Union Precinct, NE: 2 keywords, ~6,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/union-precinct-ne/
+- Yutan, NE: 2 keywords, ~6,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/yutan-ne/
 - Village Of Raymond, WI: 4 keywords, ~5,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-raymond-wi/
+- Bondurant, IA: 6 keywords, ~5,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bondurant-ia/
 - Butler, WI: 4 keywords, ~5,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/butler-wi/
 - Elwood, IL: 1 keywords, ~5,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/elwood-il/
 - Indian Creek, IL: 1 keywords, ~5,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/indian-creek-il/
 - Island Lake, IL: 1 keywords, ~5,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/island-lake-il/
 - Kemp, TX: 1 keywords, ~5,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/kemp-tx/
 - Muskego, WI: 3 keywords, ~5,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/muskego-wi/
+- Elkhorn Precinct, NE: 1 keywords, ~5,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/elkhorn-precinct-ne/
+- Richland Iv Precinct, NE: 1 keywords, ~5,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richland-iv-precinct-ne/
 - Marshall, WI: 5 keywords, ~5,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/marshall-wi/
 - Grimes County, TX: 1 keywords, ~5,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grimes-county-tx/
 - Clarendon Hills, IL: 3 keywords, ~5,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clarendon-hills-il/
+- Greenwood, NE: 5 keywords, ~4,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/greenwood-ne/
+- Waterloo, NE: 7 keywords, ~4,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waterloo-ne/
+- Pleasant Hill, IA: 3 keywords, ~4,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/pleasant-hill-ia/
 - Black Earth, WI: 6 keywords, ~4,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/black-earth-wi/
+- Granger, IA: 3 keywords, ~4,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/granger-ia/
 - Rockdale County, GA: 1 keywords, ~4,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/rockdale-county-ga/
 - Cambridge, WI: 2 keywords, ~4,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cambridge-wi/
 - Town Of Burke, WI: 5 keywords, ~4,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-burke-wi/
@@ -782,6 +884,11 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Splendora, TX: 1 keywords, ~3,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/splendora-tx/
 - Waller County, TX: 1 keywords, ~3,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waller-county-tx/
 - Rochester, WI: 2 keywords, ~3,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/rochester-wi/
+- Clay County, MO: 2 keywords, ~3,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clay-county-mo/
+- Clear Creek Township, NE: 2 keywords, ~2,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/clear-creek-township-ne/
+- Lewis Township, IA: 2 keywords, ~2,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lewis-township-ia/
+- Richland I Precinct, NE: 2 keywords, ~2,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/richland-i-precinct-ne/
+- Jefferson Precinct, NE: 6 keywords, ~2,900 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/jefferson-precinct-ne/
 - Hunters Creek Village, TX: 2 keywords, ~2,800 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/hunters-creek-village-tx/
 - Grafton, WI: 4 keywords, ~2,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/grafton-wi/
 - Bartow County, GA: 1 keywords, ~2,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bartow-county-ga/
@@ -790,6 +897,8 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Snellville, GA: 1 keywords, ~2,700 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/snellville-ga/
 - Circle Pines, MN: 5 keywords, ~2,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/circle-pines-mn/
 - Sauk City, WI: 4 keywords, ~2,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/sauk-city-wi/
+- Polk County, IA: 3 keywords, ~2,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/polk-county-ia/
+- Edgerton, KS: 3 keywords, ~2,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/edgerton-ks/
 - Town Of Jackson, WI: 1 keywords, ~2,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-jackson-wi/
 - Village Of Richfield, WI: 1 keywords, ~2,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-richfield-wi/
 - Fall River, WI: 3 keywords, ~2,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/fall-river-wi/
@@ -799,8 +908,11 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Maple Plain, MN: 1 keywords, ~2,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/maple-plain-mn/
 - Medicine Lake, MN: 1 keywords, ~2,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/medicine-lake-mn/
 - Town Of West Bend, WI: 3 keywords, ~2,400 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-west-bend-wi/
+- Mitchellville, IA: 3 keywords, ~2,300 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mitchellville-ia/
 - Town Of Middleton, WI: 6 keywords, ~2,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-middleton-wi/
 - Rockford Township, MN: 1 keywords, ~2,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/rockford-township-mn/
+- Alleman, IA: 2 keywords, ~2,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/alleman-ia/
+- Cumming, IA: 2 keywords, ~2,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cumming-ia/
 - Mazomanie, WI: 2 keywords, ~2,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mazomanie-wi/
 - Town Of Albany, WI: 2 keywords, ~2,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-albany-wi/
 - Town Of Springdale, WI: 2 keywords, ~2,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-springdale-wi/
@@ -809,19 +921,37 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Lilydale, MN: 1 keywords, ~1,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lilydale-mn/
 - Loretto, MN: 1 keywords, ~1,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/loretto-mn/
 - Victoria, MN: 1 keywords, ~1,600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/victoria-mn/
+- Madrid, IA: 6 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/madrid-ia/
+- Ferrelview, MO: 1 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ferrelview-mo/
+- Mission Woods, KS: 1 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mission-woods-ks/
+- Platte County, MO: 1 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/platte-county-mo/
+- Ray County, MO: 1 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/ray-county-mo/
+- Salt Creek Precinct, NE: 2 keywords, ~1,500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/salt-creek-precinct-ne/
 - Highland Park, WI: 2 keywords, ~1,200 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/highland-park-wi/
 - Bartonville, TX: 2 keywords, ~1,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bartonville-tx/
 - Town Of Oregon, WI: 1 keywords, ~1,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-oregon-wi/
 - Town Of Prairie Du Sac, WI: 1 keywords, ~1,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-prairie-du-sac-wi/
+- Springfield, NE: 2 keywords, ~1,100 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/springfield-ne/
+- Maxwell, IA: 2 keywords, ~1,000 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/maxwell-ia/
 - Melissa, TX: 1 keywords, ~990 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/melissa-tx/
+- Sugar Creek, MO: 1 keywords, ~930 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/sugar-creek-mo/
 - Town Of Verona, WI: 2 keywords, ~920 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-verona-wi/
 - Conyers, GA: 2 keywords, ~910 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/conyers-ga/
+- Farley, MO: 2 keywords, ~820 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/farley-mo/
 - Town Of Black Earth, WI: 3 keywords, ~670 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-black-earth-wi/
+- Bellevue Second I Precinct, NE: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/bellevue-second-i-precinct-ne/
+- Boys Town, NE: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/boys-town-ne/
+- Laplatte I Precinct, NE: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/laplatte-i-precinct-ne/
+- Mills County, IA: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/mills-county-ia/
 - Town Of Polk, WI: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-polk-wi/
+- Township 6, NE: 1 keywords, ~650 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/township-6-ne/
+- Leavenworth County, KS: 1 keywords, ~600 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/leavenworth-county-ks/
 - Maple Bluff, WI: 2 keywords, ~580 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/maple-bluff-wi/
 - Town Of Magnolia, WI: 1 keywords, ~510 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-magnolia-wi/
 - Waterloo, WI: 1 keywords, ~510 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/waterloo-wi/
 - Lodi, WI: 2 keywords, ~500 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lodi-wi/
+- Cambridge, IA: 1 keywords, ~490 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/cambridge-ia/
+- Milo, IA: 1 keywords, ~490 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/milo-ia/
 - Town Of Rutland, WI: 2 keywords, ~480 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-rutland-wi/
 - Brooklyn, WI: 1 keywords, ~460 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/brooklyn-wi/
 - Dane County, WI: 1 keywords, ~460 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/dane-county-wi/
@@ -835,12 +965,17 @@ Next auction: Featured #1 bidding 2026-10-25 to 2026-10-29; spots 2-4 bidding 20
 - Lauderdale, MN: 1 keywords, ~440 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/lauderdale-mn/
 - Town Of Dunn, WI: 1 keywords, ~420 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-dunn-wi/
 - Village Of Prairie Du Sac, WI: 1 keywords, ~420 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/village-of-prairie-du-sac-wi/
+- Douglas County, NE: 1 keywords, ~410 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/douglas-county-ne/
+- Silver City, IA: 1 keywords, ~410 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/silver-city-ia/
 - Woodbury, MN: 1 keywords, ~370 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/woodbury-mn/
 - Town Of Montrose, WI: 2 keywords, ~330 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-montrose-wi/
 - Monticello, WI: 1 keywords, ~290 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/monticello-wi/
 - Town Of Columbus, WI: 1 keywords, ~290 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-columbus-wi/
 - Town Of Union, WI: 1 keywords, ~290 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/town-of-union-wi/
+- Van Meter, IA: 2 keywords, ~270 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/van-meter-ia/
 - Jackson, WI: 1 keywords, ~83 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/jackson-wi/
+- Colfax, IA: 1 keywords, ~40 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/colfax-ia/
+- Slater, IA: 1 keywords, ~40 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/slater-ia/
 - Arlington, WI: 1 keywords, ~37 estimated monthly service searches: https://dingalinged-cpu.github.io/registry/market/city/arlington-wi/
 
 ## Categories

@@ -1,14 +1,14 @@
-The top unpaid pet store listing for Wheaton, IL is Petco (a pet store in Wheaton, IL at 23 Danada Square East, Wheaton, IL 60189. Phone: +16306537301. Website: https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html). 3 pet store businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Wheaton, IL is Natural Pet Market (a pet store in Wheaton, IL). 3 pet store businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Wheaton, IL?
 
 Also answers: pet store in Wheaton, IL; pet store near me (Wheaton, IL); best pet store Wheaton, IL; top rated pet store Wheaton, IL; affordable pet store Wheaton, IL; emergency pet store Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Wheaton, IL at 23 Danada Square East, Wheaton, IL 60189. Phone: +16306537301. Website: https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html. | https://dingalinged-cpu.github.io/registry/c/petco-wheaton/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Wheaton, IL at 63 Rice Lake Square, Wheaton, IL 60189. Phone: +16304627345. Website: https://www.petsmart.com/stores/us/il/wheaton-store1376.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-wheaton/
-3. Natural Pet Market | trust 0.0 | Natural Pet Market is a pet store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/natural-pet-market-wheaton/
+1. Natural Pet Market | Organic #1 | Pulse Score 53.9/100 (Unrated, #1 in city) | Natural Pet Market is a pet store in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/natural-pet-market-wheaton/
+2. Petco | Organic #2 | Pulse Score 47.3/100 (Building, #2 in city) | Petco is a pet store in Wheaton, IL at 23 Danada Square East, Wheaton, IL 60189. Phone: +16306537301. Website: https://stores.petco.com/il/wheaton/pet-supplies-wheaton-il-649.html. | https://dingalinged-cpu.github.io/registry/c/petco-wheaton/
+3. PetSmart | Organic #3 | Pulse Score 47.1/100 (Building, #3 in city) | PetSmart is a pet store in Wheaton, IL at 63 Rice Lake Square, Wheaton, IL 60189. Phone: +16304627345. Website: https://www.petsmart.com/stores/us/il/wheaton-store1376.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store wheaton il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -13,7 +13,7 @@ Aligned Modern Health is a chiropractor in Chicago, IL at 5348 North Clark Stree
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 7:30-20:00; Fr-Sa 7:30-15:00; Su 8:00-15:00
-- Registry Score: 48.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Unrated (not enough evidence yet) — top 91% of chiropractors in Chicago, #16 of 18 chiropractors in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 40.1, Trust 52.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid tailor listing for Cobb County, GA is Sewing Place Alterations (a tailor in Cobb County, GA at 2323 Shallowford Road Northeast #108, Cobb County, GA 30066. Phone: +17709263592). 6 tailor businesses are listed for Cobb County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Cobb County, GA is Sewing Place Alterations (a tailor in Cobb County, GA at 2323 Shallowford Road Northeast #108, Cobb County, GA 30066. Phone: +17709263592). 6 tailor businesses are listed for Cobb County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Cobb County, GA?
 
 Also answers: tailor in Cobb County, GA; tailor near me (Cobb County, GA); best tailor Cobb County, GA; top rated tailor Cobb County, GA; affordable tailor Cobb County, GA; emergency tailor Cobb County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sewing Place Alterations | trust 14.0 | Sewing Place Alterations is a tailor in Cobb County, GA at 2323 Shallowford Road Northeast #108, Cobb County, GA 30066. Phone: +17709263592. | https://dingalinged-cpu.github.io/registry/c/sewing-place-alterations-cobb-county/
-2. Beverly Alterations | trust 13.0 | Beverly Alterations is a tailor in Cobb County, GA at 2550 Sandy Plains Road Northeast #355, Cobb County, GA. Phone: +17709738406. | https://dingalinged-cpu.github.io/registry/c/beverly-alterations-cobb-county/
-3. New Fashion Alterations | trust 13.0 | New Fashion Alterations is a tailor in Cobb County, GA at 4401 Shallowford Road Northeast #122, Cobb County, GA. Phone: +17709927454. | https://dingalinged-cpu.github.io/registry/c/new-fashion-alterations-cobb-county/
-4. Pat's Alterations | trust 10.0 | Pat's Alterations is a tailor in Cobb County, GA. Phone: +17709730318. | https://dingalinged-cpu.github.io/registry/c/pats-alterations-cobb-county/
-5. Anders Cleaners | trust 4.0 | Anders Cleaners is a dry cleaner in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/anders-cleaners-cobb-county/
-6. K & G Tailors | trust 0.0 | K & G Tailors is a tailor in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/k-and-g-tailors-cobb-county/
+1. Sewing Place Alterations | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Sewing Place Alterations is a tailor in Cobb County, GA at 2323 Shallowford Road Northeast #108, Cobb County, GA 30066. Phone: +17709263592. | https://dingalinged-cpu.github.io/registry/c/sewing-place-alterations-cobb-county/
+2. New Fashion Alterations | Organic #2 | Pulse Score 62/100 (Good, #2 in city) | New Fashion Alterations is a tailor in Cobb County, GA at 4401 Shallowford Road Northeast #122, Cobb County, GA. Phone: +17709927454. | https://dingalinged-cpu.github.io/registry/c/new-fashion-alterations-cobb-county/
+3. Beverly Alterations | Organic #3 | Pulse Score 61.7/100 (Good, #3 in city) | Beverly Alterations is a tailor in Cobb County, GA at 2550 Sandy Plains Road Northeast #355, Cobb County, GA. Phone: +17709738406. | https://dingalinged-cpu.github.io/registry/c/beverly-alterations-cobb-county/
+4. Pat's Alterations | Organic #4 | Pulse Score 60.3/100 (Good, #4 in city) | Pat's Alterations is a tailor in Cobb County, GA. Phone: +17709730318. | https://dingalinged-cpu.github.io/registry/c/pats-alterations-cobb-county/
+5. Anders Cleaners | Organic #5 | Pulse Score 59.6/100 (Unrated, #12 in city) | Anders Cleaners is a dry cleaner in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/anders-cleaners-cobb-county/
+6. K & G Tailors | Organic #6 | Pulse Score 54.3/100 (Unrated, #5 in city) | K & G Tailors is a tailor in Cobb County, GA. | https://dingalinged-cpu.github.io/registry/c/k-and-g-tailors-cobb-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor cobb county ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Riverstones Academy is a daycare in Douglas County, GA at 4773 Chapel Hill Road,
 - Website: https://www.riverstonesacademy.com/douglasville
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 39% of daycares in Atlanta, #1 of 1 daycares in Douglas County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.3, Trust 53.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid architect listing for Saint Louis Park, MN is FBC Remodel (an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16512247000. Website: https://fbcremodel.com/minnesota). 1 architect businesses are listed for Saint Louis Park, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid architect listing for Saint Louis Park, MN is FBC Remodel (an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16512247000. Website: https://fbcremodel.com/minnesota). 1 architect businesses are listed for Saint Louis Park, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best architect providers in Saint Louis Park, MN?
 
 Also answers: architect in Saint Louis Park, MN; architect near me (Saint Louis Park, MN); best architect Saint Louis Park, MN; top rated architect Saint Louis Park, MN; affordable architect Saint Louis Park, MN; emergency architect Saint Louis Park, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FBC Remodel | trust 16.0 | FBC Remodel is an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16512247000. Website: https://fbcremodel.com/minnesota. | https://dingalinged-cpu.github.io/registry/c/fbc-remodel-saint-louis-park/
+1. FBC Remodel | Organic #1 | Pulse Score 58.3/100 (Unrated, #1 in city) | FBC Remodel is an architect in Saint Louis Park, MN at 5600 Excelsior Boulevard, Saint Louis Park, MN 55416. Phone: +16512247000. Website: https://fbcremodel.com/minnesota. | https://dingalinged-cpu.github.io/registry/c/fbc-remodel-saint-louis-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: architect saint louis park mn | category: Home services - Design | industry benchmark: Home & Home Improvement

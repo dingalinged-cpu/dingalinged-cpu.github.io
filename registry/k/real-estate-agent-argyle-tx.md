@@ -1,13 +1,13 @@
-The top unpaid real estate agent listing for Argyle, TX is Harvest By Hillwood Communities (a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/). 2 real estate agent businesses are listed for Argyle, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for Argyle, TX is Harvest By Hillwood Communities (a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/). 2 real estate agent businesses are listed for Argyle, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in Argyle, TX?
 
 Also answers: real estate agent in Argyle, TX; real estate agent near me (Argyle, TX); best real estate agent Argyle, TX; top rated real estate agent Argyle, TX; affordable real estate agent Argyle, TX; emergency real estate agent Argyle, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Harvest By Hillwood Communities | trust 20.0 | Harvest By Hillwood Communities is a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/. | https://dingalinged-cpu.github.io/registry/c/harvest-by-hillwood-communities-argyle/
-2. RE/MAX | trust 4.0 | RE/MAX is a real estate agency in Argyle, TX at 600 North US Highway 377, Argyle, TX 76226. | https://dingalinged-cpu.github.io/registry/c/re-max-argyle/
+1. Harvest By Hillwood Communities | Organic #1 | Pulse Score 63/100 (Unrated, #1 in city) | Harvest By Hillwood Communities is a real estate agency in Argyle, TX at 1301 Homestead Way, Argyle, TX 76226. Phone: +19403056093. Website: https://www.harvestbyhillwood.com/. | https://dingalinged-cpu.github.io/registry/c/harvest-by-hillwood-communities-argyle/
+2. RE/MAX | Organic #2 | Pulse Score 43.6/100 (Building, #2 in city) | RE/MAX is a real estate agency in Argyle, TX at 600 North US Highway 377, Argyle, TX 76226. | https://dingalinged-cpu.github.io/registry/c/re-max-argyle/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent argyle tx | category: Professional & financial services | industry benchmark: Finance & Insurance

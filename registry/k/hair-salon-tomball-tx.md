@@ -1,13 +1,13 @@
-The top unpaid hair salon listing for Tomball, TX is Fieldings Local (a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX). 2 hair salon businesses are listed for Tomball, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Tomball, TX is Fieldings Local (a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX). 2 hair salon businesses are listed for Tomball, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Tomball, TX?
 
 Also answers: hair salon in Tomball, TX; hair salon near me (Tomball, TX); best hair salon Tomball, TX; top rated hair salon Tomball, TX; affordable hair salon Tomball, TX; emergency hair salon Tomball, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fieldings Local | trust 3.0 | Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/
-2. Sport Clips | trust 0.0 | Sport Clips is a hair salon in Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-tomball/
+1. Fieldings Local | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Fieldings Local is a hair salon in Tomball, TX at 26400 Kuykendahl Road, Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/fieldings-local-tomball/
+2. Sport Clips | Organic #2 | Pulse Score 42.7/100 (Building, #2 in city) | Sport Clips is a hair salon in Tomball, TX. | https://dingalinged-cpu.github.io/registry/c/sport-clips-tomball/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon tomball tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

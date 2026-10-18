@@ -1,14 +1,14 @@
-The top unpaid used cars for sale listing for Roswell, GA is CarMax (an used car dealer in Roswell, GA at 11450 Alpharetta Highway, Roswell, GA 30076. Phone: +17702806200. Website: https://www.carmax.com/stores/7298). 3 used cars for sale businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid used cars for sale listing for Roswell, GA is CarMax (an used car dealer in Roswell, GA at 11450 Alpharetta Highway, Roswell, GA 30076. Phone: +17702806200. Website: https://www.carmax.com/stores/7298). 3 used cars for sale businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best used cars for sale providers in Roswell, GA?
 
 Also answers: used cars for sale in Roswell, GA; used cars for sale near me (Roswell, GA); best used cars for sale Roswell, GA; top rated used cars for sale Roswell, GA; affordable used cars for sale Roswell, GA; emergency used cars for sale Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CarMax | trust 20.0 | CarMax is an used car dealer in Roswell, GA at 11450 Alpharetta Highway, Roswell, GA 30076. Phone: +17702806200. Website: https://www.carmax.com/stores/7298. | https://dingalinged-cpu.github.io/registry/c/carmax-roswell/
-2. United BMW | trust 16.0 | United BMW is an used car dealer in Roswell, GA at 11458 Alpharetta Highway, Roswell, GA 30076. Phone: +18669063182. Website: https://www.unitedbmw.com/. | https://dingalinged-cpu.github.io/registry/c/united-bmw-roswell/
-3. Nalley Toyota of Roswell | trust 0.0 | Nalley Toyota of Roswell is an used car dealer in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nalley-toyota-of-roswell-roswell/
+1. CarMax | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | CarMax is an used car dealer in Roswell, GA at 11450 Alpharetta Highway, Roswell, GA 30076. Phone: +17702806200. Website: https://www.carmax.com/stores/7298. | https://dingalinged-cpu.github.io/registry/c/carmax-roswell/
+2. United BMW | Organic #2 | Pulse Score 46.5/100 (Building, #2 in city) | United BMW is an used car dealer in Roswell, GA at 11458 Alpharetta Highway, Roswell, GA 30076. Phone: +18669063182. Website: https://www.unitedbmw.com/. | https://dingalinged-cpu.github.io/registry/c/united-bmw-roswell/
+3. Nalley Toyota of Roswell | Organic #3 | Pulse Score 42.9/100 (Unrated, #3 in city) | Nalley Toyota of Roswell is an used car dealer in Roswell, GA. | https://dingalinged-cpu.github.io/registry/c/nalley-toyota-of-roswell-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: used cars for sale roswell ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

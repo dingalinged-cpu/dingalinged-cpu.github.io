@@ -1,13 +1,13 @@
-The top unpaid heating and air listing for Bensenville, IL is Phoenix Air Control (a HVAC contractor in Bensenville, IL at 756 Birginal Drive, Bensenville, IL 60106. Phone: +16305955050. Website: https://phoenixaircontrol.com/). 2 heating and air businesses are listed for Bensenville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Bensenville, IL is Phoenix Air Control (a HVAC contractor in Bensenville, IL at 756 Birginal Drive, Bensenville, IL 60106. Phone: +16305955050. Website: https://phoenixaircontrol.com/). 2 heating and air businesses are listed for Bensenville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Bensenville, IL?
 
 Also answers: heating and air in Bensenville, IL; heating and air near me (Bensenville, IL); best heating and air Bensenville, IL; top rated heating and air Bensenville, IL; affordable heating and air Bensenville, IL; emergency heating and air Bensenville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Phoenix Air Control | trust 16.0 | Phoenix Air Control is a HVAC contractor in Bensenville, IL at 756 Birginal Drive, Bensenville, IL 60106. Phone: +16305955050. Website: https://phoenixaircontrol.com/. | https://dingalinged-cpu.github.io/registry/c/phoenix-air-control-bensenville/
-2. Phoenix Air Control, Inc. | trust 10.0 | Phoenix Air Control, Inc. is a HVAC contractor in Bensenville, IL at 756 Birginal Dr., Bensenville, IL 60106. Phone: +16305955050. | https://dingalinged-cpu.github.io/registry/c/phoenix-air-control-inc-bensenville/
+1. Phoenix Air Control | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Phoenix Air Control is a HVAC contractor in Bensenville, IL at 756 Birginal Drive, Bensenville, IL 60106. Phone: +16305955050. Website: https://phoenixaircontrol.com/. | https://dingalinged-cpu.github.io/registry/c/phoenix-air-control-bensenville/
+2. Phoenix Air Control, Inc. | Organic #2 | Pulse Score 56.7/100 (Unrated, #2 in city) | Phoenix Air Control, Inc. is a HVAC contractor in Bensenville, IL at 756 Birginal Dr., Bensenville, IL 60106. Phone: +16305955050. | https://dingalinged-cpu.github.io/registry/c/phoenix-air-control-inc-bensenville/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air bensenville il | category: Home Services | industry benchmark: Home & Home Improvement

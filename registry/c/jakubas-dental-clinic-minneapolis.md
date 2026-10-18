@@ -13,7 +13,7 @@ Jakubas Dental Clinic is a dentist in Minneapolis, MN at 4554 Minnehaha Avenue, 
 - Website: https://jakubasdental.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.2/100 — Good — top 30% of dentists in Minneapolis–St. Paul, #18 of 40 dentists in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.7, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

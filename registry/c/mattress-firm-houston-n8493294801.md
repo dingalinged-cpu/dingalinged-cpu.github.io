@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Houston, TX at 13770 Northwest Freeway, Hou
 - Website: https://www.mattressfirm.com/en-us/stores/tx/houston/001032/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.1/100 — Building — top 71% of mattress stores in Houston, #20 of 28 mattress stores in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.3, Trust 53.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

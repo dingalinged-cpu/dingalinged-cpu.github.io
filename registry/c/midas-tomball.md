@@ -13,7 +13,7 @@ Midas is an auto repair shop in Tomball, TX at 29230 Tomball Parkway, Tomball, T
 - Website: https://www.midas.com/store/tx/tomball/29230-tomball-parkway-77375?shopnum=5141
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48/100 — Building — top 68% of auto repair shops in Houston, #6 of 9 auto repair shops in Tomball (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

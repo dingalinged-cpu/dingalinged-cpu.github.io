@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Naperville, IL is Eye Encounters (an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/). 3 eye doctor businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Naperville, IL is Eye Encounters (an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/). 3 eye doctor businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Naperville, IL?
 
 Also answers: eye doctor in Naperville, IL; eye doctor near me (Naperville, IL); best eye doctor Naperville, IL; top rated eye doctor Naperville, IL; affordable eye doctor Naperville, IL; emergency eye doctor Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Eye Encounters | trust 20.0 | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://dingalinged-cpu.github.io/registry/c/eye-encounters-naperville/
-2. MyEyeDr. | trust 20.0 | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://dingalinged-cpu.github.io/registry/c/myeyedr-naperville/
-3. Rosin Eye Care | trust 20.0 | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://dingalinged-cpu.github.io/registry/c/rosin-eye-care-naperville/
+1. Eye Encounters | Organic #1 | Pulse Score 64/100 (Unrated, #1 in city) | Eye Encounters is an eye care practice in Naperville, IL at 29 South Webster Street #104, Naperville, IL 60540. Phone: +16303576880. Website: https://eye-encounters.com/. | https://dingalinged-cpu.github.io/registry/c/eye-encounters-naperville/
+2. Rosin Eye Care | Organic #2 | Pulse Score 62.4/100 (Unrated, #2 in city) | Rosin Eye Care is an eye care practice in Naperville, IL at 705 East Ogden Avenue, Naperville, IL 60563. Phone: +16307782020. Website: https://www.rosineyecare.com/naperville-north-eye-doctor/. | https://dingalinged-cpu.github.io/registry/c/rosin-eye-care-naperville/
+3. MyEyeDr. | Organic #3 | Pulse Score 49.2/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Naperville, IL at 1000 East Ogden Avenue, Naperville, IL 60563. Phone: +16303559080. Website: https://locations.myeyedr.com/il/naperville/1000-e-ogden-ave. | https://dingalinged-cpu.github.io/registry/c/myeyedr-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor naperville il | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Elegance Boutique is a boutique in Stockbridge, GA at 5035 North Henry Boulevard
 - Website: https://eleganceboutiquega.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu-We 10:00-18:00; Th-Sa 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 34% of boutiques in Atlanta, #1 of 1 boutiques in Stockbridge (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 69.8, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

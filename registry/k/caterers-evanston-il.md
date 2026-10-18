@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Evanston, IL is Green Spoon Kitchen (a caterer in Evanston, IL at 619 Howard Street, Evanston, IL 60202). 1 caterers businesses are listed for Evanston, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Evanston, IL is Green Spoon Kitchen (a caterer in Evanston, IL at 619 Howard Street, Evanston, IL 60202). 1 caterers businesses are listed for Evanston, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Evanston, IL?
 
 Also answers: caterers in Evanston, IL; caterers near me (Evanston, IL); best caterers Evanston, IL; top rated caterers Evanston, IL; affordable caterers Evanston, IL; emergency caterers Evanston, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Green Spoon Kitchen | trust 4.0 | Green Spoon Kitchen is a caterer in Evanston, IL at 619 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/green-spoon-kitchen-evanston/
+1. Green Spoon Kitchen | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Green Spoon Kitchen is a caterer in Evanston, IL at 619 Howard Street, Evanston, IL 60202. | https://dingalinged-cpu.github.io/registry/c/green-spoon-kitchen-evanston/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers evanston il | category: Events & weddings | industry benchmark: Personal Services

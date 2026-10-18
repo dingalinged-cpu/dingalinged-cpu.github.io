@@ -1,12 +1,12 @@
-The top unpaid dermatologist listing for Fitchburg, WI is Lasting Skin Solutions (a dermatologist in Fitchburg, WI at 2981 Yarmouth Greenway Drive, Fitchburg, WI 53711. Website: https://lastingskinsolutions.com/). 1 dermatologist businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dermatologist listing for Fitchburg, WI is Lasting Skin Solutions (a dermatologist in Fitchburg, WI at 2981 Yarmouth Greenway Drive, Fitchburg, WI 53711. Website: https://lastingskinsolutions.com/). 1 dermatologist businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dermatologist providers in Fitchburg, WI?
 
 Also answers: dermatologist in Fitchburg, WI; dermatologist near me (Fitchburg, WI); best dermatologist Fitchburg, WI; top rated dermatologist Fitchburg, WI; affordable dermatologist Fitchburg, WI; emergency dermatologist Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lasting Skin Solutions | trust 10.0 | Lasting Skin Solutions is a dermatologist in Fitchburg, WI at 2981 Yarmouth Greenway Drive, Fitchburg, WI 53711. Website: https://lastingskinsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/lasting-skin-solutions-fitchburg/
+1. Lasting Skin Solutions | Organic #1 | Pulse Score 57.2/100 (Unrated, #1 in city) | Lasting Skin Solutions is a dermatologist in Fitchburg, WI at 2981 Yarmouth Greenway Drive, Fitchburg, WI 53711. Website: https://lastingskinsolutions.com/. | https://dingalinged-cpu.github.io/registry/c/lasting-skin-solutions-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: dermatologist fitchburg wi | category: Health & medical | industry benchmark: Physicians & Surgeons

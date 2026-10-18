@@ -13,7 +13,7 @@ Extra Space Storage is a self-storage facility in Marietta, GA at 1490 Terrell M
 - Website: https://www.extraspace.com/storage/facilities/us/georgia/marietta/1000001466/id/climate-controlled-storage/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 06:00-22:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.2/100 — Fair — top 22% of self-storage facilitys in Atlanta, #10 of 22 self-storage facilitys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.9, Trust 65.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

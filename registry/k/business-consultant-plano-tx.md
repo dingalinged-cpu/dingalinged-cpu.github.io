@@ -1,13 +1,13 @@
-The top unpaid business consultant listing for Plano, TX is SkyVu Ventures (a business consultant in Plano, TX at 2609 Technology Drive, Plano, TX 75074. Phone: +14692381389. Website: https://skyvuventures.com/). 2 business consultant businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Plano, TX is SkyVu Ventures (a business consultant in Plano, TX at 2609 Technology Drive, Plano, TX 75074. Phone: +14692381389. Website: https://skyvuventures.com/). 2 business consultant businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Plano, TX?
 
 Also answers: business consultant in Plano, TX; business consultant near me (Plano, TX); best business consultant Plano, TX; top rated business consultant Plano, TX; affordable business consultant Plano, TX; emergency business consultant Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SkyVu Ventures | trust 20.0 | SkyVu Ventures is a business consultant in Plano, TX at 2609 Technology Drive, Plano, TX 75074. Phone: +14692381389. Website: https://skyvuventures.com/. | https://dingalinged-cpu.github.io/registry/c/skyvu-ventures-plano/
-2. The Crowder Law Firm, P.C. | trust 20.0 | The Crowder Law Firm, P.C. is a business consultant in Plano, TX at 7950 Legacy Drive, Plano, TX 75024. Phone: +12143039600. Website: https://www.crowdercriminalfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-crowder-law-firm-p-c-plano/
+1. SkyVu Ventures | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | SkyVu Ventures is a business consultant in Plano, TX at 2609 Technology Drive, Plano, TX 75074. Phone: +14692381389. Website: https://skyvuventures.com/. | https://dingalinged-cpu.github.io/registry/c/skyvu-ventures-plano/
+2. The Crowder Law Firm, P.C. | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | The Crowder Law Firm, P.C. is a business consultant in Plano, TX at 7950 Legacy Drive, Plano, TX 75024. Phone: +12143039600. Website: https://www.crowdercriminalfirm.com/. | https://dingalinged-cpu.github.io/registry/c/the-crowder-law-firm-p-c-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant plano tx | category: b2b_services | industry benchmark: Business Services

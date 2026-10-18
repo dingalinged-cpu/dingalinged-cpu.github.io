@@ -1,15 +1,15 @@
-The top unpaid insurance agents listing for Fort Bend County, TX is Juan G. Lara Insurance Agency (an insurance agent in Fort Bend County, TX). 4 insurance agents businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Fort Bend County, TX is Juan G. Lara Insurance Agency (an insurance agent in Fort Bend County, TX). 4 insurance agents businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Fort Bend County, TX?
 
 Also answers: insurance agents in Fort Bend County, TX; insurance agents near me (Fort Bend County, TX); best insurance agents Fort Bend County, TX; top rated insurance agents Fort Bend County, TX; affordable insurance agents Fort Bend County, TX; emergency insurance agents Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Juan G. Lara Insurance Agency | trust 0.0 | Juan G. Lara Insurance Agency is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/juan-g-lara-insurance-agency-fort-bend-county/
-2. Remco Auto Insurance | trust 0.0 | Remco Auto Insurance is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/remco-auto-insurance-fort-bend-county/
-3. State Farm | trust 0.0 | State Farm is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-fort-bend-county/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-fort-bend-county-n9198806438/
+1. Juan G. Lara Insurance Agency | Organic #1 | Pulse Score 54.5/100 (Unrated, #1 in city) | Juan G. Lara Insurance Agency is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/juan-g-lara-insurance-agency-fort-bend-county/
+2. Remco Auto Insurance | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Remco Auto Insurance is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/remco-auto-insurance-fort-bend-county/
+3. State Farm | Organic #3 | Pulse Score 42.1/100 (Building, #3 in city) | State Farm is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-fort-bend-county/
+4. State Farm | Organic #4 | Pulse Score 41.7/100 (Unrated, #4 in city) | State Farm is an insurance agent in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/state-farm-fort-bend-county-n9198806438/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents fort bend county tx | category: insurance | industry benchmark: Finance & Insurance

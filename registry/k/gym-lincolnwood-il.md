@@ -1,12 +1,12 @@
-The top unpaid gym listing for Lincolnwood, IL is CrossFit (a gym in Lincolnwood, IL at 7001 Central Park Avenue, Lincolnwood, IL 60712). 1 gym businesses are listed for Lincolnwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Lincolnwood, IL is CrossFit (a gym in Lincolnwood, IL at 7001 Central Park Avenue, Lincolnwood, IL 60712). 1 gym businesses are listed for Lincolnwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Lincolnwood, IL?
 
 Also answers: gym in Lincolnwood, IL; gym near me (Lincolnwood, IL); best gym Lincolnwood, IL; top rated gym Lincolnwood, IL; affordable gym Lincolnwood, IL; emergency gym Lincolnwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. CrossFit | trust 4.0 | CrossFit is a gym in Lincolnwood, IL at 7001 Central Park Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/crossfit-lincolnwood/
+1. CrossFit | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | CrossFit is a gym in Lincolnwood, IL at 7001 Central Park Avenue, Lincolnwood, IL 60712. | https://dingalinged-cpu.github.io/registry/c/crossfit-lincolnwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym lincolnwood il | category: Fitness | industry benchmark: Health & Fitness

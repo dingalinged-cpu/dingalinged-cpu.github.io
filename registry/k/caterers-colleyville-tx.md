@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Colleyville, TX is Trio New American Cuisine (a caterer in Colleyville, TX at 8300 Precinct Line Road #104, Colleyville, TX 76034. Phone: +18175038440. Website: https://www.trionewamerican.com/). 1 caterers businesses are listed for Colleyville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Colleyville, TX is Trio New American Cuisine (a caterer in Colleyville, TX at 8300 Precinct Line Road #104, Colleyville, TX 76034. Phone: +18175038440. Website: https://www.trionewamerican.com/). 1 caterers businesses are listed for Colleyville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Colleyville, TX?
 
 Also answers: caterers in Colleyville, TX; caterers near me (Colleyville, TX); best caterers Colleyville, TX; top rated caterers Colleyville, TX; affordable caterers Colleyville, TX; emergency caterers Colleyville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Trio New American Cuisine | trust 20.0 | Trio New American Cuisine is a caterer in Colleyville, TX at 8300 Precinct Line Road #104, Colleyville, TX 76034. Phone: +18175038440. Website: https://www.trionewamerican.com/. | https://dingalinged-cpu.github.io/registry/c/trio-new-american-cuisine-colleyville/
+1. Trio New American Cuisine | Organic #1 | Pulse Score 61.7/100 (Unrated, #1 in city) | Trio New American Cuisine is a caterer in Colleyville, TX at 8300 Precinct Line Road #104, Colleyville, TX 76034. Phone: +18175038440. Website: https://www.trionewamerican.com/. | https://dingalinged-cpu.github.io/registry/c/trio-new-american-cuisine-colleyville/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers colleyville tx | category: Events & weddings | industry benchmark: Personal Services

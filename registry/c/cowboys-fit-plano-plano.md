@@ -13,7 +13,7 @@ Cowboys Fit Plano is a gym in Plano, TX at 4817 W Park Blvd, Plano, TX 75093. Ph
 - Website: https://cowboysfit.com/cowboysfit-plano/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 05:00-22:00; Fr 05:00-20:00; Sa-Su 07:00-19:00
-- Registry Score: 52.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.8/100 — Unrated (not enough evidence yet) — top 45% of gyms in Dallas–Fort Worth, #12 of 35 gyms in Plano (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

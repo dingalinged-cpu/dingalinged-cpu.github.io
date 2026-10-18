@@ -13,7 +13,7 @@ Jiffy Lube is an auto repair shop in Naperville, IL at 922 East Ogden Avenue, Na
 - Website: https://www.jiffylube.com/locations/il/naperville/2505
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 07:00-17:00; Su 09:00-16:00
-- Registry Score: 53.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 53% of auto repair shops in Chicago, #23 of 28 auto repair shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 64.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

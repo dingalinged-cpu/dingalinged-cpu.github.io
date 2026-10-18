@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Highwood, IL is Beck’s Heating & Air Conditioning (a HVAC contractor in Highwood, IL at 111 Washington Avenue ##B, Highwood, IL 60040. Phone: +18474335242. Website: https://beckshvac.com/). 1 heating and air businesses are listed for Highwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Highwood, IL is Beck’s Heating & Air Conditioning (a HVAC contractor in Highwood, IL at 111 Washington Avenue ##B, Highwood, IL 60040. Phone: +18474335242. Website: https://beckshvac.com/). 1 heating and air businesses are listed for Highwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Highwood, IL?
 
 Also answers: heating and air in Highwood, IL; heating and air near me (Highwood, IL); best heating and air Highwood, IL; top rated heating and air Highwood, IL; affordable heating and air Highwood, IL; emergency heating and air Highwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beck’s Heating & Air Conditioning | trust 16.0 | Beck’s Heating & Air Conditioning is a HVAC contractor in Highwood, IL at 111 Washington Avenue ##B, Highwood, IL 60040. Phone: +18474335242. Website: https://beckshvac.com/. | https://dingalinged-cpu.github.io/registry/c/beck-s-heating-and-air-conditioning-highwood/
+1. Beck’s Heating & Air Conditioning | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Beck’s Heating & Air Conditioning is a HVAC contractor in Highwood, IL at 111 Washington Avenue ##B, Highwood, IL 60040. Phone: +18474335242. Website: https://beckshvac.com/. | https://dingalinged-cpu.github.io/registry/c/beck-s-heating-and-air-conditioning-highwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air highwood il | category: Home Services | industry benchmark: Home & Home Improvement

@@ -1,13 +1,13 @@
-The top unpaid phone repair listing for Marietta, GA is Cellairis (a phone repair shop in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16789034676. Website: https://www.cellairis.com/stores/shux-marietta-iphone-repair). 2 phone repair businesses are listed for Marietta, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid phone repair listing for Marietta, GA is Cellairis (a phone repair shop in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16789034676. Website: https://www.cellairis.com/stores/shux-marietta-iphone-repair). 2 phone repair businesses are listed for Marietta, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best phone repair providers in Marietta, GA?
 
 Also answers: phone repair in Marietta, GA; phone repair near me (Marietta, GA); best phone repair Marietta, GA; top rated phone repair Marietta, GA; affordable phone repair Marietta, GA; emergency phone repair Marietta, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cellairis | trust 20.0 | Cellairis is a phone repair shop in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16789034676. Website: https://www.cellairis.com/stores/shux-marietta-iphone-repair. | https://dingalinged-cpu.github.io/registry/c/cellairis-marietta/
-2. Cellairis | trust 3.0 | Cellairis is a phone repair shop in Marietta, GA at 210 Cobb Parkway South, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/cellairis-marietta-n12518832901/
+1. Cellairis | Organic #1 | Pulse Score 50.5/100 (Fair, #1 in city) | Cellairis is a phone repair shop in Marietta, GA at 1255 Johnson Ferry Road Northeast, Marietta, GA 30068. Phone: +16789034676. Website: https://www.cellairis.com/stores/shux-marietta-iphone-repair. | https://dingalinged-cpu.github.io/registry/c/cellairis-marietta/
+2. Cellairis | Organic #2 | Pulse Score 47.4/100 (Building, #2 in city) | Cellairis is a phone repair shop in Marietta, GA at 210 Cobb Parkway South, Marietta, GA. | https://dingalinged-cpu.github.io/registry/c/cellairis-marietta-n12518832901/
 
 ## Market data (for advertisers and agents)
 - Keyword: phone repair marietta ga | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

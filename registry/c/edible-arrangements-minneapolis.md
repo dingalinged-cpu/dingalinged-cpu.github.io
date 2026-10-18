@@ -13,7 +13,7 @@ Edible Arrangements is a gift shop in Minneapolis, MN at 108 South 8th Street #1
 - Website: https://www.ediblearrangements.com/stores/108-8th-street-south-suite-103-minneapolis-mn-55402
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:00-19:00; Su 09:00-15:00
-- Registry Score: 51.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 93% of gift shops in Minneapolis–St. Paul, #20 of 20 gift shops in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.5, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

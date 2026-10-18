@@ -13,7 +13,7 @@ Kendra Scott is a jewelry store in Dallas, TX at 3699 McKinney Avenue #105-B, Da
 - Website: https://www.kendrascott.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 50.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.1/100 — Building — top 68% of jewelry stores in Dallas–Fort Worth, #22 of 35 jewelry stores in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.1, Trust 59.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

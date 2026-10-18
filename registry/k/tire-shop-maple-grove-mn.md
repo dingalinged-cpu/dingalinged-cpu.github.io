@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Maple Grove, MN is Maple Grove Tire & Service (a tire shop in Maple Grove, MN at 13680 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207006. Website: https://www.northwestgoodyeardealers.com/). 3 tire shop businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Maple Grove, MN is Maple Grove Tire & Service (a tire shop in Maple Grove, MN at 13680 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207006. Website: https://www.northwestgoodyeardealers.com/). 3 tire shop businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Maple Grove, MN?
 
 Also answers: tire shop in Maple Grove, MN; tire shop near me (Maple Grove, MN); best tire shop Maple Grove, MN; top rated tire shop Maple Grove, MN; affordable tire shop Maple Grove, MN; emergency tire shop Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Maple Grove Tire & Service | trust 20.0 | Maple Grove Tire & Service is a tire shop in Maple Grove, MN at 13680 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207006. Website: https://www.northwestgoodyeardealers.com/. | https://dingalinged-cpu.github.io/registry/c/maple-grove-tire-and-service-maple-grove/
-2. Tires Plus | trust 20.0 | Tires Plus is a tire shop in Maple Grove, MN at 13562 80th Circle North, Maple Grove, MN 55369. Phone: +17635159718. Website: https://www.tiresplus.com/. | https://dingalinged-cpu.github.io/registry/c/tires-plus-maple-grove/
-3. Discount Tire | trust 0.0 | Discount Tire is a tire shop in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/discount-tire-maple-grove/
+1. Maple Grove Tire & Service | Organic #1 | Pulse Score 50.2/100 (Unrated, #1 in city) | Maple Grove Tire & Service is a tire shop in Maple Grove, MN at 13680 Grove Drive North, Maple Grove, MN 55311. Phone: +17634207006. Website: https://www.northwestgoodyeardealers.com/. | https://dingalinged-cpu.github.io/registry/c/maple-grove-tire-and-service-maple-grove/
+2. Tires Plus | Organic #2 | Pulse Score 49/100 (Building, #2 in city) | Tires Plus is a tire shop in Maple Grove, MN at 13562 80th Circle North, Maple Grove, MN 55369. Phone: +17635159718. Website: https://www.tiresplus.com/. | https://dingalinged-cpu.github.io/registry/c/tires-plus-maple-grove/
+3. Discount Tire | Organic #3 | Pulse Score 42.3/100 (Building, #3 in city) | Discount Tire is a tire shop in Maple Grove, MN. | https://dingalinged-cpu.github.io/registry/c/discount-tire-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop maple grove mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -1,26 +1,26 @@
-The top unpaid nail salon listing for Lewisville, TX is Frenchy's Nails (a nail salon in Lewisville, TX. Phone: +19724599492. Website: https://frenchysnailslewisvilletx.com/). 15 nail salon businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Lewisville, TX is Bridal Pros (a nail salon in Lewisville, TX. Phone: +14694300589). 15 nail salon businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Lewisville, TX?
 
 Also answers: nail salon in Lewisville, TX; nail salon near me (Lewisville, TX); best nail salon Lewisville, TX; top rated nail salon Lewisville, TX; affordable nail salon Lewisville, TX; emergency nail salon Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Frenchy's Nails | trust 16.0 | Frenchy's Nails is a nail salon in Lewisville, TX. Phone: +19724599492. Website: https://frenchysnailslewisvilletx.com/. | https://dingalinged-cpu.github.io/registry/c/frenchys-nails-lewisville/
-2. BeauxBelle | trust 12.0 | BeauxBelle is a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/. | https://dingalinged-cpu.github.io/registry/c/beauxbelle-lewisville/
-3. Ale's Salon | trust 10.0 | Ale's Salon is a nail salon in Lewisville, TX. Phone: +19724366724. | https://dingalinged-cpu.github.io/registry/c/ales-salon-lewisville/
-4. An's Nail & Spa | trust 10.0 | An's Nail & Spa is a nail salon in Lewisville, TX. Phone: +12145139101. | https://dingalinged-cpu.github.io/registry/c/ans-nail-and-spa-lewisville/
-5. Angel Nails | trust 10.0 | Angel Nails is a nail salon in Lewisville, TX. Phone: +19723150367. | https://dingalinged-cpu.github.io/registry/c/angel-nails-lewisville/
-6. Bridal Pros | trust 10.0 | Bridal Pros is a nail salon in Lewisville, TX. Phone: +14694300589. | https://dingalinged-cpu.github.io/registry/c/bridal-pros-lewisville/
-7. LaVie Nail Lounge | trust 10.0 | LaVie Nail Lounge is a nail salon in Lewisville, TX. Phone: +19723152000. | https://dingalinged-cpu.github.io/registry/c/lavie-nail-lounge-lewisville/
-8. Nail Court | trust 10.0 | Nail Court is a nail salon in Lewisville, TX. Phone: +19724592774. | https://dingalinged-cpu.github.io/registry/c/nail-court-lewisville/
-9. Rose Nails | trust 10.0 | Rose Nails is a nail salon in Lewisville, TX. Phone: +19724367274. | https://dingalinged-cpu.github.io/registry/c/rose-nails-lewisville/
-10. Sophi Nails & Spa | trust 10.0 | Sophi Nails & Spa is a nail salon in Lewisville, TX. Phone: +19729060055. | https://dingalinged-cpu.github.io/registry/c/sophi-nails-and-spa-lewisville/
-11. Tommy Nails 4 U | trust 10.0 | Tommy Nails 4 U is a nail salon in Lewisville, TX. Phone: +19722212496. | https://dingalinged-cpu.github.io/registry/c/tommy-nails-4-u-lewisville/
-12. Victoria's Nail Bar | trust 10.0 | Victoria's Nail Bar is a nail salon in Lewisville, TX. Phone: +12144881009. | https://dingalinged-cpu.github.io/registry/c/victorias-nail-bar-lewisville/
-13. Lycoris Nail Lounge | trust 7.0 | Lycoris Nail Lounge is a nail salon in Lewisville, TX at 251 South Mill Street #150, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lycoris-nail-lounge-lewisville/
-14. Salons by JC | trust 4.0 | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
-15. Legacy Salons & Day Spa | trust 0.0 | Legacy Salons & Day Spa is a nail salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-salons-and-day-spa-lewisville/
+1. Bridal Pros | Organic #1 | Pulse Score 64.7/100 (Good, #1 in city) | Bridal Pros is a nail salon in Lewisville, TX. Phone: +14694300589. | https://dingalinged-cpu.github.io/registry/c/bridal-pros-lewisville/
+2. Frenchy's Nails | Organic #2 | Pulse Score 64.2/100 (Good, #2 in city) | Frenchy's Nails is a nail salon in Lewisville, TX. Phone: +19724599492. Website: https://frenchysnailslewisvilletx.com/. | https://dingalinged-cpu.github.io/registry/c/frenchys-nails-lewisville/
+3. LaVie Nail Lounge | Organic #3 | Pulse Score 63.1/100 (Good, #3 in city) | LaVie Nail Lounge is a nail salon in Lewisville, TX. Phone: +19723152000. | https://dingalinged-cpu.github.io/registry/c/lavie-nail-lounge-lewisville/
+4. Ale's Salon | Organic #4 | Pulse Score 63/100 (Good, #4 in city) | Ale's Salon is a nail salon in Lewisville, TX. Phone: +19724366724. | https://dingalinged-cpu.github.io/registry/c/ales-salon-lewisville/
+5. Sophi Nails & Spa | Organic #5 | Pulse Score 62.7/100 (Good, #5 in city) | Sophi Nails & Spa is a nail salon in Lewisville, TX. Phone: +19729060055. | https://dingalinged-cpu.github.io/registry/c/sophi-nails-and-spa-lewisville/
+6. Victoria's Nail Bar | Organic #6 | Pulse Score 62.7/100 (Good, #6 in city) | Victoria's Nail Bar is a nail salon in Lewisville, TX. Phone: +12144881009. | https://dingalinged-cpu.github.io/registry/c/victorias-nail-bar-lewisville/
+7. Lycoris Nail Lounge | Organic #7 | Pulse Score 62.4/100 (Good, #7 in city) | Lycoris Nail Lounge is a nail salon in Lewisville, TX at 251 South Mill Street #150, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/lycoris-nail-lounge-lewisville/
+8. Nail Court | Organic #8 | Pulse Score 62.3/100 (Unrated, #8 in city) | Nail Court is a nail salon in Lewisville, TX. Phone: +19724592774. | https://dingalinged-cpu.github.io/registry/c/nail-court-lewisville/
+9. Rose Nails | Organic #9 | Pulse Score 62.3/100 (Unrated, #9 in city) | Rose Nails is a nail salon in Lewisville, TX. Phone: +19724367274. | https://dingalinged-cpu.github.io/registry/c/rose-nails-lewisville/
+10. BeauxBelle | Organic #10 | Pulse Score 61.8/100 (Unrated, #11 in city) | BeauxBelle is a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/. | https://dingalinged-cpu.github.io/registry/c/beauxbelle-lewisville/
+11. An's Nail & Spa | Organic #11 | Pulse Score 61.8/100 (Unrated, #10 in city) | An's Nail & Spa is a nail salon in Lewisville, TX. Phone: +12145139101. | https://dingalinged-cpu.github.io/registry/c/ans-nail-and-spa-lewisville/
+12. Tommy Nails 4 U | Organic #12 | Pulse Score 60.9/100 (Unrated, #12 in city) | Tommy Nails 4 U is a nail salon in Lewisville, TX. Phone: +19722212496. | https://dingalinged-cpu.github.io/registry/c/tommy-nails-4-u-lewisville/
+13. Angel Nails | Organic #13 | Pulse Score 60.7/100 (Unrated, #13 in city) | Angel Nails is a nail salon in Lewisville, TX. Phone: +19723150367. | https://dingalinged-cpu.github.io/registry/c/angel-nails-lewisville/
+14. Legacy Salons & Day Spa | Organic #14 | Pulse Score 57/100 (Unrated, #14 in city) | Legacy Salons & Day Spa is a nail salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-salons-and-day-spa-lewisville/
+15. Salons by JC | Organic #15 | Pulse Score 43.9/100 (Building, #3 in city) | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

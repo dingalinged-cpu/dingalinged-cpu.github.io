@@ -1,14 +1,14 @@
-The top unpaid tire shop listing for Garland, TX is Discount Tire (a tire shop in Garland, TX at 1500 Eastgate Drive, Garland, TX 75041. Phone: +19722786444). 3 tire shop businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Garland, TX is DFW Discount Tire & Auto (a tire shop in Garland, TX at 1922 North Plano Road, Garland, TX 75042). 3 tire shop businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Garland, TX?
 
 Also answers: tire shop in Garland, TX; tire shop near me (Garland, TX); best tire shop Garland, TX; top rated tire shop Garland, TX; affordable tire shop Garland, TX; emergency tire shop Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Garland, TX at 1500 Eastgate Drive, Garland, TX 75041. Phone: +19722786444. | https://dingalinged-cpu.github.io/registry/c/discount-tire-garland/
-2. DFW Discount Tire & Auto | trust 4.0 | DFW Discount Tire & Auto is a tire shop in Garland, TX at 1922 North Plano Road, Garland, TX 75042. | https://dingalinged-cpu.github.io/registry/c/dfw-discount-tire-and-auto-garland/
-3. Payless Tires | trust 0.0 | Payless Tires is a tire shop in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/payless-tires-garland/
+1. DFW Discount Tire & Auto | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | DFW Discount Tire & Auto is a tire shop in Garland, TX at 1922 North Plano Road, Garland, TX 75042. | https://dingalinged-cpu.github.io/registry/c/dfw-discount-tire-and-auto-garland/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Garland, TX at 1500 Eastgate Drive, Garland, TX 75041. Phone: +19722786444. | https://dingalinged-cpu.github.io/registry/c/discount-tire-garland/
+3. Payless Tires | Organic #3 | Pulse Score 41/100 (Unrated, #3 in city) | Payless Tires is a tire shop in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/payless-tires-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop garland tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

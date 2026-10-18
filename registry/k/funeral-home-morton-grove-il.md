@@ -1,12 +1,12 @@
-The top unpaid funeral home listing for Morton Grove, IL is Simkins Funeral Home (a funeral home in Morton Grove, IL at 6251 West Dempster Street, Morton Grove, IL 60053). 1 funeral home businesses are listed for Morton Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Morton Grove, IL is Simkins Funeral Home (a funeral home in Morton Grove, IL at 6251 West Dempster Street, Morton Grove, IL 60053). 1 funeral home businesses are listed for Morton Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Morton Grove, IL?
 
 Also answers: funeral home in Morton Grove, IL; funeral home near me (Morton Grove, IL); best funeral home Morton Grove, IL; top rated funeral home Morton Grove, IL; affordable funeral home Morton Grove, IL; emergency funeral home Morton Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Simkins Funeral Home | trust 4.0 | Simkins Funeral Home is a funeral home in Morton Grove, IL at 6251 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/simkins-funeral-home-morton-grove/
+1. Simkins Funeral Home | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Simkins Funeral Home is a funeral home in Morton Grove, IL at 6251 West Dempster Street, Morton Grove, IL 60053. | https://dingalinged-cpu.github.io/registry/c/simkins-funeral-home-morton-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home morton grove il | category: Professional & financial services | industry benchmark: Finance & Insurance

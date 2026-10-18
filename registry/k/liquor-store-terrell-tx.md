@@ -1,15 +1,15 @@
-The top unpaid liquor store listing for Terrell, TX is Boo's Liquor (a liquor store in Terrell, TX at 305 E I-20, Terrell, TX 75160. Phone: +19725240233. Website: https://boosliquor.com/). 4 liquor store businesses are listed for Terrell, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Terrell, TX is Boo's Liquor (a liquor store in Terrell, TX at 305 E I-20, Terrell, TX 75160. Phone: +19725240233. Website: https://boosliquor.com/). 4 liquor store businesses are listed for Terrell, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Terrell, TX?
 
 Also answers: liquor store in Terrell, TX; liquor store near me (Terrell, TX); best liquor store Terrell, TX; top rated liquor store Terrell, TX; affordable liquor store Terrell, TX; emergency liquor store Terrell, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Boo's Liquor | trust 20.0 | Boo's Liquor is a liquor store in Terrell, TX at 305 E I-20, Terrell, TX 75160. Phone: +19725240233. Website: https://boosliquor.com/. | https://dingalinged-cpu.github.io/registry/c/boos-liquor-terrell/
-2. Spec's | trust 20.0 | Spec's is a liquor store in Terrell, TX at 535 American Way, Terrell, TX 75160. Phone: +19725510862. Website: https://specsonline.com/liquor-stores/dallas/terrell-187/. | https://dingalinged-cpu.github.io/registry/c/specs-terrell/
-3. Beer Barn | trust 4.0 | Beer Barn is a liquor store in Terrell, TX at 400 East Moore Avenue, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/beer-barn-terrell/
-4. Warehouse Beverages | trust 4.0 | Warehouse Beverages is a liquor store in Terrell, TX at 2400 West Moore Avenue, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/warehouse-beverages-terrell/
+1. Boo's Liquor | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Boo's Liquor is a liquor store in Terrell, TX at 305 E I-20, Terrell, TX 75160. Phone: +19725240233. Website: https://boosliquor.com/. | https://dingalinged-cpu.github.io/registry/c/boos-liquor-terrell/
+2. Beer Barn | Organic #2 | Pulse Score 56.9/100 (Unrated, #2 in city) | Beer Barn is a liquor store in Terrell, TX at 400 East Moore Avenue, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/beer-barn-terrell/
+3. Warehouse Beverages | Organic #3 | Pulse Score 56.9/100 (Unrated, #3 in city) | Warehouse Beverages is a liquor store in Terrell, TX at 2400 West Moore Avenue, Terrell, TX 75160. | https://dingalinged-cpu.github.io/registry/c/warehouse-beverages-terrell/
+4. Spec's | Organic #4 | Pulse Score 52/100 (Fair, #4 in city) | Spec's is a liquor store in Terrell, TX at 535 American Way, Terrell, TX 75160. Phone: +19725510862. Website: https://specsonline.com/liquor-stores/dallas/terrell-187/. | https://dingalinged-cpu.github.io/registry/c/specs-terrell/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store terrell tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

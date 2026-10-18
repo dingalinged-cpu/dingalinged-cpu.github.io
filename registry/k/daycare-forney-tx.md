@@ -1,15 +1,15 @@
-The top unpaid daycare listing for Forney, TX is Bear Creek Lodge Learning Center (a daycare in Forney, TX at 1000 Concord Drive, Forney, TX 75126). 4 daycare businesses are listed for Forney, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Forney, TX is Bear Creek Lodge Learning Center (a daycare in Forney, TX at 1000 Concord Drive, Forney, TX 75126). 4 daycare businesses are listed for Forney, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Forney, TX?
 
 Also answers: daycare in Forney, TX; daycare near me (Forney, TX); best daycare Forney, TX; top rated daycare Forney, TX; affordable daycare Forney, TX; emergency daycare Forney, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bear Creek Lodge Learning Center | trust 4.0 | Bear Creek Lodge Learning Center is a daycare in Forney, TX at 1000 Concord Drive, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/bear-creek-lodge-learning-center-forney/
-2. By the Barnyard Gate | trust 4.0 | By the Barnyard Gate is a daycare in Forney, TX at 552 FM 740, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/by-the-barnyard-gate-forney/
-3. Noah's Ark Early Development Center | trust 4.0 | Noah's Ark Early Development Center is a daycare in Forney, TX at 11270 FM 1641, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/noahs-ark-early-development-center-forney/
-4. Primrose School of Forney at Gateway | trust 4.0 | Primrose School of Forney at Gateway is a daycare in Forney, TX at 1451 Whaley Drive, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-forney-at-gateway-forney/
+1. Bear Creek Lodge Learning Center | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Bear Creek Lodge Learning Center is a daycare in Forney, TX at 1000 Concord Drive, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/bear-creek-lodge-learning-center-forney/
+2. By the Barnyard Gate | Organic #2 | Pulse Score 57/100 (Unrated, #2 in city) | By the Barnyard Gate is a daycare in Forney, TX at 552 FM 740, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/by-the-barnyard-gate-forney/
+3. Noah's Ark Early Development Center | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Noah's Ark Early Development Center is a daycare in Forney, TX at 11270 FM 1641, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/noahs-ark-early-development-center-forney/
+4. Primrose School of Forney at Gateway | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Primrose School of Forney at Gateway is a daycare in Forney, TX at 1451 Whaley Drive, Forney, TX 75126. | https://dingalinged-cpu.github.io/registry/c/primrose-school-of-forney-at-gateway-forney/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare forney tx | category: Education & childcare | industry benchmark: Education & Instruction

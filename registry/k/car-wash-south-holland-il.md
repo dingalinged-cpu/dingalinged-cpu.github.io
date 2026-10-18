@@ -1,15 +1,15 @@
-The top unpaid car wash listing for South Holland, IL is Citgo (a car wash in South Holland, IL at 17011 South Park Avenue, South Holland, IL 60473). 4 car wash businesses are listed for South Holland, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for South Holland, IL is Thornton's (a car wash in South Holland, IL at 1111 East 162nd Street, South Holland, IL 60473). 4 car wash businesses are listed for South Holland, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in South Holland, IL?
 
 Also answers: car wash in South Holland, IL; car wash near me (South Holland, IL); best car wash South Holland, IL; top rated car wash South Holland, IL; affordable car wash South Holland, IL; emergency car wash South Holland, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Citgo | trust 4.0 | Citgo is a car wash in South Holland, IL at 17011 South Park Avenue, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/citgo-south-holland/
-2. Mobil | trust 4.0 | Mobil is a car wash in South Holland, IL at 16200 State Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/mobil-south-holland/
-3. Thornton's | trust 4.0 | Thornton's is a car wash in South Holland, IL at 1111 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/thorntons-south-holland/
-4. BP | trust 0.0 | BP is a car wash in South Holland, IL. | https://dingalinged-cpu.github.io/registry/c/bp-south-holland/
+1. Thornton's | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Thornton's is a car wash in South Holland, IL at 1111 East 162nd Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/thorntons-south-holland/
+2. Mobil | Organic #2 | Pulse Score 46.3/100 (Building, #2 in city) | Mobil is a car wash in South Holland, IL at 16200 State Street, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/mobil-south-holland/
+3. Citgo | Organic #3 | Pulse Score 45.2/100 (Unrated, #3 in city) | Citgo is a car wash in South Holland, IL at 17011 South Park Avenue, South Holland, IL 60473. | https://dingalinged-cpu.github.io/registry/c/citgo-south-holland/
+4. BP | Organic #4 | Pulse Score 43.1/100 (Building, #4 in city) | BP is a car wash in South Holland, IL. | https://dingalinged-cpu.github.io/registry/c/bp-south-holland/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash south holland il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

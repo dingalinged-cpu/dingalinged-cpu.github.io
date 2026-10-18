@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Oak Lawn, IL is Kenwood Liquors (a liquor store in Oak Lawn, IL at 10750 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084243580. Website: https://www.kenwoodliquors.biz/locations/). 2 liquor store businesses are listed for Oak Lawn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Oak Lawn, IL is Kenwood Liquors (a liquor store in Oak Lawn, IL at 10750 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084243580. Website: https://www.kenwoodliquors.biz/locations/). 2 liquor store businesses are listed for Oak Lawn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Oak Lawn, IL?
 
 Also answers: liquor store in Oak Lawn, IL; liquor store near me (Oak Lawn, IL); best liquor store Oak Lawn, IL; top rated liquor store Oak Lawn, IL; affordable liquor store Oak Lawn, IL; emergency liquor store Oak Lawn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kenwood Liquors | trust 16.0 | Kenwood Liquors is a liquor store in Oak Lawn, IL at 10750 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084243580. Website: https://www.kenwoodliquors.biz/locations/. | https://dingalinged-cpu.github.io/registry/c/kenwood-liquors-oak-lawn/
-2. Gennaro's | trust 0.0 | Gennaro's is a liquor store in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/gennaros-oak-lawn/
+1. Kenwood Liquors | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Kenwood Liquors is a liquor store in Oak Lawn, IL at 10750 South Cicero Avenue, Oak Lawn, IL 60453. Phone: +17084243580. Website: https://www.kenwoodliquors.biz/locations/. | https://dingalinged-cpu.github.io/registry/c/kenwood-liquors-oak-lawn/
+2. Gennaro's | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Gennaro's is a liquor store in Oak Lawn, IL. | https://dingalinged-cpu.github.io/registry/c/gennaros-oak-lawn/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store oak lawn il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

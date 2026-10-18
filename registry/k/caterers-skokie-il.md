@@ -1,13 +1,13 @@
-The top unpaid caterers listing for Skokie, IL is Zelda's Catering (a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 60076. Website: https://www.zeldascatering.com/). 2 caterers businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Skokie, IL is Zelda's Catering (a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 60076. Website: https://www.zeldascatering.com/). 2 caterers businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Skokie, IL?
 
 Also answers: caterers in Skokie, IL; caterers near me (Skokie, IL); best caterers Skokie, IL; top rated caterers Skokie, IL; affordable caterers Skokie, IL; emergency caterers Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Zelda's Catering | trust 14.0 | Zelda's Catering is a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 60076. Website: https://www.zeldascatering.com/. | https://dingalinged-cpu.github.io/registry/c/zeldas-catering-skokie/
-2. Chicago TailGators | trust 4.0 | Chicago TailGators is a caterer in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/chicago-tailgators-skokie/
+1. Zelda's Catering | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Zelda's Catering is a caterer in Skokie, IL at 4113 Main Street, Skokie, IL 60076. Website: https://www.zeldascatering.com/. | https://dingalinged-cpu.github.io/registry/c/zeldas-catering-skokie/
+2. Chicago TailGators | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Chicago TailGators is a caterer in Skokie, IL at Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/chicago-tailgators-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers skokie il | category: Events & weddings | industry benchmark: Personal Services

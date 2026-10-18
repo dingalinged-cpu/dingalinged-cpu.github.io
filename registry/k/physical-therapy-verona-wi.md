@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Verona, WI is Impact Physical Therapy & Performance (a physical therapy clinic in Verona, WI at 1155 Clarity Street #Suite 201, Verona, WI 53593. Phone: +16082845287. Website: https://www.impactptmsn.com/). 1 physical therapy businesses are listed for Verona, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Verona, WI is Impact Physical Therapy & Performance (a physical therapy clinic in Verona, WI at 1155 Clarity Street #Suite 201, Verona, WI 53593. Phone: +16082845287. Website: https://www.impactptmsn.com/). 1 physical therapy businesses are listed for Verona, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Verona, WI?
 
 Also answers: physical therapy in Verona, WI; physical therapy near me (Verona, WI); best physical therapy Verona, WI; top rated physical therapy Verona, WI; affordable physical therapy Verona, WI; emergency physical therapy Verona, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Impact Physical Therapy & Performance | trust 16.0 | Impact Physical Therapy & Performance is a physical therapy clinic in Verona, WI at 1155 Clarity Street #Suite 201, Verona, WI 53593. Phone: +16082845287. Website: https://www.impactptmsn.com/. | https://dingalinged-cpu.github.io/registry/c/impact-physical-therapy-and-performance-verona/
+1. Impact Physical Therapy & Performance | Organic #1 | Pulse Score 61.3/100 (Unrated, #1 in city) | Impact Physical Therapy & Performance is a physical therapy clinic in Verona, WI at 1155 Clarity Street #Suite 201, Verona, WI 53593. Phone: +16082845287. Website: https://www.impactptmsn.com/. | https://dingalinged-cpu.github.io/registry/c/impact-physical-therapy-and-performance-verona/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy verona wi | category: Health & medical | industry benchmark: Physicians & Surgeons

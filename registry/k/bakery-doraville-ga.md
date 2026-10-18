@@ -1,16 +1,16 @@
-The top unpaid bakery listing for Doraville, GA is Paris Baguette (a bakery in Doraville, GA at 5252 Buford Highway Northeast, Doraville, GA 30340. Phone: +17704558552. Website: https://parisbaguette.com/). 5 bakery businesses are listed for Doraville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Doraville, GA is Sweet Hut (a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/). 5 bakery businesses are listed for Doraville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Doraville, GA?
 
 Also answers: bakery in Doraville, GA; bakery near me (Doraville, GA); best bakery Doraville, GA; top rated bakery Doraville, GA; affordable bakery Doraville, GA; emergency bakery Doraville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Paris Baguette | trust 20.0 | Paris Baguette is a bakery in Doraville, GA at 5252 Buford Highway Northeast, Doraville, GA 30340. Phone: +17704558552. Website: https://parisbaguette.com/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-doraville/
-2. Sweet Hut | trust 20.0 | Sweet Hut is a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/. | https://dingalinged-cpu.github.io/registry/c/sweet-hut-doraville/
-3. White Windmill Bakery & Café | trust 20.0 | White Windmill Bakery & Café is a bakery in Doraville, GA at 5881 Buford Highway, Doraville, GA 30340. Phone: +17702340914. Website: https://www.wwindmill.com/. | https://dingalinged-cpu.github.io/registry/c/white-windmill-bakery-and-caf-doraville/
-4. Mozart Bakery | trust 0.0 | Mozart Bakery is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/mozart-bakery-doraville/
-5. Tous les Jours | trust 0.0 | Tous les Jours is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-doraville/
+1. Sweet Hut | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Sweet Hut is a bakery in Doraville, GA at 5150 Buford Highway #A-100, Doraville, GA 30340. Phone: +14705452585. Website: https://www.sweethutbakery.com/. | https://dingalinged-cpu.github.io/registry/c/sweet-hut-doraville/
+2. White Windmill Bakery & Café | Organic #2 | Pulse Score 61.2/100 (Unrated, #2 in city) | White Windmill Bakery & Café is a bakery in Doraville, GA at 5881 Buford Highway, Doraville, GA 30340. Phone: +17702340914. Website: https://www.wwindmill.com/. | https://dingalinged-cpu.github.io/registry/c/white-windmill-bakery-and-caf-doraville/
+3. Mozart Bakery | Organic #3 | Pulse Score 54.2/100 (Unrated, #3 in city) | Mozart Bakery is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/mozart-bakery-doraville/
+4. Paris Baguette | Organic #4 | Pulse Score 48/100 (Building, #4 in city) | Paris Baguette is a bakery in Doraville, GA at 5252 Buford Highway Northeast, Doraville, GA 30340. Phone: +17704558552. Website: https://parisbaguette.com/. | https://dingalinged-cpu.github.io/registry/c/paris-baguette-doraville/
+5. Tous les Jours | Organic #5 | Pulse Score 42.2/100 (Building, #5 in city) | Tous les Jours is a bakery in Doraville, GA. | https://dingalinged-cpu.github.io/registry/c/tous-les-jours-doraville/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery doraville ga | category: Events & weddings | industry benchmark: Personal Services

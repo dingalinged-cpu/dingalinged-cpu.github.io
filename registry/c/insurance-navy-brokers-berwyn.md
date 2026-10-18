@@ -13,7 +13,7 @@ Insurance Navy Brokers is an insurance agent in Berwyn, IL at 6905 West Ogden Av
 - Website: https://www.insurancenavy.com/locations/il/berwyn/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-15:00
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 40% of insurance agents in Chicago, #2 of 4 insurance agents in Berwyn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

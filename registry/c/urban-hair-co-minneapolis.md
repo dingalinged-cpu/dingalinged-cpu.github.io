@@ -13,7 +13,7 @@ Urban Hair Co is a hair salon in Minneapolis, MN at 4949 Xerxes Avenue South, Mi
 - Website: https://www.markefronhair.com/
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: 60.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.5/100 — Unrated (not enough evidence yet) — top 23% of hair salons in Minneapolis–St. Paul, #31 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.5, Trust 56.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

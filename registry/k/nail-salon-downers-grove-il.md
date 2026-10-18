@@ -1,15 +1,15 @@
-The top unpaid nail salon listing for Downers Grove, IL is Lee Nails (a nail salon in Downers Grove, IL at 2005 West 63rd Street, Downers Grove, IL 60516. Phone: +16305416736. Website: https://lee-nails-beauty-salon.business.site/). 4 nail salon businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Downers Grove, IL is Xclusive Nails (a nail salon in Downers Grove, IL at 6307 Woodward Avenue, Downers Grove, IL 60516). 4 nail salon businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Downers Grove, IL?
 
 Also answers: nail salon in Downers Grove, IL; nail salon near me (Downers Grove, IL); best nail salon Downers Grove, IL; top rated nail salon Downers Grove, IL; affordable nail salon Downers Grove, IL; emergency nail salon Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee Nails | trust 20.0 | Lee Nails is a nail salon in Downers Grove, IL at 2005 West 63rd Street, Downers Grove, IL 60516. Phone: +16305416736. Website: https://lee-nails-beauty-salon.business.site/. | https://dingalinged-cpu.github.io/registry/c/lee-nails-downers-grove/
-2. Xclusive Nails | trust 4.0 | Xclusive Nails is a nail salon in Downers Grove, IL at 6307 Woodward Avenue, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/xclusive-nails-downers-grove/
-3. Feet Feel Spa | trust 0.0 | Feet Feel Spa is a nail salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/feet-feel-spa-downers-grove/
-4. Twilight Nails | trust 0.0 | Twilight Nails is a nail salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/twilight-nails-downers-grove/
+1. Xclusive Nails | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Xclusive Nails is a nail salon in Downers Grove, IL at 6307 Woodward Avenue, Downers Grove, IL 60516. | https://dingalinged-cpu.github.io/registry/c/xclusive-nails-downers-grove/
+2. Feet Feel Spa | Organic #2 | Pulse Score 54.9/100 (Unrated, #2 in city) | Feet Feel Spa is a nail salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/feet-feel-spa-downers-grove/
+3. Twilight Nails | Organic #3 | Pulse Score 54.9/100 (Unrated, #3 in city) | Twilight Nails is a nail salon in Downers Grove, IL. | https://dingalinged-cpu.github.io/registry/c/twilight-nails-downers-grove/
+4. Lee Nails | Organic #4 | Pulse Score 49.8/100 (Unrated, #4 in city) | Lee Nails is a nail salon in Downers Grove, IL at 2005 West 63rd Street, Downers Grove, IL 60516. Phone: +16305416736. Website: https://lee-nails-beauty-salon.business.site/. | https://dingalinged-cpu.github.io/registry/c/lee-nails-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon downers grove il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

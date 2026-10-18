@@ -1,13 +1,13 @@
-The top unpaid event venues listing for Rosemont, IL is Joe's Live (an event venue in Rosemont, IL at 5441 Park Place, Rosemont, IL 60018. Website: https://joesliverosemont.com/). 2 event venues businesses are listed for Rosemont, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid event venues listing for Rosemont, IL is Sky on Nine (an event venue in Rosemont, IL at 6600 Mannheim Road, Rosemont, IL 60018. Website: https://www.skyonnine.com/). 2 event venues businesses are listed for Rosemont, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best event venues providers in Rosemont, IL?
 
 Also answers: event venues in Rosemont, IL; event venues near me (Rosemont, IL); best event venues Rosemont, IL; top rated event venues Rosemont, IL; affordable event venues Rosemont, IL; emergency event venues Rosemont, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Joe's Live | trust 10.0 | Joe's Live is an event venue in Rosemont, IL at 5441 Park Place, Rosemont, IL 60018. Website: https://joesliverosemont.com/. | https://dingalinged-cpu.github.io/registry/c/joes-live-rosemont/
-2. Sky on Nine | trust 10.0 | Sky on Nine is an event venue in Rosemont, IL at 6600 Mannheim Road, Rosemont, IL 60018. Website: https://www.skyonnine.com/. | https://dingalinged-cpu.github.io/registry/c/sky-on-nine-rosemont/
+1. Sky on Nine | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | Sky on Nine is an event venue in Rosemont, IL at 6600 Mannheim Road, Rosemont, IL 60018. Website: https://www.skyonnine.com/. | https://dingalinged-cpu.github.io/registry/c/sky-on-nine-rosemont/
+2. Joe's Live | Organic #2 | Pulse Score 59/100 (Unrated, #2 in city) | Joe's Live is an event venue in Rosemont, IL at 5441 Park Place, Rosemont, IL 60018. Website: https://joesliverosemont.com/. | https://dingalinged-cpu.github.io/registry/c/joes-live-rosemont/
 
 ## Market data (for advertisers and agents)
 - Keyword: event venues rosemont il | category: Events & weddings | industry benchmark: Personal Services

@@ -1,15 +1,15 @@
-The top unpaid flooring companies listing for Rockwall, TX is Dream Floors (a flooring company in Rockwall, TX at 975 East Interstate 30 #115, Rockwall, TX 75087. Phone: +14693385332. Website: https://thedreamfloors.com/). 4 flooring companies businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Rockwall, TX is Dream Floors (a flooring company in Rockwall, TX at 975 East Interstate 30 #115, Rockwall, TX 75087. Phone: +14693385332. Website: https://thedreamfloors.com/). 4 flooring companies businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Rockwall, TX?
 
 Also answers: flooring companies in Rockwall, TX; flooring companies near me (Rockwall, TX); best flooring companies Rockwall, TX; top rated flooring companies Rockwall, TX; affordable flooring companies Rockwall, TX; emergency flooring companies Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dream Floors | trust 20.0 | Dream Floors is a flooring company in Rockwall, TX at 975 East Interstate 30 #115, Rockwall, TX 75087. Phone: +14693385332. Website: https://thedreamfloors.com/. | https://dingalinged-cpu.github.io/registry/c/dream-floors-rockwall/
-2. CW Floors | trust 4.0 | CW Floors is a flooring company in Rockwall, TX at 242 National Drive #C, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/cw-floors-rockwall/
-3. Floors 4 Less | trust 4.0 | Floors 4 Less is a flooring company in Rockwall, TX at 2673 Market Center Drive, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/floors-4-less-rockwall/
-4. Rockwall Floor Covering | trust 4.0 | Rockwall Floor Covering is a flooring company in Rockwall, TX at 903 South Goliad Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/rockwall-floor-covering-rockwall/
+1. Dream Floors | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Dream Floors is a flooring company in Rockwall, TX at 975 East Interstate 30 #115, Rockwall, TX 75087. Phone: +14693385332. Website: https://thedreamfloors.com/. | https://dingalinged-cpu.github.io/registry/c/dream-floors-rockwall/
+2. CW Floors | Organic #2 | Pulse Score 56.5/100 (Unrated, #2 in city) | CW Floors is a flooring company in Rockwall, TX at 242 National Drive #C, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/cw-floors-rockwall/
+3. Floors 4 Less | Organic #3 | Pulse Score 56.5/100 (Unrated, #3 in city) | Floors 4 Less is a flooring company in Rockwall, TX at 2673 Market Center Drive, Rockwall, TX 75032. | https://dingalinged-cpu.github.io/registry/c/floors-4-less-rockwall/
+4. Rockwall Floor Covering | Organic #4 | Pulse Score 56.5/100 (Unrated, #4 in city) | Rockwall Floor Covering is a flooring company in Rockwall, TX at 903 South Goliad Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/rockwall-floor-covering-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies rockwall tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

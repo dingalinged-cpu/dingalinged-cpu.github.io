@@ -13,7 +13,7 @@ eRoof is a roofer in Minnetonka, MN at 5909 Baker Road #570, Minnetonka, MN 5534
 - Website: https://eroofquote.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-16:30; Sa,Su off
-- Registry Score: 59.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.2/100 — Good — top 17% of roofers in Minneapolis–St. Paul, #1 of 1 roofers in Minnetonka (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

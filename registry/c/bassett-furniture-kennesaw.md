@@ -13,7 +13,7 @@ Bassett Furniture is a furniture store in Kennesaw, GA at 840 Ernest W. Barrett 
 - Website: https://stores.bassettfurniture.com/ga/kennesaw/1104768/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-18:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51/100 — Fair — top 52% of furniture stores in Atlanta, #6 of 10 furniture stores in Kennesaw (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 37.3, Trust 65.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

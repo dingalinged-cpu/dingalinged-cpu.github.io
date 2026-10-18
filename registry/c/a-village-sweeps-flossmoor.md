@@ -13,7 +13,7 @@ A Village Sweeps is a chimney sweep in Flossmoor, IL at 3436 194th Street, Floss
 - Website: https://avillagesweeps.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 53/100 — Fair — top 100% of chimney sweeps in Chicago, #1 of 1 chimney sweeps in Flossmoor (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 59.1, Trust 35.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

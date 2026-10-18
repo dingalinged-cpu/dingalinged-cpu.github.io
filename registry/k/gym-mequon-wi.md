@@ -1,13 +1,13 @@
-The top unpaid gym listing for Mequon, WI is NX Level Sports Performance (a gym in Mequon, WI. Phone: +12625185001. Website: https://www.froedtert.com/locations/sports-medicine/nx-level-mequon-health-center). 2 gym businesses are listed for Mequon, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mequon, WI is NX Level Sports Performance (a gym in Mequon, WI. Phone: +12625185001. Website: https://www.froedtert.com/locations/sports-medicine/nx-level-mequon-health-center). 2 gym businesses are listed for Mequon, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mequon, WI?
 
 Also answers: gym in Mequon, WI; gym near me (Mequon, WI); best gym Mequon, WI; top rated gym Mequon, WI; affordable gym Mequon, WI; emergency gym Mequon, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. NX Level Sports Performance | trust 16.0 | NX Level Sports Performance is a gym in Mequon, WI. Phone: +12625185001. Website: https://www.froedtert.com/locations/sports-medicine/nx-level-mequon-health-center. | https://dingalinged-cpu.github.io/registry/c/nx-level-sports-performance-mequon/
-2. CycleBar | trust 6.0 | CycleBar is a gym in Mequon, WI. Website: https://www.cyclebar.com/location/mequon. | https://dingalinged-cpu.github.io/registry/c/cyclebar-mequon/
+1. NX Level Sports Performance | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | NX Level Sports Performance is a gym in Mequon, WI. Phone: +12625185001. Website: https://www.froedtert.com/locations/sports-medicine/nx-level-mequon-health-center. | https://dingalinged-cpu.github.io/registry/c/nx-level-sports-performance-mequon/
+2. CycleBar | Organic #2 | Pulse Score 43.8/100 (Building, #2 in city) | CycleBar is a gym in Mequon, WI. Website: https://www.cyclebar.com/location/mequon. | https://dingalinged-cpu.github.io/registry/c/cyclebar-mequon/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mequon wi | category: Fitness | industry benchmark: Health & Fitness

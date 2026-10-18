@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Franklin, WI is Mister Car Wash (a car wash in Franklin, WI at 7700 West Rawson Avenue, Franklin, WI 53132. Phone: +14144881745). 3 car wash businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Franklin, WI is Kwik Trip (a car wash in Franklin, WI at 5040 West Rawson Avenue, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=287). 3 car wash businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Franklin, WI?
 
 Also answers: car wash in Franklin, WI; car wash near me (Franklin, WI); best car wash Franklin, WI; top rated car wash Franklin, WI; affordable car wash Franklin, WI; emergency car wash Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | trust 14.0 | Mister Car Wash is a car wash in Franklin, WI at 7700 West Rawson Avenue, Franklin, WI 53132. Phone: +14144881745. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-franklin/
-2. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in Franklin, WI at 10750 West Speedway Drive, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=857. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin/
-3. Kwik Trip | trust 10.0 | Kwik Trip is a car wash in Franklin, WI at 5040 West Rawson Avenue, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=287. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin-w664194015/
+1. Kwik Trip | Organic #1 | Pulse Score 49.3/100 (Building, #1 in city) | Kwik Trip is a car wash in Franklin, WI at 5040 West Rawson Avenue, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=287. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin-w664194015/
+2. Kwik Trip | Organic #2 | Pulse Score 48.9/100 (Building, #2 in city) | Kwik Trip is a car wash in Franklin, WI at 10750 West Speedway Drive, Franklin, WI 53132. Website: https://www.kwiktrip.com/locator/store?id=857. | https://dingalinged-cpu.github.io/registry/c/kwik-trip-franklin/
+3. Mister Car Wash | Organic #3 | Pulse Score 48.9/100 (Building, #3 in city) | Mister Car Wash is a car wash in Franklin, WI at 7700 West Rawson Avenue, Franklin, WI 53132. Phone: +14144881745. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash franklin wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

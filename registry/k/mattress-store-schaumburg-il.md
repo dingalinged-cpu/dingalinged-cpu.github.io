@@ -1,15 +1,15 @@
-The top unpaid mattress store listing for Schaumburg, IL is Mattress Firm (a mattress store in Schaumburg, IL at 62 East Golf Road, Schaumburg, IL 60173. Phone: +18478820208. Website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/). 4 mattress store businesses are listed for Schaumburg, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mattress store listing for Schaumburg, IL is Mattress Firm (a mattress store in Schaumburg, IL at 62 East Golf Road, Schaumburg, IL 60173. Phone: +18478820208. Website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/). 4 mattress store businesses are listed for Schaumburg, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mattress store providers in Schaumburg, IL?
 
 Also answers: mattress store in Schaumburg, IL; mattress store near me (Schaumburg, IL); best mattress store Schaumburg, IL; top rated mattress store Schaumburg, IL; affordable mattress store Schaumburg, IL; emergency mattress store Schaumburg, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mattress Firm | trust 16.0 | Mattress Firm is a mattress store in Schaumburg, IL at 62 East Golf Road, Schaumburg, IL 60173. Phone: +18478820208. Website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg-w252040085/
-2. American Mattress | trust 4.0 | American Mattress is a mattress store in Schaumburg, IL at 35 East Golf Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/american-mattress-schaumburg/
-3. Sleep Number | trust 3.0 | Sleep Number is a mattress store in Schaumburg, IL at 1412 East Golf Road, Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/sleep-number-schaumburg/
-4. Mattress Firm | trust 0.0 | Mattress Firm is a mattress store in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg/
+1. Mattress Firm | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | Mattress Firm is a mattress store in Schaumburg, IL at 62 East Golf Road, Schaumburg, IL 60173. Phone: +18478820208. Website: https://www.mattressfirm.com/en-us/stores/il/schaumburg/119069/. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg-w252040085/
+2. Sleep Number | Organic #2 | Pulse Score 44.4/100 (Building, #2 in city) | Sleep Number is a mattress store in Schaumburg, IL at 1412 East Golf Road, Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/sleep-number-schaumburg/
+3. American Mattress | Organic #3 | Pulse Score 43.2/100 (Unrated, #3 in city) | American Mattress is a mattress store in Schaumburg, IL at 35 East Golf Road, Schaumburg, IL 60173. | https://dingalinged-cpu.github.io/registry/c/american-mattress-schaumburg/
+4. Mattress Firm | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Mattress Firm is a mattress store in Schaumburg, IL. | https://dingalinged-cpu.github.io/registry/c/mattress-firm-schaumburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: mattress store schaumburg il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

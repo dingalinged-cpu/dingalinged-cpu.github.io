@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Orland Hills, IL is Law and Professional Center (a lawyer in Orland Hills, IL). 1 lawyer businesses are listed for Orland Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Orland Hills, IL is Law and Professional Center (a lawyer in Orland Hills, IL). 1 lawyer businesses are listed for Orland Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Orland Hills, IL?
 
 Also answers: lawyer in Orland Hills, IL; lawyer near me (Orland Hills, IL); best lawyer Orland Hills, IL; top rated lawyer Orland Hills, IL; affordable lawyer Orland Hills, IL; emergency lawyer Orland Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Law and Professional Center | trust 0.0 | Law and Professional Center is a lawyer in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/law-and-professional-center-orland-hills/
+1. Law and Professional Center | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Law and Professional Center is a lawyer in Orland Hills, IL. | https://dingalinged-cpu.github.io/registry/c/law-and-professional-center-orland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer orland hills il | category: Legal | industry benchmark: Attorneys & Legal Services

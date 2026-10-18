@@ -1,15 +1,15 @@
-The top unpaid car wash listing for Cicero, IL is Sparkle Express Car Wash (a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/). 4 car wash businesses are listed for Cicero, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Cicero, IL is Sparkle Express Car Wash (a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/). 4 car wash businesses are listed for Cicero, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Cicero, IL?
 
 Also answers: car wash in Cicero, IL; car wash near me (Cicero, IL); best car wash Cicero, IL; top rated car wash Cicero, IL; affordable car wash Cicero, IL; emergency car wash Cicero, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sparkle Express Car Wash | trust 10.0 | Sparkle Express Car Wash is a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/. | https://dingalinged-cpu.github.io/registry/c/sparkle-express-car-wash-cicero/
-2. BP | trust 4.0 | BP is a car wash in Cicero, IL at 3100 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/bp-cicero/
-3. Mobil | trust 4.0 | Mobil is a car wash in Cicero, IL at 5147 West Roosevelt Road, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/mobil-cicero/
-4. Shell | trust 4.0 | Shell is a car wash in Cicero, IL at 3146 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/shell-cicero/
+1. Sparkle Express Car Wash | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Sparkle Express Car Wash is a car wash in Cicero, IL at 2912 South Cicero Avenue, Cicero, IL 60804. Website: https://sparklestatus.com/. | https://dingalinged-cpu.github.io/registry/c/sparkle-express-car-wash-cicero/
+2. BP | Organic #2 | Pulse Score 45.9/100 (Building, #2 in city) | BP is a car wash in Cicero, IL at 3100 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/bp-cicero/
+3. Mobil | Organic #3 | Pulse Score 45.9/100 (Building, #3 in city) | Mobil is a car wash in Cicero, IL at 5147 West Roosevelt Road, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/mobil-cicero/
+4. Shell | Organic #4 | Pulse Score 45.9/100 (Building, #4 in city) | Shell is a car wash in Cicero, IL at 3146 South Cicero Avenue, Cicero, IL 60804. | https://dingalinged-cpu.github.io/registry/c/shell-cicero/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash cicero il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

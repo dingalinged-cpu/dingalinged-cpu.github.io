@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Corinth, TX is Daisy Cleaners (a dry cleaner in Corinth, TX at 3961 Swisher Road #Unit A, Corinth, TX 76210. Phone: +19404974949). 2 dry cleaners businesses are listed for Corinth, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Corinth, TX is Daisy Cleaners (a dry cleaner in Corinth, TX at 3961 Swisher Road #Unit A, Corinth, TX 76210. Phone: +19404974949). 2 dry cleaners businesses are listed for Corinth, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Corinth, TX?
 
 Also answers: dry cleaners in Corinth, TX; dry cleaners near me (Corinth, TX); best dry cleaners Corinth, TX; top rated dry cleaners Corinth, TX; affordable dry cleaners Corinth, TX; emergency dry cleaners Corinth, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Daisy Cleaners | trust 10.0 | Daisy Cleaners is a dry cleaner in Corinth, TX at 3961 Swisher Road #Unit A, Corinth, TX 76210. Phone: +19404974949. | https://dingalinged-cpu.github.io/registry/c/daisy-cleaners-corinth/
-2. Corinth Cleaners | trust 4.0 | Corinth Cleaners is a dry cleaner in Corinth, TX at 3400 Corinth Parkway #Suite 103, Corinth, TX 76208. | https://dingalinged-cpu.github.io/registry/c/corinth-cleaners-corinth/
+1. Daisy Cleaners | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Daisy Cleaners is a dry cleaner in Corinth, TX at 3961 Swisher Road #Unit A, Corinth, TX 76210. Phone: +19404974949. | https://dingalinged-cpu.github.io/registry/c/daisy-cleaners-corinth/
+2. Corinth Cleaners | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Corinth Cleaners is a dry cleaner in Corinth, TX at 3400 Corinth Parkway #Suite 103, Corinth, TX 76208. | https://dingalinged-cpu.github.io/registry/c/corinth-cleaners-corinth/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners corinth tx | category: Professional & financial services | industry benchmark: Finance & Insurance

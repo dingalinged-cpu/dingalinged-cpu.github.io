@@ -13,7 +13,7 @@ Fazio Insurance is an insurance agent in Joliet, IL at 550 Ruby Street, Joliet, 
 - Website: https://fazioins.com/
 - Email: inquiry@fazioins.com
 - Opening hours (OSM syntax): Sa-Su CLOSED, Mo & We 08:30-17:30, Tu, Th & Fr 08:30-17:00
-- Registry Score: 64.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 1% of insurance agents in Chicago, #1 of 4 insurance agents in Joliet (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.7, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,15 +1,15 @@
-The top unpaid dentist listing for Webster, TX is Clear Lake Dental Care and Implant Center (a dentist in Webster, TX at 202 West Medical Center Boulevard, Webster, TX 77598. Phone: +18324794676. Website: https://clearlakedentalcare.com/). 4 dentist businesses are listed for Webster, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Webster, TX is Now Dental (a dentist in Webster, TX at 251 West Medical Center Boulevard #220, Webster, TX 77598. Phone: +18329323959. Website: https://now-dental.com/). 4 dentist businesses are listed for Webster, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Webster, TX?
 
 Also answers: dentist in Webster, TX; dentist near me (Webster, TX); best dentist Webster, TX; top rated dentist Webster, TX; affordable dentist Webster, TX; emergency dentist Webster, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Clear Lake Dental Care and Implant Center | trust 20.0 | Clear Lake Dental Care and Implant Center is a dentist in Webster, TX at 202 West Medical Center Boulevard, Webster, TX 77598. Phone: +18324794676. Website: https://clearlakedentalcare.com/. | https://dingalinged-cpu.github.io/registry/c/clear-lake-dental-care-and-implant-center-webster/
-2. Now Dental | trust 20.0 | Now Dental is a dentist in Webster, TX at 251 West Medical Center Boulevard #220, Webster, TX 77598. Phone: +18329323959. Website: https://now-dental.com/. | https://dingalinged-cpu.github.io/registry/c/now-dental-webster/
-3. Oral Surgery Associates | trust 16.0 | Oral Surgery Associates is a dentist in Webster, TX at 595 East Medical Center Boulevard, Webster, TX 77598. Phone: +12814611982. Website: https://www.osabayarea.com/. | https://dingalinged-cpu.github.io/registry/c/oral-surgery-associates-webster/
-4. UniCare | trust 3.0 | UniCare is a dentist in Webster, TX at 20798 Gulf Freeway, Webster, TX. | https://dingalinged-cpu.github.io/registry/c/unicare-webster/
+1. Now Dental | Organic #1 | Pulse Score 65/100 (Good, #1 in city) | Now Dental is a dentist in Webster, TX at 251 West Medical Center Boulevard #220, Webster, TX 77598. Phone: +18329323959. Website: https://now-dental.com/. | https://dingalinged-cpu.github.io/registry/c/now-dental-webster/
+2. Clear Lake Dental Care and Implant Center | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | Clear Lake Dental Care and Implant Center is a dentist in Webster, TX at 202 West Medical Center Boulevard, Webster, TX 77598. Phone: +18324794676. Website: https://clearlakedentalcare.com/. | https://dingalinged-cpu.github.io/registry/c/clear-lake-dental-care-and-implant-center-webster/
+3. Oral Surgery Associates | Organic #3 | Pulse Score 60.9/100 (Unrated, #3 in city) | Oral Surgery Associates is a dentist in Webster, TX at 595 East Medical Center Boulevard, Webster, TX 77598. Phone: +12814611982. Website: https://www.osabayarea.com/. | https://dingalinged-cpu.github.io/registry/c/oral-surgery-associates-webster/
+4. UniCare | Organic #4 | Pulse Score 57.5/100 (Unrated, #4 in city) | UniCare is a dentist in Webster, TX at 20798 Gulf Freeway, Webster, TX. | https://dingalinged-cpu.github.io/registry/c/unicare-webster/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist webster tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

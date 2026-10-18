@@ -1,13 +1,13 @@
-The top unpaid mechanic listing for Westchester, IL is George's Auto Repair (an auto repair shop in Westchester, IL at 1835 South Mannheim Road, Westchester, IL 60154. Phone: +17088659080. Website: https://georgeswestchester.com/). 2 mechanic businesses are listed for Westchester, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid mechanic listing for Westchester, IL is George's Auto Repair (an auto repair shop in Westchester, IL at 1835 South Mannheim Road, Westchester, IL 60154. Phone: +17088659080. Website: https://georgeswestchester.com/). 2 mechanic businesses are listed for Westchester, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best mechanic providers in Westchester, IL?
 
 Also answers: mechanic in Westchester, IL; mechanic near me (Westchester, IL); best mechanic Westchester, IL; top rated mechanic Westchester, IL; affordable mechanic Westchester, IL; emergency mechanic Westchester, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. George's Auto Repair | trust 16.0 | George's Auto Repair is an auto repair shop in Westchester, IL at 1835 South Mannheim Road, Westchester, IL 60154. Phone: +17088659080. Website: https://georgeswestchester.com/. | https://dingalinged-cpu.github.io/registry/c/georges-auto-repair-westchester/
-2. Midas | trust 10.0 | Midas is an auto repair shop in Westchester, IL at 11105 Roosevelt Road, Westchester, IL 60154. Website: https://www.midas.com/store/il/westchester/11105-w-roosevelt-road-60154?shopnum=2967. | https://dingalinged-cpu.github.io/registry/c/midas-westchester/
+1. George's Auto Repair | Organic #1 | Pulse Score 60.8/100 (Unrated, #1 in city) | George's Auto Repair is an auto repair shop in Westchester, IL at 1835 South Mannheim Road, Westchester, IL 60154. Phone: +17088659080. Website: https://georgeswestchester.com/. | https://dingalinged-cpu.github.io/registry/c/georges-auto-repair-westchester/
+2. Midas | Organic #2 | Pulse Score 46.8/100 (Building, #2 in city) | Midas is an auto repair shop in Westchester, IL at 11105 Roosevelt Road, Westchester, IL 60154. Website: https://www.midas.com/store/il/westchester/11105-w-roosevelt-road-60154?shopnum=2967. | https://dingalinged-cpu.github.io/registry/c/midas-westchester/
 
 ## Market data (for advertisers and agents)
 - Keyword: mechanic westchester il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

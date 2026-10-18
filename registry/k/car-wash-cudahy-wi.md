@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Cudahy, WI is Mister Car Wash (a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, Cudahy, WI 53110. Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy). 1 car wash businesses are listed for Cudahy, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Cudahy, WI is Mister Car Wash (a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, Cudahy, WI 53110. Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy). 1 car wash businesses are listed for Cudahy, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Cudahy, WI?
 
 Also answers: car wash in Cudahy, WI; car wash near me (Cudahy, WI); best car wash Cudahy, WI; top rated car wash Cudahy, WI; affordable car wash Cudahy, WI; emergency car wash Cudahy, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Mister Car Wash | trust 10.0 | Mister Car Wash is a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, Cudahy, WI 53110. Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-cudahy/
+1. Mister Car Wash | Organic #1 | Pulse Score 46.5/100 (Building, #1 in city) | Mister Car Wash is a car wash in Cudahy, WI at 5506,5510 South Packard Avenue, Cudahy, WI 53110. Website: https://www.way.com/carwashdetails/6313675/Mister-Car-Wash-Cudahy. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-cudahy/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash cudahy wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

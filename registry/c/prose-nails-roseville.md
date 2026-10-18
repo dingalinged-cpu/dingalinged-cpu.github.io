@@ -13,7 +13,7 @@ Prose Nails is a nail salon in Roseville, MN at 2375 Fairview Avenue North, Rose
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-19:00; Th-Sa 10:00-21:00; Su 10:00-18:00
-- Registry Score: 46.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.2/100 — Unrated (not enough evidence yet) — top 84% of nail salons in Minneapolis–St. Paul, #5 of 5 nail salons in Roseville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.2, Trust 52.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

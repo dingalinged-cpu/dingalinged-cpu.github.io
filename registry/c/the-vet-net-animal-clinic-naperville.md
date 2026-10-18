@@ -13,7 +13,7 @@ The-vet.net Animal Clinic is a veterinarian in Naperville, IL at 1827 Wehrli Roa
 - Website: https://naperville-veterinarian.business.site/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 14:30-20:00; We,Fr 09:00-13:00; Sa 14:00-17:00
-- Registry Score: 62.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 15% of veterinarians in Chicago, #3 of 4 veterinarians in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

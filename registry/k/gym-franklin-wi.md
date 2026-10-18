@@ -1,15 +1,15 @@
-The top unpaid gym listing for Franklin, WI is Anytime Fitness (a gym in Franklin, WI at 2818 West Rawson Avenue, Franklin, WI 53132. Phone: +14143045254. Website: https://www.anytimefitness.com/gyms/663/franklin-wi-53132/). 4 gym businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Franklin, WI is Innovative Health & Fitness (a gym in Franklin, WI at 8800 South 102nd Street, Franklin, WI 53132). 4 gym businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Franklin, WI?
 
 Also answers: gym in Franklin, WI; gym near me (Franklin, WI); best gym Franklin, WI; top rated gym Franklin, WI; affordable gym Franklin, WI; emergency gym Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Franklin, WI at 2818 West Rawson Avenue, Franklin, WI 53132. Phone: +14143045254. Website: https://www.anytimefitness.com/gyms/663/franklin-wi-53132/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-franklin/
-2. Planet Fitness | trust 8.0 | Planet Fitness is a gym in Franklin, WI at 6529 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-franklin/
-3. Curves | trust 4.0 | Curves is a gym in Franklin, WI at 7117 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/curves-franklin/
-4. Innovative Health & Fitness | trust 4.0 | Innovative Health & Fitness is a gym in Franklin, WI at 8800 South 102nd Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/innovative-health-and-fitness-franklin/
+1. Innovative Health & Fitness | Organic #1 | Pulse Score 56.1/100 (Unrated, #1 in city) | Innovative Health & Fitness is a gym in Franklin, WI at 8800 South 102nd Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/innovative-health-and-fitness-franklin/
+2. Anytime Fitness | Organic #2 | Pulse Score 50.1/100 (Fair, #2 in city) | Anytime Fitness is a gym in Franklin, WI at 2818 West Rawson Avenue, Franklin, WI 53132. Phone: +14143045254. Website: https://www.anytimefitness.com/gyms/663/franklin-wi-53132/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-franklin/
+3. Planet Fitness | Organic #3 | Pulse Score 44.9/100 (Building, #3 in city) | Planet Fitness is a gym in Franklin, WI at 6529 South 27th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/planet-fitness-franklin/
+4. Curves | Organic #4 | Pulse Score 43.8/100 (Building, #4 in city) | Curves is a gym in Franklin, WI at 7117 South 76th Street, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/curves-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym franklin wi | category: Fitness | industry benchmark: Health & Fitness

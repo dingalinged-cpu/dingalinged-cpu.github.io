@@ -1,13 +1,13 @@
-The top unpaid tax preparation listing for Woodstock, GA is Dr. Fahrenheit HVAC (a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/). 2 tax preparation businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Woodstock, GA is Dr. Fahrenheit HVAC (a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/). 2 tax preparation businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Woodstock, GA?
 
 Also answers: tax preparation in Woodstock, GA; tax preparation near me (Woodstock, GA); best tax preparation Woodstock, GA; top rated tax preparation Woodstock, GA; affordable tax preparation Woodstock, GA; emergency tax preparation Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Fahrenheit HVAC | trust 19.0 | Dr. Fahrenheit HVAC is a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/. | https://dingalinged-cpu.github.io/registry/c/dr-fahrenheit-hvac-woodstock/
-2. H&R Block | trust 19.0 | H&R Block is a tax preparation service in Woodstock, GA at 1075 Buckhead Crossing #100, Woodstock, GA. Phone: +17705169407. Website: https://www.hrblock.com/local-tax-offices/georgia/woodstock/1075-buckhead-crossing-ste-100/10934/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-woodstock/
+1. Dr. Fahrenheit HVAC | Organic #1 | Pulse Score 66.2/100 (Good, #1 in city) | Dr. Fahrenheit HVAC is a tax preparation service in Woodstock, GA at 8926 Main Street, Woodstock, GA. Phone: +17709266773. Website: https://drfahrenheithvac.com/location/marietta/. | https://dingalinged-cpu.github.io/registry/c/dr-fahrenheit-hvac-woodstock/
+2. H&R Block | Organic #2 | Pulse Score 52.7/100 (Fair, #2 in city) | H&R Block is a tax preparation service in Woodstock, GA at 1075 Buckhead Crossing #100, Woodstock, GA. Phone: +17705169407. Website: https://www.hrblock.com/local-tax-offices/georgia/woodstock/1075-buckhead-crossing-ste-100/10934/. | https://dingalinged-cpu.github.io/registry/c/h-and-r-block-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation woodstock ga | category: Professional & financial services | industry benchmark: Finance & Insurance

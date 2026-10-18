@@ -1,12 +1,12 @@
-The top unpaid hair salon listing for Palos Hills, IL is Chroma Beauty (a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/). 1 hair salon businesses are listed for Palos Hills, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for Palos Hills, IL is Chroma Beauty (a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/). 1 hair salon businesses are listed for Palos Hills, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in Palos Hills, IL?
 
 Also answers: hair salon in Palos Hills, IL; hair salon near me (Palos Hills, IL); best hair salon Palos Hills, IL; top rated hair salon Palos Hills, IL; affordable hair salon Palos Hills, IL; emergency hair salon Palos Hills, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Chroma Beauty | trust 20.0 | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
+1. Chroma Beauty | Organic #1 | Pulse Score 65.1/100 (Good, #1 in city) | Chroma Beauty is a hair salon in Palos Hills, IL at 10600 South Roberts Road, Palos Hills, IL 60465. Phone: +17085773776. Website: https://chroma-beauty-salon.com/. | https://dingalinged-cpu.github.io/registry/c/chroma-beauty-palos-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon palos hills il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

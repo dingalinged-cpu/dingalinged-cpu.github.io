@@ -1,13 +1,13 @@
-The top unpaid insurance agents listing for Harwood Heights, IL is SafePol (an insurance agent in Harwood Heights, IL at 4738 North Harlem Avenue #1J, Harwood Heights, IL 60706. Phone: +17737897233. Website: https://www.safepol.com/). 2 insurance agents businesses are listed for Harwood Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Harwood Heights, IL is SafePol (an insurance agent in Harwood Heights, IL at 4738 North Harlem Avenue #1J, Harwood Heights, IL 60706. Phone: +17737897233. Website: https://www.safepol.com/). 2 insurance agents businesses are listed for Harwood Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Harwood Heights, IL?
 
 Also answers: insurance agents in Harwood Heights, IL; insurance agents near me (Harwood Heights, IL); best insurance agents Harwood Heights, IL; top rated insurance agents Harwood Heights, IL; affordable insurance agents Harwood Heights, IL; emergency insurance agents Harwood Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SafePol | trust 20.0 | SafePol is an insurance agent in Harwood Heights, IL at 4738 North Harlem Avenue #1J, Harwood Heights, IL 60706. Phone: +17737897233. Website: https://www.safepol.com/. | https://dingalinged-cpu.github.io/registry/c/safepol-harwood-heights/
-2. State Farm | trust 20.0 | State Farm is an insurance agent in Harwood Heights, IL at 4732 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17732704600. Website: https://www.petergrande.org/. | https://dingalinged-cpu.github.io/registry/c/state-farm-harwood-heights/
+1. SafePol | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | SafePol is an insurance agent in Harwood Heights, IL at 4738 North Harlem Avenue #1J, Harwood Heights, IL 60706. Phone: +17737897233. Website: https://www.safepol.com/. | https://dingalinged-cpu.github.io/registry/c/safepol-harwood-heights/
+2. State Farm | Organic #2 | Pulse Score 48.8/100 (Building, #2 in city) | State Farm is an insurance agent in Harwood Heights, IL at 4732 North Harlem Avenue, Harwood Heights, IL 60706. Phone: +17732704600. Website: https://www.petergrande.org/. | https://dingalinged-cpu.github.io/registry/c/state-farm-harwood-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents harwood heights il | category: insurance | industry benchmark: Finance & Insurance

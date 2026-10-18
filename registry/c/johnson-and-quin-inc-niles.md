@@ -13,7 +13,7 @@ Johnson & Quin, Inc. is a marketing agency in Niles, IL at 7460 North Lehigh Ave
 - Website: https://www.j-quin.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 54.7/100 — Unrated (not enough evidence yet) — top 89% of marketing agencys in Chicago, #1 of 1 marketing agencys in Niles (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 58.7, Trust 42. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

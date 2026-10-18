@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Buffalo Grove, IL is Dev Liquor & Wine (a liquor store in Buffalo Grove, IL at 1170 McHenry Road, Buffalo Grove, IL 60089. Phone: +18472298280). 1 liquor store businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Buffalo Grove, IL is Dev Liquor & Wine (a liquor store in Buffalo Grove, IL at 1170 McHenry Road, Buffalo Grove, IL 60089. Phone: +18472298280). 1 liquor store businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Buffalo Grove, IL?
 
 Also answers: liquor store in Buffalo Grove, IL; liquor store near me (Buffalo Grove, IL); best liquor store Buffalo Grove, IL; top rated liquor store Buffalo Grove, IL; affordable liquor store Buffalo Grove, IL; emergency liquor store Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dev Liquor & Wine | trust 14.0 | Dev Liquor & Wine is a liquor store in Buffalo Grove, IL at 1170 McHenry Road, Buffalo Grove, IL 60089. Phone: +18472298280. | https://dingalinged-cpu.github.io/registry/c/dev-liquor-and-wine-buffalo-grove/
+1. Dev Liquor & Wine | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Dev Liquor & Wine is a liquor store in Buffalo Grove, IL at 1170 McHenry Road, Buffalo Grove, IL 60089. Phone: +18472298280. | https://dingalinged-cpu.github.io/registry/c/dev-liquor-and-wine-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store buffalo grove il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

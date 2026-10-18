@@ -13,7 +13,7 @@ X2 Bakery is a bakery in Saint Paul, MN at 1830 Saint Clair Avenue, Saint Paul, 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu off; We-Su 07:00-14:00
-- Registry Score: 57.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.7/100 — Fair — top 34% of bakerys in Minneapolis–St. Paul, #6 of 19 bakerys in Saint Paul (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

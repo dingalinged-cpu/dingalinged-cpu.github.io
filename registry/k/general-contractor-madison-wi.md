@@ -1,12 +1,12 @@
-The top unpaid general contractor listing for Madison, WI is Dan Eccles Homes (a general contractor in Madison, WI. Website: https://www.danieleccleshomes.com/). 1 general contractor businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid general contractor listing for Madison, WI is Dan Eccles Homes (a general contractor in Madison, WI. Website: https://www.danieleccleshomes.com/). 1 general contractor businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best general contractor providers in Madison, WI?
 
 Also answers: general contractor in Madison, WI; general contractor near me (Madison, WI); best general contractor Madison, WI; top rated general contractor Madison, WI; affordable general contractor Madison, WI; emergency general contractor Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dan Eccles Homes | trust 6.0 | Dan Eccles Homes is a general contractor in Madison, WI. Website: https://www.danieleccleshomes.com/. | https://dingalinged-cpu.github.io/registry/c/dan-eccles-homes-madison/
+1. Dan Eccles Homes | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Dan Eccles Homes is a general contractor in Madison, WI. Website: https://www.danieleccleshomes.com/. | https://dingalinged-cpu.github.io/registry/c/dan-eccles-homes-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: general contractor madison wi | category: Home services - Remodeling & construction | industry benchmark: Home & Home Improvement

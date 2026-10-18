@@ -1,17 +1,17 @@
-The top unpaid insurance agency listing for Waxahachie, TX is Bell-Scott Insurance Group (an insurance agent in Waxahachie, TX at 138 Dallas Highway, Waxahachie, TX 75165). 6 insurance agency businesses are listed for Waxahachie, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for Waxahachie, TX is Cooper Insures (an insurance agent in Waxahachie, TX at 311 Ferris Avenue, Waxahachie, TX 75165). 6 insurance agency businesses are listed for Waxahachie, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in Waxahachie, TX?
 
 Also answers: insurance agency in Waxahachie, TX; insurance agency near me (Waxahachie, TX); best insurance agency Waxahachie, TX; top rated insurance agency Waxahachie, TX; affordable insurance agency Waxahachie, TX; emergency insurance agency Waxahachie, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bell-Scott Insurance Group | trust 4.0 | Bell-Scott Insurance Group is an insurance agent in Waxahachie, TX at 138 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/bell-scott-insurance-group-waxahachie/
-2. Cooper Insures | trust 4.0 | Cooper Insures is an insurance agent in Waxahachie, TX at 311 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/cooper-insures-waxahachie/
-3. Davis Insurance | trust 4.0 | Davis Insurance is an insurance agent in Waxahachie, TX at 517 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/davis-insurance-waxahachie/
-4. Ferguson Insurance | trust 4.0 | Ferguson Insurance is an insurance agent in Waxahachie, TX at 305 Mc Millan Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/ferguson-insurance-waxahachie/
-5. State Farm | trust 4.0 | State Farm is an insurance agent in Waxahachie, TX at 903 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/state-farm-waxahachie/
-6. Texas Farm Bureau Insurance | trust 4.0 | Texas Farm Bureau Insurance is an insurance agent in Waxahachie, TX at 122 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-waxahachie/
+1. Cooper Insures | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Cooper Insures is an insurance agent in Waxahachie, TX at 311 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/cooper-insures-waxahachie/
+2. Davis Insurance | Organic #2 | Pulse Score 57.1/100 (Unrated, #2 in city) | Davis Insurance is an insurance agent in Waxahachie, TX at 517 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/davis-insurance-waxahachie/
+3. Bell-Scott Insurance Group | Organic #3 | Pulse Score 56.7/100 (Unrated, #3 in city) | Bell-Scott Insurance Group is an insurance agent in Waxahachie, TX at 138 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/bell-scott-insurance-group-waxahachie/
+4. Ferguson Insurance | Organic #4 | Pulse Score 56.7/100 (Unrated, #4 in city) | Ferguson Insurance is an insurance agent in Waxahachie, TX at 305 Mc Millan Street, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/ferguson-insurance-waxahachie/
+5. Texas Farm Bureau Insurance | Organic #5 | Pulse Score 45.1/100 (Unrated, #5 in city) | Texas Farm Bureau Insurance is an insurance agent in Waxahachie, TX at 122 Dallas Highway, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/texas-farm-bureau-insurance-waxahachie/
+6. State Farm | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | State Farm is an insurance agent in Waxahachie, TX at 903 Ferris Avenue, Waxahachie, TX 75165. | https://dingalinged-cpu.github.io/registry/c/state-farm-waxahachie/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency waxahachie tx | category: insurance | industry benchmark: Finance & Insurance

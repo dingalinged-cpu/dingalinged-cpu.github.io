@@ -13,7 +13,7 @@ Kauffman Tires is an auto repair shop in Roswell, GA at 890 Marietta Highway, Ro
 - Website: https://www.kauffmantire.com/retail/G38.html
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 07:30-17:00; Su closed
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 16% of auto repair shops in Atlanta, #7 of 17 auto repair shops in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

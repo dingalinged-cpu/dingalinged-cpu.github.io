@@ -13,7 +13,7 @@ Sharp Cuts & Styles by Nuvia is a hair salon in Porter, TX at 23340 FM 1314, Por
 - Website: https://sharpcutsandstyles.square.site/
 - Email: nuvia.zepeda@icloud.com
 - Opening hours (OSM syntax): Mo 10:30-17:00; Tu,Th 10:00-18:00; We 10:00-16:00; Fr 10:00-18:30; Sa 10:00-19:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Unrated (not enough evidence yet) — top 3% of hair salons in Houston, #1 of 1 hair salons in Porter (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.4, Trust 66.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

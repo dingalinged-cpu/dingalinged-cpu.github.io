@@ -1,17 +1,17 @@
-The top unpaid storage units listing for Plano, TX is All Storage (a self-storage facility in Plano, TX at 500 Talbert Drive, Plano, TX 75093. Phone: +19729059854. Website: https://www.allstorageonline.com/). 6 storage units businesses are listed for Plano, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Plano, TX is All Storage (a self-storage facility in Plano, TX at 500 Talbert Drive, Plano, TX 75093. Phone: +19729059854. Website: https://www.allstorageonline.com/). 6 storage units businesses are listed for Plano, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Plano, TX?
 
 Also answers: storage units in Plano, TX; storage units near me (Plano, TX); best storage units Plano, TX; top rated storage units Plano, TX; affordable storage units Plano, TX; emergency storage units Plano, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Storage | trust 20.0 | All Storage is a self-storage facility in Plano, TX at 500 Talbert Drive, Plano, TX 75093. Phone: +19729059854. Website: https://www.allstorageonline.com/. | https://dingalinged-cpu.github.io/registry/c/all-storage-plano/
-2. Advantage Storage | trust 6.0 | Advantage Storage is a self-storage facility in Plano, TX. Phone: +19723784066. | https://dingalinged-cpu.github.io/registry/c/advantage-storage-plano/
-3. Public Storage | trust 3.0 | Public Storage is a self-storage facility in Plano, TX at 3309 Alma Drive, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano/
-4. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano-w1490873662/
-5. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano-w653452808/
-6. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/u-haul-plano/
+1. All Storage | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | All Storage is a self-storage facility in Plano, TX at 500 Talbert Drive, Plano, TX 75093. Phone: +19729059854. Website: https://www.allstorageonline.com/. | https://dingalinged-cpu.github.io/registry/c/all-storage-plano/
+2. Public Storage | Organic #2 | Pulse Score 47.2/100 (Building, #2 in city) | Public Storage is a self-storage facility in Plano, TX at 3309 Alma Drive, Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano/
+3. Advantage Storage | Organic #3 | Pulse Score 46.5/100 (Unrated, #3 in city) | Advantage Storage is a self-storage facility in Plano, TX. Phone: +19723784066. | https://dingalinged-cpu.github.io/registry/c/advantage-storage-plano/
+4. Public Storage | Organic #4 | Pulse Score 41.8/100 (Building, #4 in city) | Public Storage is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano-w1490873662/
+5. Public Storage | Organic #5 | Pulse Score 41.8/100 (Building, #5 in city) | Public Storage is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-plano-w653452808/
+6. U-Haul | Organic #6 | Pulse Score 41.8/100 (Building, #6 in city) | U-Haul is a self-storage facility in Plano, TX. | https://dingalinged-cpu.github.io/registry/c/u-haul-plano/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units plano tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

@@ -13,7 +13,7 @@ Westgate Pet Clinic is a veterinarian in Minneapolis, MN at 4345 France Avenue S
 - Website: https://wagsandwhiskers.com/
 - Email: westgate@mvetpartners.com
 - Opening hours (OSM syntax): Mo-Th 08:00-18:00; Fr 07:30-17:00; Sa 08:00-13:00
-- Registry Score: 66/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of veterinarians in Minneapolis–St. Paul, #1 of 18 veterinarians in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.4, Trust 63. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

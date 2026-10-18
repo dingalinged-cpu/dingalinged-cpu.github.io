@@ -13,7 +13,7 @@ New School of Music is a music school in Lilburn, GA at 4100 Five Forks Trickum 
 - Website: https://www.newschoolofmusic.com/locations/lilburn-ga-30047/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 13:00-21:00; Fr 13:00-20:00; Sa 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.9/100 — Unrated (not enough evidence yet) — top 32% of music schools in Atlanta, #1 of 1 music schools in Lilburn (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.9, Trust 60.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

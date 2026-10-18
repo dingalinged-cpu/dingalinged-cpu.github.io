@@ -1,13 +1,13 @@
-The top unpaid printing services listing for Garland, TX is The UPS Store (a printing service in Garland, TX at 5435 North Garland Avenue #140, Garland, TX 75040). 2 printing services businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Garland, TX is Platinum Printing Imprenta (a printing service in Garland, TX). 2 printing services businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Garland, TX?
 
 Also answers: printing services in Garland, TX; printing services near me (Garland, TX); best printing services Garland, TX; top rated printing services Garland, TX; affordable printing services Garland, TX; emergency printing services Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The UPS Store | trust 4.0 | The UPS Store is a printing service in Garland, TX at 5435 North Garland Avenue #140, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-garland/
-2. Platinum Printing Imprenta | trust 0.0 | Platinum Printing Imprenta is a printing service in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/platinum-printing-imprenta-garland/
+1. Platinum Printing Imprenta | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Platinum Printing Imprenta is a printing service in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/platinum-printing-imprenta-garland/
+2. The UPS Store | Organic #2 | Pulse Score 45/100 (Building, #2 in city) | The UPS Store is a printing service in Garland, TX at 5435 North Garland Avenue #140, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/the-ups-store-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services garland tx | category: Professional & financial services | industry benchmark: Finance & Insurance

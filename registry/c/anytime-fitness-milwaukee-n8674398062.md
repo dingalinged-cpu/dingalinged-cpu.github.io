@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Milwaukee, WI at 6817 West Brown Deer Road, Milwauke
 - Website: https://www.anytimefitness.com/gyms/1329/milwaukee-wi-53223/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 47.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 64% of gyms in Milwaukee, #25 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

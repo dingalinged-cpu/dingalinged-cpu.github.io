@@ -1,15 +1,15 @@
-The top unpaid insurance agent listing for Berwyn, IL is Insurance Navy Brokers (an insurance agent in Berwyn, IL at 6905 West Ogden Avenue, Berwyn, IL 60402. Phone: +17087971500. Website: https://www.insurancenavy.com/locations/il/berwyn/). 4 insurance agent businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agent listing for Berwyn, IL is Insure On The Spot (an insurance agent in Berwyn, IL at 7015 West Roosevelt Road, Berwyn, IL 60402). 4 insurance agent businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agent providers in Berwyn, IL?
 
 Also answers: insurance agent in Berwyn, IL; insurance agent near me (Berwyn, IL); best insurance agent Berwyn, IL; top rated insurance agent Berwyn, IL; affordable insurance agent Berwyn, IL; emergency insurance agent Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Insurance Navy Brokers | trust 20.0 | Insurance Navy Brokers is an insurance agent in Berwyn, IL at 6905 West Ogden Avenue, Berwyn, IL 60402. Phone: +17087971500. Website: https://www.insurancenavy.com/locations/il/berwyn/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-berwyn/
-2. Farmers Insurance | trust 6.0 | Farmers Insurance is an insurance agent in Berwyn, IL. Website: https://agents.farmers.com/il/berwyn/melissa-terrazas. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-berwyn/
-3. Insure On The Spot | trust 4.0 | Insure On The Spot is an insurance agent in Berwyn, IL at 7015 West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-berwyn/
-4. State Farm | trust 0.0 | State Farm is an insurance agent in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-berwyn/
+1. Insure On The Spot | Organic #1 | Pulse Score 56.2/100 (Unrated, #1 in city) | Insure On The Spot is an insurance agent in Berwyn, IL at 7015 West Roosevelt Road, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/insure-on-the-spot-berwyn/
+2. Insurance Navy Brokers | Organic #2 | Pulse Score 48.6/100 (Building, #2 in city) | Insurance Navy Brokers is an insurance agent in Berwyn, IL at 6905 West Ogden Avenue, Berwyn, IL 60402. Phone: +17087971500. Website: https://www.insurancenavy.com/locations/il/berwyn/. | https://dingalinged-cpu.github.io/registry/c/insurance-navy-brokers-berwyn/
+3. Farmers Insurance | Organic #3 | Pulse Score 43.4/100 (Building, #3 in city) | Farmers Insurance is an insurance agent in Berwyn, IL. Website: https://agents.farmers.com/il/berwyn/melissa-terrazas. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-berwyn/
+4. State Farm | Organic #4 | Pulse Score 41.5/100 (Building, #4 in city) | State Farm is an insurance agent in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/state-farm-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agent berwyn il | category: Professional & financial services | industry benchmark: Finance & Insurance

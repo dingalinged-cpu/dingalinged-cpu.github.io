@@ -13,7 +13,7 @@ Alamo Driving School is a driving school in Minneapolis, MN at 2109 Nicollet Ave
 - Website: https://www.alamodrivingschool.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 60.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.3/100 — Good — top 34% of driving schools in Minneapolis–St. Paul, #1 of 1 driving schools in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid preschool listing for Barrington Township, IL is Barrington Early Learning Center (a preschool in Barrington Township, IL). 1 preschool businesses are listed for Barrington Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid preschool listing for Barrington Township, IL is Barrington Early Learning Center (a preschool in Barrington Township, IL). 1 preschool businesses are listed for Barrington Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best preschool providers in Barrington Township, IL?
 
 Also answers: preschool in Barrington Township, IL; preschool near me (Barrington Township, IL); best preschool Barrington Township, IL; top rated preschool Barrington Township, IL; affordable preschool Barrington Township, IL; emergency preschool Barrington Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Barrington Early Learning Center | trust 0.0 | Barrington Early Learning Center is a preschool in Barrington Township, IL. | https://dingalinged-cpu.github.io/registry/c/barrington-early-learning-center-barrington-township/
+1. Barrington Early Learning Center | Organic #1 | Pulse Score 55.2/100 (Unrated, #1 in city) | Barrington Early Learning Center is a preschool in Barrington Township, IL. | https://dingalinged-cpu.github.io/registry/c/barrington-early-learning-center-barrington-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: preschool barrington township il | category: Education & childcare | industry benchmark: Education & Instruction

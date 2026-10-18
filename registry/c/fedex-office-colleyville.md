@@ -13,7 +13,7 @@ FedEx Office is a printing service in Colleyville, TX at 5615 Colleyville Boulev
 - Website: https://local.fedex.com/en-us/tx/colleyville/office-1580/?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00; Sa 10:00-18:00
-- Registry Score: 52.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.7/100 — Fair — top 23% of printing services in Dallas–Fort Worth, #1 of 2 printing services in Colleyville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.2, Trust 66.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

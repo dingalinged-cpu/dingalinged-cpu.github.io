@@ -13,7 +13,7 @@ James E. Kincade, P.C. is a lawyer in Richmond, TX at 302 Jackson Street, Richmo
 - Website: https://www.jameskincade.org/
 - Email: james_kincade@yahoo.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59/100 — Unrated (not enough evidence yet) — top 48% of lawyers in Houston, #2 of 7 lawyers in Richmond (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.1, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

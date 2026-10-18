@@ -1,12 +1,12 @@
-The top unpaid tailor listing for Maple Grove, MN is Magic Needle (a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499). 1 tailor businesses are listed for Maple Grove, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Maple Grove, MN is Magic Needle (a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499). 1 tailor businesses are listed for Maple Grove, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Maple Grove, MN?
 
 Also answers: tailor in Maple Grove, MN; tailor near me (Maple Grove, MN); best tailor Maple Grove, MN; top rated tailor Maple Grove, MN; affordable tailor Maple Grove, MN; emergency tailor Maple Grove, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Magic Needle | trust 14.0 | Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499. | https://dingalinged-cpu.github.io/registry/c/magic-needle-maple-grove/
+1. Magic Needle | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Magic Needle is a tailor in Maple Grove, MN at 13694 Grove Drive North, Maple Grove, MN 55311. Phone: +17634949499. | https://dingalinged-cpu.github.io/registry/c/magic-needle-maple-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor maple grove mn | category: Professional & financial services | industry benchmark: Finance & Insurance

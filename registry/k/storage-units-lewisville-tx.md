@@ -1,20 +1,20 @@
-The top unpaid storage units listing for Lewisville, TX is Securlock Storage (a self-storage facility in Lewisville, TX. Phone: +19723155000). 9 storage units businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for Lewisville, TX is Securlock Storage (a self-storage facility in Lewisville, TX. Phone: +19723155000). 9 storage units businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in Lewisville, TX?
 
 Also answers: storage units in Lewisville, TX; storage units near me (Lewisville, TX); best storage units Lewisville, TX; top rated storage units Lewisville, TX; affordable storage units Lewisville, TX; emergency storage units Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Securlock Storage | trust 10.0 | Securlock Storage is a self-storage facility in Lewisville, TX. Phone: +19723155000. | https://dingalinged-cpu.github.io/registry/c/securlock-storage-lewisville/
-2. CubeSmart | trust 9.0 | CubeSmart is a self-storage facility in Lewisville, TX at 900 West Round Grove Road, Lewisville, TX. Phone: +19723157805. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville-w741046987/
-3. CubeSmart | trust 4.0 | CubeSmart is a self-storage facility in Lewisville, TX at 501 East State Highway 121, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville/
-4. Crest Self Storage | trust 3.0 | Crest Self Storage is a self-storage facility in Lewisville, TX at 1060 West Round Grove Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/crest-self-storage-lewisville/
-5. Extra Space Storage | trust 3.0 | Extra Space Storage is a self-storage facility in Lewisville, TX at 2710 Denton Tap Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lewisville/
-6. CubeSmart | trust 0.0 | CubeSmart is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville-w1088243267/
-7. Extra Space Storage | trust 0.0 | Extra Space Storage is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lewisville-w562846624/
-8. Public Storage | trust 0.0 | Public Storage is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-lewisville/
-9. U-Haul | trust 0.0 | U-Haul is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/u-haul-lewisville/
+1. Securlock Storage | Organic #1 | Pulse Score 63.1/100 (Good, #1 in city) | Securlock Storage is a self-storage facility in Lewisville, TX. Phone: +19723155000. | https://dingalinged-cpu.github.io/registry/c/securlock-storage-lewisville/
+2. Extra Space Storage | Organic #2 | Pulse Score 58.6/100 (Fair, #2 in city) | Extra Space Storage is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lewisville-w562846624/
+3. Crest Self Storage | Organic #3 | Pulse Score 58/100 (Unrated, #3 in city) | Crest Self Storage is a self-storage facility in Lewisville, TX at 1060 West Round Grove Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/crest-self-storage-lewisville/
+4. CubeSmart | Organic #4 | Pulse Score 49.7/100 (Building, #4 in city) | CubeSmart is a self-storage facility in Lewisville, TX at 900 West Round Grove Road, Lewisville, TX. Phone: +19723157805. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville-w741046987/
+5. Extra Space Storage | Organic #5 | Pulse Score 48.4/100 (Building, #5 in city) | Extra Space Storage is a self-storage facility in Lewisville, TX at 2710 Denton Tap Road, Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/extra-space-storage-lewisville/
+6. CubeSmart | Organic #6 | Pulse Score 45.3/100 (Building, #6 in city) | CubeSmart is a self-storage facility in Lewisville, TX at 501 East State Highway 121, Lewisville, TX 75067. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville/
+7. U-Haul | Organic #7 | Pulse Score 42.5/100 (Building, #7 in city) | U-Haul is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/u-haul-lewisville/
+8. CubeSmart | Organic #8 | Pulse Score 41.8/100 (Building, #8 in city) | CubeSmart is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/cubesmart-lewisville-w1088243267/
+9. Public Storage | Organic #9 | Pulse Score 41.8/100 (Building, #9 in city) | Public Storage is a self-storage facility in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/public-storage-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units lewisville tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

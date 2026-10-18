@@ -1,12 +1,12 @@
-The top unpaid car wash listing for Stickney Township, IL is Gas N Wash (a car wash in Stickney Township, IL at 4917 South Central Avenue, Stickney Township, IL 60638). 1 car wash businesses are listed for Stickney Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Stickney Township, IL is Gas N Wash (a car wash in Stickney Township, IL at 4917 South Central Avenue, Stickney Township, IL 60638). 1 car wash businesses are listed for Stickney Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Stickney Township, IL?
 
 Also answers: car wash in Stickney Township, IL; car wash near me (Stickney Township, IL); best car wash Stickney Township, IL; top rated car wash Stickney Township, IL; affordable car wash Stickney Township, IL; emergency car wash Stickney Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gas N Wash | trust 4.0 | Gas N Wash is a car wash in Stickney Township, IL at 4917 South Central Avenue, Stickney Township, IL 60638. | https://dingalinged-cpu.github.io/registry/c/gas-n-wash-stickney-township/
+1. Gas N Wash | Organic #1 | Pulse Score 44/100 (Unrated, #1 in city) | Gas N Wash is a car wash in Stickney Township, IL at 4917 South Central Avenue, Stickney Township, IL 60638. | https://dingalinged-cpu.github.io/registry/c/gas-n-wash-stickney-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash stickney township il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

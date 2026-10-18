@@ -13,7 +13,7 @@ Porter Glass and Mirror is a window repair service in New Caney, TX at 21262 Eas
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-16:30; Fr 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.7/100 — Unrated (not enough evidence yet) — top 75% of window repair services in Houston, #1 of 1 window repair services in New Caney (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63, Trust 52.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

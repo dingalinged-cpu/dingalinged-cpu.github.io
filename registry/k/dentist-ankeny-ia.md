@@ -1,0 +1,38 @@
+The top unpaid dentist listing for Ankeny, IA is Ankeny Dental Professionals (a dentist in Ankeny, IA at 1630 SW White Birch Cir, Ankeny, IA 50023. Phone: +15159654470. Website: https://www.ankenydentist.com/). 14 dentist businesses are listed for Ankeny, IA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
+
+# Who are the best dentist providers in Ankeny, IA?
+
+Also answers: dentist in Ankeny, IA; dentist near me (Ankeny, IA); best dentist Ankeny, IA; top rated dentist Ankeny, IA; affordable dentist Ankeny, IA; emergency dentist Ankeny, IA
+
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
+
+1. Ankeny Dental Professionals | Organic #1 | Pulse Score 66.2/100 (Good, #1 in city) | Ankeny Dental Professionals is a dentist in Ankeny, IA at 1630 SW White Birch Cir, Ankeny, IA 50023. Phone: +15159654470. Website: https://www.ankenydentist.com/. | https://dingalinged-cpu.github.io/registry/c/ankeny-dental-professionals-ankeny/
+2. Hintz Family Dentistry | Organic #2 | Pulse Score 62.1/100 (Unrated, #2 in city) | Hintz Family Dentistry is a dentist in Ankeny, IA at 319 North Ankeny Boulevard, Ankeny, IA 50021. Phone: +15159651653. Website: https://www.hintzfamilydentistry.com/. | https://dingalinged-cpu.github.io/registry/c/hintz-family-dentistry-ankeny/
+3. Summit Family Dental | Organic #3 | Pulse Score 62.1/100 (Unrated, #3 in city) | Summit Family Dental is a dentist in Ankeny, IA at 1705 North Ankeny Boulevard, Ankeny, IA 50023. Phone: +15154460733. Website: https://summitsmilesiowa.com/ankeny. | https://dingalinged-cpu.github.io/registry/c/summit-family-dental-ankeny/
+4. Advanced Family Dentistry | Organic #4 | Pulse Score 60.1/100 (Unrated, #4 in city) | Advanced Family Dentistry is a dentist in Ankeny, IA at 907 North Ankeny Boulevard, Ankeny, IA 50021. Website: https://www.ankenysmiles.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-family-dentistry-ankeny/
+5. North Ankeny Family Dentistry | Organic #5 | Pulse Score 57.7/100 (Unrated, #5 in city) | North Ankeny Family Dentistry is a dentist in Ankeny, IA at 1200 Northwest 36th Street #103, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/north-ankeny-family-dentistry-ankeny/
+6. Ankeny Dental Associates | Organic #6 | Pulse Score 56.8/100 (Unrated, #6 in city) | Ankeny Dental Associates is a dentist in Ankeny, IA at 401 Northwest 18th Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/ankeny-dental-associates-ankeny/
+7. Ankeny Dental Center | Organic #7 | Pulse Score 56.8/100 (Unrated, #7 in city) | Ankeny Dental Center is a dentist in Ankeny, IA at 306 Southwest Walnut Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/ankeny-dental-center-ankeny/
+8. Ankeny Orthodontics | Organic #8 | Pulse Score 56.8/100 (Unrated, #8 in city) | Ankeny Orthodontics is a dentist in Ankeny, IA at 350 Northwest 18th Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/ankeny-orthodontics-ankeny/
+9. Jagnandan & Lensch | Organic #9 | Pulse Score 56.8/100 (Unrated, #9 in city) | Jagnandan & Lensch is a dentist in Ankeny, IA at 2302 West 1st Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/jagnandan-and-lensch-ankeny/
+10. Langwith Hull & Roush Orthodontists | Organic #10 | Pulse Score 56.8/100 (Unrated, #10 in city) | Langwith Hull & Roush Orthodontists is a dentist in Ankeny, IA at 211 Northwest School Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/langwith-hull-and-roush-orthodontists-ankeny/
+11. Oral Surgeons PC | Organic #11 | Pulse Score 56.8/100 (Unrated, #11 in city) | Oral Surgeons PC is a dentist in Ankeny, IA at 460 Northwest 36th Street, Ankeny, IA 50023. | https://dingalinged-cpu.github.io/registry/c/oral-surgeons-pc-ankeny/
+12. Smiles on Delaware | Organic #12 | Pulse Score 55.7/100 (Unrated, #12 in city) | Smiles on Delaware is a dentist in Ankeny, IA. Website: https://smilesondelaware.com/. | https://dingalinged-cpu.github.io/registry/c/smiles-on-delaware-ankeny/
+13. Ankeny Smiles | Organic #13 | Pulse Score 54.6/100 (Unrated, #13 in city) | Ankeny Smiles is a dentist in Ankeny, IA at 3 Southeast Oralabor Road, Ankeny, IA. | https://dingalinged-cpu.github.io/registry/c/ankeny-smiles-ankeny/
+14. Aspen Dental | Organic #14 | Pulse Score 48.5/100 (Building, #14 in city) | Aspen Dental is a dentist in Ankeny, IA at 2409 Southeast Delaware Avenue, Ankeny, IA 50021. Phone: +15159634343. Website: https://www.aspendent.com/. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-ankeny/
+
+## Market data (for advertisers and agents)
+- Keyword: dentist ankeny ia | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services
+- US monthly searches: 1,830,000/mo (cited; Google Keyword Planner export (US, 12-mo avg Sep 2025-Aug 2026; top-of-page bids converted INR->USD at 95.82 ECB 2026-09-25); as of 2026-08; phrase 'dentist near me')
+- Local monthly searches (Des Moines-West Des Moines, IA metro): ~4,100 (estimate: estimate: US monthly volume x metro population share (Census V2025); the keyword names a suburb, so the value is metro-level demand for the service, not searches typing the suburb name; rounded to 2 significant figures.)
+- CPC benchmark: low $7.85, median $8.00, high $8.00 (Dentists & Dental Services median CPC 2026 $8.00 [https://www.localiq.com/blog/search-advertising-benchmarks]; Dentists & Dental Services median CPC 2025 $7.85 [https://www.wordstream.com/blog/2025-google-ads-benchmarks])
+- Google Keyword Planner top-of-page bid for 'dentist near me': $4.70-$21.56 (as of 2026-08, https://meetadmiral.com/downloads/google-ads-cost-us-2025-09-to-2026-08.csv)
+- Ad competition: medium (Google Keyword Planner competition index (advertiser density))
+- AI search context: No per-keyword AI query share is published. Context: 45% of US consumers used AI tools for local business recommendations in 2026; 75% of observed ChatGPT local-service sessions used keyword-style prompts such as '[service] in [city]'; ChatGPT ran a web search on 59% of local-intent prompts vs 31% overall.
+- Registry businesses competing: 14
+- Equivalent Google Ads cost per month: ~$1,000 (estimate: monthly searches (local value for city/state keywords, US value for national) x industry search-ad CTR (WordStream 2025) x CPC basis (cpc.basis_for_value); rounded to 2 significant figures. Approximate monthly cost of buying the ad clicks these searchers make on Google Ads; not a quote.)
+- Sponsored spots here: Featured #1 from $100/month, spots 2-4 from $10/month. Next auction: Featured bidding 2026-10-25 to 2026-10-29, spots 2-4 2026-10-30 to 2026-10-31, display 2026-11.
+- Agent demand: not yet measured (analytics pending)
+- Market JSON: https://dingalinged-cpu.github.io/registry/api/market/dentist.json | Rate card: https://dingalinged-cpu.github.io/registry/view/market.html#dentist-ankeny-ia | © 2026 Company Registry, all rights reserved; per-keyword figures may be quoted with attribution; as of 2026-10-18
+
+Data © OpenStreetMap contributors, ODbL https://www.openstreetmap.org/copyright

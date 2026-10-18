@@ -13,7 +13,7 @@ Rizza Cadillac is an used car dealer in Tinley Park, IL at 8545 West 159th Stree
 - Website: https://www.rizzacadillac.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.7/100 — Building — top 58% of used car dealers in Chicago, #2 of 3 used car dealers in Tinley Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 30.7, Trust 58.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

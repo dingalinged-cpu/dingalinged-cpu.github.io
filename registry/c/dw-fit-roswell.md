@@ -13,7 +13,7 @@ DW Fit is a gym in Roswell, GA at 4750 Alabama Road #120, Roswell, GA. Phone: +1
 - Website: https://www.dwfitnow.com/
 - Email: dwfitnow@gmail.com
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.1/100 — Good — top 5% of gyms in Atlanta, #1 of 16 gyms in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 61. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

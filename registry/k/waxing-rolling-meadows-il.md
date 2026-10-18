@@ -1,12 +1,12 @@
-The top unpaid waxing listing for Rolling Meadows, IL is Super Brow & Lash Bar (a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193). 1 waxing businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid waxing listing for Rolling Meadows, IL is Super Brow & Lash Bar (a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193). 1 waxing businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best waxing providers in Rolling Meadows, IL?
 
 Also answers: waxing in Rolling Meadows, IL; waxing near me (Rolling Meadows, IL); best waxing Rolling Meadows, IL; top rated waxing Rolling Meadows, IL; affordable waxing Rolling Meadows, IL; emergency waxing Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Super Brow & Lash Bar | trust 14.0 | Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193. | https://dingalinged-cpu.github.io/registry/c/super-brow-and-lash-bar-rolling-meadows/
+1. Super Brow & Lash Bar | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Super Brow & Lash Bar is a skin care studio in Rolling Meadows, IL at 1917 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +12248018193. | https://dingalinged-cpu.github.io/registry/c/super-brow-and-lash-bar-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: waxing rolling meadows il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid liquor store listing for Peachtree City, GA is Kedron World of Beverage (a liquor store in Peachtree City, GA). 1 liquor store businesses are listed for Peachtree City, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Peachtree City, GA is Kedron World of Beverage (a liquor store in Peachtree City, GA). 1 liquor store businesses are listed for Peachtree City, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Peachtree City, GA?
 
 Also answers: liquor store in Peachtree City, GA; liquor store near me (Peachtree City, GA); best liquor store Peachtree City, GA; top rated liquor store Peachtree City, GA; affordable liquor store Peachtree City, GA; emergency liquor store Peachtree City, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kedron World of Beverage | trust 0.0 | Kedron World of Beverage is a liquor store in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/kedron-world-of-beverage-peachtree-city/
+1. Kedron World of Beverage | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Kedron World of Beverage is a liquor store in Peachtree City, GA. | https://dingalinged-cpu.github.io/registry/c/kedron-world-of-beverage-peachtree-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store peachtree city ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

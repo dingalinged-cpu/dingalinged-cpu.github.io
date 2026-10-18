@@ -1,14 +1,14 @@
-The top unpaid attorney listing for Harris County, TX is The Law Offices of Luis Garcia PLLC (a lawyer in Harris County, TX at 13364 Woodforest Boulevard, Harris County, TX 77015. Phone: +18322128302. Website: https://luisgarcialaw.com/). 3 attorney businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Harris County, TX is The Law Offices of Luis Garcia PLLC (a lawyer in Harris County, TX at 13364 Woodforest Boulevard, Harris County, TX 77015. Phone: +18322128302. Website: https://luisgarcialaw.com/). 3 attorney businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Harris County, TX?
 
 Also answers: attorney in Harris County, TX; attorney near me (Harris County, TX); best attorney Harris County, TX; top rated attorney Harris County, TX; affordable attorney Harris County, TX; emergency attorney Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Law Offices of Luis Garcia PLLC | trust 20.0 | The Law Offices of Luis Garcia PLLC is a lawyer in Harris County, TX at 13364 Woodforest Boulevard, Harris County, TX 77015. Phone: +18322128302. Website: https://luisgarcialaw.com/. | https://dingalinged-cpu.github.io/registry/c/the-law-offices-of-luis-garcia-pllc-harris-county/
-2. Core Personnel Staffing Services | trust 0.0 | Core Personnel Staffing Services is a lawyer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/core-personnel-staffing-services-harris-county/
-3. Soliz Law Firm | trust 0.0 | Soliz Law Firm is a lawyer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/soliz-law-firm-harris-county/
+1. The Law Offices of Luis Garcia PLLC | Organic #1 | Pulse Score 59.5/100 (Unrated, #1 in city) | The Law Offices of Luis Garcia PLLC is a lawyer in Harris County, TX at 13364 Woodforest Boulevard, Harris County, TX 77015. Phone: +18322128302. Website: https://luisgarcialaw.com/. | https://dingalinged-cpu.github.io/registry/c/the-law-offices-of-luis-garcia-pllc-harris-county/
+2. Core Personnel Staffing Services | Organic #2 | Pulse Score 53.6/100 (Unrated, #2 in city) | Core Personnel Staffing Services is a lawyer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/core-personnel-staffing-services-harris-county/
+3. Soliz Law Firm | Organic #3 | Pulse Score 53.6/100 (Unrated, #3 in city) | Soliz Law Firm is a lawyer in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/soliz-law-firm-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney harris county tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

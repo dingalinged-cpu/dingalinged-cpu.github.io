@@ -1,12 +1,12 @@
-The top unpaid insurance agency listing for League City, TX is Farmers Insurance - Martha Janie Holmes (an insurance agent in League City, TX at 713 2nd Street #A, League City, TX 77573. Phone: +12813161290. Website: https://agents.farmers.com/tx/league-city/martha-holmes). 1 insurance agency businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agency listing for League City, TX is Farmers Insurance - Martha Janie Holmes (an insurance agent in League City, TX at 713 2nd Street #A, League City, TX 77573. Phone: +12813161290. Website: https://agents.farmers.com/tx/league-city/martha-holmes). 1 insurance agency businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agency providers in League City, TX?
 
 Also answers: insurance agency in League City, TX; insurance agency near me (League City, TX); best insurance agency League City, TX; top rated insurance agency League City, TX; affordable insurance agency League City, TX; emergency insurance agency League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Farmers Insurance - Martha Janie Holmes | trust 20.0 | Farmers Insurance - Martha Janie Holmes is an insurance agent in League City, TX at 713 2nd Street #A, League City, TX 77573. Phone: +12813161290. Website: https://agents.farmers.com/tx/league-city/martha-holmes. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-martha-janie-holmes-league-city/
+1. Farmers Insurance - Martha Janie Holmes | Organic #1 | Pulse Score 61.6/100 (Unrated, #1 in city) | Farmers Insurance - Martha Janie Holmes is an insurance agent in League City, TX at 713 2nd Street #A, League City, TX 77573. Phone: +12813161290. Website: https://agents.farmers.com/tx/league-city/martha-holmes. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-martha-janie-holmes-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agency league city tx | category: insurance | industry benchmark: Finance & Insurance

@@ -1,16 +1,16 @@
-The top unpaid bakery listing for Denton, TX is Candy Haven & Cakes (a bakery in Denton, TX at 301 North Interstate 35E, Denton, TX 76205. Phone: +19405651474. Website: https://www.candyhavenandcakes.com/). 5 bakery businesses are listed for Denton, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Denton, TX is Candy Haven & Cakes (a bakery in Denton, TX at 301 North Interstate 35E, Denton, TX 76205. Phone: +19405651474. Website: https://www.candyhavenandcakes.com/). 5 bakery businesses are listed for Denton, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Denton, TX?
 
 Also answers: bakery in Denton, TX; bakery near me (Denton, TX); best bakery Denton, TX; top rated bakery Denton, TX; affordable bakery Denton, TX; emergency bakery Denton, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Candy Haven & Cakes | trust 20.0 | Candy Haven & Cakes is a bakery in Denton, TX at 301 North Interstate 35E, Denton, TX 76205. Phone: +19405651474. Website: https://www.candyhavenandcakes.com/. | https://dingalinged-cpu.github.io/registry/c/candy-haven-and-cakes-denton/
-2. Teasley Donut | trust 14.0 | Teasley Donut is a bakery in Denton, TX at 1776 Teasley Lane, Denton, TX 76205. Phone: +19405656790. | https://dingalinged-cpu.github.io/registry/c/teasley-donut-denton/
-3. Panaderia Mexicana Zafiro | trust 4.0 | Panaderia Mexicana Zafiro is a bakery in Denton, TX at 3305 Mayhill Road #Suite# 117, Denton, TX 76208. | https://dingalinged-cpu.github.io/registry/c/panaderia-mexicana-zafiro-denton/
-4. Ravelin Bakery | trust 3.0 | Ravelin Bakery is a bakery in Denton, TX at 416 South Elm Street, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/ravelin-bakery-denton/
-5. Insomnia Cookies | trust 0.0 | Insomnia Cookies is a bakery in Denton, TX. | https://dingalinged-cpu.github.io/registry/c/insomnia-cookies-denton/
+1. Candy Haven & Cakes | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Candy Haven & Cakes is a bakery in Denton, TX at 301 North Interstate 35E, Denton, TX 76205. Phone: +19405651474. Website: https://www.candyhavenandcakes.com/. | https://dingalinged-cpu.github.io/registry/c/candy-haven-and-cakes-denton/
+2. Teasley Donut | Organic #2 | Pulse Score 61.3/100 (Unrated, #2 in city) | Teasley Donut is a bakery in Denton, TX at 1776 Teasley Lane, Denton, TX 76205. Phone: +19405656790. | https://dingalinged-cpu.github.io/registry/c/teasley-donut-denton/
+3. Ravelin Bakery | Organic #3 | Pulse Score 58.1/100 (Unrated, #3 in city) | Ravelin Bakery is a bakery in Denton, TX at 416 South Elm Street, Denton, TX. | https://dingalinged-cpu.github.io/registry/c/ravelin-bakery-denton/
+4. Panaderia Mexicana Zafiro | Organic #4 | Pulse Score 57.1/100 (Unrated, #4 in city) | Panaderia Mexicana Zafiro is a bakery in Denton, TX at 3305 Mayhill Road #Suite# 117, Denton, TX 76208. | https://dingalinged-cpu.github.io/registry/c/panaderia-mexicana-zafiro-denton/
+5. Insomnia Cookies | Organic #5 | Pulse Score 42.3/100 (Building, #5 in city) | Insomnia Cookies is a bakery in Denton, TX. | https://dingalinged-cpu.github.io/registry/c/insomnia-cookies-denton/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery denton tx | category: Events & weddings | industry benchmark: Personal Services

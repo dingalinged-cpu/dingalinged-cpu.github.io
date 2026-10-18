@@ -13,7 +13,7 @@ Farmer Brown Insurance is an insurance agent in Atlanta, GA at 730 Peachtree St 
 - Website: https://www.farmerbrown.com/
 - Email: info@farmerbrown.com
 - Opening hours (OSM syntax): Mon to Friday : 8am to 7pm, Saturday : 8am to 6:30pm
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.2/100 — Building — top 50% of insurance agents in Atlanta, #8 of 14 insurance agents in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.4, Trust 62.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

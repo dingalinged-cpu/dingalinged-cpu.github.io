@@ -1,12 +1,12 @@
-The top unpaid printing services listing for Chicago Heights, IL is FedEx Office (a printing service in Chicago Heights, IL at 20921 Western Avenue, Chicago Heights, IL 60411). 1 printing services businesses are listed for Chicago Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Chicago Heights, IL is FedEx Office (a printing service in Chicago Heights, IL at 20921 Western Avenue, Chicago Heights, IL 60411). 1 printing services businesses are listed for Chicago Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Chicago Heights, IL?
 
 Also answers: printing services in Chicago Heights, IL; printing services near me (Chicago Heights, IL); best printing services Chicago Heights, IL; top rated printing services Chicago Heights, IL; affordable printing services Chicago Heights, IL; emergency printing services Chicago Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. FedEx Office | trust 4.0 | FedEx Office is a printing service in Chicago Heights, IL at 20921 Western Avenue, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/fedex-office-chicago-heights/
+1. FedEx Office | Organic #1 | Pulse Score 43.3/100 (Building, #1 in city) | FedEx Office is a printing service in Chicago Heights, IL at 20921 Western Avenue, Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/fedex-office-chicago-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services chicago heights il | category: Professional & financial services | industry benchmark: Finance & Insurance

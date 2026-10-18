@@ -13,7 +13,7 @@ Adler Comprehensive Chiropractic is a chiropractor in Roswell, GA at 1875 Old Al
 - Website: https://adlerchiro.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 09:00-13:00, 15:00-18:30, Tu 15:00-18:30, We 09:00-13:00, 15:00-18:30, Th 15:00-18:30, Fr 09:00-13:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.7/100 — Unrated (not enough evidence yet) — top 30% of chiropractors in Atlanta, #2 of 9 chiropractors in Roswell (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 62.2, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Wauconda, IL is New Life Resale (a thrift store in Wauconda, IL at 616 West Liberty Street #B, Wauconda, IL 60084). 1 thrift store businesses are listed for Wauconda, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Wauconda, IL is New Life Resale (a thrift store in Wauconda, IL at 616 West Liberty Street #B, Wauconda, IL 60084). 1 thrift store businesses are listed for Wauconda, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Wauconda, IL?
 
 Also answers: thrift store in Wauconda, IL; thrift store near me (Wauconda, IL); best thrift store Wauconda, IL; top rated thrift store Wauconda, IL; affordable thrift store Wauconda, IL; emergency thrift store Wauconda, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. New Life Resale | trust 8.0 | New Life Resale is a thrift store in Wauconda, IL at 616 West Liberty Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/new-life-resale-wauconda/
+1. New Life Resale | Organic #1 | Pulse Score 58.9/100 (Unrated, #1 in city) | New Life Resale is a thrift store in Wauconda, IL at 616 West Liberty Street #B, Wauconda, IL 60084. | https://dingalinged-cpu.github.io/registry/c/new-life-resale-wauconda/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store wauconda il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

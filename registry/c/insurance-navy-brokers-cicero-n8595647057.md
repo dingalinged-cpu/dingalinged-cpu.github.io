@@ -13,7 +13,7 @@ Insurance Navy Brokers is an insurance agent in Cicero, IL at 2201 South Cicero 
 - Website: https://www.insurancenavy.com/locations/il/cicero-2/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 08:00-21:00
-- Registry Score: 51.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.6/100 — Building — top 44% of insurance agents in Chicago, #3 of 4 insurance agents in Cicero (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.7, Trust 60.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

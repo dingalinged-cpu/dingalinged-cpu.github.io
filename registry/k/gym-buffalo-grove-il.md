@@ -1,16 +1,16 @@
-The top unpaid gym listing for Buffalo Grove, IL is Buffalo Grove Fitness Center (a gym in Buffalo Grove, IL). 5 gym businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Buffalo Grove, IL is Buffalo Grove Fitness Center (a gym in Buffalo Grove, IL). 5 gym businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Buffalo Grove, IL?
 
 Also answers: gym in Buffalo Grove, IL; gym near me (Buffalo Grove, IL); best gym Buffalo Grove, IL; top rated gym Buffalo Grove, IL; affordable gym Buffalo Grove, IL; emergency gym Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Buffalo Grove Fitness Center | trust 0.0 | Buffalo Grove Fitness Center is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/buffalo-grove-fitness-center-buffalo-grove/
-2. Fitness 19 | trust 0.0 | Fitness 19 is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-buffalo-grove/
-3. Martial Arts | trust 0.0 | Martial Arts is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/martial-arts-buffalo-grove/
-4. Sky Fitness | trust 0.0 | Sky Fitness is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/sky-fitness-buffalo-grove/
-5. Windbrooke Crossing Fitness Center | trust 0.0 | Windbrooke Crossing Fitness Center is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/windbrooke-crossing-fitness-center-buffalo-grove/
+1. Buffalo Grove Fitness Center | Organic #1 | Pulse Score 54.7/100 (Unrated, #1 in city) | Buffalo Grove Fitness Center is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/buffalo-grove-fitness-center-buffalo-grove/
+2. Windbrooke Crossing Fitness Center | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Windbrooke Crossing Fitness Center is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/windbrooke-crossing-fitness-center-buffalo-grove/
+3. Sky Fitness | Organic #3 | Pulse Score 53.9/100 (Unrated, #3 in city) | Sky Fitness is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/sky-fitness-buffalo-grove/
+4. Fitness 19 | Organic #4 | Pulse Score 41.3/100 (Building, #4 in city) | Fitness 19 is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/fitness-19-buffalo-grove/
+5. Martial Arts | Organic #5 | Pulse Score 41.1/100 (Unrated, #5 in city) | Martial Arts is a gym in Buffalo Grove, IL. | https://dingalinged-cpu.github.io/registry/c/martial-arts-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym buffalo grove il | category: Fitness | industry benchmark: Health & Fitness

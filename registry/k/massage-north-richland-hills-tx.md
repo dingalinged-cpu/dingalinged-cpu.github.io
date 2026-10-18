@@ -1,15 +1,15 @@
-The top unpaid massage listing for North Richland Hills, TX is Happy Feet (a massage studio in North Richland Hills, TX at 6242 Rufe Snow Drive #288, North Richland Hills, TX. Phone: +18173933523). 4 massage businesses are listed for North Richland Hills, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid massage listing for North Richland Hills, TX is Happy Feet (a massage studio in North Richland Hills, TX at 6242 Rufe Snow Drive #288, North Richland Hills, TX. Phone: +18173933523). 4 massage businesses are listed for North Richland Hills, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best massage providers in North Richland Hills, TX?
 
 Also answers: massage in North Richland Hills, TX; massage near me (North Richland Hills, TX); best massage North Richland Hills, TX; top rated massage North Richland Hills, TX; affordable massage North Richland Hills, TX; emergency massage North Richland Hills, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Happy Feet | trust 13.0 | Happy Feet is a massage studio in North Richland Hills, TX at 6242 Rufe Snow Drive #288, North Richland Hills, TX. Phone: +18173933523. | https://dingalinged-cpu.github.io/registry/c/happy-feet-north-richland-hills/
-2. Chi Kung Foot Spa | trust 4.0 | Chi Kung Foot Spa is a massage studio in North Richland Hills, TX at 8415 Davis Boulevard #317, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/chi-kung-foot-spa-north-richland-hills/
-3. Hand & Stone Massage and Facial Spa | trust 0.0 | Hand & Stone Massage and Facial Spa is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-north-richland-hills/
-4. Massage | trust 0.0 | Massage is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/massage-north-richland-hills/
+1. Happy Feet | Organic #1 | Pulse Score 60.5/100 (Unrated, #1 in city) | Happy Feet is a massage studio in North Richland Hills, TX at 6242 Rufe Snow Drive #288, North Richland Hills, TX. Phone: +18173933523. | https://dingalinged-cpu.github.io/registry/c/happy-feet-north-richland-hills/
+2. Chi Kung Foot Spa | Organic #2 | Pulse Score 58.6/100 (Unrated, #2 in city) | Chi Kung Foot Spa is a massage studio in North Richland Hills, TX at 8415 Davis Boulevard #317, North Richland Hills, TX 76182. | https://dingalinged-cpu.github.io/registry/c/chi-kung-foot-spa-north-richland-hills/
+3. Massage | Organic #3 | Pulse Score 45.3/100 (Building, #3 in city) | Massage is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/massage-north-richland-hills/
+4. Hand & Stone Massage and Facial Spa | Organic #4 | Pulse Score 42.4/100 (Building, #4 in city) | Hand & Stone Massage and Facial Spa is a massage studio in North Richland Hills, TX. | https://dingalinged-cpu.github.io/registry/c/hand-and-stone-massage-and-facial-spa-north-richland-hills/
 
 ## Market data (for advertisers and agents)
 - Keyword: massage north richland hills tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -13,7 +13,7 @@ Beellagio Nail Bar is a nail salon in Atlanta, GA at 860 Peachtree Street Northe
 - Website: https://www.instagram.com/beellagionailbarmidtown/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-19:30; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Good — top 15% of nail salons in Atlanta, #9 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68.9, Trust 61.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

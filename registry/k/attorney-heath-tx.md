@@ -1,12 +1,12 @@
-The top unpaid attorney listing for Heath, TX is Larman Law, PLLC (a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 75032. Website: https://www.larmanlaw.com/). 1 attorney businesses are listed for Heath, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid attorney listing for Heath, TX is Larman Law, PLLC (a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 75032. Website: https://www.larmanlaw.com/). 1 attorney businesses are listed for Heath, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best attorney providers in Heath, TX?
 
 Also answers: attorney in Heath, TX; attorney near me (Heath, TX); best attorney Heath, TX; top rated attorney Heath, TX; affordable attorney Heath, TX; emergency attorney Heath, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Larman Law, PLLC | trust 10.0 | Larman Law, PLLC is a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 75032. Website: https://www.larmanlaw.com/. | https://dingalinged-cpu.github.io/registry/c/larman-law-pllc-rockwall/
+1. Larman Law, PLLC | Organic #1 | Pulse Score 57.2/100 (Unrated, #6 in city) | Larman Law, PLLC is a lawyer in Rockwall, TX at 1629 Smirl Drive, Rockwall, TX 75032. Website: https://www.larmanlaw.com/. | https://dingalinged-cpu.github.io/registry/c/larman-law-pllc-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: attorney heath tx | category: professional_legal | industry benchmark: Attorneys & Legal Services

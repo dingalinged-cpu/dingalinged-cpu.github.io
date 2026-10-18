@@ -1,12 +1,12 @@
-The top unpaid lawyer listing for Orland Park, IL is Reidy Law Office LLC (a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/). 1 lawyer businesses are listed for Orland Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid lawyer listing for Orland Park, IL is Reidy Law Office LLC (a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/). 1 lawyer businesses are listed for Orland Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best lawyer providers in Orland Park, IL?
 
 Also answers: lawyer in Orland Park, IL; lawyer near me (Orland Park, IL); best lawyer Orland Park, IL; top rated lawyer Orland Park, IL; affordable lawyer Orland Park, IL; emergency lawyer Orland Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reidy Law Office LLC | trust 16.0 | Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/reidy-law-office-llc-orland-park/
+1. Reidy Law Office LLC | Organic #1 | Pulse Score 57.5/100 (Unrated, #1 in city) | Reidy Law Office LLC is a lawyer in Orland Park, IL at 11528 W. 183rd Place #Suite NW, Orland Park, IL 60467. Phone: +17085806767. Website: https://reidylawoffice.com/. | https://dingalinged-cpu.github.io/registry/c/reidy-law-office-llc-orland-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: lawyer orland park il | category: Legal | industry benchmark: Attorneys & Legal Services

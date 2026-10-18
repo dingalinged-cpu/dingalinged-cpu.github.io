@@ -1,12 +1,12 @@
-The top unpaid furniture store listing for Wilmette, IL is Wayfair Edens Plaza (a furniture store in Wilmette, IL at 3232 Lake Avenue #1, Wilmette, IL 60091. Website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html). 1 furniture store businesses are listed for Wilmette, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Wilmette, IL is Wayfair Edens Plaza (a furniture store in Wilmette, IL at 3232 Lake Avenue #1, Wilmette, IL 60091. Website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html). 1 furniture store businesses are listed for Wilmette, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Wilmette, IL?
 
 Also answers: furniture store in Wilmette, IL; furniture store near me (Wilmette, IL); best furniture store Wilmette, IL; top rated furniture store Wilmette, IL; affordable furniture store Wilmette, IL; emergency furniture store Wilmette, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wayfair Edens Plaza | trust 10.0 | Wayfair Edens Plaza is a furniture store in Wilmette, IL at 3232 Lake Avenue #1, Wilmette, IL 60091. Website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html. | https://dingalinged-cpu.github.io/registry/c/wayfair-edens-plaza-wilmette/
+1. Wayfair Edens Plaza | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Wayfair Edens Plaza is a furniture store in Wilmette, IL at 3232 Lake Avenue #1, Wilmette, IL 60091. Website: https://www.wayfair.com/edens-plaza-wilmette-illinois~b636.html. | https://dingalinged-cpu.github.io/registry/c/wayfair-edens-plaza-wilmette/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store wilmette il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

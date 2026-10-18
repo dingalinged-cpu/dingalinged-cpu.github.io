@@ -1,12 +1,12 @@
-The top unpaid acupuncture listing for Glendale, WI is Acupuncture & Holistic Health Associates (an acupuncture clinic in Glendale, WI at 500 West Silver Spring Drive #Suite K-205, Glendale, WI 53217. Phone: +14143328888. Website: https://holisticacupuncture.net/). 1 acupuncture businesses are listed for Glendale, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid acupuncture listing for Glendale, WI is Acupuncture & Holistic Health Associates (an acupuncture clinic in Glendale, WI at 500 West Silver Spring Drive #Suite K-205, Glendale, WI 53217. Phone: +14143328888. Website: https://holisticacupuncture.net/). 1 acupuncture businesses are listed for Glendale, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best acupuncture providers in Glendale, WI?
 
 Also answers: acupuncture in Glendale, WI; acupuncture near me (Glendale, WI); best acupuncture Glendale, WI; top rated acupuncture Glendale, WI; affordable acupuncture Glendale, WI; emergency acupuncture Glendale, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Acupuncture & Holistic Health Associates | trust 16.0 | Acupuncture & Holistic Health Associates is an acupuncture clinic in Glendale, WI at 500 West Silver Spring Drive #Suite K-205, Glendale, WI 53217. Phone: +14143328888. Website: https://holisticacupuncture.net/. | https://dingalinged-cpu.github.io/registry/c/acupuncture-and-holistic-health-associates-glendale/
+1. Acupuncture & Holistic Health Associates | Organic #1 | Pulse Score 60.7/100 (Unrated, #1 in city) | Acupuncture & Holistic Health Associates is an acupuncture clinic in Glendale, WI at 500 West Silver Spring Drive #Suite K-205, Glendale, WI 53217. Phone: +14143328888. Website: https://holisticacupuncture.net/. | https://dingalinged-cpu.github.io/registry/c/acupuncture-and-holistic-health-associates-glendale/
 
 ## Market data (for advertisers and agents)
 - Keyword: acupuncture glendale wi | category: Health & medical | industry benchmark: Physicians & Surgeons

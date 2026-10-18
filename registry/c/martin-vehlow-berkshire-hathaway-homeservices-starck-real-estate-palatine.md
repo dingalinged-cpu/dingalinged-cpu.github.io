@@ -13,7 +13,7 @@ Martin Vehlow - Berkshire Hathaway HomeServices Starck Real Estate is a real est
 - Website: https://lakecountyhomesales.com/
 - Email: info@lakecountyhomesales.com
 - Opening hours (OSM syntax): Mo-Th 08:00-20:00; Fr-Sa 08:00-17:00; Su 13:00-17:00
-- Registry Score: 53.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.1/100 — Building — top 94% of real estate agencys in Chicago, #2 of 2 real estate agencys in Palatine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.6, Trust 66.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

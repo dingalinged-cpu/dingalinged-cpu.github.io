@@ -1,13 +1,13 @@
-The top unpaid gym listing for Mansfield, TX is Life Time (a gym in Mansfield, TX at 1551 East Debbie Lane, Mansfield, TX 76063. Phone: +16825187766. Website: https://www.lifetime.life/life-time-locations/tx-mansfield.html). 2 gym businesses are listed for Mansfield, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Mansfield, TX is Life Time (a gym in Mansfield, TX at 1551 East Debbie Lane, Mansfield, TX 76063. Phone: +16825187766. Website: https://www.lifetime.life/life-time-locations/tx-mansfield.html). 2 gym businesses are listed for Mansfield, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Mansfield, TX?
 
 Also answers: gym in Mansfield, TX; gym near me (Mansfield, TX); best gym Mansfield, TX; top rated gym Mansfield, TX; affordable gym Mansfield, TX; emergency gym Mansfield, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Life Time | trust 20.0 | Life Time is a gym in Mansfield, TX at 1551 East Debbie Lane, Mansfield, TX 76063. Phone: +16825187766. Website: https://www.lifetime.life/life-time-locations/tx-mansfield.html. | https://dingalinged-cpu.github.io/registry/c/life-time-mansfield/
-2. 24 Hour Fitness | trust 10.0 | 24 Hour Fitness is a gym in Mansfield, TX at 980 Hwy N 287, Mansfield, TX 76063. Website: https://local.tomthumb.com/tx/mansfield-1972.html. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-mansfield/
+1. Life Time | Organic #1 | Pulse Score 48.8/100 (Building, #1 in city) | Life Time is a gym in Mansfield, TX at 1551 East Debbie Lane, Mansfield, TX 76063. Phone: +16825187766. Website: https://www.lifetime.life/life-time-locations/tx-mansfield.html. | https://dingalinged-cpu.github.io/registry/c/life-time-mansfield/
+2. 24 Hour Fitness | Organic #2 | Pulse Score 46.6/100 (Building, #2 in city) | 24 Hour Fitness is a gym in Mansfield, TX at 980 Hwy N 287, Mansfield, TX 76063. Website: https://local.tomthumb.com/tx/mansfield-1972.html. | https://dingalinged-cpu.github.io/registry/c/24-hour-fitness-mansfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym mansfield tx | category: Fitness | industry benchmark: Health & Fitness

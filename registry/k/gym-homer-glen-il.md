@@ -1,14 +1,14 @@
-The top unpaid gym listing for Homer Glen, IL is Anytime Fitness (a gym in Homer Glen, IL at 12513 West 159th Street, Homer Glen, IL 60491. Phone: +17083001230. Website: https://www.anytimefitness.com/gyms/3934/homer-glen-il-60491/). 3 gym businesses are listed for Homer Glen, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid gym listing for Homer Glen, IL is MPX Elite Fitness (a gym in Homer Glen, IL at 15301 South Bell Road, Homer Glen, IL 60491). 3 gym businesses are listed for Homer Glen, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best gym providers in Homer Glen, IL?
 
 Also answers: gym in Homer Glen, IL; gym near me (Homer Glen, IL); best gym Homer Glen, IL; top rated gym Homer Glen, IL; affordable gym Homer Glen, IL; emergency gym Homer Glen, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Anytime Fitness | trust 20.0 | Anytime Fitness is a gym in Homer Glen, IL at 12513 West 159th Street, Homer Glen, IL 60491. Phone: +17083001230. Website: https://www.anytimefitness.com/gyms/3934/homer-glen-il-60491/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-homer-glen/
-2. Charter Fitness | trust 4.0 | Charter Fitness is a gym in Homer Glen, IL at 14825 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/charter-fitness-homer-glen/
-3. MPX Elite Fitness | trust 4.0 | MPX Elite Fitness is a gym in Homer Glen, IL at 15301 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/mpx-elite-fitness-homer-glen/
+1. MPX Elite Fitness | Organic #1 | Pulse Score 55.9/100 (Unrated, #1 in city) | MPX Elite Fitness is a gym in Homer Glen, IL at 15301 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/mpx-elite-fitness-homer-glen/
+2. Anytime Fitness | Organic #2 | Pulse Score 51.1/100 (Fair, #2 in city) | Anytime Fitness is a gym in Homer Glen, IL at 12513 West 159th Street, Homer Glen, IL 60491. Phone: +17083001230. Website: https://www.anytimefitness.com/gyms/3934/homer-glen-il-60491/. | https://dingalinged-cpu.github.io/registry/c/anytime-fitness-homer-glen/
+3. Charter Fitness | Organic #3 | Pulse Score 44.2/100 (Unrated, #3 in city) | Charter Fitness is a gym in Homer Glen, IL at 14825 South Bell Road, Homer Glen, IL 60491. | https://dingalinged-cpu.github.io/registry/c/charter-fitness-homer-glen/
 
 ## Market data (for advertisers and agents)
 - Keyword: gym homer glen il | category: Fitness | industry benchmark: Health & Fitness

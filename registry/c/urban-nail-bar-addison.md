@@ -13,7 +13,7 @@ Urban Nail Bar is a nail salon in Addison, TX at 4150 Belt Line Road #105, Addis
 - Website: https://urbannailbaraddison.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 59.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60/100 — Unrated (not enough evidence yet) — top 31% of nail salons in Dallas–Fort Worth, #1 of 9 nail salons in Addison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.3, Trust 55.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

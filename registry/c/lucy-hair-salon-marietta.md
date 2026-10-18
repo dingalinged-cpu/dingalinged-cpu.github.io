@@ -13,7 +13,7 @@ Lucy Hair Salon is a hair salon in Marietta, GA at 2200 Roswell Road #120, Marie
 - Website: n/a
 - Email: lubimkah@yahoo.com
 - Opening hours (OSM syntax): Mo-Th 10:00-21:30; Fr-Sa 10:00-19:00; Su 11:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.2/100 — Good — top 3% of hair salons in Atlanta, #5 of 38 hair salons in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.2, Trust 60.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

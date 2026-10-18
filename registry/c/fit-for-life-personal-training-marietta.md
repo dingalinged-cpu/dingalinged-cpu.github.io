@@ -13,7 +13,7 @@ Fit for Life Personal Training is a gym in Marietta, GA at 255 Village Parkway N
 - Website: https://fitforlifeatlanta.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-20:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.9/100 — Good — top 3% of gyms in Atlanta, #3 of 23 gyms in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.5, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

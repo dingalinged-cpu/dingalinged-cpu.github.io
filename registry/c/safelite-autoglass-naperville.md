@@ -13,7 +13,7 @@ Safelite AutoGlass is an auto repair shop in Naperville, IL at 1580 West Ogden A
 - Website: https://www.safelite.com/stores/naperville
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-17:00; Sa 08:00-16:00; Su off
-- Registry Score: 53.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.1/100 — Fair — top 53% of auto repair shops in Chicago, #25 of 28 auto repair shops in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 64.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Vitality Family Chiropractic is a chiropractor in Marietta, GA at 1255 Johnson F
 - Website: https://www.lifetimeofvitality.com/
 - Email: info@vitalityfamilychiro.com
 - Opening hours (OSM syntax): Mo,We 09:00-12:00,15:00-19:00; Tu 15:00-18:00; Th,Sa-Su off; Fr 08:00-12:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.8/100 — Good — top 7% of chiropractors in Atlanta, #4 of 15 chiropractors in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 59.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

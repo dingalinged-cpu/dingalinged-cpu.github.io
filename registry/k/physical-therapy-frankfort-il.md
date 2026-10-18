@@ -1,12 +1,12 @@
-The top unpaid physical therapy listing for Frankfort, IL is Method Athletics (a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/). 1 physical therapy businesses are listed for Frankfort, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid physical therapy listing for Frankfort, IL is Method Athletics (a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/). 1 physical therapy businesses are listed for Frankfort, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best physical therapy providers in Frankfort, IL?
 
 Also answers: physical therapy in Frankfort, IL; physical therapy near me (Frankfort, IL); best physical therapy Frankfort, IL; top rated physical therapy Frankfort, IL; affordable physical therapy Frankfort, IL; emergency physical therapy Frankfort, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Method Athletics | trust 16.0 | Method Athletics is a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/. | https://dingalinged-cpu.github.io/registry/c/method-athletics-frankfort/
+1. Method Athletics | Organic #1 | Pulse Score 65.3/100 (Good, #1 in city) | Method Athletics is a physical therapy clinic in Frankfort, IL at 706 Center Road, Frankfort, IL 60423. Phone: +18152779049. Website: https://methodathletics.com/. | https://dingalinged-cpu.github.io/registry/c/method-athletics-frankfort/
 
 ## Market data (for advertisers and agents)
 - Keyword: physical therapy frankfort il | category: Health & medical | industry benchmark: Physicians & Surgeons

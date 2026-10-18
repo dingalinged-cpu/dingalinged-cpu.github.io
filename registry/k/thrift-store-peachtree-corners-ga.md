@@ -1,12 +1,12 @@
-The top unpaid thrift store listing for Peachtree Corners, GA is Furkids Thrift Store (a thrift store in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA). 1 thrift store businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for Peachtree Corners, GA is Furkids Thrift Store (a thrift store in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA). 1 thrift store businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in Peachtree Corners, GA?
 
 Also answers: thrift store in Peachtree Corners, GA; thrift store near me (Peachtree Corners, GA); best thrift store Peachtree Corners, GA; top rated thrift store Peachtree Corners, GA; affordable thrift store Peachtree Corners, GA; emergency thrift store Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Furkids Thrift Store | trust 3.0 | Furkids Thrift Store is a thrift store in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/furkids-thrift-store-peachtree-corners/
+1. Furkids Thrift Store | Organic #1 | Pulse Score 47.2/100 (Building, #1 in city) | Furkids Thrift Store is a thrift store in Peachtree Corners, GA at 4015 Holcomb Bridge Road, Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/furkids-thrift-store-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store peachtree corners ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

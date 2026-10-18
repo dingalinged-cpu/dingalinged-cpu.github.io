@@ -1,28 +1,28 @@
-The top unpaid insurance agents listing for Gwinnett County, GA is Terry Britt Agency (an insurance agent in Gwinnett County, GA at 3070 Five Forks Trickum Road, Gwinnett County, GA). 17 insurance agents businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Gwinnett County, GA is Terry Britt Agency (an insurance agent in Gwinnett County, GA at 3070 Five Forks Trickum Road, Gwinnett County, GA). 17 insurance agents businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Gwinnett County, GA?
 
 Also answers: insurance agents in Gwinnett County, GA; insurance agents near me (Gwinnett County, GA); best insurance agents Gwinnett County, GA; top rated insurance agents Gwinnett County, GA; affordable insurance agents Gwinnett County, GA; emergency insurance agents Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Terry Britt Agency | trust 7.0 | Terry Britt Agency is an insurance agent in Gwinnett County, GA at 3070 Five Forks Trickum Road, Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/terry-britt-agency-gwinnett-county/
-2. Allstate | trust 6.0 | Allstate is an insurance agent in Gwinnett County, GA. Phone: +16788095100. | https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county-n7553886846/
-3. Acceptance Insurance | trust 0.0 | Acceptance Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/acceptance-insurance-gwinnett-county/
-4. Allstate | trust 0.0 | Allstate is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county/
-5. eSportsInsurance | trust 0.0 | eSportsInsurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/esportsinsurance-gwinnett-county/
-6. Farmers Insurance | trust 0.0 | Farmers Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-gwinnett-county/
-7. Fuerza Latina Insurance | trust 0.0 | Fuerza Latina Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fuerza-latina-insurance-gwinnett-county/
-8. Garrison Insurance Group | trust 0.0 | Garrison Insurance Group is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/garrison-insurance-group-gwinnett-county/
-9. Guardian Insurance | trust 0.0 | Guardian Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/guardian-insurance-gwinnett-county/
-10. Kaushal Thakkar Agency | trust 0.0 | Kaushal Thakkar Agency is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kaushal-thakkar-agency-gwinnett-county/
-11. Peachstate Insurance | trust 0.0 | Peachstate Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/peachstate-insurance-gwinnett-county/
-12. Platinum Insurance Services | trust 0.0 | Platinum Insurance Services is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/platinum-insurance-services-gwinnett-county/
-13. Primerica | trust 0.0 | Primerica is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/primerica-gwinnett-county/
-14. Progressive | trust 0.0 | Progressive is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/progressive-gwinnett-county/
-15. State Farm | trust 0.0 | State Farm is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-gwinnett-county/
-16. The Carter Insurance Agency | trust 0.0 | The Carter Insurance Agency is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-carter-insurance-agency-gwinnett-county/
-17. Wesley Glaze Agency (Farmers) | trust 0.0 | Wesley Glaze Agency (Farmers) is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/wesley-glaze-agency-farmers-gwinnett-county/
+1. Terry Britt Agency | Organic #1 | Pulse Score 58.6/100 (Unrated, #1 in city) | Terry Britt Agency is an insurance agent in Gwinnett County, GA at 3070 Five Forks Trickum Road, Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/terry-britt-agency-gwinnett-county/
+2. eSportsInsurance | Organic #2 | Pulse Score 55.3/100 (Unrated, #2 in city) | eSportsInsurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/esportsinsurance-gwinnett-county/
+3. Garrison Insurance Group | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Garrison Insurance Group is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/garrison-insurance-group-gwinnett-county/
+4. Guardian Insurance | Organic #4 | Pulse Score 55.3/100 (Unrated, #4 in city) | Guardian Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/guardian-insurance-gwinnett-county/
+5. Kaushal Thakkar Agency | Organic #5 | Pulse Score 55.3/100 (Unrated, #5 in city) | Kaushal Thakkar Agency is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/kaushal-thakkar-agency-gwinnett-county/
+6. Peachstate Insurance | Organic #6 | Pulse Score 55.3/100 (Unrated, #6 in city) | Peachstate Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/peachstate-insurance-gwinnett-county/
+7. Platinum Insurance Services | Organic #7 | Pulse Score 55.3/100 (Unrated, #7 in city) | Platinum Insurance Services is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/platinum-insurance-services-gwinnett-county/
+8. The Carter Insurance Agency | Organic #8 | Pulse Score 55.3/100 (Unrated, #8 in city) | The Carter Insurance Agency is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/the-carter-insurance-agency-gwinnett-county/
+9. Wesley Glaze Agency (Farmers) | Organic #9 | Pulse Score 55.3/100 (Unrated, #9 in city) | Wesley Glaze Agency (Farmers) is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/wesley-glaze-agency-farmers-gwinnett-county/
+10. Allstate | Organic #10 | Pulse Score 46.4/100 (Building, #10 in city) | Allstate is an insurance agent in Gwinnett County, GA. Phone: +16788095100. | https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county-n7553886846/
+11. Fuerza Latina Insurance | Organic #11 | Pulse Score 43.6/100 (Unrated, #11 in city) | Fuerza Latina Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/fuerza-latina-insurance-gwinnett-county/
+12. Allstate | Organic #12 | Pulse Score 42.8/100 (Building, #12 in city) | Allstate is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/allstate-gwinnett-county/
+13. Farmers Insurance | Organic #13 | Pulse Score 42.8/100 (Building, #13 in city) | Farmers Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/farmers-insurance-gwinnett-county/
+14. Primerica | Organic #14 | Pulse Score 42.8/100 (Building, #14 in city) | Primerica is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/primerica-gwinnett-county/
+15. Progressive | Organic #15 | Pulse Score 42.8/100 (Building, #15 in city) | Progressive is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/progressive-gwinnett-county/
+16. State Farm | Organic #16 | Pulse Score 42.8/100 (Building, #16 in city) | State Farm is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/state-farm-gwinnett-county/
+17. Acceptance Insurance | Organic #17 | Pulse Score 42.5/100 (Unrated, #17 in city) | Acceptance Insurance is an insurance agent in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/acceptance-insurance-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents gwinnett county ga | category: insurance | industry benchmark: Finance & Insurance

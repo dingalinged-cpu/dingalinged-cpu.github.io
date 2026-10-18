@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Lemont Township, IL is Lemont Express Carwash (a car wash in Lemont Township, IL at 1174 State Street, Lemont Township, IL 60439). 2 car wash businesses are listed for Lemont Township, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Lemont Township, IL is Lemont Express Carwash (a car wash in Lemont Township, IL at 1174 State Street, Lemont Township, IL 60439). 2 car wash businesses are listed for Lemont Township, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Lemont Township, IL?
 
 Also answers: car wash in Lemont Township, IL; car wash near me (Lemont Township, IL); best car wash Lemont Township, IL; top rated car wash Lemont Township, IL; affordable car wash Lemont Township, IL; emergency car wash Lemont Township, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lemont Express Carwash | trust 4.0 | Lemont Express Carwash is a car wash in Lemont Township, IL at 1174 State Street, Lemont Township, IL 60439. | https://dingalinged-cpu.github.io/registry/c/lemont-express-carwash-lemont-township/
-2. Look NU | trust 4.0 | Look NU is a car wash in Lemont Township, IL at 1388 State Street, Lemont Township, IL 60439. | https://dingalinged-cpu.github.io/registry/c/look-nu-lemont-township/
+1. Lemont Express Carwash | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Lemont Express Carwash is a car wash in Lemont Township, IL at 1174 State Street, Lemont Township, IL 60439. | https://dingalinged-cpu.github.io/registry/c/lemont-express-carwash-lemont-township/
+2. Look NU | Organic #2 | Pulse Score 57.6/100 (Unrated, #2 in city) | Look NU is a car wash in Lemont Township, IL at 1388 State Street, Lemont Township, IL 60439. | https://dingalinged-cpu.github.io/registry/c/look-nu-lemont-township/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash lemont township il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

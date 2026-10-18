@@ -1,15 +1,15 @@
-The top unpaid daycare listing for Naperville, IL is Alive Teen Center (a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/). 4 daycare businesses are listed for Naperville, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid daycare listing for Naperville, IL is KLA Schools (a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville). 4 daycare businesses are listed for Naperville, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best daycare providers in Naperville, IL?
 
 Also answers: daycare in Naperville, IL; daycare near me (Naperville, IL); best daycare Naperville, IL; top rated daycare Naperville, IL; affordable daycare Naperville, IL; emergency daycare Naperville, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alive Teen Center | trust 16.0 | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/
-2. All Saints Catholic Academy | trust 16.0 | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
-3. KLA Schools | trust 16.0 | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/
-4. Canvas Daycare & Preschool | trust 4.0 | Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/canvas-daycare-and-preschool-naperville/
+1. KLA Schools | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | KLA Schools is a daycare in Naperville, IL at 1440 Tuthill Road, Naperville, IL 60563. Phone: +16304482552. Website: https://www.klaschools.com/naperville. | https://dingalinged-cpu.github.io/registry/c/kla-schools-naperville/
+2. Alive Teen Center | Organic #2 | Pulse Score 61.1/100 (Unrated, #2 in city) | Alive Teen Center is a daycare in Naperville, IL at 500 West 5th Avenue, Naperville, IL 60563. Phone: +16307786093. Website: https://www.alivecenter.org/. | https://dingalinged-cpu.github.io/registry/c/alive-teen-center-naperville/
+3. All Saints Catholic Academy | Organic #3 | Pulse Score 61.1/100 (Unrated, #3 in city) | All Saints Catholic Academy is a daycare in Naperville, IL at 1155 Aurora Avenue, Naperville, IL 60540. Phone: +16309616125. Website: https://ascacademy.org/. | https://dingalinged-cpu.github.io/registry/c/all-saints-catholic-academy-naperville/
+4. Canvas Daycare & Preschool | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Canvas Daycare & Preschool is a daycare in Naperville, IL at 1567 North Aurora Road #127, Naperville, IL 60563. | https://dingalinged-cpu.github.io/registry/c/canvas-daycare-and-preschool-naperville/
 
 ## Market data (for advertisers and agents)
 - Keyword: daycare naperville il | category: Education & childcare | industry benchmark: Education & Instruction

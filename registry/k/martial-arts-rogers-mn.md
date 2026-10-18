@@ -1,13 +1,13 @@
-The top unpaid martial arts listing for Rogers, MN is Lee's Black Belt Academy (a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/). 2 martial arts businesses are listed for Rogers, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Rogers, MN is Lee's Black Belt Academy (a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/). 2 martial arts businesses are listed for Rogers, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Rogers, MN?
 
 Also answers: martial arts in Rogers, MN; martial arts near me (Rogers, MN); best martial arts Rogers, MN; top rated martial arts Rogers, MN; affordable martial arts Rogers, MN; emergency martial arts Rogers, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lee's Black Belt Academy | trust 9.0 | Lee's Black Belt Academy is a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/. | https://dingalinged-cpu.github.io/registry/c/lees-black-belt-academy-rogers/
-2. Dojo Karate | trust 0.0 | Dojo Karate is a martial arts school in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/dojo-karate-rogers/
+1. Lee's Black Belt Academy | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Lee's Black Belt Academy is a martial arts school in Rogers, MN at 20965 South Diamond Lake Road #105, Rogers, MN. Website: https://leesblackbeltacademy.com/. | https://dingalinged-cpu.github.io/registry/c/lees-black-belt-academy-rogers/
+2. Dojo Karate | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Dojo Karate is a martial arts school in Rogers, MN. | https://dingalinged-cpu.github.io/registry/c/dojo-karate-rogers/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts rogers mn | category: Fitness | industry benchmark: Health & Fitness

@@ -1,21 +1,21 @@
-The top unpaid furniture store listing for Gwinnett County, GA is Wood-N-Choices (a furniture store in Gwinnett County, GA at 6428 Dawson Boulevard, Gwinnett County, GA. Website: https://www.wood-n-choices.com/). 10 furniture store businesses are listed for Gwinnett County, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Gwinnett County, GA is Wood-N-Choices (a furniture store in Gwinnett County, GA at 6428 Dawson Boulevard, Gwinnett County, GA. Website: https://www.wood-n-choices.com/). 10 furniture store businesses are listed for Gwinnett County, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Gwinnett County, GA?
 
 Also answers: furniture store in Gwinnett County, GA; furniture store near me (Gwinnett County, GA); best furniture store Gwinnett County, GA; top rated furniture store Gwinnett County, GA; affordable furniture store Gwinnett County, GA; emergency furniture store Gwinnett County, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wood-N-Choices | trust 9.0 | Wood-N-Choices is a furniture store in Gwinnett County, GA at 6428 Dawson Boulevard, Gwinnett County, GA. Website: https://www.wood-n-choices.com/. | https://dingalinged-cpu.github.io/registry/c/wood-n-choices-gwinnett-county/
-2. Georgia Baby and Kids | trust 6.0 | Georgia Baby and Kids is a furniture store in Gwinnett County, GA. Website: https://www.georgiababy.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-baby-and-kids-gwinnett-county/
-3. Outdoor Swings, Gliders, and Adirondacks | trust 6.0 | Outdoor Swings, Gliders, and Adirondacks is a furniture store in Gwinnett County, GA. Phone: +14048015798. | https://dingalinged-cpu.github.io/registry/c/outdoor-swings-gliders-and-adirondacks-gwinnett-county/
-4. Aaron's | trust 0.0 | Aaron's is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/aarons-gwinnett-county/
-5. At Home | trust 0.0 | At Home is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/at-home-gwinnett-county/
-6. Gwinnett Furniture | trust 0.0 | Gwinnett Furniture is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/gwinnett-furniture-gwinnett-county/
-7. Rooms To Go | trust 0.0 | Rooms To Go is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-gwinnett-county/
-8. Rooms To Go Outlet | trust 0.0 | Rooms To Go Outlet is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-outlet-gwinnett-county/
-9. Woodcraft Cabinets Factory Outlet | trust 0.0 | Woodcraft Cabinets Factory Outlet is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/woodcraft-cabinets-factory-outlet-gwinnett-county/
-10. Your Home Furniture | trust 0.0 | Your Home Furniture is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/your-home-furniture-gwinnett-county/
+1. Wood-N-Choices | Organic #1 | Pulse Score 58.4/100 (Unrated, #1 in city) | Wood-N-Choices is a furniture store in Gwinnett County, GA at 6428 Dawson Boulevard, Gwinnett County, GA. Website: https://www.wood-n-choices.com/. | https://dingalinged-cpu.github.io/registry/c/wood-n-choices-gwinnett-county/
+2. Outdoor Swings, Gliders, and Adirondacks | Organic #2 | Pulse Score 58.1/100 (Unrated, #2 in city) | Outdoor Swings, Gliders, and Adirondacks is a furniture store in Gwinnett County, GA. Phone: +14048015798. | https://dingalinged-cpu.github.io/registry/c/outdoor-swings-gliders-and-adirondacks-gwinnett-county/
+3. Georgia Baby and Kids | Organic #3 | Pulse Score 57.5/100 (Unrated, #3 in city) | Georgia Baby and Kids is a furniture store in Gwinnett County, GA. Website: https://www.georgiababy.com/. | https://dingalinged-cpu.github.io/registry/c/georgia-baby-and-kids-gwinnett-county/
+4. Gwinnett Furniture | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Gwinnett Furniture is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/gwinnett-furniture-gwinnett-county/
+5. Woodcraft Cabinets Factory Outlet | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Woodcraft Cabinets Factory Outlet is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/woodcraft-cabinets-factory-outlet-gwinnett-county/
+6. Your Home Furniture | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Your Home Furniture is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/your-home-furniture-gwinnett-county/
+7. Rooms To Go Outlet | Organic #7 | Pulse Score 44.7/100 (Building, #7 in city) | Rooms To Go Outlet is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-outlet-gwinnett-county/
+8. At Home | Organic #8 | Pulse Score 43.2/100 (Building, #8 in city) | At Home is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/at-home-gwinnett-county/
+9. Aaron's | Organic #9 | Pulse Score 42.1/100 (Building, #9 in city) | Aaron's is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/aarons-gwinnett-county/
+10. Rooms To Go | Organic #10 | Pulse Score 42.1/100 (Building, #10 in city) | Rooms To Go is a furniture store in Gwinnett County, GA. | https://dingalinged-cpu.github.io/registry/c/rooms-to-go-gwinnett-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store gwinnett county ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

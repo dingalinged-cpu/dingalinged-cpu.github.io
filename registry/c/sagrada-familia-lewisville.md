@@ -13,7 +13,7 @@ Sagrada Familia is a family medicine practice in Lewisville, TX. Phone: +1469968
 - Website: https://www.sagradafamiliadfw.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 53.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 56.7/100 — Unrated (not enough evidence yet) — top 60% of family medicine practices in Dallas–Fort Worth, #11 of 13 family medicine practices in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 46.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

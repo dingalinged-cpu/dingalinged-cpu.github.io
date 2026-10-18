@@ -1,13 +1,13 @@
-The top unpaid business consultant listing for Wauwatosa, WI is Leedy & Petzold Associates, LLC (a business consultant in Wauwatosa, WI at 11046 West Bluemound Road, Wauwatosa, WI 53226. Phone: +12628601544. Website: https://leedypetzold.weebly.com/). 2 business consultant businesses are listed for Wauwatosa, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Wauwatosa, WI is Leedy & Petzold Associates, LLC (a business consultant in Wauwatosa, WI at 11046 West Bluemound Road, Wauwatosa, WI 53226. Phone: +12628601544. Website: https://leedypetzold.weebly.com/). 2 business consultant businesses are listed for Wauwatosa, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Wauwatosa, WI?
 
 Also answers: business consultant in Wauwatosa, WI; business consultant near me (Wauwatosa, WI); best business consultant Wauwatosa, WI; top rated business consultant Wauwatosa, WI; affordable business consultant Wauwatosa, WI; emergency business consultant Wauwatosa, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Leedy & Petzold Associates, LLC | trust 16.0 | Leedy & Petzold Associates, LLC is a business consultant in Wauwatosa, WI at 11046 West Bluemound Road, Wauwatosa, WI 53226. Phone: +12628601544. Website: https://leedypetzold.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/leedy-and-petzold-associates-llc-wauwatosa/
-2. KMK & Associates | trust 10.0 | KMK & Associates is a business consultant in Wauwatosa, WI at 12201 West North Avenue, Wauwatosa, WI 53226. Phone: +18667988735. | https://dingalinged-cpu.github.io/registry/c/kmk-and-associates-wauwatosa/
+1. Leedy & Petzold Associates, LLC | Organic #1 | Pulse Score 62.5/100 (Good, #1 in city) | Leedy & Petzold Associates, LLC is a business consultant in Wauwatosa, WI at 11046 West Bluemound Road, Wauwatosa, WI 53226. Phone: +12628601544. Website: https://leedypetzold.weebly.com/. | https://dingalinged-cpu.github.io/registry/c/leedy-and-petzold-associates-llc-wauwatosa/
+2. KMK & Associates | Organic #2 | Pulse Score 60/100 (Unrated, #2 in city) | KMK & Associates is a business consultant in Wauwatosa, WI at 12201 West North Avenue, Wauwatosa, WI 53226. Phone: +18667988735. | https://dingalinged-cpu.github.io/registry/c/kmk-and-associates-wauwatosa/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant wauwatosa wi | category: b2b_services | industry benchmark: Business Services

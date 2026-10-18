@@ -13,7 +13,7 @@ MyEyeDr. is an eye care practice in Irving, TX at 7457 Las Colinas Boulevard #10
 - Website: https://www.myeyedr.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 49.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 85% of eye care practices in Dallas–Fort Worth, #3 of 3 eye care practices in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.8, Trust 56.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

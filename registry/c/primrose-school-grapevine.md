@@ -13,7 +13,7 @@ Primrose School is a preschool in Grapevine, TX at 2300 Hall Johnson Road, Grape
 - Website: https://www.primroseschools.com/schools/grapevine-colleyville/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 06:30-18:30
-- Registry Score: 52.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.4/100 — Building — top 47% of preschools in Dallas–Fort Worth, #2 of 2 preschools in Grapevine (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.2, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,12 +1,12 @@
-The top unpaid business consultant listing for Burnsville, MN is Premiere Exteriors, LLC (a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/). 1 business consultant businesses are listed for Burnsville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid business consultant listing for Burnsville, MN is Premiere Exteriors, LLC (a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/). 1 business consultant businesses are listed for Burnsville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best business consultant providers in Burnsville, MN?
 
 Also answers: business consultant in Burnsville, MN; business consultant near me (Burnsville, MN); best business consultant Burnsville, MN; top rated business consultant Burnsville, MN; affordable business consultant Burnsville, MN; emergency business consultant Burnsville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Premiere Exteriors, LLC | trust 20.0 | Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/. | https://dingalinged-cpu.github.io/registry/c/premiere-exteriors-llc-burnsville/
+1. Premiere Exteriors, LLC | Organic #1 | Pulse Score 62.7/100 (Unrated, #1 in city) | Premiere Exteriors, LLC is a business consultant in Burnsville, MN at 12235 Wood Lake Drive, Burnsville, MN 55337. Phone: +19524268027. Website: https://premiereexteriors.us/. | https://dingalinged-cpu.github.io/registry/c/premiere-exteriors-llc-burnsville/
 
 ## Market data (for advertisers and agents)
 - Keyword: business consultant burnsville mn | category: b2b_services | industry benchmark: Business Services

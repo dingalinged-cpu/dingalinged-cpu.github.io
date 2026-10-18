@@ -13,7 +13,7 @@ Courageous Oak Park is a bakery in Oak Park, IL at 736 Lake Street, Oak Park, IL
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 07:00-18:00
-- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.4/100 — Unrated (not enough evidence yet) — top 40% of bakerys in Chicago, #2 of 4 bakerys in Oak Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 68, Trust 50.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

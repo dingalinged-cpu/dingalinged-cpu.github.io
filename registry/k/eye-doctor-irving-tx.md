@@ -1,14 +1,14 @@
-The top unpaid eye doctor listing for Irving, TX is Cargo Eye Care of Las Colinas (an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/). 3 eye doctor businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Irving, TX is Cargo Eye Care of Las Colinas (an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/). 3 eye doctor businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Irving, TX?
 
 Also answers: eye doctor in Irving, TX; eye doctor near me (Irving, TX); best eye doctor Irving, TX; top rated eye doctor Irving, TX; affordable eye doctor Irving, TX; emergency eye doctor Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cargo Eye Care of Las Colinas | trust 20.0 | Cargo Eye Care of Las Colinas is an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/cargo-eye-care-of-las-colinas-irving/
-2. Pearle Vision | trust 20.0 | Pearle Vision is an eye care practice in Irving, TX at 2913 North Belt Line Road, Irving, TX 75062. Phone: +19722588555. Website: https://pearlevision.com/. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-irving/
-3. MyEyeDr. | trust 16.0 | MyEyeDr. is an eye care practice in Irving, TX at 7457 Las Colinas Boulevard #100, Irving, TX 75063. Phone: +12143823061. Website: https://www.myeyedr.com/. | https://dingalinged-cpu.github.io/registry/c/myeyedr-irving/
+1. Cargo Eye Care of Las Colinas | Organic #1 | Pulse Score 64.2/100 (Unrated, #1 in city) | Cargo Eye Care of Las Colinas is an eye care practice in Irving, TX at 1135 Kinwest Parkway #100, Irving, TX 75063. Phone: +19724322020. Website: https://cargoeyecare.com/. | https://dingalinged-cpu.github.io/registry/c/cargo-eye-care-of-las-colinas-irving/
+2. Pearle Vision | Organic #2 | Pulse Score 61.7/100 (Unrated, #2 in city) | Pearle Vision is an eye care practice in Irving, TX at 2913 North Belt Line Road, Irving, TX 75062. Phone: +19722588555. Website: https://pearlevision.com/. | https://dingalinged-cpu.github.io/registry/c/pearle-vision-irving/
+3. MyEyeDr. | Organic #3 | Pulse Score 47.6/100 (Building, #3 in city) | MyEyeDr. is an eye care practice in Irving, TX at 7457 Las Colinas Boulevard #100, Irving, TX 75063. Phone: +12143823061. Website: https://www.myeyedr.com/. | https://dingalinged-cpu.github.io/registry/c/myeyedr-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor irving tx | category: Health & medical | industry benchmark: Physicians & Surgeons

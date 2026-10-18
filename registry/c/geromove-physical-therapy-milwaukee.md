@@ -13,7 +13,7 @@ Geromove Physical Therapy is an occupational therapist in Milwaukee, WI at 763 N
 - Website: https://www.geromove.com/contact-downtown-milwaukee
 - Email: info@geromove.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-18:00
-- Registry Score: 60/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 57/100 — Fair — top 100% of occupational therapists in Milwaukee, #2 of 2 occupational therapists in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.4, Trust 38.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

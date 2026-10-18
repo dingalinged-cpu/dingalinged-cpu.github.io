@@ -1,13 +1,13 @@
-The top unpaid funeral home listing for Union Grove, WI is Miller-Reesman Funeral Home & Cremation Services (a funeral home in Union Grove, WI). 2 funeral home businesses are listed for Union Grove, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Union Grove, WI is Miller-Reesman Funeral Home & Cremation Services (a funeral home in Union Grove, WI). 2 funeral home businesses are listed for Union Grove, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Union Grove, WI?
 
 Also answers: funeral home in Union Grove, WI; funeral home near me (Union Grove, WI); best funeral home Union Grove, WI; top rated funeral home Union Grove, WI; affordable funeral home Union Grove, WI; emergency funeral home Union Grove, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Miller-Reesman Funeral Home & Cremation Services | trust 0.0 | Miller-Reesman Funeral Home & Cremation Services is a funeral home in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/miller-reesman-funeral-home-and-cremation-services-union-grove/
-2. Polnasek-Daniels Funeral Home and Crematory | trust 0.0 | Polnasek-Daniels Funeral Home and Crematory is a funeral home in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/polnasek-daniels-funeral-home-and-crematory-union-grove/
+1. Miller-Reesman Funeral Home & Cremation Services | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Miller-Reesman Funeral Home & Cremation Services is a funeral home in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/miller-reesman-funeral-home-and-cremation-services-union-grove/
+2. Polnasek-Daniels Funeral Home and Crematory | Organic #2 | Pulse Score 54.1/100 (Unrated, #2 in city) | Polnasek-Daniels Funeral Home and Crematory is a funeral home in Union Grove, WI. | https://dingalinged-cpu.github.io/registry/c/polnasek-daniels-funeral-home-and-crematory-union-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home union grove wi | category: Professional & financial services | industry benchmark: Finance & Insurance

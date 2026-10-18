@@ -1,15 +1,15 @@
-The top unpaid furniture store listing for Richmond, TX is Exclusive Furniture (a furniture store in Richmond, TX at 21018 West Bellfort Street, Richmond, TX 77406. Phone: +17132445000. Website: https://exclusivefurniture.com/). 4 furniture store businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Richmond, TX is Gallery Furniture (a furniture store in Richmond, TX at 7227 West Grand Parkway South, Richmond, TX 77407). 4 furniture store businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Richmond, TX?
 
 Also answers: furniture store in Richmond, TX; furniture store near me (Richmond, TX); best furniture store Richmond, TX; top rated furniture store Richmond, TX; affordable furniture store Richmond, TX; emergency furniture store Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Exclusive Furniture | trust 20.0 | Exclusive Furniture is a furniture store in Richmond, TX at 21018 West Bellfort Street, Richmond, TX 77406. Phone: +17132445000. Website: https://exclusivefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/exclusive-furniture-richmond/
-2. Gallery Furniture | trust 8.0 | Gallery Furniture is a furniture store in Richmond, TX at 7227 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/gallery-furniture-richmond/
-3. At Home | trust 4.0 | At Home is a furniture store in Richmond, TX at 4833 Waterview Meadow Drive, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/at-home-richmond/
-4. Katy Furniture | trust 4.0 | Katy Furniture is a furniture store in Richmond, TX at 7957 West Grand Parkway South Frontage Road, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/katy-furniture-richmond/
+1. Gallery Furniture | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | Gallery Furniture is a furniture store in Richmond, TX at 7227 West Grand Parkway South, Richmond, TX 77407. | https://dingalinged-cpu.github.io/registry/c/gallery-furniture-richmond/
+2. Katy Furniture | Organic #2 | Pulse Score 58.2/100 (Unrated, #2 in city) | Katy Furniture is a furniture store in Richmond, TX at 7957 West Grand Parkway South Frontage Road, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/katy-furniture-richmond/
+3. Exclusive Furniture | Organic #3 | Pulse Score 50.9/100 (Unrated, #3 in city) | Exclusive Furniture is a furniture store in Richmond, TX at 21018 West Bellfort Street, Richmond, TX 77406. Phone: +17132445000. Website: https://exclusivefurniture.com/. | https://dingalinged-cpu.github.io/registry/c/exclusive-furniture-richmond/
+4. At Home | Organic #4 | Pulse Score 46/100 (Unrated, #4 in city) | At Home is a furniture store in Richmond, TX at 4833 Waterview Meadow Drive, Richmond, TX 77406. | https://dingalinged-cpu.github.io/registry/c/at-home-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store richmond tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

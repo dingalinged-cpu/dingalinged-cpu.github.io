@@ -13,7 +13,7 @@ The UPS Store is a printing service in Madison, WI at 4230 East Towne Boulevard,
 - Website: https://locations.theupsstore.com/wi/madison/4230-east-towne-blvd
 - Email: store1695@theupsstore.com
 - Opening hours (OSM syntax): Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su 10:00-15:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49/100 — Building — top 37% of printing services in Madison, #5 of 12 printing services in Madison (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.6, Trust 62.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

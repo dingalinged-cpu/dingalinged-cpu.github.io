@@ -1,14 +1,14 @@
-The top unpaid jewelry store listing for Sun Prairie, WI is Forever Yours Jewelry Inc. (a jewelry store in Sun Prairie, WI). 3 jewelry store businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Sun Prairie, WI is Forever Yours Jewelry Inc. (a jewelry store in Sun Prairie, WI). 3 jewelry store businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Sun Prairie, WI?
 
 Also answers: jewelry store in Sun Prairie, WI; jewelry store near me (Sun Prairie, WI); best jewelry store Sun Prairie, WI; top rated jewelry store Sun Prairie, WI; affordable jewelry store Sun Prairie, WI; emergency jewelry store Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Forever Yours Jewelry Inc. | trust 4.0 | Forever Yours Jewelry Inc. is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/forever-yours-jewelry-inc-sun-prairie/
-2. B's Jewelers | trust 0.0 | B's Jewelers is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bs-jewelers-sun-prairie/
-3. Prairie Jewelers | trust 0.0 | Prairie Jewelers is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-jewelers-sun-prairie/
+1. Forever Yours Jewelry Inc. | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Forever Yours Jewelry Inc. is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/forever-yours-jewelry-inc-sun-prairie/
+2. B's Jewelers | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | B's Jewelers is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/bs-jewelers-sun-prairie/
+3. Prairie Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Prairie Jewelers is a jewelry store in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/prairie-jewelers-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store sun prairie wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

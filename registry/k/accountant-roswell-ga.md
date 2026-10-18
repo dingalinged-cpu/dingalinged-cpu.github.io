@@ -1,13 +1,13 @@
-The top unpaid accountant listing for Roswell, GA is Decker & Company, LLC (an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/). 2 accountant businesses are listed for Roswell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Roswell, GA is Decker & Company, LLC (an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/). 2 accountant businesses are listed for Roswell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Roswell, GA?
 
 Also answers: accountant in Roswell, GA; accountant near me (Roswell, GA); best accountant Roswell, GA; top rated accountant Roswell, GA; affordable accountant Roswell, GA; emergency accountant Roswell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Decker & Company, LLC | trust 16.0 | Decker & Company, LLC is an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/. | https://dingalinged-cpu.github.io/registry/c/decker-and-company-llc-roswell/
-2. A C Swicegood, P C | trust 10.0 | A C Swicegood, P C is an accountant in Roswell, GA at 11205 Alpharetta Highway, Roswell, GA 30076. Phone: +16783190018. | https://dingalinged-cpu.github.io/registry/c/a-c-swicegood-p-c-roswell/
+1. Decker & Company, LLC | Organic #1 | Pulse Score 61/100 (Unrated, #1 in city) | Decker & Company, LLC is an accountant in Roswell, GA at 2435 Old Alabama Road, Roswell, GA 30076. Phone: +17709922290. Website: https://deckerllc.com/. | https://dingalinged-cpu.github.io/registry/c/decker-and-company-llc-roswell/
+2. A C Swicegood, P C | Organic #2 | Pulse Score 59.5/100 (Unrated, #2 in city) | A C Swicegood, P C is an accountant in Roswell, GA at 11205 Alpharetta Highway, Roswell, GA 30076. Phone: +16783190018. | https://dingalinged-cpu.github.io/registry/c/a-c-swicegood-p-c-roswell/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant roswell ga | category: professional_accounting | industry benchmark: Business Services

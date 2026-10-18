@@ -1,12 +1,12 @@
-The top unpaid dry cleaners listing for Fate, TX is Cowboy Cleaners (a dry cleaner in Fate, TX at 101 West Fate Main Place #A, Fate, TX 75087). 1 dry cleaners businesses are listed for Fate, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Fate, TX is Cowboy Cleaners (a dry cleaner in Fate, TX at 101 West Fate Main Place #A, Fate, TX 75087). 1 dry cleaners businesses are listed for Fate, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Fate, TX?
 
 Also answers: dry cleaners in Fate, TX; dry cleaners near me (Fate, TX); best dry cleaners Fate, TX; top rated dry cleaners Fate, TX; affordable dry cleaners Fate, TX; emergency dry cleaners Fate, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Cowboy Cleaners | trust 4.0 | Cowboy Cleaners is a dry cleaner in Fate, TX at 101 West Fate Main Place #A, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/cowboy-cleaners-fate/
+1. Cowboy Cleaners | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Cowboy Cleaners is a dry cleaner in Fate, TX at 101 West Fate Main Place #A, Fate, TX 75087. | https://dingalinged-cpu.github.io/registry/c/cowboy-cleaners-fate/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners fate tx | category: Professional & financial services | industry benchmark: Finance & Insurance

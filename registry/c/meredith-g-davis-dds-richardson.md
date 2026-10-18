@@ -13,7 +13,7 @@ Meredith G. Davis, DDS is a dentist in Richardson, TX at 819 West Arapaho Road #
 - Website: https://www.meredithdavisdds.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo,Tu,Th 08:30-16:30; We 08:30-15:00
-- Registry Score: 63.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 11% of dentists in Dallas–Fort Worth, #3 of 18 dentists in Richardson (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

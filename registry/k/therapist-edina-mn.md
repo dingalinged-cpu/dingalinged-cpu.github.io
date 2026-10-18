@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Edina, MN is Dr. Michael D. Thompson (a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410). 1 therapist businesses are listed for Edina, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Edina, MN is Dr. Michael D. Thompson (a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410). 1 therapist businesses are listed for Edina, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Edina, MN?
 
 Also answers: therapist in Edina, MN; therapist near me (Edina, MN); best therapist Edina, MN; top rated therapist Edina, MN; affordable therapist Edina, MN; emergency therapist Edina, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dr. Michael D. Thompson | trust 4.0 | Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410. | https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/
+1. Dr. Michael D. Thompson | Organic #1 | Pulse Score 55.5/100 (Unrated, #1 in city) | Dr. Michael D. Thompson is a therapy practice in Edina, MN at 5007 France Avenue South, Edina, MN 55410. | https://dingalinged-cpu.github.io/registry/c/dr-michael-d-thompson-edina/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist edina mn | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

@@ -1,14 +1,14 @@
-The top unpaid dentist listing for Dunwoody, GA is Brightworks Dentistry (a dentist in Dunwoody, GA at 1858 Independence Square #A, Dunwoody, GA 30338. Phone: +17704583600. Website: https://www.brightworksdentistry.com/). 3 dentist businesses are listed for Dunwoody, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Dunwoody, GA is Brightworks Dentistry (a dentist in Dunwoody, GA at 1858 Independence Square #A, Dunwoody, GA 30338. Phone: +17704583600. Website: https://www.brightworksdentistry.com/). 3 dentist businesses are listed for Dunwoody, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Dunwoody, GA?
 
 Also answers: dentist in Dunwoody, GA; dentist near me (Dunwoody, GA); best dentist Dunwoody, GA; top rated dentist Dunwoody, GA; affordable dentist Dunwoody, GA; emergency dentist Dunwoody, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brightworks Dentistry | trust 20.0 | Brightworks Dentistry is a dentist in Dunwoody, GA at 1858 Independence Square #A, Dunwoody, GA 30338. Phone: +17704583600. Website: https://www.brightworksdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/brightworks-dentistry-dunwoody/
-2. Atlanta Sedation Dentistry | trust 16.0 | Atlanta Sedation Dentistry is a dentist in Dunwoody, GA at 1730 Mount Vernon Road #B, Dunwoody, GA 30338. Phone: +17703433391. Website: https://atlsedationdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-sedation-dentistry-dunwoody/
-3. Veal Dental Care of Dunwoody | trust 4.0 | Veal Dental Care of Dunwoody is a dentist in Dunwoody, GA at 1867 Independence Square #104, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/veal-dental-care-of-dunwoody-dunwoody/
+1. Brightworks Dentistry | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Brightworks Dentistry is a dentist in Dunwoody, GA at 1858 Independence Square #A, Dunwoody, GA 30338. Phone: +17704583600. Website: https://www.brightworksdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/brightworks-dentistry-dunwoody/
+2. Atlanta Sedation Dentistry | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Atlanta Sedation Dentistry is a dentist in Dunwoody, GA at 1730 Mount Vernon Road #B, Dunwoody, GA 30338. Phone: +17703433391. Website: https://atlsedationdentistry.com/. | https://dingalinged-cpu.github.io/registry/c/atlanta-sedation-dentistry-dunwoody/
+3. Veal Dental Care of Dunwoody | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Veal Dental Care of Dunwoody is a dentist in Dunwoody, GA at 1867 Independence Square #104, Dunwoody, GA 30338. | https://dingalinged-cpu.github.io/registry/c/veal-dental-care-of-dunwoody-dunwoody/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist dunwoody ga | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

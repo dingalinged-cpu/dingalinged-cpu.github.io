@@ -1,12 +1,12 @@
-The top unpaid brake repair listing for Arlington Heights, IL is Midas (an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Arlington Heights, IL 60004. Phone: +18474818902. Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139). 1 brake repair businesses are listed for Arlington Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid brake repair listing for Arlington Heights, IL is Midas (an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Arlington Heights, IL 60004. Phone: +18474818902. Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139). 1 brake repair businesses are listed for Arlington Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best brake repair providers in Arlington Heights, IL?
 
 Also answers: brake repair in Arlington Heights, IL; brake repair near me (Arlington Heights, IL); best brake repair Arlington Heights, IL; top rated brake repair Arlington Heights, IL; affordable brake repair Arlington Heights, IL; emergency brake repair Arlington Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Midas | trust 20.0 | Midas is an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Arlington Heights, IL 60004. Phone: +18474818902. Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139. | https://dingalinged-cpu.github.io/registry/c/midas-arlington-heights/
+1. Midas | Organic #1 | Pulse Score 49.6/100 (Building, #5 in city) | Midas is an auto repair shop in Arlington Heights, IL at 1150 East Rand Road, Arlington Heights, IL 60004. Phone: +18474818902. Website: https://www.midas.com/store/il/arlington-heights/1150-east-rand-road-60004?shopnum=2139. | https://dingalinged-cpu.github.io/registry/c/midas-arlington-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: brake repair arlington heights il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

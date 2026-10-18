@@ -13,7 +13,7 @@ Fit For You Yoga is a yoga studio in Evansville, WI at 17 West Main Street, Evan
 - Website: https://www.facebook.com/profile.php?id=100090543339004
 - Email: n/a
 - Opening hours (OSM syntax): We 19:00-20:00; Tu, Th 18:00-19:00; Fr 16:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Good — top 13% of yoga studios in Madison, #1 of 1 yoga studios in Evansville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 67.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Fresca Dental is a dentist in Dallas, TX at 10121 Lake June Road #118, Dallas, T
 - Website: https://www.frescadentaldallas.com/
 - Email: n/a
 - Opening hours (OSM syntax): Tu,Th,Fr 11:00-19:00; We 11:00-19:00; Sa 09:30-14:30
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.4/100 — Unrated (not enough evidence yet) — top 10% of dentists in Dallas–Fort Worth, #8 of 116 dentists in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.3, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

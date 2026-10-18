@@ -1,13 +1,13 @@
-The top unpaid thrift store listing for New Lenox, IL is MorningStar's Treasure Chest (a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/). 2 thrift store businesses are listed for New Lenox, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid thrift store listing for New Lenox, IL is MorningStar's Treasure Chest (a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/). 2 thrift store businesses are listed for New Lenox, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best thrift store providers in New Lenox, IL?
 
 Also answers: thrift store in New Lenox, IL; thrift store near me (New Lenox, IL); best thrift store New Lenox, IL; top rated thrift store New Lenox, IL; affordable thrift store New Lenox, IL; emergency thrift store New Lenox, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MorningStar's Treasure Chest | trust 16.0 | MorningStar's Treasure Chest is a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/. | https://dingalinged-cpu.github.io/registry/c/morningstars-treasure-chest-new-lenox/
-2. Goodwill | trust 0.0 | Goodwill is a thrift store in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-new-lenox/
+1. MorningStar's Treasure Chest | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | MorningStar's Treasure Chest is a thrift store in New Lenox, IL at 2571 Lincoln Highway, New Lenox, IL 60451. Phone: +18154623007. Website: https://morningstarmission.org/thrift-stores/. | https://dingalinged-cpu.github.io/registry/c/morningstars-treasure-chest-new-lenox/
+2. Goodwill | Organic #2 | Pulse Score 41.9/100 (Building, #2 in city) | Goodwill is a thrift store in New Lenox, IL. | https://dingalinged-cpu.github.io/registry/c/goodwill-new-lenox/
 
 ## Market data (for advertisers and agents)
 - Keyword: thrift store new lenox il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

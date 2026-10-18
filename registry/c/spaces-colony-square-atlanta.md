@@ -13,7 +13,7 @@ Spaces Colony Square is a coworking space in Atlanta, GA at 1201 Peachtree Stree
 - Website: https://www.spacesworks.com/atlanta/colony-square/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:30-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 73% of coworking spaces in Atlanta, #9 of 14 coworking spaces in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.6, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

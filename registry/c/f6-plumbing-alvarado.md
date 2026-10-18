@@ -13,7 +13,7 @@ F6 Plumbing is a plumber in Alvarado, TX at 205 East College Street, Alvarado, T
 - Website: https://www.f6plumbing.com/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 57.7/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.4/100 — Good — top 15% of plumbers in Dallas–Fort Worth, #1 of 1 plumbers in Alvarado (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.2, Trust 52.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Scandinavia Fine Furniture is a furniture store in Milwaukee, WI at 767 North Je
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-17:00
-- Registry Score: 63.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 7% of furniture stores in Milwaukee, #4 of 30 furniture stores in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.7, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

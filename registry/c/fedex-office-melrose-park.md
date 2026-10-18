@@ -13,7 +13,7 @@ FedEx Office is a printing service in Melrose Park, IL at North Avenue, Melrose 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 42.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 43.3/100 — Building — top 76% of printing services in Chicago, #1 of 1 printing services in Melrose Park (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 25.4, Trust 48.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

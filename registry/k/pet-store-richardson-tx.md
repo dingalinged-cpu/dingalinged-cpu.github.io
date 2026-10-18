@@ -1,16 +1,16 @@
-The top unpaid pet store listing for Richardson, TX is Petco (a pet store in Richardson, TX at 1401 East Spring Valley Road, Richardson, TX 75081. Phone: +19722385257. Website: https://stores.petco.com/tx/richardson/pet-supplies-richardson-tx-439.html). 5 pet store businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Richardson, TX is The Serpentarium (a pet store in Richardson, TX at 630 South Central Expressway #102, Richardson, TX). 5 pet store businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Richardson, TX?
 
 Also answers: pet store in Richardson, TX; pet store near me (Richardson, TX); best pet store Richardson, TX; top rated pet store Richardson, TX; affordable pet store Richardson, TX; emergency pet store Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Petco | trust 20.0 | Petco is a pet store in Richardson, TX at 1401 East Spring Valley Road, Richardson, TX 75081. Phone: +19722385257. Website: https://stores.petco.com/tx/richardson/pet-supplies-richardson-tx-439.html. | https://dingalinged-cpu.github.io/registry/c/petco-richardson/
-2. EarthWise Pet | trust 14.0 | EarthWise Pet is a pet store in Richardson, TX at 1310 West Campbell Road #128, Richardson, TX 75080. Website: https://richardson.earthwisepet.com/. | https://dingalinged-cpu.github.io/registry/c/earthwise-pet-richardson/
-3. Hollywood Feed | trust 8.0 | Hollywood Feed is a pet store in Richardson, TX at 1415 East Renner Road #200, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-richardson/
-4. Pet Supplies Plus | trust 4.0 | Pet Supplies Plus is a pet store in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-richardson/
-5. The Serpentarium | trust 3.0 | The Serpentarium is a pet store in Richardson, TX at 630 South Central Expressway #102, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-serpentarium-richardson/
+1. The Serpentarium | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | The Serpentarium is a pet store in Richardson, TX at 630 South Central Expressway #102, Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/the-serpentarium-richardson/
+2. Petco | Organic #2 | Pulse Score 47.6/100 (Building, #2 in city) | Petco is a pet store in Richardson, TX at 1401 East Spring Valley Road, Richardson, TX 75081. Phone: +19722385257. Website: https://stores.petco.com/tx/richardson/pet-supplies-richardson-tx-439.html. | https://dingalinged-cpu.github.io/registry/c/petco-richardson/
+3. Hollywood Feed | Organic #3 | Pulse Score 46.2/100 (Building, #3 in city) | Hollywood Feed is a pet store in Richardson, TX at 1415 East Renner Road #200, Richardson, TX 75082. | https://dingalinged-cpu.github.io/registry/c/hollywood-feed-richardson/
+4. Pet Supplies Plus | Organic #4 | Pulse Score 45.2/100 (Building, #4 in city) | Pet Supplies Plus is a pet store in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-richardson/
+5. EarthWise Pet | Organic #5 | Pulse Score 44.8/100 (Building, #5 in city) | EarthWise Pet is a pet store in Richardson, TX at 1310 West Campbell Road #128, Richardson, TX 75080. Website: https://richardson.earthwisepet.com/. | https://dingalinged-cpu.github.io/registry/c/earthwise-pet-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store richardson tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

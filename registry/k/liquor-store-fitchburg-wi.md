@@ -1,14 +1,14 @@
-The top unpaid liquor store listing for Fitchburg, WI is Waterford Wine and Spirits (a liquor store in Fitchburg, WI. Phone: +16084429600. Website: https://waterfordwine.com/). 3 liquor store businesses are listed for Fitchburg, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Fitchburg, WI is Waterford Wine and Spirits (a liquor store in Fitchburg, WI. Phone: +16084429600. Website: https://waterfordwine.com/). 3 liquor store businesses are listed for Fitchburg, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Fitchburg, WI?
 
 Also answers: liquor store in Fitchburg, WI; liquor store near me (Fitchburg, WI); best liquor store Fitchburg, WI; top rated liquor store Fitchburg, WI; affordable liquor store Fitchburg, WI; emergency liquor store Fitchburg, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Waterford Wine and Spirits | trust 17.0 | Waterford Wine and Spirits is a liquor store in Fitchburg, WI. Phone: +16084429600. Website: https://waterfordwine.com/. | https://dingalinged-cpu.github.io/registry/c/waterford-wine-and-spirits-fitchburg/
-2. Liquor Town | trust 0.0 | Liquor Town is a liquor store in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/liquor-town-fitchburg/
-3. O'Connell's Liquor | trust 0.0 | O'Connell's Liquor is a liquor store in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/oconnells-liquor-fitchburg/
+1. Waterford Wine and Spirits | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Waterford Wine and Spirits is a liquor store in Fitchburg, WI. Phone: +16084429600. Website: https://waterfordwine.com/. | https://dingalinged-cpu.github.io/registry/c/waterford-wine-and-spirits-fitchburg/
+2. Liquor Town | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | Liquor Town is a liquor store in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/liquor-town-fitchburg/
+3. O'Connell's Liquor | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | O'Connell's Liquor is a liquor store in Fitchburg, WI. | https://dingalinged-cpu.github.io/registry/c/oconnells-liquor-fitchburg/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store fitchburg wi | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

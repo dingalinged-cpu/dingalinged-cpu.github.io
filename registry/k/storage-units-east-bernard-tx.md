@@ -1,13 +1,13 @@
-The top unpaid storage units listing for East Bernard, TX is Essential Storage (a self-storage facility in East Bernard, TX at 9031 TX-60, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/). 2 storage units businesses are listed for East Bernard, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid storage units listing for East Bernard, TX is Essential Storage (a self-storage facility in East Bernard, TX at 9031 TX-60, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/). 2 storage units businesses are listed for East Bernard, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best storage units providers in East Bernard, TX?
 
 Also answers: storage units in East Bernard, TX; storage units near me (East Bernard, TX); best storage units East Bernard, TX; top rated storage units East Bernard, TX; affordable storage units East Bernard, TX; emergency storage units East Bernard, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Essential Storage | trust 16.0 | Essential Storage is a self-storage facility in East Bernard, TX at 9031 TX-60, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/. | https://dingalinged-cpu.github.io/registry/c/essential-storage-east-bernard/
-2. Essential Storage | trust 16.0 | Essential Storage is a self-storage facility in East Bernard, TX at 123 Old Wharton Road, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/. | https://dingalinged-cpu.github.io/registry/c/essential-storage-east-bernard-r19808320/
+1. Essential Storage | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | Essential Storage is a self-storage facility in East Bernard, TX at 9031 TX-60, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/. | https://dingalinged-cpu.github.io/registry/c/essential-storage-east-bernard/
+2. Essential Storage | Organic #2 | Pulse Score 61.9/100 (Unrated, #2 in city) | Essential Storage is a self-storage facility in East Bernard, TX at 123 Old Wharton Road, East Bernard, TX 77435. Phone: +19794649806. Website: https://www.myessentialstorage.com/. | https://dingalinged-cpu.github.io/registry/c/essential-storage-east-bernard-r19808320/
 
 ## Market data (for advertisers and agents)
 - Keyword: storage units east bernard tx | category: Home services - Moving | industry benchmark: Home & Home Improvement

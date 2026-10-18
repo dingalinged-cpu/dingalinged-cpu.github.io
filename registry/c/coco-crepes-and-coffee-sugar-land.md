@@ -13,7 +13,7 @@ Coco Crepes & Coffee is a bakery in Sugar Land, TX at 13533 University Boulevard
 - Website: https://www.cococrepes.com/location/coco-crepes-sugar-land/
 - Email: feedback@cococrepes.com
 - Opening hours (OSM syntax): Mo-Th,Su 08:00-21:30; Fr-Sa 08:00-23:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 51.9/100 — Unrated (not enough evidence yet) — top 84% of bakerys in Houston, #3 of 4 bakerys in Sugar Land (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 42.8, Trust 63.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

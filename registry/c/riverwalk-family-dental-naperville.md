@@ -13,7 +13,7 @@ Riverwalk Family Dental is a dentist in Naperville, IL at 209 West Jefferson Ave
 - Website: https://riverwalkfamilydental.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 10:00-19:00; Tu 08:00-17:00; We 08:00-18:00; Th 07:00-19:00; Fr 09:00-14:00; Sa 08:00-13:00; Su off
-- Registry Score: 62.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 12% of dentists in Chicago, #8 of 30 dentists in Naperville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.9, Trust 60. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

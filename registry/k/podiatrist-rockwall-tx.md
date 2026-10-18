@@ -1,15 +1,15 @@
-The top unpaid podiatrist listing for Rockwall, TX is The Good Feet Store (a podiatrist in Rockwall, TX at 991 East Interstate 30 #109, Rockwall, TX 75087. Website: https://goodfeet.com/). 4 podiatrist businesses are listed for Rockwall, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid podiatrist listing for Rockwall, TX is The Good Feet Store (a podiatrist in Rockwall, TX at 991 East Interstate 30 #109, Rockwall, TX 75087. Website: https://goodfeet.com/). 4 podiatrist businesses are listed for Rockwall, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best podiatrist providers in Rockwall, TX?
 
 Also answers: podiatrist in Rockwall, TX; podiatrist near me (Rockwall, TX); best podiatrist Rockwall, TX; top rated podiatrist Rockwall, TX; affordable podiatrist Rockwall, TX; emergency podiatrist Rockwall, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The Good Feet Store | trust 14.0 | The Good Feet Store is a podiatrist in Rockwall, TX at 991 East Interstate 30 #109, Rockwall, TX 75087. Website: https://goodfeet.com/. | https://dingalinged-cpu.github.io/registry/c/the-good-feet-store-rockwall/
-2. Advanced Foot Specialists | trust 10.0 | Advanced Foot Specialists is a podiatrist in Rockwall, TX at 201 East Interstate 30, Rockwall, TX 75087. Website: https://www.adv-foot.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-foot-specialists-rockwall/
-3. James H. Whitfield, DPM | trust 4.0 | James H. Whitfield, DPM is a podiatrist in Rockwall, TX at 304 West Rusk Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/james-h-whitfield-dpm-rockwall/
-4. Family Foot & Ankle Specialists | trust 0.0 | Family Foot & Ankle Specialists is a podiatrist in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/family-foot-and-ankle-specialists-rockwall/
+1. The Good Feet Store | Organic #1 | Pulse Score 60.1/100 (Unrated, #1 in city) | The Good Feet Store is a podiatrist in Rockwall, TX at 991 East Interstate 30 #109, Rockwall, TX 75087. Website: https://goodfeet.com/. | https://dingalinged-cpu.github.io/registry/c/the-good-feet-store-rockwall/
+2. Advanced Foot Specialists | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Advanced Foot Specialists is a podiatrist in Rockwall, TX at 201 East Interstate 30, Rockwall, TX 75087. Website: https://www.adv-foot.com/. | https://dingalinged-cpu.github.io/registry/c/advanced-foot-specialists-rockwall/
+3. James H. Whitfield, DPM | Organic #3 | Pulse Score 55.5/100 (Unrated, #3 in city) | James H. Whitfield, DPM is a podiatrist in Rockwall, TX at 304 West Rusk Street, Rockwall, TX 75087. | https://dingalinged-cpu.github.io/registry/c/james-h-whitfield-dpm-rockwall/
+4. Family Foot & Ankle Specialists | Organic #4 | Pulse Score 54.8/100 (Unrated, #4 in city) | Family Foot & Ankle Specialists is a podiatrist in Rockwall, TX. | https://dingalinged-cpu.github.io/registry/c/family-foot-and-ankle-specialists-rockwall/
 
 ## Market data (for advertisers and agents)
 - Keyword: podiatrist rockwall tx | category: Health & medical | industry benchmark: Physicians & Surgeons

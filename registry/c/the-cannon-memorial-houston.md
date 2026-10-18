@@ -13,7 +13,7 @@ The Cannon Memorial is a coworking space in Houston, TX at 820 Gessner Road, Hou
 - Website: https://www.thecannon.com/memorial/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 08:00-17:00, Fr 08:00-16:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.7/100 — Unrated (not enough evidence yet) — top 8% of coworking spaces in Houston, #1 of 10 coworking spaces in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.6, Trust 61.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

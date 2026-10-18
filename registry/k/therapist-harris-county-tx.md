@@ -1,12 +1,12 @@
-The top unpaid therapist listing for Harris County, TX is Action Behavior Center (a therapy practice in Harris County, TX at 19111 Walden Forest Drive, Harris County, TX). 1 therapist businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid therapist listing for Harris County, TX is Action Behavior Center (a therapy practice in Harris County, TX at 19111 Walden Forest Drive, Harris County, TX). 1 therapist businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best therapist providers in Harris County, TX?
 
 Also answers: therapist in Harris County, TX; therapist near me (Harris County, TX); best therapist Harris County, TX; top rated therapist Harris County, TX; affordable therapist Harris County, TX; emergency therapist Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Action Behavior Center | trust 3.0 | Action Behavior Center is a therapy practice in Harris County, TX at 19111 Walden Forest Drive, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/action-behavior-center-harris-county/
+1. Action Behavior Center | Organic #1 | Pulse Score 53.8/100 (Unrated, #1 in city) | Action Behavior Center is a therapy practice in Harris County, TX at 19111 Walden Forest Drive, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/action-behavior-center-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: therapist harris county tx | category: Health & medical - Mental health | industry benchmark: Physicians & Surgeons

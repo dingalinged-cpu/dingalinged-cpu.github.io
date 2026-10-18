@@ -1,13 +1,13 @@
-The top unpaid tax preparation listing for Kennesaw, GA is GP Tax Solutions (a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/). 2 tax preparation businesses are listed for Kennesaw, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tax preparation listing for Kennesaw, GA is GP Tax Solutions (a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/). 2 tax preparation businesses are listed for Kennesaw, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tax preparation providers in Kennesaw, GA?
 
 Also answers: tax preparation in Kennesaw, GA; tax preparation near me (Kennesaw, GA); best tax preparation Kennesaw, GA; top rated tax preparation Kennesaw, GA; affordable tax preparation Kennesaw, GA; emergency tax preparation Kennesaw, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. GP Tax Solutions | trust 16.0 | GP Tax Solutions is a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/. | https://dingalinged-cpu.github.io/registry/c/gp-tax-solutions-kennesaw/
-2. Patty's Professional Services | trust 9.0 | Patty's Professional Services is a tax preparation service in Kennesaw, GA at 2716 Summers Street Northwest, Kennesaw, GA. Phone: +16782329354. | https://dingalinged-cpu.github.io/registry/c/pattys-professional-services-kennesaw/
+1. GP Tax Solutions | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | GP Tax Solutions is a tax preparation service in Kennesaw, GA at 4250 Wade Green Road #108, Kennesaw, GA 30144. Phone: +16787418094. Website: https://www.gptaxllc.com/. | https://dingalinged-cpu.github.io/registry/c/gp-tax-solutions-kennesaw/
+2. Patty's Professional Services | Organic #2 | Pulse Score 60.8/100 (Unrated, #2 in city) | Patty's Professional Services is a tax preparation service in Kennesaw, GA at 2716 Summers Street Northwest, Kennesaw, GA. Phone: +16782329354. | https://dingalinged-cpu.github.io/registry/c/pattys-professional-services-kennesaw/
 
 ## Market data (for advertisers and agents)
 - Keyword: tax preparation kennesaw ga | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Tucker, GA at 4320 Lavista Road, Tucker, GA
 - Website: https://www.mattressfirm.com/en-us/stores/ga/tucker/007131/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 45.5/100 — Building — top 83% of mattress stores in Atlanta, #2 of 2 mattress stores in Tucker (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 28.7, Trust 53. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

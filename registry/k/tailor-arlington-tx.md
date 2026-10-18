@@ -1,13 +1,13 @@
-The top unpaid tailor listing for Arlington, TX is Alterations & Custom Designs (a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828). 2 tailor businesses are listed for Arlington, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tailor listing for Arlington, TX is Alterations & Custom Designs (a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828). 2 tailor businesses are listed for Arlington, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tailor providers in Arlington, TX?
 
 Also answers: tailor in Arlington, TX; tailor near me (Arlington, TX); best tailor Arlington, TX; top rated tailor Arlington, TX; affordable tailor Arlington, TX; emergency tailor Arlington, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Alterations & Custom Designs | trust 10.0 | Alterations & Custom Designs is a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828. | https://dingalinged-cpu.github.io/registry/c/alterations-and-custom-designs-arlington/
-2. Back on the Rack | trust 0.0 | Back on the Rack is a tailor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/back-on-the-rack-arlington/
+1. Alterations & Custom Designs | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Alterations & Custom Designs is a tailor in Arlington, TX at 1021 South Bowen Road, Arlington, TX 76013. Phone: +18172773828. | https://dingalinged-cpu.github.io/registry/c/alterations-and-custom-designs-arlington/
+2. Back on the Rack | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Back on the Rack is a tailor in Arlington, TX. | https://dingalinged-cpu.github.io/registry/c/back-on-the-rack-arlington/
 
 ## Market data (for advertisers and agents)
 - Keyword: tailor arlington tx | category: Professional & financial services | industry benchmark: Finance & Insurance

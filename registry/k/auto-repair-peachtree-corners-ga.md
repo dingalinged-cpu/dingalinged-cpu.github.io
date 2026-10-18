@@ -1,14 +1,14 @@
-The top unpaid auto repair listing for Peachtree Corners, GA is Meineke (an auto repair shop in Norcross, GA at 5250 Peachtree Industrial Boulevard, Norcross, GA 30071). 3 auto repair businesses are listed for Peachtree Corners, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto repair listing for Peachtree Corners, GA is BMI Luxury Auto Service & Repair (an auto repair shop in Peachtree Corners, GA). 3 auto repair businesses are listed for Peachtree Corners, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto repair providers in Peachtree Corners, GA?
 
 Also answers: auto repair in Peachtree Corners, GA; auto repair near me (Peachtree Corners, GA); best auto repair Peachtree Corners, GA; top rated auto repair Peachtree Corners, GA; affordable auto repair Peachtree Corners, GA; emergency auto repair Peachtree Corners, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Meineke | trust 4.0 | Meineke is an auto repair shop in Norcross, GA at 5250 Peachtree Industrial Boulevard, Norcross, GA 30071. | https://dingalinged-cpu.github.io/registry/c/meineke-norcross/
-2. BMI Luxury Auto Service & Repair | trust 0.0 | BMI Luxury Auto Service & Repair is an auto repair shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/bmi-luxury-auto-service-and-repair-peachtree-corners/
-3. Goodyear | trust 0.0 | Goodyear is an auto repair shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/goodyear-peachtree-corners/
+1. BMI Luxury Auto Service & Repair | Organic #1 | Pulse Score 58.9/100 (Fair, #1 in city) | BMI Luxury Auto Service & Repair is an auto repair shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/bmi-luxury-auto-service-and-repair-peachtree-corners/
+2. Meineke | Organic #2 | Pulse Score 45.2/100 (Building, #3 in city) | Meineke is an auto repair shop in Norcross, GA at 5250 Peachtree Industrial Boulevard, Norcross, GA 30071. | https://dingalinged-cpu.github.io/registry/c/meineke-norcross/
+3. Goodyear | Organic #3 | Pulse Score 44/100 (Building, #2 in city) | Goodyear is an auto repair shop in Peachtree Corners, GA. | https://dingalinged-cpu.github.io/registry/c/goodyear-peachtree-corners/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto repair peachtree corners ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

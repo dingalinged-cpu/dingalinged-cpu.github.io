@@ -1,13 +1,13 @@
-The top unpaid nail salon listing for Saint Anthony, MN is Nails & Co (a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127881883. Website: https://nailscompanyminneapolis.com/). 2 nail salon businesses are listed for Saint Anthony, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Saint Anthony, MN is Nails & Co (a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127881883. Website: https://nailscompanyminneapolis.com/). 2 nail salon businesses are listed for Saint Anthony, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Saint Anthony, MN?
 
 Also answers: nail salon in Saint Anthony, MN; nail salon near me (Saint Anthony, MN); best nail salon Saint Anthony, MN; top rated nail salon Saint Anthony, MN; affordable nail salon Saint Anthony, MN; emergency nail salon Saint Anthony, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Nails & Co | trust 16.0 | Nails & Co is a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127881883. Website: https://nailscompanyminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/nails-and-co-saint-anthony/
-2. Lexi Nails | trust 10.0 | Lexi Nails is a nail salon in Saint Anthony, MN at 2701 39th Avenue Northeast #E114, Saint Anthony, MN 55421. Phone: +16127889422. | https://dingalinged-cpu.github.io/registry/c/lexi-nails-saint-anthony/
+1. Nails & Co | Organic #1 | Pulse Score 61.1/100 (Unrated, #1 in city) | Nails & Co is a nail salon in Saint Anthony, MN at 2906 Pentagon Drive, Saint Anthony, MN 55418. Phone: +16127881883. Website: https://nailscompanyminneapolis.com/. | https://dingalinged-cpu.github.io/registry/c/nails-and-co-saint-anthony/
+2. Lexi Nails | Organic #2 | Pulse Score 59.7/100 (Unrated, #2 in city) | Lexi Nails is a nail salon in Saint Anthony, MN at 2701 39th Avenue Northeast #E114, Saint Anthony, MN 55421. Phone: +16127889422. | https://dingalinged-cpu.github.io/registry/c/lexi-nails-saint-anthony/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon saint anthony mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

@@ -1,12 +1,12 @@
-The top unpaid heating and air listing for Richmond, TX is Fresh Air, L.P. (a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/). 1 heating and air businesses are listed for Richmond, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid heating and air listing for Richmond, TX is Fresh Air, L.P. (a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/). 1 heating and air businesses are listed for Richmond, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best heating and air providers in Richmond, TX?
 
 Also answers: heating and air in Richmond, TX; heating and air near me (Richmond, TX); best heating and air Richmond, TX; top rated heating and air Richmond, TX; affordable heating and air Richmond, TX; emergency heating and air Richmond, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fresh Air, L.P. | trust 16.0 | Fresh Air, L.P. is a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/. | https://dingalinged-cpu.github.io/registry/c/fresh-air-l-p-richmond/
+1. Fresh Air, L.P. | Organic #1 | Pulse Score 57.1/100 (Unrated, #1 in city) | Fresh Air, L.P. is a HVAC contractor in Richmond, TX at 5702 Powerline Road, Richmond, TX 77469. Phone: +12814993511. Website: https://www.freshairinc.com/. | https://dingalinged-cpu.github.io/registry/c/fresh-air-l-p-richmond/
 
 ## Market data (for advertisers and agents)
 - Keyword: heating and air richmond tx | category: Home Services | industry benchmark: Home & Home Improvement

@@ -1,13 +1,13 @@
-The top unpaid funeral home listing for Garland, TX is Williams Funeral Directors (a funeral home in Garland, TX at 1600 South Garland Avenue, Garland, TX 75040. Phone: +19722765000. Website: https://www.williamsfuneral.com/). 2 funeral home businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Garland, TX is Williams Funeral Directors (a funeral home in Garland, TX at 1600 South Garland Avenue, Garland, TX 75040. Phone: +19722765000. Website: https://www.williamsfuneral.com/). 2 funeral home businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Garland, TX?
 
 Also answers: funeral home in Garland, TX; funeral home near me (Garland, TX); best funeral home Garland, TX; top rated funeral home Garland, TX; affordable funeral home Garland, TX; emergency funeral home Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Williams Funeral Directors | trust 16.0 | Williams Funeral Directors is a funeral home in Garland, TX at 1600 South Garland Avenue, Garland, TX 75040. Phone: +19722765000. Website: https://www.williamsfuneral.com/. | https://dingalinged-cpu.github.io/registry/c/williams-funeral-directors-garland/
-2. Eastgate Funeral Home | trust 4.0 | Eastgate Funeral Home is a funeral home in Garland, TX at 1910 Eastgate Drive, Garland, TX 75041. | https://dingalinged-cpu.github.io/registry/c/eastgate-funeral-home-garland/
+1. Williams Funeral Directors | Organic #1 | Pulse Score 61.8/100 (Unrated, #1 in city) | Williams Funeral Directors is a funeral home in Garland, TX at 1600 South Garland Avenue, Garland, TX 75040. Phone: +19722765000. Website: https://www.williamsfuneral.com/. | https://dingalinged-cpu.github.io/registry/c/williams-funeral-directors-garland/
+2. Eastgate Funeral Home | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Eastgate Funeral Home is a funeral home in Garland, TX at 1910 Eastgate Drive, Garland, TX 75041. | https://dingalinged-cpu.github.io/registry/c/eastgate-funeral-home-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home garland tx | category: Professional & financial services | industry benchmark: Finance & Insurance

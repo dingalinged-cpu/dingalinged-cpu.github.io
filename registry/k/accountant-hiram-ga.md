@@ -1,12 +1,12 @@
-The top unpaid accountant listing for Hiram, GA is Sweetwater Tax Relief (an accountant in Hiram, GA at 5604 Wendy Bagwell Pkwy, #412, Hiram, GA 30141. Phone: +17709483311. Website: https://sweetwatertaxrelief.com/). 1 accountant businesses are listed for Hiram, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Hiram, GA is Sweetwater Tax Relief (an accountant in Hiram, GA at 5604 Wendy Bagwell Pkwy, #412, Hiram, GA 30141. Phone: +17709483311. Website: https://sweetwatertaxrelief.com/). 1 accountant businesses are listed for Hiram, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Hiram, GA?
 
 Also answers: accountant in Hiram, GA; accountant near me (Hiram, GA); best accountant Hiram, GA; top rated accountant Hiram, GA; affordable accountant Hiram, GA; emergency accountant Hiram, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sweetwater Tax Relief | trust 20.0 | Sweetwater Tax Relief is an accountant in Hiram, GA at 5604 Wendy Bagwell Pkwy, #412, Hiram, GA 30141. Phone: +17709483311. Website: https://sweetwatertaxrelief.com/. | https://dingalinged-cpu.github.io/registry/c/sweetwater-tax-relief-hiram/
+1. Sweetwater Tax Relief | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Sweetwater Tax Relief is an accountant in Hiram, GA at 5604 Wendy Bagwell Pkwy, #412, Hiram, GA 30141. Phone: +17709483311. Website: https://sweetwatertaxrelief.com/. | https://dingalinged-cpu.github.io/registry/c/sweetwater-tax-relief-hiram/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant hiram ga | category: professional_accounting | industry benchmark: Business Services

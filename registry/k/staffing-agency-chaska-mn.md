@@ -1,12 +1,12 @@
-The top unpaid staffing agency listing for Chaska, MN is The work connection (a staffing agency in Chaska, MN). 1 staffing agency businesses are listed for Chaska, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid staffing agency listing for Chaska, MN is The work connection (a staffing agency in Chaska, MN). 1 staffing agency businesses are listed for Chaska, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best staffing agency providers in Chaska, MN?
 
 Also answers: staffing agency in Chaska, MN; staffing agency near me (Chaska, MN); best staffing agency Chaska, MN; top rated staffing agency Chaska, MN; affordable staffing agency Chaska, MN; emergency staffing agency Chaska, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. The work connection | trust 0.0 | The work connection is a staffing agency in Chaska, MN. | https://dingalinged-cpu.github.io/registry/c/the-work-connection-chaska/
+1. The work connection | Organic #1 | Pulse Score 54/100 (Unrated, #1 in city) | The work connection is a staffing agency in Chaska, MN. | https://dingalinged-cpu.github.io/registry/c/the-work-connection-chaska/
 
 ## Market data (for advertisers and agents)
 - Keyword: staffing agency chaska mn | category: b2b_services | industry benchmark: Business Services

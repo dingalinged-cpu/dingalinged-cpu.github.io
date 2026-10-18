@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Wayzata, MN is Wayzata Dental (a dentist in Wayzata, MN at 250 Central Avenue North #202, Wayzata, MN 55391. Phone: +19524734900. Website: https://www.wayzatadental.com/). 1 dentist businesses are listed for Wayzata, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Wayzata, MN is Wayzata Dental (a dentist in Wayzata, MN at 250 Central Avenue North #202, Wayzata, MN 55391. Phone: +19524734900. Website: https://www.wayzatadental.com/). 1 dentist businesses are listed for Wayzata, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Wayzata, MN?
 
 Also answers: dentist in Wayzata, MN; dentist near me (Wayzata, MN); best dentist Wayzata, MN; top rated dentist Wayzata, MN; affordable dentist Wayzata, MN; emergency dentist Wayzata, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Wayzata Dental | trust 20.0 | Wayzata Dental is a dentist in Wayzata, MN at 250 Central Avenue North #202, Wayzata, MN 55391. Phone: +19524734900. Website: https://www.wayzatadental.com/. | https://dingalinged-cpu.github.io/registry/c/wayzata-dental-wayzata/
+1. Wayzata Dental | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Wayzata Dental is a dentist in Wayzata, MN at 250 Central Avenue North #202, Wayzata, MN 55391. Phone: +19524734900. Website: https://www.wayzatadental.com/. | https://dingalinged-cpu.github.io/registry/c/wayzata-dental-wayzata/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist wayzata mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -13,7 +13,7 @@ Premiere Family Dental- Archer is a dentist in Chicago, IL at 4554 South Archer 
 - Website: https://www.burbanksmiles.com/
 - Email: premierefamilydentalarcher@gmail.com
 - Opening hours (OSM syntax): Su, Tue-Th CLOSED, Mo & Fr 10:00-17:00, Sa 08:00-13:00
-- Registry Score: 64.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 4% of dentists in Chicago, #9 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

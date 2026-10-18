@@ -13,7 +13,7 @@ Heights Nail Spa is a nail salon in Houston, TX at 1901 Taylor Street #F, Housto
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 09:30-19:30; Su 11:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.8/100 — Good — top 2% of nail salons in Houston, #1 of 106 nail salons in Houston (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.2, Trust 62.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

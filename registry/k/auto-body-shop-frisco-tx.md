@@ -1,14 +1,14 @@
-The top unpaid auto body shop listing for Frisco, TX is Rexroad Mobile Auto Repair (an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/). 3 auto body shop businesses are listed for Frisco, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Frisco, TX is Rexroad Mobile Auto Repair (an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/). 3 auto body shop businesses are listed for Frisco, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Frisco, TX?
 
 Also answers: auto body shop in Frisco, TX; auto body shop near me (Frisco, TX); best auto body shop Frisco, TX; top rated auto body shop Frisco, TX; affordable auto body shop Frisco, TX; emergency auto body shop Frisco, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Rexroad Mobile Auto Repair | trust 20.0 | Rexroad Mobile Auto Repair is an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/. | https://dingalinged-cpu.github.io/registry/c/rexroad-mobile-auto-repair-frisco/
-2. Caliber Collision | trust 14.0 | Caliber Collision is an auto repair shop in Frisco, TX at 275 Old Newman Road, Frisco, TX 75034. Phone: +12144691538. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-frisco-w1109133583/
-3. Caliber Collision | trust 3.0 | Caliber Collision is an auto repair shop in Frisco, TX at 6440 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-frisco/
+1. Rexroad Mobile Auto Repair | Organic #1 | Pulse Score 51.4/100 (Fair, #10 in city) | Rexroad Mobile Auto Repair is an auto repair shop in Frisco, TX at 15922 Eldorado Parkway #500, Frisco, TX 75035. Phone: +14694694521. Website: https://www.rexroadauto.com/. | https://dingalinged-cpu.github.io/registry/c/rexroad-mobile-auto-repair-frisco/
+2. Caliber Collision | Organic #2 | Pulse Score 48.3/100 (Unrated, #14 in city) | Caliber Collision is an auto repair shop in Frisco, TX at 275 Old Newman Road, Frisco, TX 75034. Phone: +12144691538. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-frisco-w1109133583/
+3. Caliber Collision | Organic #3 | Pulse Score 46.4/100 (Building, #17 in city) | Caliber Collision is an auto repair shop in Frisco, TX at 6440 Preston Road, Frisco, TX. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-frisco/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop frisco tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

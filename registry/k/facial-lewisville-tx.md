@@ -1,19 +1,19 @@
-The top unpaid facial listing for Lewisville, TX is BeauxBelle (a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/). 8 facial businesses are listed for Lewisville, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid facial listing for Lewisville, TX is BeauxBelle (a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/). 8 facial businesses are listed for Lewisville, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best facial providers in Lewisville, TX?
 
 Also answers: facial in Lewisville, TX; facial near me (Lewisville, TX); best facial Lewisville, TX; top rated facial Lewisville, TX; affordable facial Lewisville, TX; emergency facial Lewisville, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. BeauxBelle | trust 12.0 | BeauxBelle is a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/. | https://dingalinged-cpu.github.io/registry/c/beauxbelle-lewisville/
-2. Seem Threading | trust 10.0 | Seem Threading is a waxing salon in Lewisville, TX. Phone: +14693123854. | https://dingalinged-cpu.github.io/registry/c/seem-threading-lewisville/
-3. Bombay | trust 4.0 | Bombay is a spa in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bombay-lewisville/
-4. Relax & Wax | trust 4.0 | Relax & Wax is a waxing salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/relax-and-wax-lewisville/
-5. Salons by JC | trust 4.0 | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
-6. Hair Expo Salon & Spa | trust 0.0 | Hair Expo Salon & Spa is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hair-expo-salon-and-spa-lewisville/
-7. Legacy Salons & Day Spa | trust 0.0 | Legacy Salons & Day Spa is a nail salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-salons-and-day-spa-lewisville/
-8. Pretty Boutiques Salon Suites | trust 0.0 | Pretty Boutiques Salon Suites is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/pretty-boutiques-salon-suites-lewisville/
+1. BeauxBelle | Organic #1 | Pulse Score 61.8/100 (Unrated, #11 in city) | BeauxBelle is a nail salon in Lewisville, TX. Phone: +19409456200. Website: https://www.beauxbelle.com/. | https://dingalinged-cpu.github.io/registry/c/beauxbelle-lewisville/
+2. Seem Threading | Organic #2 | Pulse Score 60.2/100 (Unrated, #1 in city) | Seem Threading is a waxing salon in Lewisville, TX. Phone: +14693123854. | https://dingalinged-cpu.github.io/registry/c/seem-threading-lewisville/
+3. Bombay | Organic #3 | Pulse Score 58.9/100 (Fair, #1 in city) | Bombay is a spa in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/bombay-lewisville/
+4. Legacy Salons & Day Spa | Organic #4 | Pulse Score 57/100 (Unrated, #14 in city) | Legacy Salons & Day Spa is a nail salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/legacy-salons-and-day-spa-lewisville/
+5. Pretty Boutiques Salon Suites | Organic #5 | Pulse Score 55/100 (Fair, #1 in city) | Pretty Boutiques Salon Suites is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/pretty-boutiques-salon-suites-lewisville/
+6. Hair Expo Salon & Spa | Organic #6 | Pulse Score 54/100 (Unrated, #2 in city) | Hair Expo Salon & Spa is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/hair-expo-salon-and-spa-lewisville/
+7. Relax & Wax | Organic #7 | Pulse Score 44.3/100 (Building, #7 in city) | Relax & Wax is a waxing salon in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/relax-and-wax-lewisville/
+8. Salons by JC | Organic #8 | Pulse Score 43.9/100 (Building, #3 in city) | Salons by JC is a skin care studio in Lewisville, TX. | https://dingalinged-cpu.github.io/registry/c/salons-by-jc-lewisville/
 
 ## Market data (for advertisers and agents)
 - Keyword: facial lewisville tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

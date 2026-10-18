@@ -1,23 +1,23 @@
-The top unpaid furniture store listing for Skokie, IL is Bob's Discount Furniture (a furniture store in Skokie, IL at 4825 Golf Road, Skokie, IL 60077. Website: https://www.mybobs.com/stores/skokie-il/). 12 furniture store businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Skokie, IL is Casa Elegante (a furniture store in Skokie, IL at 4935 Oakton Street, Skokie, IL 60077. Website: https://www.casaelegante.com/). 12 furniture store businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Skokie, IL?
 
 Also answers: furniture store in Skokie, IL; furniture store near me (Skokie, IL); best furniture store Skokie, IL; top rated furniture store Skokie, IL; affordable furniture store Skokie, IL; emergency furniture store Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bob's Discount Furniture | trust 10.0 | Bob's Discount Furniture is a furniture store in Skokie, IL at 4825 Golf Road, Skokie, IL 60077. Website: https://www.mybobs.com/stores/skokie-il/. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-skokie/
-2. Casa Elegante | trust 10.0 | Casa Elegante is a furniture store in Skokie, IL at 4935 Oakton Street, Skokie, IL 60077. Website: https://www.casaelegante.com/. | https://dingalinged-cpu.github.io/registry/c/casa-elegante-skokie/
-3. Arhaus | trust 4.0 | Arhaus is a furniture store in Skokie, IL at 4999 Old Orchard Center #E58, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/arhaus-skokie/
-4. Ethan Allen | trust 4.0 | Ethan Allen is a furniture store in Skokie, IL at 9747 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-skokie/
-5. Penny Mustard Furnishings | trust 4.0 | Penny Mustard Furnishings is a furniture store in Skokie, IL at 10001 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-skokie/
-6. Room & Board | trust 4.0 | Room & Board is a furniture store in Skokie, IL at 10071 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/room-and-board-skokie/
-7. Scandinavian Design | trust 4.0 | Scandinavian Design is a furniture store in Skokie, IL at 4028 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/scandinavian-design-skokie/
-8. Crate & Barrel | trust 0.0 | Crate & Barrel is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-skokie/
-9. LoveSac | trust 0.0 | LoveSac is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-skokie/
-10. Pottery Barn | trust 0.0 | Pottery Barn is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-skokie/
-11. Smithe Furniture | trust 0.0 | Smithe Furniture is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/smithe-furniture-skokie/
-12. west elm | trust 0.0 | west elm is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/west-elm-skokie/
+1. Casa Elegante | Organic #1 | Pulse Score 58.7/100 (Unrated, #1 in city) | Casa Elegante is a furniture store in Skokie, IL at 4935 Oakton Street, Skokie, IL 60077. Website: https://www.casaelegante.com/. | https://dingalinged-cpu.github.io/registry/c/casa-elegante-skokie/
+2. Scandinavian Design | Organic #2 | Pulse Score 56.6/100 (Unrated, #2 in city) | Scandinavian Design is a furniture store in Skokie, IL at 4028 Dempster Street, Skokie, IL 60076. | https://dingalinged-cpu.github.io/registry/c/scandinavian-design-skokie/
+3. Smithe Furniture | Organic #3 | Pulse Score 55.3/100 (Unrated, #3 in city) | Smithe Furniture is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/smithe-furniture-skokie/
+4. Bob's Discount Furniture | Organic #4 | Pulse Score 46.6/100 (Building, #4 in city) | Bob's Discount Furniture is a furniture store in Skokie, IL at 4825 Golf Road, Skokie, IL 60077. Website: https://www.mybobs.com/stores/skokie-il/. | https://dingalinged-cpu.github.io/registry/c/bobs-discount-furniture-skokie/
+5. Room & Board | Organic #5 | Pulse Score 44.8/100 (Unrated, #5 in city) | Room & Board is a furniture store in Skokie, IL at 10071 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/room-and-board-skokie/
+6. Arhaus | Organic #6 | Pulse Score 44.3/100 (Building, #6 in city) | Arhaus is a furniture store in Skokie, IL at 4999 Old Orchard Center #E58, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/arhaus-skokie/
+7. Ethan Allen | Organic #7 | Pulse Score 44.3/100 (Building, #7 in city) | Ethan Allen is a furniture store in Skokie, IL at 9747 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/ethan-allen-skokie/
+8. Penny Mustard Furnishings | Organic #8 | Pulse Score 43.9/100 (Unrated, #8 in city) | Penny Mustard Furnishings is a furniture store in Skokie, IL at 10001 Skokie Boulevard, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/penny-mustard-furnishings-skokie/
+9. Crate & Barrel | Organic #9 | Pulse Score 42/100 (Building, #9 in city) | Crate & Barrel is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/crate-and-barrel-skokie/
+10. LoveSac | Organic #10 | Pulse Score 42/100 (Building, #10 in city) | LoveSac is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/lovesac-skokie/
+11. Pottery Barn | Organic #11 | Pulse Score 42/100 (Building, #11 in city) | Pottery Barn is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pottery-barn-skokie/
+12. west elm | Organic #12 | Pulse Score 42/100 (Building, #12 in city) | west elm is a furniture store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/west-elm-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store skokie il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

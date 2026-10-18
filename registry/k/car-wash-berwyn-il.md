@@ -1,13 +1,13 @@
-The top unpaid car wash listing for Berwyn, IL is WashU Car Wash (a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, IL 60402). 2 car wash businesses are listed for Berwyn, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Berwyn, IL is WashU Car Wash (a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, IL 60402). 2 car wash businesses are listed for Berwyn, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Berwyn, IL?
 
 Also answers: car wash in Berwyn, IL; car wash near me (Berwyn, IL); best car wash Berwyn, IL; top rated car wash Berwyn, IL; affordable car wash Berwyn, IL; emergency car wash Berwyn, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. WashU Car Wash | trust 4.0 | WashU Car Wash is a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/washu-car-wash-berwyn/
-2. Mobil | trust 0.0 | Mobil is a car wash in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-berwyn/
+1. WashU Car Wash | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | WashU Car Wash is a car wash in Berwyn, IL at 2315 South Harlem Avenue, Berwyn, IL 60402. | https://dingalinged-cpu.github.io/registry/c/washu-car-wash-berwyn/
+2. Mobil | Organic #2 | Pulse Score 42/100 (Building, #2 in city) | Mobil is a car wash in Berwyn, IL. | https://dingalinged-cpu.github.io/registry/c/mobil-berwyn/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash berwyn il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

@@ -13,7 +13,7 @@ La International Hair Design is a hair salon in Wheeling, IL at 765 West Dundee 
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 9:00-19:30; Fr 9:00-20:00; Sa 9:00-18:00; Su 9:30-15:00
-- Registry Score: 61.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.1/100 — Unrated (not enough evidence yet) — top 16% of hair salons in Chicago, #1 of 4 hair salons in Wheeling (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.4, Trust 59.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,17 +1,17 @@
-The top unpaid jewelry store listing for Skokie, IL is Sandberg Jewelers (a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077). 6 jewelry store businesses are listed for Skokie, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Skokie, IL is Sandberg Jewelers (a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077). 6 jewelry store businesses are listed for Skokie, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Skokie, IL?
 
 Also answers: jewelry store in Skokie, IL; jewelry store near me (Skokie, IL); best jewelry store Skokie, IL; top rated jewelry store Skokie, IL; affordable jewelry store Skokie, IL; emergency jewelry store Skokie, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sandberg Jewelers | trust 4.0 | Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sandberg-jewelers-skokie/
-2. C.D. Peacock | trust 0.0 | C.D. Peacock is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-peacock-skokie/
-3. Pandora | trust 0.0 | Pandora is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-skokie/
-4. Rogers & Hollands Jewelers | trust 0.0 | Rogers & Hollands Jewelers is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-jewelers-skokie/
-5. Swarovski | trust 0.0 | Swarovski is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-skokie/
-6. Tiffany & Company | trust 0.0 | Tiffany & Company is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-skokie/
+1. Sandberg Jewelers | Organic #1 | Pulse Score 57.8/100 (Unrated, #1 in city) | Sandberg Jewelers is a jewelry store in Skokie, IL at 7096 Carpenter Road #27, Skokie, IL 60077. | https://dingalinged-cpu.github.io/registry/c/sandberg-jewelers-skokie/
+2. C.D. Peacock | Organic #2 | Pulse Score 55.2/100 (Unrated, #2 in city) | C.D. Peacock is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/c-d-peacock-skokie/
+3. Rogers & Hollands Jewelers | Organic #3 | Pulse Score 55.2/100 (Unrated, #3 in city) | Rogers & Hollands Jewelers is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/rogers-and-hollands-jewelers-skokie/
+4. Tiffany & Company | Organic #4 | Pulse Score 43.4/100 (Building, #4 in city) | Tiffany & Company is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/tiffany-and-company-skokie/
+5. Pandora | Organic #5 | Pulse Score 42.9/100 (Building, #5 in city) | Pandora is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/pandora-skokie/
+6. Swarovski | Organic #6 | Pulse Score 42.9/100 (Building, #6 in city) | Swarovski is a jewelry store in Skokie, IL. | https://dingalinged-cpu.github.io/registry/c/swarovski-skokie/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store skokie il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

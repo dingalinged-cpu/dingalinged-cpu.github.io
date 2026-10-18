@@ -13,7 +13,7 @@ Foot Palace is a massage studio in Trophy Club, TX at 301 Trophy Lake Drive #124
 - Website: https://footpalacespa.online/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Su 10:00-23:00
-- Registry Score: 64.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.6/100 — Unrated (not enough evidence yet) — top 3% of massage studios in Dallas–Fort Worth, #1 of 1 massage studios in Trophy Club (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.6, Trust 62. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

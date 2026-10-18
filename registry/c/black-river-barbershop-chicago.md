@@ -13,7 +13,7 @@ Black River Barbershop is a hair salon in Chicago, IL at 1845 North Western Aven
 - Website: n/a
 - Email: blackriverbarbershop@gmail.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 61.6/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.4/100 — Unrated (not enough evidence yet) — top 15% of hair salons in Chicago, #35 of 220 hair salons in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 57.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

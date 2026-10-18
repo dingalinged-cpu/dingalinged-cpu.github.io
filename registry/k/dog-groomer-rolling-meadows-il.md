@@ -1,12 +1,12 @@
-The top unpaid dog groomer listing for Rolling Meadows, IL is Biscuits & Bows (a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/). 1 dog groomer businesses are listed for Rolling Meadows, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dog groomer listing for Rolling Meadows, IL is Biscuits & Bows (a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/). 1 dog groomer businesses are listed for Rolling Meadows, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dog groomer providers in Rolling Meadows, IL?
 
 Also answers: dog groomer in Rolling Meadows, IL; dog groomer near me (Rolling Meadows, IL); best dog groomer Rolling Meadows, IL; top rated dog groomer Rolling Meadows, IL; affordable dog groomer Rolling Meadows, IL; emergency dog groomer Rolling Meadows, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Biscuits & Bows | trust 20.0 | Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/. | https://dingalinged-cpu.github.io/registry/c/biscuits-and-bows-rolling-meadows/
+1. Biscuits & Bows | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | Biscuits & Bows is a dog groomer in Rolling Meadows, IL at 1945 South Plum Grove Road, Rolling Meadows, IL 60067. Phone: +18472027877. Website: https://www.biscuitsandbowsnw.com/. | https://dingalinged-cpu.github.io/registry/c/biscuits-and-bows-rolling-meadows/
 
 ## Market data (for advertisers and agents)
 - Keyword: dog groomer rolling meadows il | category: Pets | industry benchmark: Animals & Pets

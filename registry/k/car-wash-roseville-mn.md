@@ -1,17 +1,17 @@
-The top unpaid car wash listing for Roseville, MN is Tsunami Car Wash (a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/). 6 car wash businesses are listed for Roseville, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Roseville, MN is Tsunami Car Wash (a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/). 6 car wash businesses are listed for Roseville, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Roseville, MN?
 
 Also answers: car wash in Roseville, MN; car wash near me (Roseville, MN); best car wash Roseville, MN; top rated car wash Roseville, MN; affordable car wash Roseville, MN; emergency car wash Roseville, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Tsunami Car Wash | trust 13.0 | Tsunami Car Wash is a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/. | https://dingalinged-cpu.github.io/registry/c/tsunami-car-wash-roseville/
-2. Mister Car Wash | trust 9.0 | Mister Car Wash is a car wash in Roseville, MN at 1555 County Road B West, Roseville, MN. Phone: +16516310220. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-roseville/
-3. Solar Car Wash | trust 0.0 | Solar Car Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/solar-car-wash-roseville/
-4. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville/
-5. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478574231/
-6. Speedy Wash | trust 0.0 | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478593991/
+1. Tsunami Car Wash | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Tsunami Car Wash is a car wash in Roseville, MN at 1701 West County Road C, Roseville, MN. Website: https://www.tsunamiexpress.com/roseville-minnesota-car-wash/. | https://dingalinged-cpu.github.io/registry/c/tsunami-car-wash-roseville/
+2. Solar Car Wash | Organic #2 | Pulse Score 57.2/100 (Unrated, #2 in city) | Solar Car Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/solar-car-wash-roseville/
+3. Mister Car Wash | Organic #3 | Pulse Score 47.7/100 (Building, #3 in city) | Mister Car Wash is a car wash in Roseville, MN at 1555 County Road B West, Roseville, MN. Phone: +16516310220. | https://dingalinged-cpu.github.io/registry/c/mister-car-wash-roseville/
+4. Speedy Wash | Organic #4 | Pulse Score 43.2/100 (Building, #4 in city) | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville/
+5. Speedy Wash | Organic #5 | Pulse Score 43.2/100 (Building, #5 in city) | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478574231/
+6. Speedy Wash | Organic #6 | Pulse Score 43.2/100 (Building, #6 in city) | Speedy Wash is a car wash in Roseville, MN. | https://dingalinged-cpu.github.io/registry/c/speedy-wash-roseville-n12478593991/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash roseville mn | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

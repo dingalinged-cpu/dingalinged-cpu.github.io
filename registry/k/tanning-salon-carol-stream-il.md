@@ -1,12 +1,12 @@
-The top unpaid tanning salon listing for Carol Stream, IL is Palm Beach Tan (a tanning salon in Carol Stream, IL). 1 tanning salon businesses are listed for Carol Stream, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Carol Stream, IL is Palm Beach Tan (a tanning salon in Carol Stream, IL). 1 tanning salon businesses are listed for Carol Stream, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Carol Stream, IL?
 
 Also answers: tanning salon in Carol Stream, IL; tanning salon near me (Carol Stream, IL); best tanning salon Carol Stream, IL; top rated tanning salon Carol Stream, IL; affordable tanning salon Carol Stream, IL; emergency tanning salon Carol Stream, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Palm Beach Tan | trust 0.0 | Palm Beach Tan is a tanning salon in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-carol-stream/
+1. Palm Beach Tan | Organic #1 | Pulse Score 42.7/100 (Building, #1 in city) | Palm Beach Tan is a tanning salon in Carol Stream, IL. | https://dingalinged-cpu.github.io/registry/c/palm-beach-tan-carol-stream/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon carol stream il | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

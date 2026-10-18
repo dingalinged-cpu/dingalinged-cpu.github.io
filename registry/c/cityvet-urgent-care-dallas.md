@@ -13,7 +13,7 @@ CityVet + Urgent Care is a veterinarian in Dallas, TX at 11661 Preston Road, Dal
 - Website: https://www.cityvet.com/location/preston-forest/
 - Email: prestonforest@cityvet.com
 - Opening hours (OSM syntax): Mo-Fr 08:00-18:00; Sa 08:00-13:00
-- Registry Score: 65.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.1/100 — Unrated (not enough evidence yet) — top 10% of veterinarians in Dallas–Fort Worth, #3 of 48 veterinarians in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 60.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Katy, TX at 24600 Katy Freeway #1300, Katy,
 - Website: https://www.mattressfirm.com/en-us/stores/tx/katy/001197/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.4/100 — Building — top 48% of mattress stores in Houston, #2 of 3 mattress stores in Katy (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

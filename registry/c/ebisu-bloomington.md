@@ -13,7 +13,7 @@ Ebisu is a gift shop in Bloomington, MN at 306 North Garden, Bloomington, MN.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 10:00-21:00; Su 11:00-19:00
-- Registry Score: 56.9/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 58.9/100 — Unrated (not enough evidence yet) — top 34% of gift shops in Minneapolis–St. Paul, #6 of 15 gift shops in Bloomington (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 50. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

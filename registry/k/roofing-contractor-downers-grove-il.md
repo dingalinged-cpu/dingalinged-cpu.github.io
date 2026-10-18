@@ -1,13 +1,13 @@
-The top unpaid roofing contractor listing for Downers Grove, IL is AmeriPro Roofing (a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/). 2 roofing contractor businesses are listed for Downers Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid roofing contractor listing for Downers Grove, IL is AmeriPro Roofing (a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/). 2 roofing contractor businesses are listed for Downers Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best roofing contractor providers in Downers Grove, IL?
 
 Also answers: roofing contractor in Downers Grove, IL; roofing contractor near me (Downers Grove, IL); best roofing contractor Downers Grove, IL; top rated roofing contractor Downers Grove, IL; affordable roofing contractor Downers Grove, IL; emergency roofing contractor Downers Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. AmeriPro Roofing | trust 20.0 | AmeriPro Roofing is a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/. | https://dingalinged-cpu.github.io/registry/c/ameripro-roofing-downers-grove/
-2. Berg Roofing and Home Improvement | trust 16.0 | Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden Avenue, Downers Grove, IL 60515. Phone: +16304152873. Website: https://www.bergext.com/. | https://dingalinged-cpu.github.io/registry/c/berg-roofing-and-home-improvement-downers-grove/
+1. AmeriPro Roofing | Organic #1 | Pulse Score 60.9/100 (Unrated, #1 in city) | AmeriPro Roofing is a roofer in Downers Grove, IL at 3041 Woodcreek Dr, Downers Grove, IL 60515. Phone: +16302837294. Website: https://ameriproroofing.com/. | https://dingalinged-cpu.github.io/registry/c/ameripro-roofing-downers-grove/
+2. Berg Roofing and Home Improvement | Organic #2 | Pulse Score 59.6/100 (Fair, #2 in city) | Berg Roofing and Home Improvement is a roofer in Downers Grove, IL at 900 Ogden Avenue, Downers Grove, IL 60515. Phone: +16304152873. Website: https://www.bergext.com/. | https://dingalinged-cpu.github.io/registry/c/berg-roofing-and-home-improvement-downers-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: roofing contractor downers grove il | category: Home services - Roofing | industry benchmark: Home & Home Improvement

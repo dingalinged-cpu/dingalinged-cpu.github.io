@@ -1,13 +1,13 @@
-The top unpaid music lessons listing for Mokena, IL is All About Music & Children's Theatre (a music school in Mokena, IL at 19108 Wolf Road, Mokena, IL 60448. Phone: +17084790440. Website: https://allaboutmusicmokena.com/). 2 music lessons businesses are listed for Mokena, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid music lessons listing for Mokena, IL is All About Music & Children's Theatre (a music school in Mokena, IL at 19108 Wolf Road, Mokena, IL 60448. Phone: +17084790440. Website: https://allaboutmusicmokena.com/). 2 music lessons businesses are listed for Mokena, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best music lessons providers in Mokena, IL?
 
 Also answers: music lessons in Mokena, IL; music lessons near me (Mokena, IL); best music lessons Mokena, IL; top rated music lessons Mokena, IL; affordable music lessons Mokena, IL; emergency music lessons Mokena, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All About Music & Children's Theatre | trust 20.0 | All About Music & Children's Theatre is a music school in Mokena, IL at 19108 Wolf Road, Mokena, IL 60448. Phone: +17084790440. Website: https://allaboutmusicmokena.com/. | https://dingalinged-cpu.github.io/registry/c/all-about-music-and-childrens-theatre-mokena/
-2. School of Rock | trust 0.0 | School of Rock is a music school in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-mokena/
+1. All About Music & Children's Theatre | Organic #1 | Pulse Score 63.9/100 (Unrated, #1 in city) | All About Music & Children's Theatre is a music school in Mokena, IL at 19108 Wolf Road, Mokena, IL 60448. Phone: +17084790440. Website: https://allaboutmusicmokena.com/. | https://dingalinged-cpu.github.io/registry/c/all-about-music-and-childrens-theatre-mokena/
+2. School of Rock | Organic #2 | Pulse Score 41.3/100 (Building, #2 in city) | School of Rock is a music school in Mokena, IL. | https://dingalinged-cpu.github.io/registry/c/school-of-rock-mokena/
 
 ## Market data (for advertisers and agents)
 - Keyword: music lessons mokena il | category: Education & childcare | industry benchmark: Education & Instruction

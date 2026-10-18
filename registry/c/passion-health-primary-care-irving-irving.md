@@ -13,7 +13,7 @@ Passion Health Primary Care - Irving is a family medicine practice in Irving, TX
 - Website: https://passionhealthphysicians.com/irving/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 39% of family medicine practices in Dallas–Fort Worth, #3 of 7 family medicine practices in Irving (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 61, Trust 55.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

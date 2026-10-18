@@ -13,7 +13,7 @@ Sport Clips is a hair salon in Roanoke, TX at 1224 North US Highway 377 #Suite 3
 - Website: https://sportclips.com/us-tx-roanoke-tx425
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 12:00-17:00
-- Registry Score: 51.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 49.1/100 — Building — top 75% of hair salons in Dallas–Fort Worth, #2 of 3 hair salons in Roanoke (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.2, Trust 61.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

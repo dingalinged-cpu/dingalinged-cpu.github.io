@@ -1,18 +1,18 @@
-The top unpaid shoe repair listing for Chicago, IL is Fix Your Kicks (a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/). 7 shoe repair businesses are listed for Chicago, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid shoe repair listing for Chicago, IL is Fix Your Kicks (a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/). 7 shoe repair businesses are listed for Chicago, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best shoe repair providers in Chicago, IL?
 
 Also answers: shoe repair in Chicago, IL; shoe repair near me (Chicago, IL); best shoe repair Chicago, IL; top rated shoe repair Chicago, IL; affordable shoe repair Chicago, IL; emergency shoe repair Chicago, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Fix Your Kicks | trust 16.0 | Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/. | https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/
-2. Jessy's Shoe Repair | trust 4.0 | Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/
-3. Kanellos Shoe Repair | trust 4.0 | Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/kanellos-shoe-repair-chicago/
-4. Shoe Hospital | trust 4.0 | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago/
-5. Your Shoe Repair | trust 4.0 | Your Shoe Repair is a shoe repair in Chicago, IL at 2240 West North Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/your-shoe-repair-chicago/
-6. Clyborn Cobbler | trust 0.0 | Clyborn Cobbler is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/clyborn-cobbler-chicago/
-7. Shoe Hospital | trust 0.0 | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago-n6071648418/
+1. Fix Your Kicks | Organic #1 | Pulse Score 62.6/100 (Good, #1 in city) | Fix Your Kicks is a shoe repair in Chicago, IL at 1140 West Thorndale Avenue, Chicago, IL 60660. Phone: +13128603440. Website: https://fixyourkickschi.com/. | https://dingalinged-cpu.github.io/registry/c/fix-your-kicks-chicago/
+2. Kanellos Shoe Repair | Organic #2 | Pulse Score 58.9/100 (Unrated, #2 in city) | Kanellos Shoe Repair is a shoe repair in Chicago, IL at 6325 North Central Avenue, Chicago, IL 60646. | https://dingalinged-cpu.github.io/registry/c/kanellos-shoe-repair-chicago/
+3. Jessy's Shoe Repair | Organic #3 | Pulse Score 57.4/100 (Unrated, #3 in city) | Jessy's Shoe Repair is a shoe repair in Chicago, IL at 2107 North Western Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/jessys-shoe-repair-chicago/
+4. Your Shoe Repair | Organic #4 | Pulse Score 57.4/100 (Unrated, #4 in city) | Your Shoe Repair is a shoe repair in Chicago, IL at 2240 West North Avenue, Chicago, IL 60647. | https://dingalinged-cpu.github.io/registry/c/your-shoe-repair-chicago/
+5. Shoe Hospital | Organic #5 | Pulse Score 57.1/100 (Unrated, #5 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago/
+6. Shoe Hospital | Organic #6 | Pulse Score 55.9/100 (Unrated, #6 in city) | Shoe Hospital is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/shoe-hospital-chicago-n6071648418/
+7. Clyborn Cobbler | Organic #7 | Pulse Score 54.5/100 (Unrated, #7 in city) | Clyborn Cobbler is a shoe repair in Chicago, IL. | https://dingalinged-cpu.github.io/registry/c/clyborn-cobbler-chicago/
 
 ## Market data (for advertisers and agents)
 - Keyword: shoe repair chicago il | category: Professional & financial services | industry benchmark: Finance & Insurance

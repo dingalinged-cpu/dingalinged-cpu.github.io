@@ -1,14 +1,14 @@
-The top unpaid hair salon listing for New Brighton, MN is Style 151 (a hair salon in New Brighton, MN at 151 Silver Lake Road Northwest, New Brighton, MN). 3 hair salon businesses are listed for New Brighton, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid hair salon listing for New Brighton, MN is Style 151 (a hair salon in New Brighton, MN at 151 Silver Lake Road Northwest, New Brighton, MN). 3 hair salon businesses are listed for New Brighton, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best hair salon providers in New Brighton, MN?
 
 Also answers: hair salon in New Brighton, MN; hair salon near me (New Brighton, MN); best hair salon New Brighton, MN; top rated hair salon New Brighton, MN; affordable hair salon New Brighton, MN; emergency hair salon New Brighton, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Style 151 | trust 3.0 | Style 151 is a hair salon in New Brighton, MN at 151 Silver Lake Road Northwest, New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/style-151-new-brighton/
-2. Chops Hair | trust 0.0 | Chops Hair is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/chops-hair-new-brighton/
-3. Jim's Barber Shop | trust 0.0 | Jim's Barber Shop is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/jims-barber-shop-new-brighton/
+1. Style 151 | Organic #1 | Pulse Score 55.7/100 (Unrated, #1 in city) | Style 151 is a hair salon in New Brighton, MN at 151 Silver Lake Road Northwest, New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/style-151-new-brighton/
+2. Chops Hair | Organic #2 | Pulse Score 54.5/100 (Unrated, #2 in city) | Chops Hair is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/chops-hair-new-brighton/
+3. Jim's Barber Shop | Organic #3 | Pulse Score 54.5/100 (Unrated, #3 in city) | Jim's Barber Shop is a hair salon in New Brighton, MN. | https://dingalinged-cpu.github.io/registry/c/jims-barber-shop-new-brighton/
 
 ## Market data (for advertisers and agents)
 - Keyword: hair salon new brighton mn | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

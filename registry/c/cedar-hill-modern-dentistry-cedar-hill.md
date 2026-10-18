@@ -13,7 +13,7 @@ Cedar Hill Modern Dentistry is a dentist in Cedar Hill, TX at 398 East FM 1382 #
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Tu 08:00-18:00; We 08:00-19:00; Th 08:00-18:00; Fr 08:00-16:00
-- Registry Score: 61.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Unrated (not enough evidence yet) — top 22% of dentists in Dallas–Fort Worth, #4 of 15 dentists in Cedar Hill (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.9, Trust 58.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

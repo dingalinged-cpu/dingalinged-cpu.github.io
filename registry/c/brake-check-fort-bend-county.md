@@ -13,7 +13,7 @@ Brake Check is an auto repair shop in Fort Bend County, TX at 10209 Highway 6 So
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Sa 07:30-18:00; Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.8/100 — Unrated (not enough evidence yet) — top 70% of auto repair shops in Houston, #6 of 7 auto repair shops in Fort Bend County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 34.3, Trust 56. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

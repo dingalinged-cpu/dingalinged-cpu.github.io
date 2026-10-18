@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Franklin, WI is Franklin Automotive & Restoration (an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/). 2 tire shop businesses are listed for Franklin, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Franklin, WI is Franklin Automotive & Restoration (an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/). 2 tire shop businesses are listed for Franklin, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Franklin, WI?
 
 Also answers: tire shop in Franklin, WI; tire shop near me (Franklin, WI); best tire shop Franklin, WI; top rated tire shop Franklin, WI; affordable tire shop Franklin, WI; emergency tire shop Franklin, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Franklin Automotive & Restoration | trust 20.0 | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
-2. F&F Tire World | trust 4.0 | F&F Tire World is a tire shop in Franklin, WI at 2930 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/f-and-f-tire-world-franklin/
+1. Franklin Automotive & Restoration | Organic #1 | Pulse Score 62.6/100 (Unrated, #1 in city) | Franklin Automotive & Restoration is an auto repair shop in Franklin, WI at 3012 West Ryan Road, Franklin, WI 53132. Phone: +14147610500. Website: https://www.myfranklinauto.net/. | https://dingalinged-cpu.github.io/registry/c/franklin-automotive-and-restoration-franklin/
+2. F&F Tire World | Organic #2 | Pulse Score 45.2/100 (Unrated, #1 in city) | F&F Tire World is a tire shop in Franklin, WI at 2930 West Rawson Avenue, Franklin, WI 53132. | https://dingalinged-cpu.github.io/registry/c/f-and-f-tire-world-franklin/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop franklin wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

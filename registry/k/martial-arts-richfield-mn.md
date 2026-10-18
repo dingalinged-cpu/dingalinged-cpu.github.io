@@ -1,12 +1,12 @@
-The top unpaid martial arts listing for Richfield, MN is Z-Ultimate Self Defense Studios (a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/). 1 martial arts businesses are listed for Richfield, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid martial arts listing for Richfield, MN is Z-Ultimate Self Defense Studios (a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/). 1 martial arts businesses are listed for Richfield, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best martial arts providers in Richfield, MN?
 
 Also answers: martial arts in Richfield, MN; martial arts near me (Richfield, MN); best martial arts Richfield, MN; top rated martial arts Richfield, MN; affordable martial arts Richfield, MN; emergency martial arts Richfield, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Z-Ultimate Self Defense Studios | trust 20.0 | Z-Ultimate Self Defense Studios is a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/. | https://dingalinged-cpu.github.io/registry/c/z-ultimate-self-defense-studios-richfield/
+1. Z-Ultimate Self Defense Studios | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Z-Ultimate Self Defense Studios is a martial arts school in Richfield, MN at 2920 West 66th Street, Richfield, MN 55423. Phone: +16125648849. Website: https://zultimate.com/locations/edina/. | https://dingalinged-cpu.github.io/registry/c/z-ultimate-self-defense-studios-richfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: martial arts richfield mn | category: Fitness | industry benchmark: Health & Fitness

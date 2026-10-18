@@ -13,7 +13,7 @@ Sprayberry Bottle Shop is a liquor store in Marietta, GA at 2692 Sandy Plains Ro
 - Website: https://www.sprayberrybottleshop.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo 11:00-19:30; Tu-Th 10:30-21:00; Fr-Sa 10:30-21:30; Su 12:30-17:30
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.1/100 — Good — top 1% of liquor stores in Atlanta, #1 of 13 liquor stores in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.1, Trust 63.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

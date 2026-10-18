@@ -1,13 +1,13 @@
-The top unpaid furniture store listing for South Chicago Heights, IL is Aaron's (a furniture store in South Chicago Heights, IL at 3359 Chicago Road, South Chicago Heights, IL 60411. Website: https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd). 2 furniture store businesses are listed for South Chicago Heights, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for South Chicago Heights, IL is Aaron's (a furniture store in South Chicago Heights, IL at 3359 Chicago Road, South Chicago Heights, IL 60411. Website: https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd). 2 furniture store businesses are listed for South Chicago Heights, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in South Chicago Heights, IL?
 
 Also answers: furniture store in South Chicago Heights, IL; furniture store near me (South Chicago Heights, IL); best furniture store South Chicago Heights, IL; top rated furniture store South Chicago Heights, IL; affordable furniture store South Chicago Heights, IL; emergency furniture store South Chicago Heights, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aaron's | trust 14.0 | Aaron's is a furniture store in South Chicago Heights, IL at 3359 Chicago Road, South Chicago Heights, IL 60411. Website: https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd. | https://dingalinged-cpu.github.io/registry/c/aarons-south-chicago-heights/
-2. Rent-A-Center | trust 4.0 | Rent-A-Center is a furniture store in South Chicago Heights, IL at 3304 Chicago Road, South Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-south-chicago-heights/
+1. Aaron's | Organic #1 | Pulse Score 48.9/100 (Building, #1 in city) | Aaron's is a furniture store in South Chicago Heights, IL at 3359 Chicago Road, South Chicago Heights, IL 60411. Website: https://locations.aarons.com/us/il/south-chicago-heights/3359-chicago-rd. | https://dingalinged-cpu.github.io/registry/c/aarons-south-chicago-heights/
+2. Rent-A-Center | Organic #2 | Pulse Score 44.3/100 (Building, #2 in city) | Rent-A-Center is a furniture store in South Chicago Heights, IL at 3304 Chicago Road, South Chicago Heights, IL 60411. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-south-chicago-heights/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store south chicago heights il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

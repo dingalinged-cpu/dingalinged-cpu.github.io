@@ -1,14 +1,14 @@
-The top unpaid printing services listing for Brookfield, IL is Ink Your Wear (a printing service in Brookfield, IL at 8838 Brookfield Avenue, Brookfield, IL 60513. Website: https://inkyourwear.com/index.html). 3 printing services businesses are listed for Brookfield, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid printing services listing for Brookfield, IL is Ink Your Wear (a printing service in Brookfield, IL at 8838 Brookfield Avenue, Brookfield, IL 60513. Website: https://inkyourwear.com/index.html). 3 printing services businesses are listed for Brookfield, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best printing services providers in Brookfield, IL?
 
 Also answers: printing services in Brookfield, IL; printing services near me (Brookfield, IL); best printing services Brookfield, IL; top rated printing services Brookfield, IL; affordable printing services Brookfield, IL; emergency printing services Brookfield, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Ink Your Wear | trust 10.0 | Ink Your Wear is a printing service in Brookfield, IL at 8838 Brookfield Avenue, Brookfield, IL 60513. Website: https://inkyourwear.com/index.html. | https://dingalinged-cpu.github.io/registry/c/ink-your-wear-brookfield/
-2. Priority Print | trust 10.0 | Priority Print is a printing service in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Website: https://priorityprintbrookfield.com/. | https://dingalinged-cpu.github.io/registry/c/priority-print-brookfield/
-3. Galloping Ghost Reproductions | trust 0.0 | Galloping Ghost Reproductions is a printing service in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/galloping-ghost-reproductions-brookfield/
+1. Ink Your Wear | Organic #1 | Pulse Score 58.5/100 (Unrated, #1 in city) | Ink Your Wear is a printing service in Brookfield, IL at 8838 Brookfield Avenue, Brookfield, IL 60513. Website: https://inkyourwear.com/index.html. | https://dingalinged-cpu.github.io/registry/c/ink-your-wear-brookfield/
+2. Priority Print | Organic #2 | Pulse Score 58.5/100 (Unrated, #2 in city) | Priority Print is a printing service in Brookfield, IL at 9433 Ogden Avenue, Brookfield, IL 60513. Website: https://priorityprintbrookfield.com/. | https://dingalinged-cpu.github.io/registry/c/priority-print-brookfield/
+3. Galloping Ghost Reproductions | Organic #3 | Pulse Score 54/100 (Unrated, #3 in city) | Galloping Ghost Reproductions is a printing service in Brookfield, IL. | https://dingalinged-cpu.github.io/registry/c/galloping-ghost-reproductions-brookfield/
 
 ## Market data (for advertisers and agents)
 - Keyword: printing services brookfield il | category: Professional & financial services | industry benchmark: Finance & Insurance

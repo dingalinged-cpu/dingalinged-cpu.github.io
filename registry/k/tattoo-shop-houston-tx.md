@@ -1,33 +1,33 @@
-The top unpaid tattoo shop listing for Houston, TX is Sacred Arts (a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. Phone: +18328084242. Website: https://www.sacredartshtx.com/). 22 tattoo shop businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tattoo shop listing for Houston, TX is You Pick It We Stick It (a tattoo shop in Houston, TX at 8235 Almeda-Genoa Road, Houston, TX 77075. Phone: +17139870006. Website: https://youpickitwestickit.com/). 22 tattoo shop businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tattoo shop providers in Houston, TX?
 
 Also answers: tattoo shop in Houston, TX; tattoo shop near me (Houston, TX); best tattoo shop Houston, TX; top rated tattoo shop Houston, TX; affordable tattoo shop Houston, TX; emergency tattoo shop Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sacred Arts | trust 20.0 | Sacred Arts is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. Phone: +18328084242. Website: https://www.sacredartshtx.com/. | https://dingalinged-cpu.github.io/registry/c/sacred-arts-houston/
-2. You Pick It We Stick It | trust 20.0 | You Pick It We Stick It is a tattoo shop in Houston, TX at 8235 Almeda-Genoa Road, Houston, TX 77075. Phone: +17139870006. Website: https://youpickitwestickit.com/. | https://dingalinged-cpu.github.io/registry/c/you-pick-it-we-stick-it-houston/
-3. 713 Tattoo Parlor | trust 10.0 | 713 Tattoo Parlor is a tattoo shop in Houston, TX. Phone: +17135331239. | https://dingalinged-cpu.github.io/registry/c/713-tattoo-parlor-houston/
-4. Fondren Ink | trust 10.0 | Fondren Ink is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. Phone: +12818203351. | https://dingalinged-cpu.github.io/registry/c/fondren-ink-houston/
-5. Mugen Tattoo Studio | trust 10.0 | Mugen Tattoo Studio is a tattoo shop in Houston, TX at 14520 Memorial Drive #50, Houston, TX 77079. Phone: +17139920561. | https://dingalinged-cpu.github.io/registry/c/mugen-tattoo-studio-houston/
-6. True Love Studios | trust 9.0 | True Love Studios is a tattoo shop in Houston, TX at 4826 Washington Avenue, Houston, TX. Website: https://truelove-studios.com/. | https://dingalinged-cpu.github.io/registry/c/true-love-studios-houston/
-7. Beto Pizano Tattoos | trust 8.0 | Beto Pizano Tattoos is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. | https://dingalinged-cpu.github.io/registry/c/beto-pizano-tattoos-houston/
-8. 3rd Generation Ink | trust 7.0 | 3rd Generation Ink is a tattoo shop in Houston, TX at 126 Heights Boulevard #102, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/3rd-generation-ink-houston/
-9. Tattoo Temple | trust 7.0 | Tattoo Temple is a tattoo shop in Houston, TX at 3346 East T C Jester Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-temple-houston/
-10. Battle Royale Tattoo | trust 4.0 | Battle Royale Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/battle-royale-tattoo-houston/
-11. Bound By Ink Tattoos | trust 3.0 | Bound By Ink Tattoos is a tattoo shop in Houston, TX at 7640 Airline Drive #J, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/bound-by-ink-tattoos-houston/
-12. Dago's Tattoos | trust 3.0 | Dago's Tattoos is a tattoo shop in Houston, TX at 5131½ North Freeway, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dagos-tattoos-houston/
-13. Gold Rush Collective | trust 3.0 | Gold Rush Collective is a tattoo shop in Houston, TX at 724 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gold-rush-collective-houston/
-14. Prison Break Tattoos | trust 3.0 | Prison Break Tattoos is a tattoo shop in Houston, TX at 5306 Washington Avenue, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/prison-break-tattoos-houston/
-15. 290 Ink | trust 0.0 | 290 Ink is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/290-ink-houston/
-16. City Boyz Tattoo | trust 0.0 | City Boyz Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/city-boyz-tattoo-houston/
-17. Flying Squid Tattoo | trust 0.0 | Flying Squid Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/flying-squid-tattoo-houston/
-18. HF 2TAT2s | trust 0.0 | HF 2TAT2s is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hf-2tat2s-houston/
-19. Hustle Ink | trust 0.0 | Hustle Ink is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hustle-ink-houston/
-20. Rose Gold Design | trust 0.0 | Rose Gold Design is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/rose-gold-design-houston/
-21. Tattoo HTX | trust 0.0 | Tattoo HTX is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-htx-houston/
-22. Tattoo Riders | trust 0.0 | Tattoo Riders is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-riders-houston/
+1. You Pick It We Stick It | Organic #1 | Pulse Score 64.5/100 (Good, #1 in city) | You Pick It We Stick It is a tattoo shop in Houston, TX at 8235 Almeda-Genoa Road, Houston, TX 77075. Phone: +17139870006. Website: https://youpickitwestickit.com/. | https://dingalinged-cpu.github.io/registry/c/you-pick-it-we-stick-it-houston/
+2. Sacred Arts | Organic #2 | Pulse Score 64.2/100 (Good, #2 in city) | Sacred Arts is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. Phone: +18328084242. Website: https://www.sacredartshtx.com/. | https://dingalinged-cpu.github.io/registry/c/sacred-arts-houston/
+3. Fondren Ink | Organic #3 | Pulse Score 62.3/100 (Unrated, #3 in city) | Fondren Ink is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. Phone: +12818203351. | https://dingalinged-cpu.github.io/registry/c/fondren-ink-houston/
+4. Beto Pizano Tattoos | Organic #4 | Pulse Score 62.1/100 (Unrated, #4 in city) | Beto Pizano Tattoos is a tattoo shop in Houston, TX at 8920 North Freeway Frontage Road, Houston, TX 77037. | https://dingalinged-cpu.github.io/registry/c/beto-pizano-tattoos-houston/
+5. Battle Royale Tattoo | Organic #5 | Pulse Score 61.1/100 (Good, #5 in city) | Battle Royale Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/battle-royale-tattoo-houston/
+6. Mugen Tattoo Studio | Organic #6 | Pulse Score 60.9/100 (Unrated, #6 in city) | Mugen Tattoo Studio is a tattoo shop in Houston, TX at 14520 Memorial Drive #50, Houston, TX 77079. Phone: +17139920561. | https://dingalinged-cpu.github.io/registry/c/mugen-tattoo-studio-houston/
+7. True Love Studios | Organic #7 | Pulse Score 60.5/100 (Unrated, #7 in city) | True Love Studios is a tattoo shop in Houston, TX at 4826 Washington Avenue, Houston, TX. Website: https://truelove-studios.com/. | https://dingalinged-cpu.github.io/registry/c/true-love-studios-houston/
+8. 713 Tattoo Parlor | Organic #8 | Pulse Score 60.3/100 (Unrated, #8 in city) | 713 Tattoo Parlor is a tattoo shop in Houston, TX. Phone: +17135331239. | https://dingalinged-cpu.github.io/registry/c/713-tattoo-parlor-houston/
+9. Tattoo Temple | Organic #9 | Pulse Score 60.2/100 (Unrated, #9 in city) | Tattoo Temple is a tattoo shop in Houston, TX at 3346 East T C Jester Boulevard, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-temple-houston/
+10. 3rd Generation Ink | Organic #10 | Pulse Score 60/100 (Unrated, #10 in city) | 3rd Generation Ink is a tattoo shop in Houston, TX at 126 Heights Boulevard #102, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/3rd-generation-ink-houston/
+11. Dago's Tattoos | Organic #11 | Pulse Score 58.3/100 (Unrated, #11 in city) | Dago's Tattoos is a tattoo shop in Houston, TX at 5131½ North Freeway, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/dagos-tattoos-houston/
+12. Gold Rush Collective | Organic #12 | Pulse Score 58.1/100 (Unrated, #12 in city) | Gold Rush Collective is a tattoo shop in Houston, TX at 724 West 19th Street, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/gold-rush-collective-houston/
+13. Hustle Ink | Organic #13 | Pulse Score 56.5/100 (Unrated, #13 in city) | Hustle Ink is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hustle-ink-houston/
+14. Bound By Ink Tattoos | Organic #14 | Pulse Score 56.5/100 (Unrated, #14 in city) | Bound By Ink Tattoos is a tattoo shop in Houston, TX at 7640 Airline Drive #J, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/bound-by-ink-tattoos-houston/
+15. Prison Break Tattoos | Organic #15 | Pulse Score 56.5/100 (Unrated, #15 in city) | Prison Break Tattoos is a tattoo shop in Houston, TX at 5306 Washington Avenue, Houston, TX. | https://dingalinged-cpu.github.io/registry/c/prison-break-tattoos-houston/
+16. 290 Ink | Organic #16 | Pulse Score 56.3/100 (Unrated, #16 in city) | 290 Ink is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/290-ink-houston/
+17. Flying Squid Tattoo | Organic #17 | Pulse Score 56.1/100 (Unrated, #17 in city) | Flying Squid Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/flying-squid-tattoo-houston/
+18. City Boyz Tattoo | Organic #18 | Pulse Score 54.6/100 (Unrated, #18 in city) | City Boyz Tattoo is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/city-boyz-tattoo-houston/
+19. HF 2TAT2s | Organic #19 | Pulse Score 54.6/100 (Unrated, #19 in city) | HF 2TAT2s is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/hf-2tat2s-houston/
+20. Rose Gold Design | Organic #20 | Pulse Score 54.6/100 (Unrated, #20 in city) | Rose Gold Design is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/rose-gold-design-houston/
+21. Tattoo HTX | Organic #21 | Pulse Score 54.6/100 (Unrated, #21 in city) | Tattoo HTX is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-htx-houston/
+22. Tattoo Riders | Organic #22 | Pulse Score 54.6/100 (Unrated, #22 in city) | Tattoo Riders is a tattoo shop in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/tattoo-riders-houston/
 
 ## Market data (for advertisers and agents)
 - Keyword: tattoo shop houston tx | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

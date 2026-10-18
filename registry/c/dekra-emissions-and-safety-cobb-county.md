@@ -13,7 +13,7 @@ DEKRA Emissions & Safety is a vehicle inspection station in Cobb County, GA at 2
 - Website: https://www.dekra.us/en/georgia/marietta-2932-canton-rd-ne/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-19:00; Sa,Su 09:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.3/100 — Building — top 94% of vehicle inspection stations in Atlanta, #4 of 4 vehicle inspection stations in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 38.4, Trust 54.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

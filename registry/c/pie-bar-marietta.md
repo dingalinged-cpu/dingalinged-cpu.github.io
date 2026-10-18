@@ -13,7 +13,7 @@ Pie Bar is a bakery in Marietta, GA at 60 Powder Springs Street Southeast, Marie
 - Website: https://orderpiebar.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 11:00-19:00; Fr-Sa 11:00-21:00; Su 12:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61.8/100 — Unrated (not enough evidence yet) — top 21% of bakerys in Atlanta, #6 of 13 bakerys in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.8, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

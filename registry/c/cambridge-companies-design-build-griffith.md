@@ -13,7 +13,7 @@ Cambridge Companies Design-Build is a business consultant in Griffith, IN at 500
 - Website: https://cambridgecompaniesinc.com/
 - Email: info@cambridgecompaniesinc.com
 - Opening hours (OSM syntax): Mo-Fr 07:00-17:00
-- Registry Score: 63.2/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.2/100 — Unrated (not enough evidence yet) — top 16% of business consultants in Chicago, #1 of 1 business consultants in Griffith (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 61.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

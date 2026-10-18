@@ -1,12 +1,12 @@
-The top unpaid painters listing for Minneapolis, MN is Minneapolis Exterior House Painting Pros (a painting contractor in Minneapolis, MN at 1226 Adams Street Northeast, Minneapolis, MN 55413. Phone: +17633632373. Website: https://minneapolisexteriorpaintingpros.com/). 1 painters businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid painters listing for Minneapolis, MN is Minneapolis Exterior House Painting Pros (a painting contractor in Minneapolis, MN at 1226 Adams Street Northeast, Minneapolis, MN 55413. Phone: +17633632373. Website: https://minneapolisexteriorpaintingpros.com/). 1 painters businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best painters providers in Minneapolis, MN?
 
 Also answers: painters in Minneapolis, MN; painters near me (Minneapolis, MN); best painters Minneapolis, MN; top rated painters Minneapolis, MN; affordable painters Minneapolis, MN; emergency painters Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Minneapolis Exterior House Painting Pros | trust 16.0 | Minneapolis Exterior House Painting Pros is a painting contractor in Minneapolis, MN at 1226 Adams Street Northeast, Minneapolis, MN 55413. Phone: +17633632373. Website: https://minneapolisexteriorpaintingpros.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-exterior-house-painting-pros-minneapolis/
+1. Minneapolis Exterior House Painting Pros | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Minneapolis Exterior House Painting Pros is a painting contractor in Minneapolis, MN at 1226 Adams Street Northeast, Minneapolis, MN 55413. Phone: +17633632373. Website: https://minneapolisexteriorpaintingpros.com/. | https://dingalinged-cpu.github.io/registry/c/minneapolis-exterior-house-painting-pros-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: painters minneapolis mn | category: Home services - Painting | industry benchmark: Home & Home Improvement

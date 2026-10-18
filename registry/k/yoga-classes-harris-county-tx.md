@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Harris County, TX is Some Like It Hot Yoga & Fitness (a yoga studio in Harris County, TX at 11403 Barker Cypress Road #1200, Harris County, TX). 2 yoga classes businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Harris County, TX is Some Like It Hot Yoga & Fitness (a yoga studio in Harris County, TX at 11403 Barker Cypress Road #1200, Harris County, TX). 2 yoga classes businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Harris County, TX?
 
 Also answers: yoga classes in Harris County, TX; yoga classes near me (Harris County, TX); best yoga classes Harris County, TX; top rated yoga classes Harris County, TX; affordable yoga classes Harris County, TX; emergency yoga classes Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Some Like It Hot Yoga & Fitness | trust 3.0 | Some Like It Hot Yoga & Fitness is a yoga studio in Harris County, TX at 11403 Barker Cypress Road #1200, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/some-like-it-hot-yoga-and-fitness-harris-county/
-2. Hotworx | trust 0.0 | Hotworx is a yoga studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hotworx-harris-county-n13973154304/
+1. Some Like It Hot Yoga & Fitness | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | Some Like It Hot Yoga & Fitness is a yoga studio in Harris County, TX at 11403 Barker Cypress Road #1200, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/some-like-it-hot-yoga-and-fitness-harris-county/
+2. Hotworx | Organic #2 | Pulse Score 42.3/100 (Building, #2 in city) | Hotworx is a yoga studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/hotworx-harris-county-n13973154304/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes harris county tx | category: Fitness | industry benchmark: Health & Fitness

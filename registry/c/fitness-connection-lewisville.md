@@ -13,7 +13,7 @@ Fitness Connection is a gym in Lewisville, TX. Phone: +12142227300.
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 05:00-22:00; Sa-Su 07:00-19:00
-- Registry Score: 51.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 48.7/100 — Building — top 55% of gyms in Dallas–Fort Worth, #2 of 5 gyms in Lewisville (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 36.1, Trust 57.8. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

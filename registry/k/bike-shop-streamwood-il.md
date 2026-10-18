@@ -1,12 +1,12 @@
-The top unpaid bike shop listing for Streamwood, IL is Never Ending Cycles (a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/). 1 bike shop businesses are listed for Streamwood, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bike shop listing for Streamwood, IL is Never Ending Cycles (a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/). 1 bike shop businesses are listed for Streamwood, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bike shop providers in Streamwood, IL?
 
 Also answers: bike shop in Streamwood, IL; bike shop near me (Streamwood, IL); best bike shop Streamwood, IL; top rated bike shop Streamwood, IL; affordable bike shop Streamwood, IL; emergency bike shop Streamwood, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Never Ending Cycles | trust 10.0 | Never Ending Cycles is a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/. | https://dingalinged-cpu.github.io/registry/c/never-ending-cycles-streamwood/
+1. Never Ending Cycles | Organic #1 | Pulse Score 57/100 (Unrated, #1 in city) | Never Ending Cycles is a bike shop in Streamwood, IL at 1060 East Schaumburg Road, Streamwood, IL 60107. Website: https://www.neverendingcyclesshop.com/. | https://dingalinged-cpu.github.io/registry/c/never-ending-cycles-streamwood/
 
 ## Market data (for advertisers and agents)
 - Keyword: bike shop streamwood il | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

@@ -1,14 +1,14 @@
-The top unpaid car wash listing for Hanover Park, IL is Everclean Car Wash (a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/). 3 car wash businesses are listed for Hanover Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid car wash listing for Hanover Park, IL is Everclean Car Wash (a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/). 3 car wash businesses are listed for Hanover Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best car wash providers in Hanover Park, IL?
 
 Also answers: car wash in Hanover Park, IL; car wash near me (Hanover Park, IL); best car wash Hanover Park, IL; top rated car wash Hanover Park, IL; affordable car wash Hanover Park, IL; emergency car wash Hanover Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Everclean Car Wash | trust 16.0 | Everclean Car Wash is a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/. | https://dingalinged-cpu.github.io/registry/c/everclean-car-wash-hanover-park/
-2. Car Brite | trust 4.0 | Car Brite is a car wash in Hanover Park, IL at 2630 West Lake Street, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/car-brite-hanover-park/
-3. Shell | trust 0.0 | Shell is a car wash in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/shell-hanover-park/
+1. Everclean Car Wash | Organic #1 | Pulse Score 62.1/100 (Unrated, #1 in city) | Everclean Car Wash is a car wash in Hanover Park, IL at 2020 West Lake Street, Hanover Park, IL 60133. Phone: +16304878108. Website: https://evercleancw.com/locations/hanover-park/. | https://dingalinged-cpu.github.io/registry/c/everclean-car-wash-hanover-park/
+2. Car Brite | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Car Brite is a car wash in Hanover Park, IL at 2630 West Lake Street, Hanover Park, IL 60133. | https://dingalinged-cpu.github.io/registry/c/car-brite-hanover-park/
+3. Shell | Organic #3 | Pulse Score 42/100 (Building, #3 in city) | Shell is a car wash in Hanover Park, IL. | https://dingalinged-cpu.github.io/registry/c/shell-hanover-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: car wash hanover park il | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

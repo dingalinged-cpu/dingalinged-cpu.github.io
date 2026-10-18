@@ -1,12 +1,12 @@
-The top unpaid bakery listing for White Bear Lake, MN is Grandma's Bakery (a bakery in White Bear Lake, MN). 1 bakery businesses are listed for White Bear Lake, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for White Bear Lake, MN is Grandma's Bakery (a bakery in White Bear Lake, MN). 1 bakery businesses are listed for White Bear Lake, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in White Bear Lake, MN?
 
 Also answers: bakery in White Bear Lake, MN; bakery near me (White Bear Lake, MN); best bakery White Bear Lake, MN; top rated bakery White Bear Lake, MN; affordable bakery White Bear Lake, MN; emergency bakery White Bear Lake, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Grandma's Bakery | trust 0.0 | Grandma's Bakery is a bakery in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/grandmas-bakery-white-bear-lake/
+1. Grandma's Bakery | Organic #1 | Pulse Score 54.1/100 (Unrated, #1 in city) | Grandma's Bakery is a bakery in White Bear Lake, MN. | https://dingalinged-cpu.github.io/registry/c/grandmas-bakery-white-bear-lake/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery white bear lake mn | category: Events & weddings | industry benchmark: Personal Services

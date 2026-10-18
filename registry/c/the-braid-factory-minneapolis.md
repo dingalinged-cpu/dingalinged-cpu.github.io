@@ -13,7 +13,7 @@ The Braid Factory is a hair salon in Minneapolis, MN at 4600 Chicago Avenue Sout
 - Website: https://www.braidfactorymn.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Th 09:00-21:00, Fr-Sa 08:00-22:00, Su 09:00-17:00
-- Registry Score: 65.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.9/100 — Unrated (not enough evidence yet) — top 3% of hair salons in Minneapolis–St. Paul, #4 of 108 hair salons in Minneapolis (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 66.6, Trust 64.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

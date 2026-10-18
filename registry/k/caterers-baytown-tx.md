@@ -1,12 +1,12 @@
-The top unpaid caterers listing for Baytown, TX is Kendra's Kitchen Culinary Creations & Catering (a caterer in Baytown, TX at 522 Hillhurst Drive, Baytown, TX 77521). 1 caterers businesses are listed for Baytown, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid caterers listing for Baytown, TX is Kendra's Kitchen Culinary Creations & Catering (a caterer in Baytown, TX at 522 Hillhurst Drive, Baytown, TX 77521). 1 caterers businesses are listed for Baytown, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best caterers providers in Baytown, TX?
 
 Also answers: caterers in Baytown, TX; caterers near me (Baytown, TX); best caterers Baytown, TX; top rated caterers Baytown, TX; affordable caterers Baytown, TX; emergency caterers Baytown, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Kendra's Kitchen Culinary Creations & Catering | trust 8.0 | Kendra's Kitchen Culinary Creations & Catering is a caterer in Baytown, TX at 522 Hillhurst Drive, Baytown, TX 77521. | https://dingalinged-cpu.github.io/registry/c/kendras-kitchen-culinary-creations-and-catering-baytown/
+1. Kendra's Kitchen Culinary Creations & Catering | Organic #1 | Pulse Score 59.2/100 (Unrated, #1 in city) | Kendra's Kitchen Culinary Creations & Catering is a caterer in Baytown, TX at 522 Hillhurst Drive, Baytown, TX 77521. | https://dingalinged-cpu.github.io/registry/c/kendras-kitchen-culinary-creations-and-catering-baytown/
 
 ## Market data (for advertisers and agents)
 - Keyword: caterers baytown tx | category: Events & weddings | industry benchmark: Personal Services

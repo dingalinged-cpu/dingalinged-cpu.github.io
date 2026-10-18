@@ -1,13 +1,13 @@
-The top unpaid dry cleaners listing for Anoka, MN is MTM Cleaners & Tailors (a dry cleaner in Anoka, MN). 2 dry cleaners businesses are listed for Anoka, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dry cleaners listing for Anoka, MN is Sew & Press (a dry cleaner in Anoka, MN). 2 dry cleaners businesses are listed for Anoka, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dry cleaners providers in Anoka, MN?
 
 Also answers: dry cleaners in Anoka, MN; dry cleaners near me (Anoka, MN); best dry cleaners Anoka, MN; top rated dry cleaners Anoka, MN; affordable dry cleaners Anoka, MN; emergency dry cleaners Anoka, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. MTM Cleaners & Tailors | trust 0.0 | MTM Cleaners & Tailors is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/
-2. Sew & Press | trust 0.0 | Sew & Press is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/sew-and-press-anoka/
+1. Sew & Press | Organic #1 | Pulse Score 55.1/100 (Unrated, #1 in city) | Sew & Press is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/sew-and-press-anoka/
+2. MTM Cleaners & Tailors | Organic #2 | Pulse Score 54.3/100 (Unrated, #2 in city) | MTM Cleaners & Tailors is a dry cleaner in Anoka, MN. | https://dingalinged-cpu.github.io/registry/c/mtm-cleaners-and-tailors-anoka/
 
 ## Market data (for advertisers and agents)
 - Keyword: dry cleaners anoka mn | category: Professional & financial services | industry benchmark: Finance & Insurance

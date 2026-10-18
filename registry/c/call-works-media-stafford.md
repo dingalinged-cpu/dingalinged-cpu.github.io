@@ -13,7 +13,7 @@ Call Works Media is a marketing agency in Stafford, TX at 13003 Southwest Freewa
 - Website: https://www.callworksmedia.com/
 - Email: service@callworksmedia.com
 - Opening hours (OSM syntax): 24/7
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62.7/100 — Unrated (not enough evidence yet) — top 7% of marketing agencys in Houston, #1 of 1 marketing agencys in Stafford (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67, Trust 63.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

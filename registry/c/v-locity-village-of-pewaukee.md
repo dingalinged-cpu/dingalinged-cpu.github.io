@@ -13,7 +13,7 @@ VéloCity is a bike shop in Village of Pewaukee, WI at 203 West Wisconsin Avenue
 - Website: https://www.vcitycycling.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:00; Sa 10:00-17:00; Su off
-- Registry Score: 60.4/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.6/100 — Unrated (not enough evidence yet) — top 37% of bike shops in Milwaukee, #1 of 1 bike shops in Village of Pewaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64.2, Trust 58.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

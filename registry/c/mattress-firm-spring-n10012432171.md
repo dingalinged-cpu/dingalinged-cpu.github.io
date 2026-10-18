@@ -13,7 +13,7 @@ Mattress Firm is a mattress store in Spring, TX at 6535 North Grand Parkway West
 - Website: https://www.mattressfirm.com/stores/tx/spring/mattress-stores-spring-tx-77389-9655.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.2/100 — Building — top 64% of mattress stores in Houston, #3 of 3 mattress stores in Spring (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.1, Trust 58.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

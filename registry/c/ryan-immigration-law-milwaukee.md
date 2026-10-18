@@ -13,7 +13,7 @@ Ryan Immigration Law is a lawyer in Milwaukee, WI at 128 West Mineral Street, Mi
 - Website: https://www.ryanimmigration.com/
 - Email: maria@ryanimmigration.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 58.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 39% of lawyers in Milwaukee, #24 of 48 lawyers in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 63.5, Trust 53.1. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

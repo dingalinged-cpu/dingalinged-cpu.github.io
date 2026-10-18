@@ -1,12 +1,12 @@
-The top unpaid audiologist listing for League City, TX is Hearing Research (an audiologist in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18555300258. Website: https://www.hearingresearch.org/). 1 audiologist businesses are listed for League City, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid audiologist listing for League City, TX is Hearing Research (an audiologist in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18555300258. Website: https://www.hearingresearch.org/). 1 audiologist businesses are listed for League City, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best audiologist providers in League City, TX?
 
 Also answers: audiologist in League City, TX; audiologist near me (League City, TX); best audiologist League City, TX; top rated audiologist League City, TX; affordable audiologist League City, TX; emergency audiologist League City, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Hearing Research | trust 20.0 | Hearing Research is an audiologist in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18555300258. Website: https://www.hearingresearch.org/. | https://dingalinged-cpu.github.io/registry/c/hearing-research-league-city/
+1. Hearing Research | Organic #1 | Pulse Score 63.1/100 (Unrated, #1 in city) | Hearing Research is an audiologist in League City, TX at 2600 South Shore Boulevard #302, League City, TX 77573. Phone: +18555300258. Website: https://www.hearingresearch.org/. | https://dingalinged-cpu.github.io/registry/c/hearing-research-league-city/
 
 ## Market data (for advertisers and agents)
 - Keyword: audiologist league city tx | category: Health & medical | industry benchmark: Physicians & Surgeons

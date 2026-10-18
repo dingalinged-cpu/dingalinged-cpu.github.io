@@ -1,18 +1,18 @@
-The top unpaid nail salon listing for Sun Prairie, WI is All Nails (a nail salon in Sun Prairie, WI). 7 nail salon businesses are listed for Sun Prairie, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid nail salon listing for Sun Prairie, WI is All Nails (a nail salon in Sun Prairie, WI). 7 nail salon businesses are listed for Sun Prairie, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best nail salon providers in Sun Prairie, WI?
 
 Also answers: nail salon in Sun Prairie, WI; nail salon near me (Sun Prairie, WI); best nail salon Sun Prairie, WI; top rated nail salon Sun Prairie, WI; affordable nail salon Sun Prairie, WI; emergency nail salon Sun Prairie, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. All Nails | trust 4.0 | All Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/all-nails-sun-prairie/
-2. K Nails | trust 4.0 | K Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/k-nails-sun-prairie/
-3. Blush Nail Boutique | trust 0.0 | Blush Nail Boutique is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/blush-nail-boutique-sun-prairie/
-4. Designer Nails | trust 0.0 | Designer Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/designer-nails-sun-prairie/
-5. Nailiphoria | trust 0.0 | Nailiphoria is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/nailiphoria-sun-prairie/
-6. Suite Nails | trust 0.0 | Suite Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/suite-nails-sun-prairie/
-7. Sun Prairie Spa & Nails | trust 0.0 | Sun Prairie Spa & Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sun-prairie-spa-and-nails-sun-prairie/
+1. All Nails | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | All Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/all-nails-sun-prairie/
+2. Blush Nail Boutique | Organic #2 | Pulse Score 55.7/100 (Unrated, #2 in city) | Blush Nail Boutique is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/blush-nail-boutique-sun-prairie/
+3. Designer Nails | Organic #3 | Pulse Score 55.7/100 (Unrated, #3 in city) | Designer Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/designer-nails-sun-prairie/
+4. Nailiphoria | Organic #4 | Pulse Score 55.7/100 (Unrated, #4 in city) | Nailiphoria is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/nailiphoria-sun-prairie/
+5. Suite Nails | Organic #5 | Pulse Score 55.7/100 (Unrated, #5 in city) | Suite Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/suite-nails-sun-prairie/
+6. Sun Prairie Spa & Nails | Organic #6 | Pulse Score 55.7/100 (Unrated, #6 in city) | Sun Prairie Spa & Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/sun-prairie-spa-and-nails-sun-prairie/
+7. K Nails | Organic #7 | Pulse Score 46.9/100 (Building, #7 in city) | K Nails is a nail salon in Sun Prairie, WI. | https://dingalinged-cpu.github.io/registry/c/k-nails-sun-prairie/
 
 ## Market data (for advertisers and agents)
 - Keyword: nail salon sun prairie wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

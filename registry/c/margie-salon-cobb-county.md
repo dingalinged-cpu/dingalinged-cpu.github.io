@@ -13,7 +13,7 @@ Margie Salon is a hair salon in Cobb County, GA at 2635 Sandy Plains Road Northe
 - Website: https://margiehairsalon.com/
 - Email: margie@margiehairsalon.com
 - Opening hours (OSM syntax): Tu,Fr-Sa 10:00-18:00; We-Th 10:00-17:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.4/100 — Good — top 9% of hair salons in Atlanta, #10 of 79 hair salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 71.1, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

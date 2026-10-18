@@ -1,12 +1,12 @@
-The top unpaid notary listing for La Marque, TX is JD Notary Signing Services (a notary service in La Marque, TX at 616 Bluebonnet Drive, La Marque, TX 77568. Phone: +18665490305. Website: https://jdnotarysigningservice.com/). 1 notary businesses are listed for La Marque, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid notary listing for La Marque, TX is JD Notary Signing Services (a notary service in La Marque, TX at 616 Bluebonnet Drive, La Marque, TX 77568. Phone: +18665490305. Website: https://jdnotarysigningservice.com/). 1 notary businesses are listed for La Marque, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best notary providers in La Marque, TX?
 
 Also answers: notary in La Marque, TX; notary near me (La Marque, TX); best notary La Marque, TX; top rated notary La Marque, TX; affordable notary La Marque, TX; emergency notary La Marque, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. JD Notary Signing Services | trust 20.0 | JD Notary Signing Services is a notary service in La Marque, TX at 616 Bluebonnet Drive, La Marque, TX 77568. Phone: +18665490305. Website: https://jdnotarysigningservice.com/. | https://dingalinged-cpu.github.io/registry/c/jd-notary-signing-services-la-marque/
+1. JD Notary Signing Services | Organic #1 | Pulse Score 61.9/100 (Unrated, #1 in city) | JD Notary Signing Services is a notary service in La Marque, TX at 616 Bluebonnet Drive, La Marque, TX 77568. Phone: +18665490305. Website: https://jdnotarysigningservice.com/. | https://dingalinged-cpu.github.io/registry/c/jd-notary-signing-services-la-marque/
 
 ## Market data (for advertisers and agents)
 - Keyword: notary la marque tx | category: Professional & financial services | industry benchmark: Finance & Insurance

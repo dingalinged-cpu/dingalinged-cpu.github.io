@@ -1,12 +1,12 @@
-The top unpaid flooring companies listing for Tinley Park, IL is Floor & Decor (a flooring company in Tinley Park, IL at 7061 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.flooranddecor.com/store/tinley_park/IL/60477/2691). 1 flooring companies businesses are listed for Tinley Park, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Tinley Park, IL is Floor & Decor (a flooring company in Tinley Park, IL at 7061 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.flooranddecor.com/store/tinley_park/IL/60477/2691). 1 flooring companies businesses are listed for Tinley Park, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Tinley Park, IL?
 
 Also answers: flooring companies in Tinley Park, IL; flooring companies near me (Tinley Park, IL); best flooring companies Tinley Park, IL; top rated flooring companies Tinley Park, IL; affordable flooring companies Tinley Park, IL; emergency flooring companies Tinley Park, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Floor & Decor | trust 10.0 | Floor & Decor is a flooring company in Tinley Park, IL at 7061 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.flooranddecor.com/store/tinley_park/IL/60477/2691. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-tinley-park/
+1. Floor & Decor | Organic #1 | Pulse Score 45.6/100 (Building, #1 in city) | Floor & Decor is a flooring company in Tinley Park, IL at 7061 West 159th Street #A, Tinley Park, IL 60477. Website: https://www.flooranddecor.com/store/tinley_park/IL/60477/2691. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-tinley-park/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies tinley park il | category: Home services - Flooring | industry benchmark: Home & Home Improvement

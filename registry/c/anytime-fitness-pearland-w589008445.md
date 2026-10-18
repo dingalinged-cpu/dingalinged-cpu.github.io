@@ -13,7 +13,7 @@ Anytime Fitness is a gym in Pearland, TX at 12573 West Broadway Street, Pearland
 - Website: https://www.anytimefitness.com/gyms/4404/pearland-tx-77584/
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 50.3/100 — Fair — top 45% of gyms in Houston, #4 of 6 gyms in Pearland (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 33.9, Trust 65.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Ulta Beauty is a skin care studio in Denton, TX at 1800 South Loop 288 #300, Den
 - Website: https://www.ulta.com/stores/denton-tx-446
 - Email: n/a
 - Opening hours (OSM syntax): Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
-- Registry Score: 49.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 46.6/100 — Building — top 66% of skin care studios in Dallas–Fort Worth, #2 of 2 skin care studios in Denton (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.9, Trust 53.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

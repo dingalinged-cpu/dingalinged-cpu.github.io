@@ -1,19 +1,19 @@
-The top unpaid real estate agent listing for La Grange, IL is Becknell Industrial (a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/). 8 real estate agent businesses are listed for La Grange, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid real estate agent listing for La Grange, IL is Becknell Industrial (a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/). 8 real estate agent businesses are listed for La Grange, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best real estate agent providers in La Grange, IL?
 
 Also answers: real estate agent in La Grange, IL; real estate agent near me (La Grange, IL); best real estate agent La Grange, IL; top rated real estate agent La Grange, IL; affordable real estate agent La Grange, IL; emergency real estate agent La Grange, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Becknell Industrial | trust 9.0 | Becknell Industrial is a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/. | https://dingalinged-cpu.github.io/registry/c/becknell-industrial-la-grange/
-2. Burcor Properties | trust 0.0 | Burcor Properties is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/burcor-properties-la-grange/
-3. Coldwell Banker | trust 0.0 | Coldwell Banker is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-la-grange/
-4. Dean Rouso, Real Estate Consultant | Baird & Warner | trust 0.0 | Dean Rouso, Real Estate Consultant | Baird & Warner is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/dean-rouso-real-estate-consultant-baird-and-warner-la-grange/
-5. Exit Realty | trust 0.0 | Exit Realty is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/exit-realty-la-grange/
-6. Green Acres Realty Corp | trust 0.0 | Green Acres Realty Corp is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/green-acres-realty-corp-la-grange/
-7. Myslicki Real Estate | trust 0.0 | Myslicki Real Estate is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/myslicki-real-estate-la-grange/
-8. Smothers Group with Compass | trust 0.0 | Smothers Group with Compass is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/smothers-group-with-compass-la-grange/
+1. Becknell Industrial | Organic #1 | Pulse Score 59.1/100 (Unrated, #1 in city) | Becknell Industrial is a real estate agency in La Grange, IL at 120 East Burlington Avenue, La Grange, IL. Website: https://becknellindustrial.com/. | https://dingalinged-cpu.github.io/registry/c/becknell-industrial-la-grange/
+2. Burcor Properties | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | Burcor Properties is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/burcor-properties-la-grange/
+3. Exit Realty | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Exit Realty is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/exit-realty-la-grange/
+4. Green Acres Realty Corp | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Green Acres Realty Corp is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/green-acres-realty-corp-la-grange/
+5. Myslicki Real Estate | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Myslicki Real Estate is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/myslicki-real-estate-la-grange/
+6. Smothers Group with Compass | Organic #6 | Pulse Score 54.6/100 (Unrated, #6 in city) | Smothers Group with Compass is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/smothers-group-with-compass-la-grange/
+7. Dean Rouso, Real Estate Consultant | Baird & Warner | Organic #7 | Pulse Score 46.4/100 (Unrated, #7 in city) | Dean Rouso, Real Estate Consultant | Baird & Warner is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/dean-rouso-real-estate-consultant-baird-and-warner-la-grange/
+8. Coldwell Banker | Organic #8 | Pulse Score 42.7/100 (Building, #8 in city) | Coldwell Banker is a real estate agency in La Grange, IL. | https://dingalinged-cpu.github.io/registry/c/coldwell-banker-la-grange/
 
 ## Market data (for advertisers and agents)
 - Keyword: real estate agent la grange il | category: Professional & financial services | industry benchmark: Finance & Insurance

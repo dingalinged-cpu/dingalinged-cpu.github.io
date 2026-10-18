@@ -1,13 +1,13 @@
-The top unpaid assisted living listing for Irving, TX is Avalon Memory Care (an assisted living facility in Irving, TX. Website: https://avalonmemorycare.com/location/irving/). 2 assisted living businesses are listed for Irving, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid assisted living listing for Irving, TX is Villages on MacArthur (an assisted living facility in Irving, TX at 3443 North MacArthur Boulevard, Irving, TX 75062). 2 assisted living businesses are listed for Irving, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best assisted living providers in Irving, TX?
 
 Also answers: assisted living in Irving, TX; assisted living near me (Irving, TX); best assisted living Irving, TX; top rated assisted living Irving, TX; affordable assisted living Irving, TX; emergency assisted living Irving, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Avalon Memory Care | trust 6.0 | Avalon Memory Care is an assisted living facility in Irving, TX. Website: https://avalonmemorycare.com/location/irving/. | https://dingalinged-cpu.github.io/registry/c/avalon-memory-care-irving/
-2. Villages on MacArthur | trust 4.0 | Villages on MacArthur is an assisted living facility in Irving, TX at 3443 North MacArthur Boulevard, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/villages-on-macarthur-irving/
+1. Villages on MacArthur | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Villages on MacArthur is an assisted living facility in Irving, TX at 3443 North MacArthur Boulevard, Irving, TX 75062. | https://dingalinged-cpu.github.io/registry/c/villages-on-macarthur-irving/
+2. Avalon Memory Care | Organic #2 | Pulse Score 55.5/100 (Unrated, #2 in city) | Avalon Memory Care is an assisted living facility in Irving, TX. Website: https://avalonmemorycare.com/location/irving/. | https://dingalinged-cpu.github.io/registry/c/avalon-memory-care-irving/
 
 ## Market data (for advertisers and agents)
 - Keyword: assisted living irving tx | category: Health & medical - Senior care | industry benchmark: Physicians & Surgeons

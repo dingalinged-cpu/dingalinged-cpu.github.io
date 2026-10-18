@@ -1,13 +1,13 @@
-The top unpaid yoga classes listing for Richardson, TX is Reef Point Yoga (a yoga studio in Richardson, TX at 1417 East Renner Road #340, Richardson, TX 75082. Website: https://reefpointyoga.com/). 2 yoga classes businesses are listed for Richardson, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid yoga classes listing for Richardson, TX is Reef Point Yoga (a yoga studio in Richardson, TX at 1417 East Renner Road #340, Richardson, TX 75082. Website: https://reefpointyoga.com/). 2 yoga classes businesses are listed for Richardson, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best yoga classes providers in Richardson, TX?
 
 Also answers: yoga classes in Richardson, TX; yoga classes near me (Richardson, TX); best yoga classes Richardson, TX; top rated yoga classes Richardson, TX; affordable yoga classes Richardson, TX; emergency yoga classes Richardson, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Reef Point Yoga | trust 10.0 | Reef Point Yoga is a yoga studio in Richardson, TX at 1417 East Renner Road #340, Richardson, TX 75082. Website: https://reefpointyoga.com/. | https://dingalinged-cpu.github.io/registry/c/reef-point-yoga-richardson/
-2. Yoga Chikilsa | trust 0.0 | Yoga Chikilsa is a yoga studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/yoga-chikilsa-richardson/
+1. Reef Point Yoga | Organic #1 | Pulse Score 58/100 (Unrated, #1 in city) | Reef Point Yoga is a yoga studio in Richardson, TX at 1417 East Renner Road #340, Richardson, TX 75082. Website: https://reefpointyoga.com/. | https://dingalinged-cpu.github.io/registry/c/reef-point-yoga-richardson/
+2. Yoga Chikilsa | Organic #2 | Pulse Score 54.2/100 (Unrated, #2 in city) | Yoga Chikilsa is a yoga studio in Richardson, TX. | https://dingalinged-cpu.github.io/registry/c/yoga-chikilsa-richardson/
 
 ## Market data (for advertisers and agents)
 - Keyword: yoga classes richardson tx | category: Fitness | industry benchmark: Health & Fitness

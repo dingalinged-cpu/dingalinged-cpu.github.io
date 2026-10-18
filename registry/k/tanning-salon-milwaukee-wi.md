@@ -1,13 +1,13 @@
-The top unpaid tanning salon listing for Milwaukee, WI is SunSeekers by Rosie (a tanning salon in Milwaukee, WI at 2141 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142241400. Website: https://sunseekerstan.com/). 2 tanning salon businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tanning salon listing for Milwaukee, WI is Lectric Beach Wellness & Sun Club (a tanning salon in Milwaukee, WI. Phone: +14142259090. Website: https://www.lectricbeach.com/). 2 tanning salon businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tanning salon providers in Milwaukee, WI?
 
 Also answers: tanning salon in Milwaukee, WI; tanning salon near me (Milwaukee, WI); best tanning salon Milwaukee, WI; top rated tanning salon Milwaukee, WI; affordable tanning salon Milwaukee, WI; emergency tanning salon Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. SunSeekers by Rosie | trust 20.0 | SunSeekers by Rosie is a tanning salon in Milwaukee, WI at 2141 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142241400. Website: https://sunseekerstan.com/. | https://dingalinged-cpu.github.io/registry/c/sunseekers-by-rosie-milwaukee/
-2. Lectric Beach Wellness & Sun Club | trust 16.0 | Lectric Beach Wellness & Sun Club is a tanning salon in Milwaukee, WI. Phone: +14142259090. Website: https://www.lectricbeach.com/. | https://dingalinged-cpu.github.io/registry/c/lectric-beach-wellness-and-sun-club-milwaukee/
+1. Lectric Beach Wellness & Sun Club | Organic #1 | Pulse Score 64/100 (Good, #1 in city) | Lectric Beach Wellness & Sun Club is a tanning salon in Milwaukee, WI. Phone: +14142259090. Website: https://www.lectricbeach.com/. | https://dingalinged-cpu.github.io/registry/c/lectric-beach-wellness-and-sun-club-milwaukee/
+2. SunSeekers by Rosie | Organic #2 | Pulse Score 62.6/100 (Unrated, #2 in city) | SunSeekers by Rosie is a tanning salon in Milwaukee, WI at 2141 North Prospect Avenue, Milwaukee, WI 53202. Phone: +14142241400. Website: https://sunseekerstan.com/. | https://dingalinged-cpu.github.io/registry/c/sunseekers-by-rosie-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: tanning salon milwaukee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

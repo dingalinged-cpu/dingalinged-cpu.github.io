@@ -1,12 +1,12 @@
-The top unpaid dentist listing for River Forest, IL is Dentologie (a dentist in River Forest, IL at 7201 Lake Street, River Forest, IL 60305. Website: https://dentologie.com/oprf). 1 dentist businesses are listed for River Forest, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for River Forest, IL is Dentologie (a dentist in River Forest, IL at 7201 Lake Street, River Forest, IL 60305. Website: https://dentologie.com/oprf). 1 dentist businesses are listed for River Forest, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in River Forest, IL?
 
 Also answers: dentist in River Forest, IL; dentist near me (River Forest, IL); best dentist River Forest, IL; top rated dentist River Forest, IL; affordable dentist River Forest, IL; emergency dentist River Forest, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Dentologie | trust 10.0 | Dentologie is a dentist in River Forest, IL at 7201 Lake Street, River Forest, IL 60305. Website: https://dentologie.com/oprf. | https://dingalinged-cpu.github.io/registry/c/dentologie-river-forest/
+1. Dentologie | Organic #1 | Pulse Score 47.1/100 (Unrated, #1 in city) | Dentologie is a dentist in River Forest, IL at 7201 Lake Street, River Forest, IL 60305. Website: https://dentologie.com/oprf. | https://dingalinged-cpu.github.io/registry/c/dentologie-river-forest/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist river forest il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

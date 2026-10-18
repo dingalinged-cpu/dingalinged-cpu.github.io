@@ -13,7 +13,7 @@ Minerva Nails is a nail salon in Atlanta, GA at 1170 Collier Road Northwest #A, 
 - Website: https://minervanails@gmail.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 10:00-19:30; Sa 09:30-18:30; Su off
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64.1/100 — Good — top 4% of nail salons in Atlanta, #2 of 31 nail salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 75.6, Trust 60.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

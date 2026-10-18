@@ -13,7 +13,7 @@ Valvoline is an auto repair shop in Chicago Heights, IL at 311 West Lincoln High
 - Website: https://store.vioc.com/il/chicagoheights/oil-change-hb0002.html
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 48.5/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.1/100 — Building — top 63% of auto repair shops in Chicago, #2 of 3 auto repair shops in Chicago Heights (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 31.4, Trust 56.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

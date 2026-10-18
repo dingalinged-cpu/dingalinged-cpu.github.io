@@ -1,16 +1,16 @@
-The top unpaid auto body shop listing for Madison, WI is Gerber Collision & Glass - Madison Park St (an auto repair shop in Madison, WI at 1726 South Park Street, Madison, WI 53715. Phone: +16082554075. Website: https://www.gerbercollision.com/locations/madison-park-st-wi). 5 auto body shop businesses are listed for Madison, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid auto body shop listing for Madison, WI is Sparkle Auto Body (an auto repair shop in Madison, WI. Website: https://sparkleautobody.com/). 5 auto body shop businesses are listed for Madison, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best auto body shop providers in Madison, WI?
 
 Also answers: auto body shop in Madison, WI; auto body shop near me (Madison, WI); best auto body shop Madison, WI; top rated auto body shop Madison, WI; affordable auto body shop Madison, WI; emergency auto body shop Madison, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Gerber Collision & Glass - Madison Park St | trust 20.0 | Gerber Collision & Glass - Madison Park St is an auto repair shop in Madison, WI at 1726 South Park Street, Madison, WI 53715. Phone: +16082554075. Website: https://www.gerbercollision.com/locations/madison-park-st-wi. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-madison-park-st-madison/
-2. Sparkle Auto Body | trust 6.0 | Sparkle Auto Body is an auto repair shop in Madison, WI. Website: https://sparkleautobody.com/. | https://dingalinged-cpu.github.io/registry/c/sparkle-auto-body-madison/
-3. Caliber Collision | trust 0.0 | Caliber Collision is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-madison/
-4. Gerber Collision & Glass | trust 0.0 | Gerber Collision & Glass is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-madison/
-5. Renu Auto Body | trust 0.0 | Renu Auto Body is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/renu-auto-body-madison/
+1. Sparkle Auto Body | Organic #1 | Pulse Score 58.6/100 (Unrated, #16 in city) | Sparkle Auto Body is an auto repair shop in Madison, WI. Website: https://sparkleautobody.com/. | https://dingalinged-cpu.github.io/registry/c/sparkle-auto-body-madison/
+2. Renu Auto Body | Organic #2 | Pulse Score 55.7/100 (Unrated, #23 in city) | Renu Auto Body is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/renu-auto-body-madison/
+3. Gerber Collision & Glass - Madison Park St | Organic #3 | Pulse Score 49/100 (Building, #35 in city) | Gerber Collision & Glass - Madison Park St is an auto repair shop in Madison, WI at 1726 South Park Street, Madison, WI 53715. Phone: +16082554075. Website: https://www.gerbercollision.com/locations/madison-park-st-wi. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-madison-park-st-madison/
+4. Gerber Collision & Glass | Organic #4 | Pulse Score 43.5/100 (Building, #48 in city) | Gerber Collision & Glass is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/gerber-collision-and-glass-madison/
+5. Caliber Collision | Organic #5 | Pulse Score 43.1/100 (Building, #50 in city) | Caliber Collision is an auto repair shop in Madison, WI. | https://dingalinged-cpu.github.io/registry/c/caliber-collision-madison/
 
 ## Market data (for advertisers and agents)
 - Keyword: auto body shop madison wi | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

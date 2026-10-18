@@ -13,7 +13,7 @@ Glam N Glow Threadwax Studio is a waxing salon in Cobb County, GA at 840 Ernest 
 - Website: https://www.glamnglow.studio/
 - Email: info@glamnglow.studio
 - Opening hours (OSM syntax): Mo-Sa 11:00-19:00; Su 12:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.3/100 — Good — top 8% of waxing salons in Atlanta, #1 of 10 waxing salons in Cobb County (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 67.5, Trust 64.6. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

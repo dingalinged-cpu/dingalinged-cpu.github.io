@@ -1,15 +1,15 @@
-The top unpaid dance studio listing for Harris County, TX is Sassy Feet Dance Studio (a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/). 4 dance studio businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dance studio listing for Harris County, TX is Sassy Feet Dance Studio (a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/). 4 dance studio businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dance studio providers in Harris County, TX?
 
 Also answers: dance studio in Harris County, TX; dance studio near me (Harris County, TX); best dance studio Harris County, TX; top rated dance studio Harris County, TX; affordable dance studio Harris County, TX; emergency dance studio Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sassy Feet Dance Studio | trust 19.0 | Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/. | https://dingalinged-cpu.github.io/registry/c/sassy-feet-dance-studio-harris-county/
-2. Atascocita Dance | trust 0.0 | Atascocita Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dance-harris-county/
-3. Big Texas Dance Hall and Saloon | trust 0.0 | Big Texas Dance Hall and Saloon is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/big-texas-dance-hall-and-saloon-harris-county/
-4. Define Dance | trust 0.0 | Define Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/define-dance-harris-county/
+1. Sassy Feet Dance Studio | Organic #1 | Pulse Score 62/100 (Unrated, #1 in city) | Sassy Feet Dance Studio is a dance studio in Harris County, TX at 6402 Louetta Rd, Harris County, TX. Phone: +13462366188. Website: https://sassyfeetdancestudio.com/. | https://dingalinged-cpu.github.io/registry/c/sassy-feet-dance-studio-harris-county/
+2. Atascocita Dance | Organic #2 | Pulse Score 55/100 (Unrated, #2 in city) | Atascocita Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/atascocita-dance-harris-county/
+3. Define Dance | Organic #3 | Pulse Score 55/100 (Unrated, #3 in city) | Define Dance is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/define-dance-harris-county/
+4. Big Texas Dance Hall and Saloon | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | Big Texas Dance Hall and Saloon is a dance studio in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/big-texas-dance-hall-and-saloon-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dance studio harris county tx | category: Fitness | industry benchmark: Health & Fitness

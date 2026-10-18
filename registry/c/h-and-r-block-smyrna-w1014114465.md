@@ -13,7 +13,7 @@ H&R Block is a tax preparation service in Smyrna, GA at 3209 f5 South Cobb Drive
 - Website: n/a
 - Email: n/a
 - Opening hours (OSM syntax): "by appointment"
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 47.6/100 — Building — top 62% of tax preparation services in Atlanta, #6 of 7 tax preparation services in Smyrna (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 32.5, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -13,7 +13,7 @@ Elm Street Tattoo is a tattoo shop in Dallas, TX at 2811 Elm Street, Dallas, TX 
 - Website: https://www.elmstreettattoo.com/
 - Email: contact@elmstreettattoo.com
 - Opening hours (OSM syntax): Mo-Su 12:00-24:00
-- Registry Score: 67.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.5/100 — Good — top 3% of tattoo shops in Dallas–Fort Worth, #1 of 21 tattoo shops in Dallas (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.6, Trust 68.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

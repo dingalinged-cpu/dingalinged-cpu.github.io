@@ -1,16 +1,16 @@
-The top unpaid funeral home listing for Harris County, TX is Brookside Funeral Home (a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX). 5 funeral home businesses are listed for Harris County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid funeral home listing for Harris County, TX is Brookside Funeral Home (a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX). 5 funeral home businesses are listed for Harris County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best funeral home providers in Harris County, TX?
 
 Also answers: funeral home in Harris County, TX; funeral home near me (Harris County, TX); best funeral home Harris County, TX; top rated funeral home Harris County, TX; affordable funeral home Harris County, TX; emergency funeral home Harris County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Brookside Funeral Home | trust 3.0 | Brookside Funeral Home is a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brookside-funeral-home-harris-county/
-2. American Heritage Funeral Home | trust 0.0 | American Heritage Funeral Home is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/american-heritage-funeral-home-harris-county/
-3. Luke's Memorial Mortitary | trust 0.0 | Luke's Memorial Mortitary is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lukes-memorial-mortitary-harris-county/
-4. Schmidt Funeral Homes | trust 0.0 | Schmidt Funeral Homes is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-homes-harris-county/
-5. Veterans Funeral Services | trust 0.0 | Veterans Funeral Services is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-funeral-services-harris-county/
+1. Brookside Funeral Home | Organic #1 | Pulse Score 60/100 (Unrated, #1 in city) | Brookside Funeral Home is a funeral home in Harris County, TX at 13747 Eastex Freeway, Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/brookside-funeral-home-harris-county/
+2. American Heritage Funeral Home | Organic #2 | Pulse Score 54.6/100 (Unrated, #2 in city) | American Heritage Funeral Home is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/american-heritage-funeral-home-harris-county/
+3. Luke's Memorial Mortitary | Organic #3 | Pulse Score 54.6/100 (Unrated, #3 in city) | Luke's Memorial Mortitary is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/lukes-memorial-mortitary-harris-county/
+4. Schmidt Funeral Homes | Organic #4 | Pulse Score 54.6/100 (Unrated, #4 in city) | Schmidt Funeral Homes is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/schmidt-funeral-homes-harris-county/
+5. Veterans Funeral Services | Organic #5 | Pulse Score 54.6/100 (Unrated, #5 in city) | Veterans Funeral Services is a funeral home in Harris County, TX. | https://dingalinged-cpu.github.io/registry/c/veterans-funeral-services-harris-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: funeral home harris county tx | category: Professional & financial services | industry benchmark: Finance & Insurance

@@ -1,13 +1,13 @@
-The top unpaid pet store listing for Roanoke, TX is Pet Wants Roanoke (a pet store in Roanoke, TX at 2550 Bobcat Boulevard #101, Roanoke, TX 76262. Phone: +19728980415. Website: https://www.petwantsroanoke.com/). 2 pet store businesses are listed for Roanoke, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Roanoke, TX is Pet Wants Roanoke (a pet store in Roanoke, TX at 2550 Bobcat Boulevard #101, Roanoke, TX 76262. Phone: +19728980415. Website: https://www.petwantsroanoke.com/). 2 pet store businesses are listed for Roanoke, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Roanoke, TX?
 
 Also answers: pet store in Roanoke, TX; pet store near me (Roanoke, TX); best pet store Roanoke, TX; top rated pet store Roanoke, TX; affordable pet store Roanoke, TX; emergency pet store Roanoke, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Pet Wants Roanoke | trust 20.0 | Pet Wants Roanoke is a pet store in Roanoke, TX at 2550 Bobcat Boulevard #101, Roanoke, TX 76262. Phone: +19728980415. Website: https://www.petwantsroanoke.com/. | https://dingalinged-cpu.github.io/registry/c/pet-wants-roanoke-roanoke/
-2. PetSmart | trust 20.0 | PetSmart is a pet store in Roanoke, TX at 1208 North US Highway 377, Roanoke, TX 76262. Phone: +18178543111. Website: https://www.petsmart.com/stores/us/tx/roanoke-store3023.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-roanoke/
+1. Pet Wants Roanoke | Organic #1 | Pulse Score 59.9/100 (Unrated, #1 in city) | Pet Wants Roanoke is a pet store in Roanoke, TX at 2550 Bobcat Boulevard #101, Roanoke, TX 76262. Phone: +19728980415. Website: https://www.petwantsroanoke.com/. | https://dingalinged-cpu.github.io/registry/c/pet-wants-roanoke-roanoke/
+2. PetSmart | Organic #2 | Pulse Score 49.5/100 (Building, #2 in city) | PetSmart is a pet store in Roanoke, TX at 1208 North US Highway 377, Roanoke, TX 76262. Phone: +18178543111. Website: https://www.petsmart.com/stores/us/tx/roanoke-store3023.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-roanoke/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store roanoke tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

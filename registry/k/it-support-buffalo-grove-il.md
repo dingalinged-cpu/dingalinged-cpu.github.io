@@ -1,12 +1,12 @@
-The top unpaid it support listing for Buffalo Grove, IL is Userbox Corporation (an IT support company in Buffalo Grove, IL at 535 Lasalle Lane, Buffalo Grove, IL 60089. Phone: +18475713537. Website: https://www.userbox.com/). 1 it support businesses are listed for Buffalo Grove, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid it support listing for Buffalo Grove, IL is Userbox Corporation (an IT support company in Buffalo Grove, IL at 535 Lasalle Lane, Buffalo Grove, IL 60089. Phone: +18475713537. Website: https://www.userbox.com/). 1 it support businesses are listed for Buffalo Grove, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best it support providers in Buffalo Grove, IL?
 
 Also answers: it support in Buffalo Grove, IL; it support near me (Buffalo Grove, IL); best it support Buffalo Grove, IL; top rated it support Buffalo Grove, IL; affordable it support Buffalo Grove, IL; emergency it support Buffalo Grove, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Userbox Corporation | trust 16.0 | Userbox Corporation is an IT support company in Buffalo Grove, IL at 535 Lasalle Lane, Buffalo Grove, IL 60089. Phone: +18475713537. Website: https://www.userbox.com/. | https://dingalinged-cpu.github.io/registry/c/userbox-corporation-buffalo-grove/
+1. Userbox Corporation | Organic #1 | Pulse Score 59/100 (Unrated, #1 in city) | Userbox Corporation is an IT support company in Buffalo Grove, IL at 535 Lasalle Lane, Buffalo Grove, IL 60089. Phone: +18475713537. Website: https://www.userbox.com/. | https://dingalinged-cpu.github.io/registry/c/userbox-corporation-buffalo-grove/
 
 ## Market data (for advertisers and agents)
 - Keyword: it support buffalo grove il | category: Professional & financial services - Tech repair | industry benchmark: Finance & Insurance

@@ -13,7 +13,7 @@ Avila Dental is a dentist in Chicago, IL at 6144 South Pulaski Road, Chicago, IL
 - Website: https://aviladentalclinic.com/
 - Email: aviladentalchicago@gmail.com
 - Opening hours (OSM syntax): Su CLOSED, Mo-Fr 09:00-17:00, Sa 09:00-14:00
-- Registry Score: 65.8/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 64/100 — Unrated (not enough evidence yet) — top 2% of dentists in Chicago, #3 of 150 dentists in Chicago (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.8, Trust 62.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

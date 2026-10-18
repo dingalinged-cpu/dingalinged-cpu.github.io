@@ -13,7 +13,7 @@ Hassleless Mattress is a mattress store in Mequon, WI at 10920 North Port Washin
 - Website: https://www.hassleless.com/locations/mequon-mattress-showroom
 - Email: n/a
 - Opening hours (OSM syntax): n/a
-- Registry Score: 44.3/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 44.7/100 — Unrated (not enough evidence yet) — top 75% of mattress stores in Milwaukee, #1 of 1 mattress stores in Mequon (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 29.4, Trust 49.5. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

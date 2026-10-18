@@ -1,16 +1,16 @@
-The top unpaid flooring companies listing for Houston, TX is Epoxy Flooring Houston (a flooring company in Houston, TX at 7402 Janak Drive, Houston, TX 77055. Phone: +17135972239. Website: https://www.epoxyhoustontx.com/). 5 flooring companies businesses are listed for Houston, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid flooring companies listing for Houston, TX is Epoxy Flooring Houston (a flooring company in Houston, TX at 7402 Janak Drive, Houston, TX 77055. Phone: +17135972239. Website: https://www.epoxyhoustontx.com/). 5 flooring companies businesses are listed for Houston, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best flooring companies providers in Houston, TX?
 
 Also answers: flooring companies in Houston, TX; flooring companies near me (Houston, TX); best flooring companies Houston, TX; top rated flooring companies Houston, TX; affordable flooring companies Houston, TX; emergency flooring companies Houston, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Epoxy Flooring Houston | trust 20.0 | Epoxy Flooring Houston is a flooring company in Houston, TX at 7402 Janak Drive, Houston, TX 77055. Phone: +17135972239. Website: https://www.epoxyhoustontx.com/. | https://dingalinged-cpu.github.io/registry/c/epoxy-flooring-houston-houston/
-2. Houston Custom Carpets | trust 16.0 | Houston Custom Carpets is a flooring company in Houston, TX at 23920 Highway 59 North, Houston, TX 77339. Phone: +12815483600. Website: https://houstoncustomcarpets.com/. | https://dingalinged-cpu.github.io/registry/c/houston-custom-carpets-houston/
-3. Floor & Decor | trust 8.0 | Floor & Decor is a flooring company in Houston, TX at 17211 North Freeway, Houston, TX 77090. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston/
-4. Floor & Decor | trust 4.0 | Floor & Decor is a flooring company in Houston, TX at 4330 Dacoma Street, Houston, TX 77092. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston-w404495720/
-5. Floor & Decor | trust 0.0 | Floor & Decor is a flooring company in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston-w46677397/
+1. Epoxy Flooring Houston | Organic #1 | Pulse Score 62.5/100 (Unrated, #1 in city) | Epoxy Flooring Houston is a flooring company in Houston, TX at 7402 Janak Drive, Houston, TX 77055. Phone: +17135972239. Website: https://www.epoxyhoustontx.com/. | https://dingalinged-cpu.github.io/registry/c/epoxy-flooring-houston-houston/
+2. Houston Custom Carpets | Organic #2 | Pulse Score 58.4/100 (Unrated, #2 in city) | Houston Custom Carpets is a flooring company in Houston, TX at 23920 Highway 59 North, Houston, TX 77339. Phone: +12815483600. Website: https://houstoncustomcarpets.com/. | https://dingalinged-cpu.github.io/registry/c/houston-custom-carpets-houston/
+3. Floor & Decor | Organic #3 | Pulse Score 46.7/100 (Building, #3 in city) | Floor & Decor is a flooring company in Houston, TX at 17211 North Freeway, Houston, TX 77090. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston/
+4. Floor & Decor | Organic #4 | Pulse Score 46.2/100 (Building, #4 in city) | Floor & Decor is a flooring company in Houston, TX at 4330 Dacoma Street, Houston, TX 77092. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston-w404495720/
+5. Floor & Decor | Organic #5 | Pulse Score 42.5/100 (Building, #5 in city) | Floor & Decor is a flooring company in Houston, TX. | https://dingalinged-cpu.github.io/registry/c/floor-and-decor-houston-w46677397/
 
 ## Market data (for advertisers and agents)
 - Keyword: flooring companies houston tx | category: Home services - Flooring | industry benchmark: Home & Home Improvement

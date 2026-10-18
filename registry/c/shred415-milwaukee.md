@@ -13,7 +13,7 @@ Shred415 is a gym in Milwaukee, WI at 2165 North Prospect Avenue, Milwaukee, WI 
 - Website: https://shred415.com/locations/eastside
 - Email: eastside@shred415.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: 62.1/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 61/100 — Good — top 9% of gyms in Milwaukee, #6 of 31 gyms in Milwaukee (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 72.3, Trust 52.4. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

@@ -1,13 +1,13 @@
-The top unpaid spa listing for Milwaukee, WI is ReNude Esthetics Spa (a spa in Milwaukee, WI at 5523 West North Avenue, Milwaukee, WI 53208. Phone: +14143013208. Website: https://www.renudeestheticsspa.com/). 2 spa businesses are listed for Milwaukee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid spa listing for Milwaukee, WI is ReNude Esthetics Spa (a spa in Milwaukee, WI at 5523 West North Avenue, Milwaukee, WI 53208. Phone: +14143013208. Website: https://www.renudeestheticsspa.com/). 2 spa businesses are listed for Milwaukee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best spa providers in Milwaukee, WI?
 
 Also answers: spa in Milwaukee, WI; spa near me (Milwaukee, WI); best spa Milwaukee, WI; top rated spa Milwaukee, WI; affordable spa Milwaukee, WI; emergency spa Milwaukee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. ReNude Esthetics Spa | trust 20.0 | ReNude Esthetics Spa is a spa in Milwaukee, WI at 5523 West North Avenue, Milwaukee, WI 53208. Phone: +14143013208. Website: https://www.renudeestheticsspa.com/. | https://dingalinged-cpu.github.io/registry/c/renude-esthetics-spa-milwaukee/
-2. Opulent Studios Medspa & Wellness | trust 16.0 | Opulent Studios Medspa & Wellness is a spa in Milwaukee, WI at 5916 West North Avenue, Milwaukee, WI 53210. Phone: +14142949064. Website: https://opulentstudiosmedicalspa.com/. | https://dingalinged-cpu.github.io/registry/c/opulent-studios-medspa-and-wellness-milwaukee/
+1. ReNude Esthetics Spa | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | ReNude Esthetics Spa is a spa in Milwaukee, WI at 5523 West North Avenue, Milwaukee, WI 53208. Phone: +14143013208. Website: https://www.renudeestheticsspa.com/. | https://dingalinged-cpu.github.io/registry/c/renude-esthetics-spa-milwaukee/
+2. Opulent Studios Medspa & Wellness | Organic #2 | Pulse Score 60.9/100 (Unrated, #2 in city) | Opulent Studios Medspa & Wellness is a spa in Milwaukee, WI at 5916 West North Avenue, Milwaukee, WI 53210. Phone: +14142949064. Website: https://opulentstudiosmedicalspa.com/. | https://dingalinged-cpu.github.io/registry/c/opulent-studios-medspa-and-wellness-milwaukee/
 
 ## Market data (for advertisers and agents)
 - Keyword: spa milwaukee wi | category: Personal care & beauty | industry benchmark: Beauty & Personal Care

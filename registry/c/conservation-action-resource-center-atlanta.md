@@ -13,7 +13,7 @@ Conservation Action Resource Center is an event venue in Atlanta, GA. Phone: +14
 - Website: https://zooatlanta.org/venue/conservation-arc-resource-center/
 - Email: specialevents@zooatlanta.org
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 59.1/100 — Unrated (not enough evidence yet) — top 46% of event venues in Atlanta, #17 of 31 event venues in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 52.7. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

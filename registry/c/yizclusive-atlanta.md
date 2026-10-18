@@ -13,7 +13,7 @@ Yizclusive is a hair salon in Atlanta, GA at 1039 Grant Circle Southeast #A12, A
 - Website: https://www.theyizclusiveexperience.com/
 - Email: ywright@theyizclusiveexperience.com
 - Opening hours (OSM syntax): Mo "by appointment"; Tu-Fr 10:00-19:00; Sa 09:00-17:00; Su 12:00-17:00; PH unknown
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 60.3/100 — Unrated (not enough evidence yet) — top 29% of hair salons in Atlanta, #29 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 64, Trust 57.2. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

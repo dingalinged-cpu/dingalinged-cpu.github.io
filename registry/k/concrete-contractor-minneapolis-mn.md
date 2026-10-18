@@ -1,12 +1,12 @@
-The top unpaid concrete contractor listing for Minneapolis, MN is Western Specialty Contractors (a concrete contractor in Minneapolis, MN at 111 Northeast Lowry Avenue, Minneapolis, MN. Phone: +16127817100. Website: https://westernspecialtycontractors.com/minneapolis-branch/). 1 concrete contractor businesses are listed for Minneapolis, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid concrete contractor listing for Minneapolis, MN is Western Specialty Contractors (a concrete contractor in Minneapolis, MN at 111 Northeast Lowry Avenue, Minneapolis, MN. Phone: +16127817100. Website: https://westernspecialtycontractors.com/minneapolis-branch/). 1 concrete contractor businesses are listed for Minneapolis, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best concrete contractor providers in Minneapolis, MN?
 
 Also answers: concrete contractor in Minneapolis, MN; concrete contractor near me (Minneapolis, MN); best concrete contractor Minneapolis, MN; top rated concrete contractor Minneapolis, MN; affordable concrete contractor Minneapolis, MN; emergency concrete contractor Minneapolis, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Western Specialty Contractors | trust 15.0 | Western Specialty Contractors is a concrete contractor in Minneapolis, MN at 111 Northeast Lowry Avenue, Minneapolis, MN. Phone: +16127817100. Website: https://westernspecialtycontractors.com/minneapolis-branch/. | https://dingalinged-cpu.github.io/registry/c/western-specialty-contractors-minneapolis/
+1. Western Specialty Contractors | Organic #1 | Pulse Score 60.9/100 (Good, #1 in city) | Western Specialty Contractors is a concrete contractor in Minneapolis, MN at 111 Northeast Lowry Avenue, Minneapolis, MN. Phone: +16127817100. Website: https://westernspecialtycontractors.com/minneapolis-branch/. | https://dingalinged-cpu.github.io/registry/c/western-specialty-contractors-minneapolis/
 
 ## Market data (for advertisers and agents)
 - Keyword: concrete contractor minneapolis mn | category: Home services - Concrete & masonry | industry benchmark: Home & Home Improvement

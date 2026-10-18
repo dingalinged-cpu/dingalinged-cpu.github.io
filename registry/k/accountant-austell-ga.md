@@ -1,13 +1,13 @@
-The top unpaid accountant listing for Austell, GA is 2 Max Tax (an accountant in Austell, GA at 10148 Veterans Memorial Highway, Austell, GA 30168). 2 accountant businesses are listed for Austell, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid accountant listing for Austell, GA is 2 Max Tax (an accountant in Austell, GA at 10148 Veterans Memorial Highway, Austell, GA 30168). 2 accountant businesses are listed for Austell, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best accountant providers in Austell, GA?
 
 Also answers: accountant in Austell, GA; accountant near me (Austell, GA); best accountant Austell, GA; top rated accountant Austell, GA; affordable accountant Austell, GA; emergency accountant Austell, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. 2 Max Tax | trust 4.0 | 2 Max Tax is an accountant in Austell, GA at 10148 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/2-max-tax-austell/
-2. Liberty Income Tax | trust 4.0 | Liberty Income Tax is an accountant in Austell, GA at 10165 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/liberty-income-tax-austell/
+1. 2 Max Tax | Organic #1 | Pulse Score 56.3/100 (Unrated, #1 in city) | 2 Max Tax is an accountant in Austell, GA at 10148 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/2-max-tax-austell/
+2. Liberty Income Tax | Organic #2 | Pulse Score 43.6/100 (Unrated, #2 in city) | Liberty Income Tax is an accountant in Austell, GA at 10165 Veterans Memorial Highway, Austell, GA 30168. | https://dingalinged-cpu.github.io/registry/c/liberty-income-tax-austell/
 
 ## Market data (for advertisers and agents)
 - Keyword: accountant austell ga | category: professional_accounting | industry benchmark: Business Services

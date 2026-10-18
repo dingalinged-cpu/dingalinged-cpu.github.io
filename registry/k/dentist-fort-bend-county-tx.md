@@ -1,26 +1,26 @@
-The top unpaid dentist listing for Fort Bend County, TX is Aliana Family Dental (a dentist in Fort Bend County, TX). 15 dentist businesses are listed for Fort Bend County, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Fort Bend County, TX is BLVD Dentistry & Orthodontics Richmond (a dentist in Fort Bend County, TX). 15 dentist businesses are listed for Fort Bend County, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Fort Bend County, TX?
 
 Also answers: dentist in Fort Bend County, TX; dentist near me (Fort Bend County, TX); best dentist Fort Bend County, TX; top rated dentist Fort Bend County, TX; affordable dentist Fort Bend County, TX; emergency dentist Fort Bend County, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aliana Family Dental | trust 0.0 | Aliana Family Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/aliana-family-dental-fort-bend-county/
-2. Blackburn Family Orthodontics | trust 0.0 | Blackburn Family Orthodontics is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blackburn-family-orthodontics-fort-bend-county/
-3. BLVD Dentistry & Orthodontics Richmond | trust 0.0 | BLVD Dentistry & Orthodontics Richmond is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blvd-dentistry-and-orthodontics-richmond-fort-bend-county/
-4. Canyon Lakes Dentistry | trust 0.0 | Canyon Lakes Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/canyon-lakes-dentistry-fort-bend-county/
-5. Cinco Meadows Dental | trust 0.0 | Cinco Meadows Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/cinco-meadows-dental-fort-bend-county/
-6. Cross Creek Smiles | trust 0.0 | Cross Creek Smiles is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/cross-creek-smiles-fort-bend-county/
-7. Darling Dental | trust 0.0 | Darling Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/darling-dental-fort-bend-county/
-8. Dental Garden | trust 0.0 | Dental Garden is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/dental-garden-fort-bend-county/
-9. Elara Orthodontics | trust 0.0 | Elara Orthodontics is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/elara-orthodontics-fort-bend-county/
-10. Ideal Dental | trust 0.0 | Ideal Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-fort-bend-county/
-11. Lathrop Dental Center | trust 0.0 | Lathrop Dental Center is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/lathrop-dental-center-fort-bend-county/
-12. Luna Pediatric Dentistry | trust 0.0 | Luna Pediatric Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/luna-pediatric-dentistry-fort-bend-county/
-13. Pearl Dental | trust 0.0 | Pearl Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pearl-dental-fort-bend-county/
-14. Sapphire Dentistry | trust 0.0 | Sapphire Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sapphire-dentistry-fort-bend-county/
-15. Smile Rangers Dental | trust 0.0 | Smile Rangers Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-rangers-dental-fort-bend-county/
+1. BLVD Dentistry & Orthodontics Richmond | Organic #1 | Pulse Score 59/100 (Fair, #1 in city) | BLVD Dentistry & Orthodontics Richmond is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blvd-dentistry-and-orthodontics-richmond-fort-bend-county/
+2. Elara Orthodontics | Organic #2 | Pulse Score 57.5/100 (Unrated, #2 in city) | Elara Orthodontics is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/elara-orthodontics-fort-bend-county/
+3. Luna Pediatric Dentistry | Organic #3 | Pulse Score 57/100 (Unrated, #3 in city) | Luna Pediatric Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/luna-pediatric-dentistry-fort-bend-county/
+4. Sapphire Dentistry | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | Sapphire Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/sapphire-dentistry-fort-bend-county/
+5. Aliana Family Dental | Organic #5 | Pulse Score 54.7/100 (Unrated, #5 in city) | Aliana Family Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/aliana-family-dental-fort-bend-county/
+6. Blackburn Family Orthodontics | Organic #6 | Pulse Score 54.7/100 (Unrated, #6 in city) | Blackburn Family Orthodontics is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/blackburn-family-orthodontics-fort-bend-county/
+7. Canyon Lakes Dentistry | Organic #7 | Pulse Score 54.7/100 (Unrated, #7 in city) | Canyon Lakes Dentistry is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/canyon-lakes-dentistry-fort-bend-county/
+8. Cinco Meadows Dental | Organic #8 | Pulse Score 54.7/100 (Unrated, #8 in city) | Cinco Meadows Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/cinco-meadows-dental-fort-bend-county/
+9. Cross Creek Smiles | Organic #9 | Pulse Score 54.7/100 (Unrated, #9 in city) | Cross Creek Smiles is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/cross-creek-smiles-fort-bend-county/
+10. Darling Dental | Organic #10 | Pulse Score 54.7/100 (Unrated, #10 in city) | Darling Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/darling-dental-fort-bend-county/
+11. Dental Garden | Organic #11 | Pulse Score 54.7/100 (Unrated, #11 in city) | Dental Garden is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/dental-garden-fort-bend-county/
+12. Lathrop Dental Center | Organic #12 | Pulse Score 54.7/100 (Unrated, #12 in city) | Lathrop Dental Center is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/lathrop-dental-center-fort-bend-county/
+13. Pearl Dental | Organic #13 | Pulse Score 54.7/100 (Unrated, #13 in city) | Pearl Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/pearl-dental-fort-bend-county/
+14. Smile Rangers Dental | Organic #14 | Pulse Score 54.7/100 (Unrated, #14 in city) | Smile Rangers Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/smile-rangers-dental-fort-bend-county/
+15. Ideal Dental | Organic #15 | Pulse Score 41.9/100 (Unrated, #15 in city) | Ideal Dental is a dentist in Fort Bend County, TX. | https://dingalinged-cpu.github.io/registry/c/ideal-dental-fort-bend-county/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist fort bend county tx | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

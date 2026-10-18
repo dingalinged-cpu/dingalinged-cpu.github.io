@@ -1,13 +1,13 @@
-The top unpaid tire shop listing for Stockbridge, GA is Express Oil Change & Tire Engineers (a tire shop in Stockbridge, GA at 1479 Hudson Bridge Road, Stockbridge, GA 30281. Phone: +17705068250. Website: https://www.expressoil.com/stores/stockbridge/ga/1545/). 2 tire shop businesses are listed for Stockbridge, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Stockbridge, GA is Express Oil Change & Tire Engineers (a tire shop in Stockbridge, GA at 1479 Hudson Bridge Road, Stockbridge, GA 30281. Phone: +17705068250. Website: https://www.expressoil.com/stores/stockbridge/ga/1545/). 2 tire shop businesses are listed for Stockbridge, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Stockbridge, GA?
 
 Also answers: tire shop in Stockbridge, GA; tire shop near me (Stockbridge, GA); best tire shop Stockbridge, GA; top rated tire shop Stockbridge, GA; affordable tire shop Stockbridge, GA; emergency tire shop Stockbridge, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Express Oil Change & Tire Engineers | trust 20.0 | Express Oil Change & Tire Engineers is a tire shop in Stockbridge, GA at 1479 Hudson Bridge Road, Stockbridge, GA 30281. Phone: +17705068250. Website: https://www.expressoil.com/stores/stockbridge/ga/1545/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-stockbridge/
-2. Mavis Discount Tire | trust 10.0 | Mavis Discount Tire is a tire shop in Stockbridge, GA at 840 Eagles Landing Parkway, Stockbridge, GA 30281. Phone: +17705204178. | https://dingalinged-cpu.github.io/registry/c/mavis-discount-tire-stockbridge/
+1. Express Oil Change & Tire Engineers | Organic #1 | Pulse Score 48.3/100 (Building, #1 in city) | Express Oil Change & Tire Engineers is a tire shop in Stockbridge, GA at 1479 Hudson Bridge Road, Stockbridge, GA 30281. Phone: +17705068250. Website: https://www.expressoil.com/stores/stockbridge/ga/1545/. | https://dingalinged-cpu.github.io/registry/c/express-oil-change-and-tire-engineers-stockbridge/
+2. Mavis Discount Tire | Organic #2 | Pulse Score 46/100 (Building, #2 in city) | Mavis Discount Tire is a tire shop in Stockbridge, GA at 840 Eagles Landing Parkway, Stockbridge, GA 30281. Phone: +17705204178. | https://dingalinged-cpu.github.io/registry/c/mavis-discount-tire-stockbridge/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop stockbridge ga | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts

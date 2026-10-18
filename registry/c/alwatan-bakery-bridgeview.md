@@ -13,7 +13,7 @@ Alwatan Bakery is a bakery in Bridgeview, IL at 7279 West 87th Street, Bridgevie
 - Website: https://www.alwatanbakery.com/
 - Email: n/a
 - Opening hours (OSM syntax): Mo-Fr 08:00-22:00; Sa-Su 07:00-22:00
-- Registry Score: 63/100 (confidence: low) as of 2026-10-18. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 62/100 — Unrated (not enough evidence yet) — top 10% of bakerys in Chicago, #2 of 2 bakerys in Bridgeview (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 65.4, Trust 61.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

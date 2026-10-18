@@ -1,15 +1,15 @@
-The top unpaid bakery listing for Woodstock, GA is Sucre (a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/). 4 bakery businesses are listed for Woodstock, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bakery listing for Woodstock, GA is Sucre (a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/). 4 bakery businesses are listed for Woodstock, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bakery providers in Woodstock, GA?
 
 Also answers: bakery in Woodstock, GA; bakery near me (Woodstock, GA); best bakery Woodstock, GA; top rated bakery Woodstock, GA; affordable bakery Woodstock, GA; emergency bakery Woodstock, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Sucre | trust 20.0 | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://dingalinged-cpu.github.io/registry/c/sucre-woodstock/
-2. The Peach Cobbler Factory | trust 19.0 | The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkway #104, Woodstock, GA. Phone: +17706793387. Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga. | https://dingalinged-cpu.github.io/registry/c/the-peach-cobbler-factory-woodstock/
-3. Atlanta Bread | trust 0.0 | Atlanta Bread is a bakery in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-bread-woodstock/
-4. La Escondida Bakery | trust 0.0 | La Escondida Bakery is a bakery in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/la-escondida-bakery-woodstock/
+1. Sucre | Organic #1 | Pulse Score 64.2/100 (Good, #1 in city) | Sucre is a bakery in Woodstock, GA at 8654 Main Street, Woodstock, GA 30188. Phone: +18774141708. Website: https://www.shopsucre.com/. | https://dingalinged-cpu.github.io/registry/c/sucre-woodstock/
+2. The Peach Cobbler Factory | Organic #2 | Pulse Score 62.3/100 (Good, #2 in city) | The Peach Cobbler Factory is a bakery in Woodstock, GA at 1426 Towne Lake Parkway #104, Woodstock, GA. Phone: +17706793387. Website: https://www.peachcobblerfactory.com/the-peach-cobbler-factory-locations/646-woodstock-ga. | https://dingalinged-cpu.github.io/registry/c/the-peach-cobbler-factory-woodstock/
+3. La Escondida Bakery | Organic #3 | Pulse Score 55.4/100 (Unrated, #3 in city) | La Escondida Bakery is a bakery in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/la-escondida-bakery-woodstock/
+4. Atlanta Bread | Organic #4 | Pulse Score 54.2/100 (Unrated, #4 in city) | Atlanta Bread is a bakery in Woodstock, GA. | https://dingalinged-cpu.github.io/registry/c/atlanta-bread-woodstock/
 
 ## Market data (for advertisers and agents)
 - Keyword: bakery woodstock ga | category: Events & weddings | industry benchmark: Personal Services

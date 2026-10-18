@@ -1,13 +1,13 @@
-The top unpaid liquor store listing for Hapeville, GA is Beer Girl Growlers & Bottleshop (a liquor store in Hapeville, GA at 587 North Central Avenue, Hapeville, GA 30354). 2 liquor store businesses are listed for Hapeville, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid liquor store listing for Hapeville, GA is Beer Girl Growlers & Bottleshop (a liquor store in Hapeville, GA at 587 North Central Avenue, Hapeville, GA 30354). 2 liquor store businesses are listed for Hapeville, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best liquor store providers in Hapeville, GA?
 
 Also answers: liquor store in Hapeville, GA; liquor store near me (Hapeville, GA); best liquor store Hapeville, GA; top rated liquor store Hapeville, GA; affordable liquor store Hapeville, GA; emergency liquor store Hapeville, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Beer Girl Growlers & Bottleshop | trust 8.0 | Beer Girl Growlers & Bottleshop is a liquor store in Hapeville, GA at 587 North Central Avenue, Hapeville, GA 30354. | https://dingalinged-cpu.github.io/registry/c/beer-girl-growlers-and-bottleshop-hapeville/
-2. Crest Liquor | trust 0.0 | Crest Liquor is a liquor store in Hapeville, GA. | https://dingalinged-cpu.github.io/registry/c/crest-liquor-hapeville/
+1. Beer Girl Growlers & Bottleshop | Organic #1 | Pulse Score 58.8/100 (Unrated, #1 in city) | Beer Girl Growlers & Bottleshop is a liquor store in Hapeville, GA at 587 North Central Avenue, Hapeville, GA 30354. | https://dingalinged-cpu.github.io/registry/c/beer-girl-growlers-and-bottleshop-hapeville/
+2. Crest Liquor | Organic #2 | Pulse Score 54.7/100 (Unrated, #2 in city) | Crest Liquor is a liquor store in Hapeville, GA. | https://dingalinged-cpu.github.io/registry/c/crest-liquor-hapeville/
 
 ## Market data (for advertisers and agents)
 - Keyword: liquor store hapeville ga | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

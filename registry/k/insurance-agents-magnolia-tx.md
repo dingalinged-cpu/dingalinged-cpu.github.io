@@ -1,14 +1,14 @@
-The top unpaid insurance agents listing for Magnolia, TX is Allstate: Brenda Diaz (an insurance agent in Magnolia, TX at 18535 FM 1488 #280, Magnolia, TX 77354. Phone: +13467031700. Website: https://www.facebook.com/BrendaDiazAllstate). 3 insurance agents businesses are listed for Magnolia, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid insurance agents listing for Magnolia, TX is AXS Health (an insurance agent in Magnolia, TX at 6114 FM 1488, Magnolia, TX). 3 insurance agents businesses are listed for Magnolia, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best insurance agents providers in Magnolia, TX?
 
 Also answers: insurance agents in Magnolia, TX; insurance agents near me (Magnolia, TX); best insurance agents Magnolia, TX; top rated insurance agents Magnolia, TX; affordable insurance agents Magnolia, TX; emergency insurance agents Magnolia, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Allstate: Brenda Diaz | trust 20.0 | Allstate: Brenda Diaz is an insurance agent in Magnolia, TX at 18535 FM 1488 #280, Magnolia, TX 77354. Phone: +13467031700. Website: https://www.facebook.com/BrendaDiazAllstate. | https://dingalinged-cpu.github.io/registry/c/allstate-brenda-diaz-magnolia/
-2. AXS Health | trust 3.0 | AXS Health is an insurance agent in Magnolia, TX at 6114 FM 1488, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/axs-health-magnolia/
-3. Mid America Mortgage, Inc. | trust 3.0 | Mid America Mortgage, Inc. is an insurance agent in Magnolia, TX at 6018 FM 1488, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/mid-america-mortgage-inc-magnolia/
+1. AXS Health | Organic #1 | Pulse Score 56.4/100 (Unrated, #1 in city) | AXS Health is an insurance agent in Magnolia, TX at 6114 FM 1488, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/axs-health-magnolia/
+2. Mid America Mortgage, Inc. | Organic #2 | Pulse Score 56.4/100 (Unrated, #2 in city) | Mid America Mortgage, Inc. is an insurance agent in Magnolia, TX at 6018 FM 1488, Magnolia, TX. | https://dingalinged-cpu.github.io/registry/c/mid-america-mortgage-inc-magnolia/
+3. Allstate: Brenda Diaz | Organic #3 | Pulse Score 50.9/100 (Fair, #3 in city) | Allstate: Brenda Diaz is an insurance agent in Magnolia, TX at 18535 FM 1488 #280, Magnolia, TX 77354. Phone: +13467031700. Website: https://www.facebook.com/BrendaDiazAllstate. | https://dingalinged-cpu.github.io/registry/c/allstate-brenda-diaz-magnolia/
 
 ## Market data (for advertisers and agents)
 - Keyword: insurance agents magnolia tx | category: insurance | industry benchmark: Finance & Insurance

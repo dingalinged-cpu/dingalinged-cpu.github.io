@@ -1,16 +1,16 @@
-The top unpaid chiropractor listing for Waunakee, WI is Back in Action Chiropractic (a chiropractor in Waunakee, WI). 5 chiropractor businesses are listed for Waunakee, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid chiropractor listing for Waunakee, WI is Back in Action Chiropractic (a chiropractor in Waunakee, WI). 5 chiropractor businesses are listed for Waunakee, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best chiropractor providers in Waunakee, WI?
 
 Also answers: chiropractor in Waunakee, WI; chiropractor near me (Waunakee, WI); best chiropractor Waunakee, WI; top rated chiropractor Waunakee, WI; affordable chiropractor Waunakee, WI; emergency chiropractor Waunakee, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Back in Action Chiropractic | trust 0.0 | Back in Action Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/back-in-action-chiropractic-waunakee/
-2. Bakke Chiropractic | trust 0.0 | Bakke Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-waunakee/
-3. HR Chiropractic | trust 0.0 | HR Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/hr-chiropractic-waunakee/
-4. LSM Chiropractic | trust 0.0 | LSM Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-waunakee/
-5. Main Street Chiropractic | trust 0.0 | Main Street Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/main-street-chiropractic-waunakee/
+1. Back in Action Chiropractic | Organic #1 | Pulse Score 56/100 (Unrated, #1 in city) | Back in Action Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/back-in-action-chiropractic-waunakee/
+2. Bakke Chiropractic | Organic #2 | Pulse Score 56/100 (Unrated, #2 in city) | Bakke Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/bakke-chiropractic-waunakee/
+3. HR Chiropractic | Organic #3 | Pulse Score 56/100 (Unrated, #3 in city) | HR Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/hr-chiropractic-waunakee/
+4. Main Street Chiropractic | Organic #4 | Pulse Score 56/100 (Unrated, #4 in city) | Main Street Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/main-street-chiropractic-waunakee/
+5. LSM Chiropractic | Organic #5 | Pulse Score 44.3/100 (Unrated, #5 in city) | LSM Chiropractic is a chiropractor in Waunakee, WI. | https://dingalinged-cpu.github.io/registry/c/lsm-chiropractic-waunakee/
 
 ## Market data (for advertisers and agents)
 - Keyword: chiropractor waunakee wi | category: Health & medical | industry benchmark: Physicians & Surgeons

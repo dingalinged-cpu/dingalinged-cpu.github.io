@@ -1,15 +1,15 @@
-The top unpaid pet store listing for Garland, TX is PetSmart (a pet store in Garland, TX at 5401 North Garland Avenue, Garland, TX 75040. Phone: +19726754900. Website: https://www.petsmart.com/stores/us/tx/garland-store1109.html). 4 pet store businesses are listed for Garland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid pet store listing for Garland, TX is Roach Feed and Seed (a pet store in Garland, TX at 409 Main Street, Garland, TX 75040). 4 pet store businesses are listed for Garland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best pet store providers in Garland, TX?
 
 Also answers: pet store in Garland, TX; pet store near me (Garland, TX); best pet store Garland, TX; top rated pet store Garland, TX; affordable pet store Garland, TX; emergency pet store Garland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. PetSmart | trust 20.0 | PetSmart is a pet store in Garland, TX at 5401 North Garland Avenue, Garland, TX 75040. Phone: +19726754900. Website: https://www.petsmart.com/stores/us/tx/garland-store1109.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-garland/
-2. Roach Feed and Seed | trust 8.0 | Roach Feed and Seed is a pet store in Garland, TX at 409 Main Street, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/roach-feed-and-seed-garland/
-3. Pet Supplies Plus | trust 0.0 | Pet Supplies Plus is a pet store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-garland/
-4. Petco | trust 0.0 | Petco is a pet store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/petco-garland/
+1. Roach Feed and Seed | Organic #1 | Pulse Score 57.6/100 (Unrated, #1 in city) | Roach Feed and Seed is a pet store in Garland, TX at 409 Main Street, Garland, TX 75040. | https://dingalinged-cpu.github.io/registry/c/roach-feed-and-seed-garland/
+2. PetSmart | Organic #2 | Pulse Score 49.8/100 (Building, #2 in city) | PetSmart is a pet store in Garland, TX at 5401 North Garland Avenue, Garland, TX 75040. Phone: +19726754900. Website: https://www.petsmart.com/stores/us/tx/garland-store1109.html. | https://dingalinged-cpu.github.io/registry/c/petsmart-garland/
+3. Pet Supplies Plus | Organic #3 | Pulse Score 41.1/100 (Building, #3 in city) | Pet Supplies Plus is a pet store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/pet-supplies-plus-garland/
+4. Petco | Organic #4 | Pulse Score 41.1/100 (Building, #4 in city) | Petco is a pet store in Garland, TX. | https://dingalinged-cpu.github.io/registry/c/petco-garland/
 
 ## Market data (for advertisers and agents)
 - Keyword: pet store garland tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

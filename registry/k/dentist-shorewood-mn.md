@@ -1,12 +1,12 @@
-The top unpaid dentist listing for Shorewood, MN is Health Sense Dental (a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331). 1 dentist businesses are listed for Shorewood, MN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Shorewood, MN is Health Sense Dental (a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331). 1 dentist businesses are listed for Shorewood, MN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Shorewood, MN?
 
 Also answers: dentist in Shorewood, MN; dentist near me (Shorewood, MN); best dentist Shorewood, MN; top rated dentist Shorewood, MN; affordable dentist Shorewood, MN; emergency dentist Shorewood, MN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Health Sense Dental | trust 8.0 | Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331. | https://dingalinged-cpu.github.io/registry/c/health-sense-dental-chanhassen/
+1. Health Sense Dental | Organic #1 | Pulse Score 59.1/100 (Unrated, #2 in city) | Health Sense Dental is a dentist in Chanhassen, MN at 6140 Lake Linden Drive #235, Chanhassen, MN 55331. | https://dingalinged-cpu.github.io/registry/c/health-sense-dental-chanhassen/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist shorewood mn | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

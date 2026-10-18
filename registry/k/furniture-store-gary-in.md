@@ -1,16 +1,16 @@
-The top unpaid furniture store listing for Gary, IN is Aaron Furniture (a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/). 5 furniture store businesses are listed for Gary, IN as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid furniture store listing for Gary, IN is Aaron Furniture (a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/). 5 furniture store businesses are listed for Gary, IN as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best furniture store providers in Gary, IN?
 
 Also answers: furniture store in Gary, IN; furniture store near me (Gary, IN); best furniture store Gary, IN; top rated furniture store Gary, IN; affordable furniture store Gary, IN; emergency furniture store Gary, IN
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Aaron Furniture | trust 20.0 | Aaron Furniture is a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/. | https://dingalinged-cpu.github.io/registry/c/aaron-furniture-gary/
-2. Thrifty Mac Appliance Bedding & Furniture Outlet | trust 10.0 | Thrifty Mac Appliance Bedding & Furniture Outlet is a furniture store in Gary, IN at 5185 Broadway, Gary, IN 46409. Phone: +12198878273. | https://dingalinged-cpu.github.io/registry/c/thrifty-mac-appliance-bedding-and-furniture-outlet-gary/
-3. Rent-A-Center | trust 4.0 | Rent-A-Center is a furniture store in Gary, IN at 4407 West 5th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-gary/
-4. Summer Furniture | trust 4.0 | Summer Furniture is a furniture store in Gary, IN at 3320 Grant Street, Gary, IN 46408. | https://dingalinged-cpu.github.io/registry/c/summer-furniture-gary/
-5. A1 Furniture | trust 0.0 | A1 Furniture is a furniture store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-gary/
+1. Aaron Furniture | Organic #1 | Pulse Score 62.9/100 (Unrated, #1 in city) | Aaron Furniture is a furniture store in Gary, IN at 4835 West 45th Avenue, Gary, IN 46408. Phone: +12198380852. Website: https://aaronfurniturein.com/. | https://dingalinged-cpu.github.io/registry/c/aaron-furniture-gary/
+2. Thrifty Mac Appliance Bedding & Furniture Outlet | Organic #2 | Pulse Score 62.2/100 (Unrated, #2 in city) | Thrifty Mac Appliance Bedding & Furniture Outlet is a furniture store in Gary, IN at 5185 Broadway, Gary, IN 46409. Phone: +12198878273. | https://dingalinged-cpu.github.io/registry/c/thrifty-mac-appliance-bedding-and-furniture-outlet-gary/
+3. Summer Furniture | Organic #3 | Pulse Score 56.6/100 (Unrated, #3 in city) | Summer Furniture is a furniture store in Gary, IN at 3320 Grant Street, Gary, IN 46408. | https://dingalinged-cpu.github.io/registry/c/summer-furniture-gary/
+4. A1 Furniture | Organic #4 | Pulse Score 54.3/100 (Unrated, #4 in city) | A1 Furniture is a furniture store in Gary, IN. | https://dingalinged-cpu.github.io/registry/c/a1-furniture-gary/
+5. Rent-A-Center | Organic #5 | Pulse Score 44.3/100 (Building, #5 in city) | Rent-A-Center is a furniture store in Gary, IN at 4407 West 5th Avenue, Gary, IN 46406. | https://dingalinged-cpu.github.io/registry/c/rent-a-center-gary/
 
 ## Market data (for advertisers and agents)
 - Keyword: furniture store gary in | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

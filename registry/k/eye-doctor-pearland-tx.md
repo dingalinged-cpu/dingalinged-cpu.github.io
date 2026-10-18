@@ -1,13 +1,13 @@
-The top unpaid eye doctor listing for Pearland, TX is Customeyes Family Eye Care & Optical (an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/). 2 eye doctor businesses are listed for Pearland, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid eye doctor listing for Pearland, TX is Customeyes Family Eye Care & Optical (an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/). 2 eye doctor businesses are listed for Pearland, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best eye doctor providers in Pearland, TX?
 
 Also answers: eye doctor in Pearland, TX; eye doctor near me (Pearland, TX); best eye doctor Pearland, TX; top rated eye doctor Pearland, TX; affordable eye doctor Pearland, TX; emergency eye doctor Pearland, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Customeyes Family Eye Care & Optical | trust 20.0 | Customeyes Family Eye Care & Optical is an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/. | https://dingalinged-cpu.github.io/registry/c/customeyes-family-eye-care-and-optical-pearland/
-2. Visionworks | trust 4.0 | Visionworks is an eye care practice in Pearland, TX at 2730 Smith Ranch Road #114, Pearland, TX 77584. | https://dingalinged-cpu.github.io/registry/c/visionworks-pearland/
+1. Customeyes Family Eye Care & Optical | Organic #1 | Pulse Score 63.2/100 (Unrated, #1 in city) | Customeyes Family Eye Care & Optical is an eye care practice in Pearland, TX at 11150 West Broadway Street #100, Pearland, TX 77584. Phone: +17134366000. Website: https://yourcustomeyes.com/. | https://dingalinged-cpu.github.io/registry/c/customeyes-family-eye-care-and-optical-pearland/
+2. Visionworks | Organic #2 | Pulse Score 45.1/100 (Building, #2 in city) | Visionworks is an eye care practice in Pearland, TX at 2730 Smith Ranch Road #114, Pearland, TX 77584. | https://dingalinged-cpu.github.io/registry/c/visionworks-pearland/
 
 ## Market data (for advertisers and agents)
 - Keyword: eye doctor pearland tx | category: Health & medical | industry benchmark: Physicians & Surgeons

@@ -13,7 +13,7 @@ Rx-Elites Barber & Beauty Shop is a hair salon in Atlanta, GA at 153 North Avenu
 - Website: https://coryrxservices.booksy.com/
 - Email: mr.chambers_1@yahoo.com
 - Opening hours (OSM syntax): Mo-Fr 09:00-18:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 65.6/100 — Good — top 1% of hair salons in Atlanta, #1 of 88 hair salons in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 76.5, Trust 65. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

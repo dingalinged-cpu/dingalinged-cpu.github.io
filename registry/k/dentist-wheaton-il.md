@@ -1,17 +1,17 @@
-The top unpaid dentist listing for Wheaton, IL is Danada Dental (a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/). 6 dentist businesses are listed for Wheaton, IL as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Wheaton, IL is Danada Dental (a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/). 6 dentist businesses are listed for Wheaton, IL as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Wheaton, IL?
 
 Also answers: dentist in Wheaton, IL; dentist near me (Wheaton, IL); best dentist Wheaton, IL; top rated dentist Wheaton, IL; affordable dentist Wheaton, IL; emergency dentist Wheaton, IL
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Danada Dental | trust 20.0 | Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/. | https://dingalinged-cpu.github.io/registry/c/danada-dental-wheaton/
-2. Restoration Dental Group | trust 16.0 | Restoration Dental Group is a dentist in Wheaton, IL at 1501 East Roosevelt Road, Wheaton, IL 60187. Phone: +16305809880. Website: https://www.restorationdentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/restoration-dental-group-wheaton/
-3. Wheaton Dental Clinic | trust 16.0 | Wheaton Dental Clinic is a dentist in Wheaton, IL at 202 West Willow Avenue ##103, Wheaton, IL 60187. Phone: +16306824743. Website: https://wheatondentalclinic.net/. | https://dingalinged-cpu.github.io/registry/c/wheaton-dental-clinic-wheaton/
-4. West Willow Family Dental of Wheaton | trust 4.0 | West Willow Family Dental of Wheaton is a dentist in Wheaton, IL at 300 South West Street, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/west-willow-family-dental-of-wheaton-wheaton/
-5. Dental Care of Wheaton | trust 0.0 | Dental Care of Wheaton is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/dental-care-of-wheaton-wheaton/
-6. Shining Smiles | trust 0.0 | Shining Smiles is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/shining-smiles-wheaton/
+1. Danada Dental | Organic #1 | Pulse Score 61.4/100 (Unrated, #1 in city) | Danada Dental is a dentist in Wheaton, IL at 10 Danada Square West, Wheaton, IL 60187. Phone: +16306657474. Website: https://www.danadadental.com/. | https://dingalinged-cpu.github.io/registry/c/danada-dental-wheaton/
+2. Restoration Dental Group | Organic #2 | Pulse Score 60.5/100 (Unrated, #2 in city) | Restoration Dental Group is a dentist in Wheaton, IL at 1501 East Roosevelt Road, Wheaton, IL 60187. Phone: +16305809880. Website: https://www.restorationdentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/restoration-dental-group-wheaton/
+3. Wheaton Dental Clinic | Organic #3 | Pulse Score 60.3/100 (Unrated, #3 in city) | Wheaton Dental Clinic is a dentist in Wheaton, IL at 202 West Willow Avenue ##103, Wheaton, IL 60187. Phone: +16306824743. Website: https://wheatondentalclinic.net/. | https://dingalinged-cpu.github.io/registry/c/wheaton-dental-clinic-wheaton/
+4. West Willow Family Dental of Wheaton | Organic #4 | Pulse Score 57/100 (Unrated, #4 in city) | West Willow Family Dental of Wheaton is a dentist in Wheaton, IL at 300 South West Street, Wheaton, IL 60187. | https://dingalinged-cpu.github.io/registry/c/west-willow-family-dental-of-wheaton-wheaton/
+5. Dental Care of Wheaton | Organic #5 | Pulse Score 55.1/100 (Unrated, #5 in city) | Dental Care of Wheaton is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/dental-care-of-wheaton-wheaton/
+6. Shining Smiles | Organic #6 | Pulse Score 55.1/100 (Unrated, #6 in city) | Shining Smiles is a dentist in Wheaton, IL. | https://dingalinged-cpu.github.io/registry/c/shining-smiles-wheaton/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist wheaton il | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

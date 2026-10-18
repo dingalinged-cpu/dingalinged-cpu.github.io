@@ -1,13 +1,13 @@
-The top unpaid vet listing for Acworth, GA is Lake City Animal Hospital (a veterinarian in Acworth, GA at 3671 Cobb Parkway, Acworth, GA 30101. Phone: +17709743536. Website: https://thelakecityanimalhospital.com/). 2 vet businesses are listed for Acworth, GA as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid vet listing for Acworth, GA is Lake City Animal Hospital (a veterinarian in Acworth, GA at 3671 Cobb Parkway, Acworth, GA 30101. Phone: +17709743536. Website: https://thelakecityanimalhospital.com/). 2 vet businesses are listed for Acworth, GA as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best vet providers in Acworth, GA?
 
 Also answers: vet in Acworth, GA; vet near me (Acworth, GA); best vet Acworth, GA; top rated vet Acworth, GA; affordable vet Acworth, GA; emergency vet Acworth, GA
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Lake City Animal Hospital | trust 20.0 | Lake City Animal Hospital is a veterinarian in Acworth, GA at 3671 Cobb Parkway, Acworth, GA 30101. Phone: +17709743536. Website: https://thelakecityanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-animal-hospital-acworth/
-2. Mills Animal Hospital | trust 14.0 | Mills Animal Hospital is a veterinarian in Acworth, GA at 4514 Cobb Parkway, Acworth, GA 30101. Website: https://www.millsanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/mills-animal-hospital-acworth/
+1. Lake City Animal Hospital | Organic #1 | Pulse Score 61.2/100 (Unrated, #1 in city) | Lake City Animal Hospital is a veterinarian in Acworth, GA at 3671 Cobb Parkway, Acworth, GA 30101. Phone: +17709743536. Website: https://thelakecityanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/lake-city-animal-hospital-acworth/
+2. Mills Animal Hospital | Organic #2 | Pulse Score 58/100 (Unrated, #2 in city) | Mills Animal Hospital is a veterinarian in Acworth, GA at 4514 Cobb Parkway, Acworth, GA 30101. Website: https://www.millsanimalhospital.com/. | https://dingalinged-cpu.github.io/registry/c/mills-animal-hospital-acworth/
 
 ## Market data (for advertisers and agents)
 - Keyword: vet acworth ga | category: Pets | industry benchmark: Animals & Pets

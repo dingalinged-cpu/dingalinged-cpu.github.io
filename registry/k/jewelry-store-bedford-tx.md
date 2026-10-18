@@ -1,12 +1,12 @@
-The top unpaid jewelry store listing for Bedford, TX is Bedford Gold & Diamond (a jewelry store in Bedford, TX). 1 jewelry store businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid jewelry store listing for Bedford, TX is Bedford Gold & Diamond (a jewelry store in Bedford, TX). 1 jewelry store businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best jewelry store providers in Bedford, TX?
 
 Also answers: jewelry store in Bedford, TX; jewelry store near me (Bedford, TX); best jewelry store Bedford, TX; top rated jewelry store Bedford, TX; affordable jewelry store Bedford, TX; emergency jewelry store Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Bedford Gold & Diamond | trust 0.0 | Bedford Gold & Diamond is a jewelry store in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/bedford-gold-and-diamond-bedford/
+1. Bedford Gold & Diamond | Organic #1 | Pulse Score 54.6/100 (Unrated, #1 in city) | Bedford Gold & Diamond is a jewelry store in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/bedford-gold-and-diamond-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: jewelry store bedford tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

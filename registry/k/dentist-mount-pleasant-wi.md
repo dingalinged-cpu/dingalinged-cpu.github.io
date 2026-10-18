@@ -1,16 +1,16 @@
-The top unpaid dentist listing for Mount Pleasant, WI is Racine Dental Group, S.C. (a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/). 5 dentist businesses are listed for Mount Pleasant, WI as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid dentist listing for Mount Pleasant, WI is Racine Dental Group, S.C. (a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/). 5 dentist businesses are listed for Mount Pleasant, WI as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best dentist providers in Mount Pleasant, WI?
 
 Also answers: dentist in Mount Pleasant, WI; dentist near me (Mount Pleasant, WI); best dentist Mount Pleasant, WI; top rated dentist Mount Pleasant, WI; affordable dentist Mount Pleasant, WI; emergency dentist Mount Pleasant, WI
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Racine Dental Group, S.C. | trust 16.0 | Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/racine-dental-group-s-c-racine/
-2. Aspen Dental | trust 3.0 | Aspen Dental is a dentist in Mount Pleasant, WI at 2860 South Green Bay Road #100, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-mount-pleasant/
-3. Dr. James Luetzow, DDS | trust 3.0 | Dr. James Luetzow, DDS is a dentist in Mount Pleasant, WI at 6011 Durand Avenue #200, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/dr-james-luetzow-dds-mount-pleasant/
-4. ForwardDental | trust 3.0 | ForwardDental is a dentist in Mount Pleasant, WI at 6218 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/forwarddental-mount-pleasant/
-5. Joseph P. Sanfelippo Family Dentistry | trust 3.0 | Joseph P. Sanfelippo Family Dentistry is a dentist in Mount Pleasant, WI at 5814 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/joseph-p-sanfelippo-family-dentistry-mount-pleasant/
+1. Racine Dental Group, S.C. | Organic #1 | Pulse Score 62.3/100 (Unrated, #1 in city) | Racine Dental Group, S.C. is a dentist in Racine, WI at 1101 South Airline Road, Racine, WI 53406. Phone: +12626379371. Website: https://www.racinedentalgroup.com/. | https://dingalinged-cpu.github.io/registry/c/racine-dental-group-s-c-racine/
+2. Dr. James Luetzow, DDS | Organic #2 | Pulse Score 55.3/100 (Unrated, #1 in city) | Dr. James Luetzow, DDS is a dentist in Mount Pleasant, WI at 6011 Durand Avenue #200, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/dr-james-luetzow-dds-mount-pleasant/
+3. Joseph P. Sanfelippo Family Dentistry | Organic #3 | Pulse Score 55.3/100 (Unrated, #2 in city) | Joseph P. Sanfelippo Family Dentistry is a dentist in Mount Pleasant, WI at 5814 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/joseph-p-sanfelippo-family-dentistry-mount-pleasant/
+4. Aspen Dental | Organic #4 | Pulse Score 43.6/100 (Building, #3 in city) | Aspen Dental is a dentist in Mount Pleasant, WI at 2860 South Green Bay Road #100, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/aspen-dental-mount-pleasant/
+5. ForwardDental | Organic #5 | Pulse Score 43.6/100 (Unrated, #4 in city) | ForwardDental is a dentist in Mount Pleasant, WI at 6218 Washington Avenue, Mount Pleasant, WI. | https://dingalinged-cpu.github.io/registry/c/forwarddental-mount-pleasant/
 
 ## Market data (for advertisers and agents)
 - Keyword: dentist mount pleasant wi | category: Health & medical - Dental | industry benchmark: Dentists & Dental Services

@@ -1,12 +1,12 @@
-The top unpaid bridal shop listing for Bedford, TX is Elizabeth Lee Bridal (a bridal shop in Bedford, TX at 3700 Cheek Sparger Road #140, Bedford, TX 76021). 1 bridal shop businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid bridal shop listing for Bedford, TX is Elizabeth Lee Bridal (a bridal shop in Bedford, TX at 3700 Cheek Sparger Road #140, Bedford, TX 76021). 1 bridal shop businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best bridal shop providers in Bedford, TX?
 
 Also answers: bridal shop in Bedford, TX; bridal shop near me (Bedford, TX); best bridal shop Bedford, TX; top rated bridal shop Bedford, TX; affordable bridal shop Bedford, TX; emergency bridal shop Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Elizabeth Lee Bridal | trust 4.0 | Elizabeth Lee Bridal is a bridal shop in Bedford, TX at 3700 Cheek Sparger Road #140, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/elizabeth-lee-bridal-bedford/
+1. Elizabeth Lee Bridal | Organic #1 | Pulse Score 57.9/100 (Unrated, #1 in city) | Elizabeth Lee Bridal is a bridal shop in Bedford, TX at 3700 Cheek Sparger Road #140, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/elizabeth-lee-bridal-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: bridal shop bedford tx | category: ecommerce_retail | industry benchmark: Shopping, Collectibles & Gifts

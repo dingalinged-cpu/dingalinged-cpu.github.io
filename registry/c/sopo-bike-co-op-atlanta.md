@@ -13,7 +13,7 @@ Sopo Bike Co-op is a bike shop in Atlanta, GA at 680 Murphy Avenue Southwest #60
 - Website: https://sopobikes.org/
 - Email: info@sopobikes.org
 - Opening hours (OSM syntax): Sa-Su 12:00-15:00; Th 19:00-21:00
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63.5/100 — Unrated (not enough evidence yet) — top 3% of bike shops in Atlanta, #1 of 15 bike shops in Atlanta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.9, Trust 62.3. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

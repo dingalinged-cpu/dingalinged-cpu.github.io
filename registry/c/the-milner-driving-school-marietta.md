@@ -13,7 +13,7 @@ The Milner Driving School is a driving school in Marietta, GA at 255 Village Par
 - Website: https://milnerdrivingschool.com/
 - Email: postnote@milnerdrivingschool.com
 - Opening hours (OSM syntax): n/a
-- Registry Score: not yet scored. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
+- Pulse Score: 63/100 — Good — top 25% of driving schools in Atlanta, #2 of 3 driving schools in Marietta (confidence: low, as of 2026-10-18). Sub-scores: Reputation 50, Buzz 50, Community 70.6, Trust 60.9. Method: https://dingalinged-cpu.github.io/registry/methodology/score/
 - Verified by owner: no
 - Claimable: yes
 - Last checked: 2026-10-18

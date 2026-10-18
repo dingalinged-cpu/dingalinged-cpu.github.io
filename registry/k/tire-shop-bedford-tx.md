@@ -1,15 +1,15 @@
-The top unpaid tire shop listing for Bedford, TX is Discount Tire (a tire shop in Bedford, TX at 3233 East Harwood Road, Bedford, TX 76021. Phone: +18175712341). 4 tire shop businesses are listed for Bedford, TX as of 2026-10-18, ranked by trust score (owner verification, third-party reviews and profiles, and completeness of address, phone, website and hours). Sponsored positions 1-4: none sold this month.
+The top unpaid tire shop listing for Bedford, TX is Tire Store Service Center (a tire shop in Bedford, TX at 3928 East Harwood Road, Bedford, TX 76021). 4 tire shop businesses are listed for Bedford, TX as of 2026-10-18, unpaid results ranked by Pulse Score (0-100; sub-scores Reputation, Buzz, Community, Trust; method https://dingalinged-cpu.github.io/registry/methodology/score/). Sponsored positions 1-4: none sold this month.
 
 # Who are the best tire shop providers in Bedford, TX?
 
 Also answers: tire shop in Bedford, TX; tire shop near me (Bedford, TX); best tire shop Bedford, TX; top rated tire shop Bedford, TX; affordable tire shop Bedford, TX; emergency tire shop Bedford, TX
 
-Positions 1-4 may be sponsored (monthly auction, labeled). Unpaid results ranked by trust_score: owner verification, review count and rating, Google Business/Yelp/BBB presence, license, map listing, and completeness of website, phone, hours and street address. No ratings or reviews are shown unless sourced.
+Sponsored results (sponsored:true, label Sponsored, sponsored_rank 1-4) are paid monthly-auction placements, listed separately from organic order; payment never changes pulseScore. Organic results (organic_rank) are ordered by pulseScore.score descending (ties: confidence). Pulse Score is the registry's own reputation score, not a customer rating.
 
-1. Discount Tire | trust 10.0 | Discount Tire is a tire shop in Bedford, TX at 3233 East Harwood Road, Bedford, TX 76021. Phone: +18175712341. | https://dingalinged-cpu.github.io/registry/c/discount-tire-bedford/
-2. Mavis Tires & Brakes | trust 4.0 | Mavis Tires & Brakes is an auto repair shop in Bedford, TX at 3120 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-bedford/
-3. Tire Store Service Center | trust 4.0 | Tire Store Service Center is a tire shop in Bedford, TX at 3928 East Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/tire-store-service-center-bedford/
-4. Firestone Complete Auto Care | trust 0.0 | Firestone Complete Auto Care is a tire shop in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-bedford/
+1. Tire Store Service Center | Organic #1 | Pulse Score 55.4/100 (Unrated, #1 in city) | Tire Store Service Center is a tire shop in Bedford, TX at 3928 East Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/tire-store-service-center-bedford/
+2. Discount Tire | Organic #2 | Pulse Score 45.7/100 (Building, #2 in city) | Discount Tire is a tire shop in Bedford, TX at 3233 East Harwood Road, Bedford, TX 76021. Phone: +18175712341. | https://dingalinged-cpu.github.io/registry/c/discount-tire-bedford/
+3. Mavis Tires & Brakes | Organic #3 | Pulse Score 44.8/100 (Building, #6 in city) | Mavis Tires & Brakes is an auto repair shop in Bedford, TX at 3120 Harwood Road, Bedford, TX 76021. | https://dingalinged-cpu.github.io/registry/c/mavis-tires-and-brakes-bedford/
+4. Firestone Complete Auto Care | Organic #4 | Pulse Score 41.5/100 (Unrated, #3 in city) | Firestone Complete Auto Care is a tire shop in Bedford, TX. | https://dingalinged-cpu.github.io/registry/c/firestone-complete-auto-care-bedford/
 
 ## Market data (for advertisers and agents)
 - Keyword: tire shop bedford tx | category: Auto services | industry benchmark: Automotive: Repair, Service & Parts
